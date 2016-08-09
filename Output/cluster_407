@@ -1,0 +1,27 @@
+Garage Sallaberry
+	Provider of automobile repair services. The company engages in the maintenance, repair and servicing of automobiles. The company also provides towing services for cars in the event of a breakdown.
+	['', 'repair services', ' ', 'breakdown services', ' ', 'towing services', ' garage']
+David Holmes BMW
+	Dealer of automobiles. The company sells Bayerische Motoren Werke (BMW) and Mini Cooper cars.
+	['', 'car dealer', ' ', 'car servicing', ' ', 'car showroom', ' ', 'Consumer Product', '']
+Autoquake
+	Provider of an online platform for buying and selling used cars. The company is engaged in the online retail operations of pre-owned and used cars, sports utility vehicles, vans, estate cars, convertibles and sports cars of various manufacturers.
+	['', 'used cars', ' ', 'online retail', ' ', 'buying and selling', '']
+NPC Springs
+	Manufacturer of high-strength industrial springs. The company manufacturers high-strength springs for railroads, cars and agricultural equipment.
+	['', 'springs', ' ', 'high-strength', ' ', 'railroad springs', ' ', 'car springs', '']
+Carsala
+	Provider of online research and negotiating services for used cars. The company uses Web technology, in conjunction with its own professional negotiators, to enable users to research and purchase used cars.
+	['', 'online business', ' ', 'car buying service', ' ', 'carfax report', '']
+Flexcar
+	Operator of car-sharing programs for its members in the U.S. The company operates a fleet of ultra low emission vehicles, gas-electric hybrids and environmentally-friendly sedans, AWD, minivans, and sports cars. It serves individuals, companies, and public agencies.
+	['', 'car sharing', ' ', 'auto sharing', ' ', 'car reservation', '']
+Portinvest
+	Operator of Zeebrugge port investment company which mainly handles trailers, containers, cars and forest products. The company has specializes in handling cargos of cars.
+	['', 'port investment', ' ', 'cargo of cars', ' ', 'forest products', '']
+Williams of Harrogate
+	Provider of online car brokering service through an online platform. The company engages in dealership of various used and new cars of various brands. It offers Drivestyle Connections, a platform for both private and trade buyers and sellers of luxury cars.
+	['', 'sports car', ' ', 'motor vehicles', ' ', 'luxury car', '']
+Aptera
+	Manufacturer of passenger vehicles. The company is a maker of high-efficiency vehicles. It offers three wheeler cars.
+	['', 'passenger vehicle', ' ', 'efficiency vehicle', ' ', 'three wheeler car', '']

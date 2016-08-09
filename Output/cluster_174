@@ -1,0 +1,21 @@
+MyBrands
+	Provider of an e-commerce clothing outlet. The company provides clothing for both men and women and offers a variety of designer brands. It also sells shoes and accessories.
+	['', 'designer clothing', ' ', 'e commerce', ' ', 'mobile shopping', '']
+The Fab Shoes
+	Provider of online retail of women\'s shoes, accessories and other personalized style items in Europe. The company provides an e-fashion club which features collections of shoes and accessories. It\'s designers prepare a personalized recommendation of trendy accessories that is adapted to the client\'s  style and advises them how to combine them.
+	['', 'online shopping', ' ', 'internet shopping', ' ', 'personalized style item', '']
+Franck Style
+	Provider of leather goods. The company provides retail services of leather goods.
+	['', 'leather goods', ' ', 'retail services', ' leather']
+Build A Bear Workshop
+	Provider of a storefront workshop where customers create their own teddy bear. The Company provides various types of animals to be stuffed; clothing, shoes and accessories for the stuffed animals and other appropriate toy and accessory items.
+	['', 'storefront workshop', ' ', 'teddy bear', ' ', 'stuffed animal', ' ', 'accessory item', '']
+Courseload
+	Provider of digital course material. The company offers an electronic version of any textbook on any computer at a discounted price as compared to the original price of  printed textbooks.
+	['', 'digital textbook', ' e-textbook e-text']
+Brandalley
+	Operator of an online outlet. The company markets a selection of items at a discounted price, which include clothing, shoes, accessories, leather goods, furniture, jewelry and homeware from past collections, surplus stocks or cancelled orders.
+	['', 'online outlet', ' ', 'online retail shopping', ' ', 'leather good', '']
+Tannerie de Villefranque
+	Operator of a leather processing company. The company engages in tanning, dressing and dyeing of leather. It offers various types of leather for shoes, accessories and furniture industries.
+	['leather ', 'leather tanning', ' ', 'leather dressing', '']
