@@ -1,33 +1,18 @@
-Bioapter
-	Manufacturer of biosensors for the healthcare industry. The company\'s product portfolio includes in situ bio-sensing equipment, aptamers and other DNA sequence identification devices.
-	['biosensor ', 'biotechnological equipment', ' aptamers']
-NomadIQ
-	Provider of location based applications services for handheld devices. The company offers a wireless service that enables subscribers to access and navigate the Internet, send and receive email messages, and conduct e-commerce transactions over handheld mobile devices.
-	['', 'location based application', ' ', 'site information', ' ', 'application development', '']
-Hantro
-	Provider of mobile video technology. The company provides hardware and software based MPEG4, H.263, H.264 and VC-1 video software specifically tailored for handheld devices. The company\'s product portfolio also includes video applications for video capturing, playback, messaging, streaming and telephony.
-	['', 'mobile video technology', ' MPEG4 ', 'video software', '']
-Inlet Technologies
-	Provider of encoding solutions. The company\'s products include Armada, a transcoding and encoding workflow system that eliminates the stove-pipes and manual steps; Spinnaker, a broadcast quality streaming solution; Fathom, an encoding platform for VC-1, Windows media, AVC, and flash files; and Semaphore, an automated quality control program for digital encoding. It provides its solutions for professional streaming, adaptive streaming, video-on-demand, IPTV, video on the Web, mobile video, reviewing dailies and rushes, broadband television, corporate communications and training, distance learning, and security and surveillance.
-	['', 'encoding solution', ' ', 'encoding workflow system', ' ', 'encoding platform', '']
-RipCode
-	Provider of realtime transcoding software for video clips and streaming. The company supports live mobile video or video on-demand transcoding for mobile and user generated content applications. It enables video to be dynamically transcoded and served to a customer on any screen size as they request it, giving viewers an expansion of content choices while reducing an operator’s server hardware, storage and energy use.
-	['transcode IPTV ', 'video on-demand', '']
-Mywavez
-	Provider of a platform for mobile video sharing. The company delivers web video entertainment directly to consumers cell phones.
-	['', 'mobile video sharing', ' ', 'web video entertainment', ' ', 'online video', '']
-Vine Labs
-	Provider of a video-sharing website. The company focuses on users capturing short video clips that can then be shared via their iPhone.
-	['', 'video sharing website', ' ', 'short video clip', ' ', 'video sharing', ' ', 'iphone application', '']
-W&W Communications
-	Developer of video compression software and hardware solutions for video-enabled consumer, professional, enterprise, and infrastructure platforms. The company’s products are used for video conferencing and telepresence, live video broadcast, video surveillance, and mobile telephony infrastructure video transcoding.
-	['', 'video compression software', ' ', 'video conferencing', ' ', 'video telepresence', ' ', 'live video broadcast', ' ', 'mobile telephony infrastructure', '']
-Intransa
-	Provider of appliance platform products. The company offers appliances and products for video surveillance, industrial video, access control, video analytics and other physical security needs.
-	['', 'video surveillance', '']
-Gotuit Media
-	Provider of metadata technology for optimizing the value of video libraries for professional content publishers. The company offers VideoMarker Pro, a metadata authoring application for publishers to package and present their broadband video libraries; and VideoMixer, which allows publishers to give their audience the ability to remix videos and produce new video experiences from manipulating the video metadata.
-	['', 'metadata technology', ' ', 'video metadata', ' videomixer videomaker  ', 'video manipulation', ' ', 'video library', ' ', 'video remix', '']
-Hoot.Me
-	Provider of an application that includes video communications which enables students to get help on homework via Facebook.
-	['', 'social networking', ' ', 'video communication', ' ', 'interactive knowledge network', '']
+ConjuChem
+	Developer of novel therapeutics with an initial focus on diabetes. The company makes use of its platforms namely drug affinity complex (DAC) and preformed conjugate drug affinity complex (PC-DAC) to develop new drugs, moreover the company is currently managing many research programs in-house and has one product in clinical development.
+	['diabetes ', 'growth deficiencies', '']
+Cartesia Dx
+	Developer of thermal/3D imaging system to quantify inflammation and to diagnose and manage rheumatoid arthritis. The company\'s technology also quantifies assessment of swelling and warmth in various diseases.
+	['', '3D imaging system', ' ', 'thermal imaging system', ' ', 'rheumatoid arthritis treatment', '']
+Merrimack Pharmaceuticals
+	Provider of commercialize medicines paired with companion diagnostics for the treatment of serious diseases, with an initial focus on cancer. The company develops MM-093, a human alpha-fetoprotein for the treatment of patients with rheumatoid arthritis and psoriasis and MM-121, a human monoclonal antibody and therapeutic to block signaling of the ErbB3 receptor.
+	['', 'commercial medicine', ' ', 'diagnostic treatment', ' cancer']
+BG Medicine
+	Developer of novel cardiovascular diagnostic tests. The company\'s product pipeline includes BGM Galectin-3, a diagnostic test for heart failure that measures galectin-3 levels in blood plasma or serum. It also offers TNF alpha blockers comprising Enbrel, Remicade and Humira, which are treatments indicated for autoimmune diseases, such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and Crohn’s disease.
+	['', 'diagnostic test', ' ', 'heart failure', ' ', 'cardiovascular test', ' ', 'lipid disorder', '']
+Ester Neurosciences
+	Developer of therapeutic products for the treatment of neurological disorders. The company provides novel therapeutic products for the treatment of neurological disorders such as myasthenia gravis, alzheimer disease, multiple sclerosis and acute stress reactions.
+	['', 'therapeutic product', ' ', 'neurological disorder', ' ', 'disease treatment', '']
+Viral Logic Systems Technology
+	Developer of novel therapeutics for the treatment of inflammatory and autoimmune disorders. The company\'s product is used for the treatment of rheumatoid arthritis, Crohn\'s disease, multiple sclerosis, lupus nephritis, mixed cryoglobulinemia, Wegener\'s granulomatosis and diabetes.
+	['', 'novel therapeutic', ' ', 'inflammatory disorder', ' ', 'autoimmune disorder', ' ', 'rheumatoid arthritis', ' ', 'multiple sclerosis', ' ', 'lupus nephritis', ' ', 'mixed cryoglobulinemia', '']

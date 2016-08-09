@@ -1,27 +1,33 @@
-Mobile Commons
-	Provider of a platform to create and manage mobile marketing campaigns. The company provides tools to reach people on mobile phones. It provides web based tools that provide functionalities like integrating mobile messaging into campaign strategy and website.
-	['', 'mobile marketing', ' ', 'mobile messaging', ' ', 'web based platform', '']
-Cloudtop
-	Provider of a software-application connection service. The company provides a software platform that enables users to connect, store and process any file from anywhere on the Internet. Users can connect their apps to more than a dozen online services, in 2 lines of code, and the software handles uploading of the files, delivering a short URL to store and to read from.
-	['', 'mobile app', ' ', 'cloud service', ' ', 'mobile tool', ' ', 'sync multiple services', '']
-Juice Wireless
-	Developer of mobile marketing programs. The company operates JuiceCaster, a mobile and online social media community that allows users to connect with friends, as well as post and share photos and videos from mobile phones.
-	['', 'mobile marketing program', ' ', 'social media community', ' ', 'mobile media', ' ', 'mobile photo sharing', '']
-KKing
-	Developer of karaoke application. The company offers a platform to upload and share karoke through mobile phones.
-	['', 'mobile app', ' ', 'karaoke application', '']
-Tedemis
-	Developer of personalized mobile marketing service. The company develops personalized mobile phones with integrated service portals.
-	['', 'personalized mobile marketing', ' ', 'service portal', ' ', 'marketing service', ' ', 'business software', '']
-ROAM Data
-	Developer of mobile application for tracking financial transactions. The company deliver real-time information and transactions to mobile professionals on their own mobile phones.
-	['', 'commerce gateway', ' ', 'mobile application', ' ', 'payment processor', '']
-Code Square
-	Provider of a mobile marketing platform to small and medium enterprises. The company allows businesses to leverage social engagement by rewarding customers for their loyalty. It also provides offline to online mobile services for businesses to engage and reward customers, connect via social media and lower acquisition costs.
-	['', 'mobile platform', ' ', 'medium enterprise', ' ', 'customer reward', '']
-Tiny Pictures
-	Operator of a mobile media-sharing site called Radar. The company\'s services help users to share mobile photos and videos to its site through e-mail and mobile messaging. It develops applications that enable users to share videos and images to others across mobile networks and social networking platforms.
-	['', 'mobile photo', ' ', 'media sharing', ' ', 'photo sharing', ' ', 'mobile video', ' ', 'mobile messaging', ' ', 'video sharing', ' ', 'social network', '']
-Styledon.com
-	Operator of a fashion networking site. The company operates a fashion and lifestyle website combining content, community and commerce. It offers insider editorials, designer profiles, curated content and also allows users to connect and share information with each other.
-	['', 'fashion networking', ' ', 'lifestyle website', ' ', 'fashion portal', ' ', 'fashion site', '']
+Lexy
+	Provider of telecommunication solutions. The company provides voice messaging, content sharing and audio listening services to networked devices.
+	['', 'voice messaging', ' ', 'telecommunication solutions', ' ', 'audio listening', '']
+Tiscali Telecom
+	Provider of internet services. The company provides broadband and narrow band internet services in France.
+	['', 'internet service', ' ', 'broadband service', ' ', 'narrow band internet', '']
+WCS Wireless-Licences
+	Provider of wireless telecommunication services. The company was formed to acquire and hold spectrum licenses in the WCS band.
+	['spectrum ', 'radio telephone', ' acquire']
+BVfon Telecommunications
+	Provider of telecommunication and payment applications for detention facilities. The company offers an information technology and communication system for handling and monitoring prisoners telephone conversations and retail shop payment system.
+	['', 'telecommunication network', ' ', 'payment application', ' ', 'detention facility', '']
+PCS One
+	Provider of telecommunications services. The company provides telecommunication services on personal basis.
+	['', 'communication service', '']
+Gogo
+	Provider of in-flight wireless internet services. The company is developing broadband services for both private and commercial aviation.
+	['', 'flight entertainment', ' ', 'internet service', ' ', 'wireless service', '']
+Signature Genomic Laboratories
+	Provider of molecular cytogenetic diagnostic services. The company offers diagnostic services, including pediatric and adult testing, and prenatal services, as well as FISH analysis of clinically relevant loci. The company also provides prenatal diagnosis services, interpretation with genome microarrays, and G-banded karyotype analysis services.
+	['', 'diagnostic service', ' ', 'cytogenetic diagnostic service', ' ', 'adult testing', ' ', 'pediatric testing', ' ', 'prenatal service', ' ', 'prenatal diagnosis', ' ', 'genome microarray', '']
+Erenis
+	Operator of optical fiber equipments to deliver telecommunication services in the French residential market. The company provides broadband telecommunication services and internet access for the development of new services resting on high-speed bandwidth.
+	['', 'fiber optic', ' ', 'communication services', ' ', 'residential service', ' ', 'high-speed bandwidth', '']
+Broadband IP
+	Provider of high-speed Internet services. The company offers a wide range of ISP services including wired and wireless Internet service and managed connectivity. It specializes in licensed and unlicensed wireless connectivity solutions for data, voice and video.
+	['', 'high speed Internet', ' ', 'wireless Internet service', ' ', 'unlicensed wireless connectivity', '']
+Omnicom
+	Provider of telecommunication services. The company provides telecommunication services including wireless internet services.
+	['', 'telecommunication service', ' ', 'wireless internet', ' ', 'information supply', '']
+Wireless Maingate
+	Provider of telecommunication services. The company works as a virtual mobile operator for wireless communication between machines (M2M) and a provider of message services.
+	['', 'wireless equipment', ' ', 'wireless communication equipment', ' ', 'communication between machine', '']

@@ -1,27 +1,39 @@
-Evomote
-	Provider of content discovery services. The company develops an online platform that helps in offering content discovery and recommendation services.
-	['', 'content discovery services', ' ', 'content platform', ' ', 'recommendation services', '']
-Frepar Networks
-	Developer of internet application software. The company also manufactures IT devices and provides content distribution services.
-	['', 'content distribution', ' ', 'internet application', ' ', 'internet application software', '']
-Dave Networks
-	Provider of integrated video distribution and social community platforms. The company utilizes the latest matrix distribution technology to deliver music, video and other information assets to consumer, corporate and commercial customers.
-	['', 'social community platforms', ' ', 'media platform', ' ', 'integrated video', '']
-Simpler Networks
-	Manufacturer of telecommunications equipment and software. The company specializes in automated distribution frames enabling copper loop management and also offers EZ-MDF, an automated main distribution frame hardware and software, which automates the labor-intensive process of manipulating central office and street cabinet distribution frames.
-	['', 'frame hardware and software', ' ', 'street cabinet', ' ', 'copper loop', ' ', 'telecommunication software', ' ', 'telecommunication equipment', ' ', 'application software', '']
-N Cash
-	Developer of Internet-content distribution technology for e-commerce. The company offers BillCrux, a software providing charging capabilities for purchasing products and using services on the Internet.
-	['']
-mobileo
-	Provider of content distribution services. The company offers an application for content distribution and location based services.
-	['', 'mobile app', ' ', 'content distribution', ' ', 'location based services', ' LBS']
-Punch
-	Provider of an application content management system (ACMS). The company can update Application content in real time, providing a publishing environment without the need of programmers.
-	['', 'publishing environment', ' ', 'management system', ' ', 'application content management', '']
-Adero
-	Provider of internet content and application services.  The company provides global content distribution services designed for web-based businesses
-	['', 'application services', ' ', 'content distribution services', ' ', 'internet content', '']
-M-Spatial
-	Provider of route guidance technologies to improve the usability of location-based services for mobile phones. The company specializes in the application of spatial intelligence within mobile portals and their associated content services.
-	['', 'route guidance', ' ', 'location-based services', ' ', 'spatial platform', ' ', 'spatial intelligence', '']
+ErgoNex Pharma
+	Developer of drug for Pulmonary Arterial Hypertension treatment and other treatments. The company develops the drug for treatment of diseases like high blood pressure, heart problems.
+	['', 'blood vessel', ' ', 'high blood pressure', ' ', 'drug development', '']
+Dscovered
+	Developer of a genetic algorithm for design. The company develops a genetic algorithm for design that simplifies creative processes. It also helps match clients with graphic designers who share their taste and style.
+	['', 'graphic design', ' ', 'genetic algorithm', ' ', 'designing platform', '']
+Rose Pharma
+	Developer of therapies for irritable bowel syndrome (IBS) and functional dyspepsia (FD). The company is focused on novel treatments for IBS and FD, with a platform technology that is based on a glucagon-like peptide (GLP-1).
+	['', 'irritable bowel syndrome', ' ', 'functional dyspepsia', ' ', 'peptide hormones', ' ', 'gastrointestinal diseases', '']
+Auris Medical
+	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
+	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
+DNA Direct
+	Provider of genetic guidance and decision support solutions for genetics that enable individuals and healthcare providers use genetic information to guide healthcare decisions. The company\'s solution include pre-test questionnaire, genetics call centers, personalized reports, clinical policy and compliance, and physician education and program customization services, as well as prenatal primer, a web-based interactive guide to prenatal testing options. It also offers tests and services for consumers, including screening tests, testing for genetic disorders, testing for drug response, genetic consultation, DNA storage, and paternity and family tests.
+	['', 'genetic guidance', ' ', 'genetic information', ' ', 'healthcare decision', ' ', 'genetic call center', ' ', 'screening test', '']
+ProstaLund
+	Developer of urological devices and treatments.  The company\'s principal product, CoreTherm, is a microwave therapy treatment for BPH (benign prostatic hyperplasia).
+	['bph urology prostate ', 'benign prostatic hyperplasia', ' coretherm ', 'urological device', '']
+FacetMed
+	Developer of bone fixation medical devices. The comapny\'s devices are focused on development of safer implants for posterior spine surgeries to treat disorders mainly in the aging population.
+	['', 'medical implant', ' ', 'spinal surgery', ' ', 'bone fixation', '']
+RepRegen
+	Developer of bio-active materials for orthopedic and dental applications. The company\'s products are used for bone grafting, hard tissue repair and regeneration.
+	['', 'bio-active materials', ' ', 'dental applications', ' ', 'bone grafting', ' ', 'tissue repair', ' ', 'tissue regeneration', '']
+Aires Pharmaceuticals
+	Developer of therapies for pulmonary vascular disorders. The company develops therapies to treat pulmonary vascular disorders such as pulmonary arterial hypertension and pulmonary hypertension due to heart failure.
+	['', 'pulmonary disorder', ' ', 'bacterial pulmonary', ' ', 'cystic fibrosis', '']
+Imaging Automation
+	Developer of technology for document authentication, biometrics and data collection. The company offers products used to authenticate identification documents such as passports, visas, national identification cards and driver\'s licenses. Its products are used in security applications in the government, travel and transportation industries.
+	['', 'document authentication application', ' ', 'biometrics application', ' ', 'data collection application', ' ', 'security application', '']
+Enobia Pharma
+	Developer of therapies to treat genetic bone disorders for which there are no approved treatments. The company’s products are used for the treatment of hypophosphatasia (HPP).
+	['', 'enzyme replacement', ' hypophosphatasia ', 'bone disorder', ' biotechnology ', 'bone mineralization', ' ', 'bone disease', '']
+Cellerix
+	Developer of medicinal products. The company\'s products are used for the treatment of gastroenterology, dermatology and immune-based diseases.
+	['', 'medicinal products', ' ', 'healthcare devices and supplies', ' ', 'life sciences', '']
+Algeta
+	Developer of novel targeted therapies for patients with cancer, based on its alpha-pharmaceutical platform. The company is focused to extend and improve cancer patient\'s lives by developing targeted therapies to fulfill unmet medical needs. It\'s lead product Alpharadin is used for treatment for cancer patients with bone metastases. They are also developing thorium targeted conjugates which are based on conjugating the alpha-emitter thorium-227 to tumor-targeting molecules.
+	['', 'cancer drug', ' ', 'targeted therapy', ' ', 'bone metastase', '']

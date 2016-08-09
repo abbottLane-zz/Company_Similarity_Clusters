@@ -1,15 +1,21 @@
-OnForce
-	Provider of a cloud-based platform to procure and manage independent IT workforces. The company provides a workforce-as-a-Service (WaaS) technology that gives companies access to a pool of independent IT professionals throughout the U.S. and Canada. The company\'s technology enables employers to manage independent relationships, and is designed to mitigate potential exposure related to the misclassification of the independent professional as a company employee.
-	['', 'on site technology', ' ', 'technology service', ' ', 'human resource software', '']
-Chakpak Media
-	Provider of an information on Indian cinema. The company offers information on movies, film personalities, wallpapers, videos, news, discussion forums and quizzes.
-	['', 'Indian cinema', ' ', 'movies information', ' ', 'movie personality', ' discussion']
-Frontera Films
-	Operator of a film studio. The company produces independent feature films in a range of genres, then turns the finished product over to a film distributor for domestic and international release.
-	['', 'film making', ' ', 'independent films', '']
-Marine Cybernetics
-	Provider of independent hardware-in-the-loop testing of control systems on ships and offshore installations. The company provides thrust capacity analysis for various weather conditions, thrust failures, thrust locations and thrust vendors.
-	['', 'hardware testing', ' ', 'offshore installation', ' ', 'control system', '']
-Withoutabox
-	Provider of independent film community. The company focuses on independent film and artists.
-	['', 'online service', ' film artist']
+SmartRM
+	Developer of encryption software that allows users to protect and share digital content, such as documents, audio and video files. The company operates an open-source, interoperable DRM platform based on the MPEG-21 standard. The company\'s software prevents unauthorized printing, copying and sharing, sets time limits on file use, tracks file users and helps keep control of files even after they are sent.
+	['', 'encryption software', ' ', 'digital contents', ' ', 'unauthorized printing', ' tracking']
+SKY MobileMedia
+	Provider of application and platform software for wireless handset industry. The company provides multimedia technologies put into use in the iPhone OS which provides access to audio and video capabilities of the devices working on the OS. It provides softwares such as SKY-MAP, SKY-MMF, SKY-IMS, SKY-SYNC and SKY-VM which supports all wireless handset systems to operate.
+	['', 'multimedia technologies', ' ', 'platform software', ' ', ' iPhone', ' ', 'wireless handset', ' OS']
+VitalStream
+	Provider of products and services that enable the digital broadcast of audio and video content and other communications via the Internet. The company\'s mix of services and technology enable businesses to leverage the global reach of the Internet to distribute their media content to targeted audiences worldwide.
+	['', 'audio streaming', ' ', 'video streaming', ' ', 'media hosting', ' ', 'consulting services', '']
+VuCast Media
+	Developer of technology to create private wireless data broadcasting networks over unused licensed RF spectrum in existing frequencies. The company offers mobile device technology to wirelessly broadcast rich media content to e-readers, media players and mobile phones; digital display services to simultaneously deliver images, audio and video to home, office and retail picture frames, monitors and outdoor displays.
+	['', 'wireless data broadcasting', ' ', 'broadcasting network', ' ', 'content management', ' ', 'disaster management', '']
+Advestigo
+	Provider of digital asset protection and copyright recognition software. The company offers AdvestiGATE, an audio and video fingerprinting software that detects the copyrighted nature of audio and video files, enables their distribution on UGC sites and avoids posting of unauthorized contents.
+	['', 'asset protection', ' ', 'copyright recognition', ' ', 'video fingerprinting', ' ', 'unauthorized content', ' copyrighted']
+LTU Technologies
+	Provider of scalable image recognition software. The company provides a software for content-based search, retrieval and classification of images and video.
+	['', 'scalable image', ' ', 'image recognition', ' ', 'image classification', '']
+Sofratev
+	Provider of audio, video and broadcast solutions for Hz, Satellite and web customers.
+	['audio, video, broadcast, satellite, web']

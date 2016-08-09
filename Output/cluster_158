@@ -1,111 +1,60 @@
-GoInstant
-	Developer of shared web-browsing tool. The company\'s unique co-browsing tool allows two or more people to surf the web at the same time with no downloads, plugins or installs. It helps to share a web experience in real- time.
-	['', 'shared web browsing', ' plugin ', 'web experience', ' ', 'browsing tool', ' ', 'web browsing', '']
-Dapper
-	Provider of an advertising technology platform for creating dynamic display advertisements. The company provides a platform built on machine learning, intent exploration, sophisticated matching algorithms and real-time automated optimization which delivers dynamically assembled, intent-driven display ads that drive increased relevance and performance.
-	['', 'advertising technology platform', ' ', 'display adverts', ' ', 'display advertising', ' ', 'advertisement platform', ' ', 'web applications', ' ', 'semantic web', '']
-Allerez
-	Provider of web-based information, real-time and disparate data sources. The company integrates disparate data sources in real-time, providing user-centric reporting and analytics.
-	['', 'web based information', ' ', 'real time data', ' ', 'disparate data source', ' ', 'centric reporting', ' ', 'reporting analytic', '']
-Comenta TV
-	Operator of a real time social television guide for Latin America and Brazil. The company operates an online social platform which hosts real time television shows in Latin America and Brazil.
-	['', 'real time', ' ', 'television show', ' ', 'television guide', '']
-Flotype
-	Developer of real-time messaging technology. The company builds  developer-friendly technologies focused on ease-of-use and simplicity. It licenses its enterprise-grade middleware, Bridge, to customers ranging from social web and software enterprises to financial and fleet management groups. Other offerings include NowJS, a free, open-source framework, for developers seeking real-time interactivity on Node.js and JavaScript browsers; and NowCluster for companies seeking scalability for NowJS applications.
-	['', 'real time messaging', ' ', 'real time communication', ' ', 'enterprise grade communication', '']
-Realtime Technology
-	Provider of three dimensional visualization technology. The company provides a technology platform enabling its clients to explore novel approaches toward real-time digital experience across all of a product\'s life cycle, from design and development to marketing and sales applications.
-	['', 'dimensional visualization', ' ', 'three dimensional realtime', ' visualization']
-Zettics
-	Provider of mobile analytic and measurement applications. The company offers a monitoring and analytics tool that enables real-time visibility and analytic across web, video and messaging applications.
-	['', 'data analytic', ' ', 'measurement application', ' ', 'analytics tool', '']
-Zoom Information Systems
-	Developer of transportation software and systems solutions for city, county and state governments, DOTs and the traveling public. The company\'s web-based assessment tools and software enables companies to collect and process information from people, public infrastructure and vehicles on the road in real time.
-	['', 'transportation software', ' ', 'process information', ' ', 'systems solutions', ' ', 'assessment tools', ' web-enabled']
-Ball-IT
-	Provider of real-time wireless sensing solutions. The company is the provider of enabling devices and modules, as well as core software components for implementing consumer-level user interfaces. It sells its products through a worldwide network of senor and wireless-technology vendors.
-	['', 'sensor technology', ' ', 'wireless sensor', ' ', 'user interface', '']
-RUN
-	Provider of a real time advertising management platform. The company provides an advertising software platform which enbles users to advertise across multiple channels, including mobile, tablet, desktop and television.
-	['', 'real-time bidding', ' ', 'audience targeting', ' ', 'programmatic advertising technology', '']
-Net Effect Systems
-	Provider of services to the e-commerce market. The company provides solution that enables real-time, text-based conversations between e-businesses and their customers.
-	['text-based chat real-time']
-E-glue Software Technologies
-	Provider of real-time customer interaction management solutions. The company specialized in providing Real-Time Decisioning and Agent Guidance Solutions. The company offers InterAct suite, which performs information extraction from data source; InterAct executive suite, which enables users to set and communicate interaction management objectives based on business strategies; InterAct supervisor suite, which provides a view of interaction management performance from shift to shift; InterAct business expert suite, which is designed for the trained system user, and used to edit and input business rules to the system; and InterAct designer suite, which is used to create the base-level instructions for the decision engine.
-	['', 'Customer Interaction Management Solutions', ' ', 'Agent Guidance Solutions', ' ', 'Call Center', '']
-ShareGrove
-	Provider of an online conversations platform. The company\'s platform allows its users to select friends from Facebook (and other networks) and to engage them in real time, or over time, through a single Web interface.
-	['', 'online conversations platform', ' ', 'friend selection platform', ' ', 'web interface', '']
-Tinkercad
-	Provider of an interactive simulation environment by a supercomputer. The company enables design engineers and analysts to run fidelity simulations in real time while interacting with their model. The product is cloud based with a browser interface.
-	['', 'interactive simulation environment', ' ', 'fidelity simulation', ' ', 'browser interface', '']
-Herd Wisdom
-	Provider of an on demand assessment services. The company offers software as a service platform and marketplace for authoring, deployment and integration of assessment tools enabling consultants, test providers, and companies to deploy hiring, development and succession management products.
-	['', 'assessment service', ' ', 'assessment tool', ' ', 'succession management', '']
-FlowSense
-	Developer of urine monitoring system. The company enables real-time, continuous monitoring of urine output for the optimization of fluid management and acute renal care. The company\'s product provides clinicians with early assessment of fluid balance and renal condition which can improve patient outcomes.
-	['', 'urine monitoring', ' ', 'fluid management', ' ', 'renal care', ' urine']
-CodeEval
-	Provider of a technical screening platform for the auto evaluation of programming challenges. The company enables employers to identify promising candidates from a crowd of applicants by creating challenges and viewing their live coding submissions and helps freelancers/developers to sharpen their skills by competing with their peers.
-	['', 'hacker platform', ' ', 'recruit developer', ' ', 'technical screening', '']
-Telogy Networks
-	Developer of asymmetric digital subscriber line semiconductors. The company\'s golden gateway software enables its customers to develop connected products that send real-time voice, fax and data over packet networks.
-	['', 'Asymmetric Digital Subscriber Line', ' semiconductors']
-Shepherd Intelligent Systems
-	Provider of real-time fleet management software services. The company offers a suite of software tools that provide real-time vehicle locations, predicted arrival times and route management analyses by using real-time GPS data to passengers and managers of public transportation and municipal systems.
-	['', 'fleet management', ' ', 'software solution', ' ', 'route management', ' ', 'municipal system', '']
-HStreaming
-	Provides of services and consulting for real time data streaming and processing. The company\'s technology delivers performance to companies, academia and governments with data and low-latency requirements.
-	['', 'data streaming', ' ', 'data processing', ' ', 'online data', '']
-Infoharmoni
-	Provider of data visualization services. The company aggregates content, people, relationships and express them visually in real time.
-	['', 'data visualization', ' ', 'visualization services', ' ', 'real time', '']
-Akubio
-	Provider of acoustic detection systems for real time analysis of bio-molecular behavior. The company develops acoustic biosensor instrument products for use in protein research and drug development.
-	['', 'drug discovery', ' ', 'acoustic biosensor', ' ', 'biomolecular interactions', ' ', 'detection technology', ' ', 'protein interactions', '']
-Coderloop
-	Provider of real-time coding assessment platform.
-	['', 'automated code evaluation', ' ', 'real time coding', ' ', 'puzzle solving', ' ', 'coder community', '']
-Pintail Technologies
-	Developer of real-time adaptive test technology for semiconductor manufacturing companies. The company offers SwifTest, an on-line adaptive test modules that run directly on the automated test equipment (ATE), and capture and analyze data in real-time; and TestScape, an optional database system, which accepts data in real-time from SwifTest and supports various data management applications.
-	['', 'adaptive test technology', ' ', 'online adaptive test', ' ', 'database system', ' ', 'data management application', '']
-Ripfire
-	Developer of integration software. The company integrates search, personalization, categorization and marketing analytics into a single, real-time data for e-commerce and content sites.
-	['', 'integration software', ' ', 'marketing analytics', ' ', 'web analytics', '']
-Hipbone
-	Provider of real-time web interaction services for online sales and support. The company\'s products enable support center personnel to simultaneously view the same image of a Web page with prospects and customers while communicating with them using VoIP.
-	['', 'web interaction service', ' ', 'web page sharing', ' ', 'online purchasing', '']
-Tenzen
-	Developer of product-distribution technology. The company is a developer of interactive coding equipment (ICE) used to track distribution of products and and packaging.
-	['', 'product tracking', ' ', 'interactive coding equipment', ' ICE ', 'distribution technology', '']
-ParStream
-	Developer of real-time database technology. The company\'s platform helps companies generate timely, actionable insights from IoT data by providing new and differentiated ways to analyze streaming and historical data.
-	['', 'graphic processing unit', ' ', 'hybrid network architecture', ' ', 'web analytics', ' ', 'real time', '']
-Apptitude
-	Developer of a embedded internet traffic analysis platform. The company provides a wire speed application recognition technology that provides fully granular, real time application visibility on enterprise networks.
-	['', 'internet traffic', ' ', 'analysis platform', ' ', 'enterprise network', '']
-Leftronic
-	Provider of a real time data visualization and status monitoring platform. The company develops a software which helps users to monitor metrics in real time through online business dashboards.
-	['', 'data visualization', ' ', 'status monitoring', ' ', 'business dashboard', '']
-DocVerse
-	Developer of real time sharing and simultaneous group-editing services of Microsoft PowerPoint, Excel and Word documents. The company offers DocVerse, a download plug-in that turns the Microsoft Word, PowerPoint and Excel applications into Web-enabled collaboration tools.
-	['', 'group editing service', ' ', 'document sharing tool', ' ', 'collaboration tool', '']
-Acta Technology
-	Provider of a real-time data integration software platform. The company provides batch and real-time data integration platform for the extraction, transformation, and loading (ETL) segment.
-	['', 'data integration platform', ' real-time']
-Luminate Software
-	Provider of internet-based systems management platform. The company offers Mamba, a real-time monitoring and alerting software; and Luminate.Net, an automatic problem identification service delivered over the internet.
-	['', 'real time software', ' ', 'problem identification service', ' ', 'internet based management', '']
-TurbiSense
-	Provider of in-line real time turbidity measurement equipment for the pharmaceutical industry and related applications. The company\'s equipment assists in accurately measuring liquids with air bubbles.
-	['pharmaceutical ', 'turbidity measurement', ' robot']
-Vollee
-	Provider of PC and console-quality games on 3G mobile devices with a development & porting process. Their hosted software platform is designed to enable intelligent adaptation and real-time delivery of commercial games.
-	['', 'video gaming', ' ', 'porting process', ' ', 'intelligent adaptation', '']
-Geomerics
-	Developer and provider of graphics technology to customers in the games and entertainment industries. The company\'s product, Enlighten, is used to monitor lightening in real-time gaming.
-	['', 'graphics technology', ' ', 'computer game', ' ', 'entertainment industry', '']
-WebMessenger
-	Provider of enterprise mobile messaging software. The company offers mobile real-time presence VoIP, and collaboration products for enterprises and workers.
-	['', 'enterprise messaging service', ' ', 'messaging software', ' ', 'mobile communication', '']
+MMIC Solutions
+	Developer of technology for systems operating in the millimeter wave bands (50 GHz to 250 GHz). The company develops, manufactures and supplies products for use in security, detection and high-bandwidth communication equipment. The company\'s products include mechanical interfaces, direct detection receivers and "conncetorized" modules.
+	['', 'advanced materials', ' ', 'wave applications', ' down-convertor bandwidth ', 'wave bands', '']
+Elastix
+	Provider of technology that lowers the power used by digital integrated circuits. The company offers elastic clocks that helps in reducing on-chip power consumption.
+	['', 'elastic clocks', ' ', 'elastic voltage scaling', ' on-chip ', 'power consumption', '']
+Sinewave Energy Technologies
+	Developer of power-modulation systems. The company researches and develops sinewave power-control products based on its patented, ultra-high-speed power-switching technology. The company\'s products include digital sinewave lighting dimmers for high intensity discharge (HID) and fluorescent lighting.
+	['', 'light dimmer', ' ', 'power modulation', ' ESD HID ', 'lighting products', '']
+Qspeed Semiconductor
+	Manufacturer of silicon power semiconductor devices for power supplies, inverters, motor control and other power applications. The company also offers power diodes.
+	['', 'silicon power semiconductor', ' ', 'power diodes', ' ', 'motor control', '']
+Exclara
+	Developer of digital power management platforms for solid state lighting solutions. The company offers small LED driver solutions for volume LED applications.
+	['', 'digital power management', ' ', 'lighting solution', ' ', 'led driver', ' ', 'led application', '']
+Gnodal
+	Developer of a technology that improves performance and power in data centers. The company\'s technology aims to significantly reduce power usage and running costs.
+	['', 'systems design', ' ', 'data technology', ' ', 'data centre', '']
+Gecko Alliance
+	Manufacturer of electronic controls. The company offers systems, controls, pumps, audio, accessories and bath products.
+	['', 'temperature setting', ' ', 'electronic button', ' pump']
+Inverpower Controls
+	Manufacturer of power electronics modules and advanced high-speed digital controls. The company manufactures products for use in industrial power supply, power conversion and power quality systems.
+	['', 'electronic module', ' power']
+Nidecon Technologies
+	Designer and manufacturer of power-quality filtering technology for renewable energy and motor drives. The company creates its products based on a proprietary inductive design concept enabling it to reduce filter sizes. In addition, its products utilize integrated liquid cooling and forced-air cooling technologies.
+	['', 'filtering products', ' ', 'inductive components', ' ', 'motor products', ' ', 'energy products', ' filters']
+Camstar
+	Provider of enterprise manufacturing execution and quality systems. The company makes manufacturing execution systems (MES) software for such industries as semiconductors, biotechnology, electronics, medical devices, and outsourced operations.
+	['', 'system software', ' ', 'outsourced operation', ' ', 'quality system', '']
+Nokian Capacitors
+	Manufacturer of power system components and capacitors. The company manufactures equipment and systems for reactive power compensation and harmonic filtering.
+	['capacitors ', 'system component', ' filtering']
+SemiSouth Laboratories
+	Manufacturer of high-voltage silicon-carbide semiconductor devices. The company specializes in the development and manufacturing of silicon carbide materials and electrical components for high-power, high-efficiency, harsh-environment power management and conversion applications.
+	['', 'semiconductor device', ' ', 'silicon carbide', ' ', 'electronics material', ' ', 'harsh environment electronic', '']
+Planet ATE
+	Supplier of fabless semiconductor for the manufacturers of automatic test equipment. The company manufactures "System on a Chip" (SoC) integrated circuits that combine all analog functions required to construct digital channel, DUT Power supply, PMU and VI.
+	['', 'Digital Channel', ' ', 'DUT Power Supply', ' PMU VI Semiconductor chips']
+Photonic Power Systems
+	Provider of power over optical fiber. The company provides EMI and RFI immune electrical power to remote locations with no electrical wire. The company’s products include photovoltaic power converters and modules, optically powered data links and high power optical data systems, which are used in  medical, electric power, sensor and wireless markets.
+	['', 'optical fiber', ' ', 'photovoltaic power', ' sensor']
+Ideal Power
+	Developer of power converters. The company develops and manufactures disruptive electronic power converters. It also offers electronic power converters for renewable energy generation, electrical energy efficiency, smart power grids and electric vehicles. The company also provides photovoltaic inverters and battery converters for grid storage and electrified vehicle fast charging infrastructure, such as peak demand reduction in commercial and industrial markets, utility load shifting, buffering EV fast chargers and bi-directional EV DC chargers. In addition, it offers hybrid power conversion systems and power switches.
+	['', 'PV Inverters', ' ', 'Battery Converters', ' ', '3-Port Hybrid Converters', ' ', 'Bi-polar', ' inverters']
+PulseWave RF
+	Provider of semiconductor components for wireless power amplifiers. The company offers Class M Power technology, a digital multi-carrier power amplifier module that simplifies the design for transmitters and provides the scalability required for various power level configurations, including fail-soft operation.
+	['', 'semiconductor component', ' ', 'wireless power amplifier', ' ', 'amplifier module', ' ', 'digital multi carrier', '']
+Pentadyne Power
+	Manufacturer of flywheel clean energy storage systems for energy recycling applications. The company\'s power system engineering features a high-speed composite flywheel, fully-active magnetic bearings and an integrated vacuum system. This combination provides significant advantages including reliability, operating costs and footprint. The Pentadyne flywheel system delivers 120 kW of instant, precise electrical power for up to 20 seconds.
+	['', 'storage system', ' ', 'clean energy', ' clean-tech ', 'energy recycling application', '']
+Silicon Power
+	Provider of semiconductor devices, pulsed-power modules and utility-applicable systems. The company offers semiconductor components, which include rectifier type diodes and thyristorsm, phase control and line commutation devices, pulse power application device and phase modules. It offers its products for use in commercial, industrial, defense and national power applications.
+	['', 'semiconductor device', ' ', 'pulsed-power module', ' ', 'utility-applicable system', ' ', 'semiconductor component', ' ', 'line commutation device', '']
+Calypto Design Systems
+	Provider of power optimization and functional verification software services. The company offers PowerPro CG that reads in an RTL design and evaluates circuit behavior in various clock cycles to identify sequential clock gating enable conditions; PowerPro MG, an automated memory power optimization service that reduces dynamic and leakage memory power; and PowerPro-filer, a Linux utility that calculates clock-gating efficiency, as well as the percentage of registers clock gated in a RTL design block.
+	['circuit ', 'functional verification', ' ', 'electronic system', '']
+CyberPower Systems
+	Designer, manufacturer and marketer of Uninterruptible Power Supply (UPS) systems. The company offers line of emergency battery backup systems for computer systems, electronics and telecommunication equipment.
+	['', 'emergency battery', ' ', 'backup system', ' uninterruptible']

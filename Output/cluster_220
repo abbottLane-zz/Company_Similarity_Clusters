@@ -1,33 +1,45 @@
-Potomac Research Group
-	Provider of Washington policy analysis to institutional investors. The company provides market technical analysis and Washington policy for Wall Street. It also provides analysis of federal legislative activities and regulatory policies helps institutional investors determine Washington’s impact on industry.
-	['', 'research firm', ' ', 'information provider', ' analytic']
-Net.Genesis
-	Provider of software and services that empower companies to understand, optimize and accelerate their online businesses. The company\'s flagship product, net.Analysis, is a Web site analysis solution, offering analytical power, reporting, scalability and enterprise support.
-	['', 'online business', ' ', 'enterprise support', ' ', 'website analysis', '']
-Decision Team - Software
-	Developer and distributor of data-mining tools for workflow in the oil industry. The company is the provider of intelligent reservoir surveillance software called DECIDE!, which captures, analyzes and transforms historical and real-time production data into actionable operational decisions.
-	['', 'data mining', ' ', 'E&P sector', ' ', 'oil industry', ' ', 'real-time data', '']
-CompanDX
-	Developer of in-house data analysis algorithms to identify patterns in healthcare datasets. The company applies its technology to clinical-trial and medical-sample data to find disease markers and help drug developers in creating approved drugs.
-	['', 'data analysis', ' ', 'healthcare data', ' ', 'medical sample', ' algorithms SaaS']
-Spotfire
-	Provider of interactive, visual data analytics applications and services. The company\'s analytic application, offers an interactive, visual approach to data analysis that empowers individuals to see trends, patterns, outliers and unanticipated relationships in data.
-	['', 'data analysis', ' ', 'visual data analytics', ' ', 'analytics application', '']
-SAW Instruments
-	Manufacturer and distributor of analysis biosensors for the life sciences industry. The company developes equipments which allows the label free analysis of molecular biomolecular interactions and combines stability and ease of use with high sensitivity.
-	['', 'Healthcare services', ' ', 'Pharmaceutical services', '']
-Neovest
-	Developer of proactive intelligent technology solutions. The company provides technology that allows buy and sell-side communities to leverage an integrated suite of pre-trade analytics and order entry functionality to achieve best execution within today’s fast-paced and fragmented electronic markets. The company provides products and technologies that enable fast and efficient delivery of market data from multiple sources and drive real-time data analysis and decision support.
-	['', 'software technology', ' ', 'broker-neutral financial technology', '']
-Datahero
-	Provider of a platform that helps users to analyze, visualize and understand data. The company offers data analysis tools for users to import internal data, store it in a spreadsheet format, link multiple sources and create data dashboards to track various types of information.
-	['', 'data analysis tool', ' ', 'database platform', ' ', 'data dashboard', '']
-PharmaDM
-	Provider of data analysis software and services. The company offers data analysis, data mining, and text mining software and services for researchers in life sciences, with a focus on drug discovery.
-	['', 'data analysis', ' ', 'text mining software', ' ', 'data mining', '']
-6th Sense Analytics
-	Provider of software solutions for automated collection and analysis of software engineering process and product data.
-	['', 'software engineering', ' ', 'engineering software', ' ', 'data collection', ' ', 'automated data collection', ' ', 'data analysis', '']
-Signal Data
-	Provider of proprietary retail analytic software platform. The company offers analytic, operational data and mapping analysis to assess the quality of U.S.-based retailers locations on a comprehensive and updated basis.
-	['', 'analytic software platform', ' ', 'mapping analysis', ' ', 'analytic platform', ' ', 'data analytic software', '']
+Advasense Technologies
+	Developer of image sensor technologies. The company offers technologies used in improving the image quality of cameras used in mobile applications.
+	['', 'CMOS image sensor', ' CMOS ', 'image sensor', '']
+Foveon
+	Developer of an image sensor technology for digital capture products. The company offers pixel image sensors; and direct image sensors that captures color in three layers. It also serves prosumer, amateur and consumer markets and its core product is Foveon X3 which is a direct image sensor.
+	['', 'image sensor technology', ' pixel ', 'digital capture', ' camera']
+Picasa
+	Provider of image organizer and image viewer or organizing and editing digital photos.
+	['', 'image organizer', ' ', 'image viewer', ' ', 'digital photo editing', ' ', 'photo editing', ' ', 'digital photos', ' ', 'multimedia organization', ' ', 'online images', ' multimedia']
+Imagelock
+	Provider of web-enabled digital image asset monitoring services. The company provides protection and management services and provides customers with instant access to information about the use and misuse of their digital image assets on the internet.
+	['', 'monitoring service', ' ', 'security service', ' ', 'digital image security', ' ', 'digital asset protection', '']
+Coverity
+	Provider of source code analysis tools for identifying software defects in the software development life cycle. The company’s products includes a prevent static analyzer, a static analysis tool that creates a visualization of software, including an architecture map, call graph visualization and a dependency structure matrix.
+	['', 'source code', ' ', 'analysis tool', ' ', 'software defect', ' ', 'security vulnerability', ' ', 'software development', '']
+BioArray Solutions
+	Developer of a technology for rapid biomolecular analysis that combines microparticle chemistry, semiconductor physics and image analysis. The company\'s BeadChip products and systems for molecular immunohematology are used in pre-transfusion characterization of recipients and donors of blood transfusions in hospitals and donor centers.
+	['', 'biomolecular analysis', ' ', 'pre-transfusion characterization', ' ', 'blood transfusions', ' ', 'image analysis', ' developer']
+Scimagix
+	Provider of image informatics solutions for the pharmaceutical and biotech industries. The company offers proprietary and patent-pending technology for mining scientific images through visual information retrieval (VIR). This technology enables scientists to quantitatively extract, store and mine image data for the first time and has applications in all phases of the pharmaceutical new product cycle as well as other areas of the life sciences, medical and material science industries.
+	['', 'healthcare services', ' ', 'informatics solutions', ' ', 'visual information', '']
+UltraVisual Medical Systems
+	Developer of medical image distribution and visualization software. The company offers visualization technologies for use in primary diagnosis, clinical review and image distribution applications in hospitals, imaging centers and private radiology practices with comprehensive image management needs.
+	['', 'medical image distribution', ' ', 'medical image', ' ', 'visualization software', '']
+OculusAI
+	Provider of image validation services. The company develops software for automatic face detection and face recognition in images and video.
+	['', 'image verification', ' ', 'image validation', ' ', 'image software', ' ', 'Vertical Market Software', ' image']
+Neocleus
+	Developer of endpoint visualization technology for enterprise IT departments. The company offers NeoSphere, an extensible client virtualization platform that ties existing PC management systems with advanced visualization technology.
+	['', 'visualization technology', ' ', 'client visualization platform', ' ', 'enterprise information', '']
+Voxar
+	Developer of medical imaging software. The company develops a visualization and display platform for life-critical applications which allow medical experts to view images in clear and in 3 dimensional.
+	['', 'medical imaging', ' visualization ', '3 dimensional view', '']
+Watermark Software
+	Provider of image storage and processing software. The company integrates scanned paper documents and faxes with applications such as e-mail, databases, spreadsheets,and accounting software.
+	['', 'multimedia software', '']
+Siimpel
+	Provider of optical micro systems solutions. The company offers Autofocus that corrects for variations in the distance to the object and variations in the lens with temperature; and Shutter that corrects for image distortion and/or blurring when objects are moving, as well as enables dark image subtraction for picture quality in low light conditions.
+	['', 'optical microsystems solution', ' ', 'MEMS sensor', ' ', 'MEMS platform technology', ' ', 'digital imaging', ' ', 'integrated micro-optical system', '']
+Flashfoto
+	Developer of image workflow automation and other multimedia software. The company specializes in services including image workflow automation, entertainment, advertising, marketing and transmedia experiences.
+	['', 'image workflow automation', ' ', 'multimedia software', ' ', 'media application', '']
+Tenzen
+	Developer of product-distribution technology. The company is a developer of interactive coding equipment (ICE) used to track distribution of products and and packaging.
+	['', 'product tracking', ' ', 'interactive coding equipment', ' ICE ', 'distribution technology', '']

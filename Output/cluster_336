@@ -1,21 +1,27 @@
-Salient Pharmaceuticals
-	Developer of drugs for the treatment of multiple inflammatory gastrointestinal conditions. The company develops a proprietary compound intended for use in treating severe diarrhea associated with chemotherapy, chronic conditions, infectious diseases and other drug therapies.
-	['', 'drug compound', ' ', 'gastrointestinal disease', ' ', 'radiation therapy', ' ', 'gastrointestinal treatment', '']
-IDEC Pharmaceuticals
-	Developer of products for the treatment of cancer and autoimmune diseases. The company was founded with the intent of developing and commercializing monoclonal antibodies. The company looks to find patient specific approaches in treating non-Hodgkin\'s lymphoma.
-	['', 'cancer and autoimmune disease', ' ', 'treating lymphoma', ' ', 'patient specific', ' ', 'monoclonal antibody', '']
-Gloucester Pharmaceuticals
-	Developer of cancer therapeutics. The company develops romidepsin, a histone deacetylase inhibitor and oncology drug candidate for T-cell lymphomas, as well as for the treatment of hematologic malignancies. It also develops treatments for hematological cancers, including cutaneous T-cell lymphoma, peripheral T-cell lymphoma, and multiple myeloma.
-	['', 'cancer therapy', ' ', 'hematological cancer treatment', ' ', 'cancer drug', '']
-Affimed Therapeutics
-	Developer of unique TandAb antibody therapeutics for cancer and inflammatory diseases. The company offers anticancer drug candidates, including AFM13, a bispecific and tetravalent human antibody to treat Hodgkin Lymphoma, AFM11 and AFM15 for the treatment of Non-Hodgkin Lymphoma and autoimmune diseases.
-	['', 'inflammatory diseases', ' antibody Lymphoma']
-Cabrellis Pharmaceuticals
-	Developer of therapies for the treatment of cancer. The company\'s product includes synthetic anthracycline drug for small cell and nonsmall cell lung cancers in Japan. It also has drug commercialization rights in North America and Europe.
-	['', 'cancer treatment', ' ', 'lung cancer treatment', ' ', 'drug commercialization', '']
-BioInvent
-	Developer of antibody-based drug therapies for the treatment of cancer. The company has a pipeline of three proprietary antibodies focused on treatment for multiple myeloma, non-Hodgkin lymphoma and medulloblastoma.
-	['', 'antibody drugs', ' ', 'drug developer', ' ', 'multiple myeloma', ' ', 'non-Hodgkin lymphoma', '']
-Automated Cell
-	Developer of antibody therapeutic antibodies for the treatment of oncology and immune disease. The company is focused on the development of monoclonal antibody therapeutics for the treatment of cancer.
-	['', 'antibody therapeutic', ' ', 'therapeutic treatment', ' ', 'oncology disease', ' ', 'immune disease', ' ', 'monoclonal antibody', '']
+LZ Therapeutics
+	Developer of therapeutics for patients at different stages of Parkinson’s disease. The company provides neuroprotective/neurorestoritive therapies for early-stage Parkinson’s disease (PD), a combination therapy with levodopa-enhancing and anti-dyskinesia effects designed for mid-stage PD patients and gene therapies for advanced PD patients.
+	['', 'parkinson therapeutic', ' ', 'neurorestoritive therapy', ' ', 'anti dyskinesia effect', ' ', 'gene therapy', '']
+Civitas Therapeutics
+	Developer of respiratory drug delivery therapies. The company has developed a program in Parkinson’s disease that leverages the ARCUS respiratory delivery platform. CVT-301, Civita\'s other lead program, is being developed for the treatment of debilitating and unpredictable motor fluctuations associated with Parkinson’s disease.
+	['biopharmaceutical ', 'pulmonary delivery therapy', ' ', 'pulmonary technology', ' ', 'Parkinson’s disease', ' ', 'respiratory drug delivery', ' ', 'respiratory therapy', ' ', 'pulmonary therapy', '']
+Edge Therapeutics
+	Provider of therapeutic products for acute, fatal and debilitating medical conditions. The company develops implantable technology for direct delivery of therapeutic compounds to the site of brain injury.
+	['', 'healthcare service', ' ', 'biotechnology service', ' ', 'hospital product', '']
+Besunyen Holdings Company
+	Provider of therapeutic tea products in China. The company is engaged in the development, production, sales and marketing of therapeutic tea and other health food products.
+	['', 'brand awareness', ' ', 'food product', ' ', 'laxative products', '']
+GeneGrafts
+	Provider of therapeutic products. The company manufactures therapeutic products to treat cardiac arrhythmia, Parkinson\'s disease and epilepsy.
+	['', 'therapeutic product', ' ', 'cardiac arrhythmia treatment', ' ', 'epilepsy treatment', '']
+Cantab Pharmaceuticals
+	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
+	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
+Xcyte Therapies
+	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
+	['', 'drug discovery', '']
+EP Technologies
+	Developer of invasive catheter-based diagnostic and therapeutic systems to diagnose and cure patients suffering from tachyarrhythmias. The company manufactures radiofrequency ablation products to treat cardiac arrhythmia. It develops minimally invasive catheter-based diagnostic and therapeutic systems to diagnose and cure patients suffering from tachyarrhythmias.
+	['', 'therapeutic system', ' ', 'radiofrequency ablation product', ' ', 'cardiac arrhythmia', ' tachyarrhythmias']
+Prometheus Laboratories
+	Developer of diagnostic and therapeutic products. The company developing and commercializing novel pharmaceutical and diagnostic products to help physicians individualize patient care. It markets and promotes Entocort EC, a glucocorticosteroid, which is indicated for the induction and maintenance of clinical remission in mild to moderate active Crohn\'s disease involving the ileum and/or the ascending colon. It has an agreement to acquire rights to LOTRONEX tablets, which is used in female patients with diarrhea-predominant irritable bowel syndrome; and an agreement to develop and commercialize COLAL-PRED, a development-stage product for the treatment of gastrointestinal diseases or other applications.
+	['', 'therapeutic product', ' ', 'diagnostic testing service', ' ', 'inflammatory disease treatment', '']

@@ -1,18 +1,15 @@
-Brand New Brands
-	Developer of food and beverage products. The company makes food and drink products that provide health benefits beyond basic nutrition. It is developing a prenatal nutrition bar that includes calcium, folic acid and omega fatty acids.
-	['', 'health product', ' ', 'beverage product', ' ', 'nutrition research', ' ', 'functional food', '']
-Theralogix
-	Provider of health benefits of certain nutrients to their patients. The company develop nutritional supplements which they could recommend to their patients.
-	['', 'nutritional supplement', ' ', 'health care', ' ', 'reproductive health', '']
-FitKit
-	Provider of personal nutrition. The company provides personal nutrition on subscription.
-	['', 'healthcare industry', ' ', 'nutritional capsule', ' ', 'lifestyle quiz', '']
-EatingWell
-	Publisher of a consumer magazine, food and nutrition-related books, a Website and e-mail newsletters. The company offers EatingWell Magazine, a tool designed to guide people about eating; a website that delivers the concentration of healthful recipes and food and nutrition content on the Web and cookbooks. It also provides cookbooks, phone applications, and printable coupons, as well as cooking, kitchen, and table products online. In addition, it offers nutrition advice and information tools via consumer magazine prints, trade books, Web, newsletters, and electronic media.
-	['', 'consumer magazine', ' ', 'nutrition content', ' cooking ', 'recipe collection', ' ', 'food guide', ' ', 'phone application', '']
-Vitaflo
-	Provider of clinical nutritional products. The company develops specialized clinical nutrition products for metabolic disorders, nutrition support and specific health conditions such as kidney disease. The company sells its products online as well as through mail order.
-	['', 'clinical nutritional product', ' ', 'nutritional product', ' ', 'metabolic disorder', '']
-Origin Foods
-	Developer of food ingredients. The company develops processes to enrich food with health-promoting omega-3 fatty acids.
-	['', 'food ingredients', ' ', 'omega-3 fatty acids', ' ', 'fatty acids', ' nutrition']
+Class Connect
+	Provider of lesson crowd-sourcing tool for teachers. The company provides an online platform which enables teachers to find, build and share lesson plans.
+	['', 'crowd-sourcing tool', ' ', 'educational services', ' ', 'educational and Training', '']
+Guaranteach
+	Provider of online math classes for students, parents, and teachers. The company offers streaming videos in the areas of fundamentals, basic math, fractions, decimals, measurement, pre algebra, probability, geometry, trigonometry, linear algebra, calculus, and processes.
+	['', 'online math tutorial', ' ', 'assessment tool', ' ', 'online math class', '']
+CrowdHall
+	Provider of audience moderated town halls. The company provides an online platform that enables participants to question and share ideas with guests who range from celebrities and politicians to technology experts and fitness personalities.
+	['', 'online forum', ' ', 'discussion group', ' ', 'guest host', '']
+Socrative
+	Provider of an intelligent student response system. The company empowers teachers to engage & assess the class with educational activities on laptops, smartphones and tablets.
+	['', 'student response system', ' ', 'blended learning', ' ', 'e learning', '']
+Always Prepped
+	Developer of education software focused on classroom data management for the K-12 marketplace. The company\'s software aggregates and analyzes student classroom performance, attendance and behavior metrics from several online programs in a single dashboard for teachers.
+	['', 'student data', ' ', 'education data', ' ', 'education platform', '']

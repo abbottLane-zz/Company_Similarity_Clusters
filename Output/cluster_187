@@ -1,21 +1,45 @@
-Lore
-	Provider of a cloud-hosted education service for instructors to manage courses and engage their students. The company offers tools for gradebook, file management, communication and calendaring with social networking features that enable students to communicate with each other.
-	['', 'online education', ' ', 'education platform', ' ', 'online course', ' ', 'course management', ' ', 'file management', '']
-Cloudup
-	Provider of an online education platform that provides classrooms with collaborative real-time tools, interactive communities, shared content, educational applications, and classroom management solutions. The company also provides administrative tools to manage students, classes, and teachers through a permissions system.
-	['', 'education platform', ' ', 'interactive community', ' ', 'educational application', ' ', 'classroom solution', ' ', 'administrative tool', '']
-Guroo
-	Provider of an online education platform. The company provides online and offline learning resources including videos to engage students in the learning tasks.
-	['', 'online education platform', ' ', 'education platform', ' ', 'online learning resource', '']
-Demonstrate
-	Provider of brand activation and communication related services. The company offers equity storytelling campaigns related services both online and offline.
-	['', 'brand marketing', ' ', 'brand communication', ' ', 'field marketing', ' ', 'online marketing', '']
-LingleOnline
-	Operator of an online educational platform. The company provides an online learning platform which allows English language teachers and learners to generate learning materials from news articles.
-	['', 'English language learning', ' ', 'lesson plan', ' ', 'language processing', '']
-Teach the People
-	Provider of a platform for online education. The company serves as a Facebook application that lets anyone with specific subject knowledge or a useful skill set share it by setting up a Teach the People learning communities with 1gig of free storage. The learning communities provide educators and students with all the standard learning management system tools that are standard on existing systems (Blackboard, Moodle) and some not so standard like video chat and VOIP.
-	['', 'Online Education', ' ', 'Facebook Application', '']
-Lance Entertainment
-	Distributor of online and offline videos, focusing on crime drama and murder mystery genres. The company acquires, positions, packages and releases on DVD previously produced films and mini-series.
-	['', 'online video', ' ', 'offline video', ' ', 'crime drama', ' ', 'murder mystery genre', ' ', 'produced film', '']
+Pictos Technologies
+	Provider of semiconductor and imaging products. The company designs, manufactures and markets digital imaging semiconductor products for digital camera and mobile imaging appliance markets.
+	['', 'imaging products', ' ', 'digital imaging', ' ', 'digital images', '']
+Eyesquad
+	Developer of an imaging technology. The company engages in the design and development of digital auto-focus and optical zoom systems for camera phones and other electronic products.
+	['imaging ', 'auto-focus', ' ', 'lens module', '']
+Pure Digital Technologies
+	Developer of digital imaging solutions for the mass market. The company offers one-time-use digital cameras and video camcorders, as well as point and shoot camcorders.
+	['', 'flip video', ' ', 'digital camcorder', ' ', 'digital camera', ' ', 'video camcorder', ' ', 'flip camera', ' ', 'digital imaging', '']
+Oxford Imaging Detectors
+	Developer of scientific imaging detectors. The company offers products for studying structures and processes at the atomic level. It offers instruments for electron microscopy, x-ray and machine vision.
+	['', 'imaging detectors', ' ', 'electron microscopy', ' x-ray']
+Scalado
+	Operator of a mobile imaging company. The company develops software for creating, presenting and transferring image-based digital information.
+	['', 'mobile imaging', ' ', 'digital information', ' ', 'still imaging', '']
+Sierra Imaging
+	Developer of a digital image management platform. The company provides digital camera components, embedded imaging chips, firmware and imaging application software.
+	['', 'digital image platform', ' ', 'embedded imaging chip', ' firmware']
+Cameraworld.com
+	Provider of online shopping site for photographic equipment and digital imaging. The company is a retailer of brands such as Canon, Fuji, Kodak, Nikon, Olympus, Panasonic, Pentax and Sony.
+	['', 'photographic equipment', ' ', 'video product', ' ', 'video accessory', '']
+RotaryView
+	Developer of mobile applications for e-commerce websites. The company enables the users to shoot, upload and post high quality 360 degree views in under five minutes using RotaryView\'s free mobile app or any digital camera, compared to purchasing expensive industry equipment.
+	['', 'mobile apps', ' ', 'software support services', '']
+RealTimeImage
+	Developer of robust web-based imaging products and services for Healthcare. The company provides a platform for e-commerce between commercial print companies and their customers and companies and advertising agencies.
+	['', 'imaging products', ' ', 'graphic arts', ' e-commerce radiology orthopaedics']
+Meikle Automation
+	Provider of the systems integrate platform for manufacturing of components in the organization. The company provides conceptualizes, designs, manufactures, markets and supports custom equipment systems for use in the assembly, test and overall manufacturing of components in the automotive, life sciences, photonics and electronics industries.
+	['', 'system integrate platform', ' ', 'design service', ' ', 'virtual world', ' assembly']
+Kirtas Technologies
+	Provider of digital scanning services. The company has developed a digital imaging technology that automates the scanning of bound documents. The company also provides BookScan editor software for individual and batch processing of page capture and indexing.
+	['', 'digital scanning', ' ', 'imaging technology', ' ', 'bound documents', ' ', 'BookScan editor', ' indexing ', 'batch processing', '']
+ALIS Corporation
+	Developer of scanning ion microscopes and imaging systems for the semiconductor and pharmaceutical sectors. The company created a helium ion technology that enables scientists to see at the atomic level with resolution and material contrast.
+	['', 'microscopes', ' ', 'imaging systems', ' ', 'semiconductor', '']
+IPIX
+	Provider of imaging solutions for commerce, communication, and security applications in the United States and internationally. The company\'s solutions create, process, and manage various media, including still images, 360 by 360 degree immersive images, and video. It offers cameras kits, software tools, services, infrastructure, and training to support immersive imaging. It operates in two segments, Immersive Video Products and Immersive Still Photography Products.
+	['', 'commerce imaging solution', ' ', 'security application', ' ', 'still image', ' ', 'still photography', '']
+OrthoScan
+	Provider of orthopedic imaging devices. The company produces medical devices that are used in the imaging of extremities in orthopedic surgery and for digital diagnostic imaging in the office.
+	['', 'orthopedic imaging', ' ', 'orthopedic surgery', ' ', 'orthopedic device', '']
+Pix.com
+	Retailer of digital imaging products. The company sells online gift items personalized with digital images.
+	['', 'digital imaging', ' ', 'online gifts', ' graphics ', 'picture gifts', '']

@@ -1,24 +1,21 @@
-SNTech
-	Manufacturer of electric motors. The companies electric motors are used in ventilation, refrigeration, aftermarket applications, heating and cooling applications, such as furnaces, air handlers, heat pumps and air conditioners.
-	['', 'electric motor', ' ', 'cooling application', ' ', 'electric motor manufacturer', '']
-Integrated Energy Services
-	Provider of commercial and industrial heating, ventilation and air conditioning systems. The company also installs, renovates and do maintenance services of commercial and industrial products.
-	['', 'B2B Services', ' ', 'commercial products', '']
-Meptek
-	Manufacturer of ventilation systems. The company provides ventilation systems for homes, office and commercial buildings. Its products include air diffusers, cooker hoods, ceiling fans and ventilation systems.
-	['', 'heat exchange', ' ', 'climate system', ' ', 'ventilation systems', '']
-Adura Technologies
-	Provider of wireless lighting and energy management systems. The company provides lighting control service for new and retrofitted commercial buildings.
-	['', 'lighting management', ' ', 'energy management', ' ', 'lighting control', ' ', 'energy saving', '']
-Aperio Technologies
-	Provider of digital pathology systems. The company provides systems for hospitals, reference labs and pharmaceutical and research institutions.
-	['', 'digital pathology system', ' ', 'reference lab software', ' ', 'clinical application', ' pathology']
-Intella Interventional Systems
-	Developer of balloon catheters and guide wires for coronary angioplasty. The company\'s products include interventional vascular products, including guide wires, balloon-on-a-wire systems, rapid exchange systems, over-the-wire systems and stent delivery systems.The company supplies its products to cardiologists, physicians and surgeons.
-	['', 'balloon catheters', ' cardiologists']
-Airxchange
-	Manufacturer of energy recovery ventilation products and components. The company offers energy recovery ventilators, integrated packages, air handler options, wall mounts and packaged units. The company also provides field replacement services.
-	['', 'energy recovery', ' ', 'energy recovery ventilation', ' ', 'recovery ventilator', ' ', 'air handler', ' ', 'wall mount', '']
-InGrid Solutions
-	Provider of software for residential heating, ventilation and air conditioning contractors. The company streamlines day-to-day business processes of construction trade contractors, allowing them to digitize records, report on business performance and improve customer service through cloud software.
-	['', 'residential heating', ' ', 'business processes', ' ', 'cloud software', ' ', 'record digitalization', '']
+Targanta Therapeutics
+	Developer of innovative antibiotics to treat serious infections in the hospital and other institutional settings. The company develops antibiotics for the treatment of serious gram-positive bacterial infections, including complicated skin and skin structure infections.
+	['biopharmaceutical ', 'skin infection', ' ', 'bone infection', ' antibiotic']
+NanoAntibiotics
+	Developer of antibiotics to treat multi drug resistant bacterias. The company engages in the discovery, development and commercialization of antibiotics.
+	['', 'antibiotic treatment', ' ', 'drug resistant bacteria', ' ', 'nano technology', '']
+Penederm
+	Developer of products for the treatment of dermatologic disorders based on its topical delivery technology. The company\'s products are Mentax cream for the treatment of fungal infections of the skin such as athlete\'s foot, ringworm and groin fungus and Avita cream for the treatment of acne.
+	['', 'dermatologic disorders', ' Mentax ', 'fungal infections', ' ringworm ', 'anti fungus cream', ' acne']
+RQx Pharmaceuticals
+	Developer of broad spectrum small molecule antibiotics. The company\'s antibiotics are developed for life threatening infections, including those caused by multi drug-resistant Gram-negative bacteria.
+	['', 'antibiotic developer', ' ', 'drug resistant infection', ' ', 'broad spectrum antibiotic', ' ', 'molecule antibiotics', ' ', 'life threatening infections', ' ', 'healthcare industry', '']
+Cempra Pharmaceuticals
+	Developer of medicines for curing bacterial infections. The company discovers and develops differentiated medicines that cure bacterial infections. It develops antibiotics to treat multi-drug resistant bacterial infections.
+	['', 'bacterial infection', ' ', 'infection treatment', ' ', 'infection medicine', ' ', 'drug resistant bacteria', ' ', 'bacterial antibiotics', '']
+Achaogen
+	Developer of antibacterial therapies for treating multi-drug resistant (MDR) infections. The company is focused on the discovery, development and commercialization of antibacterials to treat MDR gram-negative infections. Its lead product candidate is plazomcin, designed to treat serious bacterial infections due to MDR Enterobacteriaceae, including carbapenem-resistant Enterobacteriaceae, or CRE.
+	['', 'bacterial infection', ' ', 'antibiotic resistant', ' ', 'antibacterial compound', ' ', 'drug-resistant', '']
+Ansata Therapeutics
+	Operator of a biopharmaceutical company focused on dermatologic treatments. The company develops peptide-based topical antibiotics for skin issues.
+	['', 'peptide-based', ' ', 'antibiotic product', ' ', 'topical medication', ' ', 'skin infection', ' ', 'pharmaceutical product', '']

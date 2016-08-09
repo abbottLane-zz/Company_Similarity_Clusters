@@ -1,66 +1,33 @@
-Signature Labs
-	Developer of a mobile shopping assistant and shopping application. The company provides a way to make connections and share discoveries of new products and services.
-	['', 'shopping assistant', ' ', 'shopping application', ' ', 'mobile shopping', ' ', 'product sharing', ' ', 'service sharing', '']
-SocialStudio
-	Developer of a mobile application. The company\'s application enables users to creates collaborative videos by compiling multiple videos into a single clip.
-	['', 'video builder application', ' ', 'collaborative video', ' ', 'video making application', ' ', 'video platform', '']
-Directr
-	Provider of a mobile application for creating videos. The company\'s application provides users with the ability to create movies on their phones.
-	['', 'video application', ' ', 'movie creation', ' ', 'video editing', ' ', 'mobile video', '']
-Klip
-	Developer of a mobile application. The company\'s application allows users to share videos with others.
-	['', 'mobile video streaming', ' ', 'mobile video sharing', ' ', 'mobile video editing', ' ', 'mobile video platform', '']
-Streamweaver
-	Developer of multi-angle mobile video application. It allows users to record videos together with their friends. The videos can then be combined to show multiple angles simultaneously in a single split-screen video.
-	['', 'mobile video application', ' ', 'multi angle video', ' ', 'split screen synchronicity', '']
-Emerald Exam
-	Developer of an exam administration software. The company\'s application offers paperless exams to address the many issues that arise with hand-written examinations and also prevents cheating.
-	['', 'hand-written examinations', ' examination ', 'examination software', ' ', 'paperless exams', '']
-Hallo
-	Developer of a social voice application. The company offers a software which enables users to record and share voice messages.
-	['', 'mobile app', ' ', 'social voice app', ' ', 'voice messages', ' ', 'voice chats', '']
-ReallyLateBooking
-	Provider of a mobile application for last minute hotel bookings. The company\'s mobile application enables users to make reservations at hotels on the same day at a discounted deal.
-	['', 'hotel bookings', ' ', 'discounted deal', ' ', 'last minute bookings', ' ', 'smartphone applications', '']
-Jotspot
-	Provider of wiki based application. The company enable users to create, publish and share collaborative and personalized wiki applications which include project manager, for managing projects; bug reporter, for tracking bugs; live, for group note taking; and a blogging application.
-	['', 'wiki applications', ' ', 'bug reporter', ' blog']
-HopStop.com
-	Developer of a mobile application for pedestrian-friendly directions and information. The company is the creator of a mobile application that provides door-to-door transit, walking, biking, taxi and hourly car-rental directions in more than 300 cities. It is available for mobile phones and tablets.
-	['', 'driving software', ' ', 'driving application', ' ', 'location based software', ' ', 'subway directions', '']
-ShopSavvy
-	Developer of mobile shopping comparison application. The company develops a mobile application that allows consumers to scan UPC, EAN or QR barcodes to obtain in-store price comparisons and inventory information spanning local and online retailers.
-	['', 'mobile shopping', ' ', 'shopping comparison', ' ', 'barcode scanner', ' ', 'mobile commerce', '']
-Collective.li
-	Developer of a multimedia social platform. The company offers a mobile application which enables users to uploaded images, videos and share in the form of a digital magazine.
-	['', 'digital magazine', ' ', 'share photos', ' ', 'share videos', '']
-TrustGo Mobile
-	Developer of free mobile security application. The company\'s application provides virus protection to find and eradicate applications that can compromise user\'s personal data and privacy. It allows mobile device users to search, monitor, detect and prevent harmful applications and protect mobile devices.
-	['', 'mobile security application', ' ', 'virus protection', ' ', 'personal data privacy', ' ', 'mobile device protection', ' ', 'melware detection', '']
-Swarm
-	Developer of a mobile application for retailers. The company\'s application enables brick and mortar retailers to engage with in store shoppers and provides shopper interaction analytics.
-	['', 'retailer mobile-application', ' ', 'mobile shopping', ' ', 'price comparison', ' ', 'customer engagement', ' ', 'customer analytic', '']
-Writewith
-	Developer of a writing application. The company enables users to write, edit and publish a document with group.
-	['', 'writing application', ' ', 'document publishing', ' editing']
-SimpleHoney
-	Provider of a mobile application. The company offers its users with an application to make their wish list of the places and things they wish for and  provide shopping packages accordingly.
-	['', 'wish list', ' ', 'mobile product', ' ', 'mobile shooping application', '']
-SmartThings
-	Provider of a platform that enables customers to install connected devices and control them through a single mobile application. The company provides a kit that allows everyday objects, such as light switches and door locks, to be controlled through a smartphone application.
-	['', 'connected product platform', ' ', 'connect product', ' ', 'wireless control', ' ', 'wireless monitoring', ' ', 'online monitoring', ' ', 'online control', ' ', 'remote control', ' ', 'remote operation', ' ', 'remote monitoring', ' ', 'smart home', '']
-Airseed
-	Developer of a platform providing consumer data-focused tools, analytics and intelligence. The company has created a software platform that for developers provides rich intelligence and analytics on consumer users of the product. For consumers, the company provides a mobile application that automatically finds upcoming flights and enables simple flight checkins. The application also enables users to share travel itineraries with friends and family.
-	['', 'developer platform', ' ', 'consumer data', ' ', 'software platform', '']
-Rockpack
-	Provider of a video-curation application. The company is the developer of a mobile application for video downloads, curating video content from around the Web and enabling users to create their own channels for receiving it.
-	['', 'video curation application', ' ', 'video platform', ' ', 'curate video', ' ', 'share collection', '']
-Impulcity
-	Developer of a mobile application that helps users to find local concerts and events in the city. The company\'s application alerts users to nearby events, based on their preferences, and provides a social network for sending out invites and sharing real-time content and photos.
-	['', 'personalized guide', ' ', 'location based event', ' ', 'mobile device', ' finder']
-Ubida Solutions
-	Provider of dial-in auto rickshaw service. The company offers a mobile application that enables users to book global positioning system tracked auto-rickshaws across India.
-	['']
-Chief Technology Advisors
-	Creator of social media application enabling users to share opinions, enhanced by mood indicators. The company is the creator of a mobile application that enables users to tag an emotion with each post, by selecting a representative mood color for the tag. The application allows Facebook and Twitter integrations.
-	['', 'social media application', ' emotion ', 'share opinions', '']
+Fanbase Media
+	Provider of an online almanac of athletes. The company provides an online database of college and professional athletes.
+	['', 'athlete data', ' almanac ', 'online database', ' ', 'professional athletes', '']
+Clan Match Exchange Good Game
+	Provider of online gaming services. The company provides server exchange and tournament registrations for different online games.
+	['', 'game server', ' ', 'online gaming services', ' server ', 'tournament registration', '']
+Bettermeans
+	Provider of technology platform enabling founders to build companies collaboratively. The company provides a web platform where people can start and run projects in an open and democratic way.
+	['', 'web platform', ' ', 'project management', '']
+Oculus VR
+	Provider of online gaming related services. The company offers virtual reality hardware, software and services for online gaming. The company\'s flagship product is Oculus Rift, a virtual reality headset that creates a stereoscopic 3D experience.
+	['', 'video game', ' ', 'virtual reality', ' ', 'gaming headset', '']
+Nurien Software
+	Developer and operator of social networking and online gaming services. The company provides casual games which enables users to express their individual  identities by offering user-created 3D objects and avatars that  interact and network amongst each other via virtual worlds and the web.
+	['', 'interactive avatars', ' ', 'casual gaming', ' ', 'online gaming platform', '']
+CVCertify
+	Provider of an online recruiting service. The company provides an online work history certification platform designed to enable applicants to validate specific career accomplishments throughout the course of their careers.
+	['', 'online recruiting', ' ', 'online work', ' ', 'online certification', ' ', 'work history', ' ', 'job posting', '']
+ICE Entertainment
+	Operator of an online gaming platform. The company focuses on developing MMORPG game for the China and Asia markets.
+	['', 'online game', ' MMORPG ', 'casual games', ' ', 'game developers', '']
+PreEnroll
+	Provider of online registration services.
+	['', 'online registration', ' ', 'registration service', '  ', 'registration software', '']
+Gamepot
+	Provider of an online gaming platform. The company provides online games through its web platform and mobile applications.
+	['', 'gaming platform', ' ', 'web game', ' ', 'platform software', '']
+Gaikai
+	Provider of online gaming service. The company\'s cloud-based gaming technology allows users to play major PC and console games.
+	['', 'online gaming', ' ', 'gaming technology', ' ', 'gaming network', ' ', 'game application', ' ', 'cloud based gaming', '']
+LittleCast
+	Provider of an eCommerce platform for video producers and their audiences. The company allows its users to sell their videos directly to audiences on Facebook and mobile devices using mobile applications and web platform.
+	['', 'eCommerce platform', ' ', 'video distribution', ' ', 'mobile video sale', '']

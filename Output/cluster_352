@@ -1,18 +1,30 @@
-SmartRM
-	Developer of encryption software that allows users to protect and share digital content, such as documents, audio and video files. The company operates an open-source, interoperable DRM platform based on the MPEG-21 standard. The company\'s software prevents unauthorized printing, copying and sharing, sets time limits on file use, tracks file users and helps keep control of files even after they are sent.
-	['', 'encryption software', ' ', 'digital contents', ' ', 'unauthorized printing', ' tracking']
-SugarSync
-	Provider of cloud file sharing, online Backup & file sync service. The company provides services such as data sync, file sharing and online backup system through its business software for busy professionals and digitally-connected consumers.
-	['', 'business service', ' ', 'online backup', ' ', 'folder sharing', '']
-Mobiliti
-	Developer of software for virtual networking, data backup and file synchronization for desktops and laptops.
-	['', 'virtual networking', ' ', 'data backup', ' ', 'technology solution', '']
-Mozy
-	Provider of online backup system for Windows and Mac users. The company provides service to up data continuously, manually or schedule updates.
-	['', 'online backup', ' ', 'manual backup', ' ', 'backup storage space', ' ', 'remote backup', '']
-Lasso Logic
-	Provider of data protection software. The company\'s product CDP includes local and off site backup, file sharing, recovery features and administration for desktops, mobile PCs and servers.
-	['', 'data protection software', ' ', 'file sharing platform', ' ', 'data recovery', '']
-Cortex
-	Maker of tools for sharing of online content and multimedia.
-	['', 'content sharing', ' ', 'multimedia tool', '']
+Portes Patio Résiver
+	Manufacturer of polyvinyl chloride doors. The company produces polyvinyl chloride doors and windows in Canada.
+	['', 'polyvinyl chloride door', ' ', 'polyvinyl chloride window', ' ', 'sliding window', ' ', 'Home Furnishing', '']
+Calista Technologies
+	Provider of desktop computing technology services. The company offers Calista Virtual Desktop, a platform that virtualizes the Windows desktop supporting the Windows XP and Windows Vista platforms.
+	['', 'desktop virtualization solution', ' ', 'Virtual Desktop', ' ', 'desktop supporting', '']
+Producteev
+	Provider of a platform for task management applications. The company provides applications for individuals and teams connected to Mac, Windows Desktop, Web, iPhone, Android and instant messenger.
+	['', 'task management', ' ', 'team communication', ' ', 'team management', ' ', 'individual network', '']
+EPiCON
+	Developer of software platforms that enable application service providers (ASPs) and enterprises to manage the life-cycle of desktop applications and application components from a central server on the Internet. The company\'s products include a software platform, which enables enterprises, and information technology departments to target applications to users based on central policies; deploy applications and application components to Windows personal computers (PCs) without overloading the network; and install applications and components automatically on PCs, without intervention from the PC users.
+	['', 'software platform', ' ', 'desktop application', ' ', 'application component', '']
+Immidio
+	Developer of virtualization technologies in the Microsoft Windows environment. The company provides end-users with a personalized and dynamic Windows desktop that is adapted to their situation based on aspects like role, device and location.
+	['workspace virtualization ', 'enterprise application', ' ', 'virtualization technology', '']
+ScriptLogic
+	Provider of network administration software for Microsoft Windows-based networks. The company offers active directory, application, desktop, incident, server, SQL server, and vulnerability management solutions. It also provides Patch Authority Ultimate, an enterprise-class patch management solution; and Desktop Authority, a desktop lifecycle management solution. In addition, the company offers Security Explorer, a graphical solution for real-time management of access controls and security on workstations across the enterprise.
+	['', 'network administration software', ' ', 'patch management solution', ' ', 'desktop lifecycle management', '']
+Bluebeam Software
+	Developer of software for paperless workflows that leverages the PDF format. The company provides a platform for desktop and tablet users to create, view, markup, and edit PDF files. The company provides Bluebeam PDF Revu Standard Edition, a PDF solution for use in MS Office, Windows, and tablet PCs; Bluebeam PDF Revu CAD Edition, a professional PDF solution for use in AutoCAD, SolidWorks, and Windows; Bluebeam Conversion Server, a server-based software solution for companies to centrally control PDF creation from source files; and Studio, a solution for digitally collaborating on PDF drawings and documents in real-time.
+	['', 'collaboration software', ' pdf ', 'pdf format', '']
+Heliotrope Technologies
+	Developer of materials and manufacturing processes for electrochromic devices. The company has a primary emphasis on manufacturing energy-saving windows.
+	['', 'commercial services', '']
+GreenBytes
+	Developer of virtual desktop visualization. The company delivers patented desktop virtualization that maximize the effective performance and capacity of existing infrastructure.
+	['', 'desktop virtualization', ' ', 'virtual desktop', ' desktop']
+FSlogic
+	Developer of methods for managing files and applications on Windows PCs. The companies products enhance the value of Windows-based computer solutions in single and multi user open access environments. It empower the user\'s experience and reduce total cost of ownership for the customer by decreasing system maintenance and administrative complexity.
+	['', 'managing file', ' ', 'computer solution', ' ', 'system maintenance', ' ', 'administrative complexity', '']

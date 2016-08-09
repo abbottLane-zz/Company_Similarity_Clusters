@@ -1,12 +1,42 @@
-Xlumena
-	Developer of image-guided therapeutic endoscopy products. The company develops products that enable advanced image-guided endoscopy procedures to allow endoscopists to offer minimally invasive alternatives to patients suffering from common gastrointestinal and biliary conditions.
-	['', 'therapeutic endoscopy', ' ', 'healthcare device', ' ', 'endoscopic instrument', '']
-Aposense
-	Developer of diagnostic and therapeutic drugs. The company develops diagnostic and therapeutic drugs to identify and cure cells undergoing apoptosis.
-	['', 'molecular imaging', ' apoptosis ', 'therapeutic drugs', '']
-Cardiac Support Systems
-	Operator of innovative factory. The company operates as a licensee of a technology to treat patients suffering from ventricular fibrillation.
-	['', 'ventricular fibrillation', ' ', 'innovative factory', ' ', 'technology licensee', ' ', 'patient care', '']
-EP Technologies
-	Developer of invasive catheter-based diagnostic and therapeutic systems to diagnose and cure patients suffering from tachyarrhythmias. The company manufactures radiofrequency ablation products to treat cardiac arrhythmia. It develops minimally invasive catheter-based diagnostic and therapeutic systems to diagnose and cure patients suffering from tachyarrhythmias.
-	['', 'therapeutic system', ' ', 'radiofrequency ablation product', ' ', 'cardiac arrhythmia', ' tachyarrhythmias']
+Digital Furnace
+	Developer of communications algorithms and software that increases the capacity of broadband networks.
+	['', 'communication algorithm', ' ', 'communication software', ' ', 'broadband network', '']
+Orchestream
+	Provider of service activation and performance management software to global telecommunications network operators. The company\'s product, Orchestream Service Activator, enables managers of large scale Internet protocol and broadband networks to automate the configuration tasks associated with network management and service activation.
+	['', 'performance management', ' ', 'global telecommunication', ' ', 'internet protocol', ' ', 'broadband network', '']
+Roving Planet
+	Provider of network access control and management solutions for enterprise networks. The company provides its client a secure network environment to manage and control its users, endpoints, connections and sessions.
+	['', 'networking software', ' ', 'network management', ' ', 'wireless service provider', '']
+Class Data Systems
+	Developer of software used for bandwidth management. The company\'s clientele includes organizations using the Internet, Intranets and other dedicated networks.
+	['', 'software development', ' ', 'internet management', ' ', 'bandwidth control and management', '']
+Core Networks
+	Provider of a suite of applications for the broadband industry. The company offers provisioning, network assurance and home networking services for the cable industry.
+	['', 'broadband applications', ' ', 'network assurance', ' modem']
+Stargus
+	Provider of network and service analysis, and control solutions for cable broadband networks. The company offers CableEdge product suite that provides bandwidth management, network optimization, and service assurance to broadband operators.
+	['', 'network anaylsis', ' ', 'service analysis', ' ', 'bandwidth management', ' ', 'network optimization', ' ', 'service assurance', '']
+ChanneLogics
+	Operator of software development company. The company designs bandwidth software for cable networks. The company provides solutions to cable service providers that enable them to optimize their systems by increasing the use of the total bandwidth.
+	['', 'bandwidth management software', ' ', 'cable network', ' real-time']
+Ortiva Wireless
+	Provider of video optimization software for mobile network operators (MNOs) and managed service providers (MSPs). The company offers mVOG, a mobile video optimization gateway that provides a mobile streaming solution for MNOs and MSPs; and iVOG, a video optimization platform designed for wireless operators to enhance the overall network efficiency and reduce bandwidth consumption.
+	['', 'video software', ' ', 'mobile operator', ' ', 'service provider', ' ', 'video optimization', '']
+Inteliquent
+	Provider of tandem interconnection services principally to carriers, including wireless, wireline, cable and broadband telephony companies. The company\'s services help carriers to exchange local and long distance traffic between their networks without using an ILEC tandem or establishing direct connections. It manages network capacity between its tandem switches and customers’ switches, which results in network quality and reduced call blocking.
+	['', 'tandem interconnection', ' ', 'wireless telephone', ' ', 'broadband telephony', ' ', 'call traffic', ' ', 'network traffic', ' ', 'ILEC tandem', ' ', 'direct connection', ' ', 'network capacity', ' ', 'tandem switch', ' ', 'call  blocking', '']
+Electronics Corporation of Israel Telecom
+	Provider of network management systems and lifecycle services. The company offers network solutions to other service providers, energy, transportation government and defense sectors. They provide Optimized Multi-Layer Transport platform, carrier class transport platforms, carrier Ethernet network and bandwidth management.
+	['', 'network solutions', ' ', 'network management', '']
+Mu Dynamics
+	Provider of proactive service assurance services for service providers, cable and network operators, government agencies and network product vendors to eliminate service downtime. The company offers Service Analyzer, an analyzer and service assurance platform that embodies a process to identify weaknesses in various IP-based applications or networks and generates remediation information to assist in resolving the discovered issues and verifying the efficacy of proposed fixes through an on-board regression database.
+	['', 'testing application', ' ', 'security testing', ' ', 'inspection system', ' ', 'cloud application testing', '']
+WiChorus
+	Developer of smart 4G packet core infrastructure products. The company\'s smartcore platform enable operators to deploy WiMAX and LTE networks with service and subscriber management, content management, and network optimizations, as well as to monetize the Internet.
+	['WiMAX ', 'LTE network', ' 4G ', 'smartcore platform', ' Internet software technology']
+Reverb Networks
+	Developer of closed-loop mobile network technologies. The company\'s InteliSON product suite delivers radio access network optimization through antenna and RF parameter configuration changes.
+	['', 'cellular networks', ' ', 'SON software products', ' ', 'InteliSON product suite', '']
+Operax
+	Provider of products for dynamic service and bandwidth control. The company offers dynamic resource and admission control product for single service deployments.
+	['', 'bandwidth management', ' ', 'internet protocol network', ' ', 'Connectivity Product', '']

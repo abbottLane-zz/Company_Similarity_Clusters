@@ -1,24 +1,36 @@
-Dover
-	Manufacturer of industrial equipment and components. The company designs, manufactures and sells a wide range of industrial products for the waste handling, bulk transport, automotive, commercial food service, machine, fluid handling, petroleum, chemical and electronics industries.
-	['', 'refrigeration equipment', ' ', 'food equipment', ' compressors pupmps']
-PartMiner Worldwide (CAPS Business)
-	Supplier of electronic components for the electronics industry.
-	['', 'electronic component', ' ', 'electronic tool', ' ', 'electronic component database', ' ', 'equipment manufacturer', '']
-VitraBio
-	Manufacturer of healthcare chemical components. The company manufactures porous glass carriers with applications in dental fillings, separation techniques for life sciences and biomedical devices.
-	['', 'porous glass carrier', ' ', 'separation technique', ' ', 'biomedical device', '']
-Magellan Biosciences (ESA Life Sciences Tools business)
-	ESA Life Sciences Tools business. The business unit is the ESA Life Sciences Tools unit of Magellan Biosciences Inc. and engages in manufacturing of automated systems for biomedical research and clinical diagnostics.
-	['', 'advanced instrument', ' ', 'automated system', ' ', 'biomedical research', '']
-Meikle Automation
-	Provider of the systems integrate platform for manufacturing of components in the organization. The company provides conceptualizes, designs, manufactures, markets and supports custom equipment systems for use in the assembly, test and overall manufacturing of components in the automotive, life sciences, photonics and electronics industries.
-	['', 'system integrate platform', ' ', 'design service', ' ', 'virtual world', ' assembly']
-Imago Scientific Instrument
-	Manufacturer of near-fab metrology equipment for the semiconductors. The company offers research instruments for the university, governmental organization, and private company laboratories in the materials, geology, astrophysics, semiconductors, and life sciences.
-	['', 'Atom Probe Tomography', ' ', 'microelectronic device', ' ', 'Nanolytical equipment', ' ', '3-dimensional imaging application', ' ', 'metrology equipment', ' ', 'atom probe', '']
-Camstar
-	Provider of enterprise manufacturing execution and quality systems. The company makes manufacturing execution systems (MES) software for such industries as semiconductors, biotechnology, electronics, medical devices, and outsourced operations.
-	['', 'system software', ' ', 'outsourced operation', ' ', 'quality system', '']
-CSafe (acquired October 2012)
-	Provider of mobile refrigeration units for the life sciences, healthcare, military and international disaster relief agencies. The company provides a full line of cold chain services including packaging, passive systems, active systems, with both airline and non-airline approval.
-	['', 'mobile refrigeration', ' refrigeration ', 'cold chain', ' ', 'chain services', ' ', 'Containers and Packaging', '']
+Sim Skin
+	Manufacturer of medical surgery training tool. The company manufactures surgical training model useful in surgical training.
+	['', 'surgical training tool', ' ', 'surgical training model', ' ', 'medical device', '']
+XTeam Training
+	Developer of virtual training technologies. The company offers virtual training games and simulation for organizational development.
+	['', 'online training', ' ', 'virtual training', ' ', '3D gaming', ' simulation']
+Innovasive Devices
+	Manufacturer of surgical devices and instrumentation. The company manufactures devices for sports medicine surgeries, which facilitate the repair of soft tissue injuries in the knees and shoulders.
+	['', 'sports medicine', ' ', 'soft tissue repair', ' ', 'surgical repair', '']
+Top Aces Consulting
+	Provider of airborne combat training services. The company provides airborne services, such as close air support training, anti shipping profile, airborne adversary support and aerial target towing.
+	['', 'airborne combat training', ' ', 'combat training service', ' ', 'airborne adversary support', ' ', 'aerial target towing', ' ', 'Training Service', '']
+Bestformation
+	Provider of e-learning services for corporate management training. The company operates an online platform providing corporate training programs in management and human resources.
+	['', 'management training', ' ', 'corporate management', ' ', 'HR training', ' ', 'e-learning', ' ', 'e-learning services', '']
+Safety Technology
+	Supplier of safety training and equipment for work at heights. The company offers a variety of safety courses for working onshore and offshore, including RenewableUK and GWO accredited Work at height and rescue.
+	['', 'consumer services', ' ', 'safety programs', ' ', 'safety equipments', ' harness ', 'fall arrest', ' connectors boots']
+Precimed
+	Developer of surgical equipments. The company designs, develops, manufactures and supplies critical devices used in hip, trauma, knee and spine surgery.
+	['', 'surgical equipment', ' ', 'hip surgery', ' ', 'Knee Extraction Set', '']
+Sciences-U Groupe
+	Provider of professional training courses in France. The company provides vocational training in multiple sectors, including graphics & design, management & human resources, data processing, communications, marketing, tourism, accounting, real estate, insurance, Web design and notary. The company operates facilities in Lille, Paris and Lyon.
+	['marketing ', 'professional training', ' communication']
+RedHawk Communications
+	Provider of corporate ethics, compliance training and communications services. The company\'s services include code of conduct assessments, writing and design; online ethics learning modules; supporting ethics communication awareness tools and programs; worldwide translation and localization capabilities; instructor-led ethics training and other services focused on corporate ethics, compliance and creating ethical culture.
+	['', 'corporate ethic', ' ', 'compliance training', ' ', 'communications service', '']
+ENTrigue Surgical
+	Manufacturer of medical devices and instrumentation for the surgical treatment. The company manufactures articulating instruments, septal staplers, MTM middle turbinate Medializer and absorbable polymers.
+	['', 'articulating instrument', ' ', 'middle turbinate medializer', ' ', 'absorbable polymer', ' ', 'surgical treatment', '']
+Prewise Group
+	Provider of b-to-b digital training services in Finland. The company provides digital training and communication services for business change implementation, sales and customer support, process implementation and professional skills development.
+	['', 'process implementation', ' assessments ', 'orientation training', '']
+Kalistick
+	Developer of quality management tool. The company provides its user with a quality management tool to implement best practices from various software development communities into a capability Maturity Model Integration (CMMI) process.
+	['', 'test optimization', ' ', 'agile testing', ' ', 'testing platform', ' ', 'software testing', '']

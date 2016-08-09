@@ -1,9 +1,30 @@
-Dynamotive Energy Systems
-	Provider of services for the conversion of biomass to liquid fuel. The company\'s pyrolysis technology uses biomass to produce renewable fuels.
-	['', 'bio oil', ' biomass ', 'heat generation', '']
-DRV Energy
-	Operator of fuel centers and fill stations. The company provides full service alternative fuels center with compressor installation and maintenance, and slow/fast fill stations. The company also carries a line bi-fuel conversion kits for CNG and propane dedicated CNG engines for diesel repowers.
-	['', 'fuel center', ' ', ' bi-fuel conversion', ' fuel']
-Range Fuels
-	Producer of cellulosic ethanol. The company\'s clean energy technology uses biomass for the production of ethanol.
-	['', 'cellulosic ethanol', ' ', 'ethanol production', ' ', 'clean energy', ' ', 'biomass conversion', '']
+Masimo
+	Manufacturer of innovative noninvasive patient monitoring technologies. The company offers noninvasive blood constituent patient monitoring services that consists of a monitor or circuit board and its proprietary single-patient use and reusable sensors and cables.
+	['', 'patient monitoring', ' ', 'healthcare services', ' ', 'medical device', '']
+Portico Systems
+	Provider of health plans software solutions.
+	['', 'health plans software', ' ', 'sofware solution', ' ', 'health software solution', '']
+MetricsHub
+	Provider of cloud application monitoring platform. The company\'s platform keeps web applications up and running.
+	['', 'cloud monitoring platform', ' ', 'application monitoring', ' ', 'cloud Monitoring', '']
+SepSensor
+	Manufacturer of sensing technologies for monitoring stratification in tanks primarily in the food services industry. The company provides grease interceptor monitoring system which remotely monitors the condition of internal or external grease traps.
+	['', 'grease interceptor monitoring', ' ', 'tank stratification monitoring', ' ', 'sensing technology', '']
+Pipette
+	Provider of a health monitoring platform. The company provides mobile application which provides easy reports of patient for analyzing health condition.
+	['', 'monitoring device', ' ', 'healthcare application', ' ', 'monitoring equipment', '']
+Lindexa
+	Provider of a web-oriented platform. The company offers an online monitoring platform that collects, analyzes and displays the information posted on the internet.
+	['', 'web-oriented platform', ' ', 'monitoring tool', ' ', 'digital marketing tool', ' ', 'social media marketing', '']
+TradeSync
+	Provider of services to automate B2B processes within and across companies. The company provides mobile application and Software as a service, which don\'t replace their existing business software systems but extend their functionalities to connect to those of customers or vendors.
+	['', 'Electronic Invoice Management', ' ', 'internet commerce', ' ', 'social productivity', ' ', 'accounting service', '']
+NetOps
+	Developer of software products for testing, infrastructure health monitoring and fault detection. The company develops predictive analysis software for DSL and cable modem service providers.
+	['', 'software products', ' ', 'infrastructure health monitoring', ' ', 'fault detection', ' ', 'cable modem service providers', ' testing']
+Once Again Me
+	Provider of comprehensive reports that represents business\'s financial obligations. The company also provides credit limit recommendation, background information and more data elements than other reports.
+	['', 'financial obligation', ' ', 'fraud screening', ' ', 'limit recommendation', ' recommendation']
+SenseCore
+	Provider of health-monitoring devices. The company is a provider of wearable, biomedical monitors that measure a variety of physiological functions and can be linked remotely. The devices have applications for athletes as well as healthcare providers.
+	['', 'monitoring device', ' ', 'physiological monitoring', ' ', 'remote monitoring', ' ', 'biomedical device', '']

@@ -1,27 +1,15 @@
-SemEquip
-	Developer of cluster ion implantation sub-systems and ion source materials for the manufacturing of logic and memory chips. The company manufactures and develops technical ceramic products, ceramic powders and components for defense, industrial, automotive and commercial applications.
-	['', 'memory chips', ' ', 'ceramic products', ' ', 'industrial application', '']
-Spine-Tech
-	Manufacturer of spinal implants and surgical instruments. The company is a provider of less invasive spinal implants. The company\'s products are used to surgically treat patients suffering from chronic, disabling pain caused by degenerative conditions of the spine.
-	['', 'spinal implant', ' ', 'spinal surgery', ' ', 'spine surgery', '']
-NovoSource
-	Manufacturer of orthopedic implants and instruments. The company manufactures and supplies private label orthopedic implants to a variety of healthcare providers, for joint replacement and reconstruction for knees and hips.
-	['', 'orthopedic implant', ' ', 'joint replacement', ' ', 'healthcare provider', '']
-Degradable Solutions
-	Manufacturer of degradable medical implants. The company develops and produces bone fixation implants which degrade in the body after fulfilling their function.
-	['', 'medical implants', ' ', 'degradable medical implants', ' ', 'bone fixation implants', '']
-Memometal Technologies
-	Manufacturer of implants for hand and foot. The company designs and markets surgical implants using shape memory alloys for orthopedic surgery of the foot, ankle, hand and wrist.
-	['', 'surgical implants', ' orthopedic arthrodesis ankle']
-C5 Medical Werks
-	Manufacturer of ceramic components. The company sells it to medical device original equipment manufacturers in the United States and internationally. Its product lines include ceramic-on-ceramic hip replacement implants, ceramic spinal implants, ceramic dental implants, and other custom implant components.
-	['', 'therapeutic devices', ' ', 'knee replacement device', ' ', 'dental implant', '']
-Excera Materials Group
-	Manufacturer of ceramic and metal composite materials and products. The company offers onmex material which is used in various applications such as ballistic armor, molten metal and abrasive materials handling, vehicle braking systems, tool and die products.
-	['', 'ceramic products', ' ', 'metal composite materials', ' ', 'onmex materials', ' ', 'ceramic materials', '']
-Guandong Dongpeng Ceramics Co.
-	Manufacturer of porcelain, ceramic tiles and sanitary ware. The company provides glazed and unglazed porcelain and marble tiles.
-	['', 'porcelain tiles', ' ', 'floor tiles', ' ', 'house decoration', '']
-Vexim
-	Developer of titanium implants for the treatment of vertebral fractures. The company\'s product SpineJack helps to repair a deformed or fractured vertebra and restoring the anatomy of the spinal column.
-	['', 'titanium implants', ' ', 'surgical cements', ' ', 'vertebral fractures', ' spinal']
+TurnTide
+	Developer of anti-spam technologies. The company manufactures anti-spam routers that provide perimeter-based e-mail security. Its products entail software as well as hardware.
+	['', 'anti-spam router', ' ', 'anti-spam', ' ', 'spam control', ' spamming']
+BioRelix
+	Developer of anti-infective drug treatments. The company is focused on building a portfolio of anti-infective products based on novel patented RNA targets, termed riboswitches. The company is developing its products to counter increasingly antibiotic-resistant bacterial pathogens.
+	['', 'anti-biotic drug', ' ', 'infectious disease', ' ', 'therapeutic agent', ' ', 'bacterial infection', '']
+NT Pharma
+	Manufacturer of pharmaceuticals and vaccines. The company provides promotion and sales services primarily for drugs manufactured by global pharmaceutical manufacturers, focusing on anti-infective and CNS products.
+	['vaccines ', 'drug developer', ' ', 'anti-infective', ' ', 'CNS products', '']
+Cumbre Pharmaceuticals
+	Developer of anti-infective products for the treatment of serious and life-threatening infections, particularly those caused by antibiotic resistant pathogens. The company discovers, develops and markets anti-infective products and antibacterial drug and multifunctional anti-infective drugs that target multiple inhibitory pathways.
+	['', 'healthcare products', ' ', 'anti-infective products', ' ', 'antibacterial drug', '']
+Bellerophon Therapeutics
+	Provider of clinical biotherapeutics services. The company is focused on developing products for critical care combining novel drugs and devices in the treatment of cardiopulmonary and cardiac diseases.
+	['', 'critical care product', ' ', 'clinical biotherapeutic', ' ', 'cardiopulmonary disease', ' ', 'investigational device', ' ', 'drug-device therapy', ' ', 'pulmonary arterial hypertension', '']

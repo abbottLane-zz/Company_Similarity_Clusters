@@ -1,33 +1,27 @@
-Connection Services
-	Provider of Wi-Fi Services. The company provides enabling technology to the wireless service businesses of major telecommunications companies.
-	['', 'Wi-Fi Services', ' ', 'wireless service', ' telecommunications']
-RouterShare
-	The company provides technology which connects people to the internet anywhere around the world. The company create a network of Prepaid Wi-Fi Internet Access points.
-	['', 'people connection', ' ', 'access point network', ' ', 'online networking', '']
-Orthogon Systems
-	Provider of wireless Ethernet bridges and carrier-grade point-to-point broadband wireless systems. The company serves the corporate, government, healthcare, Internet service providers, and education markets in the United States, Europe, and Asia Pacific regions.
-	['ethernet ', 'wireless system', ' ', 'point to point', ' ', 'broadband wireless', '']
-4Home
-	Provider of software and services for OEM networking hardware partners and broadband service providers. The company focuses on developing an XML-based software and services platform that enables OEM hardware vendors and service providers to deliver compelling applications and services into the connected home. It offers of connected home services, which include energy management, home security and monitoring, media management, and home health.
-	['', 'home security', ' ', 'energy management', ' ', 'home health', ' ', 'connected home', ' ', 'home services', '']
-MetroFi
-	Designer of Wi-Fi Internet networks and wireless broadband services. The company partners with city governments, local business advertisers, Internet service providers and other companies to deliver wireless broadband service to the communities in which it operates.
-	['', 'Wi-Fi internet', ' ', 'broadband service', ' ', 'wireless broadband service', '']
-Bluegiga Technologies
-	Developer and provider of short range wireless connectivity products and technologies. The company offers bluetooth modules, Wi-Fi modules, and bluetooth network access devices to OEMs and system integrators in various sectors.
-	['', 'connectivity product', ' ', 'bluetooth module', ' ', 'wireless connectivity product', '']
-Sensinode
-	Developer of software technology for the Internet of things (IoT). The company develops commercial 6LoWPAN and related IPv6 technologies which enable physical sensing, tracking and identification with enterprise systems and the Internet. Its NanoStack, NanoRouter and NanoService software leads to low-power networks in wireless health, building automation, asset management and other applications.
-	['', 'wireless embedded system', ' ', 'embedded system', ' ', 'Wireless embedded', ' ', 'physical sensing', ' ', 'asset tracking', ' ', 'enterprise system', ' ', 'smart grid', ' ', 'internet of things', '']
-BOB
-	Provider of wireless broadband services. The company offers internet services, business continuity plans, MPLS, point-to-point connections, online data backup, and data storage services to businesses.
-	['', 'wireless broadband service', ' ', 'online data backup', ' ', 'internet service', ' ', 'data center service', '']
-Kiyon
-	Provider of mesh networking products for wireless broadband networks. The company offers autonomic mesh networking technology that allows it to interface with higher-level protocols.
-	['', 'mesh network', ' ', 'networking products', ' ', 'networking technologies', '']
-Go Networks
-	Provider of broadband wireless access services for indoor and outdoor deployments. The company offers micro cellular Wi-Fi sector base stations, Pico cellular Wi-Fi base stations, wireless media gateways, wireless network controllers and network management systems. It also has a research and development center in Israel.
-	['', 'broadband wireless access', ' ', 'wireless network controller', ' ', 'network management system', '']
-Advanced Radio Cells
-	Manufacturer of wireless broadband access products.
-	['', 'wireless broadband', ' ', 'wireless access', ' ', 'wireless product', '']
+BlackLocus
+	Provider of a cloud-based platform for online retailers that provide recommendations on pricing, inventory management and marketing. The company provides platform that recommends actionable items, enables implementation of recommendations.
+	['', 'pricing tool', ' ', 'online retailer', ' ', 'actionable item', ' ', 'pricing recommendation', '']
+MyBuys
+	Provider of cross-channel personalization for brands and retailers. The company offers web recommendations and personalized alerts. It builds profiles based on individual shopper\'s behavior and then uses a patented portfolio of algorithms and real-time optimization to deliver recommendations. It offers its recommendations to users through email and RSS alerts.
+	['', 'predictive display advertising', ' ', 'cross channel marketing', ' ', 'personalized alert', ' recommendation']
+CouchCommerce
+	Provider of a platform to create shopping applications for online retailers. The company\'s cloud-based platform is designed to be a turnkey solution for generating online shop Web applications for tablets, smartphones and smart TVs. Shop data is sourced via pre-integration into shop systems or extensions to be installed in existing open source shop systems.
+	['', 'online shops', ' ', 'web application', ' ', 'Saas platform', '']
+Malcovery Security
+	Developer of a cloud based actionable cyber security intelligence services. The company develops and delivers cloud based actionable cyber security intelligence and forensic analysis through software and services for corporations and government organizations to target cyber criminals and their activities.
+	['', 'cyber security', ' ', 'intelligence service', ' ', 'forensic analysis', '']
+Shopcastr
+	Provider of an online and mobile platform for independent local retailers and shoppers. The company provides a web based platform where fashion and lifestyle retailers create online stores to feature their products.
+	['', 'consumer service', ' ', 'mobile platform', ' ', 'local retailers', '']
+MarketYze
+	Provider of an e-commerce market intelligence data to online retailers. The company offers a cloud-based platform that tracks and analyzes product prices across competitors to provide retailers with the pricing data and analytics.
+	['', 'market intelligence', ' ', 'online retailers', ' ', 'pricing data', '']
+Predictive Edge
+	Provider of online retail technology services. The company\'s software platform makes product pricing easy and different to online retailers by applying advanced data mining and artificial intelligence techniques to large bodies of data.
+	['', 'data mining', ' ', 'social platform software', ' ', 'artificial intelligence technique', '']
+Wanderfly
+	Provider of a platform to discover and share travel recommendations. The company uses Facebook friends and Google Contacts to give users recommendations on hotels, restaurants and activities.
+	['', 'online travel recommendation', ' ', 'travel information', ' ', 'travel review', '']
+BestVendor
+	Provider of an online resource where business professionals can exchange recommendations for work-related software and services. The company provides a platform for professionals to share their recommendations of the SaaS and other software services for use in business.
+	['', 'online resource', ' ', 'procurement decision', ' ', 'professional platform', ' ', 'software as a service', '']

@@ -1,18 +1,48 @@
-SiPix Imaging
-	Developer of electrophoretic display (EPD) technologies. The company manufactures electronic paper modules that are used to display digital readouts in other manufacturers\' products. The company offers custom manufacturing of EPD materials to enable system designers to rapidly get their products to market. The company\'s product has applications for high-resolution displays, electronic shelf labels, information displays, smart cards and a variety of consumer products.
-	['', 'electrophoretic display', ' ', 'digital paper', ' ', 'imaging display e-paper', ' ', 'computer hardware', '']
-W5 Networks
-	Developer of wireless systems for the retail industry. The offers electronic shelf label (ESL) systems for displaying price information on retail shelves.
-	['', 'wireless system', ' ', 'electronic shelf label', ' ', 'wireless application', ' wifi ', 'wireless solution', '']
-WinfoMedia
-	Provider of electronic display products for out-of-home advertising. The company\'s products consist of a regular LCD screen combined with touch-free sensor for user accessibility.
-	['touchscreen ', 'touch-free sensor', ' ', 'multichannel system', '']
-Oxford NanoScience
-	Manufacturer of 3-dimensional atom probes. The company\'s laser atom probe offers high resolution sample data acquisition together with comprehensive data analysis for a range of low and high resistivity materials.The atom probe is a point projection microscope capable of resolving the chemical identity and position of individual atoms in 3D with atomic resolution in the z direction and sub-nanometer lateral resolution.
-	['', '3-dimensional atom probe', ' ', 'laser atom probe', ' ', 'point projection microscope', ' ', '3D Atom Probe analysis system', '']
-Ntera
-	Developer of printable electrochemical materials. The company\'s electrochemical assemblies and technologies enables display and color change applications for smart cards, smart packaging, and smart objects. The company also provides electronic displays using industry printing techniques and equipment.
-	['', 'B2C Services', ' ', 'B2B Services', ' ', 'consumer durables', '']
-Sidepa
-	Producer of paper-based products. The company manufactures paper bags and packaging materials made of paperboard for household purposes.
-	['', 'paper bags', ' ', 'packaging paper', ' ', 'paper products', '']
+Restricted Stock Systems
+	Provider of software services to financial institutions and public companies. The company provides commercial software to manage trading plans in addition to software and services for processing and reporting of restricted stock and insider trading compliance.
+	['', 'commercial software', ' ', 'trading plans', ' ', 'restricted stock', ' reporting']
+Liquiverse
+	Provider of a software for editing complex data lists in diagrams. The company develops and distributes software services based on liquid browsing, a patented technology leveraging the display of charts and information lists.
+	['', 'complex data', ' ', 'Liquid Browsing', ' diagrams ', 'graphical data', '']
+ProfitLine
+	Provider of telecom expense and mobility management services.
+	['', 'telecom expense', ' ', 'mobility management', ' ', 'expense management', '']
+Gascomer
+	Operator of a seafood processing company. The company processes, markets and sells seafood such as fish, crustaceans and molluscs .
+	['seafood ', 'seafood processing', ' ', 'seafood marketing', '']
+Quickcomm Software Solutions
+	Provider of telecom and mobility management solutions for multinational enterprises, integrators, outsourcers and carriers. The company offers Enterprise Telecommunications Expense Management Solution that provides automatic reconciliation of telecom bills down the line-item level.
+	['', 'mobility management', ' ', 'telecom management', ' ', 'telecom infrastructure', '']
+Clarity Technologies
+	Provider of software and services for improving the audio quality and performance of voice-based communications systems and products.
+	['', 'audio quality', ' ', 'voice communication', ' ', 'voice product', '']
+Swapcom
+	Provider of software services in server-side mobile architecture for mobile telecom carriers. The company\'s mobile multimedia services include remote management of devices and carrier-grade hub services.
+	['', 'mobile solutions', ' ', 'server-side mobile architecture', ' ', 'remote management of devices', '']
+Plexus Computer
+	Developer of super micro computers based on Unix. The company provides its technology for commercial data-processing applications.
+	['', 'computer hardware', ' ', 'image processing system', ' ', 'unix-based', '']
+ENQIO Holding
+	Provider of software for in-depth analyses of company data. The company allows management to calculate risks in a timely fashion and make informed, corporate decisions. It is primarily focused on the telecom, financial, public and media sectors.
+	['', 'data analyses', ' ', 'decision making', ' ', 'risk calculation', '']
+4DK Technologies
+	Developer of interoperability services for wireless networks and devices. The company provides wireless technology products, professional and strategy services to telecom operators and infrastructure vendors.
+	['', 'interoperability service', ' ', 'wireless network', ' ', 'wireless device', '']
+Alternis
+	Provider of software services for telecom data processing. The company provides prepackaged software for electronics and telecom industries.
+	['', 'telecom data processing', ' ', 'telecom software', ' ', 'real time proceesing', '']
+Bitboys
+	Developer of graphics hardware Internet Protocol (IP) services for various wireless and embedded devices. The company provides managed services, cloud computing services, telecom consultation and digital marketing services.
+	['', 'graphics processor', ' ', 'mobile gaming', ' ', 'embedded device', '']
+Guangzhou 3G Information Technology
+	Operator of a value-added telecom and information service company. The company provides both voice and data connection to the major telecom operators covering both mobile and fixed-line networks.
+	['', 'instant messaging services', ' community-oriented ', 'IVR service', ' ', 'telecom services', '']
+ITA Inverse Theory & Applications
+	Developer of software specializing in interactive, workstation-based approaches to the processing of geophysical data. The company offers geophysical software, systems, processing, and research worldwide.
+	['', 'geophysical data', ' ', 'software development', '']
+Omiino
+	Manufacturer of programmable microchips for telecom applications. The company\'s technology allows users to deliver silicon in a field upgradable format.
+	['', 'FPGA platform', ' ', 'Optical Transport Silicon', ' microchips ', 'telecom applications', '']
+Nextime Solutions
+	Provider of software services for businesses. The company provides heavy-duty off-the-shelf-appointment system, which is used in many sectors, such as health care, regulatory actions, as well as the financial sector.
+	['', 'software service', ' ', 'business software', ' ', 'information management', '']

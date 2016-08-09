@@ -1,12 +1,21 @@
-ParkMe
-	Provider of parking information to navigation companies and consumers. The company\'s platform allows drivers to find a place to park based on location by providing a live map of available parking which includes parking rates, hours of operation, payment types and real-time occupancy information for on-street meters and off-street parking lots and garages.
-	['', 'parking information', ' ', 'parking availability', ' ', 'parking database', ' ', 'live map', ' parking']
-Tempo Payments
-	Provider of payment technology for debit card related technologies. The company offers Tempo Debit, a solution that enables ACH-based decoupled debit programs for issuers.
-	['', 'payment technology', ' ', 'debit program', ' ', 'transaction processing', ' ', 'decoupled debit card', '']
-PropertyBridge
-	Developer of electronic payment processing solutions for the real estate management industry. The company provides payment types such as credit and debit card, automated clearing house, check scanning, cash payment and lockbox.
-	['', 'electronic payment', ' ', 'payment processing', ' ', 'real estate management', ' ', 'automated clearing', ' ', 'payments platform', '']
-Works
-	Provider of commercial credit card management and optimization technology.The company provides a Web-based platform that connects payment-management automation with the global Visa payment network.
-	['', 'credit card management', ' ', 'credit card service', ' ', 'electronic payment', ' ', 'payment policy', '']
+SercoNet
+	Developer of Ethernet backbone networking services. The company provides home networking services that enables customers to easily interconnect PC\'s, telephone and entertainment equipment in every room over a single home network.
+	['', 'ethernet networking service', ' ', 'home networking service', ' ', 'broadband service', '']
+Zhone Technologies
+	Designer, developer and manufacturer of telecommunications equipment. The company provides international clients in the single line multi-service (SLMS) architecture business the ability to provide voice and video over internet protocol (VoIP).
+	['', 'telecommunications equipment', ' ', 'single line multi-service', ' ', 'voice over internet protocol', '']
+Neul
+	Developer of disruptive wireless network technology to enable the use of television white space spectrum. The company provides asset tracking, transportation, rural broadband, machine-to-machine communications, e-Media distribution and networking services.
+	['', 'wireless network technology', ' ', 'asset tracking', ' ', 'rural broadband', ' ', 'e-media distribution', ' ', 'traffic management', ' ', 'road pricing', ' ', 'diagnosis market', '']
+Simpler Networks
+	Manufacturer of telecommunications equipment and software. The company specializes in automated distribution frames enabling copper loop management and also offers EZ-MDF, an automated main distribution frame hardware and software, which automates the labor-intensive process of manipulating central office and street cabinet distribution frames.
+	['', 'frame hardware and software', ' ', 'street cabinet', ' ', 'copper loop', ' ', 'telecommunication software', ' ', 'telecommunication equipment', ' ', 'application software', '']
+VTEL Products
+	Manufacturer of video telecommunications equipment. The company\'s products facilitate staff meetings, training, job interviews, client presentations and legal depositions through videoconferencing.
+	['', 'telecommunication equipment', ' ', 'videoconferencing', ' video ', 'video based technologies', '']
+Gerdes
+	Manufacturer of telecommunications products. The company develops, manufactures and markets telecommunications products including controller card and server controllers.
+	['', 'telecommunication product', ' ', 'telecommunication service provider', ' ', 'server controller', '']
+Positron Access Solutions
+	Developer and manufacturer of telecommunications equipment for critical service applications. The company design, manufactures and markets networking and broadband management equipment to information technology and telecommunication industries. Its platform enables broadband connectivity and system networking services.
+	['', 'telecommunications equipment', ' ', 'critical service', ' ', 'broadband management', ' ', 'broadband connectivity', ' ', 'networking service', '']

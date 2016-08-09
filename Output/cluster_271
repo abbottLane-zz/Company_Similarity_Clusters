@@ -1,27 +1,36 @@
-BioLucent
-	Operator of women\'s health company, involved in the early detection and treatment of breast cancer. The company manufactures and markets the MammoPad breast cushion, a radiolucent foam cushion that breast centers use to provide women with a mammogram.
-	['', 'breast cancer', ' ', 'MammoPad breast cushion', ' ', 'radiolucent cushion', '']
-Paradigm Therapeutics
-	Developer of drugs combining model genetics and bioinformatics. The company provides target identification and validation services based on gene knock out technology and in vivo pharmacology. The company has developed a drug discovery pipeline comprising targets and late stage pre-clinical projects in pain, CNS disorders, hormone dependent diseases such as prostate and breast cancer and metabolic diseases such as diabetes, hyperlipidemias, obesity and osteoporosis.
-	['', 'hormone dependent diseases', ' bioinformatics ', 'model genetics', ' ', 'validation services', '']
-Orthotopix
-	Developer of modelling products for cancer research. The company is a provider of cell, tissue and animal models modelling the prevention and treatment of breast cancer and prostate cancer, urodynamical models of urethral function and a cell line-based safety model of the endometrium. The company provided its products and services to drug-development companies.
-	['', 'drug development', ' ', 'healthcare service', ' ', 'tissue modeling', '']
-Endocyte
-	Developer of receptor-targeted therapeutics for the treatment of cancer and autoimmune diseases. The company provides EC17, a folate-targeted hapten therapy drug to treat metastatic renal and ovarian cancer; EC145, a folate-targeted chemotherapeutic conjugate to treat various tumors, including cancers of the breast, lung, and blood; EC0225, a targeted chemotherapy drug.
-	['', 'cancer treatment', ' ', 'autoimmune disease', ' ', 'ovarian cancer', ' ', 'breast cancer', '']
-Seragon Pharmaceuticals
-	Developer of orally active selective estrogen receptor degraders (SERDs) that represent a treatment for metastatic breast cancer. The company is developing breast cancer pharmaceuticals based on the selective estrogen receptor degraders platform, including its lead drug candidate, ARN-810, under evaluation for ER+ breast cancer.
-	['', 'breast cancer', ' ', 'estrogen receptor degrader', ' metastatic']
-Suomen Terveystutkimus
-	Provider of breast-cancer screening products and services. The company develops products and performs mammography screenings along with other clinical tests, to detect and treat breast cancer.
-	['', 'breast cancer', ' ', 'mammography screening', ' ', 'cancer treatment', '']
-Ziopharm
-	Developer of drug candidates for cancer treatments. The company operates with the strategy of in-licensing proprietary drug-candidate families with prior ""related-molecule" efficacy in human cancer that could be efficiently and effectively developed and commercialized.
-	['', 'cancer therapeutics', ' ', 'molecule therapeutic', ' ', 'healthcare service', '']
-NaniRx Therapeutics
-	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
-	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
-Windy Hill Medical
-	Developer of medical devices to reduce the risk of developing breast cancer in high risk patients. The company intends to develop intraductal therapy for the prevention of breast cancer.
-	['', 'breast cancer', '']
+ConforMIS
+	Manufacturer of surgical devices for the treatment of early, moderate and late stage osteoarthritis of the knee. The company designs devices that conform to a patient\'s anatomy to achieve minimally invasive surgery and maximal sparing of bone. It also develops articular repair systems capable of re establishing normal articular alignment and shape in patients with osteoarthritis.
+	['', 'knee osteoarthritis', ' ', 'bone sparing', ' ', 'bone surgery', ' ', 'articular alignment', ' ', 'knee surgery', ' ', 'knee replacement', ' ', 'knee implant', ' ', 'orthopedic implant', ' ', 'implant design', '']
+Mitek Surgical Products
+	Provider of surgical and medical instruments. The company provides bone anchors and minimally invasive surgical tools for orthopedic surgery.
+	['', 'medical instrument', ' ', 'surgical tool', ' ', 'bone anchor', '']
+Corvascular
+	Provider of technology for minimally invasive cardiac surgery. The company is the developer of the Transarrest platform, which enables surgeons to temporarily stop a patient’s heart in order to place sutures on the coronary arteries.
+	['', 'cardiac surgery', ' ', 'surgical devices', ' ', 'surgery technology', ' ', 'heart surgery', ' ', 'coronary arteries', '']
+RF Surgical Systems
+	Developer of surgical sensor technology. The company provides a sensor system that uses radio-frequency (RF) technology to detect and ensure removal of missing sponges during surgical procedures.
+	['', 'surgical detection', ' ', 'surgical system', ' ', 'surgical detection system', ' ', 'medical waste', ' ', 'patient safety system', '']
+NeuroLife Noninvasive Solutions
+	Provider of noninvasive devices to monitor brain pressure. The company offers surgical and medical instruments and apparatus to treat head injured patients at risk for brain damage and death.
+	['head ', 'brain pressure', ' ', 'noninvasive solution', ' ', 'intracranial pressure', '']
+Medelute
+	Provider of medical supplies. The company provides preclinical stage drug eluting materials to treat post surgical adhesions with anti-platelet approach.
+	['', 'Healthcare Devices', ' ', 'medical supplies', ' ', 'preclinical stage drug', '']
+Visiometrics
+	Developer and manufacturer of medical instruments. The company develops and manufactures instruments to measure, diagnose and study of the visual capacities.
+	['', 'medical instrument', ' ', 'visual capacity', ' diagnose']
+MedNova
+	Manufacturer of surgical and medical instruments and apparatus. The company provides less-invasive surgical products for endovascular procedures.
+	['', 'peripheral vascular disease', ' ', 'less invasive surgery', ' ', 'medical device', '']
+Memometal Technologies
+	Manufacturer of implants for hand and foot. The company designs and markets surgical implants using shape memory alloys for orthopedic surgery of the foot, ankle, hand and wrist.
+	['', 'surgical implants', ' orthopedic arthrodesis ankle']
+Harvest Technologies Corp
+	Provider of bone marrow aspirate concentrate (BMAC) systems to treat vascular, orthopedic and cardiovascular diseases. The company offers SmartJet applicator kits that deliver platelet concentrate and thrombin to the surgical site. It helps in improving patient outcomes by enhancing the body\'s normal healing process using adult stem cells and growth factors.
+	['BMAC ', 'stem cells', ' ', 'bone marrow aspirate concentrate', '']
+Progentix Orthobiology
+	Manufacturer of orthopedic bone graft materials. The company develops a suite of osteoinductive material products for clinical application in bone regenerative surgery.
+	['', 'bone grafting', ' ', 'osteoinductive materials', ' ', 'one regenerative surgery', ' orthopedic']
+Microsurge
+	Designer, developer and manufacturer of surgical instrumentation for use in minimally invasive surgery. The Company is currently developing families of surgical instrumentation for use in minimally invasive abdominal procedures, referred to as laparoscopy, and minimally invasive thoracic procedures, referred to as thoracoscopy.
+	['instrument invasive procedure']

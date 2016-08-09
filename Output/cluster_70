@@ -1,57 +1,30 @@
-MLRGB Restauration
-	Provider of steam cooked food products. The company operates as a restaurant serving steamed food products for health conscious customers.
-	['', 'steam cooked food', ' ', 'healthy food', ' ', 'steamed food', ' ', 'organic wine', ' ', 'restaurant operator', '']
-Heidi\'s Gourmet Desserts
-	Manufacturer and distributor of frozen desserts to retail and food service outlets. The company produces New York and California style cheesecakes, gourmet layer cakes, homestyle and specialty desserts.
-	['', 'frozen food', ' cheesecake ', 'layer cake', '']
-Pollo Rey
-	Chain of Mexican food restaurants. The company provides dishes like Gourmet Burritos,  Roasted Chicken, Fish Tacos, Quesadillas, Fresh Salads, Stuffed Potatoes and Vegetarian Food.
-	['Quesadillas']
-ecMarkets
-	Provider of online purchasing provisions, strategic sourcing and supplier relationship management (SRM) tools to the industrial, food service and food distribution sectors. The company offers group buying programs, as well as procurement software for dairy, grocery, consumer product and convenience store industries.
-	['', 'online purchasing solutions', ' ', 'food service', ' ', 'procurement software', ' ', 'store industries', '']
-Macrae Food Group
-	Manufacturer and seller of ready to eat seafood. The company provides a variety of chilled sea food products ranging from shellfish to fresh and smoked fish along with marinaded products. It also provides sea food processing services.
-	['', 'seafood products', ' ', 'marinaded products', ' ', 'smoked fish', ' ', 'food processing', '']
-Natur\'Inov
-	Provider and distributor of organic and natural products. The company is into the distribution of food, cosmetics and dietary supplements.
-	['', 'natural product', ' ', 'dietary supplement', ' ', 'consumer service', '']
-Home Bistro Foods
-	Provider of gourmet food. The company specializes in vacuum-sealed and flash-frozen meals prepared by chefs and sold through its catalog and its e-commerce site. It offers soups, appetizers, meals, and desserts, including beef, pork, lamb/veal/bison, poultry, and seafood.
-	['', 'gourmet food', ' ', 'frozen food', ' ', 'sealed food', '']
-Trus Plus Systems
-	Provider of agricultural and nursery products. The company is engaged in the production of nursery products, nursery stock, shrubbery, bulbs, fruit stock, sod and other agricultural products.
-	['', 'nursery products', ' ', 'nursery stock', ' shrubbery ', 'fruit stock', ' nursery bulbs']
-Kaiku Corporación Alimentaria
-	Producer of healthy dairy food products. The company engages in production and distribution of healthy dairy products some of which are even suitable for the lactose intolerant. The company\'s products include ready to serve varieties such as desserts, cheeses, milk shakes, milk, yoghourts and lactose free products.
-	['dessert ', 'dairy production', ' ', 'dairy products', ' cheese ', 'ready to serve products', '']
-Arvensia
-	Operator of an online portal for grain industry. The company focuses on agricultural products such as grains and flours. It also develops products and services for optimal processing of transactions.
-	['', 'agricultural products', ' grains flours ', 'feed processing', ' crops']
-Dujardin Foods
-	Provider of frozen vegetarian food products. The company engages in the production and marketing of frozen vegetables, fruits, herbs and other vegetable-based ready meals.
-	['', 'frozen vegetable', ' ', 'ready meal', ' ', 'frozen fruit', '']
-Redpoint Bio
-	Developer of novel and healthful taste enhancers for the food, beverage and pharmaceutical industries. The company researches, discovers, develops and commercializes breakthrough products that improve the palatability of oral medicines and enhance the flavor and nutritional value of foods and beverages.
-	['', 'taste enhancers', ' ', 'healthful taste', ' ', 'pharmaceutical industries', '']
-Micro Analytical Systems
-	Provider of sea food products. The company provides information regarding fish origin, fishing method and maximum mercury levels for each species.
-	['seafood ', 'fishing method', ' ', 'sea food product', '']
-Conserves et Salaisons De La Noureppe
-	Provider of gourmet and other food products. The company offers cured meats, frozen foods, poultry items, sea food, grocery products, dairy products, fruits and vegetables, bakery and confectionery products, beverages and other agricultural products.
-	['', 'confectionery product', ' ', 'grocery product', ' ', 'poultry item', '']
-Gascoigne Melotte Holding
-	Manufacturer of equipment for the dairy industry. The company offers milking machines and other dairy automation products.
-	['', 'milk harvesting equipment', ' ', 'agricultural machinery', ' ', 'dairy automation', '']
-Natratec International
-	Developer and manufacturer of organic protective emulsions. The company primarily focuses on producing emulsions which retain the freshness of fruits and vegetables and increase the egg hatching rate of poultry.
-	['', 'organic preservation', ' ', 'food freshness', ' ', 'agricultural product', '']
-Pacific Grain and Foods
-	Provider of dry foods and animal feeds. The company supplies edible beans, rice, grains and spices to the food services industry.
-	['', 'organic products', ' ', 'dry food', ' spices']
-Lasso.it
-	Provider of an online service offering delivery of spirits. The company offers on-demand delivery of artisan wine, beer, spirits, soda and specialty foods including cheese, sweets and meat platters from local merchants and gourmet food shops.
-	['', 'food delivery', ' ', 'wine delivery', ' ', 'online alcohol', '']
-EcoScraps
-	Provider of organic, chemical and manure free lawn and garden products. The company\'s process recycles food wastes into nutrient rich products.
-	['', 'organic soil', ' compost fertilizer ', 'potting soil', ' ', 'garden product', ' ', 'lawn product', '']
+Hunch
+	Operator of a decision-making site that customizes decision results for the user.
+	['', 'decision making', ' ', 'customized web browsing', ' ', 'machine learning', ' ', 'browser learning', ' ', 'browser recommendations', ' ', 'custom browsing', ' ', 'personal recommendations', '']
+Discovery Partners International
+	Provider of technologies and services to pharmaceutical and biotech companies. The company\'s services assist worldwide pharmaceutical and biotechnology companies in the design, development and production of assays of disease molecules to accelerate their drug discovery activities.
+	['', 'drug discovery', ' ', 'pharmaceutical healthcare', ' ', 'disease molecule', ' ', 'drug discovery', '']
+Fractal:Edge
+	Developer of visualization software for navigating and analyzing large and complex dynamic data. The company\'s product suite includes Fractal Map, Fractal:Server, Fractal:Intelligence and Fractal:SDK.
+	['', 'visualization software', ' ', 'navigating  data', ' ', 'dynamic data', '']
+Firebase
+	Provider of a group chat service for users website. The company provides a platform for clients to understand how to navigate through the people, processes and technologies that work together to provide valuable information for decision making.
+	['', 'chat service', ' ', 'real time technology', ' ', 'online chat', '']
+Infoharmoni
+	Provider of data visualization services. The company aggregates content, people, relationships and express them visually in real time.
+	['', 'data visualization', ' ', 'visualization services', ' ', 'real time', '']
+Anvil
+	Provider of data mining, analysis, and visualization services to the pharmaceutical and biotechnology companies. The company has developed a software internally which allows the exploration of large and complex datasets that help the clients in their decision-making process.
+	['', 'data exploration', ' ', 'data mining', ' ', 'data visualization', '']
+IBAH
+	Provider of complete range of development services to the pharmaceutical, biotechnology, and medical device industries. The company\'s services are designed to help clients accelerate products from discovery through development more efficiently and cost- effectively.
+	['', 'development services', ' ', 'medical device', '']
+Blue Heron Biotechnology
+	Provider of a range of synthetic DNA sequences and related services to researchers in pharmaceutical and biotechnology companies. The company offers gene synthesis, codon and expression optimization, cloning options, and variant clone sets.
+	['', 'synthetic DNA sequence', ' ', 'gene synthesis', ' ', 'cloning option', '']
+Resolution EBS
+	Developer of decision making logic systems for health, manufacturing, property and casualty insurance industries. The company provides a platform, \'Centrifuge\', which is business rules management platform that automates decision making within the business front office.
+	['', 'management platform', ' ', 'automation software', ' ', 'online services', '']
+SpeedSim
+	Provider of cycle-based logic simulation software. The company\'s product is used for the testing of large and complex integrated circuits.
+	['', 'application software', ' ', 'logic simulation software', '']

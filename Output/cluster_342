@@ -1,36 +1,60 @@
-Andigilog
-	Provider of thermal management technology. The company develops sensor interface integrated circuits, temperature sensors, system controllers and brushless DC fan motor controllers. It provides fabless analog and mixed-signal IC.
-	['', 'thermal management', ' ', 'sensor interface circuit', ' ', 'temperature sensor', ' ', 'motor controller', ' ', 'fabless analog', '']
-Arctic Silicon Devices
-	Developer and seller of data converters. The company develops application specific mixed mode signal processing chips, modules, subsystems, integrated circuits, low power ADCs and AFEs.
-	['modules subsystems microwave IC']
-Maxim Integrated Products
-	Designer, manufacturer and seller of analog and mixed-signal semiconductor products. The company markets a range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a number of geographically diverse customers.
-	['', 'Mixed signal semiconductor', ' ', 'integrated circuits', '']
-Kailight Photonics
-	Developer of optical modules for the global telecommunications industry. The company’s components make it possible to upgrade the quality of signals at various points and to correct various distortions created in the signal. This extends the broadcasting range, expands bandwidth and improves signal quality in a given range.
-	['', 'optical module', ' ', 'fiber-optic infrastructure', ' ', 'bandwidth expansion', ' ', 'optical communication', '']
-Neolinear
-	Developer of software for analog or mixed-signal silicon design. The company provides mixed-signal chips with integrated analog and digital circuitry for communications applications.
-	['', 'mixed signal silicon design', ' ', 'digital circuitry', ' ', 'communication application', '']
-Pentland Systems
-	Provider of signal acquisition technology and products. The company offers analog input/output, sigma delta, synchro and resolver modules which are complemented by digital input/output and relay products to form a comprehensive range of system ready, COTS, I/O products. The company also provides analog-acquisition and reconstruction products for sonar, radar, signal intelligence and software-defined radio applications in the aerospace and defense markets.
-	['', 'sonar product', ' ', 'signal intelligence', ' ', 'analog signal', ' ', 'radar product', ' ', 'embedded computing', ' ', 'digital input/output', ' ', 'relay product', '']
-PhaseLink
-	Manufacturer of technology for timing source and signal conditioning timing source integrated circuits. The company also markets analog frequency multipliers, triangular modulation SST, bi-directional I/O, programmable clock chip, programmable clocks and a range of IC product lines in the industry.
-	['', 'integrated circuit', ' IC Multipliers Modulator']
-Symwave
-	Developer of analog/mixed-signal connectivity solutions in the United States and internationally. The company offers physical layer, low power analog front end cores, integrated circuits (ICs), and semiconductor system solutions to distribute video, sound, photos, and data in the home, automobile, office, and factory; and USB hubs, card readers and mass storage devices, input/output, Ethernet and embedded networking devices, and in-vehicle networks.
-	['', 'analog signal connectivity', ' ', 'semiconductor system solution', ' ', 'embedded networking', '']
-RocketChips
-	Developer of multi-gigabit speed analog and mixed signal integrated circuit technology. The company is involved in the development of high-speed Complementary metal–oxide semiconductor circuit topologies capable of achieving Gallium arsenide performance levels.
-	['semiconductor CMOS GaAs multi-gigabit circuit']
-Integrated Device Technology
-	Designer, developer and manufacturer of low power, mixed signal semiconductor solutions for the advanced communications, computing and consumer industries. The company\'s computing products are designed specifically for desktop, notebook, sub-notebook, storage, and server applications while its consumer products are optimized for gaming consoles, set-top boxes, digital TV and smart phones.
-	['signal ', 'semiconductor solution', ' ', 'wireless network', ' ', 'data integration', ' ', 'server application', '']
-SliceX
-	Designer, developer and supplier of analog and mixed signal integrated circuits. The company develops ICs for consumer, communications infrastructure, video imaging, industrial equipment, automotive and medical applications.
-	['', 'analog integrated circuit', ' ', 'mixed signal IC', ' ', 'video imaging', ' ', 'communication infrastructure', ' ', 'power analog signal', '']
-Accel Semiconductor
-	Developer and provider of analog and mixed signal Integrated Chips (IC). The company\'s product lines include consumer wireless communication chips and consumer electronics chips using deep submicron (0.18um or smaller) complementary metal-oxide semiconductor (CMOS) or BiCMOS technologies.
-	['', 'wireless communication chip', ' ', 'electronic chip', ' ', 'analog wireless communication', '']
+Opalis Software
+	Provider of an  information technology (IT) process automation software products for the enterprises. The company provide software that integrates and automates common IT assets to automate the IT runbook. Opalis allow companies to capture the internal knowledge of their IT staff. Opalis helps to provide native operators to leading systems management monitors, problem resolution packages, backup tools, virtual machines, software distribution and network devices.
+	['', 'knowledge process automation', ' ', 'knowledge worker management', ' ', 'knowledge sharing', '']
+Proservia
+	Provider of information technology services. The company offers operational maintenance services, architecture and integration services, information system governance services and training services.
+	['', 'operational maintenance', ' architecture prototyping']
+Collabera
+	Provider of information technology services. The company offers consulting services, such as business intelligence and data management, IT planning, infrastructure consulting, project and portfolio management, professional staffing and architecture and application practice and application services.
+	['', 'business intelligence', ' ', 'portfolio management', ' ', 'professional staffing', '']
+Aubay
+	Provider of information technology and business intelligence services. The company provides services to share and return information over multiple channels such as the Internet, call centers, SMS, as well as client server, departmental systems or more specialized areas such as Desktop Publishing. The company also provide services on infrastructure systems and networks to ensure the definition of architectures, systems administration, project integration and monitoring of operations.
+	['', 'business intelligence service', ' ', 'information management', ' ', 'multiple channel', ' ', 'departmental system', ' ', 'system administration', '']
+Intechra Group
+	Provider of information technology, asset disposition, value recovery, and computer recycling services to businesses and governments. The company offers information technology asset disposition services, such as data security and computer re-marketing.
+	['', 'information technology asset disposition', ' ', 'value recovery', ' ', 'computer recycling', ' ', 'data security', ' recycling ', 'asset disposition', '']
+Agiliti
+	Provider of information technology services. The company offers services that helps companies reduce costs, reduce risks and improve the reliability of their systems, networks and applications. It helps enterprises of all sizes achieve better IT performance through a modular suite of outsourced hosting and IT services.
+	['', 'rentable software applications', ' ', 'hosting services', ' ', 'internet connection', ' ', 'enterprise hosting', '']
+Interweave Software
+	Developer of information delivery products. The company\'s products allow information technology organizations to deploy intranet and extranet-based Web information systems across virtual enterprises.
+	['', 'virtual enterprises', ' ', 'Interweave Modeler', ' ', 'database administrators', '']
+Mirror42
+	Provider of information technology performance management services. The company provides a platform for customers to collect information from multiple IT management applications, analyze key performance indicators and metric trends.
+	['', 'performance management', ' ', 'performance indicator', ' ', 'metric trend', '']
+Maxima Holdings
+	Provider of information- technology consulting, including infrastructure and managed services. The company provides systems integration and managed services to support clients over the full lifecycle of their IT investments.
+	['', 'business software', ' ', 'software consulting', ' ', 'system integration', '']
+Quantiq Technology
+	Provider of business consulting services. The company offers various business and technology services mainly to mid-sized companies and larger enterprises throughout the Americas, EMEA and Asia Pacific.
+	['', 'business consultancy', ' ', 'business consulting service', ' ', 'Business Management Consulting', '']
+FleetFly
+	Provider of enterprise class fleet management and internet based remote asset management solutions. The company uses the RedFly device to assist small fleets for their dispatch needs.
+	['transportation ', 'fleet management', '']
+SevenSpace
+	Provider of outsourced information technology management services.
+	['', 'technology management service', ' ', 'software tool', ' ', 'infrastructure management', '']
+NTRglobal
+	Provider of remote access technology and services for information technology (IT) service management and external customer support applications worldwide.
+	['', 'remote access technology', ' ', 'customer support application', ' ', 'service management', '']
+Ontrack Systems
+	Provider of an information technology services. The company provides information technology enable services like Net Asset Value(NAV) and Enterprise resource planning(ERP) platform, enterprise business platform, information technology infrastructure management platform and consultancy services.
+	['', 'enterprise resource planning', ' ', 'database software', ' ', 'technology enable service', '']
+CenterBeam
+	Provider of information technology services. The company offers mid sized businesses with enterprise class  information technology management, services and support.
+	['', 'infrastructure management', ' ', 'patch management', ' ', 'software distribution', ' ', 'server management', '']
+Ansible
+	Provider of information technology software platform. The company offers information technology orchestration platform designed to make applications and systems easier to deploy. It also enables its users to automate in simpler code and to install on remote systems without the help of any agent.
+	['', 'configuration management', ' ', 'software deployment', ' ', 'systems orchestration', '']
+Hewlett-Packard
+	HP Inc, formerly Hewlett-Packard Company was incorporated in 1947 under the laws of the State of California as the successor to a partnership founded in 1939 by William R. Hewlett and David Packard. Effective in May 1998, it changed its state of incorporation from California to Delaware. The Company is a provider of products, technologies, software, solutions and services to individual consumers, small- and medium-sized businesses (SMBs) and large enterprises, including customers in the government, health and education sectors. The Company\'s offerings span multi-vendor customer services, including infrastructure technology and business process outsourcing, technology support and maintenance, application development and support services & consulting and integration services; enterprise information technology infrastructure, including enterprise storage and server technology, networking products and resources, and software that optimizes business technology investments, personal computing and other access devices and imaging and printing-related products and services. It has seven business segments for financial reporting purposes: Services, Enterprise Storage and Servers, HP Software, the Personal Systems Group (PSG), the Imaging and Printing Group (IPG), HP Financial Services (HPFS), and Corporate Investments. The HP Enterprise Business provides servers, storage, software and information technology (IT) services that enable enterprise and midmarket business customers to manage their current IT environments and transform IT into a business enabler. HP Software is a provider of enterprise and service-provider software and services. PSG is a provider of personal computers (PCs) in the world such as Commercial PCs, consumer PCs, workstations and handheld computing. IPG is the imaging and printing systems provider in the world for consumer and commercial printer hardware, printing supplies, printing media and scanning devices such as Laserjet, managed enterprise solutions, graphics solutions include large format printing, large format supplies, webpress supplies, Indigo printing, inkjet high speed production solutions. HPFS supports and enhances HP\'s product and service solutions, providing a broad range of value-added financial life-cycle management services. The group offers leasing, financing, utility programs and asset recovery services, as well as financial asset management services for large enterprise customers. Corporate Investments includes Hewlett-Packard Laboratories, also known as HP Labs, network infrastructure products, mobile devices associated with the Palm acquisition, and certain business incubation projects. Revenue in this segment is attributable to the sale of certain network infrastructure products, including Ethernet switch products that enhance computing and enterprise solutions under the ProCurve, 3Com and TippingPoint brands.The Company depends on third party suppliers. The distribution is organized by direct and channel. The Company\'s operations are subject to regulation under various federal, state, local and foreign laws concerning the environment, including laws addressing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, and the cleanup of contaminated sites. HP recognizes revenue sales arrangement exists, delivery have occurred or services are rendered, the sales price or fee is fixed or determinable and collectability is reasonably assured. The company also recognizes hardware revenue on sales to channel partners, including resellers, distributors or value-added solution providers at the time of sale when the channel partners have economic substance apart from HP and HP has completed its obligations related to the sale.
+	['']
+DirectPointe
+	Provider of information technology (IT) outsourcing and managed services for customers in the United States. The company offers desktop management, server, network, print, cloud computing, desktop virtualization, information technology helpdesk support, hosted exchange, monitoring, asset management and automated backup services.
+	['', 'information technology service', ' ', 'desktop management', ' ', 'automated backup service', '']
+Illumix Software
+	Developer of information technology services. The company\'s software helps in IT asset management, application profiling, capacity planning, network consolidation and data center rationalization. It enables organizations to make informed decisions on IT strategy and investment. It also focuses on the business value of IT to maintain IT infrastructure.
+	['', 'asset management', ' ', 'cost analysis', ' ', 'network consolidation', ' ', 'data center rationalization', ' ', 'application profiling', ' ', 'asset discovery', ' ', 'IT strategy', '']
+Protie
+	Provider of information technology enabled services. The company provides outsourcing, hosting and architecture services primarily to Finnish corporations.
+	['', 'network services', ' hosting virtualization']

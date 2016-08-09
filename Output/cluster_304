@@ -1,21 +1,30 @@
-01 Communique Laboratory
-	Developer and provider of communication software and services. The company develops and markets remote access software which provide users the ability to conduct online meetings and access and remotely control their personal computers using a device connected to the Internet.
-	['', 'remote control', ' ', 'remote communication software', ' ', 'remote access', '']
-BrowserCam
-	Provider of screen capture and remote access services for Web developers and QA engineers. The company provides screen capture service that captures and displays in up to three PDA formats. It provides remote access service for testing mouseovers, javascript, forms, dynamic layouts, cascading style sheets and other platform dependent functionality. It also provides private virtual work spaces.
-	['', 'remote access', ' ', 'screen capture service', ' ', 'virtual work space', ' ', 'testing mouseover', ' javascript ', 'email capture', '']
-Whale Communications
-	Provider of access products, including secure sockets layer virtual private networks, and Web application firewalls, as well as application security, and endpoint security offerings. The company\'s solutions provide remote access, content inspection, and granular access control. It enables businesses to protect corporate applications and data when accessed remotely by mobile workers, partners, and customers.
-	['', 'socket layer', ' ', 'virtual private network', ' ', 'web application', ' ', 'content inspection', '']
-MagniFire Websystems
-	Provider of comprehensive web infrastructure security solutions. The company develops products that enables businesses to protect their most critical data, applications and customer relationships with a low total cost of ownership.
-	['']
-Senforce Technologies
-	Provider of endpoint security solutions to the endpoint security enforcement market.
-	['', 'personal firewall', ' ', 'endpoint security', ' ', 'security solution', '']
-GoRemote Internet Communications
-	Provider of secure remote access solutions, enabling customers to achieve network security, while reducing capital and operating expenses associated with their mobile and remote workforces. The company provides a portfolio of managed remote access solutions for mobile office, teleworker/home offices, and branch office/retail environments.
-	['broadband ', 'network security', ' ', 'access solutions', ' ', 'mobile office', '']
-Aventail
-	Provider of secure sockets layer virtual private network remote access technology. The company provides secure sockets layer virtual private networks (SSL VPN) appliances.
-	['', 'virtual private network', ' ', 'secure socker layer', ' ', 'remote access', '']
+Polimetrix
+	Developer of databases, infrastructure and analytics for politics and survey research. The company provides information product that collects responses and calculates BIX net metrics based on the responses. It also provides consulting, online survey and online qualitative services.
+	['', 'survey research', ' ', 'politics research', ' ', 'online qualitative service', ' ', 'online polling', '']
+Active Reasoning
+	Provider of information technology controls automation software for information technology policy enforcement. The company’s solution collects data from the information technology infrastructure and change management system for validation, as well as detects and reconciles authorized changes, and uncovers the unauthorized changes and out-of-compliance activities that put the infrastructure at risk.
+	['', 'automation software', ' ', 'policy enforcement', ' ', 'change management', ' ', 'compliance activity', '']
+Change Dynamics
+	Provider of software provisions for change management. The company provides software provisions within the IT Infrastructure environment, enabling cost-effective compliance with Sarbanes-Oxley 404 as well as conformity to ITIL guidelines.
+	['', 'information technology', ' ', 'lifecycle management', ' ', 'implementation services', '']
+Consul Risk Management International
+	Provider of compliance and security audit software. The company provides software that helps to track the clients , report and investigate non-compliant behavior, such as unauthorized activity by information technology administrators or other users.
+	['', 'security audit', ' compliance ', 'security management', '']
+Securent
+	Provider of entitlement management solutions. The company’s Entitlement Management Solution (EMS), is an XACML-based solution, which allows organizations to administer, enforce, review, and audit fine-grained access policies across heterogeneous application and information technology environments distributed in the enterprise with centralized management and visibility.
+	['', 'entitlement management solution', ' ', 'content management', ' ', 'software solution', ' ', 'digital rights management', '']
+Active Control eXperts
+	Provider of Active Vibration Control (AVC) services. The company\'s vibration controls technology actively damps or controls unwanted vibration. It also provides vibration-controlling tolls to OEMs.
+	['', 'vibration controlling toll', ' ', 'vibration control', ' ', 'semiconductor manufacturing', ' ', 'motion control component', ' ', 'vibration suppression', '']
+Trust Digital
+	Provider of enterprise mobility management technology and security software for government organizations and various companies. The company offers its services to secure, deploy, and manage smartphones for information technology organizations. It also offers EMM Console, a browser-based software to centrally manage the different smartphones used by mobile workers, as well as to provide policy management tools, reporting capabilities and compliance enforcement facilities to secure smartphones and ruggedized devices.
+	['', 'enterprise mobility management', ' ', 'smartphone management', ' ', 'policy management tool', ' ', 'compliance enforcement', '']
+Network Solutions (Bangalore)
+	Provider of information technology (IT) infrastructure solutions, software and services for enterprise customers. The company offers NOC Inside, an IT Infrastructure management service for managing end to end IT infrastructure and Desktop Manager, a web based application that allows system administrators to auto discover, monitor and report software and hardware inventory.
+	['', 'information technology', ' ', 'infrastructure solution', ' ', 'web based application', '']
+RapidBlue Solutions
+	Provider of retail data and offline shopper analytics. The company uses radio frequency technology to collect shopper movement information and then transforms the anonymous data into information and insights that retailers can use to manage the marketing, merchandising and operations of their businesses.
+	['', 'retail data', ' ', 'radio frequency', ' ', 'shopper movement', '']
+Lighter Living
+	Operator of a lifestyle brand. The company provides women with the tools, products and information to better manage the life and body changes that come with age. It also offers intelligent education, sound information, and efficacious and safe products crossing all categories from food to personal care.
+	['', 'personal care', ' ', 'healthcare information services', ' ', 'fitness product', '']

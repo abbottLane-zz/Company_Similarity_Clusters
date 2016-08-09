@@ -1,24 +1,27 @@
-ClipSync
-	Developer of an interactive social TV platform. The company’s platform allows users to repurpose existing content for social consumption, drive viral traffic to social applications, and serve interactive advertisements for traditional and group consumption through its hosted and managed solution. Its platform also allows publishers to leverage their content and viewers by providing social applications with advertising.
-	['', 'TV platform', ' ', 'social consumption', ' ', 'social application', ' ', 'interactive advertisement', ' ', 'managed solution', '']
-Gumhouse
-	Provider of social stream video shopping network. The company network uses Facebook to personalize users shopping experience.
-	['', 'video shopping', ' ', 'online shopping', ' ', 'shopping network', '']
-Shopa
-	Developer of a social advertising platform. The company provides a social marketplace for its users to provide personalized shopping feeds towards targeted social offers.
-	['', 'social advertising platform', ' ', 'social marketplace', ' ', 'online advertising platform', '']
-Indie Vinos
-	Developer of a mobile application for wine tasting. The company connects small wineries with wine drinkers via mobile and web-based social marketplace and provide them with social selling and customer relationship management tools.
-	['', 'consumer service', ' ', 'consumer product', ' ', 'wine tasting', '']
-Tribe Studios
-	Developer of a gamified social interaction software. The company provides a social virtual world where every character of the drama is played by a real person.
-	['', 'computer game', ' ', 'social interaction', ' drama']
-Tradyo
-	Provider of a social marketplace. The company provides an online, interactive version of classified advertising. The platform provides location-based searches for items, real-time alerts, integrates with social networks and instant communication abilities. The platform is available on the Web and through a mobile application, and serves consumers in the U.S. and Canada.
-	['', 'social marketplace', ' ', 'local buying', ' ', 'local selling', '']
-Scool Sp. z oo
-	Developer of a social platform enabling former classmates in Romania to connect. The company provides a social website as well as a marketing channel for advertisers.
-	['', 'social website', ' classmates']
-Audax Health Solutions
-	Provider of personalized heath management support system. The company provides a platform to users to develop a personalized lifestyle plans, connect and compete with others, track progress towards goals and earn rewards with the objective of adopting a healthier lifestyle.
-	['', 'management information', ' ', 'healthcare information', ' ', 'information integration', ' ', 'community building', '']
+Scrittura
+	Manufacturer of software targeting the financial services markets. The company provides document management, confirmation and straight-through-processing for the OTC derivatives marketplace. Its suite comprises DocGenerator, DocManager and Workflow Manager, as well as configured technology for the automation and management of OTC derivative, legal, corporate trust and HR business processes.
+	['', 'financial service', ' ', 'document management', ' ', 'derivative marketplace', ' ', 'hr business process', ' ', 'document confirmation', '']
+CyMed
+	Provider of medical transcription and document management services. The company offers workflow management services which enables a department\'s workflow with  hand-helds, bar coding, electronic signature, HIPAA compliant access protocols, audit trails, voice capture systems and transcription software.
+	['', 'medical transcription', ' ', 'workflow management', ' ', 'quality control', '']
+GTESS
+	Provider of healthcare claims processing service. The company\'s custom solutions edit and clean claims by automating specific, time and cost-intensive processes.
+	['automation ', 'healthcare claims', '']
+Ascendo System
+	Developer of document and workflow management technologies. The company specializes in electronic invoice management system and also offers other software products for businesses that monitors time-related documents and sets email reminder.
+	['', 'document management', ' ', 'workflow solution', ' ', 'invoice management', '']
+Synchris
+	Provider of bid lifecycle management software for government contractors. The company provides virtual workspace software that integrates communication, collaboration, document management and workflow features into a unified application that integrates with the Microsoft desktop.
+	['', 'bid lifecycle management software', ' ', 'virtual workspace software', ' ', 'document management', ' ', 'task order management', '']
+Nipuna Services
+	Provider of industry specific services to the customers in the insurance and healthcare sectors. The company\'s services include claims processing, policy issuance and premium accounting. The company also offers contact centre services for customer service, product support and technical help desk, in accounting, HR and other transaction-intensive activities, including analytics and animations.
+	['', 'Finance and accounting', ' ', 'accounts payable', ' ', 'financial accounting', ' ', 'HR services', ' ', 'payroll processing', ' ', 'employee development', ' ', 'Customer contact services', ' ', 'contact management', ' ', 'Technical helpdesk', ' ', 'product support', ' ', 'research and analytics', '']
+Third Millennium Healthcare Systems
+	Provider of revenue cycle management software. The company provides automate rejected or denied claims management, document imaging, claims tracking, workflow, document management, reporting and secondary claims processing.
+	['', 'revenue cycle management', ' ', 'denied claim', ' ', 'document imaging', ' ', 'Productivity Software', '']
+Enfocus
+	Developer of portable document format software. The company specializes in the development of tools to control the quality of PDF files for print and to automate workflow processes in the graphic arts industry.
+	['format ', 'PDF files', ' ', 'graphic arts', '']
+GHN Online
+	Developer of a revenue cycle management platform and clearinghouse focusing on the healthcare industry. The company serves the enterprise-class clientele through their intuitive web-based claims management solution during every stage of the electronic billing process.
+	['', 'revenue cycle management', ' ', 'transaction processing', ' ', 'claims processing', '']

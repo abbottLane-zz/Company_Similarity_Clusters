@@ -1,21 +1,27 @@
-Fotolog
-	Operator of a social networking site. The company’s site enables members to express themselves through online photo diaries or photo blogs.
-	['', 'social networking site', ' ', 'online photo diaries', ' ', 'photo blog', '']
-Network
-	Owner and operator of a social networking site for professionals. The company allows professionals to stay connected.
-	['', 'social networking', ' ', 'professional network', ' ', 'social media network', '']
-Bahu.com
-	Owner and operator of a social networking site for students. The company allows writers, artists, musicians, models and others to create a special talent page showcasing their work.
-	['', 'young students', ' ', 'platform software', ' ', 'information technology', '']
-Zealous Interactive
-	Owner and operator of a social network and web portal. The company specializes in online media distribution, social networking, content management and features its print and online publications and over 700 URLs and websites. Its flagship enterprise is TheAdultSpot.com and TheAdultSpot 3D.
-	['', 'online media distribution', ' ', 'content management', ' ', 'social network', ' ', 'online publication', '']
-Viadeo
-	Operator of an online networking site for professionals. The company helps its users to find clients, suppliers, business partners, jobs and employees online.
-	['', 'networking site', ' ', 'professional network', ' ', 'job search', '']
-hi5
-	Provider of social networking site. The company provides platform for the people to stay connected with each other, share content and information. It also provide gaming platform to play online game.
-	['', 'online chat', ' ', 'online game', ' ', 'online community', ' ', 'advertised game', '']
-Opsmatic
-	Provider of tools for professional operations. The company\'s technology helps professionals to complete their tasks in a strategic manner thus keeping performance, deployments and downtime under check.
-	['', 'professional operation', ' ', 'workflow software', ' ', 'performance management', '']
+Ballard Power Systems
+	Ballard Power Systems Inc was incorporated in the State of Canada on November 12, 2008. It is a clean energy growth company. The company is engaged in proton exchange membrane (PEM) fuel cell development and commercialization. The Company\'s main business is the design, development, manufacture, sale and service of fuel cell products for a variety of applications, focusing on motive power (material handling and buses) and stationary power (back-up power, supplemental power, and distributed generation). A fuel cell is an environmentally clean electrochemical device that combines hydrogen fuel with oxygen (from the air) to produce electricity. Ballard fuel cell products feature high fuel efficiency, low operating temperature, low noise and vibration, compact size, quick response to changes in electrical demand, modular design and environmental cleanliness. The Company has four principal subsidiaries and affiliates: Ballard Fuel Cell Systems Inc., an Oregon corporation that develops methanol-fueled clean energy backup power systems; Dantherm Power A/S ("Dantherm Power"), a Denmark-based corporation jointly owned with Dantherm A/S that develops hydrogen-fueled clean energy backup power systems; BDF IP Holdings Ltd. ("IP Holdings"), a Canadian corporation that holds intellectual property assets; and Ballard Material Products Inc., a Delaware corporation that formerly developed and manufactured carbon fiber products for use in the automotive and fuel cell markets, and which now focuses on the development of fuel processing components and systems for use in fuel cell applications.
+	['', 'fuel cells', '']
+P21
+	Providers of autonomous energy supply and energy-efficient solutions, with the aim of replacing diesel generators with zero-emission products. The company provides services in energy efficiency and monitoring, solutions for supplying electricity to off-grid applications such as monitoring stations, telecommunications facilities or self-sufficient houses; and providing education and research programs for fuel-cell and solar-hydrogen technology.
+	['energy-management ', 'energy consumption', ' ', 'hydrogen fuel cell system', ' ', 'climate reading', ' ', 'CO2 balance', '']
+Pemeas
+	Supplier of key components and subsystems to the fuel-cell industry. The company has two divisions. The Celtec division of Pemeas is focused on the development and commercialization of high temperature membranes and MEAs. The E-TEK division of Pemeas is developing precious-metal catalysts and electrode technology.
+	['', 'fuel cell', ' ', 'high temperature membranes', ' ', 'electrode technology', ' ', 'metal catalyst technology', '']
+Mork Process
+	Creator of equipment for the pharmaceutical industry. The company designs and builds customized Clean-In-Place, Sterilize-In-Place, and Clean-Out-of-Place systems for use within the pharmaceutical industry.
+	['', 'modulized cleaning', ' ', 'sterilization equipment', ' ', 'cleaning equipment', ' ', 'baking oven', ' ', 'spiral freezer', ' ', 'docking station', '']
+Mesofuel
+	Developer of hydrogen generators to convert fuels into hydrogen for fuel cell sales in portable and stationary applications. The company\'s technology uses proprietary fuel processors and nano-scale filtering of hydrogen to create a novel compact product that generates hydrogen in an environmentally friendly manner.
+	['', 'hydrogen generators', ' ', 'desulphurization technologies', ' fuel']
+H2Gen
+	Manufacturer of low-cost and small-scale hydrogen generators. The company provides these hydrogen generation machines to target the the emerging fuel cell vehicle and distributed fuel cell power generation markets.
+	['generator ', 'steam methane', ' ', 'purification plant', ' hydrogen']
+UltraCell
+	Developer and seller of integrated fuel cell systems. The company provides portable power source for computing, communications and sensing devices.
+	['', 'fuel cell', ' ', 'portable power', ' ', 'sensing device', '']
+BioFuelBox
+	Provider of a process that treats the lipid content of municipal wastewater and municipal FOG. The company also serves fuel distributors and blenders, and high-volume fuel users.
+	['', 'municipal wastewater', ' ', 'algae paste', ' ', 'waste fat', ' ', 'air flotation waste', '']
+PolyFuel
+	Developer of micro fuel cells using direct methanol fuel cell technologies.
+	['', 'micro fuel cell', ' ', 'fuel cell technology', ' ', 'methanol fuel', ' ', 'hybrid power', '']

@@ -1,30 +1,42 @@
-Lebanon Plastics
-	Manufacturer of molded plastic products. The company engages in machine production and manufacturing of integrated plastic injection molded products.
-	['', 'plastic products', ' ', 'molded products', ' ', 'plastic injection', '']
-Agami
-	Designer and developer of production lines for plastic bottles. The company develops production lines for plastic bottles with capacities of between 100 and 500 ml. Its production lines are based on vertical tubular thermoforming technology using reels of plastic sheeting.
-	['', 'plastic bottle', ' ', 'production line', ' ', 'thermoforming technology', ' ', 'plastic sheet', '']
-T_O_P Oberflächen
-	Provider of paint products. The company provides scratch-resistant surface coating of thermally sensitive, optically transparent plastics (PLEXIGLAS), of plastic materials in general and of non-plastic materials.
-	['', 'paint product', ' ', 'scratch-resistant', ' ', 'surface coating', ' ', 'Specialty Chemical', '']
-Sogemap
-	Producer of plastic products.
-	['', 'plastic product', ' ', 'raw material', ' ', 'plastic manufacturing', '']
-ADAP Nanotech
-	Manufacturer of carbon nanotube based adhesives and coatings. The company specializes in manufacturing and commercialization of high performance thermally and electrically conductive adhesives for use in demanding industrial and electronics applications, with an initial focus on thermal interface materials deployed to facilitate cooling of electronic components.
-	['', 'carbon nanotube', ' ', 'electrically conductive adhesives', ' adhesives']
-Kalvopakkaus
-	Manufacturer of plastic packaging products. The company is a supplier of plastic bags, flexible packaging and laminated films to customers. It also prints packaging.
-	['', 'plastic products', ' ', 'rubber products', ' ', 'laminated films', '']
-AJ Precision Components
-	Provider of plastic product moulding services. The company specializes in providing injection moulding, pad printing, potting, project management, two-shot moulding, ultrasonic welding and injection blow moulding services for the pharmaceutical, packaging, aerospace and automotive industries.
-	['', 'contract manufacturing', ' ', 'blow moulding', ' ', 'moulding machines', '']
-Innoplast
-	Provider of plastic products. The company specializes in manufacturing and processing injection molding.
-	['', 'plastic products', ' ', 'injection moldings', ' plastic']
-MicroGREEN Polymers
-	Producer of ecologically sound plastic for retail, food service and packaging industry. The company develops technology to convert recycled plastic water bottles into recyclable products.
-	['', 'recycle product', ' ', 'plastic technology', ' ', 'recycled plastic', ' ', 'ecological sound plastic', '']
-RSP Tooling
-	Developer of tooling machines that use patented rapid solidification process technology. The company develops production and prototype tooling for forging, die casting and plastic injection applications.
-	['', 'rapid solidification process technology', ' ', 'industrial products', '']
+Servicios de Ingeniería y Tecnologías de Diseño
+	Provider of engineering services and technology design. The company provides services to the aerospace industry.
+	['', 'electrical system', ' ', 'aerospace industry', ' ', 'engineering service', '']
+RuleStream
+	Provider of standards based engineering solutions that help manufacturers to capture, manage and reuse product knowledge. The company provides software for automating the build-to-order process across engineering, manufacturing and sales.
+	['', 'software solutions', ' ', 'software engineering', ' ', 'Standards Based Engineering', ' ', 'Product Lifecycle Management', ' ', 'Engineering Resource Planning', ' ', 'knowledge software', '']
+Bego (Mechanical Engineering)
+	Operator of a mechanical engineering company. The company is engaged in industrial mechanics and metalworking.
+	['metalworking ', 'industrial mechanics', ' ', 'mechanical engineering', '']
+GrabCAD
+	Provider of cross-platform computer aided design library and engineering community. The company\'s platform allows engineers to share and host files and communicate.
+	['', 'engineering service', ' ', 'computer aided design', ' ', 'technical drawing', ' ', 'design model library', ' ', 'engineering community', '']
+Cycell
+	Operator of a mobile network. The company enables organizations to complete product development, secure GSM certification and set up a production facility to customise and brand handsets.
+	['', 'mobile network', ' ', 'product development', ' ', 'GSM certification', '']
+Structural Dynamics Research
+	Provider of enterprise product development solutions with a suite of mechanical design automation software and product data management software. The company provides mechanical computer-aided engineering (MCAE) software and engineering services which help manufacturers optimize product development early in the design process.
+	['', 'automation software', ' ', 'data management software', ' MCAE ', 'mechanical computer-aided engineering', '']
+InPart Design
+	Developer of strategic sourcing software and content services for the industrial marketplace. The company provides web-based enterprise software and three-dimensional (3D) computer-aided design (CAD) model libraries of standard mechanical components to improve product development cycles and reduce component expenses for manufacturing companies.
+	['', '3D geometry', ' ', '3D models', ' ', 'technical specification', '']
+Accept Software
+	Developer of Enterprise Product Development technology. The company offers a collaborative approach to product planning for product professionals while transforming product outcomes.
+	['', 'enterprise product development', ' ', 'product development platform', ' ', 'consumer good', '']
+Synchronicity
+	Developer of software to improve the integrated circuit design process. The company provides services for semiconductor, embedded software and system developers on design management and collaboration solutions for managing and distributing very large-scale electronic designs across multiple sites.
+	['', 'circuit design', ' ', 'design management', ' ', 'collaboration solutions', ' ', 'electronic designs', ' semiconductor ', 'system developers', ' ', 'embedded software', '']
+Adra Systems
+	Developer of computer-aided designing software used for industrial and mechanical processes. The company engages in providing software-aided mechanical casting and industrial processing services.
+	['', 'CAD software', ' ', 'computer-aided design', ' ', 'mechanical designing', '']
+Aspect Development
+	Operator of a software, data content and services company. The company provides component and supplier management (CSM) technology to manufacturers. The company\'s applications and supplier-information databases are focused on improving the product-development cycle. Its CSM technology targets the design and procurement processes of the manufacturing enterprise, providing design engineers and procurement personnel the ability to rapidly search, compare and select optimal designs, components and suppliers.
+	['', 'enterprise solution', ' CSM ', 'supplier database', ' ', 'data content', '']
+6th Sense Analytics
+	Provider of software solutions for automated collection and analysis of software engineering process and product data.
+	['', 'software engineering', ' ', 'engineering software', ' ', 'data collection', ' ', 'automated data collection', ' ', 'data analysis', '']
+Hanza
+	Manufacturer of industrial products. The company provides mechanical, electronics, cable harnesses and final assembly products for industrial uses.
+	['', 'industrial product', ' ', 'assembly product', ' ', 'cable harness', '']
+Satellier
+	Provider of workshare solutions to the global AEC industry. The company provides workshare services such as Building Information Modeling (BIM), Design Support, Engineering/MEP, Design Management Services, and computer aided drafting support to architectural, engineering, and MEP disciplines.
+	['', 'design support', ' ', 'design management', ' ', 'project documentation', ' ', 'building information modeling', '']

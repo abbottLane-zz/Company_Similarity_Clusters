@@ -1,27 +1,66 @@
-Cierra
-	Developer of novel therapies for the minimally invasive treatment of patent foramen ovale. The company is developing devices to mend hole in the heart and significantly reduce migraines.
-	['', 'novel therapies', ' ', 'patent foramen ovale treatment', ' ', 'heart diseases', ' ', 'therapeutic devices', '']
-Gnodal
-	Developer of a technology that improves performance and power in data centers. The company\'s technology aims to significantly reduce power usage and running costs.
-	['', 'systems design', ' ', 'data technology', ' ', 'data centre', '']
-Corvascular
-	Provider of technology for minimally invasive cardiac surgery. The company is the developer of the Transarrest platform, which enables surgeons to temporarily stop a patient’s heart in order to place sutures on the coronary arteries.
-	['', 'cardiac surgery', ' ', 'surgical devices', ' ', 'surgery technology', ' ', 'heart surgery', ' ', 'coronary arteries', '']
-Vivant Medical
-	Developer of novel and proprietary microwave ablation technology for the minimally invasive ablation of soft tissue. The company was focused in tissue-sparing tumor therapy.
-	['', 'Microwave Ablation System', ' ', 'soft tissue', '']
-Solarant Medical
-	Developer of minimally invasive therapies for women who suffer from stress urinary incontinence. The company\'s technology include radio frequency bladder neck suspension, an innovative treatment for female urinary incontinence.
-	['', 'urinary incontinence', ' ', 'therapeutic device', '']
-BEI Medical Systems
-	Manufacturer of proprietary and minimally invasive endometrial ablation system. The company launched its product in 2001 for treatment of  abnormal uterine bleeding, a condition known as menorrhagia which mainly affects women.
-	['', 'medical technology', ' ', 'endometrial ablation system', '']
-Plexpress
-	Developer of novel gene expression analysis systems. The company is developing and marketing novel gene expression analysis assay called TRAC which helps to serve a range of applications and experimental systems, including ADME-Tox screening and disease research. Plexpress was established as a spinoff from the Finnish Technology Research Center (VTT) in 2007.
-	['', 'analysis system', ' ', 'novel gene expression analysis', ' ', 'disease research', '']
-DrugAbuse Sciences
-	Developer of novel therapies for alcohol and drug abusers. The company develops and commercializes novel therapies for the treatment of alcohol and drug addictions.
-	['', 'treatment for alcoholic', ' ', 'drug based treatment', ' ', 'pharmaceutical service', '']
-Microsurge
-	Designer, developer and manufacturer of surgical instrumentation for use in minimally invasive surgery. The Company is currently developing families of surgical instrumentation for use in minimally invasive abdominal procedures, referred to as laparoscopy, and minimally invasive thoracic procedures, referred to as thoracoscopy.
-	['instrument invasive procedure']
+Wharton Econometrics
+	Provider of economics forecasting and consulting services. The company provides economic information and research to commercial markets worldwide.
+	['', 'economic forecasting', ' forecasting ', 'consulting service', '']
+Predictive Systems
+	Provider of network consulting services. the company provides network infrastructure and security consulting services focused on helping global enterprises and service providers harness the power of network technology.
+	['', 'information technology service', ' ', 'network consulting', ' ', 'design and security', '']
+e2e
+	Provider of IT consulting services.The company is a technology consulting firm specializing in software architecture, program management, process improvement and assessment services.
+	['', 'technology consulting', ' ', 'program management', ' ', 'software architecture', ' ', 'process improvement', ' ', 'IT consulting', '']
+Foundstone
+	Developer of software for detecting and managing software vulnerabilities. The company offers a combination of enterprise software, appliances, consulting services and education to help organizations protect their assets from threats.
+	['', 'strategic security', ' ', 'network security', '']
+Energy Response
+	Provider of advisory services that facilitates the buying and selling of energy. The company provides strategic advice relating to market development and reform, market access, transmission, distribution and retail issues, regulation issues, competition policy, governance arrangements, legislative and institutional arrangements and user participation issues.
+	['', 'electricity market', ' ', 'price risk management', ' ', 'network support', ' ', 'electricity distribution', '']
+Forum-Défi
+	Provider of advisory and consulting services. The company provides advisory and consulting services about furniture design and multimedia to companies and individuals.
+	['', 'advisory service', '']
+Schoonover Associates
+	Provider of competency management data and consulting services. The company specializes in leadership and executive development, strategic human resources consulting, competency model building, and talent management systems.
+	['', 'competency management', ' ', 'executive development', ' ', 'talent management', ' ', 'competency model', ' ', 'human resource consulting', '']
+Solid Information Technology
+	Provider of proprietary database products. The company also provides various consulting services, which include technical assessment, proof of concept and database and application migration services.
+	['', 'database products', ' ', 'business consulting', ' ', 'application migration service', '']
+The SLTN Group
+	Provider of consulting and advisory services for implementation, management and migration of issues in profit and non-profit organizations. The company along with its four divisions provides software and hardware solutions for eServer hardware platforms, financial advisors and software vendors for consolidation, virtualization, designing infrastructure for managed cloud services.
+	['BPO eServer ', 'advisory services', ' ', 'cloud services', '']
+HelloWallet
+	Provider of online financial advisory services. The company helps workers to manage their overall household finances by finding the money to boost their contributions to retirement savings and reduce debt.
+	['', 'financial advice', ' ', 'financial guidance', ' ', 'personal finance management', ' ', 'household finance', ' ', 'retirement saving', '']
+Lexington Software Associates
+	Provider of technology and service solutions for software development and delivery environments. The company provides software consulting services including systems programming, website designing and high level consulting.
+	['', 'service solutions', ' ', 'systems management', ' ', 'website designing', '']
+Magnet 360
+	Provider of consulting services. The company provides creative, marketing and technology consulting services like Salesforce consulting, CRM implementation, engagement strategy, social, mobile development, marketing automation, user experience, application development, channel marketing, and insights and analytics.
+	['', 'marketing automation', ' ', 'cloud industries', ' ', 'implementation services', '']
+AlphaBoost
+	Provider of consulting services to social advertisers. The company enables social advertisers to make decisions about where to spend their media dollars and how to communicate with their fans, followers and other owned audiences.
+	['', 'social advertiser consultation', ' ', 'communication channel', ' ', 'advertisement platform', '']
+gp3 Groupe Conseil
+	Provider of consulting services. The company helps departments and agencies to implement their strategic plan to facilitate the transition to tactical and operational plans.
+	['', 'operational plans', ' ', 'startegic plans', ' architecture']
+Venture Farm
+	Provider of finance and advisory services. The company provides direct investments and execution assistance to entrepreneurs and early stage companies.
+	['', 'managed capital', ' ', 'advisory services', ' ', 'growth funding', '']
+Boule Diagnostics
+	Boule Diagnostics AB is engaged in developing, manufacturing, and marketing hematology measurement systems. The company offers blood analysis systems, plastic micro capillaries, as well as support and consulting services for human and veterinary markets.
+	['hematology ', 'blood disease', ' ', 'blood analysis', ' ', 'blood diagnostic', '']
+USBX Advisory Services
+	Provider of investment advisory services to businesses. The company provides merger & acquisition advisory services, valuation services, institutional private placement and related strategic advisory services.
+	['', 'investment advisory', ' ', 'financial advisory', ' ', 'strategic advisory service', '']
+InPhase Technologies
+	Developer of holographic data storage recording media and systems. The company also provides a range of holographic recording materials, test equipment and consulting services for research and development organizations. The company offers its products for film and television studios, corporate enterprises, and medical institutions.
+	['', 'holographic data', ' ', 'media and system', ' ', 'holographic recording', ' ', 'film studios', ' ', 'television studios', ' ', 'computer hardware', ' ', 'electronic components', '']
+Fidelio Software
+	Operator of a software company. The company provides management support to the hospitality industry in the form of software, hardware and consulting services.
+	['', 'software solution', ' ', 'consulting service', ' ', 'management support', '']
+Cuesol
+	Provider of multi-channel, loyalty-based shopping solutions for consumers conducting business in the store, on the Web and over wireless devices. The company also provides design, project management, implementation and marketing consulting services.
+	['', 'interactive shopping', ' ', 'online shopping', ' ', 'project management', ' ', 'data staging', '']
+Integrated Systems Consulting Group
+	Provider of information and consulting services. The company provides software applications development and systems and network management consulting services. It also provides client-server architecture, graphical user interface-based applications, object-oriented and relational databases and cross-platform applications integration.
+	['', 'information enabled service', ' ', 'client-server architecture', ' ', 'network management', '']
+BroadReach Partners
+	Provider of business development consulting services. The company provides business development consulting services like sales pipeline development, prospect nurturing and conversion, and field marketing integration to businesses to improve their efficiency.
+	['', 'sales development', ' ', 'revenue improvement', ' ', 'financial consultancy service', '']

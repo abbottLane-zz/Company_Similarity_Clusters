@@ -1,39 +1,12 @@
-Benebit Networks
-	Provider of a security software. The company develops security software for real time protection of information in the real world, security audits, penetration testing, programmer education programs, security consulting and data classification.
-	['prevention ', 'information leakage', ' ', 'data theft', '']
-Guardium
-	Developer of database security software. The company develops software for preventing information leaks from the data center and ensuring the integrity of enterprise data.
-	['', 'database security', ' ', 'enterprise data integration', ' ', 'information security', '']
-CoSoSys
-	Developer of network endpoint security and portable storage device enhancement solutions. The company also provides portable USB security software solutions that offer flash drive encryption, data synchronization, Outlook synchronization, and biometric data security.
-	['', 'network security', ' ', 'software solution', ' ', 'biometric data', ' ', 'data security', '']
-Axent
-	Provider of enterprise-grade security software. The company provides an integrated suite of software designed to assess vulnerabilities and ensure policy compliance, provide firewall protection & intruder alerts; enable security Internet usage, and to manage users and resources.
-	['', 'information security', ' ', 'information assets', ' ', 'security services', '']
-Signal Innovations Group
-	Developer of decision systems for various sensor and data types for government customers and industry partners in national security, public safety and commercial surveillance sectors. The company offers a processing, exploitation and dissemination software suite for airborne intelligence, surveillance and reconnaissance that is deployed by analysts and war fighters on size, weight and power constrained platforms and a recognition software suite to offer a combination of detection, classification and identification techniques, as well as to collect sensor data, including radars, sonar, images and videos on onboard manned and unmanned vehicles to find and recognize air, ground and undersea military targets.
-	['', 'processing software', ' ', 'dissemination software suite', ' ', "\\'recognition software suite", ' ', 'applied defense research', ' ', 'radar signal processing', ' ', 'surveillance software', '']
-Pedestal Software
-	Provider of security management services. The company offers security software used by companies in the financial services, insurance, health care and government sectors.
-	['', 'management solution', ' ', 'security solution', ' ', 'security software', ' ', 'financial service', '']
-Formative Labs
-	Provider of social applications connected to real world actions. The company provides information to consumers on energy consumption habits.
-	['', 'social application', ' ', 'energy consumption', ' ', 'social behavior', '']
-Demarc Security
-	Provider of threat-security software. The company provides a platform enabling enterprises to centrally monitor & manage their networks and receive real-time security threat updates.
-	['firewall ', 'internet security', ' ', 'threat protection', '']
-AirZip
-	Provider of security software for preventing unauthorized access to confidential documents. The company provides FileSECURE to secure Microsoft Office documents, PDFs, all major CAD formats, images, media and other files as well as the output of ANY application that can print.
-	['', 'file security', ' ', 'security software', ' ', 'access authorization', ' ', 'file access management', ' ', 'user authentication', ' ', 'file access tracking', ' ', 'group management', '']
-Securewave
-	Provider of security software and digital data-security services. The company develops security products that enable banks and other organizations to manage, monitor and maintain control over applications and devices on their corporate networks, and to prevent cases of data threats.
-	['', 'network security', ' ', 'digital data security', ' ', 'data threat', ' ', 'software security', '']
-Application Security
-	Provider of database security application. The company develops security software for relational databases and big data stores that helps businesses and government agencies uncover critical configuration mistakes, access control issues, missing patches, or any toxic combination of settings that could lead to denial-of-service attacks, unauthorized data modification and data breaches.
-	['', 'database security', ' ', 'compliance solution', ' ', 'vulnerability management', ' ', 'threat management', ' ', 'audit management', ' ', 'database integration', ' ', 'database discovery', '']
-Redspin
-	Provider of information security assessments, risk management and compliance services. The company specializes in IT and web application security assessments, HIPAA security risk analysis, penetration testing and mobile device security assessments.
-	['', 'information security', ' ', 'information security assessments', ' ', 'penetration testing', ' ', 'security audits', '']
-NetSolve
-	Provider of enterprise data networking services. The company offers services for managing remote network and complex IT infrastructures with remote management technology. It also helps in monitoring and management of IP communications networks, security software and devices, WANs and LANs and also offers a secure web-based portal to give customers and partners real-time visibility of their IT infrastructure.
-	['', 'IT infrastructure', ' ', 'remote network', ' ', 'software infrastructure', ' monitoring firewall']
+Amsco International
+	Manufacturer and supplier of sterilization products. The company manufactures sterilization systems, surgical tables and lights, and related infections prevention products and services for the healthcare and scientific markets.
+	['', 'sterilization product', ' ', 'health care industry', ' ', 'technology platform', '']
+Distributions Marc Boivin
+	Supplier of meat products. The company distributes meat products for supermarkets.
+	['', 'meat products', ' ', 'meat supplier', ' sausage beef salami']
+ShockWatch (Equipment Monitoring Division)
+	Manufacturer of damage prevention products. The company develops equipment monitoring products to prevent damage.
+	['', 'damage prevention product', ' ', 'monitoring equipment', ' ', 'prevention equipment', '']
+Concord Industries
+	Manufacturer and supplier of corporate identity, promotional and gift items. The company manufactures a line of products including leather goods, briefcases, portfolios, business card holders, travel accessories, bags, wallets, purses, and key tags.
+	['', 'gift items', ' ', 'luxury goods', ' ', 'travel accessories', ' ', 'promotional goods', ' ', 'leather goods', '']

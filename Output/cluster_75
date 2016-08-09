@@ -1,21 +1,21 @@
-Youth Fair
-	Provider of undisclosed products and services.
-	['', 'industrial products', ' ', 'industrial services', ' ', 'consumer products', ' ', 'consumer services', '']
-Vantage
-	Provider of undisclosed goods and services.
-	['', 'business goods', ' ', 'consumer goods', ' ', 'consumer service', '']
-Global One Media
-	Provider of undisclosed products and services.
-	['media']
-UrbanTakeover
-	Provider of undisclosed products and services.
-	['']
-Sales Technologies
-	Provider of undisclosed products and services.
-	['']
-IVT Systems
-	Provider of undisclosed services.
-	['']
-Huittisten Eurobag
-	Provider of undisclosed products and services.
-	['']
+InovisProject
+	Manufacturer and developer of multilayer coatings. The company specializes in the production of coated products for the production of films for cameras.
+	['', 'industrial coating', ' ', 'film coating', ' ', 'multilayer coating', '']
+EcoSynthetix
+	Developer and marketer of biobased materials. The company is focused on developing bio-based materials through the value-added substitution of petroleum-based products. The company’s products include biolatex binders, which use starches from renewable-crop resources; and EcoMer, environmentally sustainable, sugar-based monomer adhesives, which can be used instead of a wide variety of petrochemical ingredients that go into paint, adhesives, plastics, inks, toners and surfacants.
+	['', 'chemical products', ' ', 'bio-materials', ' polymers ', 'renewable resources', '']
+Carbodeon
+	Developer and supplier of super-hard nanomaterials. The company is a developer of nano-diamonds and graphite carbon nitride, materials that it markets for use in wear-resistant, biocompatible coatings, energy storage, thermal management, polishing, abrasives and lubricant oils.
+	['nanomaterials  diamonds abrasives polishing']
+ADAP Nanotech
+	Manufacturer of carbon nanotube based adhesives and coatings. The company specializes in manufacturing and commercialization of high performance thermally and electrically conductive adhesives for use in demanding industrial and electronics applications, with an initial focus on thermal interface materials deployed to facilitate cooling of electronic components.
+	['', 'carbon nanotube', ' ', 'electrically conductive adhesives', ' adhesives']
+PartMiner Worldwide (CAPS Business)
+	Supplier of electronic components for the electronics industry.
+	['', 'electronic component', ' ', 'electronic tool', ' ', 'electronic component database', ' ', 'equipment manufacturer', '']
+Lingk & Sturzebecher
+	Manufacturer of lightweight hydraulic cylinders consisting of carbon fiber-reinforced plastics. The company is engaged in the development of composite materials for use in pressurized hydraulic applications in aerospace, mobile and industrial markets.
+	['', 'hydraulic cylinder', ' ', 'carbon fiber reinforced plastics', ' actuator']
+Nanoconduction
+	Provider of products based on carbon nanotube technology optimized for IC chips, LEDs  and Solar Cells. The company develops nano-based electronic cooling Technology.
+	['nanotechnology ', 'nanoconduction technology', ' semiconductors']

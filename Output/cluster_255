@@ -1,15 +1,27 @@
-Kaffee Toro
-	Operator of an online subscription platform for coffee drinkers. The company provides online subscription services of filter coffee machines for consumers.
-	['', 'filter coffee', ' roast-grind-brew ', 'subscription platform', ' filter']
-Marila Balírny
-	Producer of coffee and coffee products. The company owns a coffee roasting plant and production facility near Prague, Czech Republic. Along with its coffee and cappuccino, the company produces a wide assortment of sponge cakes, wafers and gingerbread.
-	['coffee cappuccino ', 'sponge cakes', ' wafers gingerbread']
-Novus Packaging
-	Manufacturer of extrusion-coated and laminated packaging materials serving the food, pharmaceutical and industrial markets. The company provides packaging materials including Sugar pouches/sticks/packs, Stand-up pouches, Candy wrappers, Coffee pouches, Bread bag Lidding stock, Deli wrap, Cake plates and Bakery Pouches.
-	['coated ', ' commercial bags', ' ', 'juice liner', ' lamination pouch']
-Adina For Life
-	Producer of beverages in the United States. The company’s products include juice coolers, coffee and tea drinks, ingredients, and drink recipes.
-	['', 'manufacturing company', ' ', 'juice cooler', ' ', 'tea and coffee', '']
-TONX
-	Operator of a coffee distributor company. The company delivers freshly roasted coffee beans to the client\'s doorstep providing an alternative to buying stale and bitter coffee beans off the shelf.
-	['', 'coffee manufacturing', ' ', 'coffee bean', ' ', 'roasted coffee', '']
+Trega Biosciences
+	Developer of products designed to assist pharmaceutical and biotechnology companies in the identification of drug candidates. The company conducts an internal drug discovery program in the areas of obesity, diabetes and syndrome X, a syndrome associated with obesity and diabetes, involving the human body\'s resistance to insulin.
+	['', 'drug discovery', ' ', 'drug discovery program', ' ', 'obesity treatment', ' ', 'diabetes treatment', '']
+FASgen
+	Developer of therapeutic drugs. The company designed and synthesized many compounds that selectively inhibit fatty acid biosynthesis. It offers cancer, infectious diseases, multiple drug resistant and latent tuberculosis and obesity and diabetes therapeutics.
+	['', 'therapeutic drugs', ' ', 'diabetes tool', ' ', 'latent tuberculosis', '']
+Konova
+	Developer of anti-obesity drugs. The company develops drugs that are used for the treatment of obesity.
+	['', 'anti obesity drug', ' ', 'slimming drug', ' ', 'medical device', '']
+Zafgen
+	Developer of biopharmaceutical treatments for severe obesity. The company develops obesity therapeutics for use in the treatment of obesity and associated co morbidities.
+	['', 'obesity therapeutic', ' ', 'biological foundation', ' ', 'metabolic disorder', ' ', 'vascular targeting', ' obesity ', 'weight loss', ' ', 'obesity treatment', '']
+CAVU Medical
+	Developer of restrictive device for treatment of obesity. The company has developed an assembly and method for automatically controlling pressure for a gastric band.
+	['', 'obesity treatment', ' ', 'gastric band control', ' ', 'weight loss', '']
+Claria
+	Developer of anti-virus software. The company developed adwares, spywares and  personalized search technology for its users.
+	['spyware ', 'personalized search', ' ', 'anti-virus software', '']
+Vibrynt
+	Developer of a technology for morbid obesity. The company is the developer of an investigational device designed to assist with weight loss by limiting food consumption.
+	['obesity ', 'weight loss', ' ', 'investigational device', ' ', 'treat obesity', '']
+Combinent BioMedical Systems
+	Provider of hydrophobic and hydrophilic molecules, proteins and other molecules. The company focuses on trans-vaginal delivery of drugs targeting women\'s reproductive endocrinology disorders as well as diabetes, obesity and infectious diseases.
+	['', 'vaginal ring', ' ', 'transvaginal drug delivery', ' ', 'reproductive endocrinology disorders', ' ', 'drug delivery system', ' ', 'diabetes drug', '']
+Xcellsyz
+	Developer of drugs for the treatment of diabetes and obesity. The company is using human cell-based systems biology to discover new drugs to treat metabolic diseases such as diabetes and obesity.
+	['', 'obesity treatment', ' ', 'cell-based systems biology', ' ', 'metabolic diseases', '']

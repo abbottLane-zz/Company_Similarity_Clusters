@@ -1,33 +1,27 @@
-Masimo
-	Manufacturer of innovative noninvasive patient monitoring technologies. The company offers noninvasive blood constituent patient monitoring services that consists of a monitor or circuit board and its proprietary single-patient use and reusable sensors and cables.
-	['', 'patient monitoring', ' ', 'healthcare services', ' ', 'medical device', '']
-Health Market Science
-	Provider of data integration and analytic software for the health care industry. The company supplies data on healthcare professionals and operates a practitioner-level medical claims database in the U.S. Its data assets also help its clients deal with government compliance, reduce operational costs and more.
-	['', 'federal compliance', ' ', 'healthcare information', ' ', 'federal regulation compliance', ' ', 'customer data validation', '']
-Medico.com
-	Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.
-	['', 'health care information', ' ', 'health information portal', ' ', 'online health portal', '']
-Ensure Medical
-	Developer of devices for post catheterization closure of the femoral artery. The company offers femoral artery closure device, which uses a synthetic bioabsorbable polymer to stop bleeding and close the site of the arterial puncture. It also offers cardiac and vascular devices for health care professionals to treat cardiovascular diseases.
-	['', 'arterial puncture', ' ', 'femoral artery', ' ', 'health care professional', '']
-Lively (Wireless Monitoring Technology)
-	Developer of a wireless monitoring technology for senior citizens. The company has developed a safety watch and sensors for monitoring pill dispensers, appliances and other everyday items. The system shares sensor data through its home health platform for older adults, enabling family members and other caregivers to get alerts.
-	['', 'remote sensor', ' ', 'remote monitoring', ' ', 'family networking', ' ', 'family communication platform', ' ', 'photo sharing', ' ', 'family message sharing', '']
-Mackmyra Svensk Whisky
-	Mackmyra Svensk Whisky AB is engaged in manufacturing, sales and marketing of malt whiskey and whiskey-related products. The Company offers a range of Swedish Whiskey\'s produced at its distillery located in Mackmyra Mill in Gastrikland.
-	['', 'Single Malt Whiskey', ' Whiskey ', 'Whiskey related products', ' ', 'whiskey events', ' ', 'malt whiskey', '']
-Itemfield
-	Provider of data transformation software for mission-critical enterprise applications.The company offers ContentMaster that provides visual data extraction, mapping and transformation tools. The company also produces solutions, such as business-to-business order transaction processing, patient record consolidation and electronic bill presentment and payment. It serves clients in telecommunications, financial services and health care industries.
-	['', 'data transformation', ' ', 'visual data extraction', ' ', 'electronic bill presentment', '']
-MySelfHelp
-	Provider of online and interactive mental health self-help programs and tools. The company’s programs enable users to manage depression, stress, insomnia, eating disorders, grief, guilt, low self-esteem, compulsive shopping, and hope for HIV. It serves health care companies and individuals.
-	['', 'online mental health', ' ', 'interactive mental health', ' ', 'manage disease', '']
-MedApps
-	Developer of wireless patient monitoring devices. The company offers a range of portable health devices that automatically record a patients monitor readings and wirelessly transmits the data so that it can be monitored and acted upon by health care professionals.
-	['', 'monitoring devices', ' ', 'wireless patient monitoring', ' ', 'health devices', '']
-SenseCore
-	Provider of health-monitoring devices. The company is a provider of wearable, biomedical monitors that measure a variety of physiological functions and can be linked remotely. The devices have applications for athletes as well as healthcare providers.
-	['', 'monitoring device', ' ', 'physiological monitoring', ' ', 'remote monitoring', ' ', 'biomedical device', '']
-Beansprout Networks
-	Provider of an online community for parents, pediatricians and child care professionals. The company provides pediatric professionals and the families in their care with tools, resources and educational programs to enhance patient care and practice efficiency.
-	['', 'online community', ' pediatricians ', 'child care professionals', '']
+Luminate
+	Provider of an Internet service that turns static images into engaging content. The company\'s platform enables consumers to mouse over images on their favorite websites to learn more and see related products.
+	['', 'web publisher', ' ', 'brand advertising', ' crowdsourcing ', 'online image', ' ', 'interactive content', '']
+Small Demons
+	Developer of online aggregation service. The company has built a discovery platform based on the data gathered from various books, which helps to unlock all sorts of information from inside books thus making movies, music, food, travel and beyond discoverable and consumable.
+	['', 'social platform software', ' ', 'database software', '']
+IntenseDebate
+	Developer of commenting systems for blogs and other web platforms. The company offers networking system to blog readers to link their profiles, make friends and syndicate their comments.
+	['', 'commenting system', ' ', 'web platform', ' ', 'networking system', '']
+TopSchool
+	Provider of simplified ways in which colleges manage and report student information. The company built the first SaaS student administrative system in higher education to address key aspects of the student lifecycle, including recruitment, retention and career services.
+	['', 'administrative technology', ' ', 'lifecycle management system', ' ', 'information management solution', ' ', 'customizable student portal', ' ', 'customizable faculty portal', ' ', 'information system', ' ', 'educational lifecycle', ' ', 'College Student Information System', '']
+Navify
+	Provider of interface for viewing Wikipedia with videos, images, and comments. The company is built on Wikipedia’s platform.
+	['', 'social content', ' ', 'video and images', ' ', 'user interface', '']
+LearnShark
+	Developer of a platform for companies to capture, track, and share learning across their organization. The company has built social software that allows users to upload web links, files from DropBox, GitHub, Evernote and other services so that employees can connect with one another over content.
+	['', 'IT Services', '']
+Tiny Pictures
+	Operator of a mobile media-sharing site called Radar. The company\'s services help users to share mobile photos and videos to its site through e-mail and mobile messaging. It develops applications that enable users to share videos and images to others across mobile networks and social networking platforms.
+	['', 'mobile photo', ' ', 'media sharing', ' ', 'photo sharing', ' ', 'mobile video', ' ', 'mobile messaging', ' ', 'video sharing', ' ', 'social network', '']
+Clipik
+	Provider of video-editing platform. The company provides a platform with an interface that enables interaction between content-generating users and editors who help them edit their videos and images into workable productions.
+	['', 'photo editing', ' ', 'video editing', ' ', 'picture editing', '']
+BigSwerve
+	Operator of a search aggregator for blog comments, which are often omitted in blog searches and roundups. The company\'s crawler aggregates comments, allowing users to follow the comments for a given person and discover new content by seeing where other people are engaged.
+	['', 'search aggregator', ' ', 'blog comment', ' crawler ', 'web crawler', ' ', 'comment aggregator', ' ', 'blog crawler', ' ', 'web spider', ' ', 'blog spider', '']

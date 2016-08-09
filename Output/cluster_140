@@ -1,30 +1,27 @@
-Cytochroma
-	Developer of products to treat and prevent the clinical consequences of vitamin D insufficiency and Secondary Hyperparathyroidism (SHPT) associated with (Chronic Kidney Disease) CKD. The company develops vitamin D therapies which are designed to safely and effectively treat patients with stage 3, 4 or 5 Chronic Kidney Disease.
-	['', 'vitamin D insufficiency', ' ', 'kidney disease', ' ', 'vitamin D therapy', ' ', 'elevated serum phosphorus', '']
-Arcion Therapeutics
-	Developer of pain therapy treatment. The company applies breakthroughs in neuroscience to advance the treatment of chronic pain. The company focuses on topical treatments to provide pain relief with convenient application and reduced systemic side effects.
-	['', 'diabetic neuropathy', ' ', 'herpetic neuralgia treatment', ' ', 'pain management', ' ', 'pain therapy treatment', '']
-Movetis
-	Developer of drugs for the treatment of diseases in the gastrointestinal (GI) area. The company\'s products address GI disorders, such as severe chronic constipation, ascites, paediatric reflux, as well as severe forms of GI motility disorders, including refractory gastro-oesophageal reflux disease. Its lead product, Resolor, is used for the symptomatic treatment of chronic constipation in women.
-	['', 'gastrointestinal treatment', ' ', 'GI disorder', ' ', 'paediatric reflux', ' ascite gastrointestinal  constipation ', 'paediatric reflux', ' ', 'GI motility', ' ', 'refractory gastro-oesophageal reflux', '']
-Spinifex Pharmaceuticals
-	Developer of a new class of therapeutic for chronic pain management. The company\'s lead product shows a clinically meaningful reduction in pain in patients with postherpetic neuralgia, a debilitating condition that can follow shingles.
-	['', 'chronic pain', ' ', 'new drug candidate', ' ', 'postherpetic neuralgia', '']
-PeriphaGen (Formerly Diamyd)
-	Operator of a bio-pharmaceutical company. The company develops gene delivery products to treat and manage pain and peripheral nerve damage. Its pipeline also includes the treatment of chronic pain by NET drugs designed to block multiple pain pathways through the expression of various gene combinations.
-	['', 'neurological disorder', ' ', 'gene delivery products', ' ', 'nerve damage', ' nerve']
-Intersect ENT
-	Developer of medical devices focused on the treatment of chronic sinusitis. The company\'s technology provides treatment for patients\' condition in which sinuses become swollen and inflamed, leading to difficulty breathing, facial pain or headache and reduced sense of smell and taste.
-	['', 'bioabsorbable drug', ' ', 'heart failure', ' ', 'chronic sinusitis', ' ', 'difficulty breathing', ' ', 'facial pain', '']
-Specialty Pharmaco
-	Provider of the antidepressant drug Cymbalta (duloxetine). The company\'s drug is used to treat major depressive disorder and general anxiety disorder, as well as some chronic pain disorders relating to diabetes and osteoarthritis.
-	['', 'anti-depressant', ' ', 'chronic pain', ' ', 'major depressive disorder', ' ', 'generalized anxiety disorder', '']
-Sherrington Pharmaceuticals
-	Developer of a pain treatment drug. The company develops chronic and refractory pain treatment for end-stage cancer patients and other severe pain indications.
-	['', 'end-stage', ' Resiniferatoxin ', 'chronic pain', '']
-Cephalon
-	Cephalon, Inc. is an international biopharmaceutical company dedicated to the discovery, development and commercialization of innovative products in four core therapeutic areas: central nervous system, pain, oncology and inflammatory disease. In addition to conducting an active research and development program, the Company markets seven proprietary products in the United States and numerous products in various countries throughout Europe and the world. The Company\'s most significant products are wakefulness products, PROVIGIL(r) (modafinil) Tablets and NUVIGIL(r) (armodafinil) Tablets. The Company\'s Central Nervous System disorders portfolio includes three FDA-approved and marketed products: NUVIGIL, for improving wakefulness in patients with excessive sleepiness associated with narcolepsy, OSA/HS and SWSD; PROVIGIL, for the same labeled indications as NUVIGIL; and GABITRIL, for use as adjunctive therapy in the treatment of partial seizures in epileptic patients. PROVIGIL improves wakefulness in patients with excessive daytime sleepiness associated with narcolepsy, and the Company has launched the product in the United States. GABITRIL is a selective gamma-aminobutyric acid, reuptake inhibitor approved for use as adjunctive therapy in the treatment of partial seizures in epileptic patients. The Company\'s pain therapeutics portfolio currently includes four marketed products in the United States. It markets AMRIX, a once-a-day, extended-release version of cyclobenzaprine hydrochloride, the active ingredient in the brand FLEXERIL(r). AMRIX is indicated for relief of muscle spasm associated with acute, painful musculoskeletal conditions. The Company also market three products, FENTORA, ACTIQ, and generic OTFC, which focus on treating breakthrough cancer pain in opioid-tolerant patients. FENTORA is indicated for the management of breakthrough pain in patients with cancer who are already receiving and are tolerant to opioid therapy for their underlying persistent cancer pain. ACTIQ is approved in the United States for the management of breakthrough cancer pain in opioid-tolerant patients. The Company\'s U.S. oncology portfolio includes two marketed products to treat patients with hematologic cancers: TREANDA, a bi-functional hybrid cytotoxic; and TRISENOX(r), an intravenous arsenic-based targeted therapy currently marketed in the U.S., as well as in Europe. TREANDA is a novel hybrid cytotoxic alkylating agent that differs from conventional compounds in its apparent multi-functional mechanism of action. In addition to killing cells by damaging their DNA and triggering apoptosis-which is typical of alkylating agents-researchers demonstrated that TREANDA also causes the disruption of cell division. Bendamustine hydrochloride, the active ingredient in TREANDA, is currently marketed in Germany by a third party for the treatment of NHL, CLL, multiple myeloma, metastatic breast cancer and other solid tumors. TRISENOX was approved for marketing in the United States and Europe in 2000 and 2002, respectively, for the treatment of patients with relapsed or refractory acute promyelocytic leukemia, a life threatening hematologic cancer. The Company markets and sells directly or through partnerships 30 different branded products in over 50 countries in Europe, the Middle East and Africa and have a strong presence in the five key European pharmaceutical markets: France, Germany, Italy, Spain and the United Kingdom, and affiliates in Benelux and Poland. The Company faces intense competition and rapid technological change in the pharmaceutical marketplace. The manufacture and sale of therapeutics are subject to regulation by U.S. and foreign governmental authorities. In particular, pharmaceutical products are subject to rigorous preclinical and clinical trials and other approval requirements.
-	['', 'nerve disorders', ' ', 'muscle spasm', ' ', 'sleep apnea cure', ' ', 'medicine and drug', ' ', 'multiple sclerosis', '']
-ReliefInsite
-	Provider of a web-based platform to enable and enhance disease management programs, particularly in pain management. The company provides an online community where people suffering from pain can assess and track their pain levels.
-	['', 'online pain management', ' ', 'pain management', '']
+Tablus
+	Provider of content loss prevention solutions that locate, monitor, and protect sensitive enterprise information across their networks and desktops from loss or misuse.
+	['', 'content loss prevention', ' information network ', 'sensitive information', '']
+Orchestria
+	Designer and provider of software and solutions targeted at information protection and control. The company helps prevent data loss, address compliance concerns, and enforce information classification and control.
+	['', 'information protection', ' ', 'information control', ' ', 'online software', '']
+Reconnex
+	Developer of appliance-based data loss prevention system. The company provides system that helps an organization to protect all information assets on its network against known and emerging threats.
+	['', 'data loss prevention', ' ', 'data protection', ' ', 'information security', ' ', 'enterprise security', '']
+SafeCentral
+	Developer of security software applications and technologies for data loss prevention. The company offers software solutions and services for web browsing that provide security against identity theft by locking out desktop malware and establishing web connections. Its technology block key-loggers, screen-scrapers, and other malware agents; ensure a connection to the actual site; and provide protection for seamless integration into user’s existing browsing habits.
+	['', 'security software application', ' ', 'data loss prevention', ' ', 'data security', '']
+Network Switching Systems
+	Developer of switching device for use by enterprises. The company develops digital telecommunications switches
+	['', 'enterprise telecommunication', ' ', 'network switch', ' networking']
+PostX
+	Provider of email encryption technology for enterprises.
+	['', 'email encryption', ' ', 'personalized electronic communication', ' ', 'message control', ' ', 'delivery tracking', ' ', 'email tracking', ' ', 'email security', '']
+Reliant Protective Services
+	Provider of professional protective services. The company provides protection services which includes residential security, corporate security, loss prevention, executive body guard, executive transportation, armed security, rapid response team, private investigation to children, homes and businesses.
+	['', 'residential security', ' ', 'corporate security', ' ', 'loss prevention', ' ', 'armed security', '']
+Green Border Technologies
+	Provider of malware prevention, mobile PC safety, unauthorized downloads prevention, patching and data confidentiality solutions. The company also offers protection on corruption, theft and invasion of business data systems, as well as engages in the protection of enterprises from internet threats that are picked up by compulsively-clicking users and mobile PCs.
+	['', 'patching technology', ' ', 'data confidentiality', ' ', 'data system invasion', ' ', 'data system theft', ' ', 'internet threat protection', ' ', 'DMZ technology', ' ', 'malware prevention', ' ', 'mobile PC safety', '']
+Code Green Networks
+	Provider of data-loss prevention and content-security technology for enterprises. The company offers a platform that provides enterprises with content monitoring and data loss protection from insider threats and accidental misuse.
+	['', 'data loss prevention', ' ', 'content security', ' ', 'accidental misuse', ' ', 'enterprise solution', '']

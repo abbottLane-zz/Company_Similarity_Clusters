@@ -1,24 +1,30 @@
-Sequent
-	Manufacturer of computer systems.
-	['', 'computer systems', '']
-Concord Data Systems
-	Manufacturer of telecommunication equipment. The company designs and sells broadband and carrierband modems, network management tools to the telecommunication industries.
-	['', 'telecommunication equipment', ' modem ', 'network management', '']
-Innovative American Technologies
-	Manufacturer of advanced radiological sensor systems, alternative energy systems, mocro and nano sensor systems applied to homeland security and commercial applications. The company offers a variety of radiation detection systems for cargo inspection incuding mobile systems and digital radiation portal monitors  and has partnered with Cargotec Port Security to provide radiation detection equipment for crane based systems.
-	['', 'security services', ' ', 'nano technology', ' ', 'radiological sensor systems', ' ', 'neutron detector system', '']
-Impika
-	Designer, manufacturer and marketer of production inkjet printing technology. The company offers a portfolio of aqueous (water-based) inkjet presses based on proprietary technology. Its product lines include iPrint, a range of continuous feed production printers that print at speeds as fast as 375 meters per minute and iPress, a range of graphic communications digital presses with resolutions of up to 2400 x 1200 dpi.
-	['', 'inkjet printing', ' ', 'inkjet press', ' ', 'package printing', ' ', 'print media', '']
-Simulus
-	Developer of performance management software for host mainframe systems. The company develops systems for enterprise computer systems that gives companies the chance to eliminate problems before they occur.
-	['', 'performance management', ' ', 'host mainframe', ' eliminate']
-Revolve Technologies
-	Producer of of magnetic bearing systems for the industrial rotating equipment market. The company produces and supplies magnetic bearing systems, dry gas seal systems and rotating equipment services to manufacturers and users of all kinds of rotating equipment.
-	['', 'magnetic bearing', ' ', 'dry gas seal', ' ', 'rotating equipment', ' ', 'bearing system', ' ', 'machinery parts', ' ', 'machine tool', '']
-MadahCom
-	Provider of wireless audio visual emergency systems. The company manufactures secure wireless emergency control and mass notification systems for military, government and industrial applications.
-	['', 'public warning systems', ' ', 'emergency system', ' ', 'emergency control', ' ', 'mass notification', ' warning']
-CyberPower Systems
-	Designer, manufacturer and marketer of Uninterruptible Power Supply (UPS) systems. The company offers line of emergency battery backup systems for computer systems, electronics and telecommunication equipment.
-	['', 'emergency battery', ' ', 'backup system', ' uninterruptible']
+Envolure
+	Developer and provider of a biological, enzymatic and chemical catalog for the characterization of waste water and organic waste. The company offers a range of biological, enzymatic and chemical ecoanalyses on environmental matrices.
+	['enzymatic ', 'chemical catalog', ' ', 'organic waste', '']
+Covanta Holding
+	Manufacturer of infrastructure for the conversion of waste to energy, as well as other waste disposal and renewable energy production businesses. The company provides communities with an environmentally sound solution to their solid waste disposal needs by using that municipal solid waste to generate clean and renewable energy.
+	['', 'Renewable energy', ' ', 'waste to energy', '', 'clean energy', '', 'Eco-friendly electricity', '']
+Transload America
+	Provider of rail-based transfer, transportation, recycling and disposal of solid waste services in North America. The company provides rail-based transportation, trans-loading, disposal, recycling and reuse of waste material including municipal solid waste and construction and demolition debris. It also provides equipment and materials handling, fleet management and logistical services.
+	['', 'waste management', ' recycling ', 'solid waste disposal', ' ', 'rail-based transportation', ' ', 'debris demolition', '']
+Med-Shred
+	Provider of medical waste treatment services. The company offers transportation, collection, treatment and disposal of medical waste.
+	['', 'medical waste disposal', ' ', 'waste treatment service', ' ', 'environment friendly', '']
+Equipamientos Europeos 2005
+	Manufacturer of commercial vehicles with energy-saving technologies. The company develops and commercializes medium-tonnage trucks for a variety of applications, including firefighting, military operations, forestry and waste collection. Among the company\'s products is a line of vehicles propelled by compressed natural gas (CNG).
+	['', 'industrial transportation', ' ', 'pollution', ' ', 'industrial vehicles', '']
+Schick Shadel Hospital
+	Operator of an addiction treatment hospital. The company provides alcohol, drug, oxycontin, methamphetamine, marijuana, cocaine treatment programs, as well as offers dietary services.
+	['', 'addiction treatment', ' ', 'alcohol treatment program', ' ', 'drug treatment', ' ', 'dietary service', '']
+Eco-Solids International
+	Developer of technologies for organic residue treatment. The company develops and commercializes technologies for waste treatment with a particular focus on treatment of sewage sludge to improve their stability and decrease pathogen content.
+	['', 'waste treatment', ' ', 'sewage sludges', ' pathogen ', 'environmental processing technology', '']
+Blacktown NC
+	Provider of medical devices for spinal disorder treatment. The company offers accelerated flexion therapy, a computer controlled rehabilitation table that manages lower back pain by combining physical therapies with the robotic control methods into a therapeutic approach.
+	['', 'spinal disorder treatment', ' ', 'controlled rehabilitation', ' ', 'back pain', ' ', 'robotic control method', ' ', 'physical therapy', '']
+ChemTrak
+	Provider of medical information to healthcare industry professionals. The company designs and presents interactive, informational, video and animated graphic presentations for the medical industry.
+	['', 'medical information', ' ', 'medical suppliers', ' ', 'medical industry', ' ', 'medical presentations', ' ', 'multimedia presentations', '']
+Archimedes Technology Group
+	Developer of systems for plasma ion separation. The company offers products which includes plasma mass filter and related technologies. The company tests new technologies that can speed weapons waste cleanup and opens new non-chemical approaches to commercial spent fuel reprocessing. It serves medical, semiconductor, and nuclear power industries.
+	['', 'plasma ion', ' ', 'plasma mass filter', ' ', 'waste cleanup', ' ', 'nuclear waste', '  ', 'fuel reprocessing', '']

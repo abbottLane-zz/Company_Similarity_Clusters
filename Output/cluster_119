@@ -1,24 +1,39 @@
-Pathway Therapeutics (Anticancer Drug)
-	Anticancer Drug molecules and its backup compounds in San Francisco. The drug molecules and its backup compounds are used as an inhibitor to slow down the growth of cancer cells and solid tumors.
-	['', 'oncology', ' ', 'life sciences', ' ', 'treatment of tumors', ' ', 'cancer inhibitor', '']
-TweetBackup
-	Provider of a Twitter backup service. The company offers an online Twitter backup tool and stores Twitter data online.
-	['', 'Twitter back up', ' ', 'Twitter data', ' ', 'Twitter tool', '']
-Parascale
-	Developer of cloud software for servers. The company also provides video-on-demand, document archive, online backup and video surveillance solutions.
-	['', 'cloud software', ' ', 'server software', ' ', 'online backup', ' ', 'video surveillance', '']
-BackupAgent
-	Developer of online backup recovery software. The company\'s software enables its clients to offer a backup service to their customers, as well as enables its clients to make backups over the internet in their backup servers.
-	['', 'backup recovery', ' ', 'backup service', ' ', 'online backup', '']
-Connected Backup
-	Provider of an automated computer backup service.  The company offers a remote, automated backup of computers that allows a user to recover files from any location.
-	['', 'data storage', ' ', 'data backup', ' ', 'computer backup', '']
-PINS Group
-	Provider of hosting and managed services. The company offers a range of services and specializes in network infrastructure, network and internet connectivity and DNS, backup and recovery, fire walling and load balancing, server hardware, operating systems and utility software, application server and database services.
-	['', 'Network infrastructure', ' ', 'hosting services', ' ', 'managed services', '']
-Ibrii
-	Provider of technology enabling online note-sharing between users. The company\'s software enables clients to clip an object from any Web page, as well as mixing videos, text or photos from different pages into a single digital note that can be shared with other users leveraged from social-networking platforms. The primary sharing platforms are Facebook,Twitter and Google Buzz.
-	['', 'notes sharing', ' ', 'content sharing', ' ', 'online content', ' permalink ', 'online notes', '']
-Xchange
-	Provider of relevant, personalized customer communications. The company provides eCRM software and services that enables clients to customize offers based on profile information, synchronize offers across all customer channels in real-time, and track the responses.
-	['', 'customer communication', ' CRM']
+Kainos Software
+	Provider of business software application. The company is involved in the deployment and integration of enterprise content management, electronic document management, workflow and collaborative technologies.
+	['', 'enterprise content management', ' ', 'electronic document management', ' ', 'collaborative technology', '']
+Clickmarks
+	Provider of technology solutions for development of e-business applications and web services. The company provides end-to-end solutions for enterprises and wireless carriers seeking instant aggregation, personalization and mobilization of content, business processes and applications like workflow automation, portal integration, mobilization, and decision support solutions.
+	['', 'e-business applications', ' portlets ', 'integration technology', ' ', 'workflow automation', ' ', 'portal integration', ' ', 'web services', '']
+THINQ Learning Solutions
+	Provider of enterprise wide corporate learning solutions. The company offers enterprise learning management software designed to help companies achieve their business objectives.
+	['', 'professional learning services', ' ', 'management systems software', ' ', 'enterprise software', '']
+2Catalyze
+	Provider of social performance management platform. The company offers personal feedback, decision support, customer engagement, rapid peer reviews, team feedback, quick pulse, integration, consulting, live support, analytics, configuration tools and team activation services. It serves employees, consultants, managers, executives and educators, as well as teams, companies and academic/non-profits.
+	['', 'performance management', ' ', 'employee feedback', ' ', 'employee review', ' ', 'employee benchmarking', '']
+Relevance Technologies
+	Provider of enterprise content management software. The company offers decision support solutions and also provides workers with answers.
+	['intelligence decision ', 'information resources', '']
+Apsylog
+	Provider of IT asset-management software. The company provides a decision-support software platform that manages the IT asset lifecycle, from asset acquisition through asset deployment and tracking, to retirement.
+	['', 'asset management', ' ', 'asset management software', ' ', 'network management', '']
+PatientStream
+	Provider of an electronic patient tracking system for hospitals. The company provides a cloud-based healthcare operations decision support and communication automation technologies for patients and hospital staff.
+	['', 'electronic whiteboard', ' ', 'multilingual whiteboard', ' ', 'healthcare operations', ' ', 'patient tracking', ' ', 'healthcare system', '']
+Navita Systems
+	Provider of decision-support technology for transaction and risk management in the energy market. The company has developed a software product offering an overview of the opportunities and risks in energy trading, as well as decision-support systems for physical and financial trading in the energy sector.
+	['', 'decision support systems', ' ', 'risk management', ' ', 'energy trading', '']
+Centra Software
+	Provider of enterprise application software and services for real-time communication, collaboration and learning over the web. The company provides software infrastructure and an ecosystem of strategic partnerships for virtual classrooms, web conferences and eMeetings. The company also offers consulting, education, content creation and support services that enable its customers to implement, deploy and support its products and services.
+	['', 'online business communication', ' ', 'web seminars', ' ', 'virtual learning', ' ', 'web meetings', ' ', 'content management', '']
+Quiver
+	Developer of information management software. The company offers QKS Classifier, a taxonomy and content categorization platform that combines the technology with human judgment to increase productivity and informed decision-making.
+	['', 'information management software', ' productivity ', 'content categorization', ' MIS']
+Prodea
+	Provider of data warehousing, decision support and application development software. The company\'s product helps in accessing and transforming raw data into useable, relevant information that can be shared throughout an enterprise.
+	['', 'data transformation', ' ', 'data access', ' ', 'decision support', ' ', 'data warehousing', ' ', 'application development software', '']
+NCompass Labs
+	Provider of enterprise web content management solutions. The company develops NCompass Resolution, the enterprise-strength web content management system for the microsoft platform.
+	['', 'Web content management system', ' resolution']
+WebMessenger
+	Provider of enterprise mobile messaging software. The company offers mobile real-time presence VoIP, and collaboration products for enterprises and workers.
+	['', 'enterprise messaging service', ' ', 'messaging software', ' ', 'mobile communication', '']

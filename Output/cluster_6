@@ -1,24 +1,18 @@
-Strata8 Networks
-	Provider of cellular services on a licensed spectrum. The company provides services to the enterprises to use and manage cellular services within local coverage areas using carrier-class technology.
-	['', 'wireless network', ' ', 'cellular service', ' ', 'carrier-class technology', '']
-Appex Cellular
-	Provider of products and services for cellular industry. The company provides cellular telephone systems and services.
-	['', 'cellular industry', ' ', 'telephone system', ' cellular']
-Qtera
-	Developer of photonic transport systems for IP based and long distance carriers. The company\'s systems provide a low cost bandwidth possible by eliminating the need for opto-electronic regeneration in ultra- high-capacity backbones.
-	['', 'photonic transport system', ' ', 'photonic networking', ' ', 'low cost bandwidth', '']
-Inteliquent
-	Provider of tandem interconnection services principally to carriers, including wireless, wireline, cable and broadband telephony companies. The company\'s services help carriers to exchange local and long distance traffic between their networks without using an ILEC tandem or establishing direct connections. It manages network capacity between its tandem switches and customers’ switches, which results in network quality and reduced call blocking.
-	['', 'tandem interconnection', ' ', 'wireless telephone', ' ', 'broadband telephony', ' ', 'call traffic', ' ', 'network traffic', ' ', 'ILEC tandem', ' ', 'direct connection', ' ', 'network capacity', ' ', 'tandem switch', ' ', 'call  blocking', '']
-Primary Access
-	Provider and supplier of integrated remote access systems. The company\'s products are used by providers of data networks, including long-distance and local carriers, on-line information services, cellular carriers, transaction processors and corporations.
-	['', 'remote access', ' ', 'cellular carriers', ' ', 'data networks', '']
-Junxion
-	Provider of managed 3G wireless cellular router solutions for enterprise and government customers in the United States. The company\'s Junxion Box wireless WAN routers provide computing devices, such as laptops, desktops, handhelds, POS systems, ATM machines, and remote security cameras with access to data services from wireless carriers. Its Junxion Platform firmware includes the drivers and tools to connect with wireless PC card modems, as well as supports wireless carrier networks and PC card modems; and the cellular data service technologies from wireless carriers. It offers Field Commander remote management for customers to monitor, configure, and update fleets of Junxion Boxes or single units in the field; and Junxion Complete, a solution program for virtual installations in the United States. It offers Junxion Firmware for GPS location information, Verizon PC Card modem, firmware updating, DNS over ride, broadband cellular networks. It offers its products for data connection redundancy, landline replacement, M2M/telemetry, portable networks, remote security, landline fail-over, mobile fail-over, public transit/security, private transit, public/private transit, and fleet vehicles applications.
-	['', 'cellular router solution', ' ', 'land line replacement', ' ', 'portable network', ' telemetry']
-Impulse Telecom
-	Provider of telecommunications services. The company provides local and long distance phone services and flat rate long-distance services.
-	['', 'telecommunications services', '']
-Starburst Communications
-	Developer of multicast applications over data networks. The company provides methods for information delivery over data networks of all kinds, including WAN, LAN,satellite, wireless or any combination forming an internetwork.
-	['IP Multicast ', 'multicast file transfer protocol', '']
+WhatsApp
+	Provider of a cross platform mobile messaging application. The company\'s platform allows the user to exchange messages without having to pay for SMS. In addition to basic messaging WhatsApp users can create groups, send each other unlimited images, video and audio media messages. It\'s available for iPhone, BlackBerry, Android, Windows Phone and Nokia.
+	['', 'messaging application', ' ', 'mobile messaging', ' ', 'iPhone messaging application', '']
+Meh Labs
+	Developer of a self-destructing mobile messaging application. The company\'s application allows its users to share anonymous, self-destructing, secret chats with their friends. It also helps in recording audio, sending texts, making videos and snapping photos. The company originally provided Kismet, a social networking application that enabled users to meet and chat with their friends.
+	['', 'mobile messaging', ' ', 'social connect', ' ', 'self-destructing texts', ' ', 'messaging application', ' ', 'secret chat', ' ', 'photo snapping', '']
+Knowrtl
+	Provider of a platform that allows end users to share data, models, scenarios and experiences in computational environments. The company provides an infrastructural platform that helps in computational environments that range from private laptops and PDAs to shared high-performance compute clouds.
+	['', 'infrastructure platform', ' ', 'data sharing', ' ', 'cloud computation', '']
+Daum Kakao
+	Developer of a cross-platform mobile messaging application. The company offers a series of products namely KakaoTalk, KakaoStory, KakaoMusic and KakaoGame which allows its users to share data in the form of text messages, photo and music, make voice calls and play games.
+	['', 'cross-platform messaging', ' ', 'mobile messaging', ' ', 'messaging application', '']
+Frankly
+	Developer of a mobile messaging application. The company offers a mobile and web platform that allows users to send messages and photos that self destructs after the recipient reads them. It also allows users to recall unread messages and make anonymous comments during group chats.
+	['', 'mobile messaging', ' ', 'messaging application', ' ', 'communication service', '']
+MogoTix
+	Provider of a mobile ticketing service for events. The company\'s services are used to send event tickets to attendees\' cell phones through text messages for parties, fundraisers and conferences.
+	['', 'mobile ticketing service', ' ', 'event website', ' ', 'mobile QR code', ' ', 'event hosting', ' ', 'ticket distribution', '']

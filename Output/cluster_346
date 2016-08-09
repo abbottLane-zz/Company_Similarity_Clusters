@@ -1,24 +1,30 @@
-Clan Match Exchange Good Game
-	Provider of online gaming services. The company provides server exchange and tournament registrations for different online games.
-	['', 'game server', ' ', 'online gaming services', ' server ', 'tournament registration', '']
-Oculus VR
-	Provider of online gaming related services. The company offers virtual reality hardware, software and services for online gaming. The company\'s flagship product is Oculus Rift, a virtual reality headset that creates a stereoscopic 3D experience.
-	['', 'video game', ' ', 'virtual reality', ' ', 'gaming headset', '']
-Nurien Software
-	Developer and operator of social networking and online gaming services. The company provides casual games which enables users to express their individual  identities by offering user-created 3D objects and avatars that  interact and network amongst each other via virtual worlds and the web.
-	['', 'interactive avatars', ' ', 'casual gaming', ' ', 'online gaming platform', '']
-Paf New Business
-	Provider of internet gaming services. The company provides an online wagering platform for wagering via the internet, digital television and wireless media.
-	['', 'wagering platform', ' ', 'wireless gaming', ' lottery']
-Predictive Edge
-	Provider of online retail technology services. The company\'s software platform makes product pricing easy and different to online retailers by applying advanced data mining and artificial intelligence techniques to large bodies of data.
-	['', 'data mining', ' ', 'social platform software', ' ', 'artificial intelligence technique', '']
-BuyPlayWin
-	Provider of an online tournament marketplace. The company combines online shopping with tournament games.
-	['', 'online marketplace', ' ', 'tournament marketplace', ' ', 'online shopping', '']
-Gamepot
-	Provider of an online gaming platform. The company provides online games through its web platform and mobile applications.
-	['', 'gaming platform', ' ', 'web game', ' ', 'platform software', '']
-Gaikai
-	Provider of online gaming service. The company\'s cloud-based gaming technology allows users to play major PC and console games.
-	['', 'online gaming', ' ', 'gaming technology', ' ', 'gaming network', ' ', 'game application', ' ', 'cloud based gaming', '']
+Cardonet
+	Provider of master data management and product information management solutions for manufacturers and distributors in various industries. The company offers Synergy, a suite of enterprise software for the creation, management, synchronization and distribution of electronic product information inside companies and between trading partners.
+	['', 'data management', ' ', 'enterprise software', '']
+Efficient Market Services
+	Provider of store-specific information services to supermarket retailers, consumer packaged goods manufacturers, distributors and brokers. The company\'s software-based services transform basic product movement data into demand data with the integration of store-level consumer activity.
+	['', 'store-specific solutions', ' ', 'software-based solutions', ' ', 'demand data', ' ', 'integration of store-level consumer activity', ' supermarket']
+Harper Leather Goods
+	Manufacturers and distributors of rawhide pet products such as dog bones and chews. The company\'s products include a variety of rawhide dog bones and chews produced in different sizes and marketed as plain or basted with flavors.
+	['', 'distributor', ' ', 'rawhide dog bones', ' ', 'dog chew manufacturer', ' ', 'dog chew distributor', '']
+Authix Technologies
+	Developer of a product authentication system. The company designs small unique tags that will be inserted in each package or within the items to be purchased.
+	['', 'product authentication system', ' ', 'wireless device', ' ', 'product tag', '']
+Handster
+	Provider of white label platform for smart phone users. The company offers a scalable, highly flexible white-label application store solution for mobile operators, handset manufacturers and distributors.
+	['', 'application software', ' smartphones ', 'mobile entertainment', '']
+Trigo Technologies
+	Developer of product information management for global manufacturers, distributors and retailers. The company offers supplier-focused software platforms that automate and integrate supplier business processes to enable manufacturers and distributors manage multiple online sales channels.
+	['', 'business process', ' ', 'product information management', ' ', 'global distributor', ' ', 'global manufacturer', '']
+FORE Systems
+	Supplier of networking solutions based on intelligent infrastructure. The company designs, manufacturers and sells product design to handle the networked applications. The company is a supplier of ATM, computer network switches as well as the developer of network switches.
+	['', 'Asynchronous Transfer Mode', ' ', 'computer network switches', ' ', 'high performance networking systems', ' ', 'enterprise applications', '']
+OmniPerception
+	Provider of technology for the recognition of objects and people of customer applications. The company offers supplier of computer vision capabilities, facial biometrics and image processing.
+	['', 'face recognition', ' ', 'computer vision', ' ', 'facial biometric', ' ', 'object recognition', '']
+CommerceInterface
+	Provider of e-commerce channel management software. The company provides software to help manufacturers, distributors and retailers to manage their businesses and selling online.
+	['', 'channel management', ' ', 'e-commerce', ' ', 'channel management technology', ' ', 'online business management', '']
+Cedron Holding
+	Developer of manufacturer-focused software for managing product information. The company provides a platform for designed to reduce the cost of managing product information throughout the supply chain. The company\'s platform enables manufacturers to dea with multiple data specifications, multiple languages, multiple country requirements and multi-channel publishing.
+	['', 'data management', ' ', 'product data', ' ', 'information management', '']

@@ -1,39 +1,30 @@
-SCT Spinal Cord Therapeutics
-	Developer of therapy for acute and chronic spinal cord injuries. The company focuses on the treatment of nervous system injuries. The company provides therapy that allows the regeneration of injured nerves following their natural nerve tract, thus enabling the recovery of sensory and motor function.
-	['', 'chronic disease', ' ', 'spinal diseases', ' nerves ', 'sensory function', '']
-ultraBridge
-	Provider of a technology service to the long term care industry. The company provides its clients with a management service to their data and business reporting needs using outsourcing.
-	['', 'technology service', ' ', 'care industry', ' ', 'management service', '']
-ZOLL LIFEBRIDGE
-	Supplier of life support systems for the acute medical care in the area of cardiovascular diseases. The company develops heart-lung machine that allows doctors to substitute the patient’s cardiovascular system and save them from death in cardiogenic shock.
-	['', 'life support system', ' ', 'heart-lung machine', ' ', 'cardiovascular system', ' ', 'medical care', '']
-6 Wunderkinder
-	Provider of a business task management software with online synchronization. The company provides an interface to track everything from grocery shopping to long-term travel plans.
-	['', 'task management software', ' ', 'online synchronization', ' ', 'productivity software', '']
-American Transitional Hospitals
-	Provider of long-term specialty transitional care. The company provides transitional care facilities for subacute patients.
-	['', 'transitional care', ' ', 'specialty care', ' ', 'subacute patients', '']
-Hospital Management Associates
-	Operator of acute-care medical hospitals in the U.S. The company partners with mid-size communities and local hospital leaders, physicians and caregivers throughout the United States to operate leading community hospitals and health systems.
-	['Healthcare ', 'Hospital Operation', ' ', 'Healthcare Quality', '  acute-care']
-Bridge Pharmaceuticals
-	Provider of preclinical services. The company conducts drug development and preclinical services which include short and long-term in vivo studies ranging from acute to carcinogenicity protocols.
-	['', 'preclinical service', ' ', 'drug development', ' ', 'reproductive toxicology', '']
-Daverci
-	Provider of electronic medication management systems. The company\'s system provides long-term care facilities and institutional pharmacies that supplies them.
-	['medication tracking ', 'design support', '']
-fiberSpace
-	Designer and manufacturer of stabilized laser products. The company\'s product enables absolute accuracy, tunability and long-term wavelength stability for dense wavelength division multiplexing applications.
-	['', 'long term wavelength', ' ', 'wavelength division', ' laser']
-CareCentric Solutions
-	Provider of  technology, business operation and outsourcing solutions. The company provides technology, business operation and outsourcing solutions for home health, private duty, hospice, home medical equipment, home pharmacy, long-term care and assisted living providers.
-	['', 'managed care', ' ', 'outsource solution', ' ', 'home pharmacy', '']
-VHA Long Term Care
-	Provider of long-term health care facilities.
-	['']
-Mariner Health
-	Provider of sub-acute medical services. The company provides long-term health care services offering assistance through nursing facilities and long-term acute care hospitals which includes daily living, therapy and rehabilitation.
-	['', 'medical services', ' ', 'long-term health care', ' ', 'daily living', ' therapy']
-Careline
-	Provider of ambulance services. The company provides emergency medical services for local and suburban transit and interurban highway passenger trains.
-	['', 'emergency medical service', ' ambulance ', 'managed care', '']
+Frog AGV Systems
+	Developer of navigation hardware and software products. The company develops, produces and sells guidance and control systems for freely moving, electronically controlled vehicles.
+	['', 'navigation software', ' ', 'navigation hardware', ' ', 'guidance and control  systems', ' ', 'electronically controlled vehicles', ' ', 'automated guided vehicle systems', ' AGV navigation']
+Basil Corporation
+	Manufacturer of specialized equipment for the laboratory and scientific markets. The company makes laboratory washing equipment and devices.
+	['', 'laboratory equipment', ' ', 'scientific devices', ' ', 'medical equipment', '']
+Bio-Gate
+	Provider of silver technology to endow materials and products with antimicrobial properties. The company provides protection for the surfaces of medical implants and instruments against bacterial contamination.
+	['', 'silver technology', ' ', 'silver plating', ' ', 'silver coating', ' antimicrobial ', 'Surgical Device', '']
+CSM Instruments
+	Provider of laboratory instruments. The company develops, produces and sells laboratory instruments for the characterization of mechanical properties on material surfaces at the micro and nano scales.
+	['', 'laboratory instrument', ' ', 'industrial product', ' ', 'commercial product', '']
+Singular ID
+	Provider of tagging services to combat counterfeiting and forgeries. The company provides an integrated anti-counterfeiting technology called Enxure, an enterprise-brand security system that uses magnetic tagging. It also offers a consultancy service for adopting nanotechnology, anti-counterfeiting and brand-protection instruments. The company was spun out of IMRE.
+	['', 'barcode labels', ' ', 'database integration', ' scanners authentication anti-counterfeiting']
+Laboratorio de Ensayos ICIM LAB
+	Provider of laboratory and test certification services. The company provides research and consulting services for calibration and adjustment of instruments and equipments.
+	['calibration ', 'research and consulting', ' ', 'quality testing', '']
+NMDG Engineering
+	Developer of software for measuring instruments. The company assists research and developemnt, design, test engineers and instrumentation manufacturers who need to characterize active components and circuits under realistic conditions, especially in nonlinear mode of operation.
+	['', 'measuring instruments', ' ', 'instrumentation manufacturers', ' ', 'measuring software', ' instruments']
+AMSCO Scientific
+	Developer of scientific capital equipment. The company specializes in industrial and laboratory sterilizers, laboratory glassware and animal care washing equipment, absolute barrier isolators and sterility assurance products and supplies.
+	['', 'medical equipment', ' ', 'barrier isolator', ' ', 'pharmaceutical production', '']
+Bencar
+	Provider of positron emission tomography facilities. The company offers laboratory facilities for radiopharmaceutical production under cGMP condition.
+	['', 'positron emission tomography', ' radiopharmaceutical radio tracers labs']
+RedPath Integrated Pathology
+	Provider of support services for oncology cases. The company operates as a reference laboratory and serves pathologists, clinicians and patients. It offers PathFinderTG, a testing platform for resolving diagnoses from the original pathology specimen.
+	['', 'oncology case', ' ', 'reference laboratory', ' ', 'diagnostic platform', '']

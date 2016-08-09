@@ -1,27 +1,36 @@
-Paragon Wireless
-	Operator of online mobile store. The company offers mobile phones and mobile accessories, including mobile phone cases, chargers, headsets and memory cards.
-	['', 'mobile accessories', ' ', 'online mobile shop', ' ', 'mobile games', '']
-PhoneAndPhone
-	Provider of online retail. The company sells a range of mobile phones with or without subscription and mobile accessories.
-	['', 'online retail', ' ', 'online services', ' ', 'online purchase', '']
-MobilGiganten
-	Operator of an online store for mobile phones. The company provides ecommerce retail and distribution services for mobile phones and accessories, and also offers other mobile services.
-	['', 'mobile phone', ' ', 'mobile accessories', ' ', 'mobile retailer', '']
-Firefly Mobile
-	Developer and seller of mobile phones and accessories. The company also provides airtime services and offers accessories such as wall chargers, universal serial bus cables, stereo headsets, batteries and car chargers for teenagers.
-	['', 'mobile phones', ' ', 'airtime services', '']
-Coveroo
-	Producer of custom cell phone covers and cases. The company develops back cover on the mobile phones, MP3 players, or gaming devices with custom artwork or text.
-	['', 'cell phone cover', ' ', 'device art', ' ', 'customized phone-cover', ' ', 'cover personalization', ' ', 'custom art-work', '']
-MCC
-	Provider of mobile products and services in the Netherlands. The company is a retailer of mobile devices, including smart phones, tablets, navigation devices and accessories, and sells service descriptions for their use.
-	['', 'wireless communications', ' ', 'mobile devices', ' ', 'wireless services', '']
-Dmailer
-	Provider of portable back up and synchronization software services for a mobile devices. The company provides backup services to mobile device including USB flash drives, memory cards, external hard disk drives, mp3 players, embedded phone memory, SIM cards and flash based memory cards for mobile phones.
-	['', 'backup service', ' ', 'portable storage device', ' backup ', 'data backup software', '']
-Mobile Digital Media
-	Provider of consumer software for mobile phones and personal digital assistants. The company offers products that provides speaking language translator, games and lifestyle applications.
-	['', 'application software', ' ', 'personal digital assistants', ' ', 'mobile entertainment', '']
-Iqua
-	Developer of wireless accessories for mobile communications market. The company develops handsfree headsets and other mobile accessories for personal, active or professional use.
-	['', 'wireless accessory', ' ', 'handsfree device', ' headset']
+Actions Semiconductor
+	A fabless semiconductor company which designs, develops and markets integrated platform solutions, including SoCs, firmware, software development tools and reference designs, for manufacturers of portable media players.
+	['']
+RMI Corporation
+	Operator of a fabless semiconductor company. The company provides power-optimized System-on-a-Chip (SoCs) solutions to high-performance processors for the digital consumer, wireless, networking, security, thin clients, and connected multi-media devices market. It offers XLR Processor Family, a processor solution that enables applications, including integrated security, web services, virtualized storage, and load balancing and server offload, as well as content and application aware, and multi-service routing and switching for various infrastructure equipment and enterprise systems; and XLS Processor Family, a multi-core and multi-threaded XLS Processor family that addresses applications that demand smaller form factor and lower power consumption.
+	['', 'fabless semiconductor', ' ', 'semiconductor chips', ' ', 'semiconductor design', '']
+RF Magic
+	Operator of a fabless semiconductor company. The company is a developer of broadband radio frequency systems-on-a-chip. The company applies RF integrated circuit (IC) design, broadband RF systems, and digital communications systems expertise to the development of a diversified portfolio of patented RFIC technologies.
+	['', 'radio frequency', ' ', 'broadband radio', ' RFIC ', 'system on a chip', '']
+EqcoLogic
+	Owner and operator of a fabless semiconductor company. The company designs and develops equalizer and coaxial transceiver products and technologies.
+	['', 'Transceiver circuit', ' ', 'coaxial transceiver product', ' cable']
+RF Solutions
+	Developer of transceiver products for the broadband wireless access market. The company offers initial standard product design that focused on broadband wireless access.
+	['', 'wireless service provider', ' ', 'broadband services', '']
+InnoCOMM Wireless
+	Developer and manufacturer of fabless semicondutor. The company manufacturer fabless semicondutor and develops highly integrated wireless products.
+	['', 'fabless semicondutor', ' ', 'wireless product', ' power']
+BeSang
+	Provider of semiconductor. The company provides fabless semiconductor focusing on developing proprietary 3D integrated circuit technology.
+	['', 'semiconductor', ' ', 'fabless semiconductor', '']
+Douro Azul
+	Owner and operator of river cruise ships on the Douro River in Portugal. The company provides gym, spa, and other amenities, along with lodging, on their vessels. The company has plans to open a hotel as well.
+	['cruise ', 'Cruise ship', ' ', 'cruise vessel', ' ', 'river cruise', ' ', 'luxury cruise', '']
+Stream Processors
+	Operator of fabless semiconductor company. The company develops stream processing architecture that help industrial companies accelerate time to market for their products, while reducing system development costs.
+	['', 'stream processing architecture', ' ', 'cost reduction', ' ', 'fabless semiconductor', ' industry']
+Staccato Communications
+	Provider of ultra-wideband wireless technology for communication applications. The company is a fabless semiconductor company.
+	['', 'wireless technology', ' ', 'communication application', ' ', 'Internet protocol connectivity', '']
+WiQuest Communications
+	Manufacturer of fabless semiconductors for ultra-wideband technologies. The company designs, develops, and supplies ultrawideband (UWB) solutions to PC, consumer electronics, and mobile systems companies. Its solution portfolio includes silicon, software, and manufacturing designs.
+	['semiconductor ', 'fabless semiconductor', ' ', 'ultrawideband technology', ' ', 'consumer electronic', ' ', 'mobile system', ' ', 'manufacturing design', '']
+Tropian
+	Developer of fabless semiconductors for wireless devices. The company develops complex, wireless communications technology, including multi-mode radio transceiver products for the cellular handset market.
+	['', 'wireless communication', ' ', 'fabless semiconductor', ' ', 'wireless devices', '']

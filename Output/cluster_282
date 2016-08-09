@@ -1,18 +1,48 @@
-Zafgen
-	Developer of biopharmaceutical treatments for severe obesity. The company develops obesity therapeutics for use in the treatment of obesity and associated co morbidities.
-	['', 'obesity therapeutic', ' ', 'biological foundation', ' ', 'metabolic disorder', ' ', 'vascular targeting', ' obesity ', 'weight loss', ' ', 'obesity treatment', '']
-ListK
-	Developer of business-to-business (B2B) e-mail and lead-generation technologies. The company provides proprietary software designed to assist data companies and end-users.
-	['email ', 'proprietary solutions', '']
-TransCella
-	Developer of technology for utilization of multi core processors.
-	['', 'multi core processor', ' ', 'faster application', ' ', 'processor utilization', '']
-BabyCenter
-	Provider of pregnancy and parenting information online. The company provides advice on various issues, such as getting pregnant, pregnancy, babies, toddlers, preschoolers and big kids. It also provides various tools, such as pregnancy/baby calendar, baby name finder, due date calculator, pregnancy weight gain estimator, product recall finder, packing list for hospital or birth center, average fetal length and weight, birth clubs and pregnancy food diary.
-	['', 'parenting information', ' ', 'pregnancy information', ' ', 'pregnancy calendar', ' ', 'pregnancy food diary', '']
-CAVU Medical
-	Developer of restrictive device for treatment of obesity. The company has developed an assembly and method for automatically controlling pressure for a gastric band.
-	['', 'obesity treatment', ' ', 'gastric band control', ' ', 'weight loss', '']
-Vibrynt
-	Developer of a technology for morbid obesity. The company is the developer of an investigational device designed to assist with weight loss by limiting food consumption.
-	['obesity ', 'weight loss', ' ', 'investigational device', ' ', 'treat obesity', '']
+Benebit Networks
+	Provider of a security software. The company develops security software for real time protection of information in the real world, security audits, penetration testing, programmer education programs, security consulting and data classification.
+	['prevention ', 'information leakage', ' ', 'data theft', '']
+NewRiver
+	Provider of innovative technology solutions that simplify investor disclosure, transparency and cost savings to the delivery of fund data and investor communications. The company pioneered the first electronic prospectus, and guarantee its data to be "compliance grade" which allows customers to reduce risk, lower compliance costs and increase revenues.
+	['compliance ', 'summary prospectus', ' ', 'share class analysis', '']
+Enjoyor Technology Group
+	Provider of urban intelligent turnkey services. The company provides intelligent techniques, products and application services for industry users of urban traffic, digital treatment and intelligent architecture.
+	['', 'turnkey service', ' ', 'urban traffic', ' ', 'commercial service', '']
+CATS Software
+	Developer of specialist risk management software for financial institutions. The firm is a supplier of client/server software products for financial risk management. The products of the company are C-ATALYST and CARMA. C-ATALYST is integrated application of software products and tools used for financial risk management and CARMA is an application used for market and credit risk management.
+	['', 'financial software', '']
+TruSecure
+	Provider of Internet security software. The company provides intelligent risk management and compliance products and services to improve security and reduce risk.
+	['']
+Axent
+	Provider of enterprise-grade security software. The company provides an integrated suite of software designed to assess vulnerabilities and ensure policy compliance, provide firewall protection & intruder alerts; enable security Internet usage, and to manage users and resources.
+	['', 'information security', ' ', 'information assets', ' ', 'security services', '']
+Systems Research and Developement
+	Developer of a new approach to identity and risk management. SRD’s identity recognition and relationship awareness solutions provided critical information infrastructure to support both government organizations and private companies in effectively managing operational risk and security risk while protecting personal privacy.
+	['']
+Demarc Security
+	Provider of threat-security software. The company provides a platform enabling enterprises to centrally monitor & manage their networks and receive real-time security threat updates.
+	['firewall ', 'internet security', ' ', 'threat protection', '']
+Rohati Systems
+	Provider of internet networking solutions. The company provides agent-less access management, authentication and authorization, controlled collaboration, managing offshore risk, micro perimeters, secure administration, compliance and audit, and payment card industry council\'s data security standards compliance solutions. It offers Transaction Networking System, a network-based entitlement control platform, which enables entitlement control on a per-transaction basis for data center environments.
+	['', 'networking solution', ' ', 'access management', ' ', 'controlled collaboration', ' ', 'secure administration', ' ', 'compliance solution', ' ', 'control platform', '']
+AirZip
+	Provider of security software for preventing unauthorized access to confidential documents. The company provides FileSECURE to secure Microsoft Office documents, PDFs, all major CAD formats, images, media and other files as well as the output of ANY application that can print.
+	['', 'file security', ' ', 'security software', ' ', 'access authorization', ' ', 'file access management', ' ', 'user authentication', ' ', 'file access tracking', ' ', 'group management', '']
+Polivec
+	Provider of an integrated, corporate-wide, software suite for Governance, Risk Management and Compliance (GRC) solutions. The company enables corporations to manage risk, reduce cost, minimize complexity and protect their current investments.
+	['', 'risk management', ' ', 'corporate governance', ' ', 'compliance software', ' ', 'policy enforcement', '']
+Lacoon Security
+	Developer of security software technologies for smartphones and tablets. The company\'s technology can locate and filter smartphone malware via the internet.
+	['', 'security software', ' ', 'mobile security', ' ', 'smartphone malware', '']
+Digital Harbor
+	Provider of risk management and compliance services for the financial services, industry and public sector clients. The company develops and markets PiiE, a platform for composite applications, which provides information integration and information management system for enterprises. The company\'s products include Smart Client and Fusion Server. The company also offers services for anti-money laundering, fraud, knowing customer, enterprise case management and risk management to the financial services industry. The company also provides services for insider threat, command and control, incident management, mission management, analyst workbench, logistics, and network centric operations to the federal government, intelligence community, homeland security and public work organizations.
+	['', 'risk management', '  ', 'composite applications', ' ', 'inter-networked', ' ', 'intelligence services', ' ', 'business ontology', '']
+Watchfire
+	Provides online risk management, security and compliance testing software.
+	['', 'risk management', ' ', 'security testing', ' ', 'compliance testing', ' ', 'online risk', ' ', 'online security', '']
+Redspin
+	Provider of information security assessments, risk management and compliance services. The company specializes in IT and web application security assessments, HIPAA security risk analysis, penetration testing and mobile device security assessments.
+	['', 'information security', ' ', 'information security assessments', ' ', 'penetration testing', ' ', 'security audits', '']
+FreshTL
+	Provider of a platform for management software, cloud computing, compliance and risk management. The company provides applications and business tools to make information available across the enterprise and enable people to communicate.
+	['', 'platform provider', ' ', 'risk management', ' ', 'information software', '']

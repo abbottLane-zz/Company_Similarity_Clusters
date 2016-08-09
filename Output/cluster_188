@@ -1,24 +1,24 @@
-Decuma
-	Developer of handwriting recognition software for wireless devices such as mobile phones, PDAs and digital pens. The company\'s products are compatible with the palm operating system, windows CE and the Symbian operating system.
-	['', 'wireless devices', ' ', 'handwriting recognition', ' ', 'operating system', '']
-Eridon
-	Provider of a complete platform for embedded system design. The company offers embedded system technology on modular self-integrating uCards to assemble a working hardware platform, operating systems, drivers and development tools.
-	['', 'embedded system design', ' ', 'operating system', ' ', 'computer peripherals', '']
-Digital Research
-	Developer of a personal computer operating system. The company provides a software for computer operating systems that controls printers and disk drives of a desktop computer.
-	['']
-Recourse Technologies
-	Provider of threat management solutions for computer networks. The company provides software to monitor corporate networks against hackers. It provides solutions that detect, analyze and respond to malicious computer attacks.
-	['', 'threat management', ' ', 'network monitoring', ' ', 'network threat management', '']
-Candelis
-	Developer of network attached storage technologies. The company designs and develops network-attached storage appliances for computer networks and operating systems.
-	['', 'network attached storage', 'NAS', 'network storage filer', ' ', 'network storage', '']
-Micropolis
-	Manufacturer of high capacity/performance disk drives. The company provides high capacity mini floppy disk drives and 8" Winchester drives.
-	['', 'disk drives', '']
-Active Control eXperts
-	Provider of Active Vibration Control (AVC) services. The company\'s vibration controls technology actively damps or controls unwanted vibration. It also provides vibration-controlling tolls to OEMs.
-	['', 'vibration controlling toll', ' ', 'vibration control', ' ', 'semiconductor manufacturing', ' ', 'motion control component', ' ', 'vibration suppression', '']
-Amcodyne
-	Provider of disk drives and other computer storage devices.
-	['', 'disk drive', ' ', 'computer storage', ' ', 'storage device', '']
+Mesophotonics
+	Developer of photonic crystal technology for optical devices. The company provides technology in the fields of lasers, miniature optics, telecommunications and computing. It offers surface enhanced raman spectroscopy (SERS) for development of trace level molecular analysis applications. The company was spun out of University of Southampton.
+	['photonic crystal ', 'Surface Enhanced Raman Spectroscopy', ' SERS']
+iCyt Mission Technology
+	Provider of flow cytometry analysis and sorting technology.
+	['', 'flow cytometry', ' ', 'cytometry analysis', ' ', 'sorting technology', '']
+ANDevices
+	Provider of photonic devices. The company provides photonic devices for FTTH, ROADM and long-haul communication markets. The company\'s products are based on a planar lightwave circuit platform which is ideal for integration of multiple optical functions on a single chip.
+	['', 'photonic devices', ' FTTH ', 'Planar Lightwave Circuit', ' chip']
+Spatial Photonics
+	Provider of microdisplays for business and consumer projection display applications. The company\'s microdisplays comprise reflective digital light modulators that control and modulate the light intensity.
+	['', 'microdisplay', ' ', 'display application', ' ', 'light', '']
+Micro Managed Photons
+	Developer of integrated photonic circuits for optical networking applications. The company provides a technology which integrates the concept of photonic band gap and surface plasmon polaritons to control flow of light on an optical chip.
+	['', 'photonic circuit', ' ', 'optical networking', ' ', 'plasmon polariton', ' ', 'optical chip', '']
+VIR
+	Developer of a surface plasmon resonance technology. The company’s technology consists of a patented sensor chip and a separated optical transducer with a digital interface.
+	['', 'industrial supply', ' ', 'sensor chip', ' ', 'optical transducer', '']
+Incontrol
+	Manufacturer of flow and level measurement control equipments and systems. The company provides equipments in the measurement and control of flow and level in all types of industrial process sector.
+	['', 'flow control', ' ', 'measuring equipments', ' ', 'process flow', '']
+Yitran Communications
+	Provider of powerline communication (PLC) technology for command and control applications. The company\'s technology is used in applications including energy management and demand response, automated meter reading/management (AMM/AMR), home/building automation, switching and lighting, white good appliances, HVAC control, remote meter reading and street light control. It also designs, develops and markets PLC integrated circuits.
+	['', 'communication technology', ' ', 'energy management', ' ', 'integrated circuit', '']

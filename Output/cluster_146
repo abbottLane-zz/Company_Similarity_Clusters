@@ -1,30 +1,51 @@
-Hearing Science
-	Provider of hearing health care and audiologist services. The company\'s services include marketing, public relations, managed care contracting, recruiting and training, accounting services, facility management and enhanced information systems. The company also conducts hearing tests and provides patients with hearing aids.
-	['', 'hearing health', ' ', 'audiologist services', ' ', 'diagnostic devices', ' ', 'check-up clinics', ' ', 'facility management', ' audiology']
-Nacre
-	Developer of a patented technology for intelligent hearing systems. The company develops electronic and passive in ear hearing protection with natural speech and radio communications.
-	['', 'hearing system', ' ', 'hearing protection', ' ', 'natural speech', ' ', 'radio communication', '']
-Auris Medical
-	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
-	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
-Fryers Walk VCT
-	Provider of nursing home services for people with learning and hearing disabilities in Thetford. The company operates a 34 bedroom home to provide home care services for people with learning and hearing disabilities.
-	['', 'home care', ' ', 'nursing home', ' ', 'hearing disability', '']
-Groupe J.L. Leclerc
-	Manufacturer and designer of industrial products for power and transportation industries. The company serves the markets for energy and transport. It has developed its own equipment designed for the maintenance and installation of electric lines.
-	['', 'industrial products', ' ', 'power and transportation', ' ', 'electric lines', ' ', 'equipment design', '']
-MindWeavers
-	Developer of software products to help people overcome dyslexia. The company develops and sells software-based products to optimize an individuals innate abilities relating to sensory and motor skills. The company spun out from the University of Oxford.
-	['', 'brain simulation', ' ', 'brain exercises', ' ', 'sensory skills', ' ', 'motor skills', ' ', 'computer games', ' ', 'language learning', ' ', 'software products', '']
-Amira Medical
-	Manufacturer of medical testing devices. The company\'s equipment is designed to facilitate testing of blood glucose levels for people with diabetes.
-	['', 'medical testing', ' ', 'blood glucose', ' diabetes']
-Dynamic Hearing
-	Provider of digital signal processing software. The company offers digital amplifier for the hearing aid and personal communications industries. The company was spun out of Cooperative Research Centre for Cochlear Implant and Hearing Aid Innovation.
-	['', 'signal processing', ' ', 'digital signal', ' ', 'digital amplifier', '']
-AVR Communications
-	Developer of hearing technologies. The company designs, manufactures and sells hearing aids for improving the auditory and verbal communication skills of hearing impaired children and adults.
-	['', 'hearing aids', ' ', 'hearing impairment', ' ', 'hearing technologies', '']
-William Demant Holding
-	Manufacturer of hearing devices. The company develops and sells products and equipment designed to aid people with hearing loss in their individual communication.
-	['', 'hearing aid', ' ', 'Hearing Implants', ' ', 'Diagnostic Instruments', '']
+KinetX IP (software assets and a specialized business unit)
+	Provider of space systems engineering, software engineering, hardware engineering, project management, space navigation, flight dynamics and satellite operations services. The company is an innovative engineering, technology, software development and business consulting firm providing complete systems solutions.
+	['', 'software engineering', '']
+McKinstry Essention
+	Provider of offers online facilities management solutions.
+	['', 'application service', ' ', 'facility management', ' ', 'property management', '']
+Active Modules
+	Provider software development solutions. The company provides open source Web Content Management System for ASP.NET.
+	['', 'software development solution', ' ', 'software development', ' ', 'Web Content Management', '']
+Catalytic Software
+	Provider of offshore software product engineering services. The company offers technology services, such as application development, web enablement, product engineering, testing, managed programs and website designing.
+	['', 'product engineering', ' ', 'software engineering', ' ', 'website design', ' ', 'web development', ' ', 'software testing', '']
+Res-Q Healthcare Systems
+	Provider of staffing and scheduling software for hospitals. The company provide Web-enabled software application that provides department-wide tracking of workload volumes and performance indicators; and Staffing Simulation Screen that compares staff requirements and available personnel by skill level to simulate staffing scenarios for making decisions.
+	['', 'staffing software', ' ', 'scheduling software', ' ', 'software application', ' ', 'performance indicator', '']
+Rofous Software
+	Provider of product engineering and content engineering services. The company offers enterprise application solutions, training and staffing services, application development services, custom software development, enterprise solutions, supply chain management solutions and customer relationship management solutions.
+	['', 'enterprise solutions', ' ', 'management solutions', ' ', 'custom software development', '']
+E Team
+	Provider of professional services and information management solutions. The company also provides services, such as assessments, pre-implementation prep, life-cycle implementations, post implementation support, mentoring/training, project insourcing, contingency staffing, human capital hiring, and contract to hire. In addition, it offers services, which include industry/technology advisory, projects services, project insourcing, component outsourcing, contingency staffing, customized training, human capital hiring, and contract to hire.
+	['', 'professional service', ' ', 'information management solution', ' ', 'project insourcing', ' ', 'contingency staffing', '']
+Notiva
+	Provider of solutions needed for transaction and financial settlement by purchasers and suppliers. The company provides cash transaction management solutions for manufacturers and retailers.
+	['', 'e- finance', ' ', 'financial transactions', ' ', 'invoicing payment', ' ', 'trade settlements', '']
+Extensity
+	Provider of financial and operational solutions. The company operates in two segments, Enterprise Application Systems and Industry Specific Applications. It also resells computer hardware and software, and provides various professional services, including application hosting, consulting, implementation services, and training.
+	['', 'enterprise application systems', ' ', 'application hosting', ' ', 'IT implementation', '']
+Luovaliike
+	Provider of software-engineering services in Finland. The company provides custom software technologies and network systems for its clients, and is the creator of an online platform for home-health nursing services.
+	['', 'care service', ' ', 'healthcare service', ' ', 'mobile application', '']
+Paxford
+	Provider of composite material engineering services.
+	['', 'material engineering', ' ', 'engineering service', ' ', 'composite material', '']
+Terracotta
+	Developer of software products for enterprise application scalability, availability, and performance optimization. The company’s products include Enterprise Ehcache, a solution for optimizing enterprise application scale and performance.
+	['', 'software product', ' ', 'java application', ' ', 'java scalability', ' ', 'performance optimization', '']
+TMX Interactive
+	Provider of web development services.  The company provides the platform which enable users to do web designing, usability, application development and content management as per their requirement.
+	['', 'web development', ' ', 'web design', ' ', 'application development', '']
+Ideaca Knowledge Services
+	Provider of management consulting, advisory, implementation and support services. The company offers enterprise resource planning (ERP) solutions implementation, business intelligence, portals and collaboration, cloud computing, custom development and integration, customer relationship management (CRM) solutions implementation, application infrastructure and support services.
+	['', 'enterprise resource planning', ' ', 'portals and collaboration', ' ', 'customer relationship management', ' ', 'application infrastructure', '']
+Unsubscribe
+	Provider of solutions for unsubscribing from mailing lists. The company\'s solutions monitor and update its system to stop unwanted emails.
+	['', 'email solution', ' ', 'email tool', ' ', 'unwanted email solution', ' ', 'online platform', '']
+Aquila Technologies
+	Developer of engineering software services. The company offers virtual engineering frameworks, image processing, computer game development, project consulting and project execution services.
+	['engineering ', 'image processing', ' ', 'game development', ' ', 'project consulting', '']
+BlueRoads
+	Provider of innovative indirect channel sales strategies for technology based companies. The company offers enterprise partner opportunity management software solutions for the manufacturers of technology products and services that sell through the reseller channels. It offers deal registration, lead management, renewal management, account registration, and lead referral management solutions.
+	['channel ', 'channel efficiency', ' technology']

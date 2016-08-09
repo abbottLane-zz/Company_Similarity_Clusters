@@ -1,21 +1,27 @@
-Precision Light
-	Developer and distributor of body imaging systems. The company develops body imaging systems for simulating the outcome of plastic surgery procedures.
-	['', 'breast augmentation', ' ', 'face lift', ' ', 'plastic surgery', '']
-Oxford Imaging Detectors
-	Developer of scientific imaging detectors. The company offers products for studying structures and processes at the atomic level. It offers instruments for electron microscopy, x-ray and machine vision.
-	['', 'imaging detectors', ' ', 'electron microscopy', ' x-ray']
-Scimagix
-	Provider of image informatics solutions for the pharmaceutical and biotech industries. The company offers proprietary and patent-pending technology for mining scientific images through visual information retrieval (VIR). This technology enables scientists to quantitatively extract, store and mine image data for the first time and has applications in all phases of the pharmaceutical new product cycle as well as other areas of the life sciences, medical and material science industries.
-	['', 'healthcare services', ' ', 'informatics solutions', ' ', 'visual information', '']
-Sceptre Science and Technologies
-	Developer of ion beam molecular self-assembly technology. The company\'s manufacturing process is capable of fabricating circuit lines with feature sizes of less than 10 nano meters.
-	['', 'ion beam', ' ', 'self-assembly', ' circuit']
-Ionity
-	Producer of lithium-ion-polymer batteries. The company\'s lithium-ion technology is used by high-powered mobile energy supply systems.
-	['', 'rechargeable battery', ' ', 'lithium-ion-polymer battery', 'battery', 'Lithium-ion polymer batteries', '']
-ALIS Corporation
-	Developer of scanning ion microscopes and imaging systems for the semiconductor and pharmaceutical sectors. The company created a helium ion technology that enables scientists to see at the atomic level with resolution and material contrast.
-	['', 'microscopes', ' ', 'imaging systems', ' ', 'semiconductor', '']
-KonTEM
-	Developer of a phase contrast system for electron transmission. The company develops an phase contrast system for transmission of electron microscopes.
-	['', 'phase contrast', ' ', 'system transmission', ' ', 'transmission electron microscopy', ' ', 'ultra-thin', '  sensor']
+PlusFourSix
+	Developer of cloud based music services. The company provides end-to-end services to the users including licensing music from labels and collecting societies, complete streaming and mp3 bundled music platform with multiple storefronts such as desktop browser, mobile browsers and various application.
+	['streaming ', 'music service', ' ', 'cloud technology', '']
+PROnoise
+	Provider of an online platform for musicians. The company organises music competitions for the music lovers.
+	['', 'online musical platform', ' ', 'musical battle', ' ', 'online entertainment', '']
+Beep
+	Operator of an online audio networking platform. The company provides a networked audio software that enables consumers to convert any speaker into an internet music streaming device.
+	['', 'wireless speakers', ' ', 'audio software', ' ', 'online music', '']
+L\'ArcoBaleno
+	Provider of a curated marketplace and resource for exploring and purchasing furniture, lighting, crafts and decorative arts. The company\'s online platform mixes a curated marketplace with magazine-style content covering pieces across the spectrum of design ranging from furniture and crafts to architecture and technology.
+	['', 'online furniture', ' ', 'decorative arts', ' ', 'contemporary lights', '']
+QOBUZ
+	Provider of an online music services platform. The company provides streaming music and offers a growing online catalogue featuring more than ten million tracks, including all the majors and leading independent record labels.
+	['', 'music services', ' ', 'music tracks', ' records']
+Sellbox
+	Provider of an ecommerce platform. The company offers an online platform that enables designers, musicians, writers, developers to sell their videos, music albums, ebooks, games and other digital goods.
+	['', 'ecommerce platform', ' ', 'digital product', ' ebook']
+Songza Media
+	Provider of a curated music streaming platform. The company offers free streaming music platlists curated by DJs, musicians, music critics and musicologists.
+	['', 'music search engine', ' ', 'internet radio', ' ', 'music search', ' ', 'music playlist', ' ', 'mood music', '']
+Soundtracker
+	Provider of music streaming service that blends internet radio, social networking and location-awareness. The company provides an application and website that allows users to connect their mobile devices to the social and geographic aspects of music discovery.
+	['', 'music streaming', ' ', 'internet radio', ' ', 'location awareness', ' ', 'geosocial internet radio', ' ', 'music discovery', '']
+Jackalope Labs
+	Operator of a fashion-retail site with curated, home-try-on selections. The company operates an electronic commerce site for men and women utilizing its own label, sending customers curated garment collections to try on at home and charging them for the garments they opt to keep.
+	['', 'luxury clothing', ' ', "men\\'s apparel", ' ', "women\\'s apparel", ' ', 'internet retail', ' ', 'fashion retail', '']

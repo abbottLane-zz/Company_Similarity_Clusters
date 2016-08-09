@@ -1,36 +1,48 @@
-ModeWalk
-	Provider of online marketplace for luxury designers and craftsmen. The company enables luxury designers and craftsmen to interact directly with consumers online and sell their products through online marketplace.
-	['', 'luxury design', ' ', 'online marketplace', '']
-Twice
-	Provider of online marketplace for secondhand clothing. The company provides an e-commerce site browsable by category, with items that are evaluated by professional buyers and professionally photographed.
-	['', 'clothing marketplace', ' ', 'used clothing', ' ', 'concierge style', ' secondhand']
-YellowDog Media
-	Provider of an online shopping website. The company offers an online marketplace which uses social networks to connect buyers and sellers.
-	['', 'online shopping website', ' ', 'social buying', ' ', 'online retail', ' ', 'seller buyer network', '']
-AbeBooks
-	Provider of an online marketplace for books. The company offers collections of new as well as used and out-of-print books on the Internet. It provides book sellers with a venue for their products.
-	['', 'online marketplace', ' ', 'out-of-print', ' ', 'Internet Retail', ' ', 'book sales', '']
-Junglee.com
-	Provider of shopping information over the internet. The company creates giant databases of highly targeted content that instantly link buyers and sellers, thus creating giant new online markets.
-	['', 'online shopping', ' ', 'E Commerce', ' ', 'B 2 C', '']
-Oferton Liveshopping
-	Operator of live shopping website. The company offers sale in various product categories like electronics, leisure and fashion at slashed prices on a particular day. It is an alternative to the traditional online shops and the private sales sites where the customer can benefit from highly discounted products for a period of 24 hours or until stock is depleted.
-	['', 'live shopping', ' ', 'discounted price', ' ', 'shopping website', '']
-Bantam Networks
-	Provider of online contact management and social customer relationship management services. The company offers an online service for business teams to collaborate in a workspace and fuse communications, content, applications, and data while building relationships on the Web. It offers Bantam Live, an online service that is integrated to social networks and allows business teams to search, monitor, and connect with people on the Web for business development, sales, and marketing purposes.
-	['', 'online contact management', ' ', 'customer relationship management', ' ', 'relationship management service', ' ', 'social CRM', ' ', 'CRM', '']
-HealthRally
-	Provider of online platform that uses social motivation and positive financial incentives to inspire people to achieve their health and wellness goals.
-	['', 'online platform', ' ', 'social motivation', ' ', 'social support', '']
-Bureau of Trade
-	Provider of an online marketplace for men’s shopping. The company provides a platform that offers classic cars and vintage chronographs, mummy cartonage, lightning, furniture and literature.
-	['', 'online shopping platform', ' ecommerce ', 'mummy cartonage', '']
-Exchange.com
-	Developer of an online marketplace. The company is an e commerce marketplace which offers buyers a vast selection of merchandise from dealers and reputable sources.
-	['', 'online marketplace', ' ', 'merchandise selection', ' ', 'merchandise dealer', '']
-TurboBOTZ
-	Developer of e-retailing platform to serve video game buyers and sellers. The company offers a place where used video games can be bought or sold.
-	['e-retailing ', 'online retail', ' ', 'video-game buying', ' ', 'video-game selling', ' ', 'used video-game', '']
-nMotion Technologies
-	Provider of an online marketing service. The company provides a marketplace for individual digital out-of-home networks to sell ad space on their screen networks and connect with interested advertisers.
-	['', 'IT Services', '']
+Freshsounds
+	Provider of an online music portal. The company offers an online platform that enables users to search, listen and download music.
+	['', 'online music portal', ' ', 'online music', ' ', 'music download', ' ', 'music search', '']
+Introspeckt
+	Operator of an online social music platform. The company\'s platform helps people to communicate by using music as a message and with the help of this platform users can send music as a reminder or gift over a message.
+	['', 'online music platform', ' ', 'music network', ' ', 'virtual product', '']
+AudioMicro
+	Provider of a network of digital content licensing marketplaces. The company sells user-generated digital audio content online. It enables composers, songwriters, musicians, independent bands, sound designers and audio engineers to upload and sell their micro stock music, sound effects, music cues, production music and production elements.
+	['', 'digital content', ' ', 'online marketplace', '']
+Melody Management
+	Provider of technology services to manage music careers. The company offers a central music management console, including Melody Music Desk and Melody Card, a pay system for distributed music business. Its professional music management tools helps artists to create consistent Web presence and load music, photos, video, and news that keep their fans informed.
+	['', 'technology service', ' ', 'music career', ' ', 'central music management', ' ', 'music business', '']
+Last.fm
+	Provider of music recommendation service. The company provides social music network that connects people with music.
+	['', 'music recommendation', ' ', 'social music network', ' ', 'online music', '']
+Tapely
+	Operator of a music sharing platform. The company creates and shares music mixtapes online. It enables users to upload, store, share and listen music tracks.
+	['', 'music sharing', ' mixtapes upload']
+AG Entertainment
+	Provider of a platform which allows its users to make their music and playlists accessible to other computers and devices. The company\'s platform helps its users to find people who have similar musical tastes and follow what music they are listening to.
+	['', 'music sharing platform', ' ', 'music lover search', ' ', 'entertainment platform', '']
+Soundwave
+	Developer of a mobile music-discovery application. The company’s software enables users to listen to and share their music with other users, as well as tracking geographically what other users are listening to on their devices. Users can draw a circle with their finger over any area of interest on the Soundwave music map, and instantly see the top-played and most recently played songs there. An activity feed enables users to instantly see the songs that the people they are following are playing, as they play them.
+	['', 'music platform', ' ', 'music search', ' ', 'music application', ' ', 'discovery music', ' ', 'area music', ' ', 'real time search', '']
+Melodeo
+	Provider of mobile podcasting solutions. The company delivers music and other media via mobile phones and Web. It provides wireless customers with music, comedy, news, sports, and entertainment programs, including radio shows.
+	['', 'mobile podcasting', ' ', 'mobile media', ' ', 'radio show', ' ', 'delivers music', '']
+Anywhere.FM
+	Provider of music player service and engages in uploading of music collection, playing it on the Web music player and discovering music. It holds licenses for the public performances of the music streamed through the Web site.
+	['', 'uploading music', ' ', 'music streaming', ' ', 'Web music player', ' ', 'discovering music', '']
+Mixwit
+	Provider of a music creation and sharing platform. The company allows users to create their own personalized digital mixtape with songs found on the internet and embed that mixtape on their blog, facebook, myspace and other sites.
+	['mixtapes ', 'music tapes', ' mixing']
+Graywhale Entertainment Exchange
+	Provider of music related accessories. The company provides portable electronic products such as music cassettes, video games and compact discs to music lovers.
+	['', 'music accessories', ' ', 'portable electronics', ' cassettes ', 'video games', ' ', 'compact discs', '']
+Semetric
+	Provider of analytics and trend forecasting for the music industry. The company tracks online trends in music and makes the data available to those working in the music industry. The data covers activity on social media, mentions and sentiment on news and blogs, sales and file sharing activity on the BitTorrent network.
+	['', 'trend forecasting', ' ', 'online music tracking', ' ', 'data tracking', ' ', 'download tracking', '']
+La La Media
+	Operator of an online music store.
+	['', 'online music', ' ', 'music store', '']
+UAB MTV Networks Baltic
+	Broadcaster of video music channel in the Baltic States. The company broadcasts the MTV music channels, serving households in Lithuania, Latvia and Estonia.
+	['broadcaster ', 'television channels', ' MTV']
+TuneCore
+	Distributor of online digital music, film and video. The company offers music delivery and distribution services to online stores. It also provides mastering, t-shirts, ad placements, billboard musician’s guide, billboard talent and touring directory, posters, stickers, music copyrights, trending reports and professional mixing services.
+	['', 'digital music', ' ', 'online video', ' ', 'music delivery', ' ', 'professional mixing', '']

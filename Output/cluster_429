@@ -1,33 +1,36 @@
-Map Pharmaceuticals
-	Developer of novel inhalation therapies for respiratory and systemic diseases. The company develops innovative drug that focuses on providing better treatments for patients with neurological diseases.
-	['', 'novel inhalation', ' ', 'neurological diseases', ' ', 'bio pharma drug', '']
-ConjuChem
-	Developer of novel therapeutics with an initial focus on diabetes. The company makes use of its platforms namely drug affinity complex (DAC) and preformed conjugate drug affinity complex (PC-DAC) to develop new drugs, moreover the company is currently managing many research programs in-house and has one product in clinical development.
-	['diabetes ', 'growth deficiencies', '']
-Gensia Pharmaceuticals
-	Developer of drugs to treat cardiovascular diseases. The company\'s drug research programmes involve technology based on purine-pyrimidine metabolism, which have application in the treatment of cardiovascular, cerebrovascular and neurological diseases.
-	['', 'cardiovascular diseases', ' ', 'purine-pyrimidine metabolism', '']
-Sequel Pharmaceuticals
-	Developer of novel and clinical-stage drug candidates to treat cardiovascular diseases. The company\'s lead product K201 (JTV-519) has the potential to treat A-Fib, which can cause shortness of breath, chest pain, and blood clot, often leading to a stroke.
-	['cardiovascular ', 'novel drug', '']
-Xenon Pharmaceuticals
-	Developer of medicines focused on rare diseases. The company\'s core enabling discovery platform is focused on studying rare human diseases with extreme traits, including diseases caused by mutations in ion channels, known as channelopathies.
-	['', 'rare disease', ' channelopathy ', 'gene therapy', ' ', 'discovery platform', ' ', 'ion channel mutation', '']
-Salient Interventions
-	Developer of drug for neurologic diseases. The company develops products focused on early treatment of neurologic diseases and reversal of neurologic deficits.
-	['neurologic ', 'neurologic deficits.', '']
-Togetherville
-	Provider of online networking services. The company focuses on providing kids with safe, socially-connected, child-focused community where they can engage with age-appropriate eduction, expression and entertainment applications.
-	['', 'online networking', ' ', 'entertainment application', ' ', 'child-focused community', '']
-Pains & Tradition
-	Provider of baked and frozen breads. The company primarily focuses on providing various types of breads and baked rolls.
-	['', 'baked breads', ' ', 'frozen breads', ' breads']
-The African Food Company
-	Cultivator of organic bananas. The company focuses on providing organic bananas, aiming to generate solid financial returns in combination with delivering great social and environmental benefits.
-	['plantation ', 'organic food', ' banana']
-BRAINco Biopharma
-	Developer of personalized treatments for nervous system diseases. The company develops new diagnostic tools and treatments against nervous system diseases optimizing individual drug treatment response, increasing remission rates and decreasing relapses rates.
-	['', 'nervous system', ' ', 'antiepileptic treatment', ' diazepam phenitoin']
-Catalyst Pharmaceutical Partners
-	Developer of a pharmaceutical company. The company focuses on in-licensing, developing and commercializing prescription drugs to treat rare (orphan) neuromuscular and neurological diseases, including Lambert-Eaton Myasthenic Syndrome (LEMS), infantile spasms and Tourette\'s disorder.
-	['in-licensing ', 'prescription drugs', ' spasms']
+Callipso
+	Provider of Voice over Internet Protocol (VoIP) services through its private fiber-optic network. The company offers wholesale origination and termination services, as well as flat-rate long-distance services. It also offers a back office monitoring system that allows clients to track and monitor call traffic through a Web-based interface and computer applications that provide users with teleconferencing, call monitoring and real-time billing services.
+	['', 'internet protocol', ' ', 'fiber optic network', ' ', 'termination service', ' ', 'call monitoring', '']
+Cedar Point Communications
+	Provider of integrated voice over Internet protocol and multimedia switching technologies for the service provider and enterprise telecommunication industries. The company\'s products include SAFARI C3, a media switching system, which delivers Internet protocol multimedia subsystem (IMS) capabilities that support the anticipated migration to IMS architecture for converged networks; and SAFARI eMG, a media gateway that delivers flexibility. It also also provides training, customer, and solution services. Cedar Point Communications serves information technology departments and network operators, cable operators and telecommunications carriers, and enterprise customers and educational institutions.
+	['', 'voice over Internet protocol', ' ', 'switching technology', ' ', 'switching system', '']
+MetraTech
+	Provider of web based services for billing, customer self care and partner management. The company\'s applications include mobile virtual network operator, internet protocol television, conferencing and collaboration, voice over Internet protocol, Internet service provider, messaging, utility computing and airports.
+	['', 'online billing', ' ', 'partner management', ' ', 'business collaboration', '']
+Telovations
+	Provider of voice over Internet protocol communications services. The company\'s services feature applications, such as hosted phone systems, remote office, fax to email, find me or follow me, branch office networking, unified messaging, conference calls and collaboration, disaster redirect, email and broadband Internet, Microsoft integration toolbar, auto-attendant options, receptionist console and messages on hold.
+	['', 'Internet protocol communication', ' ', 'hosted phone system', ' ', 'branch office networking', ' ', 'disaster redirect', ' ', 'remote office', ' ', 'conference calls', ' ', 'broadband Internet service', '']
+Syndeo
+	Developer of voice-over-internet-protocol software. The company provides broadband local loop and traditional narrowband carriers to drive additional value over their next-generation converged networks by offering VoIP (voice-over-IP) services.
+	['VoIP']
+Visage Mobile (Subscriber Management Business)
+	Provider of a platform for mobile virtual network operators (MVNOs). The company provides on-demand management systems.
+	['', 'virtual network operator', ' ', 'on demand management system', ' ', 'virtual service provider', '']
+Northchurch Communications
+	Developer of a service router for the creation of customized internet protocol services. The company provides next-generation edge access platforms for delivering IP-based services.
+	['', 'internet protocol', ' ', 'service router', ' ', 'networking service', '']
+Jacked
+	Provider of internet protocol-based media interactivity solutions for television programming.
+	['', 'customizable real-time dashboard', ' ', 'media interactivity solution', '']
+CopperCom
+	Provider of switching solutions for independent operating companies, competitive local exchange carriers and Internet service providers. The company makes software-based switches or softswitches and other products that enable advanced services such as voice over Internet Protocol (VoIP).
+	['', 'switching solution', ' ', 'internet service providers', ' ', 'software-based switches', ' softswitches ', 'voice over internet protocol', '']
+SmartLink
+	Developer of integrated silicon. The company develops integrated silicon products for voice over internet protocol communications.
+	['', 'broadband modem', ' ', 'Embedded fax', ' ', 'Embedded modem', ' ', 'Connectivity Product', '']
+Globecomm Network Services
+	Provider of internet connectivity services. The company designs internet protocol based networks. Its products are used in video broadcast, voice over Internet protocol and satellite-based applications.
+	['', 'video broadcast', ' satellite ', 'internet connectivity', '']
+TradingCom
+	Operator and provider of telecommunications and internet services. The company providers telecommunications networking and Internet Protocol carrier platform.
+	['', 'internet protocol', ' ', 'bandwidth service', ' ', 'internet service', '']

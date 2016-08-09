@@ -1,18 +1,33 @@
-Cyrenaic Pharmaceuticals
-	Developer of drugs for schizophrenia and bipolar disorder. The company is focused on the development of CYR-101, an innovative antipsychotic for the treatment of schizophrenia.
-	['', 'schizophrenia treatment drug', ' ', 'bipolar disorder treatment', ' ', 'drug development', '']
-Arana Therapeutics
-	Provider of biotechnology services. The company is focused on the development of antibody and peptide products for the treatment of inflammatory diseases and cancer.
-	['', 'inflammatory diseases', ' ', 'peptide products', ' ', 'research services', '']
-Oxxon Therapeutics
-	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
-	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
-Nucleonics
-	Provider of biotechnology services. The company is engaged in the development of novel RNA interference-based therapeutics for viral and other diseases.
-	['', 'therapeutic products', ' ', 'biotechnology services', ' ', 'viral diseases', '']
-Virxsys
-	Provider of a biotechnology company. The company provides technology for the development of gene and vaccine therapies for the treatment of HIV, cancer and genetic diseases.
-	['', 'vaccine therapy', ' ', 'genetic disease', ' ', 'biotechnology company', '']
-Cardoz
-	Developer of pharmaceutical products in the field of cardiovascular inflammation. The company is focused on the development of drugs for inflammatory vascular conditions, such as abdominal aortic aneurysm and atherosclerosis.
-	['', 'pharmaceutical products', ' ', 'cardiac equipment', ' pacemakers']
+PowerInbox
+	Developer of e-mail application platform. The company enables users to run applications from inside their e-mail messages. Its open app platform enables developers to create apps that run on e-mail using HTML5.
+	['', 'email application', ' ', 'create application', ' ', 'open platform', ' ', 'application platform', '']
+Outbox
+	Provider of an online service that digitizes postal mail and makes it available online and on mobile devices. The company collects and manages postal mail on users\' behalf, discarding junk mail and enabling users to organize, prioritize or unsubscribe on any piece of mail.
+	['', 'mail interception', ' email ', 'post office', ' ', 'digital mailbox', ' ', 'snail mail', ' ', 'digital mail', ' mailbox']
+EveryArt
+	Operator of an online art gallery. The company\'s platform allows the visitor to commission an art piece from a diverse portfolio of artists on the web to create an original piece of art for them.
+	['', 'art gallery', ' ', 'art piece', ' portfolio masterpiece']
+SurfControl
+	Developer of internet and e-mail filtering software. The company protects organizations with multiple layers of threat protection that filter inbound, outbound and internal internet traffic.
+	['', 'threat protection', ' ', 'Internet security', ' spyware']
+Qype
+	Provider of a consumer review website for goods and services in Europe. The company offers the review service in nine languages and more than 160,000 cities and towns worldwide. The service is available online and through a mobile application.
+	['', 'consumer review', ' ', 'review website', ' ', 'internet software', '']
+NextPage
+	Provider of technological services to businesses to track and manage documents. The company provides services for tracking documents across e-mail, hard drives and servers.
+	['', 'information retrieval', ' ', 'data gathering', ' ', 'data management', '']
+Blurtt
+	Provider of a web based platform that conveys expressions, thoughts and feelings in a creative way. The company provides a mobile application that helps one to create and share a visual statement to express oneself. The company also offers photo-upload service, permitting users to send printed postcards of said photos to friends via mail.
+	['app expression ', 'mobile application', '']
+Citizen Logistics
+	Developer of mobile-collaboration software. The company provides a platform enabling users to collaborate with others via SMS, IM, e-mail or Twitter. The platform contains map tools as well as tools for organizing teams by locations, interests and skills.
+	['', 'web service', ' ', 'mobile device', ' ', 'online community platform', '']
+Hotmail
+	Provider of Web-based e-mail services. The company electronic mail being accessible via the internet enables Hotmail users to conduct e-mail correspondence from anywhere.
+	['', 'e-mail services', ' web']
+Blackspider Technologies
+	Provider of managed e-mail security solutions. The company\'s security solutions delivers e-mail content filtering services to organizations, enabling them to block the spam and e-mail borne computer viruses before they enter company networks.
+	['', 'e-mail security solutions', ' ', 'e-mail content filtering services', ' ', 'blocking viruses and spams', ' ', 'web security', ' ', 'managed security services', '']
+PTS Messaging
+	Provider of Internet call waiting and voice mail services. The company\'s services includes caller ID, personal greetings, call screening, call answer, call forwarding, voice mail and e-mail or phone-message retrieval.
+	['', 'voicemail', ' ', 'call screening', ' ', 'software services', '']

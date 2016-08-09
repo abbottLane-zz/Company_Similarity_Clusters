@@ -1,12 +1,9 @@
-Gascomer
-	Operator of a seafood processing company. The company processes, markets and sells seafood such as fish, crustaceans and molluscs .
-	['seafood ', 'seafood processing', ' ', 'seafood marketing', '']
-ELABORADOS GALLEGOS
-	Wholesale distributor of fresh, frozen and canned fish. The company operates a processing facility, offering products made from cod, Greenland halibut, eel, river cobbler and ling cod to the European market.
-	['', 'frozen fish', ' ', 'fresh fish', ' ', 'cold storage', ' ', 'fish marketing', '']
-Channel Fisheries
-	Provider of fish and seafood. The company also supplies seafoods in the export markets in continental Europe, the Middle East and the US.
-	['seafood ', 'fish products', ' ', 'export fish', '']
-Reimes Rekefabrikk
-	Operator of a seafood-processing enterprise. The company processes and exports shrimp, fish, snails and other seafood.
-	['', 'seafood distributor', ' ', 'fresh seafood', '']
+RP Holdings
+	Provider of mortgage default services. The company offers non-legal administrative, accounting, technology and information, data and document collection, transmission and processing services to law firms.
+	['', 'mortgage default services', ' ', 'processing services', '']
+ThorpeGlen
+	Provider of electronic surveillance services. The company provides monitoring and tracking systems, data extraction and analytical services for law enforcement agencies.
+	['', 'proactive monitoring', ' ', 'data extraction', ' ', 'homeland security', ' ', 'organized crime', ' faruds']
+KonTEM
+	Developer of a phase contrast system for electron transmission. The company develops an phase contrast system for transmission of electron microscopes.
+	['', 'phase contrast', ' ', 'system transmission', ' ', 'transmission electron microscopy', ' ', 'ultra-thin', '  sensor']

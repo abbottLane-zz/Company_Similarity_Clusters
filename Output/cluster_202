@@ -1,9 +1,42 @@
-KIDS GARDEN
-	Operator of independent nursery. The company is in stealth mode.
-	['nursery']
-Randwal Instruments
-	The company was in stealth mode.
-	['']
-Cynergen
-	The company is currently operating in stealth mode.
-	['commodity excess power']
+Discovery Engine
+	Developer of an internet search engine. The company offers an interaction model of search engine that also can also compile information from multiple sources.
+	['', 'search engine', ' ', 'internet search engine', ' SEO']
+Four11
+	Provider of internet white pages directory service for locating email addresses. The company provides free online search and listing services.
+	['', 'white pages', ' directory ', 'listing service', '']
+WiseNut
+	Provider of search engine and Web-browsing services. The company is the developer of a crawler-based search engine and database of indexed Web pages.
+	['', 'search engine technology', ' ', 'web browsing', ' ', 'internet search', '']
+Guruji.com
+	Operator of a crawler-based search engine that identifies Web content for Indian launches and language search. The company\'s search engine is available for PCs and mobile devices and covers a variety of topics, including news, entertainment, travel, astrology, literature, business, and education.
+	['', 'search engine', '']
+Searchdaimon
+	Provider of an open-enterprise search engine for corporate data and websites. The company provides a plug-and-play technology to search for knowledge and information from the Internet, documents, e-mails, attachments, customer-relationship systems and other content sources.
+	['', 'enterprise search', ' ', 'corporate search', ' SME']
+Vizibility
+	Developer of SearchMe (TM) button for Google which instantly returns the search results. The company provides one click people search services for career professionals. It also offers PreSearch Wizard, a process to design and manage custom search result on Google and generate personal SearchMe button.
+	['', 'web service', ' ', 'custom search', ' ', 'people search', ' ', 'online identity management', '']
+Goshme Solucoes Para a Internet
+	Developer and provider of search engine. The company assists users by providing a list of all search engines and databases appropriate to the query, ranked by relevance, divided by categories and sub-categories, and with a brief description about each search engine.
+	['', 'search engine', ' databases ', 'Web Search', '']
+Peryskop.pl
+	Provider of an online search engine. The company provides semantic search engine for products and product\'s reviews in Polish and English.
+	['', 'online search', ' ', 'online product search', ' ', 'semantic search engine', '']
+BackType
+	Operator of a search engine that enables the users to find, follow, and share comments from blogs and social news sites on the Web. The company also enables to search query results by RSS feeds and emails.
+	['', 'search engine', ' ', 'social impact', ' ', 'analytics platform', ' ', 'social impact analysis', ' ', 'social analytics platform', '']
+JustSpotted
+	Provider of real time search engine. The company\'s search engine aggregates and organizes content being shared on the internet. It offers search options on entertainment, technology, sports, world and business, science, gaming, politics and lifestyle topics.
+	['', 'realtime search engine', ' ', 'internet content', ' ', 'entertainment search option', '']
+Zoomf
+	Provider of a residential property sales and letting search engine. The company also offers consumers local market intelligence and information on local amenities in their area of choice, via map and listings.
+	['', 'residential property', ' ', 'market intelligence', ' ', 'search engine', '']
+411
+	Provider of an online search engine in Canada. The company provides search platform for user to locate whatever contact he whats to get in Canada.
+	['', 'online search engine', ' ', 'search platform', ' ', 'database platform', '']
+Dwellable
+	Operator of mobile based vacation rental search engine. The company provides a mobile application for users to find rental accommodation for their vacation trips.
+	['', 'search engine', ' ', 'rental place', ' accommodation']
+CitySquares Online
+	Provider of a hyper-local search engine. The company helps the local, neighborhood small businesses get found online.
+	['', 'local search engine', ' ', 'local business information', ' ', 'hyper local engine', '']

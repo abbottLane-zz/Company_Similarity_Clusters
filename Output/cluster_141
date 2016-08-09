@@ -1,21 +1,30 @@
-Advanced DX
-	Provider of testing equipment and personnel for diagnosis of clinical conditions including diabetic retinopathy, neuropathies and peripheral vascular disease. The company gives primary care physicians the ability to diagnose these conditions so they can keep patients in house and generate revenue from diagnostic procedures.
-	['', 'testing equipment', ' ', 'testing personnel', ' ', 'primary care', '']
-Innogenetics
-	Producer of diagnostics and therapeutic vaccines. The company develops and markets various diagnostic assays with a focus on molecular diagnostics and multiparameter testing.
-	['', 'therapeutic vaccines', ' vaccinations ', 'molecular diagnostics', '']
-Inostics
-	Provider of diagnostic services. The company provides molecular diagnostics testing for physicians, clinical trials, and research offering sensitive mutation testing from plasma and serum samples.
-	['', 'diagnostics testing', ' ', 'molecular diagnostics', ' ', 'mutation testing', '']
-EnviroGene
-	Provider of molecular diagnostics related to environmental pollution. The company provides environmentally friendly tracer systems to identify sources of fecal and microbial contamination in water bodies.
-	['', 'molecular diagnostic', ' ', 'natural resources management', ' ', 'contamination test', ' ', 'Environmental Service', '']
-Signature Genomic Laboratories
-	Provider of molecular cytogenetic diagnostic services. The company offers diagnostic services, including pediatric and adult testing, and prenatal services, as well as FISH analysis of clinically relevant loci. The company also provides prenatal diagnosis services, interpretation with genome microarrays, and G-banded karyotype analysis services.
-	['', 'diagnostic service', ' ', 'cytogenetic diagnostic service', ' ', 'adult testing', ' ', 'pediatric testing', ' ', 'prenatal service', ' ', 'prenatal diagnosis', ' ', 'genome microarray', '']
-Nanosphere
-	Nanosphere Inc develops, manufactures and markets molecular diagnostics platform, the Verigene System, which enables sensitive genomic and protein testing on a single platform.
-	['', 'molecular diagnostics', ' ', 'diagnostics platform', ' ', 'cardiovascular diseases', ' ', 'protein testing', '']
-Catalyst Oncology
-	Provider of information solutions that enable personalized medicine approaches to cancer patient management. The company provides clinical information to physicians, with an emphasis on proprietary testing and also provides diagnostic and prognostic information for individual patients, allowing physicians to create treatment plans that are tailored for each patient\'s needs.
-	['', 'medicinal information', ' cancer ', 'patient management', '']
+Combrio
+	Provider of remote product services (RPS) software to managed services, enterprise information technology and industrial automation organizations to monitor and manage remote devices. The company’s products include Virtual Service Infrastructure software solution (VSI), an RPS ecosystem that provides the service delivery solutions for service providers, remote device monitoring and management solutions for service organizations and the service control solutions for enterprises.
+	['', 'remote product services', ' ', 'managed services', ' ', 'enterprise information technology', ' ', 'industrial automation', ' ', 'remote devices', '']
+ManageIQ
+	Provider of enterprise cloud management and automation software. The company provides an automation software that enables organizations to deploy, manage and optimize private clouds, virtualized infrastructures and virtual desktops. It delivers unified monitoring, management and automation through a single pane of glass across enterprise clouds and globally distributed data centers.
+	['', 'enterprise cloud management', ' ', 'automation software', ' ', 'virtualized infrastructure', ' ', 'virtual desktop', ' ', 'unified monitoring', '']
+DynamicOps
+	Provider of virtual infrastructure and lifecycle management software solutions. The company offers Virtual Resource Manager, an information technology service automation software. The company also provides DynamicOps Cloud Automation Center, a platform for defining and automating the delivery and management of on-demand IT services on a shared multi-tenant private or public cloud infrastructure. It also provides server provisioning, desktop provisioning, and lab management solutions
+	['', 'virtual infrastructure', ' ', 'lifecycle management software', ' ', 'server provisioning', '']
+Peminic
+	Developer of healthcare IT workflow and process management software. The company offers integrated software solutions for patient safety and quality, patient relations, risk management, and legal services. Its solutions include incident manager, root cause analysis manager, patient relations manager, peer review manager, claims manager, legal matter manager, employee health manager, contract manager, compliance manager, infection control manager, performance improvement manager, and quality outcomes manager, as well as patient safety organization solutions.
+	['', 'IT workflow', ' ', 'process management software', ' ', 'integrated software solution', ' ', 'cause analysis manager', ' ', 'healthcare solution', '']
+Cloud.com
+	Provider of open source software solutions for enterprises and service providers. The company offers an open source software solution that accelerates the deployment, management, and configuration of multi-tier and multi-tenant infrastructure cloud services. The company also provides subscription services, which include technical support, training courses, and knowledge base access, as well as security updates, patches, and bug fixes.
+	['', 'open source', ' ', 'software solution', ' ', 'cloud service', ' ', 'bug fixing', ' ', 'security update', ' ', 'technical support', '']
+rPath
+	Developer of a technology for virtualizing software applications, and managing the lifecycle of virtual appliances and application images. The company\'s products include rBuilder,\nrPath Lifecycle Management Platform. It also offers rBuilder Online and the Cloud Catalog for EC2 and rPath X6.
+	['', 'virtualizing software application', ' ', 'virtual appliance', ' ', 'application image', ' ', 'Lifecycle Management', ' ', 'Cloud Catalog', '']
+Rostrum
+	Provider of virtual meeting software. The company provides a platform which allow business organizations to conduct virtual general-assembly board meetings without any geographic limitations.
+	['', 'virtual meeting', ' ', 'online meeting', ' ', 'virtual general-assembly', '']
+B-hive Networks
+	Provider of virtual environment management solutions. The company offers B-hive Conductor, a software solution, which delivers service level control in virtualized IT environments. It’s software solution also provides visibility into the multi-tier applications, such as end-user transaction response time, virtual machine utilization, and cross-virtual machine dependencies to the virtual infrastructure groups, as well as determines baseline performance and usage of various business services and issues service level reports. It also plans and implements virtualization projects ranging from installation to capacity planning to performance improvement, as well as offers service delivery assessment services.
+	['', 'environment management', ' ', 'service level control', ' ', 'virtual machine utilization', ' ', 'cross virtual machine', '']
+Mandriva
+	Provider of enterprise free software products and solutions to the professional market. The company develops and distributes Linux globally. The company also provides server products and open source I.T infrastructure management solutions.
+	['Linux ', 'Open Source', ' freeware']
+Enigmatec
+	Provider of automation solutions for physical and virtual resource management. The company offers Execution Management System, an automation solution to implement run book automation solutions that describe the process of cataloguing, codifying, testing, and automating the manual, scripted, and ad hoc procedures used to manage information technology (IT) environments.
+	['resource management automation ', 'user interface', '']

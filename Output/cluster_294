@@ -1,21 +1,42 @@
-fiveby tv
-	Provider of online videos based on user preference. The company scours the internet for the best videos, and hand-delivers the ones people want to watch.
-	['', 'online video search', ' ', 'free video', ' movie']
-CastTV
-	Operator of a website that helps people to watch videos through the Web. The company\'s website lets users find all their favorite online videos, from TV shows to movies to the latest celebrity, sports, news, and viral videos.
-	['', 'online video', ' ', 'original video', ' ', 'watch video', ' ', 'video website', ' ', 'video clip', ' ', 'social video sharing', ' ', 'community video', ' ', 'video blog', ' ', 'video entertainment', '']
-CAVI
-	Provider of an online in-video purchase option. The company enables content-owners and publishers to integrate as an e-commerce shop into the online videos, without disturbing the experience of the user.
-	['synergies ', 'in-video shopping', ' ', 'commercial service', ' ', 'e-commerce integration', '']
-Omnisio
-	Provider of online videos. The company enables user to annotate videos, combine clips, and synchronize slideshare presentations to videos.
-	['', 'video annotation', ' ', 'video sharing', ' ', 'video blogging', '']
-IFILM
-	Operator of online streaming media network on the Internet. The company distributes videos online, featuring programs that comprise animations and cartoons, comedy, movie clips, music videos, short films, TV clips, video game trailers, spike shows and action sports as well as a collection of viral videos from Hollywood studios, amateur filmmakers and user-generated content.
-	['', 'online streaming', ' ', 'movie information', ' ', 'entertainment media', ' ', 'music videos', '']
-PageWise
-	Operator of a website that serves how-to videos and articles online. The website is a video portal for how-to information and the largest provider of "made for the internet" video content. Its content was created through the company\'s proprietary process wherein filmmakers select specific how-to topics and produce videos on that subject matter.
-	['article, video, ', 'how to video', ' ', 'video portal', '']
-Navify
-	Provider of interface for viewing Wikipedia with videos, images, and comments. The company is built on Wikipedia’s platform.
-	['', 'social content', ' ', 'video and images', ' ', 'user interface', '']
+TestSource
+	Provider of behavioral-based, pre-employment assessments for the healthcare industry. The company offers healthcare selection inventory services, a behavioral-based pre-employment assessment service designed to identify top performers for job families, such as nursing, patient care, entry-level service, administrative/clerical and technical/professionals.
+	['', 'pre employment assessment', ' ', 'inventory service', ' ', 'clerical service', ' ', 'technical service', '']
+Network
+	Owner and operator of a social networking site for professionals. The company allows professionals to stay connected.
+	['', 'social networking', ' ', 'professional network', ' ', 'social media network', '']
+NeoDiagnostix
+	Operator of a cancer diagnostics company. The company uses molecular DNA technologies with a substantial portfolio of proprietary biomarkers. The company provides clinicians with a patient\'s molecular profile that provides crucial insights into cancer leading to improved patient care.
+	['', 'cancer diagnostics', ' DNA ', 'molecular profile', '']
+Ensure Medical
+	Developer of devices for post catheterization closure of the femoral artery. The company offers femoral artery closure device, which uses a synthetic bioabsorbable polymer to stop bleeding and close the site of the arterial puncture. It also offers cardiac and vascular devices for health care professionals to treat cardiovascular diseases.
+	['', 'arterial puncture', ' ', 'femoral artery', ' ', 'health care professional', '']
+Breastfeeding.com
+	Provider of support and information on breastfeeding for first-time moms. The company operates an online community of mothers and birth related medical professionals for support and advice. It also provides information and support on various child health and growth issues ranging from child care and safety to potty training and teething.
+	['', 'online community', ' ', 'medical professional', ' ', 'child care', ' ', 'child health', '']
+Luminous Medical
+	Developer of an automated glucose measurement system for tight glycemic control in the intensive care units, operating rooms and intermediate care units. The company enables automatic sampling of blood, measures glucose and other analytes spectroscopically and returns the unchanged blood to the patient through its measurement system.
+	['', 'glucose measurement system', ' ', 'glycemic control', ' ', 'automatic blood sampling', ' ', 'healthcare service', '']
+Oceana Therapeutics
+	Manufacturer of pharmaceuticals for pediatric endocrinology, urology, oncology, gastroenterology, endocrinology, cardiology and acute care. The company’s Solesta is used for the treatment of fecal (bowel) incontinence.
+	['', 'pediatric endocrinology', ' ', 'fecal incontinence', '']
+Camelot Care
+	Provider of foster care and community based services. The company is a six state provider of foster care and community based services in Illinois, Indiana, Tennessee, Nebraska, Ohio and Florida.
+	['']
+Viadeo
+	Operator of an online networking site for professionals. The company helps its users to find clients, suppliers, business partners, jobs and employees online.
+	['', 'networking site', ' ', 'professional network', ' ', 'job search', '']
+HistoRX
+	Developer of tissue-based theranostic solutions for individualized patient care. The company provides customized biomarker assays and reagents, instrumentation and software, and contract services for quantitative biomarker analysis. It also engages in the development of companion and standard-of-care diagnostic assays. In addition, it offers drug discovery and development, disease detection and diagnosis, and clinical pathology and patient care services.
+	['', 'patient care service', ' ', 'disease detection', ' ', 'clinical pathology', '']
+MySelfHelp
+	Provider of online and interactive mental health self-help programs and tools. The company’s programs enable users to manage depression, stress, insomnia, eating disorders, grief, guilt, low self-esteem, compulsive shopping, and hope for HIV. It serves health care companies and individuals.
+	['', 'online mental health', ' ', 'interactive mental health', ' ', 'manage disease', '']
+TLContact
+	Provider of a web page service to help healthcare providers deliver better care to their patients and their families by supporting their emotional and spiritual needs. The company has formed an online community where visitors come together to share the challenges, hopes and triumphs of anyone facing a life-changing health event.
+	['', 'online community', ' ', 'web page service', '']
+MedApps
+	Developer of wireless patient monitoring devices. The company offers a range of portable health devices that automatically record a patients monitor readings and wirelessly transmits the data so that it can be monitored and acted upon by health care professionals.
+	['', 'monitoring devices', ' ', 'wireless patient monitoring', ' ', 'health devices', '']
+Beansprout Networks
+	Provider of an online community for parents, pediatricians and child care professionals. The company provides pediatric professionals and the families in their care with tools, resources and educational programs to enhance patient care and practice efficiency.
+	['', 'online community', ' pediatricians ', 'child care professionals', '']

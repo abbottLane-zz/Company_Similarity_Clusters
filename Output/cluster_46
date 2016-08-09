@@ -1,15 +1,33 @@
-Link Medicine
-	Operator of a privately held biotechnology company advancing novel approaches for the treatment of neurodegenerative diseases. The company is developing treatments for multiple diseases, including Alzheimer’s, Parkinson’s, Huntington’s, and Amyotrophic Lateral Sclerosis (ALS). It targets a common feature of the disorders - the buildup in nerve cells of incorrectly folded, aggregated and ultimately neurotoxic proteins.
-	['', 'neurodegenerative disease', ' Alzheimer’s Parkinson’s, Huntington’s ', 'Amyotrophic Lateral Sclerosis', ' ALS']
-Corvas
-	Manufacturer and developer of therapeutic agents for the prevention and treatment of cardiovascular and inflammatory diseases. The company also undertakes cancer research programs.
-	['biotherapeutics ', 'cardiovascular disease', ' ', 'drug candidate', '']
-Intracellular Therapies
-	Developer of drugs for the treatment of diseases and disorders of the Central Nervous System (CNS). The company develops compounds to treat neuropsychiatric and neurological diseases. It also develops a state of the art technology platform for generating a unique molecular signature for drug compounds.
-	['', 'neuropsychiatric disease treatment', ' ', 'neurological disease treatment', ' ', 'drug compound', ' ', 'drug development', '']
-StormBio
-	Developer of therapy for influenza and other inflammatory diseases. The company is developing a new class of therapeutics designed to target only an over-reaction of the inflammatory process, without shutting down the body\'s immune response.
-	['', 'influenza', ' ', 'inflammation treatment', ' ', 'pandemic', ' ', 'biopharm', '']
-Centaur Pharmaceuticals
-	Developer of novel class of small molecule pharmaceutical compounds for the treatment of neurodegenerative and inflammatory diseases. The company develops such compounds to treat inflammatory diseases such as acute stroke, dementia, rheumatoid arthritis, myocardial ischemia and Parkinson’s disease.
-	['', 'molecule pharmaceutical compound', ' ', 'pharmaceutical products', '']
+Tinmar Holdings
+	Operator of a holding company. The company owns and operates endoscopy and surgical centers in the United States.
+	['', 'parent company', ' ', 'surgical centers', ' ', 'endoscopy center', '']
+SiCortex
+	Manufacturer of computers, computing systems, compiler suites, and personal development systems. The company also offers desk side, departmental, and data center packages. It serves universities, academic institutions, research laboratories, and government agencies in the United States.
+	['', 'computing system', ' ', 'compiler suite', ' ', 'development system', '']
+AdVentures
+	Operator of a media and music company. The company operates a national broadcast network in malls in the United States.
+	['', 'broadcast network', ' malls ', 'media and music', '']
+TrueBlue
+	Provider of temporary workers to the light industrial, construction and small business markets in the United States and Canada. The company is an International provider of temporary blue-collar staffing.
+	['employment ', 'labor services', ' ', 'employment agencies', ' ', 'business training', '']
+Potbelly Sandwich Works
+	Producer and retailer of sandwiches and homemade desserts. The company owns and operates more than 150 quick-service restaurants in Illinois and eight other mostly Midwestern states that specialize in fresh-made sandwiches.
+	['', 'homemade dessert', ' ', 'retail sandwich', ' ', 'quick service restaurant', ' ', 'fresh sandwich', '']
+Premier VCT (Dartford)
+	Owner and operator of a hotel. The company owns 12 bedrooms hotel in Dartford.
+	['', 'travel & leisure', ' ', '12 bedrooms', ' ', 'Holiday Inn', '']
+Morethanhotels
+	Operator of hotels. The company owns and operates twelve Express by Holiday Inn hotels throughout United Kingdom.
+	['', 'hotels in United Kingdom', ' ', 'resorts in United Kingdom', ' ', 'budget accommodations', ' ', 'hotels and resorts', '']
+BigCafe (China) Holdings
+	Operator of a chain of internet cafe. The company owns and operates internet cafes outlets and provides advisory and management services to the internet cafe industry throughout China.
+	['', 'internet cafe', ' cafe ', 'advisory service', '']
+Asahi Kasei Pharma America
+	Provider of critical-care and hospital-based therapeutics to patients, treating physicians, and payors in the United States and internationally. The company offers ART-123, a novel, recombinant, and soluble thrombomodulin for the treatment of disseminated intravascular coagulation in sepsis.
+	['biopharmaceutical ', 'critical care', ' ', 'hospital based therapeutic', ' ', 'disseminated intravascular coagulation', ' hematolog ', 'blood clotting', ' ', 'deep vein thrombosis', '']
+Hospital Management Associates
+	Operator of acute-care medical hospitals in the U.S. The company partners with mid-size communities and local hospital leaders, physicians and caregivers throughout the United States to operate leading community hospitals and health systems.
+	['Healthcare ', 'Hospital Operation', ' ', 'Healthcare Quality', '  acute-care']
+Imperium Renewables
+	Producer of biodiesel from feedstock oils and glycerin, a by-product of biodiesel. The company operates BQ-9000®-certified biodiesel facilities in the United States.
+	['biodiesel ', 'clean energy', ' ', 'green energy', ' ', 'waste management', ' ', 'sustainable fuel', '']

@@ -1,33 +1,60 @@
-Laser Diagnostic Technologies
-	Manufacturer of medical devices to detect early stage glaucoma and macular degeneration. The company develop, manufacture and sale diagnostic laser equipment in the eye care industry.
-	['laser equipment glaucoma ', 'macular degeneration', '']
-Rasiris
-	Developer of photodynamic therapy (PDT) and the treatments of breast cancer and age-related macular degeneration. The company received financial support from Pacific Horizon Ventures to validate the proof of concept in an animal model.
-	['', 'macular degeneration', ' ', 'breast cancer', ' ', 'photodynamic therapy', '']
-Eyetel Imaging
-	Developer of imaging technologies to address vision loss due to undetected and untreated diabetic retinopathy. The company offers EyeTel Retinal Imaging System based on DigiScope, a semi-automated fundus camera which produces images that enable to detect age-related macular degeneration, diabetic retinopathy and optic disc abnormalities such as glaucoma. The company also offers EyeTel Reading Center, a telemedicine service providing analysis of patient images.
-	['', 'imaging technologies', ' ', 'diabetic retinopathy', ' ', 'fundus camera', ' ', 'macular degeneration', '']
-Oculex Pharmaceuticals
-	Developer of proprietary and generic drugs to treat eye diseases. The company\'s proprietary intraocular drug delivery platform technology is a biodegradable drug delivery technology that permits drugs to be delivered within the eye for the treatment of major eye diseases. It focuses on the development of products for diseases and conditions that occur in the back of the eye, such as diabetic macular edema and age-related macular degeneration.
-	['', 'eye disease', ' ', 'drug delivery', ' ', 'eye disease treatment', '']
-Applied Genetic Technologies
-	Developer of therapeutics for patients with rare lung and eye diseases. The company employs gene therapy to replace broken genes with normally functioning genes. Diseases targeted include Achromatopsia, age-related macular degeneration, Alpha-1 antitrypsin deficiency, Leber congenital amaurosis and X-linked retinoschisis.
-	['', 'non pathogenic virus', ' ', 'retinal disease', ' ', 'retinal degeneration', ' ', 'adeno associated virus', ' achromatopsia ', 'vision loss', '']
-MacuClear
-	Developer of small molecule products for ophthalmic treatments for age-related diseases of the eye. The company offers MC-1101 eye drops for treating and stopping for progression and causes of blindness and vision impairment, such as dry age related macular degeneration, a disease associated with aging that gradually destroys central vision, and occurs in wet and dry forms (dAMD), as well as diabetic retinopathy.
-	['', 'ophthalmic treatment', ' ', 'macular degeneration', ' ', 'diabetic retinopathy', '']
-Angiosyn
-	Operator of a biopharmaceutical company developing novel proprietary biologics for controlling angiogenesis. The company\'s initial therapeutic indication is for ophthalmic diseases, such as macular degeneration and diabetic retinopathy, which due to angiogenesis can lead to decreased vision and blindness
-	['', 'healthcare service', ' retinopathy ', 'ophthalmic diseases', '']
-Aldeyra Therapeutics
-	Developer of drugs for treating retinal diseases. The company develops treatments for the dry form of age-related macular degeneration, an eye disease that leads to blindness.
-	['', 'retinal disease treatment', ' ', 'eye treatment', ' ', 'macular degeneration treatment', ' ', 'skin disease', ' ', 'eye disease', '']
-Avalanche Biotech
-	Developer of technologies and products for the sustained delivery of therapeutic proteins to the eye. The company develops technologies and products for the sustained delivery of therapeutic proteins to the eye to treat wet age-related macular degeneration (AMD), as well as other ophthalmologic disorders, such as diabetic retinopathy, retinal degeneration and glaucoma.
-	['', 'health laboratories', ' pharmacology ', 'membrane research', '']
-Pixium Vision
-	Developer of technology to treat blindness. The company is the developer of IRIS retinal implant system, designed to replace the function of photoreceptors in the retina which are damaged by retinal dystrophy and macular degeneration.
-	['', 'retinal dystrophy', ' ', 'data processing', ' electrode ', 'retina blindness', ' ', 'retinal implant', '']
-Othera Pharmaceuticals
-	Developer of proprietary ophthalmic drugs. The company offers products such as OT-551 for geographic atrophy and dry age-related macular degeneration and OT-440, a neuroprotectant for glaucoma.
-	['', 'ophthalmic drug', ' ', 'drug developer', ' ', 'geographic atrophy', ' ', 'macular degeneration', '']
+GoInstant
+	Developer of shared web-browsing tool. The company\'s unique co-browsing tool allows two or more people to surf the web at the same time with no downloads, plugins or installs. It helps to share a web experience in real- time.
+	['', 'shared web browsing', ' plugin ', 'web experience', ' ', 'browsing tool', ' ', 'web browsing', '']
+Yepler
+	Creator of an online social desktop community. The company\'s platform enables users to organize files, links,videos, friends and groups by tagging and rating them locally and globally. The platform allows users to write comments or chat about any link or file on their computer. Through the platform, a document can instantly serve as a communication channel between two users.
+	['', 'desktop software', ' ', 'communication channel', ' ', 'document tagging', '']
+HowDo
+	Provider of a knowledge-based social platform. The company\'s platform allows users to upload and share short sound and image chapters designed to share knowledge on a specific topic.
+	['', 'image chapters', ' ', 'knowledge-based social platform', ' sound clips']
+Creative Design Solutions
+	Provider of a platform for interior designing consultation. The company\'s platform allows its users to get services from interior designer with fine arts background.
+	['', 'online designing', ' ', 'online interior consultation', ' ', 'online interior decoration', '']
+ClipSync
+	Developer of an interactive social TV platform. The company’s platform allows users to repurpose existing content for social consumption, drive viral traffic to social applications, and serve interactive advertisements for traditional and group consumption through its hosted and managed solution. Its platform also allows publishers to leverage their content and viewers by providing social applications with advertising.
+	['', 'TV platform', ' ', 'social consumption', ' ', 'social application', ' ', 'interactive advertisement', ' ', 'managed solution', '']
+Loyalize
+	Developer of a media and marketing software. The company provides audience participation services for brands and content providers to engage with audiences in real-time.
+	['', 'audience participation', ' ', 'white-label service', ' rewards']
+CoTweet
+	Provider of a platform that helps companies reach and engage customers by using Twitter. The company provides CoTweet 3.0, an enterprise edition product that features Facebook integration, public status updates monitoring, and conversations publishing and moderating on fan pages. It allows multiple people to communicate through corporate Twitter accounts.
+	['', 'marketing service', ' ', 'social platform', ' ', 'collaboration platform', ' ', 'business collaboration platform', '']
+Insightera
+	Operator of a real-time B2B personalization platform. The company provides machine learning algorithms and software that helps marketers to capitalize on their existing assets by personalizing onsite experience.
+	['', 'personalization software', ' ', 'customer acquisition', ' ', 'marketing platform', '']
+Formspring
+	Operator of a website that allows its users to set up a profile page, from which anyone can ask them questions. The company gives their members a platform to express their point of view and personality through engaging conversations and interact with friends and followers.
+	['', 'online forum', ' ', 'profile page', ' ', 'online sharing', '']
+TrixBox
+	Distributor of Asterisk based software. The company is into Implementing, installing, managing and maintaining an Asterisk-based telephony system. It also provides web interface to manage and maintain PBX system.
+	['', 'Asterisk based software', ' ', 'Asterisk installer', ' ', 'PBX application platform', ' ', 'manage telephony system', '']
+Vouchfor!
+	Provider of a social referral marketing platform. The company\'s platform allows businesses to build local reward programs through a word-of-mouth marketing technique. The company\'s platform allows its users to earn reward on each referral they make.
+	['', 'B2B Services', '']
+Roboinvest
+	Provider of a social investing platform. The company\'s platform allows users to follow and copy other traders in real-time.
+	['', 'social investing platform', ' ', 'social trading', ' ', 'automatic investing', ' ', 'social investing', '']
+Augure
+	Developer of influencer marketing software. The company develops public relations and influencer marketing software which assists companies and their agencies to detect their key influencers, build awareness, engage stakeholders and collect real time analytical metrics of their reputational impact.
+	['', 'reputation management', ' ', 'real time metric', ' ', 'marketing software', '']
+Net Effect Systems
+	Provider of services to the e-commerce market. The company provides solution that enables real-time, text-based conversations between e-businesses and their customers.
+	['text-based chat real-time']
+ShareGrove
+	Provider of an online conversations platform. The company\'s platform allows its users to select friends from Facebook (and other networks) and to engage them in real time, or over time, through a single Web interface.
+	['', 'online conversations platform', ' ', 'friend selection platform', ' ', 'web interface', '']
+Cloud Cliques
+	Developer of web and retail technologies. The company has developed a fashion technology which allows users to virtually try on clothes in real time on their 3D digital clone and see how items will fit, look and move their exact body both in the retail space and online.
+	['', 'retail technology', ' ', 'web technology', ' ', 'fashion technology', ' ', 'digital clone', ' 3D']
+Thinkature
+	Developer of an online collaboration platform for small groups. The company offers a web-based white-board platform that allows users to chat and draw diagrams on a shared whiteboard.
+	['', 'collaboration platform', ' white-board workspace']
+Leap.it
+	Owner and operator of visual search and collaboration platform. The company\'s platform allows searchers to edit, share and impact search results across the web. Its key differentiators include searching algorithms real time based on current happenings, helping consumers curate & share visual search results through collaborative effort and being contextual as curated search pages can be embedded at point of content.
+	['', 'web search', ' ', 'mobile search', ' browsing ', 'mobile search platform', '']
+GeoCities
+	Provider of a web hosting service. The site allowes users to select a "city" in which to place their web pages and the "cities" are named after real cities or regions according to their content.
+	['', 'web hosting service', ' ', 'web directory', ' ', 'internet archive', '']
+Apptitude
+	Developer of a embedded internet traffic analysis platform. The company provides a wire speed application recognition technology that provides fully granular, real time application visibility on enterprise networks.
+	['', 'internet traffic', ' ', 'analysis platform', ' ', 'enterprise network', '']

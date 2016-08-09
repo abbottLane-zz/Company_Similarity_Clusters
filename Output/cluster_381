@@ -1,15 +1,33 @@
-Avidimer Therapeutics
-	Developer of targeted therapeutics to treat cancer and other diseases. It is a biopharmaceutical company that focuses on the advance use of its proprietary nano-scale therapeutic platform for the treatment of certain cancers through clinical trials.
-	['', 'cancer treatment', ' ', 'clinical trials', ' ', 'therapeutic platform', '']
-1747
-	Provider of web enabled systems to conduct clinical trials directly with participants. The company\'s product aims to clarify participant’s eligibility, aggregates their informed consent, and enrolls them for clinical trials using the internet.
-	['', 'clinical trial', ' ', 'web enabled system', ' ', 'direct-to-participant', ' ', 'enrolment systems', '']
-Cambridge Cognition
-	Developer of cognitive testing software. The company also conducts computer-based cognitive tests used in academic research, pharmaceutical clinical trials and early detection screening for conditions such as Alzheimer\'s and depression.
-	['', 'pharmaceutical clinical trials', ' ', 'cognitive tests', ' ', "Alzheimer\\'s disease", ' touchscreen ', 'healthcare technologies', '']
-Citizen1
-	Provider of research and development services for pharmaceutical and biotechnology industries. The company offers clinical trials and drug development information. It provides TrialTrove, which delivers ongoing clinical trials information; SiteTrove, which tracks and maintains detailed profiles; TrialScape, which provides graphical representation of clinical trial timelines; and CustomAnalytics for design and implementation of planned trials.
-	['', 'pharmaceutical research', ' ', 'clinical trials information', ' ', 'drug development information', ' ', 'biotechnology research', '']
-R5 Pharmaceuticals
-	Developer of medicines and clinical trial materials. The company develops and manufactures medicines and materials for phase 1 and phase 2 clinical trials.
-	['', 'pharmaceutical dosage', ' ', 'drug discovery', ' ', 'drug manufacturer', '']
+SynCoal Partners
+	Provider of coal upgrading technology that mainly increase heat value of coal and reduce major pollutants such as mercury, SOx, NOx and CO. The company also takes step in mitigating critical issues of fugitive dust, moisture reabsorbtion, spontaneous combustion.
+	['', 'upgrading system', ' ', 'coal upgrading', ' coal ', 'coal conversion', '']
+NewPort Communications
+	Developer of high-performance optical communications chips. The Company\'s devices are based on a proprietary design technology called Current-Controlled CMOS (C3MOS(TM)).
+	['', 'optical communication', ' ', 'communication chip', ' ', 'proprietary design technology', '']
+MediaTek
+	Developer and manufacturer of integrated circuits. The company is engaged in the research, development, manufacture and distribution of multimedia integrated circuit chipsets.
+	['', 'Wireless Communications', ' ', 'integrated circuit', ' ', 'circuit chipsets', '']
+System General
+	Manufacturer of semiconductors and analog and digital circuits. The company also designs ICs used in AC/DC power IC products.
+	['', 'integrated circuits', ' ', 'power circuits', ' ', 'digital circuits', ' ', 'semiconductors and resistors', '']
+Touchstone Semiconductor (Analog IC Products)
+	Designer and manufacturer of high-performance analog integrated circuits. The company provides high-performance, low-power analog IC products for power management services.
+	['low-power analog-to-digital ', 'power management IC', '']
+NPC Springs
+	Manufacturer of high-strength industrial springs. The company manufacturers high-strength springs for railroads, cars and agricultural equipment.
+	['', 'springs', ' ', 'high-strength', ' ', 'railroad springs', ' ', 'car springs', '']
+Touchstone Semiconductor
+	Designer and manufacturer of high-performance analog integrated circuits. The company creates high-performance analog integrated circuit (IC) services that solve critical issues for electronics companies.
+	['', 'analog integrated circuit', ' ', 'specification identical', ' ', 'integrated circuit', '']
+PhaseLink
+	Manufacturer of technology for timing source and signal conditioning timing source integrated circuits. The company also markets analog frequency multipliers, triangular modulation SST, bi-directional I/O, programmable clock chip, programmable clocks and a range of IC product lines in the industry.
+	['', 'integrated circuit', ' IC Multipliers Modulator']
+FlowWise Networks
+	Provider of performance-enhancing equipment for computer networks. The company is the provider of high-performance router-acceleration products that are self-configuring. The company\'s products are designed to enhance the performance of networks, with little to no disruption of service.
+	['', 'telephony platform', ' ', 'network equipment', ' router']
+ISOPur Fluid Technologies
+	Developer of high-performance fluid purification systems. The company provides purification systems for hydraulic and lubricating oil used in high-performance, mission-critical industrial machinery.
+	['', 'purifies oil', ' ', 'fluid purity', ' ', 'filter cartridges', ' additives']
+Antrim Design Systems
+	Provider of comprehensive software solution. The company offers software solution for automating the design of high performance analog.
+	['', 'intellectual property', ' circuit ', 'design tools', '']

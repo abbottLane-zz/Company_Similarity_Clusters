@@ -1,27 +1,24 @@
-Medfield Diagnostics
-	Manufacturer of diagnostic instrumentation. The company offers microwave technology based equipment to facilitate the diagnosis of stroke. Its products include Strokefinder R10 for doctors in the field of stroke diagnosis and Strokefinder MD100, a diagnostic instrument for use in emergency rooms and ambulances to diagnose the type of stroke.
-	['', 'microwave technology', ' ', 'diagnostic equipment', ' ', 'stroke diagnosis', '']
-Rogue Resolutions
-	Provider of equipment and services to the researchers and clinicians in the neurology sector. The company provides integrated services to the neuroscience sector for the purpose of neuromodulation, neurofeedback and brain imaging.
-	['neurology ', 'brain imaging', ' neurofeedback']
-Edge Therapeutics
-	Provider of therapeutic products for acute, fatal and debilitating medical conditions. The company develops implantable technology for direct delivery of therapeutic compounds to the site of brain injury.
-	['', 'healthcare service', ' ', 'biotechnology service', ' ', 'hospital product', '']
-CTF Systems
-	Provider of cortex magnetoencephalography (MEG) systems. The company focuses on functional brain mapping, epilepsy localization, diagnostics in stroke recovery and fetal neurological assessment.
-	['', 'magnetoencephalography system', ' ', 'brain mapping', ' diagnostic']
-SAGE Therapeutics
-	Operator of a biopharmaceutical company developing novel medicines to treat central nervous system (CNS) diseases. The company offers medicines to patients with schizophrenia, major depressive disorder, pain and traumatic brain injury conditions, for multiple sclerosis, autism and anesthesia.
-	['', 'central nervous system', ' ', 'traumatic brain injury', ' ', 'depressive disorder', '']
-Xytis
-	Developer of central nervous system (CNS) drug candidates. The company is assembling a pipeline of innovative compounds with validated mechanisms of action, addressing major unmet clinical needs in CNS fields such as Schizophrenia, Traumatic Brain Injury, Depression, Anxiety, or Insomnia. It has two clinical stage compounds in development and operates from the USA, UK and Switzerland.
-	['', 'central nervous system', ' ', 'nervous system disorder', ' ', 'cognition enhancement', ' ', 'schizophrenia treatment', '']
-AngioGuard
-	Developer of embolic containment technology. The company has developed containment technology designed to protect the heart and brain from embolic particles potentially dislodged during interventional medical procedures.
-	['', 'embolic containment technology', ' ', 'heart surgery', ' ', 'embolic particle protection', '']
-Intelect Medical
-	Developer of deep brain stimulation (DBS) therapies and technology for patients suffering with disabilities from stroke and traumatic brain injury. The company focuses on developing an implantable neuromodulation system for stroke and traumatic brain injury recovery.
-	['', 'deep brain stimulation', ' ', 'brain injury treatment', ' ', 'neuromodulation system', '']
-Neurolutions
-	Provider of devices, based on Brain Computer Interface (BCI) technology. The company focuses on restoring function to patients who are disabled as a result of neurological injury.
-	['', 'computer interface technology', ' ', 'neurological injury', ' ', 'neurological treatment', ' ', 'mobility device', '']
+Savene (European Assets)
+	Provider of detoxifying agents. The company specializes in providing dexrazoxane to prevent the effect of anthracyclines.
+	['dexrazoxane anthracyclines chemotherapy ', 'catalytic cycle', '']
+InnoDesk
+	Developer of workspace products for home offices and student consumer markets. The company specializes in providing hand-held and battery-operated home office supply products. The company\'s products includes staplers, blades, shredders, letter openers and pencil sharpeners.
+	['', 'workspace products', ' ', 'consumer markets', ' ', 'business tools', ' battery staplers blades ', 'letter openers', '']
+MaxStream
+	Provider of wireless modem networking products. The company specializes in providing wireless modem modules, stand-alone radio modems, radio frequency design services for electronic devices.
+	['', 'modem networking', ' ', 'stand-alone radio', ' ', 'radio frequency', '']
+DeinDesign
+	Provider of adhesive foils for decorating or labelling any surface. The company\'s main focus is on the pasting of various electronic devices such as iPod, iPhone or MP3 player, as well as notebooks and laptops.
+	['', 'adhesive foil', ' ', 'labelling surface', ' ', 'screen protector', ' surface ', 'design case', '']
+Quorum Systems
+	Developer of radio frequency transceivers for mobile handset devices. The company provides transceivers for multi-band GSM, GPRS, EDGE, and HSDPA applications, as well as to support TD-SCDMA and GSM-EDGE operations.
+	['', 'radio frequency transceiver', ' ', 'mobile transceiver', ' ', 'semiconductor device', '']
+Modesat Communications
+	Developer of point-to-point modem technology. The company offers modem technology products for wireless and wired communication applications.
+	['', 'modem technology', ' ', 'wired communication application', ' ', 'wireless communication application', '']
+Chipcon Group
+	Provider of wireless and Zigbee-compliance RF transceivers. The company manufactures fabless semiconductor that provides standard radio frequency integrated circuits.
+	['', 'fabless semiconductor', ' ', 'integrated circuit', ' transceiver']
+Technology Brothers
+	Provider of wireless and networking solutions. The company provides enterprise wise wireless telecommunications carriers.
+	['', 'telecommunication carriers', ' ', 'wireless telecommunications', '']

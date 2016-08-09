@@ -1,27 +1,27 @@
-Apneon
-	Developer of healthcare devices for treating obstructive sleep apnea. The company develops products which diagnose and repair the upper airway and restore patients’ health and quality of life.
-	['', 'healthcare devices', ' ', 'obstructive sleep apnea', ' ', 'diagnose and repair the upper airway', '']
-Spintec Engineering
-	Developer of biomedical devices. The company specializes in silk devices with embedded biopharmaceuticals and uses silk platform technology for the development of novel medical devices for wound therapy as well as for applications in dental, maxillofacial and cardiovascular surgery.
-	['', 'biomedical devices', ' ', 'silk platform', ' ', 'cardiovascular surgery', '']
-Gynecare
-	Developer of medical devices for the treatment of uterine disorders. The company offers devices like ThermaChoice Uterine Balloon Therapy system for treatment of women who experience dysfunctional uterine bleeding. It also offers VersaPoint Bipolar Electrosurgery system to treat women diagnosed with benign uterine pathologies including fibroids, polyps, adhesions and divided septa.
-	['', 'uterine disorder', ' ', 'uterine pathology', ' ', 'dysfunctional uterine bleeding', ' uterine fibroid uterus']
-Somnus Medical Technologies
-	Developer and manufacturer of medical devices. The company\'s medical devices utilize proprietary radiofrequency technology for the management and treatment of upper airway disorders.
-	['', 'medical devices', '']
-Grandhope Biotech
-	Operator of a regenerative medical device company. The company\'s medical devices are used for the treatment of damaged tissue and organs.
-	['', 'regenerative implants', ' ', 'repair of damaged tissue', ' ', 'healthcare services', '']
-Finnomedo
-	Manufacturer of medical products. The company provides medical devices and instruments for use in ambulances and other medical fields. Its products include transparent pressure dressings.
-	['', 'medical supplies', ' ', 'bandages', '']
-FacetMed
-	Developer of bone fixation medical devices. The comapny\'s devices are focused on development of safer implants for posterior spine surgeries to treat disorders mainly in the aging population.
-	['', 'medical implant', ' ', 'spinal surgery', ' ', 'bone fixation', '']
-Inova Labs
-	Manufacturer of medical devices. The company develops and commercializes innovative products like LifeChoice Activox and Activox DUO2 oxygen concentrators for patients with respiratory illness.
-	['', 'therapeutic devices', ' ', 'portable oxygen concentrator', ' ', 'patient care product', '']
-Viridis Diagnostics
-	Manufacturer of diagnostic tools and equipments. The company develops real time medical devices for infectious diseases.
-	['', 'diagnostic tools', ' ', 'medical devices', ' ', 'diagnostic equipments', '']
+PathoGenetix
+	Developer of an automated system for the rapid identification of pathogenic bacterial strains using proprietary Genome Sequence Scanning (GSS) technology. The company’s technology analyzes an enriched biological sample without the need for a cultured isolate and also provides results in five hours.
+	['', 'automated system', ' ', 'rapid identification', ' ', 'bacterial strain', ' ', 'genome sequence', ' ', 'scanning technology', ' ', 'pathogen detection', ' ', 'bacterial strain', ' pathogen']
+Paratek Pharmaceuticals
+	Developer of products to treat infectious diseases. The company develops antibiotic and anti-infective products for blocking bacterial resistance. Its drug compounds include MK-2764/PTK 0796, a clinical stage tetracycline-derived antibiotic agent for the treatment of bacterial infections, including infections caused by resistant strains, such as MRSA.
+	['', 'infectious disease', ' ', 'inflammatory disease', ' ', 'anti-infective product', '']
+LumeRx
+	Developer and provider of a cure for peptic ulcer disease that uses visible light. The Company is a development stage medical device company which is developing a  technology for light-based therapies to treat diseases caused by bacterial and other pathogenic infections, including a single-treatment endoscopic therapy for peptic ulcer disease.
+	['', 'medical device', ' ', 'peptic ulcer disease', ' ', 'medical technology', ' Electromedical Electrotherapeutic']
+Arcxis Biotechnologies
+	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
+	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
+Cytochroma
+	Developer of products to treat and prevent the clinical consequences of vitamin D insufficiency and Secondary Hyperparathyroidism (SHPT) associated with (Chronic Kidney Disease) CKD. The company develops vitamin D therapies which are designed to safely and effectively treat patients with stage 3, 4 or 5 Chronic Kidney Disease.
+	['', 'vitamin D insufficiency', ' ', 'kidney disease', ' ', 'vitamin D therapy', ' ', 'elevated serum phosphorus', '']
+Thallion Pharmaceuticals
+	Developer of pharmaceutical products in the areas of infectious disease and oncology. The company\'s clinical program Shigamabs is a dual antibody product for the treatment of Shiga toxin-producing E. coli ("STEC") bacterial infections.
+	['', 'infectious disease', ' ', 'antibody product', ' ', 'bacterial infection', ' oncology']
+Sequel Pharmaceuticals
+	Developer of novel and clinical-stage drug candidates to treat cardiovascular diseases. The company\'s lead product K201 (JTV-519) has the potential to treat A-Fib, which can cause shortness of breath, chest pain, and blood clot, often leading to a stroke.
+	['cardiovascular ', 'novel drug', '']
+Optimer Pharmaceuticals
+	Developer of anti-infective products. The company develops antibacterial drug for the treatment of Clostridium difficile-associated diarrhea (CDAD). It develops products that treat gastrointestinal infections and related diseases.
+	['', 'anti infective product', ' ', 'infectious disease', ' ', 'stomach infection', ' ', 'gastrointestinal treatment', '']
+GlycoVaxyn
+	Developer of a portfolio of bioconjugate vaccines to prevent and treat bacterial infections. The company\'s technology enables the development and production of immunogenic glycoproteins (polysaccharide and protein complexes) for use as conjugated vaccines. It has the ability to conjugate any carbohydrate to almost any protein resulting in a well-characterized molecule with high consistency and batch-to-batch reproducibility enabling the targeting of bacterial diseases.
+	['', 'immunogenic glycoprotein', ' ', 'bioconjugate vaccine', ' ', 'bacterial disease', '']

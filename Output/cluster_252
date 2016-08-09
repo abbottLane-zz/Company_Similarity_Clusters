@@ -1,42 +1,30 @@
-Frontlineshop
-	Provider of an online retail store for streetwear. The company offers clothing, shoes and accessories on the internet through its online store. It also offers merchandise of different brands.
-	['', 'street wear', ' ', 'brand bandwidth', ' ', 'online retail store', '']
-BeStylish
-	Provider of an online shopping platform in India. The company provides an online shopping platform of apparel and accessories for men, women and children.
-	['', 'shopping platform', ' ', 'apparel online', ' ', 'electronic retail', '']
-HipSnip
-	Developer of an online personal shopping Q&A platform for both mobile and desktop web. The company\'s shopping application gives shoppers a way to get shopping advice. It is added to retailer and publisher websites making it easy for people to get advice from retail experts and from a publisher\'s readership.
-	['', 'personal shopping', ' ', 'shopping application', ' ', 'retail expert', '']
-Wal-Mart.com
-	Owner and operator of an online retail business. The company is a global online seller of consumer products such as electronics, office products, books, furniture and outdoor equipment.
-	['', 'party supplies', ' ', 'video games', ' ', 'gift cards', '']
-Whyred
-	Manufacturer of apparel for men and women. The company also provides online shopping options for the users.
-	['', 'online shopping', ' ', 'wearing apparel', '']
-Start Here
-	Operator of an online shopping platform. The company provides an online retail store for Australian consumers.
-	['', 'online retail store', ' ', 'shopping platform', ' ', 'daily deals', '']
-LiL\' Things
-	Provider of children specialty retail chain. The company provides retail store services for infant\'s and children\'s toys, apparel, furniture, and accessories.
-	['', 'children retail', ' ', 'specialty retail', ' ', 'retail store', ' ', 'retail services', '']
-JD.com
-	Operator of an online shopping platform. The company is engaged in online sales of consumer electronics, communications products and computers.
-	['', 'online shopping platform', ' ', 'consumer electronic', ' ', 'communications product', '']
-ActivityStream.io
-	Operator of an online store. The company provides an online platform which connects e-commerce retailers with customers.
-	['', 'customer activity', ' ', 'purchase decisions', ' ', 'customer satisfaction', '']
-Shutl
-	Operator of an online shopping delivery platform. The company connects retailers with local courier companies by enabling immediate delivery of online purchases.
-	['', 'same-day delivery', ' ', 'expedited delivery', ' ', 'same-hour delivery', ' delivery']
-shopforschool.com
-	Operator of an online shopping platform for personal products and services. The company enables individuals to purchase products through its website and simultaneously enables them in donating funds to the school of their choice.
-	['', 'online shopping', ' charity ', 'personal products and services', '']
-Yardsale
-	Provider of an online retail platform. The company offers a platform that enables users to list items for sale and then sell their products on other local marketplaces.
-	['', 'local marketplace', ' ', 'online retail platform', ' ', 'online selling platform', '']
-Kingmaker
-	Provider of an online video shopping network. The company provides consumers with the information they need to learn practical skills and make educated purchases.
-	['e-commerce ', 'video shopping', ' ', 'video commerce', '']
-GoNabit
-	Operator of online shopping platform. The company provides an e-commerce platform which connects buyers and sellers, and offers discounted products for a limited period of time.
-	['', 'group buying', ' ', 'daily deals', ' ', 'online marketing', '']
+CEB Merchandise Brokers
+	Wholesaler of custom apparel and promotional items. The company specializes in brand design, screen printing, embroidery and imprinted promotional products.
+	['', 'custom apparel', ' ', 'brand design', ' merchandise']
+Raster Graphics
+	Developer and manufacturer of large format digital color printing systems. The company is engaged in the development, manufacture and marketing of high performance and large format digital color printing systems, and in the sale of related consumables and software for the on-demand large format digital printer market.
+	['', 'digital color printing', ' ', 'printing system', ' ', 'electrostatic technology', ' ', 'inkjet technology', ' ', 'digital printer', '']
+Matan Digital Printers
+	Manufacturer of professional digital printers. The company designs and manufactures printing equipment for three major printing segments: super-wide format, traffic signage and labels, decals and license-plate printing.
+	['', 'digital printer', ' ', 'printing equipment', ' ', 'sign printing', '']
+IF-Com
+	Developer and manufacturer generic interface products for thermal printers. The company\'s products improve the total output of the printing system, especially printing systems operating within graphic printing.
+	['', 'generic interface product', ' ', 'thermal printer', ' graphic']
+DigePrint
+	Developer of digital printing technology. The company designs and manufactures digital print processors for the retail and photofinishing markets.
+	['', 'printing technology', ' ', 'digital printing', ' ', 'print processor', '']
+Impika
+	Designer, manufacturer and marketer of production inkjet printing technology. The company offers a portfolio of aqueous (water-based) inkjet presses based on proprietary technology. Its product lines include iPrint, a range of continuous feed production printers that print at speeds as fast as 375 meters per minute and iPress, a range of graphic communications digital presses with resolutions of up to 2400 x 1200 dpi.
+	['', 'inkjet printing', ' ', 'inkjet press', ' ', 'package printing', ' ', 'print media', '']
+LFH Illuminating Brands
+	Provider of printing and design management services. The company creates designs for the ad-campaigns for various brands.
+	['', 'printing and design', ' ', 'conceptual designing', ' ', 'brand promotion', '']
+Printechnologics
+	Developer of electronic printed functionalities for the printing industry. The company offers an invisible electronic data tag that transforms paper, cardboard, plastics, films and labels into digital content and enables direct link between online and offline communications.
+	['', 'electronic printer', ' ', 'digital content', ' printer']
+Shira Computers
+	Provider of web based workflow management software for pre-press and digital printing industries. The company offers vendor independent designs for prepress, printing and publishing firms worldwide.
+	['', 'workflow management software', ' ', 'digital printing', ' ', 'pre press', '']
+Bellamax
+	Developer of automated digital images enhancement software services.The company provides photo editing and web and printing optimization softwares such as UpShot, Pro and Gold. It caters to printing labs, photography studios and kiosks. It has strategic alliances with Adobe Systems, Digibug Express, Epson America, PhotoAccess, Photolightning and Sony Electronics.
+	['', 'image enhancement', ' ', 'photo editing', ' ', 'printing optimization', '']

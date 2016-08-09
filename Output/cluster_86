@@ -1,18 +1,45 @@
-Cellumen
-	Provider of cell-based drug discovery, early safety assessment, and discovery toxicology products and solutions for the biopharmaceutical researchers to create various efficacious, safe, and patient-targeted drugs.
-	['', 'patent targeted drug', ' ', 'drug discovery', ' ', 'discovery toxicology product', ' ', 'early safety assessment', '']
-Eidogen
-	Developer of computational drug discovery platforms. The company offers Target Informatics Platform, structural proteomics enterprise software.
-	['', 'drug discovery', ' ', 'enterprise software', ' ', 'drug toxicity', '']
-Dogpatch Labs
-	Provider of work space and consultancy services for startups. The company provides desk space, bandwidth and lunch services to aspiring entrepreneurs for their startups.
-	['', 'work space', ' ', 'desk space', ' ', 'lunch services', ' entrepreneurs']
-Ansaris
-	Provider of small molecule drug discovery equipment and technology. The company has developed a proprietary platform technology which combines a torsion-space algorithm for building dynamic protein models with silico fragment-based libraries and computational chemists to design therapeutics that solves contemporary small molecule drug discovery challenges.
-	['', 'mall molecule drug discovery', ' ', 'platform technology', '']
-Acoustic Cytometry Systems
-	Developer of  molecule sensitivity flow cytometers. The company has developed a method to use sound waves to guide cells through cytometers, or cell meters, to allow researchers to examine tissue samples for medical diagnostics.
-	['', 'cytometry instruments', ' ', 'clinical diagnostics', ' research']
-Groove Biopharma
-	Developer of therapeutics to affect cellular processes involving microRNAs. The company’s technology addresses nucleotide therapeutic drug discovery via modulation of cellular miRNA. Its technology platform presents potential for treating various diseases, including cancers, infectious disease, and metabolic disorders.
-	['', 'nucleotide therapy', ' ', 'biotechnology service', ' ', 'microRNA therapeutic', ' ', 'medical services', '']
+SilverSky
+	Provider of on demand security services for computer networks in the United States. The company\'s on demand security services include vulnerability defense, intrusion defense, managed firewall, network defense, virus protection, email defense, system defense, high speed internet access, user defense, secure hosted email, email archiving and desktop management.
+	['', 'antivirus software', ' ', 'network security', ' ', 'email security', '']
+Primary Rate
+	Producer of computer network products and software. The company develops subsystem products and sells technology licenses worldwide. The company also provides high speed wide area connectivity using standards-based architectures and protocols.
+	['connectivity ', 'Frame Relay', ' ', 'leased lines', '']
+Efficient Networks
+	Developer of high-speed customer premises equipment (CPE) that employs digital subscriber line (DSL) technology. The company\'s products enable applications as high-speed Internet access, secure access to computer networks from remote locations, telecommuting, and extensions of corporate networks to branch offices.
+	['', 'high-speed internet', ' ', 'digital subscriber line', ' telecommuting']
+Firecomms
+	Provider of plastic optical fiber high-speed data networking services. The company develops high-speed light sources in visible range wavelengths.
+	['', 'optical fiber', ' ', 'light source', ' ', 'fiber optic', ' transmitters']
+Nomadix
+	Provider of network devices for nomadic computing and public Internet access. The company offers the Nomadix Service Engine (NSE), which allows venues to deploy high-speed Internet access offering. The company\'s NSE also addresses the key issues of customer acquisition, provisioning, security, and revenue generation faced by public access service operators (PASO), system integrators, venue owners, service providers, hotspot owners, and end users when deploying fixed line and WiFi public access networks.
+	['', 'high speed internet', ' ', 'public internet', ' ', 'network device', '']
+RAScom
+	Provider of remote access servers for organizations that need to deploy network access to telecommuters, contractors, remote office workers and small branch offices. The company is a data communications equipment vendor focused on delivering open systems remote access servers.
+	['', 'communications equipment', ' ', 'telecom vendor', '']
+Epigram
+	Provider of advanced technology and products for high-speed residential networking.
+	['', 'residential networking', '']
+Recourse Technologies
+	Provider of threat management solutions for computer networks. The company provides software to monitor corporate networks against hackers. It provides solutions that detect, analyze and respond to malicious computer attacks.
+	['', 'threat management', ' ', 'network monitoring', ' ', 'network threat management', '']
+GlooLabs
+	Developer of multimedia platform for embedded devices and remote access services. The company\'s technology enables partners to provide next-generation technology for use at home, office and remote locations.
+	['multimedia ', 'embedded device', ' ', 'digital technology', '']
+New Edge Networks
+	Provider of internet access through digital subscriber line (DSL) technology. The company provides DSL connection internet service to residences and businesses in small cities and semi-rural communities, as well as services such as wide area networks, virtual private networks and frame relay.
+	['', 'digital subscriber line', ' ', 'internet service', '']
+eMation
+	Provider of internet infrastructure for the pervasive computing wave. The company develops software for applications involving remote control and access to computer-embedded systems, such as electric appliances and medical equipments.
+	['', 'internet infrastructure', ' ', 'remote control', ' ', 'visual information', ' computing']
+Loran International Technologies
+	Operator of a data networking company. The company is a system integrator of high speed networks.
+	['', 'data networking', ' ', 'system integrator', ' ', 'internet network', '']
+Big Bear Networks
+	Developer of interface solutions for networks that operate at 10 Gb/s and higher rates. The company delivers a range of high-speed devices for optical/electrical interface.
+	['', 'electrical interface', ' ', 'high-speed device', ' ', 'network interface', ' “optical network”']
+FTTH Communications
+	Provider of facilities-based fiber optic network. The company provides video, telephone and ultra high-speed internet services to residential customers.
+	['', 'fiber optic network', ' ', 'facility network', ' ', 'optic network', '']
+Enzymatix
+	Developer of applications of high purity enzymes. The company develops enymes for pharmaceutical industries.
+	['enzymes ', 'lipase enzymes', '']

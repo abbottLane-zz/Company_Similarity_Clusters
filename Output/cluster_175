@@ -1,9 +1,9 @@
-Diffinity Genomics
-	Developer of deoxyribonucleic acid (DNA) testing products. The company offers technologies that enable the development of single use disposable products for medical, industrial and research applications in DNA purification markets.
-	['', 'DNA testing product', ' ', 'acid isolation', ' ', 'biotechnology company', '']
-Performance Genomics
-	Developer of deoxyribonucleic acid (DNA) sequence based predictive algorithms. The company develops and commercializes deoxyribonucleic acid that control reproductive performance in mammals. It also develops genomics tests to predict how long livestock will stay fertile, which farmers can use for selective breeding.
-	['', 'livestock breeding', ' ', 'increase fertility', ' genome']
-Catapult Genetics
-	Developer and provider of a Deoxyribonucleic Acid (DNA) testing services. The company provides commercializes livestock Deoxyribonucleic Acid (DNA) tests to improve meat production and quality to increase production efficiency both on-farm and in the value chain for global livestock and aquaculture industries.
-	['', 'genetic testing', ' ', 'livestock testing', ' ', 'commercial breeder', '']
+Health Market Science
+	Provider of data integration and analytic software for the health care industry. The company supplies data on healthcare professionals and operates a practitioner-level medical claims database in the U.S. Its data assets also help its clients deal with government compliance, reduce operational costs and more.
+	['', 'federal compliance', ' ', 'healthcare information', ' ', 'federal regulation compliance', ' ', 'customer data validation', '']
+DCF Technologies
+	Provider of services for eliminating data retrieval bottlenecks. The company offers software services to access data accumulating in organizational and internet portal databases. It also provides SafePeak, which acts as a distributed proxy cache between application servers and database servers to accelerate data access.
+	['', 'data access', ' ', 'performance management', ' ', 'portal database', '']
+Membase
+	Provider of elastic NoSQL database technologies. The company offers Membase Server, a distributed key-value database for the data management needs of interactive Web applications, which employs a non-relational data model and allows the data tier to scale out the Web application logic tier by adding various commodity servers; and Memcached, a distributed data caching technology that transparently caches data in front of its key-value database.
+	['', 'database technology', ' ', 'database management', ' ', 'database application', '']

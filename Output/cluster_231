@@ -1,36 +1,12 @@
-Accord Biosciences
-	Developer of practical sensor systems to measure nitric oxide and its carriers in blood for clinical and research applications. The company utilizes its proprietary membrane, sensing and stabilization technologies to release nitric oxide from blood’s natural reserve in plasma and reproducibly detect it with practical, cost-effective sensing systems. Nitric oxide serves critical bodily functions, including proper blood vessel function and protection against infections, thereby servings as a powerful platform molecule for Accord\'s diagnostic and research product pipelines.
-	['', 'sensor system', ' ', 'blood plasma', ' ', 'blood vessel', ' ', 'pulmonary arterial hypertension', ' ', 'nitric oxide', '']
-Koality
-	Provider of a continuous integration platform that parallelizes test suites, prevents broken builds and works behind firewall. The company\'s platform automatically parallelizes test suite across available virtual machines, manages parallelization and which eliminates nondeterministic test results.
-	['', 'integration platform', ' ', 'manage parallelization', ' ', 'development tool', '']
-Guide Technology
-	Developer of continuous time interval analyzer and high-precision frequency counter instruments. The company supplies production-scale CTIA-based timing measurement services, allowing semiconductor manufacturers to minimize timing-related failures and to reduce production test costs through test-time reduction and extending their ATE lifecycles.
-	['', 'time interval analyzer', ' ', 'frequency counter instrument', ' ', 'semiconductor support', ' ', 'information technology', '']
-CellPro
-	Developer of devices used in biotechnology. The company develops continuous-flow, cell-selection systems that can be used in a variety of therapeutic, diagnostic and research applications.
-	['', 'diagnostic device', ' ', 'research application', '']
-Wellness Indicators
-	Provider of a wellness screening test. The company develops and manufactures a dry urinary wellness test strip called The Health EquaterTM Assessment Profile t. The test is a first-to-market test screening for such biomarkers as oxidative stress, low-grade inflammation and total antioxidant capacity, which indicate levels of wellness. The product has applications for employers, insurers and governments.
-	['', 'wellness assessment', ' ', 'urinary wellness strips', ' ', 'test strips', ' wellness']
-Didimi
-	Developer of cell-based regenerative medicines. The company develops cell-based therapeutics to create living and functional tissues to repair or replace organ function for major diseases such as Type 1 diabetes, Type 2 diabetes and other pancreatic insufficiency.
-	['', 'pancreatic disorders', ' ', 'endocrine insufficiency', ' ', 'cell technologies', ' ', 'regenerative medicines', '']
-Standard Diagnostics
-	Manufacturer and distributor of diagnostics reagents. The company manufactures diagnostics healthcare equipment includes rapid test kits, urine analyzing systems, enzyme-linked immunosorbent assay (ELISA) kits and medicine materials.
-	['']
-TTS Pharma
-	Developer of a personalized nicotine patch for smokers. The company has created a companion diagnostic blood test product that provides users with a tailored dose of nicotine via patch technology.
-	['', 'nicotine patch', ' ', 'diagnostic product', ' ', 'patch technology', ' patch']
-Abaton.com
-	Developer of Internet-based clinical applications for use by clinicians in ambulatory settings. The company provides clinical information, medical decision-making support, access to test results, order management and prescription-writing capability– opening electronic lines of communication to streamline functions and augment clinical workflow.
-	['', 'clinical application', ' ', 'information management service', ' workflow']
-Immunicon
-	Developer and manufacturer of cell-based diagnostic and research products. The company manufactures ultra-high sensitive cancer detection test kits (cancer blood test) and next generation cell analysis instruments (cell track cytometer) for various research and clinical applications.
-	['', 'cancer detection test kits', ' ', 'cell analysis', ' ', 'platform technologies', ' biotechnology']
-Applied Genomics
-	Developer of targeted genomics-based diagnostic and therapeutic antibodies for the treatment of human cancer. The company\'s products include Mammostrat which is an immunohistochemistry breast cancer prognostic test, Mammotax which is a single antibody immunohistochemistry test, Pulmotype is a five antibody immunohistochemistry aid for the classification of non-small cell lung cancer and Pulmostrat is a seven antibody prognostic immunohistochemistry test.
-	['', 'human cancer', ' ', 'therapeutic antibodies', ' ', 'diagnostic devices', '']
-Oxford Immunotec Global
-	Manufacturer and marketer of T Cell based diagnostic test products and services for the laboratories and clinicians. The company\'s product is the \'T-SPOT.TB\' test, the new cellular blood test for the detection of active and latent tuberculosis infection.
-	['', 'blood test', ' ', 'tuberculosis infection', ' ', 'blood sample', ' ', 'tuberculosis diagnosis', '']
+IDEC Pharmaceuticals
+	Developer of products for the treatment of cancer and autoimmune diseases. The company was founded with the intent of developing and commercializing monoclonal antibodies. The company looks to find patient specific approaches in treating non-Hodgkin\'s lymphoma.
+	['', 'cancer and autoimmune disease', ' ', 'treating lymphoma', ' ', 'patient specific', ' ', 'monoclonal antibody', '']
+Sensorbit Systems
+	Developer of vapor-sensing technology. The company is developing and commercializing a technology capable of detecting trace amounts of complex chemical vapors within seconds. The company plans to utilize this technology for sensor integration into cell phones and other portable devices, as well as the construction of small portable self-contained units in forms such as badges, buttons, and tags
+	['chip ', 'chemical vapour', ' ', 'vapor sensing', ' ', 'sensor-on-chip', '']
+Affimed Therapeutics
+	Developer of unique TandAb antibody therapeutics for cancer and inflammatory diseases. The company offers anticancer drug candidates, including AFM13, a bispecific and tetravalent human antibody to treat Hodgkin Lymphoma, AFM11 and AFM15 for the treatment of Non-Hodgkin Lymphoma and autoimmune diseases.
+	['', 'inflammatory diseases', ' antibody Lymphoma']
+BioInvent
+	Developer of antibody-based drug therapies for the treatment of cancer. The company has a pipeline of three proprietary antibodies focused on treatment for multiple myeloma, non-Hodgkin lymphoma and medulloblastoma.
+	['', 'antibody drugs', ' ', 'drug developer', ' ', 'multiple myeloma', ' ', 'non-Hodgkin lymphoma', '']

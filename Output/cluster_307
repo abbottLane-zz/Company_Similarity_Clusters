@@ -1,45 +1,33 @@
-LeukoSite
-	Developer of therapeutics based upon the biology of leukocytes with potential applications in cancer, inflammatory, autoimmune and viral diseases. The company\'s technology and expertise in leukocyte biology facilitate the discovery and development of proprietary drugs that destroy or block the disease-causing actions of leukocytes.
-	['', 'drug discovery', ' ', 'leukocyte', '']
-CorSolutions
-	Provider of disease management and related services to employers, health plans and government-sponsored healthcare programs. The company offers cancer treatment; cardiac treatment, including coronary artery disease program and heart failure program; respiratory treatment comprising asthma and chronic obstructive pulmonary disease program and pain treatment.
-	['', 'disease management', ' ', 'healthcare program', ' ', 'government healthcare program', ' ', 'artery disease program', ' ', 'pulmonary disease program', '']
-LifeMasters Supported SelfCare
-	Provider of health promotion and disease management programs and services. The company offers programs for individuals with diabetes, congestive heart failure, coronary artery disease, chronic obstructive pulmonary disease, hypertension and asthma, cancer, metabolic syndrome and musculo-skeletal pain. It also provides programs for depression and lifestyle changes, such as smoking cessation and weight loss.
-	['', 'weight loss', ' ', 'health promotion', ' ', 'disease management', ' ', 'heart failure', ' ', 'coronary artery management', ' ', 'smoking cessation', '']
-Peptor
-	Developer of products to treat autoimmune diseases. The company develops small cyclical analogues of peptide loop drugs to treat cancer, bacterial and fungal infections, autoimmune diseases, multiple sclerosis and other disorders.
-	['', 'autoimmune product', ' ', 'protein treatment', ' ', 'healthcare service', '']
-Adenosine Therapeutics
-	Developer of novel pharmaceutical products that target adenosine receptor subtypes. The company develops drugs for the treatment of asthma, diabetes, Parkinsonís disease, cancer, ophthalmic disease and inflammatory indications such as sepsis, heart attack, ischemia-reperfusion injury, sickle cell crisis, vascular injury, arthritis, spinal cord injury, COPD and inflammatory bowel disease.
-	['adenosine asthma diabetes ', 'adenosine receptor', ' ischemia-reperfusion']
-Aerocrine
-	Creator of a device to monitor inflammatory airway diseases. The company provides a device to monitor exhaled nitric oxide (NO) from patients with inflammatory airway diseases such as asthma to assess the levels of their ailment and predict exacerbations.
-	['', 'medical technology', ' ', 'treatment product', ' ', 'inflammatory airway disease', '']
-Topigen Pharmaceuticals
-	Developer of asthma and chronic obstructive pulmonary disorder therapeutics. The company\'s lead product, TPI-ASM8, is an inhaled combination of antisense oligonucleotides targeting key cytokines involved in asthmatic airway inflammation, and is in Phase II clinical trials. The company is also developing an antisense product against phosphodiesterase isoforms for the treatment of chronic obstructive pulmonary disorder therapeutics.
-	['', 'asthma therapeutics', ' ', 'chronic obstructive pulmonary disorder', ' ', 'antisense', '']
-SuppreMol
-	Developer of therapeutics for the treatment of autoimmune diseases and allergic diseases. The company is focused on development of soluble Fc-gamma receptors (FcyRs), which are recombinant autologous therapeutic proteins with a specific immunoregulatory potential.
-	['', 'therapeutic device', ' ', 'autoimmune disease', ' ', 'therapeutic protein', '']
-FivePrime Therapeutics
-	Developer of protein and antibody therapeutics. The company\'s products include protein based therapeutics for oncology, metabolic disease, type II diabetes, acute myocardial infarction, intestinal bowel disease and infectious diseases and cancer immunotherapy disease areas.
-	['', 'antibody therapeutic', ' ', 'cancer immunotherapy', ' ', 'protein therapeutic', '']
-Epigenesis
-	Developer of inhaled respiratory medicines for the treatment of asthma and chronic obstructive pulmonary disease (COPD). The company develops EPI-12323, a once daily, small molecule, inhaled non-glucocorticoid steroid that targets the inflammatory and airway obstruction cascade in the irritated lung.
-	['', 'respiratory medicine', ' ', 'asthma treatment', ' ', 'obstructive pulmonary disease', ' ', 'respiratory treatment', ' inhaler']
-Palau Pharma
-	Provider of biopharmaceutical products. The company specializes in the discovery and development of new products for treating inflammatory and autoimmune diseases.
-	['bio-pharmaceutical ', 'inflammatory disease', ' ', 'autoimmune disease', '']
-Viral Logic Systems Technology
-	Developer of novel therapeutics for the treatment of inflammatory and autoimmune disorders. The company\'s product is used for the treatment of rheumatoid arthritis, Crohn\'s disease, multiple sclerosis, lupus nephritis, mixed cryoglobulinemia, Wegener\'s granulomatosis and diabetes.
-	['', 'novel therapeutic', ' ', 'inflammatory disorder', ' ', 'autoimmune disorder', ' ', 'rheumatoid arthritis', ' ', 'multiple sclerosis', ' ', 'lupus nephritis', ' ', 'mixed cryoglobulinemia', '']
-Actimis Pharmaceuticals
-	Developer of small molecule therapeutics for respiratory, inflammatory and autoimmune diseases. The company offers its therapeutics for autoimmune diseases, such as asthma, chronic obstructive pulmonary disease (COPD), inflammatory dermatoses, inflammatory bowel disease and rheumatoid arthritis.
-	['', 'autoimmune disease treatment', ' ', 'inflammatory disease treatment', ' ', 'rheumatoid arthritis treatment', '']
-Avidex
-	Operator of a biotechnology company focused on the development of therapeutics for cancer and autoimmune diseases. The company develops small molecule modulators of T cell function and protein therapeutics based on T cell receptors. The technology enables the company to develop treatments for cancer, inflammation, autoimmune diseases and allergies.
-	['', 'T cell', ' mTCR ', 'autoimmune disease', ' ', 'cancer therapy', '']
-Allostera Pharma
-	The company also developes allosteramers for inflammation and autoimmune diseases. The company\'s lead products target the insulin-like growth factor-1 receptor (IGF-1R)for cancer.
-	['', 'inflammation disease', ' ', 'autoimmune disease', '']
+Empowered Careers
+	Provider of online education services. The company has partnered with the University of California, Los Angeles extension program to offer courses specifically for professionals going back to school for professional development or a new career. It offers counseling in career guidance, online courses and assistance with the job search process.
+	['', 'education service', ' ', 'online education', ' ', 'training service', ' ', 'career change', '']
+Google DeepMind
+	Developer of artificial intelligence technologies. The company combines machine learning and systems neuroscience to build general-purpose learning algorithms. It\'s first commercial applications are in simulations, e-commerce and games.
+	['', 'artificial intelligence', ' ', 'machine learning', ' ', 'systems neuroscience', ' ', 'learning algorithm', '']
+Lore
+	Provider of a cloud-hosted education service for instructors to manage courses and engage their students. The company offers tools for gradebook, file management, communication and calendaring with social networking features that enable students to communicate with each other.
+	['', 'online education', ' ', 'education platform', ' ', 'online course', ' ', 'course management', ' ', 'file management', '']
+Cloudup
+	Provider of an online education platform that provides classrooms with collaborative real-time tools, interactive communities, shared content, educational applications, and classroom management solutions. The company also provides administrative tools to manage students, classes, and teachers through a permissions system.
+	['', 'education platform', ' ', 'interactive community', ' ', 'educational application', ' ', 'classroom solution', ' ', 'administrative tool', '']
+Guroo
+	Provider of an online education platform. The company provides online and offline learning resources including videos to engage students in the learning tasks.
+	['', 'online education platform', ' ', 'education platform', ' ', 'online learning resource', '']
+One did it
+	Provider of online information relating to sustainable consumption. The company provides a ecological backpack calculator, which consumers can use to calculate the amount of natural resources they consume.
+	['', 'sustainable consumption', ' ', 'natural resource consumption', ' ecological']
+LingleOnline
+	Operator of an online educational platform. The company provides an online learning platform which allows English language teachers and learners to generate learning materials from news articles.
+	['', 'English language learning', ' ', 'lesson plan', ' ', 'language processing', '']
+DigitalThink
+	Provider of online learning courses and services which give customers the ability to monitor, track, and measure student participation, performance, and knowledge acquisition.
+	['', 'online course', ' ', 'student participation', ' ', 'knowledge acquisition', '']
+Boolistic
+	Developer of a search tool software. The company provides users with access to on-line resources, including communications tools, shopping services, personalized content and branded programming.
+	['shopping ', 'search tool', ' resources']
+Teach the People
+	Provider of a platform for online education. The company serves as a Facebook application that lets anyone with specific subject knowledge or a useful skill set share it by setting up a Teach the People learning communities with 1gig of free storage. The learning communities provide educators and students with all the standard learning management system tools that are standard on existing systems (Blackboard, Moodle) and some not so standard like video chat and VOIP.
+	['', 'Online Education', ' ', 'Facebook Application', '']
+Lance Entertainment
+	Distributor of online and offline videos, focusing on crime drama and murder mystery genres. The company acquires, positions, packages and releases on DVD previously produced films and mini-series.
+	['', 'online video', ' ', 'offline video', ' ', 'crime drama', ' ', 'murder mystery genre', ' ', 'produced film', '']

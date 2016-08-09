@@ -1,51 +1,21 @@
-Last Second Tickets
-	Provider of online ticket selling services. The company provides services that help promoters to target mobile phone users with unsold tickets for UK live events, working directly with promoters, producers and venues to secure substantial discounts and prizes, for events, gigs, festivals, clubs, theater, comedy, cinema and sports.
-	['promoter ', 'ticket selling service', ' ', 'live event', '']
-Paymo
-	Provider of mobile payments network for online merchants. The company allows consumers to buy online and pay with their mobile phone.
-	['', 'online payment network', ' ', 'mobile payment', ' ', 'payment software', '']
-Sipcall.com
-	Developer of innovative Session Initiation Protocol (SIP) based services. The company\'s products include Hipsip, a SIP service for mobile phone users in the United States and internationally.
-	['', 'Session initiation service', ' ', 'broadband connection', ' ', 'personalized phone number', ' ', 'telephone network', '']
-Jambo
-	Provider of net-to-phone software for connecting web searchers directly with local businesses via phone. The company provides a mobile membership directory that works like radar to give any group of people the ability to detect, search, browse and connect to each other, when they happen to be in the same city and as close as a few blocks away.
-	['', 'net-to-phone software', ' ', 'vertical market', ' ', 'embedded sales', ' ', 'software application', '']
-Brainglass
-	Provider of educational mobile applications. The company\'s language learning applications combine the concepts of audiobook, e book, dictionary and exercises into one engaging learning environment on a user\'s mobile phone.
-	['', 'learning application', ' ', 'learning environment', ' ', 'mobile education', '']
-Seeker Wireless
-	Developer of mobile phone geolocation and zone detection technologies. The company provides zone based charging with low network impact for GSM, 2G and 3G networks and also provides SeekerZone that helps zone status detection, reporting to the handsets and signals through USSD, SMS and GPRS.
-	['geolocation ', 'zone detection', ' GSM GPRS 3G']
-Secusmart
-	Provider of mobile phone security services. The company has developed a product which enables users to receive encrypted calls and to store secret documents with a single mobile device.
-	['', 'phone security', ' ', 'security service', ' ', 'mobile device', '']
-GrandCentral
-	Provider of phone management services. The company developed a service that allows users to use one phone number for all of their phones.
-	['', 'online service', ' ', 'online search service', '']
-Dblur technology
-	Developer of software lens technology.The company develops software solutions mainly for camera manufacturers. The company also mobile phone camera vendors solution for the design of miniature cameras at lower cost.
-	['cellular digital medical camera']
-GooJet
-	Provider of mobile phone applications and web content. The company allows mobile phone users to define their page of selected services and widgets by providing them with relevant information  in a phone-compatible format.
-	['', 'web content', ' widgets ', 'phone-compatible format', '']
-YumDots
-	Developer of a mobile application for finding places to eat. The company uses interactive maps to help users locate nearby restaurants on their computer or mobile phone.
-	['restaurant ', 'places to eat', ' ', 'nearby restaurants', '']
-LOC-AID Technologies
-	Operator of a mobile location platform. The company allows mobile developers to locate their customers for enterprise authentication, fraud management and hyper-local marketing.
-	['', 'mobile location', ' ', 'location-based service', ' ', 'location-as-a-service', '']
-Camino Real
-	Provider of mobile applications. The company\'s application helps mobile phone turn into a push-to-talk walkie-talkie.
-	['', 'mobile application', ' ', 'voice messaging', ' ', 'walkie-talkie', '']
-Mango Capital
-	Provider of networking software. The company provides software that allows for networked sharing of files, web content and applications, clustered caching for load balancing, fault-tolerance and scalability, web caching across work groups, and multiple access to the internet from a single phone line.
-	['']
-Precision Augmented Realtiy Works
-	Developer of mobile augmented reality system. The company\'s technology offer users, taking a photo of the outside of a house with a mobile phone and then overlaying a chat with the agent, taking a virtual tour of the house on the spot.
-	['', 'reality system', ' ', 'mobile reality', ' ', 'mobile augment', '']
-Reasoning Global eApplications
-	Provider of software for retail operations. The company offers a platform which allows retailers to sell products either on the internet or via mobile phone.
-	['', 'digital commerce solution', ' ', 'online sales', ' ', 'omni-channel', '']
-FusionOne
-	Provider of mobile phone backup services in the United States and internationally. The company\'s products include MightyBackup that enables users to store, manage, and transfer mobile phone content, such as contacts, photos, messages, memories, and purchased content; and Network Address Book, which helps users to organize and manage their various address books through a single interface, and share their contacts across their different address books and social networks. The company also provides Social Address Book services that aggregate mobile, messaging, Internet, and social communications into a contact-centric view to access friends\' activities.
-	['', 'mobile phone backup service', ' ', 'mobile content portability', ' ', 'Handset Transfer solution', ' ', 'Social Address Book service', '']
+Heidi\'s Gourmet Desserts
+	Manufacturer and distributor of frozen desserts to retail and food service outlets. The company produces New York and California style cheesecakes, gourmet layer cakes, homestyle and specialty desserts.
+	['', 'frozen food', ' cheesecake ', 'layer cake', '']
+DeerTech
+	Provider of three circles of protection to protect plants from deer to homeowners. The company provides its services in New York, Southern Connecticut, New Jersey, Eastern Pennsylvania, and Delaware. It offers sound, sprays, and switching things for protecting plants from deer.
+	['', 'deer deterrent', ' ', 'organic fertilization', ' ', 'lawn care', ' ', 'woodlot management', '']
+VisionMap
+	Provider of digital automatic aerial survey and mapping systems. The company develops technologies for aerial 3D mapping and photography for civilian and military uses.
+	['', 'aerial survey', ' ', 'mapping system', ' ', '3D mapping', ' photography']
+Central Trust Bank (Conservation Licensing Division)
+	Provider of wildlife licensing technology. The company operates as a wildlife licensing contractor and service provider.
+	['', 'service provider', ' ', 'wildlife licensing', ' ', 'licensing contract', ' ', 'hunting licensing', '']
+RxMedic Systems
+	Provider, designer, manufacturer and distributor of automated pill dispensing robotics products to retail pharmacies. The company\'s  first product was the forerunner to the current RxMedic ADS robotic dispensing system.
+	['drugstore dispensing automated']
+Sierra Technologies
+	Designer and manufacturer of radio-frequency products and systems for military and civilian applications. The company is a defense contractor based in Buffalo, New York.
+	['', 'radio-frequency products', ' ', 'military products', ' ', 'defense products', '']
+MadahCom
+	Provider of wireless audio visual emergency systems. The company manufactures secure wireless emergency control and mass notification systems for military, government and industrial applications.
+	['', 'public warning systems', ' ', 'emergency system', ' ', 'emergency control', ' ', 'mass notification', ' warning']

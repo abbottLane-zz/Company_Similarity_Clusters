@@ -1,27 +1,33 @@
-CardSpring
-	Provider of Application Programming Interface (API). The company\'s API lets developers add new capabilities to credit and debit cards by programming the payment network to link online applications to specific payment events.
-	['', 'Application Programming Interface', ' ', 'payment network program', ' ', 'online payment application', '']
-Orchestrate
-	Provider of an application programming interface service. The company provides an application programming interface (API), that eliminates the need to deploy databases while building new applications or adding new features to existing applications.
-	['', 'cloud agnostic', ' ', 'application programming', ' ', 'interface application', ' ', 'API service', '']
-Venmo
-	Provider of text messaging-based digital wallet payment system. The company is a social payments platform that makes it easy for friends to exchange money using their phones.
-	['', 'bill payment', ' ', 'text messaging', '']
-ReportGrid
-	Provider of an advanced analytics engine for multi-structured data. The company provides an application programming interface (API) that makes it easy for SaaS vendors and technology platforms to give their customers deep analytics and insightful reporting.
-	['', 'analytic engine', ' ', 'multi-structured data', ' ', 'application programming interface', '']
-Layer 7 Technologies
-	Provider of security and management products. The company provides application programming interface for security and management products. It is a tool for managing and securing application programming interfaces (APIs).
-	['', 'service oriented', ' ', 'web security', ' ', 'cloud oriented', ' ', 'application management product', '']
-Wit.AI
-	Developer of an application programming interface-based natural language platform. The company has created a voice interface that makes it easy for developers to build applications and devices that you can talk to. It learns human language from every interaction and leverages the community.
-	['', 'application programming interface', ' ', 'natural language platform', ' ', 'voice interface', '']
-Descant
-	Provider of tools to quantify and benchmark the performance of companies using financial and market metrics. The company creates web application that makes it easy for businesses to manage and access financing and credit from a position of strength.
-	['', 'performance benchmarking', ' ', 'financial analysis', ' ', 'performance measurement tool', '']
-Get Scaffold
-	Provider of an identity and reputation system for the web. The company provides APIs (Application Programming Interface) for businesses to verify their users.
-	['identity reputation API']
-Mediaplex
-	Provider of cross channel advertising technology solutions and services. The company enables marketers to achieve one to one messaging, greater efficiencies and a competitive edge through insightful reporting and analytics.
-	['', 'behavioral targeting', ' advertising reporting']
+Green Car
+	Provider of an online platform for car rental services. The company\'s platform provides car sharing services in South Korea.
+	['']
+Junglee.com
+	Provider of shopping information over the internet. The company creates giant databases of highly targeted content that instantly link buyers and sellers, thus creating giant new online markets.
+	['', 'online shopping', ' ', 'E Commerce', ' ', 'B 2 C', '']
+HiGear
+	Provider of a social car-sharing platform. The company offers a platform that enables people to buy cars that they rent. Members of the company\'s network can share and borrow cars from the people in their community, with the option of making an offer if they like the car they drive. The company provides insurance, verification and logistics to users.
+	['', 'car sharing platform', ' ', 'car rental', '']
+Autonetzer
+	Operator of an online platform for car sharing. The company offers an application platform enabling vehicle owners to rent out their cars when they don\'t need them.
+	['', 'rental platform', ' ', 'vehicle owner', ' ', 'car sharing', '']
+Autoquake
+	Provider of an online platform for buying and selling used cars. The company is engaged in the online retail operations of pre-owned and used cars, sports utility vehicles, vans, estate cars, convertibles and sports cars of various manufacturers.
+	['', 'used cars', ' ', 'online retail', ' ', 'buying and selling', '']
+Djangos.com
+	Seller of new and used CDs, DVDs and VHS via internet.
+	['', 'compact disc', ' ', 'optical disc storage', ' ', 'Digital Versatile Disc', '']
+Netrepreneur Connections Enterprises
+	Provider of online platform for buying and selling of used and new cars in the Philippines. The company provides online marketing platform for the Philippine automotive industry, it connect car buyers with private car sellers, used car trade dealerships and new car distributors.
+	['', 'car seller buyer', ' ', 'new car', ' ', 'online car market', ' ', 'car purchase', ' ', 'car marketing', '']
+AutoRef
+	Provider of a car shopping website for buying used car. The company develops an online platform that has auto dealers bidding for users based on a user\'s search criteria.
+	['', 'used car', ' ', 'used vehicle', ' ', 'online vehicle dealership', '']
+Flexcar
+	Operator of car-sharing programs for its members in the U.S. The company operates a fleet of ultra low emission vehicles, gas-electric hybrids and environmentally-friendly sedans, AWD, minivans, and sports cars. It serves individuals, companies, and public agencies.
+	['', 'car sharing', ' ', 'auto sharing', ' ', 'car reservation', '']
+QuattroWorld.com
+	Operator of a car review website. The company provides readers with news, media and discussions on both past and present Audi cars.
+	['Audi ', 'car enthusiast', ' ', "readers\\' review", '']
+Williams of Harrogate
+	Provider of online car brokering service through an online platform. The company engages in dealership of various used and new cars of various brands. It offers Drivestyle Connections, a platform for both private and trade buyers and sellers of luxury cars.
+	['', 'sports car', ' ', 'motor vehicles', ' ', 'luxury car', '']

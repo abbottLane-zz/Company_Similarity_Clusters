@@ -1,15 +1,54 @@
-FabKids
-	Provider of a children\'s brand and personalized e-commerce service. The company provides parents with ongoing style recommendations for their child.
-	['', 'kid clothing', ' ', 'children clothing', ' ', 'subscription ecommerce', '']
-Citrus Lane
-	Provider of an online subscription service for baby and children\'s products. The company provides a monthly package of products, including toys and product samples, for parents to share with their children. The service also provides a brand-recognition channel for manufacturers of products included in the packages.
-	['', 'electronic commerce', ' ', 'baby product', ' ', 'baby care', '']
-P.S.XO
-	Provider of a web based e-commerce platform for parents. The company uses a mobile platform for parents to teach and share children based activities and photos.
-	['', 'photo sharing', ' ', 'family entertainment', ' ', 'child entertainment', ' ', 'parenting community', ' ', 'craft idea', '']
-Wauwaa
-	Provider of an online platform for parents to find multimedia content and event-based electronic commerce sales. The company provides a platform which contains a large collection of video interviews with real parents on subjects relating to pregnancy, birth and parenting.
-	['', 'multimedia content', ' ', 'electronic commerce sale', ' ', 'content for parent', '']
-TruantToday
-	Provider of communication platform between parents and school. The company provides a Web service that sends real time text and email messages to parents when students are absent.
-	['', 'email message', ' ', 'text message', ' ', 'online message', ' ', 'parental guidance', ' ', 'absent notification', '']
+Microposite
+	Manufacturer of siding for buildings. The company offers siding and outside seal products and boards for the building industry. The company sells its products through dealers, building material suppliers and building product distributors
+	['', 'sealing products', ' ', 'building materials', ' ', 'construction materials', '']
+China Yachting Business Partnership
+	Developer of China recreational boating industry. The company engages in boat manufacturing, full service marina development, recreational boating regulations, education and training by leveraging the international sporting events to premiere in China.
+	['', 'China recreational boating industry', ' ', 'boat manufacturing', ' ', 'marine development', ' boating']
+Prodika
+	Provider of software and services for product lifecycle management. The company provides CSS, a solution for Internet-based content synchronization and syndication with distributed enterprise systems, trading partners, and industry exchanges that automates the task of distributing product intelligence. It offers infrastructure, business processes, product design tools, and performance management reporting for companies that design and manufacture products based on recipes, formulation, and processing.
+	['', 'product life-cycle management', ' ', 'Internet-based content synchronization', ' ', 'performance management application', ' ', 'business process management', '']
+Optis Pristine
+	Developer of software products enabling engineers to visualize the impact of manufacturing variations on the final perceived quality of a product. The company\'s product, Aesthetica, can be used throughout the digital-product development process and enhances cross-functional collaboration and build quality.
+	['', 'manufacturing variation', ' ', 'digital product development', ' ', 'visualization software', '']
+Hämeen Teräsrakenne
+	Developer of steel structures. The company engages in building engineering and specializes in developing balconies, stairs and elevator shafts.
+	['', 'steel structure', ' ', 'metal construction', ' balconies']
+MatrixOne
+	Provider of collaborative product lifecycle management technology and software. The company provides line of products which helps organizations to collaborate different departments and geographic locations, customers, suppliers and other business partners.
+	['', 'collaborative software', ' ', 'internet platform', ' ', 'product lifecycle management', '']
+Camilion Solutions
+	Provider of product development and management services for insurance and other financial services organizations. The company\'s software creates enterprise product agility with strategic initiatives such as product lifecycle management, product bundling and product rationalization.
+	['', 'product development', ' ', 'management service', ' ', 'product lifecycle management', '']
+E-Sponder
+	Provider of software solutions for managing emergency situations. The company\'s web-based software is designed to help agencies collaborate, share data, send alerts, geograpically track events and adhere to NIMS/ICS guidelines.
+	['', 'alert module', ' ', 'software solutions', ' ', 'microsoft platform', ' ', 'web-based software', '']
+Esterel Technologies
+	Provider of systems and software solutions for aerospace, defense, rail transportation and nuclear industries. The company’s products enable system and software engineers to graphically design, verify and generate systems and software applications. The company offers SCADE Suite for control application development. The company also offers SCADE LifeCycle that is used for critical application lifecycle management. The company also provides product training, methodology preparation, project support, application software optimization, certification support, installation and troubleshooting services.
+	['', 'scade lifecycle', ' ', 'web based solution', ' ', 'development cycle', ' ', 'automation software', ' ', 'software application', ' ', 'network management', '']
+Sasken Communications
+	Provider of research and development consultancy, wireless software products and software services that helps businesses across the communications value chain accelerate product development life cycles. The company works with network OEMs, semiconductor vendors, terminal device OEMs and operators.
+	['', 'development consulting', ' ', 'wireless software', ' ', 'semiconductor vendors', ' ', 'communications value chain', '']
+MS2
+	Provider of Product Lifecycle Automation services to industry. The company\'s product, MS2 Accelerate, is a web-based software application built for companies that develop products using a lifecycle process. It was started in 1998 to deliver an application that provides companies with Faster time-to-market Faster ramp-to-volume Lower development to manufacturing costs.
+	['', 'Product Lifecycle Automation', ' ', 'Product Lifecycle Automation service', ' ', 'web-based product develompent tool', ' ', 'MS2 Accelerate', ' PLM ', 'Product Lifecycle Management', ' ', 'enterprise software application', '']
+Takumi Technology
+	Provider of design for manufacturability (DFM) products. The company engages in designing products that a easy to manufacture. The company also provides mask detection and automated full chip semiconductors.
+	['', 'design for manufacturing', ' ', 'semiconductor devices', ' ', 'electronic products', '']
+SpectraFluidics
+	Provider of solutions for the field detection of trace levels of chemicals, explosives, illicit drugs, biomarkers, and other low volatility compounds at parts-per-trillion concentration levels. The company offers microfluidic chips for ultra trace sensitivity and molecular specificity of vapor-phase analytes. Its product applications include transportation security, breath diagnostics, drugs and narcotics detection, food safety and freshness, and explosives detection.
+	['', 'microfluidic chip', ' ', 'transportation security', ' ', 'breath diagnostic', ' ', 'drugs and narcotics detection', '']
+Avexus
+	Provider of software solutions for the lifecycle management of complex assets. The company provides focused solutions for MRO organizations that serve the Aerospace, Power Generation, Rail and Maritime Industries, with the Impresa enterprise software as the cornerstone of the Avexus Product Solution Suite.
+	['', 'life cycle management', ' ', 'power generation', ' aerospace']
+Federation Web
+	Provider of software products that integrate product data and product lifecycle management applications. The company engages in designing, building and delivering software solutions that federate multiple levels of data across the product development and manufacturing value chain.
+	['', 'product lifecycle', ' ', 'management applications', ' ', 'manufacturing value chain', ' ', 'PDM system', '']
+Resolution
+	Provider of e-commerce solutions that offers services like marketing, e-commerce management, logistics and fulfillment, product development and "on demand" manufacturing. The company initially began as a media manufacturing and distribution company. The company offers services that enable clients to enhance their revenues with minimal investments and expertise.
+	['', 'e-commerce solution', ' ', 'product development', '']
+New River Innovation
+	Provider of taxation software solutions. The company uses its post-filing tax technology and engages in development of web-based software solutions.
+	['tax ', 'software solution', ' ', 'taxation software', '']
+Teja
+	Operator of network processor software development platform. The company has a development platform product for multiple embedded processors in fixed architectures or multiple soft cores in reconfigurable silicon.
+	['', 'network processor', ' ', 'reconfigurable silicon', ' architecture']

@@ -1,18 +1,39 @@
-Samba Sensors
-	Manufacturer of pressure-measuring system based on fiber optics and micromechanics. The company\'s pressure sensors are used for medical applications, such as measurement of respiratory pressure, counter pressure, pressure in the urinary tract, blood pressure and intracranial pressure.
-	['', 'pressure-measuring system', ' ', 'fiber optics', ' micromechanics']
-Mitek Surgical Products
-	Provider of surgical and medical instruments. The company provides bone anchors and minimally invasive surgical tools for orthopedic surgery.
-	['', 'medical instrument', ' ', 'surgical tool', ' ', 'bone anchor', '']
-Crux Biomedical
-	Developer of a preventive device for pulmonary embolisms. The company provide Crux VCF System, that stops the blood clots from reaching the lungs. It is useful for patients at risk of pulmonary embolism who can\'t tolerate blood thinners, method of preventing clots.
-	['', 'medical device', ' ', 'vascular device', ' ', 'inferior vena cava filter', ' ', 'pulmonary embolism', ' IVC']
-LoadnVote
-	Provider of visual media competition on the internet. The company invites visitors of all ages and interests to compete in head-to-head contests by uploading videos, pictures and other media to gain exposure and win prizes.
-	['', 'social content', ' ', 'visual media', ' ', 'media competition', ' ', 'voting site', '']
-NeuroLife Noninvasive Solutions
-	Provider of noninvasive devices to monitor brain pressure. The company offers surgical and medical instruments and apparatus to treat head injured patients at risk for brain damage and death.
-	['head ', 'brain pressure', ' ', 'noninvasive solution', ' ', 'intracranial pressure', '']
-MedNova
-	Manufacturer of surgical and medical instruments and apparatus. The company provides less-invasive surgical products for endovascular procedures.
-	['', 'peripheral vascular disease', ' ', 'less invasive surgery', ' ', 'medical device', '']
+MLRGB Restauration
+	Provider of steam cooked food products. The company operates as a restaurant serving steamed food products for health conscious customers.
+	['', 'steam cooked food', ' ', 'healthy food', ' ', 'steamed food', ' ', 'organic wine', ' ', 'restaurant operator', '']
+Big Sky Bread
+	Provider of breads and baked goods. The company is a local bakery that sells whole-grain bread, granola and cookies.
+	['granola bread ', 'organic wheat', ' ', 'micro bakery', '']
+Macrae Food Group
+	Manufacturer and seller of ready to eat seafood. The company provides a variety of chilled sea food products ranging from shellfish to fresh and smoked fish along with marinaded products. It also provides sea food processing services.
+	['', 'seafood products', ' ', 'marinaded products', ' ', 'smoked fish', ' ', 'food processing', '']
+Home Bistro Foods
+	Provider of gourmet food. The company specializes in vacuum-sealed and flash-frozen meals prepared by chefs and sold through its catalog and its e-commerce site. It offers soups, appetizers, meals, and desserts, including beef, pork, lamb/veal/bison, poultry, and seafood.
+	['', 'gourmet food', ' ', 'frozen food', ' ', 'sealed food', '']
+Kaiku Corporación Alimentaria
+	Producer of healthy dairy food products. The company engages in production and distribution of healthy dairy products some of which are even suitable for the lactose intolerant. The company\'s products include ready to serve varieties such as desserts, cheeses, milk shakes, milk, yoghourts and lactose free products.
+	['dessert ', 'dairy production', ' ', 'dairy products', ' cheese ', 'ready to serve products', '']
+Dujardin Foods
+	Provider of frozen vegetarian food products. The company engages in the production and marketing of frozen vegetables, fruits, herbs and other vegetable-based ready meals.
+	['', 'frozen vegetable', ' ', 'ready meal', ' ', 'frozen fruit', '']
+Micro Analytical Systems
+	Provider of sea food products. The company provides information regarding fish origin, fishing method and maximum mercury levels for each species.
+	['seafood ', 'fishing method', ' ', 'sea food product', '']
+Organis
+	Creator of natural insect repellents. The company is the developer of a platform of insect-repellent products derived from the edible turmeric plant. The active ingredients form the basis of a family of products for the agricultural, industrial, hospitality, urban ad home environments.
+	['', 'organic insecticides', ' ', 'bio-pesticides', ' ', 'insect-repellents', ' insecticides']
+Conserves et Salaisons De La Noureppe
+	Provider of gourmet and other food products. The company offers cured meats, frozen foods, poultry items, sea food, grocery products, dairy products, fruits and vegetables, bakery and confectionery products, beverages and other agricultural products.
+	['', 'confectionery product', ' ', 'grocery product', ' ', 'poultry item', '']
+Gascoigne Melotte Holding
+	Manufacturer of equipment for the dairy industry. The company offers milking machines and other dairy automation products.
+	['', 'milk harvesting equipment', ' ', 'agricultural machinery', ' ', 'dairy automation', '']
+Natratec International
+	Developer and manufacturer of organic protective emulsions. The company primarily focuses on producing emulsions which retain the freshness of fruits and vegetables and increase the egg hatching rate of poultry.
+	['', 'organic preservation', ' ', 'food freshness', ' ', 'agricultural product', '']
+Pains & Tradition
+	Provider of baked and frozen breads. The company primarily focuses on providing various types of breads and baked rolls.
+	['', 'baked breads', ' ', 'frozen breads', ' breads']
+Foodoro
+	Provider of an online platform to sell food products. The company allows merchants to sell artisanal food products through their website.
+	['', 'artisanal food', ' ', 'food product', ' ', 'gourmet food', '']

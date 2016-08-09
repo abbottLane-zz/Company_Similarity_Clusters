@@ -1,27 +1,27 @@
-Encampment Minerals
-	Explorer of natural resources. The company is engaged in the exploration of copper, nickel, and platinum in northern Minnesota.
-	['Exploring', 'natural resources', ' ', 'metal copper', '']
-Signature Metals
-	Explorer of gold. The company engages in the mining and exploration of gold and other minerals in Africa.
-	['', 'gold mining', ' gold ', 'gold exploration', '']
-Endomines
-	Provider of mining services for precious metals and minerals. The company through its subsidiaries engages in the exploration and mining of gold and the industrial mineral ilmenite. The company\'s gold-exploration activities are in the Pampalo Gold Mine in eastern Finland, and its mineral activities also are located in Finland.
-	['', 'gold mining', ' ', 'mining', ' ', 'mineral extraction', '']
-Alpha Minerals
-	Provider of mineral exploration services. The  company is engaged in the exploration and development of uranium and gold properties in Athabasca Basin in Canada and North America.
-	['', 'mineral exploration', ' ', 'uranium exploration', ' ', 'gold exploration', '']
-Botnia Exploration
-	Miner of rare minerals. The company is aggressive in its exploration and prospecting of new projects and potential mining targets with a strong focus on gold, which is most in demand in the company\'s main market Sweden. The company finances all of its development projects with partnerships.
-	['', 'gold mine', ', ', 'diamond mine', ', ', 'rare minerals', '']
-Weda Bay Minerals
-	Developer of nickel and cobalt laterite projects. The company is a natural resource company engaged in the exploration and development of a nickel and cobalt laterite property on Halmahera Island east Indonesia.
-	['', 'metal exploration', ' mining ', 'natural resource', '']
-Mexivada Mining
-	Operator of a mining and exploration company. The company acquires and explores metal, diamond, uranium and other rare metal exploration properties.
-	['', 'metal properties', ' ', 'junior mining', ' ', 'hislop properties', '']
-Azarga Uranium
-	Developer of Uranium minerals. The company owns six uranium projects, deposits and prospects in USA, Centennial Project in Colorado and Aladdin Deposit in Wyoming along with the largest known uranium deposit in Kyrgyzstan.
-	['', 'uranium mining', ' ', 'uranium exploration', ' ', 'uranium deposit', '']
-Creso Exploration
-	Provider of mineral exploration services. The company engages in the exploration of mineral properties in Canada.
-	['', 'exploration stage', ' ', 'mineral exploration', ' tyranite']
+Metreo
+	Provider of pricing optimization software. The company provides pricing optimization software that enables manufacturers and distributors to maximize profits from the sales of their goods and services.
+	['', 'pricing optimization', ' ', 'profit maximization', ' finance']
+CipherActive
+	Developer of a software for video coding. The company develops and markets accelerated standard encryption systems enabling wide usage of cryptography in resource constrained environments.
+	['', 'video coding', ' accelerated ', 'standard encryption', '']
+Service Vortex
+	Developer of software products designed to improve a manufacturer\'s ability to support its products in the field. The company develops software products, both custom and standard, that help make service operations efficient. The company focuses on the medical device, medical equipment and laboratory equipment markets.
+	['', 'software product', ' ', 'service operation', ' ', 'laboratory equipment market', ' ', 'electronic parts catalogues', '']
+GeoTel Communications
+	Provider of call routing and optimization software products. The company develops and markets telecommunication software products for center applications.
+	['', 'telecommunications software', ' ', 'call routing', ' ', 'call center applications', ' ', 'customer-interaction software', '']
+Nevion
+	Provider of routing, signal processing and optical transmission equipment for broadcasters. The company operates a large media network covering entities like AT&T, Arqiva, BBC, BT, CCTV, EBU, TDF, Telefonica, Telenor and NASA.
+	['', 'optical transmission', ' routing ', 'media network', '']
+MindWeavers
+	Developer of software products to help people overcome dyslexia. The company develops and sells software-based products to optimize an individuals innate abilities relating to sensory and motor skills. The company spun out from the University of Oxford.
+	['', 'brain simulation', ' ', 'brain exercises', ' ', 'sensory skills', ' ', 'motor skills', ' ', 'computer games', ' ', 'language learning', ' ', 'software products', '']
+SAP
+	The Company develops, markets and sells enterprise application software products for corporations, government agencies and educational institutions.
+	['']
+DataFlux
+	Developer of innovative database software products. The company The company develops database software products designed to significantly improve the accuracy and usability of an organization\'s data. The company provides state of the art data quality products and services for organizations ranging from financial institutions and telecommunications companies to universities and governmental agencies.
+	['', 'database software products', ' ', 'data quality', '']
+Shared Resources Exchange
+	Developer of digital switching systems and call center applications. The company\'s electronic key systems offers on-blocking intercom connectivity, conference calling, forwarding and speakers. It\'s system used in wireless local loop, E911 and PBX.
+	['', 'switching system', ' ', 'call center applications', ' ', 'electronic key systems', ' ', 'conference calling', ' ', 'on-blocking intercom connectivity', '']

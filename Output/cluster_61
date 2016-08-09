@@ -1,21 +1,54 @@
-Maptuit
-	Provider of navigation solutions to the transportation industry in the United States. The company specializes in providing location information Web services for consumer, tracking, and traffic markets.
-	['', 'navigation solution', ' ', 'location information', ' ', 'transportation optimization solution', ' ', 'geofencing technology', ' ', 'direction application', ' ', 'online traffic application', '']
-Arxan Defense Systems
-	Provider of an application protection and anti-tamper software to the federal market in the United States. The company provides security guard technology rooted in hardware.
-	['', 'anti-tamper', ' ', 'security guard technology', ' ', 'unauthorized change', ' protection']
-Singular ID
-	Provider of tagging services to combat counterfeiting and forgeries. The company provides an integrated anti-counterfeiting technology called Enxure, an enterprise-brand security system that uses magnetic tagging. It also offers a consultancy service for adopting nanotechnology, anti-counterfeiting and brand-protection instruments. The company was spun out of IMRE.
-	['', 'barcode labels', ' ', 'database integration', ' scanners authentication anti-counterfeiting']
-SignaCert
-	Provider of partner-based information technology (IT) compliance solutions for organizations and government agencies in the United States. The company’s products detect, assess and provide the notifications of compliance issues; provide the whitelist measurements of commercially available and open source software. Its products enable IT organizations to prove compliance with standards and regulations.
-	['', 'partner based IT', ' ', 'software whitelist measurement', ' ', 'standard compliance', ' ', 'compliance notification', ' ', 'prove compliance', ' ', 'regulation compliance', '']
-Karotek Systemer
-	Provider of security systems for retail and cash handling and desktop security systems. The company specializes in the production of ballistic protection systems for vehicles and passenger cars. It also provides protection against anti-personnel, anti-tank blast mines and security systems for armored cash and bullion vans to prevent loss.
-	['', 'cash handling', ' ', 'armor security', ' ', 'specialist vehicle', ' ', 'desktop security system', ' ', 'defense system', ' ', 'modular system', ' ', 'security service', ' ', 'security glass', '']
-Latis Networks
-	Designer and developer of security software and certified compliance services for external and internal network security threats. The company offers automated, military-grade network access control to its customers. The company also offers a suite of security testing, monitoring and management products such as Border Guard Standard, Border Guard Gateway, Border Guard Wireless, Server VAM and Remote VAM.
-	['', 'security software', ' ', 'network access control', ' ', 'Border Guard Standard', '']
-Adnexus Therapeutics
-	Developer of Adnectins biologics/medicines in the United States. The company\'s product candidates include Angiocept/CT-322, an anti-angiogenesis agent for treating cancer that blocks the VEGFR-2 pathway; and other Adnectin therapies for the treatment of oncology, immunology, and cardiovascular diseases.
-	['', 'drug discovey', ' ', 'anti-angiogenesis agent', ' ', 'treatment of oncology', '']
+SaltCheck
+	Developer of a technology to monitor salt intake for the control of hypertension and congestive heart failure. The company develops the technology for self-monitoring by people used in doctor offices, clinics and for home use worldwide.
+	['', 'salt intake', ' monitor  hypertension ', 'congestive heart failure', ' ', 'urine spot test', '']
+CircuLite
+	Developer of miniature blood pumps for the long-term treatment of chronic heart failure. The company provides synergy pocket circulatory assist device, which is designed to rest a failing heart by supplementing its natural function.
+	['', 'blood pump', ' ', 'miniature pump', ' ', 'heart failure', ' ', 'Circulatory assist device', '']
+MitralSolutions
+	Developer of implantable devices that repair heart valve abnormalities.  The company develops implantable devices for cardiac valve repair. The company offers an adjustable surgical device that custom fits to each patient’s anatomy and can be tuned under beating heart conditions to eliminate valve leakage.
+	['', 'implantable devices', ' ', 'heart valve', ' ', 'cardiac valve', ' ', 'adjustable surgical device', '']
+InflammaGen
+	Developer of treatment, assay and lavage to treat and diagnose multiple organ dysfunction syndrome (MODS), formally known as multi-organ failure.
+	['', 'dysfunction syndrome', ' ', 'surgical devices', ' ', 'multi-organ failure', ' ', 'inflammatory mediator', '']
+CardioOptics
+	Developer of catheter-based systems for minimally invasive treatment for heart failure and various cardiovascular diseases. The company offers sinus access system that allows physicians to see through flowing blood, and look directly at heart and blood vessel anatomy and tissue; and implant biventricular pacemaker leads to treat heart failure. Its system includes the a forward-viewing infrared steerable catheter; and image acquisition console, a digital touch-screen control monitor, which includes a camera pod containing an infrared camera that sends siteseekir images from catheter tip to the monitor.
+	['', 'minimally invasive treatment', ' ', 'heart failure treatment', ' ', 'cardiovascular disease treatment', ' ', 'sinus access system', ' ', 'biventricular pacemaker', ' ', 'infrared steerable catheter', ' ', 'image acquisition console', ' pacemaker catheter']
+Cornovus Pharmaceuticals
+	Developer of methods to treat cardiac hypertrophy and heart failure. The company develops a technology that helps to delay the onset of heart failure after a heart attack or injury.
+	['', 'cardiac attack', ' ', 'cardiac hypertrophy', ' ', 'heart failure', ' ', 'heart injury', '']
+Viacor
+	Developer of catheter-based techniques for the treatment of heart valve disease contributing to congestive heart failure. The company develops percutaneous therapies for cardiac valve repair; and a minimally invasive cardiac valve repair system to treat congestive heart failure patients afflicted with mitral regurgitation or leaky mitral valves.
+	['', 'heart treatment', ' ', 'heart valve disease', ' ', 'heart failure', ' ', 'percutaneous therapy', '']
+3F Therapeutics
+	Developer, manufacturer, and marketer of cardiovascular devices for patients with unmet clinical needs in the United States. The company\'s products include Aortic Bioprosthesis, a biological replacement aortic heart valve to maintain flow characteristics after implant. It\'s products under development includes Invasive and Transapical Aortic heart replacement technology, including Enable Aortic Heart Valve, Entrata Aortic Valve system, and Endurance Valve System to reduce surgical cross-clamp and cardio-pulmonary bypass time, utilization for congestive heart failure in patients with right heart failure symptoms, and to replicate the natural mitral apparatus.
+	['', 'cardiovascular device', ' ', 'aortic heart valve', ' ', 'heart failure', ' ', 'cardio pulmonary bypass', ' ', 'heart implantation', '']
+Ample Medical
+	Manufacturer of endovascular medical devices for repairing heart valves. The company develops medical devices that treat vascular heart diseases and congestive heart failures. Its first product, the PS3 System, targets percutaneous repair of mitral valve regurgitation associated with congestive heart failure (CHF).
+	['', 'healthcare services', '']
+Berlin Heart
+	Developer, producer and marketer of innovative devices for mechanically supporting the heart. The company offers INCOR, the implantable axial pump.
+	['', 'innovative device', ' ', 'implantable axial pump', ' ', 'heart support', ' ', 'heart device', ' ', 'heart surgery', ' heart']
+Kyma Medical Technologies
+	Developer of remote patient monitoring solution for congestive heart failure patients. The company\'s device consists of a small patch attached to the patient\'s torso, and transfers the data wirelessly to a remote center through a gateway device such as a smart-phone.
+	['', 'patient monitoring', ' ', 'chronic heart patients', ' ', 'wireless remote', '']
+Endocardial Solutions
+	Developer and manufacturer of diagnostic and therapeutic tools used to treat atrial fibrillation. The company develops products for diagnostic mapping of complex arrhythmias (abnormally rapid heartbeats caused by irregular electrical activity in the heart), the integrated system provides a 3D graphical display of the heart\'s electrical activity.
+	['', 'therapeutic device', ' ', 'diagnostic equipment', ' ', 'atrial fibrillation', ' arrhythmias ', 'heart disease', '']
+Cardio Life Research
+	Provider of cardiac surgery devices. The company designs and develops self-guided endoscopic aortic clamping systems, self adjusting atrial retractors and self suturing puncture devices, for heart valve surgery.
+	['', 'heart valve surgery', ' ', 'cardiac surgery devices', ' ', 'aortic clamping systems', ' ', 'atrial retractors', ' ', 'puncture devices', ' ', 'surgical devices', '']
+AngioGuard
+	Developer of embolic containment technology. The company has developed containment technology designed to protect the heart and brain from embolic particles potentially dislodged during interventional medical procedures.
+	['', 'embolic containment technology', ' ', 'heart surgery', ' ', 'embolic particle protection', '']
+Corthera
+	Developer of therapies for illnesses in the acute care setting. The company\'s product Relaxin, which is developed from a naturally occurring polypeptide hormone, is used to treat acute decompensated heart failure.
+	['therapy treatment illness ', 'care setting', '']
+MicroMed Cardiovascular
+	Supplier of medical devices mainly for cardiac support. The company offers devices that increases the cardiac output of a failing heart and also act as a bridge to human heart transplant and destination therapies.
+	['', 'monitoring devices', ' ', 'medical devices', '']
+Cardiola
+	Developer of therapeutic systems to treat heart failure. The company offers a treatment system for heart failure treatment in patient settings and hospital based treatment regimens.
+	['', 'treatment system', ' ', 'therapeutic system', ' ', 'heart failure treatment', '']
+CardioPolymers
+	Developer of an implantable device for treating congestive heart failure. The company provides biocompatible polymer implant therapies to handle chronic heart failure, mitral valve regurgitation, and post-operative atrial fibrillation.
+	['', 'biocompatible polymer implant', ' ', 'medical device', ' ', 'heart problem', '']

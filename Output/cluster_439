@@ -1,30 +1,15 @@
-Mountain Network Solutions
-	Provider of mainframe storage services. The company also provides hosting, storage and disaster recovery services.
-	['', 'disaster recovery', ' ', 'mainframe storage', ' hosting']
-Sentinel Vision
-	Provider of security alarm notification and verification systems and services. The company offers SafeScout system, that sends images, sound, and text information to the Sentinel’s data center. The company provides service to renters, homeowners, and business people.
-	['', 'security alarm', ' ', 'verification system', ' ', 'safescout system', '']
-XenSource
-	Developer of enterprise grade virtualization solutions. The company offers Xen 3.0, an open source hyper visor virtualization technology that provides features required for servers deployed in enterprise; Xen Optimiser, a multi-server virtualization infrastructure software management solution; and Xen Support, a subscription-based support for Xen and XenOptimizer. It also provides value-added enterprise solutions, including enterprise grade virtualization infrastructure solutions.
-	['virtualization ', 'software mangement', ' ', 'server utilization', '']
-Cisco Systems
-	Designer, manufacturer and seller of Internet Protocol (IP) based networking technologies to its clients. The company offers various products and services including networking software, routers, video, wireless, security, voice and unified communication, telepresence, collaboration, webex, data center, virtualization and unified computing systems.
-	['', 'information technology', ' ', 'networking technology', ' ', 'networking software', '']
-EdgeSeven
-	Provider of information security that delivers situational awareness capabilities to organizations.
-	['', 'situational awareness', ' ', 'secured content', ' ', 'secured data', ' ', 'security services', '']
-PERFORMANCE Technologies.
-	Provider of products and services such as virtualization. The company provides services for virtualization, data center computing & storage, disaster recovery & business continuity, information security and information technology systems and services management.
-	['', 'data center computing', ' ', 'disaster recovery', ' ', 'information security', '']
-Contact
-	Provider of contact center services. The company provides provider of contact center services with national capital of the country\'s market environment .
-	['', 'contact center', ' ', 'center service', ' ', 'national capital', '']
-Illumix Software
-	Developer of information technology services. The company\'s software helps in IT asset management, application profiling, capacity planning, network consolidation and data center rationalization. It enables organizations to make informed decisions on IT strategy and investment. It also focuses on the business value of IT to maintain IT infrastructure.
-	['', 'asset management', ' ', 'cost analysis', ' ', 'network consolidation', ' ', 'data center rationalization', ' ', 'application profiling', ' ', 'asset discovery', ' ', 'IT strategy', '']
-Bus-Tech
-	Provider of VTL (virtual tape library) products that utilizes open systems disk storage to store and retrieve mainframe tape data. The company provides connectivity products for the data center to equipment manufacturers.
-	['adapter bandwidth ', 'Virtual Tape Library', ' ', 'disk storage', '']
-3Leaf Systems
-	Provider of virtualization technology for enterprise data centers. The company provides architecture that delivers system level virtualization to enable mainframe-class capabilities for commodity servers.
-	['', 'virtualization architecture', ' ', 'server virtualization', ' ', 'system level virtualization', '']
+ZetaRx Biosciences
+	Operator of biotechnology company. The company engages in the development of therapies for cancer and other diseases using genetically engineered lymphocites.
+	['', 'cancer therapies', ' lymphocites genetically']
+Genizon BioSciences
+	Operator of a biotechnology company. The company discovers genes and biomarkers in common diseases using genome wide association studies (GWAS), leveraging its technology platform and access to patients.
+	['', 'genome studies', ' ', 'common diseases', ' biomarkers']
+Syntherix
+	Operator of a biotechnology company. The company focuses in the invention of third generation cancer biomarkers using proteomics.
+	['cancer biomarkers proteomics']
+Creatogen
+	Developer of technology for genome wide functional genomics. The company develops bacterial carriers for oral delivery to treat and to prevent acute and chronic diseases caused by an imbalance of the immune system. The company also develops a bird flu vaccine for poultry.
+	['genomics ', 'bacterial carriers', ' ', 'oral delivery', ' ', 'chronic diseases', ' ', 'immune system', ' ', 'bird flu vaccine', '']
+Anteo Diagnostics
+	Operator of a biotechnology company. The company develops and commercializes specialized surfaces used in life sciences and the research and development of surfaces for specific binding of proteins.
+	['', 'specific binding', ' Mix&Go ', 'life sciences', '']

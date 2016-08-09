@@ -1,30 +1,51 @@
-NowMedia
-	Provider of an online platform for live video streaming of events. The company engages in developing an integrated broadcast media network in order to build location-centric mobile communities with live interactive content.
-	['', 'online platform', ' ', 'live video streaming', ' ', 'broadcast media network', ' ', '3G phones', ' ', 'mobile communities', ' ', 'live interactive content', '']
-Kawa Objects
-	Provider of technology platform that enable datacenter infrastructure such as POTS, PANS and SAN infrastructure. The company offers fault tolerance, availability, security and performance optimization for business applications regardless of what hardware infrastructure is used in the data centers.
-	['', 'technology platforms', ' decoupling ', 'infrastructure management', '']
-CFDT
-	Organizer of live music events. The company organizes and promotes concerts and festivals in the U.K. and Europe.
-	['', 'dance festival', ' ', 'music event', ' ', 'music competition', ' ', 'live concert', ' ', 'pop music', '']
-Ziff Davis Enterprise
-	Provider of online content, lead generation services, events and publications serving the technology industry. The business unit creates innovative media that targets technology markets with online, events, custom content, eNewsletters, print, virtual tradeshows and eseminars.
-	['', 'online content', ' ', 'custom content', ' ', 'lead generation service', '']
-Challi Productions
-	Provider of promotional services for live events. The company provides promotional services for the music and entertainment sectors.
-	['', 'live music', ' ', 'entertainment businesses', ' ', 'promotional service', '']
-NetPodium
-	Provider of software and services for hosting live, interactive Web events. The company\'s technology and event hosting service helped companies to involve global audiences in sales training, product launches, press conferences, technical briefings and customer seminars.
-	['', 'web hosting', ' ', 'sales training', ' ', 'product launch', '']
-Going
-	Operator of a website to know and share about various events. The company provides a place to share events, such as parties, concerts, and happy hours; to join a group or chat with or find people with similar interests; to tag photos; to post and promote events; to track and print guestlists; sell tickets; and to email the list.
-	['', 'online event sharing', ' ', 'online social network', ' ', 'event networking', '']
-Luidia
-	Provider of portable interactive technology for classroom and meeting room collaboration. The company is the creator of eBeam interactive technology, a plug-and-play platform designed to make nearly any surface interactive and which can record writing and drawings made on traditional whiteboards.
-	['', 'white board', ' ', 'collaboration software', ' whiteboard']
-Chatfish
-	Provider of technology and services for online interactive events. The company also provides infrastructure and marketing needed to power live, interactive events on the internet.
-	['', 'online interactive events', ' ', 'internet software', '']
-Hot Potato Media
-	Provider of chat applications for live events.
-	['', 'chat application', ' ', 'live event', '']
+Affinity Payments
+	Provider of payment platform. The company provides electronic payment services to merchants and partners.
+	['', 'payment platform', ' ', 'electronic payment', ' ', 'online payment', '']
+Piano media
+	Provider of payment services to the media publishing industry. The company enables publishers to monetize web content without fear of losing either website advertising revenue or audience share.
+	['', 'payment service', ' ', 'web content', ' ', 'paid content', '']
+Up & Net
+	Provider of e-payment services to e-merchants. The company creates private e-payment programs. The company provides e-gift card programs which are accepted by e-merchants. E-giftcards are re-materialized for distribution in convenience store.
+	['', 'e-payment', ' ', 'e-giftcard', ' ', 'e-commerce', '']
+Tranvia
+	Provider of a merchant processing services for card holders.
+	['', 'merchant processing service', ' ', 'credit card processor', ' ', 'credit card transaction', '']
+Balanced
+	Provider of a payment system for marketplaces. The company allows marketplaces to charge cards, escrow funds and collect their marketplace fees.
+	['', 'payment system', ' ', 'online payment', ' ', 'escrow fund', ' ', 'marketplace fee', '']
+Tempo Payments
+	Provider of payment technology for debit card related technologies. The company offers Tempo Debit, a solution that enables ACH-based decoupled debit programs for issuers.
+	['', 'payment technology', ' ', 'debit program', ' ', 'transaction processing', ' ', 'decoupled debit card', '']
+PropertyBridge
+	Developer of electronic payment processing solutions for the real estate management industry. The company provides payment types such as credit and debit card, automated clearing house, check scanning, cash payment and lockbox.
+	['', 'electronic payment', ' ', 'payment processing', ' ', 'real estate management', ' ', 'automated clearing', ' ', 'payments platform', '']
+Jware Technologies
+	Provider of online payment and card processing services. The company engages in providing an electronic payment transaction processing software for the retail, banking and telecommunication sectors.
+	['', 'electronic payment', ' ', 'transaction processing', ' ', 'card processing', '']
+Dynamic Payment Ventures
+	Provider of payment processing services.
+	['', 'payment', ' ', 'processing services', '']
+Biotricity
+	Provider of biofuel power-generating and processing services. The company is a biomass-processing, co-generation power station developer. The company is developing a 50-megawatt plant in Rhode, Ireland.
+	['', 'biomass', ' irish ', 'biomass energy', '']
+Pay by Touch
+	Provider of end to end payment processing solutions. The company offers fingerprint identification technologies.
+	['payment fingerprint biometric']
+Braspag
+	Provider of payment processing services for e-commerce and call centers in Latin America. The company integrates all payment methods and consolidates the technical, financial and operational processes.
+	['', 'payment processing', ' ', 'payment methods', ' e-commerce']
+Prefer Network
+	Provider of strategic marketing and list processing services. The company offers a cooperative catalog database which provides organizations with consumer purchasing behavior data.
+	['', 'consumer purchasing data', ' ', 'list processing', ' ', 'collaborative database', ' ', 'transactional data', '']
+Allcharge
+	Provider of e-payment services. The company is a global Internet payment-service provider offering merchants and content owners e-payment, billing and processing technologies and services.
+	['', 'digital content', ' ', 'electronic network', ' ', 'internet payment system', ' e-wallet']
+Harbor Payments
+	Provider of enterprise invoice, billing, and payments management solutions for the enterprises. The company offers Payment Harbor, a Web-based payment processing platform, which provides centralized concurrent management of various disbursement activities and payment systems; Invoice Harbor that streamlines the process of invoice receipt, handling, presentment, and payment processing; and Billing Harbor, which provides electronic bill presentment and payment solution that allows clients to view and pay their bills online, schedule recurring or automatic payments, and receive their billing data.
+	['', 'bill management', ' ', 'invoice billing', ' ', 'payment solution', '']
+Thriva
+	Provider of online event registration and payment processing software.
+	['', 'event management', ' ', 'event registration', ' ', 'payment processing', '']
+SFG Technologies
+	Provider of software systems and solutions focusing on revenue cycle services for municipalities and power utilities. The company\'s utility management system integrated software consists of various modules, such as customer service, requests for service, service orders, credit collections and deposits, billing and rate management, payment processing and meter reading and consumption.
+	['', 'software solutions', '', 'service orders', '', 'meter reading software', '', 'energy software', '']

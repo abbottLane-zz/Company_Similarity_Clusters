@@ -1,30 +1,66 @@
-KinetX IP (software assets and a specialized business unit)
-	Provider of space systems engineering, software engineering, hardware engineering, project management, space navigation, flight dynamics and satellite operations services. The company is an innovative engineering, technology, software development and business consulting firm providing complete systems solutions.
-	['', 'software engineering', '']
-Catalytic Software
-	Provider of offshore software product engineering services. The company offers technology services, such as application development, web enablement, product engineering, testing, managed programs and website designing.
-	['', 'product engineering', ' ', 'software engineering', ' ', 'website design', ' ', 'web development', ' ', 'software testing', '']
-Phobos Corporation
-	Developer of internet security and enterprise switching products. The company engages in the design, development and sale of Internet traffic management solutions.
-	['', 'Internet traffic management', ' ', 'Web hosting', '']
-Res-Q Healthcare Systems
-	Provider of staffing and scheduling software for hospitals. The company provide Web-enabled software application that provides department-wide tracking of workload volumes and performance indicators; and Staffing Simulation Screen that compares staff requirements and available personnel by skill level to simulate staffing scenarios for making decisions.
-	['', 'staffing software', ' ', 'scheduling software', ' ', 'software application', ' ', 'performance indicator', '']
-Rofous Software
-	Provider of product engineering and content engineering services. The company offers enterprise application solutions, training and staffing services, application development services, custom software development, enterprise solutions, supply chain management solutions and customer relationship management solutions.
-	['', 'enterprise solutions', ' ', 'management solutions', ' ', 'custom software development', '']
-Esterel Technologies
-	Provider of systems and software solutions for aerospace, defense, rail transportation and nuclear industries. The company’s products enable system and software engineers to graphically design, verify and generate systems and software applications. The company offers SCADE Suite for control application development. The company also offers SCADE LifeCycle that is used for critical application lifecycle management. The company also provides product training, methodology preparation, project support, application software optimization, certification support, installation and troubleshooting services.
-	['', 'scade lifecycle', ' ', 'web based solution', ' ', 'development cycle', ' ', 'automation software', ' ', 'software application', ' ', 'network management', '']
-Luovaliike
-	Provider of software-engineering services in Finland. The company provides custom software technologies and network systems for its clients, and is the creator of an online platform for home-health nursing services.
-	['', 'care service', ' ', 'healthcare service', ' ', 'mobile application', '']
-DownstreamEnergy.com
-	Provider of solutions for supply chain management. The company provides software programs that manages flow of information between suppliers and marketers. The company mainly focuses on customer management.
-	['', 'supply chain', ' ', 'information flow', '']
-Terracotta
-	Developer of software products for enterprise application scalability, availability, and performance optimization. The company’s products include Enterprise Ehcache, a solution for optimizing enterprise application scale and performance.
-	['', 'software product', ' ', 'java application', ' ', 'java scalability', ' ', 'performance optimization', '']
-TMX Interactive
-	Provider of web development services.  The company provides the platform which enable users to do web designing, usability, application development and content management as per their requirement.
-	['', 'web development', ' ', 'web design', ' ', 'application development', '']
+Metasonic
+	Provider of software for subject oriented business process management. The company\'s core product Metasonic Suite provides a platform for dynamic process applications, which focuses on the communication or interaction among different participants of  business and helps in addressing different aspects of a company\'s organizational culture.
+	['', 'business process management', ' ', 'business communications', ' ', 'process automization', '']
+Cordys Holding
+	Developer of business process management (BPM) software. The company is the creator of the Cordys Business Operations Platform, which enables users to design, execute, monitor, change and optimize business operations.
+	['BPM ', 'service-oriented architecture', ' ', 'composite application', '']
+Teamplate
+	Developer and provider of business process workflow for Microsoft environments. The company\'s technology automates business processes such as customer service, human resources, capital requisitions and expense controls.
+	['', 'business process', ' ', 'capital requisitions', ' ', 'customer services', '']
+SteelTrace
+	Developer of business process and requirement tools. The company develops tools that increase the accuracy between customer requirements and system delivery.
+	['', 'software solution', ' ', 'management solution', ' ', 'system analyst capture', '']
+Entigo
+	Provider of a warranty program management software. The company provides a collaborative system that simplifies business process and integrates with warranty chain partners. It provides B2B, sell and service-side and e-commerce services.
+	['', 'warranty program', ' ', 'warranty management', ' warranty']
+Metastorm
+	Provider of enterprise architecture, business process modeling and analysis, and business process management software.
+	['', 'business process modeling', ' ', 'enterprise modeling', ' ', 'process improvement', ' ', 'business process management', '']
+Exigen Properties
+	Provider of business process management software. The company engages in the development of software for business process automation to lower the total cost of operations for financial services, insurance, communications and other service businesses.
+	['', 'financial software', ' ', 'process management software', '']
+Brovada Technologies
+	Provider of a software for business process integration. The company provides a software specializing in business process integration, system conversions, legacy system integration and agent connectivity.
+	['', 'business service', ' ', 'business process integration', ' ', 'system conversion', '']
+Viacore
+	Provider of business process integration services. The company allows customers to use the internet to automate and manage such routine tasks with contractors as planning, forecasting and inventory management.
+	['', 'business process integration', ' ', 'task automation', ' ', 'inventory management', '']
+Corticon Technologies
+	Provider of business rules management solutions for companies to model and automate recurring decisions in their enterprise systems. The company offers a Management System that manages the rules that drive decisions, including design, analysis, execution, and optimization. Its suite includes a desktop environment to model, analyze, test, and package business rules; a performance execution engine that deploys rules from the Modeling Studio as decision services; a package of integrated components that deliver enterprise data integration and analysis for decision automation; and a system that provides multi-user environment to manage rule assets through their lifecycle.
+	['', 'business rules management', ' ', 'automate recurring decision', ' ', 'enterprise system', ' ', 'performance execution engine', ' ', 'integrated component', ' ', 'decision automation', '']
+Ravenflow
+	Provider of business requirements definition software. The company product helps business analysts to visualize and validate requirements, build team consensus, and produce specifications of business process workflows, business use cases, and business application needs. It also provides training and professional services. It serves finance, banking, insurance, government, telecommunications, technology, healthcare, and education sectors, as well as independent software vendors and systems integrators.
+	['', 'business requirements definition', ' ', 'requirement gathering', ' ', 'requirements management interface', '']
+Borland Software
+	Provider of open application life-cycle management solutions. The company is focused in helping IT organizations transform software delivery into a managed, efficient and predictable business process.
+	['', 'business process', ' ', 'open application', ' ', 'Lifecycle Management solution', '']
+Lombardi Software
+	Provider of business process management (BPM) software that helps companies monitor business activities. The company\'s software also includes applications for modifying business rules and routing notifications and workflows.
+	['', 'online platform', '']
+Formscape Group
+	Provider of a document process automation software. The company\'s products ensure effective enterprise information delivery via eBusiness document presentation, access and exchange among customers, suppliers and employees. Their software includes the usage of XML, data transformation and process integration to automate the business processes.
+	['', 'process automation', ' ', 'business process', ' ', 'data process', ' ', 'inbound imaging', ' ', 'outbound communication', '']
+3i Systems Corporation
+	Developer of process inspection technologies for the TFT-LCD industry in the Asia Pacific. The company offers optical-based automatic inspection equipment and supporting software for TFT-LCD manufacturing fabs to detect process defects, monitor process variations, and develop applications to extract and analyze the deficiencies in the fab manufacture process. It also provides stand-along and in-line defect inspection equipment for TFT-LCD and other FPD manufacturers in Korea, Taiwan, Japan, and China.
+	['', 'process inspection', ' ', 'optical based inspection', ' ', 'thin film transistor', ' ', 'fab manufacture', ' ', 'TFT defect inspection', '']
+ProActivity
+	Developer of a business process and data flow mapping tool. The company develops software for mapping data processes in organizations, facilitating the transfer of businesses to the web.
+	['', 'process mapping', ' ', 'data mapping', ' ', 'business process management', '']
+Matchbox
+	Developer of custom-built enterprise iPad application that streamlines the university admissions process. The company develops a cloud based application that simplifies the admissions review process.
+	['', 'admission process application', ' ', 'admission review process', ' ', 'admission process streamlining', ' ', 'Educational Software', '']
+PureEdge Solutions
+	Provider of business process management software and services. The company provides a business process automation framework to create electronic forms-based processes. The company serves department of defense, securities and exchange commissions.
+	['', 'business process management software', ' ', 'electronic forms-based processes', ' securities ', 'exchange commissions', '']
+Spotlight Data
+	Provider of software tool for collecting and analyzing process data and metrics on human-centric business activities. The company offers process discovery tool which addresses the process discovery phase of the business process improvement lifecycle .
+	['', 'Data collection', ' ', 'data analysis', '']
+Ten Rivers Technologies
+	Provider of contract performance management software solutions to business process outsourcing and business services companies.
+	['', 'Contract Performance Management', ' ', 'software solutions', ' ', 'business process outsourcing', '']
+Clear Technology
+	Provider of task and process automation services.
+	['', 'process automation', ' ', 'task automation', '']
+Image Technology
+	Developer of business process management software. The company develops enterprise content management software that allows companies to automate business-oriented processes by creating, executing and optimizing business processes.
+	['', 'business processes', ' ', 'management system', ' ', 'web services', ' ', 'inductive statistics', '']

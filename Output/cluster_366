@@ -1,18 +1,21 @@
-Vidus
-	Provider of field service automation solutions.
-	['', 'field automation', ' ', 'field automation service', ' ', 'field service solution', '']
-ManageIQ
-	Provider of enterprise cloud management and automation software. The company provides an automation software that enables organizations to deploy, manage and optimize private clouds, virtualized infrastructures and virtual desktops. It delivers unified monitoring, management and automation through a single pane of glass across enterprise clouds and globally distributed data centers.
-	['', 'enterprise cloud management', ' ', 'automation software', ' ', 'virtualized infrastructure', ' ', 'virtual desktop', ' ', 'unified monitoring', '']
-DynamicOps
-	Provider of virtual infrastructure and lifecycle management software solutions. The company offers Virtual Resource Manager, an information technology service automation software. The company also provides DynamicOps Cloud Automation Center, a platform for defining and automating the delivery and management of on-demand IT services on a shared multi-tenant private or public cloud infrastructure. It also provides server provisioning, desktop provisioning, and lab management solutions
-	['', 'virtual infrastructure', ' ', 'lifecycle management software', ' ', 'server provisioning', '']
-Enigmatec
-	Provider of automation solutions for physical and virtual resource management. The company offers Execution Management System, an automation solution to implement run book automation solutions that describe the process of cataloguing, codifying, testing, and automating the manual, scripted, and ad hoc procedures used to manage information technology (IT) environments.
-	['resource management automation ', 'user interface', '']
-ForHealth Technologies
-	Provider of automation technology for intravenous drug preparation.
-	['', 'automation technology', ' ', 'intravenous drug', ' ', 'robotic system', '']
-Mission Controls Automation
-	Provider of automation and process engineering services. The company designs, fabricates, installs and maintains automation, robotic controls, manufacturing systems, processing operations and consulting, for industrial plants and batch processing facilities.
-	['', 'Automation software', ' ', 'process engineering', ' ', 'robotic controls', '']
+QuiQom Systems
+	Provider of high-speed broadband services. The company develops technology that allows individual units to use the existing central antenna system in multifamily houses to obtain high-performance broadband and internet protocol televison.
+	['', 'high-speed broadband', ' ', 'central antenna system', ' ', 'broadband modem', '']
+Ping Communications
+	Provider of broadband gateways, VoIP adapters, fiber equipments and remote monitoring and management systems. The company develops electronic items that combines the functionality of the broadband modem and wireless router.
+	['', 'broadband gateways', ' ', 'fiber equipment', ' ', 'electronic item', ' ', 'wireless router', ' ', 'remote monitoring', '']
+Advanced Digital Internet
+	Provider of broadband internet access and internet protocol services. The company provides internet access service to apartment buildings, cooperatives and condominiums. Their focus is on residents of buildings with multiple dwelling units (MDUs).
+	['', 'broadband internet', ' ', 'internet access service', ' ', 'inter protocols', '']
+NextGenTel
+	Provider of internet network access services. The company is a DSL provider offering DSL based services, access to contents via its broadband portal BroadPark, full Internet services (ISP), IP based services (VPN) and IP based telephony.
+	['', 'outsourced activities', ' ', 'IP based', ' ', 'broadband service', '']
+Vanion
+	Provider of integrated voice and data communications services to business and residential customers. The company offers services that range from dial-Up internet access to DSL and from dedicated internet access to voice services.
+	['', 'data communications services', ' ', 'dial-Up internet access', '']
+Irish Broadband Internet Services
+	Provider of broadband internet access services in Ireland.
+	['', 'broadband access', ' bandwidth ', 'internet connectivity', '']
+Mblox (Premium SMS Business)
+	Provider of SMS services. The company provides mobile payment services in the U.S., U.K., Ireland and Australia.
+	['', 'Premium SMS', ' message ', 'SMS messages', ' ', 'paid text message', ' ', 'text message', '']

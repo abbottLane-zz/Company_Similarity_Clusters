@@ -1,27 +1,30 @@
-SercoNet
-	Developer of Ethernet backbone networking services. The company provides home networking services that enables customers to easily interconnect PC\'s, telephone and entertainment equipment in every room over a single home network.
-	['', 'ethernet networking service', ' ', 'home networking service', ' ', 'broadband service', '']
-Neul
-	Developer of disruptive wireless network technology to enable the use of television white space spectrum. The company provides asset tracking, transportation, rural broadband, machine-to-machine communications, e-Media distribution and networking services.
-	['', 'wireless network technology', ' ', 'asset tracking', ' ', 'rural broadband', ' ', 'e-media distribution', ' ', 'traffic management', ' ', 'road pricing', ' ', 'diagnosis market', '']
-Netgem
-	Netgem provides connected home entertainment solutions to multiservice operators. Its nCloud software platform and hardware products provide technologies and solutions from digital payTV, internet, home networking and computing domains.
-	['set-top-box ', 'IPTV', ' ', 'broadband package', ' ', 'telecom operator', ' ', 'internet TV', '']
-Headway Technologies
-	Manufacturer and supplier of  magnetoresistive heads to the disk drive industry. The company develops magnet resistive recording heads for the disk storage industry.
-	['storing ', 'magnet resistive', ' drive disk']
-Core Networks
-	Provider of a suite of applications for the broadband industry. The company offers provisioning, network assurance and home networking services for the cable industry.
-	['', 'broadband applications', ' ', 'network assurance', ' modem']
-Neuport
-	Developer of online business to-business communities. The company offers vertical communities that provide users with information, interaction, education, and e-commerce services. It offers a portal dedicated for the motion control industry that offers users with access to industry news, chat rooms and links to other industry sites.
-	['', 'vertical Internet communities', ' ', 'Internet communities', ' ', 'vertical communities', ' ', 'business to-business communities', ' ', 'online portal', ' ', 'motion control', '']
-Kanisa
-	Provider of customer service applications. The company provides a suite of applications to support analysts, experts, users and empower customers with knowledge directly on the website.
-	['', 'customer service', ' ', 'empower customer', ' knowledge']
-Emperative
-	Provider of on-demand multi-vendor network and service provisioning products for access and optical, DSL, cable, and wireless networks. The company\'s products include ProvEn Optical that delivers end-to-end circuits and services over multi-vendor access, core, and long-haul networks, as well as supports SONET, dense wavelength-division multiplexing, Ethernet, and IP; ProvEn Cable for end-to-end self-provisioning and auto-provisioning of cable modem services; ProvEn CMX with integrated dynamic host control protocol capability for cable-centric IP address management; ProvEn DSL, which lets end-users self-provision broadband services and allocate bandwidth on demand in DSL environments; and ProvEn Wireless that delivers integrated provisioning within wireless environments with self-provisioning and bandwidth on demand.
-	['', 'multi vendor network', ' ', 'service provisioning product', ' ', 'network device management', '']
-Positron Access Solutions
-	Developer and manufacturer of telecommunications equipment for critical service applications. The company design, manufactures and markets networking and broadband management equipment to information technology and telecommunication industries. Its platform enables broadband connectivity and system networking services.
-	['', 'telecommunications equipment', ' ', 'critical service', ' ', 'broadband management', ' ', 'broadband connectivity', ' ', 'networking service', '']
+Furndex
+	Provider of ancillary services. The company provides services to members including credit and payment information, logistic services such as shipping and warehousing. The company also provides an e-commerce model in the steel, plastics and chemical industries.
+	['', 'B2B services', ' ', 'software services', '']
+High Mark Credit Information Services
+	Provider of credit risk information services. The company enables financial institutions to take credit decisions, deter concurrent borrowers and spot defaulters.
+	['', 'credit risk', ' ', 'credit decision', ' ', 'financial institution', '']
+Hangi Kredi
+	Operator of a credit portal where users can search and compare all credit products of banks and credit institutions and send online applications to them. The company offers an independent and impartial platform that brings together the creditors and borrowers. The company provides credit rates of banks and credit institutions, required conditions for such credits and an online application service to such credits on free of charge basis.
+	['', 'credit portal', ' ', 'credit institutions', ' borrowers creditors ', 'credit rates', '']
+LiveCapital
+	Provider of online small business financing. The company offers DecisionExpress product, which creates benefit through automating credit or lease decision processes and integrates workflow.
+	['', 'online financing', ' ', 'credit management', ' ', 'automatic credit', '']
+Bio Architecture Lab
+	Developer of a technology that enables the production of ethanol from kelp sugars. The company develops an application of synthetic biology and enzyme design for the development of biofuels and renewable chemicals from aqua farmed native macro algae.
+	['', 'ethanol production', ' ', 'synthetic biology', ' ', 'enzyme design', ' biofuel ', 'renewable chemical', ' ', 'native macro algae', '']
+CreditScorer
+	Developer of technology for studying payment behavior of clients. The company\'s technology enables credit professionals to improve their credit granting and collections performance. The company creates and implements risk scoring models for the credit and financial services industries.
+	['', 'credit payment', ' ', 'credit granting', ' ', 'payment behavior', ' ', 'finance technology', ' ', 'credit benchmarking', ' ', 'credit payment software', ' ', 'finance software', ' credit']
+Descant
+	Provider of tools to quantify and benchmark the performance of companies using financial and market metrics. The company creates web application that makes it easy for businesses to manage and access financing and credit from a position of strength.
+	['', 'performance benchmarking', ' ', 'financial analysis', ' ', 'performance measurement tool', '']
+DPG Holdings
+	Provider of eco-friendly information and products over internet. The company is a provider of corporate credit information with value-added services such as credit ratings, bankruptcy probability analysis and alarm systems via the internet.
+	['', 'bankruptcy probability', ' ', 'information service', ' ', 'credit ratings', ' ', 'corporate credit information', '']
+Bill Me Later
+	Provider of payment and marketing technology services to multichannel retailers. The company offers PayCapture, a set of credit tools; and Bill Me Later that enables customers to pay for purchases without providing credit card information.
+	['', 'marketing technology', ' ', 'multichannel retailer', ' ', 'credit tool', ' ', 'payment technology', ' paycapture ', 'credit card payment', '']
+FreeMonee
+	Provider of consumer gift incentives. The company enables merchants to give gifts directly to individual credit and debit cardholders through participating financial institutions.
+	['', 'gift network', ' ', 'gift card', ' ', 'cash gift', '']

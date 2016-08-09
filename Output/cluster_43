@@ -1,45 +1,30 @@
-Savene (European Assets)
-	Provider of detoxifying agents. The company specializes in providing dexrazoxane to prevent the effect of anthracyclines.
-	['dexrazoxane anthracyclines chemotherapy ', 'catalytic cycle', '']
-Magellan Technology
-	Provider of RFID (Radio Frequency Identification) technology and related services. The company manufactures advanced read and write 13.56 MHz RFID systems.
-	['', 'Radio Frequency Identification', ' ', 'wireless signals', ' ', 'wireless communication', '']
-Somark Innovations
-	Developer of chip-less radio frequency identification tattoos for animal identification. The company also provides inventory management IDs for automotive parts, documents and casino chips.
-	['tattoos ', 'radio frequency', ' ', 'animal identification', '']
-motionID technologies
-	Developer of radio frequency identification technology for mobile end-user and traffic infrastructure industry. The company provides a passive radio frequency identification technology that monitors the entrances and exits of parking garages or on-street parking areas.
-	['', 'touchless identification system', ' ', 'RFID tag', ' ', 'automation services', ' ', 'B2C applications', '']
-MaxStream
-	Provider of wireless modem networking products. The company specializes in providing wireless modem modules, stand-alone radio modems, radio frequency design services for electronic devices.
-	['', 'modem networking', ' ', 'stand-alone radio', ' ', 'radio frequency', '']
-Flarion Technologies
-	Developer of orthogonal frequency division multiplex access (OFDMA) technology and FLASH-OFDM technology for mobile broadband Internet protocol (IP) services. The company makes radio-frequency base stations (RadioRouter) that enable mobile wireless carriers to offer high-speed data services to subscribers. It also licenses the FLASH-OFDM technology to facilitate the design of FLASH-OFDM enabled networks and computing devices, such as notebook PCs, handheld PCs, personal digital assistants, web tablets, and handsets.
-	['', 'broadband service', ' ', 'radio frequency station', ' ', 'FLASH-OFDM technology', ' ', 'wireless telecommunication product', '']
-Celestry
-	Provider of physical design products. The company offers software and services to electronic and semiconductor companies that are involved with the design of chips.
-	['chips electrinc semiconductor']
-El Dorado Communications
-	Operator of Spanish-language radio stations in the U.S. The company operates multiple radio stations in California and Texas.
-	['', 'radio broadcasting', ' ', 'spanish radio', ' ', 'radio operator', '']
-AeroScout
-	Provider of wireless asset tracking and monitoring services. The company provides Wi-Fi-based Active radio frequency identification (RFID) services.
-	['', 'Bluetooth chip manufacturer', ' ', 'wireless network', ' ', 'asset tracking', ' ', 'radio frequency identification', '']
-RF-IT Solutions
-	Provider of software and services for micro-chip non contact communication systems. The company provides radio frequency identification (RFID) software products which serves as a platform for system integrators, software manufacturers and operators, as well as supports RFID infrastructure ranging from smart labels to readers, barcode scanners, label printers and I/O devices.
-	['', 'software service', ' ', 'barcode scanner', ' ', 'system integrator', ' ', 'software manufacturer', ' ', 'technology consulting', '']
-Quorum Systems
-	Developer of radio frequency transceivers for mobile handset devices. The company provides transceivers for multi-band GSM, GPRS, EDGE, and HSDPA applications, as well as to support TD-SCDMA and GSM-EDGE operations.
-	['', 'radio frequency transceiver', ' ', 'mobile transceiver', ' ', 'semiconductor device', '']
-Modesat Communications
-	Developer of point-to-point modem technology. The company offers modem technology products for wireless and wired communication applications.
-	['', 'modem technology', ' ', 'wired communication application', ' ', 'wireless communication application', '']
-Sierra Technologies
-	Designer and manufacturer of radio-frequency products and systems for military and civilian applications. The company is a defense contractor based in Buffalo, New York.
-	['', 'radio-frequency products', ' ', 'military products', ' ', 'defense products', '']
-RapidBlue Solutions
-	Provider of retail data and offline shopper analytics. The company uses radio frequency technology to collect shopper movement information and then transforms the anonymous data into information and insights that retailers can use to manage the marketing, merchandising and operations of their businesses.
-	['', 'retail data', ' ', 'radio frequency', ' ', 'shopper movement', '']
-Prism Radio Partners
-	Operator of radio stations.
-	['', 'Radio Broadcasting', '']
+Genaco
+	Developer of molecular diagnostic technology and products. The company\'s main products include commercial kits for prenatal screening and diagnosis of common genetic diseases.
+	['', 'molecular diagnostic technology', ' ', 'prenatal screening', ' ', 'genetic diseases', '']
+Allergene
+	Developer of products for diseases relating to immune system dysfunction. The company provides treatment of diseases that affect the immune system, ranging from allergies to AIDS.
+	['nontoxic alternative modification']
+TaiMed Biologics
+	Developer of biotechnology prevention and treatment solutions for viral infectious diseases that are causing serious harm to human health. Products in research include Tamiphosphor, a neuraminidase inhibitor for the treatment of influenza, and Ibalizumab, an HIV prophylactic drug.
+	['influenza HIV']
+SemBioSys Genetics
+	Developer of biotechnology solutions. The company focuses in the development stage of agricultural biotechnology that utilizes plant seed based oilbody and genetic expression technology platforms to develop high value proteins and oils and drug candidates in oil seed producing plant species.
+	['', 'pharmaceuticals and biotechnology', ' ', 'agricultural biotechnology', ' ', 'life sciences', '']
+Santaris Pharma
+	Developer of ribonucleic acid (RNA) targeted therapies. The company\'s Locked Nucleic Acid (LNA) Drug Platform and Drug Discovery Engine  is designed to deliver single-stranded Locked Nucleic Acid (LNA) based drug candidates across an array of disease states, including  cancer, cardiovascular disease, infectious and inflammatory diseases and rare genetic disorders.
+	['', 'nucleic acid', ' ', 'drug discovery engine', ' ', 'ribonucleic acid', '']
+Eisai Company
+	Eisai is a healthcare company, which provides prescription pharmaceuticals, consumer health care products, and diagnostics services.
+	['']
+CytoPherx
+	Developer of cytopheresis systems for addressing inflammation-based diseases and conditions. The company focuses on acute renal failure, end-stage renal disease, and acute inflammation induced by cardio pulmonary bypass surgery. It develops products based on the configurations of commercially available hollow fiber dialysis filters that are used in a proprietary manner to sequester and deactivate leukocytes in the patient\'s blood system.
+	['', 'inflammation-based diseases', ' ', 'cardio pulmonary bypass surgery', ' ', 'Therapeutic Device', '']
+Xenon Pharmaceuticals
+	Developer of medicines focused on rare diseases. The company\'s core enabling discovery platform is focused on studying rare human diseases with extreme traits, including diseases caused by mutations in ion channels, known as channelopathies.
+	['', 'rare disease', ' channelopathy ', 'gene therapy', ' ', 'discovery platform', ' ', 'ion channel mutation', '']
+Sanofi Genzyme
+	Manufacturer of human health-care products. The company focuses on rare genetic disease disorders, renal diseases, orthopedics, cancers, transplant and immune diseases, and diagnostic and predictive testing areas. It operates as a biotechnology company worldwide.
+	['biotechnology ', 'genetic disorder', ' ', 'renal disease', ' ', 'cancer treatment', ' ', 'lysosomal storage disorder', ' ', 'genetic disease', ' ', 'chronic disease', ' oncology']
+Phoenix Bioscience
+	Provider of MEMS-based technologies for diagnostic applications. The company focuses on developing affordable treatments for immune dysfunctions. The company\'s product drug PBS119 is used for treating HIV virus.
+	['', 'diagnostic applications', ' ', 'drug PBS119', ' HIV virus']

@@ -1,30 +1,48 @@
-Snaptracs
-	Developer of pet GPS tracking systems for pet owners. The company offers a GPS pet tracking device that uses GPS and wireless technology to locate and track the activities of pets from desktops or mobile devices.
-	['', 'GPS tracking system', ' ', 'wireless technology', ' ', 'pet tracker', '']
-Miraphonic
-	Developer of online social game on the iPhone, Facebook, and Twitter under the name Epic Pet Wars.
-	['', 'iPhone game', ' ', 'mobile games', ' ', 'mobile gaming', ' ', 'phone games', ' ', 'mobile entertainment', ' ', 'game developer', '']
-FamilyPet
-	Provider of marketing services for the pet industry. The company operates websites that offer information about services and merchandise for dogs, cats and other breeds to pet-owners.
-	['', 'pet market', ' pet ', 'pet industry', '']
-NorBelle
-	Provider of GPS engineering and intellectual property licensing. The company\'s core technology is known as Cearch, which enables one wireless device in motion to track and locate another wireless device in motion. It has integrated Cearch technology into a line of consumer mobile products and has combined its mobile tracking capabilities with a consumer buying platform for distribution in the US.
-	['', 'GPS engineering', ' ', 'mobile tracking', ' ', 'wireless technology', ' ', 'buying platform', '']
-Green Way Systems
-	Provider of traffic guidance systems.  The company uses GPS technology and proprietary detectors that can alter traffic signals for emergency vehicles and alter traffic signs to accurately display hazards and traffic information.
-	['traffic ', 'traffic guidance', ' ', 'traffic detector', ' ', 'traffic technology', '']
-Securus
-	Developer of pet tracking devices in the United States. The company offers global positioning system (GPS) pet locators that bundle GPS technology with the recovery assistance.
-	['', 'global positioning system', ' ', 'pet tracking device', ' ', 'pet locator', ' ', 'recovery assistance', '']
-Allpets.com
-	Provider of an online pet magazine and encyclopedia. The company provides valuable information, education and pet products to the consumer and business markets.
-	['', 'pet magazine', ' ', 'pet encyclopedia', ' ', 'pet product', ' ', 'pet information', '']
-CellGuide
-	Manufacturer of Global Positioning System (GPS) chips. The company develops Global Positioning System (GPS) chips for mobile devices. It distributes cloud-based positioning while delivering low power consumption for mobility and applications.
-	['', 'global positioning system', ' ', 'cloud-based positioning', ' ', 'mobile chip', ' ', 'Application Specific Semiconductor', '']
-Navx
-	Provider of a platform for geo-localized content. The company\'s technology helps to visualize points of interests, traces and personal data. It connects GPS with the internet and allows customers to generate their content, share and upload it onto their GPS devices and social communities.
-	['', 'global positioning system', ' ', 'geo-localized content', ' ', 'social community', '']
-IPET Holdings
-	Provider of products and services for the pets. The company offers pet accessories and supplies to the consumers over internet.
-	['', 'pet products', ' ', 'pet accessories', ' ', 'consumer products', '']
+Microgon
+	Manufacturer of biotechnological separation, filtration and OEM medical devices. The company produces hollow-fiber membrane filters for use in research laboratories.
+	['', 'laboratory products', ' filtration ', 'medical devices', '']
+Medfield Diagnostics
+	Manufacturer of diagnostic instrumentation. The company offers microwave technology based equipment to facilitate the diagnosis of stroke. Its products include Strokefinder R10 for doctors in the field of stroke diagnosis and Strokefinder MD100, a diagnostic instrument for use in emergency rooms and ambulances to diagnose the type of stroke.
+	['', 'microwave technology', ' ', 'diagnostic equipment', ' ', 'stroke diagnosis', '']
+Somnus Medical Technologies
+	Developer and manufacturer of medical devices. The company\'s medical devices utilize proprietary radiofrequency technology for the management and treatment of upper airway disorders.
+	['', 'medical devices', '']
+B1 Medical
+	Manufacturer of medical devices for the orthopedics market. The company develops and markets products such as soft tissue monitoring, fracture fixation, IM nail alignment, tissue repair and small joint prosthesis products for trauma fixation in orthopedic fields.
+	['', 'orthopedics market', ' ', 'soft tissue monitoring', ' ', 'fracture fixation', ' orthopedic']
+MedPage Today
+	Provider of online medical news service for physicians and healthcare professionals. The company develops online medical education programs that provide articles, as well as offers medical meetings information.
+	['', 'online medical education', ' ', 'health solution', ' fitness lifestyle ', 'health advertising', ' ', 'health information', '']
+Finnomedo
+	Manufacturer of medical products. The company provides medical devices and instruments for use in ambulances and other medical fields. Its products include transparent pressure dressings.
+	['', 'medical supplies', ' ', 'bandages', '']
+NetMed
+	Provider of online health and medical information.
+	['', 'healthcare information', ' ', 'medical information', '']
+Tomi-Steel
+	Manufacturer of industrial pipes. The company\'s products include pipe racks, prefabricated pipes, pressure vessels, pump modules and also offers cutting, bending pipes and welding service.
+	['', 'industrial pipes', ' ', 'prefabricated pipes', ' ', 'welding services', '']
+LAAx
+	Manufacturer of medical occlusion equipment. The company develops TigerPaw System that occludes the left atrial appendage (LAA) and confirms to its shape and thickness, minimizing the risk of tissue damage and accidental bleeding associated with other common closing methods used during open chest procedures.
+	['', 'medical occlusion equipment', ' ', 'left atrial appendage', ' ', 'tissue damage', ' ', 'surgical device', '']
+Align Technology
+	Manufacturer of invisalign system for treating malocclusion or the misalignment of teeth. The company’s products include Invisalign Full for the treatment of a range of malocclusions. It corrects malocclusion using a series of clear, nearly invisible, removable appliances that gently move teeth to a desired final position.
+	['', 'invisalign system', ' malocclusion ', 'misalignment of teeth', '']
+Medical Gas Solutions
+	Manufacturer and distributor of a medical gases and device. The company manufacturer medical gases and associated equipment for emergency use in medical line by emergency service personnel, healthcare professionals and first aiders.
+	['', 'medical gas', ' ', 'medical equipment', ' emergency']
+Oxford Labs
+	Manufacturer of disposable medical products.
+	['', 'medical product', ' ', 'disposable product', '']
+Sonesta
+	Manufacturer of medical equipment for healthcare professionals. The company develops and manufactures medical-examination chairs and tables for urodynamic studies as well as physician practices within urology and gynecology.
+	['acupuncture esthetic tables ', 'examination equipment', '']
+Inova Labs
+	Manufacturer of medical devices. The company develops and commercializes innovative products like LifeChoice Activox and Activox DUO2 oxygen concentrators for patients with respiratory illness.
+	['', 'therapeutic devices', ' ', 'portable oxygen concentrator', ' ', 'patient care product', '']
+Genus Medical
+	Manufacturer of the medical devices for the home care and  . The company manufactures, designs and distribute the medical device and product for home use.
+	['', 'medical distribution', ' ', 'medical care', ' rehabilitation']
+Origin Medsystems
+	Developer and manufacturer of specialized endosurgery devices and instruments for orthopedic and general surgery. The company\'s first product, the Cement Extraction System is used for replacement of artificial hips.
+	['', 'artificial hip', ' ', 'surgical device', ' endosurgery']

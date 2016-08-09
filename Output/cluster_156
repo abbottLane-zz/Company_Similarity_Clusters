@@ -1,18 +1,27 @@
-Red Brick Systems
-	Provider of relational database software. The company relational database software for data warehousing.
-	['', 'relational database software', ' ', 'data warehousing', ' ', 'database software', '']
-Approach Software Corporation
-	Developer of relational database software. The company is developer of end-user relational database applications for the Windows environment.
-	['', 'database software', ' ', 'database application', '']
-Informix Software
-	Provider of database management systems. The company\'s services are channelized for data warehousing, e-business applications and transaction processing. The company s provide retail, financial services, government, healthcare, manufacturing, media and publishing and telecommunications markets.
-	['', 'date warehousing', ' ', 'financial services', '']
-Ansa Software
-	Provider of a database management program. The company is the developer of Paradox, a ground-up relational database software product for personal computers.
-	['', 'database management', ' ', 'information system', ' ', 'data software', '']
-Membase
-	Provider of elastic NoSQL database technologies. The company offers Membase Server, a distributed key-value database for the data management needs of interactive Web applications, which employs a non-relational data model and allows the data tier to scale out the Web application logic tier by adding various commodity servers; and Memcached, a distributed data caching technology that transparently caches data in front of its key-value database.
-	['', 'database technology', ' ', 'database management', ' ', 'database application', '']
-DataFlux
-	Developer of innovative database software products. The company The company develops database software products designed to significantly improve the accuracy and usability of an organization\'s data. The company provides state of the art data quality products and services for organizations ranging from financial institutions and telecommunications companies to universities and governmental agencies.
-	['', 'database software products', ' ', 'data quality', '']
+iCentera
+	Provider of on-demand portal software solutions, content management and analytics for enterprise sales enablement. The company offer business users to create intranet sales portals, extranet channel partner portals, customer portals and provides the complete support to the sales department.
+	['marketing sales ', 'on-demand portal', ' ', 'intranet sales', ' ', 'extranet channel partner portal', ' ', 'customer portal', '']
+Vivido Labs
+	Provider of Sales Enablement and Marketing Software. The company allow sales organizations to leverage today\'s collaboration, mobility and media to increase sales.
+	['', 'cloud computing', ' ', 'social CRM', ' ', 'customer relationship management', '']
+Interactif Visuel Système
+	Provider of technological sales support services for opticians. The company designs sales aids systems for the optic, ophthalmologic and cosmetic markets.
+	['optic ophthalmologic ', 'cosmetic market', ' ', 'technological sales support', '']
+TellSell Consulting
+	Operator of a sales-consulting company with a focus on the German market. The company specializes in new business development and models, sales consulting and optimization and customer processes.
+	['', 'management consultancy', ' ', 'consulting firm', ' ', 'management advice', '']
+LookAcross
+	Provider of sales productivity software. The company helps in improving connectivity rates on email, phone and social media channels.
+	['', 'sales productivity', ' ', 'connectivity rates', ' ', 'productivity software', '']
+Spring Lake Technologies
+	Developer of on-demand sales performance software. The company\'s software enable individual sales professional to significantly increase close rates by improving seller and buyer alignment during the sales process.
+	['', 'sales process', ' ', 'performance software', ' ', 'technology software', '']
+Before the Call
+	Provider of an on-demand sales intelligence solutions. The company offers on-demand prospect development management solutions; myMarketspac, an application that enables to analyze the market space; and Data Cleanse, a solution, which allows matching, de-duplicating, and appending existing sales data.
+	['', 'intelligence solution', ' ', 'management solution', ' ', 'customer relationship management', '']
+Right90
+	Provider of on-demand software-as-a-service sales forecasting and revenue performance management solutions. The company’s solutions include identifying and addressing obstacles for sales executives; sales productivity, delivering sales management insight, and forecasting errors for sales operations; and CRM vendors integrations and casual users building for information technology. Its professional services include consulting, training, and customer support.
+	['', 'sales forecasting', ' ', 'performance management', ' ', 'forecasting platform', ' ', 'sales management', ' ', 'sales productivity', '']
+Vipshop
+	Provider of flash sales website. The company provides new sales events with foreign and domestic brand name clothing, accessories, cosmetics and designer household items at discounted prices in a limited time sales format.
+	['', 'flash sale', ' ', 'limited time sale', '']

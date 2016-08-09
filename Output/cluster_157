@@ -1,27 +1,51 @@
-Questek
-	Manufacturer of excimer lasers. The company develops, manufactures and markets excimer lasers.
-	['', 'excimer lasers', ' lasers ', 'excimer laser technology', '']
-Lightwave Electronics
-	Manufacturer of diode pumped lasers (DPL). The company creates opto-electronic systems and photonic products for materials processing, life sciences and analyses and other optical physics applications.
-	['', 'diode pumped lasers', ' laser ', 'opto-electronic systems', ' ', 'photonic products', '']
-DeMaria ElectroOptics Systems
-	Manufacturer of CO2 lasers, far infrared laser and laser systems. The company designs and manufactures carbon-dioxide lasers used in materials processing, electronics packaging and research applications.
-	['', 'infrared laser', ' ', 'carbon dioxide laser', ' laser ', 'laser systems', ' ', 'remote sensing', ' ', 'ladar application', '']
-Klastech Karpushko Laser Technology
-	Designer and manufacturer of solid state single frequency lasers. The company manufactures diode pumped solid state (DPSS) lasers and its products include core models of lasers in green and blue spectrum range.
-	['lasers ', 'diode pumped solid state', ' spectrum']
-Powerlase
-	Developer and manufacturer of high power lasers for industrial materials processing. The company designs and manufactures nanosecond Q-switched Diode Pumped Solid State lasers developed for industrial applications primarily for use in the materials processing and microelectronics markets.
-	['', 'high power lasers', ' ', 'industrial materials processing', ' ', 'material processing', ' ', 'industrial application', ' microelectronics']
-MEAC
-	Provider of microwave energy applications for industrial use. The company provides microwave technology powered industrial installations for applications in the food industry and wood, glass and plastic processing industries.
-	['', 'microwave energy', ' ', 'industrial installations', ' ', 'microwave technology', '']
-Rahu Catalytics
-	Developer of catalysts, activators, accelerators and other chemicals for industrial applications. The company develops iron-ligand based chemistry for use in coatings, composites and inks markets. The company was spun out of Unilever R&D Vlaardingen.
-	['', 'catalysts', ' ', 'industrial chemicals', ' ', 'activators', '']
-Lingk & Sturzebecher
-	Manufacturer of lightweight hydraulic cylinders consisting of carbon fiber-reinforced plastics. The company is engaged in the development of composite materials for use in pressurized hydraulic applications in aerospace, mobile and industrial markets.
-	['', 'hydraulic cylinder', ' ', 'carbon fiber reinforced plastics', ' actuator']
-Dixon Ticonderoga
-	Manufacturer and seller of writing instruments, art materials, and office products. The company offers writing and drawing pencils, pens, art materials, felt tip markers, industrial markers, lumber crayons, and correction materials, as well as wax crayons, chalks, dry and liquid tempera, and water colors under various brands, including Ticonderoga, Prang, and Dixon. It distributes its products through wholesale, commercial, and retail stationers, as well as through school supply houses, industrial supply houses, blueprint and reproduction supply firms, and art material distributors and retailers.
-	['']
+Medtech Pharma (Wales)
+	Developer of bioencapsulation based life science and therapeutic products. The company offers drug delivery systems for the formulations of cancer and diabetes treating drugs.
+	['', 'bioencapsulation', ' ', 'therapeutic product', ' ', 'drug delivery system', '']
+Crisi Medical Systems
+	Developer of drug-delivery systems. The company\'s products are designed to improve clinical outcomes and lower healthcare costs by making the delivery of intravenous injectable drugs safer and more accurate.
+	['medication ', 'clinical workflow', ' caregiver']
+Respirics
+	Provider of drug delivery and development services. The company is a respiratory drug delivery and development company serving the pharmaceutical, biotechnology and diagnostic industries. It has developed a proprietary dry powder respiratory drug delivery system that can incorporate a range of drug products to treat respiratory diseases as well as other diseases where systemic drug targeting is required.
+	['', 'drug delivery', ' ', 'inhalation technology', ' ', 'dry powder respiratory', '']
+PreCision Dermatology
+	Developer of dermatological products. The company\'s DELEVO Foam Technology, a drug delivery platform that provides levels of proven active ingredients to the skin with fewer side effects and improvement of the natural skin barrier.
+	['', 'dermatological product', ' ', 'skincare product', ' ', 'skin treatment', '']
+Mistral Pharma
+	Developer of drug-delivery systems. The company develops new controlled-delivery profiles for existing commercial drugs.
+	['', 'drug delivery', '']
+Gardia Medical
+	Developer of catheter based drug delivery systems. The company offers a wire independent distal filtration system that reduces the incidence of embolic complications during stenting procedures, such as carotid and angioplasty.
+	['', 'drug delivery', ' ', 'filtration system', ' ', 'stenting procedure', '']
+OnPharma
+	Developer of a drug delivery system. The company develops a dispensing device for local anesthetic that allows dentist to reduce injection pain and accelerate the numbing of the affected tooth area.
+	['', 'drug delivery', ' ', 'dispensing device', ' ', 'local anesthetic', '']
+iCeutica
+	Manufacturer and provider of branded medicines. The company offers SoluMatrix platform, a drug reformulation and delivery technology for poorly water-soluble compounds.
+	['', 'branded medicines', ' SoluMatrix water-soluble compounds']
+Transcu Group
+	Operator of a drug delivery company. The company engages in the development of a transdermal drug delivery system based on iontophoresis.
+	['transdermal iontophoresis ', 'cutting-edge technology', '']
+Setagon
+	Developer of metallic nanoporous surface modification technology. The company also develops drug delivery technologies for the intravascular treatment of cardiovascular, peripheral vascular and neurovascular diseases.
+	['', 'nanoporous modification technology', ' ', 'drug delivery technology', ' ', 'nanoporous metal coating', '']
+Novosis
+	Provider of transdermal and implantable drug delivery systems. The company specializes in the development and production of transdermal therapeutic systems and subcutaneous implants for drug application.
+	['', 'therapeutic plasters', ' ', 'transdermal therapeutic system', ' ', 'subcutaneous implant', ' plasters ', 'drug delivery', '']
+Therafuse
+	Provider of drug delivery systems. The company uses microelectromechanical (MEMS) technology to develop medication-specific drug delivery systems that will provide the accuracy of pump delivery with the user-friendliness of a patch.
+	['', 'drug delivery', ' microelectromechanical ', 'pump delivery', '']
+Medingo
+	Developer of miniature devices and technologies for people living with diabetes. The company offers Solo Insulin Patch Pump System, a miniature insulin dispensing patch that allows users to personalize and guide patch for insulin needs.
+	['', 'diabetes treatment', ' ', 'insulin need', ' ', 'insulin delivery', '']
+e-Nicotine Technology
+	Developer of electronic nicotine (eNT) products. The company is developing a nicotine product that produces a condensation aerosol of nicotine using a proprietary thermal drug-delivery technology. The eNT platform is designed to produce the appropriate dose of  nicotine particles for deep lung delivery, to reduce cravings and to avoid the carcinogens associated with cigarette smoke.
+	['', 'health care', ' ', 'electronic nicotine', ' ', 'nicotine product', '']
+Orexo
+	Developer of treatments using proprietary drug delivery technology. The company develops a product Diabact, a breath test for diagnosing the stomach ulcer bacterium.
+	['', 'drug delivery technology', ' ', 'insomnia treatment', ' ', 'gastric ulcer', '']
+Intella Interventional Systems
+	Developer of balloon catheters and guide wires for coronary angioplasty. The company\'s products include interventional vascular products, including guide wires, balloon-on-a-wire systems, rapid exchange systems, over-the-wire systems and stent delivery systems.The company supplies its products to cardiologists, physicians and surgeons.
+	['', 'balloon catheters', ' cardiologists']
+Insert Therapeutics
+	Developer of delivery-enhanced therapeutics. The company use patented class of polymeric delivery systems which is called CyclosertÔ family of linear cyclodextrin-containing polymers.
+	['', 'polymeric delivery', ' therapeutics']

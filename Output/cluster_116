@@ -1,33 +1,57 @@
-Alveolus
-	Developer of non-vascular interventional stent technology. The company designs, develops and manufactures non-vascular interventional stent technology for hospitals, physicians, and patients which creates an artificial pathway, support structure and opening for hollow lumen organs that are closed or obstructed due to cancerous lesions or benign disease. The company also offers pulmonary, gastrointestinal and ancillary products for interventional pulmonologists, gastroeterologists and interventional radiologists for use in the lungs, esophagus, enteral and biliary areas.
-	['', 'interventional stent technology', ' ', 'surgery devices', ' ', 'Diagnostic device', '  ', 'ancillary products', '']
-Hemosphere
-	Developer of vascular access devices for patients. The company offers hemodialysis reliable outflow vascular access device, an implanted subcutaneous graft with an outflow component that bypasses central venous stenosis that allows for repeated access to the circulation for hemodialysis.
-	['', 'vascular access device', ' hemodialysis ', 'kidney disease', ' ', 'vein damage', '']
-Nova Science
-	Developer of medical devices for the interventional cardiology and radiology markets. The company\'s main areas of work are device designing, development and testing in clinical trial and regulatory process management.
-	['', 'interventional cardiology', ' radiology ', 'clinical trial', '']
-NeoRad
-	Developer of medical products in the filed of radiology. The company develops, manufactures and sells instruments and devices, mainly in the field of radiology and interventional procedures.
-	['', 'interventional procedures', ' ', 'non-vascular interventions', ' ', 'interventional oncology', ' radiology']
-Summit Access
-	Developer of interventional radiology device. The company develops radiology devices to streamline the Seldinger technique for vascular access.
-	['', 'radiology device', ' ', 'Seldinger technique', ' ', 'vascular access', '']
-EndoTex Interventional Systems
-	Developer of interventional vascular therapeutic solutions. The company focuses on developing less invasive solution to treat carotid artery disease.
-	['', 'vascular therapy', ' ', 'carotid artery treatment', '']
-VasoNova
-	Developer of vascular navigation systems for healthcare providers and clinicians. The company provides VasoNova Vascular Positioning System, an algorithm-based vascular navigation and measurement system for the optimal placement of vascular access devices.
-	['', 'vascular navigation', ' ', 'electrocardiogram technology', '']
-IDev Technologies
-	Developer of medical devices for interventional radiology, gastroenterology, vascular surgery and cardiology surgery. The company focuses on the development of products for endovascular and interventional applications.
-	['gastroenterology ', 'cardiology surgery', ' ', 'interventional application', '']
-Qbion
-	Developer and provider of radiology simulation software for effective education in diagnostic radiology. The company offers Oral Radiology Package (QORP), which contains four separate programs, Bitewing, Periapical, Object localisation and Panoramic. The company\'s programs focuses on projection geometry and radiographic imaging principles.
-	['', 'radiology simulation', ' radiology ', 'simulation software', '']
-r4 Vascular
-	Manufacturer of vascular access products. The company\'s products help clinicians access patient vasculature and maintain access for delivering chemotherapy, blood products, antibiotics, drugs or nutrition.
-	['', 'patient vasculature', ' ', 'blood products', ' ', 'interventional radiologists', ' ', 'vascular access products', ' drugs']
-ActiViews
-	Developer and manufacturer of high-tech medical and surgical devices. The company develops a guiding system for interventional radiology procedures, mainly for biopsy diagnosis.
-	['', 'surgical navigation', ' ', 'diagnostic percutaneous biopsies', ' ', 'biopsy', '']
+ModeWalk
+	Provider of online marketplace for luxury designers and craftsmen. The company enables luxury designers and craftsmen to interact directly with consumers online and sell their products through online marketplace.
+	['', 'luxury design', ' ', 'online marketplace', '']
+Given Goods Company
+	Provider of an online marketplace that encourages social change for companies. The company offers apparel, accessories, footwear, home goods and more from brand names, as well as up-and-coming designers who make a tangible impact.
+	['', 'online store', ' ', 'fashion-forward apparel', ' ', 'home goods', '']
+YellowDog Media
+	Provider of an online shopping website. The company offers an online marketplace which uses social networks to connect buyers and sellers.
+	['', 'online shopping website', ' ', 'social buying', ' ', 'online retail', ' ', 'seller buyer network', '']
+MiNeeds
+	Provider of an online marketplace for local services. The company provides a website enabling users to post service requests and receive bids from local professional service providers, such as photographers, contractors or dentists.
+	['', 'productivity software', ' ', 'local professionals', ' ', 'data strategy', '']
+Stylemarks
+	Provider of mobile marketplace for vintage fashion and design products. The company provides a website enabling young and upcoming designers to showcase fashion, furniture, artwork, bags and gadgets to the German market.
+	['', 'mobile marketplace', ' ', 'vintage fashion', ' ', 'design products', '']
+AbbeyPost
+	Operator of online marketplace and community. The company provides software-driven custom apparel and focuses on the needs of the plus size women\'s fashion market.
+	['', 'online shopping platform', ' ', 'online fashion market', ' ', 'party dress', '']
+Data Marketplace
+	Operator of an online marketplace for data. The company provides a platform linking people seeking data with those who specialize in collecting, cleaning and analyzing data. Users place a request, and providers upload it to the site, provide descriptive metadata and set a price for it. The stored metadata is used to help consumers find relevant data through traditional search engines and when browsing the marketplace.
+	['', 'online marketplace', ' ', 'payment processing', ' ', 'file conversion', ' whitelabel ', 'branded storefront', '']
+AbeBooks
+	Provider of an online marketplace for books. The company offers collections of new as well as used and out-of-print books on the Internet. It provides book sellers with a venue for their products.
+	['', 'online marketplace', ' ', 'out-of-print', ' ', 'Internet Retail', ' ', 'book sales', '']
+Pomocni.pl
+	Provider of online marketplace in Poland for local contractors. The company provides a listing service for an array of services, including childcare, construction, computer services, tutors, car repair and entertainment.
+	['', 'child care', ' ', 'senior care', ' ', 'construction verticals', '']
+SideTour
+	Provider of an online marketplace to book and host local activities. The company provides a curated list of activities, tours and other memorable things to do from pre-screened hosts, which is then marketed to to out-of-town visitors or local consumers wanting to know their city better. The company\'s service is available in select cities in the U.S.
+	['', 'community marketplace', ' ', 'online booking service', ' ', 'hotel booking', ' ', 'peer-to-peer marketplace', ' ', 'curated activities', ' ', 'social marketplace', '']
+LoveYourLarder
+	Operator of an online food market. The company operates an online marketplace where the customers can discover artisan food and drink items from across the UK and buy directly from the people who make it.
+	['', 'artisan food', ' ', 'online marketplace', '']
+Bureau of Trade
+	Provider of an online marketplace for men’s shopping. The company provides a platform that offers classic cars and vintage chronographs, mummy cartonage, lightning, furniture and literature.
+	['', 'online shopping platform', ' ecommerce ', 'mummy cartonage', '']
+BiddingAce
+	Operator of an online marketplace for buying and selling general aviation aircraft. The company provides aircraft owners and pilots a resource on the Internet for conducting actual transactions and for encouraging market-based pricing for aircraft sales.
+	['', 'aviation service', ' ', 'software tech', ' ', 'online market', '']
+UGIG
+	Provider of an online marketplace for performing artists and set operators. The company provides a web portal to match performing artists and related service providers with potential employers, including booking agents, event organizers and modeling agents.
+	['', 'web portal', ' ', 'performing artist', ' ', 'set operator', '']
+Exchange.com
+	Developer of an online marketplace. The company is an e commerce marketplace which offers buyers a vast selection of merchandise from dealers and reputable sources.
+	['', 'online marketplace', ' ', 'merchandise selection', ' ', 'merchandise dealer', '']
+DisplayPoints
+	Provider of interactive content and information directly to consumers at the point of presence. The company enables advertisers to access their target audience in venues where they are captive, out-of-home and ready to spend.
+	['', 'digital media', ' interactive ', 'content information', '']
+Excara
+	Operator of a content and commerce services company. The company provides tools and services customized specifically to meet the needs of manufacturers\' sell-side and buy-side internet strategies. The company\'s sell-side solutions allow manufacturers to present and sell their products online, as well as manage their online supply chain.
+	['', 'online content', ' ', "manufacturers\\' software", ' ', 'commerce service', '']
+WebMediaGroup
+	Owner and operator of social commerce websites in France. The company operates multiple websites geared toward women consumers, with content ranging from home appliances, gardening and decor to an online marketplace for handcrafted objects and a female-focused classified platform.
+	['', 'specialist furniture', ' ', 'homemade products', ' ', 'household goods', '']
+Indocs
+	Provider of an application service provider for the printing and publishing industries. The company enables marketing staff, designers, and print houses to edit, manage, and produce graphically-enhanced documents online.
+	['', 'application service provider', ' ', 'online documentation', ' publishing']

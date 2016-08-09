@@ -1,30 +1,27 @@
-CTP Hydrogen
-	Developer of a fuel reformer. The company\'s reformer generates pure hydrogen from conventional liquid fuels, including ethanol, gasoline, diesel and JP8.
-	['', 'fuel reformer', ' ', 'gaseous hydrogen distribution', ' ', 'gaseous hydrogen', ' ', 'hydrogen distribution infrastructure', '']
-Ballard Power Systems
-	Ballard Power Systems Inc was incorporated in the State of Canada on November 12, 2008. It is a clean energy growth company. The company is engaged in proton exchange membrane (PEM) fuel cell development and commercialization. The Company\'s main business is the design, development, manufacture, sale and service of fuel cell products for a variety of applications, focusing on motive power (material handling and buses) and stationary power (back-up power, supplemental power, and distributed generation). A fuel cell is an environmentally clean electrochemical device that combines hydrogen fuel with oxygen (from the air) to produce electricity. Ballard fuel cell products feature high fuel efficiency, low operating temperature, low noise and vibration, compact size, quick response to changes in electrical demand, modular design and environmental cleanliness. The Company has four principal subsidiaries and affiliates: Ballard Fuel Cell Systems Inc., an Oregon corporation that develops methanol-fueled clean energy backup power systems; Dantherm Power A/S ("Dantherm Power"), a Denmark-based corporation jointly owned with Dantherm A/S that develops hydrogen-fueled clean energy backup power systems; BDF IP Holdings Ltd. ("IP Holdings"), a Canadian corporation that holds intellectual property assets; and Ballard Material Products Inc., a Delaware corporation that formerly developed and manufactured carbon fiber products for use in the automotive and fuel cell markets, and which now focuses on the development of fuel processing components and systems for use in fuel cell applications.
-	['', 'fuel cells', '']
-Pemeas
-	Supplier of key components and subsystems to the fuel-cell industry. The company has two divisions. The Celtec division of Pemeas is focused on the development and commercialization of high temperature membranes and MEAs. The E-TEK division of Pemeas is developing precious-metal catalysts and electrode technology.
-	['', 'fuel cell', ' ', 'high temperature membranes', ' ', 'electrode technology', ' ', 'metal catalyst technology', '']
-Protonex Technology
-	Developer and manufacturer of intelligent power management and portable fuel cell products for military and commercial markets. The company provides mission-critical equipment to make military more energy efficient and operationally flexible.
-	['', 'energy service', ' ', 'fuel cell product', ' ', 'power system', '']
-Green Highland Renewables
-	Developer of small scale hydroelectric schemes. The company  provide advice and services to landowners in Scotland through the development of a hydro power project. The company typically works on small-scale projects, ranging from 50 kilowatts to 2 megawatts.
-	['', 'hydroelectric service', ' ', 'hydropower project', ' ', 'energy project', '']
-Mesofuel
-	Developer of hydrogen generators to convert fuels into hydrogen for fuel cell sales in portable and stationary applications. The company\'s technology uses proprietary fuel processors and nano-scale filtering of hydrogen to create a novel compact product that generates hydrogen in an environmentally friendly manner.
-	['', 'hydrogen generators', ' ', 'desulphurization technologies', ' fuel']
-H2Gen
-	Manufacturer of low-cost and small-scale hydrogen generators. The company provides these hydrogen generation machines to target the the emerging fuel cell vehicle and distributed fuel cell power generation markets.
-	['generator ', 'steam methane', ' ', 'purification plant', ' hydrogen']
-UltraCell
-	Developer and seller of integrated fuel cell systems. The company provides portable power source for computing, communications and sensing devices.
-	['', 'fuel cell', ' ', 'portable power', ' ', 'sensing device', '']
-BioFuelBox
-	Provider of a process that treats the lipid content of municipal wastewater and municipal FOG. The company also serves fuel distributors and blenders, and high-volume fuel users.
-	['', 'municipal wastewater', ' ', 'algae paste', ' ', 'waste fat', ' ', 'air flotation waste', '']
-PolyFuel
-	Developer of micro fuel cells using direct methanol fuel cell technologies.
-	['', 'micro fuel cell', ' ', 'fuel cell technology', ' ', 'methanol fuel', ' ', 'hybrid power', '']
+Arctic Silicon Devices
+	Developer and seller of data converters. The company develops application specific mixed mode signal processing chips, modules, subsystems, integrated circuits, low power ADCs and AFEs.
+	['modules subsystems microwave IC']
+Airify Communications
+	Provider of wireless baseband solutions. The company provides a platform  that utilizes patented core technologies to maintain synchronous connections and implement smart, on-the-fly protocol transfer between 802.11b, Bluetooth, and GPRS protocols. The company takes advantage of low-noise, low-power, small-footprint, multi-processor devices to provide uninterrupted access from cell phones, PDAs, and laptops. Its microprocessor allows the user to download software upgrades and adds flexibility and longevity to their product with a small programmable logic core.
+	['', 'wireless solutions', ' baseband ', 'wirless LAN', ' ', 'IT Services', '']
+Spirea
+	Developer of fabless semi-conductor. The company develops low-cost, integrated and low power radio products for the wireless local and personal area network markets, using CMOS design techniques for radio, mixed-signal and digital designs.
+	['', 'fable semi conductor', ' ', 'personal area network', ' CMOS ', 'digital design', '']
+Toumaz Technology
+	Developer of radio frequency, analogue and mixed-signal semiconductors. The company focuses on development of low power devices for mobile and wireless systems. The company was spun out of Imperial College.
+	['', 'semiconductors production', ' ', 'low power device', ' ', 'wireless systems', ' ', 'radio frequency', '']
+Wilinx
+	Operator of a semiconductor company providing single-chip CMOS services covering the entire UWB bandwidth from 3 to 10 GHz. The company enables a wimedia based universal and robust wireless connectivity with enhanced range and data-rate for wireless personal area networks.
+	['', 'CMOS services', ' ', 'wireless connectivilty', ' ', 'personal area network', ' bandwidth ', 'semiconductor company', '']
+Lightstorm Networks
+	Developer of integrated semiconductors. The company is engaged in developing and manufacturing integrated, low power consuming semiconductor products for the transport of packet data over SONET/SDH and packet networks.
+	['', 'high port density semiconductors', ' ', 'semiconductor products', ' ', 'semiconductor design', '']
+Pump Engineering
+	Manufacturer of advanced technology pumps. The company also provides technology turbo, low pressure turbo, low cost turbochargers, advanced variable speed pumps, gas processing and turbo plus systems.
+	['', 'technology pump', ' ', 'low pressure turbo', ' turbocharger ', 'variable speed pump', '']
+Fresco Microchip
+	Developer of fabless semiconductor. The company develops radio frequency, mixed-signal and digital signal processing integrated circuits for the consumer electronics market.
+	['', 'integrated circuit', ' ', 'digital signal processing', ' ', 'radio frequency processing', '']
+Integrated Device Technology
+	Designer, developer and manufacturer of low power, mixed signal semiconductor solutions for the advanced communications, computing and consumer industries. The company\'s computing products are designed specifically for desktop, notebook, sub-notebook, storage, and server applications while its consumer products are optimized for gaming consoles, set-top boxes, digital TV and smart phones.
+	['signal ', 'semiconductor solution', ' ', 'wireless network', ' ', 'data integration', ' ', 'server application', '']

@@ -1,36 +1,33 @@
-Dscovered
-	Developer of a genetic algorithm for design. The company develops a genetic algorithm for design that simplifies creative processes. It also helps match clients with graphic designers who share their taste and style.
-	['', 'graphic design', ' ', 'genetic algorithm', ' ', 'designing platform', '']
-Rose Pharma
-	Developer of therapies for irritable bowel syndrome (IBS) and functional dyspepsia (FD). The company is focused on novel treatments for IBS and FD, with a platform technology that is based on a glucagon-like peptide (GLP-1).
-	['', 'irritable bowel syndrome', ' ', 'functional dyspepsia', ' ', 'peptide hormones', ' ', 'gastrointestinal diseases', '']
-Valocor Therapeutics
-	Developer of therapies to treat dermatological diseases. The company focuses on moderate to severe acne, acne and oily skin, atopic dermatitis, and viltiligo areas.
-	['dermatology ', 'skin treatment', ' ', 'skin therapy', ' ', 'acne treatment', ' ', 'atopic dermatistis', ' ', 'oily skin treatment', '']
-DNA Direct
-	Provider of genetic guidance and decision support solutions for genetics that enable individuals and healthcare providers use genetic information to guide healthcare decisions. The company\'s solution include pre-test questionnaire, genetics call centers, personalized reports, clinical policy and compliance, and physician education and program customization services, as well as prenatal primer, a web-based interactive guide to prenatal testing options. It also offers tests and services for consumers, including screening tests, testing for genetic disorders, testing for drug response, genetic consultation, DNA storage, and paternity and family tests.
-	['', 'genetic guidance', ' ', 'genetic information', ' ', 'healthcare decision', ' ', 'genetic call center', ' ', 'screening test', '']
-ProstaLund
-	Developer of urological devices and treatments.  The company\'s principal product, CoreTherm, is a microwave therapy treatment for BPH (benign prostatic hyperplasia).
-	['bph urology prostate ', 'benign prostatic hyperplasia', ' coretherm ', 'urological device', '']
-Lunar
-	Developer of  bone disease diagnostic systems. The company develops, manufactures and markets bone densitometers and other related medical equipments and products for the treatment of osteoporosis and other metabolic bone diseases that causes excessive bone loss due to aging.
-	['', 'bone diseases', ' osteoporosis ', 'bone densitometers', ' ', 'bone loss', ' ', 'metabolic bone disease', '']
-RepRegen
-	Developer of bio-active materials for orthopedic and dental applications. The company\'s products are used for bone grafting, hard tissue repair and regeneration.
-	['', 'bio-active materials', ' ', 'dental applications', ' ', 'bone grafting', ' ', 'tissue repair', ' ', 'tissue regeneration', '']
-Aires Pharmaceuticals
-	Developer of therapies for pulmonary vascular disorders. The company develops therapies to treat pulmonary vascular disorders such as pulmonary arterial hypertension and pulmonary hypertension due to heart failure.
-	['', 'pulmonary disorder', ' ', 'bacterial pulmonary', ' ', 'cystic fibrosis', '']
-Enobia Pharma
-	Developer of therapies to treat genetic bone disorders for which there are no approved treatments. The company’s products are used for the treatment of hypophosphatasia (HPP).
-	['', 'enzyme replacement', ' hypophosphatasia ', 'bone disorder', ' biotechnology ', 'bone mineralization', ' ', 'bone disease', '']
-Influence (Urological Technologies)
-	Developer of healthcare therapies. The company provides therapies for urinary incontinence, atonic bladder disorder and other urological disorders as well as treatment for coronary disease.
-	['', 'urological disorder', ' ', 'urinary ailment', ' ', 'coronary disease', ' ', 'healthcare technology', ' ', 'urinary incontinence', '']
-Spinal Concepts
-	Provider of devices for neck and back surgery. The company delivers implants used in the treatment of spinal disorders, diseases and injuries.
-	['', 'neck surgery', ' ', 'back surgery', ' ', 'lower back surgery', ' ', 'spinal disorders', ' ', 'surgical devices', '']
-Omthera Pharmaceuticals
-	Developer of therapies for the treatment of lipid disorders. The company is developing therapies focused on dyslipidemia, a lipid disorder resulting in elevated triglycerides and increased risk of cardiovascular disease.
-	['triglyceride ', 'pharmaceutical therapy', ' ', 'lipid disorder', ' ', 'cardiovascular risk', ' ', 'heart disease', '']
+MotoSport
+	Distributor of off-road motorcycle and all-terrain vehicle parts and equipment. The company offers bars and controls, body components, brakes, drive components, engine components, exhausts, graphics, suspension, tires, wheels, and intake components. It also distributes gear, boots, helmets, goggles, hydration packs, protective gear, gear bags, men’s casual clothing, women’s casual clothing, clearance gear, kid’s gear, pants, jerseys, gloves, and pajamas, as well as sells miscellaneous items, such as DVDs, sunglasses, tools, ramps and stands, chemicals, and original equipment manufacturer parts.
+	['', 'vehicle part', ' ', 'vehicle equipment', ' ', 'engine component', ' ', 'bike rider accessory', ' ', 'retailer of motorcycle', ' ', 'ATV part', ' ', 'sports apparel', ' ', 'off road vehicle', ' ', 'all terrain vehicle', '']
+Diffusion
+	Provider of multi-channel information delivery technology. The company develops intranet and extranet software for the targeted distribution of business critical information through different media.
+	['', 'intranet software', ' ', 'extranet software', ' ', 'multi-channel information', ' ', 'application software', '']
+SiXis
+	Developer of silicon circuit board technology. The company provides chip-level integration through a Silicon Integrated Circuit Board (SICB) technology platform.
+	['', 'technology platform', ' semiconductor ', 'circuit board', '']
+EpiWorks
+	Manufacturer of specially treated gallium arsenide and indium phosphide wafers. The company\'s wafers are used to make computer chips and ends up being components in cell phones and in medical and industrial lasers.
+	['', 'IT services', '']
+A-Tech Solution
+	Manufacturer of injection mold and stamping die products for the exterior and interior of automobiles and consumer electric parts. The company\'s products include precision press die, large size press die, precision gear mold, automobile components, OA components and lead frame components.
+	['', 'injection mold', ' ', 'precision gear mold', ' ', 'stamping die products', ' ', 'automobile components', '']
+StratiCELL
+	Developer of in vitro regulatory toxicology and test methods. The company assists cosmetic, pharmaceutical, chemical and food industries in evaluating the safety and efficacy of their compounds by means of in vitro models and methods.
+	['', 'healthcare services', ' ', 'laboratory services', '']
+Ugobe
+	Developer of robotic technology. The company develops technology that transforms inanimate objects into lifelike creatures.
+	['robotic technology ', 'organic movement', '']
+Tsang Yow Industrial Co.
+	Manufacturer and exporter of powertrain components. The company manufactures and exports a range of metal-based components and assemblies for power train system. It provides automatic transmission hard parts, manual transmission parts, off highway machinery parts and torque converter parts.
+	['', 'train system', ' powertrain ', 'metal-based', '']
+HVVi Semiconductors
+	Provider of silicon RF power transistors. The company offers HVVi Silicon HVVFET for pulse applications, including TCAS, IFF, radar and avionics in the UHF and L-Bands.
+	['', 'power transistor', ' ', 'pulse application', ' semiconductor']
+Sigolis
+	Developer of microsystem technology. The company develops components in polymer by first producing the parts in original through different methods for sculpting silicon and glass wafers.
+	['', 'microsystem technology', ' microfabrication ', 'medical device', '']
+Si-Light Technologies
+	Developer of a method of stimulating emission of light from silicon. The company manufactures and develops silicon light emission device.
+	['', 'light emission device', ' ', 'alternative energy equipment', ' ', 'silicon light emission device', '']

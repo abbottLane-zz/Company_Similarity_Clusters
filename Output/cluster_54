@@ -1,15 +1,30 @@
-LoveYourLarder
-	Operator of an online food market. The company operates an online marketplace where the customers can discover artisan food and drink items from across the UK and buy directly from the people who make it.
-	['', 'artisan food', ' ', 'online marketplace', '']
-BiddingAce
-	Operator of an online marketplace for buying and selling general aviation aircraft. The company provides aircraft owners and pilots a resource on the Internet for conducting actual transactions and for encouraging market-based pricing for aircraft sales.
-	['', 'aviation service', ' ', 'software tech', ' ', 'online market', '']
-foodieSquare
-	Operator of an online-subscription service for artisan food. The company provides its clients with weekly food boxes showcasing the products of small, high-quality food manufacturers, with special subscriptions for everything from wine to main courses, cheese, meat and sweets.
-	['', 'independent food producer', ' ', 'artisan food', ' ', 'online food subscription', ' ', 'weekly food box', ' ', 'main course', ' ', 'food manufacturer', '']
-Tu Otro Super
-	Operator of an online food and consumer goods store. The company is an online supermarket selling branded grocery, perfume, food, pet products.
-	['', 'online food', ' ', 'consumer goods store', ' ', 'online supermarket', '']
-Scioko
-	Operator of a fast food company in China. The company operates fast food chains providing simple and authentic food.
-	['', 'authentic food', ' ', 'packed food', ' ', 'portuguese pastel', '']
+Massivkonzept
+	Online retailer of custom furniture, including shelving, cabinets, tables and seating systems. The company provides home furnishings that can be customized to users’ specific measurements, colors and wood qualities. The company also operates a flagship store in Hamburg, Germany.
+	['', 'home furnishings', ' ', 'custom furniture', ' ', 'online retailer', ' ecommerce ', 'wood products', '']
+Gérard de Gilly
+	Provider of office supplies. The company provides office stationery, supplies, equipment and furniture.
+	['', 'office supply', ' ', 'office stationery', ' ', 'equipment and furniture', '']
+Actional
+	Provider of service-oriented architecture management and security solutions. The company\'s Control Brokers give market-facing e-business environments direct control of business services contained in back-office, front-office and marketplace applications.
+	['', 'architecture management', ' ', 'service management', ' ', 'security solution', ' ', 'business control', ' ', 'eBusiness environment', '']
+Eliance
+	Provider of back office e-commerce services to the web businesses. The company provides esurcing (TM) services to web businesses to outsource their e-commerce back-office activities.
+	['', 'financial software', ' ', 'e-commerce servces', '']
+INTERTREND
+	Provider of furniture-manufacturing services. The company manufactures office furniture and kitchen units.
+	['', 'office furniture', ' ', 'kitchen unit', ' ', 'furniture seller', '']
+Combinet
+	Developer of professional-office products which provide small offices and residential users with easy access to remotely located information using telephone lines based on ISDN technology. ISDN is anadvanced telecommunication service capable of moving information faster than standard telephone service.
+	['', 'enterprise software', ' telecommuter ', 'speedy remote access', '']
+Welcome office
+	Online retailer of office products. The company sells office supplies, school supplies and office furniture through its website.
+	['', 'office supplies', ' mail-order ', 'office products', '']
+Dixon Ticonderoga
+	Manufacturer and seller of writing instruments, art materials, and office products. The company offers writing and drawing pencils, pens, art materials, felt tip markers, industrial markers, lumber crayons, and correction materials, as well as wax crayons, chalks, dry and liquid tempera, and water colors under various brands, including Ticonderoga, Prang, and Dixon. It distributes its products through wholesale, commercial, and retail stationers, as well as through school supply houses, industrial supply houses, blueprint and reproduction supply firms, and art material distributors and retailers.
+	['']
+CBS France
+	Supplier of furniture and office equipment. The company offers various products for local authorities which include signage and road equipments, waste collection products, games, outdoor and school furniture and other supplies for communities.
+	['', 'office supplies', ' ', 'office furniture', ' ', 'outdoor furniture', '']
+Ubiquisys
+	Developer of communications devices for mobile operators and consumers. The company provides a small plug-and-play device that plugs into home or office broadband connections and provides 3G coverage in the home and office. It also offers convergence software to the wireless-wireline convergence technology market.
+	['', 'communication device', ' ', 'broadband connection', ' ', 'convergence software', ' femtocell']

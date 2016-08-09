@@ -1,12 +1,21 @@
-Íshestar
-	Provider of horseback tours in Iceland.  The company is an operator of equestrian-tourism services in Iceland, providing traditional Icelandic horses, riding and dining facilities for riders, and promoting its services through an online booking site.
-	['', 'horse', ' ', 'hiking', ' ', 'riding', ' ', 'online booking', '']
-Destination Kiruna
-	Operator of a tourism company in the region of Kiruna. The company organizes events, guided tours, self-drive tours and offers holiday and tourism packages.
-	['', 'tour planner', ' ', 'event organizing', ' tours ', 'tourism agency', '']
-World Cyber Games
-	Organizer and operator of international video game tournaments. The company organizes gaming tournaments, conferences and exhibitions.
-	['', 'video game', ' ', 'video game tournament', ' ', 'cyber game', '']
-Conservation Tourism
-	Provider of tourism services. The company is engaged in the travel industry and is known to build tramways across the world.
-	['tourism travel']
+Kiala
+	Provider of collection points network in Europe. The company offers technological platform, which automates all transportation and delivery activities and helps provide collection points network for the delivery of parcels to end-consumers.
+	['', 'collection point network', ' ', 'technological platform', ' ', 'delivery point', ' ', 'logistic solution', ' ', 'home delivery', '']
+Dinamundo
+	Provider of a social check in service that rewards users who check in to other people with jokes and comedy.
+	['', 'social content', ' ', 'information application', '']
+Rehab Associates
+	Provider of physical and occupational therapy services in owned and managed free-standing clinics and hospital departments. The company operates 37 points of service throughout the states of Alabama, Colorado, Georgia, Illinois and Missouri.
+	['', 'therapy service', ' ', 'free-standing clinics', ' ', 'occupational therapy', ' ', 'managed free-standing', '']
+Topguest
+	Provider of geolocation services that link loyalty points programs with geo check-in applications. The company\'s solutions provide rewards program points for check-ins.
+	['', 'loyalty point program', ' geolocation']
+WPL Group
+	Provider of a shopping-loyalty program.The company rewards engaged couples for their spending as they shop for their wedding day, as well as points generated in their name by their family and friends. The couple then redeems their points for a variety of products, including appliances, televisions and honeymoon travel.
+	['', 'loyalty program', ' ', 'wedding merchandise', ' ', 'reward program', ' wedding ', 'newly engaged couple', '']
+SaveUp
+	Developer of reward program for personal savings. The company offers an online rewards program for users to save money and pay their debt while earning credits to play for prizes.
+	['', 'online game', ' ', 'online reward', ' ', 'debt payment', '']
+Hyperpublic
+	Developer of an open database and platform of people, places, deals and events tied to a specific location. Anyone can add objects to the database and developers are able to build applications on top of the data. The data includes recent check-ins, daily deal aggregations and reviews.
+	['', 'geo local platform', ' ', 'location application', ' ', 'location database', ' ', 'location-based search', ' ', 'location-based', '']

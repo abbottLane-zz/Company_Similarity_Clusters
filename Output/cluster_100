@@ -1,18 +1,45 @@
-bTendo
-	Developer of personal projection technologies. The company\'s technology enable mobile users to project, view, and share multimedia content from PDAs, multimedia players, digital cameras, laptops, mobile phones, or other handheld devices.
-	['', 'projection technology', ' ', 'networking platform', ' ', 'multimedia sharing', ' ', 'content sharing', '']
-SodaHead
-	Developer of an opinion-based discussion platform and provider of polling technology for media companies. The company operates an opinion-based discussion community where users can create profiles, interact with other members. It also includes slide shows, original content and message boards.
-	['', 'public opinion platform', ' ', 'polling service', ' ', 'online community', '']
-Sports and Things
-	Provider of a social networking web site that allows users to share information with family members. The company enables users to create a private page where family can share photos, share life updates, store contact information and post messages.
-	['', 'private social network', ' ', 'share photo', ' ', 'share update', '']
-Nasza-Klasa
-	Provider of social networking platform in Poland. The company\'s website allows users to create profiles, upload photos, chat with friends, find and and connect with classmates at various levels of education.
-	['', 'social networking platform', ' classmates']
-Hyves
-	Operator of a social networking platform. The company’s online platform enables users to create personal profiles, share multimedia content including photos, videos and links.
-	['', 'online social network', ' ', 'multimedia content', '']
-Santa.com
-	Operator of a platform which enables users to create a list of gifts. The company’s portal enables children to e-mail Santa and create a list of gifts they wish to receive and share with family and friends.
-	['', 'online gift', ' ', 'gifting platform', ' ', 'shopping online', '']
+AWR Corporation
+	Developer of electronic design automation software in the United States. The company offers Microwave Office design suite, which encompasses various tools for IC, PCB, and module design, including linear circuit simulators, non-linear circuit simulators, electromagnetic (EM) analysis tools, integrated schematic and layout, and parametric cell libraries with built-in design-rule check; Visual System Simulator, a software for the design of communications systems; Analog Office design suite, a design system that is architected from the ground up for analog and radio-frequency integrated circuit designs; and Signal Integrity design software that is for integrated co-chip/package/module designs as it addresses the cross-domain signal integrity issues.
+	['', 'electronic design', ' ', 'automation software', ' ', 'analog design', '']
+Ciranova
+	Provider of electronic design automation software. The company focuses on building interoperable tools for custom chip designers to create new and/or migrate legacy analog IP and help engineers integrate complex RF, analog and mixed-signal content into nanometer-scale silicon with higher density and speed.
+	['', 'electronic design', ' automation ', 'chip designer', '']
+Valid Logic
+	Manufacturer of computer-aided design equipment. The company also develops integrated electronic design automation software.
+	['', 'electronic design automation', ' ', 'electronic design software', '']
+FASTech Integration
+	Developer of factory automation software. The company develops execution systems, cell control and equipment interface software for semiconductor manufacturing facilities.
+	['', 'automation software', ' ', 'equipment interface software', ' ', 'Workflow Software', '']
+AccelChip
+	Provider of algorithmic synthesis solutions for digital signal processing (DSP) design. The company develops and markets design tools, integrated verification flows, and parametric intellectual property toolkits that automate the development and implementation of DSP algorithms in field programmable gate-arrays and application-specific integrated circuits
+	['', 'algorithmic synthesis solution', ' ', 'digital signal processing design', ' ', 'markets design tool', '']
+Infiniscale
+	Operator of an electronic design automation (EDA) company. The company develops a proprietary modeling engine and optimization software, and has created a software suite to address emerging design for yield (DFY) challenges related to analog, mixed-signal and RF designs.
+	['', 'Statistical analyses', ' ', 'behavioral modeling', ' ', 'design optimization', ' ', 'variation-aware design', ' ', 'modeling software', ' EDA RF']
+DesignAdvance Systems
+	Developer of electronic design automation services for printed circuit boards. The company allows designers reduce board layout and placement time which enables bi directional communication.
+	['', 'electronic design', ' ', 'circuit board', ' ', 'board layout', '']
+SteLar Tools
+	Developer of software applications for the electronic design automation industry. The company provides graphical and intelligent textual design creation and analysis environment for large, complex HDL designs. The company\'s technology enables designers and verification engineers to reach RTL Closure by offering them the ability to explore, navigate, analyze, document and create a design using their current design methodology and tools.
+	['', 'Software Applications', ' ', 'Electronic Design', ' ', 'Automation Industry', ' ', 'HDL Design', '']
+ViewLogic Systems
+	Developer of electronic design automation software. The company designs, develops and markets electronic design automation software for field-programmable gate array (FPGA) printed circuit boards and systems designs.
+	['', 'electronic design automation', ' ', 'automation software', ' ', 'gate array software', '']
+Neoplex
+	Developer of electronic lottery. The company develops, manufactures and markets electronic lottery based on organic electronics. It also developed the next generation of scratch card (instant lottery ticket), a patent pending new game product.
+	['', 'electronic lottery', ' ', 'organic electronic', ' ', 'scratch card', ' ', 'instant lottery ticket', ' ', 'game product', ' ', 'electronic equipment', '']
+Abound Logic
+	Provider and developer of programmable logic technology. The company develops programmable gate arrays such as eFPGA core, implemented in 90nm CMOS process.
+	['', 'programmable logic technology', ' ', 'logic system', ' ', 'logic semiconductor', ' ', 'logic application', ' ', 'configurable logic system', ' silicon']
+Ederena Concept
+	Provider of electronic designs. The company engages in the field of industrial mechanics.
+	['', 'electronic designs', ' ', 'mechanical designs', ' ', 'consulting solution', ' ', 'construction and engineering', '']
+Eldat Communication
+	Developer of Electronic Shelf Label (ESL) systems. The company develops electronic defense systems and integrated circuit designs.
+	['', 'information technology', ' ', 'defense systems', ' ', 'circuit designs', '']
+Mission Controls Automation
+	Provider of automation and process engineering services. The company designs, fabricates, installs and maintains automation, robotic controls, manufacturing systems, processing operations and consulting, for industrial plants and batch processing facilities.
+	['', 'Automation software', ' ', 'process engineering', ' ', 'robotic controls', '']
+0-In Design Automation
+	Operator of an assertion-based verification company. The company develops and supports electronic design automation tools and functional verification products that help clients to verify multi-million gate application-specific integrated circuit and system-on-chip designs. Its system also automates the engineered methodologies.
+	['', 'assertion-based verification', ' ', 'electronic design automation', '']

@@ -1,36 +1,54 @@
-Caltec Productive Solutions
-	Provider of compact separation systems for improving oil and gas production. The company\'s products and solutions enable customers to improve the life of oil and gas assets.
-	['', 'compact separation systems', ' ', 'energy production', ' ', 'energy usage', '']
-Saltire Group International
-	Operator of an offshore company in the oil and gas sector. The company engages itself in exploration, trading and development opportunities in the solid minerals and oil and gas sectors.
-	['offshore ', 'oil sector', ' ', 'gas sector', '']
-LizardTech
-	Provider of software products for managing and distributing geospatial data. The company offers MrSID technology, a wavelet-based image encoder, viewer, and file format. The company serves civil, defense, and oil and gas markets, architecture, engineering, and construction markets.
-	['', 'image encoder', ' ', 'geospatial data', ' ', 'software products', '']
-Tilford Pinson Exploration
-	Explorer and developer of oil and gas. The company develops coal-bed methane gas and hydrocarbon reserves utilizing horizontal drilling technology and 3-D seismic imaging to explore for hydrocarbon reserves.
-	['', 'methane gas', ' ', 'hydrocarbon reserves', ' ', 'drilling technology', '']
-AGM
-	Developer of 3-D geological interpretation software. The company offers Recon, a 3-D geological interpretation software that helps in real-time geological workflows. It serves oil and gas companies.
-	['', 'geological interpretation software', ' ', 'oil company', ' ', 'gas company', ' ', 'software application', '']
-G2 Microsystems
-	Developer of Wi-Fi system-on-chip modules and networking applications. The company\'s application is used for asset tracking applications in healthcare, oil, gas, chemical, government, automotive industries, wireless sensing applications in enterprises, retail outlets, factories, warehouses and in consumer devices, such as media players, gaming platforms, digital cameras, remote controls, headsets and computer peripherals.
-	['', 'wi fi system', ' ', 'networking application', ' ', 'asset tracking', '']
-Vard Brevik Holding
-	Operator of a shipbuilding company. The company constructs offshore and specialized vessels used in the offshore oil and gas exploration, production and oil services industries. It develops vessels such as LNG-powered ferries, naval and coast guard vessels, fishing vessels and non-offshore related icebreakers.
-	['shipbuilder vessels ', 'oil and gas exploration', ' ', 'LNG-powered ferries', ' ', 'fishing vessels', '']
-Altamira Information
-	Provider of ground satellite image analysis services. The company provides round movement measurements with millimetric precision and mapping applications using satellite images. It offers ground motion and mapping products to major industry sectors like oil and gas, infrastructure, mining, insurance, environment, natural hazards, research and space.
-	['', 'ground satellite', ' ', 'image analysis', ' ', 'satellite image', ' ', 'mapping product', ' ', 'ground motion', ' infrastructure mining']
-Deutsche Rohstoff
-	Explorer of diversified resource of various resource properties. The company explores for tungsten, molybdenum, rare earth metals, indium, gallium, cobalt and tin, as well as for oil and gas properties.
-	['', 'metal exploration', ' ', 'resource properties', ' ', 'oil and gas properties', '']
-Nowcasting International
-	Provider of weather forecasting and data systems especially metocean systems for the offshore industry. The company delivers weather information provided by partner companies to customers using its Nowcast Pro technology. It provides detailed, integrated short-range information which can be updated every hour. Its customers include ferry operators, navies, coastguards, offshore oil and gas operators, shipping companies and individual boat owners.
-	['', 'weather information', ' ', 'weather forecasting', ' weather']
-GeoPark
-	GeoPark Ltd was incorporated in Bermuda on February 3, 2003. The Company is engaged in the production, development and exploration of oil and gas reserves. It has oil and gas assets and growth platforms in Chile, Colombia, Brazil and Argentina.
-	['', 'oil ans gas', ' ', 'energy exploration service', ' ', 'energy service', '']
-MTEM
-	Provider of electromagnetic mapping services for onshore and offshore oil and gas reservoirs. The company develops electromagnetic services which produces resistivity profiles to identify hydrocarbons. The company was spun out of University of Edinburgh.
-	['', 'electromagnetic mapping', ' ', 'identify hydrocarbons', ' hydrocarbons']
+EA Technology Ventures
+	Provider of power asset management services. The company invests and works with new ventures across a wide range of traditional and emerging energy related sectors including energy efficiency, smart grid and new energy distribution and storage technologies.
+	['', 'investment vehicle', ' ', 'smart grid', ' energy']
+eQuilibrium Solutions
+	Developer of energy management software.
+	['', 'energy management', ' ', 'energy software', '']
+BuildingIQ
+	Provider of an energy management software. The company\'s software platform forecasts energy demand and automatically adjusts a building’s HVAC settings to optimize energy use.
+	['', 'energy management', '  ', 'building energy management', ' ', 'energy efficiency', '']
+Orecon
+	Producer of wave energy devices. The company specializes in providing water column technologies for wave energy applications
+	['', 'wave energy', ' ', 'water column', ' ', 'marine environment', ' ', 'wave energy conversion applications', ' ', 'multi resonant chambers ', '']
+JouleX
+	Provider of energy management systems for data centers and enterprise networks. The company\'s main product is JouleX Energy Manager, a solution that monitors, analyzes and manages the energy usage of network-connected devices and systems in the enterprise network, data center and related facilities. Its software solution monitors, analyzes and manages PCs, servers, VoIP phones and devices, printers, network switching devices, IP power switches, and HVAC systems.
+	['', 'energy management', ' ', 'sustainable energy', ' ', 'energy usage reduction', '']
+VYCON
+	Manufacturer of flywheel energy storage systems. The company’s REGEN flywheel systems, used in power applications such as container cargo handling crane applications and light electric rail.
+	['', 'energy storage system', ' ', 'cargo handling', ' ', 'energy manufacturer', '']
+Alektrona
+	Provider of hardware and software services for advanced metering infrastructure, demand side management and other energy-related applications. The company specializes in unifying open-standards products within energy management systems, enabling smart grid companies to better serve their customers energy needs
+	['', 'broadband energy management', ' ', 'hardware solution', ' ', 'software solution', ' ', 'advanced metering infrastructure', ' ', 'energy management device', ' ', 'demand side management', ' ', 'energy-related application', ' ', 'energy network appliance', ' ', 'advanced metering system', '']
+Enersciences Holdings
+	Developer of energy products and services for the energy industry. The company develops energy technologies like drilling, fracturing and gas-to-liquid processing to help customers in their operations in the energy industry, while maintaining safety and environmental integrity.
+	['', 'energy products', ' ', 'energy technologies', ' ', 'environment integrity', '']
+Adura Technologies
+	Provider of wireless lighting and energy management systems. The company provides lighting control service for new and retrofitted commercial buildings.
+	['', 'lighting management', ' ', 'energy management', ' ', 'lighting control', ' ', 'energy saving', '']
+Electro Energy
+	Provider of proprietary battery technologies and associated systems.The Company is engaged in the development of energy storage technology, products and related systems through contract research and development for the United States Government and its agencies.
+	['', 'proprietary battery', ' ', 'energy storage technology', ' ', 'bipolar batteries', ' ', 'consumer products', '']
+Formative Labs
+	Provider of social applications connected to real world actions. The company provides information to consumers on energy consumption habits.
+	['', 'social application', ' ', 'energy consumption', ' ', 'social behavior', '']
+Energy Cache
+	Developer of grid-scale energy storage technology. The company is developing a mechanical battery which captures the energy of rolling gravel to generate electricity, in the manner that the water-powered movement of rotors generates power in a hydro dam.
+	['', 'power technology', ' ', 'mechanical battery', ' ', 'alternative energy', ' gravel']
+Datapult
+	Provider of enterprise energy management (EEM) services. The company provide web-based applications that are used to collect and analyze energy usage information, monitor power quality, engage in load management, conduct rate modeling and tariff comparisons, and dispatch distributed generation capabilities.
+	['', 'enterprise management', ' ', 'web based application', ' ', 'power quality', ' ', 'load management', ' ', 'rate modeling', ' ', 'tariff comparison', '']
+Fellon-McCord & Associates
+	Provider of energy management, dispatch and consulting services to clients in the industrial and commercial sectors. The company provides a variety of services that include energy audits, energy RFPs, utility negotiations, natural gas bypass studies, energy sourcing, risk and demand management, cost-benefit analysis and program development.
+	['', 'energy management', ' ', 'consulting services', ' ', 'management consulting', '']
+Enerwise Global Technologies
+	Provider of enterprise energy management solutions as a Web-based hosted software suite for commercial, institutional, and industrial customers to reduce energy consumption. The company also provides demand response, energy analysis, load management, distributed generation, utility allocation, and report generation and energy analytical services.
+	['', 'energy management solution', ' ', 'enterprise solution', ' ', 'hosted software', ' ', 'energy analysis', ' ', 'load management', ' ', 'utility allocation', '']
+Nest Labs
+	Provider of learning thermostat focused on reducing home-energy consumption. The company\'s technology Learning Thermostat learns human behaviors and preferences, automatically adjusting the temperature so you can stay comfortable while saving energy and money.
+	['', 'household heating', ' ', 'cooling bill', ' ', 'energy saving', ' thermostat ', 'energy bill', ' ', 'energy management', ' ', 'temperature control', ' ', 'household heater', ' heater ', 'smart home', '']
+ENEA
+	Supplier of energy in Poland. The company engages in electricity generation, distribution and trading and offers energy for home and business.
+	['', 'energy supply', ' ', 'electricity generation', ' ', 'electricity distribution', '']
+Triacta Power Technologies
+	Developer of energy management systems. The company develops energy systems which enables firms to reduce energy consumption and energy costs.
+	['', 'energy management system', ' ', 'smart submetering', ' ', 'electrical sub metering', '']

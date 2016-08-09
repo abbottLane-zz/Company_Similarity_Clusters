@@ -1,36 +1,9 @@
-Health Month
-	Provider of social game around improving health habits. The company offers a game that allows users to improve their health habits by identifying their unhealthy eating habits and providing strategies for changing them.
-	['', 'social game', ' ', 'health habit', ' ', 'behavior change', '']
-Yvolver
-	Developer of a consumer-engagement platform for the gaming sector. The company develops a platform to increase retention, engagement and monetization for mobile game developers through loyalty techniques and predictive analytics.
-	['', 'player engagement', ' ', 'user retention', ' ', 'mobile monetization', ' ', 'predictive analytics', ' ', 'mobile gaming', '']
-5Rocks
-	Provider of business intelligence tools for mobile gaming developers. The company develops and provides analytics and marketing automation tools for mobile game developers.
-	['', 'mobile game', ' ', 'application developing tool', ' ', 'automation tool', '']
-Conker
-	Provider of management software for games companies. The company helps in optimizing game revenue using predictive behavioral analytics.
-	['', 'Player Experience Management', ' ', 'game revenue', ' ', 'predictive behavioral analytics', ' players ', 'online game', '']
-Applicasa
-	Provider of a management platform for game developers. The company provides a platform for mobile-game developers that is designed to handle the backend elements of business, with a full hosting service and tools for device synchronization, user\'s registration, analytics and virtual currency.
-	['', 'game developers', ' ', 'device synchronization', ' ', 'backend as a service', ' ', 'payment service', '']
-Electronic Arts
-	The Company develops, markets, publishes and distributes video game software and content played by consumers, including video game consoles, personal computers, handheld game players and cellular handsets. It also provides online game-related services.
-	['']
-Cytheris
-	Developer of therapies for immune modulation. The company offers drugs focused for lymphopenic patients. The company\'s product helps to enhance the immune system of cancer and chronic viral patients.
-	['', 'immune modulation', ' oncology']
-ShopperTrak
-	Provider of location based retail analytics for retail industry. The company provides consumers insights and analytics for retailer, malls and entertainment venues which helps in leveraging the company with consumer data.
-	['', 'retail leverage', ' ', "retailer\\'s data", ' ', 'consumer data', ' ', 'consumers insights', '']
-Staq.io
-	Developer of an analytics product for game management. The company offers an analytics product that helps game developers understand how to retain and monetize engaged players.
-	['', 'analytics product', ' ', 'game developer', ' ', 'retain player', ' ', 'monetize player', ' ', 'game management', '']
-Kontagent
-	Provider of a hosted and on demand viral analytics platform for social network application developers. The company\'s social analytics and marketing automation platform enables casual game publishers and game developers to engineer viral growth and gain an understanding of the demographics of their user base.
-	['', 'data pattern visualization', ' ', 'analytic platform', ' ', 'social graph', ' ', 'retention tracking', ' ', 'revenue tracking', ' ', 'application monitoring', '']
-Z2
-	Developer of multiplayer and social gaming platforms for mobile devices and wireless networks. The company’s platform enables game developers to implement subscription based services, such as game lobbies, leader boards, invites, push notifications, achievements, NAT traversal, text chat, voice chat and presence. It also provides marketing support and analytic services.
-	['', 'social gaming platform', ' ', 'multiplayer gaming platform', ' ', 'game development', '']
-Namaste Entertainment
-	Provider of a platform for computer game developers. The company develops lets game developers add emotions and complex behaviors to game characters. It works alongside game studios to integrate a toolset into online games like MMORPGs.
-	['', 'game application', ' ', 'role playing game', ' ', 'tablet game', '']
+DocVerse
+	Developer of real time sharing and simultaneous group-editing services of Microsoft PowerPoint, Excel and Word documents. The company offers DocVerse, a download plug-in that turns the Microsoft Word, PowerPoint and Excel applications into Web-enabled collaboration tools.
+	['', 'group editing service', ' ', 'document sharing tool', ' ', 'collaboration tool', '']
+Maximum Data Solutions
+	Provider of data collection and warehouse management technology solutions. The company operates as an independent software vendor of automated data collection hardware and software for companies that utilize the Microsoft Dynamics GP ERP packages. Its software products include InTouch Distribution, a module which connects, collects, and controls various aspects of Microsoft Dynamics GP receiving, order fulfillment, and inventory control functions; and InTouch Manufacturing, a solution developed for the purpose of acquiring and entering information about the inventory and processes.
+	['', 'warehouse management technology', ' ', 'data collection', ' ', 'inventory information entering', '']
+Tectura North America
+	Provider of business consulting services. The company offers training programs for Microsoft Dynamics AX that supports multiple languages and currencies for sustained relevance across geographies; Microsoft Dynamics GP for financial and operational functionality; Microsoft Dynamics NAV that delivers industry-specific functionality along with multi-language and multi-site capabilities; Microsoft Dynamics SL for professional and field services and construction management organizations and Microsoft Dynamics CRM, a customer relationship management service.
+	['', 'business consulting service', ' ', 'business technology service', ' ', 'enterprise resource planning', '']

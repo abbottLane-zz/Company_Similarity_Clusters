@@ -1,60 +1,30 @@
-EverySignal
-	Provider of computer software services. The company accelerates customer acquisition using data science.
-	['computer ', 'information technology', ' ', 'data science', '']
-Ygsoft
-	Operator of a computer software development and consultancy company. The company develops and sells computer software with provision of software consultancy services and computer software system integration.
-	['', 'computer software', ' ', 'hardware system', ' ', 'software system integration', '']
-Primary Rate
-	Producer of computer network products and software. The company develops subsystem products and sells technology licenses worldwide. The company also provides high speed wide area connectivity using standards-based architectures and protocols.
-	['connectivity ', 'Frame Relay', ' ', 'leased lines', '']
-LRS Ortho
-	Developer of bone drilling device. The company develops computer-aided guiding device for accurate, effective aiming in bone drilling and cutting procedures.
-	['', 'bone device', ' ', 'bone drilling', ' ', 'medical device', '']
-Haystack Labs
-	Developer of computer intrusion detection software. The company develops a large database of known attacks and misuses thus protecting web users against dangerous connections.
-	['', 'software company', ' ', 'cyber security', ' ', 'monitoring software', '']
-CIMLINC
-	Developer of custom and multimedia work instruction software for the manufacturing industry. The company provides Product Lifecycle Management (PLM), Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM) solutions for the manufacturing industry.
-	['', 'multimedia software', ' ', 'Software Publishers', ' ', 'Prepackaged Software', '']
-TriQuest
-	Developer of computer chip design software. The company specializes in enhancing synthesis tools in the semiconductor industry.
-	['semiconductor ', 'computer chip', '']
-VuCOMP
-	Developer of computer-aided detection systems for automatic analysis of medical images. The company help physicians to find disease at earlier stages. Its CAD system assists radiologists by automatically identifying areas of a mammogram that are consistent with breast cancer.
-	['', 'computer aided detection', ' ', 'medical images', ' ', 'breast cancer', '']
-Omegaon Networks
-	Developer of computer program to identify problems in computer networks. The company develops a software system permitting quick and continuous identification of difficulties and interruptions in the various communications networks.
-	['', 'computer program', ' ', 'software system', ' ', 'communication network', '']
-GeneMachines
-	Provider of solutions for the automation and instrumentation needs of the genomics community. The company develops and provides automated solutions, collaborating with researchers to determine and address instrumentation needs and challenges.
-	['DNA']
-GrabCAD
-	Provider of cross-platform computer aided design library and engineering community. The company\'s platform allows engineers to share and host files and communicate.
-	['', 'engineering service', ' ', 'computer aided design', ' ', 'technical drawing', ' ', 'design model library', ' ', 'engineering community', '']
-Biosym Technologies
-	Developer of spectrum of molecular modeling software products for the biopharmaceutical, polymer and catalysis technology sectors. The company markets for Computer Aided Molecular Design.
-	['', 'molecular design', ' ', 'computer aided', '']
-Index Technology
-	Developer of computer software. The company develops and provides computer-aided software and services.
-	['', 'computer aided software', ' ', 'computer engineer', ' ', 'operating system', '']
-WideMed
-	Developer of a web based sleep diagnostic software. The company offers Morpheus, a computer aided sleep scoring system that is used in laboratories and hospitals.
-	['', 'web based', ' ', 'sleep diagnostic', ' scoring']
-Oculis Labs
-	Developer of cybersecurity software. The company provides a software platform designed to protect visual on-screen data by blurring the images from nearby viewers who are not the computer\'s users.
-	['', 'data privacy', ' ', 'privacy software', ' ', 'information system', '']
-InPart Design
-	Developer of strategic sourcing software and content services for the industrial marketplace. The company provides web-based enterprise software and three-dimensional (3D) computer-aided design (CAD) model libraries of standard mechanical components to improve product development cycles and reduce component expenses for manufacturing companies.
-	['', '3D geometry', ' ', '3D models', ' ', 'technical specification', '']
-PlanPlatform
-	Developer of software that provides engineers with two-dimensional and three-dimensional software drafting tools. The company develops SaaS technologies that enable users to edit two dimensional and three dimensional Computer Aided Design and geospatial data from every internet enabled machine.
-	['', 'software drafting tool', ' ', 'computer aided design', ' ', 'geospaial data', '']
-Adra Systems
-	Developer of computer-aided designing software used for industrial and mechanical processes. The company engages in providing software-aided mechanical casting and industrial processing services.
-	['', 'CAD software', ' ', 'computer-aided design', ' ', 'mechanical designing', '']
-Zanza Software
-	Developer of software allowing users to query database and create reports using the Web browser. The company offers web-based, java business intelligence solutions. It provides computer software used to access, format, process and distribute information via electronic communications networks.
-	['', 'business software', ' ', 'software services', ' ', 'query database', ' ', 'information software', '']
-Satellier
-	Provider of workshare solutions to the global AEC industry. The company provides workshare services such as Building Information Modeling (BIM), Design Support, Engineering/MEP, Design Management Services, and computer aided drafting support to architectural, engineering, and MEP disciplines.
-	['', 'design support', ' ', 'design management', ' ', 'project documentation', ' ', 'building information modeling', '']
+Small Smiles Dental Centers
+	Provider of dental care services. The company provides dental care services for children.
+	['', 'dental care', ' ', 'dental health', ' ', 'dental center', ' ', 'dental office', '']
+NetMedical
+	Provider of e-health products and services. The company provides telemedicine products and services for hospitals, home care providers and clinical research organizations.
+	['imodem e-health telemedicine ', 'telemedicine solutions', ' ', 'hospital care', '']
+Keratec
+	Producer of of keratin proteins, lipids and new biopolymers from New Zealand wool using exclusive proprietary green extraction and reconstitution processes. The company also supplies natural cosmetic ingredient to  the personal care industry. The company develops nutritional supplements and medical and industrial materials.
+	['', 'wool', ' ', 'Keratin protein', ' ', 'synthetic materials', ' ', 'synthetic polymer', ' ', 'skin', ' ', 'hair', '']
+AerovectRx
+	Developer of an inhaled drug delivery platform and provides dosage-controlled therapeutics. The company develops vibrating mesh nebulizers to deliver drugs and vaccines. The aerosol therapeutic company also delivers a variety of vaccine and therapies varying from multiple-use mass immunizations, specialty pharmaceutical and personal home care use.
+	['Respiratory ', 'Anti-Infectives', ' aerosol']
+OakTree Health Plan
+	Provider of managed care services. The company operates an health maintenance organization for Medicaid members.
+	['', 'health maintenance organization', ' HMO ', 'managed care', '']
+Second Porch
+	Provider of a social vacation home marketplace, where travelers can discover the perfect vacation rental through their trusted social circle. The company serves as a vacation home portal that offers private visibility for homeowners who only want their friends to see their home listing. The company\'s users can search for homes based on location, budget, recommendations, amenities and their relationship with the owner or former guests.
+	['', 'social software platform', ' ', 'leisure facilities', ' ', 'social vacation home marketplace', '']
+Fryers Walk VCT
+	Provider of nursing home services for people with learning and hearing disabilities in Thetford. The company operates a 34 bedroom home to provide home care services for people with learning and hearing disabilities.
+	['', 'home care', ' ', 'nursing home', ' ', 'hearing disability', '']
+Applecroft Care Homes
+	Provider of old age care facility. The company hosts 75 bed residential care home for the elderly care in Kent.
+	['', 'old age care', ' ', 'residential care home', ' ', 'healthcare service', '']
+Channel Fisheries
+	Provider of fish and seafood. The company also supplies seafoods in the export markets in continental Europe, the Middle East and the US.
+	['seafood ', 'fish products', ' ', 'export fish', '']
+Direct Health
+	Provider of domiciliary and home-care services. The company supplies care workers into homes for those with special and geriatric needs.
+	['', 'managed care', ' ', 'trained workers', ' ', 'medical needs', '']

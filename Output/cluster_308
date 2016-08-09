@@ -1,33 +1,21 @@
-Wavemakers
-	Developer of processors and software algorithms.The company provides software components to  improve the accuracy of speech recognition systems operating in noisy environments.
-	['', 'speech recognition', '']
-Milpix
-	Developer of image recognition technology. The company offers applications for smartphones and digital resources  to combine with the latest web services. It allows access to a video or a photo gallery with practical information and works similar to applications like Pinterest or Instagram.
-	['', 'image recognition', ' ', 'digital resource', ' ', 'photo gallery', ' Pinterest ', 'mobile app', '']
-Vocalis Group
-	Provider of speech recognition technology applications. The company offers speech recognition systems for call centres, telecommunications operators and internet telephony.
-	['', 'Speech Recognition', ' ', 'speech recognition systems', ' ', 'voice recognition', '']
-NetByTel
-	Provider of speech recognition call center software solutions. The company offers multichannel leverage point for its retail, catalog, direct response, publishing, travel/hospitality, finance and manufacturing clients.
-	['', 'speech recognition', ' ', 'leverage point', ' ', 'speech software', '']
-CT Labs
-	Provider of Voice over Internet Protocol (VoIP) and networking equipment testing and evaluation services. The company focuses on voice portal, unified messaging, speech recognition, automated Voice User Interface (VUI), IP phone performance, and converged Private Branch Exchange (PBX) platform. It also develops test platforms under the brand names, CT/TestView and CT/JumpStart.
-	['', 'lab testing', ' ', 'internet protocol', ' ', 'equipment testing', ' ', 'evaluation service', '']
-Volio
-	Provider of video and voice recognition technology. The company\'s technology is used by media creators, brands, marketers and entertainers for audience engagement.
-	['', 'video recognition  technology', ' ', 'voice recognition technology', ' ', 'video technology', ' ', 'voice activated', '']
-Scaled Recognition
-	Developer of software for mobile devices that recognizes handwritten images. The company has developed handwriting-recognition technology that works with any image, including scanned paper, and which generates the best results from mobile photos, enabling smartphones to become powerful input devices. The company sells its recognition technology in multiple markets, including document management, mobile development and device input.
-	['', 'handwriting recognition', ' ', 'character recognition', ' whiteboard ', 'device input', '']
-Quack
-	Provider of speech-enabled Web sites and Internet information.
-	['', 'internet information', ' ', 'online service', ' ', 'online content', '']
-UbiCall Communications
-	Provider of speech recognition technologies. The company offers a speech activated automated interactive telephony technology based on speech recognition, speaker verification, text to speech and dialog processing. It offers Voxplorer that enables automatic management of incoming and outgoing calls and also helps companies to conduct business with their customers, suppliers and distributors over the telephone.
-	['', 'speech recognition', ' ', 'voice interaction', ' call-routing']
-Orbeus
-	Provider of a computer visual recognition engine. The company offers a software that enables computers to perform face detection and recognition, logo and product recognition, optical character recognition and scene understanding.
-	['', 'visual recognition', ' ', 'face detection', ' ', 'face recognition', ' ', 'optical character recognition', ' ', 'cloud image analysis', '']
-Vlingo
-	Provider of speech recognition software that delivers a voice interface for mobile applications. The company software translates voice into text and enables users with various applications, such as email, text messaging, Web search, dialing, address book, and launching applications.
-	['', 'speech recognition software', ' ', 'voice interface', ' ', 'voice translation', '']
+Cemaphore Systems
+	Developer of e-mail continuity and content management solutions for the Microsoft Exchange. The company\'s products include MailShadow, an enterprise email continuity and disaster recovery solution that protects Microsoft Exchange systems at the transaction level by replicating selected mailboxes from various exchange servers to disaster recovery exchange servers; and MailShadow 2.2 that delivers management automation solutions.
+	['', 'content management', ' ', 'disaster recovery', ' ', 'management automation', '']
+SteelEye Technology
+	Provider of cost-effective enterprise IT reliability solutions for business continuity. The company\'s application failover, data replication, and disaster recovery software products are easy to deploy and operate, and enable enterprises of all sizes to ensure availability of business-critical applications, servers and data.
+	['', 'Business Continuity', ' ', 'High Availability', ' ', 'Data Replication', ' ', 'Linux High Availability', '']
+PERFORMANCE Technologies.
+	Provider of products and services such as virtualization. The company provides services for virtualization, data center computing & storage, disaster recovery & business continuity, information security and information technology systems and services management.
+	['', 'data center computing', ' ', 'disaster recovery', ' ', 'information security', '']
+Teneros
+	Provider of application continuity appliances for disaster recovery. The company’s Velocity series offers email application and data continuity in local high availability and remote disaster recovery models that support applications in various environments. It also offers Social Sentry that enables companies to monitor employee public activity on social networks.
+	['', 'application continuity', ' ', 'disaster recovery', ' ', 'data comtinuity', ' ', 'social sentry', '']
+Avamar
+	Developer of enterprise data protection software for corporations, medium to large-sized businesses, and multinational enterprises. The company offers Axion, a disk backup and recovery solution that allows corporations to move, store, and leverage data on a server. It also provides business continuity and disaster recovery, data security and encryption, remote office protection, and legal discovery and support for regulatory compliance solutions.
+	['', 'data protection software', ' ', 'recovery solution', ' ', 'disaster recovery', ' ', 'data security', '']
+InMage Systems
+	Developer of disaster recovery (DR) software. The company provides DR-Scout, a CDP-based storage software platform that protects, maintains and accesses data, files, blocks and applications, as well as offers replication, disaster recovery, continuous data and application backup.
+	['', 'disaster recovery software', ' ', 'local continuous backup', ' ', 'application backup', ' ', 'data migration', '']
+AppAssure Software
+	Developer of backup, disaster protection and recovery software applications for Microsoft Exchange and BlackBerry environments. The company offers Virtual Recovery Accelerator, a disaster recovery solution that enables organizations to protect messaging environment workloads; Recovery Accelerator, which enables organizations to accelerate the recoveries of messaging environments and Replay agents that provide protection for Windows application servers. It also provides Data Store Manager, a software package for browsing, recovering, searching, exporting and analyzing e-mail and mailbox content directly from various unmounted Microsoft Exchange data stores; Exchange Observer, a tool that monitors and reports the health and status of exchange servers and data stores and DocRetriever for SharePoint, which provides multiple document, item, site, sub-site and folder restores without requiring a SharePoint recovery farm.
+	['', 'recovery software', ' ', 'disaster protection', ' ', 'backup application', ' ', 'data storage', ' ', 'server monitor', '']

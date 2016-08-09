@@ -1,24 +1,30 @@
-Pebbles
-	Developer of motion gesture technology. The company develops hardware and software to enable 3D gesture interaction with computers, communications and consumer electronics devices.
-	['', 'gesture interface', ' ', 'human machine interface', ' optics']
-CuaQea
-	Provider of a voice micro-blog/social network enabling users to record and share voice messages with their friends and others. The company\'s technology enables users to talk into their mobile handsets and create their own channel podcasts for sharing.
-	['', 'micro blog', ' blogging ', 'voice social network', ' ', 'voice micro-blog', '']
-Nx Networks
-	Provider of network switching products for enterprise networks. The company\'s products unify voice, data and image applications. The company focuses on networking technologies, combining circuit and packet transmission with T1 multiplexing on a single platform.
-	['', 'network products', ' switch ', 'image application', '']
-Lightspeed International
-	Provider of voice signalling translation technology. The company develops software that assists in managing voice transmission over data networks.
-	['', 'voice signalling', ' ', 'voice transmission', ' ', 'communication software', '']
-Tellium
-	Provider of core optical switches. The company\' optical switches are installed in the core of telecommunications networks to manage the flow of optical signals, which are beams of light carrying voice, video, and data traffic, transmitted over fiber-optic cables.
-	['', 'optical switch', ' ', 'optical signal', ' ', 'fiber-optic cable', '']
-Mapletree Networks
-	Manufacturer of circuit and packet-based voice, data, and fax network access and core network infrastructure. The company offers embedded software and hardware solutions that allow original equipment manufacturers to integrate the universal port technology.
-	['', 'packet-based voice', ' ', 'equipment manufacturers', ' ', 'software solutions', ' ', 'hardware solutions', '']
-WiChorus
-	Developer of smart 4G packet core infrastructure products. The company\'s smartcore platform enable operators to deploy WiMAX and LTE networks with service and subscriber management, content management, and network optimizations, as well as to monetize the Internet.
-	['WiMAX ', 'LTE network', ' 4G ', 'smartcore platform', ' Internet software technology']
-Sonus Networks
-	Provider of voice infrastructure products for the new public network. The company provides hardware and software that enable customers to deploy an integrated, packet-based network carrying both voice and data traffic.
-	['', 'network services', ' ', 'voice infrastructure product', ' ', 'public network', ' ', 'voice traffic', '']
+Macromedia
+	Provider of software for designers and developers, business users, and consumer markets. The company\'s products for designers and developers market include Web development tools for creating Internet applications, multimedia and graphics software tools, and server software. These products primarily consist of MX family of products, which provide an integrated solution for building Internet applications that combine the interactivity of multimedia and desktop applications, the multiway communication capabilities of collaborative computing systems, and the deployment characteristics of Web applications.
+	['flash multimedia ', 'desktop application', '  ', 'graphics server', '']
+Fluxus
+	Designer of internet applications. The company provides website hosting and monitoring including database management, operation, application sharing and security management services.
+	['', 'web hosting', ' ', 'internet application', ' ', 'database management', ' ', 'monitoring services', ' ', 'security services', '']
+Open Mind
+	Provider of internet based services. The company provides software services for internet based collaboration.
+	['', 'software service', ' ', 'internet service', ' ', 'software collaboration', '']
+Tagzania Services
+	Provider of geo-location services. The company, based in Spain, provides geo-location services and maps on the internet.
+	['', 'consumer service', ' ', 'geo-location services', ' ', 'location information', '']
+living-e
+	Provider of a data-base supported web content management system. The company\'s products serve as tools for the administration and update of information for internet applications and their derivatives.
+	['', 'web content', ' CMS ', 'internet applications', '']
+Right Vision
+	Provider of internet applications. The company, based in France, provides software based internet applications.
+	['', 'internet application', ' ', 'internet software', ' ', 'software application', '']
+iStreamPlanet
+	Provider of live streaming video services. The company develops and provides digital media strategy, managed webcasting services and internet applications to enable online media delivery.
+	['', 'Internet broadcast', ' ', 'live broadcast', ' ', 'video workflow', ' ', 'automated video', ' ', 'video application', ' ', 'digital media', ' ', 'online media', '']
+DN2K
+	Developer of a software-based system that can remotely monitor, display and control important assets. The company provides a software that aggregates business data into a single graphically-rich visualization that is displayed on mobile devices.
+	['', 'remote monitoring', '  ', 'critical asset management', ' ', 'Software-as-a-Service', ' ', 'mobile device', '']
+Ockham Technologies
+	Developer of internet applications for e-commerce business solutions. The company uses integrated Sales Management Technologies to solve complex business problems, expanding on the \'Okham\'s Razor\' theory of problems solving.
+	['', 'integrated sales management', '']
+Spatial Wireless
+	Developer of software-based networking solutions for mobile networks. The company provides software based and multi standard distributed mobile switching solutions.
+	['', 'network solution', ' ', 'mobile network', ' ', 'mobile switching', ' ', 'network switching', ' ', 'networking software', '']

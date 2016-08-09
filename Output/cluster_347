@@ -1,12 +1,54 @@
-dedendo
-	Provider of online access to pharmacy shops and medical stores. The company offers its customers direct access to their local pharmacy online.
-	['', 'online medicine purchase', ' ', 'local pharmacy', ' ', 'internet retail', '']
-DocMorris
-	Provider of an online drugstore. The company operates an online pharmacy store serving the German market.
-	['', 'online drugstore', ' ', 'drug distribution', ' ', 'drug sales', ' ', 'online drugs', ' ', 'online pharmaceutical', ' ', 'pharmaceutical sales', ' pharmacy']
-Exponaute
-	Operator of an online platform for information and services on exhibitions in Paris, France, Belgium and Switzerland. The company offers news about exhibitions and museums, photos and video previews, and direct access to purchase tickets and catalogs. Visitors also can register through social media, choose their favorite museums, and create calendars of exhibitions.
-	['exhibitions ', 'information service', ' ', 'social platform software', ' ', 'online patform', '']
-Health AtoZ
-	Provider of internet guide featuring online health merchants. The company provides customized web-based solutions and consulting for hospitals and integrated delivery networks, health plans, pharmacy benefit management companies, employer groups and e-pharmacy sites.
-	['', 'internet guide', ' ', 'online health merchants', ' ', 'web-based solutions and consulting', ' ', 'online healthcare resources', ' ', 'e-pharmacy sites', ' ', 'health plans', '']
+Angiotech Pharmaceuticals
+	Angiotech Pharmaceuticals Inc is a pharmaceutical and medical device company that develops, manufactures and markets medical device products and technologies, primarily within the areas of interventional oncology, wound closure and ophthalmology. The Company currently operates in two segments: Medical Device Technologies and Licensed Technologies. Its Medical Device Technologies segment generates the majority of its revenue, develops, manufactures and markets a wide range of single use medical device products, as well as precision manufactured medical device components. These products and components are sold directly to hospitals, clinics, physicians and other end users, as well as to medical products distributors or other third-party medical device manufacturers. Its Licensed Technologies segment includes certain of its legacy technologies for which research and development activities have been concluded. This segment generates additional revenue in the form of royalties received from partners who have licensed and utilize these technologies in their medical device product lines. The Medical Device Technologies segment manufactures and markets single-use specialty medical device products and medical device components. These products are sold directly to end users or other third-party medical device manufacturers. This segment contains significant manufacturing capabilities as well as specialized direct and indirect sales and distribution capabilities. Many of its medical products are made using proprietary manufacturing processes and may be protected by its patent portfolio or proprietary know-how. Its significant product groups within this business segment include Interventional Oncology, Wound Closure, Ophthalmology and Medical Device Components. The Licensed Technologies segment includes certain of its legacy technologies for which research and development activities have been concluded. This segment generates additional revenue in the form of royalties received from partners who have licensed and utilize these technologies in their medical device product lines. Its principal revenues in this segment to date have been royalties derived from sales by its partner BSC of TAXUS paclitaxel-eluting coronary stents for the treatment of coronary artery disease. The Company markets and sells various medical device products through a group of specialized sales organizations that consist of direct sales and marketing personnel, which in some cases are supplemented by independent sales representatives and independent medical products distributors, depending on the product category, customer base or geographic location. The research and development, manufacturing, labeling, advertising, sale, marketing and third-party reimbursement of its medical device products and those of the Company\'s suppliers, customers and partners are subject to extensive regulation by the FDA, the U.S. Department of Health and Human Services Centers for Medicare and Medicaid Services, and comparable regulatory agencies in state and local jurisdictions and in foreign countries. The Company faces competition from companies marketing, selling and developing medical device or other medical technologies that target the same diseases, clinical indications, customers or markets that its technologies target, as well as competition from other manufacturers of medical device components who sell to similar third party medical device manufacturers, including to some of its current customers.
+	['', 'medical product', ' ', 'pharmaceutical drug', ' ', 'health care', '']
+Refractec
+	Provider of ophthalmic medical device. The company develops proprietary technology that would help baby boomers improve their near vision.
+	['', 'Healthcare services', '']
+Icon Interventional Systems
+	Operator of a cardiovascular medical device company. The company offers Nuloy stent system that provides deliverability to tortuous and distal lesions. The company also provides Biosorb that offers a transformational solution to the permanency of traditional metallic implants.
+	['Cardiovascular ', 'metallic implants', ' ', 'transformational solutions', '']
+InterCure
+	Provider of a medical device called RESPeRATE. The company\'s product helps in reducing blood pressure. RESPeRATE is a non drug treatment device.
+	['', 'blood pressure', ' ', 'bp device', ' ', 'medical device', ' ', 'blood pressure device', '']
+NanoVasc
+	Operator of a medical device company. The company designs and manufactures bio mimetic materials that are non-thrombogenic, durable and demonstrate long-term patency. The company uses an electrospinning process to manufacture scaffolds in a multitude of shapes and sizes, and then application-specific modifications are applied to the scaffolds surface in order to achieve desired results. These specific modifications are designed to optimize the devices outcome based on its delivery location. The company\'s first product is a synthetic vascular graft for hemodialysis access.
+	['', 'biomimetic material', ' ', 'electrospinning process', ' scaffold ', 'synthetic vascular graft', ' ', 'hemodialysis access', '']
+Grandhope Biotech
+	Operator of a regenerative medical device company. The company\'s medical devices are used for the treatment of damaged tissue and organs.
+	['', 'regenerative implants', ' ', 'repair of damaged tissue', ' ', 'healthcare services', '']
+Terumo
+	Manufactures & supplies medical tools & equipment
+	['']
+Nanogram Devices
+	Developer of products for nanomaterial based power sources for medical device applications.
+	['', 'medical device application', ' ', 'biomedical application', ' ', 'cardiac therapy', ' nanomaterial']
+InnoLap Surgical
+	Operator of a medical device company developing a microlaparoscopy platform for scarless laparoscopic procedures. The company\'s device reduces incision diameter, enabling surgeons the ability to perform scarless laparoscopic surgeries.
+	['microlaparoscopy ', 'scarless laproscopy', ' incision']
+AiMedics
+	Operator of a medical device company. The company develops HypoMon system, a non-invasive alarm system that identifies sleep-time hypoglycaemia in children and young adults.
+	['HypoMon ', 'non-invasive', ' hypoglycaemia']
+Biometrix
+	Operator of a medical device company. The company provides medical devices for intensive care, surgery and interventional cardiology.
+	['', 'critical care products', ' ', 'thoracic catheters', ' ', 'urology products', ' ', 'ophthalmic surgery drapes', ' cardiology']
+Breonics
+	Operator of a biomedical research and development company. The company develops medical products for the clinical organ transplant and tissue replacement markets.
+	['biomedical ', 'clinical organ', ' tissue']
+Encapsule Medical
+	Operator of a medical device company. The company focuses on the development of disposable, non-invasive, breast biopsy devices. Its products include Flash, Halo and Phantom.
+	['', 'breast cancer', ' biopsy ', 'breast biopsy', '']
+EndoMetabolic Solutions
+	Developer of proprietary medical device. The company is the developer of a device for treating obesity.
+	['', 'obesity treatment', ' ', 'weight loss', '']
+Drops
+	Operator of a medical device company. The company supplies medical products for the treatment of renal function.
+	['', 'medical care', ' ', 'renal perfusion', ' ', 'nuclear medicine', '']
+PreferredTime
+	Operator of a sales representative coordination company. The company coordinates interactions between medical offices and pharmaceutical representatives by serving medical offices and pharmaceutical firms.
+	['', 'coordination company', ' ', 'commercial service', '']
+Microcuff
+	Operator of a medical device and technology company. The company develops catheter technology, integrating micro-thin balloon components. It also provides a design platform for development of various medical devices.
+	['Balloons ', 'balloon foil', ' ', 'microthin balloon', ' cuffs']
+POP Medical Solutions
+	Operator of a medical device company. The company engages in providing a device which is used in pelvic organ prolapse repairing.
+	['', 'pelvic organ', ' ', 'pelvic floor muscles', ' ', 'internal organs', ' urinary']

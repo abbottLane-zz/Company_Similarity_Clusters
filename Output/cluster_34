@@ -1,33 +1,36 @@
-Ignition Mobile
-	Promoter of mobile applications. The company provides a platform offering exclusive deals for free applications. Users can download a button to reserve offers for apps, and have 24 hours to act on the deal. The platform is a promotion channel for app developers.
-	['', 'paid application', ' ', 'developer interest', ' royalty']
-LeagueLink
-	Provider of web based league administration tools for the sports market. The company\'s product consists of software tools designed for league administrators and community tools for league participants.
-	['', 'league administration', ' ', 'sports market', ' ', 'league participants', ' ', 'community tools', ' ', 'software tools', '']
-Atego
-	Provider of software tools and professional services. The company helps organizations engineer systems and software.
-	['', 'software tool', ' ', 'application development tool', ' ', 'system engineering', '']
-Geneva Bioinformatics
-	Developer of software and database for life science researchers. The company acts as an representative for the licensing to commercial institutions of the proteomics databases and software tools which are developed and maintained by the Swiss Institute of Bioinformatics (SIB). It commercialises proteomic databases and bioinformatic tools.
-	['', 'life science research', ' ', 'proteomic database', ' ', 'bioinformatic tool', '']
-Flashline
-	Developer of asset management software for managing information technology and software assets. The company provides enterprise software reuse solutions that facilitate the rapid development of software systems for business.
-	['', 'software reuse solution', ' ', 'enterprise software', ' ', 'business management software', '']
-GeoIQ
-	Provider of software tools for mapping caches of publicly available data tagged for use with geospatial information systems (GIS) technologies. The company provides location intelligence software.
-	['', 'mapping cache software', ' ', 'information systems', ' ', 'location intelligence software', '']
-Homestead Clinical
-	Developer of diagnostic and prognostic tools. The company was founded to commercialize a suite of technologies developed at the Institute for Systems Biology (ISB) that have broad utility in the development of novel diagnostic tools.
-	['', 'diagnostic tool', ' ', 'prognostic tool', ' ', 'novel diagnostic tool', '']
-UXFlip
-	Developer of software tools for mobile application development. Its products allow developers to communicate in-app with their users, and create a platform for direct UI management.
-	['', 'app development', ' ', 'mobile application development', '']
-ClickSlide
-	Provider of app development software tools. The company offers app development software tools for developers allowing them to better integrate their apps.
-	['']
-Prodea
-	Provider of data warehousing, decision support and application development software. The company\'s product helps in accessing and transforming raw data into useable, relevant information that can be shared throughout an enterprise.
-	['', 'data transformation', ' ', 'data access', ' ', 'decision support', ' ', 'data warehousing', ' ', 'application development software', '']
-BugSense
-	Provider of software to assess mobile-application performance. The company\'s software analyzes metrics each month across multiple platforms, generating performance reports designed to help developers identify issues and create better app customer experiences.
-	['', 'quality standard', ' ', 'performance report', ' ', 'application performance', '']
+Glancee
+	Provider of is an application for iPhone, Android and Facebook.
+	['', 'application provider', ' ', 'friend finder', ' ', 'social discovery tool', '']
+Chomp
+	Promoter of iPhone/iPod Touch applications. The company offers an application search platform providing information on the functionalities of various applications.
+	['', 'consumer service', ' ', 'commercial products', ' ', 'application search platform', '']
+Supplybase
+	Provider of e-Business solutions. The company through its internet and various distribution channels, delivers information and tools to purchasing, engineering, design and sourcing professionals.
+	['', 'e-Business', '']
+Croice
+	Provider of a mobile application for bloggers. The company provides a platform for bloggers to create and share audio streams.
+	['', 'audio stream', ' ', 'blogging platform', ' ', 'audio broadcasting', '']
+Exalead
+	Provider of a search software for business and the web. The company provides a unified search technology platform for desktop, intranet or web search which provides users with a single access point to information, regardless of format or location.
+	['data-center ', 'information access platform', ' scalability']
+Yobble
+	Developer of a hybrid hardware/software technology for iPhone. The company is a mobile motion sensing platform for applications that need regular touch interfaces.
+	['', 'music game', ' ', 'motion control', ' ', 'air guitar', ' ', 'mobile motion', ' ', 'consumer electronic', '']
+Amazon Robotics
+	Developer of mobile material handling solutions for the storage, movement and sortation of products. The company\'s mobile fulfillment system include ItemFetch for picking items OrderFetch, a sortation system for routing orders to the dock door and CaseFetch, which delivers pallets to workers for case picking or forward replenishment.
+	['', 'material handling', ' ', 'mobile material handling', ' ', 'sortation system', '']
+Openera
+	Provider of mobile application services. The company provides an application that help users to find any file or attachment in two taps and automatically saves email attachments to cloud services like Dropbox, Google Drive, Box and Salesforce.
+	['', 'mobile application service', ' ', 'email attachment', ' ', 'cloud service', '']
+Nokia gate5
+	Developer of location based information technology on mobile devices. The company provides a platform for mapping, route planning, content management and personal navigation. Its products include smart2go, a client side global map and search application for GPS-equipped mobile handsets and OEM navigation software for PNDs and PDAs.
+	['', 'location based', ' ', 'information technology', ' ', 'navigation software', '']
+Grokr
+	Provider of a mobile search application for the iPhone. The company\'s mobile application delivers information to users by anticipating what they would search for.
+	['', 'cognitive Web', ' ', 'cognitive service', ' ', 'information application', ' ', 'search application', ' ', 'information search', ' ', 'mobile search', ' ', 'information delivery', '']
+Moves
+	Developer and provider of a pedometer that works with iPhone. The company\'s products use sensor and location information from the user\'s iPhone to record any activities users do and using location technology, can recognize routes of travel and locations. It enables users to track their activities and distances logged on a daily basis.
+	['pedometer ', 'fitness application', ' ', 'activity tracker', '']
+FoodieQuest
+	Provider of a food photography and restaurant search application. The company offers an online software that integrates with existing social platforms and creates a competitive game centered around smartphone food photos and direct competition between users.
+	['', 'food photography', ' ', 'platform software', '']

@@ -1,36 +1,27 @@
-EGS Group
-	Provider of cloud-based services to automate back office processes. The company offers outsourced and cloud-based back office automation services including corporate procurement, invoice processing, e-sourcing and accounts receivable.
-	['', 'back office', ' e-invoicing procurement ', 'sales order', ' ', 'invoice processing', '']
-Houdini
-	Provider of a cloud-based workforce platform. The company provides digital outsourcing platform that allows businesses to outsource repetitive tasks to workers over the web and improve quality of work.
-	['', 'cloud computing', ' ', 'workforce platform', ' ', 'outsourcing platform', '']
-Commercetools
-	Provider of cloud based e-commerce services. The company develops and operates as an e-commerce service for small businesses offering all the important trading functions as a programming interface, enabling cross-channel e-commerce.
-	['', 'cloud software', ' ', 'e-commerce software', ' ', 'commercial tool', '']
-Amplidata
-	Provider of a cloud-based service provider offering scale-out technology for storage providers. The company offers, AmpliStor an object-based software defined storage system for enterprise, private cloud and hyper scale public cloud implementations.
-	['', 'storage infrastructure', ' ', 'storage technology', ' ', 'storage system', '']
-Handster
-	Provider of white label platform for smart phone users. The company offers a scalable, highly flexible white-label application store solution for mobile operators, handset manufacturers and distributors.
-	['', 'application software', ' smartphones ', 'mobile entertainment', '']
-RingCentral
-	Provider of cloud-based communication technology. The company develops communications systems focused on distributed and mobile workforces, by providing business-class voice, fax and text with one phone system, which can be integrated with other cloud technologies, such as Salesforce, Dropbox and Google.
-	['', 'virtual phone', ' ', 'cloud computing', ' ', 'application integration', ' ', 'internet fax', '']
-Auxo
-	Provider of cloud based software for various business support functions. The company offers white-label cloud service that can be used by its users to outsource and market their business.
-	['', 'cloud solution', ' ', 'data storage', ' ', 'IT operation', ' ', 'business support function', '']
-Macheen
-	Provider of cloud service for connected devices. The company provides cloud-based platform supports to new business models for device makers, retailers, cloud service providers and network operators.
-	['', 'cloud service provider', ' ', 'cloud service', ' ', 'cloud service platform', ' ', 'connected device', ' ', 'device platform', ' ', 'cloud based platform', ' ', 'device service', '']
-Wix.com
-	Provider of a cloud-based web development platform. The company offers cloud-based templates for designing websites, without any coding knowledge required.
-	['', 'website building', ' ', 'web publishing platform', ' ', 'personalized website', ' ', 'customized website', ' ', 'website template', ' ', 'website design', '']
-Sansa Security
-	Developer of embedded security services for mobile, storage, automotive, networking, office automation and industrial markets. The company offers a software stack that runs on the device and provides required information from either a sansa cloud service or the clients own cloud service.
-	['', 'embedded security', ' ', 'office automation', ' ', 'cloud service', '']
-ikaSystems
-	Provider of cloud-based software for business automation and process services for the healthcare market. The company provides an enterprise-level platform to support healthcare payers\' commercial and Medicare requirements through the automation of sales, marketing, regulatory compliance, claims administration and customer service procedures.
-	['', 'healthcare payer', ' ', 'claims administration', ' ', 'process automation', '']
-Hubspan
-	Provider of B2B cloud integration service worldwide. The company offers B2B cloud integration platforms to streamline and automate critical business processes, share information across systems and organizations and reduce manual intervention and cut costs. It also provides cloud integration platforms that help companies to exchange electronic documents and real-time messages with partners, customers and suppliers.
-	['', 'cloud integration', ' ', 'electronic document', ' ', 'electronic invoice', ' ', 'business intelligence tool', '']
+Geneart
+	Manufacturer of integrated system solutions for DNA engineering and processing. The company provides software and a robotics platform enabling DNA synthesis for the fermentation of recombinant proteins, combinatorial biology and vaccines.
+	['DNA ', 'synthetic genes', ' fermentation ', 'biotechnology tools', '']
+Roche NimbleGen
+	Manufacturer and marketer of a proprietary suite of microarrays, related products and services for DNA sequencing. The company is focused on research activities and manufacturing target-enrichment probe pools for DNA sequencing. The company\'s Maskless Array Synthesis (MAS) technology permits the company to develop and manufacture custom high density, highly reproducible DNA arrays, which improve the quality and data yield of DNA chips.
+	['', 'DNA chip', ' ', 'DNA array', ' ', 'reproducible DNA', ' microarray ', 'DNA sequencing', '']
+AlphaHelix Molecular Diagnostics
+	Developer of DNA chips for process analysis. The company uses its DNA chips for mutation detection of genes, gene marking in cancer and the development of new drugs.
+	['', 'mutation detection', ' ', 'gene marking', ' ', 'DNA chips', ' DNA']
+Ion Torrent Systems
+	Developer of a DNA sequencing system. The company\'s system enables a direct connection between chemical and digital information.
+	['', 'sequencing technology', ' ', 'digital information', ' ', 'DNA replication', '']
+Intelligent Bio-Systems
+	Developer of DNA sequencing systems.
+	['', 'DNA sequencing', ' ', 'sequencing system', ' ', 'genome sequencing', '']
+GenEncap
+	Developer of DNA sequencing technology. The company provides DNA sequence information to life scientists, clinicians and individuals based on a proprietary and parallel implementation of Sanger sequencing.
+	['sequencing ', 'sanger sequencing', ' ', 'sequencing technology', '']
+Diffinity Genomics
+	Developer of deoxyribonucleic acid (DNA) testing products. The company offers technologies that enable the development of single use disposable products for medical, industrial and research applications in DNA purification markets.
+	['', 'DNA testing product', ' ', 'acid isolation', ' ', 'biotechnology company', '']
+Intrexon
+	Developer of biotherapeutic control systems. The company\'s technology involves the use of DNA as the natural control modality for the delivery, targeting, activation, regulation and location of biological therapeutics.
+	['', 'biotherapeutic control system', ' ', 'synthetic biology', ' ', 'biotechnology', ' ', 'DNA control systems', '']
+Catapult Genetics
+	Developer and provider of a Deoxyribonucleic Acid (DNA) testing services. The company provides commercializes livestock Deoxyribonucleic Acid (DNA) tests to improve meat production and quality to increase production efficiency both on-farm and in the value chain for global livestock and aquaculture industries.
+	['', 'genetic testing', ' ', 'livestock testing', ' ', 'commercial breeder', '']

@@ -1,21 +1,33 @@
-ConXus Communications
-	Provider of wireless communication devices. The company offers narrow-band personal communications network services including paging, cellular, voice mail and other services.
-	['', 'wireless communication', ' paging ', 'voice mail', '']
-WCS Wireless-Licences
-	Provider of wireless telecommunication services. The company was formed to acquire and hold spectrum licenses in the WCS band.
-	['spectrum ', 'radio telephone', ' acquire']
-TLContact
-	Provider of a web page service to help healthcare providers deliver better care to their patients and their families by supporting their emotional and spiritual needs. The company has formed an online community where visitors come together to share the challenges, hopes and triumphs of anyone facing a life-changing health event.
-	['', 'online community', ' ', 'web page service', '']
-Amur Pharmaceuticals
-	Amur Pharmaceuticals, Inc. is a biomedical company formed to develop significant new health care product opportunities based on a whole new class of water soluble, naturally occurring compounds called the amurils.\nFrontera provided growth capital to Amur in May 1997 in exchange for a significant minority equity interest. Amur has since been acquired by SuperGen (Nasdaq: SUPG) in February 2000.
-	['']
-Omnicom
-	Provider of telecommunication services. The company provides telecommunication services including wireless internet services.
-	['', 'telecommunication service', ' ', 'wireless internet', ' ', 'information supply', '']
-Cellular3G
-	Provider of third generation base-band chips for use in mobiles. The company develops and markets base-band chips with layer of two and three radio protocol stack for third generation handheld devices
-	['', 'third generation bandwidth', ' ', 'mobile chip', ' ', 'third generation connection', ' ', 'semiconductor chip', '']
-Wireless Maingate
-	Provider of telecommunication services. The company works as a virtual mobile operator for wireless communication between machines (M2M) and a provider of message services.
-	['', 'wireless equipment', ' ', 'wireless communication equipment', ' ', 'communication between machine', '']
+Paypal
+	Provider of a digital wallet and online payment services for individuals and businesses. The company offers various ways to pay and ways to get paid, including mobile express checkout service for retailers. Its service allows users to pay in various ways, such as through credit cards, bank accounts, and buyer credit or account balances.
+	['', 'online payment', ' ', 'money transfer', ' SaaS ', 'payment solution', ' ', 'Internet payments', ' ', 'Internet commerce', '']
+Simple Finance Technology
+	Provider of banking services through Web and mobile applications. The company works in partnership with financial institutions that hold the actual deposits. It also offers deposit, money transfer and online bill payment services.
+	['', 'online banking', ' ', 'money transfer', ' ', 'bill payment', ' deposit ', 'debit card', ' ', 'consumer banking', ' ', 'saving account', '']
+Billpoint
+	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
+	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
+3V Transaction Services
+	Provider of stored value accounts and standard and contactless payment cards. The company also provides mobile payments and money transfer services at a product and platform level to corporate clients internationally.
+	['', 'stored value account', ' ', 'contactless payment card', ' ', 'standard payment card', ' ', 'money transfer', '']
+Venmo
+	Provider of text messaging-based digital wallet payment system. The company is a social payments platform that makes it easy for friends to exchange money using their phones.
+	['', 'bill payment', ' ', 'text messaging', '']
+Square
+	Provider of online payment services. The company provides online payment services to enable merchants to accept credit cards anywhere, using a card reader that plugs into a phone or iPad.
+	['', 'payment service', ' ', 'mobile payment device', ' ', 'digital payment', ' ', 'credit card payment', ' ', 'credit card reader', '']
+Trivnet
+	Provider of mobile payment and mobile commerce services. The company enables payment and commercial services offered by operators and service providers, allowing a rapid rollout of profitable offerings with a minimal investment.
+	['', 'mobile financial service', ' ', 'mobile payment', ' ', 'mobile commerce', ' ', 'mobile money transfer', '']
+DineroMail
+	Provider of e-payment services to international merchants. The company operates as an online payment platform which helps companies to collect payments from online and offline sales. It offers different local payment methods like cash payment, credit cards, bank transfer and also e-wallet.
+	['e-payment ', 'payment platform', ' ', 'transaction software', '']
+mChek India Payment Systems
+	Provider of mobile payment services. The company offers mobile banking and payment services. It offers a hosted service for mobile money transfer and secure payments using credit cards, debit cards, bank accounts and stored-value wallets.
+	['', 'mobile payment', ' ', 'mobile banking', ' ', 'mobile money transfer', ' ', 'secure payment', ' ', 'stored value wallet', '']
+First USA Partners
+	Issuer of affinity credit cards for alumni associations and other nonprofit groups. The company serves as exclusive sales and business development arm of First USA Bank.
+	['', 'credit cards', '']
+99Bill
+	Provider of independent third-party payment services in China. The company offers electronic payment services to enterprises and individuals. It also supports payment via international cards, such as VISA and MasterCard; and services domestic and international bank cards.
+	['', 'third party payment', ' ', 'electronic payment', ' ', 'electronic fund transfer', '']

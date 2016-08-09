@@ -1,24 +1,36 @@
-Quolaw
-	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
-	['', 'law practice', ' ', 'law practice management', ' lawyer']
-RP Holdings
-	Provider of mortgage default services. The company offers non-legal administrative, accounting, technology and information, data and document collection, transmission and processing services to law firms.
-	['', 'mortgage default services', ' ', 'processing services', '']
-Apptix
-	Provider of on-demand business communication services. The company is a provider of hosted business communication, collaboration, and information technology, with particular expertise supporting legal, financial, healthcare and telecom firms.
-	['', 'software developer', ' ', 'on-demand business communication', ' ', 'mobile messaging', '']
-TrialGraphix
-	Provider of litigation consulting services. The company provides discovery, trial and jury consulting and courtroom presentation services in the United States. It provides services to trial attorneys, law firms and corporate counsel.
-	['', 'litigation consulting', ' ', 'legal service', ' ', 'courtroom presentation', '']
-FindLaw
-	Provider of legal resources. The company provides legal information for lawyers, businesses, students and individuals. The company provides online videos, lawyer directory and other internet advertising services.
-	['', 'legal information', ' lawyers']
-JusticeLink
-	Providers of technology enabled services for courts, attorneys, clients and other interested parties in the legal community through their website. The company provides  legal system for filing legal documents digitally with the court system.
-	['', 'legal community', ' attorneys ', 'court system', ' website']
-Datacert
-	Developer of e-billing products to law firms. The company offers Passport, a platform for uniting legal systems; Advanced Invoice Management System, a legal spend management system; and Corporate Legal Desktop, an integrated matter and legal spend management solution. It also offers consulting and hosting services.
-	['', 'advanced invoice management', ' ', 'corporate legal desktop', ' ', 'management solution', ' ', 'hosting service', ' ', 'consulting service', '']
-RealPractice
-	Provider of legal technology products and services for attorneys and law firms. The company’s products include RealDealDocs, which provides attorneys, researchers, and legal professionals with access to executed legal agreements and documents drafted by lawyers at America’s law firms and corporations.
-	['', 'legal technology product', ' ', 'document drafting', ' ', 'legal agreement', '']
+Stellr
+	Provider of data analytics platform. The company develops a suite of software as a service (SaaS) analytics technologies.
+	['', 'data analytic', ' ', 'analytic technology', ' ', 'cloud based portal', ' ', 'data analytic portal', '']
+Spotfire
+	Provider of interactive, visual data analytics applications and services. The company\'s analytic application, offers an interactive, visual approach to data analysis that empowers individuals to see trends, patterns, outliers and unanticipated relationships in data.
+	['', 'data analysis', ' ', 'visual data analytics', ' ', 'analytics application', '']
+ObjectRocket
+	Provider of a cloud Database as a Service based on MongoDB database. The company provides open source-based MongoDB system that help users to manage big data.
+	['', 'cloud database', ' ', 'database management system', ' ', 'MongoDB database', '']
+Metanautix
+	Provider of big data analytics software. The company builds big data analytics systems for large enterprises.
+	['', 'Big data', ' ', 'analytic service', ' ', 'data analystics system', '']
+mbr targeting
+	Developer of a targeting technologies for increased relevance of advertising focus and product recommendations. The company has developed an approach that can analyze and structure big data categories without having to make a Prior assumptions or use categories.
+	['', 'targeting technology', ' ', 'analysis method', ' ', 'product recommendation', ' ', 'advertising focus', '']
+640 Labs
+	Developer of an open big data platform for agriculture. The company offers 640 Drive, a device to automatically collect and aggregate agricultural data across farming operations.
+	['', 'data aggregation', ' ', 'farming operation', ' ', 'agricultural data', ' ', 'big data platform', '']
+ADKU
+	Provider of e-commerce big data solutions. The company provides a service that attempts to optimize a person’s shopping experience by providing product suggestions.
+	['', 'data solution', ' ', 'personal shopping', '']
+AGILEci
+	Provider of an online application for data analytics and insight propositions for sales and marketing users. The company offers a secure Web browser application that works on desktops, laptops and tablets which helps enterprises to know their customers.
+	['', 'data analytic', ' ', 'Web browser application', ' astute ', 'insight proposition', '']
+RightsCube
+	Provider of a data and analytics platform for publishers. The company provides actionable insights, data and feedback to the book publishers about their market, customers and retail partners. It also provides a standardized source for all of the world\'s film and TV rights information.
+	['', 'analytics platform', ' ', 'data platform', ' ', 'publishers platform', ' ', 'retailer auditing', ' ', 'film rights information', '']
+Application Security
+	Provider of database security application. The company develops security software for relational databases and big data stores that helps businesses and government agencies uncover critical configuration mistakes, access control issues, missing patches, or any toxic combination of settings that could lead to denial-of-service attacks, unauthorized data modification and data breaches.
+	['', 'database security', ' ', 'compliance solution', ' ', 'vulnerability management', ' ', 'threat management', ' ', 'audit management', ' ', 'database integration', ' ', 'database discovery', '']
+Katkar Flink
+	Provider of a platform that provides online sale information to customers. The company provides data analytics to help online shoppers discover deals.
+	['', 'retailing service', ' ', 'online sale information', ' ', 'data analytics', '']
+Morta Security
+	Provider of a cybersecurity platform. The company develops technology to counter advanced cybersecurity threats to large enterprises.
+	['', 'cyber security platform', ' ', 'cyber security', ' ', 'cyber threat', ' ', 'cyber defense', '']

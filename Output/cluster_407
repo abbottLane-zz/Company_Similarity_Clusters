@@ -1,27 +1,36 @@
-Garage Sallaberry
-	Provider of automobile repair services. The company engages in the maintenance, repair and servicing of automobiles. The company also provides towing services for cars in the event of a breakdown.
-	['', 'repair services', ' ', 'breakdown services', ' ', 'towing services', ' garage']
-David Holmes BMW
-	Dealer of automobiles. The company sells Bayerische Motoren Werke (BMW) and Mini Cooper cars.
-	['', 'car dealer', ' ', 'car servicing', ' ', 'car showroom', ' ', 'Consumer Product', '']
-Autoquake
-	Provider of an online platform for buying and selling used cars. The company is engaged in the online retail operations of pre-owned and used cars, sports utility vehicles, vans, estate cars, convertibles and sports cars of various manufacturers.
-	['', 'used cars', ' ', 'online retail', ' ', 'buying and selling', '']
-NPC Springs
-	Manufacturer of high-strength industrial springs. The company manufacturers high-strength springs for railroads, cars and agricultural equipment.
-	['', 'springs', ' ', 'high-strength', ' ', 'railroad springs', ' ', 'car springs', '']
-Carsala
-	Provider of online research and negotiating services for used cars. The company uses Web technology, in conjunction with its own professional negotiators, to enable users to research and purchase used cars.
-	['', 'online business', ' ', 'car buying service', ' ', 'carfax report', '']
-Flexcar
-	Operator of car-sharing programs for its members in the U.S. The company operates a fleet of ultra low emission vehicles, gas-electric hybrids and environmentally-friendly sedans, AWD, minivans, and sports cars. It serves individuals, companies, and public agencies.
-	['', 'car sharing', ' ', 'auto sharing', ' ', 'car reservation', '']
-Portinvest
-	Operator of Zeebrugge port investment company which mainly handles trailers, containers, cars and forest products. The company has specializes in handling cargos of cars.
-	['', 'port investment', ' ', 'cargo of cars', ' ', 'forest products', '']
-Williams of Harrogate
-	Provider of online car brokering service through an online platform. The company engages in dealership of various used and new cars of various brands. It offers Drivestyle Connections, a platform for both private and trade buyers and sellers of luxury cars.
-	['', 'sports car', ' ', 'motor vehicles', ' ', 'luxury car', '']
-Aptera
-	Manufacturer of passenger vehicles. The company is a maker of high-efficiency vehicles. It offers three wheeler cars.
-	['', 'passenger vehicle', ' ', 'efficiency vehicle', ' ', 'three wheeler car', '']
+LeagueLink
+	Provider of web based league administration tools for the sports market. The company\'s product consists of software tools designed for league administrators and community tools for league participants.
+	['', 'league administration', ' ', 'sports market', ' ', 'league participants', ' ', 'community tools', ' ', 'software tools', '']
+Sharingforce
+	Provider of web application. The company promotes Digital Word Of Mouth and helps to convert web traffic into quality leads.
+	['', 'web application', ' ', 'online application', ' ', 'robust analytic', '']
+EmployInsight
+	Provider of a web based platform for measuring, evaluating and quantifying employees. The company\'s platform assist in developing methods for acquiring, assessing and planning human resources in the workplace.
+	['', 'human capital software', ' ', 'platform software', ' ', 'workplace assistance', '']
+Appeering
+	Provider of a web-based tool-set that helps professional users discover and manage the most important, industry-specific social media conversations as they develop. The company is developing a web-based application to instantly enable users to listen to and join important conversations among leaders in various industries.
+	['', 'IT Services', ' ', 'web-based toolset', ' ', 'information services', '']
+Zoom Information Systems
+	Developer of transportation software and systems solutions for city, county and state governments, DOTs and the traveling public. The company\'s web-based assessment tools and software enables companies to collect and process information from people, public infrastructure and vehicles on the road in real time.
+	['', 'transportation software', ' ', 'process information', ' ', 'systems solutions', ' ', 'assessment tools', ' web-enabled']
+Herd Wisdom
+	Provider of an on demand assessment services. The company offers software as a service platform and marketplace for authoring, deployment and integration of assessment tools enabling consultants, test providers, and companies to deploy hiring, development and succession management products.
+	['', 'assessment service', ' ', 'assessment tool', ' ', 'succession management', '']
+Southwest Nanotechnologies
+	Manufacturer of single wall carbon nanotubes. The company develops carbon nanotubes using catalytic method in fluidized bed reactors.
+	['', 'carbon nanotube', ' ', 'catalytic method', ' ', 'fluidized bed reactor', ' ', 'synthesis technology', ' nanotubes composites']
+GreenGoose
+	Provider of web-based service along with stickers with wireless sensors.
+	['', 'wireless sensor', ' ', 'sensor sticker', ' ', 'web based service', '']
+Clear Standards
+	Provider of web-based tool for enterprise carbon management and sustainability assessment.
+	['', 'enterprise carbon management', ' ', 'environmental impact assessment', ' ', 'emission data visualization', ' ', 'environmental initiative decision', ' ', 'water consumption optimization', '']
+Visibli
+	Provider of Web based technology to promote products. The company\'s engagement bar gives companies a tool to extend their reach, while providing consumers with content, promotions and e-commerce opportunities to sell their products and services.
+	['', 'social Marketing platform', ' ', 'analytics platform', ' ', 'social media engagement', '']
+Boxbe
+	Provider of a Web-based service to minimize email overload. The company offers an email filtering tool that organizes inboxes, reduces clutter, and eliminates email overload.
+	['', 'public forwarding', ' ', 'email guest list', ' ', 'social network', ' ', 'IM buddy', ' ', 'spam management', ' ', 'email organizer', ' ', 'email management', '']
+NORM Research & Consulting
+	Developer of an internet based tool for the analysis of consumer decision-making at the point of purchase, using virtual store environments. The company is an independent research and consultancy firm specialized in understanding and predicting consumer and shopper behavior.
+	['', 'productivity software', ' ', 'internet based tool', ' ', 'shopper behavior', '']

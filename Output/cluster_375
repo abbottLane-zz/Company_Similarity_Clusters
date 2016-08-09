@@ -1,30 +1,93 @@
-GLYCART Biotechnology
-	Developer of antibody based products for the treatment of unmet clinical needs such as cancer. The company focuses on the development and commercialization of a new generation of antibody products based on its proprietary GlycoMAb technology.
-	['antibody ', 'antibody products', '']
-Support Technologies
-	Manufacturer of automatic computer test equipment for use by firms designing, servicing and manufacturing electronic-based products. The company\'s products consisted of ROM emulator and diagnostic tester.
-	['', 'computer equipment', ' ', 'electronic products', ' ', 'test equipment', '']
-Centocor
-	Developer of monoclonal antibody technology. The company develops monoclonal antibody-based products for cardiovascular and autoimmune diseases, cancer and inflammation.
-	['', 'monoclonal antibody technology', ' ', 'autoimmune disease', ' biopharmaceutical']
-EcoSynthetix
-	Developer and marketer of biobased materials. The company is focused on developing bio-based materials through the value-added substitution of petroleum-based products. The company’s products include biolatex binders, which use starches from renewable-crop resources; and EcoMer, environmentally sustainable, sugar-based monomer adhesives, which can be used instead of a wide variety of petrochemical ingredients that go into paint, adhesives, plastics, inks, toners and surfacants.
-	['', 'chemical products', ' ', 'bio-materials', ' polymers ', 'renewable resources', '']
-Socrates MEdia
-	Developer and seller of content based products. The company publishes and markets required information on education, products, services and software to residential landlords and property investors.
-	['', 'content solutions', ' ', 'legal publishing', ' ', 'online information', '']
-4-Antibody
-	Developer of an antibody drug discovery platform. The company is a biopharmaceutical enterprise developing a fully human, antibody drug discovery platform. The company is making this technology available to pharmaceutical partners, as well as developing a proprietary pipeline of antibody oncology drugs.
-	['', 'discovery technology platform', ' immunotherapy ', 'antibody drug', '']
-DRUMS
-	Provider of web-based intelligent selling systems. The company develops Internet based products that target specific sales processes.
-	['', 'web based system', ' ', 'intelligent selling system', ' ', 'internet product', '']
-Affomix
-	Developer of antibody-based products.
-	['', 'antibody screening', ' ', 'antibody product', ' ', 'antibody preparation', '']
-Sendmail
-	Provider of a message processing platform consisting of appliances, applications and services. The company provides appliance-based products, applications, and services that allow enterprises and government agencies to architect and deploy secure mail and message infrastructures.
-	['', 'message processing platform', ' ', 'message infrastructure', ' ', 'message inspection', ' ', 'mobile device', '']
-Immunologix
-	Developer of antibody-based therapeutics. The company provides methods for producing human monoclonal antibodies against any target including bacterial and viral antigens, as well as tumor antigens, and human autoantigens. Its technology allows for the conversion of naïve B-cells (from a tonsillectomy or whole blood collection) to fully mature human B-cells producing the human antibody of interest.
-	['', 'antibody therapeutic', ' ', 'human monoclonal', ' ', 'therapeutic device', '']
+Virtual Computer
+	Provider of a platform of PC life cycle management. The company offers NxTop, a client-side virtualization and management server platform, which uses virtualization technology to isolate and manage the main components of a PC independently, including the hardware, operating system, applications and user data.
+	['', 'desktop management', ' ', 'laptop management', ' ', 'operating system', '']
+SpearCast
+	Developer of web data extraction and data aggregation tools. The company offers a technology that is capable of automatically locating, extracting, merging and converting hundreds of millions of data points across various online sources and creating a standardized business profile which includes address and customer reviews, online ad spend and online visibility on search engines and all relevant sites.
+	['', 'data aggregation', ' ', 'web data', ' ', 'data extraction', '']
+Flytteportalen
+	Provider of online address change service. The company also offers a mov- related trade portal where users can get an overview of available services. The company also enables customers to address notification to suppliers and partners and update them with the company\'s new address, billing address, office address and shipping address.
+	['address ', 'address notification', ' ', 'advertising service', ' ', 'information service', '']
+MarketHome
+	Provider of e-mail campaign management services. The company provides traditional retailers with direct marketing software to enhance their customer relations.
+	['', 'e-mail campaign', ' ', 'e-mail marketing', ' ', 'direct marketing application', '']
+Mimosa Systems
+	Provider of immediacy, discovery and continuity for the new generation of critical enterprise information. The company is focused on data management of unstructured and semi-structured information including email, documents and other new data types.
+	['', 'critical information', ' ', 'enterprise information', ' ', 'corporate information', '']
+Human Inference
+	Provider of data management services. The company provides data management services for customer databases. It offers human inference to address data life cycle and also provides customer data services.
+	['', 'data management', ' ', 'human inference', ' ', 'customer database', '']
+Amiato
+	Provider of an immediate A/B testing tool. The company enables users to point their data and to analyze the data.
+	['', 'data analysis', ' ', 'computer architecture', ' ', 'database management', '']
+US Interactive
+	Developer of internet-centric customer management services. The company is a software and services organization that develops and deploys internet-centric customer management services for communications and next generation service providers.
+	['', 'customer management service', ' ', 'software service', ' ', 'internet-centric service', ' ', 'communication service provider', '']
+Pattern Insight (Log Insight)
+	Provider of cloud log analytic platform. The company provides a data management and search platform.
+	['', 'log analysis platform', ' ', 'data management', ' ', 'data search', ' ', 'cloud log analysis', ' ', 'big data', '']
+BioStorage Technologies
+	Provider of sample-management services for the bioscience sector.The company manages the complete life cycle of samples, using a team of global sample experts, temperature-controlled storage facilities and a real-time, Web-based sample intelligence and tracking system. It operates biostorage facilities in the U.S. state of Indiana and Frankfurt, Germany.
+	['', 'sample management', ' ', 'cold storage', ' ', 'lab equipment', '']
+Target 250
+	Provider of performance based outbound sales services to technology and communications companies. The company offers services including appointment setting, account setting profiling, channel enablement, prospecting workshops and data services to technology firms.
+	['', 'outbound sales service', ' ', 'technology service', ' ', 'data service', '']
+Viathan
+	Developer of technology that helps companies manage data. The company\'s storage virtualization software provides data management platforms for use by companies and e-commerce vendors alike.
+	['', 'internet application', ' ', 'data storage', ' ', 'database management', '']
+Dotomi
+	Provider of Internet advertising and media management services. The company\'s full service solutions provide media, data management, campaign management, analytical and technical support.
+	['', 'media management', ' ', 'internet advertising', ' ', 'data management', ' ', 'campaign management', '']
+MTI Laboratory
+	Provider research and development of remote radio head (RRH) technologies for WCDMA/HSDPA and WiMAX/LTE infrastructure products. The company\'s RRH technologies enable the transmission of high output power, which is essential for delivering high data rates and coverage required for mobile TV/video/audio/data-centric 3G data services.
+	['', '3G data', ' ', 'remote radio head', ' ', 'wireless internet', ' ', 'power amplifier', '']
+Aster Data Systems
+	Provider of parallel processing databases for data warehousing and analytics. The company provides analytics, data loading performance, data growth, query performance, administration, scaling solutions, self-management, analytics center, analytic data pipeline discovery, educational, sales engineering, consulting, support, training services.
+	['', 'data warehousing', ' ', 'analytics solution', ' ', 'sales engineering', ' ', 'data growth', ' ', 'data warehouse services', '']
+EDX Systems
+	Provider of automated IT and data services. The company specializes in data converting, testing, automation, construction of processes, reporting and quality control.
+	['', 'automation', ' ', 'it service', ' ', 'data convert', ' ', 'data testing', ' ', 'process construct', ' ', 'quality control', ' ', 'data reporting', '']
+Synapse Group
+	Provider of proprietary customer acquisition and management services for publishers of consumer magazines. The company provides services to publishers in driving magazine circulation and increasing the value of magazine customer relationships.
+	['', 'consumer magazine', ' ', 'customer acquisition', ' ', 'affinity marketing', '']
+CyberSynchs
+	Provider of data synchronization services. The company\'s products provide data backup, data transmission and video streaming over the internet across independent devices and operating systems.
+	['', 'data synchronization', ' ', 'video streaming', ' ', 'wireless synchronization', ' ', 'digital content', ' ', 'data transmission', '']
+Infochimps
+	Provider of data indexing platform. The company develops a cloud based software used for implementing data infrastructure.
+	['', 'data indexing', ' ', 'cloud based software', ' ', 'data infrastructure', '']
+Business & Decision
+	Provider of business intelligence and enterprise performance management services. The company offers RightDelivery Model which helps its clients to leverage its on-shore, near-shore and offshore service centers. They also provide customer relationship management services that help companies manage their customer data and standardize the processes that use this data. They also offer e-business activities like 24/7 online managed services, application hosting and outsourcing in various fields, including e-commerce, e-administration, and e-communication.
+	['', 'business intelligence', ' ', 'enterprise performance management', ' ', 'performance management service', ' e-commerce e-business e-communication ', 'application hosting', '']
+DataCenter Technologies
+	Provider of data management software that helps to migrate and protect data. The company\'s solution enables customers to clasify data, simulate data management operations and copy or move data between storage tiers.
+	['', 'data management software', ' ', 'protect data', ' operations']
+Dispatch
+	Provider of cloud based data management services. The company provides cloud-based file sharing services. It also offers group email addresses for the projects.
+	['', 'cloud sharing movement', ' ', 'cloud sharing management', ' ', 'cloud file sharing', ' ', 'file sharing', '']
+Systinet
+	Provider of service-oriented architecture (SOA) governance and life-cycle management software and services. The company\'s web applications and services platform enables to build and integrate business applications over the internet.
+	['', 'service-oriented architecture', ' ', 'life-cycle management', ' ', 'web applications', ' ', 'services platform', ' ', 'business application integration', '']
+Digital Motorworks
+	Provider of information management services to the retail automotive industry. The company provides the automotive industry with dealership management system (DMS) data and data management solutions for a variety of business initiatives, including parts locators, service marketing programs, service history reports, sales programs, vehicle valuations, customer relationship management, OEM data analytics, consumer-facing website content, and inventory management.
+	['', 'automotive industry', ' ', 'information management system', ' ', 'database software', '']
+TeaLeaf Technology
+	Provider of online customer experience management services. The company offers a datastore of online customer information.
+	['', 'customer experience', ' ', 'customer information', ' ', 'customer issue', '']
+MetaCarta (Enterprise Group)
+	Developer of e-commerce tools and services. The company provides geographic intelligence solutions, map-driven geographic search, geographic referencing and data visualization capabilities.
+	['', 'geographic intelligence solutions', ' ', 'geographic search', ' ', 'wireless services', ' ', 'location-based application', '']
+Tigerstripe
+	Provider of software products and services. The company provides software that helps telecommunications companies to automate and tie together billing, customer management, back office systems and create plug and play interfaces. Its software also facilitates a broadband provider to tie together customer account data with the network capacity.
+	['', 'Tigerstripe Workbench', ' ', 'telecommunication software', ' ', 'telecommunication services', ' ', 'business software', '']
+TellApart
+	Developer of online marketing applications for ecommerce retailers. The company uses personalized retargeting technology to create banner advertisements and offers a platform that helps users to collect and organize cloud based customer data.
+	['', 'display advertising', ' ', 'personalized banner', ' ', 'banner advertisement', '']
+Purisma
+	Provider of solutions- driven data management platform and software for enterprises. The company provides online customer registry system that connects enterprise applications, databases and external data sources.
+	['', 'data integration software', ' ', 'data management platform', '']
+Memeo
+	Provider of data-management services. The company’s cloud-based software enables users to access files, protect and restore data and send large files securely. The product has applications for commercial and home-based users and can be used on mobile devices.
+	['', 'database management', ' ', 'data retrieval', ' ', 'restore data', '']
+GraphDive
+	Provider of a data analytic and personalization platform. The company provides online businesses with integrated social data from platforms such as Facebook to deliver insights into their users\' top interests and key demographic data- age, education, income and relationship status.
+	['', 'social data', ' ', 'e-commerce service', ' ', 'e-commerce content', ' API ', 'social API', ' ', 'data analysis', '']

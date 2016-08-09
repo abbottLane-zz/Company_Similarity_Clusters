@@ -1,39 +1,24 @@
-Top Prospect
-	Provider of a social recruiting site. The company provides recruiting platform to rewards people for helping their friends to find jobs through referrals.
-	['', 'social recruiting', ' ', 'recruitment referral', ' ', 'recruitment reward', '']
-ITmedia
-	Operator of an online IT publishing platform. The company provides various information about IT industries, consumer electronics, music, personal computing, and business administrations in Japan.
-	['', 'web advertising', ' ', 'media management', ' ', 'program guide site', '']
-Ubiqi Health
-	Provider of online tools for migraine management. The company provides online and mobile application tools to the millions of people suffering from chronic conditions.
-	['', 'online tool', ' ', 'remedies to chronic conditions', ' ', 'application tool', '']
-ThreatGRID
-	Operator of an online malware threat intelligence platform. The company enables organizations to identify and analyze malicious software on their infrastructure.
-	['', 'malware threat', ' intelligence malicious']
-Quisic
-	Provider of products and services which helps businesses train employees. The company engages in designing and developing online products to help professionals and businesses train their employees.
-	['e-learning ', 'training tools', ' ', 'employee training', ' ', 'educational programs', ' ', 'educational software', ' ', 'educational tools', '']
-Deskom
-	Provider of an invoice management platform. The company provides a platform which allow organization in invoice accounting, internal invoice management and editing & maintenance of digital form of invoice.
-	['', 'invoice management', ' ', 'invoice accounting', ' editing']
-Distill
-	Creator of a browser-based recruiting platform. The company provides a suite of products that enables collaborative, browser-based video interviews as well as tools for scheduling, taking and sharing notes and posting ability assessments.
-	['', 'recruiting platform', ' ', 'video interview', ' ', 'collaborative software', '']
-JobFlash
-	Provider of hiring solutions for hourly and managerial employees. The company offers IVR technology and candidate scheduling services for restaurants, window cleaners, manufacturers, hotels, casinos, retail stores, and hospitality.
-	['', 'hiring solution', ' ', 'managerial employee', ' ', 'ivr technology', ' ', 'employee service', ' ', 'candidate service', '']
-FlexHire
-	Operator of an online recruitment platform. The company provides an online candidate management system for recruiting employees.
-	['', 'candidate management', ' ', 'recruitment platform', ' ', 'screen applicants', '']
-CVCertify
-	Provider of an online recruiting service. The company provides an online work history certification platform designed to enable applicants to validate specific career accomplishments throughout the course of their careers.
-	['', 'online recruiting', ' ', 'online work', ' ', 'online certification', ' ', 'work history', ' ', 'job posting', '']
-Verical
-	Provider of services to high- tech manufacturing industry as well as online factory outlet for electronic components. The company provides online service to buyers in order to make a fast and better decisions to find and purchase parts needed to fill their requirements.
-	['B2B ', 'supply chain procurement', ' ', 'online electronic components', '']
-VisualCV
-	Provider of technology and support to build and manage online career portfolios and securely share professional qualifications with employers, customers, partners, and colleagues. The company helps in recruitment and career management.
-	['', 'online career portfolio', ' ', 'online CV', ' ', 'career management', ' ', 'professional networking', '']
-Career Rewards
-	Provider of internet based referral recruiting services. The company\'s referral recruiting product allows employers to reach new sources of candidates by combining the hiring technique of personal referrals with internet technology.
-	['', 'recruiting services', ' ', 'hiring technique', ' ', 'employment agency', '']
+Magellan Technology
+	Provider of RFID (Radio Frequency Identification) technology and related services. The company manufactures advanced read and write 13.56 MHz RFID systems.
+	['', 'Radio Frequency Identification', ' ', 'wireless signals', ' ', 'wireless communication', '']
+Somark Innovations
+	Developer of chip-less radio frequency identification tattoos for animal identification. The company also provides inventory management IDs for automotive parts, documents and casino chips.
+	['tattoos ', 'radio frequency', ' ', 'animal identification', '']
+motionID technologies
+	Developer of radio frequency identification technology for mobile end-user and traffic infrastructure industry. The company provides a passive radio frequency identification technology that monitors the entrances and exits of parking garages or on-street parking areas.
+	['', 'touchless identification system', ' ', 'RFID tag', ' ', 'automation services', ' ', 'B2C applications', '']
+Xterprise
+	Developer of radio frequency identification supply chain services. The company also offers RFID item-level inventory management and enterprise-class software applications for the retail market.
+	['', 'radio frequency identification', ' ', 'RFID services', ' ', 'enterprise software', ' ', 'enterprise asset management', '']
+AeroScout
+	Provider of wireless asset tracking and monitoring services. The company provides Wi-Fi-based Active radio frequency identification (RFID) services.
+	['', 'Bluetooth chip manufacturer', ' ', 'wireless network', ' ', 'asset tracking', ' ', 'radio frequency identification', '']
+RF-IT Solutions
+	Provider of software and services for micro-chip non contact communication systems. The company provides radio frequency identification (RFID) software products which serves as a platform for system integrators, software manufacturers and operators, as well as supports RFID infrastructure ranging from smart labels to readers, barcode scanners, label printers and I/O devices.
+	['', 'software service', ' ', 'barcode scanner', ' ', 'system integrator', ' ', 'software manufacturer', ' ', 'technology consulting', '']
+ViVOtech
+	Provider of software and hardware for the Near Field Communication (NFC) mobile payment and promotion market. The company provides contact-less/near field communications (NFC) payment software, NFC smart posters, contact-less readers/writers and over the air card provisioning, promotion and transaction management infrastructure software.
+	['', 'contactless payment solution', ' ', 'Near Field Communication software', ' ', 'Near Field Communication hardware', ' ', 'near field communications payment software', ' ', 'transaction management infrastructure software', ' ', 'NFC mobile payment', ' ', 'wireless non-cash transaction', ' ', 'credit card', ' ', 'rf card', '']
+R4 Global Solutions
+	Provider of EPC-class RFID technology solutions to clients in the retail, consumer packaged goods, manufacturing and pharmaceutical industries. The company offers evaluation, implementation, integration and support of RFID and RFID-related technologies. It also provides supply chain solutions.
+	['', 'radio-frequency identification', ' ', 'electronic code', ' ', 'electronic device', ' ', 'supply chain', '']

@@ -1,36 +1,24 @@
-Construcciones Tecnicas De Radioterapia
-	Provider of healthcare construction and engineering services. The company specializes in the construction and installation of radiotherapy facilities and radiation-protection areas.
-	['', 'construction services', ' radiotherapy']
-LEDUC
-	Operator of a construction company. The company specializes in wood framing for stairs and industrial structures.
-	['', 'construction company', ' ', 'wood framing', ' ', 'traditional frames', ' ', 'industrial structures', ' ', 'joinery and partitions', '']
-JPS Groupe
-	Provider and seller of goods and equipment to industries. The company focuses on selling and renting products for industrial and construction purposes.
-	['leasing trading ', 'building trade', '']
-Paxford
-	Provider of composite material engineering services.
-	['', 'material engineering', ' ', 'engineering service', ' ', 'composite material', '']
-EDX Systems
-	Provider of automated IT and data services. The company specializes in data converting, testing, automation, construction of processes, reporting and quality control.
-	['', 'automation', ' ', 'it service', ' ', 'data convert', ' ', 'data testing', ' ', 'process construct', ' ', 'quality control', ' ', 'data reporting', '']
-Certified Technologies
-	Provider of a fire retardant chemical formulation to the commercial aviation and business furniture industries. The company also provide other services such as hydropower device installation, equipment maintenance, construction, operation and management of hydropower stations in China.
-	['', 'fire retardant chemical', ' hydropower ', 'fire retardant', '']
-Warrior Group
-	Operator of a permanent modular construction company. The company provides construction services for projects such as military barracks, retail establishments, classrooms and medical buildings.
-	['', 'modular construction', ' ', 'construction company', ' ', 'medical building', '']
-Gete Construction
-	Provider of home construction services. The company specializes in the sale of standard single-family homes for customers.
-	['', 'home construction', ' ', 'home builder', ' homes ', 'construction project', '']
-UroTec
-	Provider of tissue-engineering services for the treatment of urologic disease. The company focuses on treatment of urethral stricture, ureteral strictures, ureteral anomalies and hypospadia.
-	['', 'urologic disease', ' ', 'urethral stricture', ' hypospadia ', 'tissue engineering', '']
-Giac Elec
-	Provider of electrical installation services.
-	['', 'electric wiring', ' ', 'electric installation', ' ', 'electrical services', ' ', 'electrical installation services', '']
-Raysearch Laboratories
-	Developer of software for cancer radiation therapy. The company\'s products are used to enhance the efficiency of radiation therapy by optimizing the radiation dose for each cancer patient.
-	['', 'cancer radiation', ' ', 'software development', ' ', 'radiation therapy', '']
-OSS Mozambique
-	Provider of warehousing spaces. The company rents warehouses for mining, agricultural and construction industries.
-	['', 'office space', ' ', 'warehousing spaces', ' ', 'business park', '']
+Geneva Bioinformatics
+	Developer of software and database for life science researchers. The company acts as an representative for the licensing to commercial institutions of the proteomics databases and software tools which are developed and maintained by the Swiss Institute of Bioinformatics (SIB). It commercialises proteomic databases and bioinformatic tools.
+	['', 'life science research', ' ', 'proteomic database', ' ', 'bioinformatic tool', '']
+Intermed Discovery
+	Developer of natural products for the life science industry.  The company generates proprietary product pipelines of early stage pharmaceuticals and functional ingredients for the life science, animal health, agrochemical, food and cosmetic industries.
+	['', 'animal health', ' ', 'agrochemical', ' ', 'chemical research', '']
+Eidogen
+	Developer of computational drug discovery platforms. The company offers Target Informatics Platform, structural proteomics enterprise software.
+	['', 'drug discovery', ' ', 'enterprise software', ' ', 'drug toxicity', '']
+Eedo Knowledgeware
+	Provider of learning and knowledge systems. The company\'s learning and knowledge system enables organizations implement practical knowledge management strategies in order to maximize performance.
+	['', 'knowledge system', ' ', 'knowledge management', ' learning']
+Varro Technologies
+	Developer of distributed knowledge management software. The company offers products for the life science industry and assists in the drug discovery process.
+	['', 'knowledge management software', ' ', 'healthcare software', ' ', 'drug discovery', '']
+AnalytiCon Discovery
+	Operator of a biotechnology firm that involves in drug discovery. The company maintains a library of purified natural products and semi-synthetic compounds derived from natural products.
+	['', 'semi-synthetic compounds', ' ', 'natural product', ' ', 'small molecules', ' ', 'cosmetics industries', '']
+Novamass Analytical
+	Provider of contract-research services. The company offers comprehensive services and platforms for drug discovery, functional food ingredients testing, REACH chemical-safety assessment and related life-science areas. Specific services offered include discovery biology and proteomics, biomarker discovery, in vivo disease models, especially Type I/II diabetes, oncology and cardiology; in vitro permeation, transport and assay design; pharmacokinetics & bioanalytics; in silico, in vitro and in vivo toxicology & safety pharmacology. The company operates on a global scale, with clients in Europe, Asia and the U.S.
+	['', 'research company', ' pharmaceuticals ', 'in-vitro drug metabolism', ' ', 'drug discovery', '']
+Appilog
+	Provider of auto-discovery and application mapping software. The company\'s products mapped the relationships among applications and their underlying infrastructure.
+	['', 'auto discovery', ' ', 'application mapping', ' ', 'mapping software', '']

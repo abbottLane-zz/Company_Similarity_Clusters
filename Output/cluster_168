@@ -1,33 +1,36 @@
-Metacafe
-	Provider of online video. The company specializes in short-form original content. It operates a Video Games hub, which features trailers, reviews, news, interviews and walkthroughs for video game releases in various gaming platforms.
-	['', 'online video', ' ', 'content filter', ' ', 'video sharing', ' entertainment']
-Ahortech
-	Provider of automatic traffic control services. The company also provides a wireless live video streaming transmission system for public and business sectors.
-	['', 'automatic traffic control', ' ', 'video streaming', ' ', 'transmission system', '']
-Talk Talk TV Store
-	Provider of video streaming services. The company offers action, animation, comedy, crime, documentary, drama, family, fantasy, horror, indie, music, romance, sci-fi, seasonal, sport, thriller, war, western movies, shows and quizzes.
-	['', 'digital video', ' ', 'feature film', ' ', 'television series', '']
-Floobs
-	Developer of a live video streaming platform. The company supports live video streaming from web cameras and digital video cameras.
-	['', 'video streaming', ' ', 'live events', ' ', 'online sharing', '']
-Veebeam
-	Developer of wireless technologies and products. The company provides software products for video streaming and designs hardware systems for consumer electronic device for the wireless streaming of HD audio or video content from laptop to television.
-	['', 'wireless applications', ' ', 'video streaming software', ' ', 'wireless protocol software', '']
-FanLib
-	Operator of online community for the entertainment fans. The company\'s online storytelling platform enables its members to create stories and scripts based on television shows, books, movies, video games, and other works.
-	['', 'fan community', ' ', 'entertainment community', ' ', 'storytelling platform', '']
-ZebraMobile
-	Provider of online news platform. The company provides an application enabling mobile access to personalized news content, advertising and other online content.
-	['', 'news platform', ' ', 'online news', '']
-Fourth Wall Studios
-	Producer of movies and television series. The company also engages in the development and marketing of content for movies and television shows.
-	['', 'movie production', ' ', 'content management', ' ', 'marketing and development', '']
-Videostrip
-	Provider of an online video advertising network. The company provides an online video platform that allows users to create and publish video sites and banners in the Netherlands.
-	['', 'video advertising', ' ', 'video publishing', ' ', 'online video', ' ', 'video platform', '']
-A2 Media
-	Provider of online video streaming services. The company\'s video aggregating service iStream provides an online content streaming platform where users can discover content across multiple genres like news, television shows and movies.
-	['', 'video streaming', ' ', 'online video', ' ', 'video aggregating service', ' ', 'content streaming', '']
-Chasm.io
-	Provider of an online content marketing network. The company has developed a content matching system that analyzes personal interest graphs, categories of influence and network behaviors that allows content producers to present their content to only those influencers who are most likely to consume and share it.
-	['', 'social networking', ' ', 'startup assistance', ' ', 'startup guidance', '']
+Wavemakers
+	Developer of processors and software algorithms.The company provides software components to  improve the accuracy of speech recognition systems operating in noisy environments.
+	['', 'speech recognition', '']
+Vocalis Group
+	Provider of speech recognition technology applications. The company offers speech recognition systems for call centres, telecommunications operators and internet telephony.
+	['', 'Speech Recognition', ' ', 'speech recognition systems', ' ', 'voice recognition', '']
+NetByTel
+	Provider of speech recognition call center software solutions. The company offers multichannel leverage point for its retail, catalog, direct response, publishing, travel/hospitality, finance and manufacturing clients.
+	['', 'speech recognition', ' ', 'leverage point', ' ', 'speech software', '']
+CT Labs
+	Provider of Voice over Internet Protocol (VoIP) and networking equipment testing and evaluation services. The company focuses on voice portal, unified messaging, speech recognition, automated Voice User Interface (VUI), IP phone performance, and converged Private Branch Exchange (PBX) platform. It also develops test platforms under the brand names, CT/TestView and CT/JumpStart.
+	['', 'lab testing', ' ', 'internet protocol', ' ', 'equipment testing', ' ', 'evaluation service', '']
+WISChip International
+	Provider of semiconductor solutions for video, audio and voice compression, image understanding and speech recognition. The company develops develops SoC (Systems on Chip) silicon and provides integrated hardware, software solutions for multimedia communications over wired or wireless broadband infrastructures.
+	['semiconductor SoC ', 'Systems on Chip', ' ', 'digital video', ' ', 'audio quality', '']
+FaceTags
+	Provider of facial recognition system. The company provides facial recognition to turn faces in photos and videos into qualified leads and compliance tracking. The company uses facial recognition  for advanced customer segmentation and lead scoring.
+	['', 'facial recognition', ' ', 'lead generation', '']
+Speechcycle
+	Provider of call center automation services and speech self-service applications to resolve technical support problems over the telephone. The company also provides LevelOne DSL Agent, which is designed to solve problems for the clients with DSL services.
+	['', 'call center automation', ' ', 'self sservice application', ' ', 'technical support', ' ', 'DSL service', ' ', 'video agent', ' ', 'television service', '']
+UbiCall Communications
+	Provider of speech recognition technologies. The company offers a speech activated automated interactive telephony technology based on speech recognition, speaker verification, text to speech and dialog processing. It offers Voxplorer that enables automatic management of incoming and outgoing calls and also helps companies to conduct business with their customers, suppliers and distributors over the telephone.
+	['', 'speech recognition', ' ', 'voice interaction', ' call-routing']
+Orbeus
+	Provider of a computer visual recognition engine. The company offers a software that enables computers to perform face detection and recognition, logo and product recognition, optical character recognition and scene understanding.
+	['', 'visual recognition', ' ', 'face detection', ' ', 'face recognition', ' ', 'optical character recognition', ' ', 'cloud image analysis', '']
+Vlingo
+	Provider of speech recognition software that delivers a voice interface for mobile applications. The company software translates voice into text and enables users with various applications, such as email, text messaging, Web search, dialing, address book, and launching applications.
+	['', 'speech recognition software', ' ', 'voice interface', ' ', 'voice translation', '']
+Instructure
+	Provider of a cloud-based learning management system. The company offers tools for instructors and students that are designed to integrate drag-and-drop file uploaders, HTML 5 video, automatic speech-to-text conversion applications, as well as Web 2.0 tools and social media platforms. It also provides an index of online courses.
+	['', 'learning management system', ' ', 'education technology', ' ', 'education software', '']
+TuVox
+	Provider of on demand speech and interactive voice response hosting applications. The company also offers on demand hosting, managed, design center, development and CTI integration, support and maintenance, and training services.
+	['', 'demand speech', ' ', 'interactive voice application', ' ', 'voice response hosting', ' ', 'voice hosting application', '']

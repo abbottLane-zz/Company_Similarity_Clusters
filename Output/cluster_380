@@ -1,42 +1,15 @@
-HL-Planartechnik
-	Manufacturer of thin-film metallization processes for the production of sensors. The company manufactures and sells components and subsystems using micro structures on ceramic, glass and silicon chips.
-	['', 'photographic equipment', ' ', 'magnetic fields', ' ', 'thin-film metallization', ' circuit']
-Khimaira
-	Supplier of bus seats. The company also manufactures motor vehicle seats, boat seats, special seats as well as upholstery components.
-	['', 'bus seats', ' ', 'boat seats', ' upholstery']
-Aquarionaute
-	Breeder of ornamental fish. The company breeds, markets and sells ornamental fishes for aquariums.
-	['', 'ornamental fish', ' ', 'fish breeding', ' fish ', 'exotic fish', '']
-Falcon Detection Technologies
-	Provider of housewares equipments. The company manufactures electric housewares and household fans.
-	['', 'houseware equipment', ' ', 'electrical equipment', ' ', 'household fan', '']
-Avalon Photonics
-	Manufacturer of vertical cavity surface emitting lasers (VCSELs). The company manufactures VCSELs for the datacom, sensing and measurement markets. The company also manufactures optical sub-assemblies that are core components in fiberoptic links.
-	['lasers ', 'optical subassemblies', ' ', 'vertical cavity surface emitting lasers', '']
-Lewis Pennicott Design
-	Manufacturer of kitchenware. The company manufactures and sells chopping devices for kitchens.
-	['kitchenware ', 'chopping device', ' ', 'chopping board', '']
-Dino Lift
-	Manufacturer and seller of aerial work platforms. The company manufactures lifts that allows workers to work above ground safely and are sold to more than 40 countries around the world.
-	['', 'lift manufacturing', ' elevator ', 'aerial work platform', '']
-4industries
-	Developer of fiber optic elements for measurements and sensor applications. The company manufactures and sells speed optical analyzer system which is used in manufacturing processes to detect complex material and manufacturing defects without interrupting production.
-	['', 'optic element', ' ', 'speed optical', ' ', 'optical analyzer system', '']
-Molecular Imprints
-	Provider of nanopatterning systems and solutions for hard disk drive. The company manufactures nano-lithography systems for 3-dimensional pattern replication.
-	['', 'nanopatterning system', ' ', 'imprint lithography', ' ', '3-dimensional printing', ' ', 'optical lithography tool', ' semiconductor']
-FXI Technologies
-	Operator of a hardware and software platform. The company manufactures screen connected companion devices for advanced content. It also has developed a product cotton candy which can be used as companion device with smartphones, tablets and notebook.
-	['', 'companion devices', ' content ', 'cotton candy', ' notebook']
-Multi-Sign
-	Developer of signs utilizing digital technology. The company manufactures sign products especially for outdoor use, with durability against corrosion, ultraviolet damage, and scratch resistance.
-	['signs ', 'scratch resistant', ' ', 'corrosion resistant', '']
-Maison Du Chene
-	Manufacture of kitchen and bathroom from oak wood. The company manufactures and markets wooden kitchens, cupboards, bathrooms and inside doors.
-	['', 'oak wood products', '']
-Accutronics (Electronics)
-	Manufacturer of batteries. The company designs, manufactures and sells batteries for high-performance portable and handheld electronic devices  in the medical and healthcare, defense and security and industrial electronic markets.
-	['', 'power products', ' batteries charger ', 'battery design', '']
-MCNEX Company
-	Manufacturer and developer camera module for mobile phones and automobiles. The company manufactures and sells camera modules, wireless charger products, medical cameras, network cameras and home automation products.
-	['']
+Levanta
+	Provider of linux systems management, systems provisioning and software deployment to address management challenges at the operating system level, delivering dramatically faster and more flexible systems management and provisioning.
+	['', 'address management', ' ', 'systems management', ' ', 'technology investment', '']
+Qlusters
+	Developer of linux-based enterprise cluster management software. The company provides open-source systems management solution for software provisioning and managing virtual environments.
+	['', 'cluster management software', ' ', 'open-source system', ' ', 'data center technology', '']
+Kenati Technologies
+	Provider of Linux-based embedded software for networking appliances for the delivery of data and voice over wired and wireless broadband networks. The company develops device software for the home networking market. Its products include components from device drivers, to operating systems, to management interfaces.
+	['', 'embedded software', ' ', 'linux software', ' ', 'networking appliance', ' ', 'wireless broadband', ' ', 'management interface', '']
+Element Energy
+	Developer of software and hardware systems for the management of multi-cell battery systems. The company also provides service for system-in-package (SIP) chips and a system software stack.
+	['', 'multicell battery system', ' ', 'battery management hardware', ' ', 'battery management software', ' ', 'system-in-package', ' ', 'system software stack', ' battery ', 'power electronics', ' ', 'digital control', '']
+Emperative
+	Provider of on-demand multi-vendor network and service provisioning products for access and optical, DSL, cable, and wireless networks. The company\'s products include ProvEn Optical that delivers end-to-end circuits and services over multi-vendor access, core, and long-haul networks, as well as supports SONET, dense wavelength-division multiplexing, Ethernet, and IP; ProvEn Cable for end-to-end self-provisioning and auto-provisioning of cable modem services; ProvEn CMX with integrated dynamic host control protocol capability for cable-centric IP address management; ProvEn DSL, which lets end-users self-provision broadband services and allocate bandwidth on demand in DSL environments; and ProvEn Wireless that delivers integrated provisioning within wireless environments with self-provisioning and bandwidth on demand.
+	['', 'multi vendor network', ' ', 'service provisioning product', ' ', 'network device management', '']

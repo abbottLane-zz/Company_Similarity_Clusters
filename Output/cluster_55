@@ -1,18 +1,36 @@
-Sifteo
-	Developer of tabletop gaming consoles. The company offers Siftables, a set of cookie-sized computers with motion sensing, neighbor detection, graphical display, and wireless communication systems that enable children to play and learn.
-	['', 'B2C services', ' ', 'gaming consoles', ' Siftables ', 'cookie-sized computers', '']
-Art of Crime
-	Developer of riddle based online games for children. The company develops interactive games based on criminal cases for children and their families. Crimeville its newest game launched is a multiplatform, interactive detective riddles for the 6-12 demographic.
-	['', 'online games', ' ', 'interactive games', ' riddles']
-AllAboardToys.com
-	Operator of an online specialty toy store. The company provides family-friendly and educational toys. They also offer wooden toy trains, clothing, bedding products, toys, puzzles, books, birthday party, school supplies, costumes, decorative items and DVD\'s for children.
-	['toys ', 'online toy shop', ' ', 'educational toys', '']
-Explore Technologies
-	Manufacturer of interactive, talking globe known as Odyssey. The company is the maker of a globe which calculates latitude and longitude through a software technology called NearTouch. The globe is marketed as an educational product for children.
-	['', 'educational toy', ' ', 'learning toy', ' ', 'interactive products', ' globe']
-Evi Technologies
-	Provider of voice recognition application. The company also develops internet answer engine where users can access the information from the database of facts.
-	['', 'search engine', ' ', 'online search', ' ', 'search technology', ' ', 'voice recognition application', '']
-Ubooly
-	Provider of iPhone and iPad games for children. The company offers an iOS application and plush toy with voice recognition capabilities that allow children to play educational and interactive games.
-	['', 'interactive media', ' ', 'voice recognition', ' ', 'iPhone application', ' ', 'interactive toy', ' ', 'educational toy', ' ', 'interactive game', ' ', 'iPad toy', ' ', 'iPhone toy', '']
+Virtustream
+	Provider of cloud services and infrastructure services. The company provides cloud services, such as guaranteed resources and capacity on demand, secured private, hybrid clouds, custom management portal, network services, multi-tiered solutions, workload management and departmental level billing.
+	['', 'strategic planning', ' ', 'cloud consultant', ' ', 'hybrid cloud', '']
+Guardium
+	Developer of database security software. The company develops software for preventing information leaks from the data center and ensuring the integrity of enterprise data.
+	['', 'database security', ' ', 'enterprise data integration', ' ', 'information security', '']
+CoSoSys
+	Developer of network endpoint security and portable storage device enhancement solutions. The company also provides portable USB security software solutions that offer flash drive encryption, data synchronization, Outlook synchronization, and biometric data security.
+	['', 'network security', ' ', 'software solution', ' ', 'biometric data', ' ', 'data security', '']
+Clavister
+	Provider of web based security and unified threat management software for physical and virtualized environments. The company offers virtual series network security products for virtual and cloud based security that include virtual private server, virtual private cloud, virtualized co location and hosted data center.
+	['', 'unified threat management', ' ', 'virtual network security', ' ', 'IP-based security', ' ', 'internet protocol', ' ', 'cloud services', ' ', 'security software', '']
+Queplix
+	Developer of information access solutions for retail, manufacturing, telecommunications, energy, software, and healthcare sectors. The company offers QueCloud, which enables customers to extract structured data, business logics, and security access controls, as well as publish cloud-ready J2EE applications to private or public cloud infrastructures; Virtual Data Manager platform that enables users to migrate data from one application to another; and QueSearch for information access and productivity in areas, such as customer care, legal e-discovery, channel partner tools, and Web self-service, as well as Application Software Blades that enable Virtual Data Manager platform to connect to various source applications and data.
+	['', 'information access', ' ', 'data extraction', ' ', 'business logic', ' ', 'data security', ' ', 'data manager', ' ', 'virtual data', ' ', 'cloud infrastructure', '']
+Virtuata
+	Developer of new technology for security software. The company provides innovative capabilities for securing virtual machine level information in data centers and cloud environments.
+	['', 'security software', ' ', 'data center security', ' ', 'information security', '']
+Porticor
+	Provider of cloud data security software. The company provides a software which enables companies to safeguard their data, comply with regulatory standards and streamline operations. The company also offers "Virtual Private Data", which combines data encryption with homomorphic1 split-key management for safeguarding data in public, private and hybrid cloud environments.
+	['', 'cloud computing', ' ', 'cloud data encryption', ' ', 'homomorphic split-key encryption', '']
+Eucalyptus Systems
+	Developer of open-source software platform for implementing on-premise private and hybrid clouds. The company offers Elastic Utility Computing Architecture for Linking Your Programs to Useful Systems (EUCALYPTUS), which implements cloud computing on clusters, as well as delivers hybrid cloud deployments for enterprise data centers.
+	['', 'cloud computing', ' ', 'hybrid cloud', ' ', 'software platform', ' ', 'computing architecture', ' ', 'cluster computing', '']
+Requisite Technology
+	Provider of software for data, e-commerce and channel management. The company provides a platform designed to enable companies to manage information about any type of item, including finished goods for resale, direct materials used in manufacturing, and indirect materials used in maintenance, repair & overhaul (MRO) operations. The software also enables companies to create, collect, align, and enhance data to provide one uniform version of information, regardless of their catalog needs. The platform\'s  patented search capabilities allow users to search aggregated information to find relevant results and have access to item details and images.
+	['', 'channel management', ' ', 'unusable data', ' ', 'integrated business', '']
+Vericept
+	Provider of enterprise risk management solutions. The company develops fraud and identity theft solution designed to help companies safeguard valued customer data, including social security numbers, credit card information and other personal information, from internal and external threats.
+	['', 'data loss prevention', ' DLP ', 'enterprise risk management', ' ', 'data security', ' ', 'fraud solution', ' theft fraud']
+Appcore
+	Provider of local cloud infrastructure for Enterprise Private Clouds and Service Provider Public Clouds. The company provides a converged platform of architecture, automation, administration and appstore designed to be roll-in ready, accelerating the deployment and automating the operations of cloud environments. It simplifies the complexity of cloud technology for data centers, telcos, software vendors and enterprises.
+	['', 'cloud infrastructure', ' ', 'enterprise private Cloud', ' ', 'service provider cloud', ' ', 'cloud computing', '']
+AdMobius
+	Provider of a mobile audience management platform. The company combines data from publishers, from advertiser networks and other aggregators and from third-party data sellers.
+	['', 'mobile audience management', ' ', 'advertiser network', ' ', 'demand side platform', ' ', 'mobile advertising', ' ', 'mobile data', ' ', 'mobile data aggregation', '']

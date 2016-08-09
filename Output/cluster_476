@@ -1,21 +1,24 @@
-EyeLock
-	Provider of identity management technology. The company provides identity authentication-focused systems for border control, logical access, global access control and other identity-management sectors.
-	['', 'iris biometric', ' ', 'security system', ' ', 'identity management', '']
-Trusted Network Technologies
-	Provider of authentication, access control and misuse prevention software. The company develops identity-based network control and audit products.
-	['', 'misuse prevention software', ' ', 'access control', ' ', 'identity based network', '']
-PassMark Security
-	Developer of authentication systems for online banking. The company\'s authentication platform is focused on automated Two-Factor Two-Way Authentication(TM). They offers complete front-to-back system that exceeds FFIEC guidelines with its real-time risk-based analytics, layered security, shared fraud data network, multi-model decision engine, and automated supplemental authentication.
-	['authentication ', 'layered security', ' ', 'automated supplemental authentication', '']
-Network Chemistry
-	Provider of wireless security. The company provides RFprotect Mobile, a portable analysis product that enables network designers and security personnel to design, analyze and secure wireless networks.
-	['', 'Wireless Security', '']
-Validity Sensors
-	Provider of authentication sensors technology. The company offers password replacement, identity verification, centralized management for corporate network security and secure wireless transactions for the protection of portable data and physical access control.
-	['', 'biometric sensor', ' ', 'fingerprint authentication', ' ', 'network security', ' ', 'fingerprint sensor', ' identification ', 'access control', '']
-Lumidigm
-	Developer of identification technology based on optical skin tissue measurements. The company provides biometric identity management for civil identification (ID), point-of-sale, time and attendance, physical and logical access and portable electronic device applications.
-	['', 'identification biometric', ' ', 'fingerprint sensor identification', '  ', 'civil identification', ' ', 'verification optical', '']
-Fidelica Microsystems
-	Developer of fingerprint imaging and authentication technology. The company develops biometric technology for electronic security, access and transaction control.
-	['', 'fingerprint image', ' ', 'biometrics technology', ' ', 'electronic security', ' ', 'smart card', ' ', 'fingerprint sensor', '']
+InteCardia
+	Provider of cardiac-imaging services and equipment to cardiologists. The company provides disease- and practice-management services focused on cardiology and cardiovascular medicine.
+	['', 'cardiac imaging', ' cardiology ', 'cardiovascular medicine', '']
+Quolaw
+	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
+	['', 'law practice', ' ', 'law practice management', ' lawyer']
+AviaHealth
+	Provider of a web-based practice management tool designed specifically for ob/gyns. The company\'s online platform provides patient information and education, including information customized to a woman\'s own needs and internet linkages to facilitate patient\'s interaction with the doctor for routine matters.
+	['', 'practice management tool', ' ', 'internet linkages', ' ', 'patient interaction', ' ', 'online platform', '']
+Clinicare
+	Operator of a healthcare IT company. The company engages in the development and marketing of computerized information services for medical group practices. The company offers electronic medical records (EMR), practice management applications (PMA) that unites billing and scheduling and internet applications such as, web-secure, domain hosting, software enhancement and support services.
+	['', 'electronic medical records', ' EMR ', 'computerized information service', ' ', 'practice management applications', ' PMA']
+US Physicians
+	Operator of a physician practice management (PPM) company. The company is a manager of specialist practices engaged in providing disease management services for cancer patients.
+	['', 'medical practices', ' ', 'ancillary services', ' cancer ', 'disease management', '']
+Wolf Medical Systems
+	Provider of electronic medical records for physician offices and medical clinics. The company offers cloud-based technology that  provides patient information over wireless and wireline networks. The company\'s practice management solutions include wolf billing, scheduler and workflow.
+	['', 'electronic medical records', ' ', 'patient information', ' ', 'wireless and wireline networks', ' ', 'wolf billing', '']
+Datamedic
+	Developer of computer-based patient record and physician practice management systems. The company\'s products and services are used in private practice, physician practice management, management service and hospital network settings for ensuring efficient point-of-care capture and retrieval of healthcare information in order to improve the quality and profitability of their medical practices.
+	['', 'practice management', ' physician ', 'medical practice', '']
+TargetRx
+	Provider of insight into the drivers of physician behavior for pharmaceutical companies.
+	['', 'physician behavior', ' ', 'pharmaceutical marketing', ' ', 'campaign development', '']

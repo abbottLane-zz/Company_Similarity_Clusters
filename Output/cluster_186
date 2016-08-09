@@ -1,27 +1,39 @@
-Adept Cloud
-	Provider of cloud-based file-sharing and collaboration services. The company is the provider of a cloud-managed, private collaboration service, designed to enable security, control and privacy for enterprise communications on multiple devices.
-	['', 'cloud-managed service', ' ', 'collaboration service', ' ', 'internal collaboration', ' ', 'collaboration software', ' ', 'file sharing', ' ', 'file-sharing', '']
-Cypher Genomics
-	Provider of cloud-based genomic analytic services. The company develops a proprietary ranking algorithm that is more effective at disease variant identification compared to other methodologies.
-	['', 'genomic analysis', ' ', 'proprietary ranking algorithm', ' genomics']
-Found Software
-	Provider of a file-sharing and collaboration platform. The company allows users to search for, find and discover their files, documents and data across devices and cloud services.
-	['', 'file sharing', ' ', 'data search', ' ', 'file discovery', ' ', 'data collaboration', '']
-Hojoki
-	Provider of a cloud based applications to solve the problem of information fragmentation. The company supports individuals in tracking application and connects task management and communication with the productivity application.
-	['', 'productivity tool', ' ', 'information fragmentation', ' ', 'collaboration service', '']
-Via Response Technologies
-	Provider of cloud-based classroom tools. The company\'s platform leverages mobile smart devices, tablets and enables student-teacher interaction through the cloud.
-	['', 'teaching software', ' ', 'cloud software', ' ', 'interaction platform', '']
-Dispatch
-	Provider of cloud based data management services. The company provides cloud-based file sharing services. It also offers group email addresses for the projects.
-	['', 'cloud sharing movement', ' ', 'cloud sharing management', ' ', 'cloud file sharing', ' ', 'file sharing', '']
-LiveLOOK
-	Provider of cloud based customer collaboration tools. The company has developed a sales and customer service tool that allows company agents to instantly view a customer\'s screen and provides instant screen sharing sessions for online presentations and collaboration.
-	['', 'collaboration tool', ' ', 'customer service tool', ' ', 'screen sharing platform', '']
-Librato
-	Provider of a cloud-based monitoring platform for development and operations teams. The company\'s platform monitors the metrics and events important to their application deployments, while leaving metrics storage, analysis, annotation and alerts as an easy-to-deploy service that can scale with their operation.
-	['', 'monitoring software', ' ', 'resource management', ' ', 'infrastructure software', '']
-Torbit
-	Provider of a cloud-based website accelerator. The company provides tools to help businesses measure website performance and quantify how speed impacts their revenue.
-	['', 'website accelerator', ' ', 'website performance', ' ', 'website optimization', ' ', 'website management', '']
+Blue H Group Technologies
+	Developer of deep water floating platform technology for offshore wind turbines. The company develops a product that takes wind as a primary resource and converts it into energy. Its floating platform is designed to unlock the vast potential of offshore wind at an economical cost of electricity.
+	['', 'wind turbine', ' ', 'wind electricity', ' ', 'energy infrastructure', '']
+Windcoat group
+	Producer of wind turbines. The company is engaged in the design and manufacture of wind turbines in Norway.
+	['', 'wind turbine', ' ', 'wind turbine manufacturer', '']
+Timbertower
+	Provider of wind-turbine towers made from renewable resources. The company builds and installs wooden towers for large wind turbines.
+	['', 'wind turbine', ' ', 'wooden tower', ' ', 'renewable resource', '']
+Nordic Windpower
+	Provider of wind turbines to wind farm developers and community wind projects in the United States and internationally.
+	['', 'wind turbine', ' ', 'renewable energy', ' ', 'wind farm development', ' ', 'energy generation', '']
+ChapDrive
+	Provider of gearless technology for wind turbines. The company develops drive train services for wind turbines that enables lower weight in the nacelle, simplifies installation and reduces operation and maintenance cost. It also engages in developing hydraulic transmission for wind turbines.
+	['', 'wind turbine machinery', ' ', 'hydraulic transmission technology', ' windmill']
+Proven Energy
+	Manufacturer and supplier of small-scale wind turbines. The company designs, manufactures and markets wind turbines ranging from 2.5 kilowatts to 15kw. The company\'s turbines are designed for an array of applications, from domestic to offshore.
+	['', 'wind turbine', ' ', 'affordable renewable energy', ' ', 'domestic turbine', '']
+Wind & Sail Energy
+	Provider of wind-turbine technology. The company\'s technology helps in solving problems associated with propeller-driven turbines.
+	['', 'energy services', '']
+Goldwind Science & Technology
+	Manufacturer of wind turbines. The company specializes in large megawatt wind turbine research, development and manufacturing of total wind energy services and wind farm investment management.
+	['', 'wind turbines', ' ', 'wind energy', ' ', 'wind farm', '']
+IQwind
+	Developer of gearbox technology for wind turbine applications. The company develops and commercializes a variable speed turbine which increases power generation efficiency and drive train reliability through reduction of loads.
+	['', 'gearbox technology', ' ', 'power generation', ' ', 'variable speed turbine', '']
+Angle Wind
+	Developer of mechanical gearbox and drive train for wind turbines. The company develops eccentric gearboxes and drivetrain technology for offshore and onshore wind turbines.
+	['', 'wind turbines', ' gearbox ', 'drive train', '']
+Blade Dynamics
+	Manufacturer of wind turbine rotors, blade components and surface coatings. The company\'s technology enables blades longer than 90 meters that will enable the next generation of turbines, such as the Sea Titan.
+	['', 'wind turbine rotor', ' ', 'blade component', ' ', 'surface coating', ' ', 'wind turbine', '']
+Viryd Technologies
+	Developer and distributor of power generating turbines and windmills for the wind industry. The company offers drivetrains for residential and commercial wind systems, as well as energy management systems and developer kits. It also provides engineering services, including design, bench, and field testing services.
+	['', 'power generating turbine', ' ', 'renewable energy', ' ', 'commercial wind system', '']
+Cool Power Products
+	Manufacturer and marketer of a load-controller device for alternative power sources. The company manufactures energy & micro-generator managers (EMMAs), supplying them to resellers. The device is designed for use with new and existing grid-connected generators, from domestic to large-scale solar photovoltaic (PV) arrays, wind turbines and hydro turbines.
+	['', 'solar electricity', ' micro-generator EMMA electricity']

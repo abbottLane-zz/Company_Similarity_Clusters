@@ -1,18 +1,18 @@
-BambooTori
-	Operator of a restaurant chain. The company provides Japanese food and serves all-natural chicken, beef, pork and vegetable skewers.
-	['Kushiyaki YAKITORI teriyaki grill meat ', 'skewered meats', ' char']
-Eutraco Logistics
-	Provider of transportation services. The company provides warehousing, logistics and delivery services.
-	['', 'delivery service', ' ', 'transportation service', ' ', 'business products', '']
-AirAsia X
-	Provider of airline services. The company provides passenger and cargo air transportation services.
-	['']
-Star Flyer
-	Provider of air transportation services in Japan. The company provides frequent shuttle services between key Japanese cities for business travelers.
-	['JetBlue airline ', 'air transport', '']
-T-link di Navigazione
-	Operator of a navigation company. The company provider maritime transportation services for goods and civil.
-	['', 'maritime transportation', ' ', 'reservation and catering', ' commercial']
-E-Factor Adventure Tourism
-	Operator of a hot air ballooning company. The company has six hot-air balloons and operates out of Jaipur, Ranthambore and Udaipur in Rajasthan between September and March.
-	['', 'adventure tourism', ' ', 'hot air balloon', ' ', 'leisure service', ' ', 'consumer service', '']
+The Vantra Group
+	Provider of comprehensive internet brokerage infrastructure services. The company\'s technology links investors, brokers, clearing firms and back offices. The company enables financial institutions to get to market in the area of online investments.
+	['“brokerage software” “trading management” “transaction processing” investors ', 'financial institutions', '']
+ePIT
+	Provider of technology for regulated, unregulated and B2B exchanges. The company developed an internet exchange infrastructure for equities, futures, options and cash commodities.
+	['', 'next generation', ' ', 'internet market', ' ', 'information technology', '']
+Gain Capital Holdings
+	Provider of online foreign exchange trading services. The company services fund managers, commodity trading advisers, and professional traders. It also operates forex.com, an online foreign exchange for individual investors that offers trading tools, lower account minimums, and extensive education resources.
+	['', 'foreign exchange', ' forex trading ', 'foreign exchange trading', '']
+Emos
+	Developer of middle middle office financial software. The company specializes in solutions for futures, options and exchange traded derivatives.
+	['', 'financial software', ', ', 'trading services', ', ', 'financial date', ', ', 'futures exchange', '']
+Master Capital Group
+	Provider of financial products and services. The company is a financial firm specializing in online trading and brokerage services. The company enables self-traders, introducing brokers and institutional clients to trade foreign exchange, CFDs, futures, options and fixed income through globally tested platforms. The company does business under the proprietary brand FXCM MENA.
+	['', 'online trading', ' brokerage ', 'self traders', '']
+BuysideFX
+	Provider of a foreign exchange trading platform aimed at the institutional money manager market. The company is a developer of trade-optimization software designed to help buy-side firms improve pre-trade processes, reduce risk and make side-by-side analyses of dealers using key criteria, or measuring them against benchmarks and market averages.
+	['', 'currency conversion', ' ', 'foreign exchange market', ' ', 'foreign exchange trading', ' ', 'FX', ' ', 'trading', ' ', 'currency trading', '']

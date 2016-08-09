@@ -1,39 +1,36 @@
-iSend
-	Provider of bill payment and money-transfer services. The company enables customers to pay utility and wireless phone bills through a network of retailers in the United States. It also processes transactions in Mexico, Brazil, Guatemala, Honduras and El Salvador, as well as satellite and mortgage payments in Mexico, Brazil and Guatemala.
-	['', 'bills payment', ' ', 'money transfer', ' ', 'mortgage payment', '']
-Tranvia
-	Provider of a merchant processing services for card holders.
-	['', 'merchant processing service', ' ', 'credit card processor', ' ', 'credit card transaction', '']
-Balanced
-	Provider of a payment system for marketplaces. The company allows marketplaces to charge cards, escrow funds and collect their marketplace fees.
-	['', 'payment system', ' ', 'online payment', ' ', 'escrow fund', ' ', 'marketplace fee', '']
-Jware Technologies
-	Provider of online payment and card processing services. The company engages in providing an electronic payment transaction processing software for the retail, banking and telecommunication sectors.
-	['', 'electronic payment', ' ', 'transaction processing', ' ', 'card processing', '']
-Dynamic Payment Ventures
-	Provider of payment processing services.
-	['', 'payment', ' ', 'processing services', '']
-Excilan
-	Provider of payment and authentication platform. The company allows mobile subscribers to access and pay for public WLAN services using their mobile telephone numbers.
-	['payment wifi roaming wlan']
-Biotricity
-	Provider of biofuel power-generating and processing services. The company is a biomass-processing, co-generation power station developer. The company is developing a 50-megawatt plant in Rhode, Ireland.
-	['', 'biomass', ' irish ', 'biomass energy', '']
-Branded Payment Solutions
-	Provider of transaction processing services. The company provides a back-end transaction processing platform for retailers in Europe.
-	['', 'transaction processing', ' ', 'retail integration', ' ', 'prepaid transaction', '']
-Braspag
-	Provider of payment processing services for e-commerce and call centers in Latin America. The company integrates all payment methods and consolidates the technical, financial and operational processes.
-	['', 'payment processing', ' ', 'payment methods', ' e-commerce']
-Prefer Network
-	Provider of strategic marketing and list processing services. The company offers a cooperative catalog database which provides organizations with consumer purchasing behavior data.
-	['', 'consumer purchasing data', ' ', 'list processing', ' ', 'collaborative database', ' ', 'transactional data', '']
-Harbor Payments
-	Provider of enterprise invoice, billing, and payments management solutions for the enterprises. The company offers Payment Harbor, a Web-based payment processing platform, which provides centralized concurrent management of various disbursement activities and payment systems; Invoice Harbor that streamlines the process of invoice receipt, handling, presentment, and payment processing; and Billing Harbor, which provides electronic bill presentment and payment solution that allows clients to view and pay their bills online, schedule recurring or automatic payments, and receive their billing data.
-	['', 'bill management', ' ', 'invoice billing', ' ', 'payment solution', '']
-Thriva
-	Provider of online event registration and payment processing software.
-	['', 'event management', ' ', 'event registration', ' ', 'payment processing', '']
-SFG Technologies
-	Provider of software systems and solutions focusing on revenue cycle services for municipalities and power utilities. The company\'s utility management system integrated software consists of various modules, such as customer service, requests for service, service orders, credit collections and deposits, billing and rate management, payment processing and meter reading and consumption.
-	['', 'software solutions', '', 'service orders', '', 'meter reading software', '', 'energy software', '']
+Mahi Networks
+	Supplier of optical networking equipment. The company supplies multi-service metro packet switching, TDM grooming and reconfigurable optical transport systems to service provider customers.
+	['', 'optical equipment', ' ', 'networking equipment', ' ', 'metro packet switching', '']
+Internet Photonics
+	Provider of optical Ethernet transport and switching products for telecom service providers. The company is a supplier of carrier-grade optical Ethernet products.
+	['', 'switching product', ' ', 'network product', ' ', 'optical Ethernet transport', ' ', 'networking device', '']
+IL&FS Transportation & Networks
+	Developer of surface transport infrastructure projects. The company constructs and operates national and state highways, roads, flyovers and bridges, as well as metro rail, bus transportation and border entry points.
+	['infrastructure ', 'infrastructure projects', ' transport ', 'surface transport infrastructure projects', '']
+Cerent
+	Manufacturer of optical transport platform for service provider.
+	['', 'optical equipment', ' ', 'optical transport platform', ' ', 'optical network', ' ', 'scalable transport', '']
+Mintera
+	Provider of high-performance optical transport sub-systems solutions. The company\'s solutions enable deployment of next generation 40 Gbps optical transport in metro-core, regional, long- haul and ultra long-haul optical networks. It primarily serves the carriers, enterprises, educational institutions, and government agencies.
+	['', 'transport subsystem', ' ', 'optical network', ' networking ', 'data transmission', ' ', 'fiber optic', '']
+Azanda Network Devices
+	Operator of a communications semiconductor company. The company develops semiconductors for use in next-generation optical and metro-area networks and multi-service traffic management solutions for routers and switches.
+	['optical ', 'traffic management', ' routers']
+RouteLambda
+	Provider of an optical networking equipment. The company provides outsourced assembly of standardized optical networking equipment and broad base communication equipment in Japan.
+	['', 'optical networking', ' ', 'communication equipment', ' ', 'outsourced assembly', '']
+Tenor Networks
+	Provider of communications equipment that offers service intelligence for optical networks.
+	['', 'communication equipment', ' ', 'optical network', ' ', 'optical switch', ' ', 'optical bandwidth', '']
+Elixent
+	Provider of reconfigurable arithmetic processors. The company offers reconfigurable semiconductor which helps chips to change its functions even when in use. The company also offers silicon devices and supporting software
+	['', 'arithmetic processors', 'chip', 'reconfigurable semiconductor', '']
+Avantry
+	Provider of broadband wireless optical network services. The company offers transmission product line, ranging from low to high capacity, integrating microwave radio and optical transport systems aimed at carrying flexible combinations of SDH, PDH voice and data and ethernet traffic.
+	['', 'transmission product', ' ', 'data transmission', ' ', 'information technology', '']
+Movaz Networks
+	Provider of optical solutions in the United States. The company provides next generation all optical solutions for delivery of cost-effective wavelength services. Its products are designed for metro, regional, enterprise and government networks. The products are carrier-class solutions incorporating optical transport, distributed photonic switching, generalized multiprotocol label switching (GMPLS) protocols, and standards-based network management.
+	['optical wavelength ', 'photonic switching', ' ', 'network management', ' network photonic']
+Xebeo Communications
+	Developer of optical packet switch for metro networks. The company offers switching platforms that deliver packet services with QoS guarantees and manageability.
+	['', 'optical packet', ' ', 'packet switch', ' ', 'metro network', ' ', 'switching platform', '']

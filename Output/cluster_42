@@ -1,12 +1,60 @@
-GenQuest
-	Provider of functional genomics screening for cancer therapeutics and diagnostics. The company\'s technology platform currently consists of proprietary methods to discover genes associated with cancer, response to DNA damage, senescence, cellular proliferation and terminal cell differentiation.
-	['', 'functional genomics', ' genomics ', 'cancer therapeutics', '']
-Z-Tech
-	Developer of cancer screening technology. The company has developed a a system that detects changes in electrical charges that occur when normal tissue undergoes malignant changes. The first use of this technology has been in the development of a medical device for the detection of breast cancer in a screening environment.
-	['', 'monitoring equipment', ' ', 'medical diagnostic', ' malignant']
-Diagnoplex
-	Developer of non invasive colorectal cancer screening tests. The company develops clinical laboratory kits for screening colorectal cancer, as well as for the detection of colon cancer. It also discovers and optimizes biomarker combinations to detect cancer.
-	['', 'cancer screening test', ' ', 'cancer diagnostic', ' ', 'cancer treatment', '']
-Mzt Holdings
-	Manufacturer & developer of cancer diagnostic technologies and products. The company is a biotechnology company, which engages in the development, manufacture, marketing, distribution, and licensing of cancer diagnostic technologies and products. Its products include NMP22 Test Kit and NMP22 BladderChek Test, which are designed to detect the presence of a specific protein marker in urine correlated with the presence of bladder cancer. Its research and development programs include NMP179 program, a nuclear matrix protein associated with cervical cancer and cervical precancerous conditions; NMP66 program to develop a blood-based test for breast cancer; NMP48 program for prostate cancer; and NMP35, a colon cancer program. In addition, it sells allergy and other diagnostic products manufactured by others. The company sells its products directly to physicians, hospitals, clinics, and physician office laboratories in the United States and Germany, as well as to distributors in other parts of Europe.
-	['']
+Outside.In
+	Provider of a data and technology platform that develops, organizes, and distributes hyperlocal news online. The company monitors news, blogs, and discussions on the Web and maps it to offline locations for the discovery and sharing of hyperlocal news and information.
+	['', 'news distribution', ' ', 'technology platform', '']
+Westside Today
+	Publisher and distributor of monthly community news magazines to the upscale communities. They offer information pertaining to celebrities, politics, society, environment and everyday news.
+	['', 'community news', ' ', 'celebrity news', ' ', 'publishing news', ' ', 'monthly news', ' ', 'political news', '']
+Ziff Davis Enterprise
+	Provider of online content, lead generation services, events and publications serving the technology industry. The business unit creates innovative media that targets technology markets with online, events, custom content, eNewsletters, print, virtual tradeshows and eseminars.
+	['', 'online content', ' ', 'custom content', ' ', 'lead generation service', '']
+Alphonso Labs
+	Provider of news reading application platform. The company enables users to consume news on mobile phones and tablets.
+	['', 'news reading application', ' ', 'news application', ' ', 'mobile news', ' ', 'news reader', '']
+Enterproid
+	Provider of an application enabling smartphone users to switch between work and personal use on their devices. The company offers Divide, a BYOD application  enabling users to transform their smartphones into enterprise-ready mobile devices. The platform offers multiple profile support, productivity applications and personal and IT cloud management.
+	['', 'cloud management', ' ', 'enterprise security', ' ', 'secure mobile platform', ' ', 'enterprise mobility', '']
+La Estrella Digital
+	Operator of an e-newspaper. The company provides news on emerging markets, finance, international news, management, politics and technology.
+	['', 'e-newspaper', ' ', 'emerging markets', ' politics']
+YellowBrix
+	Provider of syndicated news content for portals and intranets. The company offers content analytics solutions that provide insight into market and business intelligence on companies, people, products, topics, brands.
+	['', 'syndicated news', ' ', 'news content analytic', ' ', 'content infrastructure service', '']
+Cemmerce
+	Operator of an online commerce platform. The company helps publishers and content creators generate new revenue streams from existing and future online content by automatically convert product references into live commerce links. It’s platform also provides access to real time price comparison data, abandonment rates and conversion rates.
+	['', 'Affiliate Marketing', ' ', 'Automated affiliate marketing', ' ', 'Affiliate link', ' ', 'Content monetization', '']
+Silicon Media Group
+	Provider of news and information for information technology industry. The company also provides personalized and real-time news and information for IT professionals.
+	['', 'online news', ' ', 'information technology', ' ', 'IT news', '']
+ZebraMobile
+	Provider of online news platform. The company provides an application enabling mobile access to personalized news content, advertising and other online content.
+	['', 'news platform', ' ', 'online news', '']
+Viigo
+	Developer of a content mobilization platform. The company offers News and RSS module for news, insights, and blogs; Weather module, which allows users to view the current temperature and forecasts for cities around the world; Sports module that provides live event updates, schedules, and results; and Business and Finance module that enables users to create and follow their own stock portfolio, calculate exchange rates, or even manage their online accounts.
+	['sports weather ', 'finance module', ' ', 'portfolio management', ' weather']
+BiTnews Media
+	Operator of a video news platform. The company is a crowd-powered news channel focusing on decentralization initiatives and technologies such as crypto currencies, P2P energy grids, urban farming, direct democracy, three dimensional printing, decentralized internet, mesh networks and others.
+	['', 'video news platform', ' ', 'digital currency', ' ', 'media platform', ' ', 'decentralized technology', '']
+Cortex
+	Maker of tools for sharing of online content and multimedia.
+	['', 'content sharing', ' ', 'multimedia tool', '']
+Sentica
+	Provider and developer of wireless convergence solutions. The company provides universal application enabling infrastructure for mobile devices enabling communication between any application and any wireless device.
+	['', 'wireless convergence solutions', ' ', 'mobile device', '']
+Individual.com
+	Provider of individually customized news and information that is delivered to business people over the internet. The company collects articles from various news services, sorts them by company and topic and sends a daily news email to each user.
+	['', 'news service', ' ', 'online news', '']
+Angstro
+	Provider of online business news articles. The company offers online information discovering and sharing services.
+	['', 'online information', ' ', 'business news', ' ', 'service sharing', '']
+Chasm.io
+	Provider of an online content marketing network. The company has developed a content matching system that analyzes personal interest graphs, categories of influence and network behaviors that allows content producers to present their content to only those influencers who are most likely to consume and share it.
+	['', 'social networking', ' ', 'startup assistance', ' ', 'startup guidance', '']
+Mochila
+	Operator of an online market place for syndicated content from various content providers. The company’s marketplace contains articles, photos, and videos covering hard news and feature stories on various topics, such as health, business, entertainment, fashion, sports, science, and technology. Its online platform helps publishers to build business, content owners to find new value for their content, and advertisers to reach target audience.
+	['', 'online market place', ' ', 'online platform', ' ', 'publisher platform', '']
+Daylife
+	Provider of a platform for curating, discovering and combining content. The company\'s platform serves some of the media brands and consumer destination websites, including USA Today, Turner Sports, Sky News and the Washington Post.
+	['', 'content discovery', ' ', 'cloud publishing', ' aggregator']
+Handmark
+	Developer of mobile media services for mobile devices. The company offers Tantao News Mobile Reader for BlackBerry smartphones that features global and domestic news generated by Chinese news sources.
+	['', 'entertainment tool', ' ', 'mobile reader', ' ', 'signature rating', ' ', 'online reservation', ' database']

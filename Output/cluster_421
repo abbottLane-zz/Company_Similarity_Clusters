@@ -1,18 +1,12 @@
-AirXpanders
-	Developer of technology for tissue expansion after reconstructive surgery. The company\'s technology primarily enables patients to initiate implant expansion by a wireless remote control unit that activates a small gas reservoir within the implant to release a predetermined volume after the reconstruction surgery.
-	['', 'tissue expansion', ' ', 'reconstructive surgery', ' ', 'implant expansion', '']
-SurgRx
-	Provider of tissue sealing and hemostasis systems for laparoscopic and open surgery. The company makes radio frequency-controlled tissue sealing device. It develops a proprietary nanotechnology designed to control the delivery of electrosurgical energy in vessel sealing instruments. Its product grasps, dissects, seals, and transects tissues; and provides a seal of vessels encountered during laparoscopic and open surgery.
-	['', 'open surgery', ' ', 'tissue sealing', ' ', 'hemostasis systems', ' ', 'laproscopic surgery', ' ', 'electrosurgical energy', ' ', 'vessel sealing', ' ', 'tissue transection', '']
-SurgiQuest
-	Provider of technology services for minimally invasive surgery. The company offers AirSeal, a technology that creates an air curtain that maintains an insufflated and airtight environment and has application in laparoscopic and laparoscopic assisted surgery. It focuses in bariatric, colo-rectal, general, gynecological and urologic surgery.
-	['', 'technology service', ' ', 'minimally invasive surgery', ' ', 'laparoscopic assisted surgery', '']
-Pharmasurgics
-	Developer of an anti-scarring and healing treatment after surgery. The company develops and commercializes a novel treatment for preventing harmful scarring and promoting wound healing after surgery. It\'s product concept is based on proprietary synthetic peptides of human lactoferrin which have strong anti-inflammatory and anti-infectious properties.
-	['', 'anti-scarring', ' ', 'healing treatment', ' ', 'synthetic peptide', ' ', 'anti-inflammatory', '']
-Optical Biopsy Technology
-	Operator of a development stage medical company. The company develops a proprietary software that interprets the laser induced fluorescence of tissue to determine if the tissue is cancerous, pre-cancerous, or benign.
-	['', 'development stage', ' ', 'proprietary software', ' fluorescence']
-Photopharmica
-	Developer of photosensitizer products for medical use. The company provides photodynamic therapy (PDT) which involves the use of a light source of a specific wavelength to activate a photosensitive drug which can kill diseased tissues or infectious organisms. Its products are used for the treatment of microbial disease in wounds and open surgery.
-	['', 'light sensitive drugs', ' photosensitisers ', 'Infectious Disease', '']
+Atego
+	Provider of software tools and professional services. The company helps organizations engineer systems and software.
+	['', 'software tool', ' ', 'application development tool', ' ', 'system engineering', '']
+Syndesis
+	Developer of Operations Support Systems (OSS) software that automates the provisioning process for telecommunications service providers. The company\'s product  helps telecommunication companies bring services to their customers.
+	['', 'Operations Support Systems', ' ', 'Programming Services', ' ', 'software development', '']
+Cramer Systems
+	Provider of telecommunication support systems software. The company provides inventory-based OSS software that accelerates the introduction of new services, enables OSS transformation and reduces cost of ownership.
+	['', 'OSS Software', ' telecommunication inventory-based']
+Extant
+	Provider of carrier transport, OSS interconnect, and clearinghouse solutions to integrated communications providers.
+	['', 'carrier transport', ' ', 'clearing house solution', ' ', 'operational system support', '']

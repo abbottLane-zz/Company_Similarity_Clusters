@@ -1,21 +1,27 @@
-Oxford BioMedica
-	Developer of gene-based medicines and therapeutic vaccines. The company\'s technology platform includes a gene delivery system for the treatment of the diseases of the central nervous system and the eye and a tumor antigen for anti-cancer therapy.
-	['', 'gene-based medicines', ' ', 'therapeutic vaccines', ' ', 'gene delivery system', ' ', 'tumor antigen', ' ', 'anti-cancer therapy', '']
-Ashby BioSystems
-	Developer of a platform technology based on a method for manufacturing porous silicone rubber. The company also engages in the development of cellular support material for applications ranging from themanufacture of vaccines to vascular skin grafts and liver-assisted devices.
-	['', 'cell culture', ' ', 'tissue engineering', ' ', 'cell culture', ' ', 'porous silicone rubber', '']
-BruCells
-	Developer of therapeutic cellular vaccines. The company produces vaccines based on dendritic cells. It also develops cytokines of a clinical nature used in the preparation of cancer vaccines.
-	['vaccine ', 'cancer vaccine', ' ', 'cellular vaccine', ' ', 'therapeutic vaccine', '']
-VectorLogics
-	Developer of virus based cancer therapies and therapeutic vaccines for viral liver diseases. The company utilizes IBDV technology for research on Viral hepatitis and Hepatocellular carcinoma. The company commercializes products for Cancer Virotherapy, Cancer Vaccines, Prophylactic and Therapeutic Vaccines.
-	['', 'Viral hepatitis', ' ', 'Hepatocellular carcinoma', '  carcinoma liver IBDV ', 'Infectious Bursal Disease Virus', '']
-NT Pharma
-	Manufacturer of pharmaceuticals and vaccines. The company provides promotion and sales services primarily for drugs manufactured by global pharmaceutical manufacturers, focusing on anti-infective and CNS products.
-	['vaccines ', 'drug developer', ' ', 'anti-infective', ' ', 'CNS products', '']
-GlycoVaxyn
-	Developer of a portfolio of bioconjugate vaccines to prevent and treat bacterial infections. The company\'s technology enables the development and production of immunogenic glycoproteins (polysaccharide and protein complexes) for use as conjugated vaccines. It has the ability to conjugate any carbohydrate to almost any protein resulting in a well-characterized molecule with high consistency and batch-to-batch reproducibility enabling the targeting of bacterial diseases.
-	['', 'immunogenic glycoprotein', ' ', 'bioconjugate vaccine', ' ', 'bacterial disease', '']
-Cell Genesys
-	Developer of novel biological therapeutic products for patients with cancer.The company pursues three cancer product platforms -- GVAX(R) cancer vaccines, oncolytic virus therapies and in vivo cancer gene therapies. The company provides clinical trials of GVAX(R) vaccines are under way in prostate cancer, lung cancer, pancreatic cancer, leukemia and myeloma.
-	['', 'therapeutic products', ' ', 'cancer treatment', '']
+AdForce
+	Provider of centralized, outsourced ad management and delivery services on the Internet. The company\'s services includes campaign design, inventory management, targeting, ad delivery, tracking, measuring, and reporting capabilities.
+	['', 'ad management', ' ', 'ad delivery service', ' ', 'campaign design', ' ', 'reporting capability', '']
+BitGravity
+	Provider of a high-speed content delivery network. The company provides a content delivery network to supply on demand high-definition video and live streaming. It also accelerate Web sites, serve better performing videos and reliably stream events and 24/7 broadcasts online in high-definition.
+	['streaming ', 'high-speed content', ' ', 'high-definition video', ' broadcast']
+Gravitant
+	Provider of cloud computing services. The company develops software designed to enable the deployment of virtual data centers and business applications by aggregating services from infrastructure-as-a-service providers.
+	['', 'cloud computing', ' ', 'virtual data center', ' ', 'cloud brokerage', ' ', 'cloud marketplace', ' ', 'predictive analytic', '']
+Crystal Canyon Interactive
+	Developer of visual design, content presentation and dynamic technologies. The company provides CD-ROM based applications and presentations to serve their clients.
+	['', 'video production', ' ', 'CD/DVD authoring', ' ', 'content presentation', ' ', 'web solutions', '']
+ChinaCache International Holdings
+	Provider of content delivery network and cloud computing services. The company offers storage and delivery of internet-based applications and interactive content to internet enterprises and multi-national corporations.
+	['', 'content delivery', ' ', 'interactive content', ' ', 'cloud storage', '']
+Intellistream
+	Provider of a video content-delivery platform. The company provides a technology platform enabling delivery of interactive, streaming applications through any available 2G, 3G or 4G mobile network.
+	['', 'video content', ' ', 'content delivery', ' ', 'video streaming', '']
+EdgeCast Networks
+	Provider of media content delivery services. The company provides content delivery network space, helping companies to deliver static content like video, music, games and live streaming.
+	['', 'media content delivery', ' ', 'content delivery network', ' ', 'content management', '']
+Netli
+	Provider of application delivery network services. The company provides network infrastructure as a service, on-demand optimizing application and content delivery while shifting bandwidth, computing and storage requirements.
+	['', 'application delivery network', ' ', 'network infrastructure', ' ', 'content delivery', '']
+Tasmania Networks Systems
+	Developer of network caching software technology. The company\'s technology accelerates content delivery and network performance by localizing traffic patterns.
+	['', 'network caching', ' ', 'content networking', ' ', 'content delivery', ' ', 'network performance', '']

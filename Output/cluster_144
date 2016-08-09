@@ -1,24 +1,96 @@
-Nevada County Wine Guild
-	Provider of wines. The company provides spirits and beers under private label and national brands. It provides certified organic and sulfite-free wine.
-	['', 'organic wine', ' ', 'sulfite-free wine', ' spirit wine beer']
-Pixel Qi
-	Developer and producer of laptop screens. The company offers epaper diagonal screens for netbooks and ebook readers.
-	['', 'laptop screen', ' ', 'epaper diagonal screen', ' ', 'computer part', '']
-AdVentures
-	Operator of a media and music company. The company operates a national broadcast network in malls in the United States.
-	['', 'broadcast network', ' malls ', 'media and music', '']
-NuScale Power
-	Designer of electric light water reactor nuclear power plants for nuclear power generation applications in government and commercial sectors in the United States. The company offers single-unit systems and multi-module facilities.
-	['', 'small modular reactor', ' ', 'nuclear power plant', ' ', 'energy service', '']
-Rehab Associates
-	Provider of physical and occupational therapy services in owned and managed free-standing clinics and hospital departments. The company operates 37 points of service throughout the states of Alabama, Colorado, Georgia, Illinois and Missouri.
-	['', 'therapy service', ' ', 'free-standing clinics', ' ', 'occupational therapy', ' ', 'managed free-standing', '']
-Lightfull Foods
-	Producer of nutritious snacks. The company provides its products through grocery and natural foods stores in United States, as well as online. It also offers smoothies.
-	['', 'nutritious snack', ' ', 'healthy diet', ' ', 'online food store', ' ', 'healthy snacking', '']
-PetStuff
-	Operator of pet food stores. The company operates a pet supply superstores in the Eastern United States.
-	['', 'pet food', ' ', 'pet care', ' ', 'supply chain', '']
-Imperium Renewables
-	Producer of biodiesel from feedstock oils and glycerin, a by-product of biodiesel. The company operates BQ-9000®-certified biodiesel facilities in the United States.
-	['biodiesel ', 'clean energy', ' ', 'green energy', ' ', 'waste management', ' ', 'sustainable fuel', '']
+Zip2
+	Operator of a mobile media company which creates applications that enable business partners to engage and interact with their target audiences via mobile devices. The company operates Zumobi Network, a portfolio of interconnected mobile media applications, which enable user discovery of applications and content, network cross-promotion, and viral distribution, as well as provide reporting metrics on usage and behavior.
+	['', 'mobile media', ' ', 'interconnected mobile media', ' ', 'media application', '']
+XOsphere
+	Developer of mobile content management applications. The company\'s products enables marketers to develop and deploy rich media content to mobile devices. The company\'s services include consulting, conceptual planning, development, deployment, hosting, reporting/analytics, integration and billing and end-user management.
+	['', 'content management', ' ', 'mobile content management applications', ' ', 'rich media content', '']
+MoPowered
+	Developer and operator of transactional systems for mobile commerce, banking and payments. The company provides various software platforms to support retailers at every stage of website integration from site building, inventory cataloging and marketing through to mobile checkout.
+	['', 'mobile commerce', ' ', 'financial serves', ' ', 'outsource services', ' ', 'mobile banking', '']
+vVault
+	Provider of mobile productivity applications and software infrastructure. The company\'s technology platform provides mobile professionals with access to email attachments, native files and paper documents from virtually any wireless device or wired PC.
+	['', 'mobile productivity application', ' ', 'software infrastructure', ' ', 'email attachments', '']
+Cybird
+	Provider of mobile internet services. The company provides mobile internet services geared towards businesses and individual use. Its main activities are to develop mobile sites, mobile marketing, advertising, and mobile commerce.
+	['', 'mobile internet', ' ', 'internet services', ' ', 'mobile marketing', ' ', 'mobile commerce', '']
+iLoop Mobile
+	Provider of mobile coupons and mobile alerts. The company provides mobile services and technology for interactive mobile marketing, mobile advertising and mobile content distribution.
+	['coupon ', 'mobile marketing', ' ', 'mobile advertising', ' ', 'mobile content distribution', '']
+Kickanotch mobile
+	Provider of mobile marketing services and technology solutions. The company’s solutions include mobile applications, code marketing and mobile barcodes, text marketing, mobile video marketing, and mobile Web design.
+	['', 'mobile marketing', ' ', 'mobile advertising', ' ', 'text marketing', ' ', 'PUSH notification', '']
+Whoop, Inc
+	Provider of an online mobile content and application software. The company\'s products enable individuals and companies to create and share mobile content. It comprises of three major parts: the Whoop Creative Suite, the Whoop Management System and the Whoop Agent. The Whoop Creative Suite is a web-based publishing platform for the creation and sharing of mobile content and applications over every wireless network. The Whoop Management System directs the delivery of optimized content to various handsets and includes robust tracking, auditing and analytics. The Whoop Agent is delivered over the air with requested content and resides on the mobile device, acting as an interactive tuner and transmitter for engaging mobile experiences.
+	['', 'mobile application', ' ', 'application developer', ' ', 'mobile content', ' ', 'mobile application developer', '']
+SnipSnap App
+	Provider of an application that scans, saves and redeems printed coupons on mobile phones. The company\'s technology allows users to organize their coupons and be reminded to use their coupons before they expire.
+	['', 'mobile coupon', ' ', 'coupon scanning', ' ', 'scanning application', ' ', 'targeted advertising', '']
+Tira Wireless
+	Provider of porting technology for the mobile content market. The company publishes wireless java applications for mobile phones. The company\'s products includes jump developer desktop, jump deployment manager and assets for mobile content projects.
+	['porting technology']
+ZipDial Mobile Solutions
+	Provider of mobile marketing services. The company provides consumer intelligence platform that drives services such as couponing, friend referrals, on-pack activations.
+	['', 'mobile marketing', ' ', 'mobile marketing', ' ', 'consumer intelligence platform', '']
+Mocean Mobile
+	Provider of mobile marketing services for content publishers, advertisers, ad sellers, affiliates and developers. The company offers self-serve mobile advertising and mobile ad publishing services.
+	['', 'mobile marketing', ' ', 'content publisher', ' ', 'mobile advertisement', ' ', 'mobile content', '']
+Juice Wireless
+	Developer of mobile marketing programs. The company operates JuiceCaster, a mobile and online social media community that allows users to connect with friends, as well as post and share photos and videos from mobile phones.
+	['', 'mobile marketing program', ' ', 'social media community', ' ', 'mobile media', ' ', 'mobile photo sharing', '']
+Scaled Recognition
+	Developer of software for mobile devices that recognizes handwritten images. The company has developed handwriting-recognition technology that works with any image, including scanned paper, and which generates the best results from mobile photos, enabling smartphones to become powerful input devices. The company sells its recognition technology in multiple markets, including document management, mobile development and device input.
+	['', 'handwriting recognition', ' ', 'character recognition', ' whiteboard ', 'device input', '']
+TapCommerce
+	Provider of mobile-retargeting services. The company provides a software platform to help brands engage and convert their mobile audiences, to increase customer-lifetime value.
+	['', 'mobile shopping application', ' ', 'mobile marketing', ' ', 'mobile commerce', '']
+mInfo
+	Provider of multi-transport mobile search services. The company also provides mobile marketing tools to both advertisers and SMEs.
+	['', 'information services', ' ', 'multi-transport mobile search', ' ', 'mobile search', '']
+Department of Behavior and Logic
+	Provider of mobile applications in HTML5. Th company\'s application is used to turn Facebook fan pages into mobile apps.
+	['', 'mobile application', ' ', 'HTML5 application', ' ', 'application development tool', '']
+MobPartner
+	Operater of a mobile affiliate network that connects advertisers with their audience worldwide. The company provides performance marketing services for advertisers and agencies, mobile publishers, application developers and media buyers.
+	['', 'mobile advertising', ' ', 'mobile affiliate network', ' ', 'mobile performance marketing', '']
+Tedemis
+	Developer of personalized mobile marketing service. The company develops personalized mobile phones with integrated service portals.
+	['', 'personalized mobile marketing', ' ', 'service portal', ' ', 'marketing service', ' ', 'business software', '']
+AdJitsu
+	Provider of mobile display advertisement.
+	['', 'mobile display advertisement', ' ', 'advertisement network', ' ', 'mobile application', '']
+JustChalo
+	Provider of a mobile technology focused on US restaurant industry. The company provides an application for reservations to be made on mobile devices for diners.
+	['', 'mobile technology', ' ', 'restaurant mobile payment', ' ', 'restaurant iphone application', '']
+Salsa Systems
+	Provider of visual development platforms for mobile applications. The company\'s technology and services facilitates mobile e-business and it enables enterprises to extend their existing data to anyone with a personal digital assistant (PDA) or other wireless device.
+	['', 'visual development platforms', ' ', 'mobile e-business', ' ', 'software platform', '']
+LOC-AID Technologies
+	Operator of a mobile location platform. The company allows mobile developers to locate their customers for enterprise authentication, fraud management and hyper-local marketing.
+	['', 'mobile location', ' ', 'location-based service', ' ', 'location-as-a-service', '']
+Code Square
+	Provider of a mobile marketing platform to small and medium enterprises. The company allows businesses to leverage social engagement by rewarding customers for their loyalty. It also provides offline to online mobile services for businesses to engage and reward customers, connect via social media and lower acquisition costs.
+	['', 'mobile platform', ' ', 'medium enterprise', ' ', 'customer reward', '']
+SendMe
+	Provider of wireless entertainment applications. The company provides direct to consumer mobile entertainment services. It provides interactive mobile trivia, ringtones, wallpaper, and mobile sweepstakes. It also provides horoscopes, jokes, gossips, romance tips, sports trivia, pick-up lines, diet tips, daily inspirations, and fan clubs.
+	['', 'wireless entertainment applications', ' ', 'mobile entertainment services', ' ', 'social content', ' ', 'mobil services', '']
+Cellnext Solutions
+	Provider of mobile VAS and enterprise services for mobile operators, media companies, and content providers enterprises. The company offers CellPAY, a mobile payment platform that enables customers to make payments using their mobile phones; CellMONEY, a mobile electronic pre-paid voucher that is distributed electronically via mobile phones; Wizone, a Web-based application for running text message mobile; cellPUSH, which allows high volume outgoing messages; Cellxpress shortcode platform, WHICH captures incoming messages on short access numbers and mobile content sale; Global Messaging Engine, which captures incoming messages and focuses on providing access numbers to the end users; cellDIAL, which enables automated out dial calls for enterprises; and cellPAPER, an MMS based platform that provides a new idea to publish rich content on mobile.
+	['', 'mobile payment platform', ' ', 'mobile VAS', ' ', 'mobile advertising', ' ', 'product authentication', '']
+POPs
+	Provider of mobile alerts and applications on Android smartphones. The company application enables Android users to personalize incoming message alerts, facebook, e-mail, whatsApp on the mobile phones.
+	['Android ', 'mobile alert', ' smartphones ', 'mobile phone', '']
+Openera Technologies
+	Provider of mobile application handset services for converged mobile networks. The company enables the delivery of various multimedia IP communication services on mobile devices.
+	['', 'mobile application', ' ', 'mobile service', ' ', 'multimedia IP communication', ' ', 'mobile device', '']
+Teltier Technologies
+	Provider of protection for mobile networks and the privacy of their subscribers. The company provides mobile network infrastructure platforms for secure presence and availability management.
+	['', 'mobile network', ' ', 'mobile network infrastructure', ' ', 'mobile network operator', '']
+Beijing Li Mei Technology
+	Provider of mobile marketing services. The company provides mobile internet advertising services using data mining technology.
+	['', 'mobile platform', ' ', 'mobile internet services', ' ', 'mobile internet advertising', '']
+iMedeon
+	Provider of wireless web applications for mobile workforce management. The company\'s software suite is designed to optimize scheduling, routing and facilitate the dispatching and management of mobile workforces.
+	['', 'wireless web applications', ' ', 'web-enabled', '']
+Milk
+	Provider of a mobile development lab. The company enables developers to experiment with mobile applications.
+	['', 'application development', ' ', 'application lab', ' ', 'application testing', '']

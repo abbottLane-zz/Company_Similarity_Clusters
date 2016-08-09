@@ -1,36 +1,27 @@
-Sim Skin
-	Manufacturer of medical surgery training tool. The company manufactures surgical training model useful in surgical training.
-	['', 'surgical training tool', ' ', 'surgical training model', ' ', 'medical device', '']
-Samna
-	Developer of word processing software for personal computers. The company serves as the springbroad for an all-out expansion into word processing.
-	['', 'processing software', ' ', 'personal computer', ' word']
-Logic Instrument
-	Manufacturer of computer and electronic equipment. The company develops and markets portable personal computers and handheld devices in France.
-	['', 'smart phone', ' ', 'electronic equipment', ' ', 'personal computer', '']
-Mashmobile Sweden
-	Operator of an information technology company. The company offers software products for direct content between mobile phones, personal digital assistants, laptops and personal computers.
-	['', 'mobile phones', ' ', 'streaming music', ' ', 'personal digital', '']
-Emissary Systems
-	Developer of communication software. The company produces software which enable communication among personal computers.
-	['', 'personal computers', ' ', 'online communication', '']
-Pyramid Technology
-	Manufacturer of virtual memory super mini-computers. The company manufactures 32-bit virtual memory super mini-computer for sale to engineering, scientific and military applications.
-	['', 'mini computers', ' ', 'super mini computers', ' ', 'computer manufacturers', ' computer']
-Xplore Technologies
-	Developer of wireless tablet PC. The company provides rugged mobile personal computers and docking systems for both the commercial and military market.
-	['', 'wireless tablet', ' ', 'personal computer', ' ', 'mobile computer', ' ', 'docking system', '']
-Everex Systems
-	Provider of design, engineering, manufacture, and sale of personal computers. The company produces laptops, desktops and computer accessories such as batteries and adaptors.
-	['', 'computer manufacturing', ' ', 'personal computers', ' ', 'laptops desktops', ' ', 'batteries adaptors', '']
-OQO
-	Developer of handheld mini-personal computers. The company manufactures model 01 and model 01+ ultra personal computer.
-	['', 'mini computer', ' ', 'ultra personal computer', ' ', 'personal computer', '']
-Connected
-	Provider of a website that manages personal relationships.
-	['', 'contact management', ' ', 'social integration', ' ', 'relationship management', '']
-Ponte Solutions
-	Developer of model-based software products and design-for-manufacturing solutions that analyze, predict and reduce the impact of process variability during the manufacture and design of semiconductors.
-	['', 'semiconductor software', ' ', 'manufacturability solution', ' ', 'design automation', ' ', 'IC design', '']
-Acumos
-	Manufacturer of semiconductor devices for the personal computer graphics industry. The company manufactures and developes semiconductor devices for personal computer and graphics of computers.
-	['', 'semiconductor device', ' ', 'computer graphic', ' ', 'personal computer', '']
+GetBack Media
+	Provider of an online community for sharing pop culture. The company collects music, movies, TV shows, games, and novelties.
+	['', 'entertainment community', ' ', 'pop culture marketplace', ' ', 'online media content', '']
+DocMorris
+	Provider of an online drugstore. The company operates an online pharmacy store serving the German market.
+	['', 'online drugstore', ' ', 'drug distribution', ' ', 'drug sales', ' ', 'online drugs', ' ', 'online pharmaceutical', ' ', 'pharmaceutical sales', ' pharmacy']
+Loopport
+	Provider of an online music sample library. The company provides a library of every genre of computer based music to musicians, producers and DJ\'s.
+	['', 'online music', ' ', 'music library', '']
+Indicee
+	Provider of a platform that helps business users to organize, analyze and share business data in an online community. The company operates an online application that allows users to merge data from various business systems, reports and spreadsheets, as well as analyze and share that data with co-workers, colleagues and customers in an online environment.
+	['', 'business sharing', ' ', 'data analysis', ' ', 'data sharing', ' ', 'data merge', '']
+Rawporter
+	Provider of online raw video and photos. The company provides photos and videos that are shared online.
+	['', 'online video', ' ', 'online sharing', ' ', 'online photo', '']
+Fotocommunity
+	Provider of an online platform for uploading and sharing photographs. The company\'s website serves as an online community for both amateurs and professional photographers to showcase their photographs.
+	['photography ', 'upload photos', ' ', 'photography exhibition', '']
+Nerve.com
+	Provider of online dating platform. The company offers online dating and social content. It provides online community for original, award-winning stories, features and photography, as well as discerning coverage of the films, television, books and music.
+	['', 'social content', ' ', 'dating destination', ' coverage']
+Imeem
+	Provider of online music, videos and photos. The company operates as an online community for musicians, directors, photographers and groups.
+	['', 'Internet software', ' music video photo']
+Lefora
+	Provider of a platform that allows members to create public and private forums and add videos and photos. The company allows members to create animal, automotive, business and professional, computer and Internet, culture and community.
+	['', 'public forum', ' ', 'private forum', ' ', 'web discussion', ' ', 'online forum', '']

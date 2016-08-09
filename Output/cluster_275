@@ -1,27 +1,21 @@
-VCON Video Conferencing
-	Provider of video-conferencing systems and products. The company offers standards-based systems and infrastructure, which are operated over a variety of networks. The company sells internationally through a global distribution network to business enterprises, government agencies, financial institutions, broadcasters, universities and colleges, distance learning companies, health-care organizations, and satellite companies.
-	['', 'videoconferencing products', '  videoconferencing']
-Netviewer
-	Vendor of desktop sharing service, web conferencing. The company is known for providing software which gives Internet users a live view of a partner\'s screen so that text, spread sheets, graphics and other documents can be jointly discussed and edited.
-	['', 'desktop sharing', ' ', 'web conferencing', ' ', 'online meeting', ' ', 'web collaboration', '']
-AVM Software
-	Provider of video enabled chat room service. The company offers public screening rooms, which allows its users to enter a chat room and watch a streaming video together while chatting.
-	['', 'chat room service', ' ', 'video watching', ' ', 'online chatting', '']
-Webdialogs
-	Provider of voice and web conferencing solutions. The company provides facilities for organizing  online meetings. The company facilitates voice, video and Web conferencing, data collaboration, and Web callback solutions.
-	['', 'video conferencing', '']
-Imidio
-	Developer of internet communication software for audio and Web conferencing. The company offers products such as Instant Collaborators that enables teleconferencing, Web conferencing, instant messaging, data sharing, and application sharing.
-	['', 'communication software', ' ', 'web conferencing', ' ', 'instant messaging', ' ', 'data sharing', ' ', 'application sharing', '']
-Sonexis
-	Provider of an in house audio conferencing bridge with integrated Web conferencing, which enables businesses to run audio conferencing in-house.
-	['', 'audio conferencing', ' ', 'integrated Web conferencing', ' ', 'in house conferencing', '']
-Meetings.io
-	Provider of group video conferencing and chat services. The company provide web application for chat with friends, co-worker without installing any software or signup with any social network.
-	['', 'group video conferencing', ' ', 'chat service', ' ', 'online video', '']
-Proximity (Vermont)
-	Provider of video conferencing services and public video room rentals. The company also provides audio conferencing and Web conferencing services. The company serves businesses, state and federal government agencies, non-profit organizations, executive search firms, consultants, lawyers, accountants, and HR professionals.
-	['', 'conferencing services', '']
-Margi Systems
-	Provider of multimedia products for mobile systems. The company develops products in the areas of video capture, TV capture, video conferencing, DVD decoding, DVD authoring, personal video headsets and display adapters.
-	['', 'multimedia product', ' ', 'video capture', ' ', 'personal video headset', ' ', 'sound peripherals', ' ', 'electronic parts', '']
+NOXA Holdings
+	Manufacturer of satellite GPS asset-tracking and messaging products. The company\'s products include SMARTONE that is used to track assets specific needs and provide intermediate and emergency alerts by email and/or text or cellular; AXTracker STX2 Satellite Transmitter, an industrial-use satellite transmitter; AXTracker MMT, a wireless device with multiple sensors and Globalstar Satellite System, a constellation of low earth-orbiting satellites that relay messages to ground stations to provide GPS location data.
+	['', 'gps tracker', ' ', 'satellite gps', ' ', 'tracking device', ' ', 'messaging product', ' ', 'email alert', ' ', 'satellite transmitter', ' ', 'wireless device', ' ', 'satellite system', '']
+Hughes Network Systems
+	Provider of broadband satellite networks and services to large enterprises, governments, small businesses, and consumers. The company offers satellite based communications services and equipment that utilize very small aperture terminals (VSATs) to distribute signals via satellite. It also offers satellite-based enterprise and consumer networks, mobile satellite networks and terminals, and broadband LMDS point-to-multipoint systems.
+	['', 'broadband satellite', ' ', 'satellite network', ' ', 'communications service', '']
+NordNav Technologies
+	Developer of Global Navigation Satellite System receivers.
+	['', 'Global Navigation', ' ', 'Navigation Satellite', ' ', 'Satellite System', ' ', 'satellite receivers', ' ', 'navigation system', ' GPS ', 'galileo navigation', '']
+SkyWave Mobile Communications
+	Provider of satellite communication and airtime services. The company provides satellite and satellite-cellular terminals, applications, network and professional services for mobile and fixed remote industrial tracking, monitoring, control and management.
+	['', 'satellite communication', ' ', 'satellite-cellular terminal', ' ', 'remote industrial tracking', '']
+RealLife HR
+	Provider of outsourced benefits management automation services. The company provides a suite of Web-applications and professional services that facilitate employee benefits communication, enrollment and ongoing administration.
+	['', 'benefit management', ' ', 'outsourcing automation management', ' ', 'employee enrollment management', ' ', 'benefits management', ' ', 'employee benefits', '']
+S5 Wireless
+	Developer of wireless communication and tracking system. The company also developed terrestrial-based technologies that enable highly accurate, low-cost and power-efficient wireless tracking, monitoring and control services.
+	['', 'wireless communication', '']
+F-Origin
+	Provider of touchscreen, motion control technologies for mobile and fixed display devices.
+	['', 'motion control', ' ', 'interface solution', ' ', 'mobile device', ' touchscreen']

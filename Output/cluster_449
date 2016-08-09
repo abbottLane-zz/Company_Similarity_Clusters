@@ -1,21 +1,15 @@
-Infineta Systems
-	Developer of network optimization products. The company provides Velocity Dedupe Engine, a hardware deduplication/dedupe engine to identify and remove redundancies in network traffic. It also offers wide area network acceleration solutions, such as data protection for synchronous and asynchronous replication, and network backup; virtual machines (VM) mobility for live migration over distance and VM disk transfers; and big data workflows for scale-out applications and file transfers.
-	['', 'network optimization', ' ', 'hardware deduplication', ' ', 'data protection', ' ', 'synchronous replication', ' ', 'asynchronous replication', ' ', 'virtual machine mobility', ' ', 'network backup', '']
-Slipstream Data
-	Provider of acceleration, compression and network optimization technology for dial, fixed and wireless broadband networks. The company uses its patented technology the SlipStream Acceleration & Optimization Engine to provide web, email and multimedia acceleration solutions.
-	['', 'network optimization technology', ' ', 'data compression', ' ', 'broadband networks', ' ', 'SlipStream Acceleration & Optimization Engine', ' ', 'multimedia acceleration', '']
-Expand Networks
-	Provider of wide area network optimization and application accelerators to enterprises and public sector clients. The company offers a virtual WAN accelerator appliance, a central management software for accelerators and an accelerator operating system.
-	['', 'wide area network optimization', ' ', 'application accelerators', ' ', 'management software', '']
-Swan Labs
-	Provider of enterprise wide area network optimization and application acceleration solutions. The company\'s products include WANJet that accelerates file transfer, email, client-server applications, data replication, and custom applications; Web Accelerator, a Web application acceleration solution for mobile workers, extranet users, and business partners; and SL Appliances, which drives application acceleration solutions that deliver LAN-like performance to application users in various remote locations and enterprise applications on the wide area networks.
-	['', 'WAN optimization', ' ', 'application acceleration', ' ', 'file transfer acceleration', ' ', 'client server application', '']
-ASPEED Software
-	Provider of application acceleration and optimization solutions. The company provides solutions for accelerating applications for multi-core, multi-CPU, cluster and grid configurations.
-	['', 'risk management application', ' ', 'application acceleration', ' ', 'application optimization', '']
-Sync Research
-	Manufacturer and developer of wide-area network (WAN) access and management products. The company manufactures local network protocol converters, device, router, circuit management product and digital transmission device for wide-area network (WAN).
-	['', 'wide-area network', ' router ', 'local network protocol', '']
-Phurnace Software
-	Provider of Java application deployment. The company\'s products include Phurnace Deliver, which eliminates configuration-related errors and reduces dependency on scripting. It’s products also include Phurnace WebSphere Portal Deliver, which handles the dependencies that is managed when making changes to or releasing new portlets, applications, themes, skins, and contents. In addition, it offers on-site training services to improve Java application deployments. It’s solutions automate Web application deployments ranging from installation to deployment to upgrades, as well as eliminating manual error-prone processes.
-	['', 'java application', ' ', 'enterprise management', ' ', 'automation software', '']
+Silicon Biosystems
+	Provider of technology to study single cells for culture or molecular analysis. The company is the developer of DEPArray technology, enabling researchers to study rare cells and to determine the biological significance of subpopulations of cells within a sample. It also focuses on facilitating advances in personalized medicine by enabling the isolation, recovery and analysis of individual, viable rare cells.
+	['heterogeneity ', 'cell-biology', ' ', 'rare cell', ' ', 'biological significance', ' ', 'single cell', ' ', 'molecular analysis', '']
+CarouCell
+	Developer of equipment for in vitro drug-testing methods. The company is the creator of a novel, single-use perfusion bioreactor, to create three-dimensional cell cultures for research. Its device, which grows cells in an extra-cellular matrix that supports three-dimensionality, has been developed as an improvement over the standard two-dimensional environment of cells cultured in petri dishes.
+	['bioreactor ', 'three dimensional cells', ' ', 'pharmaceutical industry', '']
+Amnis
+	Manufacturer of cell analysis systems for the imaging and analysis of cells in flow. The company’s ImageStreamX and FlowSight imaging flow cytometers combine the speed and sensitivity of flow cytometry with the power of digital microscopy serving a broad spectrum of Life Sciences research market needs.
+	['', 'cell analysis system', ' ', 'biomedical research', ' cytometry apotposis ', 'immune synapse analysis', ' ', 'cell morphology', '']
+Charisela Technologies
+	Developer of assays for flow cytometers. The company engages in research and development of assays that allows users to to run high concentration samples within an hour.
+	['', 'flow cytometers', ' ', 'high concentration samples', ' assays']
+Acoustic Cytometry Systems
+	Developer of  molecule sensitivity flow cytometers. The company has developed a method to use sound waves to guide cells through cytometers, or cell meters, to allow researchers to examine tissue samples for medical diagnostics.
+	['', 'cytometry instruments', ' ', 'clinical diagnostics', ' research']

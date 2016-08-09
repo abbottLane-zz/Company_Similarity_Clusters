@@ -1,27 +1,27 @@
-BeautyCom
-	Provider of a platform which offers its customers beauty products & helps them to discover the products of different brands before buying. The company offers its subscribers a beauty magazine, JolieMag and are invited to the parties, JoliApéros.
-	['', 'beauty product', ' ', 'online product shopping', ' ', 'beauty magazine', '']
-Total Beauty Media
-	Operator of a website that publishes a catalog of beauty products online for women. The company’s portal provides information about face, makeup, hair, and body products, such as anti-aging, foundations, mascaras, moisturizers, shampoos, sunless lotions, and conditioners. It also hosts events for fashion and beauty brands.
-	['', 'beauty product', ' ', 'product review', ' ', 'online beauty portal', ' ', 'beauty product catalogue', ' ', 'fashion brand', '']
-Dealised
-	Operator of an online group-buying platform. The company offers a group-buying technology for media and telecommunication firms, publishers and retailers.
-	['', 'group buying', ' ', 'daily deals', ' ', 'payment gateway', '']
-iGet.it
-	Operator of an online private buying club of exclusive products. The company provides opportunity to members to buy exclusive products for a limited period of time.
-	['', 'online buying', ' ', 'online retail store', ' ', 'electronic commerce', '']
-AdzCentral
-	Developer of a scientific media buying platform. The company offers automated digital ad buying, campaign measurement, analytics, and visitor profiling.
-	['', 'media buying', ' ', 'ad-matching', ' ', 'programmatic buying', ' ', 'smart media buying', '  ', 'campaign measurement', '']
-Taggle Internet Ventures
-	Operator of online group buying platform. The company enables consumers to buy products and services from businesses ranging from food and beverage, wellness, beauty and sports products to travel and entertainment services. The company also allows merchants to sell products in bulk volume.
-	['', 'buying platform', ' ', 'entertainment service', ' ', 'online retail', '']
-Visibli
-	Provider of Web based technology to promote products. The company\'s engagement bar gives companies a tool to extend their reach, while providing consumers with content, promotions and e-commerce opportunities to sell their products and services.
-	['', 'social Marketing platform', ' ', 'analytics platform', ' ', 'social media engagement', '']
-PortugalRes
-	Operator of an online booking platform. The company also distributes products to travel agencies and tour operators worldwide.
-	['', 'ticket booking', ' ', 'travel product', ' ', 'online travel platform', '']
-Foodoro
-	Provider of an online platform to sell food products. The company allows merchants to sell artisanal food products through their website.
-	['', 'artisanal food', ' ', 'food product', ' ', 'gourmet food', '']
+Pertinence
+	Provider of predictive, rules-based data-mining solutions. The company provides Enterprise Manufacturing Intelligence (EMI) software solutions and analytical solutions that enable manufacturers, operators, and maintenance organizations to meet their business goals while addressing inherent industry challenges and realizing unprecedented ROI.
+	['data ', 'enterprise manufacturing', ' ', 'artificial intelligence', ' ', 'analytical solution', '']
+VividLogic
+	Provider of Home Entertainment Software for HDTV and HD STB. The company\'s comprehensive software infrastructure and applications for HDTV cover the basic ATSC software stack, Cable Card software and the next generation OCAP software and related OCHD 2.0 software.
+	['', 'home entertainment', ' ', 'high definition TV', ' ', 'set top box', '']
+Westwave Communications
+	Developer of software solutions. The company develops software solutions that enable Local Exchange Carriers (LECs), hardware vendors, and Independent Software Vendors (ISVs) to implement converged services quickly, at the lowest-cost entry point in the network, and with minimal operational impact. The company provides carriers with a smooth migration path and an adaptive, responsive network that speeds time to market and improves the bottom line.
+	['', 'electronic switches', ' ', 'telecommunications network solutions', ' ', 'hardware vendors', ' ', 'virtual switching technology', '\\n', 'media gateway', ' ', 'media servers', '']
+Double-Take Software Canada
+	Provider of software solutions for data protection and recovery. The company serves legal, educational, government, finance, and healthcare industries.
+	['', 'software services', ' ', 'data recovery', ' ', 'data protection', '']
+Neverfail
+	Provider of data protection and disaster recovery software. The company develops software solutions that enable users to remain continuously connected to the live software application irrespective of hardware, software, operating system or network failures.
+	['', 'data protection', ' ', 'security software', ' ', 'disaster recovery', ' ', 'disaster recovery software', '']
+Everdream
+	Provider of on-demand software and managed services for desktop management. The company provides software-as-a-service (SaaS) solutions for remote-service management. It offers compliance software services suite that provides visibility into hardware and software assets, tracks software license usage, and automates the distribution of software to ensure regulatory compliance to the computers; and up-time software services suite that provides protection against Internet attacks, hackers, and loss of critical data through malware protection, patch management, and online data backup services.
+	['', 'desktop management', ' SaaS ', 'on demand software', ' ', 'service management', ' ', 'remote-service management', ' ', 'compliance software', ' ', 'software license', ' ', 'internet protection', ' ', 'malware protection', ' ', 'patch management', ' ', 'data backup', '']
+PINS Group
+	Provider of hosting and managed services. The company offers a range of services and specializes in network infrastructure, network and internet connectivity and DNS, backup and recovery, fire walling and load balancing, server hardware, operating systems and utility software, application server and database services.
+	['', 'Network infrastructure', ' ', 'hosting services', ' ', 'managed services', '']
+FSB
+	Developer of remote-control systems for devices connected to the electric network. The company is an integrator of hardware and software systems for remote control of lighting, temperature, security and other parameters associated with the management of buildings, equipment and general environment. The company is capable of managing and controlling, through the Internet, any equipment or device connected to the power grid.
+	['', 'software system', ' ', 'remote control', ' ', 'technology system', ' ', 'Building Management', ' ', 'building automation', '']
+Previo
+	Provider of software products designed to provide personal computer recovery from software virus or hacker attacks, software failures or glitches, thefts, losses, and broken equipment.
+	['', 'software product', ' ', 'computer recovery', ' ', 'hacker attack', ' ', 'software failure', ' ', 'broken equipment', '']

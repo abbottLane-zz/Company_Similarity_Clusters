@@ -1,15 +1,45 @@
-Etablissements Leveau
-	Producer of alcoholic beverages. The company produces Abbey of Alder, a beer.
-	['', 'alcoholic beverage', ' beer ', 'alcohol drink', '']
-Moa Group
-	Producer and distributor of beverages. The company produces beer, wines and cocktails, employing methode traditionnelle brewing techniques.
-	['', 'beer and wine', ' ', 'cocktail drink', ' ', 'boutique brewer', ' ', 'brewing technique', ' ', 'beer market', ' ', 'alcoholic beverage', '']
-Innocent Drinks
-	Manufacturer and marketer of fruit smoothies and vegetable entrees. The company provides a line of branded health-food products that include juice smoothies, waters, juice and low-calorie noodle-vegetable pots.
-	['', 'natural drink', ' ', 'fruit juice', ' smoothie']
-Northland Cranberries (Branded Juice Business)
-	Developer of branded cranberry beverages. The company is the owner of juice brands such as northland, treesweet and awake.
-	['fruit juice cranberry']
-IZZE Beverage
-	Manufacturer and marketer of fruit juice beverages. The company also provides apparel, accessories and glassware to the consumers through its online store.
-	['', 'online store', ' ', 'soft drinks', ' ', 'fruit juice', '']
+Verrillon
+	Manufacturer of specialty optical fibers and components for oil and gas, military, avionics, industrial and communications market. The company offers harsh environment fibers, gyroscope fibers, communications fibers, fiber laser fibers, index multimode optical fibers, avionic cabled fiber, polarization-maintaining fibers and rare-earth doped fibers. It also provides fiber in metal tube, which is the process of encapsulating optical fibers within a hermetically sealed metal tube for protection against the hydrostatic pressures, high temperature effects and corrosive environments associated with down-hole fiber optic sensing applications.
+	['', 'optical fiber', ' ', 'gyroscope fiber', ' ', 'communication fiber', ' ', 'fiber laser glass', '']
+Corella Electric Wire & Cable
+	Manufacturer and supplier of telecommunication and electrical cables. The company is in the miscellaneous fabricated wire products industry and a Hispanic-owned manufacturing firm based in Phoenix.
+	['', 'Wire Product', ' ', 'fiberoptic product', ' ', 'Electrical Equipment', ' ', 'telecommunication cable', ' ', 'Cable wire', '']
+Concord Data Systems
+	Manufacturer of telecommunication equipment. The company designs and sells broadband and carrierband modems, network management tools to the telecommunication industries.
+	['', 'telecommunication equipment', ' modem ', 'network management', '']
+All Optical Networks
+	Provider of technology and services to the telecommunication industry. The company provides transmission, routing and storage of information through optical fiber networks.
+	['', 'optical fiber', ' routing ', 'information storage', '']
+Photonics Applications
+	Manufacturer of fiber-optic transmission technology for cable and wireless communications networks. The company also provide design, development and consulting services in fiber-optic transmission technology systems.
+	['', 'fiber-optic transmission', ' ', 'wireless communication', ' technology']
+Global Metro Networks
+	Provider of building and fiber optic communications networks in metropolitan commerce centers in the United States and internationally. The company\'s bandwidth communications infrastructure connects various telecommunication-intensive locations, such as local switching offices, carrier points-of-presence, ISPs, commercial buildings and high technology office parks.
+	['', 'fiber optic communication', ' ', 'fiber optic cable', ' ', 'fiber optic network', '']
+Surveylab Group
+	Developer of data capture hardware devices for the power and telecommunication industry, military and government organizations. The company offers a handheld data capture device that survey assets in the field and store data about those assets in a map database system. It also develops remote measurement and three dimensional modelling hardware and software systems.
+	['', 'data capture device', ' ', 'modelling hardware', ' data storage']
+Falcon Detection Technologies
+	Provider of housewares equipments. The company manufactures electric housewares and household fans.
+	['', 'houseware equipment', ' ', 'electrical equipment', ' ', 'household fan', '']
+Omnia Communications
+	Manufacturer of integrated voice and data access multiplexers. The company transport solutions to deliver data efficiently over fiber optic networks.
+	['', 'access multiplexers', ' ', 'integrated voice', ' ', 'fiber optic', ' network']
+WizBill
+	Provider of an expert system for the telecommunication industry. The company offers a platform for billing and addresses issues such as customer acquisition, customer retention and pricing optimization leading to improved customer satisfaction.
+	['', 'saving advisory', ' ', 'customer acquisition', ' ', 'pricing optimization', '']
+4industries
+	Developer of fiber optic elements for measurements and sensor applications. The company manufactures and sells speed optical analyzer system which is used in manufacturing processes to detect complex material and manufacturing defects without interrupting production.
+	['', 'optic element', ' ', 'speed optical', ' ', 'optical analyzer system', '']
+Voopii Mobile
+	Developer of telecommunication technologies. The company develops wireless routers, mobile WiFi devices and other international data communication products.
+	['', 'telecommunication technologies', ' router ', 'WiFi device', '']
+Positron Fiber Systems
+	Manufacturer of telecommunication equipments. The company develops fiber-optic multiplexers for the telecommunication industry.
+	['', 'fiber-optic multiplexers', ' ', 'broadband access', ' ', 'telecommunication carriers', '']
+LeveLite
+	Provider of self-contained level switches. The company provides self-contained level switches as well as electro optic and fiber optic level systems. It also provides optic level systems that can be applied and installed.
+	['', 'fiber optic', ' ', 'electronic optic', '']
+FASMA Technologies
+	Developer of a single-laser system for data transfer sector. The company has developed a single-laser system that compresses a large amount of computer data into one fiber optic with the help of multiple colors.
+	['', 'data transfer', ' ', 'single laser system', ' ', 'data compression', ' ', 'fiber optic', '']

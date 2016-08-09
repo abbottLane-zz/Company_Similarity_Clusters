@@ -1,24 +1,33 @@
-AsiaNet
-	Operator of an internet holding and management company. The company operates and invests in companies engaged in internet media, technology and e-commerce throughout Asia.
-	['', 'holding company', ' ', 'internet media', ' ', 'marketing synergy', '']
-DF&R Restaurants
-	Owner of various restaurant chains. The company owns and operates 53 casual dining restaurants in Texas, Oklahoma, New Mexico, Indiana, Kentucky, Maryland, Ohio, Virgina and Michigan under the names "Don Pablo\'s" and "Harrigan\'s".
-	['', 'casual dining', '']
-Tinmar Holdings
-	Operator of a holding company. The company owns and operates endoscopy and surgical centers in the United States.
-	['', 'parent company', ' ', 'surgical centers', ' ', 'endoscopy center', '']
-GlobalTouch Telecom
-	Provider of VoIP software. The company owns and develops VoIP software platform for the enterprise and residential markets.
-	['', 'Internet Telephony', 'VoIP', 'Voice Over Internet Protocol', '']
-Potbelly Sandwich Works
-	Producer and retailer of sandwiches and homemade desserts. The company owns and operates more than 150 quick-service restaurants in Illinois and eight other mostly Midwestern states that specialize in fresh-made sandwiches.
-	['', 'homemade dessert', ' ', 'retail sandwich', ' ', 'quick service restaurant', ' ', 'fresh sandwich', '']
-Morethanhotels
-	Operator of hotels. The company owns and operates twelve Express by Holiday Inn hotels throughout United Kingdom.
-	['', 'hotels in United Kingdom', ' ', 'resorts in United Kingdom', ' ', 'budget accommodations', ' ', 'hotels and resorts', '']
-BigCafe (China) Holdings
-	Operator of a chain of internet cafe. The company owns and operates internet cafes outlets and provides advisory and management services to the internet cafe industry throughout China.
-	['', 'internet cafe', ' cafe ', 'advisory service', '']
-The Grill Group
-	Operator of restaurant chains. The company owns and operates bars, grills and dining restaurants.
-	['', 'restaurant chains', ' ', 'dining restaurants', ' grills']
+Ion Surgical Technologies
+	Developer of medical alternatives to surgical implants. The company is focused on providing surgeons with reproducible alternatives to implants for soft-tissue fixation, through a product line that uses the patient\'s own bone and sutures to maximize healing surfaces, minimize surgical time and provide post-oeprative MRI compatibility.
+	['', 'soft tissue fixation', ' injury ', 'transosseous method', ' ', 'minimize surgical time', '']
+Spine-Tech
+	Manufacturer of spinal implants and surgical instruments. The company is a provider of less invasive spinal implants. The company\'s products are used to surgically treat patients suffering from chronic, disabling pain caused by degenerative conditions of the spine.
+	['', 'spinal implant', ' ', 'spinal surgery', ' ', 'spine surgery', '']
+NovoSource
+	Manufacturer of orthopedic implants and instruments. The company manufactures and supplies private label orthopedic implants to a variety of healthcare providers, for joint replacement and reconstruction for knees and hips.
+	['', 'orthopedic implant', ' ', 'joint replacement', ' ', 'healthcare provider', '']
+Ubiqi Health
+	Provider of online tools for migraine management. The company provides online and mobile application tools to the millions of people suffering from chronic conditions.
+	['', 'online tool', ' ', 'remedies to chronic conditions', ' ', 'application tool', '']
+CoAlign Innovations
+	Developer of a less invasive and more anatomically correct spinal fusion. The company develops a low-profile interbody implant system called AccuLIF system that hydraulically expand and lock to enable accurate fit and placement for a range of lumber spinal fusion procedures.
+	['anatomically ', 'spinal fusion', ' ', 'less invasive', '']
+Degradable Solutions
+	Manufacturer of degradable medical implants. The company develops and produces bone fixation implants which degrade in the body after fulfilling their function.
+	['', 'medical implants', ' ', 'degradable medical implants', ' ', 'bone fixation implants', '']
+C5 Medical Werks
+	Manufacturer of ceramic components. The company sells it to medical device original equipment manufacturers in the United States and internationally. Its product lines include ceramic-on-ceramic hip replacement implants, ceramic spinal implants, ceramic dental implants, and other custom implant components.
+	['', 'therapeutic devices', ' ', 'knee replacement device', ' ', 'dental implant', '']
+Spine Solutions
+	Manufacturer of discs, implants and instruments used for the treatment of fractures, deformities and degenerative diseases in the lumbar and cervical spine. The company manufactures hip and knee replacement products under the brand name Prodisc.
+	['', 'vertibular disc', ' ', 'hip joint', ' ', 'knee replacement', ' ', 'spinal discs', ' biomechanics biotechnology']
+Spinal Concepts
+	Provider of devices for neck and back surgery. The company delivers implants used in the treatment of spinal disorders, diseases and injuries.
+	['', 'neck surgery', ' ', 'back surgery', ' ', 'lower back surgery', ' ', 'spinal disorders', ' ', 'surgical devices', '']
+Cardiac Support Systems
+	Operator of innovative factory. The company operates as a licensee of a technology to treat patients suffering from ventricular fibrillation.
+	['', 'ventricular fibrillation', ' ', 'innovative factory', ' ', 'technology licensee', ' ', 'patient care', '']
+Vexim
+	Developer of titanium implants for the treatment of vertebral fractures. The company\'s product SpineJack helps to repair a deformed or fractured vertebra and restoring the anatomy of the spinal column.
+	['', 'titanium implants', ' ', 'surgical cements', ' ', 'vertebral fractures', ' spinal']

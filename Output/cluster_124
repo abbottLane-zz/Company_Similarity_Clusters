@@ -1,48 +1,27 @@
-Rewind.Me
-	Provider of platform that enables collection and organization of personal data.  The company enables its users to create value from the data they have provided in the past.
-	['', 'data collection', ' ', 'data organization', ' ', 'online data', '']
-Mine
-	Provider of an ownership directory that connects people and the items they buy to create personalized networks of product discovery. The company enables its users to create, control, update and share information on their purchases.
-	['', 'product discovery', ' ', 'purchase information', ' ', 'information sharing', ' ', 'product search', ' ', 'product directory', '']
-icast
-	Operator of an online entertainment company. The company enables users to create, customize and share their personal entertainment passions online.
-	['', 'onlinen entertainment', ' ', 'share personal passion', ' customize']
-Readmill
-	Provider of an online reading platform. The company enables users to read, share and highlight the information of books.
-	['', 'online community', ' ', 'online book', ' ', 'book information', '']
-Bulldog Entertainment Network
-	Operator of a marketing and entertainment company. The company manufactures photo play products, creates photo play online tournaments and advertising. The company serves coin-operated amusements industry.
-	['', 'photo play', ' ', 'amusement industry', ' advertising ', 'online tournaments', '']
-Amiato
-	Provider of an immediate A/B testing tool. The company enables users to point their data and to analyze the data.
-	['', 'data analysis', ' ', 'computer architecture', ' ', 'database management', '']
-Doppelganger
-	Provider of social entertainment.The company designs and produces targeted virtual world environments where users can engage in and experience new levels of self-expression, communication, community, and rich media programming. It is the creator of Vsite, a virtual-world website focused on the club scene.
-	['', 'virtual world', ' avatar']
-1-Page
-	Provider of corporate software as a service and consumer Internet proposal platform. The company enables its users to systematically create, solicit, distribute and negotiate one page proposals between individuals and companies from anywhere around world.
-	['', 'IT services', ' ', 'corporate software', ' ', 'internet proposal platform', '']
-Hollywood Interactive Group
-	Provider of Web content and entertainment features for women. The company provides celebrity and entertainment news and casual games, as well as fashion and community information.
-	['', 'celebrity web destination', ' ', 'celebrity news', ' ', 'multiplatform content', '']
-redBus
-	Provider of an online bus ticketing service. The company enables users to book bus tickets through phone, home delivery, physical outlets or even SMS.
-	['', 'online bus ticket', ' ', 'booking service', ' ', 'online ticketing', '']
-e-Bridge
-	Operator of an online entertainment site for bridge games and information.
-	['', 'online entertainment', ' ', 'bridge game', ' ', 'online game', '']
-HIGH-DEF Technology
-	Provider of integrated entertainment services for building and home automation. The company\'s products enables users to control all entertainment electronics and home automations easily with a single system.
-	['', 'integrated entertainment', ' ', 'home automation', ' ', 'multiroom audio', '']
-Viva! Vision
-	Provider of entertainment content. The company provides slideshows and live videos for entertainment brands, content providers and carriers through a suite of broadcast platforms.
-	['slideshows ', 'video on demand', ' ', 'content providers', ' ', 'broadcast platforms', '']
-Heroku
-	Operator of an online platform for software development. The company enables the users to share, collaborate, import and export, and generate the code.
-	['', 'online platform', ' ', 'software development', ' ', 'data manipulation', '']
-Mtime.com
-	Operator of an online entertainment portal. The company offers a Chinese-language platform for streaming of international movies.
-	['', 'online entertainment', ' streaming']
-bp Interactive Technologies
-	Developer of online entertainment applications. The company develops and operates web based applications.
-	['', 'web based', ' ', 'online entertainment', ' ', 'sports game', '']
+Covagen
+	Operator of a biopharmaceutical company focused on therapies for inflammatory diseases and cancer. The company provides a proprietary platform that genetically fuses Fynomer binding proteins to antibodies, resulting in therapeutics with novel modes of action. The company’s first clinical drug candidate is designed for treatment of rheumatoid arthritis, psoriatic arthritis and other inflammatory diseases.
+	['', 'inflammation binder', ' ', 'protein therapy', ' ', 'clinical drug', '']
+Kanisa Pharmaceuticals
+	Provider of oncology focused pharmaceutical services. The company is focused on developing new treatments for cancer with novel testing formats to stratify patients and predict likely responders to therapy.
+	['', 'cancer treatment', ' ', 'pharmaceutical service', ' ', 'diagnosis service', '']
+Cyrenaic Pharmaceuticals
+	Developer of drugs for schizophrenia and bipolar disorder. The company is focused on the development of CYR-101, an innovative antipsychotic for the treatment of schizophrenia.
+	['', 'schizophrenia treatment drug', ' ', 'bipolar disorder treatment', ' ', 'drug development', '']
+Apalexo Biotechnologie
+	Operator of a biopharmaceutical company focused on cancer treatment. The company is focused on development of a treatment to eradicate residual tumor cells following conventional cancer therapies.
+	['immunotherapeutics cellular']
+Arana Therapeutics
+	Provider of biotechnology services. The company is focused on the development of antibody and peptide products for the treatment of inflammatory diseases and cancer.
+	['', 'inflammatory diseases', ' ', 'peptide products', ' ', 'research services', '']
+Oxxon Therapeutics
+	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
+	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
+Nucleonics
+	Provider of biotechnology services. The company is engaged in the development of novel RNA interference-based therapeutics for viral and other diseases.
+	['', 'therapeutic products', ' ', 'biotechnology services', ' ', 'viral diseases', '']
+Virxsys
+	Provider of a biotechnology company. The company provides technology for the development of gene and vaccine therapies for the treatment of HIV, cancer and genetic diseases.
+	['', 'vaccine therapy', ' ', 'genetic disease', ' ', 'biotechnology company', '']
+Automated Cell
+	Developer of antibody therapeutic antibodies for the treatment of oncology and immune disease. The company is focused on the development of monoclonal antibody therapeutics for the treatment of cancer.
+	['', 'antibody therapeutic', ' ', 'therapeutic treatment', ' ', 'oncology disease', ' ', 'immune disease', ' ', 'monoclonal antibody', '']

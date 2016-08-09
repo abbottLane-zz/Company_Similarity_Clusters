@@ -1,21 +1,27 @@
-Basil Corporation
-	Manufacturer of specialized equipment for the laboratory and scientific markets. The company makes laboratory washing equipment and devices.
-	['', 'laboratory equipment', ' ', 'scientific devices', ' ', 'medical equipment', '']
-Amsco International
-	Manufacturer and supplier of sterilization products. The company manufactures sterilization systems, surgical tables and lights, and related infections prevention products and services for the healthcare and scientific markets.
-	['', 'sterilization product', ' ', 'health care industry', ' ', 'technology platform', '']
-Hedson Technologies International
-	Provider of washing, drying and handling equipment. The company engages in the manufacture of gun cleaning devices, wheel washers and infrared curing equipment in the automotive after market sector.
-	['', 'handling equipment', ' ', 'gun cleaning device', ' ', 'wheel washer', '']
-AMSCO Scientific
-	Developer of scientific capital equipment. The company specializes in industrial and laboratory sterilizers, laboratory glassware and animal care washing equipment, absolute barrier isolators and sterility assurance products and supplies.
-	['', 'medical equipment', ' ', 'barrier isolator', ' ', 'pharmaceutical production', '']
-BioSig Technologies
-	Developer of clinical technology for diagnoses and treatments of abnormal heart rhythms. The company provides electrophysiologists to make crucial clinical decisions in real time by providing information unobtainable with any other equipment presently in the electrophysiology laboratory.
-	['', 'abnormal heart', ' ', 'electrophysiology', ' ', 'electrophysiology laboratory', '']
-Augusta-Heckenrose
-	Manufacturer of specialized saws. The company designs and sells specialized saws for different uses. The company primarily produces handheld saws such as hand saws, bow saws, gardening saws, builder\'s saws, hack saws and fret saws.
-	['equipment ', 'saw manufacturer', ' ', 'specialized saws', '']
-RedPath Integrated Pathology
-	Provider of support services for oncology cases. The company operates as a reference laboratory and serves pathologists, clinicians and patients. It offers PathFinderTG, a testing platform for resolving diagnoses from the original pathology specimen.
-	['', 'oncology case', ' ', 'reference laboratory', ' ', 'diagnostic platform', '']
+Bahu.com
+	Owner and operator of a social networking site for students. The company allows writers, artists, musicians, models and others to create a special talent page showcasing their work.
+	['', 'young students', ' ', 'platform software', ' ', 'information technology', '']
+Zinch
+	Operator of web site that allows students to post profiles for recruitment into colleges and universities. The company helps colleges to find and recruit students looking for undergraduate, transfer and graduate school opportunities, as well as enables admissions officers to interact with students.
+	['', 'college recruitment website', ' ', 'student recruiting', ' ', 'student interaction', '']
+Knowledge Management Systems
+	Provider of communication services for the educational sector. The company engages in promotion of British Universities and advises students in selecting the right course and Universities.
+	['', 'communication service', ' ', 'British Universities', ' ', 'right course', '']
+JS Campus Connect
+	Provider of a web based platform for college students. The company enables students to buy, sell and trade new and used textbooks and use online advertising for campus club events. It also enables student members to post their resume and search for jobs through open employment opportunities.
+	['', 'online advertising', ' ', 'web based platform', ' ', 'building communities', '']
+Seelio
+	Provider of an online platform for college students to showcase their work and experience to employment recruiters. The company enables college students to showcase their work via online portfolios.
+	['', 'student job search', ' ', 'employment search', ' ', 'online recruitment', '']
+OnMyBlock
+	Developer of a web and mobile platform that helps college students find and rent off-campus houses, apartments and sublets. The company offers a website and an iPhone application that helps college students find the best place to live with the help of social information from friends and classmates.
+	['sublets ', 'off-campus house', ' ', 'off-campus apartments', ' apartments ', 'student housing', '']
+Hoot.Me
+	Provider of an application that includes video communications which enables students to get help on homework via Facebook.
+	['', 'social networking', ' ', 'video communication', ' ', 'interactive knowledge network', '']
+Collegefeed
+	Developer of a social platform for students and employers. The platform offers a Facebook-like news feed where students can access tuition help, job opportunities, interview-preparation help and access to alumni and mentors. It connects employers with students as they progress through school as opposed to forcing decisions through short interviews, career fairs and campus visits.
+	['', 'job opportunity', ' ', 'job seeking platform', ' ', 'digital platform', '']
+StudentSN
+	Provider of social media platform for Turkish-speaking students. The platform allows students to set up a profile and network with other users.
+	['', 'social media platform', ' ', 'student network', ' ', 'student networking', '']

@@ -1,27 +1,12 @@
-BlackLocus
-	Provider of a cloud-based platform for online retailers that provide recommendations on pricing, inventory management and marketing. The company provides platform that recommends actionable items, enables implementation of recommendations.
-	['', 'pricing tool', ' ', 'online retailer', ' ', 'actionable item', ' ', 'pricing recommendation', '']
-MyBuys
-	Provider of cross-channel personalization for brands and retailers. The company offers web recommendations and personalized alerts. It builds profiles based on individual shopper\'s behavior and then uses a patented portfolio of algorithms and real-time optimization to deliver recommendations. It offers its recommendations to users through email and RSS alerts.
-	['', 'predictive display advertising', ' ', 'cross channel marketing', ' ', 'personalized alert', ' recommendation']
-Vox.io
-	Provider of chat and video calls from browser. The company\'s technology import contacts with phone numbers from Google contacts and Linkedin for communication.
-	['', 'video calling', ' ', 'online chatting', ' ', 'online calling', ' ', 'browser calling', '']
-ReTel Technologies
-	Provider of video surveillance analysis for stores and restaurants. The company uses security camera feeds to deliver metrics and data such as table cleanliness, service times and employee activities.
-	['', 'video auditing', ' ', 'raw surveillance video', ' ', 'interactive report', '']
-mbr targeting
-	Developer of a targeting technologies for increased relevance of advertising focus and product recommendations. The company has developed an approach that can analyze and structure big data categories without having to make a Prior assumptions or use categories.
-	['', 'targeting technology', ' ', 'analysis method', ' ', 'product recommendation', ' ', 'advertising focus', '']
-PriceMatch
-	Provider of a revenue management platform for hotels. The company develops econometric algorithms forecasting demand and feeding price recommendations to hoteliers, helping them adjust room prices to demand and thus trying to increase revenue.
-	['', 'dynamic pricing', ' ', 'yield management', ' ', 'revenue management', '']
-Collections Labs
-	Provider of Mac application that helps users to manage media content like Facebook and Instagram photos, Tweets and videos, alongside other cloud-based things like Google Docs. The company\'s product also allows a user to toggle between Dropbox and Google Drive content and the more traditional Finder material like Word docs and other native applications.
-	['', 'mac application', ' ', 'media content', ' ', 'traditional Finder', ' ', 'native application', '']
-Wanderfly
-	Provider of a platform to discover and share travel recommendations. The company uses Facebook friends and Google Contacts to give users recommendations on hotels, restaurants and activities.
-	['', 'online travel recommendation', ' ', 'travel information', ' ', 'travel review', '']
-BestVendor
-	Provider of an online resource where business professionals can exchange recommendations for work-related software and services. The company provides a platform for professionals to share their recommendations of the SaaS and other software services for use in business.
-	['', 'online resource', ' ', 'procurement decision', ' ', 'professional platform', ' ', 'software as a service', '']
+GlobalTouch Telecom
+	Provider of VoIP software. The company owns and develops VoIP software platform for the enterprise and residential markets.
+	['', 'Internet Telephony', 'VoIP', 'Voice Over Internet Protocol', '']
+AngioScore
+	Developer of tools for endovascular therapy. The company develops angioplasty catheters for use in the treatment of cardiovascular and vascular disease.
+	['', 'endovascular tool', ' ', 'cardiovascular disease treatment', ' catheter ', 'endovascular therapy', '']
+Azelon Pharmaceuticals
+	Developer of formulations for the treatment of osteoporosis. The company develops ZT-034, a nasal spray formulation of teriparatide that offers an alternate for patients at high risk of fracture.
+	['', 'osteoporosis treatment', ' ', 'nasal spray', ' teriparatide ', 'nasal spray formulation', '']
+Cooke Pharma
+	Developer of formulations for the treatment of atherosclerosis. The company owns and develops the intellectual property rights to use arginine for vascular disease.
+	['atherosclerosis arginine ', 'vascular disease', '']

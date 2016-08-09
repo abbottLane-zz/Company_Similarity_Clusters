@@ -1,30 +1,18 @@
-Advanced Cardiac Therapeutics
-	Developer of temperature-sensing cardiac ablation systems for the treatment of patients with cardiac arrhythmias. The company offers TEMPASURE, a radio frequency cardiac ablation catheter that enables the saline-irrigation and temperature measurement at three millimeters depth below the heart wall surface.
-	['', 'cardiac ablation system', ' ', 'temperature measurement', ' ', 'saline-irrigation', ' ', 'cardiac arrhythmias', '']
-Radiant Medical
-	Developer of endovascular temperature therapy products. The company offers its products to advance the treatment of patients with acute ischemic or inflammatory medical conditions, such as heart attack, radiocontrast nephropathy, stroke, and cardiac arrest.
-	['', 'endovascular temperature therapy', ' ', 'medical care product', ' ', 'acute ischemic treatment', '']
-NanoStim
-	Developer of a miniaturized, leadless cardiac pacemaker for the healthcare industry. The company\'s leadless cardiac pacemaker is configured for implantation in electrical contact with a cardiac chamber and configured for leadless pacing.
-	['', 'leadless cardiac pacemaker', ' ', 'healthcare device', ' ', 'medical device development', '']
-BarRx Medical
-	Developer of non-surgical and endoscopic treatment solutions for Barrett\'s esophagus. The company offers an ablation system that uses a balloon-based electrode to ablate Barrett tissue circumferentially within the esophagus and removes the diseased cells.
-	['', 'endoscopic treatment', ' ', 'ablation system', ' ', 'Barrett tissue circumferentially', ' ', 'electrode system', '']
-BMDSys Production
-	Developer of cardiac diagnostic imaging systems. The company uses magnetic field imaging system in medical diagnosis. It also helps to identify persons with a risk for sudden cardiac problem by cardiac electrophysiology.
-	['', 'cardiac diagnostic imaging', ' ', 'cardiac electrophysiology', ' ', 'medical diagnosis', ' ', 'cardiac diagnosis', ' cardiac']
-Reflow
-	Developer of interventional cardiac devices. The company provides cardiac devices to treat cronic total occlusions.
-	['cardiac cronic treat']
-Medivance
-	Manufacturer of therapeutic temperature management services. The company provides thermal-cooling systems for hospitals. It provides Arctic Sun temperature management system non-invasive thermoregulatory device that monitors and controls patient temperature.
-	['', 'therapeutic devices', ' ', 'thermal cooling system', ' ', 'temperature management', '']
-Endosense
-	Developer of technology for contact-force measurement in catheter ablation. The company focuses on improving the efficacy, safety and accessibility of catheter ablation for the treatment of cardiac arrhythmias. The company pioneered the use of contact force measurement in catheter ablation with the development of the TactiCath, the industry’s first force-sensing ablation catheter.
-	['', 'cardiovascular device', ' ', 'catheter ablation', ' ', 'cardiac arrhythmia', '']
-MicroMed Cardiovascular
-	Supplier of medical devices mainly for cardiac support. The company offers devices that increases the cardiac output of a failing heart and also act as a bridge to human heart transplant and destination therapies.
-	['', 'monitoring devices', ' ', 'medical devices', '']
-AFx
-	Provider of microwave surgical cardiac ablation technology. The company has developed a proprietary technology that allows surgeons to apply microwave energy to the surface of the heart.
-	['', 'cardiac ablation technology', ' ', 'microwave energy', ' ', 'heart surface', '']
+Applied Spine Technologies
+	Developer of spine stabilization systems. The company develops Stabilimax Dynamic Spine Stabilization System, a posterior dynamic stabilization device to support an injured or degenerated spine without eliminating motion.
+	['', 'spine stabilization system', ' ', 'stabilization device', ' ', 'degenerated spine', ' ', 'eliminating motion', '']
+Cardica
+	Manufacturer of automated anastomotic systems. The Company is commercializing and developing the MicroCutter XCHANGE 30 based on its proprietary staple-on-a-strip technology intended for use by thoracic, pediatric, bariatric, colorectal and general surgeons. The MicroCutter XCHANGE 30, which is currently commercially-available, is a cartridge based microcutter device with a 5 millimeter shaft diameter and a 30 millimeter staple line currently approved for use in the United States for specified indications of use, and in the European Union, or EU, for a broader range of specified indications of use.
+	['', 'automated anastomotic system', ' ', 'bypass surgery', ' ', 'surgery equipment', '']
+Spinelab
+	Developer of a pedicle screw based posterior motion preservation system for thoracolumbar spine. The company develops second generation pedicle screw-based Dynamic Stabilization Systems as well as distributes Elaspine.
+	['spine ', 'preservation system', ' ', 'posterior motion', '']
+LDR Holding
+	Developer of implantable spine systems and instrumentation. The company\'s spinal surgery services include cervical and lumbar artificial disc systems, pedicle screw systems, cervical cages, synthetic bone substitutes and implant systems.
+	['', 'implantable system', ' ', 'spinal surgery', ' ', 'spinal instrument', '']
+Globus Medical
+	Manufacturer of spinal implants and spine surgery products. The company\'s products include anterior cervical plating, occipito-cervico-thoracic stabilization, thoracolumbar stabilization, posterior stabilization, anterior staple, reduction screw, lateral thoracolumbar, anterior lumbar plate, minimal access retractor and interspinous spacer systems.
+	['', 'surgery device', ' ', 'spinal implant', ' ', 'spine injury', ' ', 'posterior stabilization', ' ', 'lateral thoracolumbar', '']
+Exos (United States)
+	Developer of thermoformable external musculoskeletal stabilization systems. The company offers short thumb spica, extended short thumb spica, long thumb spica, short arm fracture brace and thumb spica fracture brace.
+	['', 'thumb spica', ' ', 'stabilization systems', ' musculoskeletal']

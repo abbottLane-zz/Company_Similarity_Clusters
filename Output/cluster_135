@@ -1,9 +1,27 @@
-Given Goods Company
-	Provider of an online marketplace that encourages social change for companies. The company offers apparel, accessories, footwear, home goods and more from brand names, as well as up-and-coming designers who make a tangible impact.
-	['', 'online store', ' ', 'fashion-forward apparel', ' ', 'home goods', '']
-IQ Textiles Group
-	Manufacturer of synthetic fiber products. The company focuses on development of technical coated and laminated textiles. The company\'s products includes protection covers and tarpaulins, military applications, equestrian products and ducting textiles. The company\'s fabrics are used for corporate and workwear, tent fabrics, sportswear, protective workwear and outdoor apparel such as golf, hunting, shooting and fishing.
-	['', 'laminated textiles', ' fabric ', 'synthetic products', '']
-El Secreto del Mar
-	Manufacturer of youth sportswear. The company is a manufacturer of sporting apparel and accessories under the brand name El Nino.
-	['', 'sport apparel', ' ', 'apparel and accessory', ' ', 'apparel manufacturing', '']
+IBeatYou
+	Provider of online contest and competition Website. The Website enables users to compete using video, photo and text.
+	['', 'online contest', ' ', 'online competition', ' ', 'online video competition', ' ', 'photo competition', '']
+Plazes
+	Provider of web based geo-social navigation services. The company helps its members publish and share their current location with friends so that they can locate one another, connect digital and real-world identities and can coordinate with friends, family and business contacts from their very location.
+	['', 'location services', ' ', 'geo tagging', ' ', 'positioning services', ' ', 'commercial services', '']
+Daily Deals for Moms
+	Operator of social couponing website for moms and families looking for and sharing deals.
+	['', 'deal sharing', ' ', 'social couponing', ' ', 'deal website', ' ', 'family deal', ' ', 'online coupon', ' ', 'online discount', '']
+Charitableway
+	Operator of a Website that enables users to donate online to charities. The company specializes in bridging the connection between the business and nonprofit communities by providing application services.
+	['', 'online donation platform', ' ', 'charity platform', ' ', 'application services', '']
+GamerDNA
+	Operator of an online gaming web site. The company\'s website enables to publish gaming accomplishments, connect with other players, reunite with old friends, and find players based on servers, as well as share favorite news, videos, and trailers.
+	['', 'online game', ' ', 'game network', ' ', 'game social networking', '']
+Woo Media
+	Operator of online dating website. The company\'s website allows to meet people online based on one\'s interests.
+	['', 'online dating', ' ', 'social networking', '']
+LLUSTRE Design
+	Provider of a website that enables its members to discover designs for their homes. The company’s website features limited edition pieces and crafted designs via its online design events.
+	['', 'home design', ' ', 'crafted design', ' ', 'online design', '']
+Jaxtr
+	Operator of a social communication website. The company website enables its clients to receive calls from people visiting their social networking pages, as well as make calls to their friends and family worldwide.
+	['', 'social communication', ' ', 'cloud-based voice conferencing', ' ', 'fax-to-email service', ' ', 'voice over internet protocol technology (VOIP) service', '']
+Nasza-Klasa
+	Provider of social networking platform in Poland. The company\'s website allows users to create profiles, upload photos, chat with friends, find and and connect with classmates at various levels of education.
+	['', 'social networking platform', ' classmates']

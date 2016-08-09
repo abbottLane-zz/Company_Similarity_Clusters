@@ -1,36 +1,57 @@
-WebPutty
-	Developer of e-business, internet and mobile application products. The company offers a platform for the composition and dynamic execution of server-based web applications that enables businesses to change and extend their business systems in a secure and controlled way.
-	['', 'server software', ' ', 'server-based applications', ' ', 'mobile application software', '']
-Zamba
-	Provider of wireless mobile data communication services. The company provides mobile data communication software products and various services including professional services, systems integration, training, and end-to-end mobile network system support for organizations in the transportation, field service, sales or order entry and utility markets..
-	['', 'information system', ' ', 'data communication', ' ', 'mobile data', '']
-Nukona
-	Provider of mobile application management technologies. The company\' application center is an end-to-end mobile information management and security service, enabling enterprises to secure, deploy and manage native and web applications and content on corporate-owned and personal devices.
-	['', 'mobile application management', ' ', 'mobile information management', ' ', 'web applications', '']
-New Moon Systems
-	Provider of non-internet mobile software services. The company\'s services enables enterprises and service providers to centrally deliver and manage their software assets across hundreds and thousands of user desktops. The company\'s iQ application management platform is used to intelligently deploy and manage Windows applications across private and public networks.
-	['windows ', 'software platform', ' ', 'IQ application', '']
-FeedHenry
-	Provider of a cloud-based mobile application platform. The company’s software enables application developers to build, deploy and manage mobile applications. The software can be deployed to different cloud and platform as a service environments.
-	['', 'application developer', ' ', 'cloud based service', ' ', 'cloud-based application', '']
-EPiCON
-	Developer of software platforms that enable application service providers (ASPs) and enterprises to manage the life-cycle of desktop applications and application components from a central server on the Internet. The company\'s products include a software platform, which enables enterprises, and information technology departments to target applications to users based on central policies; deploy applications and application components to Windows personal computers (PCs) without overloading the network; and install applications and components automatically on PCs, without intervention from the PC users.
-	['', 'software platform', ' ', 'desktop application', ' ', 'application component', '']
-Sinia
-	Provider of application that transforms internet-enabled cellular phones into secure connections to the Internet and corporate intranet. The company provides enterprise services that give users secure mobile access to corporate information. It’s users can manage corporate email, calendar, contact lists and other server-based information on any Web enabled device.
-	['', 'enterprise service', ' ', 'mobile internet connection', ' ', 'mobile application', '']
-Trust Digital
-	Provider of enterprise mobility management technology and security software for government organizations and various companies. The company offers its services to secure, deploy, and manage smartphones for information technology organizations. It also offers EMM Console, a browser-based software to centrally manage the different smartphones used by mobile workers, as well as to provide policy management tools, reporting capabilities and compliance enforcement facilities to secure smartphones and ruggedized devices.
-	['', 'enterprise mobility management', ' ', 'smartphone management', ' ', 'policy management tool', ' ', 'compliance enforcement', '']
-Taviz Technology
-	Provider of integration software that automates the development and management of intelligent adapters and connectors. The company offers applications that enables users to deploy and manage integrated applications cost.
-	['', 'integration software', ' ', 'intelligent adapters', ' connectors']
-WorkLight
-	Developer of HTML5, hybrid and native applications for smartphones and tablets with industry-standard technologies and tools. The company provides flexible mobile IDE, next-generation mobile middleware, end-to-end security and integrated management and analytics.
-	['HTML5 smartphone tablet ', 'mobile IDE', ' ', 'integrated development environment', ' ', 'mobile middleware', ' MEAP ', 'mobile enterprise application platform', '']
-Omnimark Technlogies
-	Developer and distributor of load and application management.
-	['', 'load management', ' ', 'application management', '']
-Inaura
-	Provider of mobile computing platform. The company\'s platform helps in simplifying the delivery of applications and services to end-users across the distributed enterprise and also enables an enterprise to deploy web services and provide safe and secure mobility of enterprise resources to the end users.
-	['', 'mobile computing platform', ' ', 'application delivery', ' ', 'distributed enterprise', '']
+Cytion
+	Developer of drug screening technology. The company has developed drug screening technology for the functional analysis of ion channel proteins.
+	['', 'drug screening technology', ' ', 'ion channel protein', ' ', 'drug development', '']
+Alkermes
+	Operator of a biopharmaceutical company. The company develops products based on drug-delivery technologies to enhance therapeutic outcomes in major diseases.
+	['', 'drug delivery technology', ' schizophrenia ', 'therapeutic outcomes', '']
+Genetics Institute
+	Developer of pharmaceutical products. The firm developed pharmaceuticals based on leading edge functional genomics technologies and proprietary disease models to treat a wide variety of human disease conditions.
+	['biopharmaceuticals']
+Women\'s Capital
+	Developer of oral contraceptive product for the female healthcare market. The company is the creator of Plan B, an emergency contraceptive containing the synthetic hormone progestin levonorgestrel.
+	['contraceptive ', 'birth control', ' pill ', 'female healthcare', ' hormone progestin']
+Shire Regenerative Medicine
+	Developer of cell-based therapies. It develops Dermagraft, which received a premarket approval from the U.S. food and drug administration. Dermagraft is a regenerative bio-engineered skin substitute that assists in restoring damaged tissue and is indicated for the treatment of certain types of diabetic foot ulcers (DFU).
+	['', 'cell based therapy', ' ', 'skin substitute', ' ', 'skin replacement product', '']
+Reliant Pharmaceuticals
+	Developer of cardiovascular therapies. The company acquires and develops branded pharmaceutical products, as well as potential pharmaceutical products in mid- to late-stage clinical development for drug delivery technologies and formulation advancements.
+	['cardiovascular ', 'cardiovascular therapies', '']
+ULSD
+	Researcher of oral biology as well as olecular, cellular and craniofacial biology with faculty members. The company\'s main objective is to enhance the speed to market the oral developments within the UofL School of Dentistry.
+	['', 'cellular biology', ' ', 'dental hygiene', ' ', 'oral development', '']
+RxCentric
+	Provider of on-line marketing solutions for pharmaceutical companies. The company provides physicians with rapid access to comprehensive drug information built on trusted authoritative sources.
+	['', 'drug information', ' ', 'online marketing', '']
+Arizeke Pharmaceuticals
+	Developer of technologies for oral delivery of macromolecules. The company\'s technology takes advantage of an active transport system, using the polymeric immunoglobulin receptor (pIgR) highly expressed in the intestinal and lung epithelium, and enables delivery of macromolecules such as therapeutic proteins and antibodies via oral or nasal administration.
+	['', 'delivery system', '  macromolecules ', 'protein delivery', ' ', 'therapeutic proteins', ' ', 'active transport system', '']
+InnoPharma
+	Developer of complex generic and innovative specialty pharmaceutical/bio-pharmaceutical products in injectable and ophthalmic dosage forms. The company has a broad portfolio of products under development, with formulations including, suspension, lyophilized, emulsions, liposomes, micelles and lipid complexes.
+	['', 'medical product', ' ', 'drug development', ' ', 'bio pharmaceutical product', ' ', 'medical drug research', ' ', 'sterile injectable product', ' ', 'sterile products', ' injectable ophthalmic']
+Scandinavian BioPharma
+	Developer of pharmaceutical  products such as vaccines and immunoglobulins. The company mainly focuses on development of a new oral traveler’s diarrhea vaccine. The company is currently developing a pharmaceutical  product for the treatment of mild to moderate psoriasis.
+	['vaccines immunoglobins ', 'diarrhea vaccine', '']
+C4X Discovery Holdings
+	Developer of pharmaceutical services and drug discovery. The company used a NMR-based technique to determined 3D molecular structures with high accuracy. It is focused on the design and development of medicines and partnering with the pharmaceutical sector to generate better, safer products.
+	['', 'design and development', ' ', 'pharmaceutical sector', ' ', 'pharmaceutical drug discovery', '']
+E-Pill Pharma
+	Provider of oral drug delivery products for healthcare markets. The company\'s product line includes an oral drug delivery platform which is a combination of medical device and tablets.
+	['', 'medical devices', ' ', 'healthcare industry', '']
+C M & D Pharma
+	Manufacturer of pharmaceutical products. The company\'s pharma products are fostrap, recoclix, eviendep, ossulin and silsos.
+	['', 'pharmaceutical product', ' ', 'healthcare market', '']
+On Demand Therapeutics
+	Developer of a drug-delivery implant to treat retinal diseases. The company creates relationships with pharmaceutical and medical-device companies to develop ophthalmic products based on the device.
+	['', 'retinal disease treatment', ' ', 'ophthalmic therapy', ' ', 'drug delivery', '']
+ForSight NewCo
+	Developer of pharmaceutical products for use in photo dynamic therapy (PDT), using light-activated drugs to treat disease.
+	['', 'pharmaceutical product', ' ', 'photo dynamic theory', ' ', 'light activated drug', '']
+ForHealth Technologies
+	Provider of automation technology for intravenous drug preparation.
+	['', 'automation technology', ' ', 'intravenous drug', ' ', 'robotic system', '']
+Anesta
+	Developer of pharmaceutical products for oral transmucosal drug administration. The Company\'s products are based on its proprietary oral transmucosal system (OTS) for drug delivery.
+	['', 'oral transmucosal system', ' ', 'pharmaceutical product', ' ', 'oral transmucosal drug', '']
+Activiomics
+	Developer of biomarker technology. The company has developed a suite of label-free mass spectrometry technologies enabling it to identify and quantify, directly from clinical samples, proteins and phosphoproteins that correlate with the progression of disease and/or the administration of drugs. The company is applying its technologies to the establishment of a pipeline of biomarker assets comprising the identified proteins and phosphoproteins along with their companion diagnostic antibody reagents. The company also partners with the pharmaceutical and biotechnology industry to provide drug profiling and drug mode of action information.
+	['', 'drug biomarkers', ' ', 'proprietory technology', ' oncology']

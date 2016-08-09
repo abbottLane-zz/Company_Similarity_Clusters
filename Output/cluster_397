@@ -1,48 +1,21 @@
-EraGen BioSciences
-	Developer and manufacturer of molecular reagent products and software for research and clinical testing markets. The company offers molecular diagnostic assays for the early detection and monitoring of cancer, genetic, and infectious diseases, as well as for genetic-based conditions. It serves clinical laboratories and medical researchers.
-	['biotechnology ', 'clinical diagnostic', ' ', 'molecular diagnostic', ' ', 'clinical testing', '']
-Genaco
-	Developer of molecular diagnostic technology and products. The company\'s main products include commercial kits for prenatal screening and diagnosis of common genetic diseases.
-	['', 'molecular diagnostic technology', ' ', 'prenatal screening', ' ', 'genetic diseases', '']
-Xceed Molecular
-	Developer of expression-based molecular diagnostic products. The company is working on the speed, simplicity, and efficiency of expression-based molecular diagnostics through its “Ziplex™” Automated Workstation. The Ziplex uses the company\'s flow-thru-chip microarray technology to perform highly multiplexed molecular assays faster and at a lower cost than conventional array systems, while providing simplicity of use that is essential for broader adoption of molecular diagnostics.
-	['', 'molecular diagnostics', ', expression-based', '']
-Pronota
-	Developer of protein biomarker diagnostics platform. The company provides diagnostics for early detection of life-threatening conditions and unmet medical needs that includes pre-eclampsia, cardio-renal syndrome, ovarian cancer and sepsis.
-	['biomaker ', 'diagnostic platform', ' protein']
-Biex
-	Developer of maternity management products. The company diagnostic tests to identify the potential for premature deliveries in pregnant women.
-	['maternity ', 'diagnostic test', ' ', 'hormone estriol', '']
-GeneOhm Sciences
-	Developer of nucleic acid-based diagnostic services. The company offers methicillin-resistant Staphylococcus aureus (MRSA) Assay, an in vitro diagnostic test for the direct detection of MRSA from a nasal specimen; StrepB Assay, an in vitro diagnostic test for the detection of Group B Streptococcus in pregnant women at the time of delivery or at any other stage of their pregnancy and Lysis Kit for the lysis of cells and spores from various sample types.
-	['', 'microbiology specimen processing', ' ', 'molecular diagnostic', ' ', 'MRSA Assay', '']
-Santaris Pharma
-	Developer of ribonucleic acid (RNA) targeted therapies. The company\'s Locked Nucleic Acid (LNA) Drug Platform and Drug Discovery Engine  is designed to deliver single-stranded Locked Nucleic Acid (LNA) based drug candidates across an array of disease states, including  cancer, cardiovascular disease, infectious and inflammatory diseases and rare genetic disorders.
-	['', 'nucleic acid', ' ', 'drug discovery engine', ' ', 'ribonucleic acid', '']
-Pinnacle Pharmaceuticals
-	Developer of therapeutics for pain management, urology, antibiotics and oncology space by leveraging its supramolecular chemistry platform and drug formulation technology. The company also develops synergistic compounds for current antibiotic regimes to treat patients suffering from infections refractory to the current gold-standard and therapeutics for various infectious disease indications, including methicillin resistant staphylococcus aureus and vancomycin resistant enterococci.
-	['', 'pain management', ' ', 'oncology space', ' ', 'supramolecular chemistry platform', ' ', 'drug formulation technology', ' ', 'synergistic compound', ' ', 'antibiotic regime', '']
-Adnavance Technologies
-	Developer of diagnostic technology. The company provides direct-detection molecular diagnostic tests. The tests are designed to decentralize the worldwide molecular testing market by enabling hospitals and smaller independent laboratories to conduct their own testing.
-	['', 'molecular diagnostic', ' ', 'medical application', ' ', 'diagnostic test', '']
-Sirigen
-	Developer of novel polymeric materials for the life-science and diagnostic industries. The company is the developer of light-harvesting polymeric materials, which offer high sensitivity flourescence (HSF) detection, with applications for drug testing, optimized detection techniques and developing next-generation diagnostic tools.
-	['', 'light harvesting', ' polymers flourescent']
-miacom Diagnostics
-	Developer of diagnostic kits. The company provides a diagnostic technology that uses biofluorescence to scan for bacteria and other disease-causing pathogens. The kits can be used to evaluate blood and sputum.
-	['', 'diagnostic kits', ' ', 'channel pipette', ' ', 'hybridization chamber', ' hotplate fluorescence']
-Arpida
-	Developer of antimicrobial drugs for the treatment of infectious diseases. The company’s lead product is intravenous iclaprim, an antibiotic product that targets severe infections requiring hospital treatment, including those caused by methicillin-resistant Staphylococcus aureus.
-	['', 'antimicrobial drugs', ' antibiotic ', 'methicillin-resistant', ' ', 'staphylococcus aureus', '']
-Great Basin
-	Developer of point-of-care molecular diagnostic technology for healthcare professionals. The company offers molecular diagnostics platform for detection of nucleic acid and protein analytes in diagnostic testing platform. It also provides diagnostic tests for methicillin resistant staphylococcus aureus, group B streptococcus and human papilloma virus.
-	['', 'molecular diagnostic', ' ', 'diagnostic platform', ' ', 'diagnostic testing', '']
-SpectraFluidics
-	Provider of solutions for the field detection of trace levels of chemicals, explosives, illicit drugs, biomarkers, and other low volatility compounds at parts-per-trillion concentration levels. The company offers microfluidic chips for ultra trace sensitivity and molecular specificity of vapor-phase analytes. Its product applications include transportation security, breath diagnostics, drugs and narcotics detection, food safety and freshness, and explosives detection.
-	['', 'microfluidic chip', ' ', 'transportation security', ' ', 'breath diagnostic', ' ', 'drugs and narcotics detection', '']
-NovioGendix
-	Provider of molecular diagnostics and services to physicians, clinics, and hospitals. The company offers service to conduct test for prostate cancer and developing molecular diagnostic assays for uro-oncological practices and cancer treatment.
-	['', 'molecular diagnostic', ' ', 'laboratory service', ' ', 'kidney cancer', ' ', 'uro-oncological disease', '']
-AdvanDx
-	Provider of molecular diagnostic tests for identification of pathogens that cause critical infections in hospitalized patients. The company provides its products to medical centers, reference labs, government institutions and community hospitals. Its products are available through a network of sales force in United States, as well as through distributors.
-	['', 'vitro diagnostic kit', ' ', 'infectious disease diagnosis', ' ', 'infection treatment', ' ', 'diagnostic kit', ' ', 'infectious disease', ' ', 'diagnostic test', '']
+Epocal
+	Provider of biochips and micro-fabrication of solid-state diagnostic devices. The company is implementing an entire blood diagnostic system in FlexCard™ technology, a card format similar to the smart card used in conventional check and telephone cards.
+	['', 'monitoring devices', ' ', 'diagnostic devices', '']
+Spectralus
+	Developer of solid-state green laser platform. The company\'s product is suitable for integration into mobile projection devices.
+	['laser ', 'green laser', '']
+Aline Aesthetics (Aline Hyaluronic Acid Thread Technology)
+	Solid state, cross-linked hyaluronic acid. Hyaluronic acid in thread form that is attached to a needle to be used as a dermal filler for cosmetic and cancer reconstructive surgeries.
+	['', 'hyaluronic acid', ' ', 'dermal filler', ' ', 'cosmetic surgery', ' ', 'cancer reconstructive surgery', '']
+Xiring
+	Provider of security services for remote transactions. The company offers software embedded terminals, smart card readers and electronic signature in banking, healthcare and transportation markets. The company also provides services for banks to authenticate online customers and secure remote banking activities.
+	['', 'remote transactions', ' banking ', 'transportation markets', '']
+Transmo
+	Developer of automated fare collection and smart-card systems. The company designs and supplies a wide range of products which are used on buses, trams, ferries and station platforms for processing smart cards. Hardware products include driver consoles, on-board smart card processors, handheld card readers, gate adaption kits, platform smart card processors, smart-card office terminals and add-value machines.
+	['', 'smart card', ' ', 'smart card scheme', ' ', 'travel management scheme', ' travel']
+NanoMR
+	Manufacturer of blood diagnostic devices. The company has developed a system for rapid isolation of rare cells from complex matrices at levels of one cell per milliliter or lower.
+	['', 'blood diagnostic', ' ', 'bloodstream infection', ' ', 'molecular diagnostic', '']
+CircleSmartCard
+	Developer of thermoplastic material smart card bodies and data carriers. The company\'s products include chipcoins, magnetic strip and microprocessor cards. It serves computer chip holders.
+	['thermoplastic ', 'magnetic strip', ' microprocessor ', 'smart cards', '']

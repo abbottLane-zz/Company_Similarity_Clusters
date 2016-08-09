@@ -1,45 +1,18 @@
-Rolsen Electronics
-	Manufacturer of household electronics in Russia. The company provides a range of consumer products, including television sets, DVD players, DVD recorders, plasma panels and LCD TV sets, home video systems, air conditioners and washing machines.
-	['', 'electronic appliances', ' ', 'production cycle', ' ', 'consumer product', '']
-Sagres Discovery
-	Provider of oncogene discovery, individualized cancer profiling, drug target validation and therapeutic development.
-	['', 'oncogene discovery', ' ', 'drug target validation', ' ', 'drug therapeutic', ' ', 'cancer profiling', '']
-Genoway
-	Developer of genetically modified rat and mouse models for use in in vivo target validation and drug development. The company offers scientific consulting to enhance the reliability of the client\'s in vivo studies. It provides services or generation of transgenic mice, conditional and constitutive knockout mice, knockin mice and humanized mice.
-	['', 'transgenic mice', ' ', 'in vivo', ' ', 'mouse model', ' ', 'genetically modified', ' ', 'knockout mice', '']
-Lipomics Technologies
-	Provider of metabolite profiling, biomarker discovery and metabolism consultation services. The company develops diagnostic tests for important measures of metabolic function. It provides metabolic assessments for drug research, clinical diagnostics and personalized medicine. It uses its technologies to discover new diagnostic biomarkers, improve drug discovery, develop companion diagnostics.
-	['', 'metabolite profiling', ' ', 'metabolism consultation services', ' ', 'Healthcare industry', '']
-Combio
-	Developer of novel synthesis and screening technologies. The company focuses in discovery and optimization of drug candidates against therapeutically important protease and protease reagents and protease characterization. It is based on proprietary bead-based lead optimization tools and chemical scaffolds for novel protease inhibitors. In addition, it has in-house in vitro pharmacology, medicinal chemistry, computational chemistry and intellectual property rights management.
-	['healthcare ', 'drug discovery', ' biochemical ', 'pharmaceutical preparations', ' ', 'screening technologies', '']
-Inpharmatica
-	Provider of proprietary platform, PharmaCarta(TM), is an integrated suite of informatics-based technologies. The company uses its  informatics approaches to look at the relationships between the structure and function of proteins in order to identify drug targets for further commercial development.
-	['informatics PharmaCarta ', 'drug discovery', '']
-OxEpi
-	Developer of new therapies for oncology and metabolic disease. The company uses a medicinal chemistry approach for the discovery and development of new antagonists of a major new class of enzymatic targets involved in epigenetic regulation.
-	['epigenetics ', 'genetic code', ' mutations']
-Coelacanth Chemical
-	Provider of proprietary chemistry technologies to rapidly discover new chemical entities for drug development and discovery. The company uses its proprietary technology ClickChem to create sets of novel building blocks which are used for the production of innovative compound sets that shorten lead discovery and lead optimization time for drug development.
-	['ClickChem , ', 'proprietary chemistry technologies', ' ', 'novel building blocks', '']
-Accelerated Orthopedic Technologies
-	Provider of proprietary tools for obtaining, shaping and implanting cartilage grafts.
-	['', 'proprietary tool', ' ', 'cartilage graft', ' ', 'cartilage defect', ' ', 'healthcare software', '']
-Nuada Pharmaceuticals
-	Developer of new medicines by utilizing a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network. The company is a specialty pharmaceutical company that utilizes a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network to discover new medicines for both internal programs and collaborative projects. It delivers enabling chemical synthesis solutions for medicinal chemistry, process chemistry, high throughput parallel synthesis and combinatorial chemistry. The company\'s proprietary technologies, including instruments, chemicals, databases and informatics tools, fundamentally change chemical synthesis discovery and development, by accelerating the process in a cost-effective manner.
-	['', 'medicinal chemistry', ' ', 'medicinal chemistry', '']
-OSS Healthcare
-	Provider of seed funding to drug development companies. The company engages in searching for new oncology focused drugs and also provides seed funding for further drug development.
-	['', 'drug development', ' oncology drugs']
-Illumigen Biosciences
-	Developer of drugs for the treatment of hepatitis C virus infections. The company uses its proprietary genetic technologies to discover human genetic mutations for therapeutic drug mechanisms.
-	['', 'human genetic mutations', ' ', 'therapeutic drug', ' ', 'hepatitis C', '']
-Lee\'s Pharmaceutical Holdings
-	Provider of pharmaceuticals for drug development and clinical development. The company specializes in cardiovascular and infectious diseases, dermatology, oncology, gynecology, ophthalmology and others.
-	['', 'infectious diseases', ' dermatology']
-Avacta Group
-	Developer of chemical and biological detection technology. The company provides technologies, consumables and reagents for the life science markets, from drug discovery to diagnostics. It is engaged in the research, development, production and delivery of instrumentation and services for the biopharmaceutical drug development and clinical diagnostics markets using biophysical technology.
-	['', 'protein formulation', ' ', 'protein characterization', ' ', 'stability testing', '']
-ESBATech
-	Developer of human antibody fragments for therapeutic applications. The company also provides drug development and development programs.
-	['', 'therapeutic application', ' ', 'antibody fragment', ' ', 'drug development', '']
+Yardbarker
+	Operator of a sports website. The company allows sports fans, bloggers, and professional athletes to read and discuss sports articles, view sports photos and videos, debate and interact with each other. It also operates an online store that offers women\'s, kid\'s, men\'s, and organic T-shirts; and baby one-pieces, accessories, and gift cards.
+	['', 'sports website', ' ', 'online sports media', ' ', 'online sports entertainment', ' ', 'online sports article', '']
+Shawei.com
+	Provider of an online platform for sports fans. The company offers web portal for chinese sports.
+	['', 'online sport platform', ' ', 'web portal', ' ', 'sport portal', '']
+Bleacher Report
+	Provider of an open source sports network and community publishing site for amateur sports writers. The company allows sports fans to share insights and opinions, news and photos as well as write articles. It also provides advertising opportunities, including run-of-site and targeted campaigns.
+	['', 'sports network', ' ', 'community publishing', ' ', 'sports publishing', ' ', 'sports media', ' ', 'digital publishing', ' ', 'sports website', ' ', 'sports news', '']
+Kewego
+	Provider of business solutions for managing, broadcasting and monetizing videos on Internet, Intranet, mobiles and screen networks. The company provides IP-based, multi-screen video asset management solutions for managing, broadcasting and monetizing videos on PCs, mobile phones, iPads, connected TVs, gaming consoles and other Internet-connected devices. It also provides a Web portal solution that consists of a video portal with personalized player that enables its clients to integrate a Web portal to their Websites.
+	['', 'video broadcasting', ' ', 'video monetizing', ' ', 'video portal', ' ', 'video asset management', ' ', 'online video', '']
+Enthuse
+	Provider of mobile focused platform for sports franchises. The company offers an online platform that gives fans the ability to connect with their sports teams via their mobile devices.
+	['', 'mobile device', ' ', 'sport platform', ' ', 'online connection', '']
+Mangia Technologies
+	Provider of a platform for sports fans. The company enables people to order food and merchandise using mobile phones.
+	['', 'food order', ' ', 'sports fan', ' ', 'ticket booking', '']

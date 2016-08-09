@@ -1,18 +1,27 @@
-Prime Cable
-	Operator of cable television systems. The company is the owner and operator of cable television systems which operates in Montgomery County, Maryland; Arlington County, Virginia; and Chicago, Illinois.
-	['', 'cable television', '']
-Edbe
-	Provider and distributor of wedding and party dresses. The company is engaged in the distribution of wedding and party dresses through its chain of stores distributed throughout Europe.
-	['', 'wedding dress', ' ', 'clothing store', ' ', 'party wear', '']
-Carestel Group
-	Provider of commercial catering services. The company is engaged in providing catering services and production and distribution of vacuum packed food products. The company also owns and operates hotels providing hotel services to luxury residences.
-	['', 'catering services', ' ', 'hotel services', ' ', 'packaged food', '']
-Macab
-	Operator of a cable technology company. The company is engaged in providing products for the reception and distribution of television signals. The company also provides installation and maintenance services.
-	['', 'maintenance services', ' ', 'installation services', ' ', 'cable technology', ' ', 'antenna television', ' ', 'television signal distribution', '']
-Ygle
-	Provider of installation and routine maintenance of building utility systems. The company provides design, installation and maintenance services for the office, retail, industrial and other special purpose buildings that require complex HVAC engineering services.
-	['', 'maintenance of building utility systems', ' ', 'construction and engineering', ' ', 'installation and maintenance', '']
-Oxygen Media Group
-	Operator of female-focused cable television network. The company integrates media brand by combining the qualities of internet and cable television.
-	['', 'cable network', ' female-focused ', 'media brand', '']
+Steelscreen
+	Provider of an online marketplace for metal products. The provides an online trading platform for selling steel and metal products.
+	['', 'trading platform', ' ', 'metal products', ' steel']
+ATP - Advanced Technology Products
+	Manufacturer and seller of metal links. The company provides metal links for chained ammunition.
+	['', 'automatic feeding', ' ', 'medium size cartridge', ' munitions ', 'commercial product', '']
+SteelOrbis Elektronik Pazaryeri
+	Operator of an e-trading platform that offers up-to-date news on the steel industry and steel trading from one single source. The company\'s market intelligence service keeps users updated on the latest pricing and trends in the steel world with daily price reports and market analyses derived from actual transactions.
+	['', 'e-trading', ' ', 'steel industry', '', 'market intelligence', ' ', 'price reports', ' analyses']
+GAIN Capital Securities
+	Provider of an online investment network. The company operates an online trading-services platform, providing execution, clearing, custody and technology products and services to retail and institutional investors in more than 140 companies.
+	['', 'capital security', ' ', 'real-time balance', ' ', 'mutual fund', '']
+Excera Materials Group
+	Manufacturer of ceramic and metal composite materials and products. The company offers onmex material which is used in various applications such as ballistic armor, molten metal and abrasive materials handling, vehicle braking systems, tool and die products.
+	['', 'ceramic products', ' ', 'metal composite materials', ' ', 'onmex materials', ' ', 'ceramic materials', '']
+Cartup Commerce
+	Provider of online service that enables eCommerce sites to earn commission by cross-selling products and services from leading brands.
+	['', 'online service', ' ', 'e commerce', ' ', 'cross selling', ' ', 'e commerce service', '']
+Loveyewear
+	Operator of an e-commerce platform for selling eye-wear. The company offers branded glasses and sunglasses in Sweden.
+	['eye-wear eyewear glasses sunglass ', 'online eyewear store', '']
+JL-Levytekniikka
+	Producer of sheet metal products. The company operates as a sheet metal parts and sub-assemblies contract producer working with materials such as steel and aluminum. The company spun out of Teleste.
+	['', 'sheet metal products', ' sub-assemblies ', 'sheet metal parts', ' ', 'contract producer', '']
+Zitra
+	Operator of an B2B online marketplace. The company operates a B2B trading platform which allows for direct purchases of brand name and designer merchandise.
+	['B2B ', 'direct purchases', ' designer']

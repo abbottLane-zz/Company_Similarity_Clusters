@@ -1,21 +1,39 @@
-Fiomi Diagnostics
-	Manufacturer and marketer of diagnostic test kits. The company also develops a panel of point-of-care cardiac marker assays.
-	['', 'diagnostic substance', ' ', 'Invitro diagnostic substance', ' ', 'diagnostic testing', ' ', 'cardiac marker assays', '']
-SNAPin Software
-	Provider of device-centric customer care and diagnostic software products. The company’s handset-based SelfService product suite repairs critical device and network settings, such as those required for roaming, messaging, or data networking.
-	['software wireless communication network ', 'mobile phone', ' cellular telecommunication roaming repair']
-DiaSpect Medical
-	Provider of in vitro diagnostic systems. The company provides instant hemoglobin related measurements in unaltered whole blood for point of care.
-	['hemoglobin measurements ', 'point of care', ' ', 'healthcare services', '']
-Quotient Diagnostics
-	Developer of immunohematology products. The company develops testing technologies for the diagnosis and treatment of diabetes and associated diseases. It also provides point-of-care devices for glycated hemoglobin measurement.
-	['immunohematology ', 'testing technology', ' diabetes ', 'point-of-care device', ' ', 'glycated hemoglobin measurement', '']
-Åmic
-	Developer of point-of-care diagnostic products. The company has developed a diagnostic platform based on micro-fabrication technology for application in point-of-care diagnostics.
-	['', 'diagnostic platform', ' ', 'point-of-care', ' ', 'microfluidic technology', ' ', 'micro-fabrication technology', '']
-Point-of-Care Systems
-	Operator of healthcare information data capture system. The company captures point-of-care data for the home healthcare industry.
-	['', 'Healthcare information data', ' ', 'healthcare industry', '']
-Prometheus Laboratories
-	Developer of diagnostic and therapeutic products. The company developing and commercializing novel pharmaceutical and diagnostic products to help physicians individualize patient care. It markets and promotes Entocort EC, a glucocorticosteroid, which is indicated for the induction and maintenance of clinical remission in mild to moderate active Crohn\'s disease involving the ileum and/or the ascending colon. It has an agreement to acquire rights to LOTRONEX tablets, which is used in female patients with diarrhea-predominant irritable bowel syndrome; and an agreement to develop and commercialize COLAL-PRED, a development-stage product for the treatment of gastrointestinal diseases or other applications.
-	['', 'therapeutic product', ' ', 'diagnostic testing service', ' ', 'inflammatory disease treatment', '']
+Cropsolution
+	Developer of agrochemicals for protecting crops from weeds, pests and diseases. The company uses its proprietary Evolutionary Chemistry technology to discover and develop agrochemicals for protecting crops.
+	['', 'crop protection', ' agrochemical']
+Sirus
+	Operator of a pharmaceutical research company. The company focuses on drug development for the treatment of nerve injury and muscle spasm by using its proprietary platform technologies that covers pain, emesis, epilepsy and insomnia.
+	['', 'neurological disease', ' ', 'drug development', ' ', 'chemical properties', ' ', 'platform technologies', '']
+Genoway
+	Developer of genetically modified rat and mouse models for use in in vivo target validation and drug development. The company offers scientific consulting to enhance the reliability of the client\'s in vivo studies. It provides services or generation of transgenic mice, conditional and constitutive knockout mice, knockin mice and humanized mice.
+	['', 'transgenic mice', ' ', 'in vivo', ' ', 'mouse model', ' ', 'genetically modified', ' ', 'knockout mice', '']
+OPX Biotechnologies
+	Developer of bio-based fuels. The company uses proprietary bioengineering technology to convert renewable feedstocks into biofuels and green chemistry products.
+	['bioproduct bioengineering ', 'renewable fuel', ' biofuel ', 'green technology', '']
+Combio
+	Developer of novel synthesis and screening technologies. The company focuses in discovery and optimization of drug candidates against therapeutically important protease and protease reagents and protease characterization. It is based on proprietary bead-based lead optimization tools and chemical scaffolds for novel protease inhibitors. In addition, it has in-house in vitro pharmacology, medicinal chemistry, computational chemistry and intellectual property rights management.
+	['healthcare ', 'drug discovery', ' biochemical ', 'pharmaceutical preparations', ' ', 'screening technologies', '']
+Inpharmatica
+	Provider of proprietary platform, PharmaCarta(TM), is an integrated suite of informatics-based technologies. The company uses its  informatics approaches to look at the relationships between the structure and function of proteins in order to identify drug targets for further commercial development.
+	['informatics PharmaCarta ', 'drug discovery', '']
+OxEpi
+	Developer of new therapies for oncology and metabolic disease. The company uses a medicinal chemistry approach for the discovery and development of new antagonists of a major new class of enzymatic targets involved in epigenetic regulation.
+	['epigenetics ', 'genetic code', ' mutations']
+Coelacanth Chemical
+	Provider of proprietary chemistry technologies to rapidly discover new chemical entities for drug development and discovery. The company uses its proprietary technology ClickChem to create sets of novel building blocks which are used for the production of innovative compound sets that shorten lead discovery and lead optimization time for drug development.
+	['ClickChem , ', 'proprietary chemistry technologies', ' ', 'novel building blocks', '']
+Nuada Pharmaceuticals
+	Developer of new medicines by utilizing a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network. The company is a specialty pharmaceutical company that utilizes a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network to discover new medicines for both internal programs and collaborative projects. It delivers enabling chemical synthesis solutions for medicinal chemistry, process chemistry, high throughput parallel synthesis and combinatorial chemistry. The company\'s proprietary technologies, including instruments, chemicals, databases and informatics tools, fundamentally change chemical synthesis discovery and development, by accelerating the process in a cost-effective manner.
+	['', 'medicinal chemistry', ' ', 'medicinal chemistry', '']
+OSS Healthcare
+	Provider of seed funding to drug development companies. The company engages in searching for new oncology focused drugs and also provides seed funding for further drug development.
+	['', 'drug development', ' oncology drugs']
+Illumigen Biosciences
+	Developer of drugs for the treatment of hepatitis C virus infections. The company uses its proprietary genetic technologies to discover human genetic mutations for therapeutic drug mechanisms.
+	['', 'human genetic mutations', ' ', 'therapeutic drug', ' ', 'hepatitis C', '']
+Lee\'s Pharmaceutical Holdings
+	Provider of pharmaceuticals for drug development and clinical development. The company specializes in cardiovascular and infectious diseases, dermatology, oncology, gynecology, ophthalmology and others.
+	['', 'infectious diseases', ' dermatology']
+ESBATech
+	Developer of human antibody fragments for therapeutic applications. The company also provides drug development and development programs.
+	['', 'therapeutic application', ' ', 'antibody fragment', ' ', 'drug development', '']

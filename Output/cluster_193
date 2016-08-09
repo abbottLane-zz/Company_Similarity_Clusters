@@ -1,51 +1,63 @@
-SilverSky
-	Provider of on demand security services for computer networks in the United States. The company\'s on demand security services include vulnerability defense, intrusion defense, managed firewall, network defense, virus protection, email defense, system defense, high speed internet access, user defense, secure hosted email, email archiving and desktop management.
-	['', 'antivirus software', ' ', 'network security', ' ', 'email security', '']
-Symbiot
-	Provider of risk metrics products for measurement and management of network security events. The company offers predictive tools for managing and analyzing streams of security event data. The company’s products include Symbiot 5600, a detection and mitigation solution to deliver community centric security to organizations; Symbiot.NET, a central repository of attacker profiles based on the cooperative surveillance and reconnaissance gathered by network participants; and Symbiot Orb, which provides interface solutions for users enabling them to avoid logging in or paged to monitor their network security.
-	['', 'network security', ' ', 'risk measurement', ' ', 'risk metric product', '']
-International Network Services
-	Provider of network consulting and security services. The company provides services for the full life cycle of a network, including planning, design, implementation, operations and optimization.
-	['', 'network consulting', ' ', 'security services', ' optimization']
-Syntensia
-	Provider of network security services. The company provides security on-demand solutions on subscription basis.
-	['', 'network security', ' ', 'security services', ' ', 'subscription basis', '']
-SecuroNet
-	Provider of software and networking services. The company enables public and private subscribers to join forces with each other via a suite of collaboration tools and share content from a city-wide network of security cameras to improve emergency response effectiveness via emergency video notification.
-	['', 'software services', ' ', 'networking services', ' ', 'video networking', '']
-Arkoon Network Security
-	Provider of Internet security services. The company\'s software products enables network security, computer system protection and data confidentiality.
-	['', 'internet security', ' ', 'integrated software', ' ', 'network security', ' ', 'computer system protection', ' ', 'data confidentiality', ' ', 'firewall', '']
-Sereniti
-	Provider of home computer network security, technical support and management services. The company\'s products provides router security, wireless management services, folder sharing, printer sharing, share protection safeguards and security identification. The company aims to improve and enhance the flow of data for broadband service providers such as cable operators.
-	['', 'network security', ' ', 'wireless management', ' ', 'folder sharing', ' ', 'security identification', '']
-Cyrye
-	Provider of commercial solutions. The company provides Drupal migration services, Growing Venture Solutions (GVS), and Drupal security services.
-	['', 'commercial solution', ' ', 'Drupal migration service', ' ', 'Growing Venture Solution', '']
-Security-7
-	Developer of network security services. The company provides security products for the corporate market against threats coming into the network through downloaded internet content.
-	['', 'internet content', ' ', 'network security', ' ', 'security service', '']
-Packet Analytics
-	Provider of network security tools. The company specializes in tool development for IT security assessments and incident response applications. It offers Network Forensics Search Engine (Net/FSE), a Linux-based software that provides a web interface for network managers to see an analytical profile of host-to-host activity based on NetFlow router data and other log information related to an organization\'s security systems.
-	['', 'security system', ' ', 'network security', ' ', 'network manager', ' ', 'router data', '']
-Rohati Systems
-	Provider of internet networking solutions. The company provides agent-less access management, authentication and authorization, controlled collaboration, managing offshore risk, micro perimeters, secure administration, compliance and audit, and payment card industry council\'s data security standards compliance solutions. It offers Transaction Networking System, a network-based entitlement control platform, which enables entitlement control on a per-transaction basis for data center environments.
-	['', 'networking solution', ' ', 'access management', ' ', 'controlled collaboration', ' ', 'secure administration', ' ', 'compliance solution', ' ', 'control platform', '']
-eTunnels
-	Provider of virtual private network and security services. The company offers connection to network servers securely using VPN technology.
-	['', 'telecommunication service providers', ' ', 'virtual private network', '']
-Fortinet
-	Provider of network security appliances and unified threat management (UTM) network security solutions. The company\'s primary UTM solution consists of FortiGate appliance products that provide a range of security and networking functions, including firewall, VPN, antivirus, intrusion prevention, application control, Web filtering, antispam, wireless controller, and WAN acceleration. It also offers a family of FortiManager appliances that enable end-customers to manage the system configuration and security functions of multiple FortiGate appliances from a centralized console; and FortiAnalyzer appliances, which enable collection, analysis, and archiving of content and log data generated by its products. In addition, it provides FortiMail, a family of messaging security appliances; FortiDB, a family of appliances that provide centrally managed database-specific security; FortiClient, a software product that provides endpoint security for desktops, laptops, and mobile devices; and FortiWeb, a family of appliances that provide security for Web-based applications.
-	['', 'network security appliance', ' ', 'unified threat management', ' ', 'wireless access point', '']
-Latis Networks (Managed Security Services Division)
-	Provider of network security services. The company handles the operation of data security for companies that don\'t have the bandwidth.
-	['', 'network security', ' bandwidth operation']
-Protego Networks
-	Provider of purpose-built intelligent network security information and threat management appliances. The company provides security threat mitigation solutions that allow organizations to quickly identify, analyze and respond to security threats targeted at mission critical networks and applications.
-	['', 'Mitigation and Response System', ' ', 'network security', ' firewall']
-Seclarity
-	Developer of network security services to users, applications and operating systems. The company offers Sinic, a security card that enforces various security policies, such as encryption, authentication and firewalling, as well as turns broadcast network into a private network by offering protection.
-	['', 'network security service', ' ', 'operating system', ' ', 'broadcast network', '']
-Beijing Venustech
-	Provider of network security products. The company engages in providing security management platforms and security services in China.
-	['', 'network security products', ' ', 'security services', ' ', 'security auditing', '']
+Paymo
+	Provider of mobile payments network for online merchants. The company allows consumers to buy online and pay with their mobile phone.
+	['', 'online payment network', ' ', 'mobile payment', ' ', 'payment software', '']
+MobileMax
+	Provider of a solution to the calling card industry for serving the lucrative mobile user segment. The company engages in the development, manufacturing and marketing of software and hardware facilitating low-priced international calls by mobile phone.
+	['', 'unified communication', ' ', 'fixed mobile convergence', ' ', 'telecommunication service', '']
+Spring Partners
+	Provider of web and mobile phone applications that provide coupons for discounts at retailers. The company provides Springpad, which enables consumers to save and share products and services on web and mobile phones as well as EngageProactively, that communicates with consumers and provides branded information, offers and deals.
+	['', 'media service', ' ', 'mobile phone applications', ' ', 'Media and Information', '']
+Sipcall.com
+	Developer of innovative Session Initiation Protocol (SIP) based services. The company\'s products include Hipsip, a SIP service for mobile phone users in the United States and internationally.
+	['', 'Session initiation service', ' ', 'broadband connection', ' ', 'personalized phone number', ' ', 'telephone network', '']
+VoiceObjects
+	Provider of a phone application server. The company\'s products include VoiceObjects Server, a phone application server that enables carrier-grade deployment and management of over-the-phone voice, video, text and mobile Web self-service applications and VoiceObjects Desktop, a GUI-based application for creating, testing, deploying and monitoring self-service phone portals. It also offers professional services, including consulting, training and technical support services. Its customers include banking and financial services, communication, marketing agencies, industrial, travel and support, healthcare, government, entertainment and info-portals and management service providers in the United States and internationally.
+	['', 'phone application server', ' ', 'phone portal', ' ', 'phone voice', '']
+Jambo
+	Provider of net-to-phone software for connecting web searchers directly with local businesses via phone. The company provides a mobile membership directory that works like radar to give any group of people the ability to detect, search, browse and connect to each other, when they happen to be in the same city and as close as a few blocks away.
+	['', 'net-to-phone software', ' ', 'vertical market', ' ', 'embedded sales', ' ', 'software application', '']
+Brainglass
+	Provider of educational mobile applications. The company\'s language learning applications combine the concepts of audiobook, e book, dictionary and exercises into one engaging learning environment on a user\'s mobile phone.
+	['', 'learning application', ' ', 'learning environment', ' ', 'mobile education', '']
+Seeker Wireless
+	Developer of mobile phone geolocation and zone detection technologies. The company provides zone based charging with low network impact for GSM, 2G and 3G networks and also provides SeekerZone that helps zone status detection, reporting to the handsets and signals through USSD, SMS and GPRS.
+	['geolocation ', 'zone detection', ' GSM GPRS 3G']
+Secusmart
+	Provider of mobile phone security services. The company has developed a product which enables users to receive encrypted calls and to store secret documents with a single mobile device.
+	['', 'phone security', ' ', 'security service', ' ', 'mobile device', '']
+GrandCentral
+	Provider of phone management services. The company developed a service that allows users to use one phone number for all of their phones.
+	['', 'online service', ' ', 'online search service', '']
+Vumber
+	Provider of anyphone, anytime, anywhere phone number that keeps users identity private. The company offers a number from any area code users want, to be linked to their home, cell, or work phone.
+	['', 'phone number', ' ', 'private identity', ' ', 'number connection', '']
+Dblur technology
+	Developer of software lens technology.The company develops software solutions mainly for camera manufacturers. The company also mobile phone camera vendors solution for the design of miniature cameras at lower cost.
+	['cellular digital medical camera']
+Snaptu
+	Provider of online solutions for mobile devices. The company offers Snaptu, an application that turns Websites into mobile phone applications. It serves online service providers, media companies and content owners, mobile network operators and content aggregators, and system integrators.
+	['', 'online solution', ' ', 'mobile solution', ' ', 'mobile application', '']
+GooJet
+	Provider of mobile phone applications and web content. The company allows mobile phone users to define their page of selected services and widgets by providing them with relevant information  in a phone-compatible format.
+	['', 'web content', ' widgets ', 'phone-compatible format', '']
+YumDots
+	Developer of a mobile application for finding places to eat. The company uses interactive maps to help users locate nearby restaurants on their computer or mobile phone.
+	['restaurant ', 'places to eat', ' ', 'nearby restaurants', '']
+Camino Real
+	Provider of mobile applications. The company\'s application helps mobile phone turn into a push-to-talk walkie-talkie.
+	['', 'mobile application', ' ', 'voice messaging', ' ', 'walkie-talkie', '']
+Mango Capital
+	Provider of networking software. The company provides software that allows for networked sharing of files, web content and applications, clustered caching for load balancing, fault-tolerance and scalability, web caching across work groups, and multiple access to the internet from a single phone line.
+	['']
+FlipSwap
+	Provider of mobile phone trade-in and recycling services. The company engages in the online trade of cell phones and recycles unusable phones in the United States.
+	['', 'mobile phone trade', ' ', 'online phone trading', ' ', 'unusable phone recycling', ' ', 'electronics recycling', ' ', 'electronic buy back', ' ', 'phone trade', ' ', 'wireless device', ' ', 'wireless phone reuse', ' ', 'cellphone recycling', '']
+Precision Augmented Realtiy Works
+	Developer of mobile augmented reality system. The company\'s technology offer users, taking a photo of the outside of a house with a mobile phone and then overlaying a chat with the agent, taking a virtual tour of the house on the spot.
+	['', 'reality system', ' ', 'mobile reality', ' ', 'mobile augment', '']
+Socialinfinity
+	Developer of web and mobile page builder for small business owners. The company develops software to launch brands through blogging, e-commerce, Facebook page integration and other features.
+	['']
+FusionOne
+	Provider of mobile phone backup services in the United States and internationally. The company\'s products include MightyBackup that enables users to store, manage, and transfer mobile phone content, such as contacts, photos, messages, memories, and purchased content; and Network Address Book, which helps users to organize and manage their various address books through a single interface, and share their contacts across their different address books and social networks. The company also provides Social Address Book services that aggregate mobile, messaging, Internet, and social communications into a contact-centric view to access friends\' activities.
+	['', 'mobile phone backup service', ' ', 'mobile content portability', ' ', 'Handset Transfer solution', ' ', 'Social Address Book service', '']

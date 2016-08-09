@@ -1,27 +1,51 @@
-QuiQom Systems
-	Provider of high-speed broadband services. The company develops technology that allows individual units to use the existing central antenna system in multifamily houses to obtain high-performance broadband and internet protocol televison.
-	['', 'high-speed broadband', ' ', 'central antenna system', ' ', 'broadband modem', '']
-Telaxis Communications
-	Developer of broadband and wireless access equipments. The company develops and supplies high-speed or broadband, wireless access equipment used by network service providers to deliver integrated voice, video and data services to business and residential subscribers.
-	['', 'wireless equipments', ' ', 'wireless communication equipments', ' ', 'connectivity equipments', ' electronics']
-AirPrime
-	Provider of high-speed, code division multiple access wireless data and voice products to the original equipment manufacturer market. The company focuses on providing the optimal current and next-generation wireless access products for use in handheld devices, notebook PCs and internet appliances.
-	['', 'wireless access solutions', ' ', 'wireless access products', ' ', 'wireless data', ' ', 'voice modules', '']
-Antcor
-	Provider of Wi-Fi software products and services. The company provides LTE simulation and emulation products and services to the broadband wireless access market. Its product IkarusOS is a network operating system for broadband wireless networking devices which integrates wireless and networking functions.
-	['', 'wireless connection', ' ', 'broadband service', ' ', 'wireless networking', '']
-RF Solutions
-	Developer of transceiver products for the broadband wireless access market. The company offers initial standard product design that focused on broadband wireless access.
-	['', 'wireless service provider', ' ', 'broadband services', '']
-NetCentrex
-	Developer of networking products and network-based applications for business communications, customer interactions and broadband residential communications. The company offers network-based software enabling IP-based voice-video-data and FMC (fixed-mobile convergence) solutions for service providers; and software-based converged voice-video-data-over-IP solutions. It develops network (NGN) voice and video solutions that enable telecom operators and service providers to deliver voice-video-data and fixed-mobile converged services for the consumer and enterprise markets.
-	['', 'broadband communication', ' ', 'network product', ' ', 'mobile converge service', '']
-LANergy
-	Provider of networking technologies. The company engages in development of various communication technologies including broadband and wireless networking systems.
-	['', 'networking technology', ' ', 'broadband technology', ' ', 'wireless networking', '']
-Vanion
-	Provider of integrated voice and data communications services to business and residential customers. The company offers services that range from dial-Up internet access to DSL and from dedicated internet access to voice services.
-	['', 'data communications services', ' ', 'dial-Up internet access', '']
-Incanta
-	Developer of broadband media software applications. The company develops technology and the network to deliver high bandwidth multi-media content to ADSL and cable modem subscribers.
-	['', 'broadband media', ' ', 'cable modem', ' bandwidth']
+GeckoGo
+	Operator of an online travel website. The company provides travel website for travelers which enables them to post, discuss and read travel information and reviews. It also develops travel applications for mobile phones.
+	['', 'travel application', ' ', 'travel website', ' ', 'travel resource', '']
+Toothpick
+	Provider of an online platform to book dentists appointments. The company provides a dentist finder platform where dentist can show their available appointments and patients can easily book in and become a new patient at their practice.
+	['', 'online appointment', ' ', 'online dentist', ' ', 'online appointment platform', ' ', 'dental platform', ' dentist ', 'online dental appointment', '']
+Snowbon
+	Provider of an online booking platform for ski and related activities. The company provides a system to book ski lift tickets, skiing equipment and also provides information regarding the hotels and climate.
+	['', 'online booking platform', ' ', 'ski lift ticket', ' ', 'skiing equipment', '']
+Travelmenu
+	Operator of an online travel agency. The company operates as a hotel booking engine and provides online retail of travel products, including hotels, flights and package holidays.
+	['', 'online travel agency', ' ', 'hotel booking', ' ', 'package tour', '']
+Panraven
+	Provider of online storytelling services. The company provides a multimedia service that enables the users to chronicle and communicate their life experiences through stories that can be viewed and shared online and printed in books.
+	['', 'online storytelling', ' ', 'pre trip planning', ' publishing']
+Easy Market
+	Developer of online booking systems for travel agencies specializing in tour packages, special offers, last minute and low cost flights.
+	['', 'booking system', ' ', 'tour package', ' ', 'low cost flight', ' ', 'computerised reservation', '']
+GetThere
+	Operator of online corporate travel and collaboration solution. The company provides platform for reservation of rail,car,hotels online. The company combines travel, collaboration and expense solutions to help corporations connect and grow business.
+	['', 'global service infrastructure', ' travel']
+Hotwire
+	Provider of discount travel services. The company offers deep discounts from its travel suppliers to help travelers book unsold airline seats, hotel rooms, and rental cars.
+	['discount ', 'rental car', ' ', 'hotel rooms', ' airline ', 'discount airfare', ' ', 'discount travel', '']
+Burufly
+	Provider of an online travel portal. The company offers an online platform that enables users to search for places to travel in Indonesia and book hotels and flights.
+	['', 'travel site', ' ', 'travel portal', ' ', 'tour packages', '']
+ExperienceOn Ventures
+	Operator of a website which will make internet hotel search faster. The company offers flexible travel options to its clients to enhance their travel experience and support their travel plans.
+	['', 'hotel search', ' ', 'travel solution', ' ', 'travel experience', ' travel']
+Fly.pl
+	Provider of online travel services. The company is the provider of a Polish-language booking site for international flights and travel packages.
+	['', 'travel services', ' ', 'holiday packages', ' ', 'airline tickets', ' ', 'online travel', ' ', 'booking site', ' ', 'international travel', '']
+redBus
+	Provider of an online bus ticketing service. The company enables users to book bus tickets through phone, home delivery, physical outlets or even SMS.
+	['', 'online bus ticket', ' ', 'booking service', ' ', 'online ticketing', '']
+G2 SwitchWorks
+	Provider of travel distribution solutions for travel suppliers and agents in the United States. The company offers products for ticket fare search, ticket booking, and automated exchange and refunds.
+	['', 'travel distribution', ' ', 'travel supplier', ' ', 'ticket booking', '']
+WorldMate
+	Developer of mobile travel itinerary management platform. The company\'s platform collates structured itineraries by recognizing and then parsing confirmation emails from all significant travel providers worldwide. It provides travelers with services such as itinerary updates and changes, flight delays and cancellations.
+	['', 'mobile travel software', ' ', 'android application', ' ', 'personal travel assistant', ' ', 'business travel', '']
+Chang Xiang Hangzhou Network Technology Co.
+	Provider of travel management services to businesses. The company operates a site that provides travel services including travel management and travel credit for firms, non-profit entities and governments. It also provides hotel and air ticket booking services for enterprises.
+	['', 'travel management', ' ', 'travel services', ' ', 'travel credit', ' ', 'ticket booking', '']
+BedandBreakfast.com
+	Operator of an online bed and breakfast directory and reservation network. The company also offers gift cards for bed and breakfast travel online. It enables its users to search and make reservations for bed and breakfast home stays, country inns, urban bed and breakfasts, guest houses, lodges, cabins, historic hotels, small resorts, guest ranches, farmhouse accommodations, and working farm and ranch vacations located in the United States, Canada, and internationally.
+	['', 'bed and breakfast directory', ' ', 'bed and breakfast travel online', ' ', 'bed and breakfast home stay', ' ', 'online reservation', ' ', 'travel agency', '']
+Vamo Labs
+	Provider of online travel planning. The company offers a website enabling users to book a full vacation or business trip online.
+	['', 'online hotel reservation', ' ', 'travel and tourism', ' ', 'flight booking', '']

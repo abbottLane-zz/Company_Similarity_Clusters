@@ -1,12 +1,15 @@
-Tomaisins International
-	Developer of seeds for tomato raisins. The company develops seeds for the use of the dried tomatoes industry.
-	['seeds ', 'tomato raisins', ' ', 'cherry tomatoes', ' ', 'dried tomatoes', '']
-Radionet
-	Provider of products and technology for large-scale outdoor wireless networks. The company develops solutions for citywide Wireless Hotzones and community networks, mobile broadband solutions for industrial applications such as ports and mines, and link solutions for wireless backhaul and building-to-building links.
-	['', 'broadband networks', ' ', 'Power Utilities', ' broadcasts city-wide']
-NxtGen Emission Controls
-	Manufacturer of syngas systems for diesel and engine combustion optimization. The company offers syngas diesel particulate filter (DPF), a diesel emission control system for medium-duty and light-duty on-road vehicles; syngas lean NOx trap (LNT), a diesel emissions control system; and syngas DPF + LNT, an integrated solution to reduce particulate matter and NOx emissions using syngas as the regenerating agent. It also provides syngas generator evaluation unit for researchers, government laboratories, powertrain, energy, and fuel cell technology developers; syngas lean combustion for gasoline automobile manufacturers to reduce greenhouse gas emissions; and Non-Catalytic Syngas Generator Primer that enables diesel engine after treatment and gasoline engine combustion optimization systems.
-	['', 'diesel emission control system', ' ', 'engine combustion optimization', ' ', 'diesel particulate filter', '']
-Agropeace Bio
-	Developer of a large scale agro-industrial plantations. The company cultivates, harvests and processes castor seeds for extracting oil and supplying it to the bio-diesel industry as well as other commercial ventures.
-	['bio-diesel ', 'clean fuel', ' biopolymer plantations']
+SecuroNet
+	Provider of software and networking services. The company enables public and private subscribers to join forces with each other via a suite of collaboration tools and share content from a city-wide network of security cameras to improve emergency response effectiveness via emergency video notification.
+	['', 'software services', ' ', 'networking services', ' ', 'video networking', '']
+Academic Services Ambulance Partnership
+	Operator of a medical transportation company in Belgium. The company provides non-emergency ambulance services.
+	['', 'medical transportation', ' ', 'ambulance services', ' ambulance']
+Locationary
+	Provider of a global clearinghouse for local data in mobile, web search, profile publisher, managers and navigation applications. The company provides it\'s services for local business data fragmentation, accuracy and universal broadcast update challenges.
+	['', 'global clearinghouse', ' ', 'data fragmentation', ' ', 'statistics analysis', ' ', 'business data', '']
+Xoova
+	Provider of online directory of doctors and medical services. The company enables patients to find doctors by location, specialty, conditions treated, and medical services offered, as well as schedule appointments online.
+	['', 'online directory', ' ', 'online health website', ' ', 'online appointment service', ' ', 'online doctor search', ' ', 'online medical service', '']
+Careline
+	Provider of ambulance services. The company provides emergency medical services for local and suburban transit and interurban highway passenger trains.
+	['', 'emergency medical service', ' ambulance ', 'managed care', '']

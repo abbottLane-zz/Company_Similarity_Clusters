@@ -1,27 +1,21 @@
-Digital Furnace
-	Developer of communications algorithms and software that increases the capacity of broadband networks.
-	['', 'communication algorithm', ' ', 'communication software', ' ', 'broadband network', '']
-Orchestream
-	Provider of service activation and performance management software to global telecommunications network operators. The company\'s product, Orchestream Service Activator, enables managers of large scale Internet protocol and broadband networks to automate the configuration tasks associated with network management and service activation.
-	['', 'performance management', ' ', 'global telecommunication', ' ', 'internet protocol', ' ', 'broadband network', '']
-Roving Planet
-	Provider of network access control and management solutions for enterprise networks. The company provides its client a secure network environment to manage and control its users, endpoints, connections and sessions.
-	['', 'networking software', ' ', 'network management', ' ', 'wireless service provider', '']
-Stargus
-	Provider of network and service analysis, and control solutions for cable broadband networks. The company offers CableEdge product suite that provides bandwidth management, network optimization, and service assurance to broadband operators.
-	['', 'network anaylsis', ' ', 'service analysis', ' ', 'bandwidth management', ' ', 'network optimization', ' ', 'service assurance', '']
-ChanneLogics
-	Operator of software development company. The company designs bandwidth software for cable networks. The company provides solutions to cable service providers that enable them to optimize their systems by increasing the use of the total bandwidth.
-	['', 'bandwidth management software', ' ', 'cable network', ' real-time']
-Electronics Corporation of Israel Telecom
-	Provider of network management systems and lifecycle services. The company offers network solutions to other service providers, energy, transportation government and defense sectors. They provide Optimized Multi-Layer Transport platform, carrier class transport platforms, carrier Ethernet network and bandwidth management.
-	['', 'network solutions', ' ', 'network management', '']
-Mu Dynamics
-	Provider of proactive service assurance services for service providers, cable and network operators, government agencies and network product vendors to eliminate service downtime. The company offers Service Analyzer, an analyzer and service assurance platform that embodies a process to identify weaknesses in various IP-based applications or networks and generates remediation information to assist in resolving the discovered issues and verifying the efficacy of proposed fixes through an on-board regression database.
-	['', 'testing application', ' ', 'security testing', ' ', 'inspection system', ' ', 'cloud application testing', '']
-Reverb Networks
-	Developer of closed-loop mobile network technologies. The company\'s InteliSON product suite delivers radio access network optimization through antenna and RF parameter configuration changes.
-	['', 'cellular networks', ' ', 'SON software products', ' ', 'InteliSON product suite', '']
-Operax
-	Provider of products for dynamic service and bandwidth control. The company offers dynamic resource and admission control product for single service deployments.
-	['', 'bandwidth management', ' ', 'internet protocol network', ' ', 'Connectivity Product', '']
+DoodleDeals
+	Provider of daily deals for parents. The company offers an online platform where users can get deals on meal, restaurants, hotels as well as recipes, travel tips and feedback.
+	['', 'daily deal', ' ', 'daily offer', ' ', 'parent deal', ' ', 'discount coupon', '']
+Compring
+	Provider of a smart search platform for the flash sales and daily deals industry. The company\'s website displays offers on various products and alerts its customers about new deals as they are published online.
+	['', 'discount voucher', ' ', 'product deal', ' ', 'online deal', ' discount ', 'notification email', '']
+dealvertise
+	Provider of online deal services that enable high-reach companies to integrate daily deals into their own web sites. The company acts as a neutral facilitator of deals and a service provider of all services to building and operating a group shopping platform.
+	['', 'deal services', ' ', 'neutral facilitator', ' ', 'shopping platform', '']
+NetSila
+	Provider of an online website for Arabian food recipes. The company provides a platform and mobile application for users to share and review recipes. It also provides information about cuisines and restaurants in Arab and European cities.
+	['', 'share recipes', ' ', 'review recipes', ' ', 'Arabian food recipies', ' ', 'food portal', ' ', 'mobile app', '']
+QuickCliqs
+	Provider of a mobile platform that enables the users to connect with friends without having to go online. The company has developed a mobile platform from which users can invite their contacts to form groups for specific events, from there, they can ask questions, vote on answers and plan the event as a group, all while daily deals from Groupon and the like are pumped in as the event evolves.
+	['', 'mobile platform', ' ', 'planning event', ' ', 'offline social media', '']
+Offermatic
+	Operator of websites that offer daily deals on local goods, services, and cultural events for businesses and consumers. The company brings local buyers and sellers together by delivering personalized savings to consumers based on their spending history. By linking existing credit and debit cards to an Offermatic account, people receive automatic discount offers on products and services, without the hassle of redeeming coupons or vouchers.
+	['discount ', 'daily deal', ' ', 'group buying', ' coupon']
+Juice in the City
+	Owner and operator of a Website that pairs moms with local businesses and daily deals.
+	['', 'local business', ' ', 'local deal', ' ', 'discount deal', ' ', 'deal recommendation', '']

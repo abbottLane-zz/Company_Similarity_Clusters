@@ -1,15 +1,18 @@
-Ontoprise
-	Provider of industry-proven semanticweb infrastructure technologies and products. The company\'s products are used to support dynamic semantic information integration and information management processes at the enterprise level.
-	['', 'semanticweb infrastructure', ' ', 'information integration', ' ', 'information management', '']
-SiteScape
-	Provider of Web-based business collaboration software and services. The company provides integrated Web based team collaboration and conferencing solutions for communication and program management of teams in business, government, and military organizations. Its solutions include calendar and meeting management, knowledge networks, partner management, program management, HR management, grants management, continuity of operations, bond offer management, and telework.
-	['', 'business collaboration', ' ', 'conferencing solution', ' ', 'program management', ' ', 'meeting management', ' ', 'knowledge network', ' ', 'partner management', '']
-Insta Health Solutions
-	Provider of the technology platform for healthcare sector. The company provides hospital management system for clinical, financial and operational management of process within the organization. It also provides the EMR (electronic medical record) platform.
-	['', 'hospital management', ' ', 'clinical technology', ' ', 'Healthcare System', '']
-Cbana Laboratories
-	Developer of microfluidic and microanalytical devices for both government and private entities. The company offers miniaturized sensors for homeland security, medical diagnostics, and micro fuel cells.
-	['', 'home land security', ' ', 'portable security', ' ', 'healthcare security', ' ', 'micro analytical device', '']
-Digital Harbor
-	Provider of risk management and compliance services for the financial services, industry and public sector clients. The company develops and markets PiiE, a platform for composite applications, which provides information integration and information management system for enterprises. The company\'s products include Smart Client and Fusion Server. The company also offers services for anti-money laundering, fraud, knowing customer, enterprise case management and risk management to the financial services industry. The company also provides services for insider threat, command and control, incident management, mission management, analyst workbench, logistics, and network centric operations to the federal government, intelligence community, homeland security and public work organizations.
-	['', 'risk management', '  ', 'composite applications', ' ', 'inter-networked', ' ', 'intelligence services', ' ', 'business ontology', '']
+XLight Photonics
+	Manufacturer of tunable transponders. The company develops and commercializes next-generation optical switching fabrics for multi-terabit routers.
+	['', 'scalable solution', ' ', 'network congestion', ' ', 'information technology', '']
+Photonyx
+	Manufacturer of optical chip boards. The company develops tunable diffraction grating technology which can be used in optical telecom components and projection displays.
+	['', 'optical chip', ' ', 'tunable diffraction grating technology', ' ', 'optical telecom', ' chip']
+Optix Networks
+	Developer of VSLI (very large scale integration) components used in optical switches and broadband networks equipment. The company serves the optical communications market.
+	['', 'scale Integration', ' ', 'optical backbones', ' ', 'information technology ', '']
+AlchiMedics
+	Developer of electro-grafting technology for implantable biomedical applications. The company develops technology that is used for the fast healing post drug eluting stent implantation.
+	['', 'electro grafting', ' ', 'implantable equipment', ' ', 'medical equipment', '']
+CDI Biosciences
+	Developer of biotechnology to imporove yield of bioproducts. The company developes technology that is used to control the metabolism of cells.
+	['', 'mammalian cell', ' ', 'cellular system', '  ', 'Genetic engineering technology', '']
+Lightchip (Dense Wavelength Division)
+	Provider of optical components to the cable and telecommunications industries. The company develops DWDM modules based on its patented free-space diffraction grating technology platform.
+	['', 'optical monitoring', ' ', 'optical routing', ' ', 'wavelength management', ' ', 'fiber optic', ' ', 'optical routing', '']

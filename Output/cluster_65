@@ -1,9 +1,51 @@
-Sealegs
-	Manufacturer of amphibious marine craft. The company designs, manufactures and sells amphibious marine vehicles for recreational as well as professional use, including models built on military specifications.
-	['amphibious marine ', 'recreational boating', ' ', 'rescue missions', '']
-Craft Dragon
-	Developer and manufacturer of craft tools. The Company develops and manufactures craft tools and extras to make hot foil stamping available to home users for craft and domestic purposes. It also offers tools and accessories, dies, foil packs, foil rolls, plastic products, ink stampings, embellishing products, ribbons, pre-cut stencils, stencil packs, project packs, leather goods and workshops.
-	['', 'hot foil stamp', ' ', 'craft tool', ' goods ', 'domestic purpose', '']
-Vectrix Corporation
-	Developer and seller of two-wheeled electric vehicles (EVs). The company designs and sells zero-emission scooters with applications for riders in urban, campus and neighborhood environments. The company sells its products in the European and U.S. markets.
-	['', ' electric vehicles', ' scooter EV']
+Ultranat
+	Provider of technologies for the treatment of power plant waste ash. The company\'s technology enables ash from biomass fuel power plants to be processed into valuable  end-of-waste products, like fertilizers and animal feed.
+	['', 'Waste treatment', ' ', 'processing ash', ' ', 'biomass fuel power plants', '']
+Power Innovations International
+	Provider of services for power management, power storage and green energy technologies for power generation and re-generation. The company also offers consulting and customization of original equipment manufacturer development accessories.
+	['', 'power management', ' ', 'power generation', ' ', 'power storage', '']
+Greenvironment
+	Developer of micro-turbine technology.The company offers CHP plants in a power range of 30 kWel to 1 MWel with low maintenance requirements and low emissions.
+	['', 'turbine technology', ', ', 'power plant', ', ', 'biogas', '']
+NuScale Power
+	Designer of electric light water reactor nuclear power plants for nuclear power generation applications in government and commercial sectors in the United States. The company offers single-unit systems and multi-module facilities.
+	['', 'small modular reactor', ' ', 'nuclear power plant', ' ', 'energy service', '']
+Savonia Power
+	Operator of power plants for combined heat and electricity production. The company specializes in power generation module for combined heat and power production in power plants. It also provides power plant maintenance and service.
+	['', 'power plant', ' ', 'power generation', ' ', 'heat production', ' ', 'power generation module', '']
+Jurong Aromatics
+	Operator of integrated aromatics plants. The company operates aromatic chemical production plant and produces transportation fuels in Singapore.
+	['aromatics ', 'transportation fuels', ' ', 'petrochemical plant', '']
+Jiveman Motors
+	Manufacturer of motors for power generation. The company offers internal combustion engines.
+	['', 'power generation', ' ', 'combustion engine', ' ', 'motor engine', '']
+NDM-Kintx Co
+	Manufacturer of heat exchangers and heat management systems. The company specializes in designing key heat transfer components for the aerospace, marine and military industries.
+	['', 'Heat exchangers', ' ', 'heat management system', ' ', 'heat transfer components', '']
+Ausra
+	Developer of utility-scale solar thermal power. The company offers Compact Linear Fresnel Reflector, a solar collector and steam generation system. Its zero-carbon power plants generate electricity at current market prices for fossil-fired power without the emissions caused by burning fuels.
+	['reflector thermal ', 'steam generation', ' electric fossil carbon power']
+Enginion
+	Provider of technology in the field of steam-operated, compact cogeneration systems. The company offers SteamCell, a low-emission, combined heat and power generation system using external combustion based on a Caloric Porous Structure Cell (CPS Cell) technology. CPS Cell technology utilizes a thermo-chemical combustion process, which drives an electronically controlled, oil-free steam engine. The company supplies SteamCell core systems to original equipment manufacturers who integrate them into their products.
+	['', 'cogeneration systems', ' combustion ', 'thermo-chemical', ' ', 'steam engine', '']
+Benchmarq
+	Provider of power-sensitive and portable electronic systems. The company provides integrated IC and module solutions that address problems in managing battery-operated, low-power, and power-sensitive equipment.
+	['ic battery']
+Apache Design Solutions
+	Developer of physical design and verification software solutions for the semiconductor industry. The company provides power sign-off and silicon integrity platform solutions. It\'s products enables designers of semiconductor and fabless companies to detect, fix, and prevent design weaknesses. It\'s solutions include power integrity, low power management, and noise control.
+	['', 'semiconductor design', ' ', 'semiconductor verification', ' ', 'verification software', ' ', 'silicon integrity', ' ', 'power management', ' ', 'noise control', ' ', 'power integrity noise control', '']
+Solucel
+	Developer of plant-derived pharmaceuticals. The company offers small molecules, such as secondary metabolites from plants for pharmaceutical applications.
+	['', 'plant-derived pharmaceutical', ' ', 'plant biotechnology', ' microbial fermentation']
+Hawkeye Renewables (Ethanol Plants)
+	Producer of ethanol with plants in Iowa Falls and Fairbank, Iowa. The company\'s plants are specialized in ethanol and dried distiller grains.
+	['', 'ethanol plant', ' ', 'renewable resource', ' refinery']
+LaTherm
+	Producer of the mobile heat storage containers. The company turns waste heat into useful heat. A total of 2.5 MWh of unused heat generated by chemical plants, steelworks, aluminum smelters, waste incineration plants, biogas plants, or landfill gas plants can be stored in the sodium acetate within our containers. From the sources, heat is transported where and when it is needed; off-grid and on the road.
+	['', 'waste heat', ' ', 'useful heat', ' ', 'heat storage', '']
+Advanced Power Projects
+	Provider of power by focusing on natural gas power generation. The company develops new power plants to reduce power costs for industrial customers, as well as provides technologies to facilitate the economic deployment of wind, solar, and biomass plants.
+	['', 'power generation', ' ', 'natural gas', ' ', 'biomass plants', '']
+HF2
+	Developer of a photovoltaic power plant. The company sells energy to the market and is also entitled to the Italian GSE feed-in tariff system. The develops photovoltaic power plant that is used to reduce CO2 emissions.
+	['', 'renewable energy', ' ', 'photovoltaic power', '']

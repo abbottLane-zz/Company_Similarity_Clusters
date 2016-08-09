@@ -1,51 +1,21 @@
-WhatsApp
-	Provider of a cross platform mobile messaging application. The company\'s platform allows the user to exchange messages without having to pay for SMS. In addition to basic messaging WhatsApp users can create groups, send each other unlimited images, video and audio media messages. It\'s available for iPhone, BlackBerry, Android, Windows Phone and Nokia.
-	['', 'messaging application', ' ', 'mobile messaging', ' ', 'iPhone messaging application', '']
-Lalalab
-	Provider of photo printing application. The company provides an application that allows its users to print their photos directly from their phone and receive the prints a few days after ordering them.
-	['', 'mobile commerce', ' ', 'photo printing', ' ', 'photo printing application', '']
-Beeem
-	Developer of mobile applications for picture sharing. The application developed by company allows users to caption the pictures. It\'s application lets users write over photos and turn them into stories.
-	['', 'mobile application', ' ', 'online picture sharing', ' ', 'picture captioning', ' ', 'photo application', ' ', 'photo captioning', '']
-Tello
-	Developer of SaaS and mobile application for customer feedback. The company provides web and mobile service that aggregates ratings for businesses from across the web and allows users to post comments about their experience at a business.
-	['', 'social application', ' ', 'customer outreach', ' ', 'employee rating', ' ', 'customer feedback application', '']
-Meh Labs
-	Developer of a self-destructing mobile messaging application. The company\'s application allows its users to share anonymous, self-destructing, secret chats with their friends. It also helps in recording audio, sending texts, making videos and snapping photos. The company originally provided Kismet, a social networking application that enabled users to meet and chat with their friends.
-	['', 'mobile messaging', ' ', 'social connect', ' ', 'self-destructing texts', ' ', 'messaging application', ' ', 'secret chat', ' ', 'photo snapping', '']
-Blurtt
-	Provider of a web based platform that conveys expressions, thoughts and feelings in a creative way. The company provides a mobile application that helps one to create and share a visual statement to express oneself. The company also offers photo-upload service, permitting users to send printed postcards of said photos to friends via mail.
-	['app expression ', 'mobile application', '']
-Storyz
-	Developer of a mobile and web-based application. The company develops a story sharing platform that allow users to create and share stories with pictures, text messages and other content on their smartphones.
-	['', 'web based', ' ', 'story sharing', ' ', 'text message', '']
-Daum Kakao
-	Developer of a cross-platform mobile messaging application. The company offers a series of products namely KakaoTalk, KakaoStory, KakaoMusic and KakaoGame which allows its users to share data in the form of text messages, photo and music, make voice calls and play games.
-	['', 'cross-platform messaging', ' ', 'mobile messaging', ' ', 'messaging application', '']
-Seamless Receipts
-	Provider of connecting platform between retailers and customers. The company replaces paper receipts with branded eReceipts and allows to personalize messages.
-	['e-receipt  ', 'personalized messages', ' ', 'commercial services', ' ', 'paper receipts', '']
-Packet Shaper Technologies
-	Provider of software solutions and hosted services to the telecommunications industry in the Asia Pacific. The company provides Soft Switch Prix, a carrier-class deployment platform that allows service providers, ISVs, and OEMs to develop and deploy converged communication services; a calling cards platform that features call waiting, call forwarding, conferencing, and voicemail options; and a calling card hosted service to build a private-label pre-paid phone card business. It also offers Predictive Dialer, an outbound campaigns management solution for telemarketing and telesales teams; DialPrix, an outbound customer contact solution; SMS gateway, an SMS transit service for transforming messages to mobile network traffic from other media; and Email2sms, a solution that translates email messages into text messages and forwards to mobile networks.
-	['telecommunication ', 'calling card', ' ', 'IVR platform', ' voicemail conferencing ', 'call forwarding', ' ', 'bandwidth management', ' ', 'wireless networking', '']
-Frankly
-	Developer of a mobile messaging application. The company offers a mobile and web platform that allows users to send messages and photos that self destructs after the recipient reads them. It also allows users to recall unread messages and make anonymous comments during group chats.
-	['', 'mobile messaging', ' ', 'messaging application', ' ', 'communication service', '']
-Atlanpix
-	Operator of an instant messaging application for smartphones. The company offers an mobile application which enables users to meet people, send text messages, images, videos and audio messages.
-	['', 'instant messaging', ' ', 'text messages', ' ', 'audio message', '']
-Medingo
-	Developer of miniature devices and technologies for people living with diabetes. The company offers Solo Insulin Patch Pump System, a miniature insulin dispensing patch that allows users to personalize and guide patch for insulin needs.
-	['', 'diabetes treatment', ' ', 'insulin need', ' ', 'insulin delivery', '']
-BigSwerve
-	Operator of a search aggregator for blog comments, which are often omitted in blog searches and roundups. The company\'s crawler aggregates comments, allowing users to follow the comments for a given person and discover new content by seeing where other people are engaged.
-	['', 'search aggregator', ' ', 'blog comment', ' crawler ', 'web crawler', ' ', 'comment aggregator', ' ', 'blog crawler', ' ', 'web spider', ' ', 'blog spider', '']
-Cooliris
-	Developer of browser add on that transforms user’s browser into full screen to view online photos and videos. The company offers a mobile and web application that allows users to take pictures at events and share them in one live photostream.
-	['', 'internet application', ' ', 'browser add on', ' ', 'online photo', '']
-Cupple
-	Provider of private sharing mobile application designed for two people in a relationship. The company users can quickly exchange private content such as photos and messages with each other and tag the places they have been, or plan to visit.
-	['', 'private sharing', ' ', 'sharing mobile application', ' ', 'photo sharing', ' ', 'messaging platform', '']
-LittleCast
-	Provider of an eCommerce platform for video producers and their audiences. The company allows its users to sell their videos directly to audiences on Facebook and mobile devices using mobile applications and web platform.
-	['', 'eCommerce platform', ' ', 'video distribution', ' ', 'mobile video sale', '']
+Navitas Cancer Rehabilitation Centers of America
+	Provider of personalized integrated cancer rehabilitation services to cancer patients.
+	['', 'physical therapy', ' ', 'occupational therapy', ' ', 'prescriptive exercise', ' ', 'psycho-social counseling', ' ', 'nutritional counseling', ' ', 'lymphedema therapy', ' acupuncture']
+Diagnoplex
+	Developer of non invasive colorectal cancer screening tests. The company develops clinical laboratory kits for screening colorectal cancer, as well as for the detection of colon cancer. It also discovers and optimizes biomarker combinations to detect cancer.
+	['', 'cancer screening test', ' ', 'cancer diagnostic', ' ', 'cancer treatment', '']
+Alsensa
+	Developer of products for allergy diagnosis. The company engages in design, research, development and manufacture of allergy testing products for the healthcare markets. It offers a AQT allergy testing device that is used for allergy diagnostics and management.
+	['', 'allergy diagnosis', ' ', 'prick test', ' allergy']
+Mzt Holdings
+	Manufacturer & developer of cancer diagnostic technologies and products. The company is a biotechnology company, which engages in the development, manufacture, marketing, distribution, and licensing of cancer diagnostic technologies and products. Its products include NMP22 Test Kit and NMP22 BladderChek Test, which are designed to detect the presence of a specific protein marker in urine correlated with the presence of bladder cancer. Its research and development programs include NMP179 program, a nuclear matrix protein associated with cervical cancer and cervical precancerous conditions; NMP66 program to develop a blood-based test for breast cancer; NMP48 program for prostate cancer; and NMP35, a colon cancer program. In addition, it sells allergy and other diagnostic products manufactured by others. The company sells its products directly to physicians, hospitals, clinics, and physician office laboratories in the United States and Germany, as well as to distributors in other parts of Europe.
+	['']
+Immunicon
+	Developer and manufacturer of cell-based diagnostic and research products. The company manufactures ultra-high sensitive cancer detection test kits (cancer blood test) and next generation cell analysis instruments (cell track cytometer) for various research and clinical applications.
+	['', 'cancer detection test kits', ' ', 'cell analysis', ' ', 'platform technologies', ' biotechnology']
+Applied Genomics
+	Developer of targeted genomics-based diagnostic and therapeutic antibodies for the treatment of human cancer. The company\'s products include Mammostrat which is an immunohistochemistry breast cancer prognostic test, Mammotax which is a single antibody immunohistochemistry test, Pulmotype is a five antibody immunohistochemistry aid for the classification of non-small cell lung cancer and Pulmostrat is a seven antibody prognostic immunohistochemistry test.
+	['', 'human cancer', ' ', 'therapeutic antibodies', ' ', 'diagnostic devices', '']
+Cell Genesys
+	Developer of novel biological therapeutic products for patients with cancer.The company pursues three cancer product platforms -- GVAX(R) cancer vaccines, oncolytic virus therapies and in vivo cancer gene therapies. The company provides clinical trials of GVAX(R) vaccines are under way in prostate cancer, lung cancer, pancreatic cancer, leukemia and myeloma.
+	['', 'therapeutic products', ' ', 'cancer treatment', '']

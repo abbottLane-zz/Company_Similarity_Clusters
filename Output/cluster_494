@@ -1,12 +1,30 @@
-Amadesa
-	Provider of website multivariate testing and customer targeting solutions to improve online conversions and engagement. The company’s solutions contain various application modules for A/B and multivariate testing, segment testing, automated personal testing, product recommendations, forms and shopping cart optimization and personalization.
-	['', 'customer targeting solution', ' ', 'segment testing', ' ', 'software-as-a-service', '']
-Insightera
-	Operator of a real-time B2B personalization platform. The company provides machine learning algorithms and software that helps marketers to capitalize on their existing assets by personalizing onsite experience.
-	['', 'personalization software', ' ', 'customer acquisition', ' ', 'marketing platform', '']
-Maxymiser
-	Provider of multivariate testing and personalization. The company provides online business to turn every interaction into an experience with its cloud-based testing, personalization and cross channel optimization. It combines online testing and automated personalization into a single platform to help marketers to launch campaigns.
-	['', 'B2B Service', ' ', 'testing and personalization', ' ', 'customer experience optimization', '']
-Offermatica
-	Developer of a Website content testing and performance optimization platform.The company develops software to test, measure, and optimize Internet marketing and advertising campaigns. It provides multivariate promotion testing, form and landing page optimization solutions for online advertisements, onsite merchandising, electronic mail campaigns, and pay-per-click listings.
-	['', 'Internet marketing', ' ', 'online advertisements', ' ', 'direct mail', ' PPC']
+Eleme Medical
+	Developer of laser techniques, systems  and protocol for the treatment of fat and cellulite. The company provides product with Photomology technology for the temporary reduction in the appearance of cellulite and a a medical device for laser-assisted lipolysis, which is used in body shaping and skin tightening of localized areas.
+	['', 'body shaping technology', ' ', 'photomology technology', ' ', 'temporary cellulite reduction', ' ', 'skin tightening', '']
+AZZURRO Semiconductors
+	Developer of gallium nitride on silicon substrates. The company offers a range of epitaxial wafers, including LED wafers and templates, as well as power semiconductor wafers for LED and power semiconductor applications worldwide.
+	['', 'power semiconductor', ' ', 'wafer technology', ' ', 'epitaxial layer', ' ', 'high voltage', '']
+TriQuest
+	Developer of computer chip design software. The company specializes in enhancing synthesis tools in the semiconductor industry.
+	['semiconductor ', 'computer chip', '']
+Oramir
+	Developer of laser technology for the semiconductor industry. The company specializes in cleaning technologies for semiconductor wafers.
+	['', 'semiconductor equipment', ' ', 'laser chips', ' ', 'laser technology', '']
+Metara
+	Designer and manufacturer of metrology equipment for the semiconductor industry. The company manufactures chemical metrology tools for semiconductor industry used in monitoring and controlling chemical processes.
+	['', 'metrology equipment', ' ', 'chemical tools', ' semiconductor ', 'manufacturing equipment', '']
+Boxer Cross
+	Provider of metrology tools for the semiconductor industry. The company develops and manufactures fully automated metrology systems, providing in-line monitoring of parameters affecting the electrical performance.
+	['', 'metrology system', ' ', 'monitoring system', ' ', 'electrical measurement data', '']
+Natural Cleaners Colorado
+	The company provides dry and wet cleaning services. The company provide cleaning services by using CO2 and GreenEarth cleaning technologies.
+	['', 'dry cleaning', ' ', 'wet cleaning', ' ', 'cleaning technology', '']
+Nawotech
+	Supplier of semiconductor equipment for the competitive photomask repair market. The company also supplies nano technology for semiconductor manufacturing and electron-beam based nano-structuring tools.
+	['', 'semiconductor equipment', ' ', 'nano technology', ' ', 'nano structuring tool', '']
+Compumotor
+	Developer of motors and controllers for the semiconductor industry. The company designs, manufactures and distributes electronic components and systems used to control motion and precisely locate or vary speed in automation applications.
+	['', 'AC servo motors', ' ', ' DC servo motors', ' motor ', 'electronic component', ' semiconductor']
+FOI
+	Developer of equipment for the semiconductor industry. The company designs and manufactures machinery used to fabricate semiconductor products, including etching systems and surface oxynitridation systems.
+	['', 'light etching', ' oxynitridation ', 'semiconductor devices', '']

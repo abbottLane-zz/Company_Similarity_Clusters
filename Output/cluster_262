@@ -1,27 +1,36 @@
-IHM Services
-	Provider of an analytics software for hospitals and healthcare institutions. The company focuses on transforming hospital data into clinical intelligence to help hospitals and healthcare enterprises fully automate the reporting systems, improve performance for other programs and produce predictable medical outcomes.
-	['', 'analytic software', ' ', 'hospital data', ' ', 'clinical intelligence', '']
-MedPage Today
-	Provider of online medical news service for physicians and healthcare professionals. The company develops online medical education programs that provide articles, as well as offers medical meetings information.
-	['', 'online medical education', ' ', 'health solution', ' fitness lifestyle ', 'health advertising', ' ', 'health information', '']
-NetMed
-	Provider of online health and medical information.
-	['', 'healthcare information', ' ', 'medical information', '']
-Medcast Networks
-	Provider of Internet-based medical news and information services. The company provides breaking medical news, education and other information electronically every morning to physicians throughout the United States.
-	['', 'medical news', ' ', 'medical education', ' ', 'electronic medical news', '']
-Medical Gas Solutions
-	Manufacturer and distributor of a medical gases and device. The company manufacturer medical gases and associated equipment for emergency use in medical line by emergency service personnel, healthcare professionals and first aiders.
-	['', 'medical gas', ' ', 'medical equipment', ' emergency']
-Integrative Medicine Communications
-	Provider of science-based information on wellness and alternative medicine to health care professionals. The company offers information services to healthcare professionals, consumers and executives to combine the conventional and alternative medicine for healthcare.
-	['', 'health care', ' ', 'medical information', ' ', 'health information', ' ', 'wellness medicine', '']
-Sonesta
-	Manufacturer of medical equipment for healthcare professionals. The company develops and manufactures medical-examination chairs and tables for urodynamic studies as well as physician practices within urology and gynecology.
-	['acupuncture esthetic tables ', 'examination equipment', '']
-ChemTrak
-	Provider of medical information to healthcare industry professionals. The company designs and presents interactive, informational, video and animated graphic presentations for the medical industry.
-	['', 'medical information', ' ', 'medical suppliers', ' ', 'medical industry', ' ', 'medical presentations', ' ', 'multimedia presentations', '']
-Xoova
-	Provider of online directory of doctors and medical services. The company enables patients to find doctors by location, specialty, conditions treated, and medical services offered, as well as schedule appointments online.
-	['', 'online directory', ' ', 'online health website', ' ', 'online appointment service', ' ', 'online doctor search', ' ', 'online medical service', '']
+Map Pharmaceuticals
+	Developer of novel inhalation therapies for respiratory and systemic diseases. The company develops innovative drug that focuses on providing better treatments for patients with neurological diseases.
+	['', 'novel inhalation', ' ', 'neurological diseases', ' ', 'bio pharma drug', '']
+Ilypsa
+	Developer of renal care pharmaceutical products. The company develops non-absorbed polymeric phosphate and potassium binder compounds to treat chronic kidney diseases.
+	['', 'renal care', ' ', 'kidney disease treatment', ' ', 'healthcare industry', '']
+Intracellular Therapies
+	Developer of drugs for the treatment of diseases and disorders of the Central Nervous System (CNS). The company develops compounds to treat neuropsychiatric and neurological diseases. It also develops a state of the art technology platform for generating a unique molecular signature for drug compounds.
+	['', 'neuropsychiatric disease treatment', ' ', 'neurological disease treatment', ' ', 'drug compound', ' ', 'drug development', '']
+Gensia Pharmaceuticals
+	Developer of drugs to treat cardiovascular diseases. The company\'s drug research programmes involve technology based on purine-pyrimidine metabolism, which have application in the treatment of cardiovascular, cerebrovascular and neurological diseases.
+	['', 'cardiovascular diseases', ' ', 'purine-pyrimidine metabolism', '']
+LifeSpex
+	Provider of accurate, rapid, and cost-effective products for the early detection of cancer. The company develops its new products by combining advanced biophotonic and state-of-the-art signal processing technologies.
+	['', 'cancer detection', '']
+Radient Technologies
+	Provider of pharmaceutical intermediates, nutraceutical compounds and oil from biomass. The company is engaged in the extraction, purification and isolation of naturally derived compounds and ingredients. It produces natural substances by combining an extraction platform, microwave assisted processing, with expertise in the areas of purification and isolation.
+	['nutraceutical ', 'microwave assisted processing', ' ', 'naturally derived compound', '  biomass']
+Xytis
+	Developer of central nervous system (CNS) drug candidates. The company is assembling a pipeline of innovative compounds with validated mechanisms of action, addressing major unmet clinical needs in CNS fields such as Schizophrenia, Traumatic Brain Injury, Depression, Anxiety, or Insomnia. It has two clinical stage compounds in development and operates from the USA, UK and Switzerland.
+	['', 'central nervous system', ' ', 'nervous system disorder', ' ', 'cognition enhancement', ' ', 'schizophrenia treatment', '']
+Salient Interventions
+	Developer of drug for neurologic diseases. The company develops products focused on early treatment of neurologic diseases and reversal of neurologic deficits.
+	['neurologic ', 'neurologic deficits.', '']
+Ipsen Bioinnovation
+	Provider of  biologics platform generating a pipeline of Targeted Secretion Inhibitors (TSIs) to treat diseases where secretion is the major driver, including pain, endocrine conditions and cancer. The company genetically engineers bacterial toxins to develop novel drugs that inhibit abnormal cell secretion, a key component of many diseases. The company is focused on the treatment of neurological, inflammatory and endocrine diseases.
+	['', 'genetical engineering', ' ', 'abnormal cell secretion', ' ', 'Developer of drug', '']
+BRAINco Biopharma
+	Developer of personalized treatments for nervous system diseases. The company develops new diagnostic tools and treatments against nervous system diseases optimizing individual drug treatment response, increasing remission rates and decreasing relapses rates.
+	['', 'nervous system', ' ', 'antiepileptic treatment', ' diazepam phenitoin']
+Catalyst Pharmaceutical Partners
+	Developer of a pharmaceutical company. The company focuses on in-licensing, developing and commercializing prescription drugs to treat rare (orphan) neuromuscular and neurological diseases, including Lambert-Eaton Myasthenic Syndrome (LEMS), infantile spasms and Tourette\'s disorder.
+	['in-licensing ', 'prescription drugs', ' spasms']
+PRADAMA
+	Developer of drugs for bone diseases and disorders.
+	['', 'bone disease', ' ', 'bone disorder', ' ', 'bone drugs', '']

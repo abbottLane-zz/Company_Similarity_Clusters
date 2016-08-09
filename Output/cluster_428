@@ -1,39 +1,24 @@
-Absolute Capital Management
-	Operator and manager of funds. The company provides investment management and advisory services to mutual funds.
-	['', 'mutual fund', ' ', 'fund manager', ' ', 'investment bank', '']
-Money Workout
-	Operator of a mortgage and insurance price comparison website. The company purchases and generates mortgage enquiries that it matches with the available mortgage products in the market. It also offers related advisory services for consumers, lead generators and lenders.
-	['', 'insurance price', ' ', 'mortgage business', ' ', 'price comparison', '']
-Energy Response
-	Provider of advisory services that facilitates the buying and selling of energy. The company provides strategic advice relating to market development and reform, market access, transmission, distribution and retail issues, regulation issues, competition policy, governance arrangements, legislative and institutional arrangements and user participation issues.
-	['', 'electricity market', ' ', 'price risk management', ' ', 'network support', ' ', 'electricity distribution', '']
-Forum-Défi
-	Provider of advisory and consulting services. The company provides advisory and consulting services about furniture design and multimedia to companies and individuals.
-	['', 'advisory service', '']
-The SLTN Group
-	Provider of consulting and advisory services for implementation, management and migration of issues in profit and non-profit organizations. The company along with its four divisions provides software and hardware solutions for eServer hardware platforms, financial advisors and software vendors for consolidation, virtualization, designing infrastructure for managed cloud services.
-	['BPO eServer ', 'advisory services', ' ', 'cloud services', '']
-HelloWallet
-	Provider of online financial advisory services. The company helps workers to manage their overall household finances by finding the money to boost their contributions to retirement savings and reduce debt.
-	['', 'financial advice', ' ', 'financial guidance', ' ', 'personal finance management', ' ', 'household finance', ' ', 'retirement saving', '']
-Cleantech Group
-	Provider of an online platform for corporates to connect with potential customers, strategic partners and investors. The company offers i3 an online platform which enables corporates to build and manage their pipeline, market their technology interests to start-ups globally, and gain insight into various sectors. It also offers advisory services related to expertise designing of products and services to the Cleantech companies.
-	['']
-Digital Campaigns
-	Provider of information management and IP-enabled solutions for political, non-profit and special interest groups. The company offers database-driven information management solutions for campaign management and fundraising management. The company also provides strategic advisory services to the customers in getting advantage out of new digital technologies.
-	['ASP', 'information management', ' ', 'digital technologies', 'real-time ePhone', 'telephone-based campaign', '']
-Venture Farm
-	Provider of finance and advisory services. The company provides direct investments and execution assistance to entrepreneurs and early stage companies.
-	['', 'managed capital', ' ', 'advisory services', ' ', 'growth funding', '']
-Thomas Weisel Partners Group
-	Operator of an investment bank. The company offers investment banking, brokerage, equity research and asset management. The company\'s services include mergers and acquisition advisory, institutional sales and wealth management. The company focuses on  health care, mining, consumer products and services sectors.
-	['', 'investment bank', ' brokerage ', 'asset management', ' ', 'consumer products', '']
-Club Parafarmacia Online
-	Operator of an online store that provides para-pharmaceutical products. The company engages in providing cosmetics and healthcare product online. It also provides medical advisory services to its customers.
-	['', 'para-pharmaceutical product', ' ', 'medical advisory services', ' ', 'medical advice', ' ', 'cosmetic products', '']
-GoIndustry Dovebid
-	Provider of asset management Services. The company offers auction and valuation services relating to industrial equipment.
-	['', 'asset management', ' auction ', 'industrial equipment', ' valuation']
-USBX Advisory Services
-	Provider of investment advisory services to businesses. The company provides merger & acquisition advisory services, valuation services, institutional private placement and related strategic advisory services.
-	['', 'investment advisory', ' ', 'financial advisory', ' ', 'strategic advisory service', '']
+Chemrec
+	Developer of manufacturing technology for biofuels. The company provides a proprietary black liquor gasification technology that can be used to convert pulp and paper mills into biorefineries. The company\'s processing technology is used to create a synthetic gas product that can be converted into low-carbon fuels and chemicals, such as synthetic gasoline & diesel.
+	['biofuels biorefineries syngas']
+Legends Optical 4.0
+	Operator of optical laboratories. The company provides facility equipped with the lens processing technology.
+	['', 'eyeglass lenses', ' ', 'lens processing', ' facility']
+Famgro
+	Provider of an indoor farming platform. The company provides a farming system equipped with a hydroponic growing system and an automatic harvesting system, that helps to grow produce in urban areas without use of pesticides.
+	['', 'indoor farming', ' ', 'farming system', ' harvesting farming']
+Xoomsys
+	Provider of simulation solutions based on decoupling and distributed processing technology for circuits. The company provides processing solution for circuit simulation, using circuit simulators and Linux computing clusters.
+	['', 'software services', ' ', 'simulation solutions', ' ', 'circuits technology', ' ', 'circuit simulation', '']
+Xponent Photonics
+	Provider of semiconductor processing technology. The company\'s product Surface Mount Photonics ("SMP"), include a range of triplexers and diplexers for single-fiber applications including point-to-point and bidirectional RF systems.
+	['', 'semiconductor processing technology', ' ', 'surface mount photonic', ' semiconductor']
+ELABORADOS GALLEGOS
+	Wholesale distributor of fresh, frozen and canned fish. The company operates a processing facility, offering products made from cod, Greenland halibut, eel, river cobbler and ling cod to the European market.
+	['', 'frozen fish', ' ', 'fresh fish', ' ', 'cold storage', ' ', 'fish marketing', '']
+varioptic
+	Developer of electrically-controlled miniature optics for the digital camera sector. The company offers variable focus liquid lens for miniature industrial cameras, variable focus and tilt liquid lenses, auto focus lens modules, liquid lens drivers and development kits.
+	['biometrics ', 'consumer application', ' ', 'miniature optics', ' ', 'lens modules', ' ', 'liquid lens drivers', '']
+Colloquis
+	Producer of self-service tools that enable to answer customer questions with a natural language processing technology. The company provides interactive agent technology and conversational online business solutions.
+	['', 'language processing', ' ', 'conversational online', ' ', 'agent technology', ' ', 'messaging platform', '']

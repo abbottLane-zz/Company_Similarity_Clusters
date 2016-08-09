@@ -1,36 +1,39 @@
-Tutum
-	Developer of a cloud computing service platform. The company provides a cloud service focused on deploying and managing containers in any environment, whether the cloud or on-premises.
-	['', 'cloud computing', ' ', 'automate management', ' ', 'docker container', '']
-Nebula
-	Developer of a hardware appliance for building private cloud computing infrastructures. The company provides cloud infrastructures for biotech, financial services and media companies.
-	['', 'private computing cloud', ' ', 'enterprise cloud', ' ', 'cloud computing hardware', '']
-PlanforCloud
-	Developer of free cloud forecasting software. The company\'s software allows companies to model various cloud architectures and usage patterns to budget for their cloud costs. The software figures out what servers, storage, database and data transfers are needed for cloud deployment, so that companies can forecast their cloud service needs and costs.
-	['', 'cloud forecasting software', ' ', 'cloud architecture', ' ', 'cloud deployment', '']
-Electron
-	Provider of database hosting services. The company provides technology platforms to improve the performance of enterprise applications, data warehouses and cloud computing infrastructures.
-	['', 'hosting service', ' ', 'advanced software technology', ' ', 'enterprise application', ' ', 'data warehouse', '']
-Gravitant
-	Provider of cloud computing services. The company develops software designed to enable the deployment of virtual data centers and business applications by aggregating services from infrastructure-as-a-service providers.
-	['', 'cloud computing', ' ', 'virtual data center', ' ', 'cloud brokerage', ' ', 'cloud marketplace', ' ', 'predictive analytic', '']
-eNovance
-	Provider of open source cloud computing and multi cloud management services. The company provides managed services for a number of public clouds, such as google compute engine and also integrates and operates open source cloud computing infrastructures.
-	['', 'cloud computing', ' ', 'open source', ' ', 'multi cloud', '']
-TerraSky
-	Provider of cloud computing and system integration services. The company provides SkyVisualEditor, a tool for screen development that is used to simplify the salesforce screen and a platform for data collaboration called SkyOnDemand.
-	['', 'cloud computing platform', ' ', 'system integration services', ' ', 'data collaboration platform', '']
-AddFleet
-	Developer of a mobility platform that enables tracking of mobile units in real time. The company focuses on developing intelligent systems for transportation. It has developed a new mobility system based on cloud computing that uses mobile devices to connect vehicles to taxi dispatch centers and users with M2M technology.
-	['', 'mobility platform', ' geolocation ', 'mobile tracking', '']
-Big Blue Software
-	Provider of software for object tracking and video compression. The company provides data conversion, cloud computing and migration technology software services.
-	['', 'object tracking', ' ', 'video compression', ' ', 'data conversion', ' ', 'migration technology', '']
-CloudSwitch
-	Provider of cloud management software for enterprises. The company focuses on cloud computing.
-	['', 'cloud management software', ' ', 'cloud computing', '']
-Cloudsmith
-	Provider of services to create and share software from a global cloud of components. The company offers a web service that defines stacks (dependencies) from a cloud of shared packages, extended to include private components. It also allows the users to share and install these stacks wherever they want directly from the cloud.
-	['', 'shared package', ' ', 'software sharing service', ' ', 'web service', '']
-FreshTL
-	Provider of a platform for management software, cloud computing, compliance and risk management. The company provides applications and business tools to make information available across the enterprise and enable people to communicate.
-	['', 'platform provider', ' ', 'risk management', ' ', 'information software', '']
+Arxan Defense Systems
+	Provider of an application protection and anti-tamper software to the federal market in the United States. The company provides security guard technology rooted in hardware.
+	['', 'anti-tamper', ' ', 'security guard technology', ' ', 'unauthorized change', ' protection']
+BBR Wireless Management
+	Provider of wireless management products and services. The company offers CELLector tool, software for wireless optimization and auditing, wireless asset tracking, monthly management, and Web-based reporting.
+	['', 'wireless management', ' ', 'wireless asset tracking', ' ', 'web-based reporting', '']
+McAfee Wireless Security
+	Provider of Wi-Fi security tools for wireless networks. The company\'s products include wireless security, wireless guard, wifiscan and WPA software.
+	['', 'Wi-Fi security', ' ', 'wireless guard', ' ', 'wireless security', '']
+Connection Services
+	Provider of Wi-Fi Services. The company provides enabling technology to the wireless service businesses of major telecommunications companies.
+	['', 'Wi-Fi Services', ' ', 'wireless service', ' telecommunications']
+Antcor
+	Provider of Wi-Fi software products and services. The company provides LTE simulation and emulation products and services to the broadband wireless access market. Its product IkarusOS is a network operating system for broadband wireless networking devices which integrates wireless and networking functions.
+	['', 'wireless connection', ' ', 'broadband service', ' ', 'wireless networking', '']
+Aether Partners
+	Provider of funds for early stage investments. The company offers financial support in wireless infrastructure, optical switching, wireless networking and other cutting edge communications and technology companies.
+	['funds ', 'wireless infrastructure', ' communications']
+Armida Technologies
+	Provider of wireless surveillance system to improve video quality over wireless networks. The company develops software and hardware that delivers streaming video over wireless networks for commercial, industrial and government customers.
+	['', 'video streaming', ' ', 'wireless networks', '']
+Junxion
+	Provider of managed 3G wireless cellular router solutions for enterprise and government customers in the United States. The company\'s Junxion Box wireless WAN routers provide computing devices, such as laptops, desktops, handhelds, POS systems, ATM machines, and remote security cameras with access to data services from wireless carriers. Its Junxion Platform firmware includes the drivers and tools to connect with wireless PC card modems, as well as supports wireless carrier networks and PC card modems; and the cellular data service technologies from wireless carriers. It offers Field Commander remote management for customers to monitor, configure, and update fleets of Junxion Boxes or single units in the field; and Junxion Complete, a solution program for virtual installations in the United States. It offers Junxion Firmware for GPS location information, Verizon PC Card modem, firmware updating, DNS over ride, broadband cellular networks. It offers its products for data connection redundancy, landline replacement, M2M/telemetry, portable networks, remote security, landline fail-over, mobile fail-over, public transit/security, private transit, public/private transit, and fleet vehicles applications.
+	['', 'cellular router solution', ' ', 'land line replacement', ' ', 'portable network', ' telemetry']
+Radionet
+	Provider of products and technology for large-scale outdoor wireless networks. The company develops solutions for citywide Wireless Hotzones and community networks, mobile broadband solutions for industrial applications such as ports and mines, and link solutions for wireless backhaul and building-to-building links.
+	['', 'broadband networks', ' ', 'Power Utilities', ' broadcasts city-wide']
+Network Chemistry
+	Provider of wireless security. The company provides RFprotect Mobile, a portable analysis product that enables network designers and security personnel to design, analyze and secure wireless networks.
+	['', 'Wireless Security', '']
+Starburst Communications
+	Developer of multicast applications over data networks. The company provides methods for information delivery over data networks of all kinds, including WAN, LAN,satellite, wireless or any combination forming an internetwork.
+	['IP Multicast ', 'multicast file transfer protocol', '']
+Latis Networks
+	Designer and developer of security software and certified compliance services for external and internal network security threats. The company offers automated, military-grade network access control to its customers. The company also offers a suite of security testing, monitoring and management products such as Border Guard Standard, Border Guard Gateway, Border Guard Wireless, Server VAM and Remote VAM.
+	['', 'security software', ' ', 'network access control', ' ', 'Border Guard Standard', '']
+Go Networks
+	Provider of broadband wireless access services for indoor and outdoor deployments. The company offers micro cellular Wi-Fi sector base stations, Pico cellular Wi-Fi base stations, wireless media gateways, wireless network controllers and network management systems. It also has a research and development center in Israel.
+	['', 'broadband wireless access', ' ', 'wireless network controller', ' ', 'network management system', '']

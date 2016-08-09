@@ -1,18 +1,42 @@
-Travelmenu
-	Operator of an online travel agency. The company operates as a hotel booking engine and provides online retail of travel products, including hotels, flights and package holidays.
-	['', 'online travel agency', ' ', 'hotel booking', ' ', 'package tour', '']
-Tuniu.com
-	Provider of online travel services for travelers departing from the Chinese cities Beijing, Shanghai, Guangzhou and Shenzen. The company provides online booking and information services for airlines, hotels, car rentals, vacation and tour package deals.
-	['', 'travel management', ' ', 'online booking', ' reservation ', 'travel service', ' ', 'online travel', ' ', 'vacation package', '']
-Easy Market
-	Developer of online booking systems for travel agencies specializing in tour packages, special offers, last minute and low cost flights.
-	['', 'booking system', ' ', 'tour package', ' ', 'low cost flight', ' ', 'computerised reservation', '']
-Burufly
-	Provider of an online travel portal. The company offers an online platform that enables users to search for places to travel in Indonesia and book hotels and flights.
-	['', 'travel site', ' ', 'travel portal', ' ', 'tour packages', '']
-Fly.pl
-	Provider of online travel services. The company is the provider of a Polish-language booking site for international flights and travel packages.
-	['', 'travel services', ' ', 'holiday packages', ' ', 'airline tickets', ' ', 'online travel', ' ', 'booking site', ' ', 'international travel', '']
-Bab.La
-	Provider of multilingual language portal. The company provides dictionaries for more than 20 languages, a language forum, vocabulary lessons, language games, quizzes, verb conjugations, phrase books for university, business or travel and an internship platform among other products.
-	['translation ', 'language portal', ' ', 'language learning platform', ' ', 'language translation service', '']
+BioLucent
+	Operator of women\'s health company, involved in the early detection and treatment of breast cancer. The company manufactures and markets the MammoPad breast cushion, a radiolucent foam cushion that breast centers use to provide women with a mammogram.
+	['', 'breast cancer', ' ', 'MammoPad breast cushion', ' ', 'radiolucent cushion', '']
+Rasiris
+	Developer of photodynamic therapy (PDT) and the treatments of breast cancer and age-related macular degeneration. The company received financial support from Pacific Horizon Ventures to validate the proof of concept in an animal model.
+	['', 'macular degeneration', ' ', 'breast cancer', ' ', 'photodynamic therapy', '']
+VuCOMP
+	Developer of computer-aided detection systems for automatic analysis of medical images. The company help physicians to find disease at earlier stages. Its CAD system assists radiologists by automatically identifying areas of a mammogram that are consistent with breast cancer.
+	['', 'computer aided detection', ' ', 'medical images', ' ', 'breast cancer', '']
+Z-Tech
+	Developer of cancer screening technology. The company has developed a a system that detects changes in electrical charges that occur when normal tissue undergoes malignant changes. The first use of this technology has been in the development of a medical device for the detection of breast cancer in a screening environment.
+	['', 'monitoring equipment', ' ', 'medical diagnostic', ' malignant']
+Paradigm Therapeutics
+	Developer of drugs combining model genetics and bioinformatics. The company provides target identification and validation services based on gene knock out technology and in vivo pharmacology. The company has developed a drug discovery pipeline comprising targets and late stage pre-clinical projects in pain, CNS disorders, hormone dependent diseases such as prostate and breast cancer and metabolic diseases such as diabetes, hyperlipidemias, obesity and osteoporosis.
+	['', 'hormone dependent diseases', ' bioinformatics ', 'model genetics', ' ', 'validation services', '']
+Jennerex Biotherapeutics
+	Developer of oncolytic products for cancer. The company\'s products include JX-594, an engineered oncolytic virus that selectively targets and destroys cancer cells, JX-929 that targets the epidermal growth factor receptor and ras signal transduction pathways and JX-963, which is engineered from a strain of vaccinia virus.
+	['', 'cancer treatment', ' ', 'oncolytic product development', ' ', 'vaccinia virus', ' ', 'epidermal growth', '']
+Orthotopix
+	Developer of modelling products for cancer research. The company is a provider of cell, tissue and animal models modelling the prevention and treatment of breast cancer and prostate cancer, urodynamical models of urethral function and a cell line-based safety model of the endometrium. The company provided its products and services to drug-development companies.
+	['', 'drug development', ' ', 'healthcare service', ' ', 'tissue modeling', '']
+Endocyte
+	Developer of receptor-targeted therapeutics for the treatment of cancer and autoimmune diseases. The company provides EC17, a folate-targeted hapten therapy drug to treat metastatic renal and ovarian cancer; EC145, a folate-targeted chemotherapeutic conjugate to treat various tumors, including cancers of the breast, lung, and blood; EC0225, a targeted chemotherapy drug.
+	['', 'cancer treatment', ' ', 'autoimmune disease', ' ', 'ovarian cancer', ' ', 'breast cancer', '']
+Seragon Pharmaceuticals
+	Developer of orally active selective estrogen receptor degraders (SERDs) that represent a treatment for metastatic breast cancer. The company is developing breast cancer pharmaceuticals based on the selective estrogen receptor degraders platform, including its lead drug candidate, ARN-810, under evaluation for ER+ breast cancer.
+	['', 'breast cancer', ' ', 'estrogen receptor degrader', ' metastatic']
+Suomen Terveystutkimus
+	Provider of breast-cancer screening products and services. The company develops products and performs mammography screenings along with other clinical tests, to detect and treat breast cancer.
+	['', 'breast cancer', ' ', 'mammography screening', ' ', 'cancer treatment', '']
+Ziopharm
+	Developer of drug candidates for cancer treatments. The company operates with the strategy of in-licensing proprietary drug-candidate families with prior ""related-molecule" efficacy in human cancer that could be efficiently and effectively developed and commercialized.
+	['', 'cancer therapeutics', ' ', 'molecule therapeutic', ' ', 'healthcare service', '']
+NaniRx Therapeutics
+	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
+	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
+GITR
+	Developer of oncological therapies. The company is developing TRX518, a humanized monoclonal antibody that is reactive with the glucocorticoid-induced tumor necrosis factor receptor (GITR), for the treatment of cancer.
+	['', 'chemotherapeutic treatment', ' ', 'tumor markers', ' ', 'T cell', '']
+Windy Hill Medical
+	Developer of medical devices to reduce the risk of developing breast cancer in high risk patients. The company intends to develop intraductal therapy for the prevention of breast cancer.
+	['', 'breast cancer', '']

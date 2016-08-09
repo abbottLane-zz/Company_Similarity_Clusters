@@ -1,24 +1,42 @@
-OKWave
-	Operator of a question-answering website. The company provides a platform for users to solve their queries and discuss about their problems.
-	['', 'Q&A community', ' ', 'Q&A forum', ' ', 'discuss answers', ' queries']
-BufferBox
-	Developer of an automated, self-serve kiosk to eliminate failed parcel deliveries. The company\'s kiosks allow for 24/7 pick-up of parcels at a convenient location.
-	['', 'online shopping', ' ', 'parcel delivery', ' ', 'self service parcel', '']
-PathoGenetix
-	Developer of an automated system for the rapid identification of pathogenic bacterial strains using proprietary Genome Sequence Scanning (GSS) technology. The company’s technology analyzes an enriched biological sample without the need for a cultured isolate and also provides results in five hours.
-	['', 'automated system', ' ', 'rapid identification', ' ', 'bacterial strain', ' ', 'genome sequence', ' ', 'scanning technology', ' ', 'pathogen detection', ' ', 'bacterial strain', ' pathogen']
-Brightware
-	Developer of eCustomer Assistance software for the Internet. The company\'s products provide automated, self-service assistance to customers through the Internet.
-	['', 'software assistance', ' ', 'eCustomer software', ' ', 'self service assistance', '']
-NewZoom
-	Provider of automated retail services for customers in the United States, Europe and Japan. The company partners with brands and retailers to create and implement custom-branded automated self-service retail shops in high-traffic locations, such as airports, shopping centers, supermarkets, military bases and retail stores.
-	['', 'location procurement', ' ', 'inventory management', ' ', 'logistics management', ' ', 'creative development', ' ', 'account management', ' ', 'project management', ' ', 'automated retail solution', '']
-Discern Communications
-	Developer of automated self-service question answering software for call centers.
-	['', 'self service question', ' ', 'automated self service', ' ', 'answering software', ' ', 'computer telephony', '']
-Vigix
-	Provider of self-service retail kiosks. The company offers self-service, dispensing kiosks for selling products ranging from gift cards to watches.
-	['kisok ', 'product dispensing', ' ', 'self-service', '']
-NativeMinds
-	Provider of Virtual Representatives or vRepsTM, which offers self-service solutions for Web customers. The company\'s software and services are used by organizations to answer product and service inquiries.
-	['vRepsTM ', 'Virtual Representatives', ' ', 'self-service solutions', ' ', 'application software', '']
+Uni-Power Guaranty Company
+	Provider of financial guarantees. The company provides financial services to Chinese small and medium enterprises.
+	['', 'SMEs financing', ' ', 'loan guarantee', ' ', 'loan financing', ' ', 'financial guarantee', ' ', 'bridge financing', '']
+DoughNET
+	Provider of tips and tools to teach kids how to manage their money or invest in the stock market. The company\'s educational portal site provides teens with online financial services and information, enabling them to make online purchases and donations.
+	['', 'stock market', ' ', 'online purchase', ' ', 'financial services', ' donations ', 'educational portal site', '']
+Wipit
+	Provider of mobile payments and financial services. The company enables underbanked consumers to use cash for payments on their mobile phone with an integrated prepaid card. It also provides financial services such as international money transfer, mobile check deposit, bill payment and prepaid wireless replenishment.
+	['', 'mobile payment', ' ', 'wireless telecom', ' ', 'prepaid stored value', '']
+Movaris
+	Provider of financial control management (FCM) software and services.
+	['', 'financial control', ' ', 'financial management', ' ', 'financial service', ' ', 'cost control', '']
+Verus Pharmaceuticals
+	Provider of solutions for the treatment of asthma, allergies, and related diseases and conditions. The company also offers Twinject, an epinephrine auto-injector for anaphylaxis. It is differentiated by its pediatric orientation and its strong financial position and experienced management team, which allows the company to capitalize on an extensive network to build its product portfolio and pursue complementary transactions.
+	['', 'asthma treatment', ' asthma allergies ', 'epi pen', ' epi-pen epipen ', 'epinephrine auto injector', ' ', 'allergy treatment', '']
+Fundamo
+	Provider of financial services through mobile phones. The company provides financial services platform which allows mobile network operators and financial institutions to launch services to meet their requirements. It also also offers banking and allows users to make payments from their mobile phone.
+	['', 'mobile financial services', ' ', 'mobile banking', ' ', 'mobile network operator', '']
+Orchest
+	Provider of financial services technology. The company is the developer of a platform enabling users to access a consolidated view of their personal financial information from multiple institutions.
+	['', 'financial services', ' ', 'financial statement', '']
+Paxfire
+	Provider of a software that generates ad revenue for network operators from address bar search and DNS error traffic. The company also provides hardware look-up services for network operators, including consumer ISPs, CLECs, backbone providers and cable companies.
+	['', 'IT Services', '']
+Distra
+	Provider of social payments channels. The company enables financial institutions, processors and retailers to enhance the flexibility and performance of their existing payments infrastructure to address market needs.
+	['', 'social payments channel', ' ', 'payment system', ' ', 'e-commerce', '']
+Andera
+	Provider of online customer acquisition services to financial institutions. The offers a suite of products and services for online account opening, funding and crossselling.
+	['', 'online account', ' ', 'financial service', ' ', 'funding information', '']
+Covarity
+	Provider of commercial loan monitoring and portfolio management solutions for the financial services industry. The company provides web-based software solution that automates the process for collecting and analyzing borrower financial data and enables financial institutions to manage credit risk on a loan-by-loan basis. Its solution is used for document collection and statement tracking, financial statement analysis, statement spreading, ratio analysis, covenant monitoring, borrowing base analysis, and reporting applications.
+	['', 'commercial loan monitoring', ' ', 'portfolio management solution', ' ', 'credit risk management', ' ', 'commercial loan analysis', '']
+Gensar Holdings
+	Provider of electronic data capture and authorization services for financial institutions and sales agents. The company provides a processor of credit card transactions for retailers and other merchants.
+	['', 'data capture', ' ', 'authorization services', ' ', 'financial institutions', '']
+Maana Mobile
+	Developer of a mobile application for informal lending practices. The company’s software is designed for residents of South Africa to keep track of casual lending transactions and IOUs. Its application is designed to replace the handshake, word-of-mouth, memory or paper used by casual lenders and borrowers to enact and track their transactions. Users can view all outstanding IOUs, record payments, send out payment reminders and make payments without a bank account.
+	['lending ', 'banking software', ' ', 'payment software', ' ', 'unbanked Lending', '']
+Network365
+	Provider of mobile commerce services for network operators. The company develops the systems and architecture that enable businesses throughout the world to sell goods and services across a variety of mobile internet devices including phones and palm devices.
+	['', 'mobile commerce', ' ', 'network operators', ' ', 'mobile internet', '']

@@ -1,18 +1,33 @@
-Valorene
-	Provider of recycling services. The company specializes in providing recovery and recycling services for waste materials to make recycled raw materials.
-	['', 'recycling of waste materials', ' ', 'commercial service', ' ', 'recycling service', '']
-USCS International
-	Provider of customer management software and statement processing to the communications, utilities and other service industries. The company\'s clients include cable television, wireless and wire-line telephony, direct broadcast satellite, electricity, water, gas, waste management and utility.
-	['CRM ', 'statement processing', ' ', 'customer management software', '']
-Clean Steel
-	Provider of factory waste management and recycling services. The company focuses on a procedure that separates the mixture of steel wire and rubber, that comes out as a waste product into two parts which can be reused.
-	['', 'recycling', ' cleantech']
-Inetec
-	Provider of waste management services. The company offer a range of on-site waste management services to food manufacturers relating to food and non-recyclable packaging waste.
-	['', 'waste management', ' ', 'packaging waste', ' ', 'on-site waste management', '']
-LevGum
-	Provider of rubber de-vulcanization services. The company develops rubber de-vulcanization technology and is engaged in the re-cycling of rubber.
-	['', 'rubber de-vulcanization', ' ', 'rubber recycling', ' ', 'environmental services', '']
-Unicom
-	Manufacturer of modifiers for asphalt concrete mixtures for road construction. The company produces composite material "Unirem" for road paving using nanostructured rubber powder to modify an asphalt-bitumen mixture.
-	['', 'composite material', ' ', 'rubber powder', ' ', 'asphalt concrete mixture', '']
+Beijing MobileWoo Information Technology
+	Provider of PIM related services to mobile users. The company offers iSMS, iDialer, FreeMMSViewer, iDecompress and FreeLunarClt.
+	['PIM ', 'mobile users', ' FreeMMSViewer']
+SocialCrunch
+	Provider of a behavior graph of internet users. The company has developed an application which collects data on consumer sentiments through quizzes and track trends.
+	['', 'marketing data', ' ', 'consumer sentiment', ' ', 'track trend', '']
+Demonstrate
+	Provider of brand activation and communication related services. The company offers equity storytelling campaigns related services both online and offline.
+	['', 'brand marketing', ' ', 'brand communication', ' ', 'field marketing', ' ', 'online marketing', '']
+Mobango
+	Provider of mobile social networking platform. The company operates in the field of online and mobile services addressed to mobile users. The company provides services that lets its users to create, store, share, play original and self-produced content, both via Web and via mobile phones.
+	['', 'mobile apps', ' ', 'social content', '']
+BioID
+	Developer of multimodal biometric-security systems. The company provides camera-based cloud recognition services to protect Internet and mobile users from identity  and data theft.
+	['', 'cloud authentication', ' recognition multifactor ', 'multimodal biometric authentication', ' ', 'face recognition', ' ', 'iris recognition', ' ', 'voice recognition', '']
+BetterFit Technologies
+	Developer of an artificial intelligence platform for personalized medicine to users. The company is committed to facilitating data-driven healthcare decisions for patients and providers.
+	['', 'artificial intelligence platform', ' ', 'personalized medicine', ' ', 'medical consultancy', '  ', 'prescription consultation', ' ', 'medication database', ' ', 'prescription database', ' ', 'prescription use', ' ', 'patient data', '']
+Wireless Venture Partners
+	Provider of a cellular retail stores. The company offers Internet, telecommunication, wireless and voice and data products and related services.
+	['', 'wireless communication', ' ', 'telecommunication service', ' ', 'retail stores', '']
+Hashable
+	Provider of information about companies, industries, and business people over the Internet to general business users. The company subsequently pivoted to create Hashable, a mobile introductions check-in service. Tracked.com has been kept live as of June 1, 2011 however ongoing development has been put on hold to further pursue Hashable.
+	['', 'company information', ' ', 'industry information', ' ', 'business information', ' ', 'online infomation', ' ', 'check-in', ' ', 'social networking', '']
+Movirtu
+	Provider of identity services for mobile operators. The company offers a virtual SIM based service that enables multiple numbers to be active on a single standard SIM card.
+	['', 'telecommunications service', ' ', 'mobile technology', ' ', 'wireless service', '']
+Vuico
+	Provider of data connectivity for mobile users. The company provides wireless email and mobility solutions for personal and corporate use.
+	['', 'wireless software', ' ', 'data connectivity', ' ', 'mobile video', ' ', 'mobile entertainment', '']
+Look.io
+	Developer of mobile engagement tools. The company is a provider of overlay live chat support with visual feedback into mobile applications that allows customer service agents to view and support mobile users in real-time.
+	['feedback ', 'real time', ' chat']

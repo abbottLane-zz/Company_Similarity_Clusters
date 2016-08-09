@@ -1,24 +1,42 @@
-Currensee
-	Operator of a forex trading social network for retail forex traders in the United States and internationally. The company enables like-minded traders to connect and collaborate with each other and share ideas, insights and data based on the actual trading activity of the community. It allows members to access real-time trade and position information and leverage a set of social analytics.
-	['', 'forex trading', ' ', 'social network', ' ', 'trading community', ' ', 'real time trade', '']
-Tbricks
-	Provider of technology to proprietary trading professionals. The company provides efﬁcient tools for executing automated trading strategies on the ﬁnancial markets. The company also offers professional services including training, strategy design and implementation advice with existing system.
-	['', 'proprietary trading professional', ' training ', 'strategy design', ' ', 'effcient tool', '']
-GAIN Capital Securities
-	Provider of an online investment network. The company operates an online trading-services platform, providing execution, clearing, custody and technology products and services to retail and institutional investors in more than 140 companies.
-	['', 'capital security', ' ', 'real-time balance', ' ', 'mutual fund', '']
-Derivatech Risk Solutions
-	Provider of foreign exchange derivatives pricing, analytics, and risk management solutions to trading organizations. The company provides volatility surface modeling, pricing and valuation of exotic options, risk derivatives, model development kits, and pricing of custom structures.
-	['', 'foreign exchange pricing', ' ', 'risk management solution', ' ', 'trading activity', ' ', 'price valuation', ' ', 'risk derivative', '']
-Fine Trade
-	Provider of e-commerce trading services with payment options. The company provides shopping and sales service of national and international goods and handles service transactions for businesses.
-	['', 'trading services', ' ', 'payment options', '']
-Gain Capital Holdings
-	Provider of online foreign exchange trading services. The company services fund managers, commodity trading advisers, and professional traders. It also operates forex.com, an online foreign exchange for individual investors that offers trading tools, lower account minimums, and extensive education resources.
-	['', 'foreign exchange', ' forex trading ', 'foreign exchange trading', '']
-Master Capital Group
-	Provider of financial products and services. The company is a financial firm specializing in online trading and brokerage services. The company enables self-traders, introducing brokers and institutional clients to trade foreign exchange, CFDs, futures, options and fixed income through globally tested platforms. The company does business under the proprietary brand FXCM MENA.
-	['', 'online trading', ' brokerage ', 'self traders', '']
-BuysideFX
-	Provider of a foreign exchange trading platform aimed at the institutional money manager market. The company is a developer of trade-optimization software designed to help buy-side firms improve pre-trade processes, reduce risk and make side-by-side analyses of dealers using key criteria, or measuring them against benchmarks and market averages.
-	['', 'currency conversion', ' ', 'foreign exchange market', ' ', 'foreign exchange trading', ' ', 'FX', ' ', 'trading', ' ', 'currency trading', '']
+dedendo
+	Provider of online access to pharmacy shops and medical stores. The company offers its customers direct access to their local pharmacy online.
+	['', 'online medicine purchase', ' ', 'local pharmacy', ' ', 'internet retail', '']
+Carpetland
+	Operator of floor covering stores. The company provides variety of carpets to customers.
+	['', 'floor covering', ' ', 'carpet stores', ' carpet']
+Pollo Rey
+	Chain of Mexican food restaurants. The company provides dishes like Gourmet Burritos,  Roasted Chicken, Fish Tacos, Quesadillas, Fresh Salads, Stuffed Potatoes and Vegetarian Food.
+	['Quesadillas']
+A World of Tile
+	Owner and operator of a chain of retail tile and stone stores. The company\'s stores offer stone, ceramic, and porcelain tile products, as well as installation seminars.
+	['tile stone ceramic porcelain florring retail store']
+OnCart
+	Provider of online grocery shopping services.
+	['grocery ', 'online shopping', '']
+Suvianda
+	Operator of retail grocery stores. The company operates retail grocery stores specializing on Mexican food products.
+	['', 'B2C Services', ' ', 'Department Stores', '']
+Lightfull Foods
+	Producer of nutritious snacks. The company provides its products through grocery and natural foods stores in United States, as well as online. It also offers smoothies.
+	['', 'nutritious snack', ' ', 'healthy diet', ' ', 'online food store', ' ', 'healthy snacking', '']
+The Learning Company
+	Operator of a software development and sales company.The company operates as a publisher for consumer desktop publishing titles. Its flagship desktop publishing products are The Print Shop and PrintMaster. It operates a retail website offering its own software titles as well as others.
+	['', 'convenient software', ' ', 'project templates', ' ', 'consumer products', '']
+AbsolutelyNew
+	Operator of an consumer goods company that launches new products from inventors into stores, catalogs, online retail stores and television shopping channels. The company engages in identifying, licensing, manufacturing, and selling inventions.
+	['', 'online retail store', ' ', 'television shopping channel', ' ', 'selling invention', ' ', 'television shopping', '']
+JobFlash
+	Provider of hiring solutions for hourly and managerial employees. The company offers IVR technology and candidate scheduling services for restaurants, window cleaners, manufacturers, hotels, casinos, retail stores, and hospitality.
+	['', 'hiring solution', ' ', 'managerial employee', ' ', 'ivr technology', ' ', 'employee service', ' ', 'candidate service', '']
+Retail Info
+	Operator of a website focused on online shopping. The company provides promotional offers to clients visiting supermarkets, consumer electronics stores, and DIY stores. The company also operates price comparison engines for products offered by online stores.
+	['', 'online shopping portal', ' ', 'online shopping platform', ' ', 'internet retail services', '']
+Propane Continental
+	Operator of a wholesale and retail propane distribution company. The company operates a wholesale propane division and a network of retail propane outlets.
+	['propane ', 'wholesale distribution', ' ', 'retail outlets', '']
+DVDPlay
+	Developer of automated and remotely managed DVD rental machine. The company is the developer of a rental machine for dispensing DVDs. The machine, which features a compact footprint,  is designed for heavily trafficked locations such as grocery stores, restaurants, convenience stores and apartment complexes.
+	['', 'point of sale', ' kiosk DVD']
+Q Gardens
+	Operator of a retail gardening and farm-supply store. The company operates a seven-acre property from which it retails a range of gardening supplies and farming products, as well as produce, a cafe and cultivated gardens.
+	['', 'garden store', ' ', 'farm supply', ' ', 'gardening products', ' ', 'gardening tools', ' ', 'gardening implements', '']

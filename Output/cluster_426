@@ -1,18 +1,21 @@
-Tablus
-	Provider of content loss prevention solutions that locate, monitor, and protect sensitive enterprise information across their networks and desktops from loss or misuse.
-	['', 'content loss prevention', ' information network ', 'sensitive information', '']
-Orchestria
-	Designer and provider of software and solutions targeted at information protection and control. The company helps prevent data loss, address compliance concerns, and enforce information classification and control.
-	['', 'information protection', ' ', 'information control', ' ', 'online software', '']
-Reconnex
-	Developer of appliance-based data loss prevention system. The company provides system that helps an organization to protect all information assets on its network against known and emerging threats.
-	['', 'data loss prevention', ' ', 'data protection', ' ', 'information security', ' ', 'enterprise security', '']
-SafeCentral
-	Developer of security software applications and technologies for data loss prevention. The company offers software solutions and services for web browsing that provide security against identity theft by locking out desktop malware and establishing web connections. Its technology block key-loggers, screen-scrapers, and other malware agents; ensure a connection to the actual site; and provide protection for seamless integration into user’s existing browsing habits.
-	['', 'security software application', ' ', 'data loss prevention', ' ', 'data security', '']
-PostX
-	Provider of email encryption technology for enterprises.
-	['', 'email encryption', ' ', 'personalized electronic communication', ' ', 'message control', ' ', 'delivery tracking', ' ', 'email tracking', ' ', 'email security', '']
-Code Green Networks
-	Provider of data-loss prevention and content-security technology for enterprises. The company offers a platform that provides enterprises with content monitoring and data loss protection from insider threats and accidental misuse.
-	['', 'data loss prevention', ' ', 'content security', ' ', 'accidental misuse', ' ', 'enterprise solution', '']
+Aristo Technology
+	Developer and marketer of design planning and assembly tools for complex IC and system-on-chip (SOC) designs. The company constraint driven planning and implementation tools offer design convergence by incorporating block-level physical information starting at the architectural (pre-RTL) design stage. Aristo serves IC designers from system and semiconductor companies developing high performance, multi-million transistor designs and adopting a hierarchical chip planning and implementation design methodology. Block-based methodologies are essential in designing microprocessors, network processors, 3-D graphics accelerators, DSPs, ASSPs, and complex ASIC designs.
+	['', 'IC design', ' ', 'system-on-chip', ' ', 'SOC', ' IC ', 'transistor designs', ' ', 'microprocessor design', ' ', 'network processors', ' ', '3-D graphics accelerators', ' ', 'ASIC designs', '']
+International Network Services
+	Provider of network consulting and security services. The company provides services for the full life cycle of a network, including planning, design, implementation, operations and optimization.
+	['', 'network consulting', ' ', 'security services', ' optimization']
+mimoOn
+	Developer of LTE software for mobile devices and wireless infrastructure. The company offers physical layer and protocol stack for small cells and terminals, advanced scheduler for small cells, self-organizing network support and IP development in the areas of advanced PHY algorithms on multi-core SDR platforms. It provides complete porting, optimization and verification service, as well as a roadmap to future 3GPP releases.
+	['', 'mobile device', ' ', 'wireless infrastructure', ' ', 'LTE software', '']
+Tbricks
+	Provider of technology to proprietary trading professionals. The company provides efﬁcient tools for executing automated trading strategies on the ﬁnancial markets. The company also offers professional services including training, strategy design and implementation advice with existing system.
+	['', 'proprietary trading professional', ' training ', 'strategy design', ' ', 'effcient tool', '']
+Celestry
+	Provider of physical design products. The company offers software and services to electronic and semiconductor companies that are involved with the design of chips.
+	['chips electrinc semiconductor']
+Progira
+	Provider of network and frequency planning services for digital broadcasting companies. The company offers network operators and broadcast business consulting services and software solutions for the planning of digital and analog broadcast networks. It also manufacturers and sells broadcasting equipment in the field of television and radio transmission.
+	['', 'broadcasting equipment', ' ', 'digital broadcasting', ' ', 'software solutions', '']
+ADA Cellworks
+	Provider of radio network planning services. The company provides network planning, such as design, optimization and performance; network support services, including benchmarking, drive tests, site audits, RFI and model calibration; recruiting services and provisioning of manpower; and technical training. It also provides in-building design and implementation, implementation and integration, site acquisition, site physical design and layout, wireless engineering software development and market and technology assessment.
+	['', 'radio network planning', ' ', 'wireless engineering software', ' ', 'technology assessment', '']

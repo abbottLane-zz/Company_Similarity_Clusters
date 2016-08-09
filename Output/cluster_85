@@ -1,54 +1,9 @@
-Agouron Pharmaceuticals
-	Developer of therapeutic products to treat cancer and AIDS. The company engages in the discovery, development and commercialization of drugs for treatment of cancer, viral diseases and diseases of the eye.
-	['biomedical pharmacology immunogenetics']
-Paratek Pharmaceuticals
-	Developer of products to treat infectious diseases. The company develops antibiotic and anti-infective products for blocking bacterial resistance. Its drug compounds include MK-2764/PTK 0796, a clinical stage tetracycline-derived antibiotic agent for the treatment of bacterial infections, including infections caused by resistant strains, such as MRSA.
-	['', 'infectious disease', ' ', 'inflammatory disease', ' ', 'anti-infective product', '']
-Arcxis Biotechnologies
-	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
-	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
-FASgen
-	Developer of therapeutic drugs. The company designed and synthesized many compounds that selectively inhibit fatty acid biosynthesis. It offers cancer, infectious diseases, multiple drug resistant and latent tuberculosis and obesity and diabetes therapeutics.
-	['', 'therapeutic drugs', ' ', 'diabetes tool', ' ', 'latent tuberculosis', '']
-TaiMed Biologics
-	Developer of biotechnology prevention and treatment solutions for viral infectious diseases that are causing serious harm to human health. Products in research include Tamiphosphor, a neuraminidase inhibitor for the treatment of influenza, and Ibalizumab, an HIV prophylactic drug.
-	['influenza HIV']
-Nordic Phytopharma
-	Developer of scientifically documented dietary supplements and herbal remedies. The company engages in developing patentable ideas within the healthcare industry into proprietary products, including a treatment to lessen the symptoms of the common cold.
-	['', 'dietary supplements', ' ', 'immune system health and modulation', ' ', 'skin care areas', '']
-Ritter Pharmaceuticals
-	Provider of therapeutic treatments for gastrointestinal diseases and conditions. The company provides technology based upon colonic adaptation to treat gastrointestinal diseases with an initial focus on lactose intolerance.
-	['', 'therapeutic treatment', ' ', 'gastrointestinal disease treatment', ' ', 'therapeutic treatment technology', '']
-Aciex
-	Developer of an ophthalmic therapeutics treatment. The company focuses on developing products to treat an ocular eye diseases.
-	['', 'eye disease', ' ', 'eye treatment', ' ', 'ophthalmic therapeutic', '']
-Scancell
-	Developer of biopharmaceutical products. The company engages in the discovery and development of novel monoclonal antibodies and vaccines for the treatment of cancer and infectious diseases based on its ImmunoBody and Moditope platforms.
-	['', 'biopharmaceutical product', ' ', 'monoclonal antibodies', ' ', 'infectious diseases', '']
-Inviragen
-	Developer of vaccines to protect against various infectious diseases. The company offers its products to protect against dengue viruses, as well as West Nile, swine-origin, plague, smallpox and various other diseases.
-	['', 'dengue virus', ' ', 'infectious diseases', ' ', 'avian influenza diseases', ' ', 'viral vaccine', ' ', 'mouth disease', '']
-Besunyen Holdings Company
-	Provider of therapeutic tea products in China. The company is engaged in the development, production, sales and marketing of therapeutic tea and other health food products.
-	['', 'brand awareness', ' ', 'food product', ' ', 'laxative products', '']
-MIGENIX
-	Developer of drugs to treat or prevent infectious, degenerative and metabolic diseases. The company is committed to advancing therapy, improving health, and enriching life by developing and commercializing drugs for the prevention and treatment of major medical diseases and certain conditions with unmet medical need.
-	['', 'commercial drug', ' ', 'disease control', ' ', 'metabolic diseases', ' infection']
-Optimer Pharmaceuticals
-	Developer of anti-infective products. The company develops antibacterial drug for the treatment of Clostridium difficile-associated diarrhea (CDAD). It develops products that treat gastrointestinal infections and related diseases.
-	['', 'anti infective product', ' ', 'infectious disease', ' ', 'stomach infection', ' ', 'gastrointestinal treatment', '']
-GeneGrafts
-	Provider of therapeutic products. The company manufactures therapeutic products to treat cardiac arrhythmia, Parkinson\'s disease and epilepsy.
-	['', 'therapeutic product', ' ', 'cardiac arrhythmia treatment', ' ', 'epilepsy treatment', '']
-IQ Therapeutics
-	Developer of human antibodies for the prevention and treatment of infectious diseases. The company provides research and development services and also offers technology as a service for third parties.
-	['', 'human antibodies', ' ', 'infectious diseases', ' ', 'anthrax infections', '']
-Cantab Pharmaceuticals
-	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
-	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
-Tacere Therapeutics
-	Developer of therapeutics for the treatment of serious infectious diseases such as Hepatitis C (HCV). The company utilizes gene silencing technology called DNA-directed RNA interference (ddRNAi).
-	['', 'Hepatitis C', ' ', 'RNAi therapeutic', ' ', 'RNA interference drug', '']
-Xcyte Therapies
-	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
-	['', 'drug discovery', '']
+Amplidata
+	Provider of a cloud-based service provider offering scale-out technology for storage providers. The company offers, AmpliStor an object-based software defined storage system for enterprise, private cloud and hyper scale public cloud implementations.
+	['', 'storage infrastructure', ' ', 'storage technology', ' ', 'storage system', '']
+Samplify Systems
+	Provider of compression algorithms for high speed sampled data systems. The company offers analog-to-digital converter ICs for applications in ultrasound front-ends, 4G wireless base stations, automated test equipment, and RADAR/SONAR receivers; and Samplify\'s Prism, a compression and decompression engine that solves I/O and storage bottlenecks in embedded systems. It also provides Samplify for Windows, a compression analysis tool that displays input and output file sizes and other relevant compression results, including compression ratio, dynamic range, noise floor and distortion levels, and a rate-distortion curve.
+	['', 'compression algorithm', ' ', 'sampled data system', ' ', 'compression analysis tool', ' ', 'analog to digital converter', '']
+Streem
+	Provider of a cloud based hard drive that offers storage space. The company has developed a proprietary de duplication and compression technology to be able to provide storage facility.
+	['', 'storage space', ' ', 'hard drive', ' ', 'compression technology', ' ', 'cloud storage service', '']

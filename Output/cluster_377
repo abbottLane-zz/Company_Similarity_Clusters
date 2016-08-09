@@ -1,21 +1,18 @@
-Aduva
-	Developer of software applications for maintaining Linux computer systems. The company\'s product, Aduva OnStage, is a life-cycle management application which is used to detect, analyze, and resolve any deviation, conflicts or drift from compliance. The application ensures security and system compliance in supporting the build, test, stage, deployment, and production stages.
-	['', 'software application', ' ', 'Linux computer systems', ' ', 'system maintenance', ' ', 'system compliance', '']
-Chemrec
-	Developer of manufacturing technology for biofuels. The company provides a proprietary black liquor gasification technology that can be used to convert pulp and paper mills into biorefineries. The company\'s processing technology is used to create a synthetic gas product that can be converted into low-carbon fuels and chemicals, such as synthetic gasoline & diesel.
-	['biofuels biorefineries syngas']
-Camelot Information Technologies
-	Operator of a network intelligence technology company. The company\'s technology utilizes discovery algorithms to analyze network events.
-	['', 'network monitoring', ' ', 'network resources', ' ', 'security services', '']
-Radient Technologies
-	Provider of pharmaceutical intermediates, nutraceutical compounds and oil from biomass. The company is engaged in the extraction, purification and isolation of naturally derived compounds and ingredients. It produces natural substances by combining an extraction platform, microwave assisted processing, with expertise in the areas of purification and isolation.
-	['nutraceutical ', 'microwave assisted processing', ' ', 'naturally derived compound', '  biomass']
-Quantason
-	Provider of bi-modal technology. The company\'s technology expands the capabilities of conventional ultrasound systems by combining anatomical 2D imaging with proprietary real-time acoustic stimulation paradigms to image, detect, locate in 3D and classify micron-size targets.
-	['', 'bi-modal technology', ' ultrasound ', 'drug delivery', ' ', 'breast cancer screening', ' ', 'ultrasound technology', ' diagnostic']
-TwoF
-	Developer of technology for genetic analysis assays. The company\'s technology platform Supramolecular NanoStamping is used for the production of DNA microarrays.
-	['DNA microarrays ', 'DNA chip', '']
-EKB Technology
-	Developer of a bioprocessing technology. The company\'s technology platform is used for eliminating the stages involved in product purification and clean up by combining the production and recovery of chemicals.
-	['', 'bipolar electrodialysis', ' electrokinetic chemistry electrodialysis']
+Vioquest Pharmaceuticals
+	Provider of therapeutic services for oncology. The company develops and commercializes late preclinical and early clinical stage therapies for oncology, viral and autoimmune disorders.
+	['', 'oncology treatment', ' ', 'cancer therapy', ' ', 'cancer relief', '']
+Compass Information Services
+	Developer of oncology and autoimmune therapeutics. The company is a distributor of the Compass (R) system, a procedure for assessing the outcomes of mental-health treatments. The company also engages in related research.
+	['', 'mental health', ' ', 'treatment assessment', ' ', 'ongoing treatment', ' ', 'mental illness', ' ', 'treatment management', ' ', 'treatment outcome', '']
+Serodus
+	Developer of pharmaceuticals for treatment of diseases in the heart and blood vessels. The company focuses on new therapeutic products for the treatment of cardiovascular diseases with large unmet clinical needs.
+	['', 'cardiovascular diseases', ' ', 'blood vessels', ' ', 'therapeutic products', '']
+Proacta
+	Developer of oncology drugs. The company provides cancer-related products which targets the physiological attributes of solid tumors through normal metabolic processes.
+	['', 'oncology drug', ' ', 'cancer drug', ' ', 'solid tumour drug', '']
+Tobira Therapeutics (acquired 2015)
+	Developer of antiviral compounds for treating HIV infection. The company develops TBR-652 and TBR-220 antagonists for the treatment of HIV/AIDS, hepatitis and other associated infectious conditions.
+	['', 'antiviral compound', ' ', 'HIV treatment', ' ', 'hepatitis treatment', '']
+MGI Pharma Biologics
+	Developer of oncology and antiviral products for large unmet markets.
+	['', 'oncology product', ' ', 'medical therapy', ' ', 'pharmaceutical product', '']

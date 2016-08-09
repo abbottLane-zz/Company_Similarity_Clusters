@@ -1,42 +1,24 @@
-Liquiverse
-	Provider of a software for editing complex data lists in diagrams. The company develops and distributes software services based on liquid browsing, a patented technology leveraging the display of charts and information lists.
-	['', 'complex data', ' ', 'Liquid Browsing', ' diagrams ', 'graphical data', '']
-Kippt
-	Provider of social and collaborative bookmarking site. The company enables its users to organize links into lists, collect bookmarks and clips add comments and share content.
-	['', 'bookmarking site', ' ', 'content sharing platform', ' ', 'social site', '']
-Wakesoft
-	Provider of application architecture solutions. The company’s Wakesoft Architecture Server allows users to build enterprise-level Java, XML and Web Services applications.
-	['', 'Architecture Server', ' ', 'architecture solutions', ' Java  XML']
-Weardrobe
-	Operator of a style focused social network that connects people. The company provides an online wardrobe where one can post pictures of their coordinated outfits, tag clothing in photos, catalogue outfits and share with friends.
-	['', 'virtual closet', ' wadrobe ', 'online wadrobe', ' ', 'fashion site', ' clothes']
-FasterLighterBetter
-	Provider of a tipping and appreciation services. The company\'s application allows fans a one-click option to support content authors in their work.
-	['', 'IT Services', '']
-Indicee
-	Provider of a platform that helps business users to organize, analyze and share business data in an online community. The company operates an online application that allows users to merge data from various business systems, reports and spreadsheets, as well as analyze and share that data with co-workers, colleagues and customers in an online environment.
-	['', 'business sharing', ' ', 'data analysis', ' ', 'data sharing', ' ', 'data merge', '']
-Listiki
-	Provider of an online real-time data services. The company creates and shares collaborative lists. It offers lists of favorite stuff, groceries shopping, games and songs.
-	['groceries ', 'favorite stuff', ' collaborative']
-Urbantag
-	Provider of a community to share and recommend places to people. The company\'s application allows users to build lists and then share them with friends, either online or on iPhone, they can then create their own lists or provide input to your own, giving recommendations for where to go or where not to go.
-	['', 'local discovery', ' ', 'place recommendation', ' ', 'place sharing', ' ', 'map network', '']
-Affinity Labs
-	Provider of online professional community for people. The company offers networks for careers such as law enforcement, healthcare, education, government and technology.
-	['', 'online community', ' ', 'professional community', ' ', 'educational community', '']
-Iconology
-	Developer of technological infrastructure for digital comic books. The company provides weekly list of new releases in a format that allows viewing of issues individually, displaying cover arts, credits, descriptions, prices and page counts. It offers a digital Pull List system, which allows collectors to maintain their collections online, print out those lists and provide them to their local retailer, as well as allows visitors of the site to see what comics people are reading and expose them to items they wouldn\'t normally purchase.
-	['', 'digital comic book', ' ', 'digital book', ' ', 'comic library', '']
-Backchat
-	Developer and provider of application based social platform for communication. The company\'s application allows friends to share and communicate each others feedback, opinions, feelings and ideas.
-	['', 'application platform', ' ', 'human communication', ' ', 'personal feedback', '']
-Fetchnotes
-	Provider of note taking and organization tool. The company provides a cloud based note jotting and organizing system which allows user to capture, organize short notes like books to read, ideas and shopping lists.
-	['', 'note jotting', ' ', 'organization tool', ' ', 'online note', ' ', 'mobile development', ' ', 'web development', '']
-Minekey
-	Provider of online content discovery and recommendation services. The company offers a social platform enabling users to share and recommend their online discoveries.
-	['', 'content discovery', ' ', 'recommendation service', ' ', 'online recommendation', '']
-Stamped
-	Provider of an application platform to let people record and share recommendations of their favorite things. The company provides a web application that allows its users to share and recommend things like restaurants, books, movies, music and more with their friends.
-	['', 'buy book', ' ', 'movie ticket', ' ', 'restaurant menu', ' ', 'download music', ' ', 'web application', ' ', 'recommendation sharing', '']
+Hearing Science
+	Provider of hearing health care and audiologist services. The company\'s services include marketing, public relations, managed care contracting, recruiting and training, accounting services, facility management and enhanced information systems. The company also conducts hearing tests and provides patients with hearing aids.
+	['', 'hearing health', ' ', 'audiologist services', ' ', 'diagnostic devices', ' ', 'check-up clinics', ' ', 'facility management', ' audiology']
+Nacre
+	Developer of a patented technology for intelligent hearing systems. The company develops electronic and passive in ear hearing protection with natural speech and radio communications.
+	['', 'hearing system', ' ', 'hearing protection', ' ', 'natural speech', ' ', 'radio communication', '']
+Dynamic Hearing
+	Provider of digital signal processing software. The company offers digital amplifier for the hearing aid and personal communications industries. The company was spun out of Cooperative Research Centre for Cochlear Implant and Hearing Aid Innovation.
+	['', 'signal processing', ' ', 'digital signal', ' ', 'digital amplifier', '']
+AVR Communications
+	Developer of hearing technologies. The company designs, manufactures and sells hearing aids for improving the auditory and verbal communication skills of hearing impaired children and adults.
+	['', 'hearing aids', ' ', 'hearing impairment', ' ', 'hearing technologies', '']
+Austhink Software
+	Development of behavioral technologies. The company offers a software whicxh enables users to increase their reasoning, logical thinking, problem-solving, decision-making and communication skills.
+	['', 'behavioral technologies', ' ', 'critical thinking', ' ', 'problem-solving', ' ', 'decision making', '']
+Sealegs
+	Manufacturer of amphibious marine craft. The company designs, manufactures and sells amphibious marine vehicles for recreational as well as professional use, including models built on military specifications.
+	['amphibious marine ', 'recreational boating', ' ', 'rescue missions', '']
+William Demant Holding
+	Manufacturer of hearing devices. The company develops and sells products and equipment designed to aid people with hearing loss in their individual communication.
+	['', 'hearing aid', ' ', 'Hearing Implants', ' ', 'Diagnostic Instruments', '']
+Accutronics (Electronics)
+	Manufacturer of batteries. The company designs, manufactures and sells batteries for high-performance portable and handheld electronic devices  in the medical and healthcare, defense and security and industrial electronic markets.
+	['', 'power products', ' batteries charger ', 'battery design', '']

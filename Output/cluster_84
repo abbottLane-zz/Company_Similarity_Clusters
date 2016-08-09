@@ -1,48 +1,12 @@
-Cedar Point Communications
-	Provider of integrated voice over Internet protocol and multimedia switching technologies for the service provider and enterprise telecommunication industries. The company\'s products include SAFARI C3, a media switching system, which delivers Internet protocol multimedia subsystem (IMS) capabilities that support the anticipated migration to IMS architecture for converged networks; and SAFARI eMG, a media gateway that delivers flexibility. It also also provides training, customer, and solution services. Cedar Point Communications serves information technology departments and network operators, cable operators and telecommunications carriers, and enterprise customers and educational institutions.
-	['', 'voice over Internet protocol', ' ', 'switching technology', ' ', 'switching system', '']
-Pixer Technology
-	Designer and supplier of semiconductor capital equipment to integrated circuit manufacturers and mask makers. The company develops integrated systems based on its innovative optical laser technologies. It also develops technological products for the discovery and correction of defects in semiconductor production and improve quality control.
-	['', 'optical laser', ' pixel laser IC']
-Crosslayer Networks
-	Developer of communication network products and components. The company develops scalable silicon that brings quality service capabilities to next generation switches and routers. The company\'s combined packet-processor and switch fabric architecture accommodates emerging technologies as 10-gigabit Ethernet and MPLS which allows system vendors to create products at low power and price.
-	['', 'communication network products', ' silicon ', 'switches and routers', ' ', 'switch fabric architechture', ' packet-processor']
-SiXis
-	Developer of silicon circuit board technology. The company provides chip-level integration through a Silicon Integrated Circuit Board (SICB) technology platform.
-	['', 'technology platform', ' semiconductor ', 'circuit board', '']
-Ultracom Communications Holdings
-	Supplier of broadband network systems-on-silicon. The company offers silicon subsystems and VLSI-based subsystems to telephony and data communications equipment manufacturers and develops two-way cable modems for data, voice and video communication solutions.
-	['', 'broadband network systems', ' ', 'digital communications', ' ', 'silicon subsystems', ' ', 'communication solutions', '']
-Telovations
-	Provider of voice over Internet protocol communications services. The company\'s services feature applications, such as hosted phone systems, remote office, fax to email, find me or follow me, branch office networking, unified messaging, conference calls and collaboration, disaster redirect, email and broadband Internet, Microsoft integration toolbar, auto-attendant options, receptionist console and messages on hold.
-	['', 'Internet protocol communication', ' ', 'hosted phone system', ' ', 'branch office networking', ' ', 'disaster redirect', ' ', 'remote office', ' ', 'conference calls', ' ', 'broadband Internet service', '']
-Syndeo
-	Developer of voice-over-internet-protocol software. The company provides broadband local loop and traditional narrowband carriers to drive additional value over their next-generation converged networks by offering VoIP (voice-over-IP) services.
-	['VoIP']
-Sebring Systems
-	Supplier of silicon switch fabric interconnect solutions to the networking and computing industries. The company deals with the enhancement of cost and performance of PCI-based systems with scalebility, high bandwidth, fault tolerance and hot-plug.
-	['', 'Sebring Ring', ' ', 'silicon switch', ' silicon']
-Lightstorm Networks
-	Developer of integrated semiconductors. The company is engaged in developing and manufacturing integrated, low power consuming semiconductor products for the transport of packet data over SONET/SDH and packet networks.
-	['', 'high port density semiconductors', ' ', 'semiconductor products', ' ', 'semiconductor design', '']
-SmartLink
-	Developer of integrated silicon. The company develops integrated silicon products for voice over internet protocol communications.
-	['', 'broadband modem', ' ', 'Embedded fax', ' ', 'Embedded modem', ' ', 'Connectivity Product', '']
-HVVi Semiconductors
-	Provider of silicon RF power transistors. The company offers HVVi Silicon HVVFET for pulse applications, including TCAS, IFF, radar and avionics in the UHF and L-Bands.
-	['', 'power transistor', ' ', 'pulse application', ' semiconductor']
-Sigolis
-	Developer of microsystem technology. The company develops components in polymer by first producing the parts in original through different methods for sculpting silicon and glass wafers.
-	['', 'microsystem technology', ' microfabrication ', 'medical device', '']
-Let It Wave
-	Developer of video processing semiconductors. The company develops integrated circuit product and products that improve satellite images, seismic images, digital photographs, and medical images.
-	['', 'fabless semiconductor', ' ', 'integrated circuit product', ' ', 'noise reduction device', '']
-Si-Light Technologies
-	Developer of a method of stimulating emission of light from silicon. The company manufactures and develops silicon light emission device.
-	['', 'light emission device', ' ', 'alternative energy equipment', ' ', 'silicon light emission device', '']
-FLX Micro
-	Manufacturer of silicon carbide-based microsensors. The company develops its products through silicon carbide deposition and microfabrication technology platform. Its products are used in various applications, such as automotive, energy, environmental, and manufacturing.
-	['', 'carbide microsensor', ' ', 'silicon carbide', ' microfabrication']
-DesignArt Networks
-	Provider of silicon for 4G infrastructure products. The company offers software-defined SoC platforms for compact base stations (Enterprise Femto/Pico/Micro), Remote Radio Heads (RRH), Backhaul links (NLOS, Microwave and E-Band) and relay equipment.
-	['', 'silicon platform', ' ', 'radio access network', ' ', 'infrastructure product', '']
+LogLogic
+	Developer of log data management and security event management solutions for the business operations of enterprises and mid-market companies in the United States and internationally. The company’s LX-ST and MX appliances enable customers to log data from firewalls, routers, servers, applications, operating systems, and devices to be automatically collected, stored, reported, and alerted for compliance, risk mitigation, security, performance management, virtualization, and user monitoring. Its solutions also include LogLogic MX Virtual that provides enterprise-grade IT data collection, search, and storage solutions, as well as customizable alerts and reports covering identity and access management, user activity, network changes, security, business continuity, and IT performance; Enterprise Virtual Appliance, a software-based appliance that delivers on-demand and scheduled network reports for cloud deployments and virtualized data centers; and LogLogic Compliance Manager, which provides users with an executive view into an enterprise\'s compliance posture. It also provides customer support, consultation, implementation, training, and integration services. Its open log management and database activity monitoring solutions provide tools for customers to monitor activities that occur in networks, applications, databases, and servers. It serves telecommunications, technology, pharmaceutical, retail, petroleum, commercial banks, aerospace and defense, insurance, and healthcare companies.
+	['', 'log data management', ' ', 'security event management', ' ', 'risk mitigation', ' ', 'performance management', ' ', 'data collection', ' ', 'storage solution', ' ', 'activity monitoring', '']
+XenSource
+	Developer of enterprise grade virtualization solutions. The company offers Xen 3.0, an open source hyper visor virtualization technology that provides features required for servers deployed in enterprise; Xen Optimiser, a multi-server virtualization infrastructure software management solution; and Xen Support, a subscription-based support for Xen and XenOptimizer. It also provides value-added enterprise solutions, including enterprise grade virtualization infrastructure solutions.
+	['virtualization ', 'software mangement', ' ', 'server utilization', '']
+FieldView Solutions
+	Provider of facilities managers and IT personnel that handle data centers with real time branch circuit and environmental monitoring, circuit alarm notification, and cabinet asset management for small and large data centers. The company’s enterprise-ready platform optimizes space and energy usage in data center environments, as well as enhances security features, access, and permissions. It serves financial, insurance, co-location, and pharmaceutical companies.
+	['', 'enterprise software', ' ', 'energy management', ' ', 'risk mitigation', ' ', 'paltform optimization', ' ', 'space optimization', '']
+SenSage
+	Provider of enterprise event data warehouse technology for security, compliance, call detail records data retention, data retrieval and systems management. The company offers enterprise security analytics software that provides a log management platform, for event collection, retention and analysis to automate compliance reporting, investigation and security decision support processes.
+	['', 'data warehouse', ' ', 'log management platform', ' ', 'data management architecture', ' ', 'log management', ' ', 'system management', ' ', 'security process', ' ', 'compliance reporting', '']

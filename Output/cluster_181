@@ -1,24 +1,33 @@
-Quidsi
-	Operator of an online retail shop for baby care, health, beauty, and household essentials. The company offers diapers, baby food, juices, nutritional supplements, snacks, cereal, toys and books, and clothing and shoes; and feeding and nursing, bath and skin care, safety, gear, and nursery products, as well as products for moms and maternity.
-	['', 'baby care', ' ', 'household essential', ' ', 'online retail shop', '']
-MotoSport
-	Distributor of off-road motorcycle and all-terrain vehicle parts and equipment. The company offers bars and controls, body components, brakes, drive components, engine components, exhausts, graphics, suspension, tires, wheels, and intake components. It also distributes gear, boots, helmets, goggles, hydration packs, protective gear, gear bags, men’s casual clothing, women’s casual clothing, clearance gear, kid’s gear, pants, jerseys, gloves, and pajamas, as well as sells miscellaneous items, such as DVDs, sunglasses, tools, ramps and stands, chemicals, and original equipment manufacturer parts.
-	['', 'vehicle part', ' ', 'vehicle equipment', ' ', 'engine component', ' ', 'bike rider accessory', ' ', 'retailer of motorcycle', ' ', 'ATV part', ' ', 'sports apparel', ' ', 'off road vehicle', ' ', 'all terrain vehicle', '']
-Breastfeeding.com
-	Provider of support and information on breastfeeding for first-time moms. The company operates an online community of mothers and birth related medical professionals for support and advice. It also provides information and support on various child health and growth issues ranging from child care and safety to potty training and teething.
-	['', 'online community', ' ', 'medical professional', ' ', 'child care', ' ', 'child health', '']
-NearbyNow
-	Provider of on line services to retailers and shopping centers that allow consumers to search local store inventory using the Internet or mobile phones. The company offers information on baby products, such as car seats, clothes, furniture, highchairs and feedings, shoes, slings and carriers, and strollers; bathroom furniture, blankets, comforters, mirrors, pillows, rugs, shower curtains, toilet accessories, and towels; maternity products, including clothing and personal care; and clothing and accessories, including athletic and workout products, belts, blazers and sport coats, dresses, handbags and wallets, hoodies and sweatshirts, jeans, lingerie, outerwear, pants, petites, shirts and tops, shorts, skirts, sleepwear, socks and hosiery, suits, sweaters, swimwear, ties, and underwear products.
-	['', 'on-line marketing service', ' ', 'local store inventory', ' ', 'on line retail shop', ' ', 'on-line local market shopping', ' ', 'mobile shopping application', ' ', 'local store inventory information', ' ', 'scan local market product', ' ', 'nearby store information', ' ', 'local shopping center information', '']
-Private Outlet
-	Operator of an online store. The company focuses on private sales of fashion items including clothing and accessories. The company offers fashion, athletics, beauty, interior decoration as well as small appliances to customers.
-	['', 'online store', ' ', 'small appliances', '']
-Casabu
-	Operator of an online flash sales site. The company focuses on maternity and child products including clothing, toys, nursery equipment, maternity gear and treats for mothers.
-	['', 'online flash sales', ' ', 'online site', ' ', 'online store', ' ', 'children’s brand', '']
-Beijing Redbaby Internet Technology Co.
-	Operator of an eCommerce platform. The company offers baby care and maternity products in China. Its product includes baby food, diapers and toys, cosmetics, packaged milk and nutritional supplements.
-	['', 'ecommerce platform', ' ', 'consumer durables', ' ', 'baby food', '']
-Clarus (acquired)
-	Provider of B2B procurement software and trading services. The company develops, manufactures and distributes a broad range of products including carabiners, protection devices, belay and rappel equipment, helmets, ropes, ice-climbing gear, backcountry gear, technical backpacks, high-end day packs, tents, trekking poles, gloves, skis, ski bindings and ski boots.
-	['', 'outdoor equipment', ' ', 'lifestyle products', ' helmets']
+Mavent
+	Provider of an automated regulatory compliance solutions. The company offers Mavent Expert System, a knowledge-based system to enhance regulatory risk management for residential mortgage businesses; and automated compliance engines that analyze mortgage loan data for compliance with consumer protection laws and institutionally mandated compliance policies.
+	['', 'regulatory compliance', ' ', 'knowledge based system', ' ', 'mortgage business', ' ', 'mortgage loan data', ' ', 'consumer protection law', ' ', 'compliance engine', '']
+Pure Software
+	Developer of Software tool. The company provides software quality improvement products.
+	['', 'software tool', ' ', 'quality improvement', ' product']
+Simulus
+	Developer of performance management software for host mainframe systems. The company develops systems for enterprise computer systems that gives companies the chance to eliminate problems before they occur.
+	['', 'performance management', ' ', 'host mainframe', ' eliminate']
+Physicians Data Network
+	Provider of web-enabled on-line management tool. The company develops online tools that allows healthcare providers to monitor Medicare fraud and abuse regulatory compliance, measure productivity and manage revenue.
+	['', 'online tools', ' ', 'management tool', ' ', 'web-enabled tool', ' ', 'fraud security', '  web-enabled']
+Archer Technologies
+	Provider of enterprise governance, risk, and compliance management software. The company provides policy management, threat management, asset management solutions and gain visibility into corporate risk and security controls.
+	['', 'enterprise governance', ' ', 'compliance management software', ' ', 'software technology', '']
+ikaSystems
+	Provider of cloud-based software for business automation and process services for the healthcare market. The company provides an enterprise-level platform to support healthcare payers\' commercial and Medicare requirements through the automation of sales, marketing, regulatory compliance, claims administration and customer service procedures.
+	['', 'healthcare payer', ' ', 'claims administration', ' ', 'process automation', '']
+Visual Networks
+	Provider of network and application performance management solutions. The company’s products increase application and network availability, optimize the use of bandwidth and reduce operating costs across traditional and new IP-based infrastructures.
+	['VoIP ', 'Broadband IP solution', ' ', 'Private IP solution', ' ', 'Network management', '']
+AS-Groupe
+	Provider of corporate performance management software. The company offers corporate planning, controlling, reporting, and services to various organizations.
+	['', 'corporate software', ' ', 'corporate planning', ' ', 'software services', '']
+NetQoS
+	Developer of network performance management software and services for application delivery across IT networks. The company\'s products include NetQoS Performance Center, SuperAgent, ReporterAnalyzer, NetVoyant, Allocate, and GigaStor, which help IT organizations optimize their network infrastructure to deliver services to end users.
+	['', 'network performance management', ' ', 'Information Technology', ' ', 'delivery management solution', '']
+Mitam Biological Control
+	Developer of technologies for biological control of ticks. The company has a strategic partnership with a global player in the animal healthcare market and its product Metick is designed for the biological control of ticks.
+	['', 'animal healthcare', ' ', 'biological control', ' livestock']
+Dynamic Change
+	Developer of web-based performance management software tool. The company provides regulatory compliance, corporate governance, risk and performance management services to the healthcare market.
+	['', 'compliance software', ' ', 'performance management software', ' ', 'corporate governance', '']

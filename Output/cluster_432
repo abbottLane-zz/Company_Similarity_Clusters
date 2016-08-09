@@ -1,18 +1,21 @@
-CDFX
-	Provider of services for the print supply chain. The company offers services for producing and delivering print, optical, direct and promotional products for direct marketers. It also offers virtual warehouse software that helps clients to streamline processes.
-	['', 'optical media', ' ', 'inventory management', ' ', 'print supply chain', ' ', 'project management system', '']
-Crystal Canyon Interactive
-	Developer of visual design, content presentation and dynamic technologies. The company provides CD-ROM based applications and presentations to serve their clients.
-	['', 'video production', ' ', 'CD/DVD authoring', ' ', 'content presentation', ' ', 'web solutions', '']
-Boxer Cross
-	Provider of metrology tools for the semiconductor industry. The company develops and manufactures fully automated metrology systems, providing in-line monitoring of parameters affecting the electrical performance.
-	['', 'metrology system', ' ', 'monitoring system', ' ', 'electrical measurement data', '']
-Meridian Data
-	Developer of CD ROM publishing tools. The company provides network software and servers for storing and accessing CD ROM information.
-	['', 'network software', ' ', 'CD ROM publishing tools', ' ', 'CD management tools', '']
-McKinley Group
-	Provider of services related to publishing navigational contents on the Internet. The company\'s online internet guide, previews and rates sites that assist users in conducting more targeted searches. McKinley\'s directories are published on its Internet web site and in print or CD-ROM.
-	['', 'online internet guide', ' ', 'online search', ' ', 'navigational content', '']
-Sensys Instruments
-	Provider of integrated metrology applications. The company offers compact metrology system and cd-i, small foot print system for optical cd applications.
-	['metrology']
+Agile Energy
+	Developer of utility-scale renewable power generating projects. The Company manages and performs all development activities required to bring its projects from conception through completion, including siting, environmental permitting, securing transmission, contract negotiations and arranging project financing.
+	['', 'renewable power', ' ', 'project financing', ' ', 'electric power', ' ', 'power project development', ' ', 'renewable energy', '']
+Plant Genetic Systems
+	Developer of genetically engineered plants. The company is a biotech company lacated in Ghent, Belgium. The was the first (in 1985) to develop genetically engineered (tobacco) plants with insect tolerance by expressing genes encoding for insecticidal proteins from Bacillus thuringiensis (Bt).
+	['', 'genetic engineering', ' ', 'plants', ' ', 'insecticidal protein', '']
+Meridian Energy USA
+	Developer of utility-scale, environmentally-clean solar plants. The company focuses on generating photovoltaic peak electricity that is free of green house gases for sale to utilities, municipalities and other major customers.
+	['', 'electric utilities', ' ', 'photovoltaic electricity', ' ', 'green house gases', ' ', 'green house', ' photovoltaic']
+Intec Power Holdings
+	Developer of technologies for generating electricity. The company develops Silent Urban Rotational Generator of Electricity (SURGE) that captures the natural movement of air and converts into electricity by means of generator and ducting control system.
+	['', 'Generator of Electricity', ' ', 'Electricity Generator', ' generator']
+SolarQuest
+	Developer of photovoltaic solar farms. The company specialises in designing, developing and managing integrated photovoltaic electricity-generating arrays on buildings.
+	['', 'photovoltaic solar farms', ' ', 'electricity-generating arrays', ' photovoltaic']
+Energy Informatics
+	Developer of software for management of distributed energy resources. The company provides cloud services for management of solar photovoltaic facilities ranging in size from small residential rooftop systems to multi-megawatt utility-scale power plants.
+	['', 'energy product', ' ', 'rooftop system', ' ', 'power plant', ' ', 'solar photovoltaic', ' ', 'asset management', '']
+ALUmonte Technologiefortschritt in Aluminium
+	Operator of aluminum melting plants. The company processes its alloys and aluminum scrap through an oxidation and salt-free melting process that removes miscellaneous impurities.
+	['', 'oxidation-free remelting', ' ', 'miscellaneous impurity', ' ', 'aluminum-melting plant', ' ', 'clean aluminum', ' metallurgy']

@@ -1,33 +1,15 @@
-MetricsHub
-	Provider of cloud application monitoring platform. The company\'s platform keeps web applications up and running.
-	['', 'cloud monitoring platform', ' ', 'application monitoring', ' ', 'cloud Monitoring', '']
-SepSensor
-	Manufacturer of sensing technologies for monitoring stratification in tanks primarily in the food services industry. The company provides grease interceptor monitoring system which remotely monitors the condition of internal or external grease traps.
-	['', 'grease interceptor monitoring', ' ', 'tank stratification monitoring', ' ', 'sensing technology', '']
-Reppler
-	Provider of social media monitoring service. The company designs and manage online image across different social networks.
-	['', 'media monitoring', ' ', 'image management', ' ', 'image designing', '']
-FiltrBox
-	Provider of social media monitoring platform for marketers, PR professionals, brand managers and customer service teams. The company\'s services include Filtrbox G2 that delivers critical market intelligence to executives, sales professionals, investors, and marketers, as well as discovers new articles in a range of online sources and delivers a daily list of qualified results based on client’s business logic.
-	['', 'social media monitoring platform', ' ', 'market monitor', ' ', 'social media monitoring', '']
-Pipette
-	Provider of a health monitoring platform. The company provides mobile application which provides easy reports of patient for analyzing health condition.
-	['', 'monitoring device', ' ', 'healthcare application', ' ', 'monitoring equipment', '']
-Lindexa
-	Provider of a web-oriented platform. The company offers an online monitoring platform that collects, analyzes and displays the information posted on the internet.
-	['', 'web-oriented platform', ' ', 'monitoring tool', ' ', 'digital marketing tool', ' ', 'social media marketing', '']
-eThority
-	Provider of research and consulting products that allow marketers and publishers to gain consumer insights and market intelligence. The company offers brand and issue monitoring and social media analysis.
-	['', 'research product', ' ', 'consulting product', ' ', 'market intelligence', ' ', 'issue monitoring', ' ', 'social media analysis', '']
-Engagor
-	Provider of an online platform for real-time customer engagement, social media monitoring and analytics. The company provides an online tool for medium-sized and large companies to monitor everything said about their brand and their industry in general.
-	['', 'social media monitoring', ' ', 'online reporting', ' ', 'customer engagement', ' ', 'media montoring', ' ', 'social media dashboard', '']
-Qrew
-	Provider of cloud, peer-coaching software to companies that want to be able to provide on-the-job employee development (ED) support to all their employees. The company is a social networking software for peer-coaching programs, bringing the benefits of executive coaching to all employees in a company.
-	['', 'peer-coaching software', ' ', 'peer coaching', ' ', 'Enterprise Software', '']
-Brio Software
-	Provider of media and market intelligence solutions. The company provides media planning and management, agency and client benchmarking, audience impact research, competitive and best practices advisory, and influencer program development services. The company also offers media segmentation, ranking, optimization, and outlet and journalist performance; market sentiments evaluation; and trends, issues, and threats monitoring services.
-	['', 'media segmentation', ' ', 'media planning', ' ', 'market intelligence', ' ', 'client benchmarking', ' consultancy']
-BuzzNumbers
-	Provider of a social media monitoring platform. The company provides media monitoring, reporting, coaching and insights to organizations.
-	['', 'social media monitoring', ' ', 'media monitoring', ' ', 'media analytics', '']
+Fiomi Diagnostics
+	Manufacturer and marketer of diagnostic test kits. The company also develops a panel of point-of-care cardiac marker assays.
+	['', 'diagnostic substance', ' ', 'Invitro diagnostic substance', ' ', 'diagnostic testing', ' ', 'cardiac marker assays', '']
+DiaSpect Medical
+	Provider of in vitro diagnostic systems. The company provides instant hemoglobin related measurements in unaltered whole blood for point of care.
+	['hemoglobin measurements ', 'point of care', ' ', 'healthcare services', '']
+miacom Diagnostics
+	Developer of diagnostic kits. The company provides a diagnostic technology that uses biofluorescence to scan for bacteria and other disease-causing pathogens. The kits can be used to evaluate blood and sputum.
+	['', 'diagnostic kits', ' ', 'channel pipette', ' ', 'hybridization chamber', ' hotplate fluorescence']
+Åmic
+	Developer of point-of-care diagnostic products. The company has developed a diagnostic platform based on micro-fabrication technology for application in point-of-care diagnostics.
+	['', 'diagnostic platform', ' ', 'point-of-care', ' ', 'microfluidic technology', ' ', 'micro-fabrication technology', '']
+Oxford Immunotec Global
+	Manufacturer and marketer of T Cell based diagnostic test products and services for the laboratories and clinicians. The company\'s product is the \'T-SPOT.TB\' test, the new cellular blood test for the detection of active and latent tuberculosis infection.
+	['', 'blood test', ' ', 'tuberculosis infection', ' ', 'blood sample', ' ', 'tuberculosis diagnosis', '']

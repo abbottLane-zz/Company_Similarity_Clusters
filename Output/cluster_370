@@ -1,27 +1,12 @@
-Synos Technology
-	Designer of technology to enable the production of organic light-emitting diode (OLED) displays. The company designs and manufactures Fast Array Scanning Atomic Layer Deposition (FAST-ALD) systems that are expected to enable the production of flexible OLED displays for mobile devices. The technology also has applications for TV, lighting, solar and batteries.
-	['', 'Atomic Layer Deposition', ' ', 'mobile display', ' ', 'substrate', '']
-Exclara
-	Developer of digital power management platforms for solid state lighting solutions. The company offers small LED driver solutions for volume LED applications.
-	['', 'digital power management', ' ', 'lighting solution', ' ', 'led driver', ' ', 'led application', '']
-FoodShouldTasteGood
-	Manufacturer of natural tortilla chips. The company offers multigrain, jalapeño, olive, chocolate, sweet potato, cantina, lime, blue corn, cheddar, blue and white corn dipping, toasted sesame, hemp and hatch Chile chips. Its products are available through its own and various online stores; retailers in the United States and Canada; and at specialty gourmet and natural food markets.
-	['', 'online store', ' ', 'natural food', ' ', 'tortilla chip', '']
-LumenVu
-	Provider of Light- embedded catheters. The company offers light- embedded catheters to direct accurate placement in the body.
-	['catheter ', 'Catheter placement', '']
-Spatial Photonics
-	Provider of microdisplays for business and consumer projection display applications. The company\'s microdisplays comprise reflective digital light modulators that control and modulate the light intensity.
-	['', 'microdisplay', ' ', 'display application', ' ', 'light', '']
-Lattice Power
-	Producer of Light-emitting Diode (LED) technologies. The company\'s aim is to create LED light sources by using the benefits of silicon substrate based GaN LED technology.
-	['', 'green energy', ' ', 'LED light bulbs', ' ', 'green technology', ' silicon']
-Surfect Technologies
-	Manufacturer of semiconductor equipment. The company provides metallization, interconnect and module process for solar cell, light emitting device (LED) and power management applications. It also develops and commercializes patented automated electroplating deposition tools, which apply single metal or multi-metal stacks on solar cells and modules through single chamber electroplating process.
-	['']
-Cambridge Display Technology
-	Developer of of polymer organic light emitting diodes (P-OLEDs).
-	['communication', 'electroluminescent device', ' ', 'Computer, part and peripheral', ' ', 'light emitting diode', '']
-HC SemiTek
-	Provider of light emitting diode (LED) chips. The company provides blue and green-light light emitting diode (LED) chips for light emitting diode (LED) display; blue light light emitting diode (LED) chips for white light generation.
-	['', 'light emitting diode', ' ', 'white light', ' ', 'LED display', '']
+DATAllegro
+	Provider of data warehouse appliances.
+	['', 'data warehouse', ' ', 'warehouse appliance', '']
+InfiniDB
+	Provider of analytic database software for information processing applications. The company provides data warehouse storage engine for analytical data, analytical workloads and analytical data volumes. It also offers support services for the implementation of data warehouse.
+	['', 'analytic database software', ' ', 'storage engine', ' warehousing']
+Prism Solutions
+	Designer, developer and marketer of data warehouse management software solutions in United States. The company also provides database management solutions to its customers.
+	['', 'data warehouse', ' ', 'database solution', ' DBMS']
+ClearWater Data
+	Provider of services addressing the challenges of dealing with massive data flow volumes. The company provides a data-centric architecture enabling the ingestion of billions of daily transactions.
+	['', 'software development', ' ', 'data flow management', ' ', 'data-centric architecture', '']

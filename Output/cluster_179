@@ -1,42 +1,54 @@
-SaltCheck
-	Developer of a technology to monitor salt intake for the control of hypertension and congestive heart failure. The company develops the technology for self-monitoring by people used in doctor offices, clinics and for home use worldwide.
-	['', 'salt intake', ' monitor  hypertension ', 'congestive heart failure', ' ', 'urine spot test', '']
-CircuLite
-	Developer of miniature blood pumps for the long-term treatment of chronic heart failure. The company provides synergy pocket circulatory assist device, which is designed to rest a failing heart by supplementing its natural function.
-	['', 'blood pump', ' ', 'miniature pump', ' ', 'heart failure', ' ', 'Circulatory assist device', '']
-CardioOptics
-	Developer of catheter-based systems for minimally invasive treatment for heart failure and various cardiovascular diseases. The company offers sinus access system that allows physicians to see through flowing blood, and look directly at heart and blood vessel anatomy and tissue; and implant biventricular pacemaker leads to treat heart failure. Its system includes the a forward-viewing infrared steerable catheter; and image acquisition console, a digital touch-screen control monitor, which includes a camera pod containing an infrared camera that sends siteseekir images from catheter tip to the monitor.
-	['', 'minimally invasive treatment', ' ', 'heart failure treatment', ' ', 'cardiovascular disease treatment', ' ', 'sinus access system', ' ', 'biventricular pacemaker', ' ', 'infrared steerable catheter', ' ', 'image acquisition console', ' pacemaker catheter']
-Cornovus Pharmaceuticals
-	Developer of methods to treat cardiac hypertrophy and heart failure. The company develops a technology that helps to delay the onset of heart failure after a heart attack or injury.
-	['', 'cardiac attack', ' ', 'cardiac hypertrophy', ' ', 'heart failure', ' ', 'heart injury', '']
-Agamit Medical
-	Developer of devices for patients suffering from mitral regurgitation. The company\'s devices mechanically modify the Mitral valve geometry in order to cause it to function without the regurgitation.
-	['', 'mitral valve', ' ', 'valve regurgitation', ' ', 'valve geometry', '']
-Evalve
-	Developer of devices that repair cardiac valves. The company provides a non-surgical mitral valve repair system consisting of a steerable guide catheter, a clip delivery system, and an implant device that is used by interventional cardiologists to reduce mitral regurgitation.
-	['', 'cardiac valve', ' ', 'cardiac treatment', ' ', 'catheter guide', ' ', 'implant device', ' ', 'heart treatment', '']
-Viacor
-	Developer of catheter-based techniques for the treatment of heart valve disease contributing to congestive heart failure. The company develops percutaneous therapies for cardiac valve repair; and a minimally invasive cardiac valve repair system to treat congestive heart failure patients afflicted with mitral regurgitation or leaky mitral valves.
-	['', 'heart treatment', ' ', 'heart valve disease', ' ', 'heart failure', ' ', 'percutaneous therapy', '']
-Tendyne Holdings
-	Developer of medical device for the treatment of mitral regurgitation. The company engages in the development and commercialization of medical devices for transcatheter mitral valve replacement, repair and targeting mitral regurgitation.
-	['catheter ', 'mitral valve', ' regurgitation']
-Ample Medical
-	Manufacturer of endovascular medical devices for repairing heart valves. The company develops medical devices that treat vascular heart diseases and congestive heart failures. Its first product, the PS3 System, targets percutaneous repair of mitral valve regurgitation associated with congestive heart failure (CHF).
-	['', 'healthcare services', '']
-Berlin Heart
-	Developer, producer and marketer of innovative devices for mechanically supporting the heart. The company offers INCOR, the implantable axial pump.
-	['', 'innovative device', ' ', 'implantable axial pump', ' ', 'heart support', ' ', 'heart device', ' ', 'heart surgery', ' heart']
-Kyma Medical Technologies
-	Developer of remote patient monitoring solution for congestive heart failure patients. The company\'s device consists of a small patch attached to the patient\'s torso, and transfers the data wirelessly to a remote center through a gateway device such as a smart-phone.
-	['', 'patient monitoring', ' ', 'chronic heart patients', ' ', 'wireless remote', '']
-Corthera
-	Developer of therapies for illnesses in the acute care setting. The company\'s product Relaxin, which is developed from a naturally occurring polypeptide hormone, is used to treat acute decompensated heart failure.
-	['therapy treatment illness ', 'care setting', '']
-Cardiola
-	Developer of therapeutic systems to treat heart failure. The company offers a treatment system for heart failure treatment in patient settings and hospital based treatment regimens.
-	['', 'treatment system', ' ', 'therapeutic system', ' ', 'heart failure treatment', '']
-CardioPolymers
-	Developer of an implantable device for treating congestive heart failure. The company provides biocompatible polymer implant therapies to handle chronic heart failure, mitral valve regurgitation, and post-operative atrial fibrillation.
-	['', 'biocompatible polymer implant', ' ', 'medical device', ' ', 'heart problem', '']
+Spintec Engineering
+	Developer of biomedical devices. The company specializes in silk devices with embedded biopharmaceuticals and uses silk platform technology for the development of novel medical devices for wound therapy as well as for applications in dental, maxillofacial and cardiovascular surgery.
+	['', 'biomedical devices', ' ', 'silk platform', ' ', 'cardiovascular surgery', '']
+Revascular Therapeutic
+	Developer of medical devices. The company develops technology for the intravascular treatment of complex lesions and total occlusions.It develops percutaneous medical devices to reopen occluded vessels.
+	['', 'medical device', ' ', 'intravascular treatment', ' ', 'complex lesion', ' ', 'occluded vessel', '']
+Semprus BioSciences
+	Developer of implantable and permanently antimicrobial coating technology for the medical device market. The company\'s application technology allows coating of devices of virtually various sizes, shapes, or materials.
+	['', 'antimicrobial coating', ' ', 'medical device market', '']
+Medical Device Innovations
+	Developer of single use medical devices for therapeutic or interventional use. The company identifies, evaluates, acquires and develops medical device technologies. It focuses on medical device development.
+	['', 'healthcare service', ' ', 'therapeutic device', ' ', 'healthcare supplies', '']
+OmniSonics Medical Technologies
+	Developer of medical devices used in the treatment of vascular occlusive diseases. The company offers OmniWave Endovascular System, which is a catheter-based thrombectomy device that uses transverse ultrasound technology to remove thrombus and improve the dispersion of physician specified fluids in the peripheral vasculature.
+	['', 'vascular occlusive treatment', ' ', 'thrombectomy device', ' ', 'ultrasound technology', '']
+Nuvon
+	Provider of medical devices for real-time event monitoring, notification and management. The company is engaged in device data mastery and patient care data integration solution that manages thousands of device connections across multiple locations with a single system controller.
+	['', 'real-time event monitoring', ' ', 'patient care', ' ', 'medical device integration', '']
+Pioneer Medical Systems
+	Developer of medical alarm monitoring systems for hospital and patient monitoring. The company provides medical alarm monitoring in order to secure a comfortable and safe living for seniors and persons medically at risk.
+	['', 'medical alarm system', ' ', 'emergency response system', ' ', 'patient monitoring', '']
+Cartificial
+	Operator of an orthopedic medical devices company. The company develops artificial cartilage for prosthetic hips. The company\'s product, Cartificial Hip helps in replacing prostheses with the potential of being inserted during day care surgery.
+	['', 'orthopedic company', ' ', 'artificial cartilage', ' ', 'medical devices', ' ', 'surgical devices', ' ', 'surgical implants', '']
+Vascular Control Systems
+	Developer of medical devices and tools for minimally invasive arterial occlusion. The company  develops medical devices specifically to treat fibroids and to control bleeding in obstetric and gynecologic applications.
+	['', 'arterial occlusion', '  Fibroids obstetric gynecology ', 'control bleeding', ' ', 'artery occlusion', ' ', 'minimally-invasive', ' ', 'Haemorrage Postpartum', ' ', 'Obstetric Hemorrage', ' ', 'Acne Control', ' ', 'aphids', '']
+NeuroLogica
+	Developer of medical imaging equipment. The company offers portable computer tomography scanners including BodyTom and CereTom.
+	['', 'medical imaging', ' ', 'medical imaging equipment', ' ', 'computer tomography scanner', ' ', 'portable tomography scanner', '']
+Corazon Technologies
+	Developer of medical devices. The company develops devices for removing plaque from heart valves and arteries.
+	['', 'medical devices', ' plaque ', 'heart valves', '']
+Vortex Medical
+	Vortex Medical Inc. is a medical device company focused on the design, development, and commercialization of novel endomechanical devices for the endovascular market. The company develops medical devices for the removal of thrombus or blood clots, from occluded blood vessels.
+	['', 'endomechanical device', ' ', 'medical device', ' ', 'endovascular market', ' ', 'blood clot removal', '']
+Birmont Medical
+	Developer of medical devices. The company develops medical device for the continuous real-time monitoring of labor progression, including cervical effacement and dilatation.
+	['', 'labor progression', ' ', 'cervical effacement', ' monitoring']
+STS Biopolymers
+	Developer of the bio compatible coatings for medical devices. The company develops the coatings for medical devices including vascular, neurointerventional catheters, dilators, urinary catheter and gastroenteral feeding tubes.
+	['', 'bio compatible coating', ' ', 'medical device plaint', ' ', 'paint color', '  pharmaceutical']
+Heartscape Technologies
+	Developer and marketer of medical devices. The company offers PRIME ECG System, a medical device designed for the diagnosis of heart attacks and ischemia.
+	['', 'medical device', ' ', 'heart attack', ' ', 'chest pain', ' ischemia']
+Artemis Medical
+	Developer of medical device systems for the surgical and interventional treatment of breast and other cancers.
+	['', 'surgical treatment', ' ', 'interventional treatment', ' ', 'breast cancer', '']
+Viridis Diagnostics
+	Manufacturer of diagnostic tools and equipments. The company develops real time medical devices for infectious diseases.
+	['', 'diagnostic tools', ' ', 'medical devices', ' ', 'diagnostic equipments', '']
+IBI Israel Biomedical Innovations
+	Developer of surgical products and medical devices. The company develops devices fastens a thin net beneath the organs in a woman’s pelvic area, which have collapsed because of age or childbirth.
+	['', 'surgical products', ' ', 'tissue fixation', ' ', 'women organs', '']

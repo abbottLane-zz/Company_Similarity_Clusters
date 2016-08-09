@@ -1,15 +1,48 @@
-Samplify Systems
-	Provider of compression algorithms for high speed sampled data systems. The company offers analog-to-digital converter ICs for applications in ultrasound front-ends, 4G wireless base stations, automated test equipment, and RADAR/SONAR receivers; and Samplify\'s Prism, a compression and decompression engine that solves I/O and storage bottlenecks in embedded systems. It also provides Samplify for Windows, a compression analysis tool that displays input and output file sizes and other relevant compression results, including compression ratio, dynamic range, noise floor and distortion levels, and a rate-distortion curve.
-	['', 'compression algorithm', ' ', 'sampled data system', ' ', 'compression analysis tool', ' ', 'analog to digital converter', '']
-WISChip International
-	Provider of semiconductor solutions for video, audio and voice compression, image understanding and speech recognition. The company develops develops SoC (Systems on Chip) silicon and provides integrated hardware, software solutions for multimedia communications over wired or wireless broadband infrastructures.
-	['semiconductor SoC ', 'Systems on Chip', ' ', 'digital video', ' ', 'audio quality', '']
-Link_A_Media Devices
-	Manufacturer of custom system-on-chip (SoC) solutions for peripheral data storage devices. The company’s SoC solutions integrate the read/write channel, disk controller functions, microprocessor and memories and servo processing for HDD application on a single chip.
-	['', 'data recovery', ' ', 'system on chip', ' ', 'data storage device', '']
-Kenati Technologies
-	Provider of Linux-based embedded software for networking appliances for the delivery of data and voice over wired and wireless broadband networks. The company develops device software for the home networking market. Its products include components from device drivers, to operating systems, to management interfaces.
-	['', 'embedded software', ' ', 'linux software', ' ', 'networking appliance', ' ', 'wireless broadband', ' ', 'management interface', '']
-ShareWave
-	Provider of semiconductor technology for multimedia-capable wireless home networks. The company provides wireless LAN semiconductor service which provides seamless transmission of multimedia content, including video and audio entertainment.
-	['', 'semiconductor technology', ' ', 'wireless semiconductor', ' ', 'seamless transmission', ' ', 'multimedia content', '']
+Mmc Energy
+	Provider of electricity generating and energy infrastructure-related assets. The company acquires small- to mid-sized energy generating facilities, or those with below 250 megawatts (MW) of capacity.
+	['', 'gas generation', ' ', 'power plant', ' ', 'electricity generation', ' ', 'energy infrastructure', '']
+Konarka Technologies
+	Developer of specialized photovoltaic materials used to convert light to energy. The company develops and advances nano-enabled polymer photovoltaic materials for commercial, industrial, government, and consumer applications. It provides standard products to serve portable power needs; and custom solutions, such as roll up chargers, personal accessories, and fold up chargers.
+	['', 'photovoltaic material', ' ', 'energy production', ' ', 'light conversion', ' ', 'polymer photovoltaic', ' ', 'portable power', ' ', 'power generation', ' ', 'roll up charger', ' ', 'fold up charger', ' ', 'solar energy', '']
+Pelamis Wave Power
+	Manufacturer of systems to generate renewable electricity from ocean waves. The company offers wave energy converter, a semi-submerged and articulated structure composed of cylindrical sections linked by hinged joints. It also assists project developers and electricity generators in developing, constructing, and operating power projects.
+	['', 'renewable electricity', ' ', 'ocean wave', ' ', 'wave energy converter', ' ', 'articulated structure', ' ', 'hinged joint', ' ', 'power project', '']
+Weyland
+	Producer of renewable energy. The company provides a technology that helps in producing bio ethanol from agricultural wastes and forestry residues.
+	['', 'energy production', '']
+Gen110
+	Provider of alternative way for heavy energy users to purchase residential power. The company provides customers with generators for no installation or upgradation fees, then customers pay for the electricity at a guaranteed rate.
+	['', 'residential power', ' ', 'energy user', ' ', 'utility rate', ' ', 'distributed energy', '']
+Bionersis
+	Operator of renewable energy services. The company engaged in conception, financing, installation, and the operation of landfill biogas units. It also helps in reduction of greenhouse gases effects.
+	['', 'renewable energy', ' ', 'landfill biogas', ' greenhouse']
+Enermetrix
+	Provider of real- time transaction - processing environment in which utilities, traders and marketers, service companies, commercial and industrial users buy and sell energy. The company provide internet commerce system that allows energy consumers, energy suppliers and utilities to share information.
+	['', 'online energy trading', ' ', 'energy markets', ' ', 'energy sellers', ' ', 'energy buyers', ' ', 'energy software solutions', '']
+Vigor Renewables
+	Developer of renewable-power facilities in the U.K. The company works with property holders and commercial enterprises to develop and operate sustainable energy projects, including those utilizing solar and wind power.
+	['', 'renewable energy equipment', ' ', 'power generation projects', '']
+Grupo Guascor
+	Provider of energy solutions based on renewable energy. The company develops and manufactures technologies to harness energy from renewable sources such as wind, solar, bio-energy and hydel power. The company focuses on production of cells, modules and other components, offering turnkey market as well as the promotion, operation and maintenance of residential and industrial energy facilities.
+	['', 'energy solutions', ' ', 'bio-energy', ' ', 'renewable energy', ' ', 'photovoltaic systems', ' ', 'turnkey projects', '']
+Episol
+	Developer of solar thermal products for production renewable energy. The company offers installation services and other thermal products for generation of electricity in an ecological way.
+	['', 'solar collectors', ' ', 'energy consumption', ' ', 'renewable energy source', ' ', 'solar photovoltaic', ' ', 'wind energy', '']
+Fat Spaniel Technologies
+	Provider of monitoring and reporting services for the renewable energy industry. The company also provides lifecycle management services. It offers Fat Spaniel Insight Manager, a Web portal for building, sharing and running energy data applications.
+	['', 'monitoring service', ' ', 'lifecycle management', ' ', 'energy data application', ' ', 'systems monitoring', '']
+Skystream Markets
+	Provider of platform for the renewable energy and environmental markets. The company\'s markets is focused on creating price discovery, concentrating liquidity and improving trade execution quality.
+	['', 'renewable energy', ' ', 'quality improvement', ' ', 'liquidity concentration', '']
+Sun Catalytix
+	Developer of technology for use in energy storage and renewable fuels. The company generates renewable energy supply from sunlight and water. It develops new earth abundant materials for energy conversion processes.
+	['', 'energy storage technology', ' ', 'renewable fuel', ' ', 'renewable energy', '']
+Hydrovolts
+	Provider of hydropower technology. The company produces hydrokinetic turbines for renewable energy generation.
+	['', 'hydropower technology', ' ', 'renewable energy generation', ' ', 'hydrokinetic turbine', ' hydropower']
+Airxchange
+	Manufacturer of energy recovery ventilation products and components. The company offers energy recovery ventilators, integrated packages, air handler options, wall mounts and packaged units. The company also provides field replacement services.
+	['', 'energy recovery', ' ', 'energy recovery ventilation', ' ', 'recovery ventilator', ' ', 'air handler', ' ', 'wall mount', '']
+Greenbox Technology
+	Provider of Web-based energy management solutions for the utilities and residential energy customers. The company\'s platform enables its customers to track, compare, and manage energy usage, as well as engages them in energy efficiency, demand response, alternative and renewable energy, and carbon reduction activities.
+	['', 'energy management', ' ', 'energy utility', ' ', 'energy usage', ' ', 'energy efficiency', ' ', 'carbon reduction', '']

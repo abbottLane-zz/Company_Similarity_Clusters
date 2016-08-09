@@ -1,54 +1,66 @@
-Tripod Energy
-	Developer of energy projects that provide solar power to local communities and large energy buyers. The company is a special situation investment vehicle for solar projects which engages in all stages from solar project development to power plant completion.
-	['', 'solar project investment', ' ', 'investment vehicle', ' ', 'solar power investor', '']
-Solar Industries
-	Manufacturer and marketer of solar-power components. The company pursued a growth and buy-and-build strategy along the value chain for solar-module production and marketing. The company operated multiple production facilities for solar modules.
-	['photovoltaic ', 'photovoltaic cell', ' ', 'photovoltaic products', '']
-Usolie-Sibirsky Silicon
-	Manufacturer of polycrystalline silicon. The company is the manufacturer of a silicon product used as a basic semiconductor material in microelectronics, electric power and solar energy. The company operates manufacturing plants to produce materials for the further development of Russian microelectronics for solar-power generation.
-	['', 'manufacturing plant', ' ', 'polycrystalline silicon', ' ', 'silicon plant', ' semiconductor']
-Industrial Solar
-	Manufacturer of heating and cooling devices that utilizes solar power. The company offers solar Fresnel collector systems and other solar cooling and air-conditioning technologies. Its products are used to generate solar process heat, cooling, water treatment and polygeneration. The company was spun out of Fraunhofer Institute for Solar Energy Systems.
-	['', 'heating product', ' ', 'cooling technology', ' ', 'solar power', '']
-Caelux
-	Operator of a solar-cell designing company. The company designs and develops solar-cell manufacturing process that minimizes the amount of used semiconducting material.
-	['solar-cell semiconductor ', 'solar device', '']
-Nidecon Technologies
-	Designer and manufacturer of power-quality filtering technology for renewable energy and motor drives. The company creates its products based on a proprietary inductive design concept enabling it to reduce filter sizes. In addition, its products utilize integrated liquid cooling and forced-air cooling technologies.
-	['', 'filtering products', ' ', 'inductive components', ' ', 'motor products', ' ', 'energy products', ' filters']
-Skyline Solar
-	Manufacturer of high gain solar arrays for commercial, industrial, government and utility markets. The company offers HGS structural and reflective racking components. It develops a solar energy system that uses metal reflectors to concentrate the sunlight onto silicon solar cells for electricity production.
-	['', 'solar energy', ' ', 'solar array', ' ', 'high gain solar', ' ', 'HGS array', ' ', 'reflective racking', ' ', 'silicon cell', ' ', 'metal reflector', ' ', 'electricity production', ' ', 'solar silicon', ' ', 'HGS panel', ' ', 'solar electricity', '']
-Solar Home Energy
-	Provider of domestic solar hot water systems. The company also engages in the manufacture of solar collectors.
-	['', 'solar hot water', ' ', 'solar collectors', ' ', 'domestic hot water', '']
-Ausra
-	Developer of utility-scale solar thermal power. The company offers Compact Linear Fresnel Reflector, a solar collector and steam generation system. Its zero-carbon power plants generate electricity at current market prices for fossil-fired power without the emissions caused by burning fuels.
-	['reflector thermal ', 'steam generation', ' electric fossil carbon power']
-STAPLA Ultraschall-Technik
-	Manufacturer of ultrasonic metal welding products worldwide. The company offers products, engineering and support services to industry segments including automotive, appliance (large, small and HVAC), battery (Lithium Ion and others), other electrical segments, solar and others.
-	['', 'metal welding', ' ', 'support service', ' ', 'electrical segments', ' ultrasonic battery solar']
-Trony Solar
-	Producer of thin-film solar energy modules. The company is an amorphous silicon thin film solar cell manufacturer and service provider in China.
-	['', 'solar energy module', ' ', 'solar cell', ' ', 'silicon thin film', '']
-GCL Silicon Technology Holdings
-	Supplier of polysilicon and wafers to companies operating in the solar industry. The company manufactures polysilicon, the primary raw material used in the production of solar cells and modules for the generation of electric power from solar energy.
-	['', 'solar industry', ' polysilicon wafers']
-Nereus
-	Developer of floor-heating technology. The company is engaged in designing, marketing and installing floor-heating systems which use water as their primary heat source, with models that use alternative forms of energy, such as geothermal and solar.
-	['', 'floor heating', ' ', 'heating systems', ' ', 'floor heating systems', ' ', 'underfloor heating', '']
-XeroCoat
-	Manufacturer and designer of anti-reflective coatings for solar energy systems. The coatings are applicable across all solar technologies and for all solar panel systems.
-	['', 'solar energy', ' ', 'anti-reflective coatings', ' ', 'solar technologies', '']
-AC-Sun
-	Developer of solar-powered air conditioning system. The company uses a combination of low-pressure turbines and water as a refrigerant to create a cooling system based upon solar heat. Its system is designed for power savings and reduced chemical emissions.
-	['', 'thermal air conditioning', ' ', 'solar panels', ' ', 'solar heat', '']
-SolFocus
-	Developer and manufacturer of solar energy systems based on concentrator photovoltaic (CPV) technology. The company\'s products and technologies include solar concentrator photovoltaic systems, intelligent tracking systems for CPV and flat panel PV markets.
-	['', 'photovoltaic system', ' ', 'solar energy solution', ' ', 'concentrator photovoltaic technology', ' ', 'intelligent tracking system', ' ', 'alternative energy', ' ', 'renewable energy', '']
-SprayCool
-	Developer of liquid spray cooling for thermal management.
-	['', 'spray liquid cooling', ' ', 'thermal management', '']
-Aeronamic
-	Provider of products and services to the aerospace industry. The company offers airflow valves, air turbine starters, centrifugal load compressors, cooling turbines and re-circulation fans among other products. It also offers maintenance, repair and overhaul services.
-	['', 'aircraft components', ' ', 'aerospace industry', ' ', 'airflow valves', ' ', 'air turbine starters', '']
+Turboprop
+	Creator of a mobile-application development platform. The company operates an online platform enabling users to create mobile applications with a drag-and-drop experience. The company provides ready-made templates, as well as tools to build applications from scratch.
+	['', 'mobile application development', ' ', 'application template', ' ', 'ready-made template', '']
+Adept Cloud
+	Provider of cloud-based file-sharing and collaboration services. The company is the provider of a cloud-managed, private collaboration service, designed to enable security, control and privacy for enterprise communications on multiple devices.
+	['', 'cloud-managed service', ' ', 'collaboration service', ' ', 'internal collaboration', ' ', 'collaboration software', ' ', 'file sharing', ' ', 'file-sharing', '']
+AppFog
+	Provider of a web based application platform. The company provides a platform as a service that allows to deploy, manage and scale applications written in all languages, with all frameworks, across public, private and hybrid clouds.
+	['', 'web application deployment', ' ', 'application scaling', ' ', 'workload portability', '']
+Nukona
+	Provider of mobile application management technologies. The company\' application center is an end-to-end mobile information management and security service, enabling enterprises to secure, deploy and manage native and web applications and content on corporate-owned and personal devices.
+	['', 'mobile application management', ' ', 'mobile information management', ' ', 'web applications', '']
+New Moon Systems
+	Provider of non-internet mobile software services. The company\'s services enables enterprises and service providers to centrally deliver and manage their software assets across hundreds and thousands of user desktops. The company\'s iQ application management platform is used to intelligently deploy and manage Windows applications across private and public networks.
+	['windows ', 'software platform', ' ', 'IQ application', '']
+FeedHenry
+	Provider of a cloud-based mobile application platform. The company’s software enables application developers to build, deploy and manage mobile applications. The software can be deployed to different cloud and platform as a service environments.
+	['', 'application developer', ' ', 'cloud based service', ' ', 'cloud-based application', '']
+MobileDevHQ
+	Provider of a search engine and discovery platform for mobile applications and developers. The company offers a directory of mobile application developers, including their current portfolio of published applications and the category(ies) of projects they specialize in.
+	['', 'discovery platform', ' ', 'application store optimization', ' ', 'competitive intelligence', '']
+Wix.com
+	Provider of a cloud-based web development platform. The company offers cloud-based templates for designing websites, without any coding knowledge required.
+	['', 'website building', ' ', 'web publishing platform', ' ', 'personalized website', ' ', 'customized website', ' ', 'website template', ' ', 'website design', '']
+Hojoki
+	Provider of a cloud based applications to solve the problem of information fragmentation. The company supports individuals in tracking application and connects task management and communication with the productivity application.
+	['', 'productivity tool', ' ', 'information fragmentation', ' ', 'collaboration service', '']
+Trestle
+	Provider of a set of cloud based mobile application that allows mobile applications to store and manipulate data. The company provides chain server as well as the custom node JS service for creating custom mobile application.
+	['', 'custom mobile application', ' ', 'chain server', ' ', 'custom node', '']
+Via Response Technologies
+	Provider of cloud-based classroom tools. The company\'s platform leverages mobile smart devices, tablets and enables student-teacher interaction through the cloud.
+	['', 'teaching software', ' ', 'cloud software', ' ', 'interaction platform', '']
+SnapGuide
+	Provider of an iOS application and web service for sharing "how to" guides. The company\'s platform enables users to share and consume instructional knowledge on a variety of topics - from automotive repairs to cheesecake. The platform can be deployed on mobile devices.
+	['', 'instruction guide', ' ', 'video guide', ' ', 'how to guide', ' ', 'voice recognition', ' ', 'web service', '']
+Scringo
+	Developer of applications for mobile application developers and their users. The company offers set of features and tools to help mobile application developers to manage and customize their applications, connect with their users and listen to their feedback.
+	['', 'software developer kit', ' swipe ', 'discovery tool', ' ', 'user retention', '']
+MobileIron
+	Provider of a mobile IT platform to secure and manage mobile applications, documents and devices. The company’s cloud-based software enables end-users to access their applications and data anywhere on the device of their choice, as well as providing access security.
+	['', 'application management', ' ', 'document management', ' ', 'mobile device', ' ', 'mobile platform', '']
+Rosslyn Analytics
+	Provider of on-demand spend analytics platform for providing real-time access to the enterprise-wide spend data. The company\'s cloud-based platform enables organizations to build, deploy and run on-demand comparative analysis.
+	['', 'spend analytics platform', ' ', 'comparative analysis', ' ', 'spend data analysis', ' ', 'data integration', '']
+Collections Labs
+	Provider of Mac application that helps users to manage media content like Facebook and Instagram photos, Tweets and videos, alongside other cloud-based things like Google Docs. The company\'s product also allows a user to toggle between Dropbox and Google Drive content and the more traditional Finder material like Word docs and other native applications.
+	['', 'mac application', ' ', 'media content', ' ', 'traditional Finder', ' ', 'native application', '']
+Taviz Technology
+	Provider of integration software that automates the development and management of intelligent adapters and connectors. The company offers applications that enables users to deploy and manage integrated applications cost.
+	['', 'integration software', ' ', 'intelligent adapters', ' connectors']
+Vigill Alerts
+	Provider of communication platforms for customer communications and marketing campaigns. The company allows mobile application publishers and developers to deploy two-way customer communications and marketing campaigns through their mobile applications. The company\'s platform also helps users to send updates, get feedback, ask questions, create polls and deliver offers for their marketing campaigns.
+	['', 'communications platform', ' feedback ', 'marketing campaign', ' ', 'create poll', '']
+Librato
+	Provider of a cloud-based monitoring platform for development and operations teams. The company\'s platform monitors the metrics and events important to their application deployments, while leaving metrics storage, analysis, annotation and alerts as an easy-to-deploy service that can scale with their operation.
+	['', 'monitoring software', ' ', 'resource management', ' ', 'infrastructure software', '']
+BugSense
+	Provider of software to assess mobile-application performance. The company\'s software analyzes metrics each month across multiple platforms, generating performance reports designed to help developers identify issues and create better app customer experiences.
+	['', 'quality standard', ' ', 'performance report', ' ', 'application performance', '']
+Inaura
+	Provider of mobile computing platform. The company\'s platform helps in simplifying the delivery of applications and services to end-users across the distributed enterprise and also enables an enterprise to deploy web services and provide safe and secure mobility of enterprise resources to the end users.
+	['', 'mobile computing platform', ' ', 'application delivery', ' ', 'distributed enterprise', '']
+DevZuz
+	Developer of delivery platforms that link enterprise businesses to application developers.
+	['', 'delivery platform', ' ', 'enterprise business', ' ', 'application developer', '']

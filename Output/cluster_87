@@ -1,27 +1,24 @@
-Pantresse
-	Manufacturer of hair care products. The company produces and sells shampoos, conditioners, hair sprays and related products mainly throughout the US and Mexico.
-	['', 'hair care', ' shampoo conditioner']
-ISW Group
-	Developer of topical dermatological products. The company\'s product focuses on a medical condition known as \'razor bumps,\' \'shaving bumps,\' or \'ingrown hairs\' where the irritation is caused by an inflammatory reaction in response to a foreign body being embedded into the skin.
-	['', 'dermatological products', ' skin papules']
-CleveX
-	Provider of skin biopsy and wound care management products. The company provides ExiClip, a surgical device that eliminates the surgery and suture approach used by medical professionals to remove skin lesions, and improves patient outcomes.
-	['', 'skin biopsy', ' ', 'cosmetic surgery', ' ', 'surgical devices', ' ', 'skin lesion', '']
-Keratec
-	Producer of of keratin proteins, lipids and new biopolymers from New Zealand wool using exclusive proprietary green extraction and reconstitution processes. The company also supplies natural cosmetic ingredient to  the personal care industry. The company develops nutritional supplements and medical and industrial materials.
-	['', 'wool', ' ', 'Keratin protein', ' ', 'synthetic materials', ' ', 'synthetic polymer', ' ', 'skin', ' ', 'hair', '']
-Scerene Healthcare
-	Provider of personal care and body care products. The company provides a range of personal hygiene and care products for women.
-	['', 'tampons and sanitary napkins', ' ', 'anti-aging cream', ' ', 'body lotion', '']
-Eisai Company
-	Eisai is a healthcare company, which provides prescription pharmaceuticals, consumer health care products, and diagnostics services.
-	['']
-Temmentec
-	Manufacturer of personal care and cleaning products. The company is a service provider of swiss skin and body care products.
-	['', 'personal care', ' ', 'cleaning products', ' ', 'swiss skincare', '']
-Lipid Technologies Provider
-	Developer of lipid carriers. The company develops, produces and commercializes lipid-based ingredients and formulations for functional food products and skin care.
-	['lipids ', 'lipid formulations', ' ', 'lipid ingredients', '']
-Lighter Living
-	Operator of a lifestyle brand. The company provides women with the tools, products and information to better manage the life and body changes that come with age. It also offers intelligent education, sound information, and efficacious and safe products crossing all categories from food to personal care.
-	['', 'personal care', ' ', 'healthcare information services', ' ', 'fitness product', '']
+Money Workout
+	Operator of a mortgage and insurance price comparison website. The company purchases and generates mortgage enquiries that it matches with the available mortgage products in the market. It also offers related advisory services for consumers, lead generators and lenders.
+	['', 'insurance price', ' ', 'mortgage business', ' ', 'price comparison', '']
+Extrabux
+	Operator of a comparison shopping website. The company enables consumers to compare prices,find coupons, and earn cash back on their online purchases.
+	['', 'price comparison', ' ', 'cash back', ' coupons']
+Oferton Liveshopping
+	Operator of live shopping website. The company offers sale in various product categories like electronics, leisure and fashion at slashed prices on a particular day. It is an alternative to the traditional online shops and the private sales sites where the customer can benefit from highly discounted products for a period of 24 hours or until stock is depleted.
+	['', 'live shopping', ' ', 'discounted price', ' ', 'shopping website', '']
+Deal Pilot
+	Provider of comparison shopping services trough an online website. The company provides search engines for obtaining online price comparison shopping information via a global computer network and enabling consumers to make purchases of goods and services from others on a global computer network.
+	['', 'comparison shopping', ' ', 'search engines', ' ', 'computer network', ' ', 'price comparison', ' ', 'online price', '']
+MyETone
+	Provider of a product review and price comparison portal. The company provides a platform to review products and services and compare their prices.
+	['', 'price comparison', ' ', 'product review', ' ', 'review portal', '']
+RocketCash
+	Provider of online incentive programs. The company is an online gateway that enables consumers to shop and buy online at merchant websites without a credit card, in a secure, family-friendly environment. It developed the RocketCash Currency Exchange, which allows consumers to aggregate various forms of currencies, including online incentive dollars, offline promotional points, gift certificates, money orders, personal checks and U.S. dollars.
+	['', 'online gateway', ' ', 'e-commerce', '']
+Kima Labs
+	Provider of online shopping community software for mobile devices to assist in, in-store shopping. The company\'s software enable user to scan and recommend items, see recommendations from people in the community, get ideas for what to buy and compare prices with other stores, as well as provide suggestions for similar products and buy products in physical stores.
+	['', 'online shopping', ' ', 'shopping application', ' ', 'barcode scanning', ' ', 'mobile shopping', '']
+TicketStumbler
+	Operator of a secondary ticket market search engine and comparison website. The company allows users to find seats for events and compare the prices offered by online ticket retailers.
+	['', 'ticket search engine', ' ', 'ticket comparison', ' ', 'online ticket', ' ', 'ticket market', '']

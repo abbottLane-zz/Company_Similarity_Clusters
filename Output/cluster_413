@@ -1,24 +1,42 @@
-LuciaWind
-	Operator and owner of wind farms. The company engages in the production of electric power generation through wind energy.
-	['', 'wind farms', ' electricity']
-SOGEM
-	Developer of wind energy power parks. The company develops alternate source of energy using wind power.
-	['', 'renewable energy', ' ', 'wind power', '']
-Vigor Renewables
-	Developer of renewable-power facilities in the U.K. The company works with property holders and commercial enterprises to develop and operate sustainable energy projects, including those utilizing solar and wind power.
-	['', 'renewable energy equipment', ' ', 'power generation projects', '']
-Viryd Technologies
-	Developer and distributor of power generating turbines and windmills for the wind industry. The company offers drivetrains for residential and commercial wind systems, as well as energy management systems and developer kits. It also provides engineering services, including design, bench, and field testing services.
-	['', 'power generating turbine', ' ', 'renewable energy', ' ', 'commercial wind system', '']
-Azelon Pharmaceuticals
-	Developer of formulations for the treatment of osteoporosis. The company develops ZT-034, a nasal spray formulation of teriparatide that offers an alternate for patients at high risk of fracture.
-	['', 'osteoporosis treatment', ' ', 'nasal spray', ' teriparatide ', 'nasal spray formulation', '']
-Windspire Energy
-	Provider of renewable wind power appliances to residential, business, and government customers. The company produces Windspire, a plug-n-produce wind power appliance that helps in harnessing power from the wind. It uses vertical turbine technology to harness wind energy.
-	['', 'alternative energy', ' ', 'clean tech', ' ', 'turbine technology', '']
-Ventus Energy
-	Developer of wind farms to produce energy. The company is currently in the process of planning and developing 25 sites in Ontario, Quebec, New Brunswick, Nova Scotia and Newfoundland with the potential for over 5,000 Megawatts of power.
-	['', 'produce energy', ' ', 'wind farm', ' ', 'alternative energy', '']
-HF2
-	Developer of a photovoltaic power plant. The company sells energy to the market and is also entitled to the Italian GSE feed-in tariff system. The develops photovoltaic power plant that is used to reduce CO2 emissions.
-	['', 'renewable energy', ' ', 'photovoltaic power', '']
+Cyntellect
+	Manufacturer of work stations used by biotechs for cell analysis, purification, and processing. The company\'s products support key applications to advance life science research, biopharmaceutical production, stem cell research and drug discovery.
+	['', 'cell analysis', ' ', 'life science', ' ', 'stem cell research', ' ', 'drug discovery', ' ', 'biopharmaceutical', '']
+alma bioinformatics
+	Developer of software for information retrieval and analysis of text biomedical data. The company specializes in the research and development of biomedical software. It\'s mission is to provide the life science community with innovative information technologies that enable the search, management and relation of the knowledge available in different sources, facilitating its analysis and comprehension.
+	['', 'information retrieval', ' ', 'biomedical data', ' ', 'text mining', '']
+Cytomyx Holdings
+	Operator of a life-sciences holding company. The company, through its subsidiaries, develops gene- and protein-based tools to support pharmaceutical companies and researchers in the development of drugs. The company also provides outsourced pharmaceutical research and development, human biology research products and services, and diagnostic products, as well as distributing third parties’ products.
+	['', 'pharmaceutical company', ' ', 'protein tools', ' ', 'human biology', '']
+Millipore
+	Provider of life science products and services. The company provides innovative products and services that help academic, biotechnology and pharmaceutical customers advance their research, development and production.
+	['', 'life science tool', ' ', 'pharmaceutical customer', ' ', 'life science products', ' ', 'healthcare device', '']
+Bionamics
+	Provider of project management services for pharmaceutical companies. The company acquires and licenses life science assets in the pre-clinical phases.
+	['pre-clinical ', 'clinical research', ' ', 'drug development', '']
+Eurogentec
+	Provider of products and services to the life-science, diagnostic and pharmaceutical industries. The company specializes in genomics and proteomics kits and reagents.
+	['', 'biotechnology supplier', ' genomics proteomics ', 'life-science research', '']
+Mosaïc Systems
+	Provider of technology for the development and production of biologics. The company offers products for the production of therapeutics and drugs, food ingredients and agri-based products. It enables isolation and purification of valuable materials, such as antibodies, proteins and enzymes from complex process streams marked for the pharmaceutical, biotechnology and food industries.
+	['biologics ', 'biologics separation', ' ', 'biologics purification', '']
+Spectral Genomics
+	Developer and marketer of products and services in molecular genetics and diagnostics. The company also provides genomic profiling services for customers in academic and industrial research laboratories.
+	['', 'genomic profiling service', ' ', 'molecular genetic', ' genomes']
+Cellular Research
+	Operator of a biotechnology research and development company. The company focuses on life science research by enabling investigation of single cells and limited samples.
+	['', 'molecular indexing', ' ', 'single cell', ' ', 'biotechnology research', '']
+Avacta Group
+	Developer of chemical and biological detection technology. The company provides technologies, consumables and reagents for the life science markets, from drug discovery to diagnostics. It is engaged in the research, development, production and delivery of instrumentation and services for the biopharmaceutical drug development and clinical diagnostics markets using biophysical technology.
+	['', 'protein formulation', ' ', 'protein characterization', ' ', 'stability testing', '']
+Marical
+	Provider of aquatic life science biotechnology. The company develops techniques to improve the growth and development of farm animals and fish.
+	['', 'aquatic life science biotechnology', ' aquaculture ', 'farm animal development', '']
+Kinetek Systems
+	Manufacturer of hollow-fiber bioreactors for cell culture and liquid-separations systems. The company\'s products are designed for laboratory- and developmental-scale production of biotechnology products and pharmaceuticals, as well as having applications for research and development.
+	['', 'fiber bioreactors', ' ', 'cell culture', ' ', 'liquid separations systems', ' ', 'laboratory production', ' bioreactors ', 'pharmaceutical production', '']
+Halo Genomics
+	Provider of equipment and supplies to the life science and chemical analysis markets. The company provides instrumentation, consumables, software and services to an array of industries, including pharmaceutical, research, forensics, food safety, petrochemical processing, environmental and manufacturing.
+	['', 'DNA sequencing', ' ', 'sample preparation', ' resequencing']
+Granular (Soil Science Business)
+	Provider of Soil Science research. The company is the Soil Science Business unit of Granular.
+	['', 'soil', ' ', 'agriculture research', ' ', 'farmer', ' ', 'farming', ' ', 'farm', '']

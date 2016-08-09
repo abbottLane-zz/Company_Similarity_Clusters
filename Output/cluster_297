@@ -1,30 +1,39 @@
-Wavefront Technologies
-	Producer of computer graphics & animation software. The company designs software for graphic designing and animation.
-	['', 'multimedia software', '']
-Raycer Graphics
-	Operator of a semiconductor company for visual computing. The company develops 3D graphics technology, cards and chips for workstations and personal computers. It also designs 3D graphics acceleration hardware.
-	['', 'semiconductor company', ' ', 'visual computing', ' ', '3D graphics technology', ' workstations']
-Calista Technologies
-	Provider of desktop computing technology services. The company offers Calista Virtual Desktop, a platform that virtualizes the Windows desktop supporting the Windows XP and Windows Vista platforms.
-	['', 'desktop virtualization solution', ' ', 'Virtual Desktop', ' ', 'desktop supporting', '']
-Immidio
-	Developer of virtualization technologies in the Microsoft Windows environment. The company provides end-users with a personalized and dynamic Windows desktop that is adapted to their situation based on aspects like role, device and location.
-	['workspace virtualization ', 'enterprise application', ' ', 'virtualization technology', '']
-Hybrid Graphics
-	Developer of embedded 2D and 3D graphics software for handheld devices. The company develops graphics technology software for consumer devices which enables high-quality 2D and 3D graphics in devices such as mobile phones.
-	['', 'graphics software', ' ', 'graphics design', ' ', 'graphics software solutions', ' ', 'graphics solutions', ' ', 'graphics technology', ' ', 'graphics technology solutions', '']
-Maconomy
-	Developer of enterprise project optimization (EPO) software. The company develops advertising applications on Apple\'s Macintosh operating system and runs on both Macintosh operating system and Windows NT.
-	['', 'enterprise project optimization', ' ', 'advertising application', ' ', 'business application', '']
-3Dfx Interactive
-	Developer of graphics chips, graphics boards, software, and related technology that enables an interactive and realistic 3D experience across multiple hardware platforms.
-	['', 'real time 3D', ' ', '3D image', ' ', 'graphic board', ' ', 'graphic chip', '']
-Bluebeam Software
-	Developer of software for paperless workflows that leverages the PDF format. The company provides a platform for desktop and tablet users to create, view, markup, and edit PDF files. The company provides Bluebeam PDF Revu Standard Edition, a PDF solution for use in MS Office, Windows, and tablet PCs; Bluebeam PDF Revu CAD Edition, a professional PDF solution for use in AutoCAD, SolidWorks, and Windows; Bluebeam Conversion Server, a server-based software solution for companies to centrally control PDF creation from source files; and Studio, a solution for digitally collaborating on PDF drawings and documents in real-time.
-	['', 'collaboration software', ' pdf ', 'pdf format', '']
-AccelGraphics
-	Developer of 3D graphics cards for the CAD, animation and simulation markets. The company provides and markets 3-dimensional graphics cards and other subsystem products for the professional Windows NT and Windows 95 markets.
-	['3D 3-D ', '3 Dimensional', ' ', 'graphics card', ' CAD graphics']
-FSlogic
-	Developer of methods for managing files and applications on Windows PCs. The companies products enhance the value of Windows-based computer solutions in single and multi user open access environments. It empower the user\'s experience and reduce total cost of ownership for the customer by decreasing system maintenance and administrative complexity.
-	['', 'managing file', ' ', 'computer solution', ' ', 'system maintenance', ' ', 'administrative complexity', '']
+NowMedia
+	Provider of an online platform for live video streaming of events. The company engages in developing an integrated broadcast media network in order to build location-centric mobile communities with live interactive content.
+	['', 'online platform', ' ', 'live video streaming', ' ', 'broadcast media network', ' ', '3G phones', ' ', 'mobile communities', ' ', 'live interactive content', '']
+Ahortech
+	Provider of automatic traffic control services. The company also provides a wireless live video streaming transmission system for public and business sectors.
+	['', 'automatic traffic control', ' ', 'video streaming', ' ', 'transmission system', '']
+Talk Talk TV Store
+	Provider of video streaming services. The company offers action, animation, comedy, crime, documentary, drama, family, fantasy, horror, indie, music, romance, sci-fi, seasonal, sport, thriller, war, western movies, shows and quizzes.
+	['', 'digital video', ' ', 'feature film', ' ', 'television series', '']
+Floobs
+	Developer of a live video streaming platform. The company supports live video streaming from web cameras and digital video cameras.
+	['', 'video streaming', ' ', 'live events', ' ', 'online sharing', '']
+Betterfly
+	Provider of a live video learning marketplace. The company\'s platform connects individuals with teachers, instructors and experts to help users learn a new skill or improve on something they already know.
+	['', 'self-improvement', ' ', 'online lessons', ' ', 'video chat', ' lessons ', 'online tutoring', '']
+Veebeam
+	Developer of wireless technologies and products. The company provides software products for video streaming and designs hardware systems for consumer electronic device for the wireless streaming of HD audio or video content from laptop to television.
+	['', 'wireless applications', ' ', 'video streaming software', ' ', 'wireless protocol software', '']
+Redmere Technology
+	Developer of cable semiconductor software. The company provides a power signal conditioning chip technology, which is embedded within the cable to create smart HDMI cables for consumer multimedia, gaming, home theater, mobile phone, digital video cameras or digital video still cameras and PC markets. It also provides VerifEye, cable manufacturing test platform that enables the rapid testing of cable technology based on MagnifEye chip technology.
+	['', 'cable semiconductor', ' ', 'chip technology', ' ', 'conditional power signal', '']
+Hantro
+	Provider of mobile video technology. The company provides hardware and software based MPEG4, H.263, H.264 and VC-1 video software specifically tailored for handheld devices. The company\'s product portfolio also includes video applications for video capturing, playback, messaging, streaming and telephony.
+	['', 'mobile video technology', ' MPEG4 ', 'video software', '']
+Inlet Technologies
+	Provider of encoding solutions. The company\'s products include Armada, a transcoding and encoding workflow system that eliminates the stove-pipes and manual steps; Spinnaker, a broadcast quality streaming solution; Fathom, an encoding platform for VC-1, Windows media, AVC, and flash files; and Semaphore, an automated quality control program for digital encoding. It provides its solutions for professional streaming, adaptive streaming, video-on-demand, IPTV, video on the Web, mobile video, reviewing dailies and rushes, broadband television, corporate communications and training, distance learning, and security and surveillance.
+	['', 'encoding solution', ' ', 'encoding workflow system', ' ', 'encoding platform', '']
+RipCode
+	Provider of realtime transcoding software for video clips and streaming. The company supports live mobile video or video on-demand transcoding for mobile and user generated content applications. It enables video to be dynamically transcoded and served to a customer on any screen size as they request it, giving viewers an expansion of content choices while reducing an operator’s server hardware, storage and energy use.
+	['transcode IPTV ', 'video on-demand', '']
+W&W Communications
+	Developer of video compression software and hardware solutions for video-enabled consumer, professional, enterprise, and infrastructure platforms. The company’s products are used for video conferencing and telepresence, live video broadcast, video surveillance, and mobile telephony infrastructure video transcoding.
+	['', 'video compression software', ' ', 'video conferencing', ' ', 'video telepresence', ' ', 'live video broadcast', ' ', 'mobile telephony infrastructure', '']
+A2 Media
+	Provider of online video streaming services. The company\'s video aggregating service iStream provides an online content streaming platform where users can discover content across multiple genres like news, television shows and movies.
+	['', 'video streaming', ' ', 'online video', ' ', 'video aggregating service', ' ', 'content streaming', '']
+StoreVision
+	Developer of POS monitoring systems. The company designs and develops software which combines live POS data with live CCTV video allowing auditors to create evidence based reports of process errors and fraudulent activity.
+	['', 'evidence based reports', ' ', 'monitoring systems', ' ', 'error processing', '']

@@ -1,45 +1,33 @@
-Yepler
-	Creator of an online social desktop community. The company\'s platform enables users to organize files, links,videos, friends and groups by tagging and rating them locally and globally. The platform allows users to write comments or chat about any link or file on their computer. Through the platform, a document can instantly serve as a communication channel between two users.
-	['', 'desktop software', ' ', 'communication channel', ' ', 'document tagging', '']
-Cloudy
-	Provider of mobile social decisioning platform. The company\'s online social platform allows users to ask questions and find answers to their questions from friends.
-	['', 'social decisioning platform', ' ', 'online portal', '']
-Friend.ly
-	Provider of social Questions and Answers site that makes self expression fun, easy, and meaningful. The company helps you share your true self by asking fun, easy and sometimes poignant questions with the goal of creating a more perfect online profile.
-	['', 'social question', ' ', 'online profile', ' ', 'self expression', '']
-Formspring
-	Operator of a website that allows its users to set up a profile page, from which anyone can ask them questions. The company gives their members a platform to express their point of view and personality through engaging conversations and interact with friends and followers.
-	['', 'online forum', ' ', 'profile page', ' ', 'online sharing', '']
-Toostep Consultancy
-	Developer of an online platform that enables recruiters to promote jobs on social networking sites and search engines. The company operates an online portal that allows users to ask experts questions, debate with each other and gives recruiters the ability to post jobs through search engines and social media.
-	['', 'job search', ' ', 'recruitment portal', ' recruiters']
-Wondir
-	Operator of a live question and answer engine that connects people with questions to people with answers. The company provides a combination of live human answers and broad metasearch of the web.
-	['', 'instant messaging', ' ', 'search engine', ' ', 'question forum', '']
-PeerPong
-	Provider of a social search solution that allows users to ask questions and find information from people in their network through instant messaging and email.
-	['', 'social search solution', ' ', 'search solution', ' ', 'search engine service', '']
-ShareBloc
-	Provider of an online enterprise vendor comparison platform. The company provides enterprise consumers with an online platform to rate, review, ask and answer questions about their vendors. It also works closely with the vendor community to reach their customers.
-	['', 'vendor comparison platform', ' ', 'vendor rating', ' ', 'online portal', '']
-Pop Tip
-	Developer of real time social feedback tool. The company develop brands, publishers and people analyze crowd conversation by making social data actionable. It also has its own dashboard that lets brands ask questions that are posted directly to Twitter. There is a front-end dashboard that can be seen by all followers to track the results of a poll they’ve participated in, while there’s a back-end dashboard catered to the brands, who can watch the answers come in real time.
-	['', 'publisher conversation', ' ', 'social data', ' ', 'crowd conversation', '']
-QuickCliqs
-	Provider of a mobile platform that enables the users to connect with friends without having to go online. The company has developed a mobile platform from which users can invite their contacts to form groups for specific events, from there, they can ask questions, vote on answers and plan the event as a group, all while daily deals from Groupon and the like are pumped in as the event evolves.
-	['', 'mobile platform', ' ', 'planning event', ' ', 'offline social media', '']
-HealthSouk
-	Developer of an online health care network. The company provides its users with access to health care providers offering treatments and procedures. It provides a platform where patients can ask questions, receive answers, search for procedures and directly purchase procedures while comparing price and quality in an easy to understand manner.
-	['', 'health care provider', ' ', 'online treatment', '  ', 'health care network', '']
-Bling Nation
-	Provider of a mobile platform that connected businesses and customers through social rewards.
-	['', 'e-payment', '']
-Piggme
-	Developer of a Brazilian social commerce site. The company operates an online social platform that provides deals and other promotional offers to their customers in exchange for a cash donation to a particular charity.
-	['', 'deal websites', ' ', 'social media', ' ', 'social commerce', ' ', 'online deals', ' ', 'social networking', ' ', 'daily deals', '']
-AnswerQi
-	Operator of an online platform for technology related questions and answers. The company provides technical support, online collaboration toolset and a safe payment platform to get urgent technology related answers.
-	['Q&A ', 'technology related Q&A', ' ', 'technical support', ' ', 'safe payment platform', '']
-MomAssembly
-	Provider of parenting and female-focused online courses. The company also offers parenting wiki with questions and answers from expert and peer contributors.
-	['', 'newborn care', ' ', 'online education', ' ', 'parenting lesson', ' ', 'infant development', '']
+ultraBridge
+	Provider of a technology service to the long term care industry. The company provides its clients with a management service to their data and business reporting needs using outsourcing.
+	['', 'technology service', ' ', 'care industry', ' ', 'management service', '']
+Nelson House
+	Operator of a mental rehabilitation hospital. The company offers care and treatment to male patients aged between 18 and 65.
+	['', 'rehabilitation hospital', ' ', 'mental health', ' ', 'male patients', '']
+6 Wunderkinder
+	Provider of a business task management software with online synchronization. The company provides an interface to track everything from grocery shopping to long-term travel plans.
+	['', 'task management software', ' ', 'online synchronization', ' ', 'productivity software', '']
+American Transitional Hospitals
+	Provider of long-term specialty transitional care. The company provides transitional care facilities for subacute patients.
+	['', 'transitional care', ' ', 'specialty care', ' ', 'subacute patients', '']
+EndoProtech
+	Developer of therapies for organ transplantation and invasive cardiovascular surgery. The company\'s technology helps in delivery and long term display of bio-therapeutics on the surface of vascular endothelium which enables close monitoring and protection of vascular surfaces.
+	['', 'organ transplantation', ' ', 'cardiovascular surgery', ' ', 'vascular surfaces', ' bio-therapeutics']
+Bridge Pharmaceuticals
+	Provider of preclinical services. The company conducts drug development and preclinical services which include short and long-term in vivo studies ranging from acute to carcinogenicity protocols.
+	['', 'preclinical service', ' ', 'drug development', ' ', 'reproductive toxicology', '']
+Daverci
+	Provider of electronic medication management systems. The company\'s system provides long-term care facilities and institutional pharmacies that supplies them.
+	['medication tracking ', 'design support', '']
+CareCentric Solutions
+	Provider of  technology, business operation and outsourcing solutions. The company provides technology, business operation and outsourcing solutions for home health, private duty, hospice, home medical equipment, home pharmacy, long-term care and assisted living providers.
+	['', 'managed care', ' ', 'outsource solution', ' ', 'home pharmacy', '']
+VHA Long Term Care
+	Provider of long-term health care facilities.
+	['']
+Sage Electrochromics
+	Manufacturer and seller of insulating glass units and control systems to window and skylight manufacturers. The company also provides windows, skylights, and curtain walls for commercial and institutional buildings. It offers its products to owner-occupied office spaces, museums, libraries, art galleries, health care facilities, religious facilities, aviation facilities, high-tech or image buildings, and atriums and overhead daylight openings.
+	['', 'insulated glass', ' ', 'curtain walls', ' skylight ', 'overhead daylight', '']
+Mariner Health
+	Provider of sub-acute medical services. The company provides long-term health care services offering assistance through nursing facilities and long-term acute care hospitals which includes daily living, therapy and rehabilitation.
+	['', 'medical services', ' ', 'long-term health care', ' ', 'daily living', ' therapy']

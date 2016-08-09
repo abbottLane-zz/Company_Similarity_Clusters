@@ -1,42 +1,39 @@
-B2
-	Provider of broadband services. The company provides Ethernet services, IP-telephony, Video-on-Demand and television services
-	['', 'broadband services', ' ', 'network technology', ' ', 'internet connection', '']
-Arrow Shuttle
-	Provider of airline services. The company provides its services to the aviation industry.
-	['', 'aviation industry', ' airline flight']
-Avilinks
-	Developer of software and technology for the distribution of multimedia services via ADSL and VDSL on the existing telephone network. The company\'s product, AVIcenia, is a multimedia switch which can be installed in a building’s technical control room, on a campus, in the heart of a city or in an operator’s central office. It enables its users to have have access to a variety of services such as video on demand, high-speed internet, television and videoconferencing.
-	['', 'multimedia services', ' ', 'telephone network', ' ', 'multimedia switch', ' ', 'high-speed internet', '']
-Gogo
-	Provider of in-flight wireless internet services. The company is developing broadband services for both private and commercial aviation.
-	['', 'flight entertainment', ' ', 'internet service', ' ', 'wireless service', '']
-Mobyson Holding
-	Provider of mobile IP telephony services. The company markets telephony provisions, including hardware and software communication equipment.
-	['', 'communication equipment', ' ', 'telephony service', ' ', 'hardware product', '']
-Flimmer
-	Developer of a platform for viewers to watch movie trailers. The company\'s platform allows viewers to watch the latest trailer from Cinema, DVD & Blu-Ray and Video On Demand and reward them for their attention with movie tickets or DVD/Video on Demand Coupons.
-	['', 'watch film trailer', ' ', 'photography platform', ' ', 'video on-demand', '']
-Fullrate
-	Provider of broadband services. The company\'s products include internet connections with bandwidth ranging from 2 to 20 Mbit per second, and include fixed telephony in a single broadband service. The company offers its products and services using ADSL2plus technology.
-	['', 'broadband services', ' ', 'internet connections', '']
-On Demand Group
-	Provider of video on demand services to television brands.
-	['', 'video service', ' ', 'television service', ' ', 'digital media service', '']
-Allot Communications
-	Provider of broadband-optimization services. The company provides Internet protocol (IP) service optimization for wireless and mobile broadband carriers, cable-service providers and enterprises.
-	['', 'broadband service', ' ', 'internet protocol service', ' ', 'optimization services', ' ', 'information technology services', '']
-Cloudtc
-	Developer and manufacturer of android-based media phones. The company develops software for business applications and IP telephony.
-	['', 'android based phone', ' ', 'IP telephony', ' ', 'business applications', ' ', 'smart phone', '']
-Prescreen
-	Provider of social discovery video-on-demand platform designed to promote and showcase premium content. The company provides a daily movie service that presents films to a community of movie lovers.
-	['', 'video-on-demand', ' ', 'premium content', ' ', 'premium movie', ' ', 'daily movie service', '']
-Ridgeway Systems and Software
-	Provider of multi-boundary solutions for end-to-end IP video and voice communications. The company\'s software products, IPFreedom, securely traverse network firewalls and NATs (Network Address Translation) enabling the next generation of IP connectivity-ubiquitous IP video and voice between any and all IP endpoints.
-	['firewall ', 'IP connectivity', ' telecommunications']
-Atrica
-	Manufacturer of optical component technology with the Ethernet networking protocol to bring computer network capabilities to metropolitan area telecommunications networks. The company also provides Ethernet Internet access, Ethernet transparent LAN, T1 private line, Ethernet private line, and Ethernet private network services.
-	['technology communication Ethernet networking telecommunication ', 'ethernet equipment', ' ', 'telecommunication service', ' ', 'communication system', '']
-3Com
-	Provider of secure, converged voice and data networking solutions that enable customers to manage voice, video, and data in a secure network environment. The company\'s products and services include security systems, such as intrusion prevention systems, network access control systems, and firewalls; Internet protocol (IP) telephony that includes IP telephony platforms, convergence application suite, and IP phones; and networking infrastructure products comprising local area network (LAN) switches, routers and gateways, mobility and wireless LAN, network and security management. In addition, the company offers a range of professional services, such as assessment and design, project management, training and certifications, installation, and integration services.
-	['', 'computer communications equipments', ' ', 'secure network', ' ', 'intrusion prevention systems', ' installations']
+Sinclair Meadows
+	Provider of residential houses and apartments. The company has seventeen home-sites along with restaurants and shopping facilities.
+	['', 'residential service', ' ', 'housing development', ' ', 'shopping facility', '']
+Five Guys Restaurants (8 sites )
+	Portfolio of 8 restaurants. The restaurants are located across central California including Elk Grove, Fresno, Lodi, Natomas, Roseville, Stockton, Tracy and West Sacramento.
+	['burger ', 'junk food', ' ', 'restaurant service', '']
+Sqipp
+	Developer of a location based mobile ordering application from restaurants. The company enables restaurants to integrate a mobile ordering platform that makes orders and restaurant operations while allowing users to order and pay at participating restaurants using a smartphone.
+	['', 'ordering application', ' ', 'participating restaurant', ' ', 'mobile ordering platform', '']
+Storific
+	Developer of a mobile application to find and order food from restaurants. The company is a provider of a mobile application that allows users to find, order, and pay for food before pick-up or dine-in.
+	['', 'food app', ' ', 'order app', ' ', 'iphone app', ' ', 'restaurant menu', ' ', 'restaurant pick-up', ' ', 'restaurant search', '']
+ReTel Technologies
+	Provider of video surveillance analysis for stores and restaurants. The company uses security camera feeds to deliver metrics and data such as table cleanliness, service times and employee activities.
+	['', 'video auditing', ' ', 'raw surveillance video', ' ', 'interactive report', '']
+9Cookies
+	Developer of an internet based system for restaurants and delivery services. The company provides a tablet based platform with tools for taking orders, accepting card payments, scheduling employees, printing receipts and creating custom notes for the kitchen.
+	['', 'restaurant service', ' ', 'delivery service', ' ', 'tablet based platform', '']
+Kabukiman
+	Provider of online information about restaurants. The company allows users to search for names, places, type of cuisine and look for a suitable restaurant in Germany.
+	['', 'restaurant information', ' ', 'search function', ' ', 'online search', '']
+Skipola
+	Developer of white-labeled application for restaurants. The company develops application that has contact information, menus and includes ways to order food through the application.
+	['', 'white-labeled apps', ' ', 'restaurant information', ' ', 'food ordering', '']
+Yemeksepeti.com
+	Provider of an online food ordering and delivery portal in Turkey. The company provides a platform enabling users to order food from their favorite restaurant through the Internet and have it delivered. The company\'s platform provides an aggregated list of the restaurants from which users can choose to place an order.
+	['', 'online food ordering', ' ', 'food delivery portal', ' ', 'online food delivery', ' ', 'food delivery', '']
+Jgzam
+	Provider of an online food delivery platform. The company allows its users to discover new restaurants in their city, order food and even see what their friends are ordering from different restaurants. The website also allows restaurants to to accept orders from customers.
+	['', 'food delivery', ' ', 'food order', ' ', 'online food ordering', ' ', 'food delivery platform', ' ', 'online delivery', ' ', 'online ordering', '']
+PrimaTable
+	Provider of a platform to help restaurants to manage their scarce table resources. The company develops last-minute perishable inventory demand forecasting and pricing tools for the restaurant industry.
+	['', 'resource management', ' ', 'inventory demand forecasting', ' ', 'perishable inventory', ' ', 'pricing tool', ' ', 'restaurant pricing tool', '']
+InstantQ
+	Provider of an advertising platform for restaurants. The company allows restaurants to promote their services online.
+	['', 'advertising platform', ' ', 'restaurant promotions', ' ', 'online services', '']
+Butter Systems
+	Provider of digital menu for restaurants. The company is the creator of a mobile application enabling customers to place their orders at the table from a tablet.
+	['', 'digital menu system', ' ', 'online service', ' ', 'restaurant menu', '']
