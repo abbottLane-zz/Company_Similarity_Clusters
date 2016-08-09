@@ -1,18 +1,42 @@
-DATAllegro
-	Provider of data warehouse appliances.
-	['', 'data warehouse', ' ', 'warehouse appliance', '']
-InfiniDB
-	Provider of analytic database software for information processing applications. The company provides data warehouse storage engine for analytical data, analytical workloads and analytical data volumes. It also offers support services for the implementation of data warehouse.
-	['', 'analytic database software', ' ', 'storage engine', ' warehousing']
-living-e
-	Provider of a data-base supported web content management system. The company\'s products serve as tools for the administration and update of information for internet applications and their derivatives.
-	['', 'web content', ' CMS ', 'internet applications', '']
-Prism Solutions
-	Designer, developer and marketer of data warehouse management software solutions in United States. The company also provides database management solutions to its customers.
-	['', 'data warehouse', ' ', 'database solution', ' DBMS']
-Maximum Data Solutions
-	Provider of data collection and warehouse management technology solutions. The company operates as an independent software vendor of automated data collection hardware and software for companies that utilize the Microsoft Dynamics GP ERP packages. Its software products include InTouch Distribution, a module which connects, collects, and controls various aspects of Microsoft Dynamics GP receiving, order fulfillment, and inventory control functions; and InTouch Manufacturing, a solution developed for the purpose of acquiring and entering information about the inventory and processes.
-	['', 'warehouse management technology', ' ', 'data collection', ' ', 'inventory information entering', '']
-SenSage
-	Provider of enterprise event data warehouse technology for security, compliance, call detail records data retention, data retrieval and systems management. The company offers enterprise security analytics software that provides a log management platform, for event collection, retention and analysis to automate compliance reporting, investigation and security decision support processes.
-	['', 'data warehouse', ' ', 'log management platform', ' ', 'data management architecture', ' ', 'log management', ' ', 'system management', ' ', 'security process', ' ', 'compliance reporting', '']
+FreeDecision
+	Provider of web based credit decisions to shoppers, merchants, and financial institutions. The company\'s Instant Financing Solution allows customers, either consumers or small businesses, to apply for loans or other financing and receive an approval or rejection on-the-spot.
+	['', 'credit decisions', ' ', 'financing solutions', ' ', 'financing approval', ' Finance']
+New River Technologies
+	Developer of web-based programs. The company operates RiverTrend.com, a Web-based technology platform and a distribution channel that brings together wholesalers and vendors in specific vertical markets, as well as helps financial institutions, such as banks and credit unions to aggregate demand for items, including office products or collector coins.
+	['', 'Web based program', ' ', 'Web based technology platform', ' ', 'software development', ' ', 'eprocurement', '']
+The Vantra Group
+	Provider of comprehensive internet brokerage infrastructure services. The company\'s technology links investors, brokers, clearing firms and back offices. The company enables financial institutions to get to market in the area of online investments.
+	['“brokerage software” “trading management” “transaction processing” investors ', 'financial institutions', '']
+High Mark Credit Information Services
+	Provider of credit risk information services. The company enables financial institutions to take credit decisions, deter concurrent borrowers and spot defaulters.
+	['', 'credit risk', ' ', 'credit decision', ' ', 'financial institution', '']
+Hangi Kredi
+	Operator of a credit portal where users can search and compare all credit products of banks and credit institutions and send online applications to them. The company offers an independent and impartial platform that brings together the creditors and borrowers. The company provides credit rates of banks and credit institutions, required conditions for such credits and an online application service to such credits on free of charge basis.
+	['', 'credit portal', ' ', 'credit institutions', ' borrowers creditors ', 'credit rates', '']
+CorePROFIT Solutions
+	Provider of profitability information services for banks and credit unions. The company provides information to make profitable decisions about e-commerce transactions, channels and migration strategies. The company\'s services include analysis-cost development, hosted profitability and profit-wise costing applications.
+	['profitability ', 'costing services', ' ', 'credit unions', ' banks ', 'cost development', '']
+CreditScorer
+	Developer of technology for studying payment behavior of clients. The company\'s technology enables credit professionals to improve their credit granting and collections performance. The company creates and implements risk scoring models for the credit and financial services industries.
+	['', 'credit payment', ' ', 'credit granting', ' ', 'payment behavior', ' ', 'finance technology', ' ', 'credit benchmarking', ' ', 'credit payment software', ' ', 'finance software', ' credit']
+Distra
+	Provider of social payments channels. The company enables financial institutions, processors and retailers to enhance the flexibility and performance of their existing payments infrastructure to address market needs.
+	['', 'social payments channel', ' ', 'payment system', ' ', 'e-commerce', '']
+Barton Nelson
+	Manufacturer of advertising and promotional specialty goods. The company offers name badges, sticky notes, flags, pads and flag booklets, custom imprinted flag dispensers, cubes and note holders, lenticular items, magnets, desk calendars, desk pads, note planners and journals, scratch pads, memo books, rulers, bookmarks, door hangers, mailers, vinyl three ring binders, vinyl note pad folders, and vinyl document holders and cases. It serves financial institutions.
+	['', 'specialty goods', ' ', 'stationary goods', ' ', 'commercial products', '']
+Covarity
+	Provider of commercial loan monitoring and portfolio management solutions for the financial services industry. The company provides web-based software solution that automates the process for collecting and analyzing borrower financial data and enables financial institutions to manage credit risk on a loan-by-loan basis. Its solution is used for document collection and statement tracking, financial statement analysis, statement spreading, ratio analysis, covenant monitoring, borrowing base analysis, and reporting applications.
+	['', 'commercial loan monitoring', ' ', 'portfolio management solution', ' ', 'credit risk management', ' ', 'commercial loan analysis', '']
+Gensar Holdings
+	Provider of electronic data capture and authorization services for financial institutions and sales agents. The company provides a processor of credit card transactions for retailers and other merchants.
+	['', 'data capture', ' ', 'authorization services', ' ', 'financial institutions', '']
+DPG Holdings
+	Provider of eco-friendly information and products over internet. The company is a provider of corporate credit information with value-added services such as credit ratings, bankruptcy probability analysis and alarm systems via the internet.
+	['', 'bankruptcy probability', ' ', 'information service', ' ', 'credit ratings', ' ', 'corporate credit information', '']
+Bill Me Later
+	Provider of payment and marketing technology services to multichannel retailers. The company offers PayCapture, a set of credit tools; and Bill Me Later that enables customers to pay for purchases without providing credit card information.
+	['', 'marketing technology', ' ', 'multichannel retailer', ' ', 'credit tool', ' ', 'payment technology', ' paycapture ', 'credit card payment', '']
+FreeMonee
+	Provider of consumer gift incentives. The company enables merchants to give gifts directly to individual credit and debit cardholders through participating financial institutions.
+	['', 'gift network', ' ', 'gift card', ' ', 'cash gift', '']

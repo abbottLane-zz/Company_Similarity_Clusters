@@ -1,15 +1,75 @@
-Brand New Brands
-	Developer of food and beverage products. The company makes food and drink products that provide health benefits beyond basic nutrition. It is developing a prenatal nutrition bar that includes calcium, folic acid and omega fatty acids.
-	['', 'health product', ' ', 'beverage product', ' ', 'nutrition research', ' ', 'functional food', '']
-JRG Software
-	Provider of build-to-consumption production scheduling software for the consumer packaged goods industry. The company provides planning and scheduling applications as a managed service over the internet for food, beverage and consumer goods companies.
-	['', 'production scheduling software', ' ', 'Factory Scheduler', ' ', 'Performance Manager', ' ', 'Application Software', '']
-Aline Aesthetics (Aline Hyaluronic Acid Thread Technology)
-	Solid state, cross-linked hyaluronic acid. Hyaluronic acid in thread form that is attached to a needle to be used as a dermal filler for cosmetic and cancer reconstructive surgeries.
-	['', 'hyaluronic acid', ' ', 'dermal filler', ' ', 'cosmetic surgery', ' ', 'cancer reconstructive surgery', '']
-Origin Foods
-	Developer of food ingredients. The company develops processes to enrich food with health-promoting omega-3 fatty acids.
-	['', 'food ingredients', ' ', 'omega-3 fatty acids', ' ', 'fatty acids', ' nutrition']
-Provita
-	Retailer of health & wellness products. The company sells health, beauty and sports-nutrition products in Europe.
-	['', 'sports nutrition', ' ', 'health and beauty', ' nutrition']
+LiveTime Software
+	Developer of IT service management software. The company provides a platform one of reactive incident response to a more holistic approach involving the entire business, its processes and workflows.
+	['', 'IT service management', ' ', 'business processes', ' ', 'business processes', '']
+Roomtag
+	Developer of a space management software. The company provides a web-based space management software that enables facility and office managers to track people, space and assets.
+	['', 'space management', ' ', 'office software', ' ', 'facility management', '']
+facilityboss
+	Developer of software for building owners and operators. The company develops various process optimizing applications for various industries including web based room or desk management and reservation, tracking software for the pharma industry, data capture application for business continuity management used in the financial sector. The company was spun out of Fraunhofer Institut SIT.
+	['', 'managing spaces', ' ', 'digital building', ' ', 'building space', ' ', 'space management', ' ', 'resource optimization', '']
+MediaFlex
+	Provider of internet software and systems for on-demand publishing. The company develops a network that enables e-commerce and the distribution of on-demand image-based products. It develops print procurement technology.
+	['', 'on demand publishing', ' ', 'print procurement technology', ' ', 'publishing software', '']
+Procite
+	Provider of information reference management software. The company has developed a software which give users flexibility to manage special collections and create unlimited work-forms.
+	['', 'management software', '']
+Terraspring
+	Developer and provider of management software. The company provides service for the automated deployment, management, visibility and control of the heterogeneous computing environments.
+	['', 'automated deployment', ' ', 'storage resource', ' ', 'device agnostic', ' computing']
+Codima Technologies
+	Developer of software tools for organizations. The company enables users to view, maintain and store data on network inventory. It also helps organizations to reduce costs, save time and manage their infrastructure network. It sells network management tools.
+	['', 'software tools', ' ', 'network management tools', ' ', 'VoIP management', ' ', 'IT assets', '']
+Volta
+	Provider of a call queue management software for businesses. The company allows companies to insert call triggers into their existing crm software where agents can log in and start calling from the browser.
+	['', 'call triggers', ' ', 'call queue', ' ', 'call management', '']
+intelligent views
+	Provider of database management software. The company provides a software to manage vast heterogeneous databases and joins related pieces of information to discover hitherto unrevealed and unrelated knowledge.
+	['', 'data mining', ' ', 'heterogeneous platform', ' knowledge']
+Mission Critical
+	Developer of system management software. The company develops and markets enterprise level system management software.
+	['', 'system software', ' ', 'Business software', '']
+Abatis Systems
+	Developer of consumable IP networking software. The company develops software that are based on the business services architecture, designed to let carriers leverage their existing core networks and deploy IP services.
+	['', 'networking software', ' ', 'business services architecture', ' ', 'consumable internet proticol', '']
+MindWeavers
+	Developer of software products to help people overcome dyslexia. The company develops and sells software-based products to optimize an individuals innate abilities relating to sensory and motor skills. The company spun out from the University of Oxford.
+	['', 'brain simulation', ' ', 'brain exercises', ' ', 'sensory skills', ' ', 'motor skills', ' ', 'computer games', ' ', 'language learning', ' ', 'software products', '']
+MAXM Systems
+	Developer of management software. The company develops network management software and is based in McLean, Virginia.
+	['', 'enterprise automation software', ' ', 'network management', '']
+Apsylog
+	Provider of IT asset-management software. The company provides a decision-support software platform that manages the IT asset lifecycle, from asset acquisition through asset deployment and tracking, to retirement.
+	['', 'asset management', ' ', 'asset management software', ' ', 'network management', '']
+Grantium
+	Provider of the grants management software platform for government agencies and granting organizations. The company provides the software that helps in off-the-shelf end-to-end enterprise grants management between organization.
+	['', 'grant management software', ' ', 'automate grant', ' ', 'virtual world', '']
+Conker
+	Provider of management software for games companies. The company helps in optimizing game revenue using predictive behavioral analytics.
+	['', 'Player Experience Management', ' ', 'game revenue', ' ', 'predictive behavioral analytics', ' players ', 'online game', '']
+Enroute
+	Developer of of parcel-shipping management software. The company makes a web-based software platform that helps businesses choose the cheapest and fastest delivery service—international, national or regional carriers to ship their packages.
+	['', 'parcel-shipping management', ' ', 'logistic software', ' ', 'software platform', ' ', 'package delivery software', '']
+Vergo
+	Provider of software based services for network and risk management. The company provides network management service to manage the supply chain and its companies balanced risks management for strategic management. It also provides software for working capital management.
+	['', 'network management', ' ', 'analytic software', ' ', 'working capital management', ' ', 'supply chain management', '']
+WebSpective Software
+	Developer of management performance software solutions for large websites. The company provides internet commerce and content sites with web resource management systems designed to run e-business in real-time.
+	['', 'internet commerce', ' e-business']
+ICCM Solutions
+	Developer of an enterprise management software. The company provides global client base with process applications and tailored services for IT service management, HR shared services and intelligent BPM.
+	['', 'service management', ' BPM ', 'business process management', ' ', 'tailored services', ' ', 'enterprise management', '']
+BlueRoads
+	Provider of innovative indirect channel sales strategies for technology based companies. The company offers enterprise partner opportunity management software solutions for the manufacturers of technology products and services that sell through the reseller channels. It offers deal registration, lead management, renewal management, account registration, and lead referral management solutions.
+	['channel ', 'channel efficiency', ' technology']
+DN2K
+	Developer of a software-based system that can remotely monitor, display and control important assets. The company provides a software that aggregates business data into a single graphically-rich visualization that is displayed on mobile devices.
+	['', 'remote monitoring', '  ', 'critical asset management', ' ', 'Software-as-a-Service', ' ', 'mobile device', '']
+Tickmark Solutions
+	Provider of configuration management software for Oracle Applications environments.
+	['', 'configuration management', ' ', 'enterprise software', ' ERP']
+Mortice Kern Systems
+	Developer of configuration management software. The company provides configuration management software which can be integrated in late design cycle.
+	['', 'configuration management software', ' ', 'late design cycle', ' ', 'Application Software', '']
+Spatial Wireless
+	Developer of software-based networking solutions for mobile networks. The company provides software based and multi standard distributed mobile switching solutions.
+	['', 'network solution', ' ', 'mobile network', ' ', 'mobile switching', ' ', 'network switching', ' ', 'networking software', '']

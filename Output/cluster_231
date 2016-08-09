@@ -1,30 +1,30 @@
-InovisProject
-	Manufacturer and developer of multilayer coatings. The company specializes in the production of coated products for the production of films for cameras.
-	['', 'industrial coating', ' ', 'film coating', ' ', 'multilayer coating', '']
-Big Frame
-	Provider of media production and marketing services. The company creates video advertising campaigns.
-	['', 'media production', ' ', 'marketing service', ' ', 'video campaign', '']
-Ocean Films
-	Provider of financial services to the film industry. The company primarily engages in the production of films and documentaries.
-	['', 'movie producer', ' ', 'film producer', ' ', 'film production', ' ', 'movie production', ' documentary']
-The Worx Production House
-	Provider of media and production services. The company facilitates and co-ordinates productions for the photographic stills industry.
-	['', 'media service', ' ', 'production service', ' ', 'media provider', '']
-Matsutake
-	Operator of a Matsutake mushrooms developing company. The company commercialization of a production method for Matsutake mushrooms.
-	['', 'Matsutake mushroom', ' mushroom ', 'Cantharellus cibarius', '']
-Skyline Entertainment
-	Owner and operator of a television production house. The company produces fiction and non-fiction programmes.
-	['', 'television production', ' ', 'production house', ' ', 'cinema films', ' ', 'TV series', '']
-Digidesign
-	Manufacturer of digital audio workstations. The company offers products for the music, broadcast, multimedia and film industries. The company\'s flagship product was Pro Tools, a software suite designed in variations for professional recording studios, home users and post-production users.
-	['', 'digital audio workstation', ' ', 'digital recording', ' ', 'audio production systems', ' ', 'multimedia software', '']
-Ibisa Televisión
-	Operator of a media production house. The company is a creator of TV docudramas and documentaries. It oversees all phases of film production, from concept to script, shooting, post production and broadcasting.
-	['', 'television series', ' documentaries ', 'production and distribution', '']
-Habit Industries
-	Provider of an application for creating online animations. The company provides backgrounds in animation and offers services for new media promotions, video games, graphic design, and film production.
-	['', 'online animation', ' ', 'animation background', ' ', 'graphic design', '']
-Infinia es
-	Provider of production and post-production services for the advertising, film and television markets.The company offers the industry sets, mobile post-production facilities and everything needed for the purpose of the production of any event or TV spot.
-	['', 'production services', ' ', 'post-production services', ' ', 'sets and facilities', ' ', 'film and television market', '']
+BioScan Technologies
+	Developer of imaging technology for use in interventional vascular applications. The company is the developer of LightWire guidewires, a technology  based on the company\'s optical-ultrasonic platform, and used for the diagnosis and treatment of cardiovascular disease.
+	['ultrasonic cardiovascular optical-ultrasonic']
+LumenVu
+	Provider of Light- embedded catheters. The company offers light- embedded catheters to direct accurate placement in the body.
+	['catheter ', 'Catheter placement', '']
+AngioScore
+	Developer of tools for endovascular therapy. The company develops angioplasty catheters for use in the treatment of cardiovascular and vascular disease.
+	['', 'endovascular tool', ' ', 'cardiovascular disease treatment', ' catheter ', 'endovascular therapy', '']
+Cooke Pharma
+	Developer of formulations for the treatment of atherosclerosis. The company owns and develops the intellectual property rights to use arginine for vascular disease.
+	['atherosclerosis arginine ', 'vascular disease', '']
+Cebix
+	Developer of chronic replacement therapy. The company\'s chronic replacement therapy is based on human pro insulin C-peptide for the treatment of diabetic neuropathy and retinopathy.
+	['', 'replacement therapy', ' ', 'diabetic neuropathy', ' ', 'c-peptide', ' ', 'diabetes treatment', '']
+Setagon
+	Developer of metallic nanoporous surface modification technology. The company also develops drug delivery technologies for the intravascular treatment of cardiovascular, peripheral vascular and neurovascular diseases.
+	['', 'nanoporous modification technology', ' ', 'drug delivery technology', ' ', 'nanoporous metal coating', '']
+International Stem Cell
+	Developer of therapeutic and research products. The company develops stem cell technology called parthenogenesis for use in the treatment of several diseases including diabetes, liver disease, corneal disease and retinal disease through cell transplant therapy.
+	['', 'therapeutic products', ' ', 'research products', ' ', 'stem cell technology', '']
+Intella Interventional Systems
+	Developer of balloon catheters and guide wires for coronary angioplasty. The company\'s products include interventional vascular products, including guide wires, balloon-on-a-wire systems, rapid exchange systems, over-the-wire systems and stent delivery systems.The company supplies its products to cardiologists, physicians and surgeons.
+	['', 'balloon catheters', ' cardiologists']
+Somatix Therapy
+	Developer of gene therapy. The company engages in research, development and commercialization of proprietary processes for the genetic modification of cells and their use in the treatment of human disease.
+	['genetic ', 'gene therapy', '']
+MicroVention
+	Developer of catheter-based technologies for the endovascular treatment of peripheral and cerebral vascular diseases. The company offers HydroCoil Embolic System, an endovascular embolization device combining platinum microcoil technology for the treatment of fistula and peripheral vascular aneurysms; and MicroPlex Coil System, which is an embolization device that include framing, helical filling, and finishing coils for use in various types of aneurysm morphologies.
+	['', 'catheter based technology', ' ', 'cerebral vascular treatment', ' ', 'healthcare service', ' ', 'endovascular treatment', ' ', 'endovascular embolization device', '']

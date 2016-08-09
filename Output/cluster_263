@@ -1,18 +1,78 @@
-WCS Wireless-Licences
-	Provider of wireless telecommunication services. The company was formed to acquire and hold spectrum licenses in the WCS band.
-	['spectrum ', 'radio telephone', ' acquire']
-PCS One
-	Provider of telecommunications services. The company provides telecommunication services on personal basis.
-	['', 'communication service', '']
-Erenis
-	Operator of optical fiber equipments to deliver telecommunication services in the French residential market. The company provides broadband telecommunication services and internet access for the development of new services resting on high-speed bandwidth.
-	['', 'fiber optic', ' ', 'communication services', ' ', 'residential service', ' ', 'high-speed bandwidth', '']
-TLContact
-	Provider of a web page service to help healthcare providers deliver better care to their patients and their families by supporting their emotional and spiritual needs. The company has formed an online community where visitors come together to share the challenges, hopes and triumphs of anyone facing a life-changing health event.
-	['', 'online community', ' ', 'web page service', '']
-Omnicom
-	Provider of telecommunication services. The company provides telecommunication services including wireless internet services.
-	['', 'telecommunication service', ' ', 'wireless internet', ' ', 'information supply', '']
-Wireless Maingate
-	Provider of telecommunication services. The company works as a virtual mobile operator for wireless communication between machines (M2M) and a provider of message services.
-	['', 'wireless equipment', ' ', 'wireless communication equipment', ' ', 'communication between machine', '']
+Zip2
+	Operator of a mobile media company which creates applications that enable business partners to engage and interact with their target audiences via mobile devices. The company operates Zumobi Network, a portfolio of interconnected mobile media applications, which enable user discovery of applications and content, network cross-promotion, and viral distribution, as well as provide reporting metrics on usage and behavior.
+	['', 'mobile media', ' ', 'interconnected mobile media', ' ', 'media application', '']
+MoPowered
+	Developer and operator of transactional systems for mobile commerce, banking and payments. The company provides various software platforms to support retailers at every stage of website integration from site building, inventory cataloging and marketing through to mobile checkout.
+	['', 'mobile commerce', ' ', 'financial serves', ' ', 'outsource services', ' ', 'mobile banking', '']
+MoboTap
+	Developer of a browser technology for mobile devices. The company is a mobile technology developer which has created Dolphin Browser, a web browser created for andriod, iOS phone and tablet users.
+	['', 'browser technology', ' ', 'mobile technology', ' ', 'web browser', '']
+Cybird
+	Provider of mobile internet services. The company provides mobile internet services geared towards businesses and individual use. Its main activities are to develop mobile sites, mobile marketing, advertising, and mobile commerce.
+	['', 'mobile internet', ' ', 'internet services', ' ', 'mobile marketing', ' ', 'mobile commerce', '']
+Paragon Wireless
+	Operator of online mobile store. The company offers mobile phones and mobile accessories, including mobile phone cases, chargers, headsets and memory cards.
+	['', 'mobile accessories', ' ', 'online mobile shop', ' ', 'mobile games', '']
+iLoop Mobile
+	Provider of mobile coupons and mobile alerts. The company provides mobile services and technology for interactive mobile marketing, mobile advertising and mobile content distribution.
+	['coupon ', 'mobile marketing', ' ', 'mobile advertising', ' ', 'mobile content distribution', '']
+Kickanotch mobile
+	Provider of mobile marketing services and technology solutions. The company’s solutions include mobile applications, code marketing and mobile barcodes, text marketing, mobile video marketing, and mobile Web design.
+	['', 'mobile marketing', ' ', 'mobile advertising', ' ', 'text marketing', ' ', 'PUSH notification', '']
+Whoop, Inc
+	Provider of an online mobile content and application software. The company\'s products enable individuals and companies to create and share mobile content. It comprises of three major parts: the Whoop Creative Suite, the Whoop Management System and the Whoop Agent. The Whoop Creative Suite is a web-based publishing platform for the creation and sharing of mobile content and applications over every wireless network. The Whoop Management System directs the delivery of optimized content to various handsets and includes robust tracking, auditing and analytics. The Whoop Agent is delivered over the air with requested content and resides on the mobile device, acting as an interactive tuner and transmitter for engaging mobile experiences.
+	['', 'mobile application', ' ', 'application developer', ' ', 'mobile content', ' ', 'mobile application developer', '']
+SnipSnap App
+	Provider of an application that scans, saves and redeems printed coupons on mobile phones. The company\'s technology allows users to organize their coupons and be reminded to use their coupons before they expire.
+	['', 'mobile coupon', ' ', 'coupon scanning', ' ', 'scanning application', ' ', 'targeted advertising', '']
+Amazon Robotics
+	Developer of mobile material handling solutions for the storage, movement and sortation of products. The company\'s mobile fulfillment system include ItemFetch for picking items OrderFetch, a sortation system for routing orders to the dock door and CaseFetch, which delivers pallets to workers for case picking or forward replenishment.
+	['', 'material handling', ' ', 'mobile material handling', ' ', 'sortation system', '']
+MobilGiganten
+	Operator of an online store for mobile phones. The company provides ecommerce retail and distribution services for mobile phones and accessories, and also offers other mobile services.
+	['', 'mobile phone', ' ', 'mobile accessories', ' ', 'mobile retailer', '']
+Tira Wireless
+	Provider of porting technology for the mobile content market. The company publishes wireless java applications for mobile phones. The company\'s products includes jump developer desktop, jump deployment manager and assets for mobile content projects.
+	['porting technology']
+End2End
+	Provider of outsourced mobile data services. The company provides outsourced mobile data services on behalf of mobile network operators.
+	['', 'mobile data', ' ', 'mobile networks', ' connectivity']
+Mocean Mobile
+	Provider of mobile marketing services for content publishers, advertisers, ad sellers, affiliates and developers. The company offers self-serve mobile advertising and mobile ad publishing services.
+	['', 'mobile marketing', ' ', 'content publisher', ' ', 'mobile advertisement', ' ', 'mobile content', '']
+TapCommerce
+	Provider of mobile-retargeting services. The company provides a software platform to help brands engage and convert their mobile audiences, to increase customer-lifetime value.
+	['', 'mobile shopping application', ' ', 'mobile marketing', ' ', 'mobile commerce', '']
+mInfo
+	Provider of multi-transport mobile search services. The company also provides mobile marketing tools to both advertisers and SMEs.
+	['', 'information services', ' ', 'multi-transport mobile search', ' ', 'mobile search', '']
+JustChalo
+	Provider of a mobile technology focused on US restaurant industry. The company provides an application for reservations to be made on mobile devices for diners.
+	['', 'mobile technology', ' ', 'restaurant mobile payment', ' ', 'restaurant iphone application', '']
+SendMe
+	Provider of wireless entertainment applications. The company provides direct to consumer mobile entertainment services. It provides interactive mobile trivia, ringtones, wallpaper, and mobile sweepstakes. It also provides horoscopes, jokes, gossips, romance tips, sports trivia, pick-up lines, diet tips, daily inspirations, and fan clubs.
+	['', 'wireless entertainment applications', ' ', 'mobile entertainment services', ' ', 'social content', ' ', 'mobil services', '']
+Cellnext Solutions
+	Provider of mobile VAS and enterprise services for mobile operators, media companies, and content providers enterprises. The company offers CellPAY, a mobile payment platform that enables customers to make payments using their mobile phones; CellMONEY, a mobile electronic pre-paid voucher that is distributed electronically via mobile phones; Wizone, a Web-based application for running text message mobile; cellPUSH, which allows high volume outgoing messages; Cellxpress shortcode platform, WHICH captures incoming messages on short access numbers and mobile content sale; Global Messaging Engine, which captures incoming messages and focuses on providing access numbers to the end users; cellDIAL, which enables automated out dial calls for enterprises; and cellPAPER, an MMS based platform that provides a new idea to publish rich content on mobile.
+	['', 'mobile payment platform', ' ', 'mobile VAS', ' ', 'mobile advertising', ' ', 'product authentication', '']
+FatSkunk
+	Provider of anti virus technology for mobile malware detection. The company offers a new software technology for mobile malware detection that uses physics, instead of conventional heuristics or signatures.
+	['', 'mobile malware', ' ', 'anti virus', ' ', 'virus detection', ' ', 'malware detection', ' ', 'virus scan', ' ', 'software technology', '']
+Openera Technologies
+	Provider of mobile application handset services for converged mobile networks. The company enables the delivery of various multimedia IP communication services on mobile devices.
+	['', 'mobile application', ' ', 'mobile service', ' ', 'multimedia IP communication', ' ', 'mobile device', '']
+Teltier Technologies
+	Provider of protection for mobile networks and the privacy of their subscribers. The company provides mobile network infrastructure platforms for secure presence and availability management.
+	['', 'mobile network', ' ', 'mobile network infrastructure', ' ', 'mobile network operator', '']
+Dobleas
+	Operator of a mobile advertising technology company. The company offers data sources to buyers and sellers on mobile platforms. It also provides API access and DSP platform services for trading desks to fulfill their buying needs.
+	['', 'mobile advertising', ' ', 'data sources', ' ', 'API access', ' ', 'trading desks', ' ', 'DSP platform', '']
+Beijing Li Mei Technology
+	Provider of mobile marketing services. The company provides mobile internet advertising services using data mining technology.
+	['', 'mobile platform', ' ', 'mobile internet services', ' ', 'mobile internet advertising', '']
+Milk
+	Provider of a mobile development lab. The company enables developers to experiment with mobile applications.
+	['', 'application development', ' ', 'application lab', ' ', 'application testing', '']
+F-Origin
+	Provider of touchscreen, motion control technologies for mobile and fixed display devices.
+	['', 'motion control', ' ', 'interface solution', ' ', 'mobile device', ' touchscreen']

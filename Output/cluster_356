@@ -1,30 +1,36 @@
-Atlantis Components
-	Developer of designs and machine titanium abutments that allow any dentist to restore implants using crown-and-bridge techniques. The company\'s designs are based on extensive dental research, analysis and clinical input.
-	['', 'abutment design', ' ', 'restore implant', ' ', 'match natural tooth', '']
-Small Smiles Dental Centers
-	Provider of dental care services. The company provides dental care services for children.
-	['', 'dental care', ' ', 'dental health', ' ', 'dental center', ' ', 'dental office', '']
-OakTree Health Plan
-	Provider of managed care services. The company operates an health maintenance organization for Medicaid members.
-	['', 'health maintenance organization', ' HMO ', 'managed care', '']
-Fryers Walk VCT
-	Provider of nursing home services for people with learning and hearing disabilities in Thetford. The company operates a 34 bedroom home to provide home care services for people with learning and hearing disabilities.
-	['', 'home care', ' ', 'nursing home', ' ', 'hearing disability', '']
-HistoRX
-	Developer of tissue-based theranostic solutions for individualized patient care. The company provides customized biomarker assays and reagents, instrumentation and software, and contract services for quantitative biomarker analysis. It also engages in the development of companion and standard-of-care diagnostic assays. In addition, it offers drug discovery and development, disease detection and diagnosis, and clinical pathology and patient care services.
-	['', 'patient care service', ' ', 'disease detection', ' ', 'clinical pathology', '']
-DenX Advanced Dental Systems
-	Provider of dental teaching and practicing technologies to dental surgeons and dental schools worldwide to enhance the quality of clinical care and equip dental educators with pre-clinical teaching equipment. The company also manufactures and markets the DentSim simulator, which is presently located in over 25 dental schools around the world to help teach dental students professional skills.
-	['', 'clinical care', ' ', 'dental teaching', ' ', 'DentSim simulator', '']
-Presidium Holdings
-	Provider of managed care and administrative services for worker\'s compensation. The company provides complete set of claims management and managed care services that allow self-insured, mid-sized companies to manage their workers\' compensation.
-	['', 'administrative services', ' ', "worker\\'s compensation", ' ', 'claim management', '']
-Direct Health
-	Provider of domiciliary and home-care services. The company supplies care workers into homes for those with special and geriatric needs.
-	['', 'managed care', ' ', 'trained workers', ' ', 'medical needs', '']
-Azenic
-	Developer of disposable dental products. The company designs and manufactures single use dental tools that can be used in lieu of standard metallic equipment.
-	['', 'dental product', ' dental ', 'dental device', ' ', 'disposable device', '']
-Vivra Specialty Partners
-	Provides physician network and disease management services. The company operates as a managed care services in various specialties, including asthma and allergy, cardiology, urology, neurology, diabetes, orthopedics, dialysis/nephrology, ENT, and OB/GYN.
-	['', 'multispeciality clinic', ' ', 'healthcare services', '']
+Raster Graphics
+	Developer and manufacturer of large format digital color printing systems. The company is engaged in the development, manufacture and marketing of high performance and large format digital color printing systems, and in the sale of related consumables and software for the on-demand large format digital printer market.
+	['', 'digital color printing', ' ', 'printing system', ' ', 'electrostatic technology', ' ', 'inkjet technology', ' ', 'digital printer', '']
+NewPort Communications
+	Developer of high-performance optical communications chips. The Company\'s devices are based on a proprietary design technology called Current-Controlled CMOS (C3MOS(TM)).
+	['', 'optical communication', ' ', 'communication chip', ' ', 'proprietary design technology', '']
+ADAP Nanotech
+	Manufacturer of carbon nanotube based adhesives and coatings. The company specializes in manufacturing and commercialization of high performance thermally and electrically conductive adhesives for use in demanding industrial and electronics applications, with an initial focus on thermal interface materials deployed to facilitate cooling of electronic components.
+	['', 'carbon nanotube', ' ', 'electrically conductive adhesives', ' adhesives']
+Quickturn Design Systems
+	Provider of system level verification solutions for the design of integrated circuits and electronic systems. The company\'s products are used by developers of high-performance computing, multimedia, graphics and communication systems.
+	['', 'computing systems', ' ', 'communication systems', ' ', 'electronic systems', '']
+Sebring Systems
+	Supplier of silicon switch fabric interconnect solutions to the networking and computing industries. The company deals with the enhancement of cost and performance of PCI-based systems with scalebility, high bandwidth, fault tolerance and hot-plug.
+	['', 'Sebring Ring', ' ', 'silicon switch', ' silicon']
+Vertex Networks
+	Developer of ASIC focusing on LAN switching market. The Company focuses on providing high performance, cost-effective Third- Generation solutions for the emerging LAN and ATM switching market.
+	['', 'hardware components', ' communication ', 'system architecture', ' chipset ', 'network market', '']
+Radient Technologies
+	Provider of pharmaceutical intermediates, nutraceutical compounds and oil from biomass. The company is engaged in the extraction, purification and isolation of naturally derived compounds and ingredients. It produces natural substances by combining an extraction platform, microwave assisted processing, with expertise in the areas of purification and isolation.
+	['nutraceutical ', 'microwave assisted processing', ' ', 'naturally derived compound', '  biomass']
+FlowWise Networks
+	Provider of performance-enhancing equipment for computer networks. The company is the provider of high-performance router-acceleration products that are self-configuring. The company\'s products are designed to enhance the performance of networks, with little to no disruption of service.
+	['', 'telephony platform', ' ', 'network equipment', ' router']
+Rapport, Inc.
+	Developer of embedded application chips for computer intensive applications. The company\'s chips are deployed in accelerator boards and high performance systems for government and commercial services ranging from intelligent sensor modules to networking devices.
+	['', 'electronic chips', ' ', 'computer intensive application', ' ', 'sensor module', ' ', 'networking device', ' ', 'embedded application chip', '']
+EKB Technology
+	Developer of a bioprocessing technology. The company\'s technology platform is used for eliminating the stages involved in product purification and clean up by combining the production and recovery of chemicals.
+	['', 'bipolar electrodialysis', ' electrokinetic chemistry electrodialysis']
+ISOPur Fluid Technologies
+	Developer of high-performance fluid purification systems. The company provides purification systems for hydraulic and lubricating oil used in high-performance, mission-critical industrial machinery.
+	['', 'purifies oil', ' ', 'fluid purity', ' ', 'filter cartridges', ' additives']
+Clustra Systems
+	Developer of database systems. The company provides clustering technology that allows apps to failover and provide high degrees of uptime.
+	['', 'database system', ' ', 'clustering technology', ' failover']

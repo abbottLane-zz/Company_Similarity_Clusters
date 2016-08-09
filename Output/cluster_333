@@ -1,18 +1,78 @@
-Zostel
-	Operator of chain of hostels and low-budget hotels. The company operates a branded chain of backpacker\'s hostels called zostel and offers low-budget hotel accommodations through their booking service Zo Rooms.
-	['', 'accommodation facility', ' ', 'booking service', ' hostel']
-Premier VCT (Dartford)
-	Owner and operator of a hotel. The company owns 12 bedrooms hotel in Dartford.
-	['', 'travel & leisure', ' ', '12 bedrooms', ' ', 'Holiday Inn', '']
-Rocket Travel
-	Provider of a hotel-booking website offering free airline miles as a booking incentive. The company offers an airline-mile stockpiling program, for users making multiple bookings.
-	['', 'hotel booking site', ' ', 'booking hotel room', ' ', 'free vacation', ' ', 'online vacation', ' ', 'hotel booking', ' ', 'frequent flier program', '']
-Active Hotels
-	Operator of an online hotel reservation company. The company operates an online hotel reservation website that links 2,000 smaller and medium-sized hotels in the UK. It creates mutually beneficial partnerships between hoteliers and distribution partners thereby lowering the hotel rates.
-	['', 'hotel booking', ' ', 'online booking', ' ', 'travel and tourism', '']
-FastBooking
-	Provider of online booking and electronic marketing services for the hospitality industry. The company designs and develops hotel websites, online marketing programs, Internet-enabled direct hotel website bookings, online marketing for hotel websites, consumer portals and integration with third-party consumer booking websites.
-	['', 'electronic marketing', ' ', 'internet ticket booking', ' ', 'website development service', ' ', 'marketing program', '']
-Leisurehunt.com
-	Provider of online hotel booking services to the general public and small businesses. The company has positioned itself as a B2B provider of online accommodation services.
-	['', 'online hotel booking', ' holiday ', 'resort booking', ' travel ', 'holiday package', ' ', 'travel booking', '']
+FYIQuest
+	Developer of an internet-based system that provides customized content to physicians\' offices. The company provides systems that puts portable touchscreen computers in doctors\' waiting rooms through which idle patients can access information and see advertisements.
+	['', 'prescription advisory', ' ', 'health information', ' treatment clinics ', 'healthcare advertising', '']
+Shiva
+	Provider of remote access for business. The company connects employees, customers and partners securely to business networks with integrated telephone network and internet based solutions.
+	['', 'remote access technology', ' telecommuters ', 'Internet service providers', '']
+Prodika
+	Provider of software and services for product lifecycle management. The company provides CSS, a solution for Internet-based content synchronization and syndication with distributed enterprise systems, trading partners, and industry exchanges that automates the task of distributing product intelligence. It offers infrastructure, business processes, product design tools, and performance management reporting for companies that design and manufacture products based on recipes, formulation, and processing.
+	['', 'product life-cycle management', ' ', 'Internet-based content synchronization', ' ', 'performance management application', ' ', 'business process management', '']
+UUCun
+	Provider of Internet based mobile advertising services. The company provides Internet based mobile advertising services for WAP sites, application developers, and advertisers
+	['', 'Internet based advertisement', ' ', 'mobile advertising services', ' ', 'internet advertising platform', '']
+IP Dynamics
+	Provider of secure virtual network solutions. The company provides solutions for internet-based service providers.
+	['network ', 'internet service providers', '']
+Rewired Production Management
+	Developer of internet based systems to manage the information flow required to employ and pay unionized performers who appear in broadcast commercials. The company provides management of information relating to the use of union talent in the production of commercials, music and films.
+	['', 'information services', ' ', 'broadcast services', ' ', 'talent management', '']
+Open Mind
+	Provider of internet based services. The company provides software services for internet based collaboration.
+	['', 'software service', ' ', 'internet service', ' ', 'software collaboration', '']
+FICS Group
+	Provider of an internet based application for the financial services industry. The company provides java-based corporate electronic banking and central bank reporting software.
+	['', 'smart card development', ' ', 'online transaction', ' ', 'fund transfer', '']
+Camelot Care
+	Provider of foster care and community based services. The company is a six state provider of foster care and community based services in Illinois, Indiana, Tennessee, Nebraska, Ohio and Florida.
+	['']
+Medcast Networks
+	Provider of Internet-based medical news and information services. The company provides breaking medical news, education and other information electronically every morning to physicians throughout the United States.
+	['', 'medical news', ' ', 'medical education', ' ', 'electronic medical news', '']
+MessageClick
+	Provider of internet-based outsourced messaging services including fax, voice and unified messaging. The company offers its services directly to end-users and through service providers, which include cable operators, telephone companies, and major ISPs.
+	['telecommunications ', 'internet service provider', ' ', 'cable operators', '']
+OneSoft Corporation
+	Developer and provider of internet commerce application software and services that enable customers to build and extend their online businesses.
+	['', 'e-commerce solutions', ' ', 'e-commerce website', '']
+ChinaCache International Holdings
+	Provider of content delivery network and cloud computing services. The company offers storage and delivery of internet-based applications and interactive content to internet enterprises and multi-national corporations.
+	['', 'content delivery', ' ', 'interactive content', ' ', 'cloud storage', '']
+DRUMS
+	Provider of web-based intelligent selling systems. The company develops Internet based products that target specific sales processes.
+	['', 'web based system', ' ', 'intelligent selling system', ' ', 'internet product', '']
+Brassring
+	Provider of talent management services. The company provides software, services and outsourcing that helps organizations identify, assess, recruit and retain a globally competitive workforce.
+	['', 'talent management service', ' ', 'outsourcing service', ' ', 'recruitment consulting', '']
+AccuWater
+	Developer of resource conservation technologies specializing in internet based irrigation system. The company develops software and services for optimizing landscape irrigation using landscape modeling and weather forecast.
+	['', 'Conservation Technologies', ' ', 'Internet Based Irrigation', ' ', 'Water Conservation', ' ', 'Landscape Irrigation', ' Agriculture']
+9Cookies
+	Developer of an internet based system for restaurants and delivery services. The company provides a tablet based platform with tools for taking orders, accepting card payments, scheduling employees, printing receipts and creating custom notes for the kitchen.
+	['', 'restaurant service', ' ', 'delivery service', ' ', 'tablet based platform', '']
+BUYandHOLD Securities
+	Provider of an online investing service platform. The company provides an internet based investment brokerage service to retail customers.
+	['', 'internet brokerage', ' ', 'internet based brokerage', ' ', 'brokerage service', '']
+Paf New Business
+	Provider of internet gaming services. The company provides an online wagering platform for wagering via the internet, digital television and wireless media.
+	['', 'wagering platform', ' ', 'wireless gaming', ' lottery']
+CompareNet
+	Provider of an Internet-based comparative shopping service. The company provides comparisons for items such as automobiles, motorcycles, sporting goods and software. The company also offers reviews, staff product picks, discussion links and a classified section.
+	['', 'consumer awareness', ' ', 'price comparison', ' ', 'product review', '']
+NextGenTel
+	Provider of internet network access services. The company is a DSL provider offering DSL based services, access to contents via its broadband portal BroadPark, full Internet services (ISP), IP based services (VPN) and IP based telephony.
+	['', 'outsourced activities', ' ', 'IP based', ' ', 'broadband service', '']
+Right Vision
+	Provider of internet applications. The company, based in France, provides software based internet applications.
+	['', 'internet application', ' ', 'internet software', ' ', 'software application', '']
+Luminate Software
+	Provider of internet-based systems management platform. The company offers Mamba, a real-time monitoring and alerting software; and Luminate.Net, an automatic problem identification service delivered over the internet.
+	['', 'real time software', ' ', 'problem identification service', ' ', 'internet based management', '']
+Caw Networks
+	Developer of real-world capacity assessment products for websites and network devices. The company sells internet-based software which measures the capacity of web sites without having to put the sites under actual user loads.
+	['', 'capacity assessment product', ' ', 'internet software', ' ', 'stress testing appliance', '']
+Mekanist
+	Developer of a shopping software platform. The company has developed a software platform for consumers to buy goods and services on the internet.
+	['', 'shopping software', ' ', 'online shop', ' ', 'buy online', '']
+Career Rewards
+	Provider of internet based referral recruiting services. The company\'s referral recruiting product allows employers to reach new sources of candidates by combining the hiring technique of personal referrals with internet technology.
+	['', 'recruiting services', ' ', 'hiring technique', ' ', 'employment agency', '']

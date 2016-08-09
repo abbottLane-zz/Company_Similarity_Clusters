@@ -1,48 +1,15 @@
-Portes Patio Résiver
-	Manufacturer of polyvinyl chloride doors. The company produces polyvinyl chloride doors and windows in Canada.
-	['', 'polyvinyl chloride door', ' ', 'polyvinyl chloride window', ' ', 'sliding window', ' ', 'Home Furnishing', '']
-Heidi\'s Gourmet Desserts
-	Manufacturer and distributor of frozen desserts to retail and food service outlets. The company produces New York and California style cheesecakes, gourmet layer cakes, homestyle and specialty desserts.
-	['', 'frozen food', ' cheesecake ', 'layer cake', '']
-Santiago and Beverage Trade Lemos
-	Owner and operator of a beer club. The company also publishes a magazine covering articles on the brewery industry. This apart, the company also mails a kit containing a selection of four bottles of beer to its customers. The company also operates as a beer retailer through an online platform.
-	['', 'internet retail', ' ', 'clubs and resorts', ' ', 'beer retailer', '']
-Etablissements Leveau
-	Producer of alcoholic beverages. The company produces Abbey of Alder, a beer.
-	['', 'alcoholic beverage', ' beer ', 'alcohol drink', '']
-Pixel Qi
-	Developer and producer of laptop screens. The company offers epaper diagonal screens for netbooks and ebook readers.
-	['', 'laptop screen', ' ', 'epaper diagonal screen', ' ', 'computer part', '']
-Moa Group
-	Producer and distributor of beverages. The company produces beer, wines and cocktails, employing methode traditionnelle brewing techniques.
-	['', 'beer and wine', ' ', 'cocktail drink', ' ', 'boutique brewer', ' ', 'brewing technique', ' ', 'beer market', ' ', 'alcoholic beverage', '']
-Xcalia
-	Provider of intermediation software to create dynamic transactional composite applications. The company produces dynamic integration software that makes it easier for companies to build composite applications in service-oriented architectures, while reusing information resources and reducing operating costs.
-	['', 'intermediation software', ' ', 'dynamic transactional', ' ', 'composite applications', ' ', 'integration software', '']
-JetPrep
-	Manufacturer and developer of flushing device to assist clinicians in endoscopy procedures. The company produces flushing devices for washing mucosal tissue in the gastrointestinal tract.
-	['', 'flushing device', ' ', 'surgical device', ' endoscopy ', 'mucosal tissue', '']
-Marila Balírny
-	Producer of coffee and coffee products. The company owns a coffee roasting plant and production facility near Prague, Czech Republic. Along with its coffee and cappuccino, the company produces a wide assortment of sponge cakes, wafers and gingerbread.
-	['coffee cappuccino ', 'sponge cakes', ' wafers gingerbread']
-Northland Cranberries (Branded Juice Business)
-	Developer of branded cranberry beverages. The company is the owner of juice brands such as northland, treesweet and awake.
-	['fruit juice cranberry']
-Prolyte Group
-	Provider of aluminum supporting systems for the entertainment and exhibition industry. The company manufactures modular aluminium supporting systems (trussing) used for constructing stages and mounting light fixtures, scenery and speakers. The company also produces mobile stages and rigging material.
-	['trussing ', 'aluminium supporting', ' ', 'mobile stage', '']
-Revolve Technologies
-	Producer of of magnetic bearing systems for the industrial rotating equipment market. The company produces and supplies magnetic bearing systems, dry gas seal systems and rotating equipment services to manufacturers and users of all kinds of rotating equipment.
-	['', 'magnetic bearing', ' ', 'dry gas seal', ' ', 'rotating equipment', ' ', 'bearing system', ' ', 'machinery parts', ' ', 'machine tool', '']
-Adina For Life
-	Producer of beverages in the United States. The company’s products include juice coolers, coffee and tea drinks, ingredients, and drink recipes.
-	['', 'manufacturing company', ' ', 'juice cooler', ' ', 'tea and coffee', '']
-Windmill
-	Supplier of consumer flour, cornmeal, and baking mixes. The company also produces economy frozen pizza.
-	['', 'consumer flour', ' cornmeal ', 'baking mixes', ' ', 'frozen pizza', '']
-Remi Claeys Aluminium
-	Producer of semi-finished aluminum products. The company produces high-frequency welded tubes made of aluminum that are used for various purposes such as gardening tools, cycle frames, furniture, and telescopic handles. The company also produces precision welded tools which are used in radiators and air-conditioners.
-	['', 'aluminum products', ' ', 'aluminum frames', ' ', 'welded tools', ' ', 'aluminum tools', '']
-IZZE Beverage
-	Manufacturer and marketer of fruit juice beverages. The company also provides apparel, accessories and glassware to the consumers through its online store.
-	['', 'online store', ' ', 'soft drinks', ' ', 'fruit juice', '']
+Crux Biomedical
+	Developer of a preventive device for pulmonary embolisms. The company provide Crux VCF System, that stops the blood clots from reaching the lungs. It is useful for patients at risk of pulmonary embolism who can\'t tolerate blood thinners, method of preventing clots.
+	['', 'medical device', ' ', 'vascular device', ' ', 'inferior vena cava filter', ' ', 'pulmonary embolism', ' IVC']
+Accord Biosciences
+	Developer of practical sensor systems to measure nitric oxide and its carriers in blood for clinical and research applications. The company utilizes its proprietary membrane, sensing and stabilization technologies to release nitric oxide from blood’s natural reserve in plasma and reproducibly detect it with practical, cost-effective sensing systems. Nitric oxide serves critical bodily functions, including proper blood vessel function and protection against infections, thereby servings as a powerful platform molecule for Accord\'s diagnostic and research product pipelines.
+	['', 'sensor system', ' ', 'blood plasma', ' ', 'blood vessel', ' ', 'pulmonary arterial hypertension', ' ', 'nitric oxide', '']
+OmniSonics Medical Technologies
+	Developer of medical devices used in the treatment of vascular occlusive diseases. The company offers OmniWave Endovascular System, which is a catheter-based thrombectomy device that uses transverse ultrasound technology to remove thrombus and improve the dispersion of physician specified fluids in the peripheral vasculature.
+	['', 'vascular occlusive treatment', ' ', 'thrombectomy device', ' ', 'ultrasound technology', '']
+Vortex Medical
+	Vortex Medical Inc. is a medical device company focused on the design, development, and commercialization of novel endomechanical devices for the endovascular market. The company develops medical devices for the removal of thrombus or blood clots, from occluded blood vessels.
+	['', 'endomechanical device', ' ', 'medical device', ' ', 'endovascular market', ' ', 'blood clot removal', '']
+Lemaitre Vascular
+	Provider of innovative devices for the treatment of peripheral vascular disease. The company\'s products include EndoFit Thoracic Stent Graft used for the repair of thoracic aortic aneurysm and dissection, UniFit Abdominal Stent Graft for abdominal aortic aneurysm, VascuTape Radiopaque Tape for the improvement of endovascular procedures, and AnastoClip Vessel Closure System for the attachment of blood vessels, primarily for dialysis access. It\'s product portfolio also comprises of LeMaitre Balloon Catheters for the removal of blood clots, occlusion, and facilitation of blood flow, Reddick Cholangiogram Catheter for the introduction of dye into the cystic duct, and OptiLock Implantable Port, a central venous infusion of drugs and nutrients.
+	['']

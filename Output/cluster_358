@@ -1,18 +1,15 @@
-SCT Spinal Cord Therapeutics
-	Developer of therapy for acute and chronic spinal cord injuries. The company focuses on the treatment of nervous system injuries. The company provides therapy that allows the regeneration of injured nerves following their natural nerve tract, thus enabling the recovery of sensory and motor function.
-	['', 'chronic disease', ' ', 'spinal diseases', ' nerves ', 'sensory function', '']
-Adocia
-	Provider of insulin therapy and treatments for diabetic foot ulcers. The company is specialized in the development of medicines from already approved therapeutic proteins, and is actively engaged in formulation of a fast-acting human insulin and diabetic foot-ulcer healing product.
-	['', 'insulin therapy', ' diabetic']
-Rose Pharma
-	Developer of therapies for irritable bowel syndrome (IBS) and functional dyspepsia (FD). The company is focused on novel treatments for IBS and FD, with a platform technology that is based on a glucagon-like peptide (GLP-1).
-	['', 'irritable bowel syndrome', ' ', 'functional dyspepsia', ' ', 'peptide hormones', ' ', 'gastrointestinal diseases', '']
-Afferent Corporation
-	Developer of medical devices to treat chronic neurological dysfunction. The company\'s lead technology enhances the function of mechanoreceptor cells involved in sensory perception as a means of restoring brain function following stroke, improving elderly balance and addressing complications resulting from diabetic neuropathy.
-	['', 'neurological dysfunction', ' ', 'therapy devices', ' ', 'noninvasive devices', ' neuromodulation']
-Cebix
-	Developer of chronic replacement therapy. The company\'s chronic replacement therapy is based on human pro insulin C-peptide for the treatment of diabetic neuropathy and retinopathy.
-	['', 'replacement therapy', ' ', 'diabetic neuropathy', ' ', 'c-peptide', ' ', 'diabetes treatment', '']
-Medingo
-	Developer of miniature devices and technologies for people living with diabetes. The company offers Solo Insulin Patch Pump System, a miniature insulin dispensing patch that allows users to personalize and guide patch for insulin needs.
-	['', 'diabetes treatment', ' ', 'insulin need', ' ', 'insulin delivery', '']
+Resonex
+	Manufacturer of magnetic resonance imaging devices. The company manufactures and sells magnetic resonance imaging devices.
+	['', 'magnetic resonance', ' ', 'imaging devices', '']
+Check-Cap
+	Provider and developer of gastrointestinal imaging devices. The company provides a multi-disciplinary technology for the imaging and screening of the colon, as well as a screening system for colo-rectal cancer. The system includes a capsule, a receiver, proprietary imaging software and an associated database for web-based access and analysis.
+	['', 'cancer screening', ' ', 'imaging device', ' ', 'colon imaging', ' ', 'imaging software', '']
+Synchrony
+	Developer of magnetic bearings, controls, and power systems for rotating machinery. The company offers magnetic bearings, magnetic bearing system, and oil-less drive train products. It also provides health monitoring software, which includes real time data presentation, trending and predictive analyses, and alarm functionality.
+	['', 'rotating machinery developer', ' ', 'magnetic bearing system', ' ', 'heavy machinery provider', ' ', 'health monitoring software', '']
+Eagle Vision Pharmaceutical
+	Developer of cardiovascular imaging agent. The company develops a non-radioactive imaging agent that enhance the power of magnetic resonance imaging to revolutionize the diagnosis and management of heart disease, liver disease, and cancer.
+	['', 'Magnetic resonance imaging', ' ', 'cardiac function', ' ', 'cardiac perfusion', '']
+OrthoScan
+	Provider of orthopedic imaging devices. The company produces medical devices that are used in the imaging of extremities in orthopedic surgery and for digital diagnostic imaging in the office.
+	['', 'orthopedic imaging', ' ', 'orthopedic surgery', ' ', 'orthopedic device', '']

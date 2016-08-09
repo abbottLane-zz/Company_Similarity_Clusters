@@ -1,45 +1,15 @@
-Low Salinity
-	Operator of an aquaculture technology company. The company develops calcium-sensing receptor (CaSR) technology for breeding cobia in very low salinity.
-	['', 'aqua farm', ' ', 'cobia breeding', ' aquaculture']
-Lévêque Electricité
-	Provider of electric cables. The company develops and provides electric cable for supermarkets, hospitals, hotels, restaurants and manufacturing factories in France.
-	['', 'electric cable', ' ', 'electricity distributor', ' ', 'electric current', ' ', 'electric utility', '']
-Shaser Bioscience
-	Developer of aesthetic dermatological technology for home use devices. The company develops technology for the treatment of various skin ailments, acne and blemishes and spider veins.
-	['', 'dermatological technology', ' ', 'skin treatment', ' ', 'skin care', '']
-Hybrid Electric Vehicle Technologies
-	Developer of electric motors. The company\'s technology provides hybrid, plug-in hybrid and electric powertrains and powertrain components.
-	['', 'electric motor', ' ', 'electric bicycle', ' ', 'electric vehicle design', ' ', 'hybrid vehicle', '']
-Central Trust Bank (Conservation Licensing Division)
-	Provider of wildlife licensing technology. The company operates as a wildlife licensing contractor and service provider.
-	['', 'service provider', ' ', 'wildlife licensing', ' ', 'licensing contract', ' ', 'hunting licensing', '']
-Ugobe
-	Developer of robotic technology. The company develops technology that transforms inanimate objects into lifelike creatures.
-	['robotic technology ', 'organic movement', '']
-GOVECS
-	Manufacturer of electric vehicles for transportation. The company is dedicated to the development, production and marketing of electric vehicles including zero-emission scooter models.
-	['', 'electric vehicle', ' ', 'electric scooter', ' scooter ', 'zero-emission vehicle', '']
-Sceptre Science and Technologies
-	Developer of ion beam molecular self-assembly technology. The company\'s manufacturing process is capable of fabricating circuit lines with feature sizes of less than 10 nano meters.
-	['', 'ion beam', ' ', 'self-assembly', ' circuit']
-elmove
-	Developer of electric drive technology. The company develops technology for two and three wheel vehicles.
-	['', 'electric drive', ' ', 'electric movement', ' ', 'electric component', '']
-AlchiMedics
-	Developer of electro-grafting technology for implantable biomedical applications. The company develops technology that is used for the fast healing post drug eluting stent implantation.
-	['', 'electro grafting', ' ', 'implantable equipment', ' ', 'medical equipment', '']
-Incanta
-	Developer of broadband media software applications. The company develops technology and the network to deliver high bandwidth multi-media content to ADSL and cable modem subscribers.
-	['', 'broadband media', ' ', 'cable modem', ' bandwidth']
-Pancel
-	Operator of early stage cellular therapy company. The company develops technology to genetically engineer pancreatic cell lines for the eventual cure of diabetes.
-	['', 'cellular therapy', ' pancreatic diabetes']
-Vectrix Corporation
-	Developer and seller of two-wheeled electric vehicles (EVs). The company designs and sells zero-emission scooters with applications for riders in urban, campus and neighborhood environments. The company sells its products in the European and U.S. markets.
-	['', ' electric vehicles', ' scooter EV']
-Fidelica Microsystems
-	Developer of fingerprint imaging and authentication technology. The company develops biometric technology for electronic security, access and transaction control.
-	['', 'fingerprint image', ' ', 'biometrics technology', ' ', 'electronic security', ' ', 'smart card', ' ', 'fingerprint sensor', '']
-Morta Security
-	Provider of a cybersecurity platform. The company develops technology to counter advanced cybersecurity threats to large enterprises.
-	['', 'cyber security platform', ' ', 'cyber security', ' ', 'cyber threat', ' ', 'cyber defense', '']
+Sinclair Meadows
+	Provider of residential houses and apartments. The company has seventeen home-sites along with restaurants and shopping facilities.
+	['', 'residential service', ' ', 'housing development', ' ', 'shopping facility', '']
+Soitec Solar
+	Provider of concentrated photovoltaic solar systems. The company operates an industrial production line with an annual production capacity of 25 megawatts located in Freiburg, Germany.
+	['', 'solar cell', ' ', 'solar technology', ' ', 'solar system', '']
+Engensa
+	Provider of residential solar systems in the U.K. The company works with homeowners to design, finance, install and maintain solar-energy systems to match a range of budgets.
+	['', 'solar panel system', ' ', 'alternative energy', ' ', 'residential solar system', '']
+Mercury Solar Systems
+	Provider of commercial and residential solar-energy systems. The company is a designer and installer of solar-energy systems in the Eastern U.S. Its services include turnkey engineering, procurement and construction.
+	['', 'solar energy system', ' ', 'solar system installation', ' ', 'solar system design', '']
+PURE Energies
+	Provider of rooftop solar energy systems. The company advises homeowners on residential solar systems and home conservation products to help them save money.
+	['', 'power grid', ' ', 'energy generation', ' ', 'rooftop solar energy', ' ', 'web-based customer acquisition', '']

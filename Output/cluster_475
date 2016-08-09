@@ -1,9 +1,15 @@
-Si-Nor
-	Operator of trash removal and recycling. The company engages in refuse collection, trash removal and disposal.
-	['trash disposal ', 'refuse collection', ' collection']
-Bego (Mechanical Engineering)
-	Operator of a mechanical engineering company. The company is engaged in industrial mechanics and metalworking.
-	['metalworking ', 'industrial mechanics', ' ', 'mechanical engineering', '']
-Ederena Concept
-	Provider of electronic designs. The company engages in the field of industrial mechanics.
-	['', 'electronic designs', ' ', 'mechanical designs', ' ', 'consulting solution', ' ', 'construction and engineering', '']
+LZ Therapeutics
+	Developer of therapeutics for patients at different stages of Parkinson’s disease. The company provides neuroprotective/neurorestoritive therapies for early-stage Parkinson’s disease (PD), a combination therapy with levodopa-enhancing and anti-dyskinesia effects designed for mid-stage PD patients and gene therapies for advanced PD patients.
+	['', 'parkinson therapeutic', ' ', 'neurorestoritive therapy', ' ', 'anti dyskinesia effect', ' ', 'gene therapy', '']
+Cytochroma
+	Developer of products to treat and prevent the clinical consequences of vitamin D insufficiency and Secondary Hyperparathyroidism (SHPT) associated with (Chronic Kidney Disease) CKD. The company develops vitamin D therapies which are designed to safely and effectively treat patients with stage 3, 4 or 5 Chronic Kidney Disease.
+	['', 'vitamin D insufficiency', ' ', 'kidney disease', ' ', 'vitamin D therapy', ' ', 'elevated serum phosphorus', '']
+Ilypsa
+	Developer of renal care pharmaceutical products. The company develops non-absorbed polymeric phosphate and potassium binder compounds to treat chronic kidney diseases.
+	['', 'renal care', ' ', 'kidney disease treatment', ' ', 'healthcare industry', '']
+Creatogen
+	Developer of technology for genome wide functional genomics. The company develops bacterial carriers for oral delivery to treat and to prevent acute and chronic diseases caused by an imbalance of the immune system. The company also develops a bird flu vaccine for poultry.
+	['genomics ', 'bacterial carriers', ' ', 'oral delivery', ' ', 'chronic diseases', ' ', 'immune system', ' ', 'bird flu vaccine', '']
+Vitaflo
+	Provider of clinical nutritional products. The company develops specialized clinical nutrition products for metabolic disorders, nutrition support and specific health conditions such as kidney disease. The company sells its products online as well as through mail order.
+	['', 'clinical nutritional product', ' ', 'nutritional product', ' ', 'metabolic disorder', '']

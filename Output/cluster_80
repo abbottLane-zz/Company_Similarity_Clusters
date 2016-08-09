@@ -1,18 +1,18 @@
-Covagen
-	Operator of a biopharmaceutical company focused on therapies for inflammatory diseases and cancer. The company provides a proprietary platform that genetically fuses Fynomer binding proteins to antibodies, resulting in therapeutics with novel modes of action. The company’s first clinical drug candidate is designed for treatment of rheumatoid arthritis, psoriatic arthritis and other inflammatory diseases.
-	['', 'inflammation binder', ' ', 'protein therapy', ' ', 'clinical drug', '']
-Link Medicine
-	Operator of a privately held biotechnology company advancing novel approaches for the treatment of neurodegenerative diseases. The company is developing treatments for multiple diseases, including Alzheimer’s, Parkinson’s, Huntington’s, and Amyotrophic Lateral Sclerosis (ALS). It targets a common feature of the disorders - the buildup in nerve cells of incorrectly folded, aggregated and ultimately neurotoxic proteins.
-	['', 'neurodegenerative disease', ' Alzheimer’s Parkinson’s, Huntington’s ', 'Amyotrophic Lateral Sclerosis', ' ALS']
-Radiant Medical
-	Developer of endovascular temperature therapy products. The company offers its products to advance the treatment of patients with acute ischemic or inflammatory medical conditions, such as heart attack, radiocontrast nephropathy, stroke, and cardiac arrest.
-	['', 'endovascular temperature therapy', ' ', 'medical care product', ' ', 'acute ischemic treatment', '']
-Intracellular Therapies
-	Developer of drugs for the treatment of diseases and disorders of the Central Nervous System (CNS). The company develops compounds to treat neuropsychiatric and neurological diseases. It also develops a state of the art technology platform for generating a unique molecular signature for drug compounds.
-	['', 'neuropsychiatric disease treatment', ' ', 'neurological disease treatment', ' ', 'drug compound', ' ', 'drug development', '']
-StormBio
-	Developer of therapy for influenza and other inflammatory diseases. The company is developing a new class of therapeutics designed to target only an over-reaction of the inflammatory process, without shutting down the body\'s immune response.
-	['', 'influenza', ' ', 'inflammation treatment', ' ', 'pandemic', ' ', 'biopharm', '']
-Centaur Pharmaceuticals
-	Developer of novel class of small molecule pharmaceutical compounds for the treatment of neurodegenerative and inflammatory diseases. The company develops such compounds to treat inflammatory diseases such as acute stroke, dementia, rheumatoid arthritis, myocardial ischemia and Parkinson’s disease.
-	['', 'molecule pharmaceutical compound', ' ', 'pharmaceutical products', '']
+Pomarfin
+	Operator of a Finnish family business that manufactures shoes.
+	['shoe ', 'multilayer sole', ' ', 'microporous membrane ', '']
+Premier VCT (Dartford)
+	Owner and operator of a hotel. The company owns 12 bedrooms hotel in Dartford.
+	['', 'travel & leisure', ' ', '12 bedrooms', ' ', 'Holiday Inn', '']
+Douro Azul
+	Owner and operator of river cruise ships on the Douro River in Portugal. The company provides gym, spa, and other amenities, along with lodging, on their vessels. The company has plans to open a hotel as well.
+	['cruise ', 'Cruise ship', ' ', 'cruise vessel', ' ', 'river cruise', ' ', 'luxury cruise', '']
+Megabowl Group
+	Owner and operator of ten pin bowling alleys. The company operates bowling-based family entertainment centers.
+	['', 'bowling center', ' ', 'consumer service', ' ', 'ten pin', '']
+Lumics
+	Manufacturer of semiconductor diode laser for medical and industrial applications. The company manufactures semiconductors and diode lasers from 750 nm to 1960 nm in industry standard packages such as 14-pin butterfly, 8-pin miniDIL and 2-pin TO220 as well as a series of compact fiber coupled laser modules with output powers up to 900 W.
+	['', 'diode laser', ' ', 'laser module', ' ', 'fiber coupled diode', ' ', 'industrial application', ' ', 'chip technology', '']
+WebMediaGroup
+	Owner and operator of social commerce websites in France. The company operates multiple websites geared toward women consumers, with content ranging from home appliances, gardening and decor to an online marketplace for handcrafted objects and a female-focused classified platform.
+	['', 'specialist furniture', ' ', 'homemade products', ' ', 'household goods', '']

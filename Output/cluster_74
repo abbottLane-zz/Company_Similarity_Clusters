@@ -1,54 +1,69 @@
-Frontlineshop
-	Provider of an online retail store for streetwear. The company offers clothing, shoes and accessories on the internet through its online store. It also offers merchandise of different brands.
-	['', 'street wear', ' ', 'brand bandwidth', ' ', 'online retail store', '']
-Shanghai 9Diamond Jewelry
-	Provider of online diamond retail store. The company offers a sale platform of diamond products including jeweleries in and across Shanghai.
-	['', 'sale platform', ' ', 'diamond jewelry', ' diamonds']
-Twice
-	Provider of online marketplace for secondhand clothing. The company provides an e-commerce site browsable by category, with items that are evaluated by professional buyers and professionally photographed.
-	['', 'clothing marketplace', ' ', 'used clothing', ' ', 'concierge style', ' secondhand']
-BeautyCom
-	Provider of a platform which offers its customers beauty products & helps them to discover the products of different brands before buying. The company offers its subscribers a beauty magazine, JolieMag and are invited to the parties, JoliApéros.
-	['', 'beauty product', ' ', 'online product shopping', ' ', 'beauty magazine', '']
-Moki.TV
-	Operator of an online video directory. The company provides an e-commerce platform for the television and film industries.
-	['', 'TV guide', ' movies ', 'video directory', '']
-One Jackson
-	Developer of e-commerce platform for kids clothing. The company provides an online platform that offers designer clothes for kids and promotes independent designers of children’s clothes.
-	['', 'e-commerce platform', ' ', 'ecommerce platform', ' ', 'kid clothing', ' ', 'designer clothing', ' ', 'designer clothes', ' ', 'kids clothing', ' ', "children\\'s clothing", '']
-Kirondo
-	Provider of a second hand kid\'s clothing portal. The company offers an online platform for users to sell secondhand kid\'s clothing.
-	['', "kid\\'s clothing", ' ', 'second hand apparel', ' ', 'clothes sale portal', '  ', 'secondhand sale', ' garments']
-Private Outlet
-	Operator of an online store. The company focuses on private sales of fashion items including clothing and accessories. The company offers fashion, athletics, beauty, interior decoration as well as small appliances to customers.
-	['', 'online store', ' ', 'small appliances', '']
-Polska Grupa Odzieżowa
-	Operator in the clothing trade industry. The company focuses on connecting to and taking over companies in financial difficulty operating in the clothing trade.
-	['', 'clothing trade', ' ', 'apparel company financing', ' ', 'investment opportunity', '']
-Mothernature.com
-	Operator of an online store for earth-friendly products which includes minerals, vitamins and natural healthy products. The company also provides a wide range of free health information online, with contributions from a panel of medical experts.
-	['', 'food products', ' ', 'healthy food', ' ', 'natural products', '']
-Chlorophylle
-	Operator of an online clothing store. The company provides an e-commerce platform which offers clothing products and accessories for users.
-	['', 'recycled materials', ' ', 'organic cotton', ' ', 'clothing industry', '']
-Bizpora
-	Operator of an online platform for travelers. The company provides an e-commerce platform for travelers to interact with each other about upcoming trips.
-	['', 'online traveling platform', ' ', 'business networking', ' ', 'travel network', '']
-AllAboardToys.com
-	Operator of an online specialty toy store. The company provides family-friendly and educational toys. They also offer wooden toy trains, clothing, bedding products, toys, puzzles, books, birthday party, school supplies, costumes, decorative items and DVD\'s for children.
-	['toys ', 'online toy shop', ' ', 'educational toys', '']
-ActivityStream.io
-	Operator of an online store. The company provides an online platform which connects e-commerce retailers with customers.
-	['', 'customer activity', ' ', 'purchase decisions', ' ', 'customer satisfaction', '']
-Smithfield Case
-	Provider of online clothing service for men. The company creates an online platform which allows the customer to create a profile that includes style, brand, preferences, sizes and then personal stylist develops a set of looks and sizes.
-	['', 'online clothing', ' ', 'online platform', ' style']
-Heverest.ru
-	Operator of an online shopping portal. The company provides clothing, footwear, bags and backpacks, sports and outdoor tourism equipment and accessories.
-	['', 'sporting goods', ' ', 'consumer durables', ' ', 'shopping portal', '']
-Q Gardens
-	Operator of a retail gardening and farm-supply store. The company operates a seven-acre property from which it retails a range of gardening supplies and farming products, as well as produce, a cafe and cultivated gardens.
-	['', 'garden store', ' ', 'farm supply', ' ', 'gardening products', ' ', 'gardening tools', ' ', 'gardening implements', '']
-Seek & Adore
-	Operator of an online boutique for artists and designers. The company provides an e-commerce platform for designers and customers who are looking to discover and buy things such as homewares, jewellery, fashion accessories and gifts.
-	['', 'fashion accessories', ' ', 'handmade gifts', ' homewares']
+SilverSky
+	Provider of on demand security services for computer networks in the United States. The company\'s on demand security services include vulnerability defense, intrusion defense, managed firewall, network defense, virus protection, email defense, system defense, high speed internet access, user defense, secure hosted email, email archiving and desktop management.
+	['', 'antivirus software', ' ', 'network security', ' ', 'email security', '']
+Symbiot
+	Provider of risk metrics products for measurement and management of network security events. The company offers predictive tools for managing and analyzing streams of security event data. The company’s products include Symbiot 5600, a detection and mitigation solution to deliver community centric security to organizations; Symbiot.NET, a central repository of attacker profiles based on the cooperative surveillance and reconnaissance gathered by network participants; and Symbiot Orb, which provides interface solutions for users enabling them to avoid logging in or paged to monitor their network security.
+	['', 'network security', ' ', 'risk measurement', ' ', 'risk metric product', '']
+Syphan Technologies
+	Developer of network security software and technology. The company provides a security platform and equipment for enterprises, original equipment manufacturers and service providers. It also manufacture products that protect multi-staged attacks as well as protect servers against network attack.
+	['broadband ', 'security appliance', ' ', 'network attack', '']
+International Network Services
+	Provider of network consulting and security services. The company provides services for the full life cycle of a network, including planning, design, implementation, operations and optimization.
+	['', 'network consulting', ' ', 'security services', ' optimization']
+Syntensia
+	Provider of network security services. The company provides security on-demand solutions on subscription basis.
+	['', 'network security', ' ', 'security services', ' ', 'subscription basis', '']
+Insightix
+	Provider of security intelligence and control solutions. The company offers Business Security Assurance Suite, which is designed to detect, identify, profile, audit, and control various devices connected to client’s network; Business Security Assurance Visibility, which delivers the information necessary to properly manage and secure the enterprise network and the business of information technology; Business Security Assurance Security Configuration Management, which provides an automated way to audit the security configuration of client devices by measuring their level of compliance with internal and external policies; Business Security Assurance Security Network Access Control, which provides way to control access to the enterprise network; and Business Security Assurance Guest Network Access, which provides a way to offer guest network access while maintaining the security of client’s internal network
+	['', 'security intelligence solution', ' ', 'control solution', ' ', 'Security Configuration Management', '']
+SecuroNet
+	Provider of software and networking services. The company enables public and private subscribers to join forces with each other via a suite of collaboration tools and share content from a city-wide network of security cameras to improve emergency response effectiveness via emergency video notification.
+	['', 'software services', ' ', 'networking services', ' ', 'video networking', '']
+Arkoon Network Security
+	Provider of Internet security services. The company\'s software products enables network security, computer system protection and data confidentiality.
+	['', 'internet security', ' ', 'integrated software', ' ', 'network security', ' ', 'computer system protection', ' ', 'data confidentiality', ' ', 'firewall', '']
+Secusmart
+	Provider of mobile phone security services. The company has developed a product which enables users to receive encrypted calls and to store secret documents with a single mobile device.
+	['', 'phone security', ' ', 'security service', ' ', 'mobile device', '']
+Anchulsu laboratory
+	Provider of security services. The company provides security product, security consulting, security control and security ASP for various computer crime prevention and guidance activity.
+	['', 'security services', ' ', 'security consulting', ' ', 'computer crime prevention', '']
+Sereniti
+	Provider of home computer network security, technical support and management services. The company\'s products provides router security, wireless management services, folder sharing, printer sharing, share protection safeguards and security identification. The company aims to improve and enhance the flow of data for broadband service providers such as cable operators.
+	['', 'network security', ' ', 'wireless management', ' ', 'folder sharing', ' ', 'security identification', '']
+LocoMobi
+	Provider of software and hardware for security services. The company provides software and hardware for the parking, security and the transportation markets.
+	['', 'security service', ' ', 'transportation market', ' ', 'security software', '']
+EdenWall Technologies
+	Developer of IPS firewall and VPN security services. The company also offers training seminars and maintenance services, professional services, such as account management, security project design and implementation.
+	['', 'IPS firewall', ' ', 'security services', ' ', 'account management', '']
+Cyrye
+	Provider of commercial solutions. The company provides Drupal migration services, Growing Venture Solutions (GVS), and Drupal security services.
+	['', 'commercial solution', ' ', 'Drupal migration service', ' ', 'Growing Venture Solution', '']
+Security-7
+	Developer of network security services. The company provides security products for the corporate market against threats coming into the network through downloaded internet content.
+	['', 'internet content', ' ', 'network security', ' ', 'security service', '']
+Packet Analytics
+	Provider of network security tools. The company specializes in tool development for IT security assessments and incident response applications. It offers Network Forensics Search Engine (Net/FSE), a Linux-based software that provides a web interface for network managers to see an analytical profile of host-to-host activity based on NetFlow router data and other log information related to an organization\'s security systems.
+	['', 'security system', ' ', 'network security', ' ', 'network manager', ' ', 'router data', '']
+eTunnels
+	Provider of virtual private network and security services. The company offers connection to network servers securely using VPN technology.
+	['', 'telecommunication service providers', ' ', 'virtual private network', '']
+Fortinet
+	Provider of network security appliances and unified threat management (UTM) network security solutions. The company\'s primary UTM solution consists of FortiGate appliance products that provide a range of security and networking functions, including firewall, VPN, antivirus, intrusion prevention, application control, Web filtering, antispam, wireless controller, and WAN acceleration. It also offers a family of FortiManager appliances that enable end-customers to manage the system configuration and security functions of multiple FortiGate appliances from a centralized console; and FortiAnalyzer appliances, which enable collection, analysis, and archiving of content and log data generated by its products. In addition, it provides FortiMail, a family of messaging security appliances; FortiDB, a family of appliances that provide centrally managed database-specific security; FortiClient, a software product that provides endpoint security for desktops, laptops, and mobile devices; and FortiWeb, a family of appliances that provide security for Web-based applications.
+	['', 'network security appliance', ' ', 'unified threat management', ' ', 'wireless access point', '']
+Latis Networks (Managed Security Services Division)
+	Provider of network security services. The company handles the operation of data security for companies that don\'t have the bandwidth.
+	['', 'network security', ' bandwidth operation']
+Protego Networks
+	Provider of purpose-built intelligent network security information and threat management appliances. The company provides security threat mitigation solutions that allow organizations to quickly identify, analyze and respond to security threats targeted at mission critical networks and applications.
+	['', 'Mitigation and Response System', ' ', 'network security', ' firewall']
+Latis Networks
+	Designer and developer of security software and certified compliance services for external and internal network security threats. The company offers automated, military-grade network access control to its customers. The company also offers a suite of security testing, monitoring and management products such as Border Guard Standard, Border Guard Gateway, Border Guard Wireless, Server VAM and Remote VAM.
+	['', 'security software', ' ', 'network access control', ' ', 'Border Guard Standard', '']
+Seclarity
+	Developer of network security services to users, applications and operating systems. The company offers Sinic, a security card that enforces various security policies, such as encryption, authentication and firewalling, as well as turns broadcast network into a private network by offering protection.
+	['', 'network security service', ' ', 'operating system', ' ', 'broadcast network', '']
+Beijing Venustech
+	Provider of network security products. The company engages in providing security management platforms and security services in China.
+	['', 'network security products', ' ', 'security services', ' ', 'security auditing', '']

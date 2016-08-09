@@ -1,45 +1,27 @@
-Pharmacopeia
-	Developer of novel small molecule therapeutics to address significant medical needs. The company has a portfolio of clinical and preclinical candidates under development internally or with partners including nine clinical compounds in Phase 2 or Phase 1 development addressing hypertension, diabetic nephropathy, muscle wasting, inflammation and respiratory disease.
-	['', 'small molecule', ' hypertension ', 'diabetic nephropathy', '']
-Argintex
-	Developer of therapeutics like small molecule inhibitors of arginase.The company’s arginase also leads to the production of ornithine which increases polyamine, stimulating cell division, and contributing to hyperplasia and fibrosis.
-	['', 'molecule inhibitor', ' ', 'pulmonary treatment', ' ', 'vascular disorder', ' ', 'arginase enzyme', '']
-Intellikine
-	Developer of small molecule drugs that target signal transduction networks for the treatment of cancer, inflammation, and autoimmune disorders. The company\'s products include INK128, an orally-available TORC1/2 inhibitor for the treatment of solid tumor malignancies; INK1197, a small molecule dual PI3K selective inhibitor for patients with immune-mediated inflammatory diseases, such as rheumatoid arthritis and asthma; and PI3K selective inhibitors for the treatment of hematologic malignancies and solid tumors.
-	['', 'small molecule drug', ' ', 'cancer drug', ' ', 'drug for autoimmune disorder', ' ', 'treatment of solid tumor malignancie', '']
-Diaxonhit
-	Developer of RNA-based diagnostic tests. The company is engaged in developing RNA-based diagnostic tests and small molecule therapeutics for the treatment of Alzheimer\'s disease (AD) and cancer. Its Genome Wide SpliceArray (GWSA) platform is a patented microarray design that incorporates a specific probe configuration, enabling monitoring of RNA splice variants in humans, mice and rats.
-	['', 'diagnostic test', ' ', 'small molecule', ' ', 'RNA splice', '']
-Xanthus Pharmaceuticals
-	Developer of small-molecule therapeutics for the treatment of cancer and autoimmune disorders.
-	['', 'cancer treatment', ' ', 'small-molecule therapeutic', ' ', 'autoimmune disorder', '']
-Vioquest Pharmaceuticals
-	Provider of therapeutic services for oncology. The company develops and commercializes late preclinical and early clinical stage therapies for oncology, viral and autoimmune disorders.
-	['', 'oncology treatment', ' ', 'cancer therapy', ' ', 'cancer relief', '']
-HemaQuest Pharmaceuticals
-	Developer of small molecule therapeutics. The company develops small molecule therapeutics based on its short chain fatty acid derivative (SCFAD) technologies to treat anemia and other blood disorders.
-	['', 'blood disorder treatment', ' ', 'anemia treatment', ' ', 'small molecule therapeutic', '']
-Galileo Pharmaceuticals
-	Developer of small molecule therapeutics. The company specializes in the discovery of compounds that moderate the effects of oxidative stress and energetic perturbations on living biological systems.
-	['', 'small molecule therapeutics', ' ', 'metabolic diseases', ' oxidative ', 'metabolic stress', '']
-Ardea Biosciences
-	Developer of small-molecule therapeutics. The company provides therapeutics for the treatment of gout, cancer and human immunodeficiency virus (HIV)..
-	['', 'small molecule therapeutic', ' ', 'disease treatment', ' ', 'gout treatment', ' ', 'cancer drug', ' ', 'cancer treatment', ' ', 'HIV drug', ' ', 'HIV treatment', '']
-Signase
-	Developer of small molecule inhibitors of a critical cell pathway for the treatment of a variety of solid tumors.
-	['', 'molecule inhibitor', ' ', 'solid tumor treatment', ' ', 'critical cell pathway', '']
-Endocyte
-	Developer of receptor-targeted therapeutics for the treatment of cancer and autoimmune diseases. The company provides EC17, a folate-targeted hapten therapy drug to treat metastatic renal and ovarian cancer; EC145, a folate-targeted chemotherapeutic conjugate to treat various tumors, including cancers of the breast, lung, and blood; EC0225, a targeted chemotherapy drug.
-	['', 'cancer treatment', ' ', 'autoimmune disease', ' ', 'ovarian cancer', ' ', 'breast cancer', '']
-Conatus Pharmaceuticals
-	Provider of human therapeutics to treat liver diseases. The company offers CTS-1027, an oral, small molecule and matrix metalloproteinase inhibitor for the treatment of liver disease.
-	['', 'human therapeutic', ' ', 'liver disease', ' ', 'drug discoverer', '']
-Avidex
-	Operator of a biotechnology company focused on the development of therapeutics for cancer and autoimmune diseases. The company develops small molecule modulators of T cell function and protein therapeutics based on T cell receptors. The technology enables the company to develop treatments for cancer, inflammation, autoimmune diseases and allergies.
-	['', 'T cell', ' mTCR ', 'autoimmune disease', ' ', 'cancer therapy', '']
-Artesian Therapeutics
-	Developer of small molecule therapeutics for the treatment of cardiovascular diseases. The company provides small molecule drugs for congestive heart failure.
-	['', 'cardiovascular disease treatment', ' ', 'small molecule therapeutic', ' ', 'congestive heart failure', '']
-Adamas Pharmaceuticals
-	Developer of small molecule advantaged therapeutics to treat neurological and infectious diseases. The company also develops novel extended release and combination products for symptomatic treatment of dementia.
-	['', 'small molecule', ' ', 'advantaged therapeutic', ' ', 'neurological disease', ' ', 'symptomatic treatment', ' dementia']
+BeautyCom
+	Provider of a platform which offers its customers beauty products & helps them to discover the products of different brands before buying. The company offers its subscribers a beauty magazine, JolieMag and are invited to the parties, JoliApéros.
+	['', 'beauty product', ' ', 'online product shopping', ' ', 'beauty magazine', '']
+Dianping.com
+	Provider of an online local platform for business search, user generated reviews, detailed business information, featured discounts, group buying and other merchant services. The company operates a website that covers a full spectrum of local business content and reviews from restaurants, boutiques, entertainment, leisure and lifestyle services. The company also provides a one-stop targeted marketing solution for small and medium-sized businesses using electronic coupons, online advertising and group buying.
+	['', 'one stop marketing', ' ', 'internet portal', '']
+Dealised
+	Operator of an online group-buying platform. The company offers a group-buying technology for media and telecommunication firms, publishers and retailers.
+	['', 'group buying', ' ', 'daily deals', ' ', 'payment gateway', '']
+ecMarkets
+	Provider of online purchasing provisions, strategic sourcing and supplier relationship management (SRM) tools to the industrial, food service and food distribution sectors. The company offers group buying programs, as well as procurement software for dairy, grocery, consumer product and convenience store industries.
+	['', 'online purchasing solutions', ' ', 'food service', ' ', 'procurement software', ' ', 'store industries', '']
+AdzCentral
+	Developer of a scientific media buying platform. The company offers automated digital ad buying, campaign measurement, analytics, and visitor profiling.
+	['', 'media buying', ' ', 'ad-matching', ' ', 'programmatic buying', ' ', 'smart media buying', '  ', 'campaign measurement', '']
+Taggle Internet Ventures
+	Operator of online group buying platform. The company enables consumers to buy products and services from businesses ranging from food and beverage, wellness, beauty and sports products to travel and entertainment services. The company also allows merchants to sell products in bulk volume.
+	['', 'buying platform', ' ', 'entertainment service', ' ', 'online retail', '']
+Voxli
+	Developer of a browser-based group voice chat platform. The company allows gamers and team members to visit a web link to join a group chat session.
+	['', 'voice chat', ' ', 'group voice chat', ' ', 'group chat', '']
+Offerum
+	Operator of a collective buying group that features events and local leisure activities with significant discounts. The company offers attractive deals on recreational activities to its users.
+	['', 'internet retail', ' ', 'collective buying power', ' ', 'affordable discount', ' ', 'purchasing power', '']
+VoteIt
+	Provider of online group decisions. The company provides real-time consensus-generator that uses community interaction and polling methodologies to move groups quickly and right into action.
+	['', 'online group decision', ' ', 'polling methodology', ' ', 'information service', ' ', 'community interaction', '']

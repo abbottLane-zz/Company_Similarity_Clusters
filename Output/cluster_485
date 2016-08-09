@@ -1,27 +1,12 @@
-A-Tech Solution
-	Manufacturer of injection mold and stamping die products for the exterior and interior of automobiles and consumer electric parts. The company\'s products include precision press die, large size press die, precision gear mold, automobile components, OA components and lead frame components.
-	['', 'injection mold', ' ', 'precision gear mold', ' ', 'stamping die products', ' ', 'automobile components', '']
-Novarc
-	Creator of novel manufacturing process for car components. The company is the creator of sprayforming, a method of creating dies and tools for the production of car parts as well as other objects. The company has licensed key intellectual properties related to the process and is focused on developing manufacturing facilities in the U.S. and U.K.
-	['', 'spray forming', ' ', 'machine tools', ' prototype']
-Industrial Tooling & Fabrication
-	Supplier of heavy-gauge steel components and assemblies. The company offers tool and die and machining services. Its products are used in the construction and agriculture industries.
-	['steel ', 'heavy-gauge', ' ', 'machining service', ' ', 'industrial machinery', ' metalwork']
-CFN Precision
-	Developer of small to medium-sized precision metal, plastic and composite parts. The company develops metal, plastic and composite parts to the Aerospace, Military, Medical, Electronic and Industrial manufacturing sectors.
-	['', 'precision machined component', ' ', 'precision metal part', ' ', 'plastic component', ' ', 'composite part', '']
-Bicicletas Monark
-	Manufacturer of bicycles for the domestic market. The company manufactures parts for motorcycles and bicycles.
-	['', 'bicycle manufacture', ' ', 'motorcycle part', ' ', 'domestic market', '']
-Tsang Yow Industrial Co.
-	Manufacturer and exporter of powertrain components. The company manufactures and exports a range of metal-based components and assemblies for power train system. It provides automatic transmission hard parts, manual transmission parts, off highway machinery parts and torque converter parts.
-	['', 'train system', ' powertrain ', 'metal-based', '']
-Sigolis
-	Developer of microsystem technology. The company develops components in polymer by first producing the parts in original through different methods for sculpting silicon and glass wafers.
-	['', 'microsystem technology', ' microfabrication ', 'medical device', '']
-Verical
-	Provider of services to high- tech manufacturing industry as well as online factory outlet for electronic components. The company provides online service to buyers in order to make a fast and better decisions to find and purchase parts needed to fill their requirements.
-	['B2B ', 'supply chain procurement', ' ', 'online electronic components', '']
-KonTEM
-	Developer of a phase contrast system for electron transmission. The company develops an phase contrast system for transmission of electron microscopes.
-	['', 'phase contrast', ' ', 'system transmission', ' ', 'transmission electron microscopy', ' ', 'ultra-thin', '  sensor']
+SemEquip
+	Developer of cluster ion implantation sub-systems and ion source materials for the manufacturing of logic and memory chips. The company manufactures and develops technical ceramic products, ceramic powders and components for defense, industrial, automotive and commercial applications.
+	['', 'memory chips', ' ', 'ceramic products', ' ', 'industrial application', '']
+Spintech
+	Developer of composite parts with complex shapes and trapped features that easily integrate into current manufacturing processes. The company develops technologies and tooling services for composite manufacturing and structural repairs in defense and consumer market.
+	['', 'composite part development', " \\'composite manufacturing", ' ', 'industrial supply', ' defense']
+Heliotrope Technologies
+	Developer of materials and manufacturing processes for electrochromic devices. The company has a primary emphasis on manufacturing energy-saving windows.
+	['', 'commercial services', '']
+Voltaix
+	Provider of materials for semiconductor chips and solar cells. The company provides electronic chemicals and gases used in semiconductor manufacturing processes. It also provides supply of deposition precursors for production of photovoltaic cells.
+	['', 'electronic chemical', ' ', 'deposition precursor', ' ', 'photovoltaic cell', ' ', 'semiconductor', '']

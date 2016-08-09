@@ -1,27 +1,27 @@
-Sinclair Meadows
-	Provider of residential houses and apartments. The company has seventeen home-sites along with restaurants and shopping facilities.
-	['', 'residential service', ' ', 'housing development', ' ', 'shopping facility', '']
-Atomic Dog Publishing
-	Publisher of hybrid media textbooks for college courses. The company focuses on social sciences and business text books publishing. It publishes college textbooks in various areas, including management, psychology, marketing, research methods and political science.
-	['', 'hybrid media', ' ', 'online publisher', ' ', 'college course', ' ', 'business text book', ' ', 'text publishing', '']
-Guia de Apartamentos Niumba
-	Provider of an online directory of holiday apartments and houses for rent in Spain. The company\'s online platform allows proprietors to advertise their apartments or rural houses for the travelers to rent them.
-	['', 'online directory', ' ', 'holiday apartment', ' ', 'vacation rental website', '']
-JS Campus Connect
-	Provider of a web based platform for college students. The company enables students to buy, sell and trade new and used textbooks and use online advertising for campus club events. It also enables student members to post their resume and search for jobs through open employment opportunities.
-	['', 'online advertising', ' ', 'web based platform', ' ', 'building communities', '']
-Seelio
-	Provider of an online platform for college students to showcase their work and experience to employment recruiters. The company enables college students to showcase their work via online portfolios.
-	['', 'student job search', ' ', 'employment search', ' ', 'online recruitment', '']
-OneSchool
-	Provider of a mobile platform that acts as an online guide to U.S. college campuses. The company provides a free mobile app for college students, designed to aggregate information about their campus, courses, directories and related news stories. The application also contains tools for social networking.
-	['', 'digital mapping', ' ', 'mapping technology', ' ', 'mobile apps', '']
-OnMyBlock
-	Developer of a web and mobile platform that helps college students find and rent off-campus houses, apartments and sublets. The company offers a website and an iPhone application that helps college students find the best place to live with the help of social information from friends and classmates.
-	['sublets ', 'off-campus house', ' ', 'off-campus apartments', ' apartments ', 'student housing', '']
-Hoot.Me
-	Provider of an application that includes video communications which enables students to get help on homework via Facebook.
-	['', 'social networking', ' ', 'video communication', ' ', 'interactive knowledge network', '']
-Collegefeed
-	Developer of a social platform for students and employers. The platform offers a Facebook-like news feed where students can access tuition help, job opportunities, interview-preparation help and access to alumni and mentors. It connects employers with students as they progress through school as opposed to forcing decisions through short interviews, career fairs and campus visits.
-	['', 'job opportunity', ' ', 'job seeking platform', ' ', 'digital platform', '']
+EyeLock
+	Provider of identity management technology. The company provides identity authentication-focused systems for border control, logical access, global access control and other identity-management sectors.
+	['', 'iris biometric', ' ', 'security system', ' ', 'identity management', '']
+Trusted Network Technologies
+	Provider of authentication, access control and misuse prevention software. The company develops identity-based network control and audit products.
+	['', 'misuse prevention software', ' ', 'access control', ' ', 'identity based network', '']
+Atrua Technologies
+	Developer of intelligent touch controls for the mobile device industry.The company provides a variety of touch-control products that can sense a user’s touch, confirm a user’s identity through fingerprint biometrics and convert touch motions and gestures into control input.
+	['biometric ', 'security access', ' ', 'mobile phone technology', '']
+PassMark Security
+	Developer of authentication systems for online banking. The company\'s authentication platform is focused on automated Two-Factor Two-Way Authentication(TM). They offers complete front-to-back system that exceeds FFIEC guidelines with its real-time risk-based analytics, layered security, shared fraud data network, multi-model decision engine, and automated supplemental authentication.
+	['authentication ', 'layered security', ' ', 'automated supplemental authentication', '']
+Rohati Systems
+	Provider of internet networking solutions. The company provides agent-less access management, authentication and authorization, controlled collaboration, managing offshore risk, micro perimeters, secure administration, compliance and audit, and payment card industry council\'s data security standards compliance solutions. It offers Transaction Networking System, a network-based entitlement control platform, which enables entitlement control on a per-transaction basis for data center environments.
+	['', 'networking solution', ' ', 'access management', ' ', 'controlled collaboration', ' ', 'secure administration', ' ', 'compliance solution', ' ', 'control platform', '']
+Validity Sensors
+	Provider of authentication sensors technology. The company offers password replacement, identity verification, centralized management for corporate network security and secure wireless transactions for the protection of portable data and physical access control.
+	['', 'biometric sensor', ' ', 'fingerprint authentication', ' ', 'network security', ' ', 'fingerprint sensor', ' identification ', 'access control', '']
+Mitam Biological Control
+	Developer of technologies for biological control of ticks. The company has a strategic partnership with a global player in the animal healthcare market and its product Metick is designed for the biological control of ticks.
+	['', 'animal healthcare', ' ', 'biological control', ' livestock']
+Fidelica Microsystems
+	Developer of fingerprint imaging and authentication technology. The company develops biometric technology for electronic security, access and transaction control.
+	['', 'fingerprint image', ' ', 'biometrics technology', ' ', 'electronic security', ' ', 'smart card', ' ', 'fingerprint sensor', '']
+Tail-f Systems
+	Provider of configuration management and network automation software. The company creates an abstraction layer between network devices and centralized network control software.
+	['', 'network automation software', ' ', 'configuration management', ' ', 'network device', '']

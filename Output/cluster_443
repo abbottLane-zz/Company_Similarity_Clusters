@@ -1,57 +1,21 @@
-Gazoontite
-	Provider of household products. The company provides products that help reduce asthma problems, allergies and respiratory problems. The company\'s products include anti-allergen and hypoallergenic bedding, air purifiers, vacuum cleaners, bath and beauty products, toys, dust control products, odor control products and asthma management products.
-	['', 'household products', ' hypoallergenic ', 'cleaning product', '']
-Support Technologies
-	Manufacturer of automatic computer test equipment for use by firms designing, servicing and manufacturing electronic-based products. The company\'s products consisted of ROM emulator and diagnostic tester.
-	['', 'computer equipment', ' ', 'electronic products', ' ', 'test equipment', '']
-Amsco International
-	Manufacturer and supplier of sterilization products. The company manufactures sterilization systems, surgical tables and lights, and related infections prevention products and services for the healthcare and scientific markets.
-	['', 'sterilization product', ' ', 'health care industry', ' ', 'technology platform', '']
-Genetics Institute
-	Developer of pharmaceutical products. The firm developed pharmaceuticals based on leading edge functional genomics technologies and proprietary disease models to treat a wide variety of human disease conditions.
-	['biopharmaceuticals']
-Educational Holdings
-	Provider of educational products. The company\'s products are designed to provide and promote science and math education as well as reading literacy for children in PreK through 3rd grade.
-	['', 'educational products', ' math ', 'reading literacy', '']
-Ilypsa
-	Developer of renal care pharmaceutical products. The company develops non-absorbed polymeric phosphate and potassium binder compounds to treat chronic kidney diseases.
-	['', 'renal care', ' ', 'kidney disease treatment', ' ', 'healthcare industry', '']
-Reliant Pharmaceuticals
-	Developer of cardiovascular therapies. The company acquires and develops branded pharmaceutical products, as well as potential pharmaceutical products in mid- to late-stage clinical development for drug delivery technologies and formulation advancements.
-	['cardiovascular ', 'cardiovascular therapies', '']
-Collplant
-	Produces recombinant human collagen from tobacco plants. The company produces sells collagen-based products in medical devices, cosmetics and pharmaceutical products.
-	['', 'medical device', ' ', 'collagen pharmaceutical product', ' cosmetic']
-Outinens Potatis
-	Provider of potato products. The company provides pre-cooked and related potato products that are grown with minimal pesticide usage.
-	['potatoes ', 'clean food', ' ', 'potato production', '']
-InnoPharma
-	Developer of complex generic and innovative specialty pharmaceutical/bio-pharmaceutical products in injectable and ophthalmic dosage forms. The company has a broad portfolio of products under development, with formulations including, suspension, lyophilized, emulsions, liposomes, micelles and lipid complexes.
-	['', 'medical product', ' ', 'drug development', ' ', 'bio pharmaceutical product', ' ', 'medical drug research', ' ', 'sterile injectable product', ' ', 'sterile products', ' injectable ophthalmic']
-Nortel Networks
-	Manufacturer of networking products. The company is a manufacturer of equipment for telecommunications and data networking.
-	['', 'networking equipment', '  ', 'data networking equipment', ' ', 'cable operators', '']
-Scandinavian BioPharma
-	Developer of pharmaceutical  products such as vaccines and immunoglobulins. The company mainly focuses on development of a new oral traveler’s diarrhea vaccine. The company is currently developing a pharmaceutical  product for the treatment of mild to moderate psoriasis.
-	['vaccines immunoglobins ', 'diarrhea vaccine', '']
-Pentland Systems
-	Provider of signal acquisition technology and products. The company offers analog input/output, sigma delta, synchro and resolver modules which are complemented by digital input/output and relay products to form a comprehensive range of system ready, COTS, I/O products. The company also provides analog-acquisition and reconstruction products for sonar, radar, signal intelligence and software-defined radio applications in the aerospace and defense markets.
-	['', 'sonar product', ' ', 'signal intelligence', ' ', 'analog signal', ' ', 'radar product', ' ', 'embedded computing', ' ', 'digital input/output', ' ', 'relay product', '']
-Takumi Technology
-	Provider of design for manufacturability (DFM) products. The company engages in designing products that a easy to manufacture. The company also provides mask detection and automated full chip semiconductors.
-	['', 'design for manufacturing', ' ', 'semiconductor devices', ' ', 'electronic products', '']
-C M & D Pharma
-	Manufacturer of pharmaceutical products. The company\'s pharma products are fostrap, recoclix, eviendep, ossulin and silsos.
-	['', 'pharmaceutical product', ' ', 'healthcare market', '']
-ViroChem Pharma
-	Developer and producer of the drugs and pharmaceutical products for viral disease. The company manufacture, develop and produce the medicine products for viral infection, Hepatitis C (HCV) and human immunodeficiency virus (HIV).
-	['', 'pharmaceutical product', ' ', 'drug research', ' ', 'human immunodeficiency virus', '']
-Proteon Networks
-	Provider of internet access and LAN products. The company markets the products of OpenROUTE Networks.
-	['', 'internet access', ' ', 'LAN products', '']
-eDEV
-	Developer of drug. The company operates as a structured finance portfolio company developing an approved drug for three additional follow-on indications in collaboration with a pharmaceutical partner. eDev is a special purpose vehicle that has entered into an R&D project financing relationship with an undisclosed pharma company to finance multiple Phase 3 clinical trials for additional indications of an already-approved drug.
-	['', 'Drug Developer', ' ', 'Finance Portfolio', '']
-Hanza
-	Manufacturer of industrial products. The company provides mechanical, electronics, cable harnesses and final assembly products for industrial uses.
-	['', 'industrial product', ' ', 'assembly product', ' ', 'cable harness', '']
+Ixi Mobile
+	Developer of data centric wireless mobile devices and services for mass market users. The company provides end-to-end software and hardware reference designs which it claims creates a new category of mobile devices.
+	['', 'communication server', ' ', 'wireless communication service', ' ', 'mobile device', ' ', 'data centric', '']
+eMeter
+	Provider of energy information management solutions for the utility mass market, and commercial and industrial deployment. The company provides software that enables electric, gas, and water utilities to realize the benefits of their advanced metering and smart grid initiatives.
+	['', 'energy software', ' ', 'metering solution', ' ', 'smart grid management', '']
+BPL Global
+	Provider of electric utilities with a suite of smart grid services. The company provides end-to-end solutions designed to meet the specific needs of a utility by integrating equipment from leading suppliers with an enterprise software platform. This creates a communications network over a utility\'s power lines that interface with smart meters, switches, sensors and other grid devices to more efficiently manage transmission and distribution of electricity.
+	['', 'Smart Grid Solutions', ' ', 'Grid Management', ' ', 'electric utilities', '']
+Clickmarks
+	Provider of technology solutions for development of e-business applications and web services. The company provides end-to-end solutions for enterprises and wireless carriers seeking instant aggregation, personalization and mobilization of content, business processes and applications like workflow automation, portal integration, mobilization, and decision support solutions.
+	['', 'e-business applications', ' portlets ', 'integration technology', ' ', 'workflow automation', ' ', 'portal integration', ' ', 'web services', '']
+Castleton Technology
+	Provider of IT infrastructure, data centres and smart building services. The company provides end-to-end telecommunications and IT services for business organizations.
+	['', 'business infrastructure', ' ', 'IT infrastructure', ' ', 'data centres', '']
+Pinnacle Ccs
+	Provider of softwares for the smart grid devices. The company integrates back office applications with the new communications networks, data sources, business transactions and capabilities of new generation of smart grid devices without costly upgrades or customization.
+	['', 'platform software', ' ', 'smart devices', ' ', 'social software', '']
+Flexitricity
+	Supplier of electricity to the national grid. The company operates smart grid system and provides short term operating reserve and frequency response services.
+	['', 'electricity grid', ' ', 'power station', ' ', 'power demand', '']

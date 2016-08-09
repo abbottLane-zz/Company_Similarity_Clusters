@@ -1,27 +1,69 @@
-Prime Cable
-	Operator of cable television systems. The company is the owner and operator of cable television systems which operates in Montgomery County, Maryland; Arlington County, Virginia; and Chicago, Illinois.
-	['', 'cable television', '']
-Ortel
-	Developer of optoelectronic components for cable television networks. The company manufactures and supplies advanced optoelectronics technologies that provide the critical bandwidth and two-way interactivity essential for robust telecommunications and cable television applications.
-	['', 'optoelectronic components', ' ', 'robust telecommunication', ' ', 'cable TV', '']
-Paxfire
-	Provider of a software that generates ad revenue for network operators from address bar search and DNS error traffic. The company also provides hardware look-up services for network operators, including consumer ISPs, CLECs, backbone providers and cable companies.
-	['', 'IT Services', '']
-PriceMatch
-	Provider of a revenue management platform for hotels. The company develops econometric algorithms forecasting demand and feeding price recommendations to hoteliers, helping them adjust room prices to demand and thus trying to increase revenue.
-	['', 'dynamic pricing', ' ', 'yield management', ' ', 'revenue management', '']
-Orcale MarketPrice
-	Provider of business management software products. The company offers revenue and price management solutions. The company was formerly known as Revenue Technologies.
-	['', 'Business solutions', ' ', 'Revenue Solution', ' ', 'Price solution', '']
-Pay by Touch
-	Provider of end to end payment processing solutions. The company offers fingerprint identification technologies.
-	['payment fingerprint biometric']
-Oxygen Media Group
-	Operator of female-focused cable television network. The company integrates media brand by combining the qualities of internet and cable television.
-	['', 'cable network', ' female-focused ', 'media brand', '']
-Azure Solutions
-	Provider of end-to-end revenue-assurance product portfolio for networks. The company provides revenue-assurance solutions for mobile operators and cable television companies.
-	['', 'fraud management', ' ', 'data integrity', ' ', 'consulting service', ' ', 'assurance services', '']
-NeoAccel
-	Provider of end to end security solution for cloud computing. The company develops software technology combining the performance of IPsec VPNs with the benefits of SSL VPN technology.
-	['', 'INTERNET PROTOCOL', ' ', 'VIRTUAL PRIVATE NETWORK', ' ', 'NETWRORK SECURITY', ' VPN IP', 'SECURED SOCKET LAYER', ' SSL']
+Aspective
+	Provider of e-commerce and WAP-based mobile applications and services for customer relationship management, business intelligence, data management and field service management. The company also provides managed and support services, which include application support, support desk, infrastructure, monitoring and outsourcing services.
+	['', 'field service management', ' ', 'mobile application service', ' ', 'application support', ' ', 'outsourcing service', '']
+Watch Hill Partners (CRM Program)
+	Provider of electronic customer relationship management and technical service offerings. The company is a management business consulting firm with a full line of business. The company provides customer relationship management consulting to help clients with that help of a regional team that stays on a project throughout the implementation lifecycle.
+	['', 'customer relationship management', '']
+BenefitPoint
+	Provider and developer of hosted integrated employee benefits infrastructure applications. The company also develops customer relationship management and procurement software platform. It offers its services and solutions to brokers, consultants, carriers, and general agents.
+	['', 'infrastructure application', ' ', 'relationship management', ' ', 'software platform', ' ', 'communication portal', '']
+Kentor
+	Provider of information technological consultancy services. The company provides computer system integration services and software products for application management, billing, business development, business intelligence, customer relationship management and quality assurance.
+	['', 'system integration', ' ', 'software development', ' ', 'it consultancy', '']
+eXstatic Software
+	Developer of software for marketing automation and enterprise-wide customer management. The company markets software solutions that enable businesses to plan, create and execute email communications based on customer profiles.
+	['', 'emarketing application', ' ', 'customer management', ' ', 'marketing automation', '']
+Bantam Networks
+	Provider of online contact management and social customer relationship management services. The company offers an online service for business teams to collaborate in a workspace and fuse communications, content, applications, and data while building relationships on the Web. It offers Bantam Live, an online service that is integrated to social networks and allows business teams to search, monitor, and connect with people on the Web for business development, sales, and marketing purposes.
+	['', 'online contact management', ' ', 'customer relationship management', ' ', 'relationship management service', ' ', 'social CRM', ' ', 'CRM', '']
+Veeva Systems
+	Provider of cloud-based software for the global life-sciences industry. The company offers software for multichannel, customer relationship management (CRM) and regulated content management. The company\'s software also serves pharma, animal health and consumer health.
+	['', 'life sciences industry', ' CRM']
+Data Distilleries
+	Provider of customer relationship management services. The company uses data-mining technology to build models to predict customer behavior, as well as providing real-time analytics for business intelligence.
+	['', 'customer relationship management', ' ', 'customer behaviour', ' ', 'customer interaction', '']
+boondoggle
+	Provider of digital branding services. The company assists its corporate clients in branding through the uses of an online technologies such as messaging, email, (Customer relationship management)CRM, content management and interactive television.
+	['', 'digital branding', ' ', 'digital promotion', ' ', 'content management', '']
+Intelligent Results
+	Provider of customer analytics and decision management software. The company also provides solutions for collection, recovery, marketing and customer service.
+	['', 'decision management', ' ', 'customer analytics', ' ', 'software platform', '']
+Loopfuse
+	Provider of marketing automation software. The company offers OneView, an enterprise marketing automation platform that includes support for various sales and marketing demands, including demand generation, email marketing automation, automated lead nurturing, lead management and scoring, campaign management, website analytics, closed-loop reporting and customer relationship management integration. It also provides technical support, training and consulting services.
+	['', 'automated marketing', ' ', 'demand generation', ' ', 'e-mail marketing', '']
+Business & Decision
+	Provider of business intelligence and enterprise performance management services. The company offers RightDelivery Model which helps its clients to leverage its on-shore, near-shore and offshore service centers. They also provide customer relationship management services that help companies manage their customer data and standardize the processes that use this data. They also offer e-business activities like 24/7 online managed services, application hosting and outsourcing in various fields, including e-commerce, e-administration, and e-communication.
+	['', 'business intelligence', ' ', 'enterprise performance management', ' ', 'performance management service', ' e-commerce e-business e-communication ', 'application hosting', '']
+Ideaca Knowledge Services
+	Provider of management consulting, advisory, implementation and support services. The company offers enterprise resource planning (ERP) solutions implementation, business intelligence, portals and collaboration, cloud computing, custom development and integration, customer relationship management (CRM) solutions implementation, application infrastructure and support services.
+	['', 'enterprise resource planning', ' ', 'portals and collaboration', ' ', 'customer relationship management', ' ', 'application infrastructure', '']
+CrowdEngineering
+	Provider of a social CRM (customer relationship management) and social care services. The company\'s product \'CrowdForce\' transforms the corporate customer base and web community into groups of valuable employees who may be involved in various business processes such as customer support, sales and marketing.
+	['', 'crowd force', ' ', 'customer support', ' ', 'social care services', '']
+Aurum Software
+	Provider of Customer Relationship Management solutions for automating global sales, marketing, and customer service operations.  The company\'s products are based on advanced client/server and Internet/Intranet technologies and provide businesses with integrated, adaptable and mobile software solutions.
+	['customers, relationship, relationship management, customer management, software, global sales, marketing, customer service, customer service operations']
+Convio
+	Provider of on-demand customer relationship management (CRM) software and services. The company provides a platform focused on multiple areas of nonprofit activities, including special events, e-fundraising, e-marketing, advocacy and content management.
+	['', 'CRM software', ' ', 'data sharing', ' ', 'donor management', ' ', 'constituent engagement', '']
+VirtuOz
+	Provider of Digital Customer Relationship system to large and mid-market enterprises. The company offers Intelligent Virtual Agents to provide world-class online marketing, sales and support channels.
+	['', 'virtual agent', ' ', 'customer assistance', ' ', 'Digital Customer Relationship', ' ', 'Intelligent Virtual Agent', ' ', 'online marketing', ' ', 'support channel', '']
+Servista
+	Provider of management networking and outsourcing services. The company provides network management, outsourcing, consulting services and customer relationship management.
+	['', 'network management', ' ', 'consulting service', ' ', 'customer relationship management', '']
+404 Found!
+	Provider of customer relationship management (CRM) services and software, and online marketing.
+	['CRM ', 'customer relationship management', ' ', 'crm software', ' ', 'online marketing', '']
+Commence
+	Provider of customer relationship management software for small to mid-size enterprises. The company offers various software technologies for the front office business processes, and specializes in cloud-based customer relationship management and business process automation software.
+	['', 'customer relationship management', ' ', 'front office', ' ', 'business process automation', '']
+Loyalty Lab
+	Provider of customer relationship management (CRM) solutions. The company offers CRM suite, a software-as-a-service solution, which provides a Web-based solution for marketing.
+	['', 'customer relationship management', ' ', 'loyalty program management', ' ', 'email messaging', ' ', 'CRM', '']
+Epiphany.com
+	Developer of for software for customer relationship management. The company provides integrated set of software tools for analysis of customer data and marketing campaign management.
+	['', 'customer relationship management', ' ', 'customer data analysis', ' ', 'marketing campaign management', '']
+SensiX
+	Provider of customer relationship management services. The company\'s services include classic CRM consultation such as the production of specifications and support with the selection of tools.
+	['', 'customer relationship management', ' ', 'crm consultation', ' ', 'sap crm', '']

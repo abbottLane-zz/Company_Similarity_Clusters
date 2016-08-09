@@ -1,6 +1,15 @@
-CrowdSavings.com
-	Provider of an e-commerce marketplace offering consumers discounted products and services from local businesses and online retailers. The company provides customer acquisition campaigns to local merchants through email, social networking and affiliate partners.
-	['', 'online retail', ' ', 'customer acquisition campaign', ' ', 'customer base enlargement', '']
-Lasso.it
-	Provider of an online service offering delivery of spirits. The company offers on-demand delivery of artisan wine, beer, spirits, soda and specialty foods including cheese, sweets and meat platters from local merchants and gourmet food shops.
-	['', 'food delivery', ' ', 'wine delivery', ' ', 'online alcohol', '']
+PathoGenetix
+	Developer of an automated system for the rapid identification of pathogenic bacterial strains using proprietary Genome Sequence Scanning (GSS) technology. The company’s technology analyzes an enriched biological sample without the need for a cultured isolate and also provides results in five hours.
+	['', 'automated system', ' ', 'rapid identification', ' ', 'bacterial strain', ' ', 'genome sequence', ' ', 'scanning technology', ' ', 'pathogen detection', ' ', 'bacterial strain', ' pathogen']
+Arcxis Biotechnologies
+	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
+	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
+BioStorage Technologies
+	Provider of sample-management services for the bioscience sector.The company manages the complete life cycle of samples, using a team of global sample experts, temperature-controlled storage facilities and a real-time, Web-based sample intelligence and tracking system. It operates biostorage facilities in the U.S. state of Indiana and Frankfurt, Germany.
+	['', 'sample management', ' ', 'cold storage', ' ', 'lab equipment', '']
+GenCell
+	Developer of technology that addresses life sciences challenges in genomics and proteomics. The company offers molecular biology with genetics instrumentation to perform protocols and composite liquid cell platform technology for various applications, such as sample extraction and preparation.
+	['', 'molecular biology', ' ', 'genetics instrumentation', ' ', 'liquid cell', '']
+SpectraFluidics
+	Provider of solutions for the field detection of trace levels of chemicals, explosives, illicit drugs, biomarkers, and other low volatility compounds at parts-per-trillion concentration levels. The company offers microfluidic chips for ultra trace sensitivity and molecular specificity of vapor-phase analytes. Its product applications include transportation security, breath diagnostics, drugs and narcotics detection, food safety and freshness, and explosives detection.
+	['', 'microfluidic chip', ' ', 'transportation security', ' ', 'breath diagnostic', ' ', 'drugs and narcotics detection', '']

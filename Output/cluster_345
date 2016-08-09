@@ -1,30 +1,24 @@
-fiveby tv
-	Provider of online videos based on user preference. The company scours the internet for the best videos, and hand-delivers the ones people want to watch.
-	['', 'online video search', ' ', 'free video', ' movie']
-CastTV
-	Operator of a website that helps people to watch videos through the Web. The company\'s website lets users find all their favorite online videos, from TV shows to movies to the latest celebrity, sports, news, and viral videos.
-	['', 'online video', ' ', 'original video', ' ', 'watch video', ' ', 'video website', ' ', 'video clip', ' ', 'social video sharing', ' ', 'community video', ' ', 'video blog', ' ', 'video entertainment', '']
-Omnisio
-	Provider of online videos. The company enables user to annotate videos, combine clips, and synchronize slideshare presentations to videos.
-	['', 'video annotation', ' ', 'video sharing', ' ', 'video blogging', '']
-Userfarm
-	Operator of a video crowdsourcing platform. The company creates promo videos, corporate films and creative advertisements through its network of video makers.
-	['', 'entertainment software', ' ', 'crowdsourcing platform', ' ', 'creative advertisement', '']
-IFILM
-	Operator of online streaming media network on the Internet. The company distributes videos online, featuring programs that comprise animations and cartoons, comedy, movie clips, music videos, short films, TV clips, video game trailers, spike shows and action sports as well as a collection of viral videos from Hollywood studios, amateur filmmakers and user-generated content.
-	['', 'online streaming', ' ', 'movie information', ' ', 'entertainment media', ' ', 'music videos', '']
-LoadnVote
-	Provider of visual media competition on the internet. The company invites visitors of all ages and interests to compete in head-to-head contests by uploading videos, pictures and other media to gain exposure and win prizes.
-	['', 'social content', ' ', 'visual media', ' ', 'media competition', ' ', 'voting site', '']
-RipCode
-	Provider of realtime transcoding software for video clips and streaming. The company supports live mobile video or video on-demand transcoding for mobile and user generated content applications. It enables video to be dynamically transcoded and served to a customer on any screen size as they request it, giving viewers an expansion of content choices while reducing an operator’s server hardware, storage and energy use.
-	['transcode IPTV ', 'video on-demand', '']
-PageWise
-	Operator of a website that serves how-to videos and articles online. The website is a video portal for how-to information and the largest provider of "made for the internet" video content. Its content was created through the company\'s proprietary process wherein filmmakers select specific how-to topics and produce videos on that subject matter.
-	['article, video, ', 'how to video', ' ', 'video portal', '']
-ZEFR
-	Provider of content rights management to movie studios on YouTube. The company allows its users to search, find, watch, discuss and share movie clips from movies. It also offers a website that offers a collection of movie clips on YouTube.
-	['', 'social marketing', ' ', 'rights management', ' ', 'video solution', ' ', 'online video platform', '']
-Indoor Direct
-	Provider of media network for the fast food and casual dining markets. The company produces theBITE, a national in-store television show that delivers short clips of sports, music, entertainment and lifestyle content to users and helps in marketing for the restaurants and dining.
-	['', 'casual dining market', ' ', 'restaurant network', ' ', 'out-of-home media', ' ', 'media network', '']
+Medfield Diagnostics
+	Manufacturer of diagnostic instrumentation. The company offers microwave technology based equipment to facilitate the diagnosis of stroke. Its products include Strokefinder R10 for doctors in the field of stroke diagnosis and Strokefinder MD100, a diagnostic instrument for use in emergency rooms and ambulances to diagnose the type of stroke.
+	['', 'microwave technology', ' ', 'diagnostic equipment', ' ', 'stroke diagnosis', '']
+EraGen BioSciences
+	Developer and manufacturer of molecular reagent products and software for research and clinical testing markets. The company offers molecular diagnostic assays for the early detection and monitoring of cancer, genetic, and infectious diseases, as well as for genetic-based conditions. It serves clinical laboratories and medical researchers.
+	['biotechnology ', 'clinical diagnostic', ' ', 'molecular diagnostic', ' ', 'clinical testing', '']
+Genaco
+	Developer of molecular diagnostic technology and products. The company\'s main products include commercial kits for prenatal screening and diagnosis of common genetic diseases.
+	['', 'molecular diagnostic technology', ' ', 'prenatal screening', ' ', 'genetic diseases', '']
+DNA Direct
+	Provider of genetic guidance and decision support solutions for genetics that enable individuals and healthcare providers use genetic information to guide healthcare decisions. The company\'s solution include pre-test questionnaire, genetics call centers, personalized reports, clinical policy and compliance, and physician education and program customization services, as well as prenatal primer, a web-based interactive guide to prenatal testing options. It also offers tests and services for consumers, including screening tests, testing for genetic disorders, testing for drug response, genetic consultation, DNA storage, and paternity and family tests.
+	['', 'genetic guidance', ' ', 'genetic information', ' ', 'healthcare decision', ' ', 'genetic call center', ' ', 'screening test', '']
+Rubikon
+	Developer of molecular technologies. The company develops molecular technologies for the treatment and prevention of common cancers combined with new methods for the individualization of tumor therapies.
+	['', 'molecular technologies', ' ', 'therapeutic services', '']
+Adnavance Technologies
+	Developer of diagnostic technology. The company provides direct-detection molecular diagnostic tests. The tests are designed to decentralize the worldwide molecular testing market by enabling hospitals and smaller independent laboratories to conduct their own testing.
+	['', 'molecular diagnostic', ' ', 'medical application', ' ', 'diagnostic test', '']
+miacom Diagnostics
+	Developer of diagnostic kits. The company provides a diagnostic technology that uses biofluorescence to scan for bacteria and other disease-causing pathogens. The kits can be used to evaluate blood and sputum.
+	['', 'diagnostic kits', ' ', 'channel pipette', ' ', 'hybridization chamber', ' hotplate fluorescence']
+AdvanDx
+	Provider of molecular diagnostic tests for identification of pathogens that cause critical infections in hospitalized patients. The company provides its products to medical centers, reference labs, government institutions and community hospitals. Its products are available through a network of sales force in United States, as well as through distributors.
+	['', 'vitro diagnostic kit', ' ', 'infectious disease diagnosis', ' ', 'infection treatment', ' ', 'diagnostic kit', ' ', 'infectious disease', ' ', 'diagnostic test', '']

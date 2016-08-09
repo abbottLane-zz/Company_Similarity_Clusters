@@ -1,42 +1,15 @@
-Affinity Payments
-	Provider of payment platform. The company provides electronic payment services to merchants and partners.
-	['', 'payment platform', ' ', 'electronic payment', ' ', 'online payment', '']
-Piano media
-	Provider of payment services to the media publishing industry. The company enables publishers to monetize web content without fear of losing either website advertising revenue or audience share.
-	['', 'payment service', ' ', 'web content', ' ', 'paid content', '']
-Up & Net
-	Provider of e-payment services to e-merchants. The company creates private e-payment programs. The company provides e-gift card programs which are accepted by e-merchants. E-giftcards are re-materialized for distribution in convenience store.
-	['', 'e-payment', ' ', 'e-giftcard', ' ', 'e-commerce', '']
-Beijing Tong Technology Development
-	Provider of electronic payment applications and services. The company supplies payment cards for the public transportation system in China.
-	['', 'virtual payment', ' micro-payment ', 'payment services', '']
-Billpoint
-	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
-	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
-Starfish Holdings
-	Operator of a personalized marketing and payments platform for retailers. The company provides its payment platform for use by grocery chains, drug chains and big box retailers, as well as neighborhood merchants and restaurants.
-	['', 'payment service', ' ', 'payment platform', ' ', 'online transaction', '']
-Balanced
-	Provider of a payment system for marketplaces. The company allows marketplaces to charge cards, escrow funds and collect their marketplace fees.
-	['', 'payment system', ' ', 'online payment', ' ', 'escrow fund', ' ', 'marketplace fee', '']
-Tempo Payments
-	Provider of payment technology for debit card related technologies. The company offers Tempo Debit, a solution that enables ACH-based decoupled debit programs for issuers.
-	['', 'payment technology', ' ', 'debit program', ' ', 'transaction processing', ' ', 'decoupled debit card', '']
-Clareon
-	Provider of electronic payment platform for businesses. The company develops PayMode platform that enables businesses to send and receive electronic payments, along with detailed remittance information, to and from suppliers and customers.
-	['', 'electronic payment', ' ', 'online transaction', ' ', 'electronic business payment', ' ', 'payment software', '']
-PropertyBridge
-	Developer of electronic payment processing solutions for the real estate management industry. The company provides payment types such as credit and debit card, automated clearing house, check scanning, cash payment and lockbox.
-	['', 'electronic payment', ' ', 'payment processing', ' ', 'real estate management', ' ', 'automated clearing', ' ', 'payments platform', '']
-Absolute Commerce
-	Developer of an electronic payment tool. The company provides a way to integrate organization’s payment systems with supplier catalogs.
-	['', 'electronic payment', ' ', 'electronic procurement', ' ', 'enterprise resource management', ' ', 'supplier enablement', ' ', 'price auditing', '']
-Works
-	Provider of commercial credit card management and optimization technology.The company provides a Web-based platform that connects payment-management automation with the global Visa payment network.
-	['', 'credit card management', ' ', 'credit card service', ' ', 'electronic payment', ' ', 'payment policy', '']
-Allcharge
-	Provider of e-payment services. The company is a global Internet payment-service provider offering merchants and content owners e-payment, billing and processing technologies and services.
-	['', 'digital content', ' ', 'electronic network', ' ', 'internet payment system', ' e-wallet']
-99Bill
-	Provider of independent third-party payment services in China. The company offers electronic payment services to enterprises and individuals. It also supports payment via international cards, such as VISA and MasterCard; and services domestic and international bank cards.
-	['', 'third party payment', ' ', 'electronic payment', ' ', 'electronic fund transfer', '']
+Sharingforce
+	Provider of web application. The company promotes Digital Word Of Mouth and helps to convert web traffic into quality leads.
+	['', 'web application', ' ', 'online application', ' ', 'robust analytic', '']
+Strata8 Networks
+	Provider of cellular services on a licensed spectrum. The company provides services to the enterprises to use and manage cellular services within local coverage areas using carrier-class technology.
+	['', 'wireless network', ' ', 'cellular service', ' ', 'carrier-class technology', '']
+Locationary
+	Provider of a global clearinghouse for local data in mobile, web search, profile publisher, managers and navigation applications. The company provides it\'s services for local business data fragmentation, accuracy and universal broadcast update challenges.
+	['', 'global clearinghouse', ' ', 'data fragmentation', ' ', 'statistics analysis', ' ', 'business data', '']
+Green Way Systems
+	Provider of traffic guidance systems.  The company uses GPS technology and proprietary detectors that can alter traffic signals for emergency vehicles and alter traffic signs to accurately display hazards and traffic information.
+	['traffic ', 'traffic guidance', ' ', 'traffic detector', ' ', 'traffic technology', '']
+Where
+	Provider of local search and recommendation services on mobile phones and Web applications. The company offers WHERE, a mobile application for searching and locating places, events, and special offers; Where.com, a Web portal that offers local search and recommendation services; Traffic.com, a mobile traffic application that provides traffic related data in the United States with coverage in various metropolitan areas; and WHERE Ads, a hyper-local advertising network.
+	['', 'location service', ' ', 'local search', ' ', 'hotel search', ' ', 'mobile traffic', ' ', 'local advertising', ' ', 'mobile advertising', '']

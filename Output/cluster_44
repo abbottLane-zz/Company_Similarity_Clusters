@@ -1,15 +1,51 @@
-Ravenflow
-	Provider of business requirements definition software. The company product helps business analysts to visualize and validate requirements, build team consensus, and produce specifications of business process workflows, business use cases, and business application needs. It also provides training and professional services. It serves finance, banking, insurance, government, telecommunications, technology, healthcare, and education sectors, as well as independent software vendors and systems integrators.
-	['', 'business requirements definition', ' ', 'requirement gathering', ' ', 'requirements management interface', '']
-Affinity Labs
-	Provider of online professional community for people. The company offers networks for careers such as law enforcement, healthcare, education, government and technology.
-	['', 'online community', ' ', 'professional community', ' ', 'educational community', '']
-Ambiensis
-	Provider of comprehensive development support for new sustainable technologies in the agricultural and environmental sectors. The company provides assistance to business propositions in the areas of finance, product and process development, marketing and business management.
-	['environment', 'agricultural sector', ' ', 'process development', ' ', 'business management', '']
-Licensario
-	Developer of a technology that helps independent software vendors and SaaS businesses build flexible pricing models and sell their products. The company also manages the end-user rights management, gives detailed analytics and insights, integrates with the business customer relation management.
-	['', 'pricing models', ' ', 'software developer', '']
-Comcerto
-	Communications processor business of Mindspeed Technologies, Inc. This business provides a series of multicore, ARM®-based embedded processors and associated software, a talented team and Tier One customers spanning the globe.
-	['', 'connectivity product', ' ', 'communication processor', ' ', 'associated software', '']
+AirVend
+	Developer and provider of a touchscreen device and software for vending-machine operators. The company develops an interactive touchscreen device and software that displays nutritional information, provides cashless options, and sends real-time data and alerts wirelessly. The company also provides a mobile software product that sends real-time market data, enabling vendors to adjust product offerings.
+	['touchscreen ', 'vending machine', ' ', 'nutritional information', '']
+Insightera
+	Operator of a real-time B2B personalization platform. The company provides machine learning algorithms and software that helps marketers to capitalize on their existing assets by personalizing onsite experience.
+	['', 'personalization software', ' ', 'customer acquisition', ' ', 'marketing platform', '']
+Armagent
+	Developer of a software platform for artificial intelligence. The company provides real-time interactive environments for training, education and simulation of complex situations. Its software tools are used for simulation of physics, game development and rendering real-time graphics.
+	['', 'Real-time simulation', ' ', 'Dynamic Path-finding', ' ', 'artificial intelligence', ' graphics']
+RUN
+	Provider of a real time advertising management platform. The company provides an advertising software platform which enbles users to advertise across multiple channels, including mobile, tablet, desktop and television.
+	['', 'real-time bidding', ' ', 'audience targeting', ' ', 'programmatic advertising technology', '']
+Listiki
+	Provider of an online real-time data services. The company creates and shares collaborative lists. It offers lists of favorite stuff, groceries shopping, games and songs.
+	['groceries ', 'favorite stuff', ' collaborative']
+E-glue Software Technologies
+	Provider of real-time customer interaction management solutions. The company specialized in providing Real-Time Decisioning and Agent Guidance Solutions. The company offers InterAct suite, which performs information extraction from data source; InterAct executive suite, which enables users to set and communicate interaction management objectives based on business strategies; InterAct supervisor suite, which provides a view of interaction management performance from shift to shift; InterAct business expert suite, which is designed for the trained system user, and used to edit and input business rules to the system; and InterAct designer suite, which is used to create the base-level instructions for the decision engine.
+	['', 'Customer Interaction Management Solutions', ' ', 'Agent Guidance Solutions', ' ', 'Call Center', '']
+Striva
+	Provider of data integration services. The company offers detail, infrastructure software, which combines native database access with agent-based technology platforms.
+	['', 'data integration service', ' ', 'infrastructure software', ' ', 'native database access', ' ', 'technology platform', '']
+Nuvon
+	Provider of medical devices for real-time event monitoring, notification and management. The company is engaged in device data mastery and patient care data integration solution that manages thousands of device connections across multiple locations with a single system controller.
+	['', 'real-time event monitoring', ' ', 'patient care', ' ', 'medical device integration', '']
+HStreaming
+	Provides of services and consulting for real time data streaming and processing. The company\'s technology delivers performance to companies, academia and governments with data and low-latency requirements.
+	['', 'data streaming', ' ', 'data processing', ' ', 'online data', '']
+Coderloop
+	Provider of real-time coding assessment platform.
+	['', 'automated code evaluation', ' ', 'real time coding', ' ', 'puzzle solving', ' ', 'coder community', '']
+Kontexto
+	Developer of software and services that acquire, analyze and visualize streaming real time data. The company offers publish-flow services that allow digital executives, editors, Web producers and analysts to monitor content viewing trends on their own Websites and content publishing trends on various public Websites and tag-cert, a cookie auditing and monitoring service for corporate, government, e-commerce and media organizations, which helps users to avoid various legal hazards introduced by a changing regulatory environment.
+	['', 'streaming real data', ' ', 'cookie auditing', ' ', 'news monitoring', ' ', 'real time data', '']
+Neovest
+	Developer of proactive intelligent technology solutions. The company provides technology that allows buy and sell-side communities to leverage an integrated suite of pre-trade analytics and order entry functionality to achieve best execution within today’s fast-paced and fragmented electronic markets. The company provides products and technologies that enable fast and efficient delivery of market data from multiple sources and drive real-time data analysis and decision support.
+	['', 'software technology', ' ', 'broker-neutral financial technology', '']
+Ripfire
+	Developer of integration software. The company integrates search, personalization, categorization and marketing analytics into a single, real-time data for e-commerce and content sites.
+	['', 'integration software', ' ', 'marketing analytics', ' ', 'web analytics', '']
+Leftronic
+	Provider of a real time data visualization and status monitoring platform. The company develops a software which helps users to monitor metrics in real time through online business dashboards.
+	['', 'data visualization', ' ', 'status monitoring', ' ', 'business dashboard', '']
+Acta Technology
+	Provider of a real-time data integration software platform. The company provides batch and real-time data integration platform for the extraction, transformation, and loading (ETL) segment.
+	['', 'data integration platform', ' real-time']
+Knowmadic
+	Provider of enterprise and business-to-business integration software. The company\'s product line includes Knowmadic Integration Suite, Knowmadic WebActivity (TM) software and data integration software.
+	['', 'business integration software', ' ', 'data integration software', ' ', 'data aggregation', '']
+Everstream
+	Provider of enterprise business software and engineering services. The company offers enterprise software such as Data Suite, which provides architecture for data extraction, transformation, loading and storage of data.
+	['', 'cable television operator', ' ', 'enterprise software', ' ', 'productivity software', '']

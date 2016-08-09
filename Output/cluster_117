@@ -1,45 +1,18 @@
-Rolsen Electronics
-	Manufacturer of household electronics in Russia. The company provides a range of consumer products, including television sets, DVD players, DVD recorders, plasma panels and LCD TV sets, home video systems, air conditioners and washing machines.
-	['', 'electronic appliances', ' ', 'production cycle', ' ', 'consumer product', '']
-Parade Technologies
-	Provider of digital integrated display and display interface solutions, and processing products. The company\'s products can be applied to a broad array of applications in personal computer and consumer electronics devices such as digital TV, DVD, and set-top box.
-	['semiconductor ', 'set top box', ' display ', 'monitor panel', ' ', 'display port', '']
-VitalStream
-	Provider of products and services that enable the digital broadcast of audio and video content and other communications via the Internet. The company\'s mix of services and technology enable businesses to leverage the global reach of the Internet to distribute their media content to targeted audiences worldwide.
-	['', 'audio streaming', ' ', 'video streaming', ' ', 'media hosting', ' ', 'consulting services', '']
-Universal Electronics
-	Designer and developer of solutions that enable consumers to control entertainment devices, digital media, and home systems. The company sells and licenses wireless control products through distributors and retailers under the "One For All" brand name. The company\'s offerings include Universal Code Library, Macro Keys, Upgrade ability, IR Blaster, Extensible Multimedia Protocol and RF Technology.
-	['', 'entertainment device', ' ', 'Universal Code Library', ' ', 'electronic services', ' ', 'consumer durables', '']
-AudioFeast
-	Provider of MP3 players with a web-based broadcast network of digital audio programming. The company provides software that allows users to browse through different channels.
-	['', 'radio channels', ' ', 'audio content', ' ', 'MP3 players', ' ', 'digital audio programming', ' audio ', 'broadcast network', '']
-CE Interactive
-	Provider of digital products and services to consumer electronics retailers, manufacturers, service providers, and consumers. The company\'s solutions include Wirewize Web application, a virtual installer and home entertainment management system that helps to set up, operate, manage, maintain, and enhance home entertainment technology.
-	['', 'digital product', ' ', 'wirewize web', '']
-UpdateLogic
-	Provider of a device management system for consumer electronics manufacturers to control and maintain internet connected digital home products. The company offers a software update service, which allows television manufacturers and cable operators to deliver software patches to consumer’s digital television receiver devices.
-	['', 'device management', ' ', 'consumer electronic manufacturer', ' ', 'electronic device', ' ', 'cable transmission', ' ', 'storage device', '']
-Phorus
-	Developer of digital audio systems which connected wirelessly with automobiles.
-	['', 'audio system', ' ', 'digital audio', ' ', 'wireless technology', '']
-Sonic Blue
-	Provider of  products for the Internet, digital media, entertainment, and consumer electronics markets. The company\'s technology portfolio included Rio digital audio players, ReplayTV personal television technology and software solutions, Go-Video integrated DVD, VCRs and Dual-Deck VCRs, and digital home theater systems.
-	['', 'Consumer Electronics', ' ', 'digital audio player', ' ', 'home theater system', ' ', 'electronics equipment', '']
-HIGH-DEF Technology
-	Provider of integrated entertainment services for building and home automation. The company\'s products enables users to control all entertainment electronics and home automations easily with a single system.
-	['', 'integrated entertainment', ' ', 'home automation', ' ', 'multiroom audio', '']
-GridNetworks
-	Provider of managed Internet television service. The company provides GridCasting service that enables media and entertainment companies, television networks, movie distributors, Web portals and content companies to provide downloads on the Internet.
-	['', 'Internet television', ' ', 'Grid Casting', ' ', 'television network', ' ', 'content company', '']
-ClaroVision
-	Provider of living room entertainment and infotainment technologies. The company offers a software platform for consumer electronics, and other service and network operators and serves the television, multimedia and hospitality industries.
-	['', 'entertainment technologies', ' infotainment ', 'consumer electronics', '']
-VizionWare
-	Developer of digital inter connect cables and adapters. The company offers high definition multimedia interface (HDMI) digital interconnects, fiber optic HDMI interconnects, digital visual interface (DVI) digital interconnects, HDMI-to-DVI digital interconnects, switcher and digital audio synchronizers, integrator-friendly accessory products, HDMI and DVI swivel adapters, HDMI connector locking mounts, and heavy duty cable pull through socks. It serves home theater, commercial, original equipment manufacturer and consumer markets.
-	['', 'inter connect cable', ' adapter ', 'high definition multimedia interface', '']
-Margi Systems
-	Provider of multimedia products for mobile systems. The company develops products in the areas of video capture, TV capture, video conferencing, DVD decoding, DVD authoring, personal video headsets and display adapters.
-	['', 'multimedia product', ' ', 'video capture', ' ', 'personal video headset', ' ', 'sound peripherals', ' ', 'electronic parts', '']
-SpinetiX
-	Designer of digital signage products. The company manufactures digital signage products and offers media players with built-in software technologies that turns any digital display into an autonomous and networked device.
-	['', 'digital signage', ' ', 'media player', ' ', 'digital display', '']
+Yotta Networks
+	Provider of connectivity products. The company offered advanced elements for all-optical networks.
+	['', 'Fiber Optic', ' ', 'optical network', ' ', 'Telecommunication industry', '']
+Ultracom Communications Holdings
+	Supplier of broadband network systems-on-silicon. The company offers silicon subsystems and VLSI-based subsystems to telephony and data communications equipment manufacturers and develops two-way cable modems for data, voice and video communication solutions.
+	['', 'broadband network systems', ' ', 'digital communications', ' ', 'silicon subsystems', ' ', 'communication solutions', '']
+Awarix
+	Provider of communications and reporting tools to hospitals. The company\'s technology allow operational and administrative staff quick access to information across the healthcare enterprise.
+	['', 'communication reporting', ' ', 'healthcare hospital administration', ' ', 'patient care', '']
+GalayOr Networks
+	Manufacturer of optical networking products. The company offers on-chip integrated micro opto-mechanical systems for communications equipment vendors and datacom vendors.
+	['', 'optical components', ' datacom ', 'Micro Opto-Mechanical Systems', ' ', 'optical switching', '']
+Tenor Networks
+	Provider of communications equipment that offers service intelligence for optical networks.
+	['', 'communication equipment', ' ', 'optical network', ' ', 'optical switch', ' ', 'optical bandwidth', '']
+Optix Networks
+	Developer of VSLI (very large scale integration) components used in optical switches and broadband networks equipment. The company serves the optical communications market.
+	['', 'scale Integration', ' ', 'optical backbones', ' ', 'information technology ', '']

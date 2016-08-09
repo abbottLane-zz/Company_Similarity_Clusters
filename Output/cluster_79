@@ -1,27 +1,21 @@
-Alteer Corporation
-	Provider of healthcare technology and services. The company provides services on healthcare technology, focused on integrated practice management and electronic medical records that includes research and development, data center, IT, finance, human resources, legal and administration.
-	['', 'electronic medical records', ' ', 'healthcare technology', '']
-Clinicare
-	Operator of a healthcare IT company. The company engages in the development and marketing of computerized information services for medical group practices. The company offers electronic medical records (EMR), practice management applications (PMA) that unites billing and scheduling and internet applications such as, web-secure, domain hosting, software enhancement and support services.
-	['', 'electronic medical records', ' EMR ', 'computerized information service', ' ', 'practice management applications', ' PMA']
-Accelerator Sciences
-	Provider of a search platform for entire suite of science resources. The company offers a search gateway which includes research & development results, project descriptions and accomplishments.
-	['', 'search platform', ' ', 'search gateway', ' ', 'science information', '']
-Cezanne HR
-	Developer of an online human resources software system and talent management services. The company offers Cezanne OnDemand which is an online HR software to streamline HR administration, cut costs and engage with employees. It enables automatic updates, pay-per-use pricing and similar features to keep a track of people, absence and performance management.
-	['', 'HR system', ' ', 'talent management', ' ', 'performance management', '']
-Oceania
-	Provider of electronic medical records software. The company aims to maintain patient records electronically to create a comprehensive health care information system. They offer NeXT machines, Unix, the legal chart, Objective-C, C, SUN servers to develop computer human interface and a database for the clinical environment.
-	['', 'medical record', ' ', 'electronic medical record', ' ', 'health care information system', ' ', 'healthcare information system', '']
-NoemaLife
-	Developer of clinical and hospital information technology softwares. The company\'s products include GALILEO, an enterprise electronic medical record software that manages and streamlines clinical-healthcare processes at the departmental, enterprise and regional levels.
-	['', 'enterprise management', ' ', 'medical record software', ' ', 'regional level', '']
-Wolf Medical Systems
-	Provider of electronic medical records for physician offices and medical clinics. The company offers cloud-based technology that  provides patient information over wireless and wireline networks. The company\'s practice management solutions include wolf billing, scheduler and workflow.
-	['', 'electronic medical records', ' ', 'patient information', ' ', 'wireless and wireline networks', ' ', 'wolf billing', '']
-Insta Health Solutions
-	Provider of the technology platform for healthcare sector. The company provides hospital management system for clinical, financial and operational management of process within the organization. It also provides the EMR (electronic medical record) platform.
-	['', 'hospital management', ' ', 'clinical technology', ' ', 'Healthcare System', '']
-TribeHR
-	Provider of social human resources management tool for small and medium businesses. The company builds online human resources software that helps with all aspects of people-management including vacation tracking, information management, performance, recruiting, payroll, on-boarding and analytics.
-	['', 'human resources management', ' ', 'human resource software', ' ', 'vacation tracking', ' ', 'on boarding', ' ', 'people-management', ' payroll']
+MyBrands
+	Provider of an e-commerce clothing outlet. The company provides clothing for both men and women and offers a variety of designer brands. It also sells shoes and accessories.
+	['', 'designer clothing', ' ', 'e commerce', ' ', 'mobile shopping', '']
+Franck Style
+	Provider of leather goods. The company provides retail services of leather goods.
+	['', 'leather goods', ' ', 'retail services', ' leather']
+Build A Bear Workshop
+	Provider of a storefront workshop where customers create their own teddy bear. The Company provides various types of animals to be stuffed; clothing, shoes and accessories for the stuffed animals and other appropriate toy and accessory items.
+	['', 'storefront workshop', ' ', 'teddy bear', ' ', 'stuffed animal', ' ', 'accessory item', '']
+6pm.com
+	Provider of an online outlet for discount shoes, clothing, bags, and accessories. The company sells shoes, sandals, boots, slippers, clearance clothing, handbags, backpacks, travel bags, briefcases, watches, sunglasses, jewelry, hats, scarves, gloves, socks, belts, wallets, and electronics.
+	['', 'clothing bag', ' watch scarf glove electronic briefcase wallet']
+Vipshop
+	Provider of flash sales website. The company provides new sales events with foreign and domestic brand name clothing, accessories, cosmetics and designer household items at discounted prices in a limited time sales format.
+	['', 'flash sale', ' ', 'limited time sale', '']
+Brandalley
+	Operator of an online outlet. The company markets a selection of items at a discounted price, which include clothing, shoes, accessories, leather goods, furniture, jewelry and homeware from past collections, surplus stocks or cancelled orders.
+	['', 'online outlet', ' ', 'online retail shopping', ' ', 'leather good', '']
+Tannerie de Villefranque
+	Operator of a leather processing company. The company engages in tanning, dressing and dyeing of leather. It offers various types of leather for shoes, accessories and furniture industries.
+	['leather ', 'leather tanning', ' ', 'leather dressing', '']

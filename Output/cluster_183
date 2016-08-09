@@ -1,24 +1,33 @@
-Tutum
-	Developer of a cloud computing service platform. The company provides a cloud service focused on deploying and managing containers in any environment, whether the cloud or on-premises.
-	['', 'cloud computing', ' ', 'automate management', ' ', 'docker container', '']
-Concurrent Thinking
-	Provider of computing systems and software. The company is involved in designing and implementation of large-scale computing infrastructures and software including cluster integration and monitoring software and services.
-	['', 'High Performance Computing', ' ', 'cluster management', 'supercomputing', 'Data Centre', '']
-Nebula
-	Developer of a hardware appliance for building private cloud computing infrastructures. The company provides cloud infrastructures for biotech, financial services and media companies.
-	['', 'private computing cloud', ' ', 'enterprise cloud', ' ', 'cloud computing hardware', '']
-Terraspring
-	Developer and provider of management software. The company provides service for the automated deployment, management, visibility and control of the heterogeneous computing environments.
-	['', 'automated deployment', ' ', 'storage resource', ' ', 'device agnostic', ' computing']
-Virtugo Software
-	Provider of software products that monitor, control and optimize virtual and physical server environments. The company delivers a workflow engine-based software platform that enables system integrators to automate customer specific system management processes for computing and communications environments.
-	['', 'optimize virtual server', ' ', 'workflow engine', ' ', 'performance monitoring', ' ', 'capacity management', '']
-Elastra
-	Provider of software for designing, deploying, and managing application systems in public and private cloud computing environments. The company offers Elastic Computing, a database and application infrastructure solution.
-	['', 'application infrastructure', ' ', 'cloud computing', ' ', 'Cloud Server', ' ', 'cloud environment', '']
-Eucalyptus Systems
-	Developer of open-source software platform for implementing on-premise private and hybrid clouds. The company offers Elastic Utility Computing Architecture for Linking Your Programs to Useful Systems (EUCALYPTUS), which implements cloud computing on clusters, as well as delivers hybrid cloud deployments for enterprise data centers.
-	['', 'cloud computing', ' ', 'hybrid cloud', ' ', 'software platform', ' ', 'computing architecture', ' ', 'cluster computing', '']
-EnStratus Networks
-	Provider of cloud management and governance solutions. The company offers enStratus, a cloud infrastructure management solution for deploying and managing enterprise-class applications in public, private, and hybrid clouds.
-	['', 'cloud management', ' ', 'governance solution', ' ', 'cloud infrastructure', '']
+Evotec International
+	Manufacturer of biopharmaceutical products. The company develops therapies for metabolic disorders based on model organisms and stem cell expertise.
+	['biomarker ', 'metabolic disorders', ' ', 'biopharmaceuticals services', '']
+Alinea Pharmaceuticals
+	Develop of therapeutics for the treatment of diabetes and other metabolic disorders. The company also commercialize pharmaceuticals for the treatment of diabetes and related metabolic disorders.
+	['', 'diabetes treatment therapeutic', ' ', 'metabolic disorder treatment', ' ', 'diabetes treatment pharmaceutical', '']
+Maxia Pharmaceuticals
+	Provider of non-dermatological applications of a patented library of compounds. The company focuses on small molecule drugs that target major diseases such as cancer and metabolic disorders.
+	['', 'molecule drugs', ' ', 'metabolic disorders', ' ', 'cervical cancer', '']
+Movetis
+	Developer of drugs for the treatment of diseases in the gastrointestinal (GI) area. The company\'s products address GI disorders, such as severe chronic constipation, ascites, paediatric reflux, as well as severe forms of GI motility disorders, including refractory gastro-oesophageal reflux disease. Its lead product, Resolor, is used for the symptomatic treatment of chronic constipation in women.
+	['', 'gastrointestinal treatment', ' ', 'GI disorder', ' ', 'paediatric reflux', ' ascite gastrointestinal  constipation ', 'paediatric reflux', ' ', 'GI motility', ' ', 'refractory gastro-oesophageal reflux', '']
+Biophytis
+	Developer of drugs for metabolic disorders and age-related diseases. The company develops nutraceuticals and drug candidates derived from active natural substances.
+	['nutraceutical ', 'food supplement', ' ', 'metabolic disorder', ' ', 'drug candidate', '']
+Paradigm Therapeutics
+	Developer of drugs combining model genetics and bioinformatics. The company provides target identification and validation services based on gene knock out technology and in vivo pharmacology. The company has developed a drug discovery pipeline comprising targets and late stage pre-clinical projects in pain, CNS disorders, hormone dependent diseases such as prostate and breast cancer and metabolic diseases such as diabetes, hyperlipidemias, obesity and osteoporosis.
+	['', 'hormone dependent diseases', ' bioinformatics ', 'model genetics', ' ', 'validation services', '']
+MIGENIX
+	Developer of drugs to treat or prevent infectious, degenerative and metabolic diseases. The company is committed to advancing therapy, improving health, and enriching life by developing and commercializing drugs for the prevention and treatment of major medical diseases and certain conditions with unmet medical need.
+	['', 'commercial drug', ' ', 'disease control', ' ', 'metabolic diseases', ' infection']
+Groove Biopharma
+	Developer of therapeutics to affect cellular processes involving microRNAs. The company’s technology addresses nucleotide therapeutic drug discovery via modulation of cellular miRNA. Its technology platform presents potential for treating various diseases, including cancers, infectious disease, and metabolic disorders.
+	['', 'nucleotide therapy', ' ', 'biotechnology service', ' ', 'microRNA therapeutic', ' ', 'medical services', '']
+CareX
+	Developer of drugs for metabolic disorders.
+	['', 'metabolic disorder', ' ', 'metabolic disease treatment', ' ', 'obesity treatment', '']
+Technologie BiolActis
+	Developer of natural peptide mixtures for the treatment and prevention of diseases like lipid disorders, cardio-vascular disorders and metabolic syndrome. The company develops products for human wellness, concentrating on metabolic disorders and obesity-associated conditions weight management, systemic and local inflammation, hyperlipidemia, metabolic syndrome, hypertension, diabetes and cancer.
+	['', 'peptide mixtures', ' ', 'metabolic syndrome', ' immunotherapy ', 'metabolic drug', ' ', 'nutraceutical drugs', '']
+PRADAMA
+	Developer of drugs for bone diseases and disorders.
+	['', 'bone disease', ' ', 'bone disorder', ' ', 'bone drugs', '']

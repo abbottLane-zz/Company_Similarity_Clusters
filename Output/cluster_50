@@ -1,21 +1,33 @@
-Microgenics Holding
-	Manufacturer and seller of diagnostic reagents. The company offers CEDIA immunoassays, DRI products, including liquid and ready to use reagents, MAS control products for serum chemistry.
-	['reagents ', 'diagnostic reagents', ' immunoassays']
-SteriFix
-	Developer of non-toxic antimicrobial solutions. The company develops specialty chemical and non-toxic antimicrobial solutions for the food processing, food safety, healthcare and other industries. The company\'s patented products contain a non-toxic low pH aqueous solution that control pathogens.
-	['', 'non-toxic antimicrobial solutions', ' ', 'low pH aqueous', ' ', 'control pathogens', ' ', 'water-based compounds', ' acidic ', 'specialty chemical', '']
-Pollo Rey
-	Chain of Mexican food restaurants. The company provides dishes like Gourmet Burritos,  Roasted Chicken, Fish Tacos, Quesadillas, Fresh Salads, Stuffed Potatoes and Vegetarian Food.
-	['Quesadillas']
-Macrae Food Group
-	Manufacturer and seller of ready to eat seafood. The company provides a variety of chilled sea food products ranging from shellfish to fresh and smoked fish along with marinaded products. It also provides sea food processing services.
-	['', 'seafood products', ' ', 'marinaded products', ' ', 'smoked fish', ' ', 'food processing', '']
-Micro Analytical Systems
-	Provider of sea food products. The company provides information regarding fish origin, fishing method and maximum mercury levels for each species.
-	['seafood ', 'fishing method', ' ', 'sea food product', '']
-Conserves et Salaisons De La Noureppe
-	Provider of gourmet and other food products. The company offers cured meats, frozen foods, poultry items, sea food, grocery products, dairy products, fruits and vegetables, bakery and confectionery products, beverages and other agricultural products.
-	['', 'confectionery product', ' ', 'grocery product', ' ', 'poultry item', '']
-Food Quality Sensor International
-	Developer of real-time and interactive food freshness measurement devices. The company provides food processing, grocery distribution, food service, regulatory, defense and consumer retail markets.
-	['', 'real time device', ' ', 'food freshness device', ' ', 'consumer retail market', ' ', 'food freshness measurement', '']
+Intervaluenet
+	Provider of Internet-consulting services. The company offers Internet stategies for Web-based businesses.
+	['', 'consulting company', ' ', 'strategic consultancy', ' ', 'internet consulting', ' ', 'digital solution', ' ', 'Internet strategy', '']
+Fredio
+	Developer of a video broadcasting application. The company offers internet video content accessible on internet connected consumer electronics devices such as internet connected TVs, Blu-Ray players and game consoles.
+	['', 'video broadcasting', ' ', 'Blu-Ray', ' ', 'game consoles', '']
+Feedster
+	Provider of Internet search, targeted media and advertising delivery services. The company offers information to consumers and internet sites.
+	['', 'Internet search', ' ', 'targeted media', ' ', 'advertising delivery', '']
+WebPutty
+	Developer of e-business, internet and mobile application products. The company offers a platform for the composition and dynamic execution of server-based web applications that enables businesses to change and extend their business systems in a secure and controlled way.
+	['', 'server software', ' ', 'server-based applications', ' ', 'mobile application software', '']
+Webupdate
+	Provider of internet consulting. The company specializes in the maintenance, updating and development of websites, extranets and intranets.
+	['extranets intranets ', 'web maintenance', '']
+NOCpulse
+	Designer of internet infrastruture to provide networking services and technology management solutions to online businesses. The company is building the Internet Operational Support Service, that allows customers to gain control over their Internet infrastructure while retaining the strategic knowledge needed to grow.
+	['', 'internet infrastructure', ' ', 'networking service', ' ', 'technology management', '']
+SightSpeed
+	Provider of internet video communications services for businesses and consumers. The company offers Internet video chat and voice calling services for friends and families, as well as video conferencing solutions for businesses.
+	['', 'internet video communication', ' ', 'internet voice calling', ' ', 'video conferencing', '']
+gp3 Groupe Conseil
+	Provider of consulting services. The company helps departments and agencies to implement their strategic plan to facilitate the transition to tactical and operational plans.
+	['', 'operational plans', ' ', 'startegic plans', ' architecture']
+AdGrok
+	Provider of Internet advertising solutions for business owners. The company offers GrokBar, a Web-based platform that enables users to bid for keywords, compose text ads, and monitor traffic; and GrokBot, a Web spider that crawls into Websites looking for product pages and builds keyword campaigns.
+	['', 'Internet advertising', ' ', 'online advertising', ' ', 'text ad', ' ', 'online traffic', ' ', 'keyword campaign', ' ', 'keyword bidding', '']
+Boule Diagnostics
+	Boule Diagnostics AB is engaged in developing, manufacturing, and marketing hematology measurement systems. The company offers blood analysis systems, plastic micro capillaries, as well as support and consulting services for human and veterinary markets.
+	['hematology ', 'blood disease', ' ', 'blood analysis', ' ', 'blood diagnostic', '']
+IPET Holdings
+	Provider of products and services for the pets. The company offers pet accessories and supplies to the consumers over internet.
+	['', 'pet products', ' ', 'pet accessories', ' ', 'consumer products', '']

@@ -1,39 +1,15 @@
-ErgoNex Pharma
-	Developer of drug for Pulmonary Arterial Hypertension treatment and other treatments. The company develops the drug for treatment of diseases like high blood pressure, heart problems.
-	['', 'blood vessel', ' ', 'high blood pressure', ' ', 'drug development', '']
-Salient Pharmaceuticals
-	Developer of drugs for the treatment of multiple inflammatory gastrointestinal conditions. The company develops a proprietary compound intended for use in treating severe diarrhea associated with chemotherapy, chronic conditions, infectious diseases and other drug therapies.
-	['', 'drug compound', ' ', 'gastrointestinal disease', ' ', 'radiation therapy', ' ', 'gastrointestinal treatment', '']
-Cytochroma
-	Developer of products to treat and prevent the clinical consequences of vitamin D insufficiency and Secondary Hyperparathyroidism (SHPT) associated with (Chronic Kidney Disease) CKD. The company develops vitamin D therapies which are designed to safely and effectively treat patients with stage 3, 4 or 5 Chronic Kidney Disease.
-	['', 'vitamin D insufficiency', ' ', 'kidney disease', ' ', 'vitamin D therapy', ' ', 'elevated serum phosphorus', '']
-Zafgen
-	Developer of biopharmaceutical treatments for severe obesity. The company develops obesity therapeutics for use in the treatment of obesity and associated co morbidities.
-	['', 'obesity therapeutic', ' ', 'biological foundation', ' ', 'metabolic disorder', ' ', 'vascular targeting', ' obesity ', 'weight loss', ' ', 'obesity treatment', '']
-TurnTide
-	Developer of anti-spam technologies. The company manufactures anti-spam routers that provide perimeter-based e-mail security. Its products entail software as well as hardware.
-	['', 'anti-spam router', ' ', 'anti-spam', ' ', 'spam control', ' spamming']
-Ritter Pharmaceuticals
-	Provider of therapeutic treatments for gastrointestinal diseases and conditions. The company provides technology based upon colonic adaptation to treat gastrointestinal diseases with an initial focus on lactose intolerance.
-	['', 'therapeutic treatment', ' ', 'gastrointestinal disease treatment', ' ', 'therapeutic treatment technology', '']
-BioRelix
-	Developer of anti-infective drug treatments. The company is focused on building a portfolio of anti-infective products based on novel patented RNA targets, termed riboswitches. The company is developing its products to counter increasingly antibiotic-resistant bacterial pathogens.
-	['', 'anti-biotic drug', ' ', 'infectious disease', ' ', 'therapeutic agent', ' ', 'bacterial infection', '']
-NT Pharma
-	Manufacturer of pharmaceuticals and vaccines. The company provides promotion and sales services primarily for drugs manufactured by global pharmaceutical manufacturers, focusing on anti-infective and CNS products.
-	['vaccines ', 'drug developer', ' ', 'anti-infective', ' ', 'CNS products', '']
-Claria
-	Developer of anti-virus software. The company developed adwares, spywares and  personalized search technology for its users.
-	['spyware ', 'personalized search', ' ', 'anti-virus software', '']
-Cumbre Pharmaceuticals
-	Developer of anti-infective products for the treatment of serious and life-threatening infections, particularly those caused by antibiotic resistant pathogens. The company discovers, develops and markets anti-infective products and antibacterial drug and multifunctional anti-infective drugs that target multiple inhibitory pathways.
-	['', 'healthcare products', ' ', 'anti-infective products', ' ', 'antibacterial drug', '']
-Optimer Pharmaceuticals
-	Developer of anti-infective products. The company develops antibacterial drug for the treatment of Clostridium difficile-associated diarrhea (CDAD). It develops products that treat gastrointestinal infections and related diseases.
-	['', 'anti infective product', ' ', 'infectious disease', ' ', 'stomach infection', ' ', 'gastrointestinal treatment', '']
-Salient Interventions
-	Developer of drug for neurologic diseases. The company develops products focused on early treatment of neurologic diseases and reversal of neurologic deficits.
-	['neurologic ', 'neurologic deficits.', '']
-BRAINco Biopharma
-	Developer of personalized treatments for nervous system diseases. The company develops new diagnostic tools and treatments against nervous system diseases optimizing individual drug treatment response, increasing remission rates and decreasing relapses rates.
-	['', 'nervous system', ' ', 'antiepileptic treatment', ' diazepam phenitoin']
+Sprintly
+	Provider of project management tool for software developers. The company provides non-programmers view into what the engineers are doing and how far along they are.
+	['', 'project management tool', ' ', 'project development', ' ', 'project streamlining', '']
+Constructw@re
+	Provider of project management and collaboration solutions to the commercial construction industry. The company\'s product construct@ware is a scalable, secure, web-based solution that simplifies project management and facilitates communication and collaboration among construction companies, owners, designers and subcontractors.
+	['', 'project management', ' ', 'collaboration solutions', '']
+Boolistic
+	Developer of a search tool software. The company provides users with access to on-line resources, including communications tools, shopping services, personalized content and branded programming.
+	['shopping ', 'search tool', ' resources']
+Work For Pie
+	Developer of software for the visualization of programmer skills. The company allows software developers and other technically oriented talent to create a showcase of their relevant skills, real work product and quantifiable experience.
+	['', 'quantifiable talent', '  ', 'pie representation', ' technically oriented talent']
+Kalistick
+	Developer of quality management tool. The company provides its user with a quality management tool to implement best practices from various software development communities into a capability Maturity Model Integration (CMMI) process.
+	['', 'test optimization', ' ', 'agile testing', ' ', 'testing platform', ' ', 'software testing', '']

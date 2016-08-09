@@ -1,12 +1,9 @@
-Distributions Marc Boivin
-	Supplier of meat products. The company distributes meat products for supermarkets.
-	['', 'meat products', ' ', 'meat supplier', ' sausage beef salami']
-Snowbon
-	Provider of an online booking platform for ski and related activities. The company provides a system to book ski lift tickets, skiing equipment and also provides information regarding the hotels and climate.
-	['', 'online booking platform', ' ', 'ski lift ticket', ' ', 'skiing equipment', '']
-Easy Market
-	Developer of online booking systems for travel agencies specializing in tour packages, special offers, last minute and low cost flights.
-	['', 'booking system', ' ', 'tour package', ' ', 'low cost flight', ' ', 'computerised reservation', '']
-PortugalRes
-	Operator of an online booking platform. The company also distributes products to travel agencies and tour operators worldwide.
-	['', 'ticket booking', ' ', 'travel product', ' ', 'online travel platform', '']
+Virtugo Software
+	Provider of software products that monitor, control and optimize virtual and physical server environments. The company delivers a workflow engine-based software platform that enables system integrators to automate customer specific system management processes for computing and communications environments.
+	['', 'optimize virtual server', ' ', 'workflow engine', ' ', 'performance monitoring', ' ', 'capacity management', '']
+Abaton.com
+	Developer of Internet-based clinical applications for use by clinicians in ambulatory settings. The company provides clinical information, medical decision-making support, access to test results, order management and prescription-writing capability– opening electronic lines of communication to streamline functions and augment clinical workflow.
+	['', 'clinical application', ' ', 'information management service', ' workflow']
+NORM Research & Consulting
+	Developer of an internet based tool for the analysis of consumer decision-making at the point of purchase, using virtual store environments. The company is an independent research and consultancy firm specialized in understanding and predicting consumer and shopper behavior.
+	['', 'productivity software', ' ', 'internet based tool', ' ', 'shopper behavior', '']

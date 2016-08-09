@@ -1,24 +1,21 @@
-OnForce
-	Provider of a cloud-based platform to procure and manage independent IT workforces. The company provides a workforce-as-a-Service (WaaS) technology that gives companies access to a pool of independent IT professionals throughout the U.S. and Canada. The company\'s technology enables employers to manage independent relationships, and is designed to mitigate potential exposure related to the misclassification of the independent professional as a company employee.
-	['', 'on site technology', ' ', 'technology service', ' ', 'human resource software', '']
-General Telephone and Electronics
-	Operator of an independent telephone company. The company provides telecommunications products, telephone operations and electrical products.
-	['', 'wiring devices', ' ', 'electronic devices', ' wiring']
-Sonar Media
-	Provider of mobile application. The company\'s applications leverages social and location data from networks like Twitter, Facebook, Foursquare and LinkedIn and gives context of surrounding location and people.
-	['', 'mobile application platform', ' ', 'connecting people', ' ', 'social discovery', '']
-Visibilly
-	Provider of mobile location data from all mobile operators. The company provides positioning information independent from operator and independent from phone type.
-	['', 'mobile operator', ' ', 'mobile location data', ' ', 'mobile service', '']
-Deborah Centre
-	Operator of an independent nursery. The company provides educational assistance which includes child catering and childminding.
-	['nursery ', 'independent nursery', ' ', 'educational service', ' childminding ', "kid\\'s nursery", '']
-LOC-AID Technologies
-	Operator of a mobile location platform. The company allows mobile developers to locate their customers for enterprise authentication, fraud management and hyper-local marketing.
-	['', 'mobile location', ' ', 'location-based service', ' ', 'location-as-a-service', '']
-Withoutabox
-	Provider of independent film community. The company focuses on independent film and artists.
-	['', 'online service', ' film artist']
-Comverging Technologies
-	Provider of roaming gateway for mobile operators. The company operates an independent multi-standard roaming gateway which enables a mobile operator to offer seamless prepaid roaming in a connected ecosystem with other operators.
-	['', 'traffic flow', ' roaming ', 'connected ecosystem', ' ', 'seamless prepaid', '']
+ExpeData
+	Provider of enterprise digital writing services. The company develops software helps in attaining workflow efficiency.
+	['', 'enterprise digital writing', ' ', 'workflow efficiency', ' ', 'software developer', '']
+Editorially
+	Provider of collaborative writing and editing platform. The company provides collaboration tools designed to support and encourage the writing process.
+	['', 'rich tet format', ' rtf ', 'collaborative writing', ' ', 'editing platform', ' copyedit underpinnings HTML']
+Distill
+	Creator of a browser-based recruiting platform. The company provides a suite of products that enables collaborative, browser-based video interviews as well as tools for scheduling, taking and sharing notes and posting ability assessments.
+	['', 'recruiting platform', ' ', 'video interview', ' ', 'collaborative software', '']
+HackPad
+	Provider of a document sharing software. The company\'s product enables classroom collaboration, event planning and helps in writing personal notes.
+	['', 'document sharing', ' ', 'classroom collaboration', ' ', 'personal note', '']
+Clipik
+	Provider of video-editing platform. The company provides a platform with an interface that enables interaction between content-generating users and editors who help them edit their videos and images into workable productions.
+	['', 'photo editing', ' ', 'video editing', ' ', 'picture editing', '']
+Luidia
+	Provider of portable interactive technology for classroom and meeting room collaboration. The company is the creator of eBeam interactive technology, a plug-and-play platform designed to make nearly any surface interactive and which can record writing and drawings made on traditional whiteboards.
+	['', 'white board', ' ', 'collaboration software', ' whiteboard']
+DocVerse
+	Developer of real time sharing and simultaneous group-editing services of Microsoft PowerPoint, Excel and Word documents. The company offers DocVerse, a download plug-in that turns the Microsoft Word, PowerPoint and Excel applications into Web-enabled collaboration tools.
+	['', 'group editing service', ' ', 'document sharing tool', ' ', 'collaboration tool', '']

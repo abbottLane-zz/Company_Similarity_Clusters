@@ -1,21 +1,45 @@
-Circle of Moms
-	Provider of a community website platform for mothers. The company enables mothers to connect with friends, talk about their kids and join topical communities.
-	['', 'social networking', ' ', 'parenting site', ' ', 'motherhood community', '']
-MotoSport
-	Distributor of off-road motorcycle and all-terrain vehicle parts and equipment. The company offers bars and controls, body components, brakes, drive components, engine components, exhausts, graphics, suspension, tires, wheels, and intake components. It also distributes gear, boots, helmets, goggles, hydration packs, protective gear, gear bags, men’s casual clothing, women’s casual clothing, clearance gear, kid’s gear, pants, jerseys, gloves, and pajamas, as well as sells miscellaneous items, such as DVDs, sunglasses, tools, ramps and stands, chemicals, and original equipment manufacturer parts.
-	['', 'vehicle part', ' ', 'vehicle equipment', ' ', 'engine component', ' ', 'bike rider accessory', ' ', 'retailer of motorcycle', ' ', 'ATV part', ' ', 'sports apparel', ' ', 'off road vehicle', ' ', 'all terrain vehicle', '']
-Compring
-	Provider of a smart search platform for the flash sales and daily deals industry. The company\'s website displays offers on various products and alerts its customers about new deals as they are published online.
-	['', 'discount voucher', ' ', 'product deal', ' ', 'online deal', ' discount ', 'notification email', '']
-Breastfeeding.com
-	Provider of support and information on breastfeeding for first-time moms. The company operates an online community of mothers and birth related medical professionals for support and advice. It also provides information and support on various child health and growth issues ranging from child care and safety to potty training and teething.
-	['', 'online community', ' ', 'medical professional', ' ', 'child care', ' ', 'child health', '']
-Trus Plus Systems
-	Provider of agricultural and nursery products. The company is engaged in the production of nursery products, nursery stock, shrubbery, bulbs, fruit stock, sod and other agricultural products.
-	['', 'nursery products', ' ', 'nursery stock', ' shrubbery ', 'fruit stock', ' nursery bulbs']
-Casabu
-	Operator of an online flash sales site. The company focuses on maternity and child products including clothing, toys, nursery equipment, maternity gear and treats for mothers.
-	['', 'online flash sales', ' ', 'online site', ' ', 'online store', ' ', 'children’s brand', '']
-Clarus (acquired)
-	Provider of B2B procurement software and trading services. The company develops, manufactures and distributes a broad range of products including carabiners, protection devices, belay and rappel equipment, helmets, ropes, ice-climbing gear, backcountry gear, technical backpacks, high-end day packs, tents, trekking poles, gloves, skis, ski bindings and ski boots.
-	['', 'outdoor equipment', ' ', 'lifestyle products', ' helmets']
+Alveolus
+	Developer of non-vascular interventional stent technology. The company designs, develops and manufactures non-vascular interventional stent technology for hospitals, physicians, and patients which creates an artificial pathway, support structure and opening for hollow lumen organs that are closed or obstructed due to cancerous lesions or benign disease. The company also offers pulmonary, gastrointestinal and ancillary products for interventional pulmonologists, gastroeterologists and interventional radiologists for use in the lungs, esophagus, enteral and biliary areas.
+	['', 'interventional stent technology', ' ', 'surgery devices', ' ', 'Diagnostic device', '  ', 'ancillary products', '']
+Nova Science
+	Developer of medical devices for the interventional cardiology and radiology markets. The company\'s main areas of work are device designing, development and testing in clinical trial and regulatory process management.
+	['', 'interventional cardiology', ' radiology ', 'clinical trial', '']
+Icon Interventional Systems
+	Operator of a cardiovascular medical device company. The company offers Nuloy stent system that provides deliverability to tortuous and distal lesions. The company also provides Biosorb that offers a transformational solution to the permanency of traditional metallic implants.
+	['Cardiovascular ', 'metallic implants', ' ', 'transformational solutions', '']
+Academic Services Ambulance Partnership
+	Operator of a medical transportation company in Belgium. The company provides non-emergency ambulance services.
+	['', 'medical transportation', ' ', 'ambulance services', ' ambulance']
+Luminous Medical
+	Developer of an automated glucose measurement system for tight glycemic control in the intensive care units, operating rooms and intermediate care units. The company enables automatic sampling of blood, measures glucose and other analytes spectroscopically and returns the unchanged blood to the patient through its measurement system.
+	['', 'glucose measurement system', ' ', 'glycemic control', ' ', 'automatic blood sampling', ' ', 'healthcare service', '']
+Grandhope Biotech
+	Operator of a regenerative medical device company. The company\'s medical devices are used for the treatment of damaged tissue and organs.
+	['', 'regenerative implants', ' ', 'repair of damaged tissue', ' ', 'healthcare services', '']
+Finnomedo
+	Manufacturer of medical products. The company provides medical devices and instruments for use in ambulances and other medical fields. Its products include transparent pressure dressings.
+	['', 'medical supplies', ' ', 'bandages', '']
+IDev Technologies
+	Developer of medical devices for interventional radiology, gastroenterology, vascular surgery and cardiology surgery. The company focuses on the development of products for endovascular and interventional applications.
+	['gastroenterology ', 'cardiology surgery', ' ', 'interventional application', '']
+Cartificial
+	Operator of an orthopedic medical devices company. The company develops artificial cartilage for prosthetic hips. The company\'s product, Cartificial Hip helps in replacing prostheses with the potential of being inserted during day care surgery.
+	['', 'orthopedic company', ' ', 'artificial cartilage', ' ', 'medical devices', ' ', 'surgical devices', ' ', 'surgical implants', '']
+AiMedics
+	Operator of a medical device company. The company develops HypoMon system, a non-invasive alarm system that identifies sleep-time hypoglycaemia in children and young adults.
+	['HypoMon ', 'non-invasive', ' hypoglycaemia']
+Biometrix
+	Operator of a medical device company. The company provides medical devices for intensive care, surgery and interventional cardiology.
+	['', 'critical care products', ' ', 'thoracic catheters', ' ', 'urology products', ' ', 'ophthalmic surgery drapes', ' cardiology']
+Encapsule Medical
+	Operator of a medical device company. The company focuses on the development of disposable, non-invasive, breast biopsy devices. Its products include Flash, Halo and Phantom.
+	['', 'breast cancer', ' biopsy ', 'breast biopsy', '']
+Drops
+	Operator of a medical device company. The company supplies medical products for the treatment of renal function.
+	['', 'medical care', ' ', 'renal perfusion', ' ', 'nuclear medicine', '']
+Microcuff
+	Operator of a medical device and technology company. The company develops catheter technology, integrating micro-thin balloon components. It also provides a design platform for development of various medical devices.
+	['Balloons ', 'balloon foil', ' ', 'microthin balloon', ' cuffs']
+POP Medical Solutions
+	Operator of a medical device company. The company engages in providing a device which is used in pelvic organ prolapse repairing.
+	['', 'pelvic organ', ' ', 'pelvic floor muscles', ' ', 'internal organs', ' urinary']

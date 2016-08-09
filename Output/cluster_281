@@ -1,9 +1,48 @@
-STAPLA Ultraschall-Technik
-	Manufacturer of ultrasonic metal welding products worldwide. The company offers products, engineering and support services to industry segments including automotive, appliance (large, small and HVAC), battery (Lithium Ion and others), other electrical segments, solar and others.
-	['', 'metal welding', ' ', 'support service', ' ', 'electrical segments', ' ultrasonic battery solar']
-Ionity
-	Producer of lithium-ion-polymer batteries. The company\'s lithium-ion technology is used by high-powered mobile energy supply systems.
-	['', 'rechargeable battery', ' ', 'lithium-ion-polymer battery', 'battery', 'Lithium-ion polymer batteries', '']
-Inogen
-	Developer of respiratory home health care equipment. The company offers Inogen One, an oxygen device that provides oxygen for patients in home and away. It also provides accessories, such as mobile power charger, nasal cannula, cart and carry bag, lithium ion battery and battery charger with the device.
-	['', 'respiratory home', ' ', 'supplemental oxygen', ' ', 'portable oxygen', ' ', 'oxygen concentrator', '']
+Cierra
+	Developer of novel therapies for the minimally invasive treatment of patent foramen ovale. The company is developing devices to mend hole in the heart and significantly reduce migraines.
+	['', 'novel therapies', ' ', 'patent foramen ovale treatment', ' ', 'heart diseases', ' ', 'therapeutic devices', '']
+ConforMIS
+	Manufacturer of surgical devices for the treatment of early, moderate and late stage osteoarthritis of the knee. The company designs devices that conform to a patient\'s anatomy to achieve minimally invasive surgery and maximal sparing of bone. It also develops articular repair systems capable of re establishing normal articular alignment and shape in patients with osteoarthritis.
+	['', 'knee osteoarthritis', ' ', 'bone sparing', ' ', 'bone surgery', ' ', 'articular alignment', ' ', 'knee surgery', ' ', 'knee replacement', ' ', 'knee implant', ' ', 'orthopedic implant', ' ', 'implant design', '']
+Mitek Surgical Products
+	Provider of surgical and medical instruments. The company provides bone anchors and minimally invasive surgical tools for orthopedic surgery.
+	['', 'medical instrument', ' ', 'surgical tool', ' ', 'bone anchor', '']
+Corvascular
+	Provider of technology for minimally invasive cardiac surgery. The company is the developer of the Transarrest platform, which enables surgeons to temporarily stop a patient’s heart in order to place sutures on the coronary arteries.
+	['', 'cardiac surgery', ' ', 'surgical devices', ' ', 'surgery technology', ' ', 'heart surgery', ' ', 'coronary arteries', '']
+superDimension
+	Developer of minimally-invasive pulmonology devices that enable the diagnosis and potentially the treatment of distal lung disease. The company\'s products enable physicians to access peripheral lung lesions and mediastinal lymph nodes, provides tools to trace distal locations in the lungs and facilitates physicians with a reconstruction of the bronchial airways of the lungs.
+	['pulmonology ', 'distal lung disease', ' ', 'lung disease', ' lung']
+Xlumena
+	Developer of image-guided therapeutic endoscopy products. The company develops products that enable advanced image-guided endoscopy procedures to allow endoscopists to offer minimally invasive alternatives to patients suffering from common gastrointestinal and biliary conditions.
+	['', 'therapeutic endoscopy', ' ', 'healthcare device', ' ', 'endoscopic instrument', '']
+Cardica
+	Manufacturer of automated anastomotic systems. The Company is commercializing and developing the MicroCutter XCHANGE 30 based on its proprietary staple-on-a-strip technology intended for use by thoracic, pediatric, bariatric, colorectal and general surgeons. The MicroCutter XCHANGE 30, which is currently commercially-available, is a cartridge based microcutter device with a 5 millimeter shaft diameter and a 30 millimeter staple line currently approved for use in the United States for specified indications of use, and in the European Union, or EU, for a broader range of specified indications of use.
+	['', 'automated anastomotic system', ' ', 'bypass surgery', ' ', 'surgery equipment', '']
+Vivant Medical
+	Developer of novel and proprietary microwave ablation technology for the minimally invasive ablation of soft tissue. The company was focused in tissue-sparing tumor therapy.
+	['', 'Microwave Ablation System', ' ', 'soft tissue', '']
+GeneMachines
+	Provider of solutions for the automation and instrumentation needs of the genomics community. The company develops and provides automated solutions, collaborating with researchers to determine and address instrumentation needs and challenges.
+	['DNA']
+Solarant Medical
+	Developer of minimally invasive therapies for women who suffer from stress urinary incontinence. The company\'s technology include radio frequency bladder neck suspension, an innovative treatment for female urinary incontinence.
+	['', 'urinary incontinence', ' ', 'therapeutic device', '']
+SurgiQuest
+	Provider of technology services for minimally invasive surgery. The company offers AirSeal, a technology that creates an air curtain that maintains an insufflated and airtight environment and has application in laparoscopic and laparoscopic assisted surgery. It focuses in bariatric, colo-rectal, general, gynecological and urologic surgery.
+	['', 'technology service', ' ', 'minimally invasive surgery', ' ', 'laparoscopic assisted surgery', '']
+MedNova
+	Manufacturer of surgical and medical instruments and apparatus. The company provides less-invasive surgical products for endovascular procedures.
+	['', 'peripheral vascular disease', ' ', 'less invasive surgery', ' ', 'medical device', '']
+BEI Medical Systems
+	Manufacturer of proprietary and minimally invasive endometrial ablation system. The company launched its product in 2001 for treatment of  abnormal uterine bleeding, a condition known as menorrhagia which mainly affects women.
+	['', 'medical technology', ' ', 'endometrial ablation system', '']
+Endonetics
+	Developer of endoscopic devices for gastrointestinal disorders. The company develops minimally invasive devices for diagnosis and treatment of gastrointestinal disorders.
+	['', 'gastrointestinal reflux', ' ', 'healthcare service', ' ', 'endoscopic technologies', '']
+ActiViews
+	Developer and manufacturer of high-tech medical and surgical devices. The company develops a guiding system for interventional radiology procedures, mainly for biopsy diagnosis.
+	['', 'surgical navigation', ' ', 'diagnostic percutaneous biopsies', ' ', 'biopsy', '']
+Microsurge
+	Designer, developer and manufacturer of surgical instrumentation for use in minimally invasive surgery. The Company is currently developing families of surgical instrumentation for use in minimally invasive abdominal procedures, referred to as laparoscopy, and minimally invasive thoracic procedures, referred to as thoracoscopy.
+	['instrument invasive procedure']

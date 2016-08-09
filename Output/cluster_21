@@ -1,33 +1,30 @@
-Octagen
-	Operator of biopharmaceutical company. The company develops drugs for hemophilia, other genetic disorders and variations of recombinant B domain to avoid inactivation by flying below the radar screen of the immune system.
-	['', 'genetic disorder', ' hemophilia ', 'blood clotting', ' therapies']
-Tissue Repair Company
-	Operator of biopharmaceutical company with a clinical-stage focus on products that promote tissue repair. The company\'s scientific expertise is based on gene therapy, growth factor biology, tissue regeneration and product development.
-	['', 'tissue repair', ' ', 'tissue regeneration', ' ', 'gene therapy', '']
-Alkermes
-	Operator of a biopharmaceutical company. The company develops products based on drug-delivery technologies to enhance therapeutic outcomes in major diseases.
-	['', 'drug delivery technology', ' schizophrenia ', 'therapeutic outcomes', '']
-Neorphys
-	Operator of a biopharmaceutical company focusing on visceral pain management. The company discovered analgesic drug candidate with low side effects, especially on gastrointestinal transit, respiratory depression and addiction.
-	['', 'healhcare service', ' ', 'pharmaceutical service', ' ', 'analgesic drug', ' ', 'visceral pain management', '']
-Flex Pharma
-	Operator of a biopharmaceutical company. The company develops clinically proven products and treatments for muscle cramps and spasms.
-	['', 'muscle cramp', ' spasm ', 'neuromuscular disorder', ' program']
-Sterix
-	Operator of a biopharmaceutical company. The company specializes in the research and development of a new generation of steroid-based therapeutic products for use in oncology and metabolism or endocrine-related diseases, including cancer treatments, women\'s health, diabetes and hormone-associated diseases.
-	['steroid metabolism endocrine']
-Avidimer Therapeutics
-	Developer of targeted therapeutics to treat cancer and other diseases. It is a biopharmaceutical company that focuses on the advance use of its proprietary nano-scale therapeutic platform for the treatment of certain cancers through clinical trials.
-	['', 'cancer treatment', ' ', 'clinical trials', ' ', 'therapeutic platform', '']
-Twinstrand Therapeutics
-	Operator of biopharmaceutical company. The company engages in the discovery, development and commercialization of biological drugs for the treatment of life threatening diseases.
-	['', 'biological drugs', ' cancer']
-Setagon
-	Developer of metallic nanoporous surface modification technology. The company also develops drug delivery technologies for the intravascular treatment of cardiovascular, peripheral vascular and neurovascular diseases.
-	['', 'nanoporous modification technology', ' ', 'drug delivery technology', ' ', 'nanoporous metal coating', '']
-Ansata Therapeutics
-	Operator of a biopharmaceutical company focused on dermatologic treatments. The company develops peptide-based topical antibiotics for skin issues.
-	['', 'peptide-based', ' ', 'antibiotic product', ' ', 'topical medication', ' ', 'skin infection', ' ', 'pharmaceutical product', '']
-Axovan
-	Operator of a biopharmaceutical research company. The company is involved in the discovery of drugs linked to G protein-coupled receptors.
-	['post-genomic ', 'human genome', ' G-protein GPCRs']
+eShare Technologies
+	Provider of real-time customer and interactive communication services for e-commerce and online communities. The company\'s technologies include web-based customer service and support, customer self-service, live conferencing and events, distance learning, community chat, threaded discussion forums and custom integration tools. It also supplies application software and services to businesses, consumers and community sites.
+	['', 'Interactive Marketing', ' ', 'live chat', ' e-commerce']
+InstantService
+	Provider of live chat services. The company offers various customer communication technologies for online businesses and contact centers including an integrated suite of live chat, email management, knowledge base, web site analytics and lead capture software application.
+	['', 'live chat', ' ', 'customer communication', ' ', 'communication technologies', '']
+Evertale
+	Developer of mobile applications. The company provides an application that automatically logs user\'s activities through mobile devices and creates a scrapbook.
+	['', 'user activity', ' ', 'scrapbook application', ' ', 'social application', '']
+TouristEye
+	Provider of platform for trip planner. The company allows to plan trip on the website and view all the information and maps offline on mobile device.
+	['', 'trip planner', ' ', 'trip allowance', ' ', 'holiday planning', ' ', 'trip planning', ' ', 'travel communication', '']
+2Catalyze
+	Provider of social performance management platform. The company offers personal feedback, decision support, customer engagement, rapid peer reviews, team feedback, quick pulse, integration, consulting, live support, analytics, configuration tools and team activation services. It serves employees, consultants, managers, executives and educators, as well as teams, companies and academic/non-profits.
+	['', 'performance management', ' ', 'employee feedback', ' ', 'employee review', ' ', 'employee benchmarking', '']
+Salsa Systems
+	Provider of visual development platforms for mobile applications. The company\'s technology and services facilitates mobile e-business and it enables enterprises to extend their existing data to anyone with a personal digital assistant (PDA) or other wireless device.
+	['', 'visual development platforms', ' ', 'mobile e-business', ' ', 'software platform', '']
+ROAM Data
+	Developer of mobile application for tracking financial transactions. The company deliver real-time information and transactions to mobile professionals on their own mobile phones.
+	['', 'commerce gateway', ' ', 'mobile application', ' ', 'payment processor', '']
+Hipbone
+	Provider of real-time web interaction services for online sales and support. The company\'s products enable support center personnel to simultaneously view the same image of a Web page with prospects and customers while communicating with them using VoIP.
+	['', 'web interaction service', ' ', 'web page sharing', ' ', 'online purchasing', '']
+Kanisa
+	Provider of customer service applications. The company provides a suite of applications to support analysts, experts, users and empower customers with knowledge directly on the website.
+	['', 'customer service', ' ', 'empower customer', ' knowledge']
+Look.io
+	Developer of mobile engagement tools. The company is a provider of overlay live chat support with visual feedback into mobile applications that allows customer service agents to view and support mobile users in real-time.
+	['feedback ', 'real time', ' chat']

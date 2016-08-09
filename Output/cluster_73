@@ -1,24 +1,33 @@
-Kawa Objects
-	Provider of technology platform that enable datacenter infrastructure such as POTS, PANS and SAN infrastructure. The company offers fault tolerance, availability, security and performance optimization for business applications regardless of what hardware infrastructure is used in the data centers.
-	['', 'technology platforms', ' decoupling ', 'infrastructure management', '']
-TrixBox
-	Distributor of Asterisk based software. The company is into Implementing, installing, managing and maintaining an Asterisk-based telephony system. It also provides web interface to manage and maintain PBX system.
-	['', 'Asterisk based software', ' ', 'Asterisk installer', ' ', 'PBX application platform', ' ', 'manage telephony system', '']
-CORDA Technologies
-	Provider of data visualization software used for tasks such as creating charts, maps, and graphs. The company also develops and sells charting/graphing tools. CORDA provides services through PopChart.com, an Application Service Provider helping high-volume sports and financial web sites display statistics with exciting, interactive charts and graphs.
-	['', 'visualization software', '']
-Class Data Systems
-	Developer of software used for bandwidth management. The company\'s clientele includes organizations using the Internet, Intranets and other dedicated networks.
-	['', 'software development', ' ', 'internet management', ' ', 'bandwidth control and management', '']
-Infochimps
-	Provider of data indexing platform. The company develops a cloud based software used for implementing data infrastructure.
-	['', 'data indexing', ' ', 'cloud based software', ' ', 'data infrastructure', '']
-Matchbox
-	Developer of custom-built enterprise iPad application that streamlines the university admissions process. The company develops a cloud based application that simplifies the admissions review process.
-	['', 'admission process application', ' ', 'admission review process', ' ', 'admission process streamlining', ' ', 'Educational Software', '']
-Memeo
-	Provider of data-management services. The company’s cloud-based software enables users to access files, protect and restore data and send large files securely. The product has applications for commercial and home-based users and can be used on mobile devices.
-	['', 'database management', ' ', 'data retrieval', ' ', 'restore data', '']
-GraphDive
-	Provider of a data analytic and personalization platform. The company provides online businesses with integrated social data from platforms such as Facebook to deliver insights into their users\' top interests and key demographic data- age, education, income and relationship status.
-	['', 'social data', ' ', 'e-commerce service', ' ', 'e-commerce content', ' API ', 'social API', ' ', 'data analysis', '']
+Carefx
+	Provider of information technology solutions to the healthcare organizations in North America and Europe. The company offers Fusionfx suite of interoperable workflow and analytics solutions that streamlines clinical and business workflow, as well as connects care providers to the information they need; and business intelligence dashboards to support accountability and transparency of operations.
+	['', 'information technology', ' fxCollaboration']
+PowerInbox
+	Developer of e-mail application platform. The company enables users to run applications from inside their e-mail messages. Its open app platform enables developers to create apps that run on e-mail using HTML5.
+	['', 'email application', ' ', 'create application', ' ', 'open platform', ' ', 'application platform', '']
+Fincentric
+	Provider of retail banking and customer value management software to the financial services industry. The company\'s technology and services solutions help financial institutions automate key business processes. It serves customers in North America, Latin and Central America, and Europe.
+	['', 'customer value management', ' ', 'retail banking', ' ', 'financial service', '']
+Outbox
+	Provider of an online service that digitizes postal mail and makes it available online and on mobile devices. The company collects and manages postal mail on users\' behalf, discarding junk mail and enabling users to organize, prioritize or unsubscribe on any piece of mail.
+	['', 'mail interception', ' email ', 'post office', ' ', 'digital mailbox', ' ', 'snail mail', ' ', 'digital mail', ' mailbox']
+Qype
+	Provider of a consumer review website for goods and services in Europe. The company offers the review service in nine languages and more than 160,000 cities and towns worldwide. The service is available online and through a mobile application.
+	['', 'consumer review', ' ', 'review website', ' ', 'internet software', '']
+Cabrellis Pharmaceuticals
+	Developer of therapies for the treatment of cancer. The company\'s product includes synthetic anthracycline drug for small cell and nonsmall cell lung cancers in Japan. It also has drug commercialization rights in North America and Europe.
+	['', 'cancer treatment', ' ', 'lung cancer treatment', ' ', 'drug commercialization', '']
+Hotmail
+	Provider of Web-based e-mail services. The company electronic mail being accessible via the internet enables Hotmail users to conduct e-mail correspondence from anywhere.
+	['', 'e-mail services', ' web']
+Postini
+	Provider of on-demand communications security, compliance, and productivity solutions for email, instant messaging (IM), and the Web in North America and Europe. The company offers e-mail system administration applications and software for redirecting e-mail to wireless devices.
+	['', 'communication security', ' ', 'productivity solution', ' ', 'reporting solution', ' ', 'professional service', '']
+OZ Communications
+	Provider of consumer mobile messaging solutions. The company offers OZ Mobile IM, a solution that enables mobile operators to offer access to already established instant messaging services; OZ Consumer Email, an email solution for consumer mobile phones and devices to send and receive emails to friends and family; and OZ SmartMail, an email solution for savvy, small business, and home business professionals.
+	['', 'consumer mobile messaging', ' ', 'instant messaging service', ' ', 'email service', '']
+PTS Messaging
+	Provider of Internet call waiting and voice mail services. The company\'s services includes caller ID, personal greetings, call screening, call answer, call forwarding, voice mail and e-mail or phone-message retrieval.
+	['', 'voicemail', ' ', 'call screening', ' ', 'software services', '']
+Odigo
+	Provider of instant messaging and presence management services to wireless carriers and service providers. The company also provides related services, including private-label IM client development, IM service hosting and installation.
+	['', 'instant messaging', ' ', 'wireless carrier', ' ', 'service hosting', ' ', 'client development', '']

@@ -1,21 +1,39 @@
-Uni-Power Guaranty Company
-	Provider of financial guarantees. The company provides financial services to Chinese small and medium enterprises.
-	['', 'SMEs financing', ' ', 'loan guarantee', ' ', 'loan financing', ' ', 'financial guarantee', ' ', 'bridge financing', '']
-Dresdner Factoring
-	Provider of financing services for small and medium enterprises. The company provides capital to smaller enterprises with low cash reserves, providing sales-congruent backing against their receivables.
-	['', 'financial service', ' ', 'small business factoring', ' ', 'factoring service', '']
-Network Switching Systems
-	Developer of switching device for use by enterprises. The company develops digital telecommunications switches
-	['', 'enterprise telecommunication', ' ', 'network switch', ' networking']
-Equitant
-	Provider of working capital management solutions to large enterprises. The company\'s order-to-cash management services provides order management, credit analysis and approval, invoice and billing, cash collections, dispute resolution, cash application and financial reporting and analysis services to companies.
-	['', 'working capital management solutions', ' order-to-cash ', 'order management', ' ', 'credit analysis and approval', ' ', 'financial reporting and analysis', ' ', 'cash collections', '']
-Code Square
-	Provider of a mobile marketing platform to small and medium enterprises. The company allows businesses to leverage social engagement by rewarding customers for their loyalty. It also provides offline to online mobile services for businesses to engage and reward customers, connect via social media and lower acquisition costs.
-	['', 'mobile platform', ' ', 'medium enterprise', ' ', 'customer reward', '']
-Propel Financial Services
-	Provider of property tax financing for commercial and residential property owners. The company also provides provides capital solutions to businesses and individuals.
-	['', 'property tax', ' ', 'commercial financing', ' ', 'residential tax financing', ' ', 'tax consulting', '']
-The Business Backer
-	Provider of working capital financing. The company provides financial services to small businesses throughout the US.
-	['', 'financing option', ' ', 'business owner', ' ', 'working capital', '']
+SwitchGear Genomics
+	Provider of products for studying gene regulation in the human genome. The company develops new insights into gene regulatory networks, allowing researchers to screen entire pathways in living cells.
+	['', 'human genome', ' ', 'gene regulation', ' ', 'gene regulatory networks', ' ', 'living cells', '']
+Oxford BioMedica
+	Developer of gene-based medicines and therapeutic vaccines. The company\'s technology platform includes a gene delivery system for the treatment of the diseases of the central nervous system and the eye and a tumor antigen for anti-cancer therapy.
+	['', 'gene-based medicines', ' ', 'therapeutic vaccines', ' ', 'gene delivery system', ' ', 'tumor antigen', ' ', 'anti-cancer therapy', '']
+Genoway
+	Developer of genetically modified rat and mouse models for use in in vivo target validation and drug development. The company offers scientific consulting to enhance the reliability of the client\'s in vivo studies. It provides services or generation of transgenic mice, conditional and constitutive knockout mice, knockin mice and humanized mice.
+	['', 'transgenic mice', ' ', 'in vivo', ' ', 'mouse model', ' ', 'genetically modified', ' ', 'knockout mice', '']
+Aline Aesthetics (Aline Hyaluronic Acid Thread Technology)
+	Solid state, cross-linked hyaluronic acid. Hyaluronic acid in thread form that is attached to a needle to be used as a dermal filler for cosmetic and cancer reconstructive surgeries.
+	['', 'hyaluronic acid', ' ', 'dermal filler', ' ', 'cosmetic surgery', ' ', 'cancer reconstructive surgery', '']
+RGene Therapeutics
+	Developer of gene therapy and other nucleic acid-based drugs. The company intends to develop and commercialize gene therapies for in-vivo approaches to ovarian and breast cancer, an ex-vivo anti-sense treatment for chronic myelogenous leukemia and other applications of its gene and nucleic acid delivery systems.
+	['', 'gene therapy', ' ', 'nucleic acid', ' ', 'breast cancer', ' ', 'chronic myelogenous leukemia', '']
+Spark Therapeutics
+	Developer of gene therapy products. The company develops gene therapy products to address debilitating diseases including retinal dystrophies.
+	['', 'gene therapy', ' ', 'disease treatment', ' ', 'medical research', '']
+REGENXBIO
+	Operator of an adeno-associated virus gene therapy company. The company develops proprietary gene therapy tech to advance treatments for lysosomal storage disorders and ocular diseases, as well as other serious diseases.
+	['', 'gene therapy', ' adeno-associated ', 'viral vector', ' ', 'clinical trail', '']
+GeneOhm Sciences
+	Developer of nucleic acid-based diagnostic services. The company offers methicillin-resistant Staphylococcus aureus (MRSA) Assay, an in vitro diagnostic test for the direct detection of MRSA from a nasal specimen; StrepB Assay, an in vitro diagnostic test for the detection of Group B Streptococcus in pregnant women at the time of delivery or at any other stage of their pregnancy and Lysis Kit for the lysis of cells and spores from various sample types.
+	['', 'microbiology specimen processing', ' ', 'molecular diagnostic', ' ', 'MRSA Assay', '']
+Santaris Pharma
+	Developer of ribonucleic acid (RNA) targeted therapies. The company\'s Locked Nucleic Acid (LNA) Drug Platform and Drug Discovery Engine  is designed to deliver single-stranded Locked Nucleic Acid (LNA) based drug candidates across an array of disease states, including  cancer, cardiovascular disease, infectious and inflammatory diseases and rare genetic disorders.
+	['', 'nucleic acid', ' ', 'drug discovery engine', ' ', 'ribonucleic acid', '']
+Hémax Génome
+	Provider of a gene-discovery platform for mapping a gene on the X chromosome that is involved in regulating hematopoiesis. The company also applies its gene-discovery platform to other genes responsible for diseases showing an unequal distribution amongst genders.
+	['', 'gene-discovery platform', ' ', 'hematopoiesis regulation', ' ', 'genes identification', ' biotechnology']
+Performance Genomics
+	Developer of deoxyribonucleic acid (DNA) sequence based predictive algorithms. The company develops and commercializes deoxyribonucleic acid that control reproductive performance in mammals. It also develops genomics tests to predict how long livestock will stay fertile, which farmers can use for selective breeding.
+	['', 'livestock breeding', ' ', 'increase fertility', ' genome']
+Windy Hill Medical
+	Developer of medical devices to reduce the risk of developing breast cancer in high risk patients. The company intends to develop intraductal therapy for the prevention of breast cancer.
+	['', 'breast cancer', '']
+Dimension Therapeutics
+	Developer of gene therapies for rare diseases. The company develops novel treatment and focus on advancing its platform of gene therapy programs in rare diseases through clinical development, starting with lead programs in hemophilia and building out a world-class product engine for adeno-associated virus (AAV) therapeutics.
+	['', 'novel treatment', ' ', 'gene therapy', ' ', 'clinical development', '']

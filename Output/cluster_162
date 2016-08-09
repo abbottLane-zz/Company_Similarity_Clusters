@@ -1,48 +1,66 @@
-SHYM Technology
-	Provider of plug-in security and trust management solutions for critical business applications. SHYM\'s MailShym solutions accelerate the adoption of secure e-mail as the cornerstone for Internet transactions. It combines plug-in security integration products and a cutting edge trust management platform.
-	['', 'trust management solution', ' ', 'internet transaction', ' ', 'security integration', ' ', 'security integration', '']
-Benebit Networks
-	Provider of a security software. The company develops security software for real time protection of information in the real world, security audits, penetration testing, programmer education programs, security consulting and data classification.
-	['prevention ', 'information leakage', ' ', 'data theft', '']
-Fluxus
-	Designer of internet applications. The company provides website hosting and monitoring including database management, operation, application sharing and security management services.
-	['', 'web hosting', ' ', 'internet application', ' ', 'database management', ' ', 'monitoring services', ' ', 'security services', '']
-Malcovery Security
-	Developer of a cloud based actionable cyber security intelligence services. The company develops and delivers cloud based actionable cyber security intelligence and forensic analysis through software and services for corporations and government organizations to target cyber criminals and their activities.
-	['', 'cyber security', ' ', 'intelligence service', ' ', 'forensic analysis', '']
-Micro Technologies
-	Developer of transformational security devices. The company provides security products, including vehicle security systems, fleet monitoring systems, bike security systems among others.
-	['', 'vehicle security system', ' ', 'fleet monitoring system', ' ', 'security system', '']
-WholeSecurity
-	Provider of cyber- security software for prevention, mitigation and detection of malicious threats. The company provides protection against eavesdropping, electronic theft and other types of cyber crimes.
-	['', 'cyber crime', ' ', 'cyber security', ' ', 'electronic theft', '']
-Cortex Vision Systems
-	Provider of automated video surveillance products. The company offers various security systems for industrial, commercial, governmental and high-end residential applications.
-	['surveillance ', 'smart camera', ' ', 'security systems', '']
-Infosec
-	Provider of products and services for cyber-security. The company offers various services including security management consulting, secure technology consulting, development and operation of security systems and managed security services.
-	['cyber-security ', 'security management', ' ', 'security systems', '']
-EdenWall Technologies
-	Developer of IPS firewall and VPN security services. The company also offers training seminars and maintenance services, professional services, such as account management, security project design and implementation.
-	['', 'IPS firewall', ' ', 'security services', ' ', 'account management', '']
-Karotek Systemer
-	Provider of security systems for retail and cash handling and desktop security systems. The company specializes in the production of ballistic protection systems for vehicles and passenger cars. It also provides protection against anti-personnel, anti-tank blast mines and security systems for armored cash and bullion vans to prevent loss.
-	['', 'cash handling', ' ', 'armor security', ' ', 'specialist vehicle', ' ', 'desktop security system', ' ', 'defense system', ' ', 'modular system', ' ', 'security service', ' ', 'security glass', '']
-SSH Communications
-	Provider of security technology. The company offers technology for corporations and government entities that enable managed file transfer, secure file transfer, auditing and monitoring, mainframe connectivity, application connectivity and secure system administration. Its customers include government, financial services, retail, automotive, healthcare, federal government and public administration.
-	['', 'file transfer', ' ', 'mainframe connectivity', ' ', 'system administration', '']
-Sana Security
-	Developer of security software that is autonomous, aware of environment change, adaptive to new threats and active in preventing attacks before they do harm. The company offers Primary Response SafeConnect, a security software that provides protection against known and unknown threats, including spyware, adware and rootkits and Primary Response Memory Shield Server, which provides buffer overflow protection for various servers.
-	['', 'software services', ' ', 'security software', ' ', 'server protection', '']
-iSIGHT Partners
-	Provider of cyber security risk-management services. The company provides cyber threat tracking and security services for corporates as well as government enterprises.
-	['', 'global network security', ' ', 'intelligence service', ' ', 'intelligence products', ' ', 'intelligence service', ' ', 'intelligence product', ' ', 'security analysis', ' ', 'cyber security', ' ', 'cyber threat', '']
-NetOctave
-	Developer of Internet security solutions that provide high-performance, turnkey system security. The company designs security processors and accelerator boards that protect high-speed network communications. It builds security processors and security accelerator boards and cards for the SSL, IPsec and IP Storage markets.
-	['', 'internet services', ' ', 'Monitoring & Security', ' ', 'Network Security', '']
-Infrared Integrated Systems
-	Provider of thermal-technology products. The company designs, develops and manufactures radiometric thermal imagers, people counters, security sensors and other thermal-detection solutions for a wide range of commercial applications, including security, healthcare, supermarkets and smart-building technologies.
-	['', 'thermal technology', ' ', 'thermal imager', ' ', 'thermal imagers', ' ', 'people counter', ' ', 'people counters', ' ', 'security sensors', ' ', 'thermal detection', ' ', 'thermal', '']
-Redspin
-	Provider of information security assessments, risk management and compliance services. The company specializes in IT and web application security assessments, HIPAA security risk analysis, penetration testing and mobile device security assessments.
-	['', 'information security', ' ', 'information security assessments', ' ', 'penetration testing', ' ', 'security audits', '']
+Comarch
+	Provider of IT products for operational and business processes. The company provides CRM and business intelligence software to small and medium-sized enterprises sector.
+	['', 'banking and insurance', ' ', 'solutions and services', ' profitability']
+StackLead
+	Provider of automated sales research. The company provides financial business intelligence for developing sales leads. The company\'s platform pulls together data from multiple sources across the Web, including social media profiles that can be used for introductions and building connections.
+	['', 'data analytical service', ' algorithm ', 'public source', '']
+ProClarity
+	Provider of business intelligence software and solutions. The company offers an analytic application platform that allows companies to build custom analytic applications. Its software and solutions are used for decision support, data mining, balanced scorecards, and reporting from multiple data sources.
+	['', 'business intelligence software', ' ', 'analytic application platform', ' ', 'data mining', '']
+GeoIQ
+	Provider of software tools for mapping caches of publicly available data tagged for use with geospatial information systems (GIS) technologies. The company provides location intelligence software.
+	['', 'mapping cache software', ' ', 'information systems', ' ', 'location intelligence software', '']
+Opscape
+	Developer of business intelligence software. The company offers data visualization software that enables user to convert large data into visual representation.
+	['', 'key performance indicators', ' ', 'data visualization', ' ', 'data patterns', ' ', 'visualization software', '']
+Presstracking
+	Provider of a business intelligence tool for companies, institutions and professionals in communication. The company\'s tool provides the department responsible for the implementation of the actions to be gathering, compiling and analyzing diverse sources.
+	['', 'business intelligence tool', ' ', 'information gathering', ' ', 'data source analysis', ' ', 'data extraction', '']
+YaData
+	Provider of analytical software for marketers to micro-segment consumers. The company provides an automated business intelligence tool for self-discovery of customer micro-segments.
+	['', 'analytical software', ' ', 'micro-segment consumers', ' ', 'automated technology', ' ', 'self-discovery', ' ', 'business intelligence tool', '']
+Celequest
+	Provider of operational business intelligence solutions to enterprises. The company provides LAVA, a business intelligence solution that enables companies to provide up-to-the-time-minute business information to operational workers and empowers decision makers to spot emerging trends. It offers its solution as an appliance and as software-as-a-service.
+	['', 'operational business intelligence', ' ', 'financial performance management', ' ', 'inventory monitoring', ' ', 'risk mitigation', '']
+Ibistic Pool
+	Provider of procurement services. The company provides procurement services which enable companies to automate administrative processes.
+	['', 'purchasing pool', ' ', 'procurement services', ' ', 'administrative processes', '']
+Perceptive Pixel
+	developer of multi-touch display interfaces and screens. The company\'s products are used in applications, such as information visualization and exploration, digital content creation and storyboarding and ideation, as well as geo-spatial, command and control. It serves markets, including medical imaging, broadcast, defense, energy exploration, business intelligence, geo-intelligence, industrial design, finance, museum exhibition and entertainment.
+	['', 'business intelligence', ' ', 'industrial design', ' ', 'geo intelligence', ' ', 'museum exhibition', ' ', 'industrial design', '']
+Kynogon
+	Developer of intelligence software for interactive applications. The company provides its services to various industries including gaming, defense and security, industrial, simulation and education.
+	['', 'Artificial Intelligence solutions', ' ', 'Artificial Intelligence software', ' Kynapse ', 'gaming software', ' ', 'defense software', '']
+Anodyne Health
+	Provider of revenue cycle management software for healthcare providers. The company provides business intelligence software and outsourced billing services to large provider groups and hospital-based physician practices.
+	['', 'revenue cycle management', ' ', 'revenue cycle', ' ', 'revenue management software', ' ', 'hospital billing', '']
+Zettapoint
+	Provider of database optimization software solutions. The company classifies structured data based on actual usage and importance to the organization.It also provides with data storage platforms, as well as optimize business intelligence processes.
+	['', 'database optimization', ' ', 'software solution', ' ', 'data storage platform', ' ', 'business intelligence process', '']
+QueryObject Systems
+	Developer and provider of business intelligence software solutions that enable business managers to make strategic decisions, leveraging existing corporate data. The company delivers its products to a variety of industries, including telecommunications, healthcare, and financial services.
+	['datamarts economy digital']
+Spikes Cavell & Co
+	Provider of business intelligence, online tools and analytical insight to decision makers in the public sectors and higher education institutions. The company\'s supply management, payment recovery and advanced analytics experts deliver a range of data driven professional services to its customers.
+	['', 'online database', ' ', 'data analytic', ' ', 'decision making', '']
+Sharp Analytics
+	Provider of business intelligence technology. The company is the developer of a proprietary marketing dashboard technology, SharpView, designed to provide Fortune 500 marketers and their agencies offline-to-online campaign insights. The company\'s platform uses embedded optimization and modeling to identify key insights within data and to integrate campaign results from disparate systems, analyzing the information against pre-defined campaign goals.
+	['', 'business intelligence', ' ', 'marketing dashboard', '']
+Maximal
+	Provider of business intelligence services that enable organizations to discover the knowledge hidden in their data warehouses, gaining competitive edge.
+	['knowledge ', 'business intelligence', ' ', 'data warehouse', '']
+Balanced Insight
+	Provider of business intelligence and information management software and services. The company develops an enterprise software platform that assists customers in establishing a cost-effective platform for delivering enterprise business intelligence and performance management services.
+	['', 'cost effective platform', ' ', 'project budgets', ' ', 'performance management', '']
+LucidEra
+	Developer of business intelligence software solutions for sales management. The company offers LucidEra Enterprise, which integrates sales, marketing, and financial data, as well as tracks pipeline performances; LucidEra for Salesforce.com, which is used to accelerate sales cycles; and LucidEra for Oracle Applications, a reporting and analysis application for Oracle E-Business Suite Order Management. It also provides LucidEra Lead Insight, an on-demand application that contains prebuilt metrics focused on quality and performance of marketing leads.
+	['', 'business intelligence', ' ', 'order management', ' ', 'sales management', '']
+GOCO Company
+	Provider of management information systems. The company offers management information, knowledge management and e-learning services for government enterprises.
+	['', 'e-government solution', ' ', 'knowledge management', ' ', 'e-learning services', ' ', 'management information systems', ' MIS']
+Crystal Decisions
+	Provider of a business intelligence software. The company provides business intelligence software and services that enable the use and management of information within and among organizations.
+	['', 'software platform', ' ', 'software service', ' ', 'business service', '']
+Zanza Software
+	Developer of software allowing users to query database and create reports using the Web browser. The company offers web-based, java business intelligence solutions. It provides computer software used to access, format, process and distribute information via electronic communications networks.
+	['', 'business software', ' ', 'software services', ' ', 'query database', ' ', 'information software', '']

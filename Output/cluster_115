@@ -1,24 +1,27 @@
-Beeem
-	Developer of mobile applications for picture sharing. The application developed by company allows users to caption the pictures. It\'s application lets users write over photos and turn them into stories.
-	['', 'mobile application', ' ', 'online picture sharing', ' ', 'picture captioning', ' ', 'photo application', ' ', 'photo captioning', '']
-SocialCrunch
-	Provider of a behavior graph of internet users. The company has developed an application which collects data on consumer sentiments through quizzes and track trends.
-	['', 'marketing data', ' ', 'consumer sentiment', ' ', 'track trend', '']
-Endemic Mobile
-	Provider of an application for sharing web content with others. The company allows its users to search for animated or still pictures, videos and to deliver them to friends through the application.
-	['', 'mobile message', ' ', 'visual entertainment', ' ', 'video and image', ' ', 'funny picture', ' ', 'photo sharing', '']
-AppArchitect
-	Developer and operator of an online platform for creating mobile applications. The company provides a browser based platform which allows users to build, test and publish applications into respective application stores to reach their customers.
-	['', 'platform software', ' ', 'application store', ' ', 'publish application', '']
-Viewfinder
-	Creator of a mobile application for organizing and sharing photos. The company\'s platform enables users to organize photos into a personal library that can be accessed for sharing with other users. The software also has tools for sending messages with photos, as well as saving other\'s photos.
-	['', 'photo organization', ' ', 'photo sharing application', ' ', 'private messaging', '']
-Uppidy
-	Provider of mobile application services. The company\'s application lets users save, search and share their sms and text messages, backup, search and view their messages in real time.
-	['', 'mobile application', ' ', 'message sharing', ' ', 'texting application', ' ', 'message viewing application', '']
-Storyz
-	Developer of a mobile and web-based application. The company develops a story sharing platform that allow users to create and share stories with pictures, text messages and other content on their smartphones.
-	['', 'web based', ' ', 'story sharing', ' ', 'text message', '']
-Spoondate
-	Provider of a dating website for food-loving people. The company lets users share their tastes, talk about them, and meet others with similar taste profiles.
-	['food taste similar ', 'online dating', '']
+Pathway Therapeutics (Anticancer Drug)
+	Anticancer Drug molecules and its backup compounds in San Francisco. The drug molecules and its backup compounds are used as an inhibitor to slow down the growth of cancer cells and solid tumors.
+	['', 'oncology', ' ', 'life sciences', ' ', 'treatment of tumors', ' ', 'cancer inhibitor', '']
+Discovery Partners International
+	Provider of technologies and services to pharmaceutical and biotech companies. The company\'s services assist worldwide pharmaceutical and biotechnology companies in the design, development and production of assays of disease molecules to accelerate their drug discovery activities.
+	['', 'drug discovery', ' ', 'pharmaceutical healthcare', ' ', 'disease molecule', ' ', 'drug discovery', '']
+Trega Biosciences
+	Developer of products designed to assist pharmaceutical and biotechnology companies in the identification of drug candidates. The company conducts an internal drug discovery program in the areas of obesity, diabetes and syndrome X, a syndrome associated with obesity and diabetes, involving the human body\'s resistance to insulin.
+	['', 'drug discovery', ' ', 'drug discovery program', ' ', 'obesity treatment', ' ', 'diabetes treatment', '']
+Aratana Therapeutics
+	Developer of biopharmaceutical technology for animals. The company develops proprietary, patent-protected compounds acquired from human pharmaceutical and biotechnology companies and then develops strategies to maximize the value of the programs for the animal health market.
+	['', 'animal health', ' ', 'animal care', ' ', 'pet care', ' ', 'animal medicine', '']
+Chromatide
+	Provider of custom purification services. The company provides outsourced purification services to the pharmaceutical, biotech, agrochemical and fine chemical industries. It also offers custom peptide synthesis services.
+	['', 'custom purification service', ' ', 'purification service', ' ', 'peptide synthesis service', ' ', 'Commercial Service', '']
+C4X Discovery Holdings
+	Developer of pharmaceutical services and drug discovery. The company used a NMR-based technique to determined 3D molecular structures with high accuracy. It is focused on the design and development of medicines and partnering with the pharmaceutical sector to generate better, safer products.
+	['', 'design and development', ' ', 'pharmaceutical sector', ' ', 'pharmaceutical drug discovery', '']
+Anvil
+	Provider of data mining, analysis, and visualization services to the pharmaceutical and biotechnology companies. The company has developed a software internally which allows the exploration of large and complex datasets that help the clients in their decision-making process.
+	['', 'data exploration', ' ', 'data mining', ' ', 'data visualization', '']
+IBAH
+	Provider of complete range of development services to the pharmaceutical, biotechnology, and medical device industries. The company\'s services are designed to help clients accelerate products from discovery through development more efficiently and cost- effectively.
+	['', 'development services', ' ', 'medical device', '']
+Blue Heron Biotechnology
+	Provider of a range of synthetic DNA sequences and related services to researchers in pharmaceutical and biotechnology companies. The company offers gene synthesis, codon and expression optimization, cloning options, and variant clone sets.
+	['', 'synthetic DNA sequence', ' ', 'gene synthesis', ' ', 'cloning option', '']

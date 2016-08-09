@@ -1,45 +1,18 @@
-BlueChip Technologies
-	Developer of device agnostic lone worker support service. The company provides personal safety devices, mobile applications, systems & processes & other other range of procurement options.
-	['', 'device support', ' ', 'system support', ' ', 'application device', '']
-My Goodness
-	Producer of sports recovery food, muscle nutrition and milkshake drinks. The company produces sports recovery food and drinks, protein shakes and muscle nutrition products. It offers its sports recovery food to energize, rebuild and hydrate athletes.
-	['', 'milkshake drink', ' ', 'muscle nutrition', ' ', 'recovery food', ' sport']
-Quevita
-	Provider of a social network and pre-medical marketplace. The company offers an individual cockpit to optimize the quality of life by services such as individual sports planners and a body coach for nutrition and diets.
-	['', 'health advice', ' ', 'online health', ' ', 'online health community', ' ', 'health advisory', ' ', 'online health advisory', '']
-Rise Labs
-	Provider of personal diet coaching services. The company provides a mobile platform that connects users with expert nutrition coaches who helps them in achieving their fitness goal.
-	['', 'health and fitness', ' ', 'diet coaching', ' ', 'nutrition class', '']
-VendScreen
-	Developer of touch screen devices for vending machines. The company provides a vending machine retrofit device to combine cashless payments and nutrition label disclosure in a single device.
-	['', 'touch screen device', ' ', 'vending machine upgrade', ' wireless']
-Everlast Sports Nutrition
-	Provider of sports nutrition supplements for male and female athletes. The company offers energy shots, energy bars, beverages, protein shakes, vitamin supplements, sports multivitamins and nutrition, protein bars, protein powder, weight gainer capsules, natural fiber supplements and organic vitamins for sport personalities.
-	['', 'energy shots', ' ', 'energy bars', ' ', 'nutrition supplements', ' ', 'protein shakes', ' ', 'vitamin supplements', '']
-Superhuman
-	Developer and provider of a software for scheduling and organizing tasks. The company offers SuperCalendar, a planning and organizing application that functions as a personal assistant.
-	['', 'scheduling software', ' ', 'personal assistance', ' calender']
-LearnVest
-	Provider of interactive and educational articles and personal finance information on the web. The company provides checklists, financial tools, a set of financial basics and access to a collaborative community. It creates content based upon personal relevance, personal finance education and investing and savings trends.
-	['', 'personal finance', ' ', 'educational article', ' ', 'personal finance education', ' ', 'financial tool', '']
-FitKit
-	Provider of personal nutrition. The company provides personal nutrition on subscription.
-	['', 'healthcare industry', ' ', 'nutritional capsule', ' ', 'lifestyle quiz', '']
-EatingWell
-	Publisher of a consumer magazine, food and nutrition-related books, a Website and e-mail newsletters. The company offers EatingWell Magazine, a tool designed to guide people about eating; a website that delivers the concentration of healthful recipes and food and nutrition content on the Web and cookbooks. It also provides cookbooks, phone applications, and printable coupons, as well as cooking, kitchen, and table products online. In addition, it offers nutrition advice and information tools via consumer magazine prints, trade books, Web, newsletters, and electronic media.
-	['', 'consumer magazine', ' ', 'nutrition content', ' cooking ', 'recipe collection', ' ', 'food guide', ' ', 'phone application', '']
-Sosh
-	Provider of a personal concierge and offline activity recommendation application. The company provides its recommendations by in-taking all sorts of local listings information and targeting users based on their behavior, friends, stated interests, neighborhood and demographics.
-	['', 'algorithmic recommendation', ' ', 'data analysis', ' ', 'personal recommendation', ' ', 'social networking platform', ' ', 'recommendation application', '']
-Vitaflo
-	Provider of clinical nutritional products. The company develops specialized clinical nutrition products for metabolic disorders, nutrition support and specific health conditions such as kidney disease. The company sells its products online as well as through mail order.
-	['', 'clinical nutritional product', ' ', 'nutritional product', ' ', 'metabolic disorder', '']
-Connected
-	Provider of a website that manages personal relationships.
-	['', 'contact management', ' ', 'social integration', ' ', 'relationship management', '']
-DietTV.com
-	Provider of a social network built around healthy living and dieting. The site helps you find an exercise and diet plan that works for you, provides tracking of meals, water and exercise and connects you with exercise and nutrition professionals and other dieters.
-	['', 'social network', ' ', 'healthy living', ' dieting exercise ', 'diet plan', ' nutrition']
-Rupeetalk.com
-	Provider of personal finance portal. The company acts as a intermediary portal that provides personal finance product.
-	['', 'personal finance portal', ' ', 'intermediary portal', ' ', 'personal finance product', '']
+CTF Systems
+	Provider of cortex magnetoencephalography (MEG) systems. The company focuses on functional brain mapping, epilepsy localization, diagnostics in stroke recovery and fetal neurological assessment.
+	['', 'magnetoencephalography system', ' ', 'brain mapping', ' diagnostic']
+B-hive Networks
+	Provider of virtual environment management solutions. The company offers B-hive Conductor, a software solution, which delivers service level control in virtualized IT environments. It’s software solution also provides visibility into the multi-tier applications, such as end-user transaction response time, virtual machine utilization, and cross-virtual machine dependencies to the virtual infrastructure groups, as well as determines baseline performance and usage of various business services and issues service level reports. It also plans and implements virtualization projects ranging from installation to capacity planning to performance improvement, as well as offers service delivery assessment services.
+	['', 'environment management', ' ', 'service level control', ' ', 'virtual machine utilization', ' ', 'cross virtual machine', '']
+Virtuata
+	Developer of new technology for security software. The company provides innovative capabilities for securing virtual machine level information in data centers and cloud environments.
+	['', 'security software', ' ', 'data center security', ' ', 'information security', '']
+PINS Group
+	Provider of hosting and managed services. The company offers a range of services and specializes in network infrastructure, network and internet connectivity and DNS, backup and recovery, fire walling and load balancing, server hardware, operating systems and utility software, application server and database services.
+	['', 'Network infrastructure', ' ', 'hosting services', ' ', 'managed services', '']
+DataGardens
+	Provider of disaster recovery software systems. The company provides infrastructure services including virtual machine migration, virtual machine provisioning, fail over and fail back, backup and recovery across geographically distributed sites.
+	['', 'disaster recovery', ' virtualization ', 'data center migration', '']
+DVDPlay
+	Developer of automated and remotely managed DVD rental machine. The company is the developer of a rental machine for dispensing DVDs. The machine, which features a compact footprint,  is designed for heavily trafficked locations such as grocery stores, restaurants, convenience stores and apartment complexes.
+	['', 'point of sale', ' kiosk DVD']

@@ -1,21 +1,27 @@
-OnCart
-	Provider of online grocery shopping services.
-	['grocery ', 'online shopping', '']
-dealvertise
-	Provider of online deal services that enable high-reach companies to integrate daily deals into their own web sites. The company acts as a neutral facilitator of deals and a service provider of all services to building and operating a group shopping platform.
-	['', 'deal services', ' ', 'neutral facilitator', ' ', 'shopping platform', '']
-Lottay
-	Provider of online gifting solutions.
-	['', 'online gift', ' ', 'personalized message', ' ', 'personalized gift', '']
-Deal Pilot
-	Provider of comparison shopping services trough an online website. The company provides search engines for obtaining online price comparison shopping information via a global computer network and enabling consumers to make purchases of goods and services from others on a global computer network.
-	['', 'comparison shopping', ' ', 'search engines', ' ', 'computer network', ' ', 'price comparison', ' ', 'online price', '']
-6 Wunderkinder
-	Provider of a business task management software with online synchronization. The company provides an interface to track everything from grocery shopping to long-term travel plans.
-	['', 'task management software', ' ', 'online synchronization', ' ', 'productivity software', '']
-Boolistic
-	Developer of a search tool software. The company provides users with access to on-line resources, including communications tools, shopping services, personalized content and branded programming.
-	['shopping ', 'search tool', ' resources']
-FatWallet.com
-	Provider of online shopping services. The company provides coupons and deals for shoppers.
-	['', 'online shopping', ' coupon ', 'shopping deal', '']
+Concilium Technologies
+	Provider of equipments and applications services. The company provides equipments and application services to companies in broadcasting, telecommunications and electronics sectors in South Africa.
+	['', 'broadcasting equipment', ' telecommunication ', 'electronic communication', '']
+CheckPoint Pumps & Systems
+	Manufacturer of pumps. The company designs and manufactures chemical injection pumps and pump packages, control panels, pressure test systems, green energy services and process components.
+	['pumps', 'chemical injection pumps', ' ', 'pump packages', ' ', 'pressure test systems', '']
+Penn Process Technologies
+	Manufacturer of metering and process pumps. The company provides water treatment equipments.
+	['', 'water pumps', ' ', 'water treatment', ' ', 'volume pumps', '']
+Milk and Honey Shoes
+	Operator of a women’s footwear brand. The company allows women to design their own footwear online from the various designs offered that includes platform pumps, stilettos, pumps, flats, oxford heels, oxford flats, wedges, platform wedges, wedges, boots, moto boots, booties, ankle boots, platform sandals, sandals and flat sandals.
+	['', 'women’s footwear', ' stilettos sandal']
+GB Environmental
+	Manufacturer of UV air and water treatment equipment.
+	['', 'water treatment equipment', ' ', 'UV air monitoring equipment', ' ', 'water cleansing equipment', '']
+Pump Engineering
+	Manufacturer of advanced technology pumps. The company also provides technology turbo, low pressure turbo, low cost turbochargers, advanced variable speed pumps, gas processing and turbo plus systems.
+	['', 'technology pump', ' ', 'low pressure turbo', ' turbocharger ', 'variable speed pump', '']
+Cyrba
+	Manufacturer of whirlpool components. The company offers control systems, heaters, regulating valves, pop ups, light therapy, level sensors, air pumps and water pumps.
+	['', 'control systems', ' valves ', 'air pumps', '']
+Incontrol
+	Manufacturer of flow and level measurement control equipments and systems. The company provides equipments in the measurement and control of flow and level in all types of industrial process sector.
+	['', 'flow control', ' ', 'measuring equipments', ' ', 'process flow', '']
+Watertronix
+	Provider of water-treatment system for swimming pools. The company has developed a technology using salt electrolysis chlorine generation to provide odor-free water treatment. The treatment system is scalable for swimming pools in competitive, municipal, hotel and residential settings.
+	['', 'pool water', ' ', 'water-treatment system', ' ', 'swimming pools', '']

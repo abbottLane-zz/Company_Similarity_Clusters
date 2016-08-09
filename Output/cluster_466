@@ -1,57 +1,39 @@
-SilverSky
-	Provider of on demand security services for computer networks in the United States. The company\'s on demand security services include vulnerability defense, intrusion defense, managed firewall, network defense, virus protection, email defense, system defense, high speed internet access, user defense, secure hosted email, email archiving and desktop management.
-	['', 'antivirus software', ' ', 'network security', ' ', 'email security', '']
-Arxan Defense Systems
-	Provider of an application protection and anti-tamper software to the federal market in the United States. The company provides security guard technology rooted in hardware.
-	['', 'anti-tamper', ' ', 'security guard technology', ' ', 'unauthorized change', ' protection']
-Symbiot
-	Provider of risk metrics products for measurement and management of network security events. The company offers predictive tools for managing and analyzing streams of security event data. The company’s products include Symbiot 5600, a detection and mitigation solution to deliver community centric security to organizations; Symbiot.NET, a central repository of attacker profiles based on the cooperative surveillance and reconnaissance gathered by network participants; and Symbiot Orb, which provides interface solutions for users enabling them to avoid logging in or paged to monitor their network security.
-	['', 'network security', ' ', 'risk measurement', ' ', 'risk metric product', '']
-Syphan Technologies
-	Developer of network security software and technology. The company provides a security platform and equipment for enterprises, original equipment manufacturers and service providers. It also manufacture products that protect multi-staged attacks as well as protect servers against network attack.
-	['broadband ', 'security appliance', ' ', 'network attack', '']
-International Network Services
-	Provider of network consulting and security services. The company provides services for the full life cycle of a network, including planning, design, implementation, operations and optimization.
-	['', 'network consulting', ' ', 'security services', ' optimization']
-Syntensia
-	Provider of network security services. The company provides security on-demand solutions on subscription basis.
-	['', 'network security', ' ', 'security services', ' ', 'subscription basis', '']
-CoSoSys
-	Developer of network endpoint security and portable storage device enhancement solutions. The company also provides portable USB security software solutions that offer flash drive encryption, data synchronization, Outlook synchronization, and biometric data security.
-	['', 'network security', ' ', 'software solution', ' ', 'biometric data', ' ', 'data security', '']
-Arkoon Network Security
-	Provider of Internet security services. The company\'s software products enables network security, computer system protection and data confidentiality.
-	['', 'internet security', ' ', 'integrated software', ' ', 'network security', ' ', 'computer system protection', ' ', 'data confidentiality', ' ', 'firewall', '']
-Anchulsu laboratory
-	Provider of security services. The company provides security product, security consulting, security control and security ASP for various computer crime prevention and guidance activity.
-	['', 'security services', ' ', 'security consulting', ' ', 'computer crime prevention', '']
-Sereniti
-	Provider of home computer network security, technical support and management services. The company\'s products provides router security, wireless management services, folder sharing, printer sharing, share protection safeguards and security identification. The company aims to improve and enhance the flow of data for broadband service providers such as cable operators.
-	['', 'network security', ' ', 'wireless management', ' ', 'folder sharing', ' ', 'security identification', '']
-LocoMobi
-	Provider of software and hardware for security services. The company provides software and hardware for the parking, security and the transportation markets.
-	['', 'security service', ' ', 'transportation market', ' ', 'security software', '']
-Cyrye
-	Provider of commercial solutions. The company provides Drupal migration services, Growing Venture Solutions (GVS), and Drupal security services.
-	['', 'commercial solution', ' ', 'Drupal migration service', ' ', 'Growing Venture Solution', '']
-Security-7
-	Developer of network security services. The company provides security products for the corporate market against threats coming into the network through downloaded internet content.
-	['', 'internet content', ' ', 'network security', ' ', 'security service', '']
-Packet Analytics
-	Provider of network security tools. The company specializes in tool development for IT security assessments and incident response applications. It offers Network Forensics Search Engine (Net/FSE), a Linux-based software that provides a web interface for network managers to see an analytical profile of host-to-host activity based on NetFlow router data and other log information related to an organization\'s security systems.
-	['', 'security system', ' ', 'network security', ' ', 'network manager', ' ', 'router data', '']
-eTunnels
-	Provider of virtual private network and security services. The company offers connection to network servers securely using VPN technology.
-	['', 'telecommunication service providers', ' ', 'virtual private network', '']
-Reliant Protective Services
-	Provider of professional protective services. The company provides protection services which includes residential security, corporate security, loss prevention, executive body guard, executive transportation, armed security, rapid response team, private investigation to children, homes and businesses.
-	['', 'residential security', ' ', 'corporate security', ' ', 'loss prevention', ' ', 'armed security', '']
-Latis Networks (Managed Security Services Division)
-	Provider of network security services. The company handles the operation of data security for companies that don\'t have the bandwidth.
-	['', 'network security', ' bandwidth operation']
-Protego Networks
-	Provider of purpose-built intelligent network security information and threat management appliances. The company provides security threat mitigation solutions that allow organizations to quickly identify, analyze and respond to security threats targeted at mission critical networks and applications.
-	['', 'Mitigation and Response System', ' ', 'network security', ' firewall']
-Seclarity
-	Developer of network security services to users, applications and operating systems. The company offers Sinic, a security card that enforces various security policies, such as encryption, authentication and firewalling, as well as turns broadcast network into a private network by offering protection.
-	['', 'network security service', ' ', 'operating system', ' ', 'broadcast network', '']
+01 Communique Laboratory
+	Developer and provider of communication software and services. The company develops and markets remote access software which provide users the ability to conduct online meetings and access and remotely control their personal computers using a device connected to the Internet.
+	['', 'remote control', ' ', 'remote communication software', ' ', 'remote access', '']
+Solaiemes
+	Developer of communication technology for mobility and unified communications. The company provides infrastructure to help carriers and service providers to enrich the communication experience with their base of customers beyond the person to person case.
+	['', 'telco border', ' ', 'mobile cloud', ' ', 'rich communication', ' ', 'unified communication', '']
+PrintPaks
+	Designer of arts and crafts software and supplies for children. The company provides software to enable its consumers to design and create greeting cards, tee shirts, jewelry and various other items.
+	['', 'art software', ' ', 'design software', '']
+Crosslayer Networks
+	Developer of communication network products and components. The company develops scalable silicon that brings quality service capabilities to next generation switches and routers. The company\'s combined packet-processor and switch fabric architecture accommodates emerging technologies as 10-gigabit Ethernet and MPLS which allows system vendors to create products at low power and price.
+	['', 'communication network products', ' silicon ', 'switches and routers', ' ', 'switch fabric architechture', ' packet-processor']
+Emissary Systems
+	Developer of communication software. The company produces software which enable communication among personal computers.
+	['', 'personal computers', ' ', 'online communication', '']
+Xcalia
+	Provider of intermediation software to create dynamic transactional composite applications. The company produces dynamic integration software that makes it easier for companies to build composite applications in service-oriented architectures, while reusing information resources and reducing operating costs.
+	['', 'intermediation software', ' ', 'dynamic transactional', ' ', 'composite applications', ' ', 'integration software', '']
+ProwebCE
+	Developer of management and communication software for works council. The company offers ProwebCom, a software for managing and publishing content, statistical tools and interactive communication and also provides a software for managing sales by department.
+	['', 'works council', ' ', 'statistical tools', ' ', 'interactive communication', '']
+Triscend
+	Provider of configurable system-on-chip devices and microcontrollers. The company\'s software enable user to create embedded systems for communication, consumer and industrial applications.
+	['', 'embedded system', ' ', 'industrial application', ' ', 'configurable microcontroller', ' ', 'communications software', ' ', 'software applications', '']
+JetPrep
+	Manufacturer and developer of flushing device to assist clinicians in endoscopy procedures. The company produces flushing devices for washing mucosal tissue in the gastrointestinal tract.
+	['', 'flushing device', ' ', 'surgical device', ' endoscopy ', 'mucosal tissue', '']
+Ayalogic
+	Developer of communication software for games. The company offers Qmunicate, a software solution that consolidates communications into one flow, as well as manages communications across personal computers, PBX-based telephones, and mobile phones; Green-Ear C++/Windows SDK, which helps to add voice enabling network functionality to custom engine games; and Green-Ear C++/Mac SDK, which helps users to voice enabling network functionality to Mac games.
+	['', 'communication software', ' ', 'mobile phone', ' ', 'network function', ' ', 'custom engine game', ' ', 'mac game', '']
+Airwide Solutions
+	Provider of mobile infrastructure software. The company\'s software enable mobile communications for wireless operators worldwide.
+	['', 'mobile infrastructure', ' ', 'wireless communication', ' ', 'mobile communication', '']
+ZIV COMMUNICATIONS DIMAT
+	Developer and manufacturer of communication equipment for the electrical and switching equipment for private networks. The company aims to implement communication networks and operations to the electricity sector.
+	['', 'communication equipment', ' ', 'switching equipment', ' ', 'electricity sector', ' ', 'private network', '']
+Obtiva
+	Developer of Ruby on Rails software.
+	['', 'software developer', '']

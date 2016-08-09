@@ -1,12 +1,33 @@
-The Marionette Collective
-	Provider of a framework to build server orchestration or parallel job execution systems. The company offers a number of agents to manage packages, services and other common components.
-	['', 'middle ware system', ' ', 'authentication model', ' ', 'meta data', '']
-Anevia
-	Provider of video on demand software. The company offers application suites for broadcasters and telecom operators. It also offers a suite of components and applications to build-up video service infrastructures.
-	['', 'television service', ' ', 'online video streaming', ' ', 'telecom operator', '']
-AVM Software
-	Provider of video enabled chat room service. The company offers public screening rooms, which allows its users to enter a chat room and watch a streaming video together while chatting.
-	['', 'chat room service', ' ', 'video watching', ' ', 'online chatting', '']
-On Demand Group
-	Provider of video on demand services to television brands.
-	['', 'video service', ' ', 'television service', ' ', 'digital media service', '']
+Liquiverse
+	Provider of a software for editing complex data lists in diagrams. The company develops and distributes software services based on liquid browsing, a patented technology leveraging the display of charts and information lists.
+	['', 'complex data', ' ', 'Liquid Browsing', ' diagrams ', 'graphical data', '']
+Hearing Science
+	Provider of hearing health care and audiologist services. The company\'s services include marketing, public relations, managed care contracting, recruiting and training, accounting services, facility management and enhanced information systems. The company also conducts hearing tests and provides patients with hearing aids.
+	['', 'hearing health', ' ', 'audiologist services', ' ', 'diagnostic devices', ' ', 'check-up clinics', ' ', 'facility management', ' audiology']
+Widcomm
+	Provider of Internet and data communications. The company offers its Bluetooth software and systems to semiconductor, consumer electronic manufacturers, and computing device OEMs. The radio technology helps in enabling easy wireless communications.
+	['', 'bluetooth software', ' ', 'wireless connectivity solution', ' bluetooth ', 'data communication', ' ', 'radio technology', '']
+Nacre
+	Developer of a patented technology for intelligent hearing systems. The company develops electronic and passive in ear hearing protection with natural speech and radio communications.
+	['', 'hearing system', ' ', 'hearing protection', ' ', 'natural speech', ' ', 'radio communication', '']
+BeamReach Networks
+	Provider of Radio and T.V. Communications equipments.
+	['', 'remote radio broadcast', ' ', 'radio broadcasting equipment', ' ', 'TV equipment', '']
+Auris Medical
+	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
+	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
+Fryers Walk VCT
+	Provider of nursing home services for people with learning and hearing disabilities in Thetford. The company operates a 34 bedroom home to provide home care services for people with learning and hearing disabilities.
+	['', 'home care', ' ', 'nursing home', ' ', 'hearing disability', '']
+Ping Communications
+	Provider of broadband gateways, VoIP adapters, fiber equipments and remote monitoring and management systems. The company develops electronic items that combines the functionality of the broadband modem and wireless router.
+	['', 'broadband gateways', ' ', 'fiber equipment', ' ', 'electronic item', ' ', 'wireless router', ' ', 'remote monitoring', '']
+Dynamic Hearing
+	Provider of digital signal processing software. The company offers digital amplifier for the hearing aid and personal communications industries. The company was spun out of Cooperative Research Centre for Cochlear Implant and Hearing Aid Innovation.
+	['', 'signal processing', ' ', 'digital signal', ' ', 'digital amplifier', '']
+AVR Communications
+	Developer of hearing technologies. The company designs, manufactures and sells hearing aids for improving the auditory and verbal communication skills of hearing impaired children and adults.
+	['', 'hearing aids', ' ', 'hearing impairment', ' ', 'hearing technologies', '']
+William Demant Holding
+	Manufacturer of hearing devices. The company develops and sells products and equipment designed to aid people with hearing loss in their individual communication.
+	['', 'hearing aid', ' ', 'Hearing Implants', ' ', 'Diagnostic Instruments', '']

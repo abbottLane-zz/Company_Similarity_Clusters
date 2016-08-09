@@ -1,24 +1,15 @@
-Basil Corporation
-	Manufacturer of specialized equipment for the laboratory and scientific markets. The company makes laboratory washing equipment and devices.
-	['', 'laboratory equipment', ' ', 'scientific devices', ' ', 'medical equipment', '']
-CSM Instruments
-	Provider of laboratory instruments. The company develops, produces and sells laboratory instruments for the characterization of mechanical properties on material surfaces at the micro and nano scales.
-	['', 'laboratory instrument', ' ', 'industrial product', ' ', 'commercial product', '']
-Advanced Technologies Center
-	Developer and manufacturer of scanning probe microscopes and its software. The company\'s products are used for the study of surface morphology and local properties, Internet laboratory and Internet practical studies on nanoscopy, scientific research and development in nanotechnology, scanning probe microscopy measurements and composition of bibliography reports.
-	['', 'scanning probe microscope', ' nanoscopy ', 'scientific research', ' nanotechnology']
-AdzCentral
-	Developer of a scientific media buying platform. The company offers automated digital ad buying, campaign measurement, analytics, and visitor profiling.
-	['', 'media buying', ' ', 'ad-matching', ' ', 'programmatic buying', ' ', 'smart media buying', '  ', 'campaign measurement', '']
-Hedson Technologies International
-	Provider of washing, drying and handling equipment. The company engages in the manufacture of gun cleaning devices, wheel washers and infrared curing equipment in the automotive after market sector.
-	['', 'handling equipment', ' ', 'gun cleaning device', ' ', 'wheel washer', '']
-Cellaris
-	Developer of ceramic foams. The company engages in producing industrial and laboratory heating systems, fuel cells, insulation for aircraft, rockets and satellites.
-	['', 'ceramic foams', ' ', 'heating systems', ' heat-resistant']
-AMSCO Scientific
-	Developer of scientific capital equipment. The company specializes in industrial and laboratory sterilizers, laboratory glassware and animal care washing equipment, absolute barrier isolators and sterility assurance products and supplies.
-	['', 'medical equipment', ' ', 'barrier isolator', ' ', 'pharmaceutical production', '']
-Pacific Grain and Foods
-	Provider of dry foods and animal feeds. The company supplies edible beans, rice, grains and spices to the food services industry.
-	['', 'organic products', ' ', 'dry food', ' spices']
+Loyalize
+	Developer of a media and marketing software. The company provides audience participation services for brands and content providers to engage with audiences in real-time.
+	['', 'audience participation', ' ', 'white-label service', ' rewards']
+Performable
+	Provider of an internet marketing software. The company provides a marketing software platform for converting visitors into customers.
+	['', 'online marketing', ' ', 'marketing software', ' ', 'internet marketing software', '']
+MarketHome
+	Provider of e-mail campaign management services. The company provides traditional retailers with direct marketing software to enhance their customer relations.
+	['', 'e-mail campaign', ' ', 'e-mail marketing', ' ', 'direct marketing application', '']
+Augure
+	Developer of influencer marketing software. The company develops public relations and influencer marketing software which assists companies and their agencies to detect their key influencers, build awareness, engage stakeholders and collect real time analytical metrics of their reputational impact.
+	['', 'reputation management', ' ', 'real time metric', ' ', 'marketing software', '']
+Zoom Information Systems
+	Developer of transportation software and systems solutions for city, county and state governments, DOTs and the traveling public. The company\'s web-based assessment tools and software enables companies to collect and process information from people, public infrastructure and vehicles on the road in real time.
+	['', 'transportation software', ' ', 'process information', ' ', 'systems solutions', ' ', 'assessment tools', ' web-enabled']

@@ -1,27 +1,18 @@
-Cloudmetrx
-	Developer of real-time risk-return management technologies. The company provides real-time, cloud-based, mobile financial analytic services in the areas of portfolio management, risk analysis, and trading for asset management professionals.
-	['', 'risk return management', ' ', 'financial analytic', ' fin-tech ', 'financial software', '']
-Decision Dynamics
-	Developer and supplier of project controls and real time operations reporting software solutions for project management decisions. The company\'s project cost management solution provides real-time cost capture, validation, approvals and reporting, asset management and analytics.
-	['', 'project controls', ' ', 'project management decisions', ' ', 'cost management solution', ' ', 'real time operations', ' ', 'data capture', ' ', 'business analytics solutions', '']
-Strongroom Solutions
-	Provider of accounts payable and payment automation services for midsize companies. The company offers a software-as-a service platform, which enables real-time, secure invoice management and approvals for association managers and board members.
-	['', 'automation services', ' ', 'payment automation', ' ', 'invoice management', '']
-ScriptLogic
-	Provider of network administration software for Microsoft Windows-based networks. The company offers active directory, application, desktop, incident, server, SQL server, and vulnerability management solutions. It also provides Patch Authority Ultimate, an enterprise-class patch management solution; and Desktop Authority, a desktop lifecycle management solution. In addition, the company offers Security Explorer, a graphical solution for real-time management of access controls and security on workstations across the enterprise.
-	['', 'network administration software', ' ', 'patch management solution', ' ', 'desktop lifecycle management', '']
-BioSig Technologies
-	Developer of clinical technology for diagnoses and treatments of abnormal heart rhythms. The company provides electrophysiologists to make crucial clinical decisions in real time by providing information unobtainable with any other equipment presently in the electrophysiology laboratory.
-	['', 'abnormal heart', ' ', 'electrophysiology', ' ', 'electrophysiology laboratory', '']
-Workiva
-	Provider of a cloud based software for external financial reporting to meet SEC reporting requirements. The company provides a software that streamlines the manual process to draft and file Securities Exchange Commission (SEC) reports including XBRL reporting process. It integrates word processing and spreadsheet functionality, EDGAR HTML conversion and XBRL mapping and tagging into a fully-integrated, end-to-end solution that helps SEC reporting teams meet reporting requirements for a range of regulatory filings.
-	['', 'financial reporting', ' ', 'regulatory filing mapping', ' ', 'cloud software', '']
-WorkSimple
-	Provider of on demand enterprise messaging platform. The company provides an online goal communication and performance management solution that helps small and medium businesses to create an engaging and collaborative work environment. Its goal management platform for employees includes real-time goal management, 360-degree performance reviews, real-time commitment management, recognition, informal learning, workgroups, and employee profiles.
-	['', 'messaging platform', ' ', 'online goal communication', ' ', 'performance management', ' ', 'management solution', ' ', 'management platform', ' ', 'employee profile', '']
-WebSpective Software
-	Developer of management performance software solutions for large websites. The company provides internet commerce and content sites with web resource management systems designed to run e-business in real-time.
-	['', 'internet commerce', ' e-business']
-VoteIt
-	Provider of online group decisions. The company provides real-time consensus-generator that uses community interaction and polling methodologies to move groups quickly and right into action.
-	['', 'online group decision', ' ', 'polling methodology', ' ', 'information service', ' ', 'community interaction', '']
+LogLogic
+	Developer of log data management and security event management solutions for the business operations of enterprises and mid-market companies in the United States and internationally. The company’s LX-ST and MX appliances enable customers to log data from firewalls, routers, servers, applications, operating systems, and devices to be automatically collected, stored, reported, and alerted for compliance, risk mitigation, security, performance management, virtualization, and user monitoring. Its solutions also include LogLogic MX Virtual that provides enterprise-grade IT data collection, search, and storage solutions, as well as customizable alerts and reports covering identity and access management, user activity, network changes, security, business continuity, and IT performance; Enterprise Virtual Appliance, a software-based appliance that delivers on-demand and scheduled network reports for cloud deployments and virtualized data centers; and LogLogic Compliance Manager, which provides users with an executive view into an enterprise\'s compliance posture. It also provides customer support, consultation, implementation, training, and integration services. Its open log management and database activity monitoring solutions provide tools for customers to monitor activities that occur in networks, applications, databases, and servers. It serves telecommunications, technology, pharmaceutical, retail, petroleum, commercial banks, aerospace and defense, insurance, and healthcare companies.
+	['', 'log data management', ' ', 'security event management', ' ', 'risk mitigation', ' ', 'performance management', ' ', 'data collection', ' ', 'storage solution', ' ', 'activity monitoring', '']
+NewRiver
+	Provider of innovative technology solutions that simplify investor disclosure, transparency and cost savings to the delivery of fund data and investor communications. The company pioneered the first electronic prospectus, and guarantee its data to be "compliance grade" which allows customers to reduce risk, lower compliance costs and increase revenues.
+	['compliance ', 'summary prospectus', ' ', 'share class analysis', '']
+Peminic
+	Developer of healthcare IT workflow and process management software. The company offers integrated software solutions for patient safety and quality, patient relations, risk management, and legal services. Its solutions include incident manager, root cause analysis manager, patient relations manager, peer review manager, claims manager, legal matter manager, employee health manager, contract manager, compliance manager, infection control manager, performance improvement manager, and quality outcomes manager, as well as patient safety organization solutions.
+	['', 'IT workflow', ' ', 'process management software', ' ', 'integrated software solution', ' ', 'cause analysis manager', ' ', 'healthcare solution', '']
+ID Analytics
+	Provider of identity risk and fraud management services in the United States. The company offers ID Score–Risk, which delivers on-demand identity intelligence across various points of customer contact, including online, call centers, mail and in-store interactions, ID Score–Action, which calculates an identity risk score, ID Score–Revenue that enables customer management decisions, ID Analytics for Compliance, a regulatory compliance solution that uses on-demand identity intelligence to support business processes and ID Analytics for Data Defense, which detects organized misuse of personal information due to lost hard drives, stolen laptops or illicit behavior by internal or external parties.
+	['', 'fraud management', ' ', 'on demand identity', ' ', 'identity risk score', ' ', 'identity intelligence', ' ', 'identity fraud', ' ', 'identity protection', ' ', 'regulatory compliance', ' ', 'customer management decisions', '']
+Qubera Solutions
+	Provider and designer of technology services for solving business related problems. The company offers technical expertise and strategic partnerships in the ares of identity and access management, governance, risk and compliance, directory and data services and portal and content management.
+	['', 'access management', ' ', 'risk analysis', ' ', 'content management', '']
+SenSage
+	Provider of enterprise event data warehouse technology for security, compliance, call detail records data retention, data retrieval and systems management. The company offers enterprise security analytics software that provides a log management platform, for event collection, retention and analysis to automate compliance reporting, investigation and security decision support processes.
+	['', 'data warehouse', ' ', 'log management platform', ' ', 'data management architecture', ' ', 'log management', ' ', 'system management', ' ', 'security process', ' ', 'compliance reporting', '']

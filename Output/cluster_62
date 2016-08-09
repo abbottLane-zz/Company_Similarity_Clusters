@@ -1,27 +1,15 @@
-Culavis
-	Researcher of a biosensoric process. The company develops a non-invasive diagnostic method for disease detection, which detects metabolite in body liquids.
-	['', 'biosensoric process', ' ', 'biological research', ' ', 'disease detection', ' ', 'life science', '']
-United Orthopedic Group
-	Manufacturer of non invasive orthopedic rehabilitation products. The company also offers complimentary services designed for clinical effectiveness and patient satisfaction.
-	['', 'orthopedic product', '  ', 'rehabilitation product', '  ', 'clinical service', '']
-Corventis
-	Developer of medical technologies for curing cardiovascular diseases. The company\'s core product is a non-invasive monitor designed for measing different aspects of the heart’s function.
-	['', 'medical technology', ' cardiovascular healthcare']
-StrataGent Life Sciences
-	Developer of painless and non-invasive versions of therapies. The company offers large and small therapeutic molecules without a device penetrating into or through the skin.
-	['', 'drug therapy', ' ', 'painless therapy', ' ', 'non-evasive therapy', ' ', 'drug delivery', '']
-Bridge Medical
-	Provider of patient safety software and services to the healthcare industry. The company offers point-of-care patient safety system, which uses bar-code scanning, clinical bases, wireless networking, and integration to help nurses to intercept clinical errors at the patient bedside. It\'s products are used in hospitals and health systems.
-	['', 'patient safety software', ' ', 'healthcare application', ' ', 'patient safety system', '']
-Molecular Biometrics
-	Developer of non-invasive clinical tools to evaluate normal biologic function. The company offers medicines and drugs which focuses on reproductive health, neurodegenerative diseases, maternal fetal medicine, pulmonary metabolism and edema, and lactate metabolism.
-	['', 'non-invasive clinical tools', 'pharmacodiagnostics', '\\tDiagnostic Equipment', '']
-Abakus
-	Developer and provider of a Web-based electronic patient-record system. The company\'s products supports physiotherapists in clinical reasoning and decisions, and objectifying and registering physiotherapy outcome measures in cooperation with the patient or their representative.
-	['clinical ', 'patient record system', ' ', 'electronic records', ' SaaS']
-FysioSporttis
-	Provider of physiotherapy and health sports services. The company offers multiple services designed to enhance patients’ muscles and joints, as a preventative measure as well as a therapeutic one. The company provides guided exercise programs, employee wellness services and physiotherapy consultations and treatments. The company also provides workout centers, a gymnasium and solarium.
-	['physiotherapy ', 'health sports', ' ', 'workout center', ' gymnasium solarium ', 'sports service', ' wellness fitness']
-Medivance
-	Manufacturer of therapeutic temperature management services. The company provides thermal-cooling systems for hospitals. It provides Arctic Sun temperature management system non-invasive thermoregulatory device that monitors and controls patient temperature.
-	['', 'therapeutic devices', ' ', 'thermal cooling system', ' ', 'temperature management', '']
+Mountain Network Solutions
+	Provider of mainframe storage services. The company also provides hosting, storage and disaster recovery services.
+	['', 'disaster recovery', ' ', 'mainframe storage', ' hosting']
+Linux NetworX
+	Provider of Linux-based high performance computing (HPC) solutions. The company also provides technical services, such as batch scheduling implementations, application optimization, security implementations, and application configuration and tuning.
+	['', 'batch scheduling', ' ', 'application optimization', ' ', 'application configuration', ' ', 'high performance computing', '']
+OctigaBay Systems
+	Manufacturer of computing architecture for simulation and modeling applications. The company develops high performance computing (HPC) system designed around its direct connected processor architecture, an approach to parallel processing that directly links together processors, alleviating memory contention and interconnect bottlenecks found in cluster systems.
+	['', 'computing architecture', ' ', 'modeling application', ' ', 'simulation application', '']
+Candelis
+	Developer of network attached storage technologies. The company designs and develops network-attached storage appliances for computer networks and operating systems.
+	['', 'network attached storage', 'NAS', 'network storage filer', ' ', 'network storage', '']
+Seanodes
+	Provider of data storage services. The company converts unused internal disks and Direct Attached Storage (DAS) into Shared Internal Storage (SIS). The company also provides cloud computing and high performance computing services.
+	['', 'computer hardware', ' ', 'cloud computing', ' ', 'shared internal storage', ' ', 'high performance computing', '']

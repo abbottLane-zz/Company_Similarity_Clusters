@@ -1,30 +1,15 @@
-Corella Electric Wire & Cable
-	Manufacturer and supplier of telecommunication and electrical cables. The company is in the miscellaneous fabricated wire products industry and a Hispanic-owned manufacturing firm based in Phoenix.
-	['', 'Wire Product', ' ', 'fiberoptic product', ' ', 'Electrical Equipment', ' ', 'telecommunication cable', ' ', 'Cable wire', '']
-Tomaisins International
-	Developer of seeds for tomato raisins. The company develops seeds for the use of the dried tomatoes industry.
-	['seeds ', 'tomato raisins', ' ', 'cherry tomatoes', ' ', 'dried tomatoes', '']
-Concord Data Systems
-	Manufacturer of telecommunication equipment. The company designs and sells broadband and carrierband modems, network management tools to the telecommunication industries.
-	['', 'telecommunication equipment', ' modem ', 'network management', '']
-All Optical Networks
-	Provider of technology and services to the telecommunication industry. The company provides transmission, routing and storage of information through optical fiber networks.
-	['', 'optical fiber', ' routing ', 'information storage', '']
-Surveylab Group
-	Developer of data capture hardware devices for the power and telecommunication industry, military and government organizations. The company offers a handheld data capture device that survey assets in the field and store data about those assets in a map database system. It also develops remote measurement and three dimensional modelling hardware and software systems.
-	['', 'data capture device', ' ', 'modelling hardware', ' data storage']
-Cramer Systems
-	Provider of telecommunication support systems software. The company provides inventory-based OSS software that accelerates the introduction of new services, enables OSS transformation and reduces cost of ownership.
-	['', 'OSS Software', ' telecommunication inventory-based']
-Falcon Detection Technologies
-	Provider of housewares equipments. The company manufactures electric housewares and household fans.
-	['', 'houseware equipment', ' ', 'electrical equipment', ' ', 'household fan', '']
-Omnia Communications
-	Manufacturer of integrated voice and data access multiplexers. The company transport solutions to deliver data efficiently over fiber optic networks.
-	['', 'access multiplexers', ' ', 'integrated voice', ' ', 'fiber optic', ' network']
-Positron Fiber Systems
-	Manufacturer of telecommunication equipments. The company develops fiber-optic multiplexers for the telecommunication industry.
-	['', 'fiber-optic multiplexers', ' ', 'broadband access', ' ', 'telecommunication carriers', '']
-Viridis Diagnostics
-	Manufacturer of diagnostic tools and equipments. The company develops real time medical devices for infectious diseases.
-	['', 'diagnostic tools', ' ', 'medical devices', ' ', 'diagnostic equipments', '']
+Dot Wireless
+	Developer of semiconductor chip sets, embedded communication protocol software, hardware reference solutions and semiconductor intellectual property. The company’s CDMA 3G products encompass the enabling technologies required to support the convergence of data and wireless communication services.
+	['', 'technology components', ' licenser ', 'communication protocol', ' ', 'data services', ' CDMA 3G “embedded protocol software”']
+NOXA Holdings
+	Manufacturer of satellite GPS asset-tracking and messaging products. The company\'s products include SMARTONE that is used to track assets specific needs and provide intermediate and emergency alerts by email and/or text or cellular; AXTracker STX2 Satellite Transmitter, an industrial-use satellite transmitter; AXTracker MMT, a wireless device with multiple sensors and Globalstar Satellite System, a constellation of low earth-orbiting satellites that relay messages to ground stations to provide GPS location data.
+	['', 'gps tracker', ' ', 'satellite gps', ' ', 'tracking device', ' ', 'messaging product', ' ', 'email alert', ' ', 'satellite transmitter', ' ', 'wireless device', ' ', 'satellite system', '']
+CommQuest
+	Designer, developer and marketer of integrated wireless communication chip-sets, systems and related software which provide the core functionality of wireless communication subscriber equipment. The company\'s products include integrated GSM and AMPS chipsets for cellular and PCS applications, receiver and decoder chips for DBS applications and various satellite communication modems.
+	['', 'wireless communication chipsets', ' chipsets']
+Medit-Medical Interactive Technologies
+	Operator of a wireless communication platform. The company provides ultrasonic communication modems that offer wireless communications for applications.
+	['', 'broadband coomunication', ' M2M modems']
+SkyWave Mobile Communications
+	Provider of satellite communication and airtime services. The company provides satellite and satellite-cellular terminals, applications, network and professional services for mobile and fixed remote industrial tracking, monitoring, control and management.
+	['', 'satellite communication', ' ', 'satellite-cellular terminal', ' ', 'remote industrial tracking', '']

@@ -1,21 +1,33 @@
-CardSpring
-	Provider of Application Programming Interface (API). The company\'s API lets developers add new capabilities to credit and debit cards by programming the payment network to link online applications to specific payment events.
-	['', 'Application Programming Interface', ' ', 'payment network program', ' ', 'online payment application', '']
-Peak Broadcasting
-	Provider of radio broadcasting and programming strategy services. The company develops audio programming, marketing, advertiser solutions and media technology.
-	['', 'radio broadcaster', ' ', 'media technology', ' ', 'programming strategy', '']
-Orchestrate
-	Provider of an application programming interface service. The company provides an application programming interface (API), that eliminates the need to deploy databases while building new applications or adding new features to existing applications.
-	['', 'cloud agnostic', ' ', 'application programming', ' ', 'interface application', ' ', 'API service', '']
-ReportGrid
-	Provider of an advanced analytics engine for multi-structured data. The company provides an application programming interface (API) that makes it easy for SaaS vendors and technology platforms to give their customers deep analytics and insightful reporting.
-	['', 'analytic engine', ' ', 'multi-structured data', ' ', 'application programming interface', '']
-Layer 7 Technologies
-	Provider of security and management products. The company provides application programming interface for security and management products. It is a tool for managing and securing application programming interfaces (APIs).
-	['', 'service oriented', ' ', 'web security', ' ', 'cloud oriented', ' ', 'application management product', '']
-Wit.AI
-	Developer of an application programming interface-based natural language platform. The company has created a voice interface that makes it easy for developers to build applications and devices that you can talk to. It learns human language from every interaction and leverages the community.
-	['', 'application programming interface', ' ', 'natural language platform', ' ', 'voice interface', '']
-Get Scaffold
-	Provider of an identity and reputation system for the web. The company provides APIs (Application Programming Interface) for businesses to verify their users.
-	['identity reputation API']
+PIA-Engineering
+	Manufacturer of moving and lifting appliances. The company designs and delivers rolling, moving, sliding and lifting appliances required as per customer specifications.
+	['', 'sliding appliances', ' ', 'lifting appliances', ' ', 'rolling appliances', ' ', 'engineering services', ' ', 'rolling devices', '']
+CipherActive
+	Developer of a software for video coding. The company develops and markets accelerated standard encryption systems enabling wide usage of cryptography in resource constrained environments.
+	['', 'video coding', ' accelerated ', 'standard encryption', '']
+Tricord Systems
+	Developer of server appliances. The company develops and markets a wide range of server appliances for content-intensive applications.
+	['', 'server appliances', ' ', 'storage appliance', ' content-intensive ', 'data storage', '']
+Tharas Systems
+	Developer of verification appliances. The company\'s appliances are used for shortening the verification cycle of integrated circuits and electronic systems.
+	['', 'verification applications', ' ', 'integrated circuits', ' ', 'electronic systems', '']
+Redline Networks
+	Manufacturer of network appliances. The company\'s family of E|X application front end network appliances, deployed at corporate data centers, and T|X Web I/O processors, used by Web sites, are designed to control and customize any HTTP-based environment while reducing infrastructure cost and complexity.
+	['', 'enterprise data', ' ', 'network ready', ' ', 'internet infrastructure', '']
+Align Technology
+	Manufacturer of invisalign system for treating malocclusion or the misalignment of teeth. The company’s products include Invisalign Full for the treatment of a range of malocclusions. It corrects malocclusion using a series of clear, nearly invisible, removable appliances that gently move teeth to a desired final position.
+	['', 'invisalign system', ' malocclusion ', 'misalignment of teeth', '']
+eMation
+	Provider of internet infrastructure for the pervasive computing wave. The company develops software for applications involving remote control and access to computer-embedded systems, such as electric appliances and medical equipments.
+	['', 'internet infrastructure', ' ', 'remote control', ' ', 'visual information', ' computing']
+V-Secure Technologies
+	Provider of vigilant network intrusion prevention technologies. The company provides adaptive, self-learning IPS network appliances that delivers protection against a wide range of network attacks, including denial of service (DoS), distributed denial of service (DDoS), worm propagation, pre-attack probes and many others.
+	['', 'network intrusion', ' ', 'prevention technologies', ' ', 'network appliances', '']
+AngstroVision
+	Developer of a new nano-imaging device which targets characterization and metrology applications in the materials and information technology markets. The company provides a device that creates 3-D images with resolutions in the range of several nanometers that can be acquired at high speeds in a wide range of environments.
+	['nano-imaging 3D metrology']
+Red Elite de Electrodomesticos
+	Operator of a chain of retail and franchise outlets selling electrical household appliances. The company offers a joint distribution of household appliances and digital technology coverage nationwide. The company offers appliances such as portable audio, air conditioner, home theater, television, kitchen appliances and various digital equipments.
+	['', 'household appliance', ' ', 'digital technology', ' ', 'portable audio', ' ', 'kitchen appliances', '']
+Metallied Powder Solutions
+	Manufacturer of gas-atomised metal powders, such as stainless steels and other specialty alloys for tooling and mechanical component markets. The company specialises in small batches of tailor made fine powders available in a wide range of alloys with the help of its powder atomisation equipment. The company was spun out of CEIT-IK4.
+	['', 'metal powders', ' ', 'stainless steels', ' ', 'powder atomisation equipment', '']

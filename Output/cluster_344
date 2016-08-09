@@ -1,27 +1,24 @@
-Paypal
-	Provider of a digital wallet and online payment services for individuals and businesses. The company offers various ways to pay and ways to get paid, including mobile express checkout service for retailers. Its service allows users to pay in various ways, such as through credit cards, bank accounts, and buyer credit or account balances.
-	['', 'online payment', ' ', 'money transfer', ' SaaS ', 'payment solution', ' ', 'Internet payments', ' ', 'Internet commerce', '']
-Simple Finance Technology
-	Provider of banking services through Web and mobile applications. The company works in partnership with financial institutions that hold the actual deposits. It also offers deposit, money transfer and online bill payment services.
-	['', 'online banking', ' ', 'money transfer', ' ', 'bill payment', ' deposit ', 'debit card', ' ', 'consumer banking', ' ', 'saving account', '']
-Virtual Purchase Card
-	Provider of online payment system. The company also provides virtual card which offers secure electronic identification, authorization, settlement and reporting tool.
-	['electronic']
-Tactilize
-	Provider of an online blogging platform. The company develops self-publishing service for Apple’s iPad and iPad mini tablets.
-	['', 'online blog', ' ', 'blogging platform', ' ', 'iPad blog', ' ', 'blog publishing', '']
-Square
-	Provider of online payment services. The company provides online payment services to enable merchants to accept credit cards anywhere, using a card reader that plugs into a phone or iPad.
-	['', 'payment service', ' ', 'mobile payment device', ' ', 'digital payment', ' ', 'credit card payment', ' ', 'credit card reader', '']
-NextCard
-	Provider of online credit card business targeting the consumer market. The company uses the Internet to acquire customers and provide immediate approval to qualified applicants.
-	['', 'online credit card', ' ', 'credit approval', ' ', 'internet marketing', '']
-DineroMail
-	Provider of e-payment services to international merchants. The company operates as an online payment platform which helps companies to collect payments from online and offline sales. It offers different local payment methods like cash payment, credit cards, bank transfer and also e-wallet.
-	['e-payment ', 'payment platform', ' ', 'transaction software', '']
-mChek India Payment Systems
-	Provider of mobile payment services. The company offers mobile banking and payment services. It offers a hosted service for mobile money transfer and secure payments using credit cards, debit cards, bank accounts and stored-value wallets.
-	['', 'mobile payment', ' ', 'mobile banking', ' ', 'mobile money transfer', ' ', 'secure payment', ' ', 'stored value wallet', '']
-Mblox (Premium SMS Business)
-	Provider of SMS services. The company provides mobile payment services in the U.S., U.K., Ireland and Australia.
-	['', 'Premium SMS', ' message ', 'SMS messages', ' ', 'paid text message', ' ', 'text message', '']
+Blue H Group Technologies
+	Developer of deep water floating platform technology for offshore wind turbines. The company develops a product that takes wind as a primary resource and converts it into energy. Its floating platform is designed to unlock the vast potential of offshore wind at an economical cost of electricity.
+	['', 'wind turbine', ' ', 'wind electricity', ' ', 'energy infrastructure', '']
+Windcoat group
+	Producer of wind turbines. The company is engaged in the design and manufacture of wind turbines in Norway.
+	['', 'wind turbine', ' ', 'wind turbine manufacturer', '']
+ChapDrive
+	Provider of gearless technology for wind turbines. The company develops drive train services for wind turbines that enables lower weight in the nacelle, simplifies installation and reduces operation and maintenance cost. It also engages in developing hydraulic transmission for wind turbines.
+	['', 'wind turbine machinery', ' ', 'hydraulic transmission technology', ' windmill']
+Proven Energy
+	Manufacturer and supplier of small-scale wind turbines. The company designs, manufactures and markets wind turbines ranging from 2.5 kilowatts to 15kw. The company\'s turbines are designed for an array of applications, from domestic to offshore.
+	['', 'wind turbine', ' ', 'affordable renewable energy', ' ', 'domestic turbine', '']
+IQwind
+	Developer of gearbox technology for wind turbine applications. The company develops and commercializes a variable speed turbine which increases power generation efficiency and drive train reliability through reduction of loads.
+	['', 'gearbox technology', ' ', 'power generation', ' ', 'variable speed turbine', '']
+Angle Wind
+	Developer of mechanical gearbox and drive train for wind turbines. The company develops eccentric gearboxes and drivetrain technology for offshore and onshore wind turbines.
+	['', 'wind turbines', ' gearbox ', 'drive train', '']
+Safety Technology
+	Supplier of safety training and equipment for work at heights. The company offers a variety of safety courses for working onshore and offshore, including RenewableUK and GWO accredited Work at height and rescue.
+	['', 'consumer services', ' ', 'safety programs', ' ', 'safety equipments', ' harness ', 'fall arrest', ' connectors boots']
+Cool Power Products
+	Manufacturer and marketer of a load-controller device for alternative power sources. The company manufactures energy & micro-generator managers (EMMAs), supplying them to resellers. The device is designed for use with new and existing grid-connected generators, from domestic to large-scale solar photovoltaic (PV) arrays, wind turbines and hydro turbines.
+	['', 'solar electricity', ' micro-generator EMMA electricity']

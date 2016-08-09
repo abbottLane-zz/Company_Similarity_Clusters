@@ -1,36 +1,24 @@
-Periness
-	Operator of a biotechnology company focusing on addressing the problem of male infertility. The company’s product is a systemic protein-based drug for treatment of male sub-fertility.
-	['', 'reproductive technology', ' idiopathic biopharmaceutical']
-ZetaRx Biosciences
-	Operator of biotechnology company. The company engages in the development of therapies for cancer and other diseases using genetically engineered lymphocites.
-	['', 'cancer therapies', ' lymphocites genetically']
-SemBioSys Genetics
-	Developer of biotechnology solutions. The company focuses in the development stage of agricultural biotechnology that utilizes plant seed based oilbody and genetic expression technology platforms to develop high value proteins and oils and drug candidates in oil seed producing plant species.
-	['', 'pharmaceuticals and biotechnology', ' ', 'agricultural biotechnology', ' ', 'life sciences', '']
-Genizon BioSciences
-	Operator of a biotechnology company. The company discovers genes and biomarkers in common diseases using genome wide association studies (GWAS), leveraging its technology platform and access to patients.
-	['', 'genome studies', ' ', 'common diseases', ' biomarkers']
-Epitome Biosystems
-	Developer of technology to measure protein biomarkers and intracellular infrastruture. The company has developed a system using antibody microarrays to provide   measurement of protein biomarkers and intracellular signalling pathways.
-	['', 'protein measurement', ' ', 'phosphorylation measurement', ' ', 'biological system', ' ', 'drug discovery', '']
-Spectra Biomedical
-	Operator of a biotechnology company focused on neurological conditions. The company provides research into the genetic basis of certain neurological conditions, including migraine headaches.
-	['', 'biotech company', ' migraine ', 'genetic research', ' ', 'neurological condition', '']
-Syntherix
-	Operator of a biotechnology company. The company focuses in the invention of third generation cancer biomarkers using proteomics.
-	['cancer biomarkers proteomics']
-AnalytiCon Discovery
-	Operator of a biotechnology firm that involves in drug discovery. The company maintains a library of purified natural products and semi-synthetic compounds derived from natural products.
-	['', 'semi-synthetic compounds', ' ', 'natural product', ' ', 'small molecules', ' ', 'cosmetics industries', '']
-Cellular Research
-	Operator of a biotechnology research and development company. The company focuses on life science research by enabling investigation of single cells and limited samples.
-	['', 'molecular indexing', ' ', 'single cell', ' ', 'biotechnology research', '']
-The African Food Company
-	Cultivator of organic bananas. The company focuses on providing organic bananas, aiming to generate solid financial returns in combination with delivering great social and environmental benefits.
-	['plantation ', 'organic food', ' banana']
-Virxsys
-	Provider of a biotechnology company. The company provides technology for the development of gene and vaccine therapies for the treatment of HIV, cancer and genetic diseases.
-	['', 'vaccine therapy', ' ', 'genetic disease', ' ', 'biotechnology company', '']
-Anteo Diagnostics
-	Operator of a biotechnology company. The company develops and commercializes specialized surfaces used in life sciences and the research and development of surfaces for specific binding of proteins.
-	['', 'specific binding', ' Mix&Go ', 'life sciences', '']
+IHM Services
+	Provider of an analytics software for hospitals and healthcare institutions. The company focuses on transforming hospital data into clinical intelligence to help hospitals and healthcare enterprises fully automate the reporting systems, improve performance for other programs and produce predictable medical outcomes.
+	['', 'analytic software', ' ', 'hospital data', ' ', 'clinical intelligence', '']
+Logi-D
+	Provider of supply chain automation services to hospitals and healthcare institutions in North America. The company provides a platform for automation of medical supplies in hospitals and thereby reducing logistics costs.
+	['', 'software developer', ' ', 'automation services', ' ', 'medical supplies', ' ', 'healthcare institutions', '']
+Sentient Health
+	Provider of a platform with software and services for optimizing inventory management of consumable medical supplies. The company offers MedTrac software to automate supply chain management of consumable medical supplies, such as stents, syringes and gloves.
+	['', 'patient safety', ' ', 'patient care', ' ', 'inventory management', ' ', 'medical supply', '']
+Medelute
+	Provider of medical supplies. The company provides preclinical stage drug eluting materials to treat post surgical adhesions with anti-platelet approach.
+	['', 'Healthcare Devices', ' ', 'medical supplies', ' ', 'preclinical stage drug', '']
+PatientStream
+	Provider of an electronic patient tracking system for hospitals. The company provides a cloud-based healthcare operations decision support and communication automation technologies for patients and hospital staff.
+	['', 'electronic whiteboard', ' ', 'multilingual whiteboard', ' ', 'healthcare operations', ' ', 'patient tracking', ' ', 'healthcare system', '']
+Aperio Technologies
+	Provider of digital pathology systems. The company provides systems for hospitals, reference labs and pharmaceutical and research institutions.
+	['', 'digital pathology system', ' ', 'reference lab software', ' ', 'clinical application', ' pathology']
+ForHealth Technologies
+	Provider of automation technology for intravenous drug preparation.
+	['', 'automation technology', ' ', 'intravenous drug', ' ', 'robotic system', '']
+Clear Technology
+	Provider of task and process automation services.
+	['', 'process automation', ' ', 'task automation', '']

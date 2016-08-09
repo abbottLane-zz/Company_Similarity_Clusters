@@ -1,24 +1,60 @@
-PlanarMag
-	Developer of planar electromagnetic components.
-	['', 'planar component', ' ', 'electromagnetic component', ' ', 'planar electromagnetic', '']
-CyOptics
-	Developer of Indium Phosphide (InP) optical chips and components for integration into access, metro and long-haul communications systems. The company\'s products include planar lightwave circuits (PLCs) for optical networks in telecommunications and defense applications.
-	['', 'laser detector', ' ', 'planar lightwave circuit', ' ', 'optical chip', ' ', 'lightwave circuit', ' ', 'optical component', ' ', 'optical product', '']
-PhaseBridge
-	Provider of photonic integration technologies, devices and system solutions. The company offers wideband externally modulated laser transmitters, wideband integrated laser transmitters, and external cavity mode-locked lasers.
-	['semiconductors', 'laser transmitters', ' ', 'mode-locked lasers', '']
-Mintera
-	Provider of high-performance optical transport sub-systems solutions. The company\'s solutions enable deployment of next generation 40 Gbps optical transport in metro-core, regional, long- haul and ultra long-haul optical networks. It primarily serves the carriers, enterprises, educational institutions, and government agencies.
-	['', 'transport subsystem', ' ', 'optical network', ' networking ', 'data transmission', ' ', 'fiber optic', '']
-ANDevices
-	Provider of photonic devices. The company provides photonic devices for FTTH, ROADM and long-haul communication markets. The company\'s products are based on a planar lightwave circuit platform which is ideal for integration of multiple optical functions on a single chip.
-	['', 'photonic devices', ' FTTH ', 'Planar Lightwave Circuit', ' chip']
-Qtera
-	Developer of photonic transport systems for IP based and long distance carriers. The company\'s systems provide a low cost bandwidth possible by eliminating the need for opto-electronic regeneration in ultra- high-capacity backbones.
-	['', 'photonic transport system', ' ', 'photonic networking', ' ', 'low cost bandwidth', '']
-Benchmark Storage Innovations
-	Developer of tape and storage automation devices. The company\'s products are based on DLT™tape technology and it delivers its products and services through various channels and strategic partners.
-	['', 'storage automation', ' ', 'DLT tape technology', ' ', 'automation devices', ' ', 'tape storage', ' ', 'electronic parts', ' ', 'computer hardware', '']
-Xtera Communications
-	Developer of optical, internet protocol performance, and service solutions to terrestrial and sub-sea global service providers. The company’s products include NU-WAVE ES, a scalable optical line system; Nu-Wave CXR system, an OADM transport system to converge metropolitan, regional, long haul and ultra long haul systems into a homogeneous network.
-	['', 'IP performance', ' ', 'optical line', ' ', 'homogeneous network', ' ', 'ip service', '']
+Aptara
+	Provider of digital publishing software. The company offers PowerXEditor, an online authoring tool that focuses on content sharing and management, publishing, and digital rights management.
+	['', 'publishing services', ' ', 'Digital publishing', ' ', 'Digital content production', '']
+Widevine Technologies
+	Developer of encryption and key-management software systems which enable secure video services on broadband networks. The company offers Cypher, a downloadable conditional access and digital rights management solution, which secures linear broadcast, video on demand, file downloads, and streamed media; and Mensor, a theft deterrent and consumer identification solution that enables content owners, content aggregators, and service providers to track and identify where, when, and to what devices multimedia content is distributed.
+	['', 'encryption software', ' ', 'video security', ' ', 'broadband network', ' ', 'digital right', ' ', 'linear broadcast', '']
+Digitalsmiths
+	Owner and Operator of a video indexing and digital content publishing technology company. The company\'s computer-vision based video indexing search and interpretation algorithms empowers content owners and publishers to monetize their digital video content and advertisers to automatically target their advertisements.
+	['', 'video indexing', ' ', 'digital publishing', ' ', 'Multimedia & Design Software', '']
+Snocap
+	Provider of digital licensing and copyright management services. The company offers MyStores, which enables artists and labels to sell the content over the Internet. It also provides digital music and technology services.
+	['', 'digital licensing', ' ', 'copyright management', ' ', 'content management', ' ', 'digital registry', '']
+OnRequest Images
+	Provider of custom imagery. The company creates original photography using its global network of professional photographers, providing corporations and creative agencies with images shot to their specifications at rights-managed stock prices. The company\'s Custom Stock libraries are designed to give enterprises the ability to build their brands with brand-aligned imagery for marketing use.The company also provides custom production capabilities to customers for an end-to-end commissioned  service.
+	['', 'stock photography', ' ', 'photography services', ' ', 'marketing products', '']
+Base79
+	Provider of digital rights management and monetization platform. The company develops rights management technology that simplifies the digital video landscape.
+	['', 'digital technology', ' ', 'monetization platform', ' ', 'digital video landscape', '']
+MediaVast
+	Provider of visual content and related services. The company operates as a digital commerce company which provides a digital content management, licensing, and distribution platform to print and online media institutions, advertising agencies, broadcast networks, mobile carriers, communication agencies and other publishing enterprises.
+	['', 'visual content', ' ', 'digital commerce', ' ', 'digital content management', ' licensing']
+CarrierChoice
+	Provider of procurement services for digital communications. The company works with enterprise clients in sourcing and buying data, Internet, hosting and voice services, using proprietary technology reinforced through vendor-neutral support.
+	['', 'Internet services', ' ', 'telecommunications services', ' ', 'data services', '']
+Reciprocal
+	Provider of digital rights management and digital commerce services. The company offers end-to-end e-commerce services for digital content distribution over the internet and also digital rights management services for all types of content, including digital music, text, video and software.
+	['', 'digital rights', ' ', 'digital rights management', ' ', 'digital commerce', ' ', 'digital content distribution', '']
+Vincera
+	Provider of end-to-end user activity management services. The company offers user activity intelligence, license management and intellectual property protection technologies that are applicable to applications on web, software and content-based applications.
+	['', 'management solutions', ' ', 'user activity intelligence', '']
+Tacit Knowledge
+	Provider of digital commerce consultancy service to retail organizations. The company provides Web development, integration, content management and application support to retail brands.
+	['', 'digital commerce consultancy', ' ', 'internet retailer', ' ', 'web development', '']
+ZEFR
+	Provider of content rights management to movie studios on YouTube. The company allows its users to search, find, watch, discuss and share movie clips from movies. It also offers a website that offers a collection of movie clips on YouTube.
+	['', 'social marketing', ' ', 'rights management', ' ', 'video solution', ' ', 'online video platform', '']
+Licensario
+	Developer of a technology that helps independent software vendors and SaaS businesses build flexible pricing models and sell their products. The company also manages the end-user rights management, gives detailed analytics and insights, integrates with the business customer relation management.
+	['', 'pricing models', ' ', 'software developer', '']
+On Demand Distribution
+	Provider of online digital music distribution services. The company offers a distribution infrastructure, based upon the Microsoft Windows Media platform which provides for the secure download of music in a number of formats which can then be played on consumer PC\'s using the Microsoft Windows Media Player. The company also offers a distribution platform which allows retailers to use their own existing commerce system, and provide digital audio products, and rights management as an integral part of the commerce chain.
+	['', 'digital music', ' ', 'music download', ' ', 'commerce system', ' ', 'digital audio products', '']
+Blendagram
+	Developer of technology for the digital marketplace. The company provides a proprietary technology aimed at driving revenue for digital content owners.
+	['', 'monetization platform', ' ', 'digital content', '']
+Mixed Signals
+	Provider of digital content monitoring technology for multi-channel service providers, including cable, IPTV, Telco, satellite and broadcasters.
+	['', 'digital content monitoring', ' ', 'network monitoring', ' ', 'content verification', '']
+iMusica
+	Operator of a digital content management and distribution company. The company is a digital content provider for mobile operators and music services in Latin America. It develops download and streaming platforms and provides music branding services for various brands.
+	['', 'content management', ' ', 'digital content management', '  ', 'streaming platforms', '']
+MusicVision
+	Provider of worldwide digital rights to top musical talent. The company provides sponsorship programs as well as access to its online network. The company provide coordinated online and offline promotions, utilizing advertising and direct mail. The company also has telecommunication fulfillment capabilities and leverages its collection of digital rights to acquire and retain subscribers for its ISP and wireless offerings.
+	['', 'digital rights', ' ', 'music talent', ' ', 'Music network', ' ', 'music rights', '']
+Quotient Technology
+	Provider of printable coupon marketing and technology services. The company offers promotion, advertising, and direct marketing services. It also offers an all-digital coupon clearing platform which serves as an automated end-to-end digital coupons service.
+	['', 'online coupon', ' ', 'printable coupon', ' ', 'promotion service', ' ', 'coupon clearing', '']
+Managing Editor
+	Developer of software that streamlines and enhances digital production for publishing to paper, the Web, tablets or mobile. The company facilitates cross-media workflow, digital publishing strategy, layout planning and automation and ad production.
+	['', 'digital publishing', ' ', 'layout planning', ' ', 'publishing software', '']

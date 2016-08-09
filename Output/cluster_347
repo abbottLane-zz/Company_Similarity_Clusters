@@ -1,27 +1,18 @@
-RouterShare
-	The company provides technology which connects people to the internet anywhere around the world. The company create a network of Prepaid Wi-Fi Internet Access points.
-	['', 'people connection', ' ', 'access point network', ' ', 'online networking', '']
-Orthogon Systems
-	Provider of wireless Ethernet bridges and carrier-grade point-to-point broadband wireless systems. The company serves the corporate, government, healthcare, Internet service providers, and education markets in the United States, Europe, and Asia Pacific regions.
-	['ethernet ', 'wireless system', ' ', 'point to point', ' ', 'broadband wireless', '']
-Gogo
-	Provider of in-flight wireless internet services. The company is developing broadband services for both private and commercial aviation.
-	['', 'flight entertainment', ' ', 'internet service', ' ', 'wireless service', '']
-Intermetro Communications
-	Provider of voice and data communication services.The company operates VoIP switching equipment and network facilities that are utilized to provide its services to major US and international telecommunications carriers, wireless companies, broadband phone companies and, pre-paid calling card providers. It offers its services through a direct sales force, agents, and retail distribution partners, including general merchandise and discount retail chains.
-	['', 'data communication', ' ', 'wireless telecommunications', ' ', 'Carrier Services', '']
-MetroFi
-	Designer of Wi-Fi Internet networks and wireless broadband services. The company partners with city governments, local business advertisers, Internet service providers and other companies to deliver wireless broadband service to the communities in which it operates.
-	['', 'Wi-Fi internet', ' ', 'broadband service', ' ', 'wireless broadband service', '']
-Fullrate
-	Provider of broadband services. The company\'s products include internet connections with bandwidth ranging from 2 to 20 Mbit per second, and include fixed telephony in a single broadband service. The company offers its products and services using ADSL2plus technology.
-	['', 'broadband services', ' ', 'internet connections', '']
-BOB
-	Provider of wireless broadband services. The company offers internet services, business continuity plans, MPLS, point-to-point connections, online data backup, and data storage services to businesses.
-	['', 'wireless broadband service', ' ', 'online data backup', ' ', 'internet service', ' ', 'data center service', '']
-Kiyon
-	Provider of mesh networking products for wireless broadband networks. The company offers autonomic mesh networking technology that allows it to interface with higher-level protocols.
-	['', 'mesh network', ' ', 'networking products', ' ', 'networking technologies', '']
-Advanced Radio Cells
-	Manufacturer of wireless broadband access products.
-	['', 'wireless broadband', ' ', 'wireless access', ' ', 'wireless product', '']
+Triformix
+	Manufacturer of precision polymer optic and opto-electronic systems. The company also provides medical devices, such as polymer optics, including endoscope imaging lens systems, endoscope relay optics, zoom ophthalmoscope imaging and relay optics, blood plates, optical cuvettes and assay illumination optics products and disposable miniaturized imaging systems for the endoscopic device market, as well as offers lens assemblies and cameras.
+	['', 'polymer optic', ' ', 'opto electronic', ' ', 'endoscope imaging', ' ', 'ophthalmoscope imaging', ' ', 'medical equipments', ' ', 'illumination optic', '']
+Mesophotonics
+	Developer of photonic crystal technology for optical devices. The company provides technology in the fields of lasers, miniature optics, telecommunications and computing. It offers surface enhanced raman spectroscopy (SERS) for development of trace level molecular analysis applications. The company was spun out of University of Southampton.
+	['photonic crystal ', 'Surface Enhanced Raman Spectroscopy', ' SERS']
+Photop Technologies
+	Manufacturer of crystal materials, optics, microchip lasers and optoelectronic modules.
+	['', 'crystal material', ' ', 'optics instrument', ' ', 'optoelectronic module', ' photonics']
+Powerlase
+	Developer and manufacturer of high power lasers for industrial materials processing. The company designs and manufactures nanosecond Q-switched Diode Pumped Solid State lasers developed for industrial applications primarily for use in the materials processing and microelectronics markets.
+	['', 'high power lasers', ' ', 'industrial materials processing', ' ', 'material processing', ' ', 'industrial application', ' microelectronics']
+Corona Optical Systems
+	Developer and manufacturer of optoelectronic component and subsystems for carrier class equipment. The company develops parallel optical modules for switching and routing equipment.
+	['', 'optoelectronic component', ' ', 'optical modules', ' fiberoptic']
+LEDON OLED Lighting
+	Provider of services for the development of innovative lighting modules. The company develops modules for use in professional applications.
+	['', 'lighting module', ' ', 'lighting component', ' ', 'electric utility', '']

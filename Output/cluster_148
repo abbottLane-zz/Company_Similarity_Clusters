@@ -1,21 +1,24 @@
-LuciaWind
-	Operator and owner of wind farms. The company engages in the production of electric power generation through wind energy.
-	['', 'wind farms', ' electricity']
-SOGEM
-	Developer of wind energy power parks. The company develops alternate source of energy using wind power.
-	['', 'renewable energy', ' ', 'wind power', '']
-Vigor Renewables
-	Developer of renewable-power facilities in the U.K. The company works with property holders and commercial enterprises to develop and operate sustainable energy projects, including those utilizing solar and wind power.
-	['', 'renewable energy equipment', ' ', 'power generation projects', '']
-Windspire Energy
-	Provider of renewable wind power appliances to residential, business, and government customers. The company produces Windspire, a plug-n-produce wind power appliance that helps in harnessing power from the wind. It uses vertical turbine technology to harness wind energy.
-	['', 'alternative energy', ' ', 'clean tech', ' ', 'turbine technology', '']
-Ventus Energy
-	Developer of wind farms to produce energy. The company is currently in the process of planning and developing 25 sites in Ontario, Quebec, New Brunswick, Nova Scotia and Newfoundland with the potential for over 5,000 Megawatts of power.
-	['', 'produce energy', ' ', 'wind farm', ' ', 'alternative energy', '']
-Advanced Power Projects
-	Provider of power by focusing on natural gas power generation. The company develops new power plants to reduce power costs for industrial customers, as well as provides technologies to facilitate the economic deployment of wind, solar, and biomass plants.
-	['', 'power generation', ' ', 'natural gas', ' ', 'biomass plants', '']
-HF2
-	Developer of a photovoltaic power plant. The company sells energy to the market and is also entitled to the Italian GSE feed-in tariff system. The develops photovoltaic power plant that is used to reduce CO2 emissions.
-	['', 'renewable energy', ' ', 'photovoltaic power', '']
+QTY Systems
+	Manufacturer of machinery to apply insulation. The company develops machinery to automate the process of unloading, feeding and applying blown-wool insulation to buildings.
+	['', 'automatic unloading', ' ', 'insulation systems', ' ', 'wool insulation', ' ', 'industrial machinery', '']
+Energyflo Insulation Technologies
+	Developer of dynamic insulation technology for low carbon, energy-efficient buildings. The company\'s product, the Energyflo cell, is a insulation and filtration product, and is a replacement for conventional insulation products. The company\'s products are designed for thin wall construction and delivers U-Values, SAP DER points and carbon reduction to reduce condensation risk and improve indoor air quality.
+	['', 'Dynamic Insulation', ' ', 'low energy buildings', ' filtration ', 'energy-efficient', '']
+Adash New Building Materials
+	Manufacturer of external wall insulation materials. The company develops, manufactures and sells external wall insulation materials.
+	['', 'external wall insulation', ' ', 'heat insulation', ' ', 'sound absorption', ' ', 'fireproof materials', ' insulation']
+Southwest Nanotechnologies
+	Manufacturer of single wall carbon nanotubes. The company develops carbon nanotubes using catalytic method in fluidized bed reactors.
+	['', 'carbon nanotube', ' ', 'catalytic method', ' ', 'fluidized bed reactor', ' ', 'synthesis technology', ' nanotubes composites']
+PlymoVent
+	Supplier of products, systems and services for the extraction and filtration of polluted indoor air. The company provide services that remove welding and cutting fumes, grinding dust and oil mist in the metalworking industry.
+	['filtration extraction ', 'pollution filtration', ' ', 'extration services', '']
+Thermovac
+	Developer of thermal insulation technologies.The company provides vacuum insulation panels to thermal insulation manufacturers and suppliers.
+	['', 'thermal insulation', ' ', 'vacuum insulation panels', ' insulation']
+Warmroof Systems
+	Provider of ingenious roofing systems. The company provides a rigid spray-foam loft insulation and roof insulation.
+	['', 'industrial spray', ' ', 'roof insulation', ' ', 'cold side ventilation', ' ', 'commercial service', '']
+Talaria Technologies
+	Developer of a dynamic web application server. The company has developed technology that helps people build and run websites more efficiently. It supported dynamic languages like PHP, Ruby and Python.
+	['', 'web application server', ' ', 'website management', ' ', 'website building', ' ', 'code interpretation', '']

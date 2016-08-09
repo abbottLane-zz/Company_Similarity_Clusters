@@ -1,24 +1,12 @@
-Blue H Group Technologies
-	Developer of deep water floating platform technology for offshore wind turbines. The company develops a product that takes wind as a primary resource and converts it into energy. Its floating platform is designed to unlock the vast potential of offshore wind at an economical cost of electricity.
-	['', 'wind turbine', ' ', 'wind electricity', ' ', 'energy infrastructure', '']
-Windcoat group
-	Producer of wind turbines. The company is engaged in the design and manufacture of wind turbines in Norway.
-	['', 'wind turbine', ' ', 'wind turbine manufacturer', '']
-ChapDrive
-	Provider of gearless technology for wind turbines. The company develops drive train services for wind turbines that enables lower weight in the nacelle, simplifies installation and reduces operation and maintenance cost. It also engages in developing hydraulic transmission for wind turbines.
-	['', 'wind turbine machinery', ' ', 'hydraulic transmission technology', ' windmill']
-Proven Energy
-	Manufacturer and supplier of small-scale wind turbines. The company designs, manufactures and markets wind turbines ranging from 2.5 kilowatts to 15kw. The company\'s turbines are designed for an array of applications, from domestic to offshore.
-	['', 'wind turbine', ' ', 'affordable renewable energy', ' ', 'domestic turbine', '']
-IQwind
-	Developer of gearbox technology for wind turbine applications. The company develops and commercializes a variable speed turbine which increases power generation efficiency and drive train reliability through reduction of loads.
-	['', 'gearbox technology', ' ', 'power generation', ' ', 'variable speed turbine', '']
-Angle Wind
-	Developer of mechanical gearbox and drive train for wind turbines. The company develops eccentric gearboxes and drivetrain technology for offshore and onshore wind turbines.
-	['', 'wind turbines', ' gearbox ', 'drive train', '']
-Safety Technology
-	Supplier of safety training and equipment for work at heights. The company offers a variety of safety courses for working onshore and offshore, including RenewableUK and GWO accredited Work at height and rescue.
-	['', 'consumer services', ' ', 'safety programs', ' ', 'safety equipments', ' harness ', 'fall arrest', ' connectors boots']
-Cool Power Products
-	Manufacturer and marketer of a load-controller device for alternative power sources. The company manufactures energy & micro-generator managers (EMMAs), supplying them to resellers. The device is designed for use with new and existing grid-connected generators, from domestic to large-scale solar photovoltaic (PV) arrays, wind turbines and hydro turbines.
-	['', 'solar electricity', ' micro-generator EMMA electricity']
+Lively (Wireless Monitoring Technology)
+	Developer of a wireless monitoring technology for senior citizens. The company has developed a safety watch and sensors for monitoring pill dispensers, appliances and other everyday items. The system shares sensor data through its home health platform for older adults, enabling family members and other caregivers to get alerts.
+	['', 'remote sensor', ' ', 'remote monitoring', ' ', 'family networking', ' ', 'family communication platform', ' ', 'photo sharing', ' ', 'family message sharing', '']
+SENSeOR
+	Designer and developer of complete sensor systems for measuring physical quantity or determining the presence of chemical species or biological molecules. The company\'s products allow the development of new applications by using the principle of surface acoustic wave.
+	['', 'sensor systems', ' ', 'chemical species', ' ', 'biological molecules', '']
+Signal Innovations Group
+	Developer of decision systems for various sensor and data types for government customers and industry partners in national security, public safety and commercial surveillance sectors. The company offers a processing, exploitation and dissemination software suite for airborne intelligence, surveillance and reconnaissance that is deployed by analysts and war fighters on size, weight and power constrained platforms and a recognition software suite to offer a combination of detection, classification and identification techniques, as well as to collect sensor data, including radars, sonar, images and videos on onboard manned and unmanned vehicles to find and recognize air, ground and undersea military targets.
+	['', 'processing software', ' ', 'dissemination software suite', ' ', "\\'recognition software suite", ' ', 'applied defense research', ' ', 'radar signal processing', ' ', 'surveillance software', '']
+Baselabs
+	Developer of software for prototyping of driving assistance systems. The company provides the infrastructure to collect, record and replay sensor data and allows complex sensor data fusion applications.
+	['', 'driver assistance system', ' ', 'software tool', ' ', 'navigation software', '']

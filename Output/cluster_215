@@ -1,36 +1,15 @@
-Translarity
-	Manufacturer of semiconductor testing equipment. The company develops semiconductor testing technology and uses lasers to create signal pathways for electronics industry. It also provides wafer contact tools for test and burn-in and serves semiconductor manufacturers.
-	['', 'semiconductor testing', ' ', 'test equipment', ' ', 'electronic industry', ' ', 'signal pathway', ' ', 'wafer contractor', ' ', 'tester interface', ' ', 'test platform', '']
-Visys
-	Developer and marketer of automated visual inspection services, based on laser technology. The company provides digital automated sorting services to the global food and non-food processing industry.
-	['', 'visual inspection', ' ', 'laser technology', ' ', 'food processing', '']
-Tri Chemical Laboratories
-	Manufacturer of semiconductor materials. The company engages in developing semiconductor materials such as optical fiber, etching gases and special reagents.
-	['cylinders ', 'luminescence materials', ' gases ', 'glass ampoules', '']
-Metara
-	Designer and manufacturer of metrology equipment for the semiconductor industry. The company manufactures chemical metrology tools for semiconductor industry used in monitoring and controlling chemical processes.
-	['', 'metrology equipment', ' ', 'chemical tools', ' semiconductor ', 'manufacturing equipment', '']
-Boxer Cross
-	Provider of metrology tools for the semiconductor industry. The company develops and manufactures fully automated metrology systems, providing in-line monitoring of parameters affecting the electrical performance.
-	['', 'metrology system', ' ', 'monitoring system', ' ', 'electrical measurement data', '']
-Orbot Instruments
-	Manufacturer of a semiconductor inspection equipment. The company provides automated optical inspection for semiconductor industry.
-	['', 'semiconductor inspection equipment', ' ', 'automated optical inspection', ' semiconductor']
-Reasoning
-	Provider of software inspection services. The company offers discovery mapping analytics and automated software inspection services to help measure the reliability and security of a client\'s software and also helps in reducing code defects and security vulnerabilities.
-	['', 'security services', ' ', 'software inspection', '']
-TwinStar Systems
-	Manufacturer of semiconductor equipment. The company typically manufactures semiconductor for Wafer inspection.
-	['', 'wafer inspection', ' ', 'semiconductor equipment', '']
-3i Systems Corporation
-	Developer of process inspection technologies for the TFT-LCD industry in the Asia Pacific. The company offers optical-based automatic inspection equipment and supporting software for TFT-LCD manufacturing fabs to detect process defects, monitor process variations, and develop applications to extract and analyze the deficiencies in the fab manufacture process. It also provides stand-along and in-line defect inspection equipment for TFT-LCD and other FPD manufacturers in Korea, Taiwan, Japan, and China.
-	['', 'process inspection', ' ', 'optical based inspection', ' ', 'thin film transistor', ' ', 'fab manufacture', ' ', 'TFT defect inspection', '']
-MIDAS Vision Systems
-	Developer of automated optical inspection systems. The company offers automated optical inspection systems for yield management in the production of multilayer co-fired ceramic (MLC) substrates and high-density flexible printed circuit boards (FPCs).
-	['', 'inspection system', ' ', 'optical system', ' ', 'automated system', ' ', 'yield management', ' ', 'printed circuit board', '']
-Nawotech
-	Supplier of semiconductor equipment for the competitive photomask repair market. The company also supplies nano technology for semiconductor manufacturing and electron-beam based nano-structuring tools.
-	['', 'semiconductor equipment', ' ', 'nano technology', ' ', 'nano structuring tool', '']
-Cadabra Design Automation
-	Provider of automated transistor layout (ATL) tools. The company provides automated transistor layout (ATL) tools for the creation of cells used in the standard cell and semi-custom IC design process. The company\'s customer base includes semiconductor vendors, leading fabless semiconductor companies, and third-party library vendors.
-	['', 'automated transistor tools', ' semiconductor']
+Venmo
+	Provider of text messaging-based digital wallet payment system. The company is a social payments platform that makes it easy for friends to exchange money using their phones.
+	['', 'bill payment', ' ', 'text messaging', '']
+kwiry
+	Provider of a text message reminder service. The company works by allowing users to text message the number 59479 (k-w-i-r-y) with anything they may want to remember later.
+	['', 'reminder service', ' ', 'text message reminder', ' ', 'online reminder service', '']
+Tipjoy
+	Operator of a social payment engine. The company allows merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another on their payment engine.
+	['', 'social payment', ' ', 'digital content', ' ', 'payment engine', '']
+Descant
+	Provider of tools to quantify and benchmark the performance of companies using financial and market metrics. The company creates web application that makes it easy for businesses to manage and access financing and credit from a position of strength.
+	['', 'performance benchmarking', ' ', 'financial analysis', ' ', 'performance measurement tool', '']
+Wallaby Financial
+	Developer of a cloud based digital wallet for mobile and web based payments. The company develops technology and software that offers rewards and cash back to users on credit card purchases.
+	['', 'network provider', ' ', 'route transaction', ' ', 'payment card', ' ', 'digital wallet', ' ', 'web based payment', '']

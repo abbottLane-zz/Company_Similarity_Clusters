@@ -1,21 +1,30 @@
-ProVision Communications
-	Provider of digital wireless technology. The company designs, develops and licenses wireless, multi-room technologies for high definition TV. It serves consumer electronics manufacturers and multinational OEMs (original equipment manufacturers).
-	['', 'high definition television', ' ', 'consumer electronic', ' ', 'wireless networking', '']
-Smarterphone
-	Provider of an operating system for mobile phones. The company provides software to enable original equipment manufacturers (OEMs) to bring new devices to market. The company\'s product includes an application suite connecting top-layer applications with the underlying platform, targeting major carrier requirements. The company also can customize the software on client request.
-	['', 'mobile handset', ' ', 'end user application', ' ', 'multimedia tool', '']
-Mapletree Networks
-	Manufacturer of circuit and packet-based voice, data, and fax network access and core network infrastructure. The company offers embedded software and hardware solutions that allow original equipment manufacturers to integrate the universal port technology.
-	['', 'packet-based voice', ' ', 'equipment manufacturers', ' ', 'software solutions', ' ', 'hardware solutions', '']
-VT Silicon
-	Manufacturer of multi-band radio frequency integrated circuit solutions for the mobile wireless broadband market. The company’s linearization technologies enable original equipment manufacturers, original design manufacturers, and reference design houses to manufacture broadband modules and transceivers.
-	['', 'integrated circuit solution', ' ', 'broadband module', ' ', 'wireless broadband', ' ', 'linearization technology', '']
-Quorum Systems
-	Developer of radio frequency transceivers for mobile handset devices. The company provides transceivers for multi-band GSM, GPRS, EDGE, and HSDPA applications, as well as to support TD-SCDMA and GSM-EDGE operations.
-	['', 'radio frequency transceiver', ' ', 'mobile transceiver', ' ', 'semiconductor device', '']
-Tak Imaging
-	Provider of system solutions. The company provides the consumer photo printer market with system solutions including imaging technologies, semiconductors and software. The company\'s products include silicon, software and reference designs to accelerate original equipment manufacturer (OEM) time-to-market and time-to-volume requirements.
-	['', 'imaging technologies', ' ', 'semiconductor', ' ', 'photo printer', '']
-Novafora
-	Developer of digital-processing technology. The company creates video processors for original equipment manufacturers (OEMs) of digital devices.
-	['', 'video processing', '']
+Xaar
+	Developer of ink jet technologies.
+	['']
+Elonics
+	Developer of radio tuner chip technologies. The company offers radio tuner chip technologies that can be configured to support different standards and frequencies for use in set-top box receivers, PCs and other applications.
+	['', 'radio tuner', ' ', 'tuner chip', ' ', 'set-top box', ' radio']
+Cataphora
+	Developer of data mining technologies. The company develops software technologies for finding patterns and anomalies in digital communications.
+	['analytics investigation ', 'behavioral modeling', '']
+Luovaliike
+	Provider of software-engineering services in Finland. The company provides custom software technologies and network systems for its clients, and is the creator of an online platform for home-health nursing services.
+	['', 'care service', ' ', 'healthcare service', ' ', 'mobile application', '']
+Ad Valem Technologies
+	Provider of data storage and broadcasting services. The company specializes in the broadcasting and management of audiovisual content via its fiber optics distribution software targeting on TV networks, production companies, internet service providers and rights managers.
+	['', 'data storage', ' ', 'distribution software', ' ', 'production house', '']
+Netia (software)
+	Developer of editing software technologies. The company provides software technologies for managing and broadcasting audiovisual content on television and radio.
+	['', 'broadcasting television', ' ', 'radio content', ' ', 'audiovisual content', ' ', 'editing software', '']
+Kewego
+	Provider of business solutions for managing, broadcasting and monetizing videos on Internet, Intranet, mobiles and screen networks. The company provides IP-based, multi-screen video asset management solutions for managing, broadcasting and monetizing videos on PCs, mobile phones, iPads, connected TVs, gaming consoles and other Internet-connected devices. It also provides a Web portal solution that consists of a video portal with personalized player that enables its clients to integrate a Web portal to their Websites.
+	['', 'video broadcasting', ' ', 'video monetizing', ' ', 'video portal', ' ', 'video asset management', ' ', 'online video', '']
+Progira
+	Provider of network and frequency planning services for digital broadcasting companies. The company offers network operators and broadcast business consulting services and software solutions for the planning of digital and analog broadcast networks. It also manufacturers and sells broadcasting equipment in the field of television and radio transmission.
+	['', 'broadcasting equipment', ' ', 'digital broadcasting', ' ', 'software solutions', '']
+Lacoon Security
+	Developer of security software technologies for smartphones and tablets. The company\'s technology can locate and filter smartphone malware via the internet.
+	['', 'security software', ' ', 'mobile security', ' ', 'smartphone malware', '']
+Replay Solutions
+	Developer of software technologies to record and reproduce bugs in applications and servers. The company offers ReplayDIRECTOR, an application that records inputs and events affecting software while it is running, and provides the ability to replay what happened for finding and fixing bugs in the development, test, and production environments; and ReplayDIRECTOR for Java EE, which is a software tool to help Java application teams to develop and manage their applications. It serves financial services organizations, manufacturing companies, SAAS providers, and gaming companies.
+	['', 'bug fixing', ' ', 'server monitoring', ' ', 'server security', ' ', 'java application', ' ', 'application testing', ' ', 'software testing', ' ', 'application management', '']

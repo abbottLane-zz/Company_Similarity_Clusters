@@ -1,39 +1,24 @@
-Sightward
-	Developer and Supplier of predictive software that helps marketing professionals maximize revenue. The company also offers insights and recommendations that give their customers additional knowledge about their own clientele.
-	['', 'predictive software', ' revenue']
-eXstatic Software
-	Developer of software for marketing automation and enterprise-wide customer management. The company markets software solutions that enable businesses to plan, create and execute email communications based on customer profiles.
-	['', 'emarketing application', ' ', 'customer management', ' ', 'marketing automation', '']
-BlackFoot
-	Provider of campaign analysis and marketing intelligence management tools.
-	['', 'campaign analysis', ' ', 'marketing intelligence', ' ', 'data modeling', '']
-Loopfuse
-	Provider of marketing automation software. The company offers OneView, an enterprise marketing automation platform that includes support for various sales and marketing demands, including demand generation, email marketing automation, automated lead nurturing, lead management and scoring, campaign management, website analytics, closed-loop reporting and customer relationship management integration. It also provides technical support, training and consulting services.
-	['', 'automated marketing', ' ', 'demand generation', ' ', 'e-mail marketing', '']
-Flashbase
-	Operator of an online advertising and marketing firm. The Company focused on empowering consumers and small business users by providing them with a hosted enterprise-level database application over the internet and marketing tools allow marketers to launch targeted, permission-based email campaigns and track the results.
-	['', 'online advertising', ' ', 'database application', '']
-Kefta
-	Developer and provider of marketing automation software. The company provides a service and technology platform, campaign management tools, marketing expertise, integration and training to enable its clients to plan, create, deploy and track unique revenue-focused marketing programs.
-	['', 'marketing software', ' ', 'technology platform', ' ', 'campaign management tools', '']
-Cima Systems
-	Provider of marketing communications tools for the automotive industry. The company\'s marketing communication systems enables dealership\'s interaction with customers and prospects. It also enables dealers to fix appointments via web and automated phone and provides ROI analysis on marketing campaigns.
-	['', 'marketing system', ' ', 'marketing communication', ' ', 'CRM system', ' ', 'communication system', ' ', 'ROI analysis', '']
-SG5 Innovation
-	Provider of a enterprise marketing automation service. The company offers GoSource technology, which provides private and secure online workspace to a buyer, a group of buyer and preferred suppliers
-	['', 'automation service', ' ', 'online workspace', ' ', 'information technology', '']
-Yellow Brick Solutions
-	Developer of marketing automation software. The company enables medium to large-sized business marketing professionals to communicate with customer over both on-line and off-line medium.
-	['', 'marketing automation', ' ', 'data warehousing', ' ', 'database marketing', '']
-Bluestreak
-	Provider of marketing data services for interactive agencies and advertisers in the United Kingdom and internationally. The company provides The Bluestreak 6.0 platform that delivers the workflow, analysis and optimization for professional marketers, as well as offers an approach for planning and tracking digital marketing efforts in various channels, including display advertisements, search, media/video and email; Ad Manager, a campaign management solution, which organizes work flow to launch, manage and optimize digital marketing campaign; cross-channel performance capturing solutions; campaign performance and user-defined reports and custom marketing dashboard services.
-	['', 'marketing data', ' ', 'digital marketing', ' ', 'display advertisement', ' ', 'campaign management', ' ', 'campaign performance', '']
-Bigfoot Interactive
-	Developer and provider of marketing analytic tools. The company provides market data, market analytic and strategy, social campaign and email plans as marketing tools.
-	['']
-LOCKON
-	Provider of a marketing automation platform. The company engages in planning, development and sales of software for e-commerce and online advertisement.
-	['']
-Netcentives
-	Provider of a suite of programs for relationship marketing technologies and services. The company delivers personalized email, rewards and recognition marketing technologies and programs that increase efficiency and productivity.
-	['', 'direct marketing service', ' ', 'relationship marketing', ' ', 'marketing technology', '']
+Niagara Growth
+	Provider of funding to businesses with less than one million dollars in assets and the potential for sustained high growth.
+	['', 'fund provider', ' ', 'Canada', '']
+Impera Total Return
+	Provider of private equity and venture capital financing. The company is a private equity firm that invests the assets entrusted by the shareholders in the segments venture capital, private equity, capital market-related IPO candidates as well as listed companies in special situations.
+	['', 'venture capital financing', ' ', 'private equity', ' ', 'capital market', '']
+OSS Healthcare
+	Provider of seed funding to drug development companies. The company engages in searching for new oncology focused drugs and also provides seed funding for further drug development.
+	['', 'drug development', ' oncology drugs']
+Natratec International
+	Developer and manufacturer of organic protective emulsions. The company primarily focuses on producing emulsions which retain the freshness of fruits and vegetables and increase the egg hatching rate of poultry.
+	['', 'organic preservation', ' ', 'food freshness', ' ', 'agricultural product', '']
+Pains & Tradition
+	Provider of baked and frozen breads. The company primarily focuses on providing various types of breads and baked rolls.
+	['', 'baked breads', ' ', 'frozen breads', ' breads']
+Burrill & Company
+	Provider of venture funding to healthcare firms. The company provides venture capital and private equity funding to mid-stage development medicine and biotechnology companies in Russia.
+	['', 'venture funding', ' ', 'funding and investment', ' ', 'venture fund', '']
+The African Food Company
+	Cultivator of organic bananas. The company focuses on providing organic bananas, aiming to generate solid financial returns in combination with delivering great social and environmental benefits.
+	['plantation ', 'organic food', ' banana']
+Textiel Vlaanderen
+	Provider of venture and development capital to textile companies. The company primarily focuses on providing development funding to the textile companies to help them grow their businesses.
+	['', 'textile investor', ' ', 'venture capital', ' ', 'venture funding', ' ', 'development capital', ' ', 'development investor', '']

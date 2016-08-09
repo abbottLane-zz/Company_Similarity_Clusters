@@ -1,21 +1,24 @@
-Paperlit
-	Provider of an online publishing platform for newspaper, magazine and catalog applications. The company enables publishers and advertisers to publish their newspapers, magazines and catalogs to mobile phones and web browsers. It serves small, medium and large publishers and advertisers.
-	['', 'publishing platform', ' ', 'mobile content publishing', ' ', 'online publishing', '']
-Demand Media
-	Provider of digital media and domain services to advertisers. The company helps advertisers to find ways to engage with their customers and enables publishers to expand their online presence.
-	['', 'online article', ' ', 'online video', ' ', 'social media', ' ', 'online media', ' ', 'web media', ' website']
-AlphaBoost
-	Provider of consulting services to social advertisers. The company enables social advertisers to make decisions about where to spend their media dollars and how to communicate with their fans, followers and other owned audiences.
-	['', 'social advertiser consultation', ' ', 'communication channel', ' ', 'advertisement platform', '']
-Task Farm
-	Provider of a tool to manage chores and money online. The company enables kids aged 10 to 13 to spend and save online.
-	['', 'money saving', ' ', 'cash management', ' ', 'online money management', ' SaaS']
-DisplayPoints
-	Provider of interactive content and information directly to consumers at the point of presence. The company enables advertisers to access their target audience in venues where they are captive, out-of-home and ready to spend.
-	['', 'digital media', ' interactive ', 'content information', '']
-ENQIO Holding
-	Provider of software for in-depth analyses of company data. The company allows management to calculate risks in a timely fashion and make informed, corporate decisions. It is primarily focused on the telecom, financial, public and media sectors.
-	['', 'data analyses', ' ', 'decision making', ' ', 'risk calculation', '']
-Myxer
-	Provider of a community-based mobile entertainment website for consumers, content owners and advertisers. The company\'s platform enables advertisers to deliver ad campaigns on the Web.
-	['', 'mobile entertainment', ' ', 'mobile community', ' ', 'mobile ad campaigns', ' ', 'multimedia and design', '']
+Encore Pharmaceuticals
+	Developer of drugs for clinical applications in the pharmaceutical and nutritional fields. The company\'s products enables treatment and prevention of cancer, neurologic and cardiovascular diseases.
+	['', 'drug development', ' ', 'proprietary products', ' ', 'bio-pharmaceutical research', ' ', 'clinical applications', '']
+Gensia Pharmaceuticals
+	Developer of drugs to treat cardiovascular diseases. The company\'s drug research programmes involve technology based on purine-pyrimidine metabolism, which have application in the treatment of cardiovascular, cerebrovascular and neurological diseases.
+	['', 'cardiovascular diseases', ' ', 'purine-pyrimidine metabolism', '']
+Serodus
+	Developer of pharmaceuticals for treatment of diseases in the heart and blood vessels. The company focuses on new therapeutic products for the treatment of cardiovascular diseases with large unmet clinical needs.
+	['', 'cardiovascular diseases', ' ', 'blood vessels', ' ', 'therapeutic products', '']
+ZOLL LIFEBRIDGE
+	Supplier of life support systems for the acute medical care in the area of cardiovascular diseases. The company develops heart-lung machine that allows doctors to substitute the patient’s cardiovascular system and save them from death in cardiogenic shock.
+	['', 'life support system', ' ', 'heart-lung machine', ' ', 'cardiovascular system', ' ', 'medical care', '']
+Ester Neurosciences
+	Developer of therapeutic products for the treatment of neurological disorders. The company provides novel therapeutic products for the treatment of neurological disorders such as myasthenia gravis, alzheimer disease, multiple sclerosis and acute stress reactions.
+	['', 'therapeutic product', ' ', 'neurological disorder', ' ', 'disease treatment', '']
+Angio B
+	Developer and provider of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders. The company engages in research and development of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders.
+	['', 'cardiovascular disease', ' ', 'peripheral ischemic disorder', ' ', 'development of drug', '']
+Limerick BioPharma
+	Developer of pharmaceuticals with attenuated tissue specific toxicity. The company develops methods for simulating activity of the blood-tissue barriers in vitro and in vivo. It leads programs in areas of metabolic diseases and solid organ transplantation.
+	['', 'tissue specific toxicity', ' ', 'blood tissue simulation', ' ', 'metabolic disease treatment', ' ', 'solid organ transplantation', '']
+MGI Pharma Biologics
+	Developer of oncology and antiviral products for large unmet markets.
+	['', 'oncology product', ' ', 'medical therapy', ' ', 'pharmaceutical product', '']

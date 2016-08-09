@@ -1,30 +1,21 @@
-Quantum Leap Packaging
-	Manufacturer of electronic component packaging. The company designs and manufactures electronic component packaging utilizing proprietary material system that meets the critical design and manufacturing requirements of various applications such as semiconductor, medical and optical devices, either in hermetic or non-hermetic configurations.
-	['', 'electronic component', ' semiconductor']
-ChipScale
-	Provider of wafer level packaging. The company provides Micro SMT packaging technology. The company refines and develops the SMT technology. The company\'s services include prototype packaging developments and licensing.
-	['packaging ', 'wafer level packaging', ' ', 'Micro SMT packaging', '']
-Kalvopakkaus
-	Manufacturer of plastic packaging products. The company is a supplier of plastic bags, flexible packaging and laminated films to customers. It also prints packaging.
-	['', 'plastic products', ' ', 'rubber products', ' ', 'laminated films', '']
-Datell
-	Provider of information integration services. The company supplies MES (manufacturing execution systems) and software for logistics for the solid bulk industry (solid bulk software) and the packaging industry (packaging logistics).
-	['', 'manufacturing execution systems', ' ', 'solid bulk software', ' ', 'logistics software', ' ', 'efficiency software', '']
-AJ Precision Components
-	Provider of plastic product moulding services. The company specializes in providing injection moulding, pad printing, potting, project management, two-shot moulding, ultrasonic welding and injection blow moulding services for the pharmaceutical, packaging, aerospace and automotive industries.
-	['', 'contract manufacturing', ' ', 'blow moulding', ' ', 'moulding machines', '']
-Novus Packaging
-	Manufacturer of extrusion-coated and laminated packaging materials serving the food, pharmaceutical and industrial markets. The company provides packaging materials including Sugar pouches/sticks/packs, Stand-up pouches, Candy wrappers, Coffee pouches, Bread bag Lidding stock, Deli wrap, Cake plates and Bakery Pouches.
-	['coated ', ' commercial bags', ' ', 'juice liner', ' lamination pouch']
-Tenzen
-	Developer of product-distribution technology. The company is a developer of interactive coding equipment (ICE) used to track distribution of products and and packaging.
-	['', 'product tracking', ' ', 'interactive coding equipment', ' ICE ', 'distribution technology', '']
-Microfluid
-	Provider of Infra Red sensor technology. The company develops product for measuring dampening within the graphic industry and measuring polymer films when converting packaging materials.
-	['equipment ', 'fluid layer', ' ', 'measuring equipment', '']
-MicroGREEN Polymers
-	Producer of ecologically sound plastic for retail, food service and packaging industry. The company develops technology to convert recycled plastic water bottles into recyclable products.
-	['', 'recycle product', ' ', 'plastic technology', ' ', 'recycled plastic', ' ', 'ecological sound plastic', '']
-Colibrys
-	Supplier of standard and semi-custom MEMS based motion sensors. The company undertakes design, development, wafer fab manufacture, packaging and test of MEMS components. It mainly serves energy, aerospace, industrial and instrumentation markets.
-	['Microelectromechanical ', 'MEMS sensor', ' ', 'motion sensor', '']
+NordNav Technologies
+	Developer of Global Navigation Satellite System receivers.
+	['', 'Global Navigation', ' ', 'Navigation Satellite', ' ', 'Satellite System', ' ', 'satellite receivers', ' ', 'navigation system', ' GPS ', 'galileo navigation', '']
+KAYAK Software
+	Provider of a travel search engine. The company allows users to book flights, hotels, vacations, cars and deals directly, as well as through online agencies. It searches and displays information from various travel sites, which include prices and itineraries from airlines, hotels, rental car companies and cruise lines.
+	['', 'travel search engine', ' ', 'online travel agency', ' ', 'pay per click advertising', ' ', 'travel site', ' ', 'travel website', ' ', 'online travel', ' ', 'travel deals', ' ', 'travel agency', '']
+GetThere
+	Operator of online corporate travel and collaboration solution. The company provides platform for reservation of rail,car,hotels online. The company combines travel, collaboration and expense solutions to help corporations connect and grow business.
+	['', 'global service infrastructure', ' travel']
+Portico Club
+	Provider of hospitality services. The company operates resorts, clubs and vacation homes at various places.
+	['', 'luxury hospitality service', ' ', 'hotel service', ' ', 'vacation home', '']
+JobFlash
+	Provider of hiring solutions for hourly and managerial employees. The company offers IVR technology and candidate scheduling services for restaurants, window cleaners, manufacturers, hotels, casinos, retail stores, and hospitality.
+	['', 'hiring solution', ' ', 'managerial employee', ' ', 'ivr technology', ' ', 'employee service', ' ', 'candidate service', '']
+Kigo
+	Provider of an online vacation rental software. The company provides a free booking system and websites for vacation rental agencies and property owners. The company\'s services include scheduling, reservations, accounting, channel management and website management of vacation booking agencies.
+	['', 'rental software', ' booking ', 'property owner', ' ', 'vacation booking service', '']
+TravelShark
+	Provider of an online global travel network that comprises of location-based travel Websites for destinations around the globe. The company channels global travel consumers directly to hotels, restaurants, resorts, spas, casinos, car rental agencies, and private aviation firms worldwide. It serves hospitality companies and traveling consumers.
+	['', 'travel network', ' ', 'rental agency', ' ', 'hospitality company', ' ', 'aviation firm', ' ', 'traveling consumer', '']

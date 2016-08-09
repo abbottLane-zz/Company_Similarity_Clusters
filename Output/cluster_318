@@ -1,15 +1,57 @@
-iSend
-	Provider of bill payment and money-transfer services. The company enables customers to pay utility and wireless phone bills through a network of retailers in the United States. It also processes transactions in Mexico, Brazil, Guatemala, Honduras and El Salvador, as well as satellite and mortgage payments in Mexico, Brazil and Guatemala.
-	['', 'bills payment', ' ', 'money transfer', ' ', 'mortgage payment', '']
-Sage Group
-	Provider of accounting and business management software. The company provides accounting, enterprise resource planning, human resource, payroll, asset management, and payment solutions for businesses.
-	['', 'supplier management', ' ', 'inventory management', ' ', 'client management', '']
-Brain Institucional
-	Operator of a human resource company in Brazil.
-	['', 'human resource', '']
-Weda Bay Minerals
-	Developer of nickel and cobalt laterite projects. The company is a natural resource company engaged in the exploration and development of a nickel and cobalt laterite property on Halmahera Island east Indonesia.
-	['', 'metal exploration', ' mining ', 'natural resource', '']
-OneClick HR
-	Provider of human resources software. The company operates a web portal offering human resource services including a number of ASP services.
-	['', 'web portal', ' ', 'human resource software', ' ', 'outsourcing service', '']
+Matrix Semiconductor
+	Developer of three-dimensional integrated circuits (IC). The company is a provider of flash-memory storage solutions for digital content, including memory cards,  solid-state drives, USB storage devices, media software, embedded storage and music and video players.
+	['', 'integrated circuit', ' ', 'flash device', ' ', 'digital content', '']
+All Stor Storage
+	Provider of self storage space services. The company is a provider of self storage services which acquires self storage properties both in the form of institutional portfolios and individual properties.
+	['', 'self storage property', ' ', 'secured storage space', ' ', 'property rental service', ' ', 'storage space', '']
+Cirtas Systems
+	Provider of cloud-storage technology. The company is the creator of technology to make cloud storage work like onsite enterprise storage arrays. The company\'s product, the Cirtas Bluejet Cloud Storage Controller, is designed to simplify storage management and to reduce data-storage total cost of ownership, while addressing  challenges associated with data backup and disaster recovery for mid-size to large enterprises.
+	['', 'cloud storage', ' ', 'storage management', ' ', 'data storage', ' ', 'application software', '']
+StorageApps
+	Provider of all-encompassing solutions, applications and appliances for storage-based network services. The company\'s appliances and applications enable customers to connect virtually any type of storage devices with any servers over any connection type.
+	['storage ', 'live data', ' ', 'data mirroring', '']
+EqualLogic
+	Provider of data storage solutions. The company’s products include PS Series Architecture for consolidated networked storage in a self-managing iSCSI storage area network; enterprise data services for storage virtualization, server management and protection integration, and data protection and recovery; PS6000 and PS4000 Series iSCSI storage area network arrays for data storage consolidation; and PS storage stack that enables users to configure storage pools or tiers to optimize performance and capacity according to application-specific demands.
+	['', 'data storage', ' database virtualization recovery']
+VeloBit
+	Developer of software that delivers an order-of-magnitude improvement in storage price-performance. The company\'s allows customers to deploy Solid State Disk (SSD) without changing their applications or primary storage, thus preserving their existing investments in data protection and storage management.
+	['', 'storage management', ' ', 'solid state drive', ' ', 'data protection', ' ', 'solid state disk', '']
+Xanto Technologies
+	Provider of wireless based devices for multimedia data exchange and security storage. The company developes innovative pocket wireless based storage devices that allow data exchange without the mediation of a personal computer.
+	['', 'wireless devices', ' ', 'security storage', ' ', 'multimedia data exchange', ' ', 'wireless based devices', '']
+Tonian Systems
+	Developer of storage software. The company focuses on the misalignment that occurs within enterprises while combining virtualization technology and traditional storage.
+	['', 'storage software', ' ', 'enterprise storage', ' ', 'virtualization storage', '']
+Benchmark Storage Innovations
+	Developer of tape and storage automation devices. The company\'s products are based on DLT™tape technology and it delivers its products and services through various channels and strategic partners.
+	['', 'storage automation', ' ', 'DLT tape technology', ' ', 'automation devices', ' ', 'tape storage', ' ', 'electronic parts', ' ', 'computer hardware', '']
+Vita 34 International
+	Provider of storage of cord blood for future therapeutic purposes. The company is engaged in the collection, preparation and storage of children umbilical cord blood.
+	['', 'cord blood', ' ', 'therapeutic purposes', ' unbilical storage ', 'blood bank', ' ', 'stem cell', ' ', 'umbilical core blood', ' blood']
+NextIO
+	Developer of chips for computer servers. The company offers protocol agnostic solution, which supports server I/O technologies, including Ethernet, fiber channel, InfiniBand, iSCSI and SAS.
+	['', 'computer chip', ' ', 'computer server', ' ', 'agnostic solution', ' ', 'protocol agnostic', ' ', 'I/O technology', '']
+Virident Systems
+	Provider of server side flash storage for the enterprise that delivers consistent performance to data intensive applications. The company\'s services enable enterprises to tackle performance intensive enterprise applications with enterprise flash storage and Solid State Disks (SSD) for database.
+	['', 'cloud computing', ' ', 'storage service', ' ', 'data centric technology', ' ', 'flash storage', '']
+Streem
+	Provider of a cloud based hard drive that offers storage space. The company has developed a proprietary de duplication and compression technology to be able to provide storage facility.
+	['', 'storage space', ' ', 'hard drive', ' ', 'compression technology', ' ', 'cloud storage service', '']
+ByCast
+	Provider of storage virtualization software for large-scale digital archives and storage clouds. The company provides storage software designed to manage petabyte-scale, globally distributed repositories of images, video and records for enterprises and service providers.
+	['', 'business continuity', ' ', 'digital archives', ' ', 'fixed content', '']
+Newisys
+	Developer of server and storage technology for original equipment manufacturers. The company offers storage expansion product platforms, storage application platforms, integrated RAID server/storage application product platforms, JBOD expansion enclosures, and racks.
+	['', 'server technology', ' ', 'storage technology', ' ', 'equipment manufacturing', ' ', 'storage expansion', '']
+Nvelo
+	Developer of storage software to address the input output bottleneck in computing systems. The company\'s product Dataplex, a cache software solution used by PC OEMs and SSD vendors to deliver SSD-level performance from HDD-based systems for a fraction of the cost of an SSD-only system.
+	['', 'storage system', ' ', 'hard drive', ' ', 'hybrid drive', ' ', 'computing management', '']
+Virsto Software
+	Developer of virtual storage solutions for virtual servers and datacenters. The company offers Virsto One, a hypervisor-based storage virtualization software solution that enables users to virtualize storage-intensive workloads, maximize the consolidation of server and storage hardware and reduce storage management.
+	['', 'data storage', ' ', 'virtual storage', ' ', 'virtual server', ' ', 'storage virtualization', ' ', 'server consolidation', ' ', 'storage management', ' ', 'storage hardware', '']
+Qlayer
+	Provider of datacenter, combining server, networking and storage infrastructure virtualization software. The company offers solutions for virtual datacenter automation, storage and volume management and also provides virtual disks to servers and to external consumers.
+	['', 'virtual disk', ' datacenter virtualization']
+NetCell
+	Developer of host adapter storage acceleration silicon devices for the ATA and SATA host bus adapter, server, PC, workstation and embedded storage markets.
+	['', 'silicon device', ' ', 'storage market', ' workstation']

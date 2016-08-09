@@ -1,48 +1,18 @@
-alma bioinformatics
-	Developer of software for information retrieval and analysis of text biomedical data. The company specializes in the research and development of biomedical software. It\'s mission is to provide the life science community with innovative information technologies that enable the search, management and relation of the knowledge available in different sources, facilitating its analysis and comprehension.
-	['', 'information retrieval', ' ', 'biomedical data', ' ', 'text mining', '']
-Cataphora
-	Developer of data mining technologies. The company develops software technologies for finding patterns and anomalies in digital communications.
-	['analytics investigation ', 'behavioral modeling', '']
-Decision Team - Software
-	Developer and distributor of data-mining tools for workflow in the oil industry. The company is the provider of intelligent reservoir surveillance software called DECIDE!, which captures, analyzes and transforms historical and real-time production data into actionable operational decisions.
-	['', 'data mining', ' ', 'E&P sector', ' ', 'oil industry', ' ', 'real-time data', '']
-CompanDX
-	Developer of in-house data analysis algorithms to identify patterns in healthcare datasets. The company applies its technology to clinical-trial and medical-sample data to find disease markers and help drug developers in creating approved drugs.
-	['', 'data analysis', ' ', 'healthcare data', ' ', 'medical sample', ' algorithms SaaS']
-Spotfire
-	Provider of interactive, visual data analytics applications and services. The company\'s analytic application, offers an interactive, visual approach to data analysis that empowers individuals to see trends, patterns, outliers and unanticipated relationships in data.
-	['', 'data analysis', ' ', 'visual data analytics', ' ', 'analytics application', '']
-Alpharel
-	Developer of data-management systems.The company develops multi-terabyte engineering-data systems.
-	['', 'data management', ' ', 'engineering data', ' multi-terabyte']
-Anvil
-	Provider of data mining, analysis, and visualization services to the pharmaceutical and biotechnology companies. The company has developed a software internally which allows the exploration of large and complex datasets that help the clients in their decision-making process.
-	['', 'data exploration', ' ', 'data mining', ' ', 'data visualization', '']
-Predictive Edge
-	Provider of online retail technology services. The company\'s software platform makes product pricing easy and different to online retailers by applying advanced data mining and artificial intelligence techniques to large bodies of data.
-	['', 'data mining', ' ', 'social platform software', ' ', 'artificial intelligence technique', '']
-Oxford NanoScience
-	Manufacturer of 3-dimensional atom probes. The company\'s laser atom probe offers high resolution sample data acquisition together with comprehensive data analysis for a range of low and high resistivity materials.The atom probe is a point projection microscope capable of resolving the chemical identity and position of individual atoms in 3D with atomic resolution in the z direction and sub-nanometer lateral resolution.
-	['', '3-dimensional atom probe', ' ', 'laser atom probe', ' ', 'point projection microscope', ' ', '3D Atom Probe analysis system', '']
-Neovest
-	Developer of proactive intelligent technology solutions. The company provides technology that allows buy and sell-side communities to leverage an integrated suite of pre-trade analytics and order entry functionality to achieve best execution within today’s fast-paced and fragmented electronic markets. The company provides products and technologies that enable fast and efficient delivery of market data from multiple sources and drive real-time data analysis and decision support.
-	['', 'software technology', ' ', 'broker-neutral financial technology', '']
-Datahero
-	Provider of a platform that helps users to analyze, visualize and understand data. The company offers data analysis tools for users to import internal data, store it in a spreadsheet format, link multiple sources and create data dashboards to track various types of information.
-	['', 'data analysis tool', ' ', 'database platform', ' ', 'data dashboard', '']
-PharmaDM
-	Provider of data analysis software and services. The company offers data analysis, data mining, and text mining software and services for researchers in life sciences, with a focus on drug discovery.
-	['', 'data analysis', ' ', 'text mining software', ' ', 'data mining', '']
-Alternis
-	Provider of software services for telecom data processing. The company provides prepackaged software for electronics and telecom industries.
-	['', 'telecom data processing', ' ', 'telecom software', ' ', 'real time proceesing', '']
-LightMiner Systems
-	Provider of data management systems. The company offers an appliance that is designed by integrating different software and hardware architecture for data analysis.
-	['', 'data processing', ' ', 'data management system', ' ', 'hardware architecture', '']
-Wakoopa
-	Provider of online software services. The company develops multi-device passive metering technology which collects behavioural data from research participants. Its technology tracks what websites are visited, what advertisements are seen or what applications are used.
-	['', 'database software', ' ', 'behavioural data', ' ', 'technology tracks', '']
-Signal Data
-	Provider of proprietary retail analytic software platform. The company offers analytic, operational data and mapping analysis to assess the quality of U.S.-based retailers locations on a comprehensive and updated basis.
-	['', 'analytic software platform', ' ', 'mapping analysis', ' ', 'analytic platform', ' ', 'data analytic software', '']
+Quolaw
+	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
+	['', 'law practice', ' ', 'law practice management', ' lawyer']
+Pangea3
+	Provider of legal process outsourcing services. The company offers corporate legal outsourcing services, such as contract drafting and revision, contract management and abstraction, compliance and risk management, and troubled asset relief program; and e-discovery and litigation support services. It also provides legal research, business, and competitive intelligence services, which include conducting and analyzing research in the areas of federal, state, and international case laws; federal, state, and municipal regulatory codes and legislative history; and multi-jurisdictional surveys.
+	['', 'legal process outsourcing service', ' ', 'legal research', ' ', 'legal service', ' ', 'patent litigation service', '']
+FindLaw
+	Provider of legal resources. The company provides legal information for lawyers, businesses, students and individuals. The company provides online videos, lawyer directory and other internet advertising services.
+	['', 'legal information', ' lawyers']
+JusticeLink
+	Providers of technology enabled services for courts, attorneys, clients and other interested parties in the legal community through their website. The company provides  legal system for filing legal documents digitally with the court system.
+	['', 'legal community', ' attorneys ', 'court system', ' website']
+Datacert
+	Developer of e-billing products to law firms. The company offers Passport, a platform for uniting legal systems; Advanced Invoice Management System, a legal spend management system; and Corporate Legal Desktop, an integrated matter and legal spend management solution. It also offers consulting and hosting services.
+	['', 'advanced invoice management', ' ', 'corporate legal desktop', ' ', 'management solution', ' ', 'hosting service', ' ', 'consulting service', '']
+RealPractice
+	Provider of legal technology products and services for attorneys and law firms. The company’s products include RealDealDocs, which provides attorneys, researchers, and legal professionals with access to executed legal agreements and documents drafted by lawyers at America’s law firms and corporations.
+	['', 'legal technology product', ' ', 'document drafting', ' ', 'legal agreement', '']

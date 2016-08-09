@@ -1,18 +1,39 @@
-Mütli
-	Provider of game servers. The company provides hosting services for multi-player games.
-	['', 'game server', ' ', 'multi-player games', ' ', 'hosting services', '']
-C Sports Ventures
-	Developer of a gaming application. The company provides users with online arcade and multi player games.
-	['', 'online sports', ' ', 'gaming application', ' ', 'online gaming', '']
-Maestro Commerce
-	Provider of an e-commerce software platform. The company is the creator of a hosted suite of software tools enabling companies to operate as online vendors. The software provides users with online storefronts, merchandising, catalogs and inventory control.
-	['', 'e-commerce software', ' ', 'scalable application suite', ' ', 'e-business products', ' ', 'application services', ' ', 'application service provider', ' ', 'dot-com companies', '']
-Turf
-	Provider of gaming application. The company provides a platform where the game is et in the real world where users hang out with friends, amass gold coins, and acquire goods and properties in a battle to tame surroundings. The company provides the users to spend coins earned to purchase virtual versions of the property, then enhance it with upgrades to increase its value, collecting more coins when others visit.
-	['', 'gaming application', '']
-Taya Communications
-	Provider of the video, media and visual communication content technologies services. The company provides the interactive games, multi player servers, interactive advertising and information services.
-	['', 'visual communication', ' ', 'interactive game', ' ', 'interactive advertising', '']
-C3L3B Digital
-	Developer of gaming software. The company develops massively multi-player online (MMO) games.
-	['MMO ', 'online game', '']
+Karyopharm Therapeutics
+	Developer of drugs for the treatment of cancer, inflammation and diseases related to cell proliferation. The company focuses on discovery and development of novel first-in-class drugs directed against nuclear transport targets for the treatment of cancer and other major diseases.
+	['', 'cancer treatment', ' ', 'inflammation drug', ' ', 'cell proliferation', '']
+Promic
+	Developer of antibacterial drugs. The company focuses on discovery of drugs needed to treat hospital-acquired and community-associated infections.
+	['antibiotic infection antibacterial cheminformatics']
+ConjuChem
+	Developer of novel therapeutics with an initial focus on diabetes. The company makes use of its platforms namely drug affinity complex (DAC) and preformed conjugate drug affinity complex (PC-DAC) to develop new drugs, moreover the company is currently managing many research programs in-house and has one product in clinical development.
+	['diabetes ', 'growth deficiencies', '']
+Cellumen
+	Provider of cell-based drug discovery, early safety assessment, and discovery toxicology products and solutions for the biopharmaceutical researchers to create various efficacious, safe, and patient-targeted drugs.
+	['', 'patent targeted drug', ' ', 'drug discovery', ' ', 'discovery toxicology product', ' ', 'early safety assessment', '']
+ACT Biotech
+	Developer of cancer drugs. The company is focused on the development and commercialization of targeted oral and cancer drugs.
+	['', 'oral cancer', ' ', 'cancer treatment', '']
+JSK Therapeutics
+	Developer of novel anti-cancer drugs using an approved compound to inhibit the growth of cancer cells. The company\'s business is based on two types of drugs, the first class of drug, has been tested in animal systems and the second class of drugs is not as developed as a cancer drug but is more versatile with wider range of cancers.
+	['', 'cancer therapy', '']
+Ancile Pharmaceuticals
+	Developer of botanical drugs. The company has a multi-drug portfolio, which includes ANPH 101, an investigational drug with indications for sleep maintenance disorders.
+	['', 'botanical drug', ' ', 'chronic disease', ' ', 'prescription botanical drug', '']
+4-Antibody
+	Developer of an antibody drug discovery platform. The company is a biopharmaceutical enterprise developing a fully human, antibody drug discovery platform. The company is making this technology available to pharmaceutical partners, as well as developing a proprietary pipeline of antibody oncology drugs.
+	['', 'discovery technology platform', ' immunotherapy ', 'antibody drug', '']
+OxEpi
+	Developer of new therapies for oncology and metabolic disease. The company uses a medicinal chemistry approach for the discovery and development of new antagonists of a major new class of enzymatic targets involved in epigenetic regulation.
+	['epigenetics ', 'genetic code', ' mutations']
+Nuada Pharmaceuticals
+	Developer of new medicines by utilizing a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network. The company is a specialty pharmaceutical company that utilizes a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network to discover new medicines for both internal programs and collaborative projects. It delivers enabling chemical synthesis solutions for medicinal chemistry, process chemistry, high throughput parallel synthesis and combinatorial chemistry. The company\'s proprietary technologies, including instruments, chemicals, databases and informatics tools, fundamentally change chemical synthesis discovery and development, by accelerating the process in a cost-effective manner.
+	['', 'medicinal chemistry', ' ', 'medicinal chemistry', '']
+Interomex Biopharmaceuticals
+	Developer of proteomic drugs. The company is engaged in the discovery and commercialization of novel targets and drugs in the proteomics area, for the treatment of viral, cancer and autoimmune diseases.
+	['proteomics autoimmune']
+Ionis Pharmaceuticals
+	Provider of antisense drug discovery and development exploiting a novel drug discovery platform it created to generate a pipeline of first-in-class drugs. The company\'s provides a direct route from genomics to drugs. The company discovers and conducts early development of new drugs and, at the key clinical value inflection points, outlicense the drugs to its partners.
+	['', 'antisense drug', ' ', 'drug delivery', '']
+Activiomics
+	Developer of biomarker technology. The company has developed a suite of label-free mass spectrometry technologies enabling it to identify and quantify, directly from clinical samples, proteins and phosphoproteins that correlate with the progression of disease and/or the administration of drugs. The company is applying its technologies to the establishment of a pipeline of biomarker assets comprising the identified proteins and phosphoproteins along with their companion diagnostic antibody reagents. The company also partners with the pharmaceutical and biotechnology industry to provide drug profiling and drug mode of action information.
+	['', 'drug biomarkers', ' ', 'proprietory technology', ' oncology']

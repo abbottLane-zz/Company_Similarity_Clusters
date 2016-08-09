@@ -1,51 +1,69 @@
-Shire Regenerative Medicine
-	Developer of cell-based therapies. It develops Dermagraft, which received a premarket approval from the U.S. food and drug administration. Dermagraft is a regenerative bio-engineered skin substitute that assists in restoring damaged tissue and is indicated for the treatment of certain types of diabetic foot ulcers (DFU).
-	['', 'cell based therapy', ' ', 'skin substitute', ' ', 'skin replacement product', '']
-Molecular Engines Laboratories
-	Developer of a new generation of drugs against cancer. The company\'s research is focused on the analysis and understanding of the molecular mechanism which makes it possible for a cancer cell to quit its malignant state and to revert to a suppressed-malignant phenotype.
-	['', 'cancer drug', ' ', 'cancer cell analysis', ' ', 'cancer research', '']
-Accord Biosciences
-	Developer of practical sensor systems to measure nitric oxide and its carriers in blood for clinical and research applications. The company utilizes its proprietary membrane, sensing and stabilization technologies to release nitric oxide from blood’s natural reserve in plasma and reproducibly detect it with practical, cost-effective sensing systems. Nitric oxide serves critical bodily functions, including proper blood vessel function and protection against infections, thereby servings as a powerful platform molecule for Accord\'s diagnostic and research product pipelines.
-	['', 'sensor system', ' ', 'blood plasma', ' ', 'blood vessel', ' ', 'pulmonary arterial hypertension', ' ', 'nitric oxide', '']
-Velocity Medical Solutions
-	Developer of imaging software to improve cancer treatment. The company offers a software which could improve the planning of radiation therapy for patients and develop new cancer therapies. It builds oncology PACS applicable to the research, clinical, and drug discovery markets.
-	['', 'cancer treatment', ' ', 'imaging system', ' ', 'radiation therapy', ' ', 'cancer therapy', '']
-Koality
-	Provider of a continuous integration platform that parallelizes test suites, prevents broken builds and works behind firewall. The company\'s platform automatically parallelizes test suite across available virtual machines, manages parallelization and which eliminates nondeterministic test results.
-	['', 'integration platform', ' ', 'manage parallelization', ' ', 'development tool', '']
-NMDG Engineering
-	Developer of software for measuring instruments. The company assists research and developemnt, design, test engineers and instrumentation manufacturers who need to characterize active components and circuits under realistic conditions, especially in nonlinear mode of operation.
-	['', 'measuring instruments', ' ', 'instrumentation manufacturers', ' ', 'measuring software', ' instruments']
-Diagnoplex
-	Developer of non invasive colorectal cancer screening tests. The company develops clinical laboratory kits for screening colorectal cancer, as well as for the detection of colon cancer. It also discovers and optimizes biomarker combinations to detect cancer.
-	['', 'cancer screening test', ' ', 'cancer diagnostic', ' ', 'cancer treatment', '']
-Guide Technology
-	Developer of continuous time interval analyzer and high-precision frequency counter instruments. The company supplies production-scale CTIA-based timing measurement services, allowing semiconductor manufacturers to minimize timing-related failures and to reduce production test costs through test-time reduction and extending their ATE lifecycles.
-	['', 'time interval analyzer', ' ', 'frequency counter instrument', ' ', 'semiconductor support', ' ', 'information technology', '']
-Gloucester Pharmaceuticals
-	Developer of cancer therapeutics. The company develops romidepsin, a histone deacetylase inhibitor and oncology drug candidate for T-cell lymphomas, as well as for the treatment of hematologic malignancies. It also develops treatments for hematological cancers, including cutaneous T-cell lymphoma, peripheral T-cell lymphoma, and multiple myeloma.
-	['', 'cancer therapy', ' ', 'hematological cancer treatment', ' ', 'cancer drug', '']
-CellPro
-	Developer of devices used in biotechnology. The company develops continuous-flow, cell-selection systems that can be used in a variety of therapeutic, diagnostic and research applications.
-	['', 'diagnostic device', ' ', 'research application', '']
-Wellness Indicators
-	Provider of a wellness screening test. The company develops and manufactures a dry urinary wellness test strip called The Health EquaterTM Assessment Profile t. The test is a first-to-market test screening for such biomarkers as oxidative stress, low-grade inflammation and total antioxidant capacity, which indicate levels of wellness. The product has applications for employers, insurers and governments.
-	['', 'wellness assessment', ' ', 'urinary wellness strips', ' ', 'test strips', ' wellness']
-Mzt Holdings
-	Manufacturer & developer of cancer diagnostic technologies and products. The company is a biotechnology company, which engages in the development, manufacture, marketing, distribution, and licensing of cancer diagnostic technologies and products. Its products include NMP22 Test Kit and NMP22 BladderChek Test, which are designed to detect the presence of a specific protein marker in urine correlated with the presence of bladder cancer. Its research and development programs include NMP179 program, a nuclear matrix protein associated with cervical cancer and cervical precancerous conditions; NMP66 program to develop a blood-based test for breast cancer; NMP48 program for prostate cancer; and NMP35, a colon cancer program. In addition, it sells allergy and other diagnostic products manufactured by others. The company sells its products directly to physicians, hospitals, clinics, and physician office laboratories in the United States and Germany, as well as to distributors in other parts of Europe.
-	['']
-Didimi
-	Developer of cell-based regenerative medicines. The company develops cell-based therapeutics to create living and functional tissues to repair or replace organ function for major diseases such as Type 1 diabetes, Type 2 diabetes and other pancreatic insufficiency.
-	['', 'pancreatic disorders', ' ', 'endocrine insufficiency', ' ', 'cell technologies', ' ', 'regenerative medicines', '']
-Standard Diagnostics
-	Manufacturer and distributor of diagnostics reagents. The company manufactures diagnostics healthcare equipment includes rapid test kits, urine analyzing systems, enzyme-linked immunosorbent assay (ELISA) kits and medicine materials.
-	['']
-TTS Pharma
-	Developer of a personalized nicotine patch for smokers. The company has created a companion diagnostic blood test product that provides users with a tailored dose of nicotine via patch technology.
-	['', 'nicotine patch', ' ', 'diagnostic product', ' ', 'patch technology', ' patch']
-Immunicon
-	Developer and manufacturer of cell-based diagnostic and research products. The company manufactures ultra-high sensitive cancer detection test kits (cancer blood test) and next generation cell analysis instruments (cell track cytometer) for various research and clinical applications.
-	['', 'cancer detection test kits', ' ', 'cell analysis', ' ', 'platform technologies', ' biotechnology']
-Oxford Immunotec Global
-	Manufacturer and marketer of T Cell based diagnostic test products and services for the laboratories and clinicians. The company\'s product is the \'T-SPOT.TB\' test, the new cellular blood test for the detection of active and latent tuberculosis infection.
-	['', 'blood test', ' ', 'tuberculosis infection', ' ', 'blood sample', ' ', 'tuberculosis diagnosis', '']
+Sepro Telecom International
+	Developer and provider of rating and billing software. The company develops rating and billing software for telecommunications and electronic commerce industries.
+	['', 'billing software', ' ', 'electronic commerce', ' rating']
+Danyl
+	Manufacturer of electronic data collection which input to computerized accounting systems. The company also produces self-service electronic transaction systems with magnetic stripe cards.
+	['', 'electronic data collection', ' ', 'electronic transaction', ' ', 'magnetic stripe card', '']
+CheckFree
+	Provider of electronic commerce services. The company provides electronic billing and electronic statement creation, delivery, payment services and also offers electronic commerce, software and investment services.
+	['', 'e-billing', ' ', 'e-commerce', '']
+Virtual Purchase Card
+	Provider of online payment system. The company also provides virtual card which offers secure electronic identification, authorization, settlement and reporting tool.
+	['electronic']
+NetBuy
+	Provider of e-commerce purchasing services. The company provides services for OEMs, contract manufacturers and electronic manufacturing services whose real-time requirements for electronic components typically include small order, shortage and quick-turn manufacturing.
+	['', 'electronic components', ' ', 'purchasing service', ' ', 'contract manufacturers', ' ', 'online purchasing', ' ', 'internet retail', '']
+Alpha Mos
+	Manufacturer and developer of electronic sensing instruments for analyzing the chemical and sensory properties of products. The company\'s electronic noses measure volatile organic compounds (VOC) and odors, electronic tongues analyze the taste of products, vision analyzers evaluate the color and shape and Gas chromatographs analyze the chemical composition of products and coupled with the odor analysis module, can further qualify odor-related compounds.
+	['', 'electronic sensing instrument', ' ', 'electronic nose', ' ', 'electronic equipment', '']
+TeleKnowledge Group
+	Provider of e-commerce services offering customer care and electronic billing. The company provides content commerce platform for fee based services such as customer service and billing applications.
+	['', 'revenue growth', ' billing ', 'electronic billing', '']
+VARStreet
+	Provider of specialized e-commerce services. The company offers E-Commerce Platform features several modules that include E-Commerce, Quoting, Sourcing, and Marketing.
+	['', 'e commerce platform', '']
+ShopIgniter
+	Provider of electronic commerce software services. The company\'s social performance marketing platform enables digital marketing leaders to reach and convert their social mobile consumers.
+	['', 'internet retail', ' ', 'electronic commerce', ' ', 'software service', '']
+Wolf Medical Systems
+	Provider of electronic medical records for physician offices and medical clinics. The company offers cloud-based technology that  provides patient information over wireless and wireline networks. The company\'s practice management solutions include wolf billing, scheduler and workflow.
+	['', 'electronic medical records', ' ', 'patient information', ' ', 'wireless and wireline networks', ' ', 'wolf billing', '']
+Ciashop
+	Provider of e-commerce software services. The company provides services for electronic commerce in the form of SaaS (Software as a Service). It offers SaaS virtual store, hosting, infrastructure and payments gateway services.
+	['', 'e-commerce software', ' ', 'virtual store', ' ', 'innovative technology', '']
+Profile Systems
+	Developer of product data and supply chain management solutions for business-to-business electronic commerce. The company also offers extensive consulting services, including product data cleanup, supplier enablement/assessment, inventory consulting and overall electronic commerce and supply chain scoping projects.
+	['e-business ', 'supply chain management', ' SCM']
+ShopLocket
+	Provider of electronic commerce platform. The company allows users to create single-item storefronts they can embed on any website.
+	['', 'electronic commerce', ' ', 'link sharing', ' ', 'video embedding', ' ', 'online sale', ' ', 'ecommerce platform', '']
+Fiserv
+	Provider of information management and electronic commerce systems and services. The company\'s services include transaction processing, electronic bill payment and presentment, business process outsourcing, document distribution services and software development.
+	['', 'information management', ' ', 'electronic commerce systems', ' ', 'transaction processing', '']
+Mixcommerce
+	Provider of e-commerce services for brands. The company focuses on the creation and production of websites for customers and the management of online sales.
+	['e-commerce ', 'online sales', ' ', 'online sales', ' e-marketing merchandising']
+Securant Technologies
+	Developer of software solutions that provide a solid, integrated security infrastructure for electronic commerce. The company\'s software enables companies to easily manage a cohesive security policy required when deploying secure electronic commerce applications on the Web or across an Enterprise.
+	['eBusiness ', 'security software', ' ', 'electronic commerce', '']
+Wauwaa
+	Provider of an online platform for parents to find multimedia content and event-based electronic commerce sales. The company provides a platform which contains a large collection of video interviews with real parents on subjects relating to pregnancy, birth and parenting.
+	['', 'multimedia content', ' ', 'electronic commerce sale', ' ', 'content for parent', '']
+ThorpeGlen
+	Provider of electronic surveillance services. The company provides monitoring and tracking systems, data extraction and analytical services for law enforcement agencies.
+	['', 'proactive monitoring', ' ', 'data extraction', ' ', 'homeland security', ' ', 'organized crime', ' faruds']
+EC Cubed
+	Provider of the application components for the business-to-business electronic commerce marketplace. The company provides the cross-application components platform that allow organizations to build electronic-commerce applications.
+	['', 'electronic commerce', ' ', 'cross-application', ' ', 'electronic commerce', '']
+Printechnologics
+	Developer of electronic printed functionalities for the printing industry. The company offers an invisible electronic data tag that transforms paper, cardboard, plastics, films and labels into digital content and enables direct link between online and offline communications.
+	['', 'electronic printer', ' ', 'digital content', ' printer']
+Connect (Application Software)
+	Provider of comprehensive application software to enable internet-based electronic commerce. The company\'s software applications OrderStream and Purchase Stream allow global companies to automate order capture, improve customer service, streamline distribution and demand chain processes.
+	['', 'software application', ' ', 'comprehensive application', ' OrderStream']
+Tradecom Soluções Empresariais de Comércio Electrónico
+	Provider of electronic commerce services. The company offers an platform for business-to-business electronic commerce services to enterprises in Portugal.
+	['', 'B2b services', ' ', 'electronic commerce', ' ', 'business-to-business e-commerce', '']
+Transactiv
+	Provider of an on demand commerce services for mid market companies. The company provides tools that allow companies to engage and manage both indirect and direct channels and deliver commerce capabilities and analytics across websites, micro-sites, Facebook, eBay, Amazon and any mobile client.
+	['', 'online commerce', ' ', 'on-demand commerce', ' ', 'commerce analytics', '']

@@ -1,78 +1,27 @@
-Mine
-	Provider of an ownership directory that connects people and the items they buy to create personalized networks of product discovery. The company enables its users to create, control, update and share information on their purchases.
-	['', 'product discovery', ' ', 'purchase information', ' ', 'information sharing', ' ', 'product search', ' ', 'product directory', '']
-icast
-	Operator of an online entertainment company. The company enables users to create, customize and share their personal entertainment passions online.
-	['', 'onlinen entertainment', ' ', 'share personal passion', ' customize']
-Anobii Ltd.
-	Developer of an online reading community. The company provides a wide range of books for online readers.
-	['e-book ', 'online reading community', ' ', 'online book', '']
-Readmill
-	Provider of an online reading platform. The company enables users to read, share and highlight the information of books.
-	['', 'online community', ' ', 'online book', ' ', 'book information', '']
-IBeatYou
-	Provider of online contest and competition Website. The Website enables users to compete using video, photo and text.
-	['', 'online contest', ' ', 'online competition', ' ', 'online video competition', ' ', 'photo competition', '']
-Small Demons
-	Developer of online aggregation service. The company has built a discovery platform based on the data gathered from various books, which helps to unlock all sorts of information from inside books thus making movies, music, food, travel and beyond discoverable and consumable.
-	['', 'social platform software', ' ', 'database software', '']
-Tastemakers
-	Provider of social network for books lovers. The company allows its users, including authors, publishers and readers to build a virtual bookshelf, see what the users’ friends reading and discover and learn from other people with similar reading tastes. It also enables its users to socially interact around the books, influence peers by rating and discussing books online, participate in online book groups to further explore literature and interact with and learn from authors.
-	['', 'social network', ' ', 'online book', ' ', 'virtual bookshelf', ' ', 'reading taste', '']
-Librify
-	Operator of a social reading website. The company provides a platform for purchasing e-books, collecting them and creating communities of other readers with whom to share them.
-	['', 'social reading platform', ' ', 'online library', ' e-book']
-Panraven
-	Provider of online storytelling services. The company provides a multimedia service that enables the users to chronicle and communicate their life experiences through stories that can be viewed and shared online and printed in books.
-	['', 'online storytelling', ' ', 'pre trip planning', ' publishing']
-ThreatGRID
-	Operator of an online malware threat intelligence platform. The company enables organizations to identify and analyze malicious software on their infrastructure.
-	['', 'malware threat', ' intelligence malicious']
-Amiato
-	Provider of an immediate A/B testing tool. The company enables users to point their data and to analyze the data.
-	['', 'data analysis', ' ', 'computer architecture', ' ', 'database management', '']
-Alphonso Labs
-	Provider of news reading application platform. The company enables users to consume news on mobile phones and tablets.
-	['', 'news reading application', ' ', 'news application', ' ', 'mobile news', ' ', 'news reader', '']
-Cloudtop
-	Provider of a software-application connection service. The company provides a software platform that enables users to connect, store and process any file from anywhere on the Internet. Users can connect their apps to more than a dozen online services, in 2 lines of code, and the software handles uploading of the files, delivering a short URL to store and to read from.
-	['', 'mobile app', ' ', 'cloud service', ' ', 'mobile tool', ' ', 'sync multiple services', '']
-Charitableway
-	Operator of a Website that enables users to donate online to charities. The company specializes in bridging the connection between the business and nonprofit communities by providing application services.
-	['', 'online donation platform', ' ', 'charity platform', ' ', 'application services', '']
-SingShot Media
-	Provider of online singing community that lets you choose from thousands of songs, record your own versions, and share them with the world.
-	['', 'online singing community', ' ', 'singing community', ' ', 'karaoke community', ' ', 'karaoke singing', '']
-1-Page
-	Provider of corporate software as a service and consumer Internet proposal platform. The company enables its users to systematically create, solicit, distribute and negotiate one page proposals between individuals and companies from anywhere around world.
-	['', 'IT services', ' ', 'corporate software', ' ', 'internet proposal platform', '']
-Blade Games
-	Provider of video game development solutions and outsourcing services for developers, students, and professional studios.The company provides a development platform that enables users to develop, share, and play with a subscription model, as well as offers a marketplace that enables hobbyists and professionals to buy and sell digital assets.
-	['', 'video game development', ' ', 'outsourcing service', ' ', 'digital asset', ' ', 'video game', '']
-Boomerang (Chicago)
-	Provider of an online gifting platform. The company enables users to send digital vouchers through Facebook for gifts ranging from cocktails and dinner to kayaking and massages. Recipients redeem these vouchers directly with local merchants using their smartphones.
-	['', 'social gifting service', ' ', 'online gifting', ' ', 'digital giftcard', ' gift gifting']
-Iconology
-	Developer of technological infrastructure for digital comic books. The company provides weekly list of new releases in a format that allows viewing of issues individually, displaying cover arts, credits, descriptions, prices and page counts. It offers a digital Pull List system, which allows collectors to maintain their collections online, print out those lists and provide them to their local retailer, as well as allows visitors of the site to see what comics people are reading and expose them to items they wouldn\'t normally purchase.
-	['', 'digital comic book', ' ', 'digital book', ' ', 'comic library', '']
-redBus
-	Provider of an online bus ticketing service. The company enables users to book bus tickets through phone, home delivery, physical outlets or even SMS.
-	['', 'online bus ticket', ' ', 'booking service', ' ', 'online ticketing', '']
-Fetchnotes
-	Provider of note taking and organization tool. The company provides a cloud based note jotting and organizing system which allows user to capture, organize short notes like books to read, ideas and shopping lists.
-	['', 'note jotting', ' ', 'organization tool', ' ', 'online note', ' ', 'mobile development', ' ', 'web development', '']
-Fluidinfo
-	Provider of online information storage and search platform. The company enables content owners to publish product information through a writable application programmer interface (API) with permissions and developers to create applications that make data social.
-	['', 'information storage', ' ', 'online search', ' ', 'social data', '']
-TripSay
-	Operator of a travel site. The company enables users to make trip plans and share information with traveling friends.
-	['', 'travel site', ' ', 'travel plan', ' ', 'trip information', '']
-Sports and Things
-	Provider of a social networking web site that allows users to share information with family members. The company enables users to create a private page where family can share photos, share life updates, store contact information and post messages.
-	['', 'private social network', ' ', 'share photo', ' ', 'share update', '']
-Yardsale
-	Provider of an online retail platform. The company offers a platform that enables users to list items for sale and then sell their products on other local marketplaces.
-	['', 'local marketplace', ' ', 'online retail platform', ' ', 'online selling platform', '']
-RapidEngines
-	Provider of online platform for application analytics and baseline anomaly detection. The company enables to tag users application data to monitor and baseline the metrics, as well as provides customers with tools to create or configure plugins and creates analytic dashboards.
-	['', 'online platform', ' ', 'baseline anomaly detection', ' ', 'configure plugin', ' ', 'analytic dashboard', '']
+Sentinel Vision
+	Provider of security alarm notification and verification systems and services. The company offers SafeScout system, that sends images, sound, and text information to the Sentinel’s data center. The company provides service to renters, homeowners, and business people.
+	['', 'security alarm', ' ', 'verification system', ' ', 'safescout system', '']
+Benebit Networks
+	Provider of a security software. The company develops security software for real time protection of information in the real world, security audits, penetration testing, programmer education programs, security consulting and data classification.
+	['prevention ', 'information leakage', ' ', 'data theft', '']
+Guardium
+	Developer of database security software. The company develops software for preventing information leaks from the data center and ensuring the integrity of enterprise data.
+	['', 'database security', ' ', 'enterprise data integration', ' ', 'information security', '']
+CoSoSys
+	Developer of network endpoint security and portable storage device enhancement solutions. The company also provides portable USB security software solutions that offer flash drive encryption, data synchronization, Outlook synchronization, and biometric data security.
+	['', 'network security', ' ', 'software solution', ' ', 'biometric data', ' ', 'data security', '']
+OREX
+	Supplier of x-ray machines. The company provides computerized radiography products which enable medical practitioners to acquire patient\'s digital x-ray images anywhere.
+	['', 'x-ray machine', ' ', 'computerized radiography', ' ', 'digital x-ray image', ' ', 'Diagnostic Equipment', '']
+Axent
+	Provider of enterprise-grade security software. The company provides an integrated suite of software designed to assess vulnerabilities and ensure policy compliance, provide firewall protection & intruder alerts; enable security Internet usage, and to manage users and resources.
+	['', 'information security', ' ', 'information assets', ' ', 'security services', '']
+Demarc Security
+	Provider of threat-security software. The company provides a platform enabling enterprises to centrally monitor & manage their networks and receive real-time security threat updates.
+	['firewall ', 'internet security', ' ', 'threat protection', '']
+Securewave
+	Provider of security software and digital data-security services. The company develops security products that enable banks and other organizations to manage, monitor and maintain control over applications and devices on their corporate networks, and to prevent cases of data threats.
+	['', 'network security', ' ', 'digital data security', ' ', 'data threat', ' ', 'software security', '']
+Application Security
+	Provider of database security application. The company develops security software for relational databases and big data stores that helps businesses and government agencies uncover critical configuration mistakes, access control issues, missing patches, or any toxic combination of settings that could lead to denial-of-service attacks, unauthorized data modification and data breaches.
+	['', 'database security', ' ', 'compliance solution', ' ', 'vulnerability management', ' ', 'threat management', ' ', 'audit management', ' ', 'database integration', ' ', 'database discovery', '']

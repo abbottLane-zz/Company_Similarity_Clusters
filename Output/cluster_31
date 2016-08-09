@@ -1,51 +1,39 @@
-Power Innovations International
-	Provider of services for power management, power storage and green energy technologies for power generation and re-generation. The company also offers consulting and customization of original equipment manufacturer development accessories.
-	['', 'power management', ' ', 'power generation', ' ', 'power storage', '']
-Sinewave Energy Technologies
-	Developer of power-modulation systems. The company researches and develops sinewave power-control products based on its patented, ultra-high-speed power-switching technology. The company\'s products include digital sinewave lighting dimmers for high intensity discharge (HID) and fluorescent lighting.
-	['', 'light dimmer', ' ', 'power modulation', ' ESD HID ', 'lighting products', '']
-Qspeed Semiconductor
-	Manufacturer of silicon power semiconductor devices for power supplies, inverters, motor control and other power applications. The company also offers power diodes.
-	['', 'silicon power semiconductor', ' ', 'power diodes', ' ', 'motor control', '']
-Gnodal
-	Developer of a technology that improves performance and power in data centers. The company\'s technology aims to significantly reduce power usage and running costs.
-	['', 'systems design', ' ', 'data technology', ' ', 'data centre', '']
-NuScale Power
-	Designer of electric light water reactor nuclear power plants for nuclear power generation applications in government and commercial sectors in the United States. The company offers single-unit systems and multi-module facilities.
-	['', 'small modular reactor', ' ', 'nuclear power plant', ' ', 'energy service', '']
-Inverpower Controls
-	Manufacturer of power electronics modules and advanced high-speed digital controls. The company manufactures products for use in industrial power supply, power conversion and power quality systems.
-	['', 'electronic module', ' power']
-Benchmarq
-	Provider of power-sensitive and portable electronic systems. The company provides integrated IC and module solutions that address problems in managing battery-operated, low-power, and power-sensitive equipment.
-	['ic battery']
-Wiffledan
-	Developer of photo capturing application. The company finds amazing photos hidden inside video through the power of technology. It is supported by an iOS app.
-	['', 'photo capturing application', ' ', 'photo framing application', ' ', 'photo application', '']
-MobileWise
-	Provider of wire- free electric power technology specially for mobile devices. The company offers Wire-Free Electric Power chipsets to mobile, networking and power accessories OEM and aftermarket manufacturers.
-	['', 'electric chipsets', ' ', 'application specific semiconductors', ' ', 'information technology', '']
-Apache Design Solutions
-	Developer of physical design and verification software solutions for the semiconductor industry. The company provides power sign-off and silicon integrity platform solutions. It\'s products enables designers of semiconductor and fabless companies to detect, fix, and prevent design weaknesses. It\'s solutions include power integrity, low power management, and noise control.
-	['', 'semiconductor design', ' ', 'semiconductor verification', ' ', 'verification software', ' ', 'silicon integrity', ' ', 'power management', ' ', 'noise control', ' ', 'power integrity noise control', '']
-Biotricity
-	Provider of biofuel power-generating and processing services. The company is a biomass-processing, co-generation power station developer. The company is developing a 50-megawatt plant in Rhode, Ireland.
-	['', 'biomass', ' irish ', 'biomass energy', '']
-Nokian Capacitors
-	Manufacturer of power system components and capacitors. The company manufactures equipment and systems for reactive power compensation and harmonic filtering.
-	['capacitors ', 'system component', ' filtering']
-Photonic Power Systems
-	Provider of power over optical fiber. The company provides EMI and RFI immune electrical power to remote locations with no electrical wire. The company’s products include photovoltaic power converters and modules, optically powered data links and high power optical data systems, which are used in  medical, electric power, sensor and wireless markets.
-	['', 'optical fiber', ' ', 'photovoltaic power', ' sensor']
-Ideal Power
-	Developer of power converters. The company develops and manufactures disruptive electronic power converters. It also offers electronic power converters for renewable energy generation, electrical energy efficiency, smart power grids and electric vehicles. The company also provides photovoltaic inverters and battery converters for grid storage and electrified vehicle fast charging infrastructure, such as peak demand reduction in commercial and industrial markets, utility load shifting, buffering EV fast chargers and bi-directional EV DC chargers. In addition, it offers hybrid power conversion systems and power switches.
-	['', 'PV Inverters', ' ', 'Battery Converters', ' ', '3-Port Hybrid Converters', ' ', 'Bi-polar', ' inverters']
-PulseWave RF
-	Provider of semiconductor components for wireless power amplifiers. The company offers Class M Power technology, a digital multi-carrier power amplifier module that simplifies the design for transmitters and provides the scalability required for various power level configurations, including fail-soft operation.
-	['', 'semiconductor component', ' ', 'wireless power amplifier', ' ', 'amplifier module', ' ', 'digital multi carrier', '']
-Silicon Power
-	Provider of semiconductor devices, pulsed-power modules and utility-applicable systems. The company offers semiconductor components, which include rectifier type diodes and thyristorsm, phase control and line commutation devices, pulse power application device and phase modules. It offers its products for use in commercial, industrial, defense and national power applications.
-	['', 'semiconductor device', ' ', 'pulsed-power module', ' ', 'utility-applicable system', ' ', 'semiconductor component', ' ', 'line commutation device', '']
-Calypto Design Systems
-	Provider of power optimization and functional verification software services. The company offers PowerPro CG that reads in an RTL design and evaluates circuit behavior in various clock cycles to identify sequential clock gating enable conditions; PowerPro MG, an automated memory power optimization service that reduces dynamic and leakage memory power; and PowerPro-filer, a Linux utility that calculates clock-gating efficiency, as well as the percentage of registers clock gated in a RTL design block.
-	['circuit ', 'functional verification', ' ', 'electronic system', '']
+Envolure
+	Developer and provider of a biological, enzymatic and chemical catalog for the characterization of waste water and organic waste. The company offers a range of biological, enzymatic and chemical ecoanalyses on environmental matrices.
+	['enzymatic ', 'chemical catalog', ' ', 'organic waste', '']
+Ultranat
+	Provider of technologies for the treatment of power plant waste ash. The company\'s technology enables ash from biomass fuel power plants to be processed into valuable  end-of-waste products, like fertilizers and animal feed.
+	['', 'Waste treatment', ' ', 'processing ash', ' ', 'biomass fuel power plants', '']
+Kiala
+	Provider of collection points network in Europe. The company offers technological platform, which automates all transportation and delivery activities and helps provide collection points network for the delivery of parcels to end-consumers.
+	['', 'collection point network', ' ', 'technological platform', ' ', 'delivery point', ' ', 'logistic solution', ' ', 'home delivery', '']
+Covanta Holding
+	Manufacturer of infrastructure for the conversion of waste to energy, as well as other waste disposal and renewable energy production businesses. The company provides communities with an environmentally sound solution to their solid waste disposal needs by using that municipal solid waste to generate clean and renewable energy.
+	['', 'Renewable energy', ' ', 'waste to energy', '', 'clean energy', '', 'Eco-friendly electricity', '']
+Ascend Health
+	Provider of mental health and chemical dependency hospitals and residential treatment centers. The company operate freestanding psychiatric hospitals and a residential treatment center. It offers a broad array of behavioral health programs including inpatient services, day hospital services including partial hospitalization and intensive outpatient services, as well as residential substance abuse treatment.
+	['', 'mental health', ' ', 'behavioral health', ' ', 'chemical dependency', ' ', 'abuse treatment', ' ', 'rehabilitation service', '']
+Transload America
+	Provider of rail-based transfer, transportation, recycling and disposal of solid waste services in North America. The company provides rail-based transportation, trans-loading, disposal, recycling and reuse of waste material including municipal solid waste and construction and demolition debris. It also provides equipment and materials handling, fleet management and logistical services.
+	['', 'waste management', ' recycling ', 'solid waste disposal', ' ', 'rail-based transportation', ' ', 'debris demolition', '']
+Inetec
+	Provider of waste management services. The company offer a range of on-site waste management services to food manufacturers relating to food and non-recyclable packaging waste.
+	['', 'waste management', ' ', 'packaging waste', ' ', 'on-site waste management', '']
+Med-Shred
+	Provider of medical waste treatment services. The company offers transportation, collection, treatment and disposal of medical waste.
+	['', 'medical waste disposal', ' ', 'waste treatment service', ' ', 'environment friendly', '']
+Schick Shadel Hospital
+	Operator of an addiction treatment hospital. The company provides alcohol, drug, oxycontin, methamphetamine, marijuana, cocaine treatment programs, as well as offers dietary services.
+	['', 'addiction treatment', ' ', 'alcohol treatment program', ' ', 'drug treatment', ' ', 'dietary service', '']
+Eco-Solids International
+	Developer of technologies for organic residue treatment. The company develops and commercializes technologies for waste treatment with a particular focus on treatment of sewage sludge to improve their stability and decrease pathogen content.
+	['', 'waste treatment', ' ', 'sewage sludges', ' pathogen ', 'environmental processing technology', '']
+Semler Scientific
+	Provider of medical risk-assessment services. The company\'s mission is to develop, manufacture and market patented products that identify the risk profile of medical patients to allow healthcare providers to capture full reimbursement potential for their services.
+	['', 'risk assessment', ' ', 'risk analysis', ' ', 'medical assessment', ' ', 'risk profile', '']
+ChemTrak
+	Provider of medical information to healthcare industry professionals. The company designs and presents interactive, informational, video and animated graphic presentations for the medical industry.
+	['', 'medical information', ' ', 'medical suppliers', ' ', 'medical industry', ' ', 'medical presentations', ' ', 'multimedia presentations', '']
+Archimedes Technology Group
+	Developer of systems for plasma ion separation. The company offers products which includes plasma mass filter and related technologies. The company tests new technologies that can speed weapons waste cleanup and opens new non-chemical approaches to commercial spent fuel reprocessing. It serves medical, semiconductor, and nuclear power industries.
+	['', 'plasma ion', ' ', 'plasma mass filter', ' ', 'waste cleanup', ' ', 'nuclear waste', '  ', 'fuel reprocessing', '']

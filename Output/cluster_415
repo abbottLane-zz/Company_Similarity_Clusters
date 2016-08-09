@@ -1,18 +1,39 @@
-buecher.de
-	Owner and operator of an online bookstore. The company primarily operates as an online retailer of books and also engages in the sale of other media products such as games, music and movies.
-	['', 'online books', ' ', 'books retailer', ' bookstore']
-Djangos.com
-	Seller of new and used CDs, DVDs and VHS via internet.
-	['', 'compact disc', ' ', 'optical disc storage', ' ', 'Digital Versatile Disc', '']
-Nano-Tex
-	Developer of nanotechnology-based textile enhancements for apparel, home and commercial and residential interiors markets. The company’s products are applied in apparel, home textiles, residential furniture, hard goods and commercial interiors.
-	['', 'textile enhancement', ' nanotechnology ', 'commercial interior market', ' ', 'residential interior market', ' ', 'residential furniture', ' ', 'home textile', '']
-EcoScraps
-	Provider of organic, chemical and manure free lawn and garden products. The company\'s process recycles food wastes into nutrient rich products.
-	['', 'organic soil', ' compost fertilizer ', 'potting soil', ' ', 'garden product', ' ', 'lawn product', '']
-WebMediaGroup
-	Owner and operator of social commerce websites in France. The company operates multiple websites geared toward women consumers, with content ranging from home appliances, gardening and decor to an online marketplace for handcrafted objects and a female-focused classified platform.
-	['', 'specialist furniture', ' ', 'homemade products', ' ', 'household goods', '']
-PriceMinister
-	Owner and operator of e-commerce websites and online communities. The company offers private and professional users a marketplace to trade various products, including books, videos, CDs, DVDs and games, electronics, clothes, childcare products, apparel, home and garden products, automobiles and many other products.
-	['', 'e-commerce', ' shopping ', 'online shopping', ' marketplace']
+BambooTori
+	Operator of a restaurant chain. The company provides Japanese food and serves all-natural chicken, beef, pork and vegetable skewers.
+	['Kushiyaki YAKITORI teriyaki grill meat ', 'skewered meats', ' char']
+InovisProject
+	Manufacturer and developer of multilayer coatings. The company specializes in the production of coated products for the production of films for cameras.
+	['', 'industrial coating', ' ', 'film coating', ' ', 'multilayer coating', '']
+Les Nouvelles Jardineries
+	Operator of a garden-store chain. The company sells budget-priced garden supplies from its chain of stores in France and online.
+	['', 'garden store', ' ', 'gardening tool', ' ', 'flower seed', ' ', 'garden furniture', '']
+Nauticus Networks
+	Developer of internet infrastructure products. The company offers customer support programs for enterprise networks and IT outsources deploying web-enabled applications requiring security.
+	['', 'internet infrastructure', ' ', 'customer support system', ' ', 'web enabled application', ' ', 'network management', ' ', 'enterprise software', '']
+Frisørkjeden Tango Norge
+	Operator of a hairdressing chain. The company was established because of the growing demand for hair saloons.
+	['', 'hairdressing chain', ' ', 'hair saloons', ' saloons hair']
+Authix Technologies
+	Developer of a product authentication system. The company designs small unique tags that will be inserted in each package or within the items to be purchased.
+	['', 'product authentication system', ' ', 'wireless device', ' ', 'product tag', '']
+EBERT Kettenspanntechnik
+	Producer of roll-ring chain tensioners. The company develops self-adjusting tensioners and damper roll-ring chain for various industrial applications.
+	['ROLL-RING ', 'chain tensioner', ' ', 'chain damper', ' ring']
+Ter Stal Textiles
+	Operator of a fashion chain. The company designs its own products and then outsources production to manufacturers.
+	['', 'fashion chain', ' ', 'clothing outsourcing', ' ', 'private label', '']
+Matsutake
+	Operator of a Matsutake mushrooms developing company. The company commercialization of a production method for Matsutake mushrooms.
+	['', 'Matsutake mushroom', ' mushroom ', 'Cantharellus cibarius', '']
+Wanda Cinema Line
+	Operator of a movie theater chain. The company had a total of 1,616 screens, including 94 IMAX screens, in 182 cinema complexes in 100 cities in China.
+	['', 'movie services', ' ', 'movie theater', ' ', 'entertainment service', '']
+Ibisa Televisión
+	Operator of a media production house. The company is a creator of TV docudramas and documentaries. It oversees all phases of film production, from concept to script, shooting, post production and broadcasting.
+	['', 'television series', ' documentaries ', 'production and distribution', '']
+Jackalope Labs
+	Operator of a fashion-retail site with curated, home-try-on selections. The company operates an electronic commerce site for men and women utilizing its own label, sending customers curated garment collections to try on at home and charging them for the garments they opt to keep.
+	['', 'luxury clothing', ' ', "men\\'s apparel", ' ', "women\\'s apparel", ' ', 'internet retail', ' ', 'fashion retail', '']
+Excara
+	Operator of a content and commerce services company. The company provides tools and services customized specifically to meet the needs of manufacturers\' sell-side and buy-side internet strategies. The company\'s sell-side solutions allow manufacturers to present and sell their products online, as well as manage their online supply chain.
+	['', 'online content', ' ', "manufacturers\\' software", ' ', 'commerce service', '']

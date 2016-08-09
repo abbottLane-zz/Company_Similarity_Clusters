@@ -1,21 +1,54 @@
-MoboTap
-	Developer of a browser technology for mobile devices. The company is a mobile technology developer which has created Dolphin Browser, a web browser created for andriod, iOS phone and tablet users.
-	['', 'browser technology', ' ', 'mobile technology', ' ', 'web browser', '']
-Evertale
-	Developer of mobile applications. The company provides an application that automatically logs user\'s activities through mobile devices and creates a scrapbook.
-	['', 'user activity', ' ', 'scrapbook application', ' ', 'social application', '']
-MCC
-	Provider of mobile products and services in the Netherlands. The company is a retailer of mobile devices, including smart phones, tablets, navigation devices and accessories, and sells service descriptions for their use.
-	['', 'wireless communications', ' ', 'mobile devices', ' ', 'wireless services', '']
-Openera
-	Provider of mobile application services. The company provides an application that help users to find any file or attachment in two taps and automatically saves email attachments to cloud services like Dropbox, Google Drive, Box and Salesforce.
-	['', 'mobile application service', ' ', 'email attachment', ' ', 'cloud service', '']
-RallyCause
-	Provider of mobile commerce services by connecting affinity groups to local businesses. The company provides an application which allows people to enroll for a cause and when they shop at participating businesses in the cause, they claim an instant rebate with their smart phones, which enables them to contribute savings to one of the causes featured in the app.
-	['', 'mobile commerce', ' ', 'fund raising', '']
-JustChalo
-	Provider of a mobile technology focused on US restaurant industry. The company provides an application for reservations to be made on mobile devices for diners.
-	['', 'mobile technology', ' ', 'restaurant mobile payment', ' ', 'restaurant iphone application', '']
-PrimaTable
-	Provider of a platform to help restaurants to manage their scarce table resources. The company develops last-minute perishable inventory demand forecasting and pricing tools for the restaurant industry.
-	['', 'resource management', ' ', 'inventory demand forecasting', ' ', 'perishable inventory', ' ', 'pricing tool', ' ', 'restaurant pricing tool', '']
+SpearCast
+	Developer of web data extraction and data aggregation tools. The company offers a technology that is capable of automatically locating, extracting, merging and converting hundreds of millions of data points across various online sources and creating a standardized business profile which includes address and customer reviews, online ad spend and online visibility on search engines and all relevant sites.
+	['', 'data aggregation', ' ', 'web data', ' ', 'data extraction', '']
+Servicesoft
+	Developer of a customer support software. The company offers an online software that enables its customers to obtain requested information facilitating e-commerce services, processing transactions and resolving problems within customer support.
+	['', 'internet customer service', ' ', 'customer service solution', ' ', 'customer service', '']
+Eventioz
+	Provider of online ticket sales and services. The company offers an online ticket platform for clients to promote and market events.
+	['', 'event marketing', ' ', 'event promotion', ' ', 'ticket sales', ' ', 'event ticketing', ' ', 'ticket services', ' ', 'ticket marketing', ' tickets']
+US Interactive
+	Developer of internet-centric customer management services. The company is a software and services organization that develops and deploys internet-centric customer management services for communications and next generation service providers.
+	['', 'customer management service', ' ', 'software service', ' ', 'internet-centric service', ' ', 'communication service provider', '']
+NetMed
+	Provider of online health and medical information.
+	['', 'healthcare information', ' ', 'medical information', '']
+QualityHealth
+	Provider of online customer acquisition platform to the healthcare market. The company caters to pharmaceutical, biotech, consumer products, and health and wellness sectors. The company provides information on allergies, arthritis, asthma, diabetes, eating and nutrition, sleep management, autism, cancer, epilepsy, flu treatment and others.
+	['', 'healthcare information', ' ', 'customer acquisition', ' ', 'manage health', '']
+Inkiru
+	Developer of predictive intelligence platform. The company\'s technology provides safer and profitable commerce experience to customer. The company\'s predictive platform reduces fraud, increases profit and improves customer segmentation.
+	['', 'predictive intelligence', ' profit ', 'customer segmentation', ' ', 'profitable commerce experience', ' ', 'big data challenges', '']
+Lottay
+	Provider of online gifting solutions.
+	['', 'online gift', ' ', 'personalized message', ' ', 'personalized gift', '']
+Synapse Group
+	Provider of proprietary customer acquisition and management services for publishers of consumer magazines. The company provides services to publishers in driving magazine circulation and increasing the value of magazine customer relationships.
+	['', 'consumer magazine', ' ', 'customer acquisition', ' ', 'affinity marketing', '']
+WizBill
+	Provider of an expert system for the telecommunication industry. The company offers a platform for billing and addresses issues such as customer acquisition, customer retention and pricing optimization leading to improved customer satisfaction.
+	['', 'saving advisory', ' ', 'customer acquisition', ' ', 'pricing optimization', '']
+Listening Company
+	Provider of outsourced customer communication services. The company specializes in telemarketing solutions which includes managing customer interaction ranging from customer acquisition to retention, renewal and growth, including advice and services.
+	['', 'telemarketing solutions', ' ', 'outsourced customer communication services', ' ', 'BPO services', ' ', 'managing customer interaction', '']
+Crowd Muscle
+	Provider of collaborative approach to market research and customer intelligence. The company uses a collection of rich analytic capabilities and provides a multi-dimensional understanding of a customer base, therefore helping the clients to take tactical and strategic decisions. The company also provides hard metrics that enable improvements in customer engagement and customer service.
+	['', 'customer base', ' ', 'market research', ' ', 'crowd integration', '']
+Andera
+	Provider of online customer acquisition services to financial institutions. The offers a suite of products and services for online account opening, funding and crossselling.
+	['', 'online account', ' ', 'financial service', ' ', 'funding information', '']
+netDialog
+	Developer of collaboration software for electronic commerce allowing for network based collaboration, communications, and interaction between vendors and customers. The company works on Online Customer Management Software (iCare System) that leverages the Internet as a two-way communications medium to improve customer satisfaction, increase customer retention and reduce operational and IT deployment costs.
+	['', 'ecommerce', ' ', 'online customer management', '']
+TeaLeaf Technology
+	Provider of online customer experience management services. The company offers a datastore of online customer information.
+	['', 'customer experience', ' ', 'customer information', ' ', 'customer issue', '']
+Genesis Teleserv
+	Provider of integrated customer contact services. The company also integrates information management systems.
+	['', 'integrated customer contact', ' ', 'information management system', ' telesale']
+Xchange
+	Provider of relevant, personalized customer communications. The company provides eCRM software and services that enables clients to customize offers based on profile information, synchronize offers across all customer channels in real-time, and track the responses.
+	['', 'customer communication', ' CRM']
+Purisma
+	Provider of solutions- driven data management platform and software for enterprises. The company provides online customer registry system that connects enterprise applications, databases and external data sources.
+	['', 'data integration software', ' ', 'data management platform', '']

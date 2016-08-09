@@ -1,39 +1,33 @@
-GoInstant
-	Developer of shared web-browsing tool. The company\'s unique co-browsing tool allows two or more people to surf the web at the same time with no downloads, plugins or installs. It helps to share a web experience in real- time.
-	['', 'shared web browsing', ' plugin ', 'web experience', ' ', 'browsing tool', ' ', 'web browsing', '']
-Loyalize
-	Developer of a media and marketing software. The company provides audience participation services for brands and content providers to engage with audiences in real-time.
-	['', 'audience participation', ' ', 'white-label service', ' rewards']
-CoTweet
-	Provider of a platform that helps companies reach and engage customers by using Twitter. The company provides CoTweet 3.0, an enterprise edition product that features Facebook integration, public status updates monitoring, and conversations publishing and moderating on fan pages. It allows multiple people to communicate through corporate Twitter accounts.
-	['', 'marketing service', ' ', 'social platform', ' ', 'collaboration platform', ' ', 'business collaboration platform', '']
-Vouchfor!
-	Provider of a social referral marketing platform. The company\'s platform allows businesses to build local reward programs through a word-of-mouth marketing technique. The company\'s platform allows its users to earn reward on each referral they make.
-	['', 'B2B Services', '']
-Roboinvest
-	Provider of a social investing platform. The company\'s platform allows users to follow and copy other traders in real-time.
-	['', 'social investing platform', ' ', 'social trading', ' ', 'automatic investing', ' ', 'social investing', '']
-EveryArt
-	Operator of an online art gallery. The company\'s platform allows the visitor to commission an art piece from a diverse portfolio of artists on the web to create an original piece of art for them.
-	['', 'art gallery', ' ', 'art piece', ' portfolio masterpiece']
-Net Effect Systems
-	Provider of services to the e-commerce market. The company provides solution that enables real-time, text-based conversations between e-businesses and their customers.
-	['text-based chat real-time']
-ShareGrove
-	Provider of an online conversations platform. The company\'s platform allows its users to select friends from Facebook (and other networks) and to engage them in real time, or over time, through a single Web interface.
-	['', 'online conversations platform', ' ', 'friend selection platform', ' ', 'web interface', '']
-Tinkercad
-	Provider of an interactive simulation environment by a supercomputer. The company enables design engineers and analysts to run fidelity simulations in real time while interacting with their model. The product is cloud based with a browser interface.
-	['', 'interactive simulation environment', ' ', 'fidelity simulation', ' ', 'browser interface', '']
-Cloud Cliques
-	Developer of web and retail technologies. The company has developed a fashion technology which allows users to virtually try on clothes in real time on their 3D digital clone and see how items will fit, look and move their exact body both in the retail space and online.
-	['', 'retail technology', ' ', 'web technology', ' ', 'fashion technology', ' ', 'digital clone', ' 3D']
-Swap.com (Acquired 2012)
-	Provider of an online goods exchange platform. The company operates an online platform that allows users to swap and trade books, compact discs (CDs), digital versatile discs (DVDs) and video games and other goods for a fee.
-	['', 'online trading platform', ' ', 'Electronic Shopping platform', ' ', 'item swapping', '']
-Leap.it
-	Owner and operator of visual search and collaboration platform. The company\'s platform allows searchers to edit, share and impact search results across the web. Its key differentiators include searching algorithms real time based on current happenings, helping consumers curate & share visual search results through collaborative effort and being contextual as curated search pages can be embedded at point of content.
-	['', 'web search', ' ', 'mobile search', ' browsing ', 'mobile search platform', '']
-Apptitude
-	Developer of a embedded internet traffic analysis platform. The company provides a wire speed application recognition technology that provides fully granular, real time application visibility on enterprise networks.
-	['', 'internet traffic', ' ', 'analysis platform', ' ', 'enterprise network', '']
+Ballard Power Systems
+	Ballard Power Systems Inc was incorporated in the State of Canada on November 12, 2008. It is a clean energy growth company. The company is engaged in proton exchange membrane (PEM) fuel cell development and commercialization. The Company\'s main business is the design, development, manufacture, sale and service of fuel cell products for a variety of applications, focusing on motive power (material handling and buses) and stationary power (back-up power, supplemental power, and distributed generation). A fuel cell is an environmentally clean electrochemical device that combines hydrogen fuel with oxygen (from the air) to produce electricity. Ballard fuel cell products feature high fuel efficiency, low operating temperature, low noise and vibration, compact size, quick response to changes in electrical demand, modular design and environmental cleanliness. The Company has four principal subsidiaries and affiliates: Ballard Fuel Cell Systems Inc., an Oregon corporation that develops methanol-fueled clean energy backup power systems; Dantherm Power A/S ("Dantherm Power"), a Denmark-based corporation jointly owned with Dantherm A/S that develops hydrogen-fueled clean energy backup power systems; BDF IP Holdings Ltd. ("IP Holdings"), a Canadian corporation that holds intellectual property assets; and Ballard Material Products Inc., a Delaware corporation that formerly developed and manufactured carbon fiber products for use in the automotive and fuel cell markets, and which now focuses on the development of fuel processing components and systems for use in fuel cell applications.
+	['', 'fuel cells', '']
+Greenvironment
+	Developer of micro-turbine technology.The company offers CHP plants in a power range of 30 kWel to 1 MWel with low maintenance requirements and low emissions.
+	['', 'turbine technology', ', ', 'power plant', ', ', 'biogas', '']
+CarouCell
+	Developer of equipment for in vitro drug-testing methods. The company is the creator of a novel, single-use perfusion bioreactor, to create three-dimensional cell cultures for research. Its device, which grows cells in an extra-cellular matrix that supports three-dimensionality, has been developed as an improvement over the standard two-dimensional environment of cells cultured in petri dishes.
+	['bioreactor ', 'three dimensional cells', ' ', 'pharmaceutical industry', '']
+Cellaris
+	Developer of ceramic foams. The company engages in producing industrial and laboratory heating systems, fuel cells, insulation for aircraft, rockets and satellites.
+	['', 'ceramic foams', ' ', 'heating systems', ' heat-resistant']
+Pemeas
+	Supplier of key components and subsystems to the fuel-cell industry. The company has two divisions. The Celtec division of Pemeas is focused on the development and commercialization of high temperature membranes and MEAs. The E-TEK division of Pemeas is developing precious-metal catalysts and electrode technology.
+	['', 'fuel cell', ' ', 'high temperature membranes', ' ', 'electrode technology', ' ', 'metal catalyst technology', '']
+Cbana Laboratories
+	Developer of microfluidic and microanalytical devices for both government and private entities. The company offers miniaturized sensors for homeland security, medical diagnostics, and micro fuel cells.
+	['', 'home land security', ' ', 'portable security', ' ', 'healthcare security', ' ', 'micro analytical device', '']
+Elmicron
+	Manufacturer and developer of micro-mechanical components for technical applications. The company offers precision electro-forming and engineering specialized for micro-technological applications.
+	['micromechanical engineering ', 'technical applications', '']
+H2Gen
+	Manufacturer of low-cost and small-scale hydrogen generators. The company provides these hydrogen generation machines to target the the emerging fuel cell vehicle and distributed fuel cell power generation markets.
+	['generator ', 'steam methane', ' ', 'purification plant', ' hydrogen']
+UltraCell
+	Developer and seller of integrated fuel cell systems. The company provides portable power source for computing, communications and sensing devices.
+	['', 'fuel cell', ' ', 'portable power', ' ', 'sensing device', '']
+BioFuelBox
+	Provider of a process that treats the lipid content of municipal wastewater and municipal FOG. The company also serves fuel distributors and blenders, and high-volume fuel users.
+	['', 'municipal wastewater', ' ', 'algae paste', ' ', 'waste fat', ' ', 'air flotation waste', '']
+PolyFuel
+	Developer of micro fuel cells using direct methanol fuel cell technologies.
+	['', 'micro fuel cell', ' ', 'fuel cell technology', ' ', 'methanol fuel', ' ', 'hybrid power', '']

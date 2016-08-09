@@ -1,21 +1,21 @@
-New Resource Bank
-	Provider of banking products and services to small to middle-size businesses. The company products include checking accounts, savings accounts, money market accounts and certificates of deposit, as well as attorney client trust accounts and solar certificates of deposit.
-	['', 'banking products', ' ', 'checking accounts', ' ', 'savings account', ' ', 'financial returns', '']
-Get Lower
-	Provider of loans, personal credit, banking, real estate, insurance and utility services. The company offers loan products, which include home loans, auto loans and personal loans, personal credit products, including credit cards, credit reports and debt management and banking services, such as checking accounts, saving accounts and bill pay services.
-	['', 'loan product', ' ', 'personal credit', ' ', 'internet banking', ' ', 'online payment', '']
-Mint.com
-	Provider of a free online personal finance service. The company\'s primary service allows users to track bank, credit card, investment, and loan transactions and balances through a single user interface.
-	['', 'personal financial management', ' ', 'single user interface', '']
-Once Again Me
-	Provider of comprehensive reports that represents business\'s financial obligations. The company also provides credit limit recommendation, background information and more data elements than other reports.
-	['', 'financial obligation', ' ', 'fraud screening', ' ', 'limit recommendation', ' recommendation']
-Lending Club
-	Provider of an online peer-lending service. The company provides a lending marketplace enabling creditworthy borrowers to apply for loans, financed in turn by investors on the site building their portfolios.
-	['', 'personal loan', ' ', 'loan investment', ' ', 'loan application', ' ', 'loan platform', '']
-Access National Bank
-	Provides banking and financial services to emerging businesses. The company offers business banking services, including deposit products, such as checking, savings and treasury management, lending products that include loans and lines of credit and treasury management services.
-	['', 'financial service', ' ', 'treasury management service', ' ', 'business banking service', '']
-Carolina Alliance Bank
-	Operator of a bank. The company caters in the financial industry and provides business and personal banking products and services as well as wealth management services.
-	['', 'online banking', ' ', 'commercial services', ' ', 'banking business', '']
+Transfusion Technologies
+	Developer and designer of systems for processing human blood for transfusion to patients. The company\'s systems are based on centrifuge technology called the Dynamic Disk and consist of sterile, single use disposable sets and computer controlled electromechanical devices that control the blood processing procedure.
+	['', 'centrifuge technology', ' ', 'monitoring systems', '']
+LV Sensors
+	Developer of sensing devices. The company develops micro-electromechanical devices that is used as wireless sensors in automobiles.
+	['', 'sensing device', ' ', 'micro electromechanical device', ' ', 'wireless sensor', '']
+CellPro
+	Developer of devices used in biotechnology. The company develops continuous-flow, cell-selection systems that can be used in a variety of therapeutic, diagnostic and research applications.
+	['', 'diagnostic device', ' ', 'research application', '']
+GreenGoose
+	Provider of web-based service along with stickers with wireless sensors.
+	['', 'wireless sensor', ' ', 'sensor sticker', ' ', 'web based service', '']
+Shared Resources Exchange
+	Developer of digital switching systems and call center applications. The company\'s electronic key systems offers on-blocking intercom connectivity, conference calling, forwarding and speakers. It\'s system used in wireless local loop, E911 and PBX.
+	['', 'switching system', ' ', 'call center applications', ' ', 'electronic key systems', ' ', 'conference calling', ' ', 'on-blocking intercom connectivity', '']
+Farallon Medical
+	Developer of technology for monitoring oral anti-coagulant medications. The company is focused on developing and commercializing prothrombin time (PT) testing devices that can be used at home, as an alternative to conventional devices that are used in clinical settings. The focus is on more frequent PT testing, for a faster response in dose management and less need for venipuncture.
+	['', 'monitoring device', ' ', 'anti coagulant', '']
+Fluid Medical
+	Developer of micro-size electromechanical devices. The company offers intravascular ultrasound devices.
+	['', 'electromechanical device', ' ', 'intravascular ultrasound device', '']

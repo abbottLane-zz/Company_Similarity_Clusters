@@ -1,45 +1,36 @@
-ProfitLine
-	Provider of telecom expense and mobility management services.
-	['', 'telecom expense', ' ', 'mobility management', ' ', 'expense management', '']
-Agiliti
-	Provider of information technology services. The company offers services that helps companies reduce costs, reduce risks and improve the reliability of their systems, networks and applications. It helps enterprises of all sizes achieve better IT performance through a modular suite of outsourced hosting and IT services.
-	['', 'rentable software applications', ' ', 'hosting services', ' ', 'internet connection', ' ', 'enterprise hosting', '']
-Interweave Software
-	Developer of information delivery products. The company\'s products allow information technology organizations to deploy intranet and extranet-based Web information systems across virtual enterprises.
-	['', 'virtual enterprises', ' ', 'Interweave Modeler', ' ', 'database administrators', '']
-NOCpulse
-	Designer of internet infrastruture to provide networking services and technology management solutions to online businesses. The company is building the Internet Operational Support Service, that allows customers to gain control over their Internet infrastructure while retaining the strategic knowledge needed to grow.
-	['', 'internet infrastructure', ' ', 'networking service', ' ', 'technology management', '']
-Mirror42
-	Provider of information technology performance management services. The company provides a platform for customers to collect information from multiple IT management applications, analyze key performance indicators and metric trends.
-	['', 'performance management', ' ', 'performance indicator', ' ', 'metric trend', '']
-End2End
-	Provider of outsourced mobile data services. The company provides outsourced mobile data services on behalf of mobile network operators.
-	['', 'mobile data', ' ', 'mobile networks', ' connectivity']
-Network24 Communications
-	Provider of outsourced webcasting e-services. The company provides Internet broadcasting application services for enterprises, Internet content providers, and value-added partners.
-	['', 'webcasting e-services', ' ', 'internet broadcasting', ' oursourcing ', 'online events', ' application']
-TechSmart.com
-	Provider of asset management services for office-technology marketplace. The company recovers technology assets for major leasing companies, banks, manufacturers, retail chains and e-tailers who do not have the capability to audit, refurbish, clean, distribute or remarket the product on their own.
-	['management acquisition recovery']
-SevenSpace
-	Provider of outsourced information technology management services.
-	['', 'technology management service', ' ', 'software tool', ' ', 'infrastructure management', '']
-Listening Company
-	Provider of outsourced customer communication services. The company specializes in telemarketing solutions which includes managing customer interaction ranging from customer acquisition to retention, renewal and growth, including advice and services.
-	['', 'telemarketing solutions', ' ', 'outsourced customer communication services', ' ', 'BPO services', ' ', 'managing customer interaction', '']
-Novalis
-	Provider of outsourced management services for provider sponsored managed care networks. The company provides administrative, management and computing services to physician networks and managed care companies.
-	['', 'management service', ' ', 'care network', ' ', 'physician network', '']
-RealLife HR
-	Provider of outsourced benefits management automation services. The company provides a suite of Web-applications and professional services that facilitate employee benefits communication, enrollment and ongoing administration.
-	['', 'benefit management', ' ', 'outsourcing automation management', ' ', 'employee enrollment management', ' ', 'benefits management', ' ', 'employee benefits', '']
-Accretive Commerce
-	Provider of outsourced operations solutions to the companies engaged in one-to-one direct commerce. The company offers ecommerce, customer care, life-cycle of marketing, customer acquisition, returns management and fulfillment and logistics solutions. It also provides professional services, technology integration, custom business process solutions and lean six sigma strategies as well as marketing, Web design and product imaging, direct response/infomercials and direct mail support and order management.
-	['', 'operation outsourcing', ' ', 'customer care', ' ', 'six sigma strategy', ' ', 'returns management', ' ', 'life-cycle marketing', '']
-Everyone.net
-	Provider of outsourced email solutions for individuals and companies. The company offers custom email services for everyone from Internet Service Providers, web hosts and web sites to businesses, organizations and individuals.
-	['', 'email hosting', ' SaaS ', 'email backup', ' ', 'outsourced email solutions', '']
-Oxford Archdigital
-	Provider of information management services to museums, archaeologists, local authorities and other heritage bodies. The company provides information which includes images, spatial data, web pages, electronic documents and structured text.
-	['', 'information management', ' ', 'heritage bodies', ' archaeologists']
+BufferBox
+	Developer of an automated, self-serve kiosk to eliminate failed parcel deliveries. The company\'s kiosks allow for 24/7 pick-up of parcels at a convenient location.
+	['', 'online shopping', ' ', 'parcel delivery', ' ', 'self service parcel', '']
+dotFX
+	Provider of technology to develop, deploy, run, and manage client and desktop software over the Internet. The company\'s proprietary technology provides support for developing, deploying and managing applications for cloud and client.
+	['', 'cloud software', ' ', 'proprietary technology', ' ', 'desktop software', '']
+VoiceObjects
+	Provider of a phone application server. The company\'s products include VoiceObjects Server, a phone application server that enables carrier-grade deployment and management of over-the-phone voice, video, text and mobile Web self-service applications and VoiceObjects Desktop, a GUI-based application for creating, testing, deploying and monitoring self-service phone portals. It also offers professional services, including consulting, training and technical support services. Its customers include banking and financial services, communication, marketing agencies, industrial, travel and support, healthcare, government, entertainment and info-portals and management service providers in the United States and internationally.
+	['', 'phone application server', ' ', 'phone portal', ' ', 'phone voice', '']
+Volunteers in Health Care
+	Provider of web-based medication assistance resource centers. The company provides a current and comprehensive database of patient assistance programs for managing medication.
+	['', 'medication assistance', ' ', 'healthcare service', ' ', 'pharmaceutical access', '']
+Brightware
+	Developer of eCustomer Assistance software for the Internet. The company\'s products provide automated, self-service assistance to customers through the Internet.
+	['', 'software assistance', ' ', 'eCustomer software', ' ', 'self service assistance', '']
+Andrews Consulting Practice
+	Provider of business software advice and assistance software. The company works closely with Business Objects, Oracle, Microstrategy, Microsoft and IBM, customizing their products to clients’ needs.
+	['', 'business software', ' ', 'assistance software', ' ', 'business advice software', '']
+NewZoom
+	Provider of automated retail services for customers in the United States, Europe and Japan. The company partners with brands and retailers to create and implement custom-branded automated self-service retail shops in high-traffic locations, such as airports, shopping centers, supermarkets, military bases and retail stores.
+	['', 'location procurement', ' ', 'inventory management', ' ', 'logistics management', ' ', 'creative development', ' ', 'account management', ' ', 'project management', ' ', 'automated retail solution', '']
+Discern Communications
+	Developer of automated self-service question answering software for call centers.
+	['', 'self service question', ' ', 'automated self service', ' ', 'answering software', ' ', 'computer telephony', '']
+Vigix
+	Provider of self-service retail kiosks. The company offers self-service, dispensing kiosks for selling products ranging from gift cards to watches.
+	['kisok ', 'product dispensing', ' ', 'self-service', '']
+NextCard
+	Provider of online credit card business targeting the consumer market. The company uses the Internet to acquire customers and provide immediate approval to qualified applicants.
+	['', 'online credit card', ' ', 'credit approval', ' ', 'internet marketing', '']
+Besser Betreut
+	Developer of online portal for home care and assistance. The company helps parents, families, pet owners and others to find the help they are looking for along with reliable support and appropriate assistance in their area.
+	['', 'online portal', ' ', 'home care portal', ' ', 'assistance portal', '']
+Telelogue
+	Provider of directory assistance services to telecommunications service providers. The company offers a family of products that address the needs of service providers for automation of directory assistance and provides voice-enabled automation for directory assistance, as well as web-based, real-time access to customized reports which provide analysis of busy hour calls, length of call, the rate of automation, call completion rate and other vital statistics.
+	['']

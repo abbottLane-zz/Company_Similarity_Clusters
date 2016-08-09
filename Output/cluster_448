@@ -1,30 +1,27 @@
-Frepar Networks
-	Developer of internet application software. The company also manufactures IT devices and provides content distribution services.
-	['', 'content distribution', ' ', 'internet application', ' ', 'internet application software', '']
-Simpler Networks
-	Manufacturer of telecommunications equipment and software. The company specializes in automated distribution frames enabling copper loop management and also offers EZ-MDF, an automated main distribution frame hardware and software, which automates the labor-intensive process of manipulating central office and street cabinet distribution frames.
-	['', 'frame hardware and software', ' ', 'street cabinet', ' ', 'copper loop', ' ', 'telecommunication software', ' ', 'telecommunication equipment', ' ', 'application software', '']
-Viator
-	Provider of travel destination products, technology and distribution services. The company arranges for multi-day trips, ranging from two to five days to religious sites, tropical islands, historic castles and natural wonders.
-	['', 'travel destination product', ' ', 'online travel service', ' ', 'travel service', ' ', 'religious site', ' ', 'historic site', '']
-N Cash
-	Developer of Internet-content distribution technology for e-commerce. The company offers BillCrux, a software providing charging capabilities for purchasing products and using services on the Internet.
-	['']
-mobileo
-	Provider of content distribution services. The company offers an application for content distribution and location based services.
-	['', 'mobile app', ' ', 'content distribution', ' ', 'location based services', ' LBS']
-Punch
-	Provider of an application content management system (ACMS). The company can update Application content in real time, providing a publishing environment without the need of programmers.
-	['', 'publishing environment', ' ', 'management system', ' ', 'application content management', '']
-Cognitive Media Networks
-	Provider of content recognition services to internet television applications. The company enables content providers, advertisers and others to provide engagement and interactivity to television programming.
-	['', 'content recognition', ' ', 'internet application', ' ', 'content provider', '']
-Adero
-	Provider of internet content and application services.  The company provides global content distribution services designed for web-based businesses
-	['', 'application services', ' ', 'content distribution services', ' ', 'internet content', '']
-M-Spatial
-	Provider of route guidance technologies to improve the usability of location-based services for mobile phones. The company specializes in the application of spatial intelligence within mobile portals and their associated content services.
-	['', 'route guidance', ' ', 'location-based services', ' ', 'spatial platform', ' ', 'spatial intelligence', '']
-XKPAD
-	Provider of content for the video gaming hardware industry. The company offers Bodypad, a fighting simulator for play station.
-	['', 'video gaming', ' Bodypad ', 'fighting simulator', ' hardware']
+Appscio
+	Developer of applications of media mining algorithms to government, enterprise, and Web media management problems. The company provides an open architecture media processing framework with a plug-in architecture for video and audio analytics that enable researchers and customers to develop and deploy applications. It also licenses, commercializes, certifies, tests, documents, benchmarks, and resells media mining algorithms developed for commercial entities, research organizations, and individuals.
+	['', 'media mining algorithm', ' ', 'media management', ' ', 'media processing framework', '']
+BiBC
+	Provider of streaming and hosting services for visual media. The company uses webcasting technology to enable content providers to distribute digital media securely via the internet. The company offers media consultancy in the area of video downloads.
+	['', 'media consultancy', ' ', 'digital content', ' ', 'digital media', '']
+VitalStream
+	Provider of products and services that enable the digital broadcast of audio and video content and other communications via the Internet. The company\'s mix of services and technology enable businesses to leverage the global reach of the Internet to distribute their media content to targeted audiences worldwide.
+	['', 'audio streaming', ' ', 'video streaming', ' ', 'media hosting', ' ', 'consulting services', '']
+Zenverge
+	Provider of semiconductors for digital media products. The company is developer of content networking ICs built around the patented TransAll technology, a core requirement for next generation video services gateways.
+	['', 'digital media', ' ', 'integrated circuit', ' ', 'video networking', ' ', 'networking equipment', ' ', 'desktop media', '']
+LoadnVote
+	Provider of visual media competition on the internet. The company invites visitors of all ages and interests to compete in head-to-head contests by uploading videos, pictures and other media to gain exposure and win prizes.
+	['', 'social content', ' ', 'visual media', ' ', 'media competition', ' ', 'voting site', '']
+Network24 Communications
+	Provider of outsourced webcasting e-services. The company provides Internet broadcasting application services for enterprises, Internet content providers, and value-added partners.
+	['', 'webcasting e-services', ' ', 'internet broadcasting', ' oursourcing ', 'online events', ' application']
+7digital
+	Provider of digital media platform. The company provides digital download services, including music and video download stores, media streaming, audio books, ebooks, documents, subscription services, promotional voucher programs and download based incentives.
+	['', 'digital media', ' ', 'media streaming', ' ', 'digital download', '']
+Gaiam
+	Provider of a lifestyle media company and offers a  selection of information, media, products and services to customers. The company caters goods for home, clothing, wellness, yoga, fitness and videos.
+	['lifestyle ', 'direct response television', ' ecommerce catalog']
+iStreamPlanet
+	Provider of live streaming video services. The company develops and provides digital media strategy, managed webcasting services and internet applications to enable online media delivery.
+	['', 'Internet broadcast', ' ', 'live broadcast', ' ', 'video workflow', ' ', 'automated video', ' ', 'video application', ' ', 'digital media', ' ', 'online media', '']

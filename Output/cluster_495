@@ -1,30 +1,21 @@
-Sabio Labs
-	Developer of software tools for analogue-circuit designers. The company provides a platform where designers are can create analog designs. The company works with several semiconductor companies.
-	['', 'software tools', ' ', 'analogue-circuit designers', ' ', 'design platform', '']
-ImpactXoft
-	Provider of software for product development. The company offers software support services and its suite enables industrial designers, product engineers, mold and tooling designers, and tool manufacturers to work together.
-	['', 'product development', '']
-Superbly
-	Developer of a psychometric screening tool. The company offers a software that enables organizations to screen and hire potential candidates.
-	['', 'screening tool', ' ', 'psychometric analysis', ' filter ', 'candidate screening', ' ', 'psychometric tool', '']
-Esterel Technologies
-	Provider of systems and software solutions for aerospace, defense, rail transportation and nuclear industries. The company’s products enable system and software engineers to graphically design, verify and generate systems and software applications. The company offers SCADE Suite for control application development. The company also offers SCADE LifeCycle that is used for critical application lifecycle management. The company also provides product training, methodology preparation, project support, application software optimization, certification support, installation and troubleshooting services.
-	['', 'scade lifecycle', ' ', 'web based solution', ' ', 'development cycle', ' ', 'automation software', ' ', 'software application', ' ', 'network management', '']
-Moji
-	Provider of visual version control for designers. The company offers a version control and collaboration platform for a community of like-minded designers that encourages people to share their art.
-	['', 'version control', ' ', 'style sharing', ' ', 'designer project', ' ', 'collaboration tool', '']
-SoftConnex Technologies
-	Provider of Universal Serial Bus (USB) host software. The company’s flagship product, USBLink Host, takes a modular approach to providing USB connectivity, thereby affording system engineers maximum flexibility with their product designs. Its software solution offers broad platform support and a complete library of USB device class modules.
-	['', 'host software', ' ', 'flagship product', ' ', 'usb link', ' ', 'usb connectivity', ' ', 'product design', ' ', 'broad platform', '']
-LayerVault
-	Developer of a cloud based application that manages revisions, store files and help designers to collaborate around designs. The company\'s application allow designers to store, back up and track designs as they go through revisions and allows them to deliver their work to collaborators and clients.
-	['', 'design tracking', ' ', 'file storage', ' ', 'cloud data', ' ', 'visual search function', ' ', 'design collaboration', '']
-Maxim I/T
-	Provider of a software product named FindView. The company\'s product provides users a single gateway to access desired information required to make well-informed business decisions.
-	['', 'database software', ' ', 'findview', '']
-Talent Plug
-	Developer of software for recruitment professionals. The company offers software to support multi-channel talent acquisition processes.
-	['', 'talent acquisition software', ' ', 'recruitment software', ' ', 'job search', ' ', 'Job Posting', '']
-PolySpace Technologies
-	Provider of exhaustive code analysis for the presence or absence of runtime errors. The company offers a software product which performs automatic verification of a programs source code and detection of runtime errors.
-	['', 'code analysis', ' ', 'run time error', ' ', 'embedded system', '']
+Open Monoclonal Technology
+	Developer of human monoclonal antibody platforms. The company develops human therapeutic antibodies based on transgenic rats for pharmaceutical companies.
+	['', 'human monoclonal', ' ', 'antibody platform', ' ', 'transgenic rat', '']
+Chromos Molecular Systems
+	Developer of artificial chromosome technology for use in biopharmaceutical production. The company focuses on the development of proprietary artiﬁcial chromosome expression system technology that is used to engineer production quality cell lines to manufacture biopharmaceutical products, including monoclonal antibodies and the development of human therapeutic products.
+	['', 'artificial chromosome technology', ' cell ', 'biopharmaceutical products', '']
+Merrimack Pharmaceuticals
+	Provider of commercialize medicines paired with companion diagnostics for the treatment of serious diseases, with an initial focus on cancer. The company develops MM-093, a human alpha-fetoprotein for the treatment of patients with rheumatoid arthritis and psoriasis and MM-121, a human monoclonal antibody and therapeutic to block signaling of the ErbB3 receptor.
+	['', 'commercial medicine', ' ', 'diagnostic treatment', ' cancer']
+Domantis
+	Developer of antibody molecules for therapy. It offers dual targeting human domain antibodies, which are used against cytokine targets for inflammatory diseases, tumour antigens present on the same tumour cells, and tumour growth/angiogenic factors for solid tumours; human domain antibodies with tailored serum half-life that are customized to achieve the desired therapeutic effect; human domain antibodies for diverse therapeutic targets, which are suited to inhibit receptor targets; and injectable and non-injectable human domain antibodies that treat diseases of the lung, as well as disorders of the gastro-intestinal tract.
+	['', 'antibody therapeutic', ' ', 'domain antibody', ' ', 'antibody molecules', ' ', 'antibody molecules for therapy', ' ', 'dual targeting human domain antibodies', ' ', 'human domain antibodies', ' ', 'disease therapy', ' ', 'tumor therapy', ' ', 'disease therapy', '']
+IQ Therapeutics
+	Developer of human antibodies for the prevention and treatment of infectious diseases. The company provides research and development services and also offers technology as a service for third parties.
+	['', 'human antibodies', ' ', 'infectious diseases', ' ', 'anthrax infections', '']
+Immunologix
+	Developer of antibody-based therapeutics. The company provides methods for producing human monoclonal antibodies against any target including bacterial and viral antigens, as well as tumor antigens, and human autoantigens. Its technology allows for the conversion of naïve B-cells (from a tonsillectomy or whole blood collection) to fully mature human B-cells producing the human antibody of interest.
+	['', 'antibody therapeutic', ' ', 'human monoclonal', ' ', 'therapeutic device', '']
+ESBATech
+	Developer of human antibody fragments for therapeutic applications. The company also provides drug development and development programs.
+	['', 'therapeutic application', ' ', 'antibody fragment', ' ', 'drug development', '']

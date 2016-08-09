@@ -1,33 +1,30 @@
-ishoni Networks
-	Developer of broadband communication gateway technology. The company develops highly integrated Broadband Gateway Engines for OEMs to provide easy voice and Internet service over a single broadband connection to residential and small business customers. Its platform enhance technologies such as xDSL, cable modems, voice over IP, home networking over phone lines (using HomePNA specifications) and wireless technologies, to provide shared Internet access throughout the small business or home.
-	['', 'broadband communication', ' ', 'broadband technology', ' ', 'broadband gateway', ' ', 'gateway engine', ' ', 'broadband connection', ' ', 'cable modem', ' ', 'home networking', ' ', 'wireless technology', '']
-SercoNet
-	Developer of Ethernet backbone networking services. The company provides home networking services that enables customers to easily interconnect PC\'s, telephone and entertainment equipment in every room over a single home network.
-	['', 'ethernet networking service', ' ', 'home networking service', ' ', 'broadband service', '']
-Netgem
-	Netgem provides connected home entertainment solutions to multiservice operators. Its nCloud software platform and hardware products provide technologies and solutions from digital payTV, internet, home networking and computing domains.
-	['set-top-box ', 'IPTV', ' ', 'broadband package', ' ', 'telecom operator', ' ', 'internet TV', '']
-Core Networks
-	Provider of a suite of applications for the broadband industry. The company offers provisioning, network assurance and home networking services for the cable industry.
-	['', 'broadband applications', ' ', 'network assurance', ' modem']
-Stargus
-	Provider of network and service analysis, and control solutions for cable broadband networks. The company offers CableEdge product suite that provides bandwidth management, network optimization, and service assurance to broadband operators.
-	['', 'network anaylsis', ' ', 'service analysis', ' ', 'bandwidth management', ' ', 'network optimization', ' ', 'service assurance', '']
-Fertile Earth
-	Manufacturer of commercial grade fustigation systems and formula plant foods for the green industry. The company offers its products to homeowners and home builders, business owners, turf professionals, commercial growers and agriculture markets through landscape professionals and their suppliers.
-	['', 'fustigation system', ' ', 'fertilizer delivery', ' ', 'building products', ' ', 'plant food', '']
-Gascoigne Melotte Holding
-	Manufacturer of equipment for the dairy industry. The company offers milking machines and other dairy automation products.
-	['', 'milk harvesting equipment', ' ', 'agricultural machinery', ' ', 'dairy automation', '']
-Kanisa
-	Provider of customer service applications. The company provides a suite of applications to support analysts, experts, users and empower customers with knowledge directly on the website.
-	['', 'customer service', ' ', 'empower customer', ' knowledge']
-Togetherville
-	Provider of online networking services. The company focuses on providing kids with safe, socially-connected, child-focused community where they can engage with age-appropriate eduction, expression and entertainment applications.
-	['', 'online networking', ' ', 'entertainment application', ' ', 'child-focused community', '']
-Emperative
-	Provider of on-demand multi-vendor network and service provisioning products for access and optical, DSL, cable, and wireless networks. The company\'s products include ProvEn Optical that delivers end-to-end circuits and services over multi-vendor access, core, and long-haul networks, as well as supports SONET, dense wavelength-division multiplexing, Ethernet, and IP; ProvEn Cable for end-to-end self-provisioning and auto-provisioning of cable modem services; ProvEn CMX with integrated dynamic host control protocol capability for cable-centric IP address management; ProvEn DSL, which lets end-users self-provision broadband services and allocate bandwidth on demand in DSL environments; and ProvEn Wireless that delivers integrated provisioning within wireless environments with self-provisioning and bandwidth on demand.
-	['', 'multi vendor network', ' ', 'service provisioning product', ' ', 'network device management', '']
-Positron Access Solutions
-	Developer and manufacturer of telecommunications equipment for critical service applications. The company design, manufactures and markets networking and broadband management equipment to information technology and telecommunication industries. Its platform enables broadband connectivity and system networking services.
-	['', 'telecommunications equipment', ' ', 'critical service', ' ', 'broadband management', ' ', 'broadband connectivity', ' ', 'networking service', '']
+Appex Cellular
+	Provider of products and services for cellular industry. The company provides cellular telephone systems and services.
+	['', 'cellular industry', ' ', 'telephone system', ' cellular']
+General Telephone and Electronics
+	Operator of an independent telephone company. The company provides telecommunications products, telephone operations and electrical products.
+	['', 'wiring devices', ' ', 'electronic devices', ' wiring']
+Visibilly
+	Provider of mobile location data from all mobile operators. The company provides positioning information independent from operator and independent from phone type.
+	['', 'mobile operator', ' ', 'mobile location data', ' ', 'mobile service', '']
+Telecom USA Publishing Group
+	Operator of publishing and independent telephone directory business. The company also offer services like publishing, yellow page advertising and interactive audio-text services.
+	['Directory ', 'yellow page', ' ', 'telephone directory', '']
+Deborah Centre
+	Operator of an independent nursery. The company provides educational assistance which includes child catering and childminding.
+	['nursery ', 'independent nursery', ' ', 'educational service', ' childminding ', "kid\\'s nursery", '']
+Combinet
+	Developer of professional-office products which provide small offices and residential users with easy access to remotely located information using telephone lines based on ISDN technology. ISDN is anadvanced telecommunication service capable of moving information faster than standard telephone service.
+	['', 'enterprise software', ' telecommuter ', 'speedy remote access', '']
+Speechcycle
+	Provider of call center automation services and speech self-service applications to resolve technical support problems over the telephone. The company also provides LevelOne DSL Agent, which is designed to solve problems for the clients with DSL services.
+	['', 'call center automation', ' ', 'self sservice application', ' ', 'technical support', ' ', 'DSL service', ' ', 'video agent', ' ', 'television service', '']
+Giac Elec
+	Provider of electrical installation services.
+	['', 'electric wiring', ' ', 'electric installation', ' ', 'electrical services', ' ', 'electrical installation services', '']
+Gerdes
+	Manufacturer of telecommunications products. The company develops, manufactures and markets telecommunications products including controller card and server controllers.
+	['', 'telecommunication product', ' ', 'telecommunication service provider', ' ', 'server controller', '']
+NexTone Communications
+	Provider of software for internet telephone service. The company develops software for use in communications firms to route, manage and control internet telephone calls.
+	['', 'internet software', ' ', 'internet telephone', ' ', 'VOIP', '']

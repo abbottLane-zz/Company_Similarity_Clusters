@@ -1,39 +1,51 @@
-Respirics
-	Provider of drug delivery and development services. The company is a respiratory drug delivery and development company serving the pharmaceutical, biotechnology and diagnostic industries. It has developed a proprietary dry powder respiratory drug delivery system that can incorporate a range of drug products to treat respiratory diseases as well as other diseases where systemic drug targeting is required.
-	['', 'drug delivery', ' ', 'inhalation technology', ' ', 'dry powder respiratory', '']
-PreCision Dermatology
-	Developer of dermatological products. The company\'s DELEVO Foam Technology, a drug delivery platform that provides levels of proven active ingredients to the skin with fewer side effects and improvement of the natural skin barrier.
-	['', 'dermatological product', ' ', 'skincare product', ' ', 'skin treatment', '']
-Civitas Therapeutics
-	Developer of respiratory drug delivery therapies. The company has developed a program in Parkinson’s disease that leverages the ARCUS respiratory delivery platform. CVT-301, Civita\'s other lead program, is being developed for the treatment of debilitating and unpredictable motor fluctuations associated with Parkinson’s disease.
-	['biopharmaceutical ', 'pulmonary delivery therapy', ' ', 'pulmonary technology', ' ', 'Parkinson’s disease', ' ', 'respiratory drug delivery', ' ', 'respiratory therapy', ' ', 'pulmonary therapy', '']
-Trega Biosciences
-	Developer of products designed to assist pharmaceutical and biotechnology companies in the identification of drug candidates. The company conducts an internal drug discovery program in the areas of obesity, diabetes and syndrome X, a syndrome associated with obesity and diabetes, involving the human body\'s resistance to insulin.
-	['', 'drug discovery', ' ', 'drug discovery program', ' ', 'obesity treatment', ' ', 'diabetes treatment', '']
-AerovectRx
-	Developer of an inhaled drug delivery platform and provides dosage-controlled therapeutics. The company develops vibrating mesh nebulizers to deliver drugs and vaccines. The aerosol therapeutic company also delivers a variety of vaccine and therapies varying from multiple-use mass immunizations, specialty pharmaceutical and personal home care use.
-	['Respiratory ', 'Anti-Infectives', ' aerosol']
-E-Pill Pharma
-	Provider of oral drug delivery products for healthcare markets. The company\'s product line includes an oral drug delivery platform which is a combination of medical device and tablets.
-	['', 'medical devices', ' ', 'healthcare industry', '']
-OnPharma
-	Developer of a drug delivery system. The company develops a dispensing device for local anesthetic that allows dentist to reduce injection pain and accelerate the numbing of the affected tooth area.
-	['', 'drug delivery', ' ', 'dispensing device', ' ', 'local anesthetic', '']
-iCeutica
-	Manufacturer and provider of branded medicines. The company offers SoluMatrix platform, a drug reformulation and delivery technology for poorly water-soluble compounds.
-	['', 'branded medicines', ' SoluMatrix water-soluble compounds']
-Transcu Group
-	Operator of a drug delivery company. The company engages in the development of a transdermal drug delivery system based on iontophoresis.
-	['transdermal iontophoresis ', 'cutting-edge technology', '']
-Therafuse
-	Provider of drug delivery systems. The company uses microelectromechanical (MEMS) technology to develop medication-specific drug delivery systems that will provide the accuracy of pump delivery with the user-friendliness of a patch.
-	['', 'drug delivery', ' microelectromechanical ', 'pump delivery', '']
-e-Nicotine Technology
-	Developer of electronic nicotine (eNT) products. The company is developing a nicotine product that produces a condensation aerosol of nicotine using a proprietary thermal drug-delivery technology. The eNT platform is designed to produce the appropriate dose of  nicotine particles for deep lung delivery, to reduce cravings and to avoid the carcinogens associated with cigarette smoke.
-	['', 'health care', ' ', 'electronic nicotine', ' ', 'nicotine product', '']
-Anesta
-	Developer of pharmaceutical products for oral transmucosal drug administration. The Company\'s products are based on its proprietary oral transmucosal system (OTS) for drug delivery.
-	['', 'oral transmucosal system', ' ', 'pharmaceutical product', ' ', 'oral transmucosal drug', '']
-Orexo
-	Developer of treatments using proprietary drug delivery technology. The company develops a product Diabact, a breath test for diagnosing the stomach ulcer bacterium.
-	['', 'drug delivery technology', ' ', 'insomnia treatment', ' ', 'gastric ulcer', '']
+Dapper
+	Provider of an advertising technology platform for creating dynamic display advertisements. The company provides a platform built on machine learning, intent exploration, sophisticated matching algorithms and real-time automated optimization which delivers dynamically assembled, intent-driven display ads that drive increased relevance and performance.
+	['', 'advertising technology platform', ' ', 'display adverts', ' ', 'display advertising', ' ', 'advertisement platform', ' ', 'web applications', ' ', 'semantic web', '']
+DOCLIX
+	Developer of pay-per-click advertising network. The company offers an online platform that delivers text advertisements within a controlled environment of quality content sites for advertisers as well as allows content publishers to customize the presentation of advertisements on their sites and to create new advertisement placements on under-monetized sections of each page or site.
+	['', 'advertising network', ' ', 'online platform', ' ', 'quality content', ' ', 'text advertisement', '']
+Famgro
+	Provider of an indoor farming platform. The company provides a farming system equipped with a hydroponic growing system and an automatic harvesting system, that helps to grow produce in urban areas without use of pesticides.
+	['', 'indoor farming', ' ', 'farming system', ' harvesting farming']
+AdBrite
+	Provider of an advertisement exchange platform. The company helps advertisers and publishers for selection and control by providing site-level transparency, display and video capabilities and an open platform for data providers and real-time bidders.
+	['', 'Internet advertisement', ' ', 'open source platform', ' ', 'web marketing', ' ', 'advertisement exchange', ' ', 'advertisement network', '']
+Beijing Feixiangren Information Technology
+	Provider of online classified advertisement platform. The company provides a location-based advertising platform, with sections devoted to housing, jobs, personals, for sale, services, tickets, pets and discussion forums.
+	['', 'local portal', ' ', 'locational information', ' ', 'social content', '']
+Enterupt
+	Operator of an online platform for advertisement. The company\'s faceified service enables sellers, service providers and agents to generate more leads, track their listings performance and unlock their reputations on classifieds sites.
+	['', 'faceified service', ' ', 'service providers', ' ', 'information services', '']
+SphereUp
+	Provider of a platform for contact sharing. The company provides an online platform for contact search engine for websites and organizations on the cloud.
+	['', 'contact sharing', ' ', 'contact search', ' ', 'social service', '']
+Rare Crowds
+	Provider of an advertising platform. The company provides an online platform to manage advertisement campaigns for organizations.
+	['', 'open source advertising', ' ', 'advertising platform', ' ', 'advertisement campaigns', '']
+FlexHire
+	Operator of an online recruitment platform. The company provides an online candidate management system for recruiting employees.
+	['', 'candidate management', ' ', 'recruitment platform', ' ', 'screen applicants', '']
+CVCertify
+	Provider of an online recruiting service. The company provides an online work history certification platform designed to enable applicants to validate specific career accomplishments throughout the course of their careers.
+	['', 'online recruiting', ' ', 'online work', ' ', 'online certification', ' ', 'work history', ' ', 'job posting', '']
+Sprockets
+	Developer of collaborative software for the marketing and advertising industries. The company provides online project and deadline management for businesses.
+	['', 'collaborative software', ' ', 'advertising agency', ' ', 'software developer', '']
+Sellbox
+	Provider of an ecommerce platform. The company offers an online platform that enables designers, musicians, writers, developers to sell their videos, music albums, ebooks, games and other digital goods.
+	['', 'ecommerce platform', ' ', 'digital product', ' ebook']
+LiveRail
+	Provider of online video advertising services. The company’s suite enables video campaign management, advertisement unit support, campaign reporting, advertisement optimizing, video sample integration and video distribution and monitoring services. It provides advertisement source optimization, syndication reporting and share accounting services.
+	['', 'online video advertising', ' ', 'online advertising service', ' ', 'video campaign management', ' ', 'monitoring service', '']
+New Media Plus
+	Provider of an online platform for conducting online marketing campaigns. The company\'s online platform MaTVpratique offers free access to entertaining and educational programs online. Videos can be viewed and downloaded on a PC, a multimedia player, a mobile phone or an iPhone.
+	['', 'online marketing', ' ', 'educational videos', ' PC iphone']
+Marketbright
+	Provider of an on-demand marketing automation platform. The company\'s products include eMarketing Enterprise, an on-demand platform to roll out new campaigns, messages and offers daily, and validate strategies; BrightSite, which changes the way prospects interact with sales and marketing teams during an evaluation; and ChannelBright, which runs syndicated campaigns through channels.
+	['', 'marketing automation platform', ' ', 'marketing solution', ' ', 'marketing automation', '']
+AdColony
+	Provider of a mobile advertising platform. The company offers high-definition in-app video advertisement network featuring Instant-Play technology across smartphone and tablet publisher inventory.
+	['', 'mobile advertising', ' ', 'video advertisement', ' ', 'tablet publisher', '']
+LoanTek
+	Provider of a pricing engine platform for mortgage companies. The company provides an online platform which connects mortgage consumers with loan officers.
+	['', 'bank rate', ' auto-quoting ', 'email campaigns', ' ', 'marketing tools', '']

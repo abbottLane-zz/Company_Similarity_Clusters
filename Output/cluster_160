@@ -1,42 +1,60 @@
-Kaffee Toro
-	Operator of an online subscription platform for coffee drinkers. The company provides online subscription services of filter coffee machines for consumers.
-	['', 'filter coffee', ' roast-grind-brew ', 'subscription platform', ' filter']
-SocialEngine
-	Provider of an online community that rewards members for posting great content. The company provides customizable online communities.
-	['', 'customize online community', ' ', 'social media management', ' ', 'community management', '']
-Zealous Interactive
-	Owner and operator of a social network and web portal. The company specializes in online media distribution, social networking, content management and features its print and online publications and over 700 URLs and websites. Its flagship enterprise is TheAdultSpot.com and TheAdultSpot 3D.
-	['', 'online media distribution', ' ', 'content management', ' ', 'social network', ' ', 'online publication', '']
-Fanbase Media
-	Provider of an online almanac of athletes. The company provides an online database of college and professional athletes.
-	['', 'athlete data', ' almanac ', 'online database', ' ', 'professional athletes', '']
-Adzilla
-	Developer of network based media delivery products. The company offers online content management and distribution system, which is designed to work within existing service provider networks.
-	['', 'media delivery product', ' ', 'online content', '']
-Ubiqi Health
-	Provider of online tools for migraine management. The company provides online and mobile application tools to the millions of people suffering from chronic conditions.
-	['', 'online tool', ' ', 'remedies to chronic conditions', ' ', 'application tool', '']
-Vlaze Media Networks
-	Provider of internet community and online advertising services. The company provides online media broadcasting. It also provides online content management, social networking and scheduling services.
-	['', 'internet community', ' ', 'online advertising', ' ', 'online media broadcasting', ' ', 'online media broadcasting', '']
-Paf New Business
-	Provider of internet gaming services. The company provides an online wagering platform for wagering via the internet, digital television and wireless media.
-	['', 'wagering platform', ' ', 'wireless gaming', ' lottery']
-FlexHire
-	Operator of an online recruitment platform. The company provides an online candidate management system for recruiting employees.
-	['', 'candidate management', ' ', 'recruitment platform', ' ', 'screen applicants', '']
-Cortex
-	Maker of tools for sharing of online content and multimedia.
-	['', 'content sharing', ' ', 'multimedia tool', '']
-Sprockets
-	Developer of collaborative software for the marketing and advertising industries. The company provides online project and deadline management for businesses.
-	['', 'collaborative software', ' ', 'advertising agency', ' ', 'software developer', '']
-DirectRevenue
-	Provider of search, content, and software for advertisers and marketers. The company provides technology solutions that enable marketers to deliver highly targeted contextual advertisements. DirectRevenue delivers its contextual advertising services through partnerships with online media brokers.
-	['', 'advertisers', ' ', 'contextual advertisements', '']
-Mercury Communications Group
-	Provider of fundraising technology. The company provides fundraising technology for organizations to manage fundraising campaigns and raise money online. The company offers solutions for digital brand management, marketing, and revenue, such as content management, social media optimization, fan relationship management, fundraising, engagement marketing, ecommerce engines and data reports and analytics.
-	['', 'online money', ' fundraiser ecommerce']
-Revere Digital
-	Provider of online media services. The company offers news, reviews, events and analysis from journalists in technology and media.
-	['', 'media service', ' ', 'technology news', ' ', 'media content', '']
+Affinity Payments
+	Provider of payment platform. The company provides electronic payment services to merchants and partners.
+	['', 'payment platform', ' ', 'electronic payment', ' ', 'online payment', '']
+Piano media
+	Provider of payment services to the media publishing industry. The company enables publishers to monetize web content without fear of losing either website advertising revenue or audience share.
+	['', 'payment service', ' ', 'web content', ' ', 'paid content', '']
+Up & Net
+	Provider of e-payment services to e-merchants. The company creates private e-payment programs. The company provides e-gift card programs which are accepted by e-merchants. E-giftcards are re-materialized for distribution in convenience store.
+	['', 'e-payment', ' ', 'e-giftcard', ' ', 'e-commerce', '']
+Billpoint
+	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
+	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
+Tranvia
+	Provider of a merchant processing services for card holders.
+	['', 'merchant processing service', ' ', 'credit card processor', ' ', 'credit card transaction', '']
+Balanced
+	Provider of a payment system for marketplaces. The company allows marketplaces to charge cards, escrow funds and collect their marketplace fees.
+	['', 'payment system', ' ', 'online payment', ' ', 'escrow fund', ' ', 'marketplace fee', '']
+Tempo Payments
+	Provider of payment technology for debit card related technologies. The company offers Tempo Debit, a solution that enables ACH-based decoupled debit programs for issuers.
+	['', 'payment technology', ' ', 'debit program', ' ', 'transaction processing', ' ', 'decoupled debit card', '']
+RP Holdings
+	Provider of mortgage default services. The company offers non-legal administrative, accounting, technology and information, data and document collection, transmission and processing services to law firms.
+	['', 'mortgage default services', ' ', 'processing services', '']
+PropertyBridge
+	Developer of electronic payment processing solutions for the real estate management industry. The company provides payment types such as credit and debit card, automated clearing house, check scanning, cash payment and lockbox.
+	['', 'electronic payment', ' ', 'payment processing', ' ', 'real estate management', ' ', 'automated clearing', ' ', 'payments platform', '']
+Jware Technologies
+	Provider of online payment and card processing services. The company engages in providing an electronic payment transaction processing software for the retail, banking and telecommunication sectors.
+	['', 'electronic payment', ' ', 'transaction processing', ' ', 'card processing', '']
+Dynamic Payment Ventures
+	Provider of payment processing services.
+	['', 'payment', ' ', 'processing services', '']
+Biotricity
+	Provider of biofuel power-generating and processing services. The company is a biomass-processing, co-generation power station developer. The company is developing a 50-megawatt plant in Rhode, Ireland.
+	['', 'biomass', ' irish ', 'biomass energy', '']
+Pay by Touch
+	Provider of end to end payment processing solutions. The company offers fingerprint identification technologies.
+	['payment fingerprint biometric']
+Branded Payment Solutions
+	Provider of transaction processing services. The company provides a back-end transaction processing platform for retailers in Europe.
+	['', 'transaction processing', ' ', 'retail integration', ' ', 'prepaid transaction', '']
+Braspag
+	Provider of payment processing services for e-commerce and call centers in Latin America. The company integrates all payment methods and consolidates the technical, financial and operational processes.
+	['', 'payment processing', ' ', 'payment methods', ' e-commerce']
+Prefer Network
+	Provider of strategic marketing and list processing services. The company offers a cooperative catalog database which provides organizations with consumer purchasing behavior data.
+	['', 'consumer purchasing data', ' ', 'list processing', ' ', 'collaborative database', ' ', 'transactional data', '']
+Allcharge
+	Provider of e-payment services. The company is a global Internet payment-service provider offering merchants and content owners e-payment, billing and processing technologies and services.
+	['', 'digital content', ' ', 'electronic network', ' ', 'internet payment system', ' e-wallet']
+Harbor Payments
+	Provider of enterprise invoice, billing, and payments management solutions for the enterprises. The company offers Payment Harbor, a Web-based payment processing platform, which provides centralized concurrent management of various disbursement activities and payment systems; Invoice Harbor that streamlines the process of invoice receipt, handling, presentment, and payment processing; and Billing Harbor, which provides electronic bill presentment and payment solution that allows clients to view and pay their bills online, schedule recurring or automatic payments, and receive their billing data.
+	['', 'bill management', ' ', 'invoice billing', ' ', 'payment solution', '']
+Thriva
+	Provider of online event registration and payment processing software.
+	['', 'event management', ' ', 'event registration', ' ', 'payment processing', '']
+SFG Technologies
+	Provider of software systems and solutions focusing on revenue cycle services for municipalities and power utilities. The company\'s utility management system integrated software consists of various modules, such as customer service, requests for service, service orders, credit collections and deposits, billing and rate management, payment processing and meter reading and consumption.
+	['', 'software solutions', '', 'service orders', '', 'meter reading software', '', 'energy software', '']

@@ -1,21 +1,54 @@
-ClimateMinder
-	Provider of wireless climate monitoring and control systems for agriculture. The company offers products that growers can use to increase quality, improve yield per acre, reduce water and nutrient costs, operate remotely, increase profits and achieve sustainability.
-	['agriculture ', 'climate monitoring', '']
-Telemic
-	Provider of wireless based remote sensing technologies for lighting and other applications. The company offers remote monitoring and control systems for street lights.
-	['', 'remote sensing', ' ', 'remote monitoring', ' ', 'street light', ' ', 'power conservations', '']
-Integrated Energy Services
-	Provider of commercial and industrial heating, ventilation and air conditioning systems. The company also installs, renovates and do maintenance services of commercial and industrial products.
-	['', 'B2B Services', ' ', 'commercial products', '']
-Vensafe
-	Developer of automated sales services for theft traded goods in retail. The company\'s products streamline store operations, reduce shrinkage and theft and helps reduce capital tied up in a number of high value.
-	['', 'theft product', ' ', 'theft security', ' ', 'selling automation', ' retail']
-Spinwave Systems
-	Developer of wireless sensor networks and sensing products. The company\'s products are used to reduce and simplify monitoring and control of commercial and industrial buildings.
-	['sensors ', 'wireless transceivers', ' ', 'mesh repeaters', '']
-Millennial Net
-	Provider of commercial and industrial wireless sensor networking software. The company provides a device that performs wireless network management tasks.
-	['', 'industrial wireless sensor', ' ', 'wireless network management', ' ', 'networking software', '']
+Cellular-Blowout
+	Provider of wireless products and services. The company provides cell phones, PDA, mobile software, phone activations, accessories and novelty items.
+	['', 'cell phones', ' ', 'mobile accessories', ' ', 'novelty items', ' ', 'wireless products', '']
+No Wires Needed
+	Developer of wireless technologies. The company manufactures wireless products designed to enable high-speed wireless Internet access.
+	['', 'wireless LAN', ' ', 'wireless products', ' ', 'media access control', ' MAC ', 'wireless internet', '']
+Telaxis Communications
+	Developer of broadband and wireless access equipments. The company develops and supplies high-speed or broadband, wireless access equipment used by network service providers to deliver integrated voice, video and data services to business and residential subscribers.
+	['', 'wireless equipments', ' ', 'wireless communication equipments', ' ', 'connectivity equipments', ' electronics']
+Multipath Networks
+	Provider of wireless network services. The company provides services which include high-speed fixed wireless internet, network design, network administration, web site development, web hosting and tower construction.
+	['', 'fixed wireless internet', ' ', 'network administration', ' ', 'web hosting', '']
+Veebeam
+	Developer of wireless technologies and products. The company provides software products for video streaming and designs hardware systems for consumer electronic device for the wireless streaming of HD audio or video content from laptop to television.
+	['', 'wireless applications', ' ', 'video streaming software', ' ', 'wireless protocol software', '']
+SKY MobileMedia
+	Provider of application and platform software for wireless handset industry. The company provides multimedia technologies put into use in the iPhone OS which provides access to audio and video capabilities of the devices working on the OS. It provides softwares such as SKY-MAP, SKY-MMF, SKY-IMS, SKY-SYNC and SKY-VM which supports all wireless handset systems to operate.
+	['', 'multimedia technologies', ' ', 'platform software', ' ', ' iPhone', ' ', 'wireless handset', ' OS']
+AirPrime
+	Provider of high-speed, code division multiple access wireless data and voice products to the original equipment manufacturer market. The company focuses on providing the optimal current and next-generation wireless access products for use in handheld devices, notebook PCs and internet appliances.
+	['', 'wireless access solutions', ' ', 'wireless access products', ' ', 'wireless data', ' ', 'voice modules', '']
+DBS Communications
+	Provider of prepaid wireless services nationally. The company uses its proprietary technology platform to create distinctive prepaid products across wireless carrier networks and handset technologies. The company creates products for a defined distribution channel and works with its business partners to enable wireless programs for select distribution channels and market segments.
+	['', 'mobile virtual network operators', ' ', 'wireless communication', '']
+Voyager Systems
+	Provider of secure data transmission services and wireless applications. The company\'s \'s flagship product, Voyager Query(TM), provides law enforcement personnel access to information in the course of field operations, quickly and securely, via a high-speed handheld device communicating over any wireless network.
+	['', 'data transmission service', ' ', 'wireless application', ' ', 'enterprise applications software', '']
+NextWave Telecom
+	Provider of high-speed wireless internet access and voice communications services to consumers and business markets. The company provides wireless and wireline telecommunications services, namely, the electronic transmission of voice, facsimile, data, images and informations.
+	['', 'broadband wireless', ' ', 'communications services', ' ', 'electronic transmission', ' ', 'wireless internet', ' ', 'voice communications', '']
+2Roam
+	Provider of a Wireless Web Application Service. The company\'s solution is targeted at Web site businesses. The company provide Web site businesses with the products and services they require to extend their brand and revenue models to wireless users with functionality, usability and control.
+	['', 'wireless web application', ' ', 'wireless solution', ' ', 'web application service', '']
+CoTraveller
+	Developer of wireless applications. The company develops and implements end-to-end wireless applications.
+	['', 'wireless application', ' ', 'wireless technology application', ' ', 'application platform', '']
+Sentica
+	Provider and developer of wireless convergence solutions. The company provides universal application enabling infrastructure for mobile devices enabling communication between any application and any wireless device.
+	['', 'wireless convergence solutions', ' ', 'mobile device', '']
+Broadband IP
+	Provider of high-speed Internet services. The company offers a wide range of ISP services including wired and wireless Internet service and managed connectivity. It specializes in licensed and unlicensed wireless connectivity solutions for data, voice and video.
+	['', 'high speed Internet', ' ', 'wireless Internet service', ' ', 'unlicensed wireless connectivity', '']
+Sensinode
+	Developer of software technology for the Internet of things (IoT). The company develops commercial 6LoWPAN and related IPv6 technologies which enable physical sensing, tracking and identification with enterprise systems and the Internet. Its NanoStack, NanoRouter and NanoService software leads to low-power networks in wireless health, building automation, asset management and other applications.
+	['', 'wireless embedded system', ' ', 'embedded system', ' ', 'Wireless embedded', ' ', 'physical sensing', ' ', 'asset tracking', ' ', 'enterprise system', ' ', 'smart grid', ' ', 'internet of things', '']
+Red-M Group
+	Developer of wireless infrastructures for mission-critical applications. The company\'s wireless services are mainly used for airspace management through its approach called Total Airspace Management (TAM).
+	['', 'airspace management', ' ', 'wireless services', ' ', 'wireless infrastructure', '']
 S5 Wireless
 	Developer of wireless communication and tracking system. The company also developed terrestrial-based technologies that enable highly accurate, low-cost and power-efficient wireless tracking, monitoring and control services.
 	['', 'wireless communication', '']
+Advanced Radio Cells
+	Manufacturer of wireless broadband access products.
+	['', 'wireless broadband', ' ', 'wireless access', ' ', 'wireless product', '']

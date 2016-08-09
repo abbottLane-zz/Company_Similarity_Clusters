@@ -1,54 +1,57 @@
-Optis Pristine
-	Developer of software products enabling engineers to visualize the impact of manufacturing variations on the final perceived quality of a product. The company\'s product, Aesthetica, can be used throughout the digital-product development process and enhances cross-functional collaboration and build quality.
-	['', 'manufacturing variation', ' ', 'digital product development', ' ', 'visualization software', '']
-RuleStream
-	Provider of standards based engineering solutions that help manufacturers to capture, manage and reuse product knowledge. The company provides software for automating the build-to-order process across engineering, manufacturing and sales.
-	['', 'software solutions', ' ', 'software engineering', ' ', 'Standards Based Engineering', ' ', 'Product Lifecycle Management', ' ', 'Engineering Resource Planning', ' ', 'knowledge software', '']
-ManageIQ
-	Provider of enterprise cloud management and automation software. The company provides an automation software that enables organizations to deploy, manage and optimize private clouds, virtualized infrastructures and virtual desktops. It delivers unified monitoring, management and automation through a single pane of glass across enterprise clouds and globally distributed data centers.
-	['', 'enterprise cloud management', ' ', 'automation software', ' ', 'virtualized infrastructure', ' ', 'virtual desktop', ' ', 'unified monitoring', '']
-e-Xstream engineering
-	Provider of software and engineering services. The company develops a non-linear multi-scale modelling software platform DIGIMAT and also offers its consultancy service for multi-scale modelling of materials and composite structures. The company was spun out of Université catholique de Louvain.
-	['', 'modelling software', ' ', 'engineering service', ' ', 'composite materials', '']
-Camilion Solutions
-	Provider of product development and management services for insurance and other financial services organizations. The company\'s software creates enterprise product agility with strategic initiatives such as product lifecycle management, product bundling and product rationalization.
-	['', 'product development', ' ', 'management service', ' ', 'product lifecycle management', '']
-VaST Systems Technology
-	Provider of tools and models for embedded system design automation. The company provides ESL engineering tools and models to companies involved in the engineering and manufacture of high-performance, real-time electronic systems integrating significant hardware, software and other technology components.
-	['', 'architectural analysis', ' ', 'virtual system prototyping', ' ', 'wireless technology', ' ', 'systems design', ' ', 'software development', '']
-Fintura
-	Operator of a portfolio management company. The company\'s services include leading-edge product development, new account origination, agent issuing and portfolio management.
-	['', 'portfolio management', ' ', 'home equity', ' ', 'student loans', '']
-Cycell
-	Operator of a mobile network. The company enables organizations to complete product development, secure GSM certification and set up a production facility to customise and brand handsets.
-	['', 'mobile network', ' ', 'product development', ' ', 'GSM certification', '']
-Structural Dynamics Research
-	Provider of enterprise product development solutions with a suite of mechanical design automation software and product data management software. The company provides mechanical computer-aided engineering (MCAE) software and engineering services which help manufacturers optimize product development early in the design process.
-	['', 'automation software', ' ', 'data management software', ' MCAE ', 'mechanical computer-aided engineering', '']
-InPart Design
-	Developer of strategic sourcing software and content services for the industrial marketplace. The company provides web-based enterprise software and three-dimensional (3D) computer-aided design (CAD) model libraries of standard mechanical components to improve product development cycles and reduce component expenses for manufacturing companies.
-	['', '3D geometry', ' ', '3D models', ' ', 'technical specification', '']
-Accept Software
-	Developer of Enterprise Product Development technology. The company offers a collaborative approach to product planning for product professionals while transforming product outcomes.
-	['', 'enterprise product development', ' ', 'product development platform', ' ', 'consumer good', '']
-Federation Web
-	Provider of software products that integrate product data and product lifecycle management applications. The company engages in designing, building and delivering software solutions that federate multiple levels of data across the product development and manufacturing value chain.
-	['', 'product lifecycle', ' ', 'management applications', ' ', 'manufacturing value chain', ' ', 'PDM system', '']
-Trinity Convergence
-	Provider of embedded software platforms that enable VoIP, voice and video over IP (V2IP) products and services. The company designs, develops and licenses comprehensive VoIP software solutions enabling equipment manufacturers to streamline the product development process.
-	['VoIP ', 'software platforms', ' ', 'software solutions', ' V2IP']
-CommerceInterface
-	Provider of e-commerce channel management software. The company provides software to help manufacturers, distributors and retailers to manage their businesses and selling online.
-	['', 'channel management', ' ', 'e-commerce', ' ', 'channel management technology', ' ', 'online business management', '']
-Aspect Development
-	Operator of a software, data content and services company. The company provides component and supplier management (CSM) technology to manufacturers. The company\'s applications and supplier-information databases are focused on improving the product-development cycle. Its CSM technology targets the design and procurement processes of the manufacturing enterprise, providing design engineers and procurement personnel the ability to rapidly search, compare and select optimal designs, components and suppliers.
-	['', 'enterprise solution', ' CSM ', 'supplier database', ' ', 'data content', '']
-6th Sense Analytics
-	Provider of software solutions for automated collection and analysis of software engineering process and product data.
-	['', 'software engineering', ' ', 'engineering software', ' ', 'data collection', ' ', 'automated data collection', ' ', 'data analysis', '']
-Everstream
-	Provider of enterprise business software and engineering services. The company offers enterprise software such as Data Suite, which provides architecture for data extraction, transformation, loading and storage of data.
-	['', 'cable television operator', ' ', 'enterprise software', ' ', 'productivity software', '']
-Satellier
-	Provider of workshare solutions to the global AEC industry. The company provides workshare services such as Building Information Modeling (BIM), Design Support, Engineering/MEP, Design Management Services, and computer aided drafting support to architectural, engineering, and MEP disciplines.
-	['', 'design support', ' ', 'design management', ' ', 'project documentation', ' ', 'building information modeling', '']
+INEX
+	Provider of Internet commerce applications for merchants to build, manage and promote their on-line storefronts. The company\'s applications inter operate with a host of industry standards and environments, allowing merchants to maximize their investment in existing business systems and processes.
+	['', 'back office', ' ', 'front office', ' ', 'E Commerce', '']
+Absolute Capital Management
+	Operator and manager of funds. The company provides investment management and advisory services to mutual funds.
+	['', 'mutual fund', ' ', 'fund manager', ' ', 'investment bank', '']
+Information Development Consultants
+	Developer of a fund accounting software for government and not-for-profit organizations. The company\'s web based products can be tailored to fit specific needs of IT, finance and elected officials. The company provides system integration services, application software products, training and advisement specially for local governments and agencies.
+	['', 'accounting software', ' ', 'web based products', '']
+SEI Investments
+	SEI Investments Co was incorporated in Pennsylvania in 1968. The Company is a provider of investment processing, investment management and investment operations solutions. It helps financial institutions, financial advisors, institutional investors, investment managers and ultra-high-net-worth families create and manage wealth by providing comprehensive, investment and investment-business solutions. The Company\'s wealth management business solutions include: Investment processing outsourcing solutions for providers of institutional and private-client wealth management services, including banks, trust companies, independent wealth advisers and other financial services firms; investment management solutions for institutional investors, including retirement plan sponsors, not-for-profit organizations and affluent individual investors; and investment operations outsourcing solutions for investment management firms, banks and investment companies that sponsor and distribute mutual funds, hedge funds and alternative investments. The Company\'s business segments include: Private Banks, provides investment processing and investment management programs to banks and trust institutions, independent wealth advisers and financial advisors; Investment Advisors, provides investment management programs to affluent investors through a network of independent registered investment advisors, financial planners and other investment professionals in the United States; Institutional Investors, provides investment management programs and administrative outsourcing solutions to retirement plan sponsors, hospitals and not-for-profit organizations; Investment Managers, provides investment operations outsourcing solutions to fund companies, banking institutions and both traditional and non-traditional investment managers; and Investments in New Businesses, focuses on providing investment management programs to ultra-high-net-worth families residing in the United States, developing internet-based investment services and advice solutions, entering new markets, and conducting other research and development activities. Its business solutions are directly marketed to potential clients in its target markets. Its competitors include: Federated Investors, Inc., Russell Investment Group, AssetMark Investment Services Inc., Brinker Capital, Mercer and Aon Hewitt. The Company\'s products and services include: Investment Processing, Investment Management Programs and Investment Operations.
+	['', 'wealth management', ' advisors investment']
+Cake Financial
+	Provider of a social investment service that lets people safely and securely track all their investment portfolios in one place. The company allows individual investors to track and analyze their historical performance up to ten years.
+	['', 'investment portfolio', ' ', 'track investment', ' ', 'social investment service', ' ', 'financial service', '']
+Rock The Post
+	Provider of an investment crowd funding site for startups. The company has the primary goal of creating a tool and meeting ground for like minded individuals to connect with each other in order to pursue and develop all types of projects and business ideas.
+	['', 'business social network', ' ', 'social network', ' ', 'business idea', '']
+Invesco PowerShares Capital Management
+	Provider of investment management services. The company invests in the public equity, fixed income, currency and commodity markets across the globe. It primarily invests in growth and value stocks of small-cap, mid-cap and large-cap companies.
+	['', 'investment managers', ' ', 'exchange traded funds', ' ', 'public equity', '']
+KM Ventures
+	Provider of investment in projects. The company manages information of businesses and prevent repetition, reinvention and duplication of work.
+	['', 'information management', ' ', 'repetition prevention', ' reinvention projects']
+UCMS Group EMEA
+	Provider of payroll, HR administration and accounting services. The company caters to multinational corporations and domestic companies doing business in eastern and central Europe.
+	['', 'human resource service', ' ', 'administration service', ' ', 'accounting service', '']
+Track.com
+	Provider of a platform for investment research and market ideas. The company provides a platform for research analysts, market participants and investment managers to share ideas with institutions, high net worth individuals and other market participants.
+	['', 'financial research', ' ', 'investment research', ' ', 'financial information sharing', '']
+Mansard Capital
+	Provider of discretionary management services, multi asset management and alternative investment funds to private client and institution. The company has corporate partnerships with financial firms in the UK and globally. It also offer investment products to both retail and institutional client.
+	['', 'discretionary management', ' ', 'multi asset', '  ', 'alternative investment ', '']
+Stockr
+	Provider of social network for the investment community. The company provides a platform where investors, analysts and public companies can communicate directly about financial news, stocks, market trends, investment ideas and more.
+	['', 'investment community', ' ', 'social community', ' ', 'online investment information', '']
+Recognia
+	Provider of actionable investment research products for online brokers. The company helps to automate the investment decision making process by offering trading ideas for all trader types, in order to execute timely trade transactions.
+	['', 'investment research', ' ', 'online broker', ' ', 'investment decision', ' ', 'automated quantitative analysis', '']
+Thomas Weisel Partners Group
+	Operator of an investment bank. The company offers investment banking, brokerage, equity research and asset management. The company\'s services include mergers and acquisition advisory, institutional sales and wealth management. The company focuses on  health care, mining, consumer products and services sectors.
+	['', 'investment bank', ' brokerage ', 'asset management', ' ', 'consumer products', '']
+Princeton Financial Systems
+	Provider of investment accounting software products and services. The company provides investment accounting, investment compliance, data management, performance measurement and reporting products to the global investment industry.
+	['', 'investment technology', ' ', 'institutional investors', ' ', 'data management', '']
+USBX Advisory Services
+	Provider of investment advisory services to businesses. The company provides merger & acquisition advisory services, valuation services, institutional private placement and related strategic advisory services.
+	['', 'investment advisory', ' ', 'financial advisory', ' ', 'strategic advisory service', '']
+Gridstone Research
+	Provider of a research platform that aims to help investment analysts in making investment decisions. The company\'s research platform assembles, analyzes and structures unstructured company information into financial data, operational data and structured text. It also sells its research platform to buy-side investment managers.
+	['', 'investment analysis', ' ', 'structured text', ' ', 'financial data', '']
+Volaris Advisors
+	Provider of volatility management advice to individuals, trusts, foundations, banks, and money managers. The company provides customized investment products for banks and broker or dealers to manage investment risk and create portfolios.
+	['', 'volatility management advice', ' ', 'portfolio advisory', ' ', 'stock yield enhancement', ' ', 'investment products', '']
+FreeEdgar
+	Provider of products and services that deliver financial data to analysts and investors. The company engages in the delivery and extraction of critical information from electronic filings made by public companies and investment managers to the SEC.
+	['', 'electronic filings', ' ', 'stock information', ' ', 'financial data', '']

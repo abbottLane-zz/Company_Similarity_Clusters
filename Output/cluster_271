@@ -1,30 +1,51 @@
-Vuokatti Hirsitalot
-	Provider of wooden houses. The company use a log reading of modern computer-controlled machining centers and eco-friendly methods.
-	['', 'wooden houses', ' ', 'log reading', ' ', 'machining centers', ' manufacturer']
-MKT Print
-	Provider of printing services. The company also engages in book binding services.
-	['', 'printing services', ' ', 'binding services', ' ', 'publishing services', ' ', 'press services', '']
-Greenbox
-	Developer of a cloud-connected, smart irrigation system. The company has designed and developed a eco-friendly smartphone-controlled irrigation system which can replace existing AC irrigation controllers without requiring updates to existing infrastructure.
-	['', 'smart irrigation system', ' ', 'wireless application', ' ', 'wireless system', ' automation']
-Graffiti
-	Provider of media services in the form of external marking and the digital printing. The company provides media printing services which is eco-friendly in nature.
-	['', 'external marking', ' ', 'digital printing', ' ', 'media printing', '']
-Immedia
-	Provider of media technology solutions. The company focuses on in-store media, visual displays, content production, and measurement tools. It provides services to the banking, leisure, retail, and hospitality industries. The company examines the expectations of customers to create a deeper meaning of communications to drive sales.
-	['', 'media production', ' ', 'visual displays', ' ', 'measurement tools', ' ', 'mobile marketing', ' music ', 'retail marketing', '']
-In2 Printing Solutions
-	Provider of digital printing. The company provides various types of digital printing services to its customers.
-	['', 'digital printing', ' ', 'custom print', ' ', 'custom printing', '']
-Brio Software
-	Provider of media and market intelligence solutions. The company provides media planning and management, agency and client benchmarking, audience impact research, competitive and best practices advisory, and influencer program development services. The company also offers media segmentation, ranking, optimization, and outlet and journalist performance; market sentiments evaluation; and trends, issues, and threats monitoring services.
-	['', 'media segmentation', ' ', 'media planning', ' ', 'market intelligence', ' ', 'client benchmarking', ' consultancy']
-GreenYour
-	Provider of go to guide for green living. The company\'s website has aggregated eco-friendly tips and products. It also provides environmental consulting services.
-	['', 'green living', ' ', 'green guide', ' ', 'eco-friendly tip', ' ', 'eco-friendly product', ' ', 'environmental consulting', '']
-York Mailing
-	Provider of retail flyers, media inserts and leaflets. The company produces A5 and A4 leaflets and broadsheets, stitches A4 catalogues, folds A4 leaflets through its printing presses. It also provides printing services to final distribution of its products to serve the high street retail market sector.
-	['', 'retail flyer', ' leaflet broadsheet ', 'media insert', ' ', 'A5 sheet', ' flyer']
-Bellamax
-	Developer of automated digital images enhancement software services.The company provides photo editing and web and printing optimization softwares such as UpShot, Pro and Gold. It caters to printing labs, photography studios and kiosks. It has strategic alliances with Adobe Systems, Digibug Express, Epson America, PhotoAccess, Photolightning and Sony Electronics.
-	['', 'image enhancement', ' ', 'photo editing', ' ', 'printing optimization', '']
+Outblaze
+	Developer of digital media products and services. The company provides business to business services, including customized web services, online transaction systems and Web communication software services.
+	['', 'online transaction system', ' ', 'customized web service', '  ', 'social networking', '']
+Raccoon
+	Operator of an online business-to-business marketplace. The company engages in business-to-business transactions and offers various service including accounts receivable warranties and payment settlements in Asia.
+	['B2B ', 'online marketplace', ' ', 'B2B transactions', '']
+Amyyon
+	Developer of Client Relationship Management (CRM) systems for both business-to-business and business-to-consumer markets. The company provides services such as electronic client file, food management, waiting list management, volunteer support relationship and document management.
+	['', 'client relationship manager', ' ', 'document management', ' ', 'electronic client', '']
+ListK
+	Developer of business-to-business (B2B) e-mail and lead-generation technologies. The company provides proprietary software designed to assist data companies and end-users.
+	['email ', 'proprietary solutions', '']
+Charitableway
+	Operator of a Website that enables users to donate online to charities. The company specializes in bridging the connection between the business and nonprofit communities by providing application services.
+	['', 'online donation platform', ' ', 'charity platform', ' ', 'application services', '']
+Trading Dynamics
+	Provider of business-to-business Internet trading applications that enable Internet market makers and corporations deploy and configure a range of dynamically priced markets including auctions, reverse auctions and bid/ask exchanges.
+	['', 'bid exchange', ' ', 'ask exchange', ' ', 'internet trading', ' ', 'reverse auction', '']
+VendorCity
+	Operator of a business-to-business recommendation Website.
+	['', 'referral service', ' ', 'business referral', ' ', 'business recommendation', '']
+RoweCom
+	Provider of business to business services and eCommerce solutions for purchasing and managing the subscriptions of magazines, newspapers, journals and e- journals. The company offers its clients access to the largest catalog of such knowledge resources on the internet.
+	['eCommerce ', 'publishing services', '']
+FasTurn
+	Provider of business-to-business apparel marketplace. The company delivers technology solution for the apparel industry, providing an electronic marketplace for buyers and sellers to conduct business securely.
+	['', 'technology solution', ' ', 'apparel industry', ' ', 'business-to-business', ' ', 'electronic marketplace', '']
+RentWiki
+	Developer of peer review and recommendation website. The company provides rental search with user-generated content, neighborhood reviews and the ability for renters and locals to talk to each other as well as pros and cons about various areas.
+	['', 'reviewed rental site', ' ', 'recommendation website', ' ', 'rental search', ' ', 'user generated content', '']
+Once Again Me
+	Provider of comprehensive reports that represents business\'s financial obligations. The company also provides credit limit recommendation, background information and more data elements than other reports.
+	['', 'financial obligation', ' ', 'fraud screening', ' ', 'limit recommendation', ' recommendation']
+Buildnet
+	Producer of management and productivity-based software for home builders. The company provides business-to-business e-commerce services to the residential construction industry.
+	['', 'construction industry', ' ', 'home builder software', ' ', 'productivity based software', '']
+Egreetings Network
+	Provider of an online card and entertainment web site. The company\'s web site offers approximately 7,000 online cards that incorporated graphics, animations, and music. The company also merchandises a selection of gifts and digital gift certificates. It, on behalf of its business customers, provides business-to-business services, including the creation and distribution of communication products to their employees, customers, and partners; and licenses its software platform to partner web sites involved in viral marketing of online cards.
+	['', 'digital gift certificate', ' ', 'viral marketing', ' ', 'gift certificate', '']
+Comcerto
+	Communications processor business of Mindspeed Technologies, Inc. This business provides a series of multicore, ARM®-based embedded processors and associated software, a talented team and Tier One customers spanning the globe.
+	['', 'connectivity product', ' ', 'communication processor', ' ', 'associated software', '']
+Neuport
+	Developer of online business to-business communities. The company offers vertical communities that provide users with information, interaction, education, and e-commerce services. It offers a portal dedicated for the motion control industry that offers users with access to industry news, chat rooms and links to other industry sites.
+	['', 'vertical Internet communities', ' ', 'Internet communities', ' ', 'vertical communities', ' ', 'business to-business communities', ' ', 'online portal', ' ', 'motion control', '']
+Manufacturer\'s Resource Network
+	Provider of online selling services for manufacturers. The company is a network of business-to-business Internet retail sites and forms sales strategy for each site according to the specialty market of its products.
+	['', 'online selling', ' e-commerce']
+Canopy
+	Provider of business-to-business integration services. The company helps its clients in maximizing their investments in e-business technology.
+	['', 'integration services', ' ', 'e-business technology', ' ', 'investment maximization', '']

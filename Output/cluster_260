@@ -1,27 +1,15 @@
-ShowBiz Data
-	Provider of a B2B portal for the global entertainment industry. The company provides detailed information about the film industry by capturing domestic and international box office news.
-	['', 'media information', ' ', 'BRB portal', ' ', 'box office', '']
-StartBull
-	Provider of a financial social network. The company\'s network enables individuals to invest in capital markets by providing an exchange simulator, educational articles and competitions.
-	['', 'exchange simulator', ' ', 'capital market', ' ', 'stock trading', '']
-Sulia
-	Provider of a subject based social network. The company provide live streams of messages about cities and countries, sports, entertainment, health, business and political issues, hobbies, pastimes and passions.
-	['', 'live stream', ' ', 'social network platform', ' ', 'online political issue', '']
-Bookingshark
-	Operator of a social network.  The company provides a social platform for the entertainment industry, such as garage bands, clubs and fans.
-	['', 'Business products', ' ', 'business services', '']
-Daily Deals for Moms
-	Operator of social couponing website for moms and families looking for and sharing deals.
-	['', 'deal sharing', ' ', 'social couponing', ' ', 'deal website', ' ', 'family deal', ' ', 'online coupon', ' ', 'online discount', '']
-MyCube
-	Operator of a social network that allows individuals and organizations to store and share their information, updates and content with others. The company offers organization, publishing, communication and management tools for all individual brands and content producers that let users own and protect their digital assets, thereby transferring control to the user allowing the content to be monetized.
-	['', 'management tool', ' ', 'share content', ' ', 'content producers', '']
-ItsontheGrid.com
-	Provider of information on the feature film development business to entertainment industry professionals as well as aspiring filmmakers and screenwriters.
-	['', 'database management', ' ', 'film business', ' ', 'entertainment community', '']
-Football4You
-	Operator of a social network platform for football fans. The company provides an opportunity to gather news from leading football internet portals based on football sympathies and preferences of a particular user.
-	['blog ', 'football fans', ' playground']
-Gigit
-	Provider of a platform to book well-known and upcoming bands for private shows. The company helps its artists get exposure to labels, with representatives of multiple studios attending at least one early Gigit event to scout an upcoming band.
-	['', 'private show', ' ', 'show booking platform', ' ', 'entertainment platform', '']
+Quantum Leap Packaging
+	Manufacturer of electronic component packaging. The company designs and manufactures electronic component packaging utilizing proprietary material system that meets the critical design and manufacturing requirements of various applications such as semiconductor, medical and optical devices, either in hermetic or non-hermetic configurations.
+	['', 'electronic component', ' semiconductor']
+EmSense
+	Developer of physiological and brainwave measurement technology. The company’s quantitative metrics provides insights that facilitate the creation and optimization of advertising, packaging, media content, online marketing, and the live in-store and virtual store shopping experiences. It also provides expertise and advancements in emotion tracking, cognitive neuroscience, analytics, and market research through its EmBand and now EmBand 24, a wireless non-invasive EEG neuroscience technology. In addition, the company combines neurometrics with stationary and mobile eye tracking.
+	['', 'brainwave measurement technology', ' ', 'emotion tracking', ' ', 'mobile eye tracking', '']
+ChipScale
+	Provider of wafer level packaging. The company provides Micro SMT packaging technology. The company refines and develops the SMT technology. The company\'s services include prototype packaging developments and licensing.
+	['packaging ', 'wafer level packaging', ' ', 'Micro SMT packaging', '']
+Kalvopakkaus
+	Manufacturer of plastic packaging products. The company is a supplier of plastic bags, flexible packaging and laminated films to customers. It also prints packaging.
+	['', 'plastic products', ' ', 'rubber products', ' ', 'laminated films', '']
+Central Trust Bank (Conservation Licensing Division)
+	Provider of wildlife licensing technology. The company operates as a wildlife licensing contractor and service provider.
+	['', 'service provider', ' ', 'wildlife licensing', ' ', 'licensing contract', ' ', 'hunting licensing', '']

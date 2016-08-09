@@ -1,24 +1,39 @@
-Red Brick Systems
-	Provider of relational database software. The company relational database software for data warehousing.
-	['', 'relational database software', ' ', 'data warehousing', ' ', 'database software', '']
-Approach Software Corporation
-	Developer of relational database software. The company is developer of end-user relational database applications for the Windows environment.
-	['', 'database software', ' ', 'database application', '']
-Health Market Science
-	Provider of data integration and analytic software for the health care industry. The company supplies data on healthcare professionals and operates a practitioner-level medical claims database in the U.S. Its data assets also help its clients deal with government compliance, reduce operational costs and more.
-	['', 'federal compliance', ' ', 'healthcare information', ' ', 'federal regulation compliance', ' ', 'customer data validation', '']
-DCF Technologies
-	Provider of services for eliminating data retrieval bottlenecks. The company offers software services to access data accumulating in organizational and internet portal databases. It also provides SafePeak, which acts as a distributed proxy cache between application servers and database servers to accelerate data access.
-	['', 'data access', ' ', 'performance management', ' ', 'portal database', '']
-Ansa Software
-	Provider of a database management program. The company is the developer of Paradox, a ground-up relational database software product for personal computers.
-	['', 'database management', ' ', 'information system', ' ', 'data software', '']
-Membase
-	Provider of elastic NoSQL database technologies. The company offers Membase Server, a distributed key-value database for the data management needs of interactive Web applications, which employs a non-relational data model and allows the data tier to scale out the Web application logic tier by adding various commodity servers; and Memcached, a distributed data caching technology that transparently caches data in front of its key-value database.
-	['', 'database technology', ' ', 'database management', ' ', 'database application', '']
-Hyperpublic
-	Developer of an open database and platform of people, places, deals and events tied to a specific location. Anyone can add objects to the database and developers are able to build applications on top of the data. The data includes recent check-ins, daily deal aggregations and reviews.
-	['', 'geo local platform', ' ', 'location application', ' ', 'location database', ' ', 'location-based search', ' ', 'location-based', '']
-Prefer Network
-	Provider of strategic marketing and list processing services. The company offers a cooperative catalog database which provides organizations with consumer purchasing behavior data.
-	['', 'consumer purchasing data', ' ', 'list processing', ' ', 'collaborative database', ' ', 'transactional data', '']
+Cherry
+	Provider of on demand car wash services to customers. The company\'s service allows its users to park the car anywhere, check in online and get the car washed.
+	['', 'car wash', ' ', 'car cleaning', ' ', 'car maintenance', ' ', 'cleaning service', ' ', 'automobile service', ' ', 'auto service', ' ', 'car service', ' ', 'vehicle maintenance', ' ', 'car washing', ' ', 'driving service', '']
+Pure Digital Technologies
+	Developer of digital imaging solutions for the mass market. The company offers one-time-use digital cameras and video camcorders, as well as point and shoot camcorders.
+	['', 'flip video', ' ', 'digital camcorder', ' ', 'digital camera', ' ', 'video camcorder', ' ', 'flip camera', ' ', 'digital imaging', '']
+Krillion
+	Operator of a shopping search engine. The company offers audio and video accessories, such as A/V mounts and brackets, headphones, remote controls, and satellite radio accessories; cameras, such as camcorders, digital cameras, and digital picture frames; car audio and electronics, such as car amplifiers, car audio and video accessories, car CD changers, car speakers and subwoofers, in dash car audio, and radio scanners; and handheld electronics, including GPS navigation systems.
+	['', 'online shopping', ' ', 'consumer infrastructure', ' ', 'navigation system', ' ', 'video accessory', '']
+Green Car
+	Provider of an online platform for car rental services. The company\'s platform provides car sharing services in South Korea.
+	['']
+Novarc
+	Creator of novel manufacturing process for car components. The company is the creator of sprayforming, a method of creating dies and tools for the production of car parts as well as other objects. The company has licensed key intellectual properties related to the process and is focused on developing manufacturing facilities in the U.S. and U.K.
+	['', 'spray forming', ' ', 'machine tools', ' prototype']
+Firefly Mobile
+	Developer and seller of mobile phones and accessories. The company also provides airtime services and offers accessories such as wall chargers, universal serial bus cables, stereo headsets, batteries and car chargers for teenagers.
+	['', 'mobile phones', ' ', 'airtime services', '']
+Auto.nl
+	Provider of a subscription car service in the Netherlands. The company provides a car service that requires users to pay a subscription fee only for the gas and use of the vehicle, while the company handles all warranty, maintenance and replacement-transport costs and services.
+	['', 'car rental', ' ', 'car leasing', ' ', 'car lease', '']
+Digital Media Solutions
+	Distributor of audio systems for theaters, movies theaters and cultural spaces. The company provides lobby, screen and surround speakers; digital cinema amplifiers, audio converters and cinema audio processors, audio per-amplifiers and interfaces, as well as cinema and PA loudspeakers and PA loudspeakers for lobbies.
+	['', 'audio system', ' ', 'digital cinema amplifier', ' ', 'electronic good', '']
+Advestigo
+	Provider of digital asset protection and copyright recognition software. The company offers AdvestiGATE, an audio and video fingerprinting software that detects the copyrighted nature of audio and video files, enables their distribution on UGC sites and avoids posting of unauthorized contents.
+	['', 'asset protection', ' ', 'copyright recognition', ' ', 'video fingerprinting', ' ', 'unauthorized content', ' copyrighted']
+Harman International Industries
+	Harman International Industries Inc was incorporated in 1980. The Company is engaged in the design and engineering of connected products and solutions for automakers, consumers and enterprises, including audio systems, visual products, enterprise automation solutions and connected services. Its manufacturing facilities are located in North America, Europe, Asia and South America. Its manufacturing facilities for its Infotainment segment are located in Hungary, Mexico, China, India, Brazil and the U.S. These facilities are used to manufacture infotainment systems. Its manufacturing facilities for its Lifestyle segment are located in Hungary, Mexico, China, India and the U.S. These facilities are used to manufacture its car audio systems. In North America, its principal Professional segment\'s manufacturing facilities are located in Mexico for loudspeakers, in Indiana for electronic products including amplifiers and effects devices, and in Washington for video and control products. Its Professional segment\'s electronics manufacturing in Europe includes mixing consoles in the United Kingdom, lighting solutions in Denmark and microphones and headphones in Austria. Its Professional segment\'s electronics manufacturing in Brazil includes electronic loudspeakers, amplifiers and other components. Its Professional segment\'s manufacturing in China includes audio electronics and loudspeakers. It sells its infotainment systems directly to automobile manufacturers in the U.S., Europe, Japan, South Korea, China and India, where it is installed as original equipment. It sells its Lifestyle car audio systems directly to automobile manufacturers in the U.S., Europe, India, Japan, China and South Korea. It sells its audio products to dealers via manufacturer\'s representatives. Services segment is a provider of product engineering outsourcing services with software development and market analytics services groups located in India, Russia and the Ukraine. It has 2,281 trademark registrations and 360 pending trademark applications. The Company is subject to various Federal, state, local and international environmental laws and regulations, including those governing the use, discharge and disposal of hazardous materials and, increasingly, the recycling of its products and their packaging.
+	['', 'audio products', ' ', 'electronic systems', ' ', 'consumer durables', '']
+Kine Robot Solutions
+	Designer and developer of robot systems for industrial use. The company offers robotic products for the food, metal, building, car and glass industries.
+	['', 'robot systems', ' ', 'grippers', ' ', 'material handling systems', '']
+AutoRef
+	Provider of a car shopping website for buying used car. The company develops an online platform that has auto dealers bidding for users based on a user\'s search criteria.
+	['', 'used car', ' ', 'used vehicle', ' ', 'online vehicle dealership', '']
+Fleet Innovation
+	Provider of car fleet management services. The company engages in car outsourcing services and also monitors services such as leasing, insurance and debit cards.
+	['', 'car fleet management', ' ', 'car outsourcing', ' ', 'car services', ' car']

@@ -1,27 +1,36 @@
-Higher One
-	Provider of technology and payment services to the higher education industry. The company provides student refunds, on-campus and community purchases, payroll and employee expenses, as well as the collection of payments from students, parents, and sponsors.
-	['', 'higher education', ' education ', 'student refund', ' ', 'community purchase', ' payroll ', 'payment collection', '']
-Chancery Software
-	Provider of school administration and curriculum management software. The company\'s software tools help in the management of student information, such as enrollments, scheduling, attendance, grading and student performance.
-	['', 'student information system', ' ', 'curriculum management software', ' ', 'student data management', ' ', 'information management systems', ' ', 'software tools', '']
-Hallway Social Learning Network
-	Provider of social learning network. The company\'s network enables student-to-student collaboration.
-	['', 'social learning network', ' ', 'student network', ' ', 'student collaboration', ' ', 'note sharing', ' ', 'assignment collaboration', ' ', 'ranking content', ' ', 'storing content', '']
-Macmillan New Ventures LLC
-	Provider of a virtual online science labs for secondary schools and higher education institutions. The company\'s online laboratory contains over 100 interactive lab simulations that are utilized by secondary and higher education institutions in the United States and abroad.
-	['', 'simulation technology', ' ', 'science education', ' ', 'laboratory simulation', ' ', 'online education', ' ', 'online science lab', ' ', 'online laboratory', '']
-TopSchool
-	Provider of simplified ways in which colleges manage and report student information. The company built the first SaaS student administrative system in higher education to address key aspects of the student lifecycle, including recruitment, retention and career services.
-	['', 'administrative technology', ' ', 'lifecycle management system', ' ', 'information management solution', ' ', 'customizable student portal', ' ', 'customizable faculty portal', ' ', 'information system', ' ', 'educational lifecycle', ' ', 'College Student Information System', '']
-Collegis
-	Provider of education, business and technology services to higher education institutions. The company provides services that help in improving the delivery of education, increase student recruitment and retention and increase revenues while stabilizing and reducing costs.
-	['', 'education services', ' ', 'higher education institutions', '']
-Socrative
-	Provider of an intelligent student response system. The company empowers teachers to engage & assess the class with educational activities on laptops, smartphones and tablets.
-	['', 'student response system', ' ', 'blended learning', ' ', 'e learning', '']
-Always Prepped
-	Developer of education software focused on classroom data management for the K-12 marketplace. The company\'s software aggregates and analyzes student classroom performance, attendance and behavior metrics from several online programs in a single dashboard for teachers.
-	['', 'student data', ' ', 'education data', ' ', 'education platform', '']
-VisualCV
-	Provider of technology and support to build and manage online career portfolios and securely share professional qualifications with employers, customers, partners, and colleagues. The company helps in recruitment and career management.
-	['', 'online career portfolio', ' ', 'online CV', ' ', 'career management', ' ', 'professional networking', '']
+Luminate
+	Provider of an Internet service that turns static images into engaging content. The company\'s platform enables consumers to mouse over images on their favorite websites to learn more and see related products.
+	['', 'web publisher', ' ', 'brand advertising', ' crowdsourcing ', 'online image', ' ', 'interactive content', '']
+MiNeeds
+	Provider of an online marketplace for local services. The company provides a website enabling users to post service requests and receive bids from local professional service providers, such as photographers, contractors or dentists.
+	['', 'productivity software', ' ', 'local professionals', ' ', 'data strategy', '']
+Novas
+	Provider of design comprehension solutions. The company\'s solutions enhance verification of complex Ics, embedded systems and SoCs, Novas global community serves its users, third party technology and service providers.
+	['design ', 'third party', ' verification simulation']
+Optical Solutions
+	Provider of fiber-optic communications systems for the local access markets. The company provides optical networks for voice, video and data to service providers. The company\'s customers are facilities-based service providers including independent telephone companies, competitive and incumbent local exchange carriers, utilities, municipalities and housing developers.
+	['', 'Communications Equipment', ' telecommunications ', 'communications systems', ' ', 'optical networks', '']
+Threshold Networks
+	Provider of internet-enabled applications to enterprises and service providers. The company\'s products provide enterprises with enhanced network and application performance and improve bandwidth efficiencies by associating acceleration and security policies between the network and the applications.
+	['', 'internet enabled application', ' ', 'network applications', ' ', 'internet based applications', ' ', 'network management service', ' ', 'network management', '']
+Clarent
+	Provider of networked internet telephony services for long distance phone calling service providers. The company enables service providers to deliver simultaneous transmission of voice, fax and data over internet protocol network.
+	['VoIP ', 'communication service', ' ', 'internet telephony', '']
+NWIX
+	Provider of communications infrastructure services for companies. The company offers its clients and partners such as telecommunications carriers, internet service providers (ISPs), application service providers (ASPs), content providers and systems integrators (SIs) with bandwidth.
+	['', 'IT Services', '']
+Nissi Media
+	Provider of an internet telecommunication platform. The company provides an integrated and scalable platform to telecommunications carriers, internet service providers and other telecommunication service providers which enables them to provide their users a wide range functions.
+	['', 'internet telecommunication', ' ', 'integrated platform', ' ', 'internet service', '']
+CopperCom
+	Provider of switching solutions for independent operating companies, competitive local exchange carriers and Internet service providers. The company makes software-based switches or softswitches and other products that enable advanced services such as voice over Internet Protocol (VoIP).
+	['', 'switching solution', ' ', 'internet service providers', ' ', 'software-based switches', ' softswitches ', 'voice over internet protocol', '']
+Everyone.net
+	Provider of outsourced email solutions for individuals and companies. The company offers custom email services for everyone from Internet Service Providers, web hosts and web sites to businesses, organizations and individuals.
+	['', 'email hosting', ' SaaS ', 'email backup', ' ', 'outsourced email solutions', '']
+Simplicita Software
+	Developer of security products designed for service providers that identifies, isolates and fixes zombies. The company\'s products include Simplicita ZBX, a zombie remediation system designed for service providers that automates zombie identification, containment and disinfection and Simplicita NXD, a subscriber mediation application that allows the service provider to monetize website name errors by redirecting the subscriber experience to a search landing page.
+	['', 'security products', ' ', 'carrier networks', ' ', 'zombie discovery', ' phishing ', 'zombie remediation', '']
+TAZZ Networks
+	Developer of policy control software for broadband service providers. The company is helping service providers and telephone carriers to build TDM, Frame, ATM and IP networks .
+	['', 'Policy control software', ' ', ' broadband service providers', '  TDM']

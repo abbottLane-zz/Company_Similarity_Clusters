@@ -1,15 +1,36 @@
-Row Sham Bow
-	Provider of game development studio. The company develops games for social networks and direct-to-consumer platforms.
-	['', 'game development', ' ', 'social network gaming', ' ', 'game studio', '']
-Crowdpark
-	Operator of a German game development studio. The company create video slots for the free-to-play and the online gambling market on multiple platforms including the web, mobile and Facebook.
-	['', 'betting platform', ' ', 'online gambling', ' ', 'betting opportunity', '']
-El Dorado Marketing Group
-	Provider of marketing services. The company focuses on reaching the Hispanic-American community with direct-to-consumer messaging services.
-	['', 'messaging services', ' ', 'American community', ' ', 'consumer marketing', '']
-Unique Development Studios
-	Provider of a game-development studio. The company developed video and computer games for PCs, Sony PlayStation and Atari, among other devices.
-	['', 'game development', ' ', 'publishing service', ' ', 'gaming studio', '']
-Press Play
-	Operator of a game-development studio. The company creates online games for multiple platforms, including the Internet, XBox and mobile devices. The company is the creator of "Max: The Curse of Brotherhood," "Tentacles: Enter the Dolphin" and "Max and the Magic Marker."
-	['', 'gaming service', ' ', 'multiple platform games', ' ', 'online game', '']
+Gazoontite
+	Provider of household products. The company provides products that help reduce asthma problems, allergies and respiratory problems. The company\'s products include anti-allergen and hypoallergenic bedding, air purifiers, vacuum cleaners, bath and beauty products, toys, dust control products, odor control products and asthma management products.
+	['', 'household products', ' hypoallergenic ', 'cleaning product', '']
+Distributions Marc Boivin
+	Supplier of meat products. The company distributes meat products for supermarkets.
+	['', 'meat products', ' ', 'meat supplier', ' sausage beef salami']
+ShockWatch (Equipment Monitoring Division)
+	Manufacturer of damage prevention products. The company develops equipment monitoring products to prevent damage.
+	['', 'damage prevention product', ' ', 'monitoring equipment', ' ', 'prevention equipment', '']
+Outinens Potatis
+	Provider of potato products. The company provides pre-cooked and related potato products that are grown with minimal pesticide usage.
+	['potatoes ', 'clean food', ' ', 'potato production', '']
+OculusAI
+	Provider of image validation services. The company develops software for automatic face detection and face recognition in images and video.
+	['', 'image verification', ' ', 'image validation', ' ', 'image software', ' ', 'Vertical Market Software', ' image']
+Absorbent Technologies
+	Developer of a super-absorbent seed coating technology for enhancing plant growth. The company develops and manufactures starch-based superabsorbent products that help crop producers enhance performance and durability, improve produce quality and marketability, improve plant growth consistency, increase yields and reduce input costs.
+	['agriculture ', 'super-absorbent seeds', ' ', 'crop producers', '']
+New Index
+	Developer of electronic whiteboard technology. The company is the creator of an interactive electronic whiteboard, which can be created instantaneously on any surface. The equipment includes a pen with a small camera chip, which presenters can use to virtually write and draw on the screen, or directly on any wall, with electronic "ink" supported by the projector. The company\'s technology utilizes pattern recognition and identification of special optical patterns made by the pen.
+	['', 'AV industries', ' ', 'electronic whiteboards', ' ', 'optical pen', ' whiteboards ', 'audio and video', '']
+Adaptive Solutions
+	Manufacturer of pattern recognition computing products. The company develops and manufactures image processing and recognition products and neurocomputing products.
+	['', 'neurocomputing product', ' ', 'image processing', ' ', 'computing products', '']
+FaceTags
+	Provider of facial recognition system. The company provides facial recognition to turn faces in photos and videos into qualified leads and compliance tracking. The company uses facial recognition  for advanced customer segmentation and lead scoring.
+	['', 'facial recognition', ' ', 'lead generation', '']
+LTU Technologies
+	Provider of scalable image recognition software. The company provides a software for content-based search, retrieval and classification of images and video.
+	['', 'scalable image', ' ', 'image recognition', ' ', 'image classification', '']
+OmniPerception
+	Provider of technology for the recognition of objects and people of customer applications. The company offers supplier of computer vision capabilities, facial biometrics and image processing.
+	['', 'face recognition', ' ', 'computer vision', ' ', 'facial biometric', ' ', 'object recognition', '']
+Orbeus
+	Provider of a computer visual recognition engine. The company offers a software that enables computers to perform face detection and recognition, logo and product recognition, optical character recognition and scene understanding.
+	['', 'visual recognition', ' ', 'face detection', ' ', 'face recognition', ' ', 'optical character recognition', ' ', 'cloud image analysis', '']

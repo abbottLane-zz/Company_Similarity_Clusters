@@ -1,15 +1,39 @@
-Stylemarks
-	Provider of mobile marketplace for vintage fashion and design products. The company provides a website enabling young and upcoming designers to showcase fashion, furniture, artwork, bags and gadgets to the German market.
-	['', 'mobile marketplace', ' ', 'vintage fashion', ' ', 'design products', '']
-TellSell Consulting
-	Operator of a sales-consulting company with a focus on the German market. The company specializes in new business development and models, sales consulting and optimization and customer processes.
-	['', 'management consultancy', ' ', 'consulting firm', ' ', 'management advice', '']
-Particle Programmatica
-	Operator of a consulting company that specializes in web applications and marketing projects. The company provides professional services in concept work, visual design and technical implementation.
-	['', 'web applications', ' ', 'professional services', ' ', 'marketing projects', '']
-First USA Partners
-	Issuer of affinity credit cards for alumni associations and other nonprofit groups. The company serves as exclusive sales and business development arm of First USA Bank.
-	['', 'credit cards', '']
-BroadReach Partners
-	Provider of business development consulting services. The company provides business development consulting services like sales pipeline development, prospect nurturing and conversion, and field marketing integration to businesses to improve their efficiency.
-	['', 'sales development', ' ', 'revenue improvement', ' ', 'financial consultancy service', '']
+Agouron Pharmaceuticals
+	Developer of therapeutic products to treat cancer and AIDS. The company engages in the discovery, development and commercialization of drugs for treatment of cancer, viral diseases and diseases of the eye.
+	['biomedical pharmacology immunogenetics']
+Edge Therapeutics
+	Provider of therapeutic products for acute, fatal and debilitating medical conditions. The company develops implantable technology for direct delivery of therapeutic compounds to the site of brain injury.
+	['', 'healthcare service', ' ', 'biotechnology service', ' ', 'hospital product', '']
+TaiMed Biologics
+	Developer of biotechnology prevention and treatment solutions for viral infectious diseases that are causing serious harm to human health. Products in research include Tamiphosphor, a neuraminidase inhibitor for the treatment of influenza, and Ibalizumab, an HIV prophylactic drug.
+	['influenza HIV']
+Nordic Phytopharma
+	Developer of scientifically documented dietary supplements and herbal remedies. The company engages in developing patentable ideas within the healthcare industry into proprietary products, including a treatment to lessen the symptoms of the common cold.
+	['', 'dietary supplements', ' ', 'immune system health and modulation', ' ', 'skin care areas', '']
+Oxxon Therapeutics
+	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
+	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
+Scancell
+	Developer of biopharmaceutical products. The company engages in the discovery and development of novel monoclonal antibodies and vaccines for the treatment of cancer and infectious diseases based on its ImmunoBody and Moditope platforms.
+	['', 'biopharmaceutical product', ' ', 'monoclonal antibodies', ' ', 'infectious diseases', '']
+Inviragen
+	Developer of vaccines to protect against various infectious diseases. The company offers its products to protect against dengue viruses, as well as West Nile, swine-origin, plague, smallpox and various other diseases.
+	['', 'dengue virus', ' ', 'infectious diseases', ' ', 'avian influenza diseases', ' ', 'viral vaccine', ' ', 'mouth disease', '']
+Cytoguide
+	Developer of combined drugs that target receptors on cells in pathological tissues. The company offers drugs that are aimed to improve the treatment of onocyte and macrophage-related diseases including autoimmune disease, leukemia and other infectious diseases.
+	['', 'combined drugs', ' pathological ', 'autoimmune disease', '  leukemia']
+GeneGrafts
+	Provider of therapeutic products. The company manufactures therapeutic products to treat cardiac arrhythmia, Parkinson\'s disease and epilepsy.
+	['', 'therapeutic product', ' ', 'cardiac arrhythmia treatment', ' ', 'epilepsy treatment', '']
+Xenon Pharmaceuticals
+	Developer of medicines focused on rare diseases. The company\'s core enabling discovery platform is focused on studying rare human diseases with extreme traits, including diseases caused by mutations in ion channels, known as channelopathies.
+	['', 'rare disease', ' channelopathy ', 'gene therapy', ' ', 'discovery platform', ' ', 'ion channel mutation', '']
+Salient Interventions
+	Developer of drug for neurologic diseases. The company develops products focused on early treatment of neurologic diseases and reversal of neurologic deficits.
+	['neurologic ', 'neurologic deficits.', '']
+Nucleonics
+	Provider of biotechnology services. The company is engaged in the development of novel RNA interference-based therapeutics for viral and other diseases.
+	['', 'therapeutic products', ' ', 'biotechnology services', ' ', 'viral diseases', '']
+Cantab Pharmaceuticals
+	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
+	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']

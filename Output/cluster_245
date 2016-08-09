@@ -1,21 +1,36 @@
-BioMonde (Acquired by ZooBiotic)
-	Manufacturer of larval therapy products used to treat wounds like diabetic ulcers and orthopaedic wounds. The company produces and distributes fly maggots for wound treatment at clinics.
-	['', 'larval debridement therapy', ' ', 'medical supply', ' ', 'therapeutic device', '']
-CellTran
-	Developer of cell therapy products to aid in wound healing. The company using autologous skin cells treats difficult to heal wounds. Its products Myskin and Myskin Clinic help to heal wounds and provide dedicated treatment for chronic, complex or non-healing wounds.
-	['', 'Skin treatment', ' ', 'healing wounds', ' ', 'cultured human keratinocytes', ' ', 'integrated wound care dressing', ' ', 'wound healing', '']
-ProCyte
-	Developer and manufacture of wound care, haircare and skin health products. The firm initially focused on the research and development of copper peptides specifically for wound healing.
-	['', 'Wound healing agents', ' ', 'skin care', '']
-Biofisica
-	Developer of medical devices that trigger the healing process in wounds that fail to heal on their own. The company develops solutions in the tissue engineering market to address chronic wound healing. It provides POSiFECT, a medical device that is used to heal wounds naturally.
-	['', 'medical device developer', ' ', 'wound healing process', ' ', 'tissue engineering', ' ', 'chronic wound healing', '']
-Neocutis
-	Developer of technology platform to understand the scarless wound healing. The company provides innovative topical preparations for dermatological and gynaecological affections as well as high-end cosmeceutical skincare products. Its platform has multiple applications in wound healing, dermatology and skin care. It is also developing a program of cellular therapy for the treatment of severe burns.
-	['', 'scarless wound healing', ' dermatology ', 'cellular therapy', '']
-Pharmasurgics
-	Developer of an anti-scarring and healing treatment after surgery. The company develops and commercializes a novel treatment for preventing harmful scarring and promoting wound healing after surgery. It\'s product concept is based on proprietary synthetic peptides of human lactoferrin which have strong anti-inflammatory and anti-infectious properties.
-	['', 'anti-scarring', ' ', 'healing treatment', ' ', 'synthetic peptide', ' ', 'anti-inflammatory', '']
-Polyheal
-	Developer of wound healing products for chronic wounds. The company wound healing products provides a sterile disposable suspension for topical application in the treatment of chronic wounds such as skin ulcers, burns, trauma and post-surgery wounds.
-	['', 'wound healing product', ' ', 'sterile disposable suspension', ' ', 'chronic wound', '']
+Omniture
+	Provider of online business optimization software. The company hosts and delivers Omniture Online Marketing Suite, as an on-demand solution, as well as an on-premise solution that consists of Open Business Analytics Platform and integrated set of optimization applications for online analytics, channel analytics, visitor acquisition and conversion.
+	['software data warehouse information']
+Stellr
+	Provider of data analytics platform. The company develops a suite of software as a service (SaaS) analytics technologies.
+	['', 'data analytic', ' ', 'analytic technology', ' ', 'cloud based portal', ' ', 'data analytic portal', '']
+Everdream
+	Provider of on-demand software and managed services for desktop management. The company provides software-as-a-service (SaaS) solutions for remote-service management. It offers compliance software services suite that provides visibility into hardware and software assets, tracks software license usage, and automates the distribution of software to ensure regulatory compliance to the computers; and up-time software services suite that provides protection against Internet attacks, hackers, and loss of critical data through malware protection, patch management, and online data backup services.
+	['', 'desktop management', ' SaaS ', 'on demand software', ' ', 'service management', ' ', 'remote-service management', ' ', 'compliance software', ' ', 'software license', ' ', 'internet protection', ' ', 'malware protection', ' ', 'patch management', ' ', 'data backup', '']
+MarketYze
+	Provider of an e-commerce market intelligence data to online retailers. The company offers a cloud-based platform that tracks and analyzes product prices across competitors to provide retailers with the pricing data and analytics.
+	['', 'market intelligence', ' ', 'online retailers', ' ', 'pricing data', '']
+Aster Data Systems
+	Provider of parallel processing databases for data warehousing and analytics. The company provides analytics, data loading performance, data growth, query performance, administration, scaling solutions, self-management, analytics center, analytic data pipeline discovery, educational, sales engineering, consulting, support, training services.
+	['', 'data warehousing', ' ', 'analytics solution', ' ', 'sales engineering', ' ', 'data growth', ' ', 'data warehouse services', '']
+Maestro Commerce
+	Provider of an e-commerce software platform. The company is the creator of a hosted suite of software tools enabling companies to operate as online vendors. The software provides users with online storefronts, merchandising, catalogs and inventory control.
+	['', 'e-commerce software', ' ', 'scalable application suite', ' ', 'e-business products', ' ', 'application services', ' ', 'application service provider', ' ', 'dot-com companies', '']
+Metanautix
+	Provider of big data analytics software. The company builds big data analytics systems for large enterprises.
+	['', 'Big data', ' ', 'analytic service', ' ', 'data analystics system', '']
+ES Enterprise Solutions
+	Provider of an online software service.
+	['', 'online software', ' ', 'virtual software', ' ', 'software service', '']
+Progentix Orthobiology
+	Manufacturer of orthopedic bone graft materials. The company develops a suite of osteoinductive material products for clinical application in bone regenerative surgery.
+	['', 'bone grafting', ' ', 'osteoinductive materials', ' ', 'one regenerative surgery', ' orthopedic']
+AGILEci
+	Provider of an online application for data analytics and insight propositions for sales and marketing users. The company offers a secure Web browser application that works on desktops, laptops and tablets which helps enterprises to know their customers.
+	['', 'data analytic', ' ', 'Web browser application', ' astute ', 'insight proposition', '']
+RightsCube
+	Provider of a data and analytics platform for publishers. The company provides actionable insights, data and feedback to the book publishers about their market, customers and retail partners. It also provides a standardized source for all of the world\'s film and TV rights information.
+	['', 'analytics platform', ' ', 'data platform', ' ', 'publishers platform', ' ', 'retailer auditing', ' ', 'film rights information', '']
+Katkar Flink
+	Provider of a platform that provides online sale information to customers. The company provides data analytics to help online shoppers discover deals.
+	['', 'retailing service', ' ', 'online sale information', ' ', 'data analytics', '']

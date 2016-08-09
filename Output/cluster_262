@@ -1,18 +1,15 @@
-FabKids
-	Provider of a children\'s brand and personalized e-commerce service. The company provides parents with ongoing style recommendations for their child.
-	['', 'kid clothing', ' ', 'children clothing', ' ', 'subscription ecommerce', '']
-Shopcastr
-	Provider of an online and mobile platform for independent local retailers and shoppers. The company provides a web based platform where fashion and lifestyle retailers create online stores to feature their products.
-	['', 'consumer service', ' ', 'mobile platform', ' ', 'local retailers', '']
-Citrus Lane
-	Provider of an online subscription service for baby and children\'s products. The company provides a monthly package of products, including toys and product samples, for parents to share with their children. The service also provides a brand-recognition channel for manufacturers of products included in the packages.
-	['', 'electronic commerce', ' ', 'baby product', ' ', 'baby care', '']
-P.S.XO
-	Provider of a web based e-commerce platform for parents. The company uses a mobile platform for parents to teach and share children based activities and photos.
-	['', 'photo sharing', ' ', 'family entertainment', ' ', 'child entertainment', ' ', 'parenting community', ' ', 'craft idea', '']
-Wauwaa
-	Provider of an online platform for parents to find multimedia content and event-based electronic commerce sales. The company provides a platform which contains a large collection of video interviews with real parents on subjects relating to pregnancy, birth and parenting.
-	['', 'multimedia content', ' ', 'electronic commerce sale', ' ', 'content for parent', '']
-TruantToday
-	Provider of communication platform between parents and school. The company provides a Web service that sends real time text and email messages to parents when students are absent.
-	['', 'email message', ' ', 'text message', ' ', 'online message', ' ', 'parental guidance', ' ', 'absent notification', '']
+Pebbles
+	Developer of motion gesture technology. The company develops hardware and software to enable 3D gesture interaction with computers, communications and consumer electronics devices.
+	['', 'gesture interface', ' ', 'human machine interface', ' optics']
+Ball-IT
+	Provider of real-time wireless sensing solutions. The company is the provider of enabling devices and modules, as well as core software components for implementing consumer-level user interfaces. It sells its products through a worldwide network of senor and wireless-technology vendors.
+	['', 'sensor technology', ' ', 'wireless sensor', ' ', 'user interface', '']
+Nanoradio
+	Manufacturer of wireless semiconductor products for cellular handset and consumer electronics market. The company provides diagnostic tools and software development kits to design embedded applications. It\'s products are used in portable audio, stereo devices, handheld computing devices, wireless phones and mobile gaming platforms.
+	['', 'wireless solutions', ' ', 'cellular handsets', ' ', 'software development kits', ' ', 'portable audio', ' ', 'mobile gaming platforms', ' ', 'electronics market', '']
+Scaled Recognition
+	Developer of software for mobile devices that recognizes handwritten images. The company has developed handwriting-recognition technology that works with any image, including scanned paper, and which generates the best results from mobile photos, enabling smartphones to become powerful input devices. The company sells its recognition technology in multiple markets, including document management, mobile development and device input.
+	['', 'handwriting recognition', ' ', 'character recognition', ' whiteboard ', 'device input', '']
+IDENT Technology
+	Provider of intellectual property and semiconductor products. The company\'s products enable proximity sensing and real-time 3D gesture recognition for the consumer electronics industry, including mobile devices, gaming and other input devices.
+	['', 'intellectual property', ' ', 'semiconductor products', '']

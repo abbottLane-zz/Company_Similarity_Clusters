@@ -1,36 +1,15 @@
-IHM Services
-	Provider of an analytics software for hospitals and healthcare institutions. The company focuses on transforming hospital data into clinical intelligence to help hospitals and healthcare enterprises fully automate the reporting systems, improve performance for other programs and produce predictable medical outcomes.
-	['', 'analytic software', ' ', 'hospital data', ' ', 'clinical intelligence', '']
-Infineta Systems
-	Developer of network optimization products. The company provides Velocity Dedupe Engine, a hardware deduplication/dedupe engine to identify and remove redundancies in network traffic. It also offers wide area network acceleration solutions, such as data protection for synchronous and asynchronous replication, and network backup; virtual machines (VM) mobility for live migration over distance and VM disk transfers; and big data workflows for scale-out applications and file transfers.
-	['', 'network optimization', ' ', 'hardware deduplication', ' ', 'data protection', ' ', 'synchronous replication', ' ', 'asynchronous replication', ' ', 'virtual machine mobility', ' ', 'network backup', '']
-Stellr
-	Provider of data analytics platform. The company develops a suite of software as a service (SaaS) analytics technologies.
-	['', 'data analytic', ' ', 'analytic technology', ' ', 'cloud based portal', ' ', 'data analytic portal', '']
-Aster Data Systems
-	Provider of parallel processing databases for data warehousing and analytics. The company provides analytics, data loading performance, data growth, query performance, administration, scaling solutions, self-management, analytics center, analytic data pipeline discovery, educational, sales engineering, consulting, support, training services.
-	['', 'data warehousing', ' ', 'analytics solution', ' ', 'sales engineering', ' ', 'data growth', ' ', 'data warehouse services', '']
-ObjectRocket
-	Provider of a cloud Database as a Service based on MongoDB database. The company provides open source-based MongoDB system that help users to manage big data.
-	['', 'cloud database', ' ', 'database management system', ' ', 'MongoDB database', '']
-Metanautix
-	Provider of big data analytics software. The company builds big data analytics systems for large enterprises.
-	['', 'Big data', ' ', 'analytic service', ' ', 'data analystics system', '']
-mbr targeting
-	Developer of a targeting technologies for increased relevance of advertising focus and product recommendations. The company has developed an approach that can analyze and structure big data categories without having to make a Prior assumptions or use categories.
-	['', 'targeting technology', ' ', 'analysis method', ' ', 'product recommendation', ' ', 'advertising focus', '']
-640 Labs
-	Developer of an open big data platform for agriculture. The company offers 640 Drive, a device to automatically collect and aggregate agricultural data across farming operations.
-	['', 'data aggregation', ' ', 'farming operation', ' ', 'agricultural data', ' ', 'big data platform', '']
-ADKU
-	Provider of e-commerce big data solutions. The company provides a service that attempts to optimize a person’s shopping experience by providing product suggestions.
-	['', 'data solution', ' ', 'personal shopping', '']
-RightsCube
-	Provider of a data and analytics platform for publishers. The company provides actionable insights, data and feedback to the book publishers about their market, customers and retail partners. It also provides a standardized source for all of the world\'s film and TV rights information.
-	['', 'analytics platform', ' ', 'data platform', ' ', 'publishers platform', ' ', 'retailer auditing', ' ', 'film rights information', '']
-Application Security
-	Provider of database security application. The company develops security software for relational databases and big data stores that helps businesses and government agencies uncover critical configuration mistakes, access control issues, missing patches, or any toxic combination of settings that could lead to denial-of-service attacks, unauthorized data modification and data breaches.
-	['', 'database security', ' ', 'compliance solution', ' ', 'vulnerability management', ' ', 'threat management', ' ', 'audit management', ' ', 'database integration', ' ', 'database discovery', '']
-Katkar Flink
-	Provider of a platform that provides online sale information to customers. The company provides data analytics to help online shoppers discover deals.
-	['', 'retailing service', ' ', 'online sale information', ' ', 'data analytics', '']
+Rogue Resolutions
+	Provider of equipment and services to the researchers and clinicians in the neurology sector. The company provides integrated services to the neuroscience sector for the purpose of neuromodulation, neurofeedback and brain imaging.
+	['neurology ', 'brain imaging', ' neurofeedback']
+Odyssey Clubs Group
+	Operator of health and fitness clubs. The company offers health club facilities including pool, gym, tennis and squash, bar and restaurant, as well as studios for spinning, yoga, and aerobics.
+	['', 'health club', ' ', 'fitness club', ' ', 'club facility', '']
+ClubCom
+	Provider of television broadcasting services to the health club and gymnasium sector. The company specializes in providing customized audio or video entertainment and proprietary advertising programs to commercial health clubs.
+	['', 'television broadcasting', ' ', 'customized audio', ' ', 'video entertainment', '']
+FysioSporttis
+	Provider of physiotherapy and health sports services. The company offers multiple services designed to enhance patients’ muscles and joints, as a preventative measure as well as a therapeutic one. The company provides guided exercise programs, employee wellness services and physiotherapy consultations and treatments. The company also provides workout centers, a gymnasium and solarium.
+	['physiotherapy ', 'health sports', ' ', 'workout center', ' gymnasium solarium ', 'sports service', ' wellness fitness']
+WageWorks
+	Provider of tax-advantaged programs for consumer-directed health, commuter and other employee spending account benefits or CDBs. The company administers and operates a broad array of CDBs, including spending account management programs, such as health and dependent care Flexible Spending Accounts, or FSAs, Health Savings Accounts, or HSAs, Health Reimbursement Arrangements, or HRAs and commuter benefits, such as transit and parking programs.
+	['', 'tax program', ' ', 'tax benefit', ' ', 'commuter tax', ' ', 'retiree service', ' ', 'benefit program', ' ', 'retiree service', ' ', 'retiree program', ' ', 'tax advantage', ' ', 'employee benefit', ' ', 'employee service', '']

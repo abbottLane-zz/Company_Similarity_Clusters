@@ -1,12 +1,69 @@
-Jotspot
-	Provider of wiki based application. The company enable users to create, publish and share collaborative and personalized wiki applications which include project manager, for managing projects; bug reporter, for tracking bugs; live, for group note taking; and a blogging application.
-	['', 'wiki applications', ' ', 'bug reporter', ' blog']
-HackPad
-	Provider of a document sharing software. The company\'s product enables classroom collaboration, event planning and helps in writing personal notes.
-	['', 'document sharing', ' ', 'classroom collaboration', ' ', 'personal note', '']
-OhLife
-	Provider of a web-based journal application. The company provides email-based personal journal for users to write their daily experiences.
-	['', 'journal application', ' ', 'personal journal', ' ', 'online journal', ' ', 'web-based diary', ' ', 'email service', '']
-Writewith
-	Developer of a writing application. The company enables users to write, edit and publish a document with group.
-	['', 'writing application', ' ', 'document publishing', ' editing']
+Tridion
+	Developer and provider of web content management software. The company\'s core product, DialogServer, enables enterprises to publish, manage and update their web content. The company\'s system is suited for organizations choosing to use online channels like the web, WAP phones, interactive televisions and handheld devices - to exchange business critical information with customers, partners, suppliers and employees.
+	['', 'web content management', ' ', 'interactive televisions', '']
+Kainos Software
+	Provider of business software application. The company is involved in the deployment and integration of enterprise content management, electronic document management, workflow and collaborative technologies.
+	['', 'enterprise content management', ' ', 'electronic document management', ' ', 'collaborative technology', '']
+Groxis
+	Developer of visual search technology and graphical information interface solutions. The company develops and markets Grokker, a Web-based enterprise search management platform that leverages federated content access and visualization for enterprises, universities, content publishers, libraries, and other research-intensive organizations.
+	['', 'visual search', ' ', 'search management', ' ', 'graphical information', '']
+Sevenval
+	Provider of mobile and multi-channel marketing technology. The company provides its FIT Technology platform, which enables users to arrange existing Web content and to enrich it with new content, depending on the usage scenario and device, without having to change the business logic.
+	['', 'cloud software', ' ', 'mobile internet', ' ', 'web technology', ' ', 'multi channel web', '']
+Active Modules
+	Provider software development solutions. The company provides open source Web Content Management System for ASP.NET.
+	['', 'software development solution', ' ', 'software development', ' ', 'Web Content Management', '']
+Youlicit
+	Operator of a web content recommendation engine. The company allows users to discover the web via personalized recommendations based on users interests and enables to find other users interested in the same topics.
+	['', 'web content', ' ', 'recomendation engine', ' ', 'personalized recommendations', '']
+THINQ Learning Solutions
+	Provider of enterprise wide corporate learning solutions. The company offers enterprise learning management software designed to help companies achieve their business objectives.
+	['', 'professional learning services', ' ', 'management systems software', ' ', 'enterprise software', '']
+Dimdim
+	Developer of web conferencing solutions. The company also provides content sharing and management; web page and desktop sharing; documents and slides sharing; web collaboration; broadcasting; and chatting services. The company’s products include Dimdim Pro and Dimdim Enterprise.
+	['', 'web conferencing', ' ', 'content sharing', ' ', 'content management', '']
+Ecutel Systems
+	Provider of networking and enterprise mobility solutions. The company specializes in developing software solutions for secure, mobile access and mobile enterprise management. Its products include Viatores mobile VPN, and infrastructure command and control. It serves government, public safety, healthcare, education, and enterprise customers.
+	['mobile network software networking']
+FleetFly
+	Provider of enterprise class fleet management and internet based remote asset management solutions. The company uses the RedFly device to assist small fleets for their dispatch needs.
+	['transportation ', 'fleet management', '']
+Relevance Technologies
+	Provider of enterprise content management software. The company offers decision support solutions and also provides workers with answers.
+	['intelligence decision ', 'information resources', '']
+Gruvie.com
+	Provider of social network platform to aggregate their social web content into one location.
+	['', 'social network', ' ', 'social web', ' ', 'network platform', ' ', 'web content', '']
+TMX Interactive
+	Provider of web development services.  The company provides the platform which enable users to do web designing, usability, application development and content management as per their requirement.
+	['', 'web development', ' ', 'web design', ' ', 'application development', '']
+living-e
+	Provider of a data-base supported web content management system. The company\'s products serve as tools for the administration and update of information for internet applications and their derivatives.
+	['', 'web content', ' CMS ', 'internet applications', '']
+SwitchOn Networks
+	Provider of semiconductor and software components to the Content and Policy-based networking. The company\'s products enable next generation network equipment, including web and content switches, CMTS, DSLAM, enterprise routers, edge routers, bandwidth managers, VPNs, Firewalls and Intrusion detection systems.
+	['', 'semiconductor and software component', ' ', 'wirespeed packet classification', ' ', 'networking solution', ' ', 'networking device', ' ', 'semiconductor component', ' ', 'semiconductor networking solution', ' ', 'networking equipment', ' ', 'packet content processor', '']
+NPC Springs
+	Manufacturer of high-strength industrial springs. The company manufacturers high-strength springs for railroads, cars and agricultural equipment.
+	['', 'springs', ' ', 'high-strength', ' ', 'railroad springs', ' ', 'car springs', '']
+Hollywood Interactive Group
+	Provider of Web content and entertainment features for women. The company provides celebrity and entertainment news and casual games, as well as fashion and community information.
+	['', 'celebrity web destination', ' ', 'celebrity news', ' ', 'multiplatform content', '']
+Oxford NanoScience
+	Manufacturer of 3-dimensional atom probes. The company\'s laser atom probe offers high resolution sample data acquisition together with comprehensive data analysis for a range of low and high resistivity materials.The atom probe is a point projection microscope capable of resolving the chemical identity and position of individual atoms in 3D with atomic resolution in the z direction and sub-nanometer lateral resolution.
+	['', '3-dimensional atom probe', ' ', 'laser atom probe', ' ', 'point projection microscope', ' ', '3D Atom Probe analysis system', '']
+WiChorus
+	Developer of smart 4G packet core infrastructure products. The company\'s smartcore platform enable operators to deploy WiMAX and LTE networks with service and subscriber management, content management, and network optimizations, as well as to monetize the Internet.
+	['WiMAX ', 'LTE network', ' 4G ', 'smartcore platform', ' Internet software technology']
+InStranet
+	Provider of multi-channel knowledge applications for automating content and knowledge delivery for servicing and sales initiatives, and for contact centers, field sales, and Web self-care. The company also offers Contact Centers In-Line Application, which enables the organization of the content and knowledge into context-sensitive and customer-specific categories; and Content Application Foundation that provides toolkit for content management, personalization, search, application integration, and user management.
+	['', 'knowledge delivery', ' ', 'content management', ' ', 'application integration', '']
+CyberIQ Systems
+	Provider of website management services. The company uses its expertise in Internet traffic and content management along with acceleration technology to make websites and web applications faster and more reliable.
+	['', 'website management', ' ', 'internet traffic', ' ', 'web application', '']
+Mango Capital
+	Provider of networking software. The company provides software that allows for networked sharing of files, web content and applications, clustered caching for load balancing, fault-tolerance and scalability, web caching across work groups, and multiple access to the internet from a single phone line.
+	['']
+NCompass Labs
+	Provider of enterprise web content management solutions. The company develops NCompass Resolution, the enterprise-strength web content management system for the microsoft platform.
+	['', 'Web content management system', ' resolution']

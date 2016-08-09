@@ -1,21 +1,18 @@
-PureWave Networks
-	Developer of adaptive beamforming 4G base station equipment. The company\'s s services include Quantum 1000, a carrier-grade and outdoor compliant base station that provides macro base station performance in a compact package based on a software defined radio architecture; and PureView, a carrier-grade network management system that controls and monitors various quantum base stations, as well as facilitates network operations with automatic discovery of network topology, operations and inventory views.
-	['', 'base station equipment', ' ', 'outdoor compliant station', ' ', 'Wireless Infrastructure', ' ', 'Base Station', ' ', 'wireless router', ' router']
-Connection Services
-	Provider of Wi-Fi Services. The company provides enabling technology to the wireless service businesses of major telecommunications companies.
-	['', 'Wi-Fi Services', ' ', 'wireless service', ' telecommunications']
-Bluegiga Technologies
-	Developer and provider of short range wireless connectivity products and technologies. The company offers bluetooth modules, Wi-Fi modules, and bluetooth network access devices to OEMs and system integrators in various sectors.
-	['', 'connectivity product', ' ', 'bluetooth module', ' ', 'wireless connectivity product', '']
-connectBlue
-	Provider of bluetooth services for industrial and commercial applications. The company offers industrial-grade short range radio modules supporting popular Classic Bluetooth, Bluetooth low energy and Wi-Fi standards.
-	['', 'bluetooth service', ' ', 'industrial application', ' ', 'wireless communication', '']
-Comsys Communication & Signal Processing
-	Provider of digital baseband solutions for cellular networks. The company intelligent baseband processing solutions enable silicon vendors, handset manufacturers, laptop producers, cellular modules developers and base stations manufacturers to significantly market and create a new horizon for voice and data over cellular applications.
-	['', 'cellular network', ' ', 'digital baseband service', ' ', 'intelligent baseband processing', '']
-Go Networks
-	Provider of broadband wireless access services for indoor and outdoor deployments. The company offers micro cellular Wi-Fi sector base stations, Pico cellular Wi-Fi base stations, wireless media gateways, wireless network controllers and network management systems. It also has a research and development center in Israel.
-	['', 'broadband wireless access', ' ', 'wireless network controller', ' ', 'network management system', '']
-DesignArt Networks
-	Provider of silicon for 4G infrastructure products. The company offers software-defined SoC platforms for compact base stations (Enterprise Femto/Pico/Micro), Remote Radio Heads (RRH), Backhaul links (NLOS, Microwave and E-Band) and relay equipment.
-	['', 'silicon platform', ' ', 'radio access network', ' ', 'infrastructure product', '']
+UpNext
+	Provider of mobile 3D map applications. The company\'s applications enable users to explore and discover cities, as well as glide around their cities virtually.
+	['', '3D map application', ' ', 'mobile 3D map', ' ', '3D navigation', ' ', 'map app', ' ', '3D map', ' ', '3D service', ' ', 'map service', ' mapping']
+Zettics
+	Provider of mobile analytic and measurement applications. The company offers a monitoring and analytics tool that enables real-time visibility and analytic across web, video and messaging applications.
+	['', 'data analytic', ' ', 'measurement application', ' ', 'analytics tool', '']
+Cetas Software
+	Developer of cloud-based business analytics service. The company provides real-time analytics that help business users gain insights and visibility into their customer/audience behavior.
+	['', 'cloud computing', ' ', 'business analytic service', ' ', 'real-time analytic', ' ', 'customer behavior', ' ', 'audience behavior', '']
+Umber Systems
+	Provider of mobile data-usage visibility technology. The company offers a monitoring and analytics platform that enables real-time visibility and analytics across Web, video and messaging applications. The company provides its platform for mobile data-usage proliferates, carriers, publishers, media and marketers.
+	['', 'mobile data', ' ', 'analytics solution', ' ', 'messaging application', '']
+Signal Data
+	Provider of proprietary retail analytic software platform. The company offers analytic, operational data and mapping analysis to assess the quality of U.S.-based retailers locations on a comprehensive and updated basis.
+	['', 'analytic software platform', ' ', 'mapping analysis', ' ', 'analytic platform', ' ', 'data analytic software', '']
+Bigfoot Interactive
+	Developer and provider of marketing analytic tools. The company provides market data, market analytic and strategy, social campaign and email plans as marketing tools.
+	['']

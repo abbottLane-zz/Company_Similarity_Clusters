@@ -1,33 +1,21 @@
-Aduva
-	Developer of software applications for maintaining Linux computer systems. The company\'s product, Aduva OnStage, is a life-cycle management application which is used to detect, analyze, and resolve any deviation, conflicts or drift from compliance. The application ensures security and system compliance in supporting the build, test, stage, deployment, and production stages.
-	['', 'software application', ' ', 'Linux computer systems', ' ', 'system maintenance', ' ', 'system compliance', '']
-Carefx
-	Provider of information technology solutions to the healthcare organizations in North America and Europe. The company offers Fusionfx suite of interoperable workflow and analytics solutions that streamlines clinical and business workflow, as well as connects care providers to the information they need; and business intelligence dashboards to support accountability and transparency of operations.
-	['', 'information technology', ' fxCollaboration']
-PowerInbox
-	Developer of e-mail application platform. The company enables users to run applications from inside their e-mail messages. Its open app platform enables developers to create apps that run on e-mail using HTML5.
-	['', 'email application', ' ', 'create application', ' ', 'open platform', ' ', 'application platform', '']
-Fincentric
-	Provider of retail banking and customer value management software to the financial services industry. The company\'s technology and services solutions help financial institutions automate key business processes. It serves customers in North America, Latin and Central America, and Europe.
-	['', 'customer value management', ' ', 'retail banking', ' ', 'financial service', '']
-Outbox
-	Provider of an online service that digitizes postal mail and makes it available online and on mobile devices. The company collects and manages postal mail on users\' behalf, discarding junk mail and enabling users to organize, prioritize or unsubscribe on any piece of mail.
-	['', 'mail interception', ' email ', 'post office', ' ', 'digital mailbox', ' ', 'snail mail', ' ', 'digital mail', ' mailbox']
-Cabrellis Pharmaceuticals
-	Developer of therapies for the treatment of cancer. The company\'s product includes synthetic anthracycline drug for small cell and nonsmall cell lung cancers in Japan. It also has drug commercialization rights in North America and Europe.
-	['', 'cancer treatment', ' ', 'lung cancer treatment', ' ', 'drug commercialization', '']
-Hotmail
-	Provider of Web-based e-mail services. The company electronic mail being accessible via the internet enables Hotmail users to conduct e-mail correspondence from anywhere.
-	['', 'e-mail services', ' web']
-Postini
-	Provider of on-demand communications security, compliance, and productivity solutions for email, instant messaging (IM), and the Web in North America and Europe. The company offers e-mail system administration applications and software for redirecting e-mail to wireless devices.
-	['', 'communication security', ' ', 'productivity solution', ' ', 'reporting solution', ' ', 'professional service', '']
-Blackspider Technologies
-	Provider of managed e-mail security solutions. The company\'s security solutions delivers e-mail content filtering services to organizations, enabling them to block the spam and e-mail borne computer viruses before they enter company networks.
-	['', 'e-mail security solutions', ' ', 'e-mail content filtering services', ' ', 'blocking viruses and spams', ' ', 'web security', ' ', 'managed security services', '']
-Banter
-	Provider of communication technologies. The company provides technology designed to interpret unstructured text communication, like e mail, web form submissions, instant messaging and service inquiries.
-	['', 'communication technology', ' ', 'text communication', ' ', 'instant messaging', '']
-PTS Messaging
-	Provider of Internet call waiting and voice mail services. The company\'s services includes caller ID, personal greetings, call screening, call answer, call forwarding, voice mail and e-mail or phone-message retrieval.
-	['', 'voicemail', ' ', 'call screening', ' ', 'software services', '']
+bla-bla.com
+	Provider of a low cost method for establishing as a content-rich Internet portal. The company was positioned to capitalize on the growing demand for online destinations that allow users to develop their own identities and establish relationships with other Internet users.
+	['', 'portal', ' ', 'website developer', '']
+Snowbon
+	Provider of an online booking platform for ski and related activities. The company provides a system to book ski lift tickets, skiing equipment and also provides information regarding the hotels and climate.
+	['', 'online booking platform', ' ', 'ski lift ticket', ' ', 'skiing equipment', '']
+Tuniu.com
+	Provider of online travel services for travelers departing from the Chinese cities Beijing, Shanghai, Guangzhou and Shenzen. The company provides online booking and information services for airlines, hotels, car rentals, vacation and tour package deals.
+	['', 'travel management', ' ', 'online booking', ' reservation ', 'travel service', ' ', 'online travel', ' ', 'vacation package', '']
+Easy Market
+	Developer of online booking systems for travel agencies specializing in tour packages, special offers, last minute and low cost flights.
+	['', 'booking system', ' ', 'tour package', ' ', 'low cost flight', ' ', 'computerised reservation', '']
+Zostel
+	Operator of chain of hostels and low-budget hotels. The company operates a branded chain of backpacker\'s hostels called zostel and offers low-budget hotel accommodations through their booking service Zo Rooms.
+	['', 'accommodation facility', ' ', 'booking service', ' hostel']
+Equitalk
+	Provider of low cost, paperless, telephone service. The company\'s processes are automated, the customers are e-mailed their bill and they can pay by direct debit. The company offers IDA and CPS voice services, broadband and teleconferencing.
+	['paperless ', 'telephone service', ' bill']
+PortugalRes
+	Operator of an online booking platform. The company also distributes products to travel agencies and tour operators worldwide.
+	['', 'ticket booking', ' ', 'travel product', ' ', 'online travel platform', '']

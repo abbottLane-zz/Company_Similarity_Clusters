@@ -1,9 +1,36 @@
-DocMorris
-	Provider of an online drugstore. The company operates an online pharmacy store serving the German market.
-	['', 'online drugstore', ' ', 'drug distribution', ' ', 'drug sales', ' ', 'online drugs', ' ', 'online pharmaceutical', ' ', 'pharmaceutical sales', ' pharmacy']
-PlanetRx
-	Provider of online drugstore fulfillment. The website is an online drugstore where customers can find all the usual prescription products in their drugstore and order online.
-	['', 'online drugstore', ' ', 'online drugstore', ' ', 'online store', '']
-York Pharma
-	Provider of prescription products. The company company is engaged in developing, marketing and supplying prescription products to pharmaceutical wholesalers, hospitals and general practitioners within the field of dermatology.
-	['', 'dermatological products', ' ', 'prescription products', ' supplier ', 'product development', '']
+DATAllegro
+	Provider of data warehouse appliances.
+	['', 'data warehouse', ' ', 'warehouse appliance', '']
+Kawa Objects
+	Provider of technology platform that enable datacenter infrastructure such as POTS, PANS and SAN infrastructure. The company offers fault tolerance, availability, security and performance optimization for business applications regardless of what hardware infrastructure is used in the data centers.
+	['', 'technology platforms', ' decoupling ', 'infrastructure management', '']
+TrixBox
+	Distributor of Asterisk based software. The company is into Implementing, installing, managing and maintaining an Asterisk-based telephony system. It also provides web interface to manage and maintain PBX system.
+	['', 'Asterisk based software', ' ', 'Asterisk installer', ' ', 'PBX application platform', ' ', 'manage telephony system', '']
+CORDA Technologies
+	Provider of data visualization software used for tasks such as creating charts, maps, and graphs. The company also develops and sells charting/graphing tools. CORDA provides services through PopChart.com, an Application Service Provider helping high-volume sports and financial web sites display statistics with exciting, interactive charts and graphs.
+	['', 'visualization software', '']
+Wooboard
+	Operator of a cloud-based peer recognition platform. The company\'s platform builds up morale, productivity and team work by using social features and gamification design to drive every day engagement in the workplace.
+	['', 'peer recognition', ' ', 'smartphone application', ' ', 'employee recognition', '']
+Digital H2O
+	Provider of water management services. The company develops a cloud-based platform for the management of water in oil and gas operations.
+	['', 'cloud-based software', ' ', 'supply chain', ' ', 'oilfield water', '']
+Wix.com
+	Provider of a cloud-based web development platform. The company offers cloud-based templates for designing websites, without any coding knowledge required.
+	['', 'website building', ' ', 'web publishing platform', ' ', 'personalized website', ' ', 'customized website', ' ', 'website template', ' ', 'website design', '']
+Infochimps
+	Provider of data indexing platform. The company develops a cloud based software used for implementing data infrastructure.
+	['', 'data indexing', ' ', 'cloud based software', ' ', 'data infrastructure', '']
+MobileIron
+	Provider of a mobile IT platform to secure and manage mobile applications, documents and devices. The company’s cloud-based software enables end-users to access their applications and data anywhere on the device of their choice, as well as providing access security.
+	['', 'application management', ' ', 'document management', ' ', 'mobile device', ' ', 'mobile platform', '']
+Matchbox
+	Developer of custom-built enterprise iPad application that streamlines the university admissions process. The company develops a cloud based application that simplifies the admissions review process.
+	['', 'admission process application', ' ', 'admission review process', ' ', 'admission process streamlining', ' ', 'Educational Software', '']
+Memeo
+	Provider of data-management services. The company’s cloud-based software enables users to access files, protect and restore data and send large files securely. The product has applications for commercial and home-based users and can be used on mobile devices.
+	['', 'database management', ' ', 'data retrieval', ' ', 'restore data', '']
+GraphDive
+	Provider of a data analytic and personalization platform. The company provides online businesses with integrated social data from platforms such as Facebook to deliver insights into their users\' top interests and key demographic data- age, education, income and relationship status.
+	['', 'social data', ' ', 'e-commerce service', ' ', 'e-commerce content', ' API ', 'social API', ' ', 'data analysis', '']

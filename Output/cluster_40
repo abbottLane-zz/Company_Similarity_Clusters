@@ -1,21 +1,36 @@
-SwitchGear Genomics
-	Provider of products for studying gene regulation in the human genome. The company develops new insights into gene regulatory networks, allowing researchers to screen entire pathways in living cells.
-	['', 'human genome', ' ', 'gene regulation', ' ', 'gene regulatory networks', ' ', 'living cells', '']
-Arcion Therapeutics
-	Developer of pain therapy treatment. The company applies breakthroughs in neuroscience to advance the treatment of chronic pain. The company focuses on topical treatments to provide pain relief with convenient application and reduced systemic side effects.
-	['', 'diabetic neuropathy', ' ', 'herpetic neuralgia treatment', ' ', 'pain management', ' ', 'pain therapy treatment', '']
-Spinifex Pharmaceuticals
-	Developer of a new class of therapeutic for chronic pain management. The company\'s lead product shows a clinically meaningful reduction in pain in patients with postherpetic neuralgia, a debilitating condition that can follow shingles.
-	['', 'chronic pain', ' ', 'new drug candidate', ' ', 'postherpetic neuralgia', '']
-PeriphaGen (Formerly Diamyd)
-	Operator of a bio-pharmaceutical company. The company develops gene delivery products to treat and manage pain and peripheral nerve damage. Its pipeline also includes the treatment of chronic pain by NET drugs designed to block multiple pain pathways through the expression of various gene combinations.
-	['', 'neurological disorder', ' ', 'gene delivery products', ' ', 'nerve damage', ' nerve']
-Specialty Pharmaco
-	Provider of the antidepressant drug Cymbalta (duloxetine). The company\'s drug is used to treat major depressive disorder and general anxiety disorder, as well as some chronic pain disorders relating to diabetes and osteoarthritis.
-	['', 'anti-depressant', ' ', 'chronic pain', ' ', 'major depressive disorder', ' ', 'generalized anxiety disorder', '']
-Sherrington Pharmaceuticals
-	Developer of a pain treatment drug. The company develops chronic and refractory pain treatment for end-stage cancer patients and other severe pain indications.
-	['', 'end-stage', ' Resiniferatoxin ', 'chronic pain', '']
-Cephalon
-	Cephalon, Inc. is an international biopharmaceutical company dedicated to the discovery, development and commercialization of innovative products in four core therapeutic areas: central nervous system, pain, oncology and inflammatory disease. In addition to conducting an active research and development program, the Company markets seven proprietary products in the United States and numerous products in various countries throughout Europe and the world. The Company\'s most significant products are wakefulness products, PROVIGIL(r) (modafinil) Tablets and NUVIGIL(r) (armodafinil) Tablets. The Company\'s Central Nervous System disorders portfolio includes three FDA-approved and marketed products: NUVIGIL, for improving wakefulness in patients with excessive sleepiness associated with narcolepsy, OSA/HS and SWSD; PROVIGIL, for the same labeled indications as NUVIGIL; and GABITRIL, for use as adjunctive therapy in the treatment of partial seizures in epileptic patients. PROVIGIL improves wakefulness in patients with excessive daytime sleepiness associated with narcolepsy, and the Company has launched the product in the United States. GABITRIL is a selective gamma-aminobutyric acid, reuptake inhibitor approved for use as adjunctive therapy in the treatment of partial seizures in epileptic patients. The Company\'s pain therapeutics portfolio currently includes four marketed products in the United States. It markets AMRIX, a once-a-day, extended-release version of cyclobenzaprine hydrochloride, the active ingredient in the brand FLEXERIL(r). AMRIX is indicated for relief of muscle spasm associated with acute, painful musculoskeletal conditions. The Company also market three products, FENTORA, ACTIQ, and generic OTFC, which focus on treating breakthrough cancer pain in opioid-tolerant patients. FENTORA is indicated for the management of breakthrough pain in patients with cancer who are already receiving and are tolerant to opioid therapy for their underlying persistent cancer pain. ACTIQ is approved in the United States for the management of breakthrough cancer pain in opioid-tolerant patients. The Company\'s U.S. oncology portfolio includes two marketed products to treat patients with hematologic cancers: TREANDA, a bi-functional hybrid cytotoxic; and TRISENOX(r), an intravenous arsenic-based targeted therapy currently marketed in the U.S., as well as in Europe. TREANDA is a novel hybrid cytotoxic alkylating agent that differs from conventional compounds in its apparent multi-functional mechanism of action. In addition to killing cells by damaging their DNA and triggering apoptosis-which is typical of alkylating agents-researchers demonstrated that TREANDA also causes the disruption of cell division. Bendamustine hydrochloride, the active ingredient in TREANDA, is currently marketed in Germany by a third party for the treatment of NHL, CLL, multiple myeloma, metastatic breast cancer and other solid tumors. TRISENOX was approved for marketing in the United States and Europe in 2000 and 2002, respectively, for the treatment of patients with relapsed or refractory acute promyelocytic leukemia, a life threatening hematologic cancer. The Company markets and sells directly or through partnerships 30 different branded products in over 50 countries in Europe, the Middle East and Africa and have a strong presence in the five key European pharmaceutical markets: France, Germany, Italy, Spain and the United Kingdom, and affiliates in Benelux and Poland. The Company faces intense competition and rapid technological change in the pharmaceutical marketplace. The manufacture and sale of therapeutics are subject to regulation by U.S. and foreign governmental authorities. In particular, pharmaceutical products are subject to rigorous preclinical and clinical trials and other approval requirements.
-	['', 'nerve disorders', ' ', 'muscle spasm', ' ', 'sleep apnea cure', ' ', 'medicine and drug', ' ', 'multiple sclerosis', '']
+Arxan Defense Systems
+	Provider of an application protection and anti-tamper software to the federal market in the United States. The company provides security guard technology rooted in hardware.
+	['', 'anti-tamper', ' ', 'security guard technology', ' ', 'unauthorized change', ' protection']
+Sunglass Hut
+	Retailer of sunglasses. The company offer consumers branded products along with outstanding customer service, being located throughout the United States, Canada, the Caribbean, Europe, Australia, New Zealand, Hong Kong, Singapore, Middle East, South Africa and also through its online store.
+	['sun-wear sunglass sun-shades shade']
+Sipcall.com
+	Developer of innovative Session Initiation Protocol (SIP) based services. The company\'s products include Hipsip, a SIP service for mobile phone users in the United States and internationally.
+	['', 'Session initiation service', ' ', 'broadband connection', ' ', 'personalized phone number', ' ', 'telephone network', '']
+AdVentures
+	Operator of a media and music company. The company operates a national broadcast network in malls in the United States.
+	['', 'broadcast network', ' malls ', 'media and music', '']
+NuScale Power
+	Designer of electric light water reactor nuclear power plants for nuclear power generation applications in government and commercial sectors in the United States. The company offers single-unit systems and multi-module facilities.
+	['', 'small modular reactor', ' ', 'nuclear power plant', ' ', 'energy service', '']
+Rehab Associates
+	Provider of physical and occupational therapy services in owned and managed free-standing clinics and hospital departments. The company operates 37 points of service throughout the states of Alabama, Colorado, Georgia, Illinois and Missouri.
+	['', 'therapy service', ' ', 'free-standing clinics', ' ', 'occupational therapy', ' ', 'managed free-standing', '']
+TrueBlue
+	Provider of temporary workers to the light industrial, construction and small business markets in the United States and Canada. The company is an International provider of temporary blue-collar staffing.
+	['employment ', 'labor services', ' ', 'employment agencies', ' ', 'business training', '']
+Lightfull Foods
+	Producer of nutritious snacks. The company provides its products through grocery and natural foods stores in United States, as well as online. It also offers smoothies.
+	['', 'nutritious snack', ' ', 'healthy diet', ' ', 'online food store', ' ', 'healthy snacking', '']
+PetStuff
+	Operator of pet food stores. The company operates a pet supply superstores in the Eastern United States.
+	['', 'pet food', ' ', 'pet care', ' ', 'supply chain', '']
+Adina For Life
+	Producer of beverages in the United States. The company’s products include juice coolers, coffee and tea drinks, ingredients, and drink recipes.
+	['', 'manufacturing company', ' ', 'juice cooler', ' ', 'tea and coffee', '']
+Imperium Renewables
+	Producer of biodiesel from feedstock oils and glycerin, a by-product of biodiesel. The company operates BQ-9000®-certified biodiesel facilities in the United States.
+	['biodiesel ', 'clean energy', ' ', 'green energy', ' ', 'waste management', ' ', 'sustainable fuel', '']
+Adnexus Therapeutics
+	Developer of Adnectins biologics/medicines in the United States. The company\'s product candidates include Angiocept/CT-322, an anti-angiogenesis agent for treating cancer that blocks the VEGFR-2 pathway; and other Adnectin therapies for the treatment of oncology, immunology, and cardiovascular diseases.
+	['', 'drug discovey', ' ', 'anti-angiogenesis agent', ' ', 'treatment of oncology', '']

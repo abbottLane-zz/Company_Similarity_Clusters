@@ -1,69 +1,75 @@
-Andigilog
-	Provider of thermal management technology. The company develops sensor interface integrated circuits, temperature sensors, system controllers and brushless DC fan motor controllers. It provides fabless analog and mixed-signal IC.
-	['', 'thermal management', ' ', 'sensor interface circuit', ' ', 'temperature sensor', ' ', 'motor controller', ' ', 'fabless analog', '']
-Arctic Silicon Devices
-	Developer and seller of data converters. The company develops application specific mixed mode signal processing chips, modules, subsystems, integrated circuits, low power ADCs and AFEs.
-	['modules subsystems microwave IC']
-Maxim Integrated Products
-	Designer, manufacturer and seller of analog and mixed-signal semiconductor products. The company markets a range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a number of geographically diverse customers.
-	['', 'Mixed signal semiconductor', ' ', 'integrated circuits', '']
-Kailight Photonics
-	Developer of optical modules for the global telecommunications industry. The company’s components make it possible to upgrade the quality of signals at various points and to correct various distortions created in the signal. This extends the broadcasting range, expands bandwidth and improves signal quality in a given range.
-	['', 'optical module', ' ', 'fiber-optic infrastructure', ' ', 'bandwidth expansion', ' ', 'optical communication', '']
-Nevion
-	Provider of routing, signal processing and optical transmission equipment for broadcasters. The company operates a large media network covering entities like AT&T, Arqiva, BBC, BT, CCTV, EBU, TDF, Telefonica, Telenor and NASA.
-	['', 'optical transmission', ' routing ', 'media network', '']
-AccelChip
-	Provider of algorithmic synthesis solutions for digital signal processing (DSP) design. The company develops and markets design tools, integrated verification flows, and parametric intellectual property toolkits that automate the development and implementation of DSP algorithms in field programmable gate-arrays and application-specific integrated circuits
-	['', 'algorithmic synthesis solution', ' ', 'digital signal processing design', ' ', 'markets design tool', '']
-Neolinear
-	Developer of software for analog or mixed-signal silicon design. The company provides mixed-signal chips with integrated analog and digital circuitry for communications applications.
-	['', 'mixed signal silicon design', ' ', 'digital circuitry', ' ', 'communication application', '']
-Spirea
-	Developer of fabless semi-conductor. The company develops low-cost, integrated and low power radio products for the wireless local and personal area network markets, using CMOS design techniques for radio, mixed-signal and digital designs.
-	['', 'fable semi conductor', ' ', 'personal area network', ' CMOS ', 'digital design', '']
-AAC Technologies
-	Manufacturer of miniature acoustic and non acoustic components. The company is the manufacturer of micro component total equipments for communications and consumer electronics market.
-	['', 'acoustic component', ' ', 'micro component', ' ', 'consumer electronic', '']
-Global Communication Devices
-	Developer of fabless RF and mixed-signal ICs (integrated circuits) and RF and mixed-signal intellectual property (IP) cores for use in wireless and broadband networking. The company provides full-custom design, joint development, design consultation and manufacturing and testing services.
-	['', 'mixed signal IC', ' ', 'mixed signal intellectual property', ' ', 'joint development', ' ', 'design consultation', '']
-Nanoradio
-	Manufacturer of wireless semiconductor products for cellular handset and consumer electronics market. The company provides diagnostic tools and software development kits to design embedded applications. It\'s products are used in portable audio, stereo devices, handheld computing devices, wireless phones and mobile gaming platforms.
-	['', 'wireless solutions', ' ', 'cellular handsets', ' ', 'software development kits', ' ', 'portable audio', ' ', 'mobile gaming platforms', ' ', 'electronics market', '']
-Toumaz Technology
-	Developer of radio frequency, analogue and mixed-signal semiconductors. The company focuses on development of low power devices for mobile and wireless systems. The company was spun out of Imperial College.
-	['', 'semiconductors production', ' ', 'low power device', ' ', 'wireless systems', ' ', 'radio frequency', '']
-SnapTrack
-	Developer of wireless position location technology to determine the position of cell phones, pagers and other hand-held devices. The company develops chips with GPS signal processing ability which is built into handsets to track their locations.
-	['', 'global positioning system', ' ', 'wireless position location', ' ', 'signal processing chips', '']
-LifeSpex
-	Provider of accurate, rapid, and cost-effective products for the early detection of cancer. The company develops its new products by combining advanced biophotonic and state-of-the-art signal processing technologies.
-	['', 'cancer detection', '']
-Chipcon Group
-	Provider of wireless and Zigbee-compliance RF transceivers. The company manufactures fabless semiconductor that provides standard radio frequency integrated circuits.
-	['', 'fabless semiconductor', ' ', 'integrated circuit', ' transceiver']
-Pantec
-	Developer of mini motors.  The company develops software-controlled, piezo ceramic-based mini motors for the consumer electronics and automotive sectors.
-	['motor ', 'ceramic motor', ' ', 'software controlled motor', ' ', 'mini motor', ' piezo']
-Planet ATE
-	Supplier of fabless semiconductor for the manufacturers of automatic test equipment. The company manufactures "System on a Chip" (SoC) integrated circuits that combine all analog functions required to construct digital channel, DUT Power supply, PMU and VI.
-	['', 'Digital Channel', ' ', 'DUT Power Supply', ' PMU VI Semiconductor chips']
-Symwave
-	Developer of analog/mixed-signal connectivity solutions in the United States and internationally. The company offers physical layer, low power analog front end cores, integrated circuits (ICs), and semiconductor system solutions to distribute video, sound, photos, and data in the home, automobile, office, and factory; and USB hubs, card readers and mass storage devices, input/output, Ethernet and embedded networking devices, and in-vehicle networks.
-	['', 'analog signal connectivity', ' ', 'semiconductor system solution', ' ', 'embedded networking', '']
-Fresco Microchip
-	Developer of fabless semiconductor. The company develops radio frequency, mixed-signal and digital signal processing integrated circuits for the consumer electronics market.
-	['', 'integrated circuit', ' ', 'digital signal processing', ' ', 'radio frequency processing', '']
-Tropian
-	Developer of fabless semiconductors for wireless devices. The company develops complex, wireless communications technology, including multi-mode radio transceiver products for the cellular handset market.
-	['', 'wireless communication', ' ', 'fabless semiconductor', ' ', 'wireless devices', '']
-SliceX
-	Designer, developer and supplier of analog and mixed signal integrated circuits. The company develops ICs for consumer, communications infrastructure, video imaging, industrial equipment, automotive and medical applications.
-	['', 'analog integrated circuit', ' ', 'mixed signal IC', ' ', 'video imaging', ' ', 'communication infrastructure', ' ', 'power analog signal', '']
-Chameleon Systems
-	Provider of reconfigurable communications processors. The company offers reconfigurable communications processors for wireless infrastructure equipment manufacturers. The company\'s products include a reconfigurable processing (RCP) platform for the internet and a digital signal processing (DSP) platform.
-	['', 'communication processor', ' semiconductor']
-Accel Semiconductor
-	Developer and provider of analog and mixed signal Integrated Chips (IC). The company\'s product lines include consumer wireless communication chips and consumer electronics chips using deep submicron (0.18um or smaller) complementary metal-oxide semiconductor (CMOS) or BiCMOS technologies.
-	['', 'wireless communication chip', ' ', 'electronic chip', ' ', 'analog wireless communication', '']
+GoInstant
+	Developer of shared web-browsing tool. The company\'s unique co-browsing tool allows two or more people to surf the web at the same time with no downloads, plugins or installs. It helps to share a web experience in real- time.
+	['', 'shared web browsing', ' plugin ', 'web experience', ' ', 'browsing tool', ' ', 'web browsing', '']
+Allerez
+	Provider of web-based information, real-time and disparate data sources. The company integrates disparate data sources in real-time, providing user-centric reporting and analytics.
+	['', 'web based information', ' ', 'real time data', ' ', 'disparate data source', ' ', 'centric reporting', ' ', 'reporting analytic', '']
+Support Technologies
+	Manufacturer of automatic computer test equipment for use by firms designing, servicing and manufacturing electronic-based products. The company\'s products consisted of ROM emulator and diagnostic tester.
+	['', 'computer equipment', ' ', 'electronic products', ' ', 'test equipment', '']
+Cloudmetrx
+	Developer of real-time risk-return management technologies. The company provides real-time, cloud-based, mobile financial analytic services in the areas of portfolio management, risk analysis, and trading for asset management professionals.
+	['', 'risk return management', ' ', 'financial analytic', ' fin-tech ', 'financial software', '']
+Comenta TV
+	Operator of a real time social television guide for Latin America and Brazil. The company operates an online social platform which hosts real time television shows in Latin America and Brazil.
+	['', 'real time', ' ', 'television show', ' ', 'television guide', '']
+Flotype
+	Developer of real-time messaging technology. The company builds  developer-friendly technologies focused on ease-of-use and simplicity. It licenses its enterprise-grade middleware, Bridge, to customers ranging from social web and software enterprises to financial and fleet management groups. Other offerings include NowJS, a free, open-source framework, for developers seeking real-time interactivity on Node.js and JavaScript browsers; and NowCluster for companies seeking scalability for NowJS applications.
+	['', 'real time messaging', ' ', 'real time communication', ' ', 'enterprise grade communication', '']
+Koality
+	Provider of a continuous integration platform that parallelizes test suites, prevents broken builds and works behind firewall. The company\'s platform automatically parallelizes test suite across available virtual machines, manages parallelization and which eliminates nondeterministic test results.
+	['', 'integration platform', ' ', 'manage parallelization', ' ', 'development tool', '']
+Decision Team - Software
+	Developer and distributor of data-mining tools for workflow in the oil industry. The company is the provider of intelligent reservoir surveillance software called DECIDE!, which captures, analyzes and transforms historical and real-time production data into actionable operational decisions.
+	['', 'data mining', ' ', 'E&P sector', ' ', 'oil industry', ' ', 'real-time data', '']
+Tinkercad
+	Provider of an interactive simulation environment by a supercomputer. The company enables design engineers and analysts to run fidelity simulations in real time while interacting with their model. The product is cloud based with a browser interface.
+	['', 'interactive simulation environment', ' ', 'fidelity simulation', ' ', 'browser interface', '']
+Samplify Systems
+	Provider of compression algorithms for high speed sampled data systems. The company offers analog-to-digital converter ICs for applications in ultrasound front-ends, 4G wireless base stations, automated test equipment, and RADAR/SONAR receivers; and Samplify\'s Prism, a compression and decompression engine that solves I/O and storage bottlenecks in embedded systems. It also provides Samplify for Windows, a compression analysis tool that displays input and output file sizes and other relevant compression results, including compression ratio, dynamic range, noise floor and distortion levels, and a rate-distortion curve.
+	['', 'compression algorithm', ' ', 'sampled data system', ' ', 'compression analysis tool', ' ', 'analog to digital converter', '']
+Guide Technology
+	Developer of continuous time interval analyzer and high-precision frequency counter instruments. The company supplies production-scale CTIA-based timing measurement services, allowing semiconductor manufacturers to minimize timing-related failures and to reduce production test costs through test-time reduction and extending their ATE lifecycles.
+	['', 'time interval analyzer', ' ', 'frequency counter instrument', ' ', 'semiconductor support', ' ', 'information technology', '']
+Telogy Networks
+	Developer of asymmetric digital subscriber line semiconductors. The company\'s golden gateway software enables its customers to develop connected products that send real-time voice, fax and data over packet networks.
+	['', 'Asymmetric Digital Subscriber Line', ' semiconductors']
+Shepherd Intelligent Systems
+	Provider of real-time fleet management software services. The company offers a suite of software tools that provide real-time vehicle locations, predicted arrival times and route management analyses by using real-time GPS data to passengers and managers of public transportation and municipal systems.
+	['', 'fleet management', ' ', 'software solution', ' ', 'route management', ' ', 'municipal system', '']
+Wellness Indicators
+	Provider of a wellness screening test. The company develops and manufactures a dry urinary wellness test strip called The Health EquaterTM Assessment Profile t. The test is a first-to-market test screening for such biomarkers as oxidative stress, low-grade inflammation and total antioxidant capacity, which indicate levels of wellness. The product has applications for employers, insurers and governments.
+	['', 'wellness assessment', ' ', 'urinary wellness strips', ' ', 'test strips', ' wellness']
+Infoharmoni
+	Provider of data visualization services. The company aggregates content, people, relationships and express them visually in real time.
+	['', 'data visualization', ' ', 'visualization services', ' ', 'real time', '']
+Pop Tip
+	Developer of real time social feedback tool. The company develop brands, publishers and people analyze crowd conversation by making social data actionable. It also has its own dashboard that lets brands ask questions that are posted directly to Twitter. There is a front-end dashboard that can be seen by all followers to track the results of a poll they’ve participated in, while there’s a back-end dashboard catered to the brands, who can watch the answers come in real time.
+	['', 'publisher conversation', ' ', 'social data', ' ', 'crowd conversation', '']
+BioSig Technologies
+	Developer of clinical technology for diagnoses and treatments of abnormal heart rhythms. The company provides electrophysiologists to make crucial clinical decisions in real time by providing information unobtainable with any other equipment presently in the electrophysiology laboratory.
+	['', 'abnormal heart', ' ', 'electrophysiology', ' ', 'electrophysiology laboratory', '']
+Pintail Technologies
+	Developer of real-time adaptive test technology for semiconductor manufacturing companies. The company offers SwifTest, an on-line adaptive test modules that run directly on the automated test equipment (ATE), and capture and analyze data in real-time; and TestScape, an optional database system, which accepts data in real-time from SwifTest and supports various data management applications.
+	['', 'adaptive test technology', ' ', 'online adaptive test', ' ', 'database system', ' ', 'data management application', '']
+Nusym Technology
+	Provider of verification closure solutions for electronic products manufacturing companies. The company provides functional verification EDA tool.
+	['', 'verification closure', ' ', 'electronic design automation', ' ', 'verification software', ' ', 'functional verification', '']
+ParStream
+	Developer of real-time database technology. The company\'s platform helps companies generate timely, actionable insights from IoT data by providing new and differentiated ways to analyze streaming and historical data.
+	['', 'graphic processing unit', ' ', 'hybrid network architecture', ' ', 'web analytics', ' ', 'real time', '']
+InPhase Technologies
+	Developer of holographic data storage recording media and systems. The company also provides a range of holographic recording materials, test equipment and consulting services for research and development organizations. The company offers its products for film and television studios, corporate enterprises, and medical institutions.
+	['', 'holographic data', ' ', 'media and system', ' ', 'holographic recording', ' ', 'film studios', ' ', 'television studios', ' ', 'computer hardware', ' ', 'electronic components', '']
+Celebrus Technologies
+	Provider of customer intelligence tracking. The company is the creator of tag-free software enabling businesses to analyze customer interactions with their digital channels in real time. The technology is designed to build a complete picture of individual customers, and using the data to drive real-time personalization, one-to-one communications, cross-channel marketing, campaign optimization and fraud detection.
+	['', 'customer analytics', ' SaaS ', 'intelligence tracking', '']
+TurbiSense
+	Provider of in-line real time turbidity measurement equipment for the pharmaceutical industry and related applications. The company\'s equipment assists in accurately measuring liquids with air bubbles.
+	['pharmaceutical ', 'turbidity measurement', ' robot']
+ART Healthcare
+	Developer of tube-feeding technology for the heatlhcare sector. The company is creating a new technology for enteral nourishment of patients. The system includes physiological monitoring and real-time prevention of aspiration pneumonia.
+	['', 'physiological monitoring', ' ', 'enteral feeding', ' enteral ', 'tube feeding', '']
+Oxford Immunotec Global
+	Manufacturer and marketer of T Cell based diagnostic test products and services for the laboratories and clinicians. The company\'s product is the \'T-SPOT.TB\' test, the new cellular blood test for the detection of active and latent tuberculosis infection.
+	['', 'blood test', ' ', 'tuberculosis infection', ' ', 'blood sample', ' ', 'tuberculosis diagnosis', '']

@@ -1,27 +1,15 @@
-GetBack Media
-	Provider of an online community for sharing pop culture. The company collects music, movies, TV shows, games, and novelties.
-	['', 'entertainment community', ' ', 'pop culture marketplace', ' ', 'online media content', '']
-AudioMicro
-	Provider of a network of digital content licensing marketplaces. The company sells user-generated digital audio content online. It enables composers, songwriters, musicians, independent bands, sound designers and audio engineers to upload and sell their micro stock music, sound effects, music cues, production music and production elements.
-	['', 'digital content', ' ', 'online marketplace', '']
-Listiki
-	Provider of an online real-time data services. The company creates and shares collaborative lists. It offers lists of favorite stuff, groceries shopping, games and songs.
-	['groceries ', 'favorite stuff', ' collaborative']
-Tapely
-	Operator of a music sharing platform. The company creates and shares music mixtapes online. It enables users to upload, store, share and listen music tracks.
-	['', 'music sharing', ' mixtapes upload']
-Soundwave
-	Developer of a mobile music-discovery application. The company’s software enables users to listen to and share their music with other users, as well as tracking geographically what other users are listening to on their devices. Users can draw a circle with their finger over any area of interest on the Soundwave music map, and instantly see the top-played and most recently played songs there. An activity feed enables users to instantly see the songs that the people they are following are playing, as they play them.
-	['', 'music platform', ' ', 'music search', ' ', 'music application', ' ', 'discovery music', ' ', 'area music', ' ', 'real time search', '']
-LearnShark
-	Developer of a platform for companies to capture, track, and share learning across their organization. The company has built social software that allows users to upload web links, files from DropBox, GitHub, Evernote and other services so that employees can connect with one another over content.
-	['', 'IT Services', '']
-ClipClock
-	Operator of a video sharing platform. The company allows users to collect, edit and share the best clipped video moments.
-	['', 'video sharing platform', ' ', 'video sharing', ' ', 'online video editing', ' ', 'online video sharing', '']
-Mixwit
-	Provider of a music creation and sharing platform. The company allows users to create their own personalized digital mixtape with songs found on the internet and embed that mixtape on their blog, facebook, myspace and other sites.
-	['mixtapes ', 'music tapes', ' mixing']
-Semetric
-	Provider of analytics and trend forecasting for the music industry. The company tracks online trends in music and makes the data available to those working in the music industry. The data covers activity on social media, mentions and sentiment on news and blogs, sales and file sharing activity on the BitTorrent network.
-	['', 'trend forecasting', ' ', 'online music tracking', ' ', 'data tracking', ' ', 'download tracking', '']
+Haystack Labs
+	Developer of computer intrusion detection software. The company develops a large database of known attacks and misuses thus protecting web users against dangerous connections.
+	['', 'software company', ' ', 'cyber security', ' ', 'monitoring software', '']
+Omegaon Networks
+	Developer of computer program to identify problems in computer networks. The company develops a software system permitting quick and continuous identification of difficulties and interruptions in the various communications networks.
+	['', 'computer program', ' ', 'software system', ' ', 'communication network', '']
+Armorize Technologies
+	Provider of a cloud-based anti-malware products. The company develops next generation technologies that protect businesses from attacks such as Advanced Persistent Threats, targeted email attacks, malicious documents, malvertising, Web malware and website intrusions.
+	['', 'web security', ' ', 'web scanning', ' ', 'web malware monitoring', '']
+IntruVert Networks
+	Provider of network-based intrusion prevention software. The company\'s intrusion detection system sensor appliances include IntruShield 4000 and the IntruShield 2600, which provide the performance and functionality required to protect networks. It\'s management system, IntruShield Security Management, manages IntruShield sensor appliance deployments for enterprise networks.
+	['', 'intrusion prevention', ' ', 'security management', ' ', 'intrusion detection', ' ', 'network protection', ' ', 'sensor appliance deployment', '']
+Nimble VR
+	Developer of a computer interface that reads physical gestures. The company is developing a computer vision technology that provides 3-D, 10-finger dexterous control and is designed to run in the background all day. The company\'s API is open, enabling users to write software in any language that takes advantage of it.
+	['', 'computer interface', ' ', 'computer vision', ' ', 'three dimensional camera', ' ', 'hand-tracking system', '']

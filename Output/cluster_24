@@ -1,42 +1,48 @@
-DOCLIX
-	Developer of pay-per-click advertising network. The company offers an online platform that delivers text advertisements within a controlled environment of quality content sites for advertisers as well as allows content publishers to customize the presentation of advertisements on their sites and to create new advertisement placements on under-monetized sections of each page or site.
-	['', 'advertising network', ' ', 'online platform', ' ', 'quality content', ' ', 'text advertisement', '']
-Wunderloop
-	Provider of an integrated targeting services to target specific demographics online. The company offers wunderloop custom solution, a multi tasking and online marketing application; and wunderloop connect, an open marketplace for targeted online advertising that unites advertisement displays and open advertising inventory. It offers its solutions for advertisers, corporate sites, agencies, publishers, and online shops.
-	['', 'demographics online', ' ', 'custom solution', ' ', 'online marketing', ' ', 'online advertising', ' ', 'online shop', ' ', 'open marketplace', '']
-Fivia
-	Provider of automated inventory, order and billing management software designed originally for online advertising. The company’s software product manages the workflow of major sell-side advertising publishers to maximize the value of their digital advertising inventory.
-	['', 'automated inventory', ' ', 'billing management software', ' ', 'online advertising', '']
-Authenticlick
-	Operator of a web analytics company. The company specializes in web traffic intelligence services for online advertising optimization. It provides pay-per-click advertising audit and fraud detection technology and offers various services like identifying, verifying, documenting, scoring low quality click activity and helping to secure equitable refunds and credits.
-	['', 'campaign services', ' ', 'web analytic', ' ', 'ROI optimization', '']
-Sportgenic
-	Owner and operator of a men\'s vertical sports Web advertising network that connects advertisers with sports enthusiasts. The company offers a software-driven media planning tool that enables marketers to plan, build, buy, and manage integrated campaigns across various media types.
-	['', "men\\'s sport", ' ', 'sport advertising', ' ', 'advertising network', ' ', 'media planning', ' ', 'marketing campaign', ' ', 'sport marketing', '']
-ShopLocal
-	Provider of multi-channel shopping and advertising services. The company offers a suite of solutions that connect advertisers and consumers online and in-store. Its solutions include an interactive and rich media banner ad that automatically delivers the clients locally versioned offers across the Web; a localization engine that distributes versioned local promotions and deals across various mediums; and an online circular advertising service that converts locally versioned ads into an online circular that shopper can view on their site.
-	['', 'multi-channel shopping', ' ', 'advertising service', ' ', 'online in-store', ' ', 'rich media banner', ' ', 'localization engine', ' ', 'online circular advertising', '']
-AdScale
-	Provider of a marketplace for online advertising in Germany. The company offers traditional display advertising and special forms of advertising via video advertising and text ads to advertisers and website owners. The company also offers publishers and marketers a tool for controlling inventory use.
-	['', 'online advertising', ' ', 'online marketplace', ' ', 'video advertising', '']
-Gourmetage
-	Operator of a chain of alcohol retail stores in Germany. The company offers dishes, wines, champagne, whisky, spirits and accessories.
-	['spirits dishes whisky']
-NebuAd
-	Provider of online advertising solutions. The company’s behavioral advertising solutions help advertisers, publishers, and service providers.
-	['', 'online media', ' ', 'advertising solution', ' ', 'behavioral advertising', ' ', 'behavioral targeting', '']
-Smartclip Holding
-	Provider of a network platform that enables advertisers and agencies to expand their TV campaigns to the Internet. The company delivers video advertising across various platforms, such as mobile devices, TV screens and computers. It provides various tools that enable advertisers to reach, engage and persuade their audience.
-	['', 'network platform', ' ', 'online video advertising', ' ', 'advertising network', '']
-AdGrok
-	Provider of Internet advertising solutions for business owners. The company offers GrokBar, a Web-based platform that enables users to bid for keywords, compose text ads, and monitor traffic; and GrokBot, a Web spider that crawls into Websites looking for product pages and builds keyword campaigns.
-	['', 'Internet advertising', ' ', 'online advertising', ' ', 'text ad', ' ', 'online traffic', ' ', 'keyword campaign', ' ', 'keyword bidding', '']
-EyeWonder
-	Provider of online video and rich media advertising products and services. The company offers advertising formats including video and rich media, in-page to transitional, in-game to in-application, video ads, rich media ads, and custom site ads; and advertising features, such as video features, mobile features and creative features.
-	['', 'media advertising product', ' ', 'online video', ' ', 'rich media advertising', '']
-Webnext
-	Operator of an online publisher and advertising network. The company offers networking services to publishers and advertising industry.
-	['', 'advertising network', ' ', 'networking service', ' ', 'publisher web', '']
-Kontera
-	Provider of an in text advertising and information. The company provides ContentLink, an in text advertising service that identifies contextually relevant keywords on a publishers web page, as well as matches them to relevant advertisements and information. It offers intext pay per click and web site advertising service.
-	['', 'text advertising software', ' ', 'text engine', ' semantic']
+BBR Wireless Management
+	Provider of wireless management products and services. The company offers CELLector tool, software for wireless optimization and auditing, wireless asset tracking, monthly management, and Web-based reporting.
+	['', 'wireless management', ' ', 'wireless asset tracking', ' ', 'web-based reporting', '']
+McAfee Wireless Security
+	Provider of Wi-Fi security tools for wireless networks. The company\'s products include wireless security, wireless guard, wifiscan and WPA software.
+	['', 'Wi-Fi security', ' ', 'wireless guard', ' ', 'wireless security', '']
+Connection Services
+	Provider of Wi-Fi Services. The company provides enabling technology to the wireless service businesses of major telecommunications companies.
+	['', 'Wi-Fi Services', ' ', 'wireless service', ' telecommunications']
+Antcor
+	Provider of Wi-Fi software products and services. The company provides LTE simulation and emulation products and services to the broadband wireless access market. Its product IkarusOS is a network operating system for broadband wireless networking devices which integrates wireless and networking functions.
+	['', 'wireless connection', ' ', 'broadband service', ' ', 'wireless networking', '']
+Armida Technologies
+	Provider of wireless surveillance system to improve video quality over wireless networks. The company develops software and hardware that delivers streaming video over wireless networks for commercial, industrial and government customers.
+	['', 'video streaming', ' ', 'wireless networks', '']
+MetroFi
+	Designer of Wi-Fi Internet networks and wireless broadband services. The company partners with city governments, local business advertisers, Internet service providers and other companies to deliver wireless broadband service to the communities in which it operates.
+	['', 'Wi-Fi internet', ' ', 'broadband service', ' ', 'wireless broadband service', '']
+Junxion
+	Provider of managed 3G wireless cellular router solutions for enterprise and government customers in the United States. The company\'s Junxion Box wireless WAN routers provide computing devices, such as laptops, desktops, handhelds, POS systems, ATM machines, and remote security cameras with access to data services from wireless carriers. Its Junxion Platform firmware includes the drivers and tools to connect with wireless PC card modems, as well as supports wireless carrier networks and PC card modems; and the cellular data service technologies from wireless carriers. It offers Field Commander remote management for customers to monitor, configure, and update fleets of Junxion Boxes or single units in the field; and Junxion Complete, a solution program for virtual installations in the United States. It offers Junxion Firmware for GPS location information, Verizon PC Card modem, firmware updating, DNS over ride, broadband cellular networks. It offers its products for data connection redundancy, landline replacement, M2M/telemetry, portable networks, remote security, landline fail-over, mobile fail-over, public transit/security, private transit, public/private transit, and fleet vehicles applications.
+	['', 'cellular router solution', ' ', 'land line replacement', ' ', 'portable network', ' telemetry']
+Radionet
+	Provider of products and technology for large-scale outdoor wireless networks. The company develops solutions for citywide Wireless Hotzones and community networks, mobile broadband solutions for industrial applications such as ports and mines, and link solutions for wireless backhaul and building-to-building links.
+	['', 'broadband networks', ' ', 'Power Utilities', ' broadcasts city-wide']
+Bluegiga Technologies
+	Developer and provider of short range wireless connectivity products and technologies. The company offers bluetooth modules, Wi-Fi modules, and bluetooth network access devices to OEMs and system integrators in various sectors.
+	['', 'connectivity product', ' ', 'bluetooth module', ' ', 'wireless connectivity product', '']
+Technology Brothers
+	Provider of wireless and networking solutions. The company provides enterprise wise wireless telecommunications carriers.
+	['', 'telecommunication carriers', ' ', 'wireless telecommunications', '']
+G2 Microsystems
+	Developer of Wi-Fi system-on-chip modules and networking applications. The company\'s application is used for asset tracking applications in healthcare, oil, gas, chemical, government, automotive industries, wireless sensing applications in enterprises, retail outlets, factories, warehouses and in consumer devices, such as media players, gaming platforms, digital cameras, remote controls, headsets and computer peripherals.
+	['', 'wi fi system', ' ', 'networking application', ' ', 'asset tracking', '']
+Network Chemistry
+	Provider of wireless security. The company provides RFprotect Mobile, a portable analysis product that enables network designers and security personnel to design, analyze and secure wireless networks.
+	['', 'Wireless Security', '']
+connectBlue
+	Provider of bluetooth services for industrial and commercial applications. The company offers industrial-grade short range radio modules supporting popular Classic Bluetooth, Bluetooth low energy and Wi-Fi standards.
+	['', 'bluetooth service', ' ', 'industrial application', ' ', 'wireless communication', '']
+Starburst Communications
+	Developer of multicast applications over data networks. The company provides methods for information delivery over data networks of all kinds, including WAN, LAN,satellite, wireless or any combination forming an internetwork.
+	['IP Multicast ', 'multicast file transfer protocol', '']
+4DK Technologies
+	Developer of interoperability services for wireless networks and devices. The company provides wireless technology products, professional and strategy services to telecom operators and infrastructure vendors.
+	['', 'interoperability service', ' ', 'wireless network', ' ', 'wireless device', '']
+Go Networks
+	Provider of broadband wireless access services for indoor and outdoor deployments. The company offers micro cellular Wi-Fi sector base stations, Pico cellular Wi-Fi base stations, wireless media gateways, wireless network controllers and network management systems. It also has a research and development center in Israel.
+	['', 'broadband wireless access', ' ', 'wireless network controller', ' ', 'network management system', '']

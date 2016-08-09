@@ -1,27 +1,39 @@
-Roomtag
-	Developer of a space management software. The company provides a web-based space management software that enables facility and office managers to track people, space and assets.
-	['', 'space management', ' ', 'office software', ' ', 'facility management', '']
-eQuilibrium Solutions
-	Developer of energy management software.
-	['', 'energy management', ' ', 'energy software', '']
-BuildingIQ
-	Provider of an energy management software. The company\'s software platform forecasts energy demand and automatically adjusts a building’s HVAC settings to optimize energy use.
-	['', 'energy management', '  ', 'building energy management', ' ', 'energy efficiency', '']
-Procite
-	Provider of information reference management software. The company has developed a software which give users flexibility to manage special collections and create unlimited work-forms.
-	['', 'management software', '']
-intelligent views
-	Provider of database management software. The company provides a software to manage vast heterogeneous databases and joins related pieces of information to discover hitherto unrevealed and unrelated knowledge.
-	['', 'data mining', ' ', 'heterogeneous platform', ' knowledge']
-Mission Critical
-	Developer of system management software. The company develops and markets enterprise level system management software.
-	['', 'system software', ' ', 'Business software', '']
-MAXM Systems
-	Developer of management software. The company develops network management software and is based in McLean, Virginia.
-	['', 'enterprise automation software', ' ', 'network management', '']
-Datapult
-	Provider of enterprise energy management (EEM) services. The company provide web-based applications that are used to collect and analyze energy usage information, monitor power quality, engage in load management, conduct rate modeling and tariff comparisons, and dispatch distributed generation capabilities.
-	['', 'enterprise management', ' ', 'web based application', ' ', 'power quality', ' ', 'load management', ' ', 'rate modeling', ' ', 'tariff comparison', '']
-Mortice Kern Systems
-	Developer of configuration management software. The company provides configuration management software which can be integrated in late design cycle.
-	['', 'configuration management software', ' ', 'late design cycle', ' ', 'Application Software', '']
+UniPress Software
+	Provider of software solutions for managing web-based help desk and support automation functions. The company also provides professional services such as consulting, support, and training.
+	['', 'software solution', ' ', 'automation function', ' ', 'professional service', '']
+IL&FS Transportation & Networks
+	Developer of surface transport infrastructure projects. The company constructs and operates national and state highways, roads, flyovers and bridges, as well as metro rail, bus transportation and border entry points.
+	['infrastructure ', 'infrastructure projects', ' transport ', 'surface transport infrastructure projects', '']
+Solid Information Technology
+	Provider of proprietary database products. The company also provides various consulting services, which include technical assessment, proof of concept and database and application migration services.
+	['', 'database products', ' ', 'business consulting', ' ', 'application migration service', '']
+E Team
+	Provider of professional services and information management solutions. The company also provides services, such as assessments, pre-implementation prep, life-cycle implementations, post implementation support, mentoring/training, project insourcing, contingency staffing, human capital hiring, and contract to hire. In addition, it offers services, which include industry/technology advisory, projects services, project insourcing, component outsourcing, contingency staffing, customized training, human capital hiring, and contract to hire.
+	['', 'professional service', ' ', 'information management solution', ' ', 'project insourcing', ' ', 'contingency staffing', '']
+TellSell Consulting
+	Operator of a sales-consulting company with a focus on the German market. The company specializes in new business development and models, sales consulting and optimization and customer processes.
+	['', 'management consultancy', ' ', 'consulting firm', ' ', 'management advice', '']
+SOFTLINE
+	Provider of IT services. The company specializes in software licensing and provides a full range of IT services relating to training, consulting, technical and legal support, and IT outsourcing.
+	['', 'IT services', ' ', 'IT training', ' ', 'Software licensing', '']
+Control Group
+	Provider of consulting, outsourcing and managed-services. The company offers services such as strategy, design, development, implementation and support. It specializes in technology services for architects, designers, publishers, financial, legal and professional services firms.
+	['', 'on site support', ' ', 'remote support', ' CAD ', 'work flow service', ' ', 'IT outsourcing', '']
+Tedopres International
+	Provider of content management services and software for technical documentation. The company by means of systematic text analysis, efficient visualization, technical illustration and applied information management supports clients in managing all aspects of their information process. The company specializes in controlled authoring, technical translations, technical illustrations and software development.
+	['', 'content management', ' ', 'technical documentation', ' ', 'technical translations', '']
+NFi Studios
+	Provider of web technology that connects member & industry communities. The company\'s technology provides professional networking for associations, builds relationships, drives businesses and connects members.
+	['', 'web platform', ' ', 'member community', ' ', 'social technology', '']
+Particle Programmatica
+	Operator of a consulting company that specializes in web applications and marketing projects. The company provides professional services in concept work, visual design and technical implementation.
+	['', 'web applications', ' ', 'professional services', ' ', 'marketing projects', '']
+AD PathLabs
+	Provider of infrastructure and technical services to the anatomic pathology community.
+	['', 'anatomic pathology', ' ', 'pathology infrastructure', ' ', 'pathology technology', '']
+RealLife HR
+	Provider of outsourced benefits management automation services. The company provides a suite of Web-applications and professional services that facilitate employee benefits communication, enrollment and ongoing administration.
+	['', 'benefit management', ' ', 'outsourcing automation management', ' ', 'employee enrollment management', ' ', 'benefits management', ' ', 'employee benefits', '']
+Content Critical
+	Provider of content management, transaction processing and custom middleware technologies. The company provides compliance messaging and reporting solutions, such as composition and rendering solutions for institutions that require distribution of compliance documents. It also provides professional services, such as programming and development, Web development, graphic design and prepress; production services, including digital print, wide format output, mailing and fulfillment, commercial print and binding and finishing; and online support and client services.
+	['', 'compliance messaging', ' ', 'graphic design', ' ', 'digital printing', '']

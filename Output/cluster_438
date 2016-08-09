@@ -1,15 +1,18 @@
-Grenslandhallen
-	Provider of event management services. The company offers spaces and accommodation for events such as concerts, theatrical productions, fairs and exhibitions.
-	['', 'event management', ' ', 'concert shows', ' ', 'live shows', ' ', 'event faculties', '']
-The HUB Brussels
-	Provider of co-working spaces. The company provides coworking spaces, events on social innovation and professional tools that help members reach their goals.
-	['', 'knowledge sharing', ' ', 'event space', ' ', 'user friendly', '']
-Gladiator Entertainment
-	Provider of theatrical acts on stories based on gladiators. The company offers entertainment to tourists by displaying battles based on gladiator stories in an authentic arena.
-	['', 'theatrical acts', ' theatrical acts gladiator']
-Exponaute
-	Operator of an online platform for information and services on exhibitions in Paris, France, Belgium and Switzerland. The company offers news about exhibitions and museums, photos and video previews, and direct access to purchase tickets and catalogs. Visitors also can register through social media, choose their favorite museums, and create calendars of exhibitions.
-	['exhibitions ', 'information service', ' ', 'social platform software', ' ', 'online patform', '']
-nTAG Interactive
-	Provider of event data management solutions for the meetings and event industry. The company offers nTAG, an event data management system that facilitates business networking, makes presentations, automates lead capture, enabling exhibitors and sponsors to collect information, supports real-time event management, allowing meeting planners to closely monitor activities, and instantly send messages to staff and meeting participants and provides reporting and ROI analysis to compare results against objectives to determine whether the meeting was worth the investment. It also offers event sponsorship services, as well as pre-event planning, on-site execution and post-event follow up services.
-	['', 'data management solution', ' ', 'business networking', ' ', 'ROI analysis', '']
+CyMed
+	Provider of medical transcription and document management services. The company offers workflow management services which enables a department\'s workflow with  hand-helds, bar coding, electronic signature, HIPAA compliant access protocols, audit trails, voice capture systems and transcription software.
+	['', 'medical transcription', ' ', 'workflow management', ' ', 'quality control', '']
+Probity Medical Transcription
+	Provider of clinical documentation services and integrated technologies to healthcare providers. It provides electronic medical transcription and document management services to the health care industry.
+	['', 'clinical documentation', ' ', 'healthcare integrated technology', ' ', 'electronic medical transcription', ' ', 'document management', '']
+Heartland Information Services
+	Provider of medical transcription services to hospitals and health care systems. The company offers full-service transcription and technical capacity to work with any healthcare information system.
+	['', 'medical transcription', ' ', 'health care', ' ', 'information system', '']
+Hospital Management Associates
+	Operator of acute-care medical hospitals in the U.S. The company partners with mid-size communities and local hospital leaders, physicians and caregivers throughout the United States to operate leading community hospitals and health systems.
+	['Healthcare ', 'Hospital Operation', ' ', 'Healthcare Quality', '  acute-care']
+Accelion
+	Provider of management services for hospitals and health systems. The company partners with hospitals and health systems to optimize the performance of home-care agencies.
+	['', 'home health service', ' ', 'infusion pump', ' ', 'pharmacy technician', ' ', 'home care service', '']
+CMHC Systems
+	Provider of behavioral healthcare information management software. The company delivers full suites of behavioral healthcare information management software for mental health, substance abuse and addiction services agencies, developmental disability centers and behavioral health-related managed care organizations.
+	['', 'healthcare information', ' ', 'mental health', '']

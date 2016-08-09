@@ -1,24 +1,15 @@
-Commercetools
-	Provider of cloud based e-commerce services. The company develops and operates as an e-commerce service for small businesses offering all the important trading functions as a programming interface, enabling cross-channel e-commerce.
-	['', 'cloud software', ' ', 'e-commerce software', ' ', 'commercial tool', '']
-VARStreet
-	Provider of specialized e-commerce services. The company offers E-Commerce Platform features several modules that include E-Commerce, Quoting, Sourcing, and Marketing.
-	['', 'e commerce platform', '']
-e2e (ecommerce)
-	Provider of e-commerce platform. The company provides e-commerce service for logistics, marketing and technology.
-	['', 'electronic commerce', ' ', 'online shopping', ' plataforma']
-Mixcommerce
-	Provider of e-commerce services for brands. The company focuses on the creation and production of websites for customers and the management of online sales.
-	['e-commerce ', 'online sales', ' ', 'online sales', ' e-marketing merchandising']
-Eliance
-	Provider of back office e-commerce services to the web businesses. The company provides esurcing (TM) services to web businesses to outsource their e-commerce back-office activities.
-	['', 'financial software', ' ', 'e-commerce servces', '']
-Loveyewear
-	Operator of an e-commerce platform for selling eye-wear. The company offers branded glasses and sunglasses in Sweden.
-	['eye-wear eyewear glasses sunglass ', 'online eyewear store', '']
-Resolution
-	Provider of e-commerce solutions that offers services like marketing, e-commerce management, logistics and fulfillment, product development and "on demand" manufacturing. The company initially began as a media manufacturing and distribution company. The company offers services that enable clients to enhance their revenues with minimal investments and expertise.
-	['', 'e-commerce solution', ' ', 'product development', '']
-Transactiv
-	Provider of an on demand commerce services for mid market companies. The company provides tools that allow companies to engage and manage both indirect and direct channels and deliver commerce capabilities and analytics across websites, micro-sites, Facebook, eBay, Amazon and any mobile client.
-	['', 'online commerce', ' ', 'on-demand commerce', ' ', 'commerce analytics', '']
+Garage Sallaberry
+	Provider of automobile repair services. The company engages in the maintenance, repair and servicing of automobiles. The company also provides towing services for cars in the event of a breakdown.
+	['', 'repair services', ' ', 'breakdown services', ' ', 'towing services', ' garage']
+David Holmes BMW
+	Dealer of automobiles. The company sells Bayerische Motoren Werke (BMW) and Mini Cooper cars.
+	['', 'car dealer', ' ', 'car servicing', ' ', 'car showroom', ' ', 'Consumer Product', '']
+Pantec
+	Developer of mini motors.  The company develops software-controlled, piezo ceramic-based mini motors for the consumer electronics and automotive sectors.
+	['motor ', 'ceramic motor', ' ', 'software controlled motor', ' ', 'mini motor', ' piezo']
+SNRLabs
+	Developer of software for smart phones and mini laptops. The company offers SNRLabs Convergence Manager, a software that incorporates multiple radios, such as GSM and WiFi, WiMAX and WiFi and 3G and WiFi.
+	['', 'smart phone software', ' ', 'mini laptop software', ' ', 'multi radio device', ' ', 'mobile software', '']
+Vectrix Corporation
+	Developer and seller of two-wheeled electric vehicles (EVs). The company designs and sells zero-emission scooters with applications for riders in urban, campus and neighborhood environments. The company sells its products in the European and U.S. markets.
+	['', ' electric vehicles', ' scooter EV']

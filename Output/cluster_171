@@ -1,57 +1,78 @@
-Sepro Telecom International
-	Developer and provider of rating and billing software. The company develops rating and billing software for telecommunications and electronic commerce industries.
-	['', 'billing software', ' ', 'electronic commerce', ' rating']
-Danyl
-	Manufacturer of electronic data collection which input to computerized accounting systems. The company also produces self-service electronic transaction systems with magnetic stripe cards.
-	['', 'electronic data collection', ' ', 'electronic transaction', ' ', 'magnetic stripe card', '']
-CheckFree
-	Provider of electronic commerce services. The company provides electronic billing and electronic statement creation, delivery, payment services and also offers electronic commerce, software and investment services.
-	['', 'e-billing', ' ', 'e-commerce', '']
-NetBuy
-	Provider of e-commerce purchasing services. The company provides services for OEMs, contract manufacturers and electronic manufacturing services whose real-time requirements for electronic components typically include small order, shortage and quick-turn manufacturing.
-	['', 'electronic components', ' ', 'purchasing service', ' ', 'contract manufacturers', ' ', 'online purchasing', ' ', 'internet retail', '']
-Alpha Mos
-	Manufacturer and developer of electronic sensing instruments for analyzing the chemical and sensory properties of products. The company\'s electronic noses measure volatile organic compounds (VOC) and odors, electronic tongues analyze the taste of products, vision analyzers evaluate the color and shape and Gas chromatographs analyze the chemical composition of products and coupled with the odor analysis module, can further qualify odor-related compounds.
-	['', 'electronic sensing instrument', ' ', 'electronic nose', ' ', 'electronic equipment', '']
-TeleKnowledge Group
-	Provider of e-commerce services offering customer care and electronic billing. The company provides content commerce platform for fee based services such as customer service and billing applications.
-	['', 'revenue growth', ' billing ', 'electronic billing', '']
-Atrenta
-	Provider of realization services for the semiconductor and electronic systems industries. The company designs and develops a system on chip that pinpoints structural, coding and consistency problems in register transfer language (RTL) and enables users to fine tune testability during RTL creation.
-	['', 'electronic system', ' ', 'electronic equipment', ' ', 'register transfer language', '']
-ShopIgniter
-	Provider of electronic commerce software services. The company\'s social performance marketing platform enables digital marketing leaders to reach and convert their social mobile consumers.
-	['', 'internet retail', ' ', 'electronic commerce', ' ', 'software service', '']
-Profile Systems
-	Developer of product data and supply chain management solutions for business-to-business electronic commerce. The company also offers extensive consulting services, including product data cleanup, supplier enablement/assessment, inventory consulting and overall electronic commerce and supply chain scoping projects.
-	['e-business ', 'supply chain management', ' SCM']
-ShopLocket
-	Provider of electronic commerce platform. The company allows users to create single-item storefronts they can embed on any website.
-	['', 'electronic commerce', ' ', 'link sharing', ' ', 'video embedding', ' ', 'online sale', ' ', 'ecommerce platform', '']
-Fiserv
-	Provider of information management and electronic commerce systems and services. The company\'s services include transaction processing, electronic bill payment and presentment, business process outsourcing, document distribution services and software development.
-	['', 'information management', ' ', 'electronic commerce systems', ' ', 'transaction processing', '']
-PartMiner Worldwide (CAPS Business)
-	Supplier of electronic components for the electronics industry.
-	['', 'electronic component', ' ', 'electronic tool', ' ', 'electronic component database', ' ', 'equipment manufacturer', '']
-Securant Technologies
-	Developer of software solutions that provide a solid, integrated security infrastructure for electronic commerce. The company\'s software enables companies to easily manage a cohesive security policy required when deploying secure electronic commerce applications on the Web or across an Enterprise.
-	['eBusiness ', 'security software', ' ', 'electronic commerce', '']
-Trivnet
-	Provider of mobile payment and mobile commerce services. The company enables payment and commercial services offered by operators and service providers, allowing a rapid rollout of profitable offerings with a minimal investment.
-	['', 'mobile financial service', ' ', 'mobile payment', ' ', 'mobile commerce', ' ', 'mobile money transfer', '']
-ThorpeGlen
-	Provider of electronic surveillance services. The company provides monitoring and tracking systems, data extraction and analytical services for law enforcement agencies.
-	['', 'proactive monitoring', ' ', 'data extraction', ' ', 'homeland security', ' ', 'organized crime', ' faruds']
-EC Cubed
-	Provider of the application components for the business-to-business electronic commerce marketplace. The company provides the cross-application components platform that allow organizations to build electronic-commerce applications.
-	['', 'electronic commerce', ' ', 'cross-application', ' ', 'electronic commerce', '']
-Printechnologics
-	Developer of electronic printed functionalities for the printing industry. The company offers an invisible electronic data tag that transforms paper, cardboard, plastics, films and labels into digital content and enables direct link between online and offline communications.
-	['', 'electronic printer', ' ', 'digital content', ' printer']
-AudeSi Technologies
-	Developer and marketer of smart card based terminals that facilitate electronic commerce in the home and at unattended point of sale sites. The company\'s business strategy is to specify, design and develop its products for license to large scale manufacturing and marketing organizations.
-	['', 'point of sale', ' ', 'electronic commerce', '']
-Tradecom Soluções Empresariais de Comércio Electrónico
-	Provider of electronic commerce services. The company offers an platform for business-to-business electronic commerce services to enterprises in Portugal.
-	['', 'B2b services', ' ', 'electronic commerce', ' ', 'business-to-business e-commerce', '']
+Ygsoft
+	Operator of a computer software development and consultancy company. The company develops and sells computer software with provision of software consultancy services and computer software system integration.
+	['', 'computer software', ' ', 'hardware system', ' ', 'software system integration', '']
+Lincoln Technologies
+	Operator of a software development and consulting company focused on support of the pharmaceutical industry drug development process. The company provides systems and services related to applications in clinical development, pharmacovigilance, electronic data submission, and regulatory review to industry sponsors, and to FDA and other public health agencies.
+	['', 'software development', ' ', 'safety data mining', ' ', 'database cleaning', '']
+Intek Technologies
+	Developer of a desktop multimedia conferencing software. The company designs software development tools and programs for server applications development.
+	['', 'system management', ' ', 'server applications', ' ', 'desktop multimedia conferencing', ' multimedia']
+Attassa
+	Provider of a framework and a software development kit (SDK) that allows the rich integration of existing Web applications into Microsoft Windows and Outlook.
+	['', 'rich integration', ' ', 'Web applications', ' ', 'Mail application', ' ', 'Webmail server', '']
+Rofous Software
+	Provider of product engineering and content engineering services. The company offers enterprise application solutions, training and staffing services, application development services, custom software development, enterprise solutions, supply chain management solutions and customer relationship management solutions.
+	['', 'enterprise solutions', ' ', 'management solutions', ' ', 'custom software development', '']
+Coverity
+	Provider of source code analysis tools for identifying software defects in the software development life cycle. The company’s products includes a prevent static analyzer, a static analysis tool that creates a visualization of software, including an architecture map, call graph visualization and a dependency structure matrix.
+	['', 'source code', ' ', 'analysis tool', ' ', 'software defect', ' ', 'security vulnerability', ' ', 'software development', '']
+The SLTN Group
+	Provider of consulting and advisory services for implementation, management and migration of issues in profit and non-profit organizations. The company along with its four divisions provides software and hardware solutions for eServer hardware platforms, financial advisors and software vendors for consolidation, virtualization, designing infrastructure for managed cloud services.
+	['BPO eServer ', 'advisory services', ' ', 'cloud services', '']
+InitMe
+	Provider of software development services. The computer offers adaptive software development, computer repair, collaborative software development and agile software development services.
+	['', 'development services', ' ', 'technology companies', ' ', 'computer programing', '']
+Lexington Software Associates
+	Provider of technology and service solutions for software development and delivery environments. The company provides software consulting services including systems programming, website designing and high level consulting.
+	['', 'service solutions', ' ', 'systems management', ' ', 'website designing', '']
+Mathsoft Engineering & Education
+	Provider of math, science, and engineering software for business, academia, research, and government. The company offers a calculation management suite, a customizable client server solution, which provides searchable and centralized access for managing, tracking, and publishing various calculations, values, methods, and worksheets. Its products also include binder toolkit, which enables users to create e-books from data managed via the suite; customization toolkit, which provides a set of APIs and a software development kit; and publishing toolkit, which enables flexible display and viewing of the XML data generated by the suite.
+	['', 'software prodcuts', '']
+Probe
+	Provider of e-learning software. The company provides e-learning software to national and international clients. It also offers various services like strategic management consulting, outsourcing and software development.
+	['', 'e-learning software', ' ', 'educational software', ' ', 'application software', ' ', 'software development', ' ', 'strategic management consulting', '']
+InsureWorx
+	Provides enterprise and tactical software services. The company is an insurance software development company that provides enterprise and tactical software services for workers’ compensation, commercial property, casualty and risk administration organizations.
+	['', 'software service', ' ', 'software development', ' ', 'insurance software', '']
+The Learning Company
+	Operator of a software development and sales company.The company operates as a publisher for consumer desktop publishing titles. Its flagship desktop publishing products are The Print Shop and PrintMaster. It operates a retail website offering its own software titles as well as others.
+	['', 'convenient software', ' ', 'project templates', ' ', 'consumer products', '']
+Game Minion
+	Provider of cross-platform cloud services for the mobile-development industry. The company offers diifferent software-development kits, including multi-player gaming, push notifications, analytics, cloud storage, leaderboards, achievements, content delivery and social sharing.
+	['SDK ', 'software development kit', ' ', 'application development', ' ', 'mobile development', '']
+EdgeTrade
+	Provider of agency only brokerage and software development services. The company also provides services to improve client\'s trading performance, increase productivity, lower explicit and implicit trading costs and maintain anonymity in the markets.
+	['', 'software development', ' ', 'trading performance', ' ', 'productivity increment', '']
+Akimbi Systems
+	Developer of infrastructure management services for software development and test organizations. The company offers complex configuration capture-and-restore system, a software development and test infrastructure, which allows software developers and quality assurance engineers to suspend and capture to a shared storage library.
+	['', 'infrastructure management service', ' ', 'software development', ' ', 'test infrastructure', '']
+Netmania
+	Developer of software and hardware services for industries. The company develops software and hardware for Internet service providers (ISPs), cable operators, education and health sectors, enterprise organizations and small and medium sized enterprises. It offers software development services which includes product development, data migration and online systems.
+	['', 'software development service', ' ', 'online system', ' ', 'industrial supply', ' ', 'data migration', ' ', 'development service', '']
+InSoft
+	Provider of collaborative multimedia software and development tools. The company also develops and sells collaborative computing, desktop conferencing and distributed digital video applications. The company\'s products are based on its open software architecture and digital video everywhere, which enables transparent digital convergence.
+	['', 'digital video applications', ' ', 'digital convergence', ' ', 'multimedia software', '']
+Wintegra
+	Provider of access processing semiconductors and software for telecommunication infrastructure solutions. The company\'s products include access processors; reference boards for software development; and Data Path Software. It offers network processors and production grade software solutions for communication applications, such as DSL; PON; 2G, 3G, and LTE wireless infrastructure; carrier Ethernet; and WiMAX.
+	['semiconductor ', 'integrated network processor', ' ', 'access processor', ' ', 'mobile network gear', ' ', 'mobile backhaul', '']
+CoderBuddy
+	Owner and operator of a platform for software development. The company offers services related to the web based development, testing and deployment of software applications to the cloud.
+	['', 'software development', ' ', 'software platform', ' ', 'software deployment', '']
+Identum
+	Provider of software development services. The company offers an email encryption software tool, which allows original equipment manufacturer to tailor the email privacy capabilities.
+	['', 'software development', ' ', 'email encryption', ' ', 'email privacy', '']
+Firesale.com
+	Provider of marketplace for liquidating excess inventory. The company provides services for computer liquidators and name brand computer hardware products.
+	['', 'online retail', '']
+Vanceinfo Technologies
+	Provider of IT services and offers offshore software development services. The company offers research and development, quality assurance and testing, and custom application development. It also provides enterprise software implementation and maintenance services, specializing in applications from such vendors as Oracle and SAP. Its globalization and localization services include creating versions of software for different languages.
+	['', 'IT service', ' ', 'offshore software development', '  ', 'custom application development', ' ', 'enterprise software implementation', ' ', 'software maintenance service', ' ', 'Software quality assurance', ' ', 'software testing', '']
+Jaczone
+	Creator of a software-development platform. The company is the developer of the WayPointer, a technology platform enabling software modeling and testing, as well as document handling & generation. The platform also can be used to support ERP implementation or contracting processes.
+	['', 'software organization', ' ', 'software development', '']
+Integrated Chipware
+	Developer of software development tools and operating systems. The company provides products that allow teams to manage requirements for products and projects throughout the development lifecycle at an enterprise level.
+	['', 'software development tool', ' ', 'operating system', ' ', 'manage projects', '']
+Hive Media
+	Provider of media development services. The company offers media development services, creation of graphic designs, illustrations, concept art and technology consulting.
+	['', 'media development service', ' ', 'graphic design', ' ', 'concept art', '']

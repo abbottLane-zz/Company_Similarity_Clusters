@@ -1,45 +1,36 @@
-Metaboli (White Label Division)
-	Provider of download stores for game publishers. The business offers commerce-as-a-service solutions for publishers of video games and their online retailers.
-	['', 'video game', ' ', 'digital game', ' ', 'gaming console', '']
-Sight & Sound Distributors
-	Distributor of home videos, video games and related accessories. The company buys prerecorded tapes from movie studios and sells them to retailers, including regional supermarket chains and video stores. Local customers include Video Update, Dierbergs Markets, Blockbuster franchises and several smaller independent stores. The stores both rent and sell the videos.
-	['', 'video distributor', ' ', 'distribution service', ' ', 'video distribution service', '']
-Red Swoosh
-	Provider of P2P network technologies designed to alleviate bandwidth bills for Websites. Its products include Predelivery, which delivers video, video games, and files to users as a background delivery.
-	['', 'bandwidth bill', ' ', 'content delivery', ' ', 'media management', ' ', 'retrieve metadata', '']
-Frozen Codebase
-	Developer of gaming software. The company provides 3 dimensional video games for both download and store based markets.
-	['', 'gaming software', ' ', '3D games', ' ', 'store-based markets', '']
-Realtime Worlds
-	Developer of video games.
-	['', 'video game', '']
-Canesta
-	Provider of electronic perception technology. The company’s technology enables electronic devices, including video games, computers, industrial and medical electronics devices, automobiles or other vehicles, and factory automation equipment to perceive and react to objects or individuals in real time.
-	['', 'electronic perception', ' robotics ', 'security application', '']
-Dark Water Studios
-	Provider and developer of video games. The company develops computer and video games through its studio based in Derry, Northern Ireland.
-	['', 'computer game', ' ', 'video game', ' ', 'game studio', '']
-Arush Entertainment
-	Developer of video and computer games. The company publishes interactive entertainment software for personal computers and entertainment consoles.
-	['', 'computer game', ' ', 'video game', ' ', 'interactive entertainment software', '']
-5min Media
-	Operator of a syndication platform for broadband instructional, knowledge, and lifestyle videos, as well as DIY projects. The company\'s platform features content from media companies and independent producers in various categories, such as arts, automobiles, business, extreme, fashion, fitness, food, games, health, home, music, parenting, people, pets, spiritual, sports, technology, travel, life tips, knowledge, and video games.
-	['', 'lifestyle video', ' ', 'syndication platform', ' ', 'health video', ' ', 'video solution', '']
-Fifth Dimension
-	Developer of video games for children. The company develops and publishes computer games based on popular children’s TV brands such as Tweenies, Teletubbies, Fimbles and RobotWars.
-	['', 'video games', ' ', 'computer games', ' ', "children\\'s games", '']
-Humongous Entertainment
-	Developer of computer video games. The company develops educational games for children.
-	['', 'computer games', ' ', 'educational games', ' ', 'video games', '']
-VideoJax
-	Provider of video games on the web. The company offers play games with video clips and trivia questions in the areas of movie, television, music and sports, as well as featured games.
-	['', 'video game', ' ', 'online game', ' ', 'online trivia', ' ', 'game sharing', '']
-Ndoors
-	Developer of video games. The company develops and publishes MMORPGs (Massively Multiplayer Online Role-Playing Games) like Atlantica Online and Goonzu.
-	['MMORPGs ', 'Role-Playing', ' Goonzu']
-yourvideocard
-	Developer of video greeting cards. The company develops video cards which are used to record personal messages and can be sent to others as greeting cards.
-	['', 'online card', ' ', 'greeting cards', ' ', 'online platform', ' ', 'greeting messages', '']
-Kiwatch
-	Developer of video-monitoring surveillance platform. The company develops a platform which allows for WiFi video monitoring of premises through computer or smartphone.
-	['', 'video monitoring', ' ', 'home security', ' ', 'Electronic Component', '']
+B2
+	Provider of broadband services. The company provides Ethernet services, IP-telephony, Video-on-Demand and television services
+	['', 'broadband services', ' ', 'network technology', ' ', 'internet connection', '']
+Anevia
+	Provider of video on demand software. The company offers application suites for broadcasters and telecom operators. It also offers a suite of components and applications to build-up video service infrastructures.
+	['', 'television service', ' ', 'online video streaming', ' ', 'telecom operator', '']
+Avilinks
+	Developer of software and technology for the distribution of multimedia services via ADSL and VDSL on the existing telephone network. The company\'s product, AVIcenia, is a multimedia switch which can be installed in a building’s technical control room, on a campus, in the heart of a city or in an operator’s central office. It enables its users to have have access to a variety of services such as video on demand, high-speed internet, television and videoconferencing.
+	['', 'multimedia services', ' ', 'telephone network', ' ', 'multimedia switch', ' ', 'high-speed internet', '']
+Unwind Me
+	Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.
+	['', 'massage therapy', ' ', 'wellness service', ' Massage']
+Mobyson Holding
+	Provider of mobile IP telephony services. The company markets telephony provisions, including hardware and software communication equipment.
+	['', 'communication equipment', ' ', 'telephony service', ' ', 'hardware product', '']
+Flimmer
+	Developer of a platform for viewers to watch movie trailers. The company\'s platform allows viewers to watch the latest trailer from Cinema, DVD & Blu-Ray and Video On Demand and reward them for their attention with movie tickets or DVD/Video on Demand Coupons.
+	['', 'watch film trailer', ' ', 'photography platform', ' ', 'video on-demand', '']
+Fullrate
+	Provider of broadband services. The company\'s products include internet connections with bandwidth ranging from 2 to 20 Mbit per second, and include fixed telephony in a single broadband service. The company offers its products and services using ADSL2plus technology.
+	['', 'broadband services', ' ', 'internet connections', '']
+Natural Cleaners Colorado
+	The company provides dry and wet cleaning services. The company provide cleaning services by using CO2 and GreenEarth cleaning technologies.
+	['', 'dry cleaning', ' ', 'wet cleaning', ' ', 'cleaning technology', '']
+On Demand Group
+	Provider of video on demand services to television brands.
+	['', 'video service', ' ', 'television service', ' ', 'digital media service', '']
+Cloudtc
+	Developer and manufacturer of android-based media phones. The company develops software for business applications and IP telephony.
+	['', 'android based phone', ' ', 'IP telephony', ' ', 'business applications', ' ', 'smart phone', '']
+Prescreen
+	Provider of social discovery video-on-demand platform designed to promote and showcase premium content. The company provides a daily movie service that presents films to a community of movie lovers.
+	['', 'video-on-demand', ' ', 'premium content', ' ', 'premium movie', ' ', 'daily movie service', '']
+Atrica
+	Manufacturer of optical component technology with the Ethernet networking protocol to bring computer network capabilities to metropolitan area telecommunications networks. The company also provides Ethernet Internet access, Ethernet transparent LAN, T1 private line, Ethernet private line, and Ethernet private network services.
+	['technology communication Ethernet networking telecommunication ', 'ethernet equipment', ' ', 'telecommunication service', ' ', 'communication system', '']

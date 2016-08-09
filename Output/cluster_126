@@ -1,36 +1,30 @@
-Targanta Therapeutics
-	Developer of innovative antibiotics to treat serious infections in the hospital and other institutional settings. The company develops antibiotics for the treatment of serious gram-positive bacterial infections, including complicated skin and skin structure infections.
-	['biopharmaceutical ', 'skin infection', ' ', 'bone infection', ' antibiotic']
-Paratek Pharmaceuticals
-	Developer of products to treat infectious diseases. The company develops antibiotic and anti-infective products for blocking bacterial resistance. Its drug compounds include MK-2764/PTK 0796, a clinical stage tetracycline-derived antibiotic agent for the treatment of bacterial infections, including infections caused by resistant strains, such as MRSA.
-	['', 'infectious disease', ' ', 'inflammatory disease', ' ', 'anti-infective product', '']
-Thallion Pharmaceuticals
-	Developer of pharmaceutical products in the areas of infectious disease and oncology. The company\'s clinical program Shigamabs is a dual antibody product for the treatment of Shiga toxin-producing E. coli ("STEC") bacterial infections.
-	['', 'infectious disease', ' ', 'antibody product', ' ', 'bacterial infection', ' oncology']
-Inimex Pharmaceuticals
-	Developer of innate defense regulators (IDRs) that trigger the body\'s innate defenses without causing inflammation. The company provides product which is active against normal and drug resistant bacteria and used to stimulate host innate immune defenses. Its products are used to treat infections in immune suppressed patients, antibiotic resistant hospital infections, and the management of inflammatory and cancer disease.
-	['', 'developer of drung', '  ', 'innate immune defense', ' ', 'drug resistant bacteria', '']
-NanoAntibiotics
-	Developer of antibiotics to treat multi drug resistant bacterias. The company engages in the discovery, development and commercialization of antibiotics.
-	['', 'antibiotic treatment', ' ', 'drug resistant bacteria', ' ', 'nano technology', '']
-Redpoint Bio
-	Developer of novel and healthful taste enhancers for the food, beverage and pharmaceutical industries. The company researches, discovers, develops and commercializes breakthrough products that improve the palatability of oral medicines and enhance the flavor and nutritional value of foods and beverages.
-	['', 'taste enhancers', ' ', 'healthful taste', ' ', 'pharmaceutical industries', '']
-RQx Pharmaceuticals
-	Developer of broad spectrum small molecule antibiotics. The company\'s antibiotics are developed for life threatening infections, including those caused by multi drug-resistant Gram-negative bacteria.
-	['', 'antibiotic developer', ' ', 'drug resistant infection', ' ', 'broad spectrum antibiotic', ' ', 'molecule antibiotics', ' ', 'life threatening infections', ' ', 'healthcare industry', '']
-Mpex Pharmaceuticals
-	Developer of therapies for antibiotic resistance. The company offers MP-376, a proprietary formula of levofloxacin that is developed clinically as a maintenance therapy for the prevention of bacterial exacerbations in patients with cystic fibrosis and chronic obstructive pulmonary diseases. It also provides inhibitors of bacterial multi-drug resistant efflux pumps, which are source of drug resistance in gram-negative pathogens, such as Pseudomonas aeruginosa and gram-positive pathogens, such as methicillin-resistant staphylococcus aureus. It has a strategic alliance with GlaxoSmithKline.
-	['', 'antibiotic resistance therapy', ' ', 'gram-negative organism', ' antibiotic ', 'aerosol formulation', ' ', 'bacterial exacerbation', '']
-Cempra Pharmaceuticals
-	Developer of medicines for curing bacterial infections. The company discovers and develops differentiated medicines that cure bacterial infections. It develops antibiotics to treat multi-drug resistant bacterial infections.
-	['', 'bacterial infection', ' ', 'infection treatment', ' ', 'infection medicine', ' ', 'drug resistant bacteria', ' ', 'bacterial antibiotics', '']
-GlycoVaxyn
-	Developer of a portfolio of bioconjugate vaccines to prevent and treat bacterial infections. The company\'s technology enables the development and production of immunogenic glycoproteins (polysaccharide and protein complexes) for use as conjugated vaccines. It has the ability to conjugate any carbohydrate to almost any protein resulting in a well-characterized molecule with high consistency and batch-to-batch reproducibility enabling the targeting of bacterial diseases.
-	['', 'immunogenic glycoprotein', ' ', 'bioconjugate vaccine', ' ', 'bacterial disease', '']
-Achaogen
-	Developer of antibacterial therapies for treating multi-drug resistant (MDR) infections. The company is focused on the discovery, development and commercialization of antibacterials to treat MDR gram-negative infections. Its lead product candidate is plazomcin, designed to treat serious bacterial infections due to MDR Enterobacteriaceae, including carbapenem-resistant Enterobacteriaceae, or CRE.
-	['', 'bacterial infection', ' ', 'antibiotic resistant', ' ', 'antibacterial compound', ' ', 'drug-resistant', '']
-Sequoia Pharmaceuticals
-	Developer of drugs to combat drug-resistant viral infections.
-	['', 'drug resistant infection', ' ', 'viral infection', '']
+NeoDiagnostix
+	Operator of a cancer diagnostics company. The company uses molecular DNA technologies with a substantial portfolio of proprietary biomarkers. The company provides clinicians with a patient\'s molecular profile that provides crucial insights into cancer leading to improved patient care.
+	['', 'cancer diagnostics', ' DNA ', 'molecular profile', '']
+Satoris
+	Provider of molecular diagnostics product meant for the test of Alzheimer\'s disease. The company uses molecular biology and bioinformatics to develop test and treatment meant for Alzheimer\'s disease.
+	['', 'medical supplies', ' ', 'drug discovery', '']
+Xceed Molecular
+	Developer of expression-based molecular diagnostic products. The company is working on the speed, simplicity, and efficiency of expression-based molecular diagnostics through its “Ziplex™” Automated Workstation. The Ziplex uses the company\'s flow-thru-chip microarray technology to perform highly multiplexed molecular assays faster and at a lower cost than conventional array systems, while providing simplicity of use that is essential for broader adoption of molecular diagnostics.
+	['', 'molecular diagnostics', ', expression-based', '']
+Zyentia
+	Operator of a biotechnology company focused on treatment of protein-folding disorders. The company researches the molecular determinants underlying protein misfolding, aggregation and deposition in the tissue. The company applies its research to development of therapies for a variety of protein-misfolding disorders, including Type 2 Diabetes, Alzheimer\'s disease and Parkinson disease.
+	['', 'molecular determinants', ' ', 'protein misfolding', ' aggregation tissue']
+Ceregene
+	Developer of treatments for neurodegenerative disorders. The company is a biotechnology enterprise ocused on the treatment of major neurodegenerative disorders using the delivery of nervous system growth factors. Its clinical programs include CERE-110, an AAV2-based vector expressing nerve growth factor, for the treatment of Alzheimer’s disease; and CERE-120, in trials as a treatment for  Parkinson’s disease. The company also has two treatments - CERE-135 and CERE-140 - in preclinical development for amyotrophic lateral sclerosis (ALS or Lou Gehrig’s disease) and ocular diseases, respectively.
+	['', 'neurotrophic growth treatment', ' ', 'translational medicine', ' ', 'neurodegenerative disorder', ' biopharmaceutical']
+EnviroGene
+	Provider of molecular diagnostics related to environmental pollution. The company provides environmentally friendly tracer systems to identify sources of fecal and microbial contamination in water bodies.
+	['', 'molecular diagnostic', ' ', 'natural resources management', ' ', 'contamination test', ' ', 'Environmental Service', '']
+Galantos Pharma
+	Developer of novel drugs for the treatment of Alzheimer‘s Disease and other neurodegenerative diseases. The company is developing Memogain, a derivative  of the plant alkaloid galantamine, for symptomatic and disease-modifying treatment of Alzheimer‘s dementia (AD).
+	['', 'novel drugs', ' ', 'neurodegenerative diseases', 'cholinergic', 'brain enzymes', ' ', 'Alzheimer‘s Disease', '']
+Rinat Neuroscience
+	Developer of protein-based therapeutics for the treatment of diseases and disorders of the nervous system. The company is developing neuroscience-based protein therapeutics for pain, Alzheimer\'s disease, obesity and diabetes, and neuropathies. It is also developing novel disease modifying therapies that modulate the function, as well as prevent and reverse the damage to key populations of neurons specifically affected in particular disease states.
+	['', 'protein therapeutic', ' ', 'Alzheimer disease', ' ', 'nervous system', ' ', 'biotech community', '']
+NovioGendix
+	Provider of molecular diagnostics and services to physicians, clinics, and hospitals. The company offers service to conduct test for prostate cancer and developing molecular diagnostic assays for uro-oncological practices and cancer treatment.
+	['', 'molecular diagnostic', ' ', 'laboratory service', ' ', 'kidney cancer', ' ', 'uro-oncological disease', '']
+Apollo BioPharmaceutics
+	Developer of drugs that protect brain cells from damage caused by disease, injury and aging. The company\'s target applications include the treatment of Alzheimer\'s disease, Parkinson\'s disease, brain damage resulting from stroke and other age-related diseases and conditions.
+	['biotechnology ', 'life science', ' ', "Alzheimer\\'s disease", ' ', "Parkinson\\'s disease", '']

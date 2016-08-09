@@ -1,36 +1,42 @@
-Cellular-Blowout
-	Provider of wireless products and services. The company provides cell phones, PDA, mobile software, phone activations, accessories and novelty items.
-	['', 'cell phones', ' ', 'mobile accessories', ' ', 'novelty items', ' ', 'wireless products', '']
-No Wires Needed
-	Developer of wireless technologies. The company manufactures wireless products designed to enable high-speed wireless Internet access.
-	['', 'wireless LAN', ' ', 'wireless products', ' ', 'media access control', ' MAC ', 'wireless internet', '']
-SKY MobileMedia
-	Provider of application and platform software for wireless handset industry. The company provides multimedia technologies put into use in the iPhone OS which provides access to audio and video capabilities of the devices working on the OS. It provides softwares such as SKY-MAP, SKY-MMF, SKY-IMS, SKY-SYNC and SKY-VM which supports all wireless handset systems to operate.
-	['', 'multimedia technologies', ' ', 'platform software', ' ', ' iPhone', ' ', 'wireless handset', ' OS']
-AirPrime
-	Provider of high-speed, code division multiple access wireless data and voice products to the original equipment manufacturer market. The company focuses on providing the optimal current and next-generation wireless access products for use in handheld devices, notebook PCs and internet appliances.
-	['', 'wireless access solutions', ' ', 'wireless access products', ' ', 'wireless data', ' ', 'voice modules', '']
-Zinwave
-	Supplier of in-building wireless coverage solutions. The company provides wideband active Distributed Antenna Systems (DAS) for in-building wireless coverage.
-	['', 'wireless technology solution', ' ', 'distributed antenna system', ' ', 'omnidirectional antenna', '']
-Radwiz
-	Developer of datacom-telecom technologies. The company manufactures communications access systems.
-	['', 'datacom-telecom', ' ', 'communications access systems', ' ', 'branch-office connectivity', ' WAN']
-Voyager Systems
-	Provider of secure data transmission services and wireless applications. The company\'s \'s flagship product, Voyager Query(TM), provides law enforcement personnel access to information in the course of field operations, quickly and securely, via a high-speed handheld device communicating over any wireless network.
-	['', 'data transmission service', ' ', 'wireless application', ' ', 'enterprise applications software', '']
-InnoCOMM Wireless
-	Developer and manufacturer of fabless semicondutor. The company manufacturer fabless semicondutor and develops highly integrated wireless products.
-	['', 'fabless semicondutor', ' ', 'wireless product', ' power']
-NextWave Telecom
-	Provider of high-speed wireless internet access and voice communications services to consumers and business markets. The company provides wireless and wireline telecommunications services, namely, the electronic transmission of voice, facsimile, data, images and informations.
-	['', 'broadband wireless', ' ', 'communications services', ' ', 'electronic transmission', ' ', 'wireless internet', ' ', 'voice communications', '']
-Broadband IP
-	Provider of high-speed Internet services. The company offers a wide range of ISP services including wired and wireless Internet service and managed connectivity. It specializes in licensed and unlicensed wireless connectivity solutions for data, voice and video.
-	['', 'high speed Internet', ' ', 'wireless Internet service', ' ', 'unlicensed wireless connectivity', '']
-Red-M Group
-	Developer of wireless infrastructures for mission-critical applications. The company\'s wireless services are mainly used for airspace management through its approach called Total Airspace Management (TAM).
-	['', 'airspace management', ' ', 'wireless services', ' ', 'wireless infrastructure', '']
-Telecom*USA
-	Distributor of cellular phones. The company provides cellular modems, wireless Internet and other communications products. It also offers rate plans with which you can service these products.
-	['', 'cellular phone', ' ', 'cellular modem', ' ', 'communications product', '']
+Röntec
+	Developer of devices for X-ray elemental and structural analysis. The company offers x-ray spectrometers used for electron probe microanalysis. It also supplies spectrometer modules for ED-XRF, PIXE, XRD and other nuclear applications.
+	['X-ray Xray spectrometer ', 'electron beam microanalysis', '']
+Viaken Systems
+	Provider of bioinformatics services.The company provides a research platform for its customers through its hosting platform which is called Viaken Informatics Environment. The company provides services to Genome Informatics, Chem Informatics and Pharmaco Informatics industries.
+	['', 'research software', ' ', 'life science industries', ' ', 'research platform', ' ', 'Genome Informatics', ' ', 'Chem Informatics', ' ', 'Pharmaco Informatics', ' ', 'bioinformatics services', '']
+Foundstone
+	Developer of software for detecting and managing software vulnerabilities. The company offers a combination of enterprise software, appliances, consulting services and education to help organizations protect their assets from threats.
+	['', 'strategic security', ' ', 'network security', '']
+Sagres Discovery
+	Provider of oncogene discovery, individualized cancer profiling, drug target validation and therapeutic development.
+	['', 'oncogene discovery', ' ', 'drug target validation', ' ', 'drug therapeutic', ' ', 'cancer profiling', '']
+Eidogen
+	Developer of computational drug discovery platforms. The company offers Target Informatics Platform, structural proteomics enterprise software.
+	['', 'drug discovery', ' ', 'enterprise software', ' ', 'drug toxicity', '']
+Inpharmatica
+	Provider of proprietary platform, PharmaCarta(TM), is an integrated suite of informatics-based technologies. The company uses its  informatics approaches to look at the relationships between the structure and function of proteins in order to identify drug targets for further commercial development.
+	['informatics PharmaCarta ', 'drug discovery', '']
+IntenseDebate
+	Developer of commenting systems for blogs and other web platforms. The company offers networking system to blog readers to link their profiles, make friends and syndicate their comments.
+	['', 'commenting system', ' ', 'web platform', ' ', 'networking system', '']
+AlgoNomics
+	Provider of structural bioinformatics services. The company provides structural bioinformatics tools to develop rationally designed therapeutics in the broad field of immunotherapy.
+	['', 'therapeutic protein', ' ', 'structural bioinformatics tool', ' immunotherapy']
+Ansaris
+	Provider of small molecule drug discovery equipment and technology. The company has developed a proprietary platform technology which combines a torsion-space algorithm for building dynamic protein models with silico fragment-based libraries and computational chemists to design therapeutics that solves contemporary small molecule drug discovery challenges.
+	['', 'mall molecule drug discovery', ' ', 'platform technology', '']
+AnalytiCon Discovery
+	Operator of a biotechnology firm that involves in drug discovery. The company maintains a library of purified natural products and semi-synthetic compounds derived from natural products.
+	['', 'semi-synthetic compounds', ' ', 'natural product', ' ', 'small molecules', ' ', 'cosmetics industries', '']
+Novamass Analytical
+	Provider of contract-research services. The company offers comprehensive services and platforms for drug discovery, functional food ingredients testing, REACH chemical-safety assessment and related life-science areas. Specific services offered include discovery biology and proteomics, biomarker discovery, in vivo disease models, especially Type I/II diabetes, oncology and cardiology; in vitro permeation, transport and assay design; pharmacokinetics & bioanalytics; in silico, in vitro and in vivo toxicology & safety pharmacology. The company operates on a global scale, with clients in Europe, Asia and the U.S.
+	['', 'research company', ' pharmaceuticals ', 'in-vitro drug metabolism', ' ', 'drug discovery', '']
+Fathom Technology
+	Developer of enterprise software components. The company provides enterprise software components on the EJB2 and .NET platforms.
+	['', 'enterprise software', ' ', 'software development', ' ', 'software tools', '']
+Global Projects
+	Developer of online projects based on qualitative platforms. The company is the creator of Mapia, a map directory for the Kiev business community.
+	['', 'online projects', ' ', 'internet services', '']
+Lo.Ve.Mat
+	Distributor of construction materials for roofing, structural work, concrete plant and carpentry department. The company offers expert advice and management of orders to its customers.
+	['', 'construction materials', ' ', 'structural work', ' ', 'concrete plant', ' carpentry']

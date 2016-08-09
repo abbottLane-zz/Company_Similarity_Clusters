@@ -1,39 +1,24 @@
-facilityboss
-	Developer of software for building owners and operators. The company develops various process optimizing applications for various industries including web based room or desk management and reservation, tracking software for the pharma industry, data capture application for business continuity management used in the financial sector. The company was spun out of Fraunhofer Institut SIT.
-	['', 'managing spaces', ' ', 'digital building', ' ', 'building space', ' ', 'space management', ' ', 'resource optimization', '']
-CipherActive
-	Developer of a software for video coding. The company develops and markets accelerated standard encryption systems enabling wide usage of cryptography in resource constrained environments.
-	['', 'video coding', ' accelerated ', 'standard encryption', '']
-Diffusion
-	Provider of multi-channel information delivery technology. The company develops intranet and extranet software for the targeted distribution of business critical information through different media.
-	['', 'intranet software', ' ', 'extranet software', ' ', 'multi-channel information', ' ', 'application software', '']
-VividLogic
-	Provider of Home Entertainment Software for HDTV and HD STB. The company\'s comprehensive software infrastructure and applications for HDTV cover the basic ATSC software stack, Cable Card software and the next generation OCAP software and related OCHD 2.0 software.
-	['', 'home entertainment', ' ', 'high definition TV', ' ', 'set top box', '']
-Yobble
-	Developer of a hybrid hardware/software technology for iPhone. The company is a mobile motion sensing platform for applications that need regular touch interfaces.
-	['', 'music game', ' ', 'motion control', ' ', 'air guitar', ' ', 'mobile motion', ' ', 'consumer electronic', '']
-Remedy Corporation
-	Developer of a software system and technology. The company develops a action request system and various applications software.
-	['', 'software system', ' ', 'request system', ' ', 'communication software', '']
-McCormack & Dodge
-	Provider of financial software. The company develops mainframe applications software.
-	['', 'mainframe application', ' ', 'mainframe software', ' ', 'financial platform', '']
-MindWeavers
-	Developer of software products to help people overcome dyslexia. The company develops and sells software-based products to optimize an individuals innate abilities relating to sensory and motor skills. The company spun out from the University of Oxford.
-	['', 'brain simulation', ' ', 'brain exercises', ' ', 'sensory skills', ' ', 'motor skills', ' ', 'computer games', ' ', 'language learning', ' ', 'software products', '']
-Pure Software
-	Developer of Software tool. The company provides software quality improvement products.
-	['', 'software tool', ' ', 'quality improvement', ' product']
-Dblur technology
-	Developer of software lens technology.The company develops software solutions mainly for camera manufacturers. The company also mobile phone camera vendors solution for the design of miniature cameras at lower cost.
-	['cellular digital medical camera']
-PushLife
-	Developer of software for the BlackBerry and Android Smartphones.
-	['', 'mobile software', ' ', 'blackberry software', ' ', 'android software', '']
-Sensinode
-	Developer of software technology for the Internet of things (IoT). The company develops commercial 6LoWPAN and related IPv6 technologies which enable physical sensing, tracking and identification with enterprise systems and the Internet. Its NanoStack, NanoRouter and NanoService software leads to low-power networks in wireless health, building automation, asset management and other applications.
-	['', 'wireless embedded system', ' ', 'embedded system', ' ', 'Wireless embedded', ' ', 'physical sensing', ' ', 'asset tracking', ' ', 'enterprise system', ' ', 'smart grid', ' ', 'internet of things', '']
-Explore Technologies
-	Manufacturer of interactive, talking globe known as Odyssey. The company is the maker of a globe which calculates latitude and longitude through a software technology called NearTouch. The globe is marketed as an educational product for children.
-	['', 'educational toy', ' ', 'learning toy', ' ', 'interactive products', ' globe']
+Beijing MobileWoo Information Technology
+	Provider of PIM related services to mobile users. The company offers iSMS, iDialer, FreeMMSViewer, iDecompress and FreeLunarClt.
+	['PIM ', 'mobile users', ' FreeMMSViewer']
+SocialCrunch
+	Provider of a behavior graph of internet users. The company has developed an application which collects data on consumer sentiments through quizzes and track trends.
+	['', 'marketing data', ' ', 'consumer sentiment', ' ', 'track trend', '']
+Demonstrate
+	Provider of brand activation and communication related services. The company offers equity storytelling campaigns related services both online and offline.
+	['', 'brand marketing', ' ', 'brand communication', ' ', 'field marketing', ' ', 'online marketing', '']
+Mobango
+	Provider of mobile social networking platform. The company operates in the field of online and mobile services addressed to mobile users. The company provides services that lets its users to create, store, share, play original and self-produced content, both via Web and via mobile phones.
+	['', 'mobile apps', ' ', 'social content', '']
+Handster
+	Provider of white label platform for smart phone users. The company offers a scalable, highly flexible white-label application store solution for mobile operators, handset manufacturers and distributors.
+	['', 'application software', ' smartphones ', 'mobile entertainment', '']
+Wireless Venture Partners
+	Provider of a cellular retail stores. The company offers Internet, telecommunication, wireless and voice and data products and related services.
+	['', 'wireless communication', ' ', 'telecommunication service', ' ', 'retail stores', '']
+Hashable
+	Provider of information about companies, industries, and business people over the Internet to general business users. The company subsequently pivoted to create Hashable, a mobile introductions check-in service. Tracked.com has been kept live as of June 1, 2011 however ongoing development has been put on hold to further pursue Hashable.
+	['', 'company information', ' ', 'industry information', ' ', 'business information', ' ', 'online infomation', ' ', 'check-in', ' ', 'social networking', '']
+Vuico
+	Provider of data connectivity for mobile users. The company provides wireless email and mobility solutions for personal and corporate use.
+	['', 'wireless software', ' ', 'data connectivity', ' ', 'mobile video', ' ', 'mobile entertainment', '']

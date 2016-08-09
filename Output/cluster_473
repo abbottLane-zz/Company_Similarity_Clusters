@@ -1,21 +1,57 @@
-Fiomi Diagnostics
-	Manufacturer and marketer of diagnostic test kits. The company also develops a panel of point-of-care cardiac marker assays.
-	['', 'diagnostic substance', ' ', 'Invitro diagnostic substance', ' ', 'diagnostic testing', ' ', 'cardiac marker assays', '']
-Crux Biomedical
-	Developer of a preventive device for pulmonary embolisms. The company provide Crux VCF System, that stops the blood clots from reaching the lungs. It is useful for patients at risk of pulmonary embolism who can\'t tolerate blood thinners, method of preventing clots.
-	['', 'medical device', ' ', 'vascular device', ' ', 'inferior vena cava filter', ' ', 'pulmonary embolism', ' IVC']
-DiaSpect Medical
-	Provider of in vitro diagnostic systems. The company provides instant hemoglobin related measurements in unaltered whole blood for point of care.
-	['hemoglobin measurements ', 'point of care', ' ', 'healthcare services', '']
-Quotient Diagnostics
-	Developer of immunohematology products. The company develops testing technologies for the diagnosis and treatment of diabetes and associated diseases. It also provides point-of-care devices for glycated hemoglobin measurement.
-	['immunohematology ', 'testing technology', ' diabetes ', 'point-of-care device', ' ', 'glycated hemoglobin measurement', '']
-Limerick BioPharma
-	Developer of pharmaceuticals with attenuated tissue specific toxicity. The company develops methods for simulating activity of the blood-tissue barriers in vitro and in vivo. It leads programs in areas of metabolic diseases and solid organ transplantation.
-	['', 'tissue specific toxicity', ' ', 'blood tissue simulation', ' ', 'metabolic disease treatment', ' ', 'solid organ transplantation', '']
-Åmic
-	Developer of point-of-care diagnostic products. The company has developed a diagnostic platform based on micro-fabrication technology for application in point-of-care diagnostics.
-	['', 'diagnostic platform', ' ', 'point-of-care', ' ', 'microfluidic technology', ' ', 'micro-fabrication technology', '']
-BioBehavioral Diagnostics
-	Developer of diagnostic systems for the quantitative assessment of behavioral and neurobiological disorders. The company develops and markets a proprietary platform technology to objectively measure specific behaviors that correlate with brain function and deficits in inhibitory control.
-	['', 'diagnostic system', ' ', 'neurobiological disorder', ' ', 'psychiatric condition', '']
+Biocistronix
+	Provider of drug discovery and medical research and development services. The company also engages in development of latest diagnostic techniques for various ailments.
+	['', 'medicine discovery', ' ', 'medical research', ' ', 'diagnostic techniques', '']
+ImmunoTheragnostics Incorporated
+	Developer of therapeutic and prognostic equipments. The company engages in research, development and commercialization of exosome-based clinical diagnostic arrays for women\'s health as well as for cardiovascular diseases and cancer.
+	['', 'prognostic equipment', ' ', 'diagnostic assays', ' ', 'cancer prevention', ' ', 'response monitoring', '']
+Eyesquad
+	Developer of an imaging technology. The company engages in the design and development of digital auto-focus and optical zoom systems for camera phones and other electronic products.
+	['imaging ', 'auto-focus', ' ', 'lens module', '']
+Diatos
+	Operator of a bio-pharmaceutical company that develops anti-cancer therapies based on cellular-delivery and drug-targeting technologies. The company engages in the  research, development and marketing of anti-cancer chemotherapeutic drugs.
+	['', 'chemotherapeutic drugs', ' ', 'human therapies', ' bio-pharmaceutical ', 'anti-cancer therapies', '']
+Qronus Interactive Israel
+	Provider of automated system testing software products. The company provides automated system testing tools for complex software and hardware configurations with embedded processors. It engages in the research, development, manufacturing and marketing of automated software quality products for non-standard platforms, embedded systems and real time computer systems. The company was spun out of Mercury Interactive.
+	['', 'software testing', ' ', 'testing tools', ' ', 'testing solution', '']
+Reliant Pharmaceuticals
+	Developer of cardiovascular therapies. The company acquires and develops branded pharmaceutical products, as well as potential pharmaceutical products in mid- to late-stage clinical development for drug delivery technologies and formulation advancements.
+	['cardiovascular ', 'cardiovascular therapies', '']
+Okapi Sciences
+	Developer of drugs to treat viral infections for both pets and livestock. The company engages itself in the research, development, promotion and marketing of anti-viral drugs for veterinary applications.
+	['', 'viral infection', ' livestock ', 'veterinary application', '']
+Nabriva Therapeutics
+	Provider of pharmaceutical research and development services. The company focuses on antibiotic classes, such as pleuromutilins designed for oral and topical application and injectable broad-spectrum anti-MRSA cephalosporins.
+	['', 'pharmaceutical research', ' ', 'antibiotic classe', ' ', 'pleuromutilin antibiotic', '']
+Cytomyx Holdings
+	Operator of a life-sciences holding company. The company, through its subsidiaries, develops gene- and protein-based tools to support pharmaceutical companies and researchers in the development of drugs. The company also provides outsourced pharmaceutical research and development, human biology research products and services, and diagnostic products, as well as distributing third parties’ products.
+	['', 'pharmaceutical company', ' ', 'protein tools', ' ', 'human biology', '']
+Aegis Media Europe
+	Provider of research tools and client support services. The company offers business consulting based on the research data.
+	['', 'research tool', ' ', 'client support', ' ', 'business consulting', '']
+Compass Information Services
+	Developer of oncology and autoimmune therapeutics. The company is a distributor of the Compass (R) system, a procedure for assessing the outcomes of mental-health treatments. The company also engages in related research.
+	['', 'mental health', ' ', 'treatment assessment', ' ', 'ongoing treatment', ' ', 'mental illness', ' ', 'treatment management', ' ', 'treatment outcome', '']
+Intertisement
+	Provider of advertising services to businesses and individuals. The company engages in the research and development of 3D augmented reality services and markets the same to the customers to be used as a visual advertisement platform.
+	['', '3D augmented reality services', ' ', 'media services', ' ', 'advertising services', '']
+Sasken Communications
+	Provider of research and development consultancy, wireless software products and software services that helps businesses across the communications value chain accelerate product development life cycles. The company works with network OEMs, semiconductor vendors, terminal device OEMs and operators.
+	['', 'development consulting', ' ', 'wireless software', ' ', 'semiconductor vendors', ' ', 'communications value chain', '']
+Charisela Technologies
+	Developer of assays for flow cytometers. The company engages in research and development of assays that allows users to to run high concentration samples within an hour.
+	['', 'flow cytometers', ' ', 'high concentration samples', ' assays']
+Alsensa
+	Developer of products for allergy diagnosis. The company engages in design, research, development and manufacture of allergy testing products for the healthcare markets. It offers a AQT allergy testing device that is used for allergy diagnostics and management.
+	['', 'allergy diagnosis', ' ', 'prick test', ' allergy']
+C M & D Pharma
+	Manufacturer of pharmaceutical products. The company\'s pharma products are fostrap, recoclix, eviendep, ossulin and silsos.
+	['', 'pharmaceutical product', ' ', 'healthcare market', '']
+RWHD
+	Provider of research services. The company engages in the research and development of pharmaceutical products.
+	['', 'research services', ' ', 'research and development', ' ', 'pharmaceutical products', '']
+Biovation
+	Provider of pharmaceutical research services. The company provides antibody and protein engineering technologies.
+	['', 'pharmaceutical research', ' ', 'healthcare service', ' ', 'antibody engineering technology', '  ', 'protein engineering technology', '']
+Rissington Breedline
+	Provider of sheep breeding, rearing and genetics services. The company engages in the research and development of sheep and cattle genetics and breeds for farming and food industries.
+	['', 'sheep husbandry', ' ', 'animal farming', ' ', 'sheep breeding', ' ', 'animal husbandry', '']

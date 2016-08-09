@@ -1,36 +1,57 @@
-ChipData
-	Provider of software and services to the electronics industry. The company provides services to the component suppliers, equipment manufacturers and contract electronic manufacturers to get the products faster and in a cost effective manner.
-	['', 'design chain management', ' ', 'content creation', ' ', 'cost effective', '']
-Arrow Shuttle
-	Provider of airline services. The company provides its services to the aviation industry.
-	['', 'aviation industry', ' airline flight']
-Atosho
-	Provider of e-commerce software and services. The company offers a marketplace infrastructure allowing retailers to offer their products via a range of channel partner websites.
-	['', 'ecommerce solution', ' ', 'B2C Service', '']
-Ciashop
-	Provider of e-commerce software services. The company provides services for electronic commerce in the form of SaaS (Software as a Service). It offers SaaS virtual store, hosting, infrastructure and payments gateway services.
-	['', 'e-commerce software', ' ', 'virtual store', ' ', 'innovative technology', '']
-Everdream
-	Provider of on-demand software and managed services for desktop management. The company provides software-as-a-service (SaaS) solutions for remote-service management. It offers compliance software services suite that provides visibility into hardware and software assets, tracks software license usage, and automates the distribution of software to ensure regulatory compliance to the computers; and up-time software services suite that provides protection against Internet attacks, hackers, and loss of critical data through malware protection, patch management, and online data backup services.
-	['', 'desktop management', ' SaaS ', 'on demand software', ' ', 'service management', ' ', 'remote-service management', ' ', 'compliance software', ' ', 'software license', ' ', 'internet protection', ' ', 'malware protection', ' ', 'patch management', ' ', 'data backup', '']
-Celestry
-	Provider of physical design products. The company offers software and services to electronic and semiconductor companies that are involved with the design of chips.
-	['chips electrinc semiconductor']
-Fine Trade
-	Provider of e-commerce trading services with payment options. The company provides shopping and sales service of national and international goods and handles service transactions for businesses.
-	['', 'trading services', ' ', 'payment options', '']
-Bry Technologia
-	Provider of digital certification hardware and software services. The company provides services to ensure safety in the use of electronic document.
-	['', 'digital certification', ' ', 'software services', ' ', 'electronic services', ' hardware']
-ES Enterprise Solutions
-	Provider of an online software service.
-	['', 'online software', ' ', 'virtual software', ' ', 'software service', '']
-Mohchi
-	Developer of e-commerce software and applications. The company provides applications for online shopping to its customers.
-	['', 'e-commerce software', ' ', 'social/platform software', ' ', 'online shopping platform', '']
-BusinessThreads
-	Provider of E-Commerce software. The company provides a software platform that helps companies set up electronic marketplaces in which buyers and sellers can meet and carry out their business activities.
-	['marketplace ', 'software platform', '  E-Commerce']
-BestVendor
-	Provider of an online resource where business professionals can exchange recommendations for work-related software and services. The company provides a platform for professionals to share their recommendations of the SaaS and other software services for use in business.
-	['', 'online resource', ' ', 'procurement decision', ' ', 'professional platform', ' ', 'software as a service', '']
+Sinewave Energy Technologies
+	Developer of power-modulation systems. The company researches and develops sinewave power-control products based on its patented, ultra-high-speed power-switching technology. The company\'s products include digital sinewave lighting dimmers for high intensity discharge (HID) and fluorescent lighting.
+	['', 'light dimmer', ' ', 'power modulation', ' ESD HID ', 'lighting products', '']
+Qspeed Semiconductor
+	Manufacturer of silicon power semiconductor devices for power supplies, inverters, motor control and other power applications. The company also offers power diodes.
+	['', 'silicon power semiconductor', ' ', 'power diodes', ' ', 'motor control', '']
+Savonia Power
+	Operator of power plants for combined heat and electricity production. The company specializes in power generation module for combined heat and power production in power plants. It also provides power plant maintenance and service.
+	['', 'power plant', ' ', 'power generation', ' ', 'heat production', ' ', 'power generation module', '']
+Gecko Alliance
+	Manufacturer of electronic controls. The company offers systems, controls, pumps, audio, accessories and bath products.
+	['', 'temperature setting', ' ', 'electronic button', ' pump']
+Inverpower Controls
+	Manufacturer of power electronics modules and advanced high-speed digital controls. The company manufactures products for use in industrial power supply, power conversion and power quality systems.
+	['', 'electronic module', ' power']
+Active Control eXperts
+	Provider of Active Vibration Control (AVC) services. The company\'s vibration controls technology actively damps or controls unwanted vibration. It also provides vibration-controlling tolls to OEMs.
+	['', 'vibration controlling toll', ' ', 'vibration control', ' ', 'semiconductor manufacturing', ' ', 'motion control component', ' ', 'vibration suppression', '']
+MobileWise
+	Provider of wire- free electric power technology specially for mobile devices. The company offers Wire-Free Electric Power chipsets to mobile, networking and power accessories OEM and aftermarket manufacturers.
+	['', 'electric chipsets', ' ', 'application specific semiconductors', ' ', 'information technology', '']
+Agile Systems
+	Manufacturer of energy-efficient electronic controls for electric motors. The company designs and develops advanced motion control technology including motor control and power conversion. The company caters to broad range of industries including semiconductor, life science, robotics, automation equipment, automotive, industrial machinery and alternative energy.
+	['', 'energy-efficient technology', ' ', 'motion control', ' ', 'power conversion', '']
+Nokian Capacitors
+	Manufacturer of power system components and capacitors. The company manufactures equipment and systems for reactive power compensation and harmonic filtering.
+	['capacitors ', 'system component', ' filtering']
+SemiSouth Laboratories
+	Manufacturer of high-voltage silicon-carbide semiconductor devices. The company specializes in the development and manufacturing of silicon carbide materials and electrical components for high-power, high-efficiency, harsh-environment power management and conversion applications.
+	['', 'semiconductor device', ' ', 'silicon carbide', ' ', 'electronics material', ' ', 'harsh environment electronic', '']
+Planet ATE
+	Supplier of fabless semiconductor for the manufacturers of automatic test equipment. The company manufactures "System on a Chip" (SoC) integrated circuits that combine all analog functions required to construct digital channel, DUT Power supply, PMU and VI.
+	['', 'Digital Channel', ' ', 'DUT Power Supply', ' PMU VI Semiconductor chips']
+Photonic Power Systems
+	Provider of power over optical fiber. The company provides EMI and RFI immune electrical power to remote locations with no electrical wire. The company’s products include photovoltaic power converters and modules, optically powered data links and high power optical data systems, which are used in  medical, electric power, sensor and wireless markets.
+	['', 'optical fiber', ' ', 'photovoltaic power', ' sensor']
+Ideal Power
+	Developer of power converters. The company develops and manufactures disruptive electronic power converters. It also offers electronic power converters for renewable energy generation, electrical energy efficiency, smart power grids and electric vehicles. The company also provides photovoltaic inverters and battery converters for grid storage and electrified vehicle fast charging infrastructure, such as peak demand reduction in commercial and industrial markets, utility load shifting, buffering EV fast chargers and bi-directional EV DC chargers. In addition, it offers hybrid power conversion systems and power switches.
+	['', 'PV Inverters', ' ', 'Battery Converters', ' ', '3-Port Hybrid Converters', ' ', 'Bi-polar', ' inverters']
+PulseWave RF
+	Provider of semiconductor components for wireless power amplifiers. The company offers Class M Power technology, a digital multi-carrier power amplifier module that simplifies the design for transmitters and provides the scalability required for various power level configurations, including fail-soft operation.
+	['', 'semiconductor component', ' ', 'wireless power amplifier', ' ', 'amplifier module', ' ', 'digital multi carrier', '']
+Pentadyne Power
+	Manufacturer of flywheel clean energy storage systems for energy recycling applications. The company\'s power system engineering features a high-speed composite flywheel, fully-active magnetic bearings and an integrated vacuum system. This combination provides significant advantages including reliability, operating costs and footprint. The Pentadyne flywheel system delivers 120 kW of instant, precise electrical power for up to 20 seconds.
+	['', 'storage system', ' ', 'clean energy', ' clean-tech ', 'energy recycling application', '']
+Silicon Power
+	Provider of semiconductor devices, pulsed-power modules and utility-applicable systems. The company offers semiconductor components, which include rectifier type diodes and thyristorsm, phase control and line commutation devices, pulse power application device and phase modules. It offers its products for use in commercial, industrial, defense and national power applications.
+	['', 'semiconductor device', ' ', 'pulsed-power module', ' ', 'utility-applicable system', ' ', 'semiconductor component', ' ', 'line commutation device', '']
+Calypto Design Systems
+	Provider of power optimization and functional verification software services. The company offers PowerPro CG that reads in an RTL design and evaluates circuit behavior in various clock cycles to identify sequential clock gating enable conditions; PowerPro MG, an automated memory power optimization service that reduces dynamic and leakage memory power; and PowerPro-filer, a Linux utility that calculates clock-gating efficiency, as well as the percentage of registers clock gated in a RTL design block.
+	['circuit ', 'functional verification', ' ', 'electronic system', '']
+Advanced Power Projects
+	Provider of power by focusing on natural gas power generation. The company develops new power plants to reduce power costs for industrial customers, as well as provides technologies to facilitate the economic deployment of wind, solar, and biomass plants.
+	['', 'power generation', ' ', 'natural gas', ' ', 'biomass plants', '']
+HF2
+	Developer of a photovoltaic power plant. The company sells energy to the market and is also entitled to the Italian GSE feed-in tariff system. The develops photovoltaic power plant that is used to reduce CO2 emissions.
+	['', 'renewable energy', ' ', 'photovoltaic power', '']

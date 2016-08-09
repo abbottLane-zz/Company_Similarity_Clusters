@@ -1,18 +1,33 @@
-Oxford BioMedica
-	Developer of gene-based medicines and therapeutic vaccines. The company\'s technology platform includes a gene delivery system for the treatment of the diseases of the central nervous system and the eye and a tumor antigen for anti-cancer therapy.
-	['', 'gene-based medicines', ' ', 'therapeutic vaccines', ' ', 'gene delivery system', ' ', 'tumor antigen', ' ', 'anti-cancer therapy', '']
-Voyager Therapeutics
-	Provider of gene therapies for diseases of the central nervous system. The company is a gene therapy company that develops treatments for fatal and debilitating diseases of the central nervous system.
-	['', 'gene therapy', ' ', 'central nervous system', ' ', 'adreno virus', '']
-BruCells
-	Developer of therapeutic cellular vaccines. The company produces vaccines based on dendritic cells. It also develops cytokines of a clinical nature used in the preparation of cancer vaccines.
-	['vaccine ', 'cancer vaccine', ' ', 'cellular vaccine', ' ', 'therapeutic vaccine', '']
-Elitra Phramaceuticals
-	Developer of next generation antimicrobial drugs that target essential gene products of pathogenic organisms. The company employs its functional genomics technologies to identify essential gene drug targets in clinically relevant bacterial and fungal pathogens.
-	['', 'antimicrobial drug', ' ', 'drug discovery', ' ', 'pathogenic organism', '']
-VectorLogics
-	Developer of virus based cancer therapies and therapeutic vaccines for viral liver diseases. The company utilizes IBDV technology for research on Viral hepatitis and Hepatocellular carcinoma. The company commercializes products for Cancer Virotherapy, Cancer Vaccines, Prophylactic and Therapeutic Vaccines.
-	['', 'Viral hepatitis', ' ', 'Hepatocellular carcinoma', '  carcinoma liver IBDV ', 'Infectious Bursal Disease Virus', '']
-Hémax Génome
-	Provider of a gene-discovery platform for mapping a gene on the X chromosome that is involved in regulating hematopoiesis. The company also applies its gene-discovery platform to other genes responsible for diseases showing an unequal distribution amongst genders.
-	['', 'gene-discovery platform', ' ', 'hematopoiesis regulation', ' ', 'genes identification', ' biotechnology']
+Amadesa
+	Provider of website multivariate testing and customer targeting solutions to improve online conversions and engagement. The company’s solutions contain various application modules for A/B and multivariate testing, segment testing, automated personal testing, product recommendations, forms and shopping cart optimization and personalization.
+	['', 'customer targeting solution', ' ', 'segment testing', ' ', 'software-as-a-service', '']
+Compass Quality Insight
+	Developer of a software quality assurance platform. The company\'s testing product, Compass Profiler, provides testers with analytics to prioritize testing effort by identifying exactly what has changed in a web application, how it might interact with other parts of the software, and the location of potential testing gaps that may allow bugs to slip through.
+	['', 'internet application', ' ', 'infrastructure software tool', ' ', 'web application', ' ', 'testing application', ' ', 'quality software', ' ', 'testing software', ' ', 'quality testing', '']
+SensiVida Medical Technologies
+	Developer and provider of minimally invasive diagnostic devices and technologies. The company develops and provides digital diagnostic devices with microsystems-based technology that automates bio-sensing and data acquisition. The Company\'s optical-digital platform technology addresses allergy testing, pain-free automated glucose monitoring, blood coagulation testing, TB testing and cholesterol monitoring.
+	['', 'minimally invasive', ' ', 'microsystems-based technology', ' ', 'bio-sensing', '']
+Wireless Info Tech
+	Provider of testing and compliance certification services. The company offers global field testing services, such as voice call services in mixed and marginal signal areas; data services; and CDG3 services, including system acquisition, SMS, calling features, handoff, and DTMF tests. It also provides manufacturing and production software and applications testing and development services; wireless reference design services, including form factor and production ready services; and product testing services.
+	['', 'testing and compliance certification service', ' ', 'global field testing service', ' ', 'applications testing', ' ', 'manufacturing and production software', ' ', 'wireless reference design service', ' ', 'product testing service', '']
+Amira Medical
+	Manufacturer of medical testing devices. The company\'s equipment is designed to facilitate testing of blood glucose levels for people with diabetes.
+	['', 'medical testing', ' ', 'blood glucose', ' diabetes']
+RelQ Software
+	Provider of softrware testing services. The company offers real-time and embedded applications testing, including mission critical software testing, for clients looking to deploy applications across the enterprise.
+	['', 'functional testing', ' ', 'competitive advantage', ' ', 'business applications', '']
+Maxymiser
+	Provider of multivariate testing and personalization. The company provides online business to turn every interaction into an experience with its cloud-based testing, personalization and cross channel optimization. It combines online testing and automated personalization into a single platform to help marketers to launch campaigns.
+	['', 'B2B Service', ' ', 'testing and personalization', ' ', 'customer experience optimization', '']
+mbr targeting
+	Developer of a targeting technologies for increased relevance of advertising focus and product recommendations. The company has developed an approach that can analyze and structure big data categories without having to make a Prior assumptions or use categories.
+	['', 'targeting technology', ' ', 'analysis method', ' ', 'product recommendation', ' ', 'advertising focus', '']
+Offermatica
+	Developer of a Website content testing and performance optimization platform.The company develops software to test, measure, and optimize Internet marketing and advertising campaigns. It provides multivariate promotion testing, form and landing page optimization solutions for online advertisements, onsite merchandising, electronic mail campaigns, and pay-per-click listings.
+	['', 'Internet marketing', ' ', 'online advertisements', ' ', 'direct mail', ' PPC']
+BLGG Group
+	Developer of agribusiness testing products. The company specializes in testing, sampling, and consulting services focusing on fertilizing, crop residue, soil health, and nutritional levels. The company focuses on a micro level analysis, analyzing mineral content of the soil.
+	['', 'crop testing', ', ', 'agriculture testing', ', ', 'soil health', ', ', 'crops', '']
+Splitforce
+	Developer of mobile testing applications. The company provides A/B testing for mobile applications and games.
+	['', 'mobile analytics', ' ', 'A/B testing', ' ', 'mobile testing application', '']

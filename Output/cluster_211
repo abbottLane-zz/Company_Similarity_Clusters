@@ -1,18 +1,39 @@
-Legends Optical 4.0
-	Operator of optical laboratories. The company provides facility equipped with the lens processing technology.
-	['', 'eyeglass lenses', ' ', 'lens processing', ' facility']
-Indisys
-	Developer of Natural Language and Intelligent Conversation service. The company provides natural language and dialog management system that enables functional, social and emotional virtual intelligence, context awareness and flexible, human like conversational abilities. It also provides fully integrated social media and chat offerings.
-	['', 'natural language service', ' ', 'dialog management system', ' ', 'emotional virtual intelligence', ' ', 'context awareness', ' ', 'integrated social media', ' ', 'live chat', '']
-Firefly Network
-	Developer of an intelligent agent technology for the Internet. The company offers the tools enable businesses to create additional advertising and transaction revenues by helping companies to better understand and serve each consumer based on their individual tastes and preferences.
-	['', 'intelligent agent technology', ' ', 'electronic marketplace', ' ', 'transaction revenue', '']
-Luidia
-	Provider of portable interactive technology for classroom and meeting room collaboration. The company is the creator of eBeam interactive technology, a plug-and-play platform designed to make nearly any surface interactive and which can record writing and drawings made on traditional whiteboards.
-	['', 'white board', ' ', 'collaboration software', ' whiteboard']
-Expound
-	Provider of software application to let companies conduct conversations with their customers, employees, partners and suppliers. The company provides a language processing engine capable of integrating into existing sensor and information technology products to disseminate crisis management data to enhance the ability of communication via transforming existing commercial applications (CRM, ERP and Knowledge Stores) into interactive customer self-service applications.
-	['', 'software solutions', ' ', 'commercial application', ' ', 'communication software', '']
-Colloquis
-	Producer of self-service tools that enable to answer customer questions with a natural language processing technology. The company provides interactive agent technology and conversational online business solutions.
-	['', 'language processing', ' ', 'conversational online', ' ', 'agent technology', ' ', 'messaging platform', '']
+Respirics
+	Provider of drug delivery and development services. The company is a respiratory drug delivery and development company serving the pharmaceutical, biotechnology and diagnostic industries. It has developed a proprietary dry powder respiratory drug delivery system that can incorporate a range of drug products to treat respiratory diseases as well as other diseases where systemic drug targeting is required.
+	['', 'drug delivery', ' ', 'inhalation technology', ' ', 'dry powder respiratory', '']
+PreCision Dermatology
+	Developer of dermatological products. The company\'s DELEVO Foam Technology, a drug delivery platform that provides levels of proven active ingredients to the skin with fewer side effects and improvement of the natural skin barrier.
+	['', 'dermatological product', ' ', 'skincare product', ' ', 'skin treatment', '']
+Civitas Therapeutics
+	Developer of respiratory drug delivery therapies. The company has developed a program in Parkinson’s disease that leverages the ARCUS respiratory delivery platform. CVT-301, Civita\'s other lead program, is being developed for the treatment of debilitating and unpredictable motor fluctuations associated with Parkinson’s disease.
+	['biopharmaceutical ', 'pulmonary delivery therapy', ' ', 'pulmonary technology', ' ', 'Parkinson’s disease', ' ', 'respiratory drug delivery', ' ', 'respiratory therapy', ' ', 'pulmonary therapy', '']
+Women\'s Capital
+	Developer of oral contraceptive product for the female healthcare market. The company is the creator of Plan B, an emergency contraceptive containing the synthetic hormone progestin levonorgestrel.
+	['contraceptive ', 'birth control', ' pill ', 'female healthcare', ' hormone progestin']
+ULSD
+	Researcher of oral biology as well as olecular, cellular and craniofacial biology with faculty members. The company\'s main objective is to enhance the speed to market the oral developments within the UofL School of Dentistry.
+	['', 'cellular biology', ' ', 'dental hygiene', ' ', 'oral development', '']
+AerovectRx
+	Developer of an inhaled drug delivery platform and provides dosage-controlled therapeutics. The company develops vibrating mesh nebulizers to deliver drugs and vaccines. The aerosol therapeutic company also delivers a variety of vaccine and therapies varying from multiple-use mass immunizations, specialty pharmaceutical and personal home care use.
+	['Respiratory ', 'Anti-Infectives', ' aerosol']
+Arizeke Pharmaceuticals
+	Developer of technologies for oral delivery of macromolecules. The company\'s technology takes advantage of an active transport system, using the polymeric immunoglobulin receptor (pIgR) highly expressed in the intestinal and lung epithelium, and enables delivery of macromolecules such as therapeutic proteins and antibodies via oral or nasal administration.
+	['', 'delivery system', '  macromolecules ', 'protein delivery', ' ', 'therapeutic proteins', ' ', 'active transport system', '']
+E-Pill Pharma
+	Provider of oral drug delivery products for healthcare markets. The company\'s product line includes an oral drug delivery platform which is a combination of medical device and tablets.
+	['', 'medical devices', ' ', 'healthcare industry', '']
+OnPharma
+	Developer of a drug delivery system. The company develops a dispensing device for local anesthetic that allows dentist to reduce injection pain and accelerate the numbing of the affected tooth area.
+	['', 'drug delivery', ' ', 'dispensing device', ' ', 'local anesthetic', '']
+Transcu Group
+	Operator of a drug delivery company. The company engages in the development of a transdermal drug delivery system based on iontophoresis.
+	['transdermal iontophoresis ', 'cutting-edge technology', '']
+e-Nicotine Technology
+	Developer of electronic nicotine (eNT) products. The company is developing a nicotine product that produces a condensation aerosol of nicotine using a proprietary thermal drug-delivery technology. The eNT platform is designed to produce the appropriate dose of  nicotine particles for deep lung delivery, to reduce cravings and to avoid the carcinogens associated with cigarette smoke.
+	['', 'health care', ' ', 'electronic nicotine', ' ', 'nicotine product', '']
+Anesta
+	Developer of pharmaceutical products for oral transmucosal drug administration. The Company\'s products are based on its proprietary oral transmucosal system (OTS) for drug delivery.
+	['', 'oral transmucosal system', ' ', 'pharmaceutical product', ' ', 'oral transmucosal drug', '']
+Orexo
+	Developer of treatments using proprietary drug delivery technology. The company develops a product Diabact, a breath test for diagnosing the stomach ulcer bacterium.
+	['', 'drug delivery technology', ' ', 'insomnia treatment', ' ', 'gastric ulcer', '']

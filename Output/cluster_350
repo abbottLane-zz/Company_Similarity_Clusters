@@ -1,18 +1,42 @@
-NanoVasc
-	Operator of a medical device company. The company designs and manufactures bio mimetic materials that are non-thrombogenic, durable and demonstrate long-term patency. The company uses an electrospinning process to manufacture scaffolds in a multitude of shapes and sizes, and then application-specific modifications are applied to the scaffolds surface in order to achieve desired results. These specific modifications are designed to optimize the devices outcome based on its delivery location. The company\'s first product is a synthetic vascular graft for hemodialysis access.
-	['', 'biomimetic material', ' ', 'electrospinning process', ' scaffold ', 'synthetic vascular graft', ' ', 'hemodialysis access', '']
-L.G. Med
-	Developer of a passive non invasive extravasation patch detector. The company\'s device identifies the rate at which intravenous medication is delivered to patients and will alert medical professional with an alarm and stop the flow of medication should there be an error.
-	['', 'intravenous site', ' ', 'non invasive', ' ', 'non invasive', '']
-AiMedics
-	Operator of a medical device company. The company develops HypoMon system, a non-invasive alarm system that identifies sleep-time hypoglycaemia in children and young adults.
-	['HypoMon ', 'non-invasive', ' hypoglycaemia']
-Biometrix
-	Operator of a medical device company. The company provides medical devices for intensive care, surgery and interventional cardiology.
-	['', 'critical care products', ' ', 'thoracic catheters', ' ', 'urology products', ' ', 'ophthalmic surgery drapes', ' cardiology']
-Exogen ( Ultrasound Bone Healing System )
-	Developer of medical devices for the non-invasive treatment of bone injury and disease. The company focuses on the biophysical modulation and treatment of musculoskeletal injuries and disease.
-	['', 'medical devices', ' ', 'non invasive treatment', ' ', 'bone injury', ' ', 'biophysical modulation', ' ', 'musculoskeletal injuries', '']
-Encapsule Medical
-	Operator of a medical device company. The company focuses on the development of disposable, non-invasive, breast biopsy devices. Its products include Flash, Halo and Phantom.
-	['', 'breast cancer', ' biopsy ', 'breast biopsy', '']
+API Outsourcing
+	Provider of finance and accounting outsourcing solutions.
+	['', 'finance outsourcing', ' ', 'accounting outsourcing', ' ', 'outsourcing solution', '']
+myWealth.com
+	Provider of control over investors portfolios by mastering the fundamentals of key markets. The company provides finance courses, investing courses and online investment classes. Its courses cover essentials of currency, stock and ETF trading, as well as portfolio management.
+	['', 'investor portfolio', ' ', 'online finance course', ' ', 'online investing course', '']
+Double-Take Software Canada
+	Provider of software solutions for data protection and recovery. The company serves legal, educational, government, finance, and healthcare industries.
+	['', 'software services', ' ', 'data recovery', ' ', 'data protection', '']
+Koor Industries
+	Investor of companies in agrochemicals, finance, telecommunications and asset management sectors. The company actively invests in agrochemicals through Makhteshim Agan Industries, in finance through Credit Suisse, in telecommunications and technology through its holdings in Microwave Networks, in asset management through Epsilon Investment House and in venture capital through Koor Corporate Venture Capital.
+	['', 'holding company', ' ', 'investing company', '']
+La Estrella Digital
+	Operator of an e-newspaper. The company provides news on emerging markets, finance, international news, management, politics and technology.
+	['', 'e-newspaper', ' ', 'emerging markets', ' politics']
+Smartfundit
+	Provider of financial products to technology buyers and sellers. The company provides asset finance, technology finance, venture capital finance, enterprise finance, public sector finance and online registration services.
+	['', 'financial product', ' ', 'asset finance', ' ', 'venture capital finance', '']
+Elevator Labs
+	Provider of finance, technical and strategic guidance to start-ups.
+	['', 'finance guide', ' ', 'business finance', '  ', 'strategic guidance', '']
+Mint.com
+	Provider of a free online personal finance service. The company\'s primary service allows users to track bank, credit card, investment, and loan transactions and balances through a single user interface.
+	['', 'personal financial management', ' ', 'single user interface', '']
+Ambiensis
+	Provider of comprehensive development support for new sustainable technologies in the agricultural and environmental sectors. The company provides assistance to business propositions in the areas of finance, product and process development, marketing and business management.
+	['environment', 'agricultural sector', ' ', 'process development', ' ', 'business management', '']
+LearnVest
+	Provider of interactive and educational articles and personal finance information on the web. The company provides checklists, financial tools, a set of financial basics and access to a collaborative community. It creates content based upon personal relevance, personal finance education and investing and savings trends.
+	['', 'personal finance', ' ', 'educational article', ' ', 'personal finance education', ' ', 'financial tool', '']
+PreEnroll
+	Provider of online registration services.
+	['', 'online registration', ' ', 'registration service', '  ', 'registration software', '']
+eDEV
+	Developer of drug. The company operates as a structured finance portfolio company developing an approved drug for three additional follow-on indications in collaboration with a pharmaceutical partner. eDev is a special purpose vehicle that has entered into an R&D project financing relationship with an undisclosed pharma company to finance multiple Phase 3 clinical trials for additional indications of an already-approved drug.
+	['', 'Drug Developer', ' ', 'Finance Portfolio', '']
+S&P Capital IQ
+	Provider of information and technology services to the investment banking and corporate finance community. The company develops software analytics and tool sets for the corporate finance professional.
+	['', 'investment banking', ' ', 'corporate finance', ' ', 'software analytic', '']
+Rupeetalk.com
+	Provider of personal finance portal. The company acts as a intermediary portal that provides personal finance product.
+	['', 'personal finance portal', ' ', 'intermediary portal', ' ', 'personal finance product', '']

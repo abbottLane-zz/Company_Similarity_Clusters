@@ -1,48 +1,30 @@
-Vidus
-	Provider of field service automation solutions.
-	['', 'field automation', ' ', 'field automation service', ' ', 'field service solution', '']
-Pertinence
-	Provider of predictive, rules-based data-mining solutions. The company provides Enterprise Manufacturing Intelligence (EMI) software solutions and analytical solutions that enable manufacturers, operators, and maintenance organizations to meet their business goals while addressing inherent industry challenges and realizing unprecedented ROI.
-	['data ', 'enterprise manufacturing', ' ', 'artificial intelligence', ' ', 'analytical solution', '']
-Amazon Robotics
-	Developer of mobile material handling solutions for the storage, movement and sortation of products. The company\'s mobile fulfillment system include ItemFetch for picking items OrderFetch, a sortation system for routing orders to the dock door and CaseFetch, which delivers pallets to workers for case picking or forward replenishment.
-	['', 'material handling', ' ', 'mobile material handling', ' ', 'sortation system', '']
-FieldMaster Solutions
-	Developer of service automation solutions that combines Internet-based service management and dispatch system. The company develops mobile field service management and productivity software for small businesses and provides work order management and field technician productivity tools.
-	['', 'field service', ' ', 'productivity software', ' ', 'customer service', ' ', 'work order management', '']
-Basis100
-	Provides business solutions to the mortgage lending community. The company’s lines of business included lending solutions for consumer credit, mortgage origination and processing, data warehousing and analytics solutions for automated property valuations, property data-warehousing, data products and analytics support, and capital markets solutions for fixed income trading.
-	['', 'financial services', '']
-Ecutel Systems
-	Provider of networking and enterprise mobility solutions. The company specializes in developing software solutions for secure, mobile access and mobile enterprise management. Its products include Viatores mobile VPN, and infrastructure command and control. It serves government, public safety, healthcare, education, and enterprise customers.
-	['mobile network software networking']
-Jive Software
-	Jive Software Inc provides communication and collaboration solutions for business. The Company sell its products through a direct sales force, both domestically and internationally.
-	['', 'social business software', ' ', 'social software', ' ', 'business software', '']
-Thinque Systems
-	Provider of mobile enterprise applications for sales force automation and field force automation. The company develops and markets wireless, mobile electronic customer relationship management and field force automation software services.
-	['', 'mobile enterprise', ' ', 'sales force automation', ' ', 'field force automation', '']
-Enigmatec
-	Provider of automation solutions for physical and virtual resource management. The company offers Execution Management System, an automation solution to implement run book automation solutions that describe the process of cataloguing, codifying, testing, and automating the manual, scripted, and ad hoc procedures used to manage information technology (IT) environments.
-	['resource management automation ', 'user interface', '']
-Aligo
-	Developer of mobile software solutions. The company offers a suite of mobile business solutions designed to provide mobile workers with access to applications and data from any location and from any device. Its applications solutions range from mobile email to highly complex field force automation solutions.
-	['', 'mobile software', ' ', 'software solution', ' ', 'automation solution', ' ', 'mobile business', '']
-MobileIron
-	Provider of a mobile IT platform to secure and manage mobile applications, documents and devices. The company’s cloud-based software enables end-users to access their applications and data anywhere on the device of their choice, as well as providing access security.
-	['', 'application management', ' ', 'document management', ' ', 'mobile device', ' ', 'mobile platform', '']
-ASPEED Software
-	Provider of application acceleration and optimization solutions. The company provides solutions for accelerating applications for multi-core, multi-CPU, cluster and grid configurations.
-	['', 'risk management application', ' ', 'application acceleration', ' ', 'application optimization', '']
-Green Border Technologies
-	Provider of malware prevention, mobile PC safety, unauthorized downloads prevention, patching and data confidentiality solutions. The company also offers protection on corruption, theft and invasion of business data systems, as well as engages in the protection of enterprises from internet threats that are picked up by compulsively-clicking users and mobile PCs.
-	['', 'patching technology', ' ', 'data confidentiality', ' ', 'data system invasion', ' ', 'data system theft', ' ', 'internet threat protection', ' ', 'DMZ technology', ' ', 'malware prevention', ' ', 'mobile PC safety', '']
-iMedeon
-	Provider of wireless web applications for mobile workforce management. The company\'s software suite is designed to optimize scheduling, routing and facilitate the dispatching and management of mobile workforces.
-	['', 'wireless web applications', ' ', 'web-enabled', '']
-Newspage
-	Developer of worldwide mobile applications. The company\'s products include services like enterprise services, sales force automation services, field force management system for organizations, delivery of retail merchandising, pickup and delivery of consignments, field service and logistics.
-	['', 'web application', ' ', 'consumer good', ' ', 'enterprise service', ' ', 'retail merchandising', '']
-Spatial Wireless
-	Developer of software-based networking solutions for mobile networks. The company provides software based and multi standard distributed mobile switching solutions.
-	['', 'network solution', ' ', 'mobile network', ' ', 'mobile switching', ' ', 'network switching', ' ', 'networking software', '']
+Filter Platforms
+	Developer and operator of a proprietary online business-social network. The company builds and operates proprietary online Business-Social Networks which are transaction oriented and enabled with social features.
+	['', 'business network', ' ', 'online Business-Social Networks', ' ', 'social marketplace', '']
+Shopa
+	Developer of a social advertising platform. The company provides a social marketplace for its users to provide personalized shopping feeds towards targeted social offers.
+	['', 'social advertising platform', ' ', 'social marketplace', ' ', 'online advertising platform', '']
+The Taploid
+	Provider of digital tabloid for social networks. The company\'s application takes social data of users friends from the web and turns that data into a magazine containing relevant stories, news, silly gossip and funny interactions.
+	['', 'digital tabloid', ' ', 'online data', ' ', 'data conversion', '']
+Indie Vinos
+	Developer of a mobile application for wine tasting. The company connects small wineries with wine drinkers via mobile and web-based social marketplace and provide them with social selling and customer relationship management tools.
+	['', 'consumer service', ' ', 'consumer product', ' ', 'wine tasting', '']
+Second Porch
+	Provider of a social vacation home marketplace, where travelers can discover the perfect vacation rental through their trusted social circle. The company serves as a vacation home portal that offers private visibility for homeowners who only want their friends to see their home listing. The company\'s users can search for homes based on location, budget, recommendations, amenities and their relationship with the owner or former guests.
+	['', 'social software platform', ' ', 'leisure facilities', ' ', 'social vacation home marketplace', '']
+Tribe Studios
+	Developer of a gamified social interaction software. The company provides a social virtual world where every character of the drama is played by a real person.
+	['', 'computer game', ' ', 'social interaction', ' drama']
+Tradyo
+	Provider of a social marketplace. The company provides an online, interactive version of classified advertising. The platform provides location-based searches for items, real-time alerts, integrates with social networks and instant communication abilities. The platform is available on the Web and through a mobile application, and serves consumers in the U.S. and Canada.
+	['', 'social marketplace', ' ', 'local buying', ' ', 'local selling', '']
+Wohin.de
+	Provider of an online platform for data integration of social events through social networks. The company provides information for various social events, including  theater, concerts and sports.
+	['', 'onoline platform', ' ', 'data integration', ' ', 'social events', '']
+ALIA 2
+	Manufacturer of compound feeds for cattle, pigs and poultry.
+	['', 'cattle feeds', ' ', 'pigs feed', ' ', 'poultry food', ' ', 'animal food', '']
+FAD IO
+	Provider of social network platform. The company provides social network for products and shopping that helps users find better products through community curation, users get ratings, ideas and insights for product purchases from real people.
+	['', 'social network platform', ' community ', 'community curation', ' ratings shopping']

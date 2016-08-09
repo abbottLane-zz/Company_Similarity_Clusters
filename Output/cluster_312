@@ -1,33 +1,15 @@
-Weilos
-	Provider of mobile based social platform to help users lose weight through accountability. The company\'s platform matches users with coaches who have won their own weight battles, and who can supply personalized input to help them reach their weight-loss goals.
-	['', 'social weight loss', ' ', 'Learn Program', ' coaching']
-Brightkite (acquired 2009)
-	Provider of location-based social networking website. The company provides a locaiton-based social platform that fosters relationships between potential strangers who happen to be in the same physical space.
-	['', 'location based', ' ', 'online community', '']
-Betterfly
-	Provider of a live video learning marketplace. The company\'s platform connects individuals with teachers, instructors and experts to help users learn a new skill or improve on something they already know.
-	['', 'self-improvement', ' ', 'online lessons', ' ', 'video chat', ' lessons ', 'online tutoring', '']
-A Space Apart
-	Provider of location based social media platform. The company\'s platform connects users with local businesses.
-	['', 'social media platform', ' ', 'online business platform', ' ', 'social platform', '']
-Guanxi (China)
-	Developer and provider of a location-based social discovery platform. The company develops a social platform that helps users discover new connections and maintain meaningful relationships, whether business or personal, with people they have commonalities with.
-	['']
-Connectipity
-	Operator of a global collaboration platform for solving professional challenges. The company develops a digital platform that connects users with the right skilled people for immediate needs.
-	['', 'global collaboration', ' ', 'professional challenges', ' ', 'work spaces', ' ', 'management tool', '']
-LoSo
-	Provider of location-based social media application. The company\'s platform delivers real-time advertisements, local deals and user loyalty reward “geo-checkins” through smart-phones and facebook applications.
-	['', 'social media app', ' ', 'location software', ' ', 'smart phone application', '']
-ShopperTrak
-	Provider of location based retail analytics for retail industry. The company provides consumers insights and analytics for retailer, malls and entertainment venues which helps in leveraging the company with consumer data.
-	['', 'retail leverage', ' ', "retailer\\'s data", ' ', 'consumer data', ' ', 'consumers insights', '']
-Scoville
-	Provider of location-based recommendation engine. The company discovers at least one place every week and shares them on their website.
-	['', 'Recommendation engine', ' ', 'discovery platform', ' location']
-Momo
-	Provider of a location-based social networking application. The company provides a free platform enabling users to communicate through voice, photos and text, while being aware of real-time distance between themselves and the person they\'re messaging.
-	['', 'navigation system', ' ', 'GPS tracker', ' ', 'global positioning system', ' ', 'social networking application', '']
-SonicLiving
-	Provider of a social platform that connects users to music concerts and events  based on their social media preferences. The company connects events and people all around the Internet, taking into account context, taste, social graph activity and event type.
-	['', 'consumer service', ' ', 'music concerts', ' ', 'social media preferences', '']
+P21
+	Providers of autonomous energy supply and energy-efficient solutions, with the aim of replacing diesel generators with zero-emission products. The company provides services in energy efficiency and monitoring, solutions for supplying electricity to off-grid applications such as monitoring stations, telecommunications facilities or self-sufficient houses; and providing education and research programs for fuel-cell and solar-hydrogen technology.
+	['energy-management ', 'energy consumption', ' ', 'hydrogen fuel cell system', ' ', 'climate reading', ' ', 'CO2 balance', '']
+NxtGen Emission Controls
+	Manufacturer of syngas systems for diesel and engine combustion optimization. The company offers syngas diesel particulate filter (DPF), a diesel emission control system for medium-duty and light-duty on-road vehicles; syngas lean NOx trap (LNT), a diesel emissions control system; and syngas DPF + LNT, an integrated solution to reduce particulate matter and NOx emissions using syngas as the regenerating agent. It also provides syngas generator evaluation unit for researchers, government laboratories, powertrain, energy, and fuel cell technology developers; syngas lean combustion for gasoline automobile manufacturers to reduce greenhouse gas emissions; and Non-Catalytic Syngas Generator Primer that enables diesel engine after treatment and gasoline engine combustion optimization systems.
+	['', 'diesel emission control system', ' ', 'engine combustion optimization', ' ', 'diesel particulate filter', '']
+Protonex Technology
+	Developer and manufacturer of intelligent power management and portable fuel cell products for military and commercial markets. The company provides mission-critical equipment to make military more energy efficient and operationally flexible.
+	['', 'energy service', ' ', 'fuel cell product', ' ', 'power system', '']
+Intec Power Holdings
+	Developer of technologies for generating electricity. The company develops Silent Urban Rotational Generator of Electricity (SURGE) that captures the natural movement of air and converts into electricity by means of generator and ducting control system.
+	['', 'Generator of Electricity', ' ', 'Electricity Generator', ' generator']
+Mesofuel
+	Developer of hydrogen generators to convert fuels into hydrogen for fuel cell sales in portable and stationary applications. The company\'s technology uses proprietary fuel processors and nano-scale filtering of hydrogen to create a novel compact product that generates hydrogen in an environmentally friendly manner.
+	['', 'hydrogen generators', ' ', 'desulphurization technologies', ' fuel']

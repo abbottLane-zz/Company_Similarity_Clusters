@@ -1,24 +1,33 @@
-SmartRM
-	Developer of encryption software that allows users to protect and share digital content, such as documents, audio and video files. The company operates an open-source, interoperable DRM platform based on the MPEG-21 standard. The company\'s software prevents unauthorized printing, copying and sharing, sets time limits on file use, tracks file users and helps keep control of files even after they are sent.
-	['', 'encryption software', ' ', 'digital contents', ' ', 'unauthorized printing', ' tracking']
-Yepler
-	Creator of an online social desktop community. The company\'s platform enables users to organize files, links,videos, friends and groups by tagging and rating them locally and globally. The platform allows users to write comments or chat about any link or file on their computer. Through the platform, a document can instantly serve as a communication channel between two users.
-	['', 'desktop software', ' ', 'communication channel', ' ', 'document tagging', '']
-Kippt
-	Provider of social and collaborative bookmarking site. The company enables its users to organize links into lists, collect bookmarks and clips add comments and share content.
-	['', 'bookmarking site', ' ', 'content sharing platform', ' ', 'social site', '']
-WebShaka
-	Developer of a Web desktop platform. The company is the creator of YouOS, a platform replicating a desktop environment on a Web page. The platform allows users to login and save their work from multiple computers, to centralize all their Web services and files in one place, and to share files and apps with others. The platform operates on Javascript.
-	['', 'manage files', ' ', 'development tools', ' ', 'desktop platform', ' ', 'desktop environment', '']
-Thinkature
-	Developer of an online collaboration platform for small groups. The company offers a web-based white-board platform that allows users to chat and draw diagrams on a shared whiteboard.
-	['', 'collaboration platform', ' white-board workspace']
-ShareFile
-	Provider of software solutions that help businesses exchange files. The company offers an online file storage solution that allows users to create a custom-branded password-protected area where users exchange business files with clients
-	['', 'software solution', ' ', 'businesses exchange file', ' ', 'online file storage', ' storage']
-BigSwerve
-	Operator of a search aggregator for blog comments, which are often omitted in blog searches and roundups. The company\'s crawler aggregates comments, allowing users to follow the comments for a given person and discover new content by seeing where other people are engaged.
-	['', 'search aggregator', ' ', 'blog comment', ' crawler ', 'web crawler', ' ', 'comment aggregator', ' ', 'blog crawler', ' ', 'web spider', ' ', 'blog spider', '']
-Lefora
-	Provider of a platform that allows members to create public and private forums and add videos and photos. The company allows members to create animal, automotive, business and professional, computer and Internet, culture and community.
-	['', 'public forum', ' ', 'private forum', ' ', 'web discussion', ' ', 'online forum', '']
+Hamilton Pharmaceuticals
+	Developer of medical treatments for diseases related to central nervous system. The company engages in the development of late-stage products for neurology and psychiatry.
+	['', 'medical treatment', ' ', 'medical product', ' ', 'psychiatric disease', '']
+Pharmaxon
+	Developer of neurology and neuro-oncology drugs. The company engages in the discovery and development of drugs for nervous system disorders in which cell mobility is modified. The company\'s activities are currently concentrated on the development of therapies for spinal cord injury, memory disorders and glioblastoma. The company spun out of the Development Biology Institute of Marseille Luminy.
+	['', 'neuro-oncology drugs', ' ', 'nervous system disorders', ' ', 'neurological drugs', '']
+Voyager Therapeutics
+	Provider of gene therapies for diseases of the central nervous system. The company is a gene therapy company that develops treatments for fatal and debilitating diseases of the central nervous system.
+	['', 'gene therapy', ' ', 'central nervous system', ' ', 'adreno virus', '']
+Capsant Neurotechnologies
+	Provider of a technology platform based on organotypic slice cultures. The company focuses on solving problems in the discovery of novel targets and drugs for central nervous system disorders such as stroke, trauma, epilepsy, Parkinson\'s and Alzheimer\'s.
+	['', 'drug evaluation', ' ', 'organotypic slice culture', ' ', 'nervous system disorder', '']
+Myelos Neurosciences
+	Developer of therapeutics for neuropathic pain, peripheral neuropathy and neurodegenerative central nervous system disorders. The company provides peptide therapy to treat nervous system disorders and related degenerative diseases to treat pain syndromes and peripheral neuropathies.
+	['', 'neuropathic pain', ' ', 'peripheral neuropathy', '']
+Intracellular Therapies
+	Developer of drugs for the treatment of diseases and disorders of the Central Nervous System (CNS). The company develops compounds to treat neuropsychiatric and neurological diseases. It also develops a state of the art technology platform for generating a unique molecular signature for drug compounds.
+	['', 'neuropsychiatric disease treatment', ' ', 'neurological disease treatment', ' ', 'drug compound', ' ', 'drug development', '']
+Ception Therapeutics
+	Developer of biopharmaceuticals engaged in the discovery, development, and commercialization of new drugs and therapies for difficult to treat illnesses. The company offers Reslizumab for eosinophilic inflammatory conditions. It also provides Anti-TNF, a class of small molecule anti-TNF receptor agents with the potential to be orally administered. The companies portfolio includes treatments for central nervous system disorders, pain and cancer  and include eight proprietary products in the United States, along with more than 100 products internationally. Cephalon\'s research pipeline is focused on developing new compounds and new indications for existing products, while their business collaborations capitalize on new products and smart drug delivery technologies.
+	['', 'Pharmaceuticals and Biotechnology', ' ', 'commercialization of new drugs', ' ', 'drug delivery technologies', '']
+Sention
+	Developer of drugs to treat memory impairment and other central nervous system disorders. The company develops lead compounds using its specialized genomics and behavioral models to treat other major central nervous system disorders.
+	['memory ', 'nervous disorder', ' ', 'specialized genomics', ' ', 'behavioral model', ' nerve']
+BioBehavioral Diagnostics
+	Developer of diagnostic systems for the quantitative assessment of behavioral and neurobiological disorders. The company develops and markets a proprietary platform technology to objectively measure specific behaviors that correlate with brain function and deficits in inhibitory control.
+	['', 'diagnostic system', ' ', 'neurobiological disorder', ' ', 'psychiatric condition', '']
+Ascendis Pharma
+	Developer of pro-drug technology for endocrinology, cardiovascular and central nervous system disorders. The company develops a prodrug technology, TransCon, which conjugates the drug compound to a carrier molecule in a reversible fashion. It also provides transient conjugation technology, long-acting prodrugs of proteins, peptides and small molecules.
+	['', 'drug-technology', ' ', 'conjugation technology', ' ', 'drug compound', ' ', 'carrier molecule', ' prodrug']
+Axonia Medical
+	Developer of tissue-engineered medical products for peripheral & central nervous system injury. The company produces living, functional tissue-engineered nerve grafts in the lab that can replace and repair damaged parts of the nervous system. It has developed technique for production of axons (instead of stem cells), the long thin parts of nerve cells that carry signals to distant target cells. Its regenerative treatments use neurons from patients or cadavers to grow long, integrated tracks of axons in the lab and then implants this tissue into the body, which then enables or accelerates the body’s natural repair system.
+	['', 'regenerative treatment', ' ', 'axon production', ' ', 'nervous tissue regeneration', ' ', 'nervous system injury', ' ', 'medical product', '']

@@ -1,21 +1,9 @@
-Silicon Biosystems
-	Provider of technology to study single cells for culture or molecular analysis. The company is the developer of DEPArray technology, enabling researchers to study rare cells and to determine the biological significance of subpopulations of cells within a sample. It also focuses on facilitating advances in personalized medicine by enabling the isolation, recovery and analysis of individual, viable rare cells.
-	['heterogeneity ', 'cell-biology', ' ', 'rare cell', ' ', 'biological significance', ' ', 'single cell', ' ', 'molecular analysis', '']
-Amnis
-	Manufacturer of cell analysis systems for the imaging and analysis of cells in flow. The company’s ImageStreamX and FlowSight imaging flow cytometers combine the speed and sensitivity of flow cytometry with the power of digital microscopy serving a broad spectrum of Life Sciences research market needs.
-	['', 'cell analysis system', ' ', 'biomedical research', ' cytometry apotposis ', 'immune synapse analysis', ' ', 'cell morphology', '']
-Charisela Technologies
-	Developer of assays for flow cytometers. The company engages in research and development of assays that allows users to to run high concentration samples within an hour.
-	['', 'flow cytometers', ' ', 'high concentration samples', ' assays']
-CAVU Medical
-	Developer of restrictive device for treatment of obesity. The company has developed an assembly and method for automatically controlling pressure for a gastric band.
-	['', 'obesity treatment', ' ', 'gastric band control', ' ', 'weight loss', '']
-Acoustic Cytometry Systems
-	Developer of  molecule sensitivity flow cytometers. The company has developed a method to use sound waves to guide cells through cytometers, or cell meters, to allow researchers to examine tissue samples for medical diagnostics.
-	['', 'cytometry instruments', ' ', 'clinical diagnostics', ' research']
-Cbana Laboratories
-	Developer of microfluidic and microanalytical devices for both government and private entities. The company offers miniaturized sensors for homeland security, medical diagnostics, and micro fuel cells.
-	['', 'home land security', ' ', 'portable security', ' ', 'healthcare security', ' ', 'micro analytical device', '']
-Axonia Medical
-	Developer of tissue-engineered medical products for peripheral & central nervous system injury. The company produces living, functional tissue-engineered nerve grafts in the lab that can replace and repair damaged parts of the nervous system. It has developed technique for production of axons (instead of stem cells), the long thin parts of nerve cells that carry signals to distant target cells. Its regenerative treatments use neurons from patients or cadavers to grow long, integrated tracks of axons in the lab and then implants this tissue into the body, which then enables or accelerates the body’s natural repair system.
-	['', 'regenerative treatment', ' ', 'axon production', ' ', 'nervous tissue regeneration', ' ', 'nervous system injury', ' ', 'medical product', '']
+STAPLA Ultraschall-Technik
+	Manufacturer of ultrasonic metal welding products worldwide. The company offers products, engineering and support services to industry segments including automotive, appliance (large, small and HVAC), battery (Lithium Ion and others), other electrical segments, solar and others.
+	['', 'metal welding', ' ', 'support service', ' ', 'electrical segments', ' ultrasonic battery solar']
+Ionity
+	Producer of lithium-ion-polymer batteries. The company\'s lithium-ion technology is used by high-powered mobile energy supply systems.
+	['', 'rechargeable battery', ' ', 'lithium-ion-polymer battery', 'battery', 'Lithium-ion polymer batteries', '']
+Inogen
+	Developer of respiratory home health care equipment. The company offers Inogen One, an oxygen device that provides oxygen for patients in home and away. It also provides accessories, such as mobile power charger, nasal cannula, cart and carry bag, lithium ion battery and battery charger with the device.
+	['', 'respiratory home', ' ', 'supplemental oxygen', ' ', 'portable oxygen', ' ', 'oxygen concentrator', '']

@@ -1,36 +1,21 @@
-Rewind.Me
-	Provider of platform that enables collection and organization of personal data.  The company enables its users to create value from the data they have provided in the past.
-	['', 'data collection', ' ', 'data organization', ' ', 'online data', '']
-bTendo
-	Developer of personal projection technologies. The company\'s technology enable mobile users to project, view, and share multimedia content from PDAs, multimedia players, digital cameras, laptops, mobile phones, or other handheld devices.
-	['', 'projection technology', ' ', 'networking platform', ' ', 'multimedia sharing', ' ', 'content sharing', '']
-Chuisy
-	Operator of a social networking platform for sharing shopping decisions. The company offers a social plugin for online shops, Chu Box which enables recommendation marketing and also helps in sharing shopping decisions with friends and customers, and get their feedback. It also offer services to retailers and offline merchants by connecting with customers.
-	['', 'shopping decision', ' ', 'online shopping', ' ', 'fashion application', ' ', 'social shopping platform', '']
-Five Across
-	Provider of social networking and community building technology. The company\'s web platform enables organizations to grow user communities with multimedia experiences.
-	['', 'social content', ' ', 'community building technology', ' ', 'web platform', ' ', 'multimedia experience', '']
-SodaHead
-	Developer of an opinion-based discussion platform and provider of polling technology for media companies. The company operates an opinion-based discussion community where users can create profiles, interact with other members. It also includes slide shows, original content and message boards.
-	['', 'public opinion platform', ' ', 'polling service', ' ', 'online community', '']
-Rawporter
-	Provider of online raw video and photos. The company provides photos and videos that are shared online.
-	['', 'online video', ' ', 'online sharing', ' ', 'online photo', '']
-ShareWave
-	Provider of semiconductor technology for multimedia-capable wireless home networks. The company provides wireless LAN semiconductor service which provides seamless transmission of multimedia content, including video and audio entertainment.
-	['', 'semiconductor technology', ' ', 'wireless semiconductor', ' ', 'seamless transmission', ' ', 'multimedia content', '']
-Ning
-	Provider of an online platform to create social networks for organizers, activists, and influencers. The company offers services for branding and visual design, member profile, moderation and privacy, invite and share, RSS feeds, photos and videos, chat, group creation, discussion forum, blogging, and events.
-	['', 'community platform', ' ', 'branding design', ' ', 'discussion forum', '']
-Nasza-Klasa
-	Provider of social networking platform in Poland. The company\'s website allows users to create profiles, upload photos, chat with friends, find and and connect with classmates at various levels of education.
-	['', 'social networking platform', ' classmates']
-Hyves
-	Operator of a social networking platform. The company’s online platform enables users to create personal profiles, share multimedia content including photos, videos and links.
-	['', 'online social network', ' ', 'multimedia content', '']
-Santa.com
-	Operator of a platform which enables users to create a list of gifts. The company’s portal enables children to e-mail Santa and create a list of gifts they wish to receive and share with family and friends.
-	['', 'online gift', ' ', 'gifting platform', ' ', 'shopping online', '']
-Bragster
-	Provider of an online entertainment platform. The company provides social networking platform that enables the user perform dares and challenges.
-	['challenge ', 'social network', ' dare']
+TheMarker TV
+	Provider of TV broadcasting services.
+	['', 'broadcasting services', ' ', 'television and media', '']
+MoreTV Broadcasting
+	Provider of television broadcasting services. The company operates a 24-hour media service program information and personalized television recommendations via the internet and satellite broadcasting.
+	['', 'television broadcasting', ' ', 'media service', ' ', 'satellite broadcasting', '']
+Veo Television
+	Provider of television broadcasting services in Spain.
+	['', 'broadcasting services', ' ', 'television broadcasting', ' ', 'TV broadcasting services', '']
+InfoJobs Spain
+	Developer of an online job platform. The company provides a digital platform that offers employment information services in Spain.
+	['', 'online job platform', ' ', 'job portal', ' ', 'employment services', '']
+GoldPocket Interactive
+	Provider of a television software. The company provides two-way interactive television programming for set-top boxes and personal computers.
+	['eTV ', 'set-top boxes', ' ', 'television programming', '']
+Fox Entertainment Group
+	Provider of film entertainment and television broadcasting services. The Company is engaged in the development, production and worldwide distribution of feature films and television programs.
+	['', 'television broadcasting service', ' ', 'film entertainment', ' ', 'television program', '']
+Telcast Media Group
+	Provider of television broadcasting and marketing services. The company operates a television production studio and serves broadcasters in Germany and internationally.
+	['', 'production studio', ' ', 'television distribution', ' 3D']

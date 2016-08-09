@@ -1,33 +1,15 @@
-SironaHealth
-	Provider of healthcare communication technology and service. The company developed the IntelliView system using proprietary software that runs on industry standards operating platforms.
-	['', 'communication technology', ' ', 'healthcare communication', ' ', 'proprietary software', ' ', 'industry standard', ' ', 'operating platform', '']
-Solaiemes
-	Developer of communication technology for mobility and unified communications. The company provides infrastructure to help carriers and service providers to enrich the communication experience with their base of customers beyond the person to person case.
-	['', 'telco border', ' ', 'mobile cloud', ' ', 'rich communication', ' ', 'unified communication', '']
-Proservia
-	Provider of information technology services. The company offers operational maintenance services, architecture and integration services, information system governance services and training services.
-	['', 'operational maintenance', ' architecture prototyping']
-Digia
-	Provider of information and communication technology services. The company is specializing in integrated information and communications technology services, smartphone and mobile research and development and telecom products.
-	['', 'communication technology service', ' ', 'integrated information', ' ', 'mobile research and development', '']
-UFIS
-	Provider of airport information technology. The company provides integrated information for single, multi-terminal and multi-airport operations for the global aviation community. The company was spun out of Kongsberg Airport System.
-	['', 'airport information', ' ', 'integrated services', ' operations']
-Virtusa
-	Provider of information technology services. The company\'s offerings include application outsourcing, technology implementation and technology consulting.
-	['', 'application outsourcing', ' ', 'technology implementation', ' ', 'strategic planning', ' ', 'quality assurance', '']
-Awarix
-	Provider of communications and reporting tools to hospitals. The company\'s technology allow operational and administrative staff quick access to information across the healthcare enterprise.
-	['', 'communication reporting', ' ', 'healthcare hospital administration', ' ', 'patient care', '']
-Apptix
-	Provider of on-demand business communication services. The company is a provider of hosted business communication, collaboration, and information technology, with particular expertise supporting legal, financial, healthcare and telecom firms.
-	['', 'software developer', ' ', 'on-demand business communication', ' ', 'mobile messaging', '']
-SuiteLinq
-	Provider of integrated communication, on demand entertainment and business productivity services. The company provides integrated content, connectivity, and commerce technology services to the hospitality industry worldwide.
-	['', 'communication service', ' ', 'technology service', ' ', 'business productivity service', '']
-Imperative Health
-	Provider of technology services for personalized weight management. The company is focused on providing ground-breaking health management technology services to address high-risk health conditions, including diabetes, high blood pressure, obesity and raised cholesterol.
-	['', 'weight management', ' ', 'health management technology', ' ', 'behavioural change system', ' ', 'technology platform', '']
-SoHaTec
-	Provider of information technology services to local government entities. The company\'s software platform is tailored to country-specific requirements for its clients, which include Germany and Ukraine.
-	['', 'government information technology', ' ', 'local government', ' ', 'software platform', '']
+Phobos Corporation
+	Developer of internet security and enterprise switching products. The company engages in the design, development and sale of Internet traffic management solutions.
+	['', 'Internet traffic management', ' ', 'Web hosting', '']
+Prolexic Technologies
+	Provider of a distributed denial of service (DDoS) protection platform. The company\'s platform absorbs large and complex distributed denial of service (DDoS) attacks. It also protects and restores Internet-facing infrastructures for global enterprises and government agencies.
+	['', 'network protection', ' ', 'business protection', ' ', 'protection platform', ' ', 'distributed denial of service', '']
+SurfControl
+	Developer of internet and e-mail filtering software. The company protects organizations with multiple layers of threat protection that filter inbound, outbound and internal internet traffic.
+	['', 'threat protection', ' ', 'Internet security', ' spyware']
+Network Elements
+	Developer of network infrastructure building blocks. The company provides customers with fully tested modular solutions incorporating optical interfaces and wirespeed processing for layers 2/3 through layers 4/7.
+	['', 'network infrastructure', ' ', 'wirespeed processing', '']
+Apptitude
+	Developer of a embedded internet traffic analysis platform. The company provides a wire speed application recognition technology that provides fully granular, real time application visibility on enterprise networks.
+	['', 'internet traffic', ' ', 'analysis platform', ' ', 'enterprise network', '']

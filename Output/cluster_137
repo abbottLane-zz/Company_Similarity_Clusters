@@ -1,30 +1,27 @@
-Money Workout
-	Operator of a mortgage and insurance price comparison website. The company purchases and generates mortgage enquiries that it matches with the available mortgage products in the market. It also offers related advisory services for consumers, lead generators and lenders.
-	['', 'insurance price', ' ', 'mortgage business', ' ', 'price comparison', '']
-Energy Response
-	Provider of advisory services that facilitates the buying and selling of energy. The company provides strategic advice relating to market development and reform, market access, transmission, distribution and retail issues, regulation issues, competition policy, governance arrangements, legislative and institutional arrangements and user participation issues.
-	['', 'electricity market', ' ', 'price risk management', ' ', 'network support', ' ', 'electricity distribution', '']
-The SLTN Group
-	Provider of consulting and advisory services for implementation, management and migration of issues in profit and non-profit organizations. The company along with its four divisions provides software and hardware solutions for eServer hardware platforms, financial advisors and software vendors for consolidation, virtualization, designing infrastructure for managed cloud services.
-	['BPO eServer ', 'advisory services', ' ', 'cloud services', '']
-HelloWallet
-	Provider of online financial advisory services. The company helps workers to manage their overall household finances by finding the money to boost their contributions to retirement savings and reduce debt.
-	['', 'financial advice', ' ', 'financial guidance', ' ', 'personal finance management', ' ', 'household finance', ' ', 'retirement saving', '']
-Digital Campaigns
-	Provider of information management and IP-enabled solutions for political, non-profit and special interest groups. The company offers database-driven information management solutions for campaign management and fundraising management. The company also provides strategic advisory services to the customers in getting advantage out of new digital technologies.
-	['ASP', 'information management', ' ', 'digital technologies', 'real-time ePhone', 'telephone-based campaign', '']
-Mygola
-	Provider of online trip advisory services. The company provides a travel planning service that helps users to create custom trip plans in minutes.
-	['', 'service platform', ' ', 'social travel', ' ', 'online travel planning', ' ', 'custom trip', '']
-Venture Farm
-	Provider of finance and advisory services. The company provides direct investments and execution assistance to entrepreneurs and early stage companies.
-	['', 'managed capital', ' ', 'advisory services', ' ', 'growth funding', '']
-Club Parafarmacia Online
-	Operator of an online store that provides para-pharmaceutical products. The company engages in providing cosmetics and healthcare product online. It also provides medical advisory services to its customers.
-	['', 'para-pharmaceutical product', ' ', 'medical advisory services', ' ', 'medical advice', ' ', 'cosmetic products', '']
-GoIndustry Dovebid
-	Provider of asset management Services. The company offers auction and valuation services relating to industrial equipment.
-	['', 'asset management', ' auction ', 'industrial equipment', ' valuation']
-USBX Advisory Services
-	Provider of investment advisory services to businesses. The company provides merger & acquisition advisory services, valuation services, institutional private placement and related strategic advisory services.
-	['', 'investment advisory', ' ', 'financial advisory', ' ', 'strategic advisory service', '']
+Timbertower
+	Provider of wind-turbine towers made from renewable resources. The company builds and installs wooden towers for large wind turbines.
+	['', 'wind turbine', ' ', 'wooden tower', ' ', 'renewable resource', '']
+Nordic Windpower
+	Provider of wind turbines to wind farm developers and community wind projects in the United States and internationally.
+	['', 'wind turbine', ' ', 'renewable energy', ' ', 'wind farm development', ' ', 'energy generation', '']
+Wind & Sail Energy
+	Provider of wind-turbine technology. The company\'s technology helps in solving problems associated with propeller-driven turbines.
+	['', 'energy services', '']
+Goldwind Science & Technology
+	Manufacturer of wind turbines. The company specializes in large megawatt wind turbine research, development and manufacturing of total wind energy services and wind farm investment management.
+	['', 'wind turbines', ' ', 'wind energy', ' ', 'wind farm', '']
+LuciaWind
+	Operator and owner of wind farms. The company engages in the production of electric power generation through wind energy.
+	['', 'wind farms', ' electricity']
+SOGEM
+	Developer of wind energy power parks. The company develops alternate source of energy using wind power.
+	['', 'renewable energy', ' ', 'wind power', '']
+Blade Dynamics
+	Manufacturer of wind turbine rotors, blade components and surface coatings. The company\'s technology enables blades longer than 90 meters that will enable the next generation of turbines, such as the Sea Titan.
+	['', 'wind turbine rotor', ' ', 'blade component', ' ', 'surface coating', ' ', 'wind turbine', '']
+Viryd Technologies
+	Developer and distributor of power generating turbines and windmills for the wind industry. The company offers drivetrains for residential and commercial wind systems, as well as energy management systems and developer kits. It also provides engineering services, including design, bench, and field testing services.
+	['', 'power generating turbine', ' ', 'renewable energy', ' ', 'commercial wind system', '']
+Windspire Energy
+	Provider of renewable wind power appliances to residential, business, and government customers. The company produces Windspire, a plug-n-produce wind power appliance that helps in harnessing power from the wind. It uses vertical turbine technology to harness wind energy.
+	['', 'alternative energy', ' ', 'clean tech', ' ', 'turbine technology', '']

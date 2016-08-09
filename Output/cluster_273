@@ -1,42 +1,27 @@
-Pathway Therapeutics (Anticancer Drug)
-	Anticancer Drug molecules and its backup compounds in San Francisco. The drug molecules and its backup compounds are used as an inhibitor to slow down the growth of cancer cells and solid tumors.
-	['', 'oncology', ' ', 'life sciences', ' ', 'treatment of tumors', ' ', 'cancer inhibitor', '']
-Cytion
-	Developer of drug screening technology. The company has developed drug screening technology for the functional analysis of ion channel proteins.
-	['', 'drug screening technology', ' ', 'ion channel protein', ' ', 'drug development', '']
-Capsant Neurotechnologies
-	Provider of a technology platform based on organotypic slice cultures. The company focuses on solving problems in the discovery of novel targets and drugs for central nervous system disorders such as stroke, trauma, epilepsy, Parkinson\'s and Alzheimer\'s.
-	['', 'drug evaluation', ' ', 'organotypic slice culture', ' ', 'nervous system disorder', '']
-Neugenesis
-	Developer of technology for the discovery, improvement and production of complex proteins especially heteromeric proteins. The company develops platforms that help in the discovery and production of complex proteins for biopharmaceutical industries.
-	['biotherapeutics ', 'veterinary vaccines', ' ', 'bio therapeutics', ' enzyme protein']
-Myelos Neurosciences
-	Developer of therapeutics for neuropathic pain, peripheral neuropathy and neurodegenerative central nervous system disorders. The company provides peptide therapy to treat nervous system disorders and related degenerative diseases to treat pain syndromes and peripheral neuropathies.
-	['', 'neuropathic pain', ' ', 'peripheral neuropathy', '']
-DermaGen
-	Developer of antimicrobial peptides directed against skin microbes. The company develops peptides which exert potent antimicrobial effects and are derived from endogenous human proteins, such as those of the complement system, as well as several other skin and blood-derived proteins.
-	['peptides ', 'antimicrobial peptides', ' ', 'peptide-based products', '']
-Aderis Pharmaceuticals
-	Developer of therapeutics focused on cardiovascular, renal and neurological diseases. The company develops novel small-molecule, receptor-specific therapeutics for the treatment of central nervous system, cardiovascular and renal diseases. The company focuses on drug candidates that act selectively to either block (antagonists) or increase (agonists) the activity of certain proteins, such as adenosine or dopamine, to produce the desired therapeutic effect while minimizing side effects. Small molecules generally offer the dosing flexibility required for patients to easily take the drug as prescribed (commonly referred to as patient compliance), have a broader array of dosage forms, lend themselves to easier formulation and have greater potential for absorption and utilization by the body.
-	['', 'Cardiovascular therapeutics', ' ', 'renal therapeutics', ' ', 'neurological disease', ' ', 'cardiovascular disease', ' ', 'renal disease', '']
-Ception Therapeutics
-	Developer of biopharmaceuticals engaged in the discovery, development, and commercialization of new drugs and therapies for difficult to treat illnesses. The company offers Reslizumab for eosinophilic inflammatory conditions. It also provides Anti-TNF, a class of small molecule anti-TNF receptor agents with the potential to be orally administered. The companies portfolio includes treatments for central nervous system disorders, pain and cancer  and include eight proprietary products in the United States, along with more than 100 products internationally. Cephalon\'s research pipeline is focused on developing new compounds and new indications for existing products, while their business collaborations capitalize on new products and smart drug delivery technologies.
-	['', 'Pharmaceuticals and Biotechnology', ' ', 'commercialization of new drugs', ' ', 'drug delivery technologies', '']
-Solucel
-	Developer of plant-derived pharmaceuticals. The company offers small molecules, such as secondary metabolites from plants for pharmaceutical applications.
-	['', 'plant-derived pharmaceutical', ' ', 'plant biotechnology', ' microbial fermentation']
-Sention
-	Developer of drugs to treat memory impairment and other central nervous system disorders. The company develops lead compounds using its specialized genomics and behavioral models to treat other major central nervous system disorders.
-	['memory ', 'nervous disorder', ' ', 'specialized genomics', ' ', 'behavioral model', ' nerve']
-Combinent BioMedical Systems
-	Provider of hydrophobic and hydrophilic molecules, proteins and other molecules. The company focuses on trans-vaginal delivery of drugs targeting women\'s reproductive endocrinology disorders as well as diabetes, obesity and infectious diseases.
-	['', 'vaginal ring', ' ', 'transvaginal drug delivery', ' ', 'reproductive endocrinology disorders', ' ', 'drug delivery system', ' ', 'diabetes drug', '']
-ForHealth Technologies
-	Provider of automation technology for intravenous drug preparation.
-	['', 'automation technology', ' ', 'intravenous drug', ' ', 'robotic system', '']
-Targeted Molecules
-	Developer of drug therapies for cancer and diseases of the central nervous system. The company\'s technology enables both the identification and optimization\nof molecules (peptides and antibody fragments) that precisely target disease tissue.
-	['', 'drug therapies', ' ', 'targeted therapeutic', ' ', 'identification and optimization of molecules', '']
-Ascendis Pharma
-	Developer of pro-drug technology for endocrinology, cardiovascular and central nervous system disorders. The company develops a prodrug technology, TransCon, which conjugates the drug compound to a carrier molecule in a reversible fashion. It also provides transient conjugation technology, long-acting prodrugs of proteins, peptides and small molecules.
-	['', 'drug-technology', ' ', 'conjugation technology', ' ', 'drug compound', ' ', 'carrier molecule', ' prodrug']
+OKWave
+	Operator of a question-answering website. The company provides a platform for users to solve their queries and discuss about their problems.
+	['', 'Q&A community', ' ', 'Q&A forum', ' ', 'discuss answers', ' queries']
+Custom Solutions USA
+	Provider of brand merchandise programs. The company offers branded product, ecommerce and marketing services. Its solutions include Company Store Merchandise Programs, Special Order Merchandise, Events and Promotions Premium programs, Service Award Programs, Award Incentives, and Custom Web design.
+	['', 'brand merchandise', ' ecommerce ', 'promotional distribution', ' ', 'merchandise store', '']
+My Star Autograph
+	Provider of an e-commerce platform for selling merchandise signed by celebrities. The company operates a website enabling users to purchase personally signed photos from international professional athletes, including players of tennis and soccer. It also plans to add products signed by actors and musicians to its online platform.
+	['photographs ', 'signed photo', ' musician ', 'e-commerce platform', '']
+FanHero
+	Creator and seller of branded merchandise for online celebrities with a fan base. The company provides a platform for the users to sell their merchandise to their fans.
+	['', 'branded merchandise', ' ', 'custom merchandise', '']
+Boundless Network
+	Owner and operator of a promotional products distribution company. The company distributes technology-enabled branded merchandise for businesses. Its branded merchandise includes apparel with logos, writing instruments, awards, and trade show giveaways.
+	['', 'promotional product', ' ', 'promotional distribution', ' ', 'branded merchandise', ' ', 'business merchandise', '']
+Steam Republic
+	Provider of fan relationship management services. The company provides an online platform through which fans can connect with their favorite bands, athletes, celebs and artists, those who have a fan following can start a direct conversation with their fans, increase fan loyalty and analyze the tribe.
+	['', 'fan relationship management', ' fans ', 'fan loyalty', ' ', 'loyalty builder', ' ', 'fan engagement', ' ', 'fan relationship', ' direct-2-fan']
+Fanvibe
+	Provider of sports social hub and application software. The company provide game updates to the sport fans wherever they are engaged and gives fans deals on tickets, merchandise, and more.
+	['', 'application software', ' ', 'iphone application', ' ', 'sport application', '']
+Wisemarkit
+	Provider of  an online social marketplace that enables the users to launch their own virtual boutiques. The company allows the user to search through millions of different products, share it across the network by marking them in a virtual customizable shop, which gives the freedom to the users to sell however and whatever they want to sell and earn commission by sell of the products.
+	['', 'online marketplace', ' ', 'virtual boutiques', '']
+Passionato
+	Provider of an online classical music platform. The company retails an array of merchandise and recordings for classical music consumers, including audio CDs, recordings, DVDs, boxed sets of recordings and ancillary merchandise such as T-shirts.
+	['', 'online music', ' ', 'classical music', ' ', 'music download', '']

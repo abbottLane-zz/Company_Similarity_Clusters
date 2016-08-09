@@ -1,21 +1,30 @@
-Mesophotonics
-	Developer of photonic crystal technology for optical devices. The company provides technology in the fields of lasers, miniature optics, telecommunications and computing. It offers surface enhanced raman spectroscopy (SERS) for development of trace level molecular analysis applications. The company was spun out of University of Southampton.
-	['photonic crystal ', 'Surface Enhanced Raman Spectroscopy', ' SERS']
-Cambridge Silicon Radio (Mobile Business)
-	Developer of mobile chip and handset. The company provides technology for handset connectivity.
-	['', 'mobile chip', ' ', 'handset connectivity', ' handset']
-FlexLight Networks
-	Developer of a suite of optical access products. The company offers products with applications for the gigabit passive optical networking (GPON) market.
-	['', 'optical access', ' ', 'video services', ' ethernet']
-Micro Managed Photons
-	Developer of integrated photonic circuits for optical networking applications. The company provides a technology which integrates the concept of photonic band gap and surface plasmon polaritons to control flow of light on an optical chip.
-	['', 'photonic circuit', ' ', 'optical networking', ' ', 'plasmon polariton', ' ', 'optical chip', '']
-RouteLambda
-	Provider of an optical networking equipment. The company provides outsourced assembly of standardized optical networking equipment and broad base communication equipment in Japan.
-	['', 'optical networking', ' ', 'communication equipment', ' ', 'outsourced assembly', '']
-VIR
-	Developer of a surface plasmon resonance technology. The company’s technology consists of a patented sensor chip and a separated optical transducer with a digital interface.
-	['', 'industrial supply', ' ', 'sensor chip', ' ', 'optical transducer', '']
-Photonyx
-	Manufacturer of optical chip boards. The company develops tunable diffraction grating technology which can be used in optical telecom components and projection displays.
-	['', 'optical chip', ' ', 'tunable diffraction grating technology', ' ', 'optical telecom', ' chip']
+Beijing Tong Technology Development
+	Provider of electronic payment applications and services. The company supplies payment cards for the public transportation system in China.
+	['', 'virtual payment', ' micro-payment ', 'payment services', '']
+Metal Supermarkets
+	Supplier of small quantity metals.  The company supplies such metals as: alloy bar, aluminum, cold rolled steel, stainless, brass and copper.  The company was founded and ins headquartered in Canada, but also franchises out smaller branches in the UK and US.
+	['', 'Alloy Bar', '\\r\\n', 'Aluminum', '\\r\\n', 'Cold Rolled Steel', '\\r\\n', 'Hot Rolled Steel', '\\r\\n', 'Stainless', '\\r\\n', 'Brass', '\\r\\n', 'Copper', '\\r\\n', 'Tool Steel', '']
+BVfon Telecommunications
+	Provider of telecommunication and payment applications for detention facilities. The company offers an information technology and communication system for handling and monitoring prisoners telephone conversations and retail shop payment system.
+	['', 'telecommunication network', ' ', 'payment application', ' ', 'detention facility', '']
+Clareon
+	Provider of electronic payment platform for businesses. The company develops PayMode platform that enables businesses to send and receive electronic payments, along with detailed remittance information, to and from suppliers and customers.
+	['', 'electronic payment', ' ', 'online transaction', ' ', 'electronic business payment', ' ', 'payment software', '']
+Absolute Commerce
+	Developer of an electronic payment tool. The company provides a way to integrate organization’s payment systems with supplier catalogs.
+	['', 'electronic payment', ' ', 'electronic procurement', ' ', 'enterprise resource management', ' ', 'supplier enablement', ' ', 'price auditing', '']
+Generated Systems Technologies
+	Provider of e-banking software products for banks and financial institutions. The company provides e-banking software and offers electronic payment softwares designed to address payment needs of corporations and correspondent banks.
+	['', 'financial institution', ' ', 'software product', ' ', 'electronic payment', ' ', 'e-banking', '']
+Pacific Grain and Foods
+	Provider of dry foods and animal feeds. The company supplies edible beans, rice, grains and spices to the food services industry.
+	['', 'organic products', ' ', 'dry food', ' spices']
+Sendmail
+	Provider of a message processing platform consisting of appliances, applications and services. The company provides appliance-based products, applications, and services that allow enterprises and government agencies to architect and deploy secure mail and message infrastructures.
+	['', 'message processing platform', ' ', 'message infrastructure', ' ', 'message inspection', ' ', 'mobile device', '']
+Works
+	Provider of commercial credit card management and optimization technology.The company provides a Web-based platform that connects payment-management automation with the global Visa payment network.
+	['', 'credit card management', ' ', 'credit card service', ' ', 'electronic payment', ' ', 'payment policy', '']
+99Bill
+	Provider of independent third-party payment services in China. The company offers electronic payment services to enterprises and individuals. It also supports payment via international cards, such as VISA and MasterCard; and services domestic and international bank cards.
+	['', 'third party payment', ' ', 'electronic payment', ' ', 'electronic fund transfer', '']

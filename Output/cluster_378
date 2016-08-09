@@ -1,36 +1,15 @@
-Masimo
-	Manufacturer of innovative noninvasive patient monitoring technologies. The company offers noninvasive blood constituent patient monitoring services that consists of a monitor or circuit board and its proprietary single-patient use and reusable sensors and cables.
-	['', 'patient monitoring', ' ', 'healthcare services', ' ', 'medical device', '']
-RED-C Optical Networking
-	Provider of amplifiers and optical monitoring devices for all network segments. The company offers solutions for some of the industry’s technological challenges such as ultra long repeaterless links and 40Gb/s transmission networks.
-	['amplifier ', 'optical device', ' ', 'transmission networks', ' ', 'transmission module', '']
-Medico.com
-	Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.
-	['', 'health care information', ' ', 'health information portal', ' ', 'online health portal', '']
-Ensure Medical
-	Developer of devices for post catheterization closure of the femoral artery. The company offers femoral artery closure device, which uses a synthetic bioabsorbable polymer to stop bleeding and close the site of the arterial puncture. It also offers cardiac and vascular devices for health care professionals to treat cardiovascular diseases.
-	['', 'arterial puncture', ' ', 'femoral artery', ' ', 'health care professional', '']
-Mackmyra Svensk Whisky
-	Mackmyra Svensk Whisky AB is engaged in manufacturing, sales and marketing of malt whiskey and whiskey-related products. The Company offers a range of Swedish Whiskey\'s produced at its distillery located in Mackmyra Mill in Gastrikland.
-	['', 'Single Malt Whiskey', ' Whiskey ', 'Whiskey related products', ' ', 'whiskey events', ' ', 'malt whiskey', '']
-Pioneer Medical Systems
-	Developer of medical alarm monitoring systems for hospital and patient monitoring. The company provides medical alarm monitoring in order to secure a comfortable and safe living for seniors and persons medically at risk.
-	['', 'medical alarm system', ' ', 'emergency response system', ' ', 'patient monitoring', '']
-Integrative Medicine Communications
-	Provider of science-based information on wellness and alternative medicine to health care professionals. The company offers information services to healthcare professionals, consumers and executives to combine the conventional and alternative medicine for healthcare.
-	['', 'health care', ' ', 'medical information', ' ', 'health information', ' ', 'wellness medicine', '']
-Kyma Medical Technologies
-	Developer of remote patient monitoring solution for congestive heart failure patients. The company\'s device consists of a small patch attached to the patient\'s torso, and transfers the data wirelessly to a remote center through a gateway device such as a smart-phone.
-	['', 'patient monitoring', ' ', 'chronic heart patients', ' ', 'wireless remote', '']
-MedApps
-	Developer of wireless patient monitoring devices. The company offers a range of portable health devices that automatically record a patients monitor readings and wirelessly transmits the data so that it can be monitored and acted upon by health care professionals.
-	['', 'monitoring devices', ' ', 'wireless patient monitoring', ' ', 'health devices', '']
-SenseCore
-	Provider of health-monitoring devices. The company is a provider of wearable, biomedical monitors that measure a variety of physiological functions and can be linked remotely. The devices have applications for athletes as well as healthcare providers.
-	['', 'monitoring device', ' ', 'physiological monitoring', ' ', 'remote monitoring', ' ', 'biomedical device', '']
-Beansprout Networks
-	Provider of an online community for parents, pediatricians and child care professionals. The company provides pediatric professionals and the families in their care with tools, resources and educational programs to enhance patient care and practice efficiency.
-	['', 'online community', ' pediatricians ', 'child care professionals', '']
-BMEYE
-	Developer and manufacturer of cardiovascular monitoring devices. The company offers products and technologies to measure blood pressure and cardiac output. It has two products approved for sale in the U.S. and Europe from the platform Nexfin, for the cardiology market, and ccNexfin, for the anesthesia and critical care markets.
-	['', 'cardiovascular monitoring device', ' ', 'hemodynamic monitoring', ' ', 'blood pressure', ' ', 'cardiac output', '']
+PartMiner Worldwide (CAPS Business)
+	Supplier of electronic components for the electronics industry.
+	['', 'electronic component', ' ', 'electronic tool', ' ', 'electronic component database', ' ', 'equipment manufacturer', '']
+Concept Fabrics
+	Developer of fire-retardant fabric for the contract-furnishing industry. The company designs and manufactures the textile for use by furniture makers.
+	['', 'fire-retardant fabric', ' ', 'contact furnishing', ' ', 'broadwoven fiber', ' textile']
+CDI Biosciences
+	Developer of biotechnology to imporove yield of bioproducts. The company developes technology that is used to control the metabolism of cells.
+	['', 'mammalian cell', ' ', 'cellular system', '  ', 'Genetic engineering technology', '']
+Compumotor
+	Developer of motors and controllers for the semiconductor industry. The company designs, manufactures and distributes electronic components and systems used to control motion and precisely locate or vary speed in automation applications.
+	['', 'AC servo motors', ' ', ' DC servo motors', ' motor ', 'electronic component', ' semiconductor']
+FOI
+	Developer of equipment for the semiconductor industry. The company designs and manufactures machinery used to fabricate semiconductor products, including etching systems and surface oxynitridation systems.
+	['', 'light etching', ' oxynitridation ', 'semiconductor devices', '']

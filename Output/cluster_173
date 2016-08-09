@@ -1,15 +1,21 @@
-MapSense
-	Provider of a mapping technology. The company provides a wide range of services in order to create an infrastructure for maps.
-	['', 'mapping technology', ' ', 'machine learning', ' ', 'data-driven map', '']
-Prolexic Technologies
-	Provider of a distributed denial of service (DDoS) protection platform. The company\'s platform absorbs large and complex distributed denial of service (DDoS) attacks. It also protects and restores Internet-facing infrastructures for global enterprises and government agencies.
-	['', 'network protection', ' ', 'business protection', ' ', 'protection platform', ' ', 'distributed denial of service', '']
-V-Secure Technologies
-	Provider of vigilant network intrusion prevention technologies. The company provides adaptive, self-learning IPS network appliances that delivers protection against a wide range of network attacks, including denial of service (DoS), distributed denial of service (DDoS), worm propagation, pre-attack probes and many others.
-	['', 'network intrusion', ' ', 'prevention technologies', ' ', 'network appliances', '']
-Riverhead Networks
-	Developer of security technology to protect against cyber threats. The company provides technology that help to prevent distributed denial-of-service attacks and other security threats in corporate, enterprise and service provider networks.
-	['', 'cyber threats', ' ', 'Distributed Denial of Service', ' ', 'protocol compliance', ' ', 'security threats', '']
-Cyvera
-	Provider of cyber defense to stop zero-day attacks. The company\'s flagship product, the Cyvera TRAPS (Targeted Remote Attack Prevention System) prevents yet-to-be-identified cyber threats uniquely by obstructing the path upon which the attack is being launched and not enabling the attackers to utilize their toolboxes.
-	['', 'cyber attack', ' ', 'Advanced Persistent Threat', ' ', 'cyber defense', ' ', 'cyber security', ' ', 'zero-day attack', '']
+Scrittura
+	Manufacturer of software targeting the financial services markets. The company provides document management, confirmation and straight-through-processing for the OTC derivatives marketplace. Its suite comprises DocGenerator, DocManager and Workflow Manager, as well as configured technology for the automation and management of OTC derivative, legal, corporate trust and HR business processes.
+	['', 'financial service', ' ', 'document management', ' ', 'derivative marketplace', ' ', 'hr business process', ' ', 'document confirmation', '']
+GTESS
+	Provider of healthcare claims processing service. The company\'s custom solutions edit and clean claims by automating specific, time and cost-intensive processes.
+	['automation ', 'healthcare claims', '']
+Synchris
+	Provider of bid lifecycle management software for government contractors. The company provides virtual workspace software that integrates communication, collaboration, document management and workflow features into a unified application that integrates with the Microsoft desktop.
+	['', 'bid lifecycle management software', ' ', 'virtual workspace software', ' ', 'document management', ' ', 'task order management', '']
+Nipuna Services
+	Provider of industry specific services to the customers in the insurance and healthcare sectors. The company\'s services include claims processing, policy issuance and premium accounting. The company also offers contact centre services for customer service, product support and technical help desk, in accounting, HR and other transaction-intensive activities, including analytics and animations.
+	['', 'Finance and accounting', ' ', 'accounts payable', ' ', 'financial accounting', ' ', 'HR services', ' ', 'payroll processing', ' ', 'employee development', ' ', 'Customer contact services', ' ', 'contact management', ' ', 'Technical helpdesk', ' ', 'product support', ' ', 'research and analytics', '']
+Third Millennium Healthcare Systems
+	Provider of revenue cycle management software. The company provides automate rejected or denied claims management, document imaging, claims tracking, workflow, document management, reporting and secondary claims processing.
+	['', 'revenue cycle management', ' ', 'denied claim', ' ', 'document imaging', ' ', 'Productivity Software', '']
+GHN Online
+	Developer of a revenue cycle management platform and clearinghouse focusing on the healthcare industry. The company serves the enterprise-class clientele through their intuitive web-based claims management solution during every stage of the electronic billing process.
+	['', 'revenue cycle management', ' ', 'transaction processing', ' ', 'claims processing', '']
+PriceMatch
+	Provider of a revenue management platform for hotels. The company develops econometric algorithms forecasting demand and feeding price recommendations to hoteliers, helping them adjust room prices to demand and thus trying to increase revenue.
+	['', 'dynamic pricing', ' ', 'yield management', ' ', 'revenue management', '']

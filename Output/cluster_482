@@ -1,30 +1,21 @@
-Paragon Wireless
-	Operator of online mobile store. The company offers mobile phones and mobile accessories, including mobile phone cases, chargers, headsets and memory cards.
-	['', 'mobile accessories', ' ', 'online mobile shop', ' ', 'mobile games', '']
-PhoneAndPhone
-	Provider of online retail. The company sells a range of mobile phones with or without subscription and mobile accessories.
-	['', 'online retail', ' ', 'online services', ' ', 'online purchase', '']
-MobilGiganten
-	Operator of an online store for mobile phones. The company provides ecommerce retail and distribution services for mobile phones and accessories, and also offers other mobile services.
-	['', 'mobile phone', ' ', 'mobile accessories', ' ', 'mobile retailer', '']
-Firefly Mobile
-	Developer and seller of mobile phones and accessories. The company also provides airtime services and offers accessories such as wall chargers, universal serial bus cables, stereo headsets, batteries and car chargers for teenagers.
-	['', 'mobile phones', ' ', 'airtime services', '']
-Qype
-	Provider of a consumer review website for goods and services in Europe. The company offers the review service in nine languages and more than 160,000 cities and towns worldwide. The service is available online and through a mobile application.
-	['', 'consumer review', ' ', 'review website', ' ', 'internet software', '']
-Coveroo
-	Producer of custom cell phone covers and cases. The company develops back cover on the mobile phones, MP3 players, or gaming devices with custom artwork or text.
-	['', 'cell phone cover', ' ', 'device art', ' ', 'customized phone-cover', ' ', 'cover personalization', ' ', 'custom art-work', '']
-VuCast Media
-	Developer of technology to create private wireless data broadcasting networks over unused licensed RF spectrum in existing frequencies. The company offers mobile device technology to wirelessly broadcast rich media content to e-readers, media players and mobile phones; digital display services to simultaneously deliver images, audio and video to home, office and retail picture frames, monitors and outdoor displays.
-	['', 'wireless data broadcasting', ' ', 'broadcasting network', ' ', 'content management', ' ', 'disaster management', '']
-Dmailer
-	Provider of portable back up and synchronization software services for a mobile devices. The company provides backup services to mobile device including USB flash drives, memory cards, external hard disk drives, mp3 players, embedded phone memory, SIM cards and flash based memory cards for mobile phones.
-	['', 'backup service', ' ', 'portable storage device', ' backup ', 'data backup software', '']
-Iqua
-	Developer of wireless accessories for mobile communications market. The company develops handsfree headsets and other mobile accessories for personal, active or professional use.
-	['', 'wireless accessory', ' ', 'handsfree device', ' headset']
-FlipSwap
-	Provider of mobile phone trade-in and recycling services. The company engages in the online trade of cell phones and recycles unusable phones in the United States.
-	['', 'mobile phone trade', ' ', 'online phone trading', ' ', 'unusable phone recycling', ' ', 'electronics recycling', ' ', 'electronic buy back', ' ', 'phone trade', ' ', 'wireless device', ' ', 'wireless phone reuse', ' ', 'cellphone recycling', '']
+Vivaro
+	Seller of prepaid phone cards. The company sells through proprietary VoIP network and a direct-to-store retail distribution channel.
+	['', 'phone card', ' prepaid VoIP']
+Instytut Rozwoju Reklamy
+	Provider of marketing services. The company operates as a full service advertising agency developing internet media campaigns and interactive advertisements for business organizations.
+	['', 'interactive advertisement', ' ', 'internet media campaigns', ' ', 'media campaigns', '']
+First Flavor
+	Provider of marketing service for brand marketers. The company\'s Peel \'n Taste System integrates with marketing vehicles and programs to sample the flavor of a brand and consumers generating awareness and trials as well as is used in various applications.
+	['', 'flavor strips', ' ', 'marketing service', ' ', 'consumers generating awareness', '']
+TongCard
+	Provider of the marketing services through distribution of reward cards. The company provides the marketing service to the organization by promoting them via distributing reward cards in the consumers.
+	['', 'marketing service', ' ', 'product promotion', ' ', 'consumer attraction', '']
+Achieve Financial Services
+	Provider of marketing service for prepaid debit cards. The company markets and distributes general purpose reloadable (GPR) Visa debit cards that can be used for making purchases, direct deposits and paying bills online.
+	['', 'prepaid debit card', ' ', 'debit card marketing', ' ', 'financial service', '']
+yourvideocard
+	Developer of video greeting cards. The company develops video cards which are used to record personal messages and can be sent to others as greeting cards.
+	['', 'online card', ' ', 'greeting cards', ' ', 'online platform', ' ', 'greeting messages', '']
+Cardstore
+	Operator of a platform that enables to design and message personalized greeting cards and invitations. The company offers the users to add customized photos and personalized messages to cards. The company provides business marketing services that include online greeting card and postcard, photo-card creation and presentation editing tools.
+	['e-commerce ', 'personalized greeting cards', ' ', 'customized photos', ' ', 'business marketing', ' ', 'online greeting cards', '']

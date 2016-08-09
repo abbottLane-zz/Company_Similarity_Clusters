@@ -1,33 +1,33 @@
-SupportLocal
-	Operator of a social network for sharing information and opinions. The company\'s platform enables people to give and get local business recommendations from the people they know and trust.
-	['', 'share information', ' ', 'share opinions', ' ', 'business recommendations', '']
-Krillion
-	Operator of a shopping search engine. The company offers audio and video accessories, such as A/V mounts and brackets, headphones, remote controls, and satellite radio accessories; cameras, such as camcorders, digital cameras, and digital picture frames; car audio and electronics, such as car amplifiers, car audio and video accessories, car CD changers, car speakers and subwoofers, in dash car audio, and radio scanners; and handheld electronics, including GPS navigation systems.
-	['', 'online shopping', ' ', 'consumer infrastructure', ' ', 'navigation system', ' ', 'video accessory', '']
-HiGear
-	Provider of a social car-sharing platform. The company offers a platform that enables people to buy cars that they rent. Members of the company\'s network can share and borrow cars from the people in their community, with the option of making an offer if they like the car they drive. The company provides insurance, verification and logistics to users.
-	['', 'car sharing platform', ' ', 'car rental', '']
-Autonetzer
-	Operator of an online platform for car sharing. The company offers an application platform enabling vehicle owners to rent out their cars when they don\'t need them.
-	['', 'rental platform', ' ', 'vehicle owner', ' ', 'car sharing', '']
-Autoquake
-	Provider of an online platform for buying and selling used cars. The company is engaged in the online retail operations of pre-owned and used cars, sports utility vehicles, vans, estate cars, convertibles and sports cars of various manufacturers.
-	['', 'used cars', ' ', 'online retail', ' ', 'buying and selling', '']
-Netrepreneur Connections Enterprises
-	Provider of online platform for buying and selling of used and new cars in the Philippines. The company provides online marketing platform for the Philippine automotive industry, it connect car buyers with private car sellers, used car trade dealerships and new car distributors.
-	['', 'car seller buyer', ' ', 'new car', ' ', 'online car market', ' ', 'car purchase', ' ', 'car marketing', '']
-Kima Labs
-	Provider of online shopping community software for mobile devices to assist in, in-store shopping. The company\'s software enable user to scan and recommend items, see recommendations from people in the community, get ideas for what to buy and compare prices with other stores, as well as provide suggestions for similar products and buy products in physical stores.
-	['', 'online shopping', ' ', 'shopping application', ' ', 'barcode scanning', ' ', 'mobile shopping', '']
-Flexcar
-	Operator of car-sharing programs for its members in the U.S. The company operates a fleet of ultra low emission vehicles, gas-electric hybrids and environmentally-friendly sedans, AWD, minivans, and sports cars. It serves individuals, companies, and public agencies.
-	['', 'car sharing', ' ', 'auto sharing', ' ', 'car reservation', '']
-QuattroWorld.com
-	Operator of a car review website. The company provides readers with news, media and discussions on both past and present Audi cars.
-	['Audi ', 'car enthusiast', ' ', "readers\\' review", '']
-Portinvest
-	Operator of Zeebrugge port investment company which mainly handles trailers, containers, cars and forest products. The company has specializes in handling cargos of cars.
-	['', 'port investment', ' ', 'cargo of cars', ' ', 'forest products', '']
-Williams of Harrogate
-	Provider of online car brokering service through an online platform. The company engages in dealership of various used and new cars of various brands. It offers Drivestyle Connections, a platform for both private and trade buyers and sellers of luxury cars.
-	['', 'sports car', ' ', 'motor vehicles', ' ', 'luxury car', '']
+BioMachines
+	Provider of environmental monitoring software. The company provides sensor applications for the atmosphere, soil, plants, animals and water. It also provides environmental research.
+	['', 'Agriculture development', ' ', 'environmental research', ' ', 'data acquisition', ' soil']
+Blue Water Ventures
+	Operator as the surveying and excavating the treasures. The company\'s business is to search for and recover historical cultural artifacts, intrinsically valuable cargo and treasure from shipwrecks, primarily in shallow water.
+	['treasure survey excavat']
+Alkaline Water Company
+	Provider of alkaline water where minerals are infused in the water, along with a 8.4 pH level. The company provides alkaline water through a consumer oriented bulk delivery system aimed at removing expensive small bottles from the distribution supply chain.
+	['', 'alkaline water', ' ', 'mineral water', ' ', 'consumer product', '']
+Salsnes Filter
+	Developer of filters to remove particles from municipal waste and industrial process water. The company\'s technology is used to secure good quality of incoming water, recycling water, or to improve utilization of raw materials in industries such as food-processing, maritime and fish farming.
+	['', 'particles removal', ' filters ', 'municiple waste', '']
+Pressure Products
+	Manufacturer of an add on accessory water pack. The company offers pressurized hydration packs that gives access to pressurized water that users do not have to suck from the pack to drink or use it for other purpose.
+	['', 'add on accessory', ' accessory ', 'hydration pack', ' ', 'pressurized water', '']
+Spiralcat
+	Provider of water and biofuel renewable services. The company recovers water and biofuel using harvesting systems that transform waste into valuable energy and water resources.
+	['biofuel ', 'soil fertility', ' ', 'usable resources', '']
+Clean Filtration Technologies
+	Developer of water treatment technology. The company produces the CFT Turboclone hydroclone system, a patented water filtration device designed to efficiently reduce total suspended solids from difficult-to-filter water.
+	['', 'water treatment', ' ', 'water filtration device', ' ', 'suspended solid filtration', '']
+Arcadia Biosciences
+	Developer of agricultural technologies and products. The company develops and commercializes agriculture-based technologies that create value for growers and consumers while benefiting the environment and enhancing human health. It offers nitrogen use efficient crops, water use efficient crops, salt tolerant plants and GLA safflower oil.
+	['', 'agricultural technology', ' ', 'agricultural product', ' salt ', 'water efficient crop', '']
+WaterClean
+	Developer of diaphragmatic process for water purification and surface disinfection. The company offers drinking water and plant surface disinfectants which are used to eliminate germs, pesticides, mycobacteria, biofilms, microorganisms, fungus and yeasts.
+	['', 'drinking water', ' ', 'membrane electrolysis', ' ', 'water purification', ' ', 'surface disinfection', '']
+Ocean Breeze Waterpark
+	Operator of a water park company. The company offers amenities that includes rides and attractions, watershed programs and children areas. The company also offers gallon wave pool and a children\'s water playground.
+	['', 'water park', ' slides ', 'watershed programs', ' ', 'water playground', '']
+Ecowat
+	Provider and developer of water purification technologies and products. The company applies gas hydrate crystallization as a method to purify industrial waste water. It also provides water recycling services.
+	['', 'water recycling service', ' ', 'water purification', ' ', 'gas hydrate crystallization', '']

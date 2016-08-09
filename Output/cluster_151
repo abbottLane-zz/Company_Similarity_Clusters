@@ -1,21 +1,39 @@
-Sirus
-	Operator of a pharmaceutical research company. The company focuses on drug development for the treatment of nerve injury and muscle spasm by using its proprietary platform technologies that covers pain, emesis, epilepsy and insomnia.
-	['', 'neurological disease', ' ', 'drug development', ' ', 'chemical properties', ' ', 'platform technologies', '']
-Nabriva Therapeutics
-	Provider of pharmaceutical research and development services. The company focuses on antibiotic classes, such as pleuromutilins designed for oral and topical application and injectable broad-spectrum anti-MRSA cephalosporins.
-	['', 'pharmaceutical research', ' ', 'antibiotic classe', ' ', 'pleuromutilin antibiotic', '']
-Cytomyx Holdings
-	Operator of a life-sciences holding company. The company, through its subsidiaries, develops gene- and protein-based tools to support pharmaceutical companies and researchers in the development of drugs. The company also provides outsourced pharmaceutical research and development, human biology research products and services, and diagnostic products, as well as distributing third parties’ products.
-	['', 'pharmaceutical company', ' ', 'protein tools', ' ', 'human biology', '']
-Covalys
-	Developer of tools for protein research. The company provides protein-labeling products. The company\'s products help researchers in academic institutions, pharmaceutical and biotech companies to improve the efficiency of research into proteins and their function.
-	['', 'protein research', ' ', 'protein labeling', ' ', 'drug discovery', '']
-Aperio Technologies
-	Provider of digital pathology systems. The company provides systems for hospitals, reference labs and pharmaceutical and research institutions.
-	['', 'digital pathology system', ' ', 'reference lab software', ' ', 'clinical application', ' pathology']
-Halo Genomics
-	Provider of equipment and supplies to the life science and chemical analysis markets. The company provides instrumentation, consumables, software and services to an array of industries, including pharmaceutical, research, forensics, food safety, petrochemical processing, environmental and manufacturing.
-	['', 'DNA sequencing', ' ', 'sample preparation', ' resequencing']
-Biovation
-	Provider of pharmaceutical research services. The company provides antibody and protein engineering technologies.
-	['', 'pharmaceutical research', ' ', 'healthcare service', ' ', 'antibody engineering technology', '  ', 'protein engineering technology', '']
+Elastix
+	Provider of technology that lowers the power used by digital integrated circuits. The company offers elastic clocks that helps in reducing on-chip power consumption.
+	['', 'elastic clocks', ' ', 'elastic voltage scaling', ' on-chip ', 'power consumption', '']
+MediaTek
+	Developer and manufacturer of integrated circuits. The company is engaged in the research, development, manufacture and distribution of multimedia integrated circuit chipsets.
+	['', 'Wireless Communications', ' ', 'integrated circuit', ' ', 'circuit chipsets', '']
+System General
+	Manufacturer of semiconductors and analog and digital circuits. The company also designs ICs used in AC/DC power IC products.
+	['', 'integrated circuits', ' ', 'power circuits', ' ', 'digital circuits', ' ', 'semiconductors and resistors', '']
+Intel Corporation
+	Developer and manufacturer of microprocessors and other semiconductor components. The company develops integrated digital technology products, mainly integrated circuits, for industries such as computing and communications.
+	['', 'integrated digital technology', ' ', 'semiconductor component', ' ', 'technology platform', '']
+Xoomsys
+	Provider of simulation solutions based on decoupling and distributed processing technology for circuits. The company provides processing solution for circuit simulation, using circuit simulators and Linux computing clusters.
+	['', 'software services', ' ', 'simulation solutions', ' ', 'circuits technology', ' ', 'circuit simulation', '']
+AccelChip
+	Provider of algorithmic synthesis solutions for digital signal processing (DSP) design. The company develops and markets design tools, integrated verification flows, and parametric intellectual property toolkits that automate the development and implementation of DSP algorithms in field programmable gate-arrays and application-specific integrated circuits
+	['', 'algorithmic synthesis solution', ' ', 'digital signal processing design', ' ', 'markets design tool', '']
+IceFyre Semiconductor
+	Manufacturer and designer of integrated circuits for wireless communications. The company provides wireless LAN products.
+	['', 'wireless communications', ' ', 'wireless management', ' ', 'wifi chips', ' ', 'wlan', ' ', 'semiconductor', ' ', 'circuit designs', '']
+Seattle Silicon
+	Supplier of application specific integrated circuits, semiconductor and ASIC design software. The company offers large system houses and process-independent compiler systems.
+	['', 'integrated circuits', ' ASIC software']
+Cubic Wafer
+	Developer of integrated circuits. The company offers hybrid integrated circuits and multi-functional 3D integrated circuits. The company also designs and manufactures its own optical connection products for data links and optical communication applications.
+	['', 'integrated circuits', ' ', 'hybrid integrated circuits', ' ', '3D integrated circuits', ' ', 'optical communication', '']
+Micro Managed Photons
+	Developer of integrated photonic circuits for optical networking applications. The company provides a technology which integrates the concept of photonic band gap and surface plasmon polaritons to control flow of light on an optical chip.
+	['', 'photonic circuit', ' ', 'optical networking', ' ', 'plasmon polariton', ' ', 'optical chip', '']
+Integrated Circuit Solution
+	Designer and manufacturer of complementary metal-oxide-semiconductor integrated circuits. The company provides performance integrated circuits including memory products and logic products.
+	['', 'compact flash memory', ' ', 'application IC', ' ', 'commercial product', '']
+Capella Microsystems
+	Designer of integrated circuits primarily optical electronic products. The company manufactures integrated circuits which are used in telecommunications, mobile phones, smartphones, handheld devices, digital cameras, laptops, desktop computers, LED backlighting, office automation equipment, household electrical appliance and automotive electronics.
+	['', 'optical electronic products', ' ', 'integrated circuits', ' ', 'IC designer', '']
+SpeedSim
+	Provider of cycle-based logic simulation software. The company\'s product is used for the testing of large and complex integrated circuits.
+	['', 'application software', ' ', 'logic simulation software', '']

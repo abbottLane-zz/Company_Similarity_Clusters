@@ -1,24 +1,45 @@
-Stylea-mdd
-	Designer and retailer of high-end consumer products. The company designs and markets a range of consumer products, including tableware, home decor, cooking accessories, bed and bath linens,  travel bags & accessories, and beauty products.
-	['', 'fashion products', ' ', 'fashionable accessories', ' ', 'household goods', '']
-Bargain Network
-	Provider of relevant product pricing information. The company provides its members with day to day reasonable and affordable pricing information on significant purchases such as homes, vehicles and consumer products.
-	['', 'product price', ' affordable ', 'pricing information', '']
-Revolymer
-	Developer of polymers for consumer products. The firm designs, develops and formulates polymers for consumer products within the FMCG markets.
-	['', 'consumer products', ' ', 'FMCG market', ' polymers']
-Banner Pharmacaps
-	Developer of gelatin based dosage forms. The company focuses on delivering proprietary softgel formulations for over-the-counter, prescription and nutritional consumer products.
-	['', 'nutritional consumer product', ' ', 'healthcare platform', ' ', 'pharmaceutical service', '']
-Blue Flame Data
-	Developer of consumer preference analysis software. The company provides an online, real-time measurement of consumer market preferences. It provides a web application with a game-like interface that collects information about the consumer\'s likes and dislikes on a variety of products and services.
-	['', 'consumer preference', ' ', 'preference analysis', ' ', 'data aggregation', ' ', 'realtime data', '']
-ChemConnect
-	Provider of an electronic marketplace platform for trading midstream energy, feedstocks, chemicals and related products. The company’s products include natural gas liquids, refined and intermediate fuel products, aromatics, olefins, and commodity polymers. It also offers supply chain solutions, such as negotiation solutions and collaboration hubs.
-	['', 'online market', ' ', 'online trading', ' ', 'supply chain', '']
-WiQuest Communications
-	Manufacturer of fabless semiconductors for ultra-wideband technologies. The company designs, develops, and supplies ultrawideband (UWB) solutions to PC, consumer electronics, and mobile systems companies. Its solution portfolio includes silicon, software, and manufacturing designs.
-	['semiconductor ', 'fabless semiconductor', ' ', 'ultrawideband technology', ' ', 'consumer electronic', ' ', 'mobile system', ' ', 'manufacturing design', '']
-Integrated Device Technology
-	Designer, developer and manufacturer of low power, mixed signal semiconductor solutions for the advanced communications, computing and consumer industries. The company\'s computing products are designed specifically for desktop, notebook, sub-notebook, storage, and server applications while its consumer products are optimized for gaming consoles, set-top boxes, digital TV and smart phones.
-	['signal ', 'semiconductor solution', ' ', 'wireless network', ' ', 'data integration', ' ', 'server application', '']
+SocialCast (Waltham)
+	Provider of end-to-end social media services. The company provides a cloud-based platform for small and medium-sized businesses (SMBs) to engage, manage, curate and measure the return on investment (ROI) of their social marketing activities.
+	['', 'social media marketing', ' ', 'calculate ROI', ' ', 'social marketing activity', '']
+Avtre
+	Developer and supplier of back-up software for data and related services. The company offers customized data backup to individuals and small and medium-sized businesses. The company\'s product, Lockbee,, is a software that monitors and automatically creates backup data on new and changing directories and files.
+	['', 'online backup', ' directories broadband ', 'back-up software', '']
+ENSIS Management
+	Investor in small and medium sized companies. The company invests in life sciences and technology sectors.
+	['technology', 'life sciences', '']
+Paperlit
+	Provider of an online publishing platform for newspaper, magazine and catalog applications. The company enables publishers and advertisers to publish their newspapers, magazines and catalogs to mobile phones and web browsers. It serves small, medium and large publishers and advertisers.
+	['', 'publishing platform', ' ', 'mobile content publishing', ' ', 'online publishing', '']
+Quisic
+	Provider of products and services which helps businesses train employees. The company engages in designing and developing online products to help professionals and businesses train their employees.
+	['e-learning ', 'training tools', ' ', 'employee training', ' ', 'educational programs', ' ', 'educational software', ' ', 'educational tools', '']
+ProStores
+	Provider of e-business software for small and medium-sized businesses. The company also sets up, designs, markets and manages customizable virtual storefronts at their Internet domains.
+	['', 'online shopping', ' ', 'online trade', ' ', 'e-business software', '']
+BetterWorks (out of business)
+	Provider of a platform designed to enable small and medium-sized businesses to engage, retain and reward employees.
+	['', 'employee reward', ' ', 'employee engagement', ' ', 'employee retention', '']
+Inboxer
+	Provider of email archiving, electronic discovery and content monitoring systems. The company serves state and local governments, health care institutions and small and medium sized businesses.
+	['', 'email archiving', ' ', 'content monitoring system', ' ', 'electronic discovery', ' ', 'email analysis', '']
+Whaleback Managed Services
+	Provider of an internet protocol telephony service and develops phone services for small and medium sized businesses. The company provides cloud based managed services for business communications.
+	['', 'internet protocol telephony', ' ', 'telephony service', ' ', 'voice technology', '']
+Verus Financial Management
+	Provider of payment processing services to small and medium sized businesses. The company is a merchant services business specializing in credit card and cheque processing for small and medium-sized businesses (”SMEs”).
+	['', 'merchant services', ' ', 'credit card processing', ' payroll ', 'payment processing services', '']
+LogneX
+	Provider of an online inventory management system. The company\'s software, MoySklad offers a new browser-based inventory management service for small and medium sized businesses that provides freedom of location and cost alternative to uphold daily communication, documentation and accounting.
+	['', 'inventory management', ' warehouse documentation']
+Code Square
+	Provider of a mobile marketing platform to small and medium enterprises. The company allows businesses to leverage social engagement by rewarding customers for their loyalty. It also provides offline to online mobile services for businesses to engage and reward customers, connect via social media and lower acquisition costs.
+	['', 'mobile platform', ' ', 'medium enterprise', ' ', 'customer reward', '']
+NetComp Insurance
+	Distributor of worker\'s compensation insurance. The company distributes insurance to small and medium sized businesses through independent agents.
+	['', 'worker compensation', ' ', 'compensation insurance', ' ', 'insurance distribution', '']
+Lettuce
+	Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user\'s business to capture, track and process orders anywhere in real time.
+	['', 'order management system', ' ', 'mobile sales application', ' ', 'order capturing', ' ', 'order tracking', ' ', 'order processing', ' ', 'inventory management', ' ', 'order processing', '']
+Yellow Brick Solutions
+	Developer of marketing automation software. The company enables medium to large-sized business marketing professionals to communicate with customer over both on-line and off-line medium.
+	['', 'marketing automation', ' ', 'data warehousing', ' ', 'database marketing', '']

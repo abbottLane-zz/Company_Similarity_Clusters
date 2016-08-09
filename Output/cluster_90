@@ -1,24 +1,30 @@
-Ixi Mobile
-	Developer of data centric wireless mobile devices and services for mass market users. The company provides end-to-end software and hardware reference designs which it claims creates a new category of mobile devices.
-	['', 'communication server', ' ', 'wireless communication service', ' ', 'mobile device', ' ', 'data centric', '']
-Pulse Technologies
-	Provider of home and building automation softwares. The company provides a software platform that can be adapted from home automation to smart cities, from smart metering to intelligent appliances, and from stand-alone devices to cloud-connected services. The company also offers hardware-reference designs to clients wanting to incorporate the company’s technology into their own products.
-	['', 'vertical market', ' ', 'software service', '']
-13th Lab
-	Developer of next generation computer vision platform for mobile devices. The company is developing three dimensional Tracking and Mapping (SLAM) implementation process to consumer devices through Ball Invasion.
-	['', 'mobile computer vision', ' ', 'three dimensional tracking', ' ', 'three dimensional mapping', '']
-Zamba
-	Provider of wireless mobile data communication services. The company provides mobile data communication software products and various services including professional services, systems integration, training, and end-to-end mobile network system support for organizations in the transportation, field service, sales or order entry and utility markets..
-	['', 'information system', ' ', 'data communication', ' ', 'mobile data', '']
-Sense
-	Developer of devices for cardiovascular diagnostics. The company\'s technologies creates new possibilities for measurements of blood pressure.
-	['cardiovascular ', 'blood pressure', '']
-WorkLight
-	Developer of HTML5, hybrid and native applications for smartphones and tablets with industry-standard technologies and tools. The company provides flexible mobile IDE, next-generation mobile middleware, end-to-end security and integrated management and analytics.
-	['HTML5 smartphone tablet ', 'mobile IDE', ' ', 'integrated development environment', ' ', 'mobile middleware', ' MEAP ', 'mobile enterprise application platform', '']
-DN2K
-	Developer of a software-based system that can remotely monitor, display and control important assets. The company provides a software that aggregates business data into a single graphically-rich visualization that is displayed on mobile devices.
-	['', 'remote monitoring', '  ', 'critical asset management', ' ', 'Software-as-a-Service', ' ', 'mobile device', '']
-ClearWater Data
-	Provider of services addressing the challenges of dealing with massive data flow volumes. The company provides a data-centric architecture enabling the ingestion of billions of daily transactions.
-	['', 'software development', ' ', 'data flow management', ' ', 'data-centric architecture', '']
+Geneart
+	Manufacturer of integrated system solutions for DNA engineering and processing. The company provides software and a robotics platform enabling DNA synthesis for the fermentation of recombinant proteins, combinatorial biology and vaccines.
+	['DNA ', 'synthetic genes', ' fermentation ', 'biotechnology tools', '']
+Roche NimbleGen
+	Manufacturer and marketer of a proprietary suite of microarrays, related products and services for DNA sequencing. The company is focused on research activities and manufacturing target-enrichment probe pools for DNA sequencing. The company\'s Maskless Array Synthesis (MAS) technology permits the company to develop and manufacture custom high density, highly reproducible DNA arrays, which improve the quality and data yield of DNA chips.
+	['', 'DNA chip', ' ', 'DNA array', ' ', 'reproducible DNA', ' microarray ', 'DNA sequencing', '']
+AlphaHelix Molecular Diagnostics
+	Developer of DNA chips for process analysis. The company uses its DNA chips for mutation detection of genes, gene marking in cancer and the development of new drugs.
+	['', 'mutation detection', ' ', 'gene marking', ' ', 'DNA chips', ' DNA']
+Ion Torrent Systems
+	Developer of a DNA sequencing system. The company\'s system enables a direct connection between chemical and digital information.
+	['', 'sequencing technology', ' ', 'digital information', ' ', 'DNA replication', '']
+Intelligent Bio-Systems
+	Developer of DNA sequencing systems.
+	['', 'DNA sequencing', ' ', 'sequencing system', ' ', 'genome sequencing', '']
+GenEncap
+	Developer of DNA sequencing technology. The company provides DNA sequence information to life scientists, clinicians and individuals based on a proprietary and parallel implementation of Sanger sequencing.
+	['sequencing ', 'sanger sequencing', ' ', 'sequencing technology', '']
+Diffinity Genomics
+	Developer of deoxyribonucleic acid (DNA) testing products. The company offers technologies that enable the development of single use disposable products for medical, industrial and research applications in DNA purification markets.
+	['', 'DNA testing product', ' ', 'acid isolation', ' ', 'biotechnology company', '']
+TwoF
+	Developer of technology for genetic analysis assays. The company\'s technology platform Supramolecular NanoStamping is used for the production of DNA microarrays.
+	['DNA microarrays ', 'DNA chip', '']
+Mosaic Technologies
+	Developer of DNA-based diagnostic products for the blood and plasma-screening, clinical testing research markets. The company develops Acrydite reagent and several associated chemistries for linking DNA probes to solid phases, such as beads, microtiter plates and slides-both glass and plastic. The company\'s product line, EZ-RAY, is a specialty coated glass microscope slide designed for the fabrication of DNA microarrays and also include kits, which contain coated printed slides and control reagents used to verify and calibrate array fabrication procedures.
+	['', 'DNA amplification', ' ', 'microscope slide', ' microarrays ', 'control reagents', ' ', 'fabrication procedures', '']
+Catapult Genetics
+	Developer and provider of a Deoxyribonucleic Acid (DNA) testing services. The company provides commercializes livestock Deoxyribonucleic Acid (DNA) tests to improve meat production and quality to increase production efficiency both on-farm and in the value chain for global livestock and aquaculture industries.
+	['', 'genetic testing', ' ', 'livestock testing', ' ', 'commercial breeder', '']

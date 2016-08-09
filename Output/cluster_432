@@ -1,42 +1,27 @@
-Primary Rate
-	Producer of computer network products and software. The company develops subsystem products and sells technology licenses worldwide. The company also provides high speed wide area connectivity using standards-based architectures and protocols.
-	['connectivity ', 'Frame Relay', ' ', 'leased lines', '']
-Efficient Networks
-	Developer of high-speed customer premises equipment (CPE) that employs digital subscriber line (DSL) technology. The company\'s products enable applications as high-speed Internet access, secure access to computer networks from remote locations, telecommuting, and extensions of corporate networks to branch offices.
-	['', 'high-speed internet', ' ', 'digital subscriber line', ' telecommuting']
-Firecomms
-	Provider of plastic optical fiber high-speed data networking services. The company develops high-speed light sources in visible range wavelengths.
-	['', 'optical fiber', ' ', 'light source', ' ', 'fiber optic', ' transmitters']
-Nomadix
-	Provider of network devices for nomadic computing and public Internet access. The company offers the Nomadix Service Engine (NSE), which allows venues to deploy high-speed Internet access offering. The company\'s NSE also addresses the key issues of customer acquisition, provisioning, security, and revenue generation faced by public access service operators (PASO), system integrators, venue owners, service providers, hotspot owners, and end users when deploying fixed line and WiFi public access networks.
-	['', 'high speed internet', ' ', 'public internet', ' ', 'network device', '']
-RAScom
-	Provider of remote access servers for organizations that need to deploy network access to telecommuters, contractors, remote office workers and small branch offices. The company is a data communications equipment vendor focused on delivering open systems remote access servers.
-	['', 'communications equipment', ' ', 'telecom vendor', '']
-Epigram
-	Provider of advanced technology and products for high-speed residential networking.
-	['', 'residential networking', '']
-Avilinks
-	Developer of software and technology for the distribution of multimedia services via ADSL and VDSL on the existing telephone network. The company\'s product, AVIcenia, is a multimedia switch which can be installed in a building’s technical control room, on a campus, in the heart of a city or in an operator’s central office. It enables its users to have have access to a variety of services such as video on demand, high-speed internet, television and videoconferencing.
-	['', 'multimedia services', ' ', 'telephone network', ' ', 'multimedia switch', ' ', 'high-speed internet', '']
-Telogy Networks
-	Developer of asymmetric digital subscriber line semiconductors. The company\'s golden gateway software enables its customers to develop connected products that send real-time voice, fax and data over packet networks.
-	['', 'Asymmetric Digital Subscriber Line', ' semiconductors']
-GlooLabs
-	Developer of multimedia platform for embedded devices and remote access services. The company\'s technology enables partners to provide next-generation technology for use at home, office and remote locations.
-	['multimedia ', 'embedded device', ' ', 'digital technology', '']
-New Edge Networks
-	Provider of internet access through digital subscriber line (DSL) technology. The company provides DSL connection internet service to residences and businesses in small cities and semi-rural communities, as well as services such as wide area networks, virtual private networks and frame relay.
-	['', 'digital subscriber line', ' ', 'internet service', '']
-Loran International Technologies
-	Operator of a data networking company. The company is a system integrator of high speed networks.
-	['', 'data networking', ' ', 'system integrator', ' ', 'internet network', '']
-Big Bear Networks
-	Developer of interface solutions for networks that operate at 10 Gb/s and higher rates. The company delivers a range of high-speed devices for optical/electrical interface.
-	['', 'electrical interface', ' ', 'high-speed device', ' ', 'network interface', ' “optical network”']
-Enzymatix
-	Developer of applications of high purity enzymes. The company develops enymes for pharmaceutical industries.
-	['enzymes ', 'lipase enzymes', '']
-LiquidLight
-	Developer of intelligent optical networking technology that spans from the core to the edge of the optical network. The company offers robust set of revenue enhancing services, such as high-speed internet access, streaming video and guaranteed performance for hosted applications, to the OSP\'s business customers that sit at the edge of the optical network.
-	['', 'optical networking', ' ', 'high-speed internet', ' ', 'video streaming', '']
+RMI Corporation
+	Operator of a fabless semiconductor company. The company provides power-optimized System-on-a-Chip (SoCs) solutions to high-performance processors for the digital consumer, wireless, networking, security, thin clients, and connected multi-media devices market. It offers XLR Processor Family, a processor solution that enables applications, including integrated security, web services, virtualized storage, and load balancing and server offload, as well as content and application aware, and multi-service routing and switching for various infrastructure equipment and enterprise systems; and XLS Processor Family, a multi-core and multi-threaded XLS Processor family that addresses applications that demand smaller form factor and lower power consumption.
+	['', 'fabless semiconductor', ' ', 'semiconductor chips', ' ', 'semiconductor design', '']
+Eleksen
+	Developer of touch sensitive interactive textiles. The company develops and licenses interactive textiles for electronics interface design. The company’s core technology, ElekTex, is a electro-conductive fabric touch pad used for the creation of flexible and rugged fabric touch screen interfaces.
+	['', 'interactive textiles', ' ', 'touch sensitive textiles', ' ', 'electronics interface design', ' ', 'touch sensitive fabric', ' ', 'screen interfaces', ' ', 'electronic controls', ' interfaces']
+PeakStream
+	Provider of software application development platform for the computing market.The company also provides Workstation, which allows software developers to program processors, such as multi-core CPUs and graphics processor units directly on desktops. It offers technical support, training, and educational services
+	['', 'computing market', ' ', 'multi-core CPU', ' ', 'parallel processing', '']
+mimoOn
+	Developer of LTE software for mobile devices and wireless infrastructure. The company offers physical layer and protocol stack for small cells and terminals, advanced scheduler for small cells, self-organizing network support and IP development in the areas of advanced PHY algorithms on multi-core SDR platforms. It provides complete porting, optimization and verification service, as well as a roadmap to future 3GPP releases.
+	['', 'mobile device', ' ', 'wireless infrastructure', ' ', 'LTE software', '']
+Airify Communications
+	Provider of wireless baseband solutions. The company provides a platform  that utilizes patented core technologies to maintain synchronous connections and implement smart, on-the-fly protocol transfer between 802.11b, Bluetooth, and GPRS protocols. The company takes advantage of low-noise, low-power, small-footprint, multi-processor devices to provide uninterrupted access from cell phones, PDAs, and laptops. Its microprocessor allows the user to download software upgrades and adds flexibility and longevity to their product with a small programmable logic core.
+	['', 'wireless solutions', ' baseband ', 'wirless LAN', ' ', 'IT Services', '']
+Zap Media
+	Developer of technology to allow the storage and delivery of digital media assets. The company develops convergence technology and bringing entertainment to consumers’s living room.
+	['', 'digital media', ' ', 'entertainment software', '']
+TransCella
+	Developer of technology for utilization of multi core processors.
+	['', 'multi core processor', ' ', 'faster application', ' ', 'processor utilization', '']
+Elixent
+	Provider of reconfigurable arithmetic processors. The company offers reconfigurable semiconductor which helps chips to change its functions even when in use. The company also offers silicon devices and supporting software
+	['', 'arithmetic processors', 'chip', 'reconfigurable semiconductor', '']
+ASPEED Software
+	Provider of application acceleration and optimization solutions. The company provides solutions for accelerating applications for multi-core, multi-CPU, cluster and grid configurations.
+	['', 'risk management application', ' ', 'application acceleration', ' ', 'application optimization', '']

@@ -1,24 +1,45 @@
-Goby Technologies
-	Operator of an online activity search engine and a mobile app that provides personalized activity recommendations. It offers information on various topics, such as hiking, beaches, parks, museums, restaurants, live music, family fun, outdoor recreation, offbeat activities, historic sites, bed and breakfasts, golf, and sports and games.
-	['', 'search engine', ' ', 'activity search engine', ' ', 'vertical search', '  ', 'recommendation engine', '']
-Adapt Media
-	Provider of wireless outdoor advertising solutions. The comapny specializes in display and communications technologies. It\'s product AdRunner, provides targeted location and time sensitive advertising. Its solutions enable advertisers to deliver real-time geo-targeted outdoor advertising.
-	['', 'wireless outdoor advertising', ' ', 'communication technology', ' ', 'display technology', ' ', 'time sensitive advertising', '']
-Ströer Interactive
-	Provider of outdoor advertising services. The company offers online marketing services such as outdoor banner advertising.
-	['', 'outdoor advertising services', ' ', 'banner advertising', ' ', 'outdoor marketing', '']
-Holmenkol
-	Supplier of paraffin wax and fluorinated materials to the outdoor sporting industry. The company specializes in chemical surfaces in sports and sells ski waxes, cleaning and maintenance products to all renowned ski manufacturer.
-	['', 'paraffin wax', ' ', 'fluorinated materials', ' ', 'ski waxes', ' ', 'chemical surfaces', ' wax']
-Guandong Dongpeng Ceramics Co.
-	Manufacturer of porcelain, ceramic tiles and sanitary ware. The company provides glazed and unglazed porcelain and marble tiles.
-	['', 'porcelain tiles', ' ', 'floor tiles', ' ', 'house decoration', '']
-APC Confection
-	Manufacturer of outdoor blinds.
-	['', 'industrial product', ' ', 'blind product', ' ', 'business product', '']
-Multi-Sign
-	Developer of signs utilizing digital technology. The company manufactures sign products especially for outdoor use, with durability against corrosion, ultraviolet damage, and scratch resistance.
-	['signs ', 'scratch resistant', ' ', 'corrosion resistant', '']
-Synergy Beverages
-	Manufacturer of cocktail mixers.
-	['', 'cocktail mixer', ' ', 'beverage production', ' ', 'beverage seller', '']
+Callipso
+	Provider of Voice over Internet Protocol (VoIP) services through its private fiber-optic network. The company offers wholesale origination and termination services, as well as flat-rate long-distance services. It also offers a back office monitoring system that allows clients to track and monitor call traffic through a Web-based interface and computer applications that provide users with teleconferencing, call monitoring and real-time billing services.
+	['', 'internet protocol', ' ', 'fiber optic network', ' ', 'termination service', ' ', 'call monitoring', '']
+Cedar Point Communications
+	Provider of integrated voice over Internet protocol and multimedia switching technologies for the service provider and enterprise telecommunication industries. The company\'s products include SAFARI C3, a media switching system, which delivers Internet protocol multimedia subsystem (IMS) capabilities that support the anticipated migration to IMS architecture for converged networks; and SAFARI eMG, a media gateway that delivers flexibility. It also also provides training, customer, and solution services. Cedar Point Communications serves information technology departments and network operators, cable operators and telecommunications carriers, and enterprise customers and educational institutions.
+	['', 'voice over Internet protocol', ' ', 'switching technology', ' ', 'switching system', '']
+Techgenia
+	Developer of Internet protocol (IP) devices. The company produces and markets appliances designed to help companies accelerate the implementation of IP services and to obtain a quicker return on investment.
+	['', 'IT technologies', ' ', 'skilled consultancy', ' ', 'IT services', '']
+Hughes Network Systems
+	Provider of broadband satellite networks and services to large enterprises, governments, small businesses, and consumers. The company offers satellite based communications services and equipment that utilize very small aperture terminals (VSATs) to distribute signals via satellite. It also offers satellite-based enterprise and consumer networks, mobile satellite networks and terminals, and broadband LMDS point-to-multipoint systems.
+	['', 'broadband satellite', ' ', 'satellite network', ' ', 'communications service', '']
+MetraTech
+	Provider of web based services for billing, customer self care and partner management. The company\'s applications include mobile virtual network operator, internet protocol television, conferencing and collaboration, voice over Internet protocol, Internet service provider, messaging, utility computing and airports.
+	['', 'online billing', ' ', 'partner management', ' ', 'business collaboration', '']
+Telovations
+	Provider of voice over Internet protocol communications services. The company\'s services feature applications, such as hosted phone systems, remote office, fax to email, find me or follow me, branch office networking, unified messaging, conference calls and collaboration, disaster redirect, email and broadband Internet, Microsoft integration toolbar, auto-attendant options, receptionist console and messages on hold.
+	['', 'Internet protocol communication', ' ', 'hosted phone system', ' ', 'branch office networking', ' ', 'disaster redirect', ' ', 'remote office', ' ', 'conference calls', ' ', 'broadband Internet service', '']
+EGT
+	Manufacturer of digital video signal processing equipment for television distribution over cable, satellite, and Internet protocol television networks. The company offers encoder solutions for delivering various channels with quality picture, head end micro solutions, a multi-channel edge encoder used for insertion of local channels in MDUs and closed community markets.
+	['', 'digital video', ' ', 'video processing equipment', ' ', 'redundancy solution', ' ', 'encoder solution', '']
+Myrio
+	Provider of software, content management and integration services for internet protocol based video services. The company enables telecommunications providers to offer digital TV, video-on-demand, interactive TV services,  communications and internet services to their customers.
+	['', 'IP video', ' ', 'broadband service provider', ' ', 'video on demand', '']
+Inuk Networks
+	Developer of broadcasting platform. The company develops and delivers a platform for the distribution of broadcast quality televison and carrier-class telephony over closed internet protocol based networks.
+	['', 'broadcasting platform', ' ', 'internet platform', ' ', 'distribution platform', '']
+Syndeo
+	Developer of voice-over-internet-protocol software. The company provides broadband local loop and traditional narrowband carriers to drive additional value over their next-generation converged networks by offering VoIP (voice-over-IP) services.
+	['VoIP']
+ZeitNet
+	Provider of high-quality, low-cost solutions for connecting workgroups and servers to high-performance ATM networks. The company brings a line of software products, including its Z-ATM Stack software, that allows ATM-connected clients to communicate over both ATM networks and existing LANs. The software, interoperable with other ATM products, consists of ATM Forum- compliant software modules for Internet Protocol (IP) over ATM, LAN Emulation (LANE), Interim Local Management Interface (ILMI), Signaling and ATM Adaptation Layer (AAL).
+	['', 'vital link', ' ', 'ATM adapter', ' ', 'circuit boards', ' switches ', 'traffic accounting', '']
+Jacked
+	Provider of internet protocol-based media interactivity solutions for television programming.
+	['', 'customizable real-time dashboard', ' ', 'media interactivity solution', '']
+SmartLink
+	Developer of integrated silicon. The company develops integrated silicon products for voice over internet protocol communications.
+	['', 'broadband modem', ' ', 'Embedded fax', ' ', 'Embedded modem', ' ', 'Connectivity Product', '']
+Netscalibur Italia
+	Provider of internet protocol managed services to businesses and corporations. The company provides broadband connectivity, hosting and other value added services such as VPN, security, outsourcing and messaging to businesses and corporations.
+	['', 'internet protocol', ' ', 'connectivity service', ' ', 'hosting service', '']
+Globecomm Network Services
+	Provider of internet connectivity services. The company designs internet protocol based networks. Its products are used in video broadcast, voice over Internet protocol and satellite-based applications.
+	['', 'video broadcast', ' satellite ', 'internet connectivity', '']

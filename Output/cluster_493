@@ -1,30 +1,18 @@
-CEB Merchandise Brokers
-	Wholesaler of custom apparel and promotional items. The company specializes in brand design, screen printing, embroidery and imprinted promotional products.
-	['', 'custom apparel', ' ', 'brand design', ' merchandise']
-Angela Bruderer
-	Provider of an online retail platform. The company through its website markets and sells consumer products which mainly include home textiles, bed linen, underwear and accessories.
-	['', 'e-commerce platform', ' ', 'online goods purchase', ' ', 'online services', '']
-MallStreet
-	Provider of an online retail portal. The company offers portable electronics, home equipment, things for garden, computers, cosmetics, fitness products, children’s goods and others.
-	['', 'internet retail', ' ', 'portable electronic', ' ', 'household equipment', '']
-Harper Leather Goods
-	Manufacturers and distributors of rawhide pet products such as dog bones and chews. The company\'s products include a variety of rawhide dog bones and chews produced in different sizes and marketed as plain or basted with flavors.
-	['', 'distributor', ' ', 'rawhide dog bones', ' ', 'dog chew manufacturer', ' ', 'dog chew distributor', '']
-Energetic Solutions
-	Developer of electromagnetic pest repellants. The company\'s products, shoo!TAG and shoo!BUG, are designed to protect people, dogs, cats, cows and horses against insect pests. Its technology emits electromagnetic frequencies to keep targeted insects away and is an alternative to chemical repellants.
-	['', 'pest repellant', ' ', 'animal care', ' ', 'pest control', ' ', 'dog care', ' ', 'electromagnetic porduct', ' ', 'animal health', ' ', 'pet care', '']
-LiL\' Things
-	Provider of children specialty retail chain. The company provides retail store services for infant\'s and children\'s toys, apparel, furniture, and accessories.
-	['', 'children retail', ' ', 'specialty retail', ' ', 'retail store', ' ', 'retail services', '']
-AbsolutelyNew
-	Operator of an consumer goods company that launches new products from inventors into stores, catalogs, online retail stores and television shopping channels. The company engages in identifying, licensing, manufacturing, and selling inventions.
-	['', 'online retail store', ' ', 'television shopping channel', ' ', 'selling invention', ' ', 'television shopping', '']
-Pooch
-	Provider of accessories and apparel for dogs. The company is into online retail of dog products.
-	['', 'dog accessory', ' ', 'dog apparel', ' ', 'online dog product', ' ', 'online retail', ' ', 'pet accessories', ' ', 'pet apparel', ' pet']
-Club Guaf
-	Provider of online subscription service for dog treats. The company operates a website for a dog-treat delivery service. Its users can indicate the size of their dog, the kind of products they would like and the frequency of delivery.
-	['', 'subscription service', ' ', 'pet treat', ' ', 'pet supplier', '']
-Propane Continental
-	Operator of a wholesale and retail propane distribution company. The company operates a wholesale propane division and a network of retail propane outlets.
-	['propane ', 'wholesale distribution', ' ', 'retail outlets', '']
+Virtual Computer
+	Provider of a platform of PC life cycle management. The company offers NxTop, a client-side virtualization and management server platform, which uses virtualization technology to isolate and manage the main components of a PC independently, including the hardware, operating system, applications and user data.
+	['', 'desktop management', ' ', 'laptop management', ' ', 'operating system', '']
+Gnodal
+	Developer of a technology that improves performance and power in data centers. The company\'s technology aims to significantly reduce power usage and running costs.
+	['', 'systems design', ' ', 'data technology', ' ', 'data centre', '']
+XenSource
+	Developer of enterprise grade virtualization solutions. The company offers Xen 3.0, an open source hyper visor virtualization technology that provides features required for servers deployed in enterprise; Xen Optimiser, a multi-server virtualization infrastructure software management solution; and Xen Support, a subscription-based support for Xen and XenOptimizer. It also provides value-added enterprise solutions, including enterprise grade virtualization infrastructure solutions.
+	['virtualization ', 'software mangement', ' ', 'server utilization', '']
+Neocleus
+	Developer of endpoint visualization technology for enterprise IT departments. The company offers NeoSphere, an extensible client virtualization platform that ties existing PC management systems with advanced visualization technology.
+	['', 'visualization technology', ' ', 'client visualization platform', ' ', 'enterprise information', '']
+FieldView Solutions
+	Provider of facilities managers and IT personnel that handle data centers with real time branch circuit and environmental monitoring, circuit alarm notification, and cabinet asset management for small and large data centers. The company’s enterprise-ready platform optimizes space and energy usage in data center environments, as well as enhances security features, access, and permissions. It serves financial, insurance, co-location, and pharmaceutical companies.
+	['', 'enterprise software', ' ', 'energy management', ' ', 'risk mitigation', ' ', 'paltform optimization', ' ', 'space optimization', '']
+3Leaf Systems
+	Provider of virtualization technology for enterprise data centers. The company provides architecture that delivers system level virtualization to enable mainframe-class capabilities for commodity servers.
+	['', 'virtualization architecture', ' ', 'server virtualization', ' ', 'system level virtualization', '']

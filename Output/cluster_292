@@ -1,30 +1,48 @@
-InteCardia
-	Provider of cardiac-imaging services and equipment to cardiologists. The company provides disease- and practice-management services focused on cardiology and cardiovascular medicine.
-	['', 'cardiac imaging', ' cardiology ', 'cardiovascular medicine', '']
-Quolaw
-	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
-	['', 'law practice', ' ', 'law practice management', ' lawyer']
-Navitas Cancer Rehabilitation Centers of America
-	Provider of personalized integrated cancer rehabilitation services to cancer patients.
-	['', 'physical therapy', ' ', 'occupational therapy', ' ', 'prescriptive exercise', ' ', 'psycho-social counseling', ' ', 'nutritional counseling', ' ', 'lymphedema therapy', ' acupuncture']
-NovoGI
-	Provider of medical devices for GI disease management. The company\'s clinically proven nitinol technology works with the biological forces of the healing process which enables dynamic compression anastomosis of varying tissue thicknesses for natural healing for various patients undergoing colorectal resection procedures.
-	['', 'GI disease management', ' ', 'nitinol technology', ' ', 'colorectal surgery', ' ', 'surgical devices', '']
-Peminic
-	Developer of healthcare IT workflow and process management software. The company offers integrated software solutions for patient safety and quality, patient relations, risk management, and legal services. Its solutions include incident manager, root cause analysis manager, patient relations manager, peer review manager, claims manager, legal matter manager, employee health manager, contract manager, compliance manager, infection control manager, performance improvement manager, and quality outcomes manager, as well as patient safety organization solutions.
-	['', 'IT workflow', ' ', 'process management software', ' ', 'integrated software solution', ' ', 'cause analysis manager', ' ', 'healthcare solution', '']
-Health and Productivity Corporation of America
-	Provider of health care management services. The company provides a continuum of care management services integrating health management, disease management, complex care management, disability management, workers\' compensation management and case management services.
-	['', 'health care management', ' ', 'health care service', ' ', 'disease management', ' ', 'complex care', ' ', 'disability management', '']
-US Physicians
-	Operator of a physician practice management (PPM) company. The company is a manager of specialist practices engaged in providing disease management services for cancer patients.
-	['', 'medical practices', ' ', 'ancillary services', ' cancer ', 'disease management', '']
-BMJ Medical Management
-	Provider of management services to physician practices that focus on musculoskeletal care. The company focuses on musculoskeletal care, which involves the medical and surgical treatment of conditions related to bones, muscles, joints, and related connective tissues.
-	['', 'surgical treatment', '']
-Macab
-	Operator of a cable technology company. The company is engaged in providing products for the reception and distribution of television signals. The company also provides installation and maintenance services.
-	['', 'maintenance services', ' ', 'installation services', ' ', 'cable technology', ' ', 'antenna television', ' ', 'television signal distribution', '']
-Datamedic
-	Developer of computer-based patient record and physician practice management systems. The company\'s products and services are used in private practice, physician practice management, management service and hospital network settings for ensuring efficient point-of-care capture and retrieval of healthcare information in order to improve the quality and profitability of their medical practices.
-	['', 'practice management', ' physician ', 'medical practice', '']
+Covagen
+	Operator of a biopharmaceutical company focused on therapies for inflammatory diseases and cancer. The company provides a proprietary platform that genetically fuses Fynomer binding proteins to antibodies, resulting in therapeutics with novel modes of action. The company’s first clinical drug candidate is designed for treatment of rheumatoid arthritis, psoriatic arthritis and other inflammatory diseases.
+	['', 'inflammation binder', ' ', 'protein therapy', ' ', 'clinical drug', '']
+LeukoSite
+	Developer of therapeutics based upon the biology of leukocytes with potential applications in cancer, inflammatory, autoimmune and viral diseases. The company\'s technology and expertise in leukocyte biology facilitate the discovery and development of proprietary drugs that destroy or block the disease-causing actions of leukocytes.
+	['', 'drug discovery', ' ', 'leukocyte', '']
+CorSolutions
+	Provider of disease management and related services to employers, health plans and government-sponsored healthcare programs. The company offers cancer treatment; cardiac treatment, including coronary artery disease program and heart failure program; respiratory treatment comprising asthma and chronic obstructive pulmonary disease program and pain treatment.
+	['', 'disease management', ' ', 'healthcare program', ' ', 'government healthcare program', ' ', 'artery disease program', ' ', 'pulmonary disease program', '']
+LifeMasters Supported SelfCare
+	Provider of health promotion and disease management programs and services. The company offers programs for individuals with diabetes, congestive heart failure, coronary artery disease, chronic obstructive pulmonary disease, hypertension and asthma, cancer, metabolic syndrome and musculo-skeletal pain. It also provides programs for depression and lifestyle changes, such as smoking cessation and weight loss.
+	['', 'weight loss', ' ', 'health promotion', ' ', 'disease management', ' ', 'heart failure', ' ', 'coronary artery management', ' ', 'smoking cessation', '']
+Cartesia Dx
+	Developer of thermal/3D imaging system to quantify inflammation and to diagnose and manage rheumatoid arthritis. The company\'s technology also quantifies assessment of swelling and warmth in various diseases.
+	['', '3D imaging system', ' ', 'thermal imaging system', ' ', 'rheumatoid arthritis treatment', '']
+Adenosine Therapeutics
+	Developer of novel pharmaceutical products that target adenosine receptor subtypes. The company develops drugs for the treatment of asthma, diabetes, Parkinsonís disease, cancer, ophthalmic disease and inflammatory indications such as sepsis, heart attack, ischemia-reperfusion injury, sickle cell crisis, vascular injury, arthritis, spinal cord injury, COPD and inflammatory bowel disease.
+	['adenosine asthma diabetes ', 'adenosine receptor', ' ischemia-reperfusion']
+Aerocrine
+	Creator of a device to monitor inflammatory airway diseases. The company provides a device to monitor exhaled nitric oxide (NO) from patients with inflammatory airway diseases such as asthma to assess the levels of their ailment and predict exacerbations.
+	['', 'medical technology', ' ', 'treatment product', ' ', 'inflammatory airway disease', '']
+Topigen Pharmaceuticals
+	Developer of asthma and chronic obstructive pulmonary disorder therapeutics. The company\'s lead product, TPI-ASM8, is an inhaled combination of antisense oligonucleotides targeting key cytokines involved in asthmatic airway inflammation, and is in Phase II clinical trials. The company is also developing an antisense product against phosphodiesterase isoforms for the treatment of chronic obstructive pulmonary disorder therapeutics.
+	['', 'asthma therapeutics', ' ', 'chronic obstructive pulmonary disorder', ' ', 'antisense', '']
+Epigenesis
+	Developer of inhaled respiratory medicines for the treatment of asthma and chronic obstructive pulmonary disease (COPD). The company develops EPI-12323, a once daily, small molecule, inhaled non-glucocorticoid steroid that targets the inflammatory and airway obstruction cascade in the irritated lung.
+	['', 'respiratory medicine', ' ', 'asthma treatment', ' ', 'obstructive pulmonary disease', ' ', 'respiratory treatment', ' inhaler']
+BG Medicine
+	Developer of novel cardiovascular diagnostic tests. The company\'s product pipeline includes BGM Galectin-3, a diagnostic test for heart failure that measures galectin-3 levels in blood plasma or serum. It also offers TNF alpha blockers comprising Enbrel, Remicade and Humira, which are treatments indicated for autoimmune diseases, such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and Crohn’s disease.
+	['', 'diagnostic test', ' ', 'heart failure', ' ', 'cardiovascular test', ' ', 'lipid disorder', '']
+Palau Pharma
+	Provider of biopharmaceutical products. The company specializes in the discovery and development of new products for treating inflammatory and autoimmune diseases.
+	['bio-pharmaceutical ', 'inflammatory disease', ' ', 'autoimmune disease', '']
+Viral Logic Systems Technology
+	Developer of novel therapeutics for the treatment of inflammatory and autoimmune disorders. The company\'s product is used for the treatment of rheumatoid arthritis, Crohn\'s disease, multiple sclerosis, lupus nephritis, mixed cryoglobulinemia, Wegener\'s granulomatosis and diabetes.
+	['', 'novel therapeutic', ' ', 'inflammatory disorder', ' ', 'autoimmune disorder', ' ', 'rheumatoid arthritis', ' ', 'multiple sclerosis', ' ', 'lupus nephritis', ' ', 'mixed cryoglobulinemia', '']
+Actimis Pharmaceuticals
+	Developer of small molecule therapeutics for respiratory, inflammatory and autoimmune diseases. The company offers its therapeutics for autoimmune diseases, such as asthma, chronic obstructive pulmonary disease (COPD), inflammatory dermatoses, inflammatory bowel disease and rheumatoid arthritis.
+	['', 'autoimmune disease treatment', ' ', 'inflammatory disease treatment', ' ', 'rheumatoid arthritis treatment', '']
+StormBio
+	Developer of therapy for influenza and other inflammatory diseases. The company is developing a new class of therapeutics designed to target only an over-reaction of the inflammatory process, without shutting down the body\'s immune response.
+	['', 'influenza', ' ', 'inflammation treatment', ' ', 'pandemic', ' ', 'biopharm', '']
+Immunex
+	Provider of biopharmaceutical drug discovery. The company is focused on immune-system research, in the disciplines of immunology, cytokine biology, vascular biology, antibody-based therapeutics and small-molecule research. It works to develop new therapeutics for rheumatoid arthritis, asthma and other inflammatory diseases, as well as cancer and cardiovascular diseases.
+	['', 'antibody therapeutics', ' ', 'vascular science', ' ', 'rheumatoid arthritis', ' asthma ', 'cardiovascular therapy', '']
+Centaur Pharmaceuticals
+	Developer of novel class of small molecule pharmaceutical compounds for the treatment of neurodegenerative and inflammatory diseases. The company develops such compounds to treat inflammatory diseases such as acute stroke, dementia, rheumatoid arthritis, myocardial ischemia and Parkinson’s disease.
+	['', 'molecule pharmaceutical compound', ' ', 'pharmaceutical products', '']

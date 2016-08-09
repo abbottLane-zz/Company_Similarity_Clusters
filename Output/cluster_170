@@ -1,27 +1,66 @@
-Green Bullion Financial Services
-	Provider of a platform to buy gold from individuals via the mail. The company provides ready cash at a discount in exchange for valuables.
-	['', 'jewelry exchange', ' ', 'gold purchasing', ' ', 'gold buying', '']
-Voyager Resources
-	Provider of precious metals.
-	['']
-Scanalyse
-	Developer of asset management technologies. The company provides process equipment condition and performance monitoring services to mining and mineral processing industries.
-	['', 'asset management', ' ', 'performance monitoring', '']
-Signature Metals
-	Explorer of gold. The company engages in the mining and exploration of gold and other minerals in Africa.
-	['', 'gold mining', ' gold ', 'gold exploration', '']
-Endomines
-	Provider of mining services for precious metals and minerals. The company through its subsidiaries engages in the exploration and mining of gold and the industrial mineral ilmenite. The company\'s gold-exploration activities are in the Pampalo Gold Mine in eastern Finland, and its mineral activities also are located in Finland.
-	['', 'gold mining', ' ', 'mining', ' ', 'mineral extraction', '']
-Alpha Minerals
-	Provider of mineral exploration services. The  company is engaged in the exploration and development of uranium and gold properties in Athabasca Basin in Canada and North America.
-	['', 'mineral exploration', ' ', 'uranium exploration', ' ', 'gold exploration', '']
-Botnia Exploration
-	Miner of rare minerals. The company is aggressive in its exploration and prospecting of new projects and potential mining targets with a strong focus on gold, which is most in demand in the company\'s main market Sweden. The company finances all of its development projects with partnerships.
-	['', 'gold mine', ', ', 'diamond mine', ', ', 'rare minerals', '']
-Mexivada Mining
-	Operator of a mining and exploration company. The company acquires and explores metal, diamond, uranium and other rare metal exploration properties.
-	['', 'metal properties', ' ', 'junior mining', ' ', 'hislop properties', '']
-Creso Exploration
-	Provider of mineral exploration services. The company engages in the exploration of mineral properties in Canada.
-	['', 'exploration stage', ' ', 'mineral exploration', ' tyranite']
+Frontlineshop
+	Provider of an online retail store for streetwear. The company offers clothing, shoes and accessories on the internet through its online store. It also offers merchandise of different brands.
+	['', 'street wear', ' ', 'brand bandwidth', ' ', 'online retail store', '']
+Shanghai 9Diamond Jewelry
+	Provider of online diamond retail store. The company offers a sale platform of diamond products including jeweleries in and across Shanghai.
+	['', 'sale platform', ' ', 'diamond jewelry', ' diamonds']
+Twice
+	Provider of online marketplace for secondhand clothing. The company provides an e-commerce site browsable by category, with items that are evaluated by professional buyers and professionally photographed.
+	['', 'clothing marketplace', ' ', 'used clothing', ' ', 'concierge style', ' secondhand']
+Deal Mates
+	Operator of an online shopping mall in Malaysia. The company as an online flash sales website which offers clothing, handbags, jewelry, watches, shoes and accessories.
+	['', 'shopping mall', ' handbags watches']
+Moki.TV
+	Operator of an online video directory. The company provides an e-commerce platform for the television and film industries.
+	['', 'TV guide', ' movies ', 'video directory', '']
+One Jackson
+	Developer of e-commerce platform for kids clothing. The company provides an online platform that offers designer clothes for kids and promotes independent designers of children’s clothes.
+	['', 'e-commerce platform', ' ', 'ecommerce platform', ' ', 'kid clothing', ' ', 'designer clothing', ' ', 'designer clothes', ' ', 'kids clothing', ' ', "children\\'s clothing", '']
+Kirondo
+	Provider of a second hand kid\'s clothing portal. The company offers an online platform for users to sell secondhand kid\'s clothing.
+	['', "kid\\'s clothing", ' ', 'second hand apparel', ' ', 'clothes sale portal', '  ', 'secondhand sale', ' garments']
+NearbyNow
+	Provider of on line services to retailers and shopping centers that allow consumers to search local store inventory using the Internet or mobile phones. The company offers information on baby products, such as car seats, clothes, furniture, highchairs and feedings, shoes, slings and carriers, and strollers; bathroom furniture, blankets, comforters, mirrors, pillows, rugs, shower curtains, toilet accessories, and towels; maternity products, including clothing and personal care; and clothing and accessories, including athletic and workout products, belts, blazers and sport coats, dresses, handbags and wallets, hoodies and sweatshirts, jeans, lingerie, outerwear, pants, petites, shirts and tops, shorts, skirts, sleepwear, socks and hosiery, suits, sweaters, swimwear, ties, and underwear products.
+	['', 'on-line marketing service', ' ', 'local store inventory', ' ', 'on line retail shop', ' ', 'on-line local market shopping', ' ', 'mobile shopping application', ' ', 'local store inventory information', ' ', 'scan local market product', ' ', 'nearby store information', ' ', 'local shopping center information', '']
+Private Outlet
+	Operator of an online store. The company focuses on private sales of fashion items including clothing and accessories. The company offers fashion, athletics, beauty, interior decoration as well as small appliances to customers.
+	['', 'online store', ' ', 'small appliances', '']
+Polska Grupa Odzieżowa
+	Operator in the clothing trade industry. The company focuses on connecting to and taking over companies in financial difficulty operating in the clothing trade.
+	['', 'clothing trade', ' ', 'apparel company financing', ' ', 'investment opportunity', '']
+Chlorophylle
+	Operator of an online clothing store. The company provides an e-commerce platform which offers clothing products and accessories for users.
+	['', 'recycled materials', ' ', 'organic cotton', ' ', 'clothing industry', '']
+Bizpora
+	Operator of an online platform for travelers. The company provides an e-commerce platform for travelers to interact with each other about upcoming trips.
+	['', 'online traveling platform', ' ', 'business networking', ' ', 'travel network', '']
+AllAboardToys.com
+	Operator of an online specialty toy store. The company provides family-friendly and educational toys. They also offer wooden toy trains, clothing, bedding products, toys, puzzles, books, birthday party, school supplies, costumes, decorative items and DVD\'s for children.
+	['toys ', 'online toy shop', ' ', 'educational toys', '']
+ActivityStream.io
+	Operator of an online store. The company provides an online platform which connects e-commerce retailers with customers.
+	['', 'customer activity', ' ', 'purchase decisions', ' ', 'customer satisfaction', '']
+Quincy Apparel
+	Designer of woman apparel. The company combines bespoke and ready-to-wear by rethinking traditional clothing sizes allowing women to shop by bust, body shape and height.
+	['', 'professional apparel', ' ', 'online clothing', ' ', 'online apparel', ' ', "women\\'s apparel", ' ', 'professional wear', '']
+Loveyewear
+	Operator of an e-commerce platform for selling eye-wear. The company offers branded glasses and sunglasses in Sweden.
+	['eye-wear eyewear glasses sunglass ', 'online eyewear store', '']
+Smithfield Case
+	Provider of online clothing service for men. The company creates an online platform which allows the customer to create a profile that includes style, brand, preferences, sizes and then personal stylist develops a set of looks and sizes.
+	['', 'online clothing', ' ', 'online platform', ' style']
+Tu Otro Super
+	Operator of an online food and consumer goods store. The company is an online supermarket selling branded grocery, perfume, food, pet products.
+	['', 'online food', ' ', 'consumer goods store', ' ', 'online supermarket', '']
+Heverest.ru
+	Operator of an online shopping portal. The company provides clothing, footwear, bags and backpacks, sports and outdoor tourism equipment and accessories.
+	['', 'sporting goods', ' ', 'consumer durables', ' ', 'shopping portal', '']
+eÓtica
+	Provider of an e-commerce platform to sell optical products online. The company sells contact lenses, sunglasses, prescription glasses, frames and accessories.
+	['', 'optical products', ' ', 'sunglasses', ' ', 'contact lenses', ' ', 'online optical store', '']
+Q Gardens
+	Operator of a retail gardening and farm-supply store. The company operates a seven-acre property from which it retails a range of gardening supplies and farming products, as well as produce, a cafe and cultivated gardens.
+	['', 'garden store', ' ', 'farm supply', ' ', 'gardening products', ' ', 'gardening tools', ' ', 'gardening implements', '']
+Seek & Adore
+	Operator of an online boutique for artists and designers. The company provides an e-commerce platform for designers and customers who are looking to discover and buy things such as homewares, jewellery, fashion accessories and gifts.
+	['', 'fashion accessories', ' ', 'handmade gifts', ' homewares']

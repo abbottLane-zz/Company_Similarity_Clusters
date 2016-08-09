@@ -1,39 +1,30 @@
-Pomarfin
-	Operator of a Finnish family business that manufactures shoes.
-	['shoe ', 'multilayer sole', ' ', 'microporous membrane ', '']
-Primeloop
-	Provider of an information tracking tool used in social networking websites. The company\'s tool makes it simple to bookmark, clip, and tag contents from a webpage and receive notifications about new comments, shares and engagement on all \'PR clippings\'.
-	['', 'information tracking tool', ' ', 'social networking', ' bookmark notifications']
-OSN Online Social Networking
-	Operator of an online social networking platform. The company operates family networking websites for build family trees.
-	['', 'family tree', ' ', 'family network', ' ', 'social engagement', '']
-Soletron
-	Provider of social networking platform. The company provides blogs, e-commerce and social networking facilities for designer, retailer and collectors to buy, sell and discuss.
-	['', 'networking platform', ' ', 'social commerce', ' ', 'street wear', ' ecommerce']
-In.Sites Media
-	Developer of a social powered small businesses marketing and networking platform. The company helps small businesses and individuals to increase exposure and traffic volume by transforming their standalone websites into business pages at social networking sites, where traffic is constant.
-	['', 'networking platform', ' ', 'businesses marketing', ' ', 'traffic volume ', '']
-RocketCash
-	Provider of online incentive programs. The company is an online gateway that enables consumers to shop and buy online at merchant websites without a credit card, in a secure, family-friendly environment. It developed the RocketCash Currency Exchange, which allows consumers to aggregate various forms of currencies, including online incentive dollars, offline promotional points, gift certificates, money orders, personal checks and U.S. dollars.
-	['', 'online gateway', ' ', 'e-commerce', '']
-Beep
-	Operator of an online audio networking platform. The company provides a networked audio software that enables consumers to convert any speaker into an internet music streaming device.
-	['', 'wireless speakers', ' ', 'audio software', ' ', 'online music', '']
-Megabowl Group
-	Owner and operator of ten pin bowling alleys. The company operates bowling-based family entertainment centers.
-	['', 'bowling center', ' ', 'consumer service', ' ', 'ten pin', '']
-Insoshi
-	Provider of an online open-source social networking platform. The company provides social networking codes to the developers.
-	['', 'source code', ' ', 'networking codes', ' ', 'online services', ' ', 'social networking platform', '']
-SilverStorm Technologies
-	Provider of interconnect solutions for clustered computing. The company designs, manufactures and services a family of networking hardware and software products that improve cluster performance and scalability.
-	['', 'Clustered computing', ' ', 'network hardware', '  ', 'connectivity software solutions', ' ', 'Network solutions', '']
-Jaxtr
-	Operator of a social communication website. The company website enables its clients to receive calls from people visiting their social networking pages, as well as make calls to their friends and family worldwide.
-	['', 'social communication', ' ', 'cloud-based voice conferencing', ' ', 'fax-to-email service', ' ', 'voice over internet protocol technology (VOIP) service', '']
-iRadius
-	Developer of custom software applications. The company develops a comprehensive platform that supports a family\'s digital communications and household needs.
-	['', 'custom software application', ' ', 'software platform', ' ', 'Household software', '']
-Orbius
-	Provider of online social networking services. The company\'s platform is optimized for SEO at the page and application level. It is robust and scalable and is built on a flexible platform that enables rapid development of new features and applications.
-	['', 'social networking', ' ', 'flexible platform', ' ', 'application development', ' ', 'feature development', ' ', 'create content', '']
+Sirus
+	Operator of a pharmaceutical research company. The company focuses on drug development for the treatment of nerve injury and muscle spasm by using its proprietary platform technologies that covers pain, emesis, epilepsy and insomnia.
+	['', 'neurological disease', ' ', 'drug development', ' ', 'chemical properties', ' ', 'platform technologies', '']
+Arcion Therapeutics
+	Developer of pain therapy treatment. The company applies breakthroughs in neuroscience to advance the treatment of chronic pain. The company focuses on topical treatments to provide pain relief with convenient application and reduced systemic side effects.
+	['', 'diabetic neuropathy', ' ', 'herpetic neuralgia treatment', ' ', 'pain management', ' ', 'pain therapy treatment', '']
+Spinifex Pharmaceuticals
+	Developer of a new class of therapeutic for chronic pain management. The company\'s lead product shows a clinically meaningful reduction in pain in patients with postherpetic neuralgia, a debilitating condition that can follow shingles.
+	['', 'chronic pain', ' ', 'new drug candidate', ' ', 'postherpetic neuralgia', '']
+ProstaLund
+	Developer of urological devices and treatments.  The company\'s principal product, CoreTherm, is a microwave therapy treatment for BPH (benign prostatic hyperplasia).
+	['bph urology prostate ', 'benign prostatic hyperplasia', ' coretherm ', 'urological device', '']
+PeriphaGen (Formerly Diamyd)
+	Operator of a bio-pharmaceutical company. The company develops gene delivery products to treat and manage pain and peripheral nerve damage. Its pipeline also includes the treatment of chronic pain by NET drugs designed to block multiple pain pathways through the expression of various gene combinations.
+	['', 'neurological disorder', ' ', 'gene delivery products', ' ', 'nerve damage', ' nerve']
+Intersect ENT
+	Developer of medical devices focused on the treatment of chronic sinusitis. The company\'s technology provides treatment for patients\' condition in which sinuses become swollen and inflamed, leading to difficulty breathing, facial pain or headache and reduced sense of smell and taste.
+	['', 'bioabsorbable drug', ' ', 'heart failure', ' ', 'chronic sinusitis', ' ', 'difficulty breathing', ' ', 'facial pain', '']
+Disc Dynamics
+	Developer of a treatment for lower back pain. The company’s technology was designed to treat lower back problems by injecting a fluid into the spine through a catheter. The fluid then expands and gels inside the back to create an artificial nucleus for the disc.
+	['', 'lower back pain', ' ', 'fluid injection', ' ', 'artificial nucleus', ' ', 'medical device', '']
+Blacktown NC
+	Provider of medical devices for spinal disorder treatment. The company offers accelerated flexion therapy, a computer controlled rehabilitation table that manages lower back pain by combining physical therapies with the robotic control methods into a therapeutic approach.
+	['', 'spinal disorder treatment', ' ', 'controlled rehabilitation', ' ', 'back pain', ' ', 'robotic control method', ' ', 'physical therapy', '']
+Sherrington Pharmaceuticals
+	Developer of a pain treatment drug. The company develops chronic and refractory pain treatment for end-stage cancer patients and other severe pain indications.
+	['', 'end-stage', ' Resiniferatoxin ', 'chronic pain', '']
+ReliefInsite
+	Provider of a web-based platform to enable and enhance disease management programs, particularly in pain management. The company provides an online community where people suffering from pain can assess and track their pain levels.
+	['', 'online pain management', ' ', 'pain management', '']

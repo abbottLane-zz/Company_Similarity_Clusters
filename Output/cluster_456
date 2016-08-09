@@ -1,12 +1,24 @@
-Virtual Computer
-	Provider of a platform of PC life cycle management. The company offers NxTop, a client-side virtualization and management server platform, which uses virtualization technology to isolate and manage the main components of a PC independently, including the hardware, operating system, applications and user data.
-	['', 'desktop management', ' ', 'laptop management', ' ', 'operating system', '']
-Realtime Technology
-	Provider of three dimensional visualization technology. The company provides a technology platform enabling its clients to explore novel approaches toward real-time digital experience across all of a product\'s life cycle, from design and development to marketing and sales applications.
-	['', 'dimensional visualization', ' ', 'three dimensional realtime', ' visualization']
-ConteXtream
-	Operator of a software-defined-networking (SDN) company. The company is a provider of carrier-grade network visualization technology. Deployed by Tier-1 operators, the company\'s Carrier-SDN elastically connects subscribers to services and enables carriers to leverage standard server hardware and hypervisors to virtualize functions and services, while replacing purpose-built proprietary systems.
-	['', 'routing service', ' ', 'internet protocol', ' ', 'internet broadband', '']
-Neocleus
-	Developer of endpoint visualization technology for enterprise IT departments. The company offers NeoSphere, an extensible client virtualization platform that ties existing PC management systems with advanced visualization technology.
-	['', 'visualization technology', ' ', 'client visualization platform', ' ', 'enterprise information', '']
+Cropsolution
+	Developer of agrochemicals for protecting crops from weeds, pests and diseases. The company uses its proprietary Evolutionary Chemistry technology to discover and develop agrochemicals for protecting crops.
+	['', 'crop protection', ' agrochemical']
+EcoSynthetix
+	Developer and marketer of biobased materials. The company is focused on developing bio-based materials through the value-added substitution of petroleum-based products. The company’s products include biolatex binders, which use starches from renewable-crop resources; and EcoMer, environmentally sustainable, sugar-based monomer adhesives, which can be used instead of a wide variety of petrochemical ingredients that go into paint, adhesives, plastics, inks, toners and surfacants.
+	['', 'chemical products', ' ', 'bio-materials', ' polymers ', 'renewable resources', '']
+OPX Biotechnologies
+	Developer of bio-based fuels. The company uses proprietary bioengineering technology to convert renewable feedstocks into biofuels and green chemistry products.
+	['bioproduct bioengineering ', 'renewable fuel', ' biofuel ', 'green technology', '']
+Mycologix
+	Provider of a biological treatment process for biofuels. The company uses a combination of microbial treatment and engineering to degrade woody material on an industrial scale, to be fermented into fuels such as ethanol.
+	['', 'wood decay mechanisms', ' biomass bioenergy biofuel']
+Coelacanth Chemical
+	Provider of proprietary chemistry technologies to rapidly discover new chemical entities for drug development and discovery. The company uses its proprietary technology ClickChem to create sets of novel building blocks which are used for the production of innovative compound sets that shorten lead discovery and lead optimization time for drug development.
+	['ClickChem , ', 'proprietary chemistry technologies', ' ', 'novel building blocks', '']
+Blucora
+	Developer of tools and technologies which assist consumers and businesses in finding content and information on the internet. The company uses its proprietary metasearch technology to provide private-label search and online directory services to consumers on a global basis.
+	['', 'search engine developer', ' ', 'metasearch technology', ' ', 'online directory', '']
+ClearFuels Technology
+	Producer of clear and clean renewable fuels. The company develops commercially viable cellulosic biofuels conversion technologies to support commercial-scale production of advanced biofuels while reducing commodity risks of both feedstock costs and biofuels prices.
+	['', 'renewable fuels', ' biofuels']
+Illumigen Biosciences
+	Developer of drugs for the treatment of hepatitis C virus infections. The company uses its proprietary genetic technologies to discover human genetic mutations for therapeutic drug mechanisms.
+	['', 'human genetic mutations', ' ', 'therapeutic drug', ' ', 'hepatitis C', '']

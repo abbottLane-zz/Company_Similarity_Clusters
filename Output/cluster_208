@@ -1,45 +1,21 @@
-Solar Industries
-	Manufacturer and marketer of solar-power components. The company pursued a growth and buy-and-build strategy along the value chain for solar-module production and marketing. The company operated multiple production facilities for solar modules.
-	['photovoltaic ', 'photovoltaic cell', ' ', 'photovoltaic products', '']
-Usolie-Sibirsky Silicon
-	Manufacturer of polycrystalline silicon. The company is the manufacturer of a silicon product used as a basic semiconductor material in microelectronics, electric power and solar energy. The company operates manufacturing plants to produce materials for the further development of Russian microelectronics for solar-power generation.
-	['', 'manufacturing plant', ' ', 'polycrystalline silicon', ' ', 'silicon plant', ' semiconductor']
-EpiWorks
-	Manufacturer of specially treated gallium arsenide and indium phosphide wafers. The company\'s wafers are used to make computer chips and ends up being components in cell phones and in medical and industrial lasers.
-	['', 'IT services', '']
-Sunrise Global Solar Energy
-	Manufacturer of photovoltaic cells. The company engages in the design, manufacture and distribution of photovoltaic cells and solar energy products. It also offers monocrystalline and multicrystalline solar cells.
-	['photovoltaic ', 'solar cells', ' monocrystalline plant']
-Innotech Solar
-	Provider of technology to classify and upgrade non-prime c-Si solar cells within the solar industry. The company uses laser-based process, to maximize electricity production by optimizing various types of solar cells.
-	['', 'solar cell', ' ', 'electricity production', ' ', 'non prime cell', '']
-Engensa
-	Provider of residential solar systems in the U.K. The company works with homeowners to design, finance, install and maintain solar-energy systems to match a range of budgets.
-	['', 'solar panel system', ' ', 'alternative energy', ' ', 'residential solar system', '']
-JEN Holdings
-	Provider of an electrical energy in local area. The company provides the facility of production, supply and sale of electric power and steam for local user like industries and electric power suppliers by utilizing Eco-friendly and renewable electricity sources.
-	['', 'electrical energy', ' ', 'renewable electricity', ' ', 'electric power', '']
-Skyline Solar
-	Manufacturer of high gain solar arrays for commercial, industrial, government and utility markets. The company offers HGS structural and reflective racking components. It develops a solar energy system that uses metal reflectors to concentrate the sunlight onto silicon solar cells for electricity production.
-	['', 'solar energy', ' ', 'solar array', ' ', 'high gain solar', ' ', 'HGS array', ' ', 'reflective racking', ' ', 'silicon cell', ' ', 'metal reflector', ' ', 'electricity production', ' ', 'solar silicon', ' ', 'HGS panel', ' ', 'solar electricity', '']
-Trony Solar
-	Producer of thin-film solar energy modules. The company is an amorphous silicon thin film solar cell manufacturer and service provider in China.
-	['', 'solar energy module', ' ', 'solar cell', ' ', 'silicon thin film', '']
-GCL Silicon Technology Holdings
-	Supplier of polysilicon and wafers to companies operating in the solar industry. The company manufactures polysilicon, the primary raw material used in the production of solar cells and modules for the generation of electric power from solar energy.
-	['', 'solar industry', ' polysilicon wafers']
-Surfect Technologies
-	Manufacturer of semiconductor equipment. The company provides metallization, interconnect and module process for solar cell, light emitting device (LED) and power management applications. It also develops and commercializes patented automated electroplating deposition tools, which apply single metal or multi-metal stacks on solar cells and modules through single chamber electroplating process.
-	['']
-Nanoconduction
-	Provider of products based on carbon nanotube technology optimized for IC chips, LEDs  and Solar Cells. The company develops nano-based electronic cooling Technology.
-	['nanotechnology ', 'nanoconduction technology', ' semiconductors']
-Voltaix
-	Provider of materials for semiconductor chips and solar cells. The company provides electronic chemicals and gases used in semiconductor manufacturing processes. It also provides supply of deposition precursors for production of photovoltaic cells.
-	['', 'electronic chemical', ' ', 'deposition precursor', ' ', 'photovoltaic cell', ' ', 'semiconductor', '']
-PURE Energies
-	Provider of rooftop solar energy systems. The company advises homeowners on residential solar systems and home conservation products to help them save money.
-	['', 'power grid', ' ', 'energy generation', ' ', 'rooftop solar energy', ' ', 'web-based customer acquisition', '']
-ArrayPower
-	Provider of power technologies for the solar industry. The company\'s technology helps to improve capital returns, maximize system performance and simplify system installation and operation, to the benefit of both manufacturers and system owners.
-	['', 'solar power', ' ', 'solar power technology', ' ', 'solar performance', ' ', 'solar installation', ' ', 'solar operation', ' ', 'solar grid parity', ' ', 'solar module', ' ', 'inverter less solar', '']
+LCL Logistix
+	Provider of logistics and supply-chain solutions. The company provides integrated, end-to-end shipping logistics services to customers around the globe. They utilize business-owned assets like Container Freight Stations, trucks, other equipment and warehouses to accomplish this.
+	['', 'shipping logistics', ' ', 'supply chain logistics', ' ', 'integrated shipping', ' ', 'end-to-end logistics', '']
+Speedchain Networks
+	Provider of supply chain event management and global e-logistics services. The company through its web-native framework increases cross-enterprise collaboration and information sharing.
+	['', 'supply chain', ' ', 'event management', ' e-logistics']
+Pickup Services
+	Developer of software for the parcel-delivery industry across France. The company provides a software platform and interactive map  that outlines a network of business-to-customer relay points, field services logistics, relay points for parcels after failed home deliveries and reverse logistics.
+	['', 'relay points', ' ', 'parcel VPC', ' ', 'logistics management', '']
+Datell
+	Provider of information integration services. The company supplies MES (manufacturing execution systems) and software for logistics for the solid bulk industry (solid bulk software) and the packaging industry (packaging logistics).
+	['', 'manufacturing execution systems', ' ', 'solid bulk software', ' ', 'logistics software', ' ', 'efficiency software', '']
+iLink Global
+	Provider of eLogistics application services. The company provides shipment pricing and logistics services for e-commerce companies and online shoppers.
+	['', 'eLogistics application', ' ', 'e-commerce companies', ' ', 'shipment pricing', ' ', 'logistics services', '']
+Logistics.com
+	Provider of logistics planning and execution software to shippers and carriers. The company links players in the logistics and adjacent industries on a standard communication and application integration platform, Logistics Event Management Architecture. It offers OptiManage, which is a transportation management software, as well as OptiBid, which is a procurement software for shippers.
+	['', 'procurement software', ' ', 'transportation management software', ' ', 'application integration platform', '']
+B-there
+	Provider of online event management and consolidation solutions. The company offers Internet registration, housing and transportation management solution for the meeting and trade show industries.
+	['', 'event management', ' ', 'Internet registration', ' ', 'transportation management', '']

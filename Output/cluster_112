@@ -1,27 +1,36 @@
-Class Connect
-	Provider of lesson crowd-sourcing tool for teachers. The company provides an online platform which enables teachers to find, build and share lesson plans.
-	['', 'crowd-sourcing tool', ' ', 'educational services', ' ', 'educational and Training', '']
-Appetas
-	Provider of an online platform which helps restaurant owners to build their website. The company provides an online platform which helps restaurant owners to build their customized desktop and mobile website, which can be edited and updated by the owners themselves.
-	['', 'website builder', ' ', 'customized website', ' ', 'restaurant website', '']
-Atweb
-	Provider of website maintenance and promotion service. The company offers two product lines - Web Site Garage and !Register-It!. Web Site Garage allows website owners to "park" their URL for a free seven point online website tune up and provides recommendations for improvement; while !Register-It! is a way for website owners to register their website with search engines and directories.
-	['promotion communication ', 'Website promotion', '']
-StopTheHacker
-	Provider of website security. The company provides SaaS services to web hosters, website owners, administrators and web designers to help them protect, detect and recover from malware attacks.
-	['', 'website security', ' ', 'web hoster', ' ', 'malware attack', ' ', 'malware security', '']
-Joyo
-	Provider of a career exploration site. The company\'s platform helps people navigate and discover careers they love.
-	['', 'career exploration', ' ', 'job search', ' ', 'employment portal', ' ', 'career search', '']
-Wibiya
-	Developer of customized web toolbars for websites. The company help online publishers, bloggers ,and other online properties to integrate services and applications of their choice into their website through customized web-based toolbars.
-	['', 'customized toolbar', ' ', 'website toolbar', ' ', 'online publisher', ' ', 'toolbar integration', '']
-Cibando
-	Provider of a restaurant marketing website and mobile application. The company caters to restaurants and other dining enterprises. Through the use of technology the company helps to create a way for consumers and food venues to interact.
-	['', 'restaurant marketing', ' ', 'restaurant reservation', ' ', 'fine dining', ' ', 'restaurant search service', '']
-First Bank of Rock
-	Provider of an intelligence network for artists. The company provides network platform which helps the artist to solve their issue for cash shortfall for tour and some others issues.
-	['', 'technology network', ' ', 'artists network platform', ' ', 'productivity software', '']
-Mochila
-	Operator of an online market place for syndicated content from various content providers. The company’s marketplace contains articles, photos, and videos covering hard news and feature stories on various topics, such as health, business, entertainment, fashion, sports, science, and technology. Its online platform helps publishers to build business, content owners to find new value for their content, and advertisers to reach target audience.
-	['', 'online market place', ' ', 'online platform', ' ', 'publisher platform', '']
+Echoecho Media
+	Developer of a location-based mobile application for finding friends. The company offers an open API, cross-platform, carrier agnostic location sharing system which helsp users in searching for friends and suggesting meeting places.
+	['', 'application developer', ' ', 'friend tracking', ' ', 'social content', '']
+KitLocate
+	Developer of location based applications. The company offers developers and brands a standard for user engagement and services, based on real-time location and enhanced user profiles.
+	['', 'intelligence platform', ' ', 'real-time location', ' ', 'consumer location', '']
+Plazes
+	Provider of web based geo-social navigation services. The company helps its members publish and share their current location with friends so that they can locate one another, connect digital and real-world identities and can coordinate with friends, family and business contacts from their very location.
+	['', 'location services', ' ', 'geo tagging', ' ', 'positioning services', ' ', 'commercial services', '']
+UFIS
+	Provider of airport information technology. The company provides integrated information for single, multi-terminal and multi-airport operations for the global aviation community. The company was spun out of Kongsberg Airport System.
+	['', 'airport information', ' ', 'integrated services', ' operations']
+MeNetwork
+	Developer of location-based mobile marketing software for businesses and consumers. The company allows local merchants to deliver targeted content, offers, loyalty programs and promotions directly to consumers mobile devices based on the location-based services.
+	['', 'advertisement and promotion', ' ', 'marketing software', ' ', 'targeted marketing', '']
+Whereonearth
+	Developer of localization technologies. The company offers online location-based services, that enables users to search for local goods and services without entering a zip code or post code.
+	['', 'localization technology', ' ', ' location-based services', ' ', ' location-based app', ' geocoding']
+Tagzania Services
+	Provider of geo-location services. The company, based in Spain, provides geo-location services and maps on the internet.
+	['', 'consumer service', ' ', 'geo-location services', ' ', 'location information', '']
+Penteye Technologies
+	Developer of location tracking technologies. The company offers a real-time software which offers tracking and location-based services at airport and amusement parks.
+	['', 'location-based services', ' ', 'location engine', ' ', 'alerting module', '']
+Nokia gate5
+	Developer of location based information technology on mobile devices. The company provides a platform for mapping, route planning, content management and personal navigation. Its products include smart2go, a client side global map and search application for GPS-equipped mobile handsets and OEM navigation software for PNDs and PDAs.
+	['', 'location based', ' ', 'information technology', ' ', 'navigation software', '']
+Sapias
+	Provider of web based intelligent resource management solutions for large enterprise customers. The company uses advanced wireless, GPS, Internet, telephony and database technologies to deliver much needed visibility to fleet managers - resulting in reduced operating costs, increased security, productivity and customer satisfaction. Sapias delivers intelligent, event-driven supply chain execution. Its patented technologies transform real-time, location-based data into customized business intelligence that can be easily integrated into existing mission-critical back-end systems.
+	['', 'web based services', ' ', 'communication technology', '']
+Compass Engine
+	Developer of location based games. The company\'s product Bounty Island, an application for iOS devices like iPhone, iPad and iPod Touch, uses the player\'s physical location in the real world to generate the game\'s tropical island environment.
+	['', 'recreational software', ' ', 'location based application', ' ', 'geolocation platform', '']
+Meridian Apps
+	Provider of assistance that helps location-based businesses engage with their visitors. The company offers its services to retail outlets, hotels, hospitals, subways, airports and museums to use their platform to build and maintain mobile apps that take advantage of GPS and other location-aware technologies.
+	['', 'location-aware technology', ' ', 'mobile app', ' ', 'content management system', '']

@@ -1,15 +1,27 @@
-Smart Button Associates
-	Provider of a web-based marketing platform. The company engages in rewarding and retaining their customers and patrons as well as manages successful loyalty or rewards programs.
-	['', 'marketing platform', ' ', 'reward programs', ' loyalty']
-ECAL
-	Provider of online calender marketing platform. The company provides an online calendar marketing platform. It offers web-base time and event management platform.
-	['', 'online marketing', ' ', 'calender marketing platform', ' ', 'web base time management platform', '']
-rPath
-	Developer of a technology for virtualizing software applications, and managing the lifecycle of virtual appliances and application images. The company\'s products include rBuilder,\nrPath Lifecycle Management Platform. It also offers rBuilder Online and the Cloud Catalog for EC2 and rPath X6.
-	['', 'virtualizing software application', ' ', 'virtual appliance', ' ', 'application image', ' ', 'Lifecycle Management', ' ', 'Cloud Catalog', '']
-Asure Software (WebEvent Solution and Book of Business)
-	Provider of event calender and scheduler software. The company integrates event calendar software and a scheduler into a single enterprise wide web based event management software system, providing one view into all of event information.
-	['', 'event calendar software', ' ', 'event management software', '']
-InfoJobs Spain
-	Developer of an online job platform. The company provides a digital platform that offers employment information services in Spain.
-	['', 'online job platform', ' ', 'job portal', ' ', 'employment services', '']
+ZDworks
+	Developer of smartphone development applications. The company engages in the development of smart phone applications for Android devices and iPhones.
+	['', 'mobile platform', ' ', 'cellular phone', ' ', 'phone application', '']
+MobileMax
+	Provider of a solution to the calling card industry for serving the lucrative mobile user segment. The company engages in the development, manufacturing and marketing of software and hardware facilitating low-priced international calls by mobile phone.
+	['', 'unified communication', ' ', 'fixed mobile convergence', ' ', 'telecommunication service', '']
+Truth Soft
+	Operator of a mobile-application development studio. The company provides travel applications for iPhone and Android devices.
+	['', 'subway map', ' ', 'travel guide', ' ', 'consumer product', '']
+Ingrepro
+	Producer of algae for industrial purposes. The company engages in the development and exploitation of hybrid reactors for algae production. It mainly serves the energy and food industries.
+	['', 'algae production', ' ', 'hybrid reactors', ' ', 'waste streams', ' plants ', 'industrial algae', '']
+Appurify
+	Provider of performance-optimization testing for mobile applications. The company’s platform enables software developers to test their applications on iOS and Android devices under real user conditions. It also provides debugging and optimization tools, actionable test outputs, scriptless tests and framework tests.
+	['', 'optimization platform', ' ', 'testing platform', ' ', 'debugging application', '']
+LANergy
+	Provider of networking technologies. The company engages in development of various communication technologies including broadband and wireless networking systems.
+	['', 'networking technology', ' ', 'broadband technology', ' ', 'wireless networking', '']
+Xtreme Labs
+	Developer of mobile applications. The company develops applications for Android, BlackBerry, iPhone, iPad, Symbian and Windows Phone 7.
+	['', 'Mobile Development', ' ', 'Discovery Product Performance', ' ', 'iOS application', '']
+CelioCorp
+	Creator of wireless smartphone terminal technologies for organizations, mobile executives, and consumers to access and use their smartphone. The company offers REDFLY Mobile Companion, which lets users to use their smartphone like a laptop and allows to do email, read attachments, view web sites, and use applications that reside on smartphone.
+	['', 'wireless smartphone', ' ', 'read email attachment', ' ', 'phone kit', ' ', 'car charger', ' ', 'power supply', '']
+Bluenio
+	Provider and developer of applications and accessories for smartphones and tablets. The company develops anti theft applications and accessories that help prevent the loss or theft of devices by wireless chaining it to user\'s smartphone or tablet via Bluetooth.
+	['', 'security application', ' ', 'device security', ' ', 'bluetooth device', ' ', 'mobile accessory', '']

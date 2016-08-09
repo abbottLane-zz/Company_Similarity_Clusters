@@ -1,21 +1,42 @@
-Evomote
-	Provider of content discovery services. The company develops an online platform that helps in offering content discovery and recommendation services.
-	['', 'content discovery services', ' ', 'content platform', ' ', 'recommendation services', '']
-Loomia
-	Provider of content recommendation services.
-	['', 'content recommendation', ' ', 'recommendation service', '']
-Circular
-	Provider of user preference based online content. The company offers an infinitely scrolling feed of content to users, based on people they follow and topics that they are interested in.
-	['', 'online content', ' ', 'infinitely scrolling', ' ', 'preferred content', '']
-Orchest
-	Provider of financial services technology. The company is the developer of a platform enabling users to access a consolidated view of their personal financial information from multiple institutions.
-	['', 'financial services', ' ', 'financial statement', '']
-Minekey
-	Provider of online content discovery and recommendation services. The company offers a social platform enabling users to share and recommend their online discoveries.
-	['', 'content discovery', ' ', 'recommendation service', ' ', 'online recommendation', '']
-Chasm.io
-	Provider of an online content marketing network. The company has developed a content matching system that analyzes personal interest graphs, categories of influence and network behaviors that allows content producers to present their content to only those influencers who are most likely to consume and share it.
-	['', 'social networking', ' ', 'startup assistance', ' ', 'startup guidance', '']
-Chick Approved
-	Provider of an online fashion community that enable users to share and receive instant feedback on personal style.
-	['', 'online fashion community', ' ', 'exploration engine', ' ', 'share outfit', '']
+MCN
+	Provider of mobile search and advertising technology platform. The company provides advertising services to operators and content providers which includes  MessagePlus, RichMedia Advertising and Social Media Advertising.
+	['', 'mobile search', ' ', 'search platform', ' ', 'search on mobile', ' ', 'advertising application', '']
+AdBrite (Certain Intellectual Property Assets)
+	Provider of advertising services. The company has video, data management and optimization technology, which is integrated into its various products aimed at performance-driven digital marketers.
+	['', 'advertisement service', ' ', 'digital data management', ' ', 'intellectual property', ' ', 'data management', ' data']
+YuMe
+	Provider of digital-video advertising services. The company provides digital advertising, using its proprietary software that is embedded across a wide variety of Internet-connected screens, enabling brands to unify their audiences with a single advertising campaign. The company\'s software also collects data on advertising campaigns, content context and audience, to enable decisions on best branding outcomes.
+	['', 'brand advertising technology', ' ', 'digital video technology', ' ', 'advertising campaign', '']
+PropelAd
+	Provider of digital advertising services. The company makes advertising products on facebook and provides marketing automation and value added services to facebook advertisers.
+	['', 'digital advertising', ' ', 'marketing automation', ' ', 'value added service', '']
+Giant Realm
+	Operator of an online publishing platform. The company provides a vertical advertising network targeting the male 18-34 demographic.
+	['', 'online publishing platform', ' ', 'media hosting', ' ', 'internet advertising', ' ', 'vertical advertising network', '']
+Boo-box
+	Provider of social media advertising services. The company provides various advertising services and allows the bloggers to monetize their blogs to earn money.
+	['', 'media service', ' ', 'advertising system', ' ', 'business servcies', '']
+Blue Noodle
+	Provider of advertising services for the online casual gaming industry. The company, through its NeoARM technology suite and NeoAds advertising network, provides advertising supported video gaming.
+	['', 'advertising service', ' ', 'game advertising', ' ', 'game portal', '']
+Videoplaza
+	Provider of advertising serving platform. The company provides an advertising serving platform which is used by the global client base to monetise video experiences on computers, mobile devices, tablets and televisions.
+	['', 'serving platform', ' ', 'media sevice', ' ', 'advertising platform', '']
+AdPortal
+	Developer of advertising technology for publishers.
+	['', 'advertising solution', ' advertising ', 'advertising application', '']
+IdeaCast
+	Provider of custom video content and advertising services. The company provides digital out-of-home television advertising services.
+	['', 'video content', ' ', 'out-of-home', ' ', 'cable provider', '']
+Webnext
+	Operator of an online publisher and advertising network. The company offers networking services to publishers and advertising industry.
+	['', 'advertising network', ' ', 'networking service', ' ', 'publisher web', '']
+Mediaplex
+	Provider of cross channel advertising technology solutions and services. The company enables marketers to achieve one to one messaging, greater efficiencies and a competitive edge through insightful reporting and analytics.
+	['', 'behavioral targeting', ' advertising reporting']
+XKPAD
+	Provider of content for the video gaming hardware industry. The company offers Bodypad, a fighting simulator for play station.
+	['', 'video gaming', ' Bodypad ', 'fighting simulator', ' hardware']
+Pheedo
+	Operator of an advertising network and ad-delivery platform. The company provides tools that enable individuals, organizations and corporations to promote, analyze and optimize advertising in their weblogs and syndicated content feeds.
+	['', 'advertising network', ' ', 'ad-delivery', ' weblogs']

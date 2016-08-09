@@ -1,18 +1,27 @@
-Bantam Networks
-	Provider of online contact management and social customer relationship management services. The company offers an online service for business teams to collaborate in a workspace and fuse communications, content, applications, and data while building relationships on the Web. It offers Bantam Live, an online service that is integrated to social networks and allows business teams to search, monitor, and connect with people on the Web for business development, sales, and marketing purposes.
-	['', 'online contact management', ' ', 'customer relationship management', ' ', 'relationship management service', ' ', 'social CRM', ' ', 'CRM', '']
-Gist
-	Provider of an online service that helps users to build relationships. The company connects inbox to the Web to get business critical information, as well as controls emails, links, attachments, blog posts, and data.
-	['', 'online service', ' ', 'professional network', '']
-CrowdEngineering
-	Provider of a social CRM (customer relationship management) and social care services. The company\'s product \'CrowdForce\' transforms the corporate customer base and web community into groups of valuable employees who may be involved in various business processes such as customer support, sales and marketing.
-	['', 'crowd force', ' ', 'customer support', ' ', 'social care services', '']
-Cartup Commerce
-	Provider of online service that enables eCommerce sites to earn commission by cross-selling products and services from leading brands.
-	['', 'online service', ' ', 'e commerce', ' ', 'cross selling', ' ', 'e commerce service', '']
-HammerKit
-	Operator of a cloud technology company. The company offers an online toolset to allow creation and deployment of web applications that cater to business, marketing and communications needs. It focuses on the PR and marketing industry.
-	['', 'cloud technology', ' ', 'PR industry', ' ', 'Cloud Software', ' ', 'digital production', ' ', 'web designing', '']
-Digital Motorworks
-	Provider of information management services to the retail automotive industry. The company provides the automotive industry with dealership management system (DMS) data and data management solutions for a variety of business initiatives, including parts locators, service marketing programs, service history reports, sales programs, vehicle valuations, customer relationship management, OEM data analytics, consumer-facing website content, and inventory management.
-	['', 'automotive industry', ' ', 'information management system', ' ', 'database software', '']
+AbbeyPost
+	Operator of online marketplace and community. The company provides software-driven custom apparel and focuses on the needs of the plus size women\'s fashion market.
+	['', 'online shopping platform', ' ', 'online fashion market', ' ', 'party dress', '']
+Beacon Capital Strategies
+	Provider of an electronic trading platform for execution of mortgage and asset backed fixed income instruments. The company offers Trade Discovery, an electronic trading platform and a bid list application for creating, launching and monitoring multiple BWICs.
+	['', 'electronic trading', ' ', 'trading platform', ' ', 'fixed income instrument', '']
+Steelscreen
+	Provider of an online marketplace for metal products. The provides an online trading platform for selling steel and metal products.
+	['', 'trading platform', ' ', 'metal products', ' steel']
+SteelOrbis Elektronik Pazaryeri
+	Operator of an e-trading platform that offers up-to-date news on the steel industry and steel trading from one single source. The company\'s market intelligence service keeps users updated on the latest pricing and trends in the steel world with daily price reports and market analyses derived from actual transactions.
+	['', 'e-trading', ' ', 'steel industry', '', 'market intelligence', ' ', 'price reports', ' analyses']
+Clarus (acquired)
+	Provider of B2B procurement software and trading services. The company develops, manufactures and distributes a broad range of products including carabiners, protection devices, belay and rappel equipment, helmets, ropes, ice-climbing gear, backcountry gear, technical backpacks, high-end day packs, tents, trekking poles, gloves, skis, ski bindings and ski boots.
+	['', 'outdoor equipment', ' ', 'lifestyle products', ' helmets']
+ePIT
+	Provider of technology for regulated, unregulated and B2B exchanges. The company developed an internet exchange infrastructure for equities, futures, options and cash commodities.
+	['', 'next generation', ' ', 'internet market', ' ', 'information technology', '']
+Exchange.com
+	Developer of an online marketplace. The company is an e commerce marketplace which offers buyers a vast selection of merchandise from dealers and reputable sources.
+	['', 'online marketplace', ' ', 'merchandise selection', ' ', 'merchandise dealer', '']
+12designer
+	Provider of a crowdsourced design marketplace. The company provides crowdsourcing portal for creative tasks.
+	['', 'crowdsourcing portal', ' ', 'logo designing', ' ', 'web designing', ' ', 'design marketplace', '']
+Zitra
+	Operator of an B2B online marketplace. The company operates a B2B trading platform which allows for direct purchases of brand name and designer merchandise.
+	['B2B ', 'direct purchases', ' designer']

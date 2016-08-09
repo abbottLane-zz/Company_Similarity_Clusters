@@ -1,39 +1,12 @@
-NetSila
-	Provider of an online website for Arabian food recipes. The company provides a platform and mobile application for users to share and review recipes. It also provides information about cuisines and restaurants in Arab and European cities.
-	['', 'share recipes', ' ', 'review recipes', ' ', 'Arabian food recipies', ' ', 'food portal', ' ', 'mobile app', '']
-Mosaïc Systems
-	Provider of technology for the development and production of biologics. The company offers products for the production of therapeutics and drugs, food ingredients and agri-based products. It enables isolation and purification of valuable materials, such as antibodies, proteins and enzymes from complex process streams marked for the pharmaceutical, biotechnology and food industries.
-	['biologics ', 'biologics separation', ' ', 'biologics purification', '']
-Qualiboo
-	Provider of software systems for food traceability. The company offers a combined hardware and software system that provides traceability from receipt of raw materials to the shipment of finished products.
-	['', 'traceability solution', ' ', 'hygiene solution', ' ', 'food quality check', ' ', 'traceability software', ' ', 'raw material quality check', ' ', 'business software', '']
-Technic\'Europ
-	Producer of food equipment. The company designs and develops general purpose machinery for food the manufacturing sector.
-	['', 'food equipment', ' ', 'food production', ' ', 'general purpose machinery', '']
-Kochzauber Food
-	Provider of food and recipe delivery services. The company offers food recipes online and also delivers all needed ingredients at the customer\'s doorstep.
-	['', 'consumer products', ' ', 'recipe delivery services', '']
-foodieSquare
-	Operator of an online-subscription service for artisan food. The company provides its clients with weekly food boxes showcasing the products of small, high-quality food manufacturers, with special subscriptions for everything from wine to main courses, cheese, meat and sweets.
-	['', 'independent food producer', ' ', 'artisan food', ' ', 'online food subscription', ' ', 'weekly food box', ' ', 'main course', ' ', 'food manufacturer', '']
-mor.sl
-	Provider of web recipes over the internet. The company serves as a recipe recommendation application that provides personalized recipe suggestions and recommendations to users.
-	['', 'grocery delivery platform', ' ', 'recipe suggestion', ' cooking']
-TONX
-	Operator of a coffee distributor company. The company delivers freshly roasted coffee beans to the client\'s doorstep providing an alternative to buying stale and bitter coffee beans off the shelf.
-	['', 'coffee manufacturing', ' ', 'coffee bean', ' ', 'roasted coffee', '']
-FoodieQuest
-	Provider of a food photography and restaurant search application. The company offers an online software that integrates with existing social platforms and creates a competitive game centered around smartphone food photos and direct competition between users.
-	['', 'food photography', ' ', 'platform software', '']
-Munch On Me
-	Provider of a food discovery portal that connects people with food in local communities.
-	['', 'food discovery portal', ' ', 'social network', ' ', 'local food', '']
-Ride On Express
-	Provider of food-delivery services in Japan. The company operates multiple B2C food-delivery services, including Silver Plate, Kettle Tiger and Fine Dine (a Web media partner for restaurants seeking online-ordering and delivery services.) The company also operates a framing service for children\'s artwork as an additional business venture.
-	['', 'food delivery', ' ', 'children artwork', ' ', 'online framing', ' ', 'delivery chains', '']
-Scioko
-	Operator of a fast food company in China. The company operates fast food chains providing simple and authentic food.
-	['', 'authentic food', ' ', 'packed food', ' ', 'portuguese pastel', '']
-Asoyia
-	Producer of soybeans and soybean oil. The company serves food processors, institutional food management and restaurant chains.
-	['', 'soybean oil production', ' ', 'soybean production', ' ', 'low linolenic oil', '']
+Eridon
+	Provider of a complete platform for embedded system design. The company offers embedded system technology on modular self-integrating uCards to assemble a working hardware platform, operating systems, drivers and development tools.
+	['', 'embedded system design', ' ', 'operating system', ' ', 'computer peripherals', '']
+Cogito
+	Provider of graph-based relationship analytics software and services. The company provides middle-ware engines, servers, development tools, components such as graph engine and fundamental graph services.
+	['', 'graph-based applications', ' ', 'graph engine', ' ', 'graph server', ' ', 'Data Integration Broker (DIB)', '']
+Catapulse
+	Developer of a hosted development service (HDS) for internet software development. The company\'s HDS was a collaborative development platform that included hosted development tools, Web-based collaboration services, and infrastructure for the creation and reuse of intellectual property.
+	['', 'internet software development', ' ', 'hosted development service', ' ', 'web-based collaboration', ' ', 'collaborative development platform', '']
+Teja
+	Operator of network processor software development platform. The company has a development platform product for multiple embedded processors in fixed architectures or multiple soft cores in reconfigurable silicon.
+	['', 'network processor', ' ', 'reconfigurable silicon', ' architecture']

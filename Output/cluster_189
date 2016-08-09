@@ -1,15 +1,24 @@
-Timbertower
-	Provider of wind-turbine towers made from renewable resources. The company builds and installs wooden towers for large wind turbines.
-	['', 'wind turbine', ' ', 'wooden tower', ' ', 'renewable resource', '']
-Nordic Windpower
-	Provider of wind turbines to wind farm developers and community wind projects in the United States and internationally.
-	['', 'wind turbine', ' ', 'renewable energy', ' ', 'wind farm development', ' ', 'energy generation', '']
-Goldwind Science & Technology
-	Manufacturer of wind turbines. The company specializes in large megawatt wind turbine research, development and manufacturing of total wind energy services and wind farm investment management.
-	['', 'wind turbines', ' ', 'wind energy', ' ', 'wind farm', '']
-Asahi Kasei Pharma America
-	Provider of critical-care and hospital-based therapeutics to patients, treating physicians, and payors in the United States and internationally. The company offers ART-123, a novel, recombinant, and soluble thrombomodulin for the treatment of disseminated intravascular coagulation in sepsis.
-	['biopharmaceutical ', 'critical care', ' ', 'hospital based therapeutic', ' ', 'disseminated intravascular coagulation', ' hematolog ', 'blood clotting', ' ', 'deep vein thrombosis', '']
-Viryd Technologies
-	Developer and distributor of power generating turbines and windmills for the wind industry. The company offers drivetrains for residential and commercial wind systems, as well as energy management systems and developer kits. It also provides engineering services, including design, bench, and field testing services.
-	['', 'power generating turbine', ' ', 'renewable energy', ' ', 'commercial wind system', '']
+Advanced DX
+	Provider of testing equipment and personnel for diagnosis of clinical conditions including diabetic retinopathy, neuropathies and peripheral vascular disease. The company gives primary care physicians the ability to diagnose these conditions so they can keep patients in house and generate revenue from diagnostic procedures.
+	['', 'testing equipment', ' ', 'testing personnel', ' ', 'primary care', '']
+Innogenetics
+	Producer of diagnostics and therapeutic vaccines. The company develops and markets various diagnostic assays with a focus on molecular diagnostics and multiparameter testing.
+	['', 'therapeutic vaccines', ' vaccinations ', 'molecular diagnostics', '']
+Inostics
+	Provider of diagnostic services. The company provides molecular diagnostics testing for physicians, clinical trials, and research offering sensitive mutation testing from plasma and serum samples.
+	['', 'diagnostics testing', ' ', 'molecular diagnostics', ' ', 'mutation testing', '']
+Signature Genomic Laboratories
+	Provider of molecular cytogenetic diagnostic services. The company offers diagnostic services, including pediatric and adult testing, and prenatal services, as well as FISH analysis of clinically relevant loci. The company also provides prenatal diagnosis services, interpretation with genome microarrays, and G-banded karyotype analysis services.
+	['', 'diagnostic service', ' ', 'cytogenetic diagnostic service', ' ', 'adult testing', ' ', 'pediatric testing', ' ', 'prenatal service', ' ', 'prenatal diagnosis', ' ', 'genome microarray', '']
+Cozart
+	Developer of hand-held device using saliva samples for drugs of abuse testing. The company was a supplier to the home office for police, prison and customs and excise applications.
+	['', 'hand-held device', ' ', 'abuse testing', ' ', 'drug testing', '']
+Nanosphere
+	Nanosphere Inc develops, manufactures and markets molecular diagnostics platform, the Verigene System, which enables sensitive genomic and protein testing on a single platform.
+	['', 'molecular diagnostics', ' ', 'diagnostics platform', ' ', 'cardiovascular diseases', ' ', 'protein testing', '']
+Catalyst Oncology
+	Provider of information solutions that enable personalized medicine approaches to cancer patient management. The company provides clinical information to physicians, with an emphasis on proprietary testing and also provides diagnostic and prognostic information for individual patients, allowing physicians to create treatment plans that are tailored for each patient\'s needs.
+	['', 'medicinal information', ' cancer ', 'patient management', '']
+SciCor
+	Provider of laboratory testing services. The company provides laboratory testing services and related data processing support to the US pharmaceutical industry. Its research data was used to prepare clinical submissions to the Food & Drug Administration (FDA) for approval to market new drugs.
+	['', 'laboratory testing service', ' ', 'drug testing', ' ', 'drug invention', '']

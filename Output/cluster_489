@@ -1,63 +1,21 @@
-BlackLocus
-	Provider of a cloud-based platform for online retailers that provide recommendations on pricing, inventory management and marketing. The company provides platform that recommends actionable items, enables implementation of recommendations.
-	['', 'pricing tool', ' ', 'online retailer', ' ', 'actionable item', ' ', 'pricing recommendation', '']
-EGS Group
-	Provider of cloud-based services to automate back office processes. The company offers outsourced and cloud-based back office automation services including corporate procurement, invoice processing, e-sourcing and accounts receivable.
-	['', 'back office', ' e-invoicing procurement ', 'sales order', ' ', 'invoice processing', '']
-Houdini
-	Provider of a cloud-based workforce platform. The company provides digital outsourcing platform that allows businesses to outsource repetitive tasks to workers over the web and improve quality of work.
-	['', 'cloud computing', ' ', 'workforce platform', ' ', 'outsourcing platform', '']
-Amplidata
-	Provider of a cloud-based service provider offering scale-out technology for storage providers. The company offers, AmpliStor an object-based software defined storage system for enterprise, private cloud and hyper scale public cloud implementations.
-	['', 'storage infrastructure', ' ', 'storage technology', ' ', 'storage system', '']
-RingCentral
-	Provider of cloud-based communication technology. The company develops communications systems focused on distributed and mobile workforces, by providing business-class voice, fax and text with one phone system, which can be integrated with other cloud technologies, such as Salesforce, Dropbox and Google.
-	['', 'virtual phone', ' ', 'cloud computing', ' ', 'application integration', ' ', 'internet fax', '']
-Cypher Genomics
-	Provider of cloud-based genomic analytic services. The company develops a proprietary ranking algorithm that is more effective at disease variant identification compared to other methodologies.
-	['', 'genomic analysis', ' ', 'proprietary ranking algorithm', ' genomics']
-Auxo
-	Provider of cloud based software for various business support functions. The company offers white-label cloud service that can be used by its users to outsource and market their business.
-	['', 'cloud solution', ' ', 'data storage', ' ', 'IT operation', ' ', 'business support function', '']
-Macheen
-	Provider of cloud service for connected devices. The company provides cloud-based platform supports to new business models for device makers, retailers, cloud service providers and network operators.
-	['', 'cloud service provider', ' ', 'cloud service', ' ', 'cloud service platform', ' ', 'connected device', ' ', 'device platform', ' ', 'cloud based platform', ' ', 'device service', '']
-FeedHenry
-	Provider of a cloud-based mobile application platform. The company’s software enables application developers to build, deploy and manage mobile applications. The software can be deployed to different cloud and platform as a service environments.
-	['', 'application developer', ' ', 'cloud based service', ' ', 'cloud-based application', '']
-MarketYze
-	Provider of an e-commerce market intelligence data to online retailers. The company offers a cloud-based platform that tracks and analyzes product prices across competitors to provide retailers with the pricing data and analytics.
-	['', 'market intelligence', ' ', 'online retailers', ' ', 'pricing data', '']
-Gratio Capital
-	Provider of asset management services to consumers irrespective of income level or investing know-how. The company\'s product GoalMine allows customers to open mutual fund accounts with mere investments and with no prior financial knowledge required.
-	['', 'financial services', ' ', 'mutual fund', ' ', 'asset management', '']
-Wix.com
-	Provider of a cloud-based web development platform. The company offers cloud-based templates for designing websites, without any coding knowledge required.
-	['', 'website building', ' ', 'web publishing platform', ' ', 'personalized website', ' ', 'customized website', ' ', 'website template', ' ', 'website design', '']
-Hojoki
-	Provider of a cloud based applications to solve the problem of information fragmentation. The company supports individuals in tracking application and connects task management and communication with the productivity application.
-	['', 'productivity tool', ' ', 'information fragmentation', ' ', 'collaboration service', '']
-Armorize Technologies
-	Provider of a cloud-based anti-malware products. The company develops next generation technologies that protect businesses from attacks such as Advanced Persistent Threats, targeted email attacks, malicious documents, malvertising, Web malware and website intrusions.
-	['', 'web security', ' ', 'web scanning', ' ', 'web malware monitoring', '']
-PatientStream
-	Provider of an electronic patient tracking system for hospitals. The company provides a cloud-based healthcare operations decision support and communication automation technologies for patients and hospital staff.
-	['', 'electronic whiteboard', ' ', 'multilingual whiteboard', ' ', 'healthcare operations', ' ', 'patient tracking', ' ', 'healthcare system', '']
-Via Response Technologies
-	Provider of cloud-based classroom tools. The company\'s platform leverages mobile smart devices, tablets and enables student-teacher interaction through the cloud.
-	['', 'teaching software', ' ', 'cloud software', ' ', 'interaction platform', '']
-Nixter
-	Operator of an online cloud based platform for nightclubs and promoters. The company\'s platform lets party seekers find upcoming nightlife events in their city, buy tickets, see the guest list or get VIP accommodations.
-	['', 'cloud application', ' ', 'nightlife application', ' ', 'party chart', '']
-Streem
-	Provider of a cloud based hard drive that offers storage space. The company has developed a proprietary de duplication and compression technology to be able to provide storage facility.
-	['', 'storage space', ' ', 'hard drive', ' ', 'compression technology', ' ', 'cloud storage service', '']
-Collections Labs
-	Provider of Mac application that helps users to manage media content like Facebook and Instagram photos, Tweets and videos, alongside other cloud-based things like Google Docs. The company\'s product also allows a user to toggle between Dropbox and Google Drive content and the more traditional Finder material like Word docs and other native applications.
-	['', 'mac application', ' ', 'media content', ' ', 'traditional Finder', ' ', 'native application', '']
-Wallaby Financial
-	Developer of a cloud based digital wallet for mobile and web based payments. The company develops technology and software that offers rewards and cash back to users on credit card purchases.
-	['', 'network provider', ' ', 'route transaction', ' ', 'payment card', ' ', 'digital wallet', ' ', 'web based payment', '']
-Torbit
-	Provider of a cloud-based website accelerator. The company provides tools to help businesses measure website performance and quantify how speed impacts their revenue.
-	['', 'website accelerator', ' ', 'website performance', ' ', 'website optimization', ' ', 'website management', '']
+Monroe Motor Speedway
+	Operator of auto race track in New Orleans. The company provides a paved race track, grandstands and support facilities and services for auto-racing events, including NASCAR. The track features a 3.75-mile long oval course.
+	['', 'auto racing', ' motorsports racing']
+iHance
+	Provider of an email tracking and synching technology. The company provides the platform through which enable the organization to track out the email their send to their customer.
+	['', 'email tracking', ' synching ', 'productivity software', '']
+Rostrum
+	Provider of virtual meeting software. The company provides a platform which allow business organizations to conduct virtual general-assembly board meetings without any geographic limitations.
+	['', 'virtual meeting', ' ', 'online meeting', ' ', 'virtual general-assembly', '']
+Profig
+	Provider of phone system for business. The company provides call tracking, voice broadcasting, sales call centers, CRM integration all in a single dashboard. It also provides analytics on all calls and data.
+	['', 'phone system', ' ', 'call tracking', ' ', 'voice broadcasting', ' ', 'sales call center', ' ', 'CRM integration', ' ', 'call analysis', '']
+PassportMD
+	Provider of consumer-directed healthcare and personal health records (PHR) industry. The company helps individuals keep track of all facets of their family’s health and wellness including personal health records and documentation, doctor communication, pharmacy and expenses.
+	['', 'health industry', ' ', 'healthcare record', ' ', 'doctor communication', ' ', 'health record', '']
+Zen99
+	Provider of health insurance tracking platform. The company provides a platform which allow users to track health policies with their earnings, expenses and figure out how much to save for taxes on a single dashboard.
+	['', 'health insurance', ' ', 'insurance policy tracking', ' ', 'productivity software', '']
+SpeakerGram
+	Developer of online platform to connect public speaker. The company makes it easier for speakers and event organizers to connect and provide a single dashboard to manage requests and engagements.
+	['event management speaker organiser']

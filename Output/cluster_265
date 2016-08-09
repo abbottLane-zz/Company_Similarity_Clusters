@@ -1,33 +1,36 @@
-Chemrec
-	Developer of manufacturing technology for biofuels. The company provides a proprietary black liquor gasification technology that can be used to convert pulp and paper mills into biorefineries. The company\'s processing technology is used to create a synthetic gas product that can be converted into low-carbon fuels and chemicals, such as synthetic gasoline & diesel.
-	['biofuels biorefineries syngas']
-Google DeepMind
-	Developer of artificial intelligence technologies. The company combines machine learning and systems neuroscience to build general-purpose learning algorithms. It\'s first commercial applications are in simulations, e-commerce and games.
-	['', 'artificial intelligence', ' ', 'machine learning', ' ', 'systems neuroscience', ' ', 'learning algorithm', '']
-SpearCast
-	Developer of web data extraction and data aggregation tools. The company offers a technology that is capable of automatically locating, extracting, merging and converting hundreds of millions of data points across various online sources and creating a standardized business profile which includes address and customer reviews, online ad spend and online visibility on search engines and all relevant sites.
-	['', 'data aggregation', ' ', 'web data', ' ', 'data extraction', '']
-Vivisimo
-	Provider of enterprise search software solutions to OEM and reseller markets. The companies search solutions are used on corporate and governmental Web sites, enterprise intranets and departments, and in government intelligence agencies.
-	['', 'search software', ' ', 'reseller market', ' ', 'search solution', ' ', 'information management', ' ', 'security management', ' ', 'navigation software', '']
-Volio
-	Provider of video and voice recognition technology. The company\'s technology is used by media creators, brands, marketers and entertainers for audience engagement.
-	['', 'video recognition  technology', ' ', 'voice recognition technology', ' ', 'video technology', ' ', 'voice activated', '']
-Hillclimb Media
-	Developer of pay-for-content Web sites for customers and publishers. The company operates a network of Web sites that provide information on travel, sports, and the outdoors. Its Web publishing solutions bring offline content to the online.
-	['', 'Web publishing solution', ' ', 'content website', ' ', 'pay for content website', '']
-Pages Software
-	Provider of web development technologies. The company\'s technology is used in corporate brochure Web sites, online commercial applications, website launching and submission of search engines.
-	['', 'web development', ' ', 'website hosting', ' ', 'search engine', '']
-Atomz
-	Provider of on-demand digital marketing applications, including site search and web content management. The company develops hosted applications for building Web sites.
-	['', 'digital marketing', ' ', 'site search', ' ', 'content management', ' ', 'web content', ' ', 'website building', '']
-Quack
-	Provider of speech-enabled Web sites and Internet information.
-	['', 'internet information', ' ', 'online service', ' ', 'online content', '']
-CDI Biosciences
-	Developer of biotechnology to imporove yield of bioproducts. The company developes technology that is used to control the metabolism of cells.
-	['', 'mammalian cell', ' ', 'cellular system', '  ', 'Genetic engineering technology', '']
-Gilian Technologies
-	Provider of web content security services. The company provides protection against website vandalism and sabotage, monitors the web sites, detects hacking attempts and stop applications from performing corrupted transactions.
-	['', 'website monitoring', ' ', 'website vandalism', ' ', 'content security services', ' ', 'web applications', '']
+FCS Control Systems
+	Developer of electromechanical and electro hydraulic flight and vehicle simulation equipment. The company develops a technology for control loading systems used in flight training simulators.
+	['', 'electro hydraulic flight', ' ', 'vehicle simulation equipment', ' electromechanical']
+Sim Skin
+	Manufacturer of medical surgery training tool. The company manufactures surgical training model useful in surgical training.
+	['', 'surgical training tool', ' ', 'surgical training model', ' ', 'medical device', '']
+XTeam Training
+	Developer of virtual training technologies. The company offers virtual training games and simulation for organizational development.
+	['', 'online training', ' ', 'virtual training', ' ', '3D gaming', ' simulation']
+Top Aces Consulting
+	Provider of airborne combat training services. The company provides airborne services, such as close air support training, anti shipping profile, airborne adversary support and aerial target towing.
+	['', 'airborne combat training', ' ', 'combat training service', ' ', 'airborne adversary support', ' ', 'aerial target towing', ' ', 'Training Service', '']
+Clavister
+	Provider of web based security and unified threat management software for physical and virtualized environments. The company offers virtual series network security products for virtual and cloud based security that include virtual private server, virtual private cloud, virtualized co location and hosted data center.
+	['', 'unified threat management', ' ', 'virtual network security', ' ', 'IP-based security', ' ', 'internet protocol', ' ', 'cloud services', ' ', 'security software', '']
+Metaversum
+	Developer of a virtual world and related online community. The company is the creator of Twinity, an online, mirror world peopled by users\' avatars and featuring to-scale models of the real world\'s major cities, including Berlin, Singapore and London. The platform also offers an advertising channel through virtual shops, branded presences, in-world ad campaigns, product placements and sponsored events.
+	['', '3D online world', ' ', 'create personal avatar', ' chat']
+Aquila Technologies
+	Developer of engineering software services. The company offers virtual engineering frameworks, image processing, computer game development, project consulting and project execution services.
+	['engineering ', 'image processing', ' ', 'game development', ' ', 'project consulting', '']
+Movirtu
+	Provider of identity services for mobile operators. The company offers a virtual SIM based service that enables multiple numbers to be active on a single standard SIM card.
+	['', 'telecommunications service', ' ', 'mobile technology', ' ', 'wireless service', '']
+KOR Electronics
+	Provider of military electronics equipment and system solutions. The company offers digital radiofrequency memories; radar environment simulators; electronic countermeasure target simulators; and electronic warfare simulators, which serve mission critical operational requirements, as well as laboratory simulation, testing, and training needs.
+	['', 'military electronics', ' ', 'digital radiofrequency', ' ', 'radar environment simulator', '']
+Prewise Group
+	Provider of b-to-b digital training services in Finland. The company provides digital training and communication services for business change implementation, sales and customer support, process implementation and professional skills development.
+	['', 'process implementation', ' assessments ', 'orientation training', '']
+TheraSim
+	Provider of a virtual patient simulation platform. The company provides virtual patient simulation platform for the assessment, training and education of healthcare workers.
+	['', 'virtual patient', ' ', 'simulation platform', ' ', 'healthcare platform', '']
+Golden Capital Network
+	Operator of a non-profit networking, training and consulting company. The company’s services include venture capital conference series, venture communities economic development franchise, regional and cross-regional entrepreneurship training and development programs, V3 regional and cross-regional entrepreneur program, investor networking and showcasing, entrepreneur coaching and mentoring, public policy leadership and advising and early stage company showcasing.
+	['', 'non profit', ' ', 'consultation services', ' ', 'cross regional entrepreneurship training', ' ', 'training services', '']

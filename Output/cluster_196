@@ -1,30 +1,24 @@
-Discovery Partners International
-	Provider of technologies and services to pharmaceutical and biotech companies. The company\'s services assist worldwide pharmaceutical and biotechnology companies in the design, development and production of assays of disease molecules to accelerate their drug discovery activities.
-	['', 'drug discovery', ' ', 'pharmaceutical healthcare', ' ', 'disease molecule', ' ', 'drug discovery', '']
-RxCentric
-	Provider of on-line marketing solutions for pharmaceutical companies. The company provides physicians with rapid access to comprehensive drug information built on trusted authoritative sources.
-	['', 'drug information', ' ', 'online marketing', '']
-Bionamics
-	Provider of project management services for pharmaceutical companies. The company acquires and licenses life science assets in the pre-clinical phases.
-	['pre-clinical ', 'clinical research', ' ', 'drug development', '']
-Pharmacy TV Networks
-	Provider of advertising platform for pharmaceutical companies. The company provides online media and advertising platform for medical and pharmaceutical companies.
-	['', 'online media', ' ', 'online advertising', '']
-Rare Crowds
-	Provider of an advertising platform. The company provides an online platform to manage advertisement campaigns for organizations.
-	['', 'open source advertising', ' ', 'advertising platform', ' ', 'advertisement campaigns', '']
-RealTimeImage
-	Developer of robust web-based imaging products and services for Healthcare. The company provides a platform for e-commerce between commercial print companies and their customers and companies and advertising agencies.
-	['', 'imaging products', ' ', 'graphic arts', ' e-commerce radiology orthopaedics']
-Nusym Technology
-	Provider of verification closure solutions for electronic products manufacturing companies. The company provides functional verification EDA tool.
-	['', 'verification closure', ' ', 'electronic design automation', ' ', 'verification software', ' ', 'functional verification', '']
-FieldView Solutions
-	Provider of facilities managers and IT personnel that handle data centers with real time branch circuit and environmental monitoring, circuit alarm notification, and cabinet asset management for small and large data centers. The company’s enterprise-ready platform optimizes space and energy usage in data center environments, as well as enhances security features, access, and permissions. It serves financial, insurance, co-location, and pharmaceutical companies.
-	['', 'enterprise software', ' ', 'energy management', ' ', 'risk mitigation', ' ', 'paltform optimization', ' ', 'space optimization', '']
-TargetRx
-	Provider of insight into the drivers of physician behavior for pharmaceutical companies.
-	['', 'physician behavior', ' ', 'pharmaceutical marketing', ' ', 'campaign development', '']
-Textiel Vlaanderen
-	Provider of venture and development capital to textile companies. The company primarily focuses on providing development funding to the textile companies to help them grow their businesses.
-	['', 'textile investor', ' ', 'venture capital', ' ', 'venture funding', ' ', 'development capital', ' ', 'development investor', '']
+Malcovery Security
+	Developer of a cloud based actionable cyber security intelligence services. The company develops and delivers cloud based actionable cyber security intelligence and forensic analysis through software and services for corporations and government organizations to target cyber criminals and their activities.
+	['', 'cyber security', ' ', 'intelligence service', ' ', 'forensic analysis', '']
+WholeSecurity
+	Provider of cyber- security software for prevention, mitigation and detection of malicious threats. The company provides protection against eavesdropping, electronic theft and other types of cyber crimes.
+	['', 'cyber crime', ' ', 'cyber security', ' ', 'electronic theft', '']
+Vensafe
+	Developer of automated sales services for theft traded goods in retail. The company\'s products streamline store operations, reduce shrinkage and theft and helps reduce capital tied up in a number of high value.
+	['', 'theft product', ' ', 'theft security', ' ', 'selling automation', ' retail']
+Riverhead Networks
+	Developer of security technology to protect against cyber threats. The company provides technology that help to prevent distributed denial-of-service attacks and other security threats in corporate, enterprise and service provider networks.
+	['', 'cyber threats', ' ', 'Distributed Denial of Service', ' ', 'protocol compliance', ' ', 'security threats', '']
+Green Border Technologies
+	Provider of malware prevention, mobile PC safety, unauthorized downloads prevention, patching and data confidentiality solutions. The company also offers protection on corruption, theft and invasion of business data systems, as well as engages in the protection of enterprises from internet threats that are picked up by compulsively-clicking users and mobile PCs.
+	['', 'patching technology', ' ', 'data confidentiality', ' ', 'data system invasion', ' ', 'data system theft', ' ', 'internet threat protection', ' ', 'DMZ technology', ' ', 'malware prevention', ' ', 'mobile PC safety', '']
+Cyvera
+	Provider of cyber defense to stop zero-day attacks. The company\'s flagship product, the Cyvera TRAPS (Targeted Remote Attack Prevention System) prevents yet-to-be-identified cyber threats uniquely by obstructing the path upon which the attack is being launched and not enabling the attackers to utilize their toolboxes.
+	['', 'cyber attack', ' ', 'Advanced Persistent Threat', ' ', 'cyber defense', ' ', 'cyber security', ' ', 'zero-day attack', '']
+Sana Security
+	Developer of security software that is autonomous, aware of environment change, adaptive to new threats and active in preventing attacks before they do harm. The company offers Primary Response SafeConnect, a security software that provides protection against known and unknown threats, including spyware, adware and rootkits and Primary Response Memory Shield Server, which provides buffer overflow protection for various servers.
+	['', 'software services', ' ', 'security software', ' ', 'server protection', '']
+iSIGHT Partners
+	Provider of cyber security risk-management services. The company provides cyber threat tracking and security services for corporates as well as government enterprises.
+	['', 'global network security', ' ', 'intelligence service', ' ', 'intelligence products', ' ', 'intelligence service', ' ', 'intelligence product', ' ', 'security analysis', ' ', 'cyber security', ' ', 'cyber threat', '']

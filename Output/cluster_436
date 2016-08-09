@@ -1,36 +1,9 @@
-SiXis
-	Developer of silicon circuit board technology. The company provides chip-level integration through a Silicon Integrated Circuit Board (SICB) technology platform.
-	['', 'technology platform', ' semiconductor ', 'circuit board', '']
-Ultracom Communications Holdings
-	Supplier of broadband network systems-on-silicon. The company offers silicon subsystems and VLSI-based subsystems to telephony and data communications equipment manufacturers and develops two-way cable modems for data, voice and video communication solutions.
-	['', 'broadband network systems', ' ', 'digital communications', ' ', 'silicon subsystems', ' ', 'communication solutions', '']
-WISChip International
-	Provider of semiconductor solutions for video, audio and voice compression, image understanding and speech recognition. The company develops develops SoC (Systems on Chip) silicon and provides integrated hardware, software solutions for multimedia communications over wired or wireless broadband infrastructures.
-	['semiconductor SoC ', 'Systems on Chip', ' ', 'digital video', ' ', 'audio quality', '']
-Sebring Systems
-	Supplier of silicon switch fabric interconnect solutions to the networking and computing industries. The company deals with the enhancement of cost and performance of PCI-based systems with scalebility, high bandwidth, fault tolerance and hot-plug.
-	['', 'Sebring Ring', ' ', 'silicon switch', ' silicon']
-Broadband Access Systems
-	Developer of integrated, carrier-class broadband access systems. The company enables cable operators to deliver high quality voice, data, and video services to large numbers of users. The company is focused on providing cable access solutions for the deployment of value-added data and voice services.
-	['broadband ', 'video service', ' ', 'voice service', '']
-Lightstorm Networks
-	Developer of integrated semiconductors. The company is engaged in developing and manufacturing integrated, low power consuming semiconductor products for the transport of packet data over SONET/SDH and packet networks.
-	['', 'high port density semiconductors', ' ', 'semiconductor products', ' ', 'semiconductor design', '']
-SmartLink
-	Developer of integrated silicon. The company develops integrated silicon products for voice over internet protocol communications.
-	['', 'broadband modem', ' ', 'Embedded fax', ' ', 'Embedded modem', ' ', 'Connectivity Product', '']
-HVVi Semiconductors
-	Provider of silicon RF power transistors. The company offers HVVi Silicon HVVFET for pulse applications, including TCAS, IFF, radar and avionics in the UHF and L-Bands.
-	['', 'power transistor', ' ', 'pulse application', ' semiconductor']
-Let It Wave
-	Developer of video processing semiconductors. The company develops integrated circuit product and products that improve satellite images, seismic images, digital photographs, and medical images.
-	['', 'fabless semiconductor', ' ', 'integrated circuit product', ' ', 'noise reduction device', '']
-Si-Light Technologies
-	Developer of a method of stimulating emission of light from silicon. The company manufactures and develops silicon light emission device.
-	['', 'light emission device', ' ', 'alternative energy equipment', ' ', 'silicon light emission device', '']
-FLX Micro
-	Manufacturer of silicon carbide-based microsensors. The company develops its products through silicon carbide deposition and microfabrication technology platform. Its products are used in various applications, such as automotive, energy, environmental, and manufacturing.
-	['', 'carbide microsensor', ' ', 'silicon carbide', ' microfabrication']
-Omiino
-	Manufacturer of programmable microchips for telecom applications. The company\'s technology allows users to deliver silicon in a field upgradable format.
-	['', 'FPGA platform', ' ', 'Optical Transport Silicon', ' microchips ', 'telecom applications', '']
+Chemrec
+	Developer of manufacturing technology for biofuels. The company provides a proprietary black liquor gasification technology that can be used to convert pulp and paper mills into biorefineries. The company\'s processing technology is used to create a synthetic gas product that can be converted into low-carbon fuels and chemicals, such as synthetic gasoline & diesel.
+	['biofuels biorefineries syngas']
+SynCoal Partners
+	Provider of coal upgrading technology that mainly increase heat value of coal and reduce major pollutants such as mercury, SOx, NOx and CO. The company also takes step in mitigating critical issues of fugitive dust, moisture reabsorbtion, spontaneous combustion.
+	['', 'upgrading system', ' ', 'coal upgrading', ' coal ', 'coal conversion', '']
+Cortus Energy
+	Producer of non-fossil fuel products. The company has developed a gasification process called WoodRoll, to produce synthetic gas with a high heat value from bio fuels.
+	['', 'gasification technology', ' ', 'non-fossil fuel', ' ', 'synthetic gas', ' ', 'high heat value gas', ' ', 'energy production', '']

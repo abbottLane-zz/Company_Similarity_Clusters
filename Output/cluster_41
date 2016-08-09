@@ -1,39 +1,15 @@
-Open Monoclonal Technology
-	Developer of human monoclonal antibody platforms. The company develops human therapeutic antibodies based on transgenic rats for pharmaceutical companies.
-	['', 'human monoclonal', ' ', 'antibody platform', ' ', 'transgenic rat', '']
-GLYCART Biotechnology
-	Developer of antibody based products for the treatment of unmet clinical needs such as cancer. The company focuses on the development and commercialization of a new generation of antibody products based on its proprietary GlycoMAb technology.
-	['antibody ', 'antibody products', '']
-Centocor
-	Developer of monoclonal antibody technology. The company develops monoclonal antibody-based products for cardiovascular and autoimmune diseases, cancer and inflammation.
-	['', 'monoclonal antibody technology', ' ', 'autoimmune disease', ' biopharmaceutical']
-Merrimack Pharmaceuticals
-	Provider of commercialize medicines paired with companion diagnostics for the treatment of serious diseases, with an initial focus on cancer. The company develops MM-093, a human alpha-fetoprotein for the treatment of patients with rheumatoid arthritis and psoriasis and MM-121, a human monoclonal antibody and therapeutic to block signaling of the ErbB3 receptor.
-	['', 'commercial medicine', ' ', 'diagnostic treatment', ' cancer']
-FivePrime Therapeutics
-	Developer of protein and antibody therapeutics. The company\'s products include protein based therapeutics for oncology, metabolic disease, type II diabetes, acute myocardial infarction, intestinal bowel disease and infectious diseases and cancer immunotherapy disease areas.
-	['', 'antibody therapeutic', ' ', 'cancer immunotherapy', ' ', 'protein therapeutic', '']
-4-Antibody
-	Developer of an antibody drug discovery platform. The company is a biopharmaceutical enterprise developing a fully human, antibody drug discovery platform. The company is making this technology available to pharmaceutical partners, as well as developing a proprietary pipeline of antibody oncology drugs.
-	['', 'discovery technology platform', ' immunotherapy ', 'antibody drug', '']
-Affomix
-	Developer of antibody-based products.
-	['', 'antibody screening', ' ', 'antibody product', ' ', 'antibody preparation', '']
-UroTec
-	Provider of tissue-engineering services for the treatment of urologic disease. The company focuses on treatment of urethral stricture, ureteral strictures, ureteral anomalies and hypospadia.
-	['', 'urologic disease', ' ', 'urethral stricture', ' hypospadia ', 'tissue engineering', '']
-BioInvent
-	Developer of antibody-based drug therapies for the treatment of cancer. The company has a pipeline of three proprietary antibodies focused on treatment for multiple myeloma, non-Hodgkin lymphoma and medulloblastoma.
-	['', 'antibody drugs', ' ', 'drug developer', ' ', 'multiple myeloma', ' ', 'non-Hodgkin lymphoma', '']
-Automated Cell
-	Developer of antibody therapeutic antibodies for the treatment of oncology and immune disease. The company is focused on the development of monoclonal antibody therapeutics for the treatment of cancer.
-	['', 'antibody therapeutic', ' ', 'therapeutic treatment', ' ', 'oncology disease', ' ', 'immune disease', ' ', 'monoclonal antibody', '']
-Applied Genomics
-	Developer of targeted genomics-based diagnostic and therapeutic antibodies for the treatment of human cancer. The company\'s products include Mammostrat which is an immunohistochemistry breast cancer prognostic test, Mammotax which is a single antibody immunohistochemistry test, Pulmotype is a five antibody immunohistochemistry aid for the classification of non-small cell lung cancer and Pulmostrat is a seven antibody prognostic immunohistochemistry test.
-	['', 'human cancer', ' ', 'therapeutic antibodies', ' ', 'diagnostic devices', '']
-GITR
-	Developer of oncological therapies. The company is developing TRX518, a humanized monoclonal antibody that is reactive with the glucocorticoid-induced tumor necrosis factor receptor (GITR), for the treatment of cancer.
-	['', 'chemotherapeutic treatment', ' ', 'tumor markers', ' ', 'T cell', '']
-Immunologix
-	Developer of antibody-based therapeutics. The company provides methods for producing human monoclonal antibodies against any target including bacterial and viral antigens, as well as tumor antigens, and human autoantigens. Its technology allows for the conversion of naïve B-cells (from a tonsillectomy or whole blood collection) to fully mature human B-cells producing the human antibody of interest.
-	['', 'antibody therapeutic', ' ', 'human monoclonal', ' ', 'therapeutic device', '']
+Medico.com
+	Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.
+	['', 'health care information', ' ', 'health information portal', ' ', 'online health portal', '']
+Soruka
+	Operator of a web portal which provides web site monitoring and tracking services. The company offers a variety of information categories that users can keep tabs on and share like-interests with groups of users via Twitter, sms and email.
+	['', 'content management', ' ', 'web sharing', ' ', 'tracking services', '']
+DeNovis
+	Provider of transaction processing and information management solutions for the health insurance and health care benefits administration industry.The company\'s flagship software product eHD™ serves as the core administrative platform for health plans and is designed to deliver the sophistication necessary to meet both existing and emerging needs of commercial, Medicare and Medicaid healthcare benefits administrators.
+	['', 'transaction processing', '']
+TLContact
+	Provider of a web page service to help healthcare providers deliver better care to their patients and their families by supporting their emotional and spiritual needs. The company has formed an online community where visitors come together to share the challenges, hopes and triumphs of anyone facing a life-changing health event.
+	['', 'online community', ' ', 'web page service', '']
+HealthPocket
+	Provider of a web portal enabling consumers health-insurance plans in their local area. The company provides a Web service that combines a health care plan\'s quality ratings from government and non-profits, with the company\'s own ranking system.
+	['', 'health insurance plan', ' comparison ', 'health claim', '']

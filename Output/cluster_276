@@ -1,21 +1,42 @@
-Efficere Technologies
-	Developer of software for electronic systems. The company manufactures and markets signal integrity devices. The company\'s products include interconnect hardware or bridges that ensure that electrical signals sent between faster and faster chips retain their strength to run the latest gadgets, including digital television sets, at top speeds. The company also provides cables, connectors, circuit boards and adapter cards.
-	['', 'signal integrity devices', ' ', 'application software', ' ', 'interconnect hardware', '']
-Nicanti
-	Developer of printed electronics. The company develops the printed electronics used for authentication and tracking by printing hidden information with electronic inks on various materials.
-	['', 'electronic ink', ' ', 'printed electronic', ' ', 'commercial products', '']
-Finesample Group
-	Manufacturer of printed circuit boards. The company operates two trading companies Circast Electronics and Cirtron Systems, which involves in manufacture and servicing of printed circuit boards respectively.
-	['', 'printed circuit boards', ' ', 'circuit boards', ' circuit']
-Beamind
-	Developer and manufacturer of electrical test equipment for printed circuit boards (PCBs). The company is the developer of a laser direct testing (LDT) process.
-	['', 'printed circuit boards', ' ', 'laser direct testing', ' optics']
-Ormecon
-	Developer of nanoscale conductive polymers. The company develops products based on conductive polymers and nano dispersion, with a portfolio of products used in industries such as the automotive sector, for printed circuit boards, OLEDs, electroluminescence lamps and photovoltaic/solar cells.
-	['', 'conductive polymers', ' ', 'nano dispersion', ' ', 'circuit board', '']
-DesignAdvance Systems
-	Developer of electronic design automation services for printed circuit boards. The company allows designers reduce board layout and placement time which enables bi directional communication.
-	['', 'electronic design', ' ', 'circuit board', ' ', 'board layout', '']
-RAD Electronics
-	Provider of outsourced electronics manufacturing services. The company manufactures complex printed circuit boards, custom and molded cable assemblies and over-molded embedded electronics.
-	['', 'circuit board', ' ', 'molded cable', ' ', 'circuit board', ' ', 'electronics cable', '']
+BitGravity
+	Provider of a high-speed content delivery network. The company provides a content delivery network to supply on demand high-definition video and live streaming. It also accelerate Web sites, serve better performing videos and reliably stream events and 24/7 broadcasts online in high-definition.
+	['streaming ', 'high-speed content', ' ', 'high-definition video', ' broadcast']
+Realtime Technology
+	Provider of three dimensional visualization technology. The company provides a technology platform enabling its clients to explore novel approaches toward real-time digital experience across all of a product\'s life cycle, from design and development to marketing and sales applications.
+	['', 'dimensional visualization', ' ', 'three dimensional realtime', ' visualization']
+StreamTheWorld
+	Provider of media streaming technology platform for radio and television broadcasters. The company\'s streaming delivery network and media streaming technology allows broadcasters to develop custom features and record online revenues.
+	['', 'media stream', ' ', 'streaming platform', ' ', 'streaming delivery network', '']
+Seeker Wireless
+	Developer of mobile phone geolocation and zone detection technologies. The company provides zone based charging with low network impact for GSM, 2G and 3G networks and also provides SeekerZone that helps zone status detection, reporting to the handsets and signals through USSD, SMS and GPRS.
+	['geolocation ', 'zone detection', ' GSM GPRS 3G']
+Bettermeans
+	Provider of technology platform enabling founders to build companies collaboratively. The company provides a web platform where people can start and run projects in an open and democratic way.
+	['', 'web platform', ' ', 'project management', '']
+Intellistream
+	Provider of a video content-delivery platform. The company provides a technology platform enabling delivery of interactive, streaming applications through any available 2G, 3G or 4G mobile network.
+	['', 'video content', ' ', 'content delivery', ' ', 'video streaming', '']
+Ortiva Wireless
+	Provider of video optimization software for mobile network operators (MNOs) and managed service providers (MSPs). The company offers mVOG, a mobile video optimization gateway that provides a mobile streaming solution for MNOs and MSPs; and iVOG, a video optimization platform designed for wireless operators to enhance the overall network efficiency and reduce bandwidth consumption.
+	['', 'video software', ' ', 'mobile operator', ' ', 'service provider', ' ', 'video optimization', '']
+EdgeCast Networks
+	Provider of media content delivery services. The company provides content delivery network space, helping companies to deliver static content like video, music, games and live streaming.
+	['', 'media content delivery', ' ', 'content delivery network', ' ', 'content management', '']
+Shutl
+	Operator of an online shopping delivery platform. The company connects retailers with local courier companies by enabling immediate delivery of online purchases.
+	['', 'same-day delivery', ' ', 'expedited delivery', ' ', 'same-hour delivery', ' delivery']
+Netli
+	Provider of application delivery network services. The company provides network infrastructure as a service, on-demand optimizing application and content delivery while shifting bandwidth, computing and storage requirements.
+	['', 'application delivery network', ' ', 'network infrastructure', ' ', 'content delivery', '']
+Apalya Technologies
+	Provider of a content aggregation, provisioning and distribution platform. The company\'s video delivery platform streams video content to consumers by integrating mobile operators, content owners and mobile advertisers.
+	['', 'streaming video', ' ', 'video streaming', ' ', 'online entertainment', ' ', 'online broadcasting', '']
+SeaWell Networks
+	Provider of a software that enables delivery of Hypertext Transfer Protocol (HTTP) adaptive streaming video. The company offers video hosting and distribution for content delivery networks and other video hosting companies. It also provides Spectrum, a network-based, high capacity video management that optimizes and enables monetization of content.
+	['', 'video hosting', ' ', 'content delivery network', ' ', 'video management', ' ', 'content monetization', '']
+Tasmania Networks Systems
+	Developer of network caching software technology. The company\'s technology accelerates content delivery and network performance by localizing traffic patterns.
+	['', 'network caching', ' ', 'content networking', ' ', 'content delivery', ' ', 'network performance', '']
+Jibe Mobile
+	Provider of cloud-based communication services. The company provides open technology platform that provides an open end-to-end technology platform enabling carriers to rapidly launch and commercially scale the most innovative IP communication services to mobile consumers.
+	['', 'communication service', ' ', 'cloud communication', ' ', 'telephony platform', '']

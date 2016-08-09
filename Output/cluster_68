@@ -1,21 +1,15 @@
-Youth Fair
-	Provider of undisclosed products and services.
-	['', 'industrial products', ' ', 'industrial services', ' ', 'consumer products', ' ', 'consumer services', '']
-Vantage
-	Provider of undisclosed goods and services.
-	['', 'business goods', ' ', 'consumer goods', ' ', 'consumer service', '']
-Global One Media
-	Provider of undisclosed products and services.
-	['media']
-UrbanTakeover
-	Provider of undisclosed products and services.
-	['']
-Sales Technologies
-	Provider of undisclosed products and services.
-	['']
-IVT Systems
-	Provider of undisclosed services.
-	['']
-Huittisten Eurobag
-	Provider of undisclosed products and services.
-	['']
+Map Pharmaceuticals
+	Developer of novel inhalation therapies for respiratory and systemic diseases. The company develops innovative drug that focuses on providing better treatments for patients with neurological diseases.
+	['', 'novel inhalation', ' ', 'neurological diseases', ' ', 'bio pharma drug', '']
+Banner Pharmacaps
+	Developer of gelatin based dosage forms. The company focuses on delivering proprietary softgel formulations for over-the-counter, prescription and nutritional consumer products.
+	['', 'nutritional consumer product', ' ', 'healthcare platform', ' ', 'pharmaceutical service', '']
+Aderis Pharmaceuticals
+	Developer of therapeutics focused on cardiovascular, renal and neurological diseases. The company develops novel small-molecule, receptor-specific therapeutics for the treatment of central nervous system, cardiovascular and renal diseases. The company focuses on drug candidates that act selectively to either block (antagonists) or increase (agonists) the activity of certain proteins, such as adenosine or dopamine, to produce the desired therapeutic effect while minimizing side effects. Small molecules generally offer the dosing flexibility required for patients to easily take the drug as prescribed (commonly referred to as patient compliance), have a broader array of dosage forms, lend themselves to easier formulation and have greater potential for absorption and utilization by the body.
+	['', 'Cardiovascular therapeutics', ' ', 'renal therapeutics', ' ', 'neurological disease', ' ', 'cardiovascular disease', ' ', 'renal disease', '']
+Sequel Pharmaceuticals
+	Developer of novel and clinical-stage drug candidates to treat cardiovascular diseases. The company\'s lead product K201 (JTV-519) has the potential to treat A-Fib, which can cause shortness of breath, chest pain, and blood clot, often leading to a stroke.
+	['cardiovascular ', 'novel drug', '']
+Harvest Technologies Corp
+	Provider of bone marrow aspirate concentrate (BMAC) systems to treat vascular, orthopedic and cardiovascular diseases. The company offers SmartJet applicator kits that deliver platelet concentrate and thrombin to the surgical site. It helps in improving patient outcomes by enhancing the body\'s normal healing process using adult stem cells and growth factors.
+	['BMAC ', 'stem cells', ' ', 'bone marrow aspirate concentrate', '']

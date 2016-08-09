@@ -1,33 +1,21 @@
-Cherry
-	Provider of on demand car wash services to customers. The company\'s service allows its users to park the car anywhere, check in online and get the car washed.
-	['', 'car wash', ' ', 'car cleaning', ' ', 'car maintenance', ' ', 'cleaning service', ' ', 'automobile service', ' ', 'auto service', ' ', 'car service', ' ', 'vehicle maintenance', ' ', 'car washing', ' ', 'driving service', '']
-Lysanda
-	Developer of advanced telematics and infomatics technology to the automotive sector. The company develops driver-analysis and driver identification technologies utilized by OEM automotive manufacturers, fleet operators and insurance companies. The company is the creator of the Eco-Log, a plug-and-play device designed to reduce vehicle-fleet running costs by providing data of fuel consumption and wastage.
-	['', 'fuel emission', ' ', 'fuel consumption', ' ', 'fuel wastage', ' pollution ', 'fleet operator', ' OEM']
-Toroleo
-	Provider of a price and product comparison platform for the automotive sector. The company allows users to compare prices for products such as vehicle parts, accessories, tires, rims and car insurances from multiple retailers. It also provides comparison services for auto insurance and car-rental services. Its platform also functions as a marketing channel for automotive-related businesses.
-	['', 'product comparison', ' ', 'price comparison', ' ', 'vehicle car', ' ', 'rental car', ' ', 'car insurance', '']
-Green Car
-	Provider of an online platform for car rental services. The company\'s platform provides car sharing services in South Korea.
-	['']
-Digby
-	Developer of mobile platform that comprises of analytics, outreach, venue and storefront for the retail sector. The company provides a graphical interface from which its users can browse various products from name-brand retailers, some of which are stored locally and others that can be found through a product search feature.
-	['', 'mobile commerce solution', ' ', 'mobile engagement solution', ' ', 'Mobile Commerce Software Platform', ' ', 'market analysis', ' ', 'market research', '']
-Troquelería del Norte
-	Manufacturer of tools and dies. The company serves various manufacturing industries focusing on the automotive sector.
-	['die ', 'manufacturing industry', ' ', 'automotive sector', '']
-Platinnetz
-	Provider of an online community and marketing channel for people 40 and older in Germany. The company provides a social platform enabling members to create profiles and connect with others sharing the same interests. The platform also functions as a marketing channel for advertisers focused on the demographic.
-	['', 'online community', ' ', 'over 40', '']
-MyETone
-	Provider of a product review and price comparison portal. The company provides a platform to review products and services and compare their prices.
-	['', 'price comparison', ' ', 'product review', ' ', 'review portal', '']
-Auto.nl
-	Provider of a subscription car service in the Netherlands. The company provides a car service that requires users to pay a subscription fee only for the gas and use of the vehicle, while the company handles all warranty, maintenance and replacement-transport costs and services.
-	['', 'car rental', ' ', 'car leasing', ' ', 'car lease', '']
-AutoRef
-	Provider of a car shopping website for buying used car. The company develops an online platform that has auto dealers bidding for users based on a user\'s search criteria.
-	['', 'used car', ' ', 'used vehicle', ' ', 'online vehicle dealership', '']
-TicketStumbler
-	Operator of a secondary ticket market search engine and comparison website. The company allows users to find seats for events and compare the prices offered by online ticket retailers.
-	['', 'ticket search engine', ' ', 'ticket comparison', ' ', 'online ticket', ' ', 'ticket market', '']
+Levanta
+	Provider of linux systems management, systems provisioning and software deployment to address management challenges at the operating system level, delivering dramatically faster and more flexible systems management and provisioning.
+	['', 'address management', ' ', 'systems management', ' ', 'technology investment', '']
+Visage Mobile (Subscriber Management Business)
+	Provider of a platform for mobile virtual network operators (MVNOs). The company provides on-demand management systems.
+	['', 'virtual network operator', ' ', 'on demand management system', ' ', 'virtual service provider', '']
+Qlusters
+	Developer of linux-based enterprise cluster management software. The company provides open-source systems management solution for software provisioning and managing virtual environments.
+	['', 'cluster management software', ' ', 'open-source system', ' ', 'data center technology', '']
+HyperEdge
+	Provider of loop management systems and access equipment for the local exchange carrier markets.
+	['broadband communication ', 'loop management', ' telephone network']
+Kenati Technologies
+	Provider of Linux-based embedded software for networking appliances for the delivery of data and voice over wired and wireless broadband networks. The company develops device software for the home networking market. Its products include components from device drivers, to operating systems, to management interfaces.
+	['', 'embedded software', ' ', 'linux software', ' ', 'networking appliance', ' ', 'wireless broadband', ' ', 'management interface', '']
+Element Energy
+	Developer of software and hardware systems for the management of multi-cell battery systems. The company also provides service for system-in-package (SIP) chips and a system software stack.
+	['', 'multicell battery system', ' ', 'battery management hardware', ' ', 'battery management software', ' ', 'system-in-package', ' ', 'system software stack', ' battery ', 'power electronics', ' ', 'digital control', '']
+Emperative
+	Provider of on-demand multi-vendor network and service provisioning products for access and optical, DSL, cable, and wireless networks. The company\'s products include ProvEn Optical that delivers end-to-end circuits and services over multi-vendor access, core, and long-haul networks, as well as supports SONET, dense wavelength-division multiplexing, Ethernet, and IP; ProvEn Cable for end-to-end self-provisioning and auto-provisioning of cable modem services; ProvEn CMX with integrated dynamic host control protocol capability for cable-centric IP address management; ProvEn DSL, which lets end-users self-provision broadband services and allocate bandwidth on demand in DSL environments; and ProvEn Wireless that delivers integrated provisioning within wireless environments with self-provisioning and bandwidth on demand.
+	['', 'multi vendor network', ' ', 'service provisioning product', ' ', 'network device management', '']

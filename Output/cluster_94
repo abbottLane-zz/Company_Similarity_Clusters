@@ -1,21 +1,24 @@
-Knowledge Management Systems
-	Provider of communication services for the educational sector. The company engages in promotion of British Universities and advises students in selecting the right course and Universities.
-	['', 'communication service', ' ', 'British Universities', ' ', 'right course', '']
-Vocera Communications
-	Provider of mobile communication services to healthcare and non-healthcare markets. The company offers voice communication services, secure messaging applications and care transition services.
-	['', 'communication service', ' ', 'software platform', ' ', 'hospital communication software', ' ', 'secure messaging application', ' ', 'care transition', '']
-PlugMeIn
-	Provider of management consulting services. The company offers a Web technology which provides online leads to sales teams. Its product gives full access to contacts directly from any website, including company directories and social media sites.
-	['', 'web technology', ' ', 'management consulting', '']
-CRM Company Group
-	Provider of management consulting services. The company engages in providing digital communication services for advertisements, sales promotion and public relations.
-	['', 'management consultation', ' ', 'advertising campaigns', ' ', 'communication media', '']
-Devex Tecnologia e Sistemas
-	Provider of mine-management software services. The company engages in providing automation services for open-pit and underground mines.
-	['', 'mine management', ' ', 'mining operations', ' mines']
-Dispatching
-	Operator of a promotional logistics company. The company also offers its clients various field support with services like storage, handling and distribution. It also offers promotional services including brand development, sales promotion and market research.
-	['warehouse ', 'promotional logistics', ' ', 'brand development', '']
-Servista
-	Provider of management networking and outsourcing services. The company provides network management, outsourcing, consulting services and customer relationship management.
-	['', 'network management', ' ', 'consulting service', ' ', 'customer relationship management', '']
+SeeCommerce
+	Provider of supply chain performance management and improvement application. The company enables business managers and trading partners to manage and improve business performance across complex supply chains.
+	['', 'supply chain management', ' ', 'web centric application', ' ', 'internet centric application', '']
+Activplant
+	Provider of performance management application software services. The company provides software tools, analytics and reports to manufacturers, as well as integrates data with existing business systems and applications, such as statistical process control, quality measurement, enterprise resource planning, reporting packages, Web browsers and wireless pagers.
+	['', 'management application', ' ', 'software tool', ' ', 'statistical process control', ' ', 'quality measurement', ' ', 'wireless pager', '']
+OutlookSoft
+	Provider of performance management solution. The company\'s flagship solution, OutlookSoft 5, provides a single performance management platform for strategic planning, budgeting, forecasting, statutory consolidation, reporting, analysis, predictive analytics, scorecarding, and dashboards. It also delivers related consulting, training, implementation, and ongoing product/client support services.
+	['', 'performance management solution', ' ', 'flagship solution', ' ', 'performance management platform', '']
+Cartesis
+	Provider of Business Performance Management (BPM) software. The company provides solutions in the field of financial consolidation and reporting, planning, budgeting and forecasting, management reporting and analysis and comprehensive business performance management.
+	['', 'business software', ' ', 'financial software', ' ', 'information delivery', ' ', 'performance management', '']
+Workiva
+	Provider of a cloud based software for external financial reporting to meet SEC reporting requirements. The company provides a software that streamlines the manual process to draft and file Securities Exchange Commission (SEC) reports including XBRL reporting process. It integrates word processing and spreadsheet functionality, EDGAR HTML conversion and XBRL mapping and tagging into a fully-integrated, end-to-end solution that helps SEC reporting teams meet reporting requirements for a range of regulatory filings.
+	['', 'financial reporting', ' ', 'regulatory filing mapping', ' ', 'cloud software', '']
+Exony
+	Provider of customer interaction performance management and optimization to enterprises and service providers internationally. The company offers VIM Performance, an integrated platform to drive productivity across various aspects of virtualized customer contact. It’s VIM Performance includes VIM Analytics, a single platform for day-to-day self-serve operational reporting and OLAP-based analytics to measure contact center performance, VIM Performance Management, which offers a closed loop performance management and process automation capability, VIM Resource Management, an application that allows business users to enhance the VCC’s performance without third-party training or assistance, VIM Service Management, which allows supervisors to change specific agent resources, VIM Mediator, which delivers deeper insight into business data by bringing together fact data from various data sources to enable sophisticated analytical reporting and VIM Virtualization Framework, which brings together distributed operations, management, infrastructure components and resource layers to provide scalability, security and collaboration required by distributed contact operations. It also provides insight, implementation, knowledge and support services.
+	['', 'performance management', ' ', 'customer interaction', ' ', 'customer performance optimization', '']
+AS-Groupe
+	Provider of corporate performance management software. The company offers corporate planning, controlling, reporting, and services to various organizations.
+	['', 'corporate software', ' ', 'corporate planning', ' ', 'software services', '']
+Dynamic Change
+	Developer of web-based performance management software tool. The company provides regulatory compliance, corporate governance, risk and performance management services to the healthcare market.
+	['', 'compliance software', ' ', 'performance management software', ' ', 'corporate governance', '']

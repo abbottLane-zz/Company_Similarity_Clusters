@@ -1,27 +1,24 @@
-MMIC Solutions
-	Developer of technology for systems operating in the millimeter wave bands (50 GHz to 250 GHz). The company develops, manufactures and supplies products for use in security, detection and high-bandwidth communication equipment. The company\'s products include mechanical interfaces, direct detection receivers and "conncetorized" modules.
-	['', 'advanced materials', ' ', 'wave applications', ' down-convertor bandwidth ', 'wave bands', '']
-NOXA Holdings
-	Manufacturer of satellite GPS asset-tracking and messaging products. The company\'s products include SMARTONE that is used to track assets specific needs and provide intermediate and emergency alerts by email and/or text or cellular; AXTracker STX2 Satellite Transmitter, an industrial-use satellite transmitter; AXTracker MMT, a wireless device with multiple sensors and Globalstar Satellite System, a constellation of low earth-orbiting satellites that relay messages to ground stations to provide GPS location data.
-	['', 'gps tracker', ' ', 'satellite gps', ' ', 'tracking device', ' ', 'messaging product', ' ', 'email alert', ' ', 'satellite transmitter', ' ', 'wireless device', ' ', 'satellite system', '']
-VCON Video Conferencing
-	Provider of video-conferencing systems and products. The company offers standards-based systems and infrastructure, which are operated over a variety of networks. The company sells internationally through a global distribution network to business enterprises, government agencies, financial institutions, broadcasters, universities and colleges, distance learning companies, health-care organizations, and satellite companies.
-	['', 'videoconferencing products', '  videoconferencing']
-Elonics
-	Developer of radio tuner chip technologies. The company offers radio tuner chip technologies that can be configured to support different standards and frequencies for use in set-top box receivers, PCs and other applications.
-	['', 'radio tuner', ' ', 'tuner chip', ' ', 'set-top box', ' radio']
-Hughes Network Systems
-	Provider of broadband satellite networks and services to large enterprises, governments, small businesses, and consumers. The company offers satellite based communications services and equipment that utilize very small aperture terminals (VSATs) to distribute signals via satellite. It also offers satellite-based enterprise and consumer networks, mobile satellite networks and terminals, and broadband LMDS point-to-multipoint systems.
-	['', 'broadband satellite', ' ', 'satellite network', ' ', 'communications service', '']
-NordNav Technologies
-	Developer of Global Navigation Satellite System receivers.
-	['', 'Global Navigation', ' ', 'Navigation Satellite', ' ', 'Satellite System', ' ', 'satellite receivers', ' ', 'navigation system', ' GPS ', 'galileo navigation', '']
-Nokia gate5
-	Developer of location based information technology on mobile devices. The company provides a platform for mapping, route planning, content management and personal navigation. Its products include smart2go, a client side global map and search application for GPS-equipped mobile handsets and OEM navigation software for PNDs and PDAs.
-	['', 'location based', ' ', 'information technology', ' ', 'navigation software', '']
-SkyWave Mobile Communications
-	Provider of satellite communication and airtime services. The company provides satellite and satellite-cellular terminals, applications, network and professional services for mobile and fixed remote industrial tracking, monitoring, control and management.
-	['', 'satellite communication', ' ', 'satellite-cellular terminal', ' ', 'remote industrial tracking', '']
-Locationary
-	Provider of a global clearinghouse for local data in mobile, web search, profile publisher, managers and navigation applications. The company provides it\'s services for local business data fragmentation, accuracy and universal broadcast update challenges.
-	['', 'global clearinghouse', ' ', 'data fragmentation', ' ', 'statistics analysis', ' ', 'business data', '']
+DocMorris
+	Provider of an online drugstore. The company operates an online pharmacy store serving the German market.
+	['', 'online drugstore', ' ', 'drug distribution', ' ', 'drug sales', ' ', 'online drugs', ' ', 'online pharmaceutical', ' ', 'pharmaceutical sales', ' pharmacy']
+Bestformation
+	Provider of e-learning services for corporate management training. The company operates an online platform providing corporate training programs in management and human resources.
+	['', 'management training', ' ', 'corporate management', ' ', 'HR training', ' ', 'e-learning', ' ', 'e-learning services', '']
+Seaside Software
+	Designer and manufacturer of corporate messaging and intranet applications for the corporate market. The company offers integrated software and hardware products.
+	['', 'enterprise applications', ' ', 'corporate messaging applications', ' ', 'platform software', '']
+Sinia
+	Provider of application that transforms internet-enabled cellular phones into secure connections to the Internet and corporate intranet. The company provides enterprise services that give users secure mobile access to corporate information. It’s users can manage corporate email, calendar, contact lists and other server-based information on any Web enabled device.
+	['', 'enterprise service', ' ', 'mobile internet connection', ' ', 'mobile application', '']
+Sciences-U Groupe
+	Provider of professional training courses in France. The company provides vocational training in multiple sectors, including graphics & design, management & human resources, data processing, communications, marketing, tourism, accounting, real estate, insurance, Web design and notary. The company operates facilities in Lille, Paris and Lyon.
+	['marketing ', 'professional training', ' communication']
+RedHawk Communications
+	Provider of corporate ethics, compliance training and communications services. The company\'s services include code of conduct assessments, writing and design; online ethics learning modules; supporting ethics communication awareness tools and programs; worldwide translation and localization capabilities; instructor-led ethics training and other services focused on corporate ethics, compliance and creating ethical culture.
+	['', 'corporate ethic', ' ', 'compliance training', ' ', 'communications service', '']
+e-Corp English
+	Provider of English language training for companies. The company specializes in teaching corporate English to professionals and large companies.
+	['', 'language training', ' ', 'english training', ' ', 'employee training', '']
+TalentSpring
+	Provider of software as a service-based automated candidate sourcing services and solutions for recruiters and human resources professionals in the recruiter industry. The company enables recruiters and hiring managers to find resumes for passive and active candidates on social networking sites, job boards, and corporate application tracking systems utilizing semantic-search technology and a revolutionary resume-ranking algorithm.
+	['', 'resume search engine', ' ', 'candidate sourcing service', ' ', 'recruitment solutionl', '']

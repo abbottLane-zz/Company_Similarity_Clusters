@@ -1,48 +1,36 @@
-Decuma
-	Developer of handwriting recognition software for wireless devices such as mobile phones, PDAs and digital pens. The company\'s products are compatible with the palm operating system, windows CE and the Symbian operating system.
-	['', 'wireless devices', ' ', 'handwriting recognition', ' ', 'operating system', '']
-Eridon
-	Provider of a complete platform for embedded system design. The company offers embedded system technology on modular self-integrating uCards to assemble a working hardware platform, operating systems, drivers and development tools.
-	['', 'embedded system design', ' ', 'operating system', ' ', 'computer peripherals', '']
-Wavemakers
-	Developer of processors and software algorithms.The company provides software components to  improve the accuracy of speech recognition systems operating in noisy environments.
-	['', 'speech recognition', '']
-eTree Marketing
-	Internet retailer of computer and digital products.
-	['', 'online shopping', ' ', 'internet shopping', ' ', 'digital product', '']
-Gecko Alliance
-	Manufacturer of electronic controls. The company offers systems, controls, pumps, audio, accessories and bath products.
-	['', 'temperature setting', ' ', 'electronic button', ' pump']
-Seruba
-	Provider of a multilingual software. The company provides a software for computer-supported networks including internet, intranets and data warehouses.
-	['multilingual lexicosaurus ', 'data warehouses', '']
-Digital Research
-	Developer of a personal computer operating system. The company provides a software for computer operating systems that controls printers and disk drives of a desktop computer.
-	['']
-ByteShield
-	Developer of software activation management solutions for personal computer games. The company products control software piracy for personal computer application software and game publishers. It provides Digital Rights Management or Copy Protection software products.
-	['', 'software activation management', ' ', 'software piracy control', ' ', 'personal computer game', ' ', 'digital rights management', '']
-Candelis
-	Developer of network attached storage technologies. The company designs and develops network-attached storage appliances for computer networks and operating systems.
-	['', 'network attached storage', 'NAS', 'network storage filer', ' ', 'network storage', '']
-Maconomy
-	Developer of enterprise project optimization (EPO) software. The company develops advertising applications on Apple\'s Macintosh operating system and runs on both Macintosh operating system and Windows NT.
-	['', 'enterprise project optimization', ' ', 'advertising application', ' ', 'business application', '']
-Active Control eXperts
-	Provider of Active Vibration Control (AVC) services. The company\'s vibration controls technology actively damps or controls unwanted vibration. It also provides vibration-controlling tolls to OEMs.
-	['', 'vibration controlling toll', ' ', 'vibration control', ' ', 'semiconductor manufacturing', ' ', 'motion control component', ' ', 'vibration suppression', '']
-Firesale.com
-	Provider of marketplace for liquidating excess inventory. The company provides services for computer liquidators and name brand computer hardware products.
-	['', 'online retail', '']
-Spool
-	Provider of articles and videos to computer, tablet, and phone. The company\'s artificial intelligence and computer vision engine grabs articles, records video, and saves images.
-	['', 'artificial intelligence', ' ', 'computer engine', ' ', 'mobile device', ' ', 'content platform', ' ', 'video content', '']
-Previo
-	Provider of software products designed to provide personal computer recovery from software virus or hacker attacks, software failures or glitches, thefts, losses, and broken equipment.
-	['', 'software product', ' ', 'computer recovery', ' ', 'hacker attack', ' ', 'software failure', ' ', 'broken equipment', '']
-CircleSmartCard
-	Developer of thermoplastic material smart card bodies and data carriers. The company\'s products include chipcoins, magnetic strip and microprocessor cards. It serves computer chip holders.
-	['thermoplastic ', 'magnetic strip', ' microprocessor ', 'smart cards', '']
-Acumos
-	Manufacturer of semiconductor devices for the personal computer graphics industry. The company manufactures and developes semiconductor devices for personal computer and graphics of computers.
-	['', 'semiconductor device', ' ', 'computer graphic', ' ', 'personal computer', '']
+Yepler
+	Creator of an online social desktop community. The company\'s platform enables users to organize files, links,videos, friends and groups by tagging and rating them locally and globally. The platform allows users to write comments or chat about any link or file on their computer. Through the platform, a document can instantly serve as a communication channel between two users.
+	['', 'desktop software', ' ', 'communication channel', ' ', 'document tagging', '']
+Cloudy
+	Provider of mobile social decisioning platform. The company\'s online social platform allows users to ask questions and find answers to their questions from friends.
+	['', 'social decisioning platform', ' ', 'online portal', '']
+Friend.ly
+	Provider of social Questions and Answers site that makes self expression fun, easy, and meaningful. The company helps you share your true self by asking fun, easy and sometimes poignant questions with the goal of creating a more perfect online profile.
+	['', 'social question', ' ', 'online profile', ' ', 'self expression', '']
+Formspring
+	Operator of a website that allows its users to set up a profile page, from which anyone can ask them questions. The company gives their members a platform to express their point of view and personality through engaging conversations and interact with friends and followers.
+	['', 'online forum', ' ', 'profile page', ' ', 'online sharing', '']
+Toostep Consultancy
+	Developer of an online platform that enables recruiters to promote jobs on social networking sites and search engines. The company operates an online portal that allows users to ask experts questions, debate with each other and gives recruiters the ability to post jobs through search engines and social media.
+	['', 'job search', ' ', 'recruitment portal', ' recruiters']
+Wondir
+	Operator of a live question and answer engine that connects people with questions to people with answers. The company provides a combination of live human answers and broad metasearch of the web.
+	['', 'instant messaging', ' ', 'search engine', ' ', 'question forum', '']
+PeerPong
+	Provider of a social search solution that allows users to ask questions and find information from people in their network through instant messaging and email.
+	['', 'social search solution', ' ', 'search solution', ' ', 'search engine service', '']
+ShareBloc
+	Provider of an online enterprise vendor comparison platform. The company provides enterprise consumers with an online platform to rate, review, ask and answer questions about their vendors. It also works closely with the vendor community to reach their customers.
+	['', 'vendor comparison platform', ' ', 'vendor rating', ' ', 'online portal', '']
+QuickCliqs
+	Provider of a mobile platform that enables the users to connect with friends without having to go online. The company has developed a mobile platform from which users can invite their contacts to form groups for specific events, from there, they can ask questions, vote on answers and plan the event as a group, all while daily deals from Groupon and the like are pumped in as the event evolves.
+	['', 'mobile platform', ' ', 'planning event', ' ', 'offline social media', '']
+HealthSouk
+	Developer of an online health care network. The company provides its users with access to health care providers offering treatments and procedures. It provides a platform where patients can ask questions, receive answers, search for procedures and directly purchase procedures while comparing price and quality in an easy to understand manner.
+	['', 'health care provider', ' ', 'online treatment', '  ', 'health care network', '']
+AnswerQi
+	Operator of an online platform for technology related questions and answers. The company provides technical support, online collaboration toolset and a safe payment platform to get urgent technology related answers.
+	['Q&A ', 'technology related Q&A', ' ', 'technical support', ' ', 'safe payment platform', '']
+MomAssembly
+	Provider of parenting and female-focused online courses. The company also offers parenting wiki with questions and answers from expert and peer contributors.
+	['', 'newborn care', ' ', 'online education', ' ', 'parenting lesson', ' ', 'infant development', '']

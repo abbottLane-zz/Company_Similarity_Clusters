@@ -1,15 +1,9 @@
-Home Bistro Foods
-	Provider of gourmet food. The company specializes in vacuum-sealed and flash-frozen meals prepared by chefs and sold through its catalog and its e-commerce site. It offers soups, appetizers, meals, and desserts, including beef, pork, lamb/veal/bison, poultry, and seafood.
-	['', 'gourmet food', ' ', 'frozen food', ' ', 'sealed food', '']
-Gascomer
-	Operator of a seafood processing company. The company processes, markets and sells seafood such as fish, crustaceans and molluscs .
-	['seafood ', 'seafood processing', ' ', 'seafood marketing', '']
-Equitalk
-	Provider of low cost, paperless, telephone service. The company\'s processes are automated, the customers are e-mailed their bill and they can pay by direct debit. The company offers IDA and CPS voice services, broadband and teleconferencing.
-	['paperless ', 'telephone service', ' bill']
-Channel Fisheries
-	Provider of fish and seafood. The company also supplies seafoods in the export markets in continental Europe, the Middle East and the US.
-	['seafood ', 'fish products', ' ', 'export fish', '']
-Reimes Rekefabrikk
-	Operator of a seafood-processing enterprise. The company processes and exports shrimp, fish, snails and other seafood.
-	['', 'seafood distributor', ' ', 'fresh seafood', '']
+Adocia
+	Provider of insulin therapy and treatments for diabetic foot ulcers. The company is specialized in the development of medicines from already approved therapeutic proteins, and is actively engaged in formulation of a fast-acting human insulin and diabetic foot-ulcer healing product.
+	['', 'insulin therapy', ' diabetic']
+TTS Pharma
+	Developer of a personalized nicotine patch for smokers. The company has created a companion diagnostic blood test product that provides users with a tailored dose of nicotine via patch technology.
+	['', 'nicotine patch', ' ', 'diagnostic product', ' ', 'patch technology', ' patch']
+Medingo
+	Developer of miniature devices and technologies for people living with diabetes. The company offers Solo Insulin Patch Pump System, a miniature insulin dispensing patch that allows users to personalize and guide patch for insulin needs.
+	['', 'diabetes treatment', ' ', 'insulin need', ' ', 'insulin delivery', '']

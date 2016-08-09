@@ -1,12 +1,36 @@
-LiveLoop
-	Developer of PowerPoint collaboration software. The company provides a platform that enables collaboration on PowerPoint presentations without requiring the PowerPoint software to be downloaded.
-	['', 'document collaboration', ' ', 'document sharing software', ' ', 'cloud-based software', ' powerpoint']
-Citizen Logistics
-	Developer of mobile-collaboration software. The company provides a platform enabling users to collaborate with others via SMS, IM, e-mail or Twitter. The platform contains map tools as well as tools for organizing teams by locations, interests and skills.
-	['', 'web service', ' ', 'mobile device', ' ', 'online community platform', '']
-DocVerse
-	Developer of real time sharing and simultaneous group-editing services of Microsoft PowerPoint, Excel and Word documents. The company offers DocVerse, a download plug-in that turns the Microsoft Word, PowerPoint and Excel applications into Web-enabled collaboration tools.
-	['', 'group editing service', ' ', 'document sharing tool', ' ', 'collaboration tool', '']
-Marratech
-	Developer of collaboration and communication software. The company offers e-meeting, video conferencing and collaboration software.
-	['', 'video conferencing', ' ', 'voice over Internet', ' ', 'collaboration tool', '']
+Decuma
+	Developer of handwriting recognition software for wireless devices such as mobile phones, PDAs and digital pens. The company\'s products are compatible with the palm operating system, windows CE and the Symbian operating system.
+	['', 'wireless devices', ' ', 'handwriting recognition', ' ', 'operating system', '']
+Wavefront Technologies
+	Producer of computer graphics & animation software. The company designs software for graphic designing and animation.
+	['', 'multimedia software', '']
+Raycer Graphics
+	Operator of a semiconductor company for visual computing. The company develops 3D graphics technology, cards and chips for workstations and personal computers. It also designs 3D graphics acceleration hardware.
+	['', 'semiconductor company', ' ', 'visual computing', ' ', '3D graphics technology', ' workstations']
+13th Lab
+	Developer of next generation computer vision platform for mobile devices. The company is developing three dimensional Tracking and Mapping (SLAM) implementation process to consumer devices through Ball Invasion.
+	['', 'mobile computer vision', ' ', 'three dimensional tracking', ' ', 'three dimensional mapping', '']
+NomadIQ
+	Provider of location based applications services for handheld devices. The company offers a wireless service that enables subscribers to access and navigate the Internet, send and receive email messages, and conduct e-commerce transactions over handheld mobile devices.
+	['', 'location based application', ' ', 'site information', ' ', 'application development', '']
+Hybrid Graphics
+	Developer of embedded 2D and 3D graphics software for handheld devices. The company develops graphics technology software for consumer devices which enables high-quality 2D and 3D graphics in devices such as mobile phones.
+	['', 'graphics software', ' ', 'graphics design', ' ', 'graphics software solutions', ' ', 'graphics solutions', ' ', 'graphics technology', ' ', 'graphics technology solutions', '']
+3Dfx Interactive
+	Developer of graphics chips, graphics boards, software, and related technology that enables an interactive and realistic 3D experience across multiple hardware platforms.
+	['', 'real time 3D', ' ', '3D image', ' ', 'graphic board', ' ', 'graphic chip', '']
+Harlequín Nature Graphics
+	Manufacturer of cotton fabrics. The company also prints graphics and wildlife animations on cotton fabrics such as t-shirts and sweatshirts.
+	['cotton ', 'print graphics', ' t-shirts']
+AccelGraphics
+	Developer of 3D graphics cards for the CAD, animation and simulation markets. The company provides and markets 3-dimensional graphics cards and other subsystem products for the professional Windows NT and Windows 95 markets.
+	['3D 3-D ', '3 Dimensional', ' ', 'graphics card', ' CAD graphics']
+Microsoft Visio
+	Developer of visualization and diagramming software. The company is the creator of a diagramming and vector graphics application, which connects data to graphics and can be used in business applications. Microsoft acquired the company in January 2007, retaining the Seattle-based business as a division of its company and utilizing its software with its own product offerings.
+	['', 'diagramming application software', ' ', 'visualization software', ' ', 'graphics software', ' ', 'business software', '']
+Handspring
+	Provider of handheld computing devices, which include organizers; and integrated, handheld wireless devices, known as communicators or smartphones. The company\'s products include the Treo wireless communicators and Treo 90 organizer, the Visor expandable handheld computers, and client and server software for fast web access from handheld devices and mobile phones.
+	['', 'computing device', ' ', 'hand device', ' ', 'wireless device', '']
+Geomerics
+	Developer and provider of graphics technology to customers in the games and entertainment industries. The company\'s product, Enlighten, is used to monitor lightening in real-time gaming.
+	['', 'graphics technology', ' ', 'computer game', ' ', 'entertainment industry', '']

@@ -1,24 +1,39 @@
-Rogue Resolutions
-	Provider of equipment and services to the researchers and clinicians in the neurology sector. The company provides integrated services to the neuroscience sector for the purpose of neuromodulation, neurofeedback and brain imaging.
-	['neurology ', 'brain imaging', ' neurofeedback']
-Edge Therapeutics
-	Provider of therapeutic products for acute, fatal and debilitating medical conditions. The company develops implantable technology for direct delivery of therapeutic compounds to the site of brain injury.
-	['', 'healthcare service', ' ', 'biotechnology service', ' ', 'hospital product', '']
-CTF Systems
-	Provider of cortex magnetoencephalography (MEG) systems. The company focuses on functional brain mapping, epilepsy localization, diagnostics in stroke recovery and fetal neurological assessment.
-	['', 'magnetoencephalography system', ' ', 'brain mapping', ' diagnostic']
-SAGE Therapeutics
-	Operator of a biopharmaceutical company developing novel medicines to treat central nervous system (CNS) diseases. The company offers medicines to patients with schizophrenia, major depressive disorder, pain and traumatic brain injury conditions, for multiple sclerosis, autism and anesthesia.
-	['', 'central nervous system', ' ', 'traumatic brain injury', ' ', 'depressive disorder', '']
-Xytis
-	Developer of central nervous system (CNS) drug candidates. The company is assembling a pipeline of innovative compounds with validated mechanisms of action, addressing major unmet clinical needs in CNS fields such as Schizophrenia, Traumatic Brain Injury, Depression, Anxiety, or Insomnia. It has two clinical stage compounds in development and operates from the USA, UK and Switzerland.
-	['', 'central nervous system', ' ', 'nervous system disorder', ' ', 'cognition enhancement', ' ', 'schizophrenia treatment', '']
-Cardiac Support Systems
-	Operator of innovative factory. The company operates as a licensee of a technology to treat patients suffering from ventricular fibrillation.
-	['', 'ventricular fibrillation', ' ', 'innovative factory', ' ', 'technology licensee', ' ', 'patient care', '']
-Intelect Medical
-	Developer of deep brain stimulation (DBS) therapies and technology for patients suffering with disabilities from stroke and traumatic brain injury. The company focuses on developing an implantable neuromodulation system for stroke and traumatic brain injury recovery.
-	['', 'deep brain stimulation', ' ', 'brain injury treatment', ' ', 'neuromodulation system', '']
-Neurolutions
-	Provider of devices, based on Brain Computer Interface (BCI) technology. The company focuses on restoring function to patients who are disabled as a result of neurological injury.
-	['', 'computer interface technology', ' ', 'neurological injury', ' ', 'neurological treatment', ' ', 'mobility device', '']
+Andigilog
+	Provider of thermal management technology. The company develops sensor interface integrated circuits, temperature sensors, system controllers and brushless DC fan motor controllers. It provides fabless analog and mixed-signal IC.
+	['', 'thermal management', ' ', 'sensor interface circuit', ' ', 'temperature sensor', ' ', 'motor controller', ' ', 'fabless analog', '']
+Arctic Silicon Devices
+	Developer and seller of data converters. The company develops application specific mixed mode signal processing chips, modules, subsystems, integrated circuits, low power ADCs and AFEs.
+	['modules subsystems microwave IC']
+Maxim Integrated Products
+	Designer, manufacturer and seller of analog and mixed-signal semiconductor products. The company markets a range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a number of geographically diverse customers.
+	['', 'Mixed signal semiconductor', ' ', 'integrated circuits', '']
+Ciranova
+	Provider of electronic design automation software. The company focuses on building interoperable tools for custom chip designers to create new and/or migrate legacy analog IP and help engineers integrate complex RF, analog and mixed-signal content into nanometer-scale silicon with higher density and speed.
+	['', 'electronic design', ' automation ', 'chip designer', '']
+Neolinear
+	Developer of software for analog or mixed-signal silicon design. The company provides mixed-signal chips with integrated analog and digital circuitry for communications applications.
+	['', 'mixed signal silicon design', ' ', 'digital circuitry', ' ', 'communication application', '']
+Spirea
+	Developer of fabless semi-conductor. The company develops low-cost, integrated and low power radio products for the wireless local and personal area network markets, using CMOS design techniques for radio, mixed-signal and digital designs.
+	['', 'fable semi conductor', ' ', 'personal area network', ' CMOS ', 'digital design', '']
+Global Communication Devices
+	Developer of fabless RF and mixed-signal ICs (integrated circuits) and RF and mixed-signal intellectual property (IP) cores for use in wireless and broadband networking. The company provides full-custom design, joint development, design consultation and manufacturing and testing services.
+	['', 'mixed signal IC', ' ', 'mixed signal intellectual property', ' ', 'joint development', ' ', 'design consultation', '']
+Pentland Systems
+	Provider of signal acquisition technology and products. The company offers analog input/output, sigma delta, synchro and resolver modules which are complemented by digital input/output and relay products to form a comprehensive range of system ready, COTS, I/O products. The company also provides analog-acquisition and reconstruction products for sonar, radar, signal intelligence and software-defined radio applications in the aerospace and defense markets.
+	['', 'sonar product', ' ', 'signal intelligence', ' ', 'analog signal', ' ', 'radar product', ' ', 'embedded computing', ' ', 'digital input/output', ' ', 'relay product', '']
+PhaseLink
+	Manufacturer of technology for timing source and signal conditioning timing source integrated circuits. The company also markets analog frequency multipliers, triangular modulation SST, bi-directional I/O, programmable clock chip, programmable clocks and a range of IC product lines in the industry.
+	['', 'integrated circuit', ' IC Multipliers Modulator']
+Symwave
+	Developer of analog/mixed-signal connectivity solutions in the United States and internationally. The company offers physical layer, low power analog front end cores, integrated circuits (ICs), and semiconductor system solutions to distribute video, sound, photos, and data in the home, automobile, office, and factory; and USB hubs, card readers and mass storage devices, input/output, Ethernet and embedded networking devices, and in-vehicle networks.
+	['', 'analog signal connectivity', ' ', 'semiconductor system solution', ' ', 'embedded networking', '']
+Fresco Microchip
+	Developer of fabless semiconductor. The company develops radio frequency, mixed-signal and digital signal processing integrated circuits for the consumer electronics market.
+	['', 'integrated circuit', ' ', 'digital signal processing', ' ', 'radio frequency processing', '']
+Integrated Device Technology
+	Designer, developer and manufacturer of low power, mixed signal semiconductor solutions for the advanced communications, computing and consumer industries. The company\'s computing products are designed specifically for desktop, notebook, sub-notebook, storage, and server applications while its consumer products are optimized for gaming consoles, set-top boxes, digital TV and smart phones.
+	['signal ', 'semiconductor solution', ' ', 'wireless network', ' ', 'data integration', ' ', 'server application', '']
+SliceX
+	Designer, developer and supplier of analog and mixed signal integrated circuits. The company develops ICs for consumer, communications infrastructure, video imaging, industrial equipment, automotive and medical applications.
+	['', 'analog integrated circuit', ' ', 'mixed signal IC', ' ', 'video imaging', ' ', 'communication infrastructure', ' ', 'power analog signal', '']

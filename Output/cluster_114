@@ -1,27 +1,33 @@
-Talk Talk TV Store
-	Provider of video streaming services. The company offers action, animation, comedy, crime, documentary, drama, family, fantasy, horror, indie, music, romance, sci-fi, seasonal, sport, thriller, war, western movies, shows and quizzes.
-	['', 'digital video', ' ', 'feature film', ' ', 'television series', '']
-Veebeam
-	Developer of wireless technologies and products. The company provides software products for video streaming and designs hardware systems for consumer electronic device for the wireless streaming of HD audio or video content from laptop to television.
-	['', 'wireless applications', ' ', 'video streaming software', ' ', 'wireless protocol software', '']
-Zenter
-	Provider of software for creating online slide presentations. The company enable users to make online slide shows.
-	['', 'slide presentation', ' ', 'presentation software', ' ', 'presentation application', '']
-enScaler
-	Provider of middleware services to enterprises to deliver streaming content. The company provides licensed platforms and applications to service providers, content owners and enterprises to provision and manage streaming media services and applications.
-	['', 'middleware services', ' ', 'licensed platforms and applications', ' ', 'streaming content', ' ', 'streaming media services', ' ', 'content owners', '']
-StreamTheWorld
-	Provider of media streaming technology platform for radio and television broadcasters. The company\'s streaming delivery network and media streaming technology allows broadcasters to develop custom features and record online revenues.
-	['', 'media stream', ' ', 'streaming platform', ' ', 'streaming delivery network', '']
-FanLib
-	Operator of online community for the entertainment fans. The company\'s online storytelling platform enables its members to create stories and scripts based on television shows, books, movies, video games, and other works.
-	['', 'fan community', ' ', 'entertainment community', ' ', 'storytelling platform', '']
-ZebraMobile
-	Provider of online news platform. The company provides an application enabling mobile access to personalized news content, advertising and other online content.
-	['', 'news platform', ' ', 'online news', '']
-Fourth Wall Studios
-	Producer of movies and television series. The company also engages in the development and marketing of content for movies and television shows.
-	['', 'movie production', ' ', 'content management', ' ', 'marketing and development', '']
-A2 Media
-	Provider of online video streaming services. The company\'s video aggregating service iStream provides an online content streaming platform where users can discover content across multiple genres like news, television shows and movies.
-	['', 'video streaming', ' ', 'online video', ' ', 'video aggregating service', ' ', 'content streaming', '']
+Translarity
+	Manufacturer of semiconductor testing equipment. The company develops semiconductor testing technology and uses lasers to create signal pathways for electronics industry. It also provides wafer contact tools for test and burn-in and serves semiconductor manufacturers.
+	['', 'semiconductor testing', ' ', 'test equipment', ' ', 'electronic industry', ' ', 'signal pathway', ' ', 'wafer contractor', ' ', 'tester interface', ' ', 'test platform', '']
+Allegro Manufacturing
+	Provider of a semiconductor front-end equipment foundry. The company provides outsourcing and manufacturing services to semiconductor equipment makers world-wide.
+	['', 'manufacturing solution', ' ', 'equipment manufacturers', ' ', 'semiconductor equipment', '']
+Tri Chemical Laboratories
+	Manufacturer of semiconductor materials. The company engages in developing semiconductor materials such as optical fiber, etching gases and special reagents.
+	['cylinders ', 'luminescence materials', ' gases ', 'glass ampoules', '']
+Orbot Instruments
+	Manufacturer of a semiconductor inspection equipment. The company provides automated optical inspection for semiconductor industry.
+	['', 'semiconductor inspection equipment', ' ', 'automated optical inspection', ' semiconductor']
+Neumath
+	Developer of mathematical software for control solutions. The company provides semiconductor applications for industries such as engineering, biomedical and pharmaceutical arenas for a range of problem solutions and uses advanced mathematical techniques including neural network technology to control semiconductor fabrication equipment.
+	['', 'mathematical software', ' semiconductor biomedical pharmaceutical']
+TwinStar Systems
+	Manufacturer of semiconductor equipment. The company typically manufactures semiconductor for Wafer inspection.
+	['', 'wafer inspection', ' ', 'semiconductor equipment', '']
+Surfect Technologies
+	Manufacturer of semiconductor equipment. The company provides metallization, interconnect and module process for solar cell, light emitting device (LED) and power management applications. It also develops and commercializes patented automated electroplating deposition tools, which apply single metal or multi-metal stacks on solar cells and modules through single chamber electroplating process.
+	['']
+Semiconductor Manufacturing International
+	Semiconductor Manufacturing International Corp was established as an exempt company incorporated under the laws of the Cayman Islands on April 3, 2000. The Company, together with its subsidiaries, is engaged in the computer-aided design, manufacturing, testing, packaging, and trading of integrated circuits and other semiconductor services. The Company operates wafer fabrication facilities in China, including facilities at Beijing, Shanghai, Tianjin and Shenzhen, with an aggregate capacity of up to 247,500 8-inch wafer equivalents per month. It provides integrated circuit (IC) foundry and technology services at 0.35-micron to 28-nanometer. Currently, the Company has 300mm wafer fabrication facility (fab) and a 200mm mega-fab in Shanghai, a 300mm mega-fab and a second majority owned 300mm fab under development for advance nodes in Beijing, a 200mm fab in Tianjin, and a 200mm fab in Shenzhen. It also has customer service and marketing offices in the U.S., Europe, Japan, and Taiwan, and a representative office in Hong Kong. Its fabrication processes uses many raw materials, primarily silicon wafers, chemicals, gases, and various types of precious and other metals. It manufactures silicon wafers based on proprietary designs provided by its customers or third party designers. Its customers include IDMs, fabless semiconductor companies and systems companies. Its competitors are other pure-play foundries such as TSMC, UMC and Global Foundries. The Company is subject to substantial regulation by the Chinese government.
+	['', 'integrated circuit', ' ', 'wafer fabrication', ' ', 'integrated device', ' fabless']
+Green Highland Renewables
+	Developer of small scale hydroelectric schemes. The company  provide advice and services to landowners in Scotland through the development of a hydro power project. The company typically works on small-scale projects, ranging from 50 kilowatts to 2 megawatts.
+	['', 'hydroelectric service', ' ', 'hydropower project', ' ', 'energy project', '']
+Nawotech
+	Supplier of semiconductor equipment for the competitive photomask repair market. The company also supplies nano technology for semiconductor manufacturing and electron-beam based nano-structuring tools.
+	['', 'semiconductor equipment', ' ', 'nano technology', ' ', 'nano structuring tool', '']
+SEZ Semiconductor
+	Provider of wet-etching and wafer-handling equipments.
+	['etching ', 'wafer-handling', ' handle']

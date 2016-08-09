@@ -1,36 +1,24 @@
-Kanisa Pharmaceuticals
-	Provider of oncology focused pharmaceutical services. The company is focused on developing new treatments for cancer with novel testing formats to stratify patients and predict likely responders to therapy.
-	['', 'cancer treatment', ' ', 'pharmaceutical service', ' ', 'diagnosis service', '']
-ACT Biotech
-	Developer of cancer drugs. The company is focused on the development and commercialization of targeted oral and cancer drugs.
-	['', 'oral cancer', ' ', 'cancer treatment', '']
-JSK Therapeutics
-	Developer of novel anti-cancer drugs using an approved compound to inhibit the growth of cancer cells. The company\'s business is based on two types of drugs, the first class of drug, has been tested in animal systems and the second class of drugs is not as developed as a cancer drug but is more versatile with wider range of cancers.
-	['', 'cancer therapy', '']
-Lotus Pharmaceuticals
-	A pharmaceutical company, focused on developing, manufacturing and distributing drugs in the People\'s Republic of China.
-	['']
-Cyrenaic Pharmaceuticals
-	Developer of drugs for schizophrenia and bipolar disorder. The company is focused on the development of CYR-101, an innovative antipsychotic for the treatment of schizophrenia.
-	['', 'schizophrenia treatment drug', ' ', 'bipolar disorder treatment', ' ', 'drug development', '']
-Apalexo Biotechnologie
-	Operator of a biopharmaceutical company focused on cancer treatment. The company is focused on development of a treatment to eradicate residual tumor cells following conventional cancer therapies.
-	['immunotherapeutics cellular']
-Proacta
-	Developer of oncology drugs. The company provides cancer-related products which targets the physiological attributes of solid tumors through normal metabolic processes.
-	['', 'oncology drug', ' ', 'cancer drug', ' ', 'solid tumour drug', '']
-Pemeas
-	Supplier of key components and subsystems to the fuel-cell industry. The company has two divisions. The Celtec division of Pemeas is focused on the development and commercialization of high temperature membranes and MEAs. The E-TEK division of Pemeas is developing precious-metal catalysts and electrode technology.
-	['', 'fuel cell', ' ', 'high temperature membranes', ' ', 'electrode technology', ' ', 'metal catalyst technology', '']
-Interomex Biopharmaceuticals
-	Developer of proteomic drugs. The company is engaged in the discovery and commercialization of novel targets and drugs in the proteomics area, for the treatment of viral, cancer and autoimmune diseases.
-	['proteomics autoimmune']
-Algeta
-	Developer of novel targeted therapies for patients with cancer, based on its alpha-pharmaceutical platform. The company is focused to extend and improve cancer patient\'s lives by developing targeted therapies to fulfill unmet medical needs. It\'s lead product Alpharadin is used for treatment for cancer patients with bone metastases. They are also developing thorium targeted conjugates which are based on conjugating the alpha-emitter thorium-227 to tumor-targeting molecules.
-	['', 'cancer drug', ' ', 'targeted therapy', ' ', 'bone metastase', '']
-ZGene
-	Provider of gene therapeutics for the treatment of cancer diseases. The company develops treatments for several cancer forms with an enzyme based gene suicide system that increase the activation of anti-cancer drugs in tumour cells with faster cell death.
-	['', 'cancer treatment', ' ', 'gene suicide', ' ', 'anti-cancer drugs', '']
-Cardoz
-	Developer of pharmaceutical products in the field of cardiovascular inflammation. The company is focused on the development of drugs for inflammatory vascular conditions, such as abdominal aortic aneurysm and atherosclerosis.
-	['', 'pharmaceutical products', ' ', 'cardiac equipment', ' pacemakers']
+TestSource
+	Provider of behavioral-based, pre-employment assessments for the healthcare industry. The company offers healthcare selection inventory services, a behavioral-based pre-employment assessment service designed to identify top performers for job families, such as nursing, patient care, entry-level service, administrative/clerical and technical/professionals.
+	['', 'pre employment assessment', ' ', 'inventory service', ' ', 'clerical service', ' ', 'technical service', '']
+SironaHealth
+	Provider of healthcare communication technology and service. The company developed the IntelliView system using proprietary software that runs on industry standards operating platforms.
+	['', 'communication technology', ' ', 'healthcare communication', ' ', 'proprietary software', ' ', 'industry standard', ' ', 'operating platform', '']
+CompassCare
+	Provider of cost and treatment delivery management software for the healthcare industry. The company develops software in connection with management of healthcare data.
+	['', 'healthcare software', ' ', 'healthcare data solution', ' ', 'data management', '']
+Bioapter
+	Manufacturer of biosensors for the healthcare industry. The company\'s product portfolio includes in situ bio-sensing equipment, aptamers and other DNA sequence identification devices.
+	['biosensor ', 'biotechnological equipment', ' aptamers']
+Tatara Systems (Certain Mobile Broadband unit assets)
+	Provider of connection management software and mobility gateway software to support Authentication, Authorization and Accounting (AAA) for carrier deployments. The company\'s assets include intellectual property, patents and technology related to the broadband connectivity space.
+	['', 'connection  management software', ' ', 'mobility gateway software', ' ', 'carrier deployment', ' ', 'broadband connectivity space', '']
+InStream
+	Developer of workflow software for healthcare offices. The company develops software products that coordinate the movement of documents and other information between managed healthcare providers and their staffs.
+	['', 'managed healthcare', ' ', 'workflow software', ' ', 'data transfer software', ' ', 'behavioral healthcare', '']
+Healthcare Data Solutions
+	Provider of healthcare data services. The company allows users to license the data they need and send it to communication destination.
+	['', 'healthcare data', ' ', 'healthcare information', ' ', 'healthcare provider postal', '']
+Agility Healthcare Solutions
+	Provider of an automated workflow and resource management solutions to the healthcare industry.
+	['', 'resource management', ' ', 'management software', ' ', 'healthcare industry', '']

@@ -1,12 +1,39 @@
-Pantresse
-	Manufacturer of hair care products. The company produces and sells shampoos, conditioners, hair sprays and related products mainly throughout the US and Mexico.
-	['', 'hair care', ' shampoo conditioner']
-Cambridge Bioclinical
-	Developer of treatments for common skin and hair disorders. The company develops therapies for hair loss, psoriasis, acne, eczema and other dermatological disorders. It is generating new technologies based on work done at the University of Cambridge. It has an assay for hair growth stimulants and is investigating new compounds for the treatment of male-pattern baldness.
-	['', 'hair therapy', ' ', 'skin therapy', ' ', 'hair disorder', ' ', 'hair growth', ' ', 'growth stimulant', ' baldness haircare skincare']
-Auris Medical
-	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
-	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
-Valocor Therapeutics
-	Developer of therapies to treat dermatological diseases. The company focuses on moderate to severe acne, acne and oily skin, atopic dermatitis, and viltiligo areas.
-	['dermatology ', 'skin treatment', ' ', 'skin therapy', ' ', 'acne treatment', ' ', 'atopic dermatistis', ' ', 'oily skin treatment', '']
+WhatsApp
+	Provider of a cross platform mobile messaging application. The company\'s platform allows the user to exchange messages without having to pay for SMS. In addition to basic messaging WhatsApp users can create groups, send each other unlimited images, video and audio media messages. It\'s available for iPhone, BlackBerry, Android, Windows Phone and Nokia.
+	['', 'messaging application', ' ', 'mobile messaging', ' ', 'iPhone messaging application', '']
+Brainstorm SMS Technologies
+	Provider of a SMS messaging platform. The company enables businesses to reach customer through their platform and allows them to develop and launch pre-configured text-based applications that can includes menu-based information navigation, multiple-touch interactions, reminders, subscription to notifications, sharing of messages with friends, lookups, scheduling or transactions.
+	['', 'messaging platform', ' ', 'text-based applications', ' ', 'information navigation', '']
+Viewfinder
+	Creator of a mobile application for organizing and sharing photos. The company\'s platform enables users to organize photos into a personal library that can be accessed for sharing with other users. The software also has tools for sending messages with photos, as well as saving other\'s photos.
+	['', 'photo organization', ' ', 'photo sharing application', ' ', 'private messaging', '']
+Tello
+	Developer of SaaS and mobile application for customer feedback. The company provides web and mobile service that aggregates ratings for businesses from across the web and allows users to post comments about their experience at a business.
+	['', 'social application', ' ', 'customer outreach', ' ', 'employee rating', ' ', 'customer feedback application', '']
+Blurtt
+	Provider of a web based platform that conveys expressions, thoughts and feelings in a creative way. The company provides a mobile application that helps one to create and share a visual statement to express oneself. The company also offers photo-upload service, permitting users to send printed postcards of said photos to friends via mail.
+	['app expression ', 'mobile application', '']
+Storyz
+	Developer of a mobile and web-based application. The company develops a story sharing platform that allow users to create and share stories with pictures, text messages and other content on their smartphones.
+	['', 'web based', ' ', 'story sharing', ' ', 'text message', '']
+Daum Kakao
+	Developer of a cross-platform mobile messaging application. The company offers a series of products namely KakaoTalk, KakaoStory, KakaoMusic and KakaoGame which allows its users to share data in the form of text messages, photo and music, make voice calls and play games.
+	['', 'cross-platform messaging', ' ', 'mobile messaging', ' ', 'messaging application', '']
+Packet Shaper Technologies
+	Provider of software solutions and hosted services to the telecommunications industry in the Asia Pacific. The company provides Soft Switch Prix, a carrier-class deployment platform that allows service providers, ISVs, and OEMs to develop and deploy converged communication services; a calling cards platform that features call waiting, call forwarding, conferencing, and voicemail options; and a calling card hosted service to build a private-label pre-paid phone card business. It also offers Predictive Dialer, an outbound campaigns management solution for telemarketing and telesales teams; DialPrix, an outbound customer contact solution; SMS gateway, an SMS transit service for transforming messages to mobile network traffic from other media; and Email2sms, a solution that translates email messages into text messages and forwards to mobile networks.
+	['telecommunication ', 'calling card', ' ', 'IVR platform', ' voicemail conferencing ', 'call forwarding', ' ', 'bandwidth management', ' ', 'wireless networking', '']
+Frankly
+	Developer of a mobile messaging application. The company offers a mobile and web platform that allows users to send messages and photos that self destructs after the recipient reads them. It also allows users to recall unread messages and make anonymous comments during group chats.
+	['', 'mobile messaging', ' ', 'messaging application', ' ', 'communication service', '']
+Atlanpix
+	Operator of an instant messaging application for smartphones. The company offers an mobile application which enables users to meet people, send text messages, images, videos and audio messages.
+	['', 'instant messaging', ' ', 'text messages', ' ', 'audio message', '']
+LittleCast
+	Provider of an eCommerce platform for video producers and their audiences. The company allows its users to sell their videos directly to audiences on Facebook and mobile devices using mobile applications and web platform.
+	['', 'eCommerce platform', ' ', 'video distribution', ' ', 'mobile video sale', '']
+MogoTix
+	Provider of a mobile ticketing service for events. The company\'s services are used to send event tickets to attendees\' cell phones through text messages for parties, fundraisers and conferences.
+	['', 'mobile ticketing service', ' ', 'event website', ' ', 'mobile QR code', ' ', 'event hosting', ' ', 'ticket distribution', '']
+WebMessenger
+	Provider of enterprise mobile messaging software. The company offers mobile real-time presence VoIP, and collaboration products for enterprises and workers.
+	['', 'enterprise messaging service', ' ', 'messaging software', ' ', 'mobile communication', '']

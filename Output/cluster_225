@@ -1,36 +1,24 @@
-Yardbarker
-	Operator of a sports website. The company allows sports fans, bloggers, and professional athletes to read and discuss sports articles, view sports photos and videos, debate and interact with each other. It also operates an online store that offers women\'s, kid\'s, men\'s, and organic T-shirts; and baby one-pieces, accessories, and gift cards.
-	['', 'sports website', ' ', 'online sports media', ' ', 'online sports entertainment', ' ', 'online sports article', '']
-Shawei.com
-	Provider of an online platform for sports fans. The company offers web portal for chinese sports.
-	['', 'online sport platform', ' ', 'web portal', ' ', 'sport portal', '']
-Sports Technology (fantasy games)
-	Developer of fantasy games and user-generated content tools for sports brands. The company creates web technologies that allow fans to share their passion for sports. The company\'s main focus is to create innovative products and features targeting fantasy sports, sports fans and other online communities.
-	['', 'sports news', ' ', 'aggregated news', ' ', 'publishing tool', ' voting applications']
-Racing-Live
-	Operator of a motor sports website. The company\'s website covers live updates, news, and information of formula 1, rally, moto GP and superbike, off road rallies, sports-cars and kart racing.
-	['motor ', 'formula 1', ' ', 'moto GP', ' rally ', 'kart racing', '']
-Swoopt
-	Provider of a mobile platform for Fantasy Sports. The company provides fantasy sports gaming and tournament software for the mobile phone.
-	['', 'fantasy sport', ' ', 'game platform', ' ', 'mobile game platform', '']
-Bleacher Report
-	Provider of an open source sports network and community publishing site for amateur sports writers. The company allows sports fans to share insights and opinions, news and photos as well as write articles. It also provides advertising opportunities, including run-of-site and targeted campaigns.
-	['', 'sports network', ' ', 'community publishing', ' ', 'sports publishing', ' ', 'sports media', ' ', 'digital publishing', ' ', 'sports website', ' ', 'sports news', '']
-Skillboost Project
-	Provider of an e-learning platform for young soccer players. The company offers an online training system for sports and also features moves and dribbles from different angles through 3D visualization on web and smartphones.
-	['soccer ', 'e-learning platform', ' ', 'online sports training', ' ', 'sport training', '']
-MaxPreps
-	Publisher of online high school sports news and information. The company provides information related to baseball, basketball, football, G basketball, volleyball and other sports. It also offers information on team rankings on the national level, including statistics and the latest scoreboards.
-	['', 'high school sport', ' ', 'sports information', ' ', 'sports statistics', ' ', 'sports news', ' ', 'sports publishing', ' ', 'sports stats', ' ', 'sports rankings', ' ', 'sports reporting', '']
-PicksPal
-	Provider of online games, information, and entertainment for the sports fans. The company offers downloadable fantasy sports games, including football, basketball, baseball, golf, boxing, cycling, motor sport, and soccer; information in the fields of professional sports, fantasy sports players, and teams; commentary and articles about professional and fantasy sports; text and numeric wireless messaging, and on-line trading services; and on-line chat rooms and electronic bulletin boards for the transmission of messages among users.
-	['', 'professional sport', ' ', 'bulletin board', ' ', 'numeric wireless message', ' ', 'online game', '']
-YOUbeQB
-	Operator of an online multi-gaming platform. The company offers Fantasy PlayBook, a fantasy football game that enables players to take control of teams.
-	['', 'playcaller games', ' ', 'online gaming platform', '']
-Atomic Moguls
-	Provider of entertainment and sports fantasy applications for social-networking sites. The company provides fantasy games and sports content on social networks.
-	['', 'entertainment software', ' ', 'networking sites', ' ', 'fantasy application', '']
-ChessPark
-	Provider of online chess community. The company covers how to manage friends list, play games, and participate in chat rooms. It serves audience of casual, club, and professional players.
-	['', 'online chess', ' ', 'chess community', ' ', 'chess tournament', '']
+LoveYourLarder
+	Operator of an online food market. The company operates an online marketplace where the customers can discover artisan food and drink items from across the UK and buy directly from the people who make it.
+	['', 'artisan food', ' ', 'online marketplace', '']
+Just Eat
+	Provider of an online food-ordering platform. The company operates a global online and mobile marketplace for restaurant take-out food. It also provides services in 13 countries around the world, with more than 40,000 takeaway restaurants in its network.
+	['', 'online order', ' ', 'order processing', ' foodservice ', 'takeaway ordering', ' ', 'food delivery', '']
+Besunyen Holdings Company
+	Provider of therapeutic tea products in China. The company is engaged in the development, production, sales and marketing of therapeutic tea and other health food products.
+	['', 'brand awareness', ' ', 'food product', ' ', 'laxative products', '']
+Technic\'Europ
+	Producer of food equipment. The company designs and develops general purpose machinery for food the manufacturing sector.
+	['', 'food equipment', ' ', 'food production', ' ', 'general purpose machinery', '']
+Indoor Direct
+	Provider of media network for the fast food and casual dining markets. The company produces theBITE, a national in-store television show that delivers short clips of sports, music, entertainment and lifestyle content to users and helps in marketing for the restaurants and dining.
+	['', 'casual dining market', ' ', 'restaurant network', ' ', 'out-of-home media', ' ', 'media network', '']
+foodieSquare
+	Operator of an online-subscription service for artisan food. The company provides its clients with weekly food boxes showcasing the products of small, high-quality food manufacturers, with special subscriptions for everything from wine to main courses, cheese, meat and sweets.
+	['', 'independent food producer', ' ', 'artisan food', ' ', 'online food subscription', ' ', 'weekly food box', ' ', 'main course', ' ', 'food manufacturer', '']
+Food Quality Sensor International
+	Developer of real-time and interactive food freshness measurement devices. The company provides food processing, grocery distribution, food service, regulatory, defense and consumer retail markets.
+	['', 'real time device', ' ', 'food freshness device', ' ', 'consumer retail market', ' ', 'food freshness measurement', '']
+Scioko
+	Operator of a fast food company in China. The company operates fast food chains providing simple and authentic food.
+	['', 'authentic food', ' ', 'packed food', ' ', 'portuguese pastel', '']

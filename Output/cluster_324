@@ -1,42 +1,57 @@
-Mountain Network Solutions
-	Provider of mainframe storage services. The company also provides hosting, storage and disaster recovery services.
-	['', 'disaster recovery', ' ', 'mainframe storage', ' hosting']
-Cemaphore Systems
-	Developer of e-mail continuity and content management solutions for the Microsoft Exchange. The company\'s products include MailShadow, an enterprise email continuity and disaster recovery solution that protects Microsoft Exchange systems at the transaction level by replicating selected mailboxes from various exchange servers to disaster recovery exchange servers; and MailShadow 2.2 that delivers management automation solutions.
-	['', 'content management', ' ', 'disaster recovery', ' ', 'management automation', '']
-Sentinel Vision
-	Provider of security alarm notification and verification systems and services. The company offers SafeScout system, that sends images, sound, and text information to the Sentinel’s data center. The company provides service to renters, homeowners, and business people.
-	['', 'security alarm', ' ', 'verification system', ' ', 'safescout system', '']
-Appex Cellular
-	Provider of products and services for cellular industry. The company provides cellular telephone systems and services.
-	['', 'cellular industry', ' ', 'telephone system', ' cellular']
-SteelEye Technology
-	Provider of cost-effective enterprise IT reliability solutions for business continuity. The company\'s application failover, data replication, and disaster recovery software products are easy to deploy and operate, and enable enterprises of all sizes to ensure availability of business-critical applications, servers and data.
-	['', 'Business Continuity', ' ', 'High Availability', ' ', 'Data Replication', ' ', 'Linux High Availability', '']
-EdgeSeven
-	Provider of information security that delivers situational awareness capabilities to organizations.
-	['', 'situational awareness', ' ', 'secured content', ' ', 'secured data', ' ', 'security services', '']
-PERFORMANCE Technologies.
-	Provider of products and services such as virtualization. The company provides services for virtualization, data center computing & storage, disaster recovery & business continuity, information security and information technology systems and services management.
-	['', 'data center computing', ' ', 'disaster recovery', ' ', 'information security', '']
-Teneros
-	Provider of application continuity appliances for disaster recovery. The company’s Velocity series offers email application and data continuity in local high availability and remote disaster recovery models that support applications in various environments. It also offers Social Sentry that enables companies to monitor employee public activity on social networks.
-	['', 'application continuity', ' ', 'disaster recovery', ' ', 'data comtinuity', ' ', 'social sentry', '']
-Avamar
-	Developer of enterprise data protection software for corporations, medium to large-sized businesses, and multinational enterprises. The company offers Axion, a disk backup and recovery solution that allows corporations to move, store, and leverage data on a server. It also provides business continuity and disaster recovery, data security and encryption, remote office protection, and legal discovery and support for regulatory compliance solutions.
-	['', 'data protection software', ' ', 'recovery solution', ' ', 'disaster recovery', ' ', 'data security', '']
-InMage Systems
-	Developer of disaster recovery (DR) software. The company provides DR-Scout, a CDP-based storage software platform that protects, maintains and accesses data, files, blocks and applications, as well as offers replication, disaster recovery, continuous data and application backup.
-	['', 'disaster recovery software', ' ', 'local continuous backup', ' ', 'application backup', ' ', 'data migration', '']
-DataGardens
-	Provider of disaster recovery software systems. The company provides infrastructure services including virtual machine migration, virtual machine provisioning, fail over and fail back, backup and recovery across geographically distributed sites.
-	['', 'disaster recovery', ' virtualization ', 'data center migration', '']
-Bus-Tech
-	Provider of VTL (virtual tape library) products that utilizes open systems disk storage to store and retrieve mainframe tape data. The company provides connectivity products for the data center to equipment manufacturers.
-	['adapter bandwidth ', 'Virtual Tape Library', ' ', 'disk storage', '']
-AppAssure Software
-	Developer of backup, disaster protection and recovery software applications for Microsoft Exchange and BlackBerry environments. The company offers Virtual Recovery Accelerator, a disaster recovery solution that enables organizations to protect messaging environment workloads; Recovery Accelerator, which enables organizations to accelerate the recoveries of messaging environments and Replay agents that provide protection for Windows application servers. It also provides Data Store Manager, a software package for browsing, recovering, searching, exporting and analyzing e-mail and mailbox content directly from various unmounted Microsoft Exchange data stores; Exchange Observer, a tool that monitors and reports the health and status of exchange servers and data stores and DocRetriever for SharePoint, which provides multiple document, item, site, sub-site and folder restores without requiring a SharePoint recovery farm.
-	['', 'recovery software', ' ', 'disaster protection', ' ', 'backup application', ' ', 'data storage', ' ', 'server monitor', '']
-3Leaf Systems
-	Provider of virtualization technology for enterprise data centers. The company provides architecture that delivers system level virtualization to enable mainframe-class capabilities for commodity servers.
-	['', 'virtualization architecture', ' ', 'server virtualization', ' ', 'system level virtualization', '']
+Quanticel Pharmaceuticals
+	Developer of medicines for the treatment of cancer and other life-threatening diseases. The company provides a platform for single-cell genomic analysis of human cancer.
+	['', 'therapeutic treatment', ' ', 'medicine development', ' ', 'disease treatment', '']
+Navitas Cancer Rehabilitation Centers of America
+	Provider of personalized integrated cancer rehabilitation services to cancer patients.
+	['', 'physical therapy', ' ', 'occupational therapy', ' ', 'prescriptive exercise', ' ', 'psycho-social counseling', ' ', 'nutritional counseling', ' ', 'lymphedema therapy', ' acupuncture']
+Molecular Engines Laboratories
+	Developer of a new generation of drugs against cancer. The company\'s research is focused on the analysis and understanding of the molecular mechanism which makes it possible for a cancer cell to quit its malignant state and to revert to a suppressed-malignant phenotype.
+	['', 'cancer drug', ' ', 'cancer cell analysis', ' ', 'cancer research', '']
+Targovax
+	Operator of an oncology bio-pharmaceutical company. The company develops therapeutic vaccine for pancreatic cancer.
+	['', 'pancreatic cancer', ' ', 'therapeutic vaccine', ' ', 'oncology bio-pharmaceutical', '']
+BruCells
+	Developer of therapeutic cellular vaccines. The company produces vaccines based on dendritic cells. It also develops cytokines of a clinical nature used in the preparation of cancer vaccines.
+	['vaccine ', 'cancer vaccine', ' ', 'cellular vaccine', ' ', 'therapeutic vaccine', '']
+Jennerex Biotherapeutics
+	Developer of oncolytic products for cancer. The company\'s products include JX-594, an engineered oncolytic virus that selectively targets and destroys cancer cells, JX-929 that targets the epidermal growth factor receptor and ras signal transduction pathways and JX-963, which is engineered from a strain of vaccinia virus.
+	['', 'cancer treatment', ' ', 'oncolytic product development', ' ', 'vaccinia virus', ' ', 'epidermal growth', '']
+Orthotopix
+	Developer of modelling products for cancer research. The company is a provider of cell, tissue and animal models modelling the prevention and treatment of breast cancer and prostate cancer, urodynamical models of urethral function and a cell line-based safety model of the endometrium. The company provided its products and services to drug-development companies.
+	['', 'drug development', ' ', 'healthcare service', ' ', 'tissue modeling', '']
+IOmet Pharma
+	Developer of drugs in the preclinical area of the drug discovery process. The company focuses on the development of innovative medicines for the treatment of cancer, with particular emphasis on the fields of cancer immunotherapy and cancer metabolism.
+	['', 'drug discovery', ' ', 'nervous system disorder', ' ', 'oncology therapeutic', '']
+Cancer Genetics
+	Developer of personalized medicines for cancer diagnostics as well as treatments that are tailored to the specific genetic profile of the individual. The company provides cancer patient management to diagnose, monitor and inform treatment of cancer.
+	['', 'cancer diagnostic', ' ', 'cancer treatment', ' ', 'cancer patient management', '']
+VectorLogics
+	Developer of virus based cancer therapies and therapeutic vaccines for viral liver diseases. The company utilizes IBDV technology for research on Viral hepatitis and Hepatocellular carcinoma. The company commercializes products for Cancer Virotherapy, Cancer Vaccines, Prophylactic and Therapeutic Vaccines.
+	['', 'Viral hepatitis', ' ', 'Hepatocellular carcinoma', '  carcinoma liver IBDV ', 'Infectious Bursal Disease Virus', '']
+Mzt Holdings
+	Manufacturer & developer of cancer diagnostic technologies and products. The company is a biotechnology company, which engages in the development, manufacture, marketing, distribution, and licensing of cancer diagnostic technologies and products. Its products include NMP22 Test Kit and NMP22 BladderChek Test, which are designed to detect the presence of a specific protein marker in urine correlated with the presence of bladder cancer. Its research and development programs include NMP179 program, a nuclear matrix protein associated with cervical cancer and cervical precancerous conditions; NMP66 program to develop a blood-based test for breast cancer; NMP48 program for prostate cancer; and NMP35, a colon cancer program. In addition, it sells allergy and other diagnostic products manufactured by others. The company sells its products directly to physicians, hospitals, clinics, and physician office laboratories in the United States and Germany, as well as to distributors in other parts of Europe.
+	['']
+DrugAbuse Sciences
+	Developer of novel therapies for alcohol and drug abusers. The company develops and commercializes novel therapies for the treatment of alcohol and drug addictions.
+	['', 'treatment for alcoholic', ' ', 'drug based treatment', ' ', 'pharmaceutical service', '']
+Cytheris
+	Developer of therapies for immune modulation. The company offers drugs focused for lymphopenic patients. The company\'s product helps to enhance the immune system of cancer and chronic viral patients.
+	['', 'immune modulation', ' oncology']
+Influence (Urological Technologies)
+	Developer of healthcare therapies. The company provides therapies for urinary incontinence, atonic bladder disorder and other urological disorders as well as treatment for coronary disease.
+	['', 'urological disorder', ' ', 'urinary ailment', ' ', 'coronary disease', ' ', 'healthcare technology', ' ', 'urinary incontinence', '']
+Kite Pharma
+	Developer of active immunotherapies for cancer. The company has a portfolio of proprietary product candidates designed to stimulate the patient\'s own immune system to fight tumor cells.
+	['', 'cancer therapy', ' ', 'cancer immunotherapy', ' ', 'cancer treatment', ' ', 'tumor treatment', '']
+Algeta
+	Developer of novel targeted therapies for patients with cancer, based on its alpha-pharmaceutical platform. The company is focused to extend and improve cancer patient\'s lives by developing targeted therapies to fulfill unmet medical needs. It\'s lead product Alpharadin is used for treatment for cancer patients with bone metastases. They are also developing thorium targeted conjugates which are based on conjugating the alpha-emitter thorium-227 to tumor-targeting molecules.
+	['', 'cancer drug', ' ', 'targeted therapy', ' ', 'bone metastase', '']
+Cephalon
+	Cephalon, Inc. is an international biopharmaceutical company dedicated to the discovery, development and commercialization of innovative products in four core therapeutic areas: central nervous system, pain, oncology and inflammatory disease. In addition to conducting an active research and development program, the Company markets seven proprietary products in the United States and numerous products in various countries throughout Europe and the world. The Company\'s most significant products are wakefulness products, PROVIGIL(r) (modafinil) Tablets and NUVIGIL(r) (armodafinil) Tablets. The Company\'s Central Nervous System disorders portfolio includes three FDA-approved and marketed products: NUVIGIL, for improving wakefulness in patients with excessive sleepiness associated with narcolepsy, OSA/HS and SWSD; PROVIGIL, for the same labeled indications as NUVIGIL; and GABITRIL, for use as adjunctive therapy in the treatment of partial seizures in epileptic patients. PROVIGIL improves wakefulness in patients with excessive daytime sleepiness associated with narcolepsy, and the Company has launched the product in the United States. GABITRIL is a selective gamma-aminobutyric acid, reuptake inhibitor approved for use as adjunctive therapy in the treatment of partial seizures in epileptic patients. The Company\'s pain therapeutics portfolio currently includes four marketed products in the United States. It markets AMRIX, a once-a-day, extended-release version of cyclobenzaprine hydrochloride, the active ingredient in the brand FLEXERIL(r). AMRIX is indicated for relief of muscle spasm associated with acute, painful musculoskeletal conditions. The Company also market three products, FENTORA, ACTIQ, and generic OTFC, which focus on treating breakthrough cancer pain in opioid-tolerant patients. FENTORA is indicated for the management of breakthrough pain in patients with cancer who are already receiving and are tolerant to opioid therapy for their underlying persistent cancer pain. ACTIQ is approved in the United States for the management of breakthrough cancer pain in opioid-tolerant patients. The Company\'s U.S. oncology portfolio includes two marketed products to treat patients with hematologic cancers: TREANDA, a bi-functional hybrid cytotoxic; and TRISENOX(r), an intravenous arsenic-based targeted therapy currently marketed in the U.S., as well as in Europe. TREANDA is a novel hybrid cytotoxic alkylating agent that differs from conventional compounds in its apparent multi-functional mechanism of action. In addition to killing cells by damaging their DNA and triggering apoptosis-which is typical of alkylating agents-researchers demonstrated that TREANDA also causes the disruption of cell division. Bendamustine hydrochloride, the active ingredient in TREANDA, is currently marketed in Germany by a third party for the treatment of NHL, CLL, multiple myeloma, metastatic breast cancer and other solid tumors. TRISENOX was approved for marketing in the United States and Europe in 2000 and 2002, respectively, for the treatment of patients with relapsed or refractory acute promyelocytic leukemia, a life threatening hematologic cancer. The Company markets and sells directly or through partnerships 30 different branded products in over 50 countries in Europe, the Middle East and Africa and have a strong presence in the five key European pharmaceutical markets: France, Germany, Italy, Spain and the United Kingdom, and affiliates in Benelux and Poland. The Company faces intense competition and rapid technological change in the pharmaceutical marketplace. The manufacture and sale of therapeutics are subject to regulation by U.S. and foreign governmental authorities. In particular, pharmaceutical products are subject to rigorous preclinical and clinical trials and other approval requirements.
+	['', 'nerve disorders', ' ', 'muscle spasm', ' ', 'sleep apnea cure', ' ', 'medicine and drug', ' ', 'multiple sclerosis', '']
+ZGene
+	Provider of gene therapeutics for the treatment of cancer diseases. The company develops treatments for several cancer forms with an enzyme based gene suicide system that increase the activation of anti-cancer drugs in tumour cells with faster cell death.
+	['', 'cancer treatment', ' ', 'gene suicide', ' ', 'anti-cancer drugs', '']
+Cell Genesys
+	Developer of novel biological therapeutic products for patients with cancer.The company pursues three cancer product platforms -- GVAX(R) cancer vaccines, oncolytic virus therapies and in vivo cancer gene therapies. The company provides clinical trials of GVAX(R) vaccines are under way in prostate cancer, lung cancer, pancreatic cancer, leukemia and myeloma.
+	['', 'therapeutic products', ' ', 'cancer treatment', '']

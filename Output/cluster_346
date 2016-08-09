@@ -1,27 +1,51 @@
-Foveon
-	Developer of an image sensor technology for digital capture products. The company offers pixel image sensors; and direct image sensors that captures color in three layers. It also serves prosumer, amateur and consumer markets and its core product is Foveon X3 which is a direct image sensor.
-	['', 'image sensor technology', ' pixel ', 'digital capture', ' camera']
-Viaken Systems
-	Provider of bioinformatics services.The company provides a research platform for its customers through its hosting platform which is called Viaken Informatics Environment. The company provides services to Genome Informatics, Chem Informatics and Pharmaco Informatics industries.
-	['', 'research software', ' ', 'life science industries', ' ', 'research platform', ' ', 'Genome Informatics', ' ', 'Chem Informatics', ' ', 'Pharmaco Informatics', ' ', 'bioinformatics services', '']
-Picasa
-	Provider of image organizer and image viewer or organizing and editing digital photos.
-	['', 'image organizer', ' ', 'image viewer', ' ', 'digital photo editing', ' ', 'photo editing', ' ', 'digital photos', ' ', 'multimedia organization', ' ', 'online images', ' multimedia']
-Aratana Therapeutics
-	Developer of biopharmaceutical technology for animals. The company develops proprietary, patent-protected compounds acquired from human pharmaceutical and biotechnology companies and then develops strategies to maximize the value of the programs for the animal health market.
-	['', 'animal health', ' ', 'animal care', ' ', 'pet care', ' ', 'animal medicine', '']
-YDreams
-	Developer of a patent-pending technology. The company develops full-scale interactive environments, products and intellectual property combining technology and design.
-	['', 'patent-pending technology', ' ', 'intellectual property', ' ', 'full-scale interactive environments', '']
-Scimagix
-	Provider of image informatics solutions for the pharmaceutical and biotech industries. The company offers proprietary and patent-pending technology for mining scientific images through visual information retrieval (VIR). This technology enables scientists to quantitatively extract, store and mine image data for the first time and has applications in all phases of the pharmaceutical new product cycle as well as other areas of the life sciences, medical and material science industries.
-	['', 'healthcare services', ' ', 'informatics solutions', ' ', 'visual information', '']
-Siimpel
-	Provider of optical micro systems solutions. The company offers Autofocus that corrects for variations in the distance to the object and variations in the lens with temperature; and Shutter that corrects for image distortion and/or blurring when objects are moving, as well as enables dark image subtraction for picture quality in low light conditions.
-	['', 'optical microsystems solution', ' ', 'MEMS sensor', ' ', 'MEMS platform technology', ' ', 'digital imaging', ' ', 'integrated micro-optical system', '']
-ALIS Corporation
-	Developer of scanning ion microscopes and imaging systems for the semiconductor and pharmaceutical sectors. The company created a helium ion technology that enables scientists to see at the atomic level with resolution and material contrast.
-	['', 'microscopes', ' ', 'imaging systems', ' ', 'semiconductor', '']
-Future Point Systems
-	Developer of visual information system (VIS) software to government and commercial organizations. The company provides a visual analytics platform that includes visual tools, such as VIS, an information visualization technology that provides data acquisition, information management and analysis capabilities; and XML Engineering Environment, a software solution that enables the development of custom information retrieval and processing. It also provides training, integration, and analysis support services through a network of strategic resellers.
-	['', 'visual analytic platform', ' ', 'data acquisition', ' ', 'visual tool', '']
+Magellan Technology
+	Provider of RFID (Radio Frequency Identification) technology and related services. The company manufactures advanced read and write 13.56 MHz RFID systems.
+	['', 'Radio Frequency Identification', ' ', 'wireless signals', ' ', 'wireless communication', '']
+Somark Innovations
+	Developer of chip-less radio frequency identification tattoos for animal identification. The company also provides inventory management IDs for automotive parts, documents and casino chips.
+	['tattoos ', 'radio frequency', ' ', 'animal identification', '']
+motionID technologies
+	Developer of radio frequency identification technology for mobile end-user and traffic infrastructure industry. The company provides a passive radio frequency identification technology that monitors the entrances and exits of parking garages or on-street parking areas.
+	['', 'touchless identification system', ' ', 'RFID tag', ' ', 'automation services', ' ', 'B2C applications', '']
+MaxStream
+	Provider of wireless modem networking products. The company specializes in providing wireless modem modules, stand-alone radio modems, radio frequency design services for electronic devices.
+	['', 'modem networking', ' ', 'stand-alone radio', ' ', 'radio frequency', '']
+ParkMe
+	Provider of parking information to navigation companies and consumers. The company\'s platform allows drivers to find a place to park based on location by providing a live map of available parking which includes parking rates, hours of operation, payment types and real-time occupancy information for on-street meters and off-street parking lots and garages.
+	['', 'parking information', ' ', 'parking availability', ' ', 'parking database', ' ', 'live map', ' parking']
+inCode Consulting
+	Provider of business strategy and technology consulting to telecommunications companies, handset and infrastructure vendors, and enterprises. The company offers business case analysis, hardware and software requirements, system integration, program management, and support services. It also provides customized mobile solutions for fleet, field service, field sales, supply chain, radio-frequency identification, WLAN and other enterprise wireless and mobility areas.
+	['', 'telecom advisor', ' ', 'strategy consultant', ' ', 'industry consultant', ' ', 'telecom consultant', ' ', 'technology consulting', '']
+Xterprise
+	Developer of radio frequency identification supply chain services. The company also offers RFID item-level inventory management and enterprise-class software applications for the retail market.
+	['', 'radio frequency identification', ' ', 'RFID services', ' ', 'enterprise software', ' ', 'enterprise asset management', '']
+SurgRx
+	Provider of tissue sealing and hemostasis systems for laparoscopic and open surgery. The company makes radio frequency-controlled tissue sealing device. It develops a proprietary nanotechnology designed to control the delivery of electrosurgical energy in vessel sealing instruments. Its product grasps, dissects, seals, and transects tissues; and provides a seal of vessels encountered during laparoscopic and open surgery.
+	['', 'open surgery', ' ', 'tissue sealing', ' ', 'hemostasis systems', ' ', 'laproscopic surgery', ' ', 'electrosurgical energy', ' ', 'vessel sealing', ' ', 'tissue transection', '']
+RF Surgical Systems
+	Developer of surgical sensor technology. The company provides a sensor system that uses radio-frequency (RF) technology to detect and ensure removal of missing sponges during surgical procedures.
+	['', 'surgical detection', ' ', 'surgical system', ' ', 'surgical detection system', ' ', 'medical waste', ' ', 'patient safety system', '']
+Flarion Technologies
+	Developer of orthogonal frequency division multiplex access (OFDMA) technology and FLASH-OFDM technology for mobile broadband Internet protocol (IP) services. The company makes radio-frequency base stations (RadioRouter) that enable mobile wireless carriers to offer high-speed data services to subscribers. It also licenses the FLASH-OFDM technology to facilitate the design of FLASH-OFDM enabled networks and computing devices, such as notebook PCs, handheld PCs, personal digital assistants, web tablets, and handsets.
+	['', 'broadband service', ' ', 'radio frequency station', ' ', 'FLASH-OFDM technology', ' ', 'wireless telecommunication product', '']
+Toumaz Technology
+	Developer of radio frequency, analogue and mixed-signal semiconductors. The company focuses on development of low power devices for mobile and wireless systems. The company was spun out of Imperial College.
+	['', 'semiconductors production', ' ', 'low power device', ' ', 'wireless systems', ' ', 'radio frequency', '']
+AeroScout
+	Provider of wireless asset tracking and monitoring services. The company provides Wi-Fi-based Active radio frequency identification (RFID) services.
+	['', 'Bluetooth chip manufacturer', ' ', 'wireless network', ' ', 'asset tracking', ' ', 'radio frequency identification', '']
+RF-IT Solutions
+	Provider of software and services for micro-chip non contact communication systems. The company provides radio frequency identification (RFID) software products which serves as a platform for system integrators, software manufacturers and operators, as well as supports RFID infrastructure ranging from smart labels to readers, barcode scanners, label printers and I/O devices.
+	['', 'software service', ' ', 'barcode scanner', ' ', 'system integrator', ' ', 'software manufacturer', ' ', 'technology consulting', '']
+Sierra Technologies
+	Designer and manufacturer of radio-frequency products and systems for military and civilian applications. The company is a defense contractor based in Buffalo, New York.
+	['', 'radio-frequency products', ' ', 'military products', ' ', 'defense products', '']
+Digital Payment Technologies
+	Developer of parking management technologies. The company engages in the design, manufacture, and distribution of multi-space parking meters, management software, and online services for the parking industry.
+	['', 'parking management technologies', ' ', 'parking meters', ' ', 'management software', ' ', 'multi-space parking meters', '']
+Lumidigm
+	Developer of identification technology based on optical skin tissue measurements. The company provides biometric identity management for civil identification (ID), point-of-sale, time and attendance, physical and logical access and portable electronic device applications.
+	['', 'identification biometric', ' ', 'fingerprint sensor identification', '  ', 'civil identification', ' ', 'verification optical', '']
+RapidBlue Solutions
+	Provider of retail data and offline shopper analytics. The company uses radio frequency technology to collect shopper movement information and then transforms the anonymous data into information and insights that retailers can use to manage the marketing, merchandising and operations of their businesses.
+	['', 'retail data', ' ', 'radio frequency', ' ', 'shopper movement', '']

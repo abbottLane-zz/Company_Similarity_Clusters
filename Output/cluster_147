@@ -1,36 +1,24 @@
-Health Month
-	Provider of social game around improving health habits. The company offers a game that allows users to improve their health habits by identifying their unhealthy eating habits and providing strategies for changing them.
-	['', 'social game', ' ', 'health habit', ' ', 'behavior change', '']
-Yvolver
-	Developer of a consumer-engagement platform for the gaming sector. The company develops a platform to increase retention, engagement and monetization for mobile game developers through loyalty techniques and predictive analytics.
-	['', 'player engagement', ' ', 'user retention', ' ', 'mobile monetization', ' ', 'predictive analytics', ' ', 'mobile gaming', '']
-5Rocks
-	Provider of business intelligence tools for mobile gaming developers. The company develops and provides analytics and marketing automation tools for mobile game developers.
-	['', 'mobile game', ' ', 'application developing tool', ' ', 'automation tool', '']
-Conker
-	Provider of management software for games companies. The company helps in optimizing game revenue using predictive behavioral analytics.
-	['', 'Player Experience Management', ' ', 'game revenue', ' ', 'predictive behavioral analytics', ' players ', 'online game', '']
-Applicasa
-	Provider of a management platform for game developers. The company provides a platform for mobile-game developers that is designed to handle the backend elements of business, with a full hosting service and tools for device synchronization, user\'s registration, analytics and virtual currency.
-	['', 'game developers', ' ', 'device synchronization', ' ', 'backend as a service', ' ', 'payment service', '']
-Cytheris
-	Developer of therapies for immune modulation. The company offers drugs focused for lymphopenic patients. The company\'s product helps to enhance the immune system of cancer and chronic viral patients.
-	['', 'immune modulation', ' oncology']
-Natratec International
-	Developer and manufacturer of organic protective emulsions. The company primarily focuses on producing emulsions which retain the freshness of fruits and vegetables and increase the egg hatching rate of poultry.
-	['', 'organic preservation', ' ', 'food freshness', ' ', 'agricultural product', '']
-Staq.io
-	Developer of an analytics product for game management. The company offers an analytics product that helps game developers understand how to retain and monetize engaged players.
-	['', 'analytics product', ' ', 'game developer', ' ', 'retain player', ' ', 'monetize player', ' ', 'game management', '']
-Kontagent
-	Provider of a hosted and on demand viral analytics platform for social network application developers. The company\'s social analytics and marketing automation platform enables casual game publishers and game developers to engineer viral growth and gain an understanding of the demographics of their user base.
-	['', 'data pattern visualization', ' ', 'analytic platform', ' ', 'social graph', ' ', 'retention tracking', ' ', 'revenue tracking', ' ', 'application monitoring', '']
-Z2
-	Developer of multiplayer and social gaming platforms for mobile devices and wireless networks. The company’s platform enables game developers to implement subscription based services, such as game lobbies, leader boards, invites, push notifications, achievements, NAT traversal, text chat, voice chat and presence. It also provides marketing support and analytic services.
-	['', 'social gaming platform', ' ', 'multiplayer gaming platform', ' ', 'game development', '']
-Namaste Entertainment
-	Provider of a platform for computer game developers. The company develops lets game developers add emotions and complex behaviors to game characters. It works alongside game studios to integrate a toolset into online games like MMORPGs.
-	['', 'game application', ' ', 'role playing game', ' ', 'tablet game', '']
-Wwg Worldwide Games
-	Publisher of browser games for game developers and content provider for media companies. The company\'s products are browser games like Rage of Storms, Desert Blitz, Nemexia, Kiez King and Pirates of Tortuga 2.
-	['', 'browser game', ' ', 'game developer', ' ', 'online gaming', '']
+Oberflex
+	Manufacturer of decorative laminated panels. The company provides range of panels for the arrangement of shops, offices, hotels, meeting rooms or shows as well as the decoration of private houses.
+	['laminates ', 'wood panels', ' veneers ', 'wood panels', ' laminboard ', 'particle board', ' ', 'fiber board', ' wood']
+SiteScape
+	Provider of Web-based business collaboration software and services. The company provides integrated Web based team collaboration and conferencing solutions for communication and program management of teams in business, government, and military organizations. Its solutions include calendar and meeting management, knowledge networks, partner management, program management, HR management, grants management, continuity of operations, bond offer management, and telework.
+	['', 'business collaboration', ' ', 'conferencing solution', ' ', 'program management', ' ', 'meeting management', ' ', 'knowledge network', ' ', 'partner management', '']
+LiveLoop
+	Developer of PowerPoint collaboration software. The company provides a platform that enables collaboration on PowerPoint presentations without requiring the PowerPoint software to be downloaded.
+	['', 'document collaboration', ' ', 'document sharing software', ' ', 'cloud-based software', ' powerpoint']
+Connectipity
+	Operator of a global collaboration platform for solving professional challenges. The company develops a digital platform that connects users with the right skilled people for immediate needs.
+	['', 'global collaboration', ' ', 'professional challenges', ' ', 'work spaces', ' ', 'management tool', '']
+Citizen Logistics
+	Developer of mobile-collaboration software. The company provides a platform enabling users to collaborate with others via SMS, IM, e-mail or Twitter. The platform contains map tools as well as tools for organizing teams by locations, interests and skills.
+	['', 'web service', ' ', 'mobile device', ' ', 'online community platform', '']
+Quindi
+	Developer of collaboration software allowing professionals and organizations to capture spoken information for easy recall and sharing.
+	['', 'collaboration software', ' ', 'project management', ' ', 'product development', ' ', 'information sharing', '']
+Meetings.io
+	Provider of group video conferencing and chat services. The company provide web application for chat with friends, co-worker without installing any software or signup with any social network.
+	['', 'group video conferencing', ' ', 'chat service', ' ', 'online video', '']
+Marratech
+	Developer of collaboration and communication software. The company offers e-meeting, video conferencing and collaboration software.
+	['', 'video conferencing', ' ', 'voice over Internet', ' ', 'collaboration tool', '']

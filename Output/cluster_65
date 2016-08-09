@@ -1,36 +1,30 @@
-Mediastay
-	Provider of an online advertising platform focusing on online games. The company provides a monetization platform that is used by 12 internally published games as well as third party games on the web or Facebook.
-	['', 'social games', ' ', 'published games', ' ', 'monetization', '']
-Tribal Nova
-	Developer of parent friendly virtual worlds and educational games for children. The company develops and markets educational online services and games for kids that stimulate preschoolers\' learning and curiosity.
-	['', 'virtual world', ' ', 'educational game', ' ', 'educational online service', ' ', 'social gaming', '']
-Com2uS
-	Developer of mobile games. The company specializes in titles like Heroes War, Tiny Pop and Tiny Farm.
-	['', 'mobile game', ' ', 'game developer', ' ', 'mobile entertainment service', '']
-Ayalogic
-	Developer of communication software for games. The company offers Qmunicate, a software solution that consolidates communications into one flow, as well as manages communications across personal computers, PBX-based telephones, and mobile phones; Green-Ear C++/Windows SDK, which helps to add voice enabling network functionality to custom engine games; and Green-Ear C++/Mac SDK, which helps users to voice enabling network functionality to Mac games.
-	['', 'communication software', ' ', 'mobile phone', ' ', 'network function', ' ', 'custom engine game', ' ', 'mac game', '']
-Art of Crime
-	Developer of riddle based online games for children. The company develops interactive games based on criminal cases for children and their families. Crimeville its newest game launched is a multiplatform, interactive detective riddles for the 6-12 demographic.
-	['', 'online games', ' ', 'interactive games', ' riddles']
-Infogami
-	Provider of a wiki application framework. The company\'s wiki platform is used to support the internet archive\'s open library project and the web.py web framework.
-	['', 'internet archive', ' ', 'wiki application', ' ', 'open library', ' ', 'platform application', ' ', 'web application', '']
-The B Equal Company
-	Developer of DVD games. The company helps to strengthen the bonds between children and parents by creating games that make learning a fun, interactive family event.
-	['', 'DVD games', ' ', 'family event', ' ', 'educative games', ' fun']
-Gamepot
-	Provider of an online gaming platform. The company provides online games through its web platform and mobile applications.
-	['', 'gaming platform', ' ', 'web game', ' ', 'platform software', '']
-Vollee
-	Provider of PC and console-quality games on 3G mobile devices with a development & porting process. Their hosted software platform is designed to enable intelligent adaptation and real-time delivery of commercial games.
-	['', 'video gaming', ' ', 'porting process', ' ', 'intelligent adaptation', '']
-Games Workshop
-	Manufacturer of games. The company manufactures metal figures and games and engages in the distribution of these products.
-	['', 'games manufacturer', ' ', 'metal figures', ' distribution']
-Enigma Software Productions
-	Developer of real-time strategy games. The company provides games of different genres across multiple platforms.
-	['', 'IP Incubation', ' ', 'online games', ' ', 'Development and Porting', '']
-R-coms
-	Creator of custom web communication products. The company works with clients to create products for the Web, including games, websites or social-discovery applications, focusing on the client’s target audience.
-	['', 'location based', ' ', 'dating application', ' ', 'web communication product', '']
+Quidsi
+	Operator of an online retail shop for baby care, health, beauty, and household essentials. The company offers diapers, baby food, juices, nutritional supplements, snacks, cereal, toys and books, and clothing and shoes; and feeding and nursing, bath and skin care, safety, gear, and nursery products, as well as products for moms and maternity.
+	['', 'baby care', ' ', 'household essential', ' ', 'online retail shop', '']
+EcoMom
+	Operator of an online shopping portal that recommends and sells eco-conscious products for children. The company offers baby care, holiday, bath and body, feeding and nursing, and health and wellness products, as well as organic baby food, toys, books, clothing and gifts.
+	['', 'online shopping portal', ' ', 'eco conscious product', ' ', 'baby care product', '']
+CouchCommerce
+	Provider of a platform to create shopping applications for online retailers. The company\'s cloud-based platform is designed to be a turnkey solution for generating online shop Web applications for tablets, smartphones and smart TVs. Shop data is sourced via pre-integration into shop systems or extensions to be installed in existing open source shop systems.
+	['', 'online shops', ' ', 'web application', ' ', 'Saas platform', '']
+AVENT Holdings
+	Provider of baby feeding and monitoring systems including breast pumps, milk storage containers, breast comfort items, feeding bottles and nipples, baby monitors, toddler feeding supplies and baby food preparation appliances.
+	['', 'baby feeding', ' ', 'breast pump', ' ', 'nipple protectors', ' ', 'baby monitor', ' ', 'sippy cup', ' ', 'feeding bottles', ' ', 'baby products', ' ', 'new mother products', ' ', 'breast feeding', ' ', 'bottle feeding', ' ', 'baby food preperation', '']
+Coyuchi
+	Retailer of home textiles. The company designs and markets products made from certified organic cotton, including bedding, bath linens, pajamas and robes and baby items. The company also has added linen and cashmere items to its collection. The company sells its products online, as well as from two storefronts.
+	['bedding ', 'bath linens', ' ', 'baby items', ' cotton cashmere linen organic']
+Casabu
+	Operator of an online flash sales site. The company focuses on maternity and child products including clothing, toys, nursery equipment, maternity gear and treats for mothers.
+	['', 'online flash sales', ' ', 'online site', ' ', 'online store', ' ', 'children’s brand', '']
+Beijing Redbaby Internet Technology Co.
+	Operator of an eCommerce platform. The company offers baby care and maternity products in China. Its product includes baby food, diapers and toys, cosmetics, packaged milk and nutritional supplements.
+	['', 'ecommerce platform', ' ', 'consumer durables', ' ', 'baby food', '']
+Citrus Lane
+	Provider of an online subscription service for baby and children\'s products. The company provides a monthly package of products, including toys and product samples, for parents to share with their children. The service also provides a brand-recognition channel for manufacturers of products included in the packages.
+	['', 'electronic commerce', ' ', 'baby product', ' ', 'baby care', '']
+BabyCenter
+	Provider of pregnancy and parenting information online. The company provides advice on various issues, such as getting pregnant, pregnancy, babies, toddlers, preschoolers and big kids. It also provides various tools, such as pregnancy/baby calendar, baby name finder, due date calculator, pregnancy weight gain estimator, product recall finder, packing list for hospital or birth center, average fetal length and weight, birth clubs and pregnancy food diary.
+	['', 'parenting information', ' ', 'pregnancy information', ' ', 'pregnancy calendar', ' ', 'pregnancy food diary', '']
+Urban Brand
+	Provider of an online shop for baby products. The company is an online retailer and flash sales platform for baby and children\'s products in Germany.
+	['', 'baby product', ' ', 'baby food', ' ', 'baby care specialty', '']

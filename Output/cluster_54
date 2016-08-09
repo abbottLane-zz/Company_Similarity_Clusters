@@ -1,39 +1,27 @@
-Planfortytwo
-	Provider of sports gaming applications. The company builds sports-related social applications for Facebook and mobile devices designed to gamify the sports fan experience.
-	['', 'gaming software', '']
-Sportamore
-	Operator of an e-Commerce company involved in selling sports related equipment. The company provides shoes, clothes, bags and apparel from well known brands such as Nike, Adidas, Puma and Converse.
-	['', 'sports equipment', ' Nike Adidas apparel']
-American Sports Products Group
-	Provider of sports and recreation infrastructure facilities. The company designs, manufactures, and installs various kinds of sports surfaces. The company\'s surfaces include synthetic and natural grass playing fields for sports, such as football and soccer, as well as running tracks and indoor gymnasium floors.
-	['', 'sports infrastructure', ' ', 'infrastructure', '']
-TVGenesis
-	Provider of the digital broadcast platform. The company provides digital broadcast platform, engaging audiences across premium lifestyle channels. The company\'s network covers fashion and entertainment, healthy living, food and drink, sports, gaming, and custom programming channels.
-	['', 'digital broadcast', ' ', 'lifestyle channel', ' ', 'media platform', ' ', 'fashion and entertainment', '']
-Vaillant Stadium Limits
-	Developer of equipment for tracing boundaries. The company has designed and developed a system of tapes, reels and clips to create and maintain boundaries of a sports field.
-	['tapes reels clips ', 'tracing boundaries', '']
-KB Labs
-	Developer of facebook applications. The company develops Facebook applications and widgets.
-	['', 'facebook application', ' ', 'application development', '']
-RecBob
-	Provider of a facebook application that manages adult sports league teams. The company offers a platform that makes recreational sports easy by organizing play.
-	['', 'facebook application', ' ', 'adult sport league', ' ', 'sports team', ' ', 'organizing play', '']
-Swink
-	Provider of sports media network. The company\'s website provides video service that cuts sports game films into individual plays, indexes each play and stores them in its database for sports teams and individuals to share their sports highlights with their teams, friends and fans.
-	['', 'sport media', ' ', 'video service', ' ', 'sport highlight', '']
-NuCom Online International Company
-	Provider of a sports portal. The company operates a sports portal and broadcasts live sports matches and sports programmes.
-	['', 'sports programs', ' ', 'sports portal', ' ', 'sports forum', ' ', 'sports broadcast', '']
-Enthuse
-	Provider of mobile focused platform for sports franchises. The company offers an online platform that gives fans the ability to connect with their sports teams via their mobile devices.
-	['', 'mobile device', ' ', 'sport platform', ' ', 'online connection', '']
-numberFire
-	Provider of a sports analytics platform to predict and analyze sports performance. The company develops technology that helps players to use mathematical modeling tools and algorithmic analysis to understand, analyze and predict their team performance.
-	['', 'quantitative analysis', ' ', 'statistical reasoning', ' ', 'sports statistics', ' ', 'sports performance', '']
-FantasyBook
-	Developer of sports applications for social networks. The company offers live drafts, free live scoring, and mobile access for football games; and salary cap baseball game to the casual fan.
-	['', 'sport application', ' ', 'live scoring', ' ', 'football mobile access', ' ', 'internet application', '']
-51pegasi
-	Provider of a software for sports event production management. The company provides sports event production management software to event organizing committees, integrators, operators, sponsors, International Sports Federations and related media companies.
-	['', 'legacy integration', ' ', 'sports management', ' ', 'production management software', ' ', 'software application', '']
+Empowered Careers
+	Provider of online education services. The company has partnered with the University of California, Los Angeles extension program to offer courses specifically for professionals going back to school for professional development or a new career. It offers counseling in career guidance, online courses and assistance with the job search process.
+	['', 'education service', ' ', 'online education', ' ', 'training service', ' ', 'career change', '']
+Lore
+	Provider of a cloud-hosted education service for instructors to manage courses and engage their students. The company offers tools for gradebook, file management, communication and calendaring with social networking features that enable students to communicate with each other.
+	['', 'online education', ' ', 'education platform', ' ', 'online course', ' ', 'course management', ' ', 'file management', '']
+Cloudup
+	Provider of an online education platform that provides classrooms with collaborative real-time tools, interactive communities, shared content, educational applications, and classroom management solutions. The company also provides administrative tools to manage students, classes, and teachers through a permissions system.
+	['', 'education platform', ' ', 'interactive community', ' ', 'educational application', ' ', 'classroom solution', ' ', 'administrative tool', '']
+Guroo
+	Provider of an online education platform. The company provides online and offline learning resources including videos to engage students in the learning tasks.
+	['', 'online education platform', ' ', 'education platform', ' ', 'online learning resource', '']
+Zinch
+	Operator of web site that allows students to post profiles for recruitment into colleges and universities. The company helps colleges to find and recruit students looking for undergraduate, transfer and graduate school opportunities, as well as enables admissions officers to interact with students.
+	['', 'college recruitment website', ' ', 'student recruiting', ' ', 'student interaction', '']
+Hoot.Me
+	Provider of an application that includes video communications which enables students to get help on homework via Facebook.
+	['', 'social networking', ' ', 'video communication', ' ', 'interactive knowledge network', '']
+Collegefeed
+	Developer of a social platform for students and employers. The platform offers a Facebook-like news feed where students can access tuition help, job opportunities, interview-preparation help and access to alumni and mentors. It connects employers with students as they progress through school as opposed to forcing decisions through short interviews, career fairs and campus visits.
+	['', 'job opportunity', ' ', 'job seeking platform', ' ', 'digital platform', '']
+Zoji
+	Developer of a network of users that incorporates reviewing and social networking features for the internet community. The company aims to make invitations social with various web 2.0 features for users creating invites.
+	['', 'photo sharing', ' ', 'photo tagging', ' ', 'internet community', ' ', 'restaurant review', ' ', 'social networking', '']
+Instructure
+	Provider of a cloud-based learning management system. The company offers tools for instructors and students that are designed to integrate drag-and-drop file uploaders, HTML 5 video, automatic speech-to-text conversion applications, as well as Web 2.0 tools and social media platforms. It also provides an index of online courses.
+	['', 'learning management system', ' ', 'education technology', ' ', 'education software', '']

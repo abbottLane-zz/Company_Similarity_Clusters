@@ -1,21 +1,15 @@
-SugarSync
-	Provider of cloud file sharing, online Backup & file sync service. The company provides services such as data sync, file sharing and online backup system through its business software for busy professionals and digitally-connected consumers.
-	['', 'business service', ' ', 'online backup', ' ', 'folder sharing', '']
-Mobiliti
-	Developer of software for virtual networking, data backup and file synchronization for desktops and laptops.
-	['', 'virtual networking', ' ', 'data backup', ' ', 'technology solution', '']
-Lasso Logic
-	Provider of data protection software. The company\'s product CDP includes local and off site backup, file sharing, recovery features and administration for desktops, mobile PCs and servers.
-	['', 'data protection software', ' ', 'file sharing platform', ' ', 'data recovery', '']
-Backupify
-	Provider of online data backup services. The company\'s service enable users to protect their pictures, videos, documents and blog posts.
-	['', 'online data backup', '  ', 'information management', ' ', 'backup service', '']
-CyberSynchs
-	Provider of data synchronization services. The company\'s products provide data backup, data transmission and video streaming over the internet across independent devices and operating systems.
-	['', 'data synchronization', ' ', 'video streaming', ' ', 'wireless synchronization', ' ', 'digital content', ' ', 'data transmission', '']
-AGILEci
-	Provider of an online application for data analytics and insight propositions for sales and marketing users. The company offers a secure Web browser application that works on desktops, laptops and tablets which helps enterprises to know their customers.
-	['', 'data analytic', ' ', 'Web browser application', ' astute ', 'insight proposition', '']
-SNRLabs
-	Developer of software for smart phones and mini laptops. The company offers SNRLabs Convergence Manager, a software that incorporates multiple radios, such as GSM and WiFi, WiMAX and WiFi and 3G and WiFi.
-	['', 'smart phone software', ' ', 'mini laptop software', ' ', 'multi radio device', ' ', 'mobile software', '']
+LeftHand Networks
+	Provider of flexible IP-SAN network storage solutions. The company also offers evaluation software, such as SAN/iQ software and virtual SAN appliance, which aggregate disparate resources into a single, larger storage system. It offers iSCSI SANs that are composed of multiple storage nodes, pooled together into a single storage system; integrated storage systems; and virtual storage systems.
+	['', 'storage solution', ' ', 'san application', ' ', 'virtual application', ' ', 'storage system', ' ', 'storage node', ' ', 'virtual storage system', '']
+XtremIO
+	Developer of solid-state drive data storage systems. The company develops platform that will help shared storage environments with performance improvements, utilization of IT resources and a low capital investment. XtremIO’s solutions are designed to deliver performance in Enterprise storage environments, while addressing existing storage device limitations and data network connectivity challenges.
+	['', 'solid state drive', ' ', 'data storage system', ' ', 'enterprise storage', ' ', 'data network', ' ', 'enterprise solutions', ' ', 'data storage', '']
+VYCON
+	Manufacturer of flywheel energy storage systems. The company’s REGEN flywheel systems, used in power applications such as container cargo handling crane applications and light electric rail.
+	['', 'energy storage system', ' ', 'cargo handling', ' ', 'energy manufacturer', '']
+Silicon Graphics
+	Developer of servers and data storage systems. The company develops, markets and sells a broad line of servers and data storage systems, as well as differentiating software.
+	['', 'Data Analytic', ' ', 'Data Center Technology', ' ', 'HPC Software', '']
+4Blox
+	Provider of a family of software components used to expand CPU processing capacity in internet small computer systems interface (iSCSI) storage area networks. The company offers 4Mezzo suite, a product line of software accelerators to reduce host CPU processing overhead associated with iSCSI in standalone and virtual machines; 4Mezzo Plus Target, an iSCSI target add-on for commodity operating systems, which incorporates 4Blox acceleration techniques; and 4Mezzo Plus Initiator, an iSCSI initiator add-on for commodity operating systems, which incorporates 4Blox acceleration techniques for small to medium sized businesses. It’s software is also available for standalone OSes or iSCSI storage area network solutions from original equipment manufacturers, value added resellers, value added distributors, and independent software vendors.
+	['', 'software accelerator', ' ', 'server visualization', ' ', 'system integrator', ' ', 'commodity operating system', '']

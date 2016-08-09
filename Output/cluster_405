@@ -1,24 +1,15 @@
-Giftly
-	Developer of a mobile gifting application. The company providers online gift cards through digital and mobile commerce. It allows users to create a customized gift card.
-	['', 'gift card', ' ', 'gift idea', ' ', 'online gift card', ' ', 'gift card market', ' ', 'mobile gifting application', ' ', 'digital card', '']
-One4all Gift Cards
-	Creator of national multi-store gift voucher and gift card. The company supplies gift cards and gift vouchers in the public and corporate market.
-	['', 'reward scheme', ' ', 'incentive scheme', ' ', 'gift card', ' ', 'gift voucher', ' gift']
-GetGifted
-	Developer of a merchant based gifting platform. The company offers a platform for merchants to introduce themselves to local consumers with a gift, which the users can redeem in store through their smartphone.
-	['', 'gifting platform', ' ', 'merchant based service', ' ', 'local consumer', '']
-Analog Analytics
-	Provider of an online, mobile, print and alternative media coupons and gift certificates for local publishers and advertisers. The company also provides interactive display coupons and gift certificates; coupons and gift certificates for interactive display, mobile text, print, TV, motion pictures, radio and billboards; integrated mobile telephony platform with content delivery and optimized local search from handsets; and self service coupon and gift certificate content management and marketing; and comprehensive analytics and reporting services.
-	['', 'mobile telephony platform', ' ', 'gift certificate', ' ', 'interactive display coupon', '']
-Pix.com
-	Retailer of digital imaging products. The company sells online gift items personalized with digital images.
-	['', 'digital imaging', ' ', 'online gifts', ' graphics ', 'picture gifts', '']
-Plastic Jungle
-	Operator of an online gift-card exchange. The company provides a platform enabling customers to swap, exchange or convert their unwanted gift cards into airline miles or shopping points at various retailers.
-	['', 'preloaded gift card', ' ', 'online trading', ' ', 'gift card', '']
-Concord Industries
-	Manufacturer and supplier of corporate identity, promotional and gift items. The company manufactures a line of products including leather goods, briefcases, portfolios, business card holders, travel accessories, bags, wallets, purses, and key tags.
-	['', 'gift items', ' ', 'luxury goods', ' ', 'travel accessories', ' ', 'promotional goods', ' ', 'leather goods', '']
-Camdens
-	Operator of an online gift store. The company targets the upscale corporate gift market. It offers wines, gourmet foods and other executive business gift items.
-	['', 'corporate gift', ' ', 'online gift', ' ', 'gift retailer', '']
+Educational Holdings
+	Provider of educational products. The company\'s products are designed to provide and promote science and math education as well as reading literacy for children in PreK through 3rd grade.
+	['', 'educational products', ' math ', 'reading literacy', '']
+VividLogic
+	Provider of Home Entertainment Software for HDTV and HD STB. The company\'s comprehensive software infrastructure and applications for HDTV cover the basic ATSC software stack, Cable Card software and the next generation OCAP software and related OCHD 2.0 software.
+	['', 'home entertainment', ' ', 'high definition TV', ' ', 'set top box', '']
+ByteShield
+	Developer of software activation management solutions for personal computer games. The company products control software piracy for personal computer application software and game publishers. It provides Digital Rights Management or Copy Protection software products.
+	['', 'software activation management', ' ', 'software piracy control', ' ', 'personal computer game', ' ', 'digital rights management', '']
+Neverfail
+	Provider of data protection and disaster recovery software. The company develops software solutions that enable users to remain continuously connected to the live software application irrespective of hardware, software, operating system or network failures.
+	['', 'data protection', ' ', 'security software', ' ', 'disaster recovery', ' ', 'disaster recovery software', '']
+Previo
+	Provider of software products designed to provide personal computer recovery from software virus or hacker attacks, software failures or glitches, thefts, losses, and broken equipment.
+	['', 'software product', ' ', 'computer recovery', ' ', 'hacker attack', ' ', 'software failure', ' ', 'broken equipment', '']

@@ -1,9 +1,36 @@
-Big Sky Bread
-	Provider of breads and baked goods. The company is a local bakery that sells whole-grain bread, granola and cookies.
-	['granola bread ', 'organic wheat', ' ', 'micro bakery', '']
-Barton Nelson
-	Manufacturer of advertising and promotional specialty goods. The company offers name badges, sticky notes, flags, pads and flag booklets, custom imprinted flag dispensers, cubes and note holders, lenticular items, magnets, desk calendars, desk pads, note planners and journals, scratch pads, memo books, rulers, bookmarks, door hangers, mailers, vinyl three ring binders, vinyl note pad folders, and vinyl document holders and cases. It serves financial institutions.
-	['', 'specialty goods', ' ', 'stationary goods', ' ', 'commercial products', '']
-Pains & Tradition
-	Provider of baked and frozen breads. The company primarily focuses on providing various types of breads and baked rolls.
-	['', 'baked breads', ' ', 'frozen breads', ' breads']
+Higher One
+	Provider of technology and payment services to the higher education industry. The company provides student refunds, on-campus and community purchases, payroll and employee expenses, as well as the collection of payments from students, parents, and sponsors.
+	['', 'higher education', ' education ', 'student refund', ' ', 'community purchase', ' payroll ', 'payment collection', '']
+Knowledge Management Systems
+	Provider of communication services for the educational sector. The company engages in promotion of British Universities and advises students in selecting the right course and Universities.
+	['', 'communication service', ' ', 'British Universities', ' ', 'right course', '']
+Beijing Yi Tong World Culture Media
+	Provider of online education services. The company provides education services and helps its students develop extra curricular activities through its schools in Beijing, Shanghai and Shenzhen and other cities of China.
+	['', 'online education', ' ', 'extra curricular activity', ' ', 'education service', '']
+Macmillan New Ventures LLC
+	Provider of a virtual online science labs for secondary schools and higher education institutions. The company\'s online laboratory contains over 100 interactive lab simulations that are utilized by secondary and higher education institutions in the United States and abroad.
+	['', 'simulation technology', ' ', 'science education', ' ', 'laboratory simulation', ' ', 'online education', ' ', 'online science lab', ' ', 'online laboratory', '']
+Boundless Learning
+	Provider of e-learning services. The company offers online educational content for students, educators, and self-learners. It focuses on higher education.
+	['', 'e-learning service', ' ', 'educational content', ' ', 'reinventing textbook', '']
+Homeworkcentral.com
+	Provider of knowledge links on the web. The company is an online learning destination for parents, educators and students from kindergarten through college.
+	['', 'knowledge link', ' ', 'online learning', ' ', 'learning destination', '']
+LingleOnline
+	Operator of an online educational platform. The company provides an online learning platform which allows English language teachers and learners to generate learning materials from news articles.
+	['', 'English language learning', ' ', 'lesson plan', ' ', 'language processing', '']
+Collegis
+	Provider of education, business and technology services to higher education institutions. The company provides services that help in improving the delivery of education, increase student recruitment and retention and increase revenues while stabilizing and reducing costs.
+	['', 'education services', ' ', 'higher education institutions', '']
+Skillboost Project
+	Provider of an e-learning platform for young soccer players. The company offers an online training system for sports and also features moves and dribbles from different angles through 3D visualization on web and smartphones.
+	['soccer ', 'e-learning platform', ' ', 'online sports training', ' ', 'sport training', '']
+Totombola
+	Provider of an automated tool for creating and managing viral promotions through various social channels. The company offers an online platform to create different types of campaign (sweepstakes, photo contests and discount coupons) for different targets. These campaigns are self-managing and self-configuring.
+	['', 'viral promotion', ' sweepstake ', 'photo contest', ' ', 'discount coupon', ' ', 'social channel', ' coupon']
+MediaSeek Technologies
+	Provider of educational internet tools, technology and services.  The company provides education information management for educators, K-12 students, parents, adult students, business professionals and others requiring educational materials.
+	['', 'curriculum orchestrator', ' ', 'correlation search technology', ' ', 'educational resources', ' ', 'educational content', '']
+Teach the People
+	Provider of a platform for online education. The company serves as a Facebook application that lets anyone with specific subject knowledge or a useful skill set share it by setting up a Teach the People learning communities with 1gig of free storage. The learning communities provide educators and students with all the standard learning management system tools that are standard on existing systems (Blackboard, Moodle) and some not so standard like video chat and VOIP.
+	['', 'Online Education', ' ', 'Facebook Application', '']

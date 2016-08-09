@@ -1,21 +1,39 @@
-MakeMeReach
-	Provider of applications for social media marketing. The company offers a platform for advertisers and agencies to create, manage and optimize marketing campaigns on Facebook and Twitter.
-	['', 'marketing campaign', ' ', 'social media advertising', ' ', 'mobile marketing platform', '']
-Seolab
-	Operator of a social media marketing agency. The company develops and sells search engine optimization (SEO) services and social media marketing campaigns.
-	['', 'social media', ' ', 'web marketing', ' ', 'search engine', '']
-Selectable Media
-	Provider of a experience, resources and service to help brands connect with engaged audiences. The company\'s technology enables its users to reach their exact audience with video commercials in a new media environment.
-	['', 'connecting platform', ' ', 'online media', ' ', 'video inventory', '']
-theAudience
-	Provider of social media distribution platform. The company provides content for Twitter, Facebook and other social media outlets that helps brands to connect with online influencers and customers for targeted marketing campaigns.
-	['', 'marketing and advertisement', ' ', 'online marketing campaign', ' ', 'digital marketing platform', '']
-Aux Interactive
-	Provider of interactive agency through social media marketing and surrounding technologies. The company focuses on delivering metrics driven consumer and enterprise engagement through social media marketing and surrounding technologies. the company engages its customers at a level by building scalable applications that integrate into the social technology platforms like Facebook, iPhone, MySpace, LinkedIn, and Twitter.
-	['', 'social content', ' ', 'interactive agency', ' ', 'online discussion board', '']
-SponsorHub
-	Provider of a social media measurement tool. The company provides enterprise-grade software tools to help brands measure their most important sports and entertainment campaigns.
-	['sponsorship ', 'social-media measurement tool', ' ', 'enterprise-grade software', '']
-Vigill Alerts
-	Provider of communication platforms for customer communications and marketing campaigns. The company allows mobile application publishers and developers to deploy two-way customer communications and marketing campaigns through their mobile applications. The company\'s platform also helps users to send updates, get feedback, ask questions, create polls and deliver offers for their marketing campaigns.
-	['', 'communications platform', ' feedback ', 'marketing campaign', ' ', 'create poll', '']
+GLYCART Biotechnology
+	Developer of antibody based products for the treatment of unmet clinical needs such as cancer. The company focuses on the development and commercialization of a new generation of antibody products based on its proprietary GlycoMAb technology.
+	['antibody ', 'antibody products', '']
+Centocor
+	Developer of monoclonal antibody technology. The company develops monoclonal antibody-based products for cardiovascular and autoimmune diseases, cancer and inflammation.
+	['', 'monoclonal antibody technology', ' ', 'autoimmune disease', ' biopharmaceutical']
+SuppreMol
+	Developer of therapeutics for the treatment of autoimmune diseases and allergic diseases. The company is focused on development of soluble Fc-gamma receptors (FcyRs), which are recombinant autologous therapeutic proteins with a specific immunoregulatory potential.
+	['', 'therapeutic device', ' ', 'autoimmune disease', ' ', 'therapeutic protein', '']
+FivePrime Therapeutics
+	Developer of protein and antibody therapeutics. The company\'s products include protein based therapeutics for oncology, metabolic disease, type II diabetes, acute myocardial infarction, intestinal bowel disease and infectious diseases and cancer immunotherapy disease areas.
+	['', 'antibody therapeutic', ' ', 'cancer immunotherapy', ' ', 'protein therapeutic', '']
+Cyrenaic Pharmaceuticals
+	Developer of drugs for schizophrenia and bipolar disorder. The company is focused on the development of CYR-101, an innovative antipsychotic for the treatment of schizophrenia.
+	['', 'schizophrenia treatment drug', ' ', 'bipolar disorder treatment', ' ', 'drug development', '']
+Arbutus Biopharma
+	Provider of ribonucleic acid (RNA) interference therapeutics and lipid nanoparticle delivery technology to pharmaceutical partners. The company focuses on the development of internal product candidates that include apolipoprotein B (ApoB) SNALP for the treatment of high cholesterol and polo-like kinase 1 (PLK1) SNALP for the treatment of cancer.
+	['', 'RNA interference therapeutics', ' ', 'lipid drug delivery', ' ', 'high cholesterol treatment', ' ', 'therapeutic device', '']
+Affomix
+	Developer of antibody-based products.
+	['', 'antibody screening', ' ', 'antibody product', ' ', 'antibody preparation', '']
+Arana Therapeutics
+	Provider of biotechnology services. The company is focused on the development of antibody and peptide products for the treatment of inflammatory diseases and cancer.
+	['', 'inflammatory diseases', ' ', 'peptide products', ' ', 'research services', '']
+BioInvent
+	Developer of antibody-based drug therapies for the treatment of cancer. The company has a pipeline of three proprietary antibodies focused on treatment for multiple myeloma, non-Hodgkin lymphoma and medulloblastoma.
+	['', 'antibody drugs', ' ', 'drug developer', ' ', 'multiple myeloma', ' ', 'non-Hodgkin lymphoma', '']
+NaniRx Therapeutics
+	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
+	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
+Automated Cell
+	Developer of antibody therapeutic antibodies for the treatment of oncology and immune disease. The company is focused on the development of monoclonal antibody therapeutics for the treatment of cancer.
+	['', 'antibody therapeutic', ' ', 'therapeutic treatment', ' ', 'oncology disease', ' ', 'immune disease', ' ', 'monoclonal antibody', '']
+Applied Genomics
+	Developer of targeted genomics-based diagnostic and therapeutic antibodies for the treatment of human cancer. The company\'s products include Mammostrat which is an immunohistochemistry breast cancer prognostic test, Mammotax which is a single antibody immunohistochemistry test, Pulmotype is a five antibody immunohistochemistry aid for the classification of non-small cell lung cancer and Pulmostrat is a seven antibody prognostic immunohistochemistry test.
+	['', 'human cancer', ' ', 'therapeutic antibodies', ' ', 'diagnostic devices', '']
+GITR
+	Developer of oncological therapies. The company is developing TRX518, a humanized monoclonal antibody that is reactive with the glucocorticoid-induced tumor necrosis factor receptor (GITR), for the treatment of cancer.
+	['', 'chemotherapeutic treatment', ' ', 'tumor markers', ' ', 'T cell', '']

@@ -1,18 +1,24 @@
-Pillkey Productions
-	Creator of a medication-management device. The company\'s device provides provides users with information about the medication they are taking, as well as scheduling when they should take it.
-	['', 'pill scheduler', ' ', 'medication managing', ' ', 'pill information', ' ', 'medical services', '']
-ultraBridge
-	Provider of a technology service to the long term care industry. The company provides its clients with a management service to their data and business reporting needs using outsourcing.
-	['', 'technology service', ' ', 'care industry', ' ', 'management service', '']
-American Transitional Hospitals
-	Provider of long-term specialty transitional care. The company provides transitional care facilities for subacute patients.
-	['', 'transitional care', ' ', 'specialty care', ' ', 'subacute patients', '']
-Trinity Security
-	Supplier of security, fire and communications technologies for commercial, institutional and governmental facilities.
-	['fire security technology']
-Daverci
-	Provider of electronic medication management systems. The company\'s system provides long-term care facilities and institutional pharmacies that supplies them.
-	['medication tracking ', 'design support', '']
-Sage Electrochromics
-	Manufacturer and seller of insulating glass units and control systems to window and skylight manufacturers. The company also provides windows, skylights, and curtain walls for commercial and institutional buildings. It offers its products to owner-occupied office spaces, museums, libraries, art galleries, health care facilities, religious facilities, aviation facilities, high-tech or image buildings, and atriums and overhead daylight openings.
-	['', 'insulated glass', ' ', 'curtain walls', ' skylight ', 'overhead daylight', '']
+Bright View Technologies
+	Developer of microstructure-based optical films. The company offers LCD backlight films; light management film product line for solid state lighting; contrast enhancing products for PDP and OLED applications; and GIGASCREEN product line for front and rear projection applications.
+	['', 'optical film', ' ', 'microstructure-based optical film', ' ', 'LCD backlight film', ' ', 'light management film', ' ', 'solid state lighting', '']
+ShowBiz Data
+	Provider of a B2B portal for the global entertainment industry. The company provides detailed information about the film industry by capturing domestic and international box office news.
+	['', 'media information', ' ', 'BRB portal', ' ', 'box office', '']
+Frontera Films
+	Operator of a film studio. The company produces independent feature films in a range of genres, then turns the finished product over to a film distributor for domestic and international release.
+	['', 'film making', ' ', 'independent films', '']
+Ocean Films
+	Provider of financial services to the film industry. The company primarily engages in the production of films and documentaries.
+	['', 'movie producer', ' ', 'film producer', ' ', 'film production', ' ', 'movie production', ' documentary']
+ItsontheGrid.com
+	Provider of information on the feature film development business to entertainment industry professionals as well as aspiring filmmakers and screenwriters.
+	['', 'database management', ' ', 'film business', ' ', 'entertainment community', '']
+Imagination Fx
+	Operator of a special effects studio. The company also provides products such as movie production cameras, optical printing cameras, animation cameras, telecine and film scanning machines, optical printers and projectors for screening films.
+	['', 'special effects studio', ' ', 'special effects', ' ', 'optical printing cameras', ' ', 'animation cameras', ' ', 'film scanning machines', ' electronics']
+Withoutabox
+	Provider of independent film community. The company focuses on independent film and artists.
+	['', 'online service', ' film artist']
+Lance Entertainment
+	Distributor of online and offline videos, focusing on crime drama and murder mystery genres. The company acquires, positions, packages and releases on DVD previously produced films and mini-series.
+	['', 'online video', ' ', 'offline video', ' ', 'crime drama', ' ', 'murder mystery genre', ' ', 'produced film', '']

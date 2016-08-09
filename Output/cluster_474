@@ -1,27 +1,21 @@
-VMX
-	Designer and manufacturer of communication equipment used for business conference presentations. The Company\'s systems are assembled in the form of video displays and peripheral systems.
-	['', 'communication equipment', ' ', 'video displays', ' ', 'peripheral systems', ' ', 'business conference', '']
-Innovative American Technologies
-	Manufacturer of advanced radiological sensor systems, alternative energy systems, mocro and nano sensor systems applied to homeland security and commercial applications. The company offers a variety of radiation detection systems for cargo inspection incuding mobile systems and digital radiation portal monitors  and has partnered with Cargotec Port Security to provide radiation detection equipment for crane based systems.
-	['', 'security services', ' ', 'nano technology', ' ', 'radiological sensor systems', ' ', 'neutron detector system', '']
-VYCON
-	Manufacturer of flywheel energy storage systems. The company’s REGEN flywheel systems, used in power applications such as container cargo handling crane applications and light electric rail.
-	['', 'energy storage system', ' ', 'cargo handling', ' ', 'energy manufacturer', '']
-Meptek
-	Manufacturer of ventilation systems. The company provides ventilation systems for homes, office and commercial buildings. Its products include air diffusers, cooker hoods, ceiling fans and ventilation systems.
-	['', 'heat exchange', ' ', 'climate system', ' ', 'ventilation systems', '']
-AIXUV
-	Provider of XUV and EUV exposure technologies. The company develops and produces compact, user friendly EUV radiation sources for laboratory applications as well as customer-specific EUV systems. It offers research and development services and components with respect to the use of short-wave radiation. The company was spun out of RWTH Aachen University.
-	['XUV EUV ', 'metrology systems', ' lamps Reflectometry']
-Secumatic
-	Developer of automatic door sensors. The company is a supplier of detection systems for entrance (automatic doors), temperature (non-contact devices for industrial settings), and care applications (nursing settings and hospitals).
-	['', 'detection system', ' ', 'door sensor', ' ', 'sliding door', ' ', 'security door', ' ', 'security access', '']
-SENSeOR
-	Designer and developer of complete sensor systems for measuring physical quantity or determining the presence of chemical species or biological molecules. The company\'s products allow the development of new applications by using the principle of surface acoustic wave.
-	['', 'sensor systems', ' ', 'chemical species', ' ', 'biological molecules', '']
-Molecular Imprints
-	Provider of nanopatterning systems and solutions for hard disk drive. The company manufactures nano-lithography systems for 3-dimensional pattern replication.
-	['', 'nanopatterning system', ' ', 'imprint lithography', ' ', '3-dimensional printing', ' ', 'optical lithography tool', ' semiconductor']
-Raysearch Laboratories
-	Developer of software for cancer radiation therapy. The company\'s products are used to enhance the efficiency of radiation therapy by optimizing the radiation dose for each cancer patient.
-	['', 'cancer radiation', ' ', 'software development', ' ', 'radiation therapy', '']
+EmployInsight
+	Provider of a web based platform for measuring, evaluating and quantifying employees. The company\'s platform assist in developing methods for acquiring, assessing and planning human resources in the workplace.
+	['', 'human capital software', ' ', 'platform software', ' ', 'workplace assistance', '']
+Sage Group
+	Provider of accounting and business management software. The company provides accounting, enterprise resource planning, human resource, payroll, asset management, and payment solutions for businesses.
+	['', 'supplier management', ' ', 'inventory management', ' ', 'client management', '']
+Cezanne HR
+	Developer of an online human resources software system and talent management services. The company offers Cezanne OnDemand which is an online HR software to streamline HR administration, cut costs and engage with employees. It enables automatic updates, pay-per-use pricing and similar features to keep a track of people, absence and performance management.
+	['', 'HR system', ' ', 'talent management', ' ', 'performance management', '']
+Vumber
+	Provider of anyphone, anytime, anywhere phone number that keeps users identity private. The company offers a number from any area code users want, to be linked to their home, cell, or work phone.
+	['', 'phone number', ' ', 'private identity', ' ', 'number connection', '']
+Brain Institucional
+	Operator of a human resource company in Brazil.
+	['', 'human resource', '']
+OneClick HR
+	Provider of human resources software. The company operates a web portal offering human resource services including a number of ASP services.
+	['', 'web portal', ' ', 'human resource software', ' ', 'outsourcing service', '']
+TribeHR
+	Provider of social human resources management tool for small and medium businesses. The company builds online human resources software that helps with all aspects of people-management including vacation tracking, information management, performance, recruiting, payroll, on-boarding and analytics.
+	['', 'human resources management', ' ', 'human resource software', ' ', 'vacation tracking', ' ', 'on boarding', ' ', 'people-management', ' payroll']

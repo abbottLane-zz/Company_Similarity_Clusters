@@ -1,15 +1,12 @@
-TwoSixty
-	Provider of a web-based virtual phone system for small businesses. The company allows users to set up voicemail, call forwarding and extensions.
-	['', 'virtual phone system', ' ', 'call forwarding', ' voicemail phone']
-Forside Co.
-	Developer of content provision and copyright management businesses. The company, through its relationships with wireless carriers, distributes various e-books.
-	['', 'content provision', ' ', 'copyright management', ' ', 'online content', '']
-Beeminder
-	Provider of an online goal-setting tool. The company provides a free platform for users to set personal goals and to track their progress to attain them. The consequence of not staying on track is the user now has to commit to a small payment for the service.
-	['', 'goal setting', ' ', 'personal health', ' ', 'goal tracking', '']
-M.Dot
-	Provider of a platform for small businesses and individuals to be accessible and discoverable on mobile devices. The company\'s platform allows small businesses to create, maintain and promote their mobile presence from a smart phone application.
-	['', 'mobile presence', ' ', 'mobile search', ' ', 'business access platform', ' ', 'mobile website', ' ', 'multimedia platform', ' ', 'business website', ' ', 'business presence', ' ', 'small business advertising', '']
-Superdata Technology
-	Provider of management software packages for small businesses. The company develops and provides enterprise software for Chinese medium and small size companies.
-	['', 'inventory module', ' ', 'payroll module', ' ', 'information technology', '']
+Sabio Labs
+	Developer of software tools for analogue-circuit designers. The company provides a platform where designers are can create analog designs. The company works with several semiconductor companies.
+	['', 'software tools', ' ', 'analogue-circuit designers', ' ', 'design platform', '']
+Sceptre Science and Technologies
+	Developer of ion beam molecular self-assembly technology. The company\'s manufacturing process is capable of fabricating circuit lines with feature sizes of less than 10 nano meters.
+	['', 'ion beam', ' ', 'self-assembly', ' circuit']
+RocketChips
+	Developer of multi-gigabit speed analog and mixed signal integrated circuit technology. The company is involved in the development of high-speed Complementary metal–oxide semiconductor circuit topologies capable of achieving Gallium arsenide performance levels.
+	['semiconductor CMOS GaAs multi-gigabit circuit']
+Accel Semiconductor
+	Developer and provider of analog and mixed signal Integrated Chips (IC). The company\'s product lines include consumer wireless communication chips and consumer electronics chips using deep submicron (0.18um or smaller) complementary metal-oxide semiconductor (CMOS) or BiCMOS technologies.
+	['', 'wireless communication chip', ' ', 'electronic chip', ' ', 'analog wireless communication', '']

@@ -1,42 +1,36 @@
-BioScan Technologies
-	Developer of imaging technology for use in interventional vascular applications. The company is the developer of LightWire guidewires, a technology  based on the company\'s optical-ultrasonic platform, and used for the diagnosis and treatment of cardiovascular disease.
-	['ultrasonic cardiovascular optical-ultrasonic']
-Map Pharmaceuticals
-	Developer of novel inhalation therapies for respiratory and systemic diseases. The company develops innovative drug that focuses on providing better treatments for patients with neurological diseases.
-	['', 'novel inhalation', ' ', 'neurological diseases', ' ', 'bio pharma drug', '']
-Corvas
-	Manufacturer and developer of therapeutic agents for the prevention and treatment of cardiovascular and inflammatory diseases. The company also undertakes cancer research programs.
-	['biotherapeutics ', 'cardiovascular disease', ' ', 'drug candidate', '']
-Encore Pharmaceuticals
-	Developer of drugs for clinical applications in the pharmaceutical and nutritional fields. The company\'s products enables treatment and prevention of cancer, neurologic and cardiovascular diseases.
-	['', 'drug development', ' ', 'proprietary products', ' ', 'bio-pharmaceutical research', ' ', 'clinical applications', '']
-Gensia Pharmaceuticals
-	Developer of drugs to treat cardiovascular diseases. The company\'s drug research programmes involve technology based on purine-pyrimidine metabolism, which have application in the treatment of cardiovascular, cerebrovascular and neurological diseases.
-	['', 'cardiovascular diseases', ' ', 'purine-pyrimidine metabolism', '']
-Serodus
-	Developer of pharmaceuticals for treatment of diseases in the heart and blood vessels. The company focuses on new therapeutic products for the treatment of cardiovascular diseases with large unmet clinical needs.
-	['', 'cardiovascular diseases', ' ', 'blood vessels', ' ', 'therapeutic products', '']
-Vecta
-	Developer of drugs for gastrointestinal diseases. The company is a research and development based pharmaceutical company which develops and commercializes products for gastrointestinal diseases.
-	['', 'gastrointestinal disease', ' ', 'pharmaceutical research', ' ', 'intestine disease', '']
-ZOLL LIFEBRIDGE
-	Supplier of life support systems for the acute medical care in the area of cardiovascular diseases. The company develops heart-lung machine that allows doctors to substitute the patient’s cardiovascular system and save them from death in cardiogenic shock.
-	['', 'life support system', ' ', 'heart-lung machine', ' ', 'cardiovascular system', ' ', 'medical care', '']
-Sequel Pharmaceuticals
-	Developer of novel and clinical-stage drug candidates to treat cardiovascular diseases. The company\'s lead product K201 (JTV-519) has the potential to treat A-Fib, which can cause shortness of breath, chest pain, and blood clot, often leading to a stroke.
-	['cardiovascular ', 'novel drug', '']
-Harvest Technologies Corp
-	Provider of bone marrow aspirate concentrate (BMAC) systems to treat vascular, orthopedic and cardiovascular diseases. The company offers SmartJet applicator kits that deliver platelet concentrate and thrombin to the surgical site. It helps in improving patient outcomes by enhancing the body\'s normal healing process using adult stem cells and growth factors.
-	['BMAC ', 'stem cells', ' ', 'bone marrow aspirate concentrate', '']
-Angio B
-	Developer and provider of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders. The company engages in research and development of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders.
-	['', 'cardiovascular disease', ' ', 'peripheral ischemic disorder', ' ', 'development of drug', '']
-MIGENIX
-	Developer of drugs to treat or prevent infectious, degenerative and metabolic diseases. The company is committed to advancing therapy, improving health, and enriching life by developing and commercializing drugs for the prevention and treatment of major medical diseases and certain conditions with unmet medical need.
-	['', 'commercial drug', ' ', 'disease control', ' ', 'metabolic diseases', ' infection']
-Catalyst Pharmaceutical Partners
-	Developer of a pharmaceutical company. The company focuses on in-licensing, developing and commercializing prescription drugs to treat rare (orphan) neuromuscular and neurological diseases, including Lambert-Eaton Myasthenic Syndrome (LEMS), infantile spasms and Tourette\'s disorder.
-	['in-licensing ', 'prescription drugs', ' spasms']
-Adnexus Therapeutics
-	Developer of Adnectins biologics/medicines in the United States. The company\'s product candidates include Angiocept/CT-322, an anti-angiogenesis agent for treating cancer that blocks the VEGFR-2 pathway; and other Adnectin therapies for the treatment of oncology, immunology, and cardiovascular diseases.
-	['', 'drug discovey', ' ', 'anti-angiogenesis agent', ' ', 'treatment of oncology', '']
+MetricsHub
+	Provider of cloud application monitoring platform. The company\'s platform keeps web applications up and running.
+	['', 'cloud monitoring platform', ' ', 'application monitoring', ' ', 'cloud Monitoring', '']
+SepSensor
+	Manufacturer of sensing technologies for monitoring stratification in tanks primarily in the food services industry. The company provides grease interceptor monitoring system which remotely monitors the condition of internal or external grease traps.
+	['', 'grease interceptor monitoring', ' ', 'tank stratification monitoring', ' ', 'sensing technology', '']
+Theralogix
+	Provider of health benefits of certain nutrients to their patients. The company develop nutritional supplements which they could recommend to their patients.
+	['', 'nutritional supplement', ' ', 'health care', ' ', 'reproductive health', '']
+Pipette
+	Provider of a health monitoring platform. The company provides mobile application which provides easy reports of patient for analyzing health condition.
+	['', 'monitoring device', ' ', 'healthcare application', ' ', 'monitoring equipment', '']
+Lindexa
+	Provider of a web-oriented platform. The company offers an online monitoring platform that collects, analyzes and displays the information posted on the internet.
+	['', 'web-oriented platform', ' ', 'monitoring tool', ' ', 'digital marketing tool', ' ', 'social media marketing', '']
+TradeSync
+	Provider of services to automate B2B processes within and across companies. The company provides mobile application and Software as a service, which don\'t replace their existing business software systems but extend their functionalities to connect to those of customers or vendors.
+	['', 'Electronic Invoice Management', ' ', 'internet commerce', ' ', 'social productivity', ' ', 'accounting service', '']
+FlowSense
+	Developer of urine monitoring system. The company enables real-time, continuous monitoring of urine output for the optimization of fluid management and acute renal care. The company\'s product provides clinicians with early assessment of fluid balance and renal condition which can improve patient outcomes.
+	['', 'urine monitoring', ' ', 'fluid management', ' ', 'renal care', ' urine']
+NetOps
+	Developer of software products for testing, infrastructure health monitoring and fault detection. The company develops predictive analysis software for DSL and cable modem service providers.
+	['', 'software products', ' ', 'infrastructure health monitoring', ' ', 'fault detection', ' ', 'cable modem service providers', ' testing']
+Join Sessions
+	Developer of mobile platform for personal coaching for regular physical exercises. The company offers a platform that tracks behavioural health and health programs to help people improve their fitness and lose weight.
+	['', 'wellness health program', ' ', 'track behavioral health', ' ', 'regular physical exercise', ' ', 'mobile platform', '']
+MyFitnessPal
+	Provider of a health & fitness mobile application and online community. The company provides a free database of food and exercises, top fitness technology partners, community support, insights, and access to personal health information across all major platforms.
+	['', 'fitness tracking', ' ', 'personal trainer', ' ', 'health community', ' ', 'exercise health fitness', ' ', 'fitness app', ' ', 'health tracker', ' ', 'health app', '']
+Librato
+	Provider of a cloud-based monitoring platform for development and operations teams. The company\'s platform monitors the metrics and events important to their application deployments, while leaving metrics storage, analysis, annotation and alerts as an easy-to-deploy service that can scale with their operation.
+	['', 'monitoring software', ' ', 'resource management', ' ', 'infrastructure software', '']
+SenseCore
+	Provider of health-monitoring devices. The company is a provider of wearable, biomedical monitors that measure a variety of physiological functions and can be linked remotely. The devices have applications for athletes as well as healthcare providers.
+	['', 'monitoring device', ' ', 'physiological monitoring', ' ', 'remote monitoring', ' ', 'biomedical device', '']

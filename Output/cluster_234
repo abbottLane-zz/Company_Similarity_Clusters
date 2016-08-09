@@ -1,39 +1,30 @@
-Dscovered
-	Developer of a genetic algorithm for design. The company develops a genetic algorithm for design that simplifies creative processes. It also helps match clients with graphic designers who share their taste and style.
-	['', 'graphic design', ' ', 'genetic algorithm', ' ', 'designing platform', '']
-AWR Corporation
-	Developer of electronic design automation software in the United States. The company offers Microwave Office design suite, which encompasses various tools for IC, PCB, and module design, including linear circuit simulators, non-linear circuit simulators, electromagnetic (EM) analysis tools, integrated schematic and layout, and parametric cell libraries with built-in design-rule check; Visual System Simulator, a software for the design of communications systems; Analog Office design suite, a design system that is architected from the ground up for analog and radio-frequency integrated circuit designs; and Signal Integrity design software that is for integrated co-chip/package/module designs as it addresses the cross-domain signal integrity issues.
-	['', 'electronic design', ' ', 'automation software', ' ', 'analog design', '']
-Ciranova
-	Provider of electronic design automation software. The company focuses on building interoperable tools for custom chip designers to create new and/or migrate legacy analog IP and help engineers integrate complex RF, analog and mixed-signal content into nanometer-scale silicon with higher density and speed.
-	['', 'electronic design', ' automation ', 'chip designer', '']
-Valid Logic
-	Manufacturer of computer-aided design equipment. The company also develops integrated electronic design automation software.
-	['', 'electronic design automation', ' ', 'electronic design software', '']
-FASTech Integration
-	Developer of factory automation software. The company develops execution systems, cell control and equipment interface software for semiconductor manufacturing facilities.
-	['', 'automation software', ' ', 'equipment interface software', ' ', 'Workflow Software', '']
-Flexible Stenting Solutions
-	Developer of third-generation flexible peripheral arterial and biliary stents. The company develops stents on a proprietary design platform.
-	['', 'peripheral arterial', ' ', 'biliary stent', ' ', 'superficial femoral', ' ', 'medical equipment', '']
-Infiniscale
-	Operator of an electronic design automation (EDA) company. The company develops a proprietary modeling engine and optimization software, and has created a software suite to address emerging design for yield (DFY) challenges related to analog, mixed-signal and RF designs.
-	['', 'Statistical analyses', ' ', 'behavioral modeling', ' ', 'design optimization', ' ', 'variation-aware design', ' ', 'modeling software', ' EDA RF']
-GrabCAD
-	Provider of cross-platform computer aided design library and engineering community. The company\'s platform allows engineers to share and host files and communicate.
-	['', 'engineering service', ' ', 'computer aided design', ' ', 'technical drawing', ' ', 'design model library', ' ', 'engineering community', '']
-SteLar Tools
-	Developer of software applications for the electronic design automation industry. The company provides graphical and intelligent textual design creation and analysis environment for large, complex HDL designs. The company\'s technology enables designers and verification engineers to reach RTL Closure by offering them the ability to explore, navigate, analyze, document and create a design using their current design methodology and tools.
-	['', 'Software Applications', ' ', 'Electronic Design', ' ', 'Automation Industry', ' ', 'HDL Design', '']
-ViewLogic Systems
-	Developer of electronic design automation software. The company designs, develops and markets electronic design automation software for field-programmable gate array (FPGA) printed circuit boards and systems designs.
-	['', 'electronic design automation', ' ', 'automation software', ' ', 'gate array software', '']
-CoFluent Design
-	Provider of electronic system level design tools for modelling and simulating systems. The company offers an integrated electronic system-level modeling and simulation environment that operates as a graphical modeler for capturing the system\'s behavior and execution platform.
-	['', 'simulating system', ' ', 'electronic system', ' ', 'graphical modeler', ' simulation']
-PlanPlatform
-	Developer of software that provides engineers with two-dimensional and three-dimensional software drafting tools. The company develops SaaS technologies that enable users to edit two dimensional and three dimensional Computer Aided Design and geospatial data from every internet enabled machine.
-	['', 'software drafting tool', ' ', 'computer aided design', ' ', 'geospaial data', '']
-0-In Design Automation
-	Operator of an assertion-based verification company. The company develops and supports electronic design automation tools and functional verification products that help clients to verify multi-million gate application-specific integrated circuit and system-on-chip designs. Its system also automates the engineered methodologies.
-	['', 'assertion-based verification', ' ', 'electronic design automation', '']
+Angela Bruderer
+	Provider of an online retail platform. The company through its website markets and sells consumer products which mainly include home textiles, bed linen, underwear and accessories.
+	['', 'e-commerce platform', ' ', 'online goods purchase', ' ', 'online services', '']
+Harper Leather Goods
+	Manufacturers and distributors of rawhide pet products such as dog bones and chews. The company\'s products include a variety of rawhide dog bones and chews produced in different sizes and marketed as plain or basted with flavors.
+	['', 'distributor', ' ', 'rawhide dog bones', ' ', 'dog chew manufacturer', ' ', 'dog chew distributor', '']
+PhoneAndPhone
+	Provider of online retail. The company sells a range of mobile phones with or without subscription and mobile accessories.
+	['', 'online retail', ' ', 'online services', ' ', 'online purchase', '']
+Gourmetage
+	Operator of a chain of alcohol retail stores in Germany. The company offers dishes, wines, champagne, whisky, spirits and accessories.
+	['spirits dishes whisky']
+Intellifit
+	Developer of consumer measurement technologies for apparel industry.
+	['', 'consumer measurement', ' apparel']
+LiL\' Things
+	Provider of children specialty retail chain. The company provides retail store services for infant\'s and children\'s toys, apparel, furniture, and accessories.
+	['', 'children retail', ' ', 'specialty retail', ' ', 'retail store', ' ', 'retail services', '']
+Monnierfreres
+	Provider of retail website for women\'s luxury items. The company provides products such as glasses, handbags, jewels, scarves, gloves, hats and leather-branded accessories.
+	['', 'online retail', ' ', 'luxury accessory', ' ', 'web platform', ' ', 'branded product', '']
+Nano-Tex
+	Developer of nanotechnology-based textile enhancements for apparel, home and commercial and residential interiors markets. The company’s products are applied in apparel, home textiles, residential furniture, hard goods and commercial interiors.
+	['', 'textile enhancement', ' nanotechnology ', 'commercial interior market', ' ', 'residential interior market', ' ', 'residential furniture', ' ', 'home textile', '']
+Pooch
+	Provider of accessories and apparel for dogs. The company is into online retail of dog products.
+	['', 'dog accessory', ' ', 'dog apparel', ' ', 'online dog product', ' ', 'online retail', ' ', 'pet accessories', ' ', 'pet apparel', ' pet']
+Club Guaf
+	Provider of online subscription service for dog treats. The company operates a website for a dog-treat delivery service. Its users can indicate the size of their dog, the kind of products they would like and the frequency of delivery.
+	['', 'subscription service', ' ', 'pet treat', ' ', 'pet supplier', '']

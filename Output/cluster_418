@@ -1,12 +1,15 @@
-Garage Sallaberry
-	Provider of automobile repair services. The company engages in the maintenance, repair and servicing of automobiles. The company also provides towing services for cars in the event of a breakdown.
-	['', 'repair services', ' ', 'breakdown services', ' ', 'towing services', ' garage']
-Servicios de Ingeniería y Tecnologías de Diseño
-	Provider of engineering services and technology design. The company provides services to the aerospace industry.
-	['', 'electrical system', ' ', 'aerospace industry', ' ', 'engineering service', '']
-Requisite Technology
-	Provider of software for data, e-commerce and channel management. The company provides a platform designed to enable companies to manage information about any type of item, including finished goods for resale, direct materials used in manufacturing, and indirect materials used in maintenance, repair & overhaul (MRO) operations. The software also enables companies to create, collect, align, and enhance data to provide one uniform version of information, regardless of their catalog needs. The platform\'s  patented search capabilities allow users to search aggregated information to find relevant results and have access to item details and images.
-	['', 'channel management', ' ', 'unusable data', ' ', 'integrated business', '']
-Aeronamic
-	Provider of products and services to the aerospace industry. The company offers airflow valves, air turbine starters, centrifugal load compressors, cooling turbines and re-circulation fans among other products. It also offers maintenance, repair and overhaul services.
-	['', 'aircraft components', ' ', 'aerospace industry', ' ', 'airflow valves', ' ', 'air turbine starters', '']
+Clipbook
+	Seller of video clips which can be used without licensing restrictions. The company sells video clips in high definition, with a wide range of topics in order to meet customer needs at a price lower than current production costs, with a single price for format and royalty-free license.
+	['', 'Visual content', ' ', 'video clip', ' ', 'high definition video', '']
+Ziftr
+	Provider of a consumer shopping price engine. The company provides a browser that gives comparative price information to the customers for the products they are shopping online.
+	['', 'shopping price engine', ' ', 'online shopping', ' ', 'price information', ' ', 'price engine', '']
+Decide
+	Provider of an online shopping and price-information service. The company mines data on price points and products to provide shoppers with more information on price drops, new products and ratings.
+	['', 'online shopping', ' ', 'shopping service', ' ', 'electronics shopping', '']
+W5 Networks
+	Developer of wireless systems for the retail industry. The offers electronic shelf label (ESL) systems for displaying price information on retail shelves.
+	['', 'wireless system', ' ', 'electronic shelf label', ' ', 'wireless application', ' wifi ', 'wireless solution', '']
+Courseload
+	Provider of digital course material. The company offers an electronic version of any textbook on any computer at a discounted price as compared to the original price of  printed textbooks.
+	['', 'digital textbook', ' e-textbook e-text']

@@ -1,39 +1,21 @@
-HowDo
-	Provider of a knowledge-based social platform. The company\'s platform allows users to upload and share short sound and image chapters designed to share knowledge on a specific topic.
-	['', 'image chapters', ' ', 'knowledge-based social platform', ' sound clips']
-Paymo
-	Provider of mobile payments network for online merchants. The company allows consumers to buy online and pay with their mobile phone.
-	['', 'online payment network', ' ', 'mobile payment', ' ', 'payment software', '']
-VoiceObjects
-	Provider of a phone application server. The company\'s products include VoiceObjects Server, a phone application server that enables carrier-grade deployment and management of over-the-phone voice, video, text and mobile Web self-service applications and VoiceObjects Desktop, a GUI-based application for creating, testing, deploying and monitoring self-service phone portals. It also offers professional services, including consulting, training and technical support services. Its customers include banking and financial services, communication, marketing agencies, industrial, travel and support, healthcare, government, entertainment and info-portals and management service providers in the United States and internationally.
-	['', 'phone application server', ' ', 'phone portal', ' ', 'phone voice', '']
-Six3
-	Provider of video communication platform. The company\'s platform allows people to share video messages, follow and interact on mobile and web.
-	['', 'communication platform', ' ', 'video message', ' ', 'mobile video', '']
-Secusmart
-	Provider of mobile phone security services. The company has developed a product which enables users to receive encrypted calls and to store secret documents with a single mobile device.
-	['', 'phone security', ' ', 'security service', ' ', 'mobile device', '']
-Plixi
-	Provider of photos sharing services. The company operates an open media sharing platform for the social Web. Its platform allows users to share their media for social networks through mobile devices and the Web.
-	['', 'photos sharing service', ' ', 'media sharing platform', ' ', 'photo sharing', '']
-GrandCentral
-	Provider of phone management services. The company developed a service that allows users to use one phone number for all of their phones.
-	['', 'online service', ' ', 'online search service', '']
-Everloop
-	Operator of an online social platform for kids. The company enables kids to connect with friends, play games, share pictures, send messages, discover talents and learn.
-	['', 'online community', ' ', 'online social platform', ' ', 'Social Looping', '']
-GooJet
-	Provider of mobile phone applications and web content. The company allows mobile phone users to define their page of selected services and widgets by providing them with relevant information  in a phone-compatible format.
-	['', 'web content', ' widgets ', 'phone-compatible format', '']
-Knowrtl
-	Provider of a platform that allows end users to share data, models, scenarios and experiences in computational environments. The company provides an infrastructural platform that helps in computational environments that range from private laptops and PDAs to shared high-performance compute clouds.
-	['', 'infrastructure platform', ' ', 'data sharing', ' ', 'cloud computation', '']
-Reasoning Global eApplications
-	Provider of software for retail operations. The company offers a platform which allows retailers to sell products either on the internet or via mobile phone.
-	['', 'digital commerce solution', ' ', 'online sales', ' ', 'omni-channel', '']
-ShoZu
-	Provider of mobile social media services. The company\'s platform allows users to share pictures, video and text using their mobile phone.
-	['', 'social media platform', ' ', 'online social network', ' ', 'social media service', '']
-LittleCast
-	Provider of an eCommerce platform for video producers and their audiences. The company allows its users to sell their videos directly to audiences on Facebook and mobile devices using mobile applications and web platform.
-	['', 'eCommerce platform', ' ', 'video distribution', ' ', 'mobile video sale', '']
+Rasiris
+	Developer of photodynamic therapy (PDT) and the treatments of breast cancer and age-related macular degeneration. The company received financial support from Pacific Horizon Ventures to validate the proof of concept in an animal model.
+	['', 'macular degeneration', ' ', 'breast cancer', ' ', 'photodynamic therapy', '']
+Eyetel Imaging
+	Developer of imaging technologies to address vision loss due to undetected and untreated diabetic retinopathy. The company offers EyeTel Retinal Imaging System based on DigiScope, a semi-automated fundus camera which produces images that enable to detect age-related macular degeneration, diabetic retinopathy and optic disc abnormalities such as glaucoma. The company also offers EyeTel Reading Center, a telemedicine service providing analysis of patient images.
+	['', 'imaging technologies', ' ', 'diabetic retinopathy', ' ', 'fundus camera', ' ', 'macular degeneration', '']
+MacuClear
+	Developer of small molecule products for ophthalmic treatments for age-related diseases of the eye. The company offers MC-1101 eye drops for treating and stopping for progression and causes of blindness and vision impairment, such as dry age related macular degeneration, a disease associated with aging that gradually destroys central vision, and occurs in wet and dry forms (dAMD), as well as diabetic retinopathy.
+	['', 'ophthalmic treatment', ' ', 'macular degeneration', ' ', 'diabetic retinopathy', '']
+Aldeyra Therapeutics
+	Developer of drugs for treating retinal diseases. The company develops treatments for the dry form of age-related macular degeneration, an eye disease that leads to blindness.
+	['', 'retinal disease treatment', ' ', 'eye treatment', ' ', 'macular degeneration treatment', ' ', 'skin disease', ' ', 'eye disease', '']
+Avalanche Biotech
+	Developer of technologies and products for the sustained delivery of therapeutic proteins to the eye. The company develops technologies and products for the sustained delivery of therapeutic proteins to the eye to treat wet age-related macular degeneration (AMD), as well as other ophthalmologic disorders, such as diabetic retinopathy, retinal degeneration and glaucoma.
+	['', 'health laboratories', ' pharmacology ', 'membrane research', '']
+Pixium Vision
+	Developer of technology to treat blindness. The company is the developer of IRIS retinal implant system, designed to replace the function of photoreceptors in the retina which are damaged by retinal dystrophy and macular degeneration.
+	['', 'retinal dystrophy', ' ', 'data processing', ' electrode ', 'retina blindness', ' ', 'retinal implant', '']
+Othera Pharmaceuticals
+	Developer of proprietary ophthalmic drugs. The company offers products such as OT-551 for geographic atrophy and dry age-related macular degeneration and OT-440, a neuroprotectant for glaucoma.
+	['', 'ophthalmic drug', ' ', 'drug developer', ' ', 'geographic atrophy', ' ', 'macular degeneration', '']

@@ -1,9 +1,21 @@
-Aquarionaute
-	Breeder of ornamental fish. The company breeds, markets and sells ornamental fishes for aquariums.
-	['', 'ornamental fish', ' ', 'fish breeding', ' fish ', 'exotic fish', '']
-SAP
-	The Company develops, markets and sells enterprise application software products for corporations, government agencies and educational institutions.
-	['']
-ELABORADOS GALLEGOS
-	Wholesale distributor of fresh, frozen and canned fish. The company operates a processing facility, offering products made from cod, Greenland halibut, eel, river cobbler and ling cod to the European market.
-	['', 'frozen fish', ' ', 'fresh fish', ' ', 'cold storage', ' ', 'fish marketing', '']
+TapCanvas
+	Developer of a tool to build single-use mobile applications. The company focuses on building disposable, context-specific applications using web technologies.
+	['', 'application building', ' ', 'application development', ' ', 'web technology', '']
+Brainglass
+	Provider of educational mobile applications. The company\'s language learning applications combine the concepts of audiobook, e book, dictionary and exercises into one engaging learning environment on a user\'s mobile phone.
+	['', 'learning application', ' ', 'learning environment', ' ', 'mobile education', '']
+Servtag
+	Developer of mobile business concepts and services for its customers. The company offers conceptional design services, such as process consulting and IT concepts for mobile internet, as well as SEM, SEO and viral marketing. The company also offers management services and implementation services.
+	['', 'mobile business', ' ', 'conceptional design service', ' ', 'process consulting', ' ', 'viral marketing', ' ', 'management services', ' ', 'implementation service', '']
+Retention Education
+	Provider of a learning environment for workers, parents, families and communities. The company builds language, workforce, parenting and life skills. It offers various education programs, including family literacy program and English and Spanish language learning. It serves foodservice, hospitality and construction industries.
+	['', 'learning environment', ' ', 'parenting skill', ' ', 'construction industry', ' ', 'education solution', '']
+GooJet
+	Provider of mobile phone applications and web content. The company allows mobile phone users to define their page of selected services and widgets by providing them with relevant information  in a phone-compatible format.
+	['', 'web content', ' widgets ', 'phone-compatible format', '']
+Camino Real
+	Provider of mobile applications. The company\'s application helps mobile phone turn into a push-to-talk walkie-talkie.
+	['', 'mobile application', ' ', 'voice messaging', ' ', 'walkie-talkie', '']
+Straight Up English
+	Provider of an English language learning software-as-a-service company. The company applies linguistic and education research based methodologies, advanced pitch line technology for feedback and self-correction, and consumer-oriented interface. It develops both web and mobile applications.
+	['', 'mobile application', ' ', 'english language learning software', ' ', 'educational research', ' ', 'linguistic research', '']

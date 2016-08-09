@@ -1,21 +1,30 @@
-Nevada County Wine Guild
-	Provider of wines. The company provides spirits and beers under private label and national brands. It provides certified organic and sulfite-free wine.
-	['', 'organic wine', ' ', 'sulfite-free wine', ' spirit wine beer']
-Indie Vinos
-	Developer of a mobile application for wine tasting. The company connects small wineries with wine drinkers via mobile and web-based social marketplace and provide them with social selling and customer relationship management tools.
-	['', 'consumer service', ' ', 'consumer product', ' ', 'wine tasting', '']
-BioStorage Technologies
-	Provider of sample-management services for the bioscience sector.The company manages the complete life cycle of samples, using a team of global sample experts, temperature-controlled storage facilities and a real-time, Web-based sample intelligence and tracking system. It operates biostorage facilities in the U.S. state of Indiana and Frankfurt, Germany.
-	['', 'sample management', ' ', 'cold storage', ' ', 'lab equipment', '']
-Vinetrade
-	Provider of an online platform for building and managing wine portfolios. The company operates a website which allows people to trade directly with other investors and collectors of wines.
-	['', 'online trading', ' ', 'online wine trading', ' ', 'wine collectors', ' ', 'online trading platform', '']
-Wine Preserva
-	Developer of device to preserve the quality of wine. The company offers Wine Shield, an in-bottle floating lid that is a barrier to oxidation. The product is designed for consumers who open bottles but don\'t consume the contents immediately, and for restaurants and bars that sell bottled wine by the glass.
-	['preservation wine']
-Tasting Room
-	Provider of wine tasting service. The company allows consumer to taste the wine before purchasing it, by supplying a sample sized bottles.
-	['', 'wine tasting', ' ', 'sample sized bottle', ' ', 'wine acquistion', '']
-FirstCrush
-	Provider of personalized wine subscription service.
-	['', 'wine subscription', ' ', 'personalized subscription', ' ', 'wine purchase', ' ', 'consumer products', '']
+Lana Interim
+	Operator of an employment agency. The company matches candidates with job opportunities in manufacturing, construction, logistics, medical and other industries. The company serves the employer sector by providing a pool of available candidates for hire.
+	['', 'employment agency', ' ', 'HR Service', ' ', 'employment service', '']
+Superbly
+	Developer of a psychometric screening tool. The company offers a software that enables organizations to screen and hire potential candidates.
+	['', 'screening tool', ' ', 'psychometric analysis', ' filter ', 'candidate screening', ' ', 'psychometric tool', '']
+ThreatGRID
+	Operator of an online malware threat intelligence platform. The company enables organizations to identify and analyze malicious software on their infrastructure.
+	['', 'malware threat', ' intelligence malicious']
+Hallo
+	Developer of a social voice application. The company offers a software which enables users to record and share voice messages.
+	['', 'mobile app', ' ', 'social voice app', ' ', 'voice messages', ' ', 'voice chats', '']
+Phoenix Studio
+	Developer of internet software. The company offers various software products such as TheWorld  Browser which is a multi-tabbed web browser, DisplayX which is designed to test the LCD screen, WinterSweet Dictionary which helps in translation of language and ThinkPad TackScroll Tool which makes software compatible with MSN messenger and iTunes.
+	['', 'internet software', ' ', 'TheWorld  Browser', ' ', 'DisplayX', '']
+Pure Software
+	Developer of Software tool. The company provides software quality improvement products.
+	['', 'software tool', ' ', 'quality improvement', ' product']
+Cycell
+	Operator of a mobile network. The company enables organizations to complete product development, secure GSM certification and set up a production facility to customise and brand handsets.
+	['', 'mobile network', ' ', 'product development', ' ', 'GSM certification', '']
+Connectifier
+	Provider of a platform which connects recruiters to candidates. The company gives recruiters a complete view of prospective job candidates and a way to connect with those candidates.
+	['', 'connecting candidates', ' ', 'online platform', ' ', 'recruitment support', '']
+ProActivity
+	Developer of a business process and data flow mapping tool. The company develops software for mapping data processes in organizations, facilitating the transfer of businesses to the web.
+	['', 'process mapping', ' ', 'data mapping', ' ', 'business process management', '']
+Entellus Medical
+	Developer of balloon-dilation technologies to treat sinusitis. The company offers XprESS multi-sinus dilation tool, which offers ENT physicians a tool to trans-nasally treat the frontal, sphenoid or maxillary sinuses in either a doctor’s office or operating room.
+	['', 'sinus treatment', ' healthcare ', 'sinus dilation', ' sinusitis ', 'therapeutic solution', '']

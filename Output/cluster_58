@@ -1,27 +1,15 @@
-Target 250
-	Provider of performance based outbound sales services to technology and communications companies. The company offers services including appointment setting, account setting profiling, channel enablement, prospecting workshops and data services to technology firms.
-	['', 'outbound sales service', ' ', 'technology service', ' ', 'data service', '']
-Wireless Info Tech
-	Provider of testing and compliance certification services. The company offers global field testing services, such as voice call services in mixed and marginal signal areas; data services; and CDG3 services, including system acquisition, SMS, calling features, handoff, and DTMF tests. It also provides manufacturing and production software and applications testing and development services; wireless reference design services, including form factor and production ready services; and product testing services.
-	['', 'testing and compliance certification service', ' ', 'global field testing service', ' ', 'applications testing', ' ', 'manufacturing and production software', ' ', 'wireless reference design service', ' ', 'product testing service', '']
-Sogeti
-	Provider of technology and software testing services. The company provides software control testing, applications management, infrastructure management, high technology engineering/global engineering, business intelligence and analytics, mobile/Omni-channel, security and cloud services.
-	['', 'software testing', ' ', 'software control testing', ' ', 'application management', '']
-RelQ Software
-	Provider of softrware testing services. The company offers real-time and embedded applications testing, including mission critical software testing, for clients looking to deploy applications across the enterprise.
-	['', 'functional testing', ' ', 'competitive advantage', ' ', 'business applications', '']
-Tektagen
-	Provider of quality control testing and consulting services to the biotechnology and pharmaceutical industries. The company provides biosafety and bioanalytical testing services.
-	['', 'quality control', ' ', 'bioanalytical testing services', ' biotechnology']
-SciCor
-	Provider of laboratory testing services. The company provides laboratory testing services and related data processing support to the US pharmaceutical industry. Its research data was used to prepare clinical submissions to the Food & Drug Administration (FDA) for approval to market new drugs.
-	['', 'laboratory testing service', ' ', 'drug testing', ' ', 'drug invention', '']
-Content Critical
-	Provider of content management, transaction processing and custom middleware technologies. The company provides compliance messaging and reporting solutions, such as composition and rendering solutions for institutions that require distribution of compliance documents. It also provides professional services, such as programming and development, Web development, graphic design and prepress; production services, including digital print, wide format output, mailing and fulfillment, commercial print and binding and finishing; and online support and client services.
-	['', 'compliance messaging', ' ', 'graphic design', ' ', 'digital printing', '']
-RedPath Integrated Pathology
-	Provider of support services for oncology cases. The company operates as a reference laboratory and serves pathologists, clinicians and patients. It offers PathFinderTG, a testing platform for resolving diagnoses from the original pathology specimen.
-	['', 'oncology case', ' ', 'reference laboratory', ' ', 'diagnostic platform', '']
-Catapult Genetics
-	Developer and provider of a Deoxyribonucleic Acid (DNA) testing services. The company provides commercializes livestock Deoxyribonucleic Acid (DNA) tests to improve meat production and quality to increase production efficiency both on-farm and in the value chain for global livestock and aquaculture industries.
-	['', 'genetic testing', ' ', 'livestock testing', ' ', 'commercial breeder', '']
+Cytion
+	Developer of drug screening technology. The company has developed drug screening technology for the functional analysis of ion channel proteins.
+	['', 'drug screening technology', ' ', 'ion channel protein', ' ', 'drug development', '']
+Z-Tech
+	Developer of cancer screening technology. The company has developed a a system that detects changes in electrical charges that occur when normal tissue undergoes malignant changes. The first use of this technology has been in the development of a medical device for the detection of breast cancer in a screening environment.
+	['', 'monitoring equipment', ' ', 'medical diagnostic', ' malignant']
+Diagnoplex
+	Developer of non invasive colorectal cancer screening tests. The company develops clinical laboratory kits for screening colorectal cancer, as well as for the detection of colon cancer. It also discovers and optimizes biomarker combinations to detect cancer.
+	['', 'cancer screening test', ' ', 'cancer diagnostic', ' ', 'cancer treatment', '']
+Seragon Pharmaceuticals
+	Developer of orally active selective estrogen receptor degraders (SERDs) that represent a treatment for metastatic breast cancer. The company is developing breast cancer pharmaceuticals based on the selective estrogen receptor degraders platform, including its lead drug candidate, ARN-810, under evaluation for ER+ breast cancer.
+	['', 'breast cancer', ' ', 'estrogen receptor degrader', ' metastatic']
+Suomen Terveystutkimus
+	Provider of breast-cancer screening products and services. The company develops products and performs mammography screenings along with other clinical tests, to detect and treat breast cancer.
+	['', 'breast cancer', ' ', 'mammography screening', ' ', 'cancer treatment', '']

@@ -1,18 +1,24 @@
-Winbox Technologies
-	Provider of connected TV technology for original equipment manufacturers (OEs) and service providers. The company\'s hardware and software products are designed to speed the process of developing IPTV receivers, video-on-demand systems (VOD), hard disk video recorders (PVR / DVR), connected TVs and set-top boxes. The company also works to connect OEMs with Asian manufacturers.
-	['', 'television service', ' ', 'internet protocol television', ' ', 'video on demand', ' ', 'Entertainment Software', '']
-Bluestreak Technology
-	Provider of video services for connected devices. The company provides software and video services for connected devices including set-top boxes, smart TVs, smartphones, and tablets to content owners, device manufacturers, and network operators.
-	['', 'video enable service', ' ', 'media application', ' ', 'electronic component', '']
-AppCarousel Direct
-	Provider of an application management platform for connected devices. The company provides a management platform for cars and fleets, smartphones, smart screens, tablets, and other connected devices to distribute, update, control and manage any kind of downloadable software or digital asset.
-	['', 'mobile content', ' ', 'digital content distribution', ' ', 'connected device', ' ', 'application management platform', '']
-Kewego
-	Provider of business solutions for managing, broadcasting and monetizing videos on Internet, Intranet, mobiles and screen networks. The company provides IP-based, multi-screen video asset management solutions for managing, broadcasting and monetizing videos on PCs, mobile phones, iPads, connected TVs, gaming consoles and other Internet-connected devices. It also provides a Web portal solution that consists of a video portal with personalized player that enables its clients to integrate a Web portal to their Websites.
-	['', 'video broadcasting', ' ', 'video monetizing', ' ', 'video portal', ' ', 'video asset management', ' ', 'online video', '']
-FXI Technologies
-	Operator of a hardware and software platform. The company manufactures screen connected companion devices for advanced content. It also has developed a product cotton candy which can be used as companion device with smartphones, tablets and notebook.
-	['', 'companion devices', ' content ', 'cotton candy', ' notebook']
-Sequans Communications
-	Operator of a 4G chipmaker. The company is a provider of single-mode LTE chipset products to wireless device manufacturers worldwide. It  offers two LTE product lines: StreamrichLTE, optimized for feature-rich mobile computing and home/portable router devices; and StreamliteLTE, optimized for M2M devices and other connected devices for the Internet of Things.
-	['', 'chip maker', ' ', 'technology platform', ' telecommunication']
+Epocal
+	Provider of biochips and micro-fabrication of solid-state diagnostic devices. The company is implementing an entire blood diagnostic system in FlexCard™ technology, a card format similar to the smart card used in conventional check and telephone cards.
+	['', 'monitoring devices', ' ', 'diagnostic devices', '']
+Pulse Technologies
+	Provider of home and building automation softwares. The company provides a software platform that can be adapted from home automation to smart cities, from smart metering to intelligent appliances, and from stand-alone devices to cloud-connected services. The company also offers hardware-reference designs to clients wanting to incorporate the company’s technology into their own products.
+	['', 'vertical market', ' ', 'software service', '']
+Xiring
+	Provider of security services for remote transactions. The company offers software embedded terminals, smart card readers and electronic signature in banking, healthcare and transportation markets. The company also provides services for banks to authenticate online customers and secure remote banking activities.
+	['', 'remote transactions', ' banking ', 'transportation markets', '']
+Enigma Semiconductor
+	Operator of a semiconductor company. The company provides semiconductors for switching systems for network and storage. It also provides line card and backplane systems up to 6.25G link speed and up to 1x40G line card speeds.
+	['', 'chassis equipment', ' ', 'crossbar switches', ' ', 'fabric managers', ' chipset']
+Transmo
+	Developer of automated fare collection and smart-card systems. The company designs and supplies a wide range of products which are used on buses, trams, ferries and station platforms for processing smart cards. Hardware products include driver consoles, on-board smart card processors, handheld card readers, gate adaption kits, platform smart card processors, smart-card office terminals and add-value machines.
+	['', 'smart card', ' ', 'smart card scheme', ' ', 'travel management scheme', ' travel']
+AudeSi Technologies
+	Developer and marketer of smart card based terminals that facilitate electronic commerce in the home and at unattended point of sale sites. The company\'s business strategy is to specify, design and develop its products for license to large scale manufacturing and marketing organizations.
+	['', 'point of sale', ' ', 'electronic commerce', '']
+Ntera
+	Developer of printable electrochemical materials. The company\'s electrochemical assemblies and technologies enables display and color change applications for smart cards, smart packaging, and smart objects. The company also provides electronic displays using industry printing techniques and equipment.
+	['', 'B2C Services', ' ', 'B2B Services', ' ', 'consumer durables', '']
+CircleSmartCard
+	Developer of thermoplastic material smart card bodies and data carriers. The company\'s products include chipcoins, magnetic strip and microprocessor cards. It serves computer chip holders.
+	['thermoplastic ', 'magnetic strip', ' microprocessor ', 'smart cards', '']

@@ -1,33 +1,18 @@
-Foodik.ru
-	Provider of an online food ordering service in Russia. The company provides convenience to customers and new degree of automation to restaurants.
-	['restaurants ', 'food joints', ' automation']
-Five Guys Restaurants (8 sites )
-	Portfolio of 8 restaurants. The restaurants are located across central California including Elk Grove, Fresno, Lodi, Natomas, Roseville, Stockton, Tracy and West Sacramento.
-	['burger ', 'junk food', ' ', 'restaurant service', '']
-Sqipp
-	Developer of a location based mobile ordering application from restaurants. The company enables restaurants to integrate a mobile ordering platform that makes orders and restaurant operations while allowing users to order and pay at participating restaurants using a smartphone.
-	['', 'ordering application', ' ', 'participating restaurant', ' ', 'mobile ordering platform', '']
-LoveYourLarder
-	Operator of an online food market. The company operates an online marketplace where the customers can discover artisan food and drink items from across the UK and buy directly from the people who make it.
-	['', 'artisan food', ' ', 'online marketplace', '']
-Kabukiman
-	Provider of online information about restaurants. The company allows users to search for names, places, type of cuisine and look for a suitable restaurant in Germany.
-	['', 'restaurant information', ' ', 'search function', ' ', 'online search', '']
-Skipola
-	Developer of white-labeled application for restaurants. The company develops application that has contact information, menus and includes ways to order food through the application.
-	['', 'white-labeled apps', ' ', 'restaurant information', ' ', 'food ordering', '']
-ClickDelivery
-	Provider of an online food delivery service. The company serves as distribution platform for online restaurant food and enables delivery through web and mobile applications.
-	['', 'online food delivery', ' ', 'food delivery', ' ', 'restaurant food', '']
-Jgzam
-	Provider of an online food delivery platform. The company allows its users to discover new restaurants in their city, order food and even see what their friends are ordering from different restaurants. The website also allows restaurants to to accept orders from customers.
-	['', 'food delivery', ' ', 'food order', ' ', 'online food ordering', ' ', 'food delivery platform', ' ', 'online delivery', ' ', 'online ordering', '']
-InstantQ
-	Provider of an advertising platform for restaurants. The company allows restaurants to promote their services online.
-	['', 'advertising platform', ' ', 'restaurant promotions', ' ', 'online services', '']
-Wanderfly
-	Provider of a platform to discover and share travel recommendations. The company uses Facebook friends and Google Contacts to give users recommendations on hotels, restaurants and activities.
-	['', 'online travel recommendation', ' ', 'travel information', ' ', 'travel review', '']
-Lo.Ve.Mat
-	Distributor of construction materials for roofing, structural work, concrete plant and carpentry department. The company offers expert advice and management of orders to its customers.
-	['', 'construction materials', ' ', 'structural work', ' ', 'concrete plant', ' carpentry']
+Hemosphere
+	Developer of vascular access devices for patients. The company offers hemodialysis reliable outflow vascular access device, an implanted subcutaneous graft with an outflow component that bypasses central venous stenosis that allows for repeated access to the circulation for hemodialysis.
+	['', 'vascular access device', ' hemodialysis ', 'kidney disease', ' ', 'vein damage', '']
+Summit Access
+	Developer of interventional radiology device. The company develops radiology devices to streamline the Seldinger technique for vascular access.
+	['', 'radiology device', ' ', 'Seldinger technique', ' ', 'vascular access', '']
+NanoVasc
+	Operator of a medical device company. The company designs and manufactures bio mimetic materials that are non-thrombogenic, durable and demonstrate long-term patency. The company uses an electrospinning process to manufacture scaffolds in a multitude of shapes and sizes, and then application-specific modifications are applied to the scaffolds surface in order to achieve desired results. These specific modifications are designed to optimize the devices outcome based on its delivery location. The company\'s first product is a synthetic vascular graft for hemodialysis access.
+	['', 'biomimetic material', ' ', 'electrospinning process', ' scaffold ', 'synthetic vascular graft', ' ', 'hemodialysis access', '']
+Access Closure
+	Manufacturer of vascular closure devices. The company\'s products include Mynx delivery system, a vascular closure device that seals the arteriotomy using a water-soluble and extravascular sealant, which expands in the tissue tract by absorbing blood and subcutaneous fluids.
+	['', 'vascular closure', ' ', 'diagnostic procedure', ' ', 'tissue tract', ' ', 'subcutaneous fluid', ' ', 'medical device company', ' vascular']
+VasoNova
+	Developer of vascular navigation systems for healthcare providers and clinicians. The company provides VasoNova Vascular Positioning System, an algorithm-based vascular navigation and measurement system for the optimal placement of vascular access devices.
+	['', 'vascular navigation', ' ', 'electrocardiogram technology', '']
+r4 Vascular
+	Manufacturer of vascular access products. The company\'s products help clinicians access patient vasculature and maintain access for delivering chemotherapy, blood products, antibiotics, drugs or nutrition.
+	['', 'patient vasculature', ' ', 'blood products', ' ', 'interventional radiologists', ' ', 'vascular access products', ' drugs']

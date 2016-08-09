@@ -1,27 +1,39 @@
-Ignition Mobile
-	Promoter of mobile applications. The company provides a platform offering exclusive deals for free applications. Users can download a button to reserve offers for apps, and have 24 hours to act on the deal. The platform is a promotion channel for app developers.
-	['', 'paid application', ' ', 'developer interest', ' royalty']
-LeagueLink
-	Provider of web based league administration tools for the sports market. The company\'s product consists of software tools designed for league administrators and community tools for league participants.
-	['', 'league administration', ' ', 'sports market', ' ', 'league participants', ' ', 'community tools', ' ', 'software tools', '']
-Atego
-	Provider of software tools and professional services. The company helps organizations engineer systems and software.
-	['', 'software tool', ' ', 'application development tool', ' ', 'system engineering', '']
-Geneva Bioinformatics
-	Developer of software and database for life science researchers. The company acts as an representative for the licensing to commercial institutions of the proteomics databases and software tools which are developed and maintained by the Swiss Institute of Bioinformatics (SIB). It commercialises proteomic databases and bioinformatic tools.
-	['', 'life science research', ' ', 'proteomic database', ' ', 'bioinformatic tool', '']
-Flashline
-	Developer of asset management software for managing information technology and software assets. The company provides enterprise software reuse solutions that facilitate the rapid development of software systems for business.
-	['', 'software reuse solution', ' ', 'enterprise software', ' ', 'business management software', '']
-UXFlip
-	Developer of software tools for mobile application development. Its products allow developers to communicate in-app with their users, and create a platform for direct UI management.
-	['', 'app development', ' ', 'mobile application development', '']
-ClickSlide
-	Provider of app development software tools. The company offers app development software tools for developers allowing them to better integrate their apps.
-	['']
-Prodea
-	Provider of data warehousing, decision support and application development software. The company\'s product helps in accessing and transforming raw data into useable, relevant information that can be shared throughout an enterprise.
-	['', 'data transformation', ' ', 'data access', ' ', 'decision support', ' ', 'data warehousing', ' ', 'application development software', '']
-BugSense
-	Provider of software to assess mobile-application performance. The company\'s software analyzes metrics each month across multiple platforms, generating performance reports designed to help developers identify issues and create better app customer experiences.
-	['', 'quality standard', ' ', 'performance report', ' ', 'application performance', '']
+CTP Hydrogen
+	Developer of a fuel reformer. The company\'s reformer generates pure hydrogen from conventional liquid fuels, including ethanol, gasoline, diesel and JP8.
+	['', 'fuel reformer', ' ', 'gaseous hydrogen distribution', ' ', 'gaseous hydrogen', ' ', 'hydrogen distribution infrastructure', '']
+Tomaisins International
+	Developer of seeds for tomato raisins. The company develops seeds for the use of the dried tomatoes industry.
+	['seeds ', 'tomato raisins', ' ', 'cherry tomatoes', ' ', 'dried tomatoes', '']
+DeerTech
+	Provider of three circles of protection to protect plants from deer to homeowners. The company provides its services in New York, Southern Connecticut, New Jersey, Eastern Pennsylvania, and Delaware. It offers sound, sprays, and switching things for protecting plants from deer.
+	['', 'deer deterrent', ' ', 'organic fertilization', ' ', 'lawn care', ' ', 'woodlot management', '']
+Jurong Aromatics
+	Operator of integrated aromatics plants. The company operates aromatic chemical production plant and produces transportation fuels in Singapore.
+	['aromatics ', 'transportation fuels', ' ', 'petrochemical plant', '']
+Bio Architecture Lab
+	Developer of a technology that enables the production of ethanol from kelp sugars. The company develops an application of synthetic biology and enzyme design for the development of biofuels and renewable chemicals from aqua farmed native macro algae.
+	['', 'ethanol production', ' ', 'synthetic biology', ' ', 'enzyme design', ' biofuel ', 'renewable chemical', ' ', 'native macro algae', '']
+Meridian Energy USA
+	Developer of utility-scale, environmentally-clean solar plants. The company focuses on generating photovoltaic peak electricity that is free of green house gases for sale to utilities, municipalities and other major customers.
+	['', 'electric utilities', ' ', 'photovoltaic electricity', ' ', 'green house gases', ' ', 'green house', ' photovoltaic']
+Columbia Pacific Aluminum
+	Provider of aluminum-casting services. The company operates an aluminum-extrusion operation, with plants in  Modesto, Watsonville and City of Industry in the U.S. state of California.
+	['', 'metal casting', ' ', 'aluminum extrusion', ' ', 'aluminum casting', '']
+Solucel
+	Developer of plant-derived pharmaceuticals. The company offers small molecules, such as secondary metabolites from plants for pharmaceutical applications.
+	['', 'plant-derived pharmaceutical', ' ', 'plant biotechnology', ' microbial fermentation']
+Hawkeye Renewables (Ethanol Plants)
+	Producer of ethanol with plants in Iowa Falls and Fairbank, Iowa. The company\'s plants are specialized in ethanol and dried distiller grains.
+	['', 'ethanol plant', ' ', 'renewable resource', ' refinery']
+Augusta-Heckenrose
+	Manufacturer of specialized saws. The company designs and sells specialized saws for different uses. The company primarily produces handheld saws such as hand saws, bow saws, gardening saws, builder\'s saws, hack saws and fret saws.
+	['equipment ', 'saw manufacturer', ' ', 'specialized saws', '']
+Phoenix Bio-Industries (Ethanol Plant)
+	Operator of a dry mill ethanol plant. The company manufactures ethanol for chemicals, paints & coatings industries.
+	['ethanol ', 'dry mill', ' ', 'paints & coatings', '']
+LaTherm
+	Producer of the mobile heat storage containers. The company turns waste heat into useful heat. A total of 2.5 MWh of unused heat generated by chemical plants, steelworks, aluminum smelters, waste incineration plants, biogas plants, or landfill gas plants can be stored in the sodium acetate within our containers. From the sources, heat is transported where and when it is needed; off-grid and on the road.
+	['', 'waste heat', ' ', 'useful heat', ' ', 'heat storage', '']
+Range Fuels
+	Producer of cellulosic ethanol. The company\'s clean energy technology uses biomass for the production of ethanol.
+	['', 'cellulosic ethanol', ' ', 'ethanol production', ' ', 'clean energy', ' ', 'biomass conversion', '']

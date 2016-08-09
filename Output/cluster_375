@@ -1,15 +1,18 @@
-BioMachines
-	Provider of environmental monitoring software. The company provides sensor applications for the atmosphere, soil, plants, animals and water. It also provides environmental research.
-	['', 'Agriculture development', ' ', 'environmental research', ' ', 'data acquisition', ' soil']
-Lively (Wireless Monitoring Technology)
-	Developer of a wireless monitoring technology for senior citizens. The company has developed a safety watch and sensors for monitoring pill dispensers, appliances and other everyday items. The system shares sensor data through its home health platform for older adults, enabling family members and other caregivers to get alerts.
-	['', 'remote sensor', ' ', 'remote monitoring', ' ', 'family networking', ' ', 'family communication platform', ' ', 'photo sharing', ' ', 'family message sharing', '']
-Signal Innovations Group
-	Developer of decision systems for various sensor and data types for government customers and industry partners in national security, public safety and commercial surveillance sectors. The company offers a processing, exploitation and dissemination software suite for airborne intelligence, surveillance and reconnaissance that is deployed by analysts and war fighters on size, weight and power constrained platforms and a recognition software suite to offer a combination of detection, classification and identification techniques, as well as to collect sensor data, including radars, sonar, images and videos on onboard manned and unmanned vehicles to find and recognize air, ground and undersea military targets.
-	['', 'processing software', ' ', 'dissemination software suite', ' ', "\\'recognition software suite", ' ', 'applied defense research', ' ', 'radar signal processing', ' ', 'surveillance software', '']
-Baselabs
-	Developer of software for prototyping of driving assistance systems. The company provides the infrastructure to collect, record and replay sensor data and allows complex sensor data fusion applications.
-	['', 'driver assistance system', ' ', 'software tool', ' ', 'navigation software', '']
-Replay Solutions
-	Developer of software technologies to record and reproduce bugs in applications and servers. The company offers ReplayDIRECTOR, an application that records inputs and events affecting software while it is running, and provides the ability to replay what happened for finding and fixing bugs in the development, test, and production environments; and ReplayDIRECTOR for Java EE, which is a software tool to help Java application teams to develop and manage their applications. It serves financial services organizations, manufacturing companies, SAAS providers, and gaming companies.
-	['', 'bug fixing', ' ', 'server monitoring', ' ', 'server security', ' ', 'java application', ' ', 'application testing', ' ', 'software testing', ' ', 'application management', '']
+Link Medicine
+	Operator of a privately held biotechnology company advancing novel approaches for the treatment of neurodegenerative diseases. The company is developing treatments for multiple diseases, including Alzheimer’s, Parkinson’s, Huntington’s, and Amyotrophic Lateral Sclerosis (ALS). It targets a common feature of the disorders - the buildup in nerve cells of incorrectly folded, aggregated and ultimately neurotoxic proteins.
+	['', 'neurodegenerative disease', ' Alzheimer’s Parkinson’s, Huntington’s ', 'Amyotrophic Lateral Sclerosis', ' ALS']
+SAGE Therapeutics
+	Operator of a biopharmaceutical company developing novel medicines to treat central nervous system (CNS) diseases. The company offers medicines to patients with schizophrenia, major depressive disorder, pain and traumatic brain injury conditions, for multiple sclerosis, autism and anesthesia.
+	['', 'central nervous system', ' ', 'traumatic brain injury', ' ', 'depressive disorder', '']
+Angiosyn
+	Operator of a biopharmaceutical company developing novel proprietary biologics for controlling angiogenesis. The company\'s initial therapeutic indication is for ophthalmic diseases, such as macular degeneration and diabetic retinopathy, which due to angiogenesis can lead to decreased vision and blindness
+	['', 'healthcare service', ' retinopathy ', 'ophthalmic diseases', '']
+Specialty Pharmaco
+	Provider of the antidepressant drug Cymbalta (duloxetine). The company\'s drug is used to treat major depressive disorder and general anxiety disorder, as well as some chronic pain disorders relating to diabetes and osteoarthritis.
+	['', 'anti-depressant', ' ', 'chronic pain', ' ', 'major depressive disorder', ' ', 'generalized anxiety disorder', '']
+Xytis
+	Developer of central nervous system (CNS) drug candidates. The company is assembling a pipeline of innovative compounds with validated mechanisms of action, addressing major unmet clinical needs in CNS fields such as Schizophrenia, Traumatic Brain Injury, Depression, Anxiety, or Insomnia. It has two clinical stage compounds in development and operates from the USA, UK and Switzerland.
+	['', 'central nervous system', ' ', 'nervous system disorder', ' ', 'cognition enhancement', ' ', 'schizophrenia treatment', '']
+Intelect Medical
+	Developer of deep brain stimulation (DBS) therapies and technology for patients suffering with disabilities from stroke and traumatic brain injury. The company focuses on developing an implantable neuromodulation system for stroke and traumatic brain injury recovery.
+	['', 'deep brain stimulation', ' ', 'brain injury treatment', ' ', 'neuromodulation system', '']

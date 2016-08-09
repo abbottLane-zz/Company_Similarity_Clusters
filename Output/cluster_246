@@ -1,30 +1,33 @@
-EyeLock
-	Provider of identity management technology. The company provides identity authentication-focused systems for border control, logical access, global access control and other identity-management sectors.
-	['', 'iris biometric', ' ', 'security system', ' ', 'identity management', '']
-LifeLock
-	Provider of identity theft protection services, filed a registration statement with the US Securities and Exchange Commission. The company provides various serices that protect its users’ identity and personal information, as well as prevent users’ identity from being stolen.
-	['', 'identity theft', ' ', 'identity protection', ' ', 'security software', '']
-Symplified
-	Provider of identity infrastructure for the on demand market. The company provides KeyChain, which provides pre-integrated secure single sign-on for software-as-a-service (SaaS) and enterprise applications; Access, an identity and access management product for SaaS and Web applications; and Identity Cloud, which enables users to deploy identity infrastructure.
-	['', 'identity infrastructure', ' ', 'access management', ' ', 'SaaS', '']
-BioID
-	Developer of multimodal biometric-security systems. The company provides camera-based cloud recognition services to protect Internet and mobile users from identity  and data theft.
-	['', 'cloud authentication', ' recognition multifactor ', 'multimodal biometric authentication', ' ', 'face recognition', ' ', 'iris recognition', ' ', 'voice recognition', '']
-Vumber
-	Provider of anyphone, anytime, anywhere phone number that keeps users identity private. The company offers a number from any area code users want, to be linked to their home, cell, or work phone.
-	['', 'phone number', ' ', 'private identity', ' ', 'number connection', '']
-ID Analytics
-	Provider of identity risk and fraud management services in the United States. The company offers ID Score–Risk, which delivers on-demand identity intelligence across various points of customer contact, including online, call centers, mail and in-store interactions, ID Score–Action, which calculates an identity risk score, ID Score–Revenue that enables customer management decisions, ID Analytics for Compliance, a regulatory compliance solution that uses on-demand identity intelligence to support business processes and ID Analytics for Data Defense, which detects organized misuse of personal information due to lost hard drives, stolen laptops or illicit behavior by internal or external parties.
-	['', 'fraud management', ' ', 'on demand identity', ' ', 'identity risk score', ' ', 'identity intelligence', ' ', 'identity fraud', ' ', 'identity protection', ' ', 'regulatory compliance', ' ', 'customer management decisions', '']
-Applied Identity
-	Provider of identity aware netowrk security solutions. Also a provider of audit and compliance, asset protection, network level user and group separation and identity virtualization solutions.
-	['', 'identity network solution', ' ', 'security solution', ' ', 'identity store', ' ', 'network enforcement solution', '']
-OpenTrust
-	Provider of software and cloud security services. The company provides software products to governments, financial institutions, enterprises and citizens for managing digital identities and securing electronic transactions and documents. It provides digital identity such as corporate, citizen, object and cert identity, digital signature and digital transaction for secure exchange of documents and transactions with complete traceability.
-	['', 'security software', ' ', 'digital identity', ' ', 'digital signature', ' ', 'cloud security', '']
-Taviz Technology
-	Provider of integration software that automates the development and management of intelligent adapters and connectors. The company offers applications that enables users to deploy and manage integrated applications cost.
-	['', 'integration software', ' ', 'intelligent adapters', ' connectors']
-Movirtu
-	Provider of identity services for mobile operators. The company offers a virtual SIM based service that enables multiple numbers to be active on a single standard SIM card.
-	['', 'telecommunications service', ' ', 'mobile technology', ' ', 'wireless service', '']
+Atego
+	Provider of software tools and professional services. The company helps organizations engineer systems and software.
+	['', 'software tool', ' ', 'application development tool', ' ', 'system engineering', '']
+rPath
+	Developer of a technology for virtualizing software applications, and managing the lifecycle of virtual appliances and application images. The company\'s products include rBuilder,\nrPath Lifecycle Management Platform. It also offers rBuilder Online and the Cloud Catalog for EC2 and rPath X6.
+	['', 'virtualizing software application', ' ', 'virtual appliance', ' ', 'application image', ' ', 'Lifecycle Management', ' ', 'Cloud Catalog', '']
+Cramer Systems
+	Provider of telecommunication support systems software. The company provides inventory-based OSS software that accelerates the introduction of new services, enables OSS transformation and reduces cost of ownership.
+	['', 'OSS Software', ' telecommunication inventory-based']
+Esterel Technologies
+	Provider of systems and software solutions for aerospace, defense, rail transportation and nuclear industries. The company’s products enable system and software engineers to graphically design, verify and generate systems and software applications. The company offers SCADE Suite for control application development. The company also offers SCADE LifeCycle that is used for critical application lifecycle management. The company also provides product training, methodology preparation, project support, application software optimization, certification support, installation and troubleshooting services.
+	['', 'scade lifecycle', ' ', 'web based solution', ' ', 'development cycle', ' ', 'automation software', ' ', 'software application', ' ', 'network management', '']
+MS2
+	Provider of Product Lifecycle Automation services to industry. The company\'s product, MS2 Accelerate, is a web-based software application built for companies that develop products using a lifecycle process. It was started in 1998 to deliver an application that provides companies with Faster time-to-market Faster ramp-to-volume Lower development to manufacturing costs.
+	['', 'Product Lifecycle Automation', ' ', 'Product Lifecycle Automation service', ' ', 'web-based product develompent tool', ' ', 'MS2 Accelerate', ' PLM ', 'Product Lifecycle Management', ' ', 'enterprise software application', '']
+Infogami
+	Provider of a wiki application framework. The company\'s wiki platform is used to support the internet archive\'s open library project and the web.py web framework.
+	['', 'internet archive', ' ', 'wiki application', ' ', 'open library', ' ', 'platform application', ' ', 'web application', '']
+Centra Software
+	Provider of enterprise application software and services for real-time communication, collaboration and learning over the web. The company provides software infrastructure and an ecosystem of strategic partnerships for virtual classrooms, web conferences and eMeetings. The company also offers consulting, education, content creation and support services that enable its customers to implement, deploy and support its products and services.
+	['', 'online business communication', ' ', 'web seminars', ' ', 'virtual learning', ' ', 'web meetings', ' ', 'content management', '']
+Corio
+	Provider of enterprise applications from software vendors such as Oracle, Siebel, and SAP. The company\'s product Applications on Demand 2005, offers a suite of applications management, infrastructure, and professional services. The application management services include providing computers, data center facilities, and networks to support software applications. It also includes customer support; application, security, and infrastructure management; data center; and network management solutions.
+	['', 'enterprise application', ' ', 'application management', ' ', 'resource management', ' ', 'infrastructure management', '']
+Avexus
+	Provider of software solutions for the lifecycle management of complex assets. The company provides focused solutions for MRO organizations that serve the Aerospace, Power Generation, Rail and Maritime Industries, with the Impresa enterprise software as the cornerstone of the Avexus Product Solution Suite.
+	['', 'life cycle management', ' ', 'power generation', ' aerospace']
+Prodea
+	Provider of data warehousing, decision support and application development software. The company\'s product helps in accessing and transforming raw data into useable, relevant information that can be shared throughout an enterprise.
+	['', 'data transformation', ' ', 'data access', ' ', 'decision support', ' ', 'data warehousing', ' ', 'application development software', '']
+Indocs
+	Provider of an application service provider for the printing and publishing industries. The company enables marketing staff, designers, and print houses to edit, manage, and produce graphically-enhanced documents online.
+	['', 'application service provider', ' ', 'online documentation', ' publishing']

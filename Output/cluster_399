@@ -1,45 +1,24 @@
-01 Communique Laboratory
-	Developer and provider of communication software and services. The company develops and markets remote access software which provide users the ability to conduct online meetings and access and remotely control their personal computers using a device connected to the Internet.
-	['', 'remote control', ' ', 'remote communication software', ' ', 'remote access', '']
-Logic Instrument
-	Manufacturer of computer and electronic equipment. The company develops and markets portable personal computers and handheld devices in France.
-	['', 'smart phone', ' ', 'electronic equipment', ' ', 'personal computer', '']
-Mashmobile Sweden
-	Operator of an information technology company. The company offers software products for direct content between mobile phones, personal digital assistants, laptops and personal computers.
-	['', 'mobile phones', ' ', 'streaming music', ' ', 'personal digital', '']
-Sequent
-	Manufacturer of computer systems.
-	['', 'computer systems', '']
-NomadIQ
-	Provider of location based applications services for handheld devices. The company offers a wireless service that enables subscribers to access and navigate the Internet, send and receive email messages, and conduct e-commerce transactions over handheld mobile devices.
-	['', 'location based application', ' ', 'site information', ' ', 'application development', '']
-Emissary Systems
-	Developer of communication software. The company produces software which enable communication among personal computers.
-	['', 'personal computers', ' ', 'online communication', '']
-Xplore Technologies
-	Developer of wireless tablet PC. The company provides rugged mobile personal computers and docking systems for both the commercial and military market.
-	['', 'wireless tablet', ' ', 'personal computer', ' ', 'mobile computer', ' ', 'docking system', '']
-Electronic Arts
-	The Company develops, markets, publishes and distributes video game software and content played by consumers, including video game consoles, personal computers, handheld game players and cellular handsets. It also provides online game-related services.
-	['']
-GoldPocket Interactive
-	Provider of a television software. The company provides two-way interactive television programming for set-top boxes and personal computers.
-	['eTV ', 'set-top boxes', ' ', 'television programming', '']
-NeuroLogica
-	Developer of medical imaging equipment. The company offers portable computer tomography scanners including BodyTom and CereTom.
-	['', 'medical imaging', ' ', 'medical imaging equipment', ' ', 'computer tomography scanner', ' ', 'portable tomography scanner', '']
-Corona Optical Systems
-	Developer and manufacturer of optoelectronic component and subsystems for carrier class equipment. The company develops parallel optical modules for switching and routing equipment.
-	['', 'optoelectronic component', ' ', 'optical modules', ' fiberoptic']
-OQO
-	Developer of handheld mini-personal computers. The company manufactures model 01 and model 01+ ultra personal computer.
-	['', 'mini computer', ' ', 'ultra personal computer', ' ', 'personal computer', '']
-Nogatech
-	Developer of a codec chipset technology. The company is a global chipset development company that enables consumer electronic companies to design and integrate their video products to desktop and handheld computers.
-	['', 'chipset technology', ' ', 'consumer electronic', ' ', 'video product', '']
-Cellular3G
-	Provider of third generation base-band chips for use in mobiles. The company develops and markets base-band chips with layer of two and three radio protocol stack for third generation handheld devices
-	['', 'third generation bandwidth', ' ', 'mobile chip', ' ', 'third generation connection', ' ', 'semiconductor chip', '']
-Handspring
-	Provider of handheld computing devices, which include organizers; and integrated, handheld wireless devices, known as communicators or smartphones. The company\'s products include the Treo wireless communicators and Treo 90 organizer, the Visor expandable handheld computers, and client and server software for fast web access from handheld devices and mobile phones.
-	['', 'computing device', ' ', 'hand device', ' ', 'wireless device', '']
+Intellikine
+	Developer of small molecule drugs that target signal transduction networks for the treatment of cancer, inflammation, and autoimmune disorders. The company\'s products include INK128, an orally-available TORC1/2 inhibitor for the treatment of solid tumor malignancies; INK1197, a small molecule dual PI3K selective inhibitor for patients with immune-mediated inflammatory diseases, such as rheumatoid arthritis and asthma; and PI3K selective inhibitors for the treatment of hematologic malignancies and solid tumors.
+	['', 'small molecule drug', ' ', 'cancer drug', ' ', 'drug for autoimmune disorder', ' ', 'treatment of solid tumor malignancie', '']
+Vantia
+	Developer of small molecule drugs. The company develops drugs for the treatment of nocturia, dysmenorrhoea, respiratory disorders, inflammation, oncological and fibrotic diseases.
+	['', 'drug development', ' ', 'nocturia treatment', ' ', 'fibrotic disease treatment', '']
+Neuromed Pharmaceuticals
+	Provider of small molecule drugs for the Biopharmaceutical industry. The company develops drugs targeting neuronal calcium channels to treat neurological disorders with the initial emphasis on chronic pain anxiety and stroke.
+	['therapy ', 'drug developer', ' calcium']
+InnoPharma
+	Developer of complex generic and innovative specialty pharmaceutical/bio-pharmaceutical products in injectable and ophthalmic dosage forms. The company has a broad portfolio of products under development, with formulations including, suspension, lyophilized, emulsions, liposomes, micelles and lipid complexes.
+	['', 'medical product', ' ', 'drug development', ' ', 'bio pharmaceutical product', ' ', 'medical drug research', ' ', 'sterile injectable product', ' ', 'sterile products', ' injectable ophthalmic']
+Genemedicine
+	Developer of bio-pharmaceutical products. The company designs gene medicines to produce sustained levels of therapeutic proteins within the body. The company develops therapeutic products for both acute and chronic use and to be administered to patients through conventional means such as intramuscular or intravenous injection, or inhalation.
+	['biopharmaceutical genes']
+Intercept Pharmaceuticals
+	Developer of small molecule drugs for the treatment of chronic liver and metabolic diseases. The company develops therapeutics to treat orphan and more prevalent liver diseases in bile acid chemistry.
+	['', 'molecule drug', ' ', 'chronic liver treatment', ' ', 'metabolic disease treatment', '']
+Kinaxo Biotechnologies
+	Developer of spectrum-specific kinase inhibitors. The company operates as a service company specializing in chemical proteomics methods to support the development of small molecule drugs. The company spun out of the Max Planck Institute of Biochemistry.
+	['', 'kinase inhibitors', 'inhibitors', 'chemical proteomics', ' ', 'molecule drugs', '']
+KeyNeurotek Pharmaceuticals
+	Provider of bio pharmaceutical products. The company provides for development and marketing of small molecule drugs for the treatment of neuronal and autoimmune diseases.
+	['', 'bio pharmaceutical product', ' ', 'molecule drug', ' ', 'autoimmune disease', '']

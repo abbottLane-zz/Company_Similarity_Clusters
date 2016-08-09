@@ -1,27 +1,15 @@
-Precision Beam
-	Provider of laser cutting services. The company provides laser cutting and welding services in United Kingdom.
-	['', 'laser cutting', ' ', 'welding service', ' laser']
-Tomi-Steel
-	Manufacturer of industrial pipes. The company\'s products include pipe racks, prefabricated pipes, pressure vessels, pump modules and also offers cutting, bending pipes and welding service.
-	['', 'industrial pipes', ' ', 'prefabricated pipes', ' ', 'welding services', '']
-Agility Communications
-	Provider of laser solutions for the optical network. The company focuses on offering tunable transponder and tunable laser solutions for carriers and system providers.
-	['', 'laser solution', ' ', 'optical network', ' ', 'tunable transponder', ' ', 'tunable laser', '']
-PlymoVent
-	Supplier of products, systems and services for the extraction and filtration of polluted indoor air. The company provide services that remove welding and cutting fumes, grinding dust and oil mist in the metalworking industry.
-	['filtration extraction ', 'pollution filtration', ' ', 'extration services', '']
-Konepaja Ceiko
-	Provider of contract manufacturing services and steel components. The company also has its own products such as tanks, pressure vessels, and water treatment systems. The company does a number of services including machining, plasma cutting, TIG and MIG/MAG welding, plate cutting, edging and mangling, painting and shot blasting, heat treatment and 3D measurement.
-	['', 'steel components', ' ', 'contract manufacturing', ' ', 'machining', ' ', 'plate cutting', ' ', 'manufacturing services', '']
-FlowerTech
-	Manufacturer of flower cutting instrument. The company also assist flower grower, distributor and retailer with flower cutting technique.
-	['', 'flower cutter', ' ', 'cutting instrument', ' ', 'home furnishing', ' ', 'flower cutting technique', '']
-Intense
-	Provider of single and multimode monolithic laser array products and high power laser diodes. The company  provides foundry services, including front-end wafer processing, back-end assembly line, engineering support and product development support services and laser diode, optics, electronics and package design services.
-	['', 'laser diodes', ' ', 'electrical equipments', ' ', 'laser equipments', '']
-20/10 Perfect Vision
-	Developer of femtosecond and excimer laser technologies for refractive and cataract surgeons. The company’s products include excimer workstations for laser surgery, femtosecond workstations, diagnostic workstations and ZYOPTIX XP, a microkeratome system that allows surgeons to perform stromal and epithelial flaps.
-	['', 'laser surgery', ' ', 'diagnostic workstations', ' ', 'microkeratome system', ' ', 'epithelial flaps', ' cataract']
-CUARZOS GRANULADOS
-	Provider of stone shaping, finishing and transportation. The company specializes in the cutting of stone for both urban and commercial uses such as counter tops and displays.
-	['', 'stone cutting', ' ', 'stone shaping', ' ', 'material transportation', ' ', 'mining', ' ', 'quarry', '']
+Avicenna Systems
+	Operator of an internet based healthcare information company. The company develops intranets for managed health care plans.
+	['', 'healthcare information', ' intranets ', 'health care plans', '']
+National Medical Solutions
+	Provider of clinical, managerial, technical, educational and market services to the hospital partners. The company\'s services include multi-system history and physical assessment, debridement, cleansing, and dressing changes. The company also provides various therapies/services, including hyperbaric oxygen therapy, compression therapy, infection control, coordination of home health and extended care.
+	['', 'managed care', ' ', 'hyperbaric oxygen therapy', ' ', 'dressing changes', '']
+MedSpan
+	Provider of pharmacy network services. The company provides ancillary facilities such as labs, walk-in centers, home healthcare services and physical therapy centers. The company provides health care plans which include health maintenance organization (HMO) plans, preferred provider organization (PPO) plans and point-of-service (POS) plans.
+	['', 'health maintenance', '']
+Health AtoZ
+	Provider of internet guide featuring online health merchants. The company provides customized web-based solutions and consulting for hospitals and integrated delivery networks, health plans, pharmacy benefit management companies, employer groups and e-pharmacy sites.
+	['', 'internet guide', ' ', 'online health merchants', ' ', 'web-based solutions and consulting', ' ', 'online healthcare resources', ' ', 'e-pharmacy sites', ' ', 'health plans', '']
+Oxford Health Plans
+	Provider of health benefit plans. The company offers health benefit plans to address the needs of commercial, individual and Medicare members. It offers products which include its health maintenance organization plans (HMOs), provider organization plans (EPOs), point-of-service plans (POS), preferred provider plans (PPOs) and indemnity plans.
+	['', 'health benefit plan', ' ', 'Medicare member', ' ', 'indemnity plan', ' ', 'point-of-service plan', ' Medicare HMO PPO']

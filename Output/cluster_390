@@ -1,21 +1,12 @@
-MyBrands
-	Provider of an e-commerce clothing outlet. The company provides clothing for both men and women and offers a variety of designer brands. It also sells shoes and accessories.
-	['', 'designer clothing', ' ', 'e commerce', ' ', 'mobile shopping', '']
-The Fab Shoes
-	Provider of online retail of women\'s shoes, accessories and other personalized style items in Europe. The company provides an e-fashion club which features collections of shoes and accessories. It\'s designers prepare a personalized recommendation of trendy accessories that is adapted to the client\'s  style and advises them how to combine them.
-	['', 'online shopping', ' ', 'internet shopping', ' ', 'personalized style item', '']
-Franck Style
-	Provider of leather goods. The company provides retail services of leather goods.
-	['', 'leather goods', ' ', 'retail services', ' leather']
-Build A Bear Workshop
-	Provider of a storefront workshop where customers create their own teddy bear. The Company provides various types of animals to be stuffed; clothing, shoes and accessories for the stuffed animals and other appropriate toy and accessory items.
-	['', 'storefront workshop', ' ', 'teddy bear', ' ', 'stuffed animal', ' ', 'accessory item', '']
-Courseload
-	Provider of digital course material. The company offers an electronic version of any textbook on any computer at a discounted price as compared to the original price of  printed textbooks.
-	['', 'digital textbook', ' e-textbook e-text']
-Brandalley
-	Operator of an online outlet. The company markets a selection of items at a discounted price, which include clothing, shoes, accessories, leather goods, furniture, jewelry and homeware from past collections, surplus stocks or cancelled orders.
-	['', 'online outlet', ' ', 'online retail shopping', ' ', 'leather good', '']
-Tannerie de Villefranque
-	Operator of a leather processing company. The company engages in tanning, dressing and dyeing of leather. It offers various types of leather for shoes, accessories and furniture industries.
-	['leather ', 'leather tanning', ' ', 'leather dressing', '']
+Grapple Mobile
+	Developer of application software for the mobile market. The company designs, creates and distributes mobile apps to leading companies that work on a large number of handsets including Iphone, BlackBerry and Android.
+	['', 'andriod app development', ', ', 'iphone app development', ', ', 'mobile technology', ' ', 'mobile app development', '']
+PushLife
+	Developer of software for the BlackBerry and Android Smartphones.
+	['', 'mobile software', ' ', 'blackberry software', ' ', 'android software', '']
+Trust Digital
+	Provider of enterprise mobility management technology and security software for government organizations and various companies. The company offers its services to secure, deploy, and manage smartphones for information technology organizations. It also offers EMM Console, a browser-based software to centrally manage the different smartphones used by mobile workers, as well as to provide policy management tools, reporting capabilities and compliance enforcement facilities to secure smartphones and ruggedized devices.
+	['', 'enterprise mobility management', ' ', 'smartphone management', ' ', 'policy management tool', ' ', 'compliance enforcement', '']
+POPs
+	Provider of mobile alerts and applications on Android smartphones. The company application enables Android users to personalize incoming message alerts, facebook, e-mail, whatsApp on the mobile phones.
+	['Android ', 'mobile alert', ' smartphones ', 'mobile phone', '']

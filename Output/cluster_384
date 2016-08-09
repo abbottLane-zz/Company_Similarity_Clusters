@@ -1,21 +1,24 @@
-StratiCELL
-	Developer of in vitro regulatory toxicology and test methods. The company assists cosmetic, pharmaceutical, chemical and food industries in evaluating the safety and efficacy of their compounds by means of in vitro models and methods.
-	['', 'healthcare services', ' ', 'laboratory services', '']
-Biex
-	Developer of maternity management products. The company diagnostic tests to identify the potential for premature deliveries in pregnant women.
-	['maternity ', 'diagnostic test', ' ', 'hormone estriol', '']
-GeneOhm Sciences
-	Developer of nucleic acid-based diagnostic services. The company offers methicillin-resistant Staphylococcus aureus (MRSA) Assay, an in vitro diagnostic test for the direct detection of MRSA from a nasal specimen; StrepB Assay, an in vitro diagnostic test for the detection of Group B Streptococcus in pregnant women at the time of delivery or at any other stage of their pregnancy and Lysis Kit for the lysis of cells and spores from various sample types.
-	['', 'microbiology specimen processing', ' ', 'molecular diagnostic', ' ', 'MRSA Assay', '']
-Pinnacle Pharmaceuticals
-	Developer of therapeutics for pain management, urology, antibiotics and oncology space by leveraging its supramolecular chemistry platform and drug formulation technology. The company also develops synergistic compounds for current antibiotic regimes to treat patients suffering from infections refractory to the current gold-standard and therapeutics for various infectious disease indications, including methicillin resistant staphylococcus aureus and vancomycin resistant enterococci.
-	['', 'pain management', ' ', 'oncology space', ' ', 'supramolecular chemistry platform', ' ', 'drug formulation technology', ' ', 'synergistic compound', ' ', 'antibiotic regime', '']
-BabyCenter
-	Provider of pregnancy and parenting information online. The company provides advice on various issues, such as getting pregnant, pregnancy, babies, toddlers, preschoolers and big kids. It also provides various tools, such as pregnancy/baby calendar, baby name finder, due date calculator, pregnancy weight gain estimator, product recall finder, packing list for hospital or birth center, average fetal length and weight, birth clubs and pregnancy food diary.
-	['', 'parenting information', ' ', 'pregnancy information', ' ', 'pregnancy calendar', ' ', 'pregnancy food diary', '']
-Arpida
-	Developer of antimicrobial drugs for the treatment of infectious diseases. The company’s lead product is intravenous iclaprim, an antibiotic product that targets severe infections requiring hospital treatment, including those caused by methicillin-resistant Staphylococcus aureus.
-	['', 'antimicrobial drugs', ' antibiotic ', 'methicillin-resistant', ' ', 'staphylococcus aureus', '']
-Great Basin
-	Developer of point-of-care molecular diagnostic technology for healthcare professionals. The company offers molecular diagnostics platform for detection of nucleic acid and protein analytes in diagnostic testing platform. It also provides diagnostic tests for methicillin resistant staphylococcus aureus, group B streptococcus and human papilloma virus.
-	['', 'molecular diagnostic', ' ', 'diagnostic platform', ' ', 'diagnostic testing', '']
+Aristo Technology
+	Developer and marketer of design planning and assembly tools for complex IC and system-on-chip (SOC) designs. The company constraint driven planning and implementation tools offer design convergence by incorporating block-level physical information starting at the architectural (pre-RTL) design stage. Aristo serves IC designers from system and semiconductor companies developing high performance, multi-million transistor designs and adopting a hierarchical chip planning and implementation design methodology. Block-based methodologies are essential in designing microprocessors, network processors, 3-D graphics accelerators, DSPs, ASSPs, and complex ASIC designs.
+	['', 'IC design', ' ', 'system-on-chip', ' ', 'SOC', ' IC ', 'transistor designs', ' ', 'microprocessor design', ' ', 'network processors', ' ', '3-D graphics accelerators', ' ', 'ASIC designs', '']
+TriQuest
+	Developer of computer chip design software. The company specializes in enhancing synthesis tools in the semiconductor industry.
+	['semiconductor ', 'computer chip', '']
+Oramir
+	Developer of laser technology for the semiconductor industry. The company specializes in cleaning technologies for semiconductor wafers.
+	['', 'semiconductor equipment', ' ', 'laser chips', ' ', 'laser technology', '']
+Metara
+	Designer and manufacturer of metrology equipment for the semiconductor industry. The company manufactures chemical metrology tools for semiconductor industry used in monitoring and controlling chemical processes.
+	['', 'metrology equipment', ' ', 'chemical tools', ' semiconductor ', 'manufacturing equipment', '']
+Boxer Cross
+	Provider of metrology tools for the semiconductor industry. The company develops and manufactures fully automated metrology systems, providing in-line monitoring of parameters affecting the electrical performance.
+	['', 'metrology system', ' ', 'monitoring system', ' ', 'electrical measurement data', '']
+Enfocus
+	Developer of portable document format software. The company specializes in the development of tools to control the quality of PDF files for print and to automate workflow processes in the graphic arts industry.
+	['format ', 'PDF files', ' ', 'graphic arts', '']
+Emos
+	Developer of middle middle office financial software. The company specializes in solutions for futures, options and exchange traded derivatives.
+	['', 'financial software', ', ', 'trading services', ', ', 'financial date', ', ', 'futures exchange', '']
+Exemplar Logic
+	Developer and marketer of logic synthesis software. The company also participates in third-party programs.
+	['', 'logic synthesis software', ' ', 'automation software', '']

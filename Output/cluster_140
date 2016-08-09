@@ -1,36 +1,51 @@
-Pictos Technologies
-	Provider of semiconductor and imaging products. The company designs, manufactures and markets digital imaging semiconductor products for digital camera and mobile imaging appliance markets.
-	['', 'imaging products', ' ', 'digital imaging', ' ', 'digital images', '']
-Eyesquad
-	Developer of an imaging technology. The company engages in the design and development of digital auto-focus and optical zoom systems for camera phones and other electronic products.
-	['imaging ', 'auto-focus', ' ', 'lens module', '']
-Imagelock
-	Provider of web-enabled digital image asset monitoring services. The company provides protection and management services and provides customers with instant access to information about the use and misuse of their digital image assets on the internet.
-	['', 'monitoring service', ' ', 'security service', ' ', 'digital image security', ' ', 'digital asset protection', '']
-Pure Digital Technologies
-	Developer of digital imaging solutions for the mass market. The company offers one-time-use digital cameras and video camcorders, as well as point and shoot camcorders.
-	['', 'flip video', ' ', 'digital camcorder', ' ', 'digital camera', ' ', 'video camcorder', ' ', 'flip camera', ' ', 'digital imaging', '']
-NuCORE Technology
-	Developer of digital and analog imaging devices for digital still and video cameras. The company offers image, analog, and digital processors. It also provides development and evaluation platforms based on its chips, as well as software component building blocks, including a software API interface, a hardware evaluation kit, and image tuning tools. It’s products are used for various imaging applications, including hybrid cameras, security and surveillance systems, and digital projectors.
-	['', 'digital projector', ' ', 'video camera', ' ', 'hybrid camera', ' ', 'image tuning tool', '']
-Scalado
-	Operator of a mobile imaging company. The company develops software for creating, presenting and transferring image-based digital information.
-	['', 'mobile imaging', ' ', 'digital information', ' ', 'still imaging', '']
-UltraVisual Medical Systems
-	Developer of medical image distribution and visualization software. The company offers visualization technologies for use in primary diagnosis, clinical review and image distribution applications in hospitals, imaging centers and private radiology practices with comprehensive image management needs.
-	['', 'medical image distribution', ' ', 'medical image', ' ', 'visualization software', '']
-Sierra Imaging
-	Developer of a digital image management platform. The company provides digital camera components, embedded imaging chips, firmware and imaging application software.
-	['', 'digital image platform', ' ', 'embedded imaging chip', ' firmware']
-RotaryView
-	Developer of mobile applications for e-commerce websites. The company enables the users to shoot, upload and post high quality 360 degree views in under five minutes using RotaryView\'s free mobile app or any digital camera, compared to purchasing expensive industry equipment.
-	['', 'mobile apps', ' ', 'software support services', '']
-Check-Cap
-	Provider and developer of gastrointestinal imaging devices. The company provides a multi-disciplinary technology for the imaging and screening of the colon, as well as a screening system for colo-rectal cancer. The system includes a capsule, a receiver, proprietary imaging software and an associated database for web-based access and analysis.
-	['', 'cancer screening', ' ', 'imaging device', ' ', 'colon imaging', ' ', 'imaging software', '']
-Imsense
-	Developer of various methods for automated enhancement of images. The company develops and licenses algorithms to original equipment manufacturers (OEMs) and independent software vendors (ISVs) to improve and complement their own software products. It developed several digital image enhancement services, including a compression technology, that improve the quality of all digital images (including videos) to make them look real, and as actually remembered.
-	['', 'digital image enhancement', ' ', 'automated enhancement', ' ', 'licenses algorithms', ' ', 'video editing', '']
-OrthoScan
-	Provider of orthopedic imaging devices. The company produces medical devices that are used in the imaging of extremities in orthopedic surgery and for digital diagnostic imaging in the office.
-	['', 'orthopedic imaging', ' ', 'orthopedic surgery', ' ', 'orthopedic device', '']
+Pharmacopeia
+	Developer of novel small molecule therapeutics to address significant medical needs. The company has a portfolio of clinical and preclinical candidates under development internally or with partners including nine clinical compounds in Phase 2 or Phase 1 development addressing hypertension, diabetic nephropathy, muscle wasting, inflammation and respiratory disease.
+	['', 'small molecule', ' hypertension ', 'diabetic nephropathy', '']
+Argintex
+	Developer of therapeutics like small molecule inhibitors of arginase.The company’s arginase also leads to the production of ornithine which increases polyamine, stimulating cell division, and contributing to hyperplasia and fibrosis.
+	['', 'molecule inhibitor', ' ', 'pulmonary treatment', ' ', 'vascular disorder', ' ', 'arginase enzyme', '']
+Diaxonhit
+	Developer of RNA-based diagnostic tests. The company is engaged in developing RNA-based diagnostic tests and small molecule therapeutics for the treatment of Alzheimer\'s disease (AD) and cancer. Its Genome Wide SpliceArray (GWSA) platform is a patented microarray design that incorporates a specific probe configuration, enabling monitoring of RNA splice variants in humans, mice and rats.
+	['', 'diagnostic test', ' ', 'small molecule', ' ', 'RNA splice', '']
+Xanthus Pharmaceuticals
+	Developer of small-molecule therapeutics for the treatment of cancer and autoimmune disorders.
+	['', 'cancer treatment', ' ', 'small-molecule therapeutic', ' ', 'autoimmune disorder', '']
+HemaQuest Pharmaceuticals
+	Developer of small molecule therapeutics. The company develops small molecule therapeutics based on its short chain fatty acid derivative (SCFAD) technologies to treat anemia and other blood disorders.
+	['', 'blood disorder treatment', ' ', 'anemia treatment', ' ', 'small molecule therapeutic', '']
+Galileo Pharmaceuticals
+	Developer of small molecule therapeutics. The company specializes in the discovery of compounds that moderate the effects of oxidative stress and energetic perturbations on living biological systems.
+	['', 'small molecule therapeutics', ' ', 'metabolic diseases', ' oxidative ', 'metabolic stress', '']
+Gloucester Pharmaceuticals
+	Developer of cancer therapeutics. The company develops romidepsin, a histone deacetylase inhibitor and oncology drug candidate for T-cell lymphomas, as well as for the treatment of hematologic malignancies. It also develops treatments for hematological cancers, including cutaneous T-cell lymphoma, peripheral T-cell lymphoma, and multiple myeloma.
+	['', 'cancer therapy', ' ', 'hematological cancer treatment', ' ', 'cancer drug', '']
+Ardea Biosciences
+	Developer of small-molecule therapeutics. The company provides therapeutics for the treatment of gout, cancer and human immunodeficiency virus (HIV)..
+	['', 'small molecule therapeutic', ' ', 'disease treatment', ' ', 'gout treatment', ' ', 'cancer drug', ' ', 'cancer treatment', ' ', 'HIV drug', ' ', 'HIV treatment', '']
+Signase
+	Developer of small molecule inhibitors of a critical cell pathway for the treatment of a variety of solid tumors.
+	['', 'molecule inhibitor', ' ', 'solid tumor treatment', ' ', 'critical cell pathway', '']
+Pathway Therapeutics
+	Developer of therapeutics against human diseases. The company offers PI3 kinase, an enzyme identified as active in cancer tumor development.
+	['', 'drug development', ' ', 'cancer treatment', ' ', 'lifesciences and oncology', '']
+Tobira Therapeutics (acquired 2015)
+	Developer of antiviral compounds for treating HIV infection. The company develops TBR-652 and TBR-220 antagonists for the treatment of HIV/AIDS, hepatitis and other associated infectious conditions.
+	['', 'antiviral compound', ' ', 'HIV treatment', ' ', 'hepatitis treatment', '']
+ViroChem Pharma
+	Developer and producer of the drugs and pharmaceutical products for viral disease. The company manufacture, develop and produce the medicine products for viral infection, Hepatitis C (HCV) and human immunodeficiency virus (HIV).
+	['', 'pharmaceutical product', ' ', 'drug research', ' ', 'human immunodeficiency virus', '']
+Conatus Pharmaceuticals
+	Provider of human therapeutics to treat liver diseases. The company offers CTS-1027, an oral, small molecule and matrix metalloproteinase inhibitor for the treatment of liver disease.
+	['', 'human therapeutic', ' ', 'liver disease', ' ', 'drug discoverer', '']
+Stemline Therapeutics
+	Stemline Therapeutics Inc is a clinical-stage biopharmaceutical company. The Company is engaged in discovering, acquiring, developing and commercializing proprietary therapeutics that target both cancer stem cells, or CSCs, and tumor bulk.
+	['', 'oncology', ' ', 'cancer stem cell', ' ', 'interleukin receptor', ' ', 'hematological cancer', ' ', 'leukemia blast', '']
+Tacere Therapeutics
+	Developer of therapeutics for the treatment of serious infectious diseases such as Hepatitis C (HCV). The company utilizes gene silencing technology called DNA-directed RNA interference (ddRNAi).
+	['', 'Hepatitis C', ' ', 'RNAi therapeutic', ' ', 'RNA interference drug', '']
+Artesian Therapeutics
+	Developer of small molecule therapeutics for the treatment of cardiovascular diseases. The company provides small molecule drugs for congestive heart failure.
+	['', 'cardiovascular disease treatment', ' ', 'small molecule therapeutic', ' ', 'congestive heart failure', '']
+Adamas Pharmaceuticals
+	Developer of small molecule advantaged therapeutics to treat neurological and infectious diseases. The company also develops novel extended release and combination products for symptomatic treatment of dementia.
+	['', 'small molecule', ' ', 'advantaged therapeutic', ' ', 'neurological disease', ' ', 'symptomatic treatment', ' dementia']

@@ -1,39 +1,60 @@
-HAPTO Biotech
-	Developer of fibrin derived platform technologies. The company offers Fibrin Micro Beads for stem cell recovery and Haptides for cell attachment to fibrin. It\'s technology is used in the field of tissue engineering for the repair and replacement of skin and bone.
-	['fibrin ', 'tissue engineering', ' ', 'synthetic peptide', ' ', 'skin regeneration', '']
-Evotec International
-	Manufacturer of biopharmaceutical products. The company develops therapies for metabolic disorders based on model organisms and stem cell expertise.
-	['biomarker ', 'metabolic disorders', ' ', 'biopharmaceuticals services', '']
-Chromos Molecular Systems
-	Developer of artificial chromosome technology for use in biopharmaceutical production. The company focuses on the development of proprietary artiﬁcial chromosome expression system technology that is used to engineer production quality cell lines to manufacture biopharmaceutical products, including monoclonal antibodies and the development of human therapeutic products.
-	['', 'artificial chromosome technology', ' cell ', 'biopharmaceutical products', '']
-Cyntellect
-	Manufacturer of work stations used by biotechs for cell analysis, purification, and processing. The company\'s products support key applications to advance life science research, biopharmaceutical production, stem cell research and drug discovery.
-	['', 'cell analysis', ' ', 'life science', ' ', 'stem cell research', ' ', 'drug discovery', ' ', 'biopharmaceutical', '']
-Cellumen
-	Provider of cell-based drug discovery, early safety assessment, and discovery toxicology products and solutions for the biopharmaceutical researchers to create various efficacious, safe, and patient-targeted drugs.
-	['', 'patent targeted drug', ' ', 'drug discovery', ' ', 'discovery toxicology product', ' ', 'early safety assessment', '']
-Millipore
-	Provider of life science products and services. The company provides innovative products and services that help academic, biotechnology and pharmaceutical customers advance their research, development and production.
-	['', 'life science tool', ' ', 'pharmaceutical customer', ' ', 'life science products', ' ', 'healthcare device', '']
-TiGenix
-	Provider of treatments for damaged and osteoarthritic joints. The company\'s product focuses on cartilage repair in the knee as well as on the adult stem cell therapy.
-	['', 'cell therapy', ' ', 'cartilage repair', ' ', 'adult stem cell', '']
-Akubio
-	Provider of acoustic detection systems for real time analysis of bio-molecular behavior. The company develops acoustic biosensor instrument products for use in protein research and drug development.
-	['', 'drug discovery', ' ', 'acoustic biosensor', ' ', 'biomolecular interactions', ' ', 'detection technology', ' ', 'protein interactions', '']
-ReproCELL
-	Developer of stem cell technologies. The company is engaged in the research and development of regenerative medicine, stem cell assay and culture reagents for cancer treatment.
-	['']
-International Stem Cell
-	Developer of therapeutic and research products. The company develops stem cell technology called parthenogenesis for use in the treatment of several diseases including diabetes, liver disease, corneal disease and retinal disease through cell transplant therapy.
-	['', 'therapeutic products', ' ', 'research products', ' ', 'stem cell technology', '']
-Avacta Group
-	Developer of chemical and biological detection technology. The company provides technologies, consumables and reagents for the life science markets, from drug discovery to diagnostics. It is engaged in the research, development, production and delivery of instrumentation and services for the biopharmaceutical drug development and clinical diagnostics markets using biophysical technology.
-	['', 'protein formulation', ' ', 'protein characterization', ' ', 'stability testing', '']
-Kinetek Systems
-	Manufacturer of hollow-fiber bioreactors for cell culture and liquid-separations systems. The company\'s products are designed for laboratory- and developmental-scale production of biotechnology products and pharmaceuticals, as well as having applications for research and development.
-	['', 'fiber bioreactors', ' ', 'cell culture', ' ', 'liquid separations systems', ' ', 'laboratory production', ' bioreactors ', 'pharmaceutical production', '']
-California Stem Cell
-	Manufacturer of high-purity human cells for therapeutic development and clinical application. The company offers stem cell media, such as serum-free media for propagation of human embryonic stem cell, serum-free media for propagation of human myoblasts, serum-free media formulation to propagate hESC for laboratory research purposes.
-	['', 'human cell population', ' ', 'human motor neuron', ' ', 'stem cell', '']
+Care Team Connect
+	Provider of a care coordination platform. The company provides a technology platforms to coordinate between hospitals, community providers, family members, and patients. It provides solutions for clinical and financial performance throughout the continuum of care.
+	['', 'care technology platform', ' ', 'care coordination platform', ' ', 'care management', '']
+InteCardia
+	Provider of cardiac-imaging services and equipment to cardiologists. The company provides disease- and practice-management services focused on cardiology and cardiovascular medicine.
+	['', 'cardiac imaging', ' cardiology ', 'cardiovascular medicine', '']
+Grenslandhallen
+	Provider of event management services. The company offers spaces and accommodation for events such as concerts, theatrical productions, fairs and exhibitions.
+	['', 'event management', ' ', 'concert shows', ' ', 'live shows', ' ', 'event faculties', '']
+Openshift
+	Developer of deployment and management services in the cloud. The company provides a virtual "application capsule" to run business critical web applications with self-service deployment and management built in.
+	['', 'virtual application capsule', ' ', 'deployment service', ' ', 'virtual application', ' ', 'business application', '']
+Health and Productivity Corporation of America
+	Provider of health care management services. The company provides a continuum of care management services integrating health management, disease management, complex care management, disability management, workers\' compensation management and case management services.
+	['', 'health care management', ' ', 'health care service', ' ', 'disease management', ' ', 'complex care', ' ', 'disability management', '']
+Boston Heart Diagnostics
+	Provider of cardiovascular disease management services. The company provides cholesterol balance test and Boston Heart Navigator. It also conducts studies for the pharma industry and health care research organizations to support drug and therapy trials.
+	['', 'cardiovascular disease management', ' ', 'cholesterol balance test', ' ', 'healthcare research', ' ', 'cardiovascular disease', '']
+CleveX
+	Provider of skin biopsy and wound care management products. The company provides ExiClip, a surgical device that eliminates the surgery and suture approach used by medical professionals to remove skin lesions, and improves patient outcomes.
+	['', 'skin biopsy', ' ', 'cosmetic surgery', ' ', 'surgical devices', ' ', 'skin lesion', '']
+US Physicians
+	Operator of a physician practice management (PPM) company. The company is a manager of specialist practices engaged in providing disease management services for cancer patients.
+	['', 'medical practices', ' ', 'ancillary services', ' cancer ', 'disease management', '']
+Digital Campaigns
+	Provider of information management and IP-enabled solutions for political, non-profit and special interest groups. The company offers database-driven information management solutions for campaign management and fundraising management. The company also provides strategic advisory services to the customers in getting advantage out of new digital technologies.
+	['ASP', 'information management', ' ', 'digital technologies', 'real-time ePhone', 'telephone-based campaign', '']
+Digital Healthcare
+	Provider of healthcare information technology. The company provides image management and storage solutions for the Ophthalmology sector with core competencies in clinical information and patient care management.
+	['', 'ophthalmology', ' ', 'healthcare technology', '']
+Dotomi
+	Provider of Internet advertising and media management services. The company\'s full service solutions provide media, data management, campaign management, analytical and technical support.
+	['', 'media management', ' ', 'internet advertising', ' ', 'data management', ' ', 'campaign management', '']
+Ready Business System
+	Provider of computer data management services. The company provides information system management services and design & integration of web and e-commerce software for businesses.
+	['', 'data management service', ' ', 'information system management', ' ', 'web integration', ' ', 'e-commerce software', '']
+GrandCentral
+	Provider of phone management services. The company developed a service that allows users to use one phone number for all of their phones.
+	['', 'online service', ' ', 'online search service', '']
+Flatirons Solutions
+	Provider of XML-based software and services. The company offers professional services for information management in the areas of content management, XML publishing and digital asset management. The company also provides specialized technical data management products and services to the aviation and aerospace industries.
+	['XML ', 'professional service', ' ', 'content management', ' ', 'XML publishing', ' ', 'digital asset management', '']
+Presidium Holdings
+	Provider of managed care and administrative services for worker\'s compensation. The company provides complete set of claims management and managed care services that allow self-insured, mid-sized companies to manage their workers\' compensation.
+	['', 'administrative services', ' ', "worker\\'s compensation", ' ', 'claim management', '']
+Thap
+	Provider of internet application services. The company works with private and public employers to improve their health and disability management programs.
+	['attendance public']
+Novalis
+	Provider of outsourced management services for provider sponsored managed care networks. The company provides administrative, management and computing services to physician networks and managed care companies.
+	['', 'management service', ' ', 'care network', ' ', 'physician network', '']
+Sanovia
+	Provider of pharmacy management services. The company focuses on pharmaceutical administration, validation, utilization, cost, workflow management, fraud, abuse management and technology services.
+	['', 'managed care', ' ', 'pharmaceutical administration', ' ', 'PA Logic', '']
+GoIndustry Dovebid
+	Provider of asset management Services. The company offers auction and valuation services relating to industrial equipment.
+	['', 'asset management', ' auction ', 'industrial equipment', ' valuation']
+Oxford Archdigital
+	Provider of information management services to museums, archaeologists, local authorities and other heritage bodies. The company provides information which includes images, spatial data, web pages, electronic documents and structured text.
+	['', 'information management', ' ', 'heritage bodies', ' archaeologists']

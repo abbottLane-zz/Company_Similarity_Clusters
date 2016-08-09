@@ -1,18 +1,18 @@
-Redstone Communications
-	Developer of networking equipments and market service provider solutions that address the scalability, performance, reliability and quality of service issues associated with the transformation of the public Internet. The company\'s products include edge routers, which enable internet service providers to support multiple services.
-	['', 'networking equipments', ' ', 'internet service providers', ' ', 'edge routers', '']
-Mu Dynamics
-	Provider of proactive service assurance services for service providers, cable and network operators, government agencies and network product vendors to eliminate service downtime. The company offers Service Analyzer, an analyzer and service assurance platform that embodies a process to identify weaknesses in various IP-based applications or networks and generates remediation information to assist in resolving the discovered issues and verifying the efficacy of proposed fixes through an on-board regression database.
-	['', 'testing application', ' ', 'security testing', ' ', 'inspection system', ' ', 'cloud application testing', '']
-WiChorus
-	Developer of smart 4G packet core infrastructure products. The company\'s smartcore platform enable operators to deploy WiMAX and LTE networks with service and subscriber management, content management, and network optimizations, as well as to monetize the Internet.
-	['WiMAX ', 'LTE network', ' 4G ', 'smartcore platform', ' Internet software technology']
-AngioGuard
-	Developer of embolic containment technology. The company has developed containment technology designed to protect the heart and brain from embolic particles potentially dislodged during interventional medical procedures.
-	['', 'embolic containment technology', ' ', 'heart surgery', ' ', 'embolic particle protection', '']
-Simplicita Software
-	Developer of security products designed for service providers that identifies, isolates and fixes zombies. The company\'s products include Simplicita ZBX, a zombie remediation system designed for service providers that automates zombie identification, containment and disinfection and Simplicita NXD, a subscriber mediation application that allows the service provider to monetize website name errors by redirecting the subscriber experience to a search landing page.
-	['', 'security products', ' ', 'carrier networks', ' ', 'zombie discovery', ' phishing ', 'zombie remediation', '']
-Phurnace Software
-	Provider of Java application deployment. The company\'s products include Phurnace Deliver, which eliminates configuration-related errors and reduces dependency on scripting. It’s products also include Phurnace WebSphere Portal Deliver, which handles the dependencies that is managed when making changes to or releasing new portlets, applications, themes, skins, and contents. In addition, it offers on-site training services to improve Java application deployments. It’s solutions automate Web application deployments ranging from installation to deployment to upgrades, as well as eliminating manual error-prone processes.
-	['', 'java application', ' ', 'enterprise management', ' ', 'automation software', '']
+LRS Ortho
+	Developer of bone drilling device. The company develops computer-aided guiding device for accurate, effective aiming in bone drilling and cutting procedures.
+	['', 'bone device', ' ', 'bone drilling', ' ', 'medical device', '']
+B1 Medical
+	Manufacturer of medical devices for the orthopedics market. The company develops and markets products such as soft tissue monitoring, fracture fixation, IM nail alignment, tissue repair and small joint prosthesis products for trauma fixation in orthopedic fields.
+	['', 'orthopedics market', ' ', 'soft tissue monitoring', ' ', 'fracture fixation', ' orthopedic']
+Degradable Solutions
+	Manufacturer of degradable medical implants. The company develops and produces bone fixation implants which degrade in the body after fulfilling their function.
+	['', 'medical implants', ' ', 'degradable medical implants', ' ', 'bone fixation implants', '']
+Applied Spine Technologies
+	Developer of spine stabilization systems. The company develops Stabilimax Dynamic Spine Stabilization System, a posterior dynamic stabilization device to support an injured or degenerated spine without eliminating motion.
+	['', 'spine stabilization system', ' ', 'stabilization device', ' ', 'degenerated spine', ' ', 'eliminating motion', '']
+FacetMed
+	Developer of bone fixation medical devices. The comapny\'s devices are focused on development of safer implants for posterior spine surgeries to treat disorders mainly in the aging population.
+	['', 'medical implant', ' ', 'spinal surgery', ' ', 'bone fixation', '']
+Lunar
+	Developer of  bone disease diagnostic systems. The company develops, manufactures and markets bone densitometers and other related medical equipments and products for the treatment of osteoporosis and other metabolic bone diseases that causes excessive bone loss due to aging.
+	['', 'bone diseases', ' osteoporosis ', 'bone densitometers', ' ', 'bone loss', ' ', 'metabolic bone disease', '']

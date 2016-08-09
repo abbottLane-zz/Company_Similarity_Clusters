@@ -1,21 +1,51 @@
-Samba Sensors
-	Manufacturer of pressure-measuring system based on fiber optics and micromechanics. The company\'s pressure sensors are used for medical applications, such as measurement of respiratory pressure, counter pressure, pressure in the urinary tract, blood pressure and intracranial pressure.
-	['', 'pressure-measuring system', ' ', 'fiber optics', ' micromechanics']
-CheckPoint Pumps & Systems
-	Manufacturer of pumps. The company designs and manufactures chemical injection pumps and pump packages, control panels, pressure test systems, green energy services and process components.
-	['pumps', 'chemical injection pumps', ' ', 'pump packages', ' ', 'pressure test systems', '']
-Penn Process Technologies
-	Manufacturer of metering and process pumps. The company provides water treatment equipments.
-	['', 'water pumps', ' ', 'water treatment', ' ', 'volume pumps', '']
-On-line Technologies
-	Manufacturer of process control device. The company designs and manufactures an advanced range of gas analysis and wafer metrology products.
-	['', 'process control', ' ', 'gas analysis', ' ', 'wafer metrology', ' analysis']
-Pump Engineering
-	Manufacturer of advanced technology pumps. The company also provides technology turbo, low pressure turbo, low cost turbochargers, advanced variable speed pumps, gas processing and turbo plus systems.
-	['', 'technology pump', ' ', 'low pressure turbo', ' turbocharger ', 'variable speed pump', '']
-Cyrba
-	Manufacturer of whirlpool components. The company offers control systems, heaters, regulating valves, pop ups, light therapy, level sensors, air pumps and water pumps.
-	['', 'control systems', ' valves ', 'air pumps', '']
-Compumotor
-	Developer of motors and controllers for the semiconductor industry. The company designs, manufactures and distributes electronic components and systems used to control motion and precisely locate or vary speed in automation applications.
-	['', 'AC servo motors', ' ', ' DC servo motors', ' motor ', 'electronic component', ' semiconductor']
+Cardonet
+	Provider of master data management and product information management solutions for manufacturers and distributors in various industries. The company offers Synergy, a suite of enterprise software for the creation, management, synchronization and distribution of electronic product information inside companies and between trading partners.
+	['', 'data management', ' ', 'enterprise software', '']
+Optis Pristine
+	Developer of software products enabling engineers to visualize the impact of manufacturing variations on the final perceived quality of a product. The company\'s product, Aesthetica, can be used throughout the digital-product development process and enhances cross-functional collaboration and build quality.
+	['', 'manufacturing variation', ' ', 'digital product development', ' ', 'visualization software', '']
+ImpactXoft
+	Provider of software for product development. The company offers software support services and its suite enables industrial designers, product engineers, mold and tooling designers, and tool manufacturers to work together.
+	['', 'product development', '']
+RuleStream
+	Provider of standards based engineering solutions that help manufacturers to capture, manage and reuse product knowledge. The company provides software for automating the build-to-order process across engineering, manufacturing and sales.
+	['', 'software solutions', ' ', 'software engineering', ' ', 'Standards Based Engineering', ' ', 'Product Lifecycle Management', ' ', 'Engineering Resource Planning', ' ', 'knowledge software', '']
+ManageIQ
+	Provider of enterprise cloud management and automation software. The company provides an automation software that enables organizations to deploy, manage and optimize private clouds, virtualized infrastructures and virtual desktops. It delivers unified monitoring, management and automation through a single pane of glass across enterprise clouds and globally distributed data centers.
+	['', 'enterprise cloud management', ' ', 'automation software', ' ', 'virtualized infrastructure', ' ', 'virtual desktop', ' ', 'unified monitoring', '']
+Catalytic Software
+	Provider of offshore software product engineering services. The company offers technology services, such as application development, web enablement, product engineering, testing, managed programs and website designing.
+	['', 'product engineering', ' ', 'software engineering', ' ', 'website design', ' ', 'web development', ' ', 'software testing', '']
+Camilion Solutions
+	Provider of product development and management services for insurance and other financial services organizations. The company\'s software creates enterprise product agility with strategic initiatives such as product lifecycle management, product bundling and product rationalization.
+	['', 'product development', ' ', 'management service', ' ', 'product lifecycle management', '']
+VaST Systems Technology
+	Provider of tools and models for embedded system design automation. The company provides ESL engineering tools and models to companies involved in the engineering and manufacture of high-performance, real-time electronic systems integrating significant hardware, software and other technology components.
+	['', 'architectural analysis', ' ', 'virtual system prototyping', ' ', 'wireless technology', ' ', 'systems design', ' ', 'software development', '']
+Paxford
+	Provider of composite material engineering services.
+	['', 'material engineering', ' ', 'engineering service', ' ', 'composite material', '']
+Structural Dynamics Research
+	Provider of enterprise product development solutions with a suite of mechanical design automation software and product data management software. The company provides mechanical computer-aided engineering (MCAE) software and engineering services which help manufacturers optimize product development early in the design process.
+	['', 'automation software', ' ', 'data management software', ' MCAE ', 'mechanical computer-aided engineering', '']
+Maxim I/T
+	Provider of a software product named FindView. The company\'s product provides users a single gateway to access desired information required to make well-informed business decisions.
+	['', 'database software', ' ', 'findview', '']
+InPart Design
+	Developer of strategic sourcing software and content services for the industrial marketplace. The company provides web-based enterprise software and three-dimensional (3D) computer-aided design (CAD) model libraries of standard mechanical components to improve product development cycles and reduce component expenses for manufacturing companies.
+	['', '3D geometry', ' ', '3D models', ' ', 'technical specification', '']
+Accept Software
+	Developer of Enterprise Product Development technology. The company offers a collaborative approach to product planning for product professionals while transforming product outcomes.
+	['', 'enterprise product development', ' ', 'product development platform', ' ', 'consumer good', '']
+Adra Systems
+	Developer of computer-aided designing software used for industrial and mechanical processes. The company engages in providing software-aided mechanical casting and industrial processing services.
+	['', 'CAD software', ' ', 'computer-aided design', ' ', 'mechanical designing', '']
+Trinity Convergence
+	Provider of embedded software platforms that enable VoIP, voice and video over IP (V2IP) products and services. The company designs, develops and licenses comprehensive VoIP software solutions enabling equipment manufacturers to streamline the product development process.
+	['VoIP ', 'software platforms', ' ', 'software solutions', ' V2IP']
+Aspect Development
+	Operator of a software, data content and services company. The company provides component and supplier management (CSM) technology to manufacturers. The company\'s applications and supplier-information databases are focused on improving the product-development cycle. Its CSM technology targets the design and procurement processes of the manufacturing enterprise, providing design engineers and procurement personnel the ability to rapidly search, compare and select optimal designs, components and suppliers.
+	['', 'enterprise solution', ' CSM ', 'supplier database', ' ', 'data content', '']
+Mission Controls Automation
+	Provider of automation and process engineering services. The company designs, fabricates, installs and maintains automation, robotic controls, manufacturing systems, processing operations and consulting, for industrial plants and batch processing facilities.
+	['', 'Automation software', ' ', 'process engineering', ' ', 'robotic controls', '']

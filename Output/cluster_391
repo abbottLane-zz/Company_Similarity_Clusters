@@ -1,30 +1,18 @@
-BambooTori
-	Operator of a restaurant chain. The company provides Japanese food and serves all-natural chicken, beef, pork and vegetable skewers.
-	['Kushiyaki YAKITORI teriyaki grill meat ', 'skewered meats', ' char']
-Mervin Fine Wines
-	Importer and distributor of wines in China. The company is an importer of approximately 200 labels, which it sells through established distribution channels.
-	['', 'alcoholic beverages', ' ', 'hard drinks', ' ', 'fine wines', '']
-bla-bla.com
-	Provider of a low cost method for establishing as a content-rich Internet portal. The company was positioned to capitalize on the growing demand for online destinations that allow users to develop their own identities and establish relationships with other Internet users.
-	['', 'portal', ' ', 'website developer', '']
-Famgro
-	Provider of an indoor farming platform. The company provides a farming system equipped with a hydroponic growing system and an automatic harvesting system, that helps to grow produce in urban areas without use of pesticides.
-	['', 'indoor farming', ' ', 'farming system', ' harvesting farming']
-Les Nouvelles Jardineries
-	Operator of a garden-store chain. The company sells budget-priced garden supplies from its chain of stores in France and online.
-	['', 'garden store', ' ', 'gardening tool', ' ', 'flower seed', ' ', 'garden furniture', '']
-Frisørkjeden Tango Norge
-	Operator of a hairdressing chain. The company was established because of the growing demand for hair saloons.
-	['', 'hairdressing chain', ' ', 'hair saloons', ' saloons hair']
-EBERT Kettenspanntechnik
-	Producer of roll-ring chain tensioners. The company develops self-adjusting tensioners and damper roll-ring chain for various industrial applications.
-	['ROLL-RING ', 'chain tensioner', ' ', 'chain damper', ' ring']
-Ter Stal Textiles
-	Operator of a fashion chain. The company designs its own products and then outsources production to manufacturers.
-	['', 'fashion chain', ' ', 'clothing outsourcing', ' ', 'private label', '']
-SAF Simulation, Analysis and Forecasting
-	Developer of automated ordering software for retailers. The company provides demand-chain management, to enable process optimization along the breadth of the value chain.
-	['', 'forecasting software', ' ', 'automated replenishment', ' ', 'trade forecast', ' trade']
-Wanda Cinema Line
-	Operator of a movie theater chain. The company had a total of 1,616 screens, including 94 IMAX screens, in 182 cinema complexes in 100 cities in China.
-	['', 'movie services', ' ', 'movie theater', ' ', 'entertainment service', '']
+Nevada County Wine Guild
+	Provider of wines. The company provides spirits and beers under private label and national brands. It provides certified organic and sulfite-free wine.
+	['', 'organic wine', ' ', 'sulfite-free wine', ' spirit wine beer']
+Nanox
+	Developer of nanostructured perovskite-based catalyst formulations for emission control and alternative energy applications. The company offers products for diesel oxidation catalysts and particulate control, oxidation of carbon monoxide, volatile organic compounds oxidation and physico-chemical data applications.
+	['', 'emission control', ' oxidation energy']
+Wine Preserva
+	Developer of device to preserve the quality of wine. The company offers Wine Shield, an in-bottle floating lid that is a barrier to oxidation. The product is designed for consumers who open bottles but don\'t consume the contents immediately, and for restaurants and bars that sell bottled wine by the glass.
+	['preservation wine']
+Tasting Room
+	Provider of wine tasting service. The company allows consumer to taste the wine before purchasing it, by supplying a sample sized bottles.
+	['', 'wine tasting', ' ', 'sample sized bottle', ' ', 'wine acquistion', '']
+FirstCrush
+	Provider of personalized wine subscription service.
+	['', 'wine subscription', ' ', 'personalized subscription', ' ', 'wine purchase', ' ', 'consumer products', '']
+Lasso.it
+	Provider of an online service offering delivery of spirits. The company offers on-demand delivery of artisan wine, beer, spirits, soda and specialty foods including cheese, sweets and meat platters from local merchants and gourmet food shops.
+	['', 'food delivery', ' ', 'wine delivery', ' ', 'online alcohol', '']

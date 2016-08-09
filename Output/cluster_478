@@ -1,33 +1,57 @@
-Advanced DX
-	Provider of testing equipment and personnel for diagnosis of clinical conditions including diabetic retinopathy, neuropathies and peripheral vascular disease. The company gives primary care physicians the ability to diagnose these conditions so they can keep patients in house and generate revenue from diagnostic procedures.
-	['', 'testing equipment', ' ', 'testing personnel', ' ', 'primary care', '']
-AviaHealth
-	Provider of a web-based practice management tool designed specifically for ob/gyns. The company\'s online platform provides patient information and education, including information customized to a woman\'s own needs and internet linkages to facilitate patient\'s interaction with the doctor for routine matters.
-	['', 'practice management tool', ' ', 'internet linkages', ' ', 'patient interaction', ' ', 'online platform', '']
-OREX
-	Supplier of x-ray machines. The company provides computerized radiography products which enable medical practitioners to acquire patient\'s digital x-ray images anywhere.
-	['', 'x-ray machine', ' ', 'computerized radiography', ' ', 'digital x-ray image', ' ', 'Diagnostic Equipment', '']
-Homestead Clinical
-	Developer of diagnostic and prognostic tools. The company was founded to commercialize a suite of technologies developed at the Institute for Systems Biology (ISB) that have broad utility in the development of novel diagnostic tools.
-	['', 'diagnostic tool', ' ', 'prognostic tool', ' ', 'novel diagnostic tool', '']
-Digital Healthcare
-	Provider of healthcare information technology. The company provides image management and storage solutions for the Ophthalmology sector with core competencies in clinical information and patient care management.
-	['', 'ophthalmology', ' ', 'healthcare technology', '']
-Cancer Genetics
-	Developer of personalized medicines for cancer diagnostics as well as treatments that are tailored to the specific genetic profile of the individual. The company provides cancer patient management to diagnose, monitor and inform treatment of cancer.
-	['', 'cancer diagnostic', ' ', 'cancer treatment', ' ', 'cancer patient management', '']
-BetterFit Technologies
-	Developer of an artificial intelligence platform for personalized medicine to users. The company is committed to facilitating data-driven healthcare decisions for patients and providers.
-	['', 'artificial intelligence platform', ' ', 'personalized medicine', ' ', 'medical consultancy', '  ', 'prescription consultation', ' ', 'medication database', ' ', 'prescription database', ' ', 'prescription use', ' ', 'patient data', '']
-Awenydd Diagnostics
-	Provider of personalised medicine to German doctors. The company offers a drug interaction program combining metabolic genotyping which enables physicians to prescribe personalised medicine for their patients.
-	['', 'personalised medicine', ' ', 'metabolic genotyping', ' ', 'medicine prescription', ' medication']
-Abaton.com
-	Developer of Internet-based clinical applications for use by clinicians in ambulatory settings. The company provides clinical information, medical decision-making support, access to test results, order management and prescription-writing capability– opening electronic lines of communication to streamline functions and augment clinical workflow.
-	['', 'clinical application', ' ', 'information management service', ' workflow']
-Catalyst Oncology
-	Provider of information solutions that enable personalized medicine approaches to cancer patient management. The company provides clinical information to physicians, with an emphasis on proprietary testing and also provides diagnostic and prognostic information for individual patients, allowing physicians to create treatment plans that are tailored for each patient\'s needs.
-	['', 'medicinal information', ' cancer ', 'patient management', '']
-Prometheus Laboratories
-	Developer of diagnostic and therapeutic products. The company developing and commercializing novel pharmaceutical and diagnostic products to help physicians individualize patient care. It markets and promotes Entocort EC, a glucocorticosteroid, which is indicated for the induction and maintenance of clinical remission in mild to moderate active Crohn\'s disease involving the ileum and/or the ascending colon. It has an agreement to acquire rights to LOTRONEX tablets, which is used in female patients with diarrhea-predominant irritable bowel syndrome; and an agreement to develop and commercialize COLAL-PRED, a development-stage product for the treatment of gastrointestinal diseases or other applications.
-	['', 'therapeutic product', ' ', 'diagnostic testing service', ' ', 'inflammatory disease treatment', '']
+Buysight
+	Provider of search engine marketing platform for display advertising. The company provides services for both brand and performance advertisers and has developed an online display advertising network called ShopperConnecta for online e-commerce shopping market.
+	['', 'brand advertising', ' ', 'marketing platform', ' ', 'display advertising', '']
+Efficient Frontier
+	Owner and operator of digital performance marketing company that manages search and display optimization for marketers. The company also provides search engine optimization solutions.
+	['', 'digital marketing', ' ', 'performance marketing', ' ', 'search optimization', ' ', 'display optimization', '']
+Trada
+	Provider of pay per click advertising marketplace and crowdsourced search engine marketing services. The company has developed a pay per click marketplace that allows agencies and in-house advertisers to leverage the skills, who in turn earn risk free money by generating clicks and conversions for advertisers.
+	['', 'online advertising', ' ', 'advertising marketplace', ' ', 'online marketing', ' ', 'crowdsource marketing', '']
+New Media Gateway
+	Provider of web-based enterprise marketing services. The company\'s marketing services include search engine marketing, marketing analytics, creative design, email marketing, and serves the agency, franchise, financial, energy, healthcare and insurance industries.
+	['', 'marketing software', ' ', 'enterprise marketing', '']
+Eurekster
+	Provider of social search software services and technologies. The company\'s search portal and widget harness the knowledge and behavior of online communities to improve the search experience and creating online assets for Web publishers, infopreneurs and advertising inventory for marketers.
+	['', 'social search software', ' ', 'online community', ' ', 'customized search', '']
+Hurra Communications
+	Provider of integrated online marketing services. The company provides products and services on the subjects of search engine and dialogue marketing. The services provided by the company include search engine advertising, search engine optimization, conversation optimization, web analytics, performance display advertising and Facebook advertising.
+	['', 'search engine advertising', ' ', 'conversation optimization', ' ', 'web analytics', ' ', 'performance display advertising', ' ', 'integrated online marketing', ' ', 'online marketing', '']
+FullSpeed
+	Provider of an internet consulting and advertising service. The company provides listing advertising and search engine marketing services along with keyword selection, bid price adjusting, copywriting and other allied services.
+	['', 'website rank', ' ', 'internet marketing', ' ', 'advertising spots', '']
+Authenticlick
+	Operator of a web analytics company. The company specializes in web traffic intelligence services for online advertising optimization. It provides pay-per-click advertising audit and fraud detection technology and offers various services like identifying, verifying, documenting, scoring low quality click activity and helping to secure equitable refunds and credits.
+	['', 'campaign services', ' ', 'web analytic', ' ', 'ROI optimization', '']
+LVL7 Systems
+	Provider of software solutions to modern businesses. The company offers web design and development, Internet marketing, content management, search engine optimization, domain hosting, and e-commerce solutions.
+	['software application ', 'web design', ' marketing Internet ', 'search engine', ' domain hosting ', 'e-commerce', '']
+Goby Technologies
+	Operator of an online activity search engine and a mobile app that provides personalized activity recommendations. It offers information on various topics, such as hiking, beaches, parks, museums, restaurants, live music, family fun, outdoor recreation, offbeat activities, historic sites, bed and breakfasts, golf, and sports and games.
+	['', 'search engine', ' ', 'activity search engine', ' ', 'vertical search', '  ', 'recommendation engine', '']
+Searchdaimon
+	Provider of an open-enterprise search engine for corporate data and websites. The company provides a plug-and-play technology to search for knowledge and information from the Internet, documents, e-mails, attachments, customer-relationship systems and other content sources.
+	['', 'enterprise search', ' ', 'corporate search', ' SME']
+Vizibility
+	Developer of SearchMe (TM) button for Google which instantly returns the search results. The company provides one click people search services for career professionals. It also offers PreSearch Wizard, a process to design and manage custom search result on Google and generate personal SearchMe button.
+	['', 'web service', ' ', 'custom search', ' ', 'people search', ' ', 'online identity management', '']
+e-channel Online
+	Operator of an online marketing agency. The company engages in providing various advertising services such as strategic online marketing, media planning and campaign integration in the areas of mobile marketing, video advertising and search engine optimization.
+	['', 'online marketing', ' ', 'search engine', ' ', 'social advertising', '']
+Yield Software
+	Provider of an Internet marketing software for advertisers and digital media agencies. The company offers Web marketing solutions that automate, simplify, and optimize the process of marketing on the Internet. It also provides search engine optimization, which is a process of enhancing Web pages; search engine marketing, which evaluates keywords, ads, and bids; pay-per-click campaign management; and landing page optimization solutions.
+	['', 'Internet marketing software', ' ', 'Internet marketing application', ' ', 'Web marketing solution', ' ', 'search engine optimization', ' ', 'on-line marketing tool', ' ', 'Internet marketing', ' ', 'web marketing software', '']
+ClickMotive
+	Provider of an online platform for website design, video making, dynamic search and mobile websites. The company creates interactive marketing software for the automotive industry. The company\'s product, Fusion, includes dealer websites, auto group websites, regional websites, OEM websites, mobile websites, search engine marketing (SEM) programs, search engine optimization (SEO) expertise, video marketing, lead delivery, admin tools, content management, reporting analytics, customization and support.
+	['', 'website design', ' ', 'search engine programs', ' ', 'auto group websites', ' ', 'mobile websites', ' ', 'search engine marketing', ' ', 'search engine optimization', '']
+411
+	Provider of an online search engine in Canada. The company provides search platform for user to locate whatever contact he whats to get in Canada.
+	['', 'online search engine', ' ', 'search platform', ' ', 'database platform', '']
+Klikki
+	Operator of a digital marketing company. The company provides services such as search marketing, paid search, search engine optimization, brand and sales promotion using social media, website analytics, conversion optimization, integrated reporting services and display advertising.
+	['', 'website analytics', ' ', 'sales promotion', ' ', 'search marketing', ' ', 'search engine optimization', ' ', 'display advertising', '']
+MMC Networks
+	Manufacturer of network processors and switch fabrics. The company’s products include EPIF, XPIF, and GPIF Packet Processors; nPX5400 Gigabit Ethernet switching engine; ATMS 2000 ATM switching engine; and PS 1000 Fast Ethernet switching engine.
+	['', 'network processor', ' ', 'packet processor', ' ', 'switching engine', ' ', 'manufacturing company', '']
+Dealer.com
+	Provider of online marketing services for the automotive industry. The company offers a suite of web services, including automotive dealer websites, search engine marketing, advertising and optimization tools, lead and inventory management tools and the analysis tools for online marketing and advertising programs. It also provides LeadMachine that allows users to capture, track, organize and follow-up on leads from one single online location and video integration, integrated call tracking, performance analytics, advertising Return On Investment (ROI) and Website performance.
+	['', 'online marketing service', ' ', 'Web marketing service', ' ', 'inventory marketing', '']

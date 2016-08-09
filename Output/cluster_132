@@ -1,45 +1,54 @@
-Arcxis Biotechnologies
-	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
-	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
-FASgen
-	Developer of therapeutic drugs. The company designed and synthesized many compounds that selectively inhibit fatty acid biosynthesis. It offers cancer, infectious diseases, multiple drug resistant and latent tuberculosis and obesity and diabetes therapeutics.
-	['', 'therapeutic drugs', ' ', 'diabetes tool', ' ', 'latent tuberculosis', '']
-Movetis
-	Developer of drugs for the treatment of diseases in the gastrointestinal (GI) area. The company\'s products address GI disorders, such as severe chronic constipation, ascites, paediatric reflux, as well as severe forms of GI motility disorders, including refractory gastro-oesophageal reflux disease. Its lead product, Resolor, is used for the symptomatic treatment of chronic constipation in women.
-	['', 'gastrointestinal treatment', ' ', 'GI disorder', ' ', 'paediatric reflux', ' ascite gastrointestinal  constipation ', 'paediatric reflux', ' ', 'GI motility', ' ', 'refractory gastro-oesophageal reflux', '']
-TaiMed Biologics
-	Developer of biotechnology prevention and treatment solutions for viral infectious diseases that are causing serious harm to human health. Products in research include Tamiphosphor, a neuraminidase inhibitor for the treatment of influenza, and Ibalizumab, an HIV prophylactic drug.
-	['influenza HIV']
-Arana Therapeutics
-	Provider of biotechnology services. The company is focused on the development of antibody and peptide products for the treatment of inflammatory diseases and cancer.
-	['', 'inflammatory diseases', ' ', 'peptide products', ' ', 'research services', '']
-Penederm
-	Developer of products for the treatment of dermatologic disorders based on its topical delivery technology. The company\'s products are Mentax cream for the treatment of fungal infections of the skin such as athlete\'s foot, ringworm and groin fungus and Avita cream for the treatment of acne.
-	['', 'dermatologic disorders', ' Mentax ', 'fungal infections', ' ringworm ', 'anti fungus cream', ' acne']
-Ester Neurosciences
-	Developer of therapeutic products for the treatment of neurological disorders. The company provides novel therapeutic products for the treatment of neurological disorders such as myasthenia gravis, alzheimer disease, multiple sclerosis and acute stress reactions.
-	['', 'therapeutic product', ' ', 'neurological disorder', ' ', 'disease treatment', '']
-Intersect ENT
-	Developer of medical devices focused on the treatment of chronic sinusitis. The company\'s technology provides treatment for patients\' condition in which sinuses become swollen and inflamed, leading to difficulty breathing, facial pain or headache and reduced sense of smell and taste.
-	['', 'bioabsorbable drug', ' ', 'heart failure', ' ', 'chronic sinusitis', ' ', 'difficulty breathing', ' ', 'facial pain', '']
-Oxxon Therapeutics
-	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
-	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
-Cytoguide
-	Developer of combined drugs that target receptors on cells in pathological tissues. The company offers drugs that are aimed to improve the treatment of onocyte and macrophage-related diseases including autoimmune disease, leukemia and other infectious diseases.
-	['', 'combined drugs', ' pathological ', 'autoimmune disease', '  leukemia']
-IQ Therapeutics
-	Developer of human antibodies for the prevention and treatment of infectious diseases. The company provides research and development services and also offers technology as a service for third parties.
-	['', 'human antibodies', ' ', 'infectious diseases', ' ', 'anthrax infections', '']
-Lee\'s Pharmaceutical Holdings
-	Provider of pharmaceuticals for drug development and clinical development. The company specializes in cardiovascular and infectious diseases, dermatology, oncology, gynecology, ophthalmology and others.
-	['', 'infectious diseases', ' dermatology']
-Cantab Pharmaceuticals
-	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
-	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
-Tacere Therapeutics
-	Developer of therapeutics for the treatment of serious infectious diseases such as Hepatitis C (HCV). The company utilizes gene silencing technology called DNA-directed RNA interference (ddRNAi).
-	['', 'Hepatitis C', ' ', 'RNAi therapeutic', ' ', 'RNA interference drug', '']
-Xcyte Therapies
-	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
-	['', 'drug discovery', '']
+BlueSpace Software
+	Provider of cross domain applications and electronic messaging. The company serves the defense and intelligence communities by enabling the widespread adoption of multi-level security applications to help achieve US information dominance.
+	['', 'cross domain application', ' ', 'defense services', ' ', 'electronic messaging', ' ', 'security applications', '']
+Micro Technologies
+	Developer of transformational security devices. The company provides security products, including vehicle security systems, fleet monitoring systems, bike security systems among others.
+	['', 'vehicle security system', ' ', 'fleet monitoring system', ' ', 'security system', '']
+EdgeSeven
+	Provider of information security that delivers situational awareness capabilities to organizations.
+	['', 'situational awareness', ' ', 'secured content', ' ', 'secured data', ' ', 'security services', '']
+BioID
+	Developer of multimodal biometric-security systems. The company provides camera-based cloud recognition services to protect Internet and mobile users from identity  and data theft.
+	['', 'cloud authentication', ' recognition multifactor ', 'multimodal biometric authentication', ' ', 'face recognition', ' ', 'iris recognition', ' ', 'voice recognition', '']
+SafeCentral
+	Developer of security software applications and technologies for data loss prevention. The company offers software solutions and services for web browsing that provide security against identity theft by locking out desktop malware and establishing web connections. Its technology block key-loggers, screen-scrapers, and other malware agents; ensure a connection to the actual site; and provide protection for seamless integration into user’s existing browsing habits.
+	['', 'security software application', ' ', 'data loss prevention', ' ', 'data security', '']
+Cortex Vision Systems
+	Provider of automated video surveillance products. The company offers various security systems for industrial, commercial, governmental and high-end residential applications.
+	['surveillance ', 'smart camera', ' ', 'security systems', '']
+Netect
+	Provider of security software. The company provides security assessment and systems management software that identify and close security holes to prevent internal and external network intrusions, including attempts to hack into a network via the Internet.
+	['', 'security malware', ' ', 'network security', ' ', 'security assessment', ' ', 'system management software', '']
+Infosec
+	Provider of products and services for cyber-security. The company offers various services including security management consulting, secure technology consulting, development and operation of security systems and managed security services.
+	['cyber-security ', 'security management', ' ', 'security systems', '']
+AEP Networks
+	Developer of security and communications technologies to governments, enterprises and carriers in the United Kingdom and internationally. The company\'s products include Series A Secure Application Access, which is available as hardware or virtual appliance that enables secure web browser access to a range of business applications, Series E IPSec VPN Encryptor, an independently assured encryptor that protects IP traffic across networks, Series K Hardware Security Module, a hardware security module designed to generate, store and protect cryptographic keys for mission critical applications that demand maximum security and Series V Managing, a heterogeneous network that is used by armies and other agencies that require fast, reliable and secure deployable communications.
+	['', 'security application', ' ', 'communication technology', ' ', 'IP traffic', ' ', 'hardware appliance', '']
+Senforce Technologies
+	Provider of endpoint security solutions to the endpoint security enforcement market.
+	['', 'personal firewall', ' ', 'endpoint security', ' ', 'security solution', '']
+Nitrosecurity
+	Developer of security information and compliance management solutions that protect business information and infrastructure. The company offers products, including NitroView Enterprise Security Manager, NitroView LogCaster, and NitroGuard.
+	['', 'security information', ' ', 'business infrastructure', ' ', 'compliance management', ' ', 'analytical tool', ' ', 'data collection', ' ', 'event management', '']
+Reliant Protective Services
+	Provider of professional protective services. The company provides protection services which includes residential security, corporate security, loss prevention, executive body guard, executive transportation, armed security, rapid response team, private investigation to children, homes and businesses.
+	['', 'residential security', ' ', 'corporate security', ' ', 'loss prevention', ' ', 'armed security', '']
+Avo Photonics
+	Manufacturer of environmental control, fire and gas detection and security products. The company provides custom design and contract manufacturing services to customers in the military/aerospace, medical, communications, and commercial markets.
+	['', 'environmental control', ' ', 'gas detection', ' ', 'security products', '']
+Karotek Systemer
+	Provider of security systems for retail and cash handling and desktop security systems. The company specializes in the production of ballistic protection systems for vehicles and passenger cars. It also provides protection against anti-personnel, anti-tank blast mines and security systems for armored cash and bullion vans to prevent loss.
+	['', 'cash handling', ' ', 'armor security', ' ', 'specialist vehicle', ' ', 'desktop security system', ' ', 'defense system', ' ', 'modular system', ' ', 'security service', ' ', 'security glass', '']
+CipherMax
+	Provider of an enterprise-class storage security solution for securing information assets and achieving compliance with government regulations. The company offers a storage security system for tapes that provides line-speed encryption processing and centralized security administration solutions for legacy.
+	['', 'storage security solution', ' ', 'government regulation', ' ', 'storage security system', ' ', 'centralized security', ' ', 'encryption processing', '']
+NetOctave
+	Developer of Internet security solutions that provide high-performance, turnkey system security. The company designs security processors and accelerator boards that protect high-speed network communications. It builds security processors and security accelerator boards and cards for the SSL, IPsec and IP Storage markets.
+	['', 'internet services', ' ', 'Monitoring & Security', ' ', 'Network Security', '']
+Infrared Integrated Systems
+	Provider of thermal-technology products. The company designs, develops and manufactures radiometric thermal imagers, people counters, security sensors and other thermal-detection solutions for a wide range of commercial applications, including security, healthcare, supermarkets and smart-building technologies.
+	['', 'thermal technology', ' ', 'thermal imager', ' ', 'thermal imagers', ' ', 'people counter', ' ', 'people counters', ' ', 'security sensors', ' ', 'thermal detection', ' ', 'thermal', '']
+Redspin
+	Provider of information security assessments, risk management and compliance services. The company specializes in IT and web application security assessments, HIPAA security risk analysis, penetration testing and mobile device security assessments.
+	['', 'information security', ' ', 'information security assessments', ' ', 'penetration testing', ' ', 'security audits', '']

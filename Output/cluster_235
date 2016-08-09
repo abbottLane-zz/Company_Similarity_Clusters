@@ -1,12 +1,18 @@
-Westco Medical Holdings
-	Developer of technology for feeding tubes. The company develops technology related to nasogastric feeding tubes, including a device to test for the correct positioning of tubes when utilized by patients.
-	['', 'masogastric feeding tube', ' ', 'detect positioning', ' ', 'feeding tube', ' tube']
-Jensen Devices
-	Developer of high discharge tube technology (GDT). The company specializes in creating discharge tubes for ignition circuits for headlamps in the automotive industry and over-voltage protectors for industrial and telecommunications companies.
-	['', 'automotive tech', ' ', 'high voltage', ' ', 'voltage protectors', ' ', 'headlamps', '']
-AlgoNomics
-	Provider of structural bioinformatics services. The company provides structural bioinformatics tools to develop rationally designed therapeutics in the broad field of immunotherapy.
-	['', 'therapeutic protein', ' ', 'structural bioinformatics tool', ' immunotherapy']
-Finow Automotive
-	Manufacturer of components and parts for the automotive industry. The company manufactures tubes and profiles for chassis and engine applications to attain weight optimization and structural strength. The company also provides laser welding system for single tubes and tailored tubes.
-	['', 'component manufacturing', ' ', 'automotive industry', ' ', 'laser welding', ' ', 'steel tubes', '']
+Macrae Food Group
+	Manufacturer and seller of ready to eat seafood. The company provides a variety of chilled sea food products ranging from shellfish to fresh and smoked fish along with marinaded products. It also provides sea food processing services.
+	['', 'seafood products', ' ', 'marinaded products', ' ', 'smoked fish', ' ', 'food processing', '']
+Aquarionaute
+	Breeder of ornamental fish. The company breeds, markets and sells ornamental fishes for aquariums.
+	['', 'ornamental fish', ' ', 'fish breeding', ' fish ', 'exotic fish', '']
+Gascomer
+	Operator of a seafood processing company. The company processes, markets and sells seafood such as fish, crustaceans and molluscs .
+	['seafood ', 'seafood processing', ' ', 'seafood marketing', '']
+Channel Fisheries
+	Provider of fish and seafood. The company also supplies seafoods in the export markets in continental Europe, the Middle East and the US.
+	['seafood ', 'fish products', ' ', 'export fish', '']
+ALUmonte Technologiefortschritt in Aluminium
+	Operator of aluminum melting plants. The company processes its alloys and aluminum scrap through an oxidation and salt-free melting process that removes miscellaneous impurities.
+	['', 'oxidation-free remelting', ' ', 'miscellaneous impurity', ' ', 'aluminum-melting plant', ' ', 'clean aluminum', ' metallurgy']
+Reimes Rekefabrikk
+	Operator of a seafood-processing enterprise. The company processes and exports shrimp, fish, snails and other seafood.
+	['', 'seafood distributor', ' ', 'fresh seafood', '']

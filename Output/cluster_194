@@ -1,24 +1,24 @@
-Terumo
-	Manufactures & supplies medical tools & equipment
-	['']
-Visiometrics
-	Developer and manufacturer of medical instruments. The company develops and manufactures instruments to measure, diagnose and study of the visual capacities.
-	['', 'medical instrument', ' ', 'visual capacity', ' diagnose']
-Alpha Microelectronics
-	Manufacturer of fabless semiconductors. The company manufactures fabless semiconductors for custom-specific and standard ICs. It specializes in motor control & gate drivers, lighting, power management, sensors, RF, high-voltage applications and MOSFETs.
-	['', 'production service', ' ', 'microelectronics', ' ', 'radio data transmission', ' ', 'power circuit', ' ', 'high voltage', ' sensor ', 'power management', '']
-Spintech
-	Developer of composite parts with complex shapes and trapped features that easily integrate into current manufacturing processes. The company develops technologies and tooling services for composite manufacturing and structural repairs in defense and consumer market.
-	['', 'composite part development', " \\'composite manufacturing", ' ', 'industrial supply', ' defense']
-Heliotrope Technologies
-	Developer of materials and manufacturing processes for electrochromic devices. The company has a primary emphasis on manufacturing energy-saving windows.
-	['', 'commercial services', '']
-Precimed
-	Developer of surgical equipments. The company designs, develops, manufactures and supplies critical devices used in hip, trauma, knee and spine surgery.
-	['', 'surgical equipment', ' ', 'hip surgery', ' ', 'Knee Extraction Set', '']
-Plasmart
-	Developer of plasma generation and monitoring systems for semiconductors. The company manufactures, and supplies instruments and components used to measure, control and analyze productivity in semiconductor and other advanced manufacturing processes.
-	['', 'plasma generation', ' ', 'monitoring system', ' ', 'advanced manufacturing process', '']
-Ponte Solutions
-	Developer of model-based software products and design-for-manufacturing solutions that analyze, predict and reduce the impact of process variability during the manufacture and design of semiconductors.
-	['', 'semiconductor software', ' ', 'manufacturability solution', ' ', 'design automation', ' ', 'IC design', '']
+ARC International (Peripheral Connectivity Business)
+	Supplier of peripheral connectivity solutions.
+	['', 'connectivity solution', '']
+Devex Tecnologia e Sistemas
+	Provider of mine-management software services. The company engages in providing automation services for open-pit and underground mines.
+	['', 'mine management', ' ', 'mining operations', ' mines']
+SoftConnex Technologies
+	Provider of Universal Serial Bus (USB) host software. The company’s flagship product, USBLink Host, takes a modular approach to providing USB connectivity, thereby affording system engineers maximum flexibility with their product designs. Its software solution offers broad platform support and a complete library of USB device class modules.
+	['', 'host software', ' ', 'flagship product', ' ', 'usb link', ' ', 'usb connectivity', ' ', 'product design', ' ', 'broad platform', '']
+Cambridge Silicon Radio (Mobile Business)
+	Developer of mobile chip and handset. The company provides technology for handset connectivity.
+	['', 'mobile chip', ' ', 'handset connectivity', ' handset']
+Takumi Technology
+	Provider of design for manufacturability (DFM) products. The company engages in designing products that a easy to manufacture. The company also provides mask detection and automated full chip semiconductors.
+	['', 'design for manufacturing', ' ', 'semiconductor devices', ' ', 'electronic products', '']
+Relay Technology
+	Developer of connectivity software products. The company engages in providing network connectivity and terminal emulators to its consumers.
+	['', 'PC Connectivity services', ' ', 'network connectivity', ' ', 'terminal emulation', ' ', 'file transfer', ' connectivity']
+Club Parafarmacia Online
+	Operator of an online store that provides para-pharmaceutical products. The company engages in providing cosmetics and healthcare product online. It also provides medical advisory services to its customers.
+	['', 'para-pharmaceutical product', ' ', 'medical advisory services', ' ', 'medical advice', ' ', 'cosmetic products', '']
+NextPoint Networks
+	Provider of secure connectivity software to telecommunications providers.
+	['software program appplication ', 'secure connectivity software', '']

@@ -1,21 +1,30 @@
-Naratte
-	Developer of wireless technology. The company develops Zoosh, a technology that provides benefits of near-field communication based on ultrasonic technology, utilizing the speakers of mobile devices.
-	['', 'wireless technology', ' ', 'ultrasonic technology', ' zoosh']
-NFi Studios
-	Provider of web technology that connects member & industry communities. The company\'s technology provides professional networking for associations, builds relationships, drives businesses and connects members.
-	['', 'web platform', ' ', 'member community', ' ', 'social technology', '']
-Modesat Communications
-	Developer of point-to-point modem technology. The company offers modem technology products for wireless and wired communication applications.
-	['', 'modem technology', ' ', 'wired communication application', ' ', 'wireless communication application', '']
-ViVOtech (Reader Business)
-	Provider of contactless/near field communications (NFC) payment software. The company\'s products include contactless payment systems; ViVOnfc, an OTA infrastructure software for NFC mobile payments and promotions; and ViVOplatform, which provides retailers with the software platform for promotional and loyalty applications.
-	['', 'financial software', '']
-Sentica
-	Provider and developer of wireless convergence solutions. The company provides universal application enabling infrastructure for mobile devices enabling communication between any application and any wireless device.
-	['', 'wireless convergence solutions', ' ', 'mobile device', '']
-ViVOtech
-	Provider of software and hardware for the Near Field Communication (NFC) mobile payment and promotion market. The company provides contact-less/near field communications (NFC) payment software, NFC smart posters, contact-less readers/writers and over the air card provisioning, promotion and transaction management infrastructure software.
-	['', 'contactless payment solution', ' ', 'Near Field Communication software', ' ', 'Near Field Communication hardware', ' ', 'near field communications payment software', ' ', 'transaction management infrastructure software', ' ', 'NFC mobile payment', ' ', 'wireless non-cash transaction', ' ', 'credit card', ' ', 'rf card', '']
-Medit-Medical Interactive Technologies
-	Operator of a wireless communication platform. The company provides ultrasonic communication modems that offer wireless communications for applications.
-	['', 'broadband coomunication', ' M2M modems']
+Primary Rate
+	Producer of computer network products and software. The company develops subsystem products and sells technology licenses worldwide. The company also provides high speed wide area connectivity using standards-based architectures and protocols.
+	['connectivity ', 'Frame Relay', ' ', 'leased lines', '']
+Efficient Networks
+	Developer of high-speed customer premises equipment (CPE) that employs digital subscriber line (DSL) technology. The company\'s products enable applications as high-speed Internet access, secure access to computer networks from remote locations, telecommuting, and extensions of corporate networks to branch offices.
+	['', 'high-speed internet', ' ', 'digital subscriber line', ' telecommuting']
+Firecomms
+	Provider of plastic optical fiber high-speed data networking services. The company develops high-speed light sources in visible range wavelengths.
+	['', 'optical fiber', ' ', 'light source', ' ', 'fiber optic', ' transmitters']
+Octalica
+	Developer of integrated chipset for high speed home multimedia networking over existing coax infrastructure. The chipset developed by the company enables sharing high-definition multimedia entertainment services across homes, bundled with data and voice communications.
+	['chipset ', 'coax infrastructure', ' ', 'multimedia entertainment', '']
+Epigram
+	Provider of advanced technology and products for high-speed residential networking.
+	['', 'residential networking', '']
+Erenis
+	Operator of optical fiber equipments to deliver telecommunication services in the French residential market. The company provides broadband telecommunication services and internet access for the development of new services resting on high-speed bandwidth.
+	['', 'fiber optic', ' ', 'communication services', ' ', 'residential service', ' ', 'high-speed bandwidth', '']
+Alphachips
+	Manufacturer and designer of semiconductor systems. The company provides semiconductor services that owns multiple application specific integrated circuits (IPs), system on chips (SoC) and products such as MHL and HDMI based on knowledge of high speed data transmission.
+	['', 'semiconductor system', ' ', 'data transmission', ' ', 'integrated circuit', '']
+Loran International Technologies
+	Operator of a data networking company. The company is a system integrator of high speed networks.
+	['', 'data networking', ' ', 'system integrator', ' ', 'internet network', '']
+Big Bear Networks
+	Developer of interface solutions for networks that operate at 10 Gb/s and higher rates. The company delivers a range of high-speed devices for optical/electrical interface.
+	['', 'electrical interface', ' ', 'high-speed device', ' ', 'network interface', ' “optical network”']
+FTTH Communications
+	Provider of facilities-based fiber optic network. The company provides video, telephone and ultra high-speed internet services to residential customers.
+	['', 'fiber optic network', ' ', 'facility network', ' ', 'optic network', '']

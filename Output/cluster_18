@@ -1,39 +1,24 @@
-Carpetland
-	Operator of floor covering stores. The company provides variety of carpets to customers.
-	['', 'floor covering', ' ', 'carpet stores', ' carpet']
-Snaptracs
-	Developer of pet GPS tracking systems for pet owners. The company offers a GPS pet tracking device that uses GPS and wireless technology to locate and track the activities of pets from desktops or mobile devices.
-	['', 'GPS tracking system', ' ', 'wireless technology', ' ', 'pet tracker', '']
-A World of Tile
-	Owner and operator of a chain of retail tile and stone stores. The company\'s stores offer stone, ceramic, and porcelain tile products, as well as installation seminars.
-	['tile stone ceramic porcelain florring retail store']
-FamilyPet
-	Provider of marketing services for the pet industry. The company operates websites that offer information about services and merchandise for dogs, cats and other breeds to pet-owners.
-	['', 'pet market', ' pet ', 'pet industry', '']
-Suvianda
-	Operator of retail grocery stores. The company operates retail grocery stores specializing on Mexican food products.
-	['', 'B2C Services', ' ', 'Department Stores', '']
-PetStuff
-	Operator of pet food stores. The company operates a pet supply superstores in the Eastern United States.
-	['', 'pet food', ' ', 'pet care', ' ', 'supply chain', '']
-Enviro Global
-	Provider of real estate-related and marketing information databases. The company develops advanced data compilation, transformation and delivery technology designed to transform and distribute substantial amounts of information from disparate sources. They provide information through Internet licensing agreements and under long-term service contracts to multiple listing services, realtor associations, and other information companies located primarily in the eastern United States.
-	['', 'data compilation', ' ', 'marketing information', '']
-Re Pet
-	Manufacturer of recyclable plastic sheeting for food companies and supermarkets. The company makes PET material, which is used to make drinks bottles and is used by the retailers.
-	['', 'recyclable plastic sheeting', ' ', 'drinking bottle', ' recycle']
-Tu Otro Super
-	Operator of an online food and consumer goods store. The company is an online supermarket selling branded grocery, perfume, food, pet products.
-	['', 'online food', ' ', 'consumer goods store', ' ', 'online supermarket', '']
-Allpets.com
-	Provider of an online pet magazine and encyclopedia. The company provides valuable information, education and pet products to the consumer and business markets.
-	['', 'pet magazine', ' ', 'pet encyclopedia', ' ', 'pet product', ' ', 'pet information', '']
-Imperium Renewables
-	Producer of biodiesel from feedstock oils and glycerin, a by-product of biodiesel. The company operates BQ-9000®-certified biodiesel facilities in the United States.
-	['biodiesel ', 'clean energy', ' ', 'green energy', ' ', 'waste management', ' ', 'sustainable fuel', '']
-Retail Info
-	Operator of a website focused on online shopping. The company provides promotional offers to clients visiting supermarkets, consumer electronics stores, and DIY stores. The company also operates price comparison engines for products offered by online stores.
-	['', 'online shopping portal', ' ', 'online shopping platform', ' ', 'internet retail services', '']
-IPET Holdings
-	Provider of products and services for the pets. The company offers pet accessories and supplies to the consumers over internet.
-	['', 'pet products', ' ', 'pet accessories', ' ', 'consumer products', '']
+CrystalVoice
+	Provider of quality-of service-software for VoIP solutions.
+	['', 'clear voice communication', ' ', 'clear voice', ' ', 'voice communication', '']
+Combrio
+	Provider of remote product services (RPS) software to managed services, enterprise information technology and industrial automation organizations to monitor and manage remote devices. The company’s products include Virtual Service Infrastructure software solution (VSI), an RPS ecosystem that provides the service delivery solutions for service providers, remote device monitoring and management solutions for service organizations and the service control solutions for enterprises.
+	['', 'remote product services', ' ', 'managed services', ' ', 'enterprise information technology', ' ', 'industrial automation', ' ', 'remote devices', '']
+NativeMinds
+	Provider of Virtual Representatives or vRepsTM, which offers self-service solutions for Web customers. The company\'s software and services are used by organizations to answer product and service inquiries.
+	['vRepsTM ', 'Virtual Representatives', ' ', 'self-service solutions', ' ', 'application software', '']
+NTRglobal
+	Provider of remote access technology and services for information technology (IT) service management and external customer support applications worldwide.
+	['', 'remote access technology', ' ', 'customer support application', ' ', 'service management', '']
+EXFO Service Assurance
+	Provider of open and extensible converged service assurance solutions for the service providers and enterprises of voice, video, data, and mobile services. The company also provides customization, design, installation, configuration, integration, operations, and educational services. It serves carriers, cable MSOs, managed service providers, large enterprises, and mobile operators.
+	['', 'mobile service', ' ', 'education service', ' ', 'management software', ' ', 'video content', '']
+Wisor Telecom
+	Provider of e-sourcing solutions for communications services. The company\'s products control service inventory, help in auditing, reconciliation of vendor/supplier invoices, manage vendor performance, facilitate on-time service delivery and manage service rules.
+	['', 'communication services', ' ', 'service management', '']
+Avenda Systems
+	Provider of network access solutions for user and endpoint authentication and posture assessment. The company offers trust and identity policy solutions for enterprises and government organizations internationally. It also provides a proactive resource management solution that secures networks and organizations from threats before the user gains access.
+	['', 'network access', ' ', 'endpoint authentication', ' ', 'posture assessment', ' ', 'identity policy', ' ', 'management solution', '']
+NetSolve
+	Provider of enterprise data networking services. The company offers services for managing remote network and complex IT infrastructures with remote management technology. It also helps in monitoring and management of IP communications networks, security software and devices, WANs and LANs and also offers a secure web-based portal to give customers and partners real-time visibility of their IT infrastructure.
+	['', 'IT infrastructure', ' ', 'remote network', ' ', 'software infrastructure', ' monitoring firewall']

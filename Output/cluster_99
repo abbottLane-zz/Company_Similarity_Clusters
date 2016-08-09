@@ -1,30 +1,36 @@
-BioLucent
-	Operator of women\'s health company, involved in the early detection and treatment of breast cancer. The company manufactures and markets the MammoPad breast cushion, a radiolucent foam cushion that breast centers use to provide women with a mammogram.
-	['', 'breast cancer', ' ', 'MammoPad breast cushion', ' ', 'radiolucent cushion', '']
-NewRiver
-	Provider of innovative technology solutions that simplify investor disclosure, transparency and cost savings to the delivery of fund data and investor communications. The company pioneered the first electronic prospectus, and guarantee its data to be "compliance grade" which allows customers to reduce risk, lower compliance costs and increase revenues.
-	['compliance ', 'summary prospectus', ' ', 'share class analysis', '']
-Z-Tech
-	Developer of cancer screening technology. The company has developed a a system that detects changes in electrical charges that occur when normal tissue undergoes malignant changes. The first use of this technology has been in the development of a medical device for the detection of breast cancer in a screening environment.
-	['', 'monitoring equipment', ' ', 'medical diagnostic', ' malignant']
-RGene Therapeutics
-	Developer of gene therapy and other nucleic acid-based drugs. The company intends to develop and commercialize gene therapies for in-vivo approaches to ovarian and breast cancer, an ex-vivo anti-sense treatment for chronic myelogenous leukemia and other applications of its gene and nucleic acid delivery systems.
-	['', 'gene therapy', ' ', 'nucleic acid', ' ', 'breast cancer', ' ', 'chronic myelogenous leukemia', '']
-Orthotopix
-	Developer of modelling products for cancer research. The company is a provider of cell, tissue and animal models modelling the prevention and treatment of breast cancer and prostate cancer, urodynamical models of urethral function and a cell line-based safety model of the endometrium. The company provided its products and services to drug-development companies.
-	['', 'drug development', ' ', 'healthcare service', ' ', 'tissue modeling', '']
-Seragon Pharmaceuticals
-	Developer of orally active selective estrogen receptor degraders (SERDs) that represent a treatment for metastatic breast cancer. The company is developing breast cancer pharmaceuticals based on the selective estrogen receptor degraders platform, including its lead drug candidate, ARN-810, under evaluation for ER+ breast cancer.
-	['', 'breast cancer', ' ', 'estrogen receptor degrader', ' metastatic']
-Semler Scientific
-	Provider of medical risk-assessment services. The company\'s mission is to develop, manufacture and market patented products that identify the risk profile of medical patients to allow healthcare providers to capture full reimbursement potential for their services.
-	['', 'risk assessment', ' ', 'risk analysis', ' ', 'medical assessment', ' ', 'risk profile', '']
-Suomen Terveystutkimus
-	Provider of breast-cancer screening products and services. The company develops products and performs mammography screenings along with other clinical tests, to detect and treat breast cancer.
-	['', 'breast cancer', ' ', 'mammography screening', ' ', 'cancer treatment', '']
-NaniRx Therapeutics
-	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
-	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
-Windy Hill Medical
-	Developer of medical devices to reduce the risk of developing breast cancer in high risk patients. The company intends to develop intraductal therapy for the prevention of breast cancer.
-	['', 'breast cancer', '']
+Construcciones Tecnicas De Radioterapia
+	Provider of healthcare construction and engineering services. The company specializes in the construction and installation of radiotherapy facilities and radiation-protection areas.
+	['', 'construction services', ' radiotherapy']
+Hämeen Teräsrakenne
+	Developer of steel structures. The company engages in building engineering and specializes in developing balconies, stairs and elevator shafts.
+	['', 'steel structure', ' ', 'metal construction', ' balconies']
+SweTree Technologies
+	Developer of technologies for improving the value and productivity of trees and wood fibers. The company provides products and technologies to improve the productivity and performance properties of plants, wood and fiber for forestry, pulp & paper, packaging, hygiene, textile and other fiber related industries.
+	['forestry ', 'wood fibers', ' ', 'performance properties of plants', ' ', 'value of trees', '']
+LEDUC
+	Operator of a construction company. The company specializes in wood framing for stairs and industrial structures.
+	['', 'construction company', ' ', 'wood framing', ' ', 'traditional frames', ' ', 'industrial structures', ' ', 'joinery and partitions', '']
+Q1 Carrier
+	Developer and distributor of telecommunications services. The company specializes in customized applications for businesses seeking to optimize internal processes and operational cost structures.
+	['', 'telecommunication service', ' ', 'customized application', ' ', 'value added service', '']
+JPS Groupe
+	Provider and seller of goods and equipment to industries. The company focuses on selling and renting products for industrial and construction purposes.
+	['leasing trading ', 'building trade', '']
+EDX Systems
+	Provider of automated IT and data services. The company specializes in data converting, testing, automation, construction of processes, reporting and quality control.
+	['', 'automation', ' ', 'it service', ' ', 'data convert', ' ', 'data testing', ' ', 'process construct', ' ', 'quality control', ' ', 'data reporting', '']
+MEAC
+	Provider of microwave energy applications for industrial use. The company provides microwave technology powered industrial installations for applications in the food industry and wood, glass and plastic processing industries.
+	['', 'microwave energy', ' ', 'industrial installations', ' ', 'microwave technology', '']
+Warrior Group
+	Operator of a permanent modular construction company. The company provides construction services for projects such as military barracks, retail establishments, classrooms and medical buildings.
+	['', 'modular construction', ' ', 'construction company', ' ', 'medical building', '']
+GenesisTP
+	Provider of light-steel building technologies. The company specializes in manufacturing of light-steel framed structures which are used to build residential and commercial structures throughout the world.
+	['light-steel ', 'building materials', ' ', 'building technologies', '']
+Gete Construction
+	Provider of home construction services. The company specializes in the sale of standard single-family homes for customers.
+	['', 'home construction', ' ', 'home builder', ' homes ', 'construction project', '']
+CUARZOS GRANULADOS
+	Provider of stone shaping, finishing and transportation. The company specializes in the cutting of stone for both urban and commercial uses such as counter tops and displays.
+	['', 'stone cutting', ' ', 'stone shaping', ' ', 'material transportation', ' ', 'mining', ' ', 'quarry', '']

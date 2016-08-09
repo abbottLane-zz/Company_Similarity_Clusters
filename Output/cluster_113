@@ -1,15 +1,42 @@
-Restricted Stock Systems
-	Provider of software services to financial institutions and public companies. The company provides commercial software to manage trading plans in addition to software and services for processing and reporting of restricted stock and insider trading compliance.
-	['', 'commercial software', ' ', 'trading plans', ' ', 'restricted stock', ' reporting']
-One2Like
-	Provider of social dating service. The company provides a platform that brings people together to communicate with others or simply want to meet new people.
-	['', 'dating service', ' ', 'dating platform', '']
-Track.com
-	Provider of a platform for investment research and market ideas. The company provides a platform for research analysts, market participants and investment managers to share ideas with institutions, high net worth individuals and other market participants.
-	['', 'financial research', ' ', 'investment research', ' ', 'financial information sharing', '']
-Stockr
-	Provider of social network for the investment community. The company provides a platform where investors, analysts and public companies can communicate directly about financial news, stocks, market trends, investment ideas and more.
-	['', 'investment community', ' ', 'social community', ' ', 'online investment information', '']
-FreeEdgar
-	Provider of products and services that deliver financial data to analysts and investors. The company engages in the delivery and extraction of critical information from electronic filings made by public companies and investment managers to the SEC.
-	['', 'electronic filings', ' ', 'stock information', ' ', 'financial data', '']
+MatrixOne
+	Provider of collaborative product lifecycle management technology and software. The company provides line of products which helps organizations to collaborate different departments and geographic locations, customers, suppliers and other business partners.
+	['', 'collaborative software', ' ', 'internet platform', ' ', 'product lifecycle management', '']
+Cloud.com
+	Provider of open source software solutions for enterprises and service providers. The company offers an open source software solution that accelerates the deployment, management, and configuration of multi-tier and multi-tenant infrastructure cloud services. The company also provides subscription services, which include technical support, training courses, and knowledge base access, as well as security updates, patches, and bug fixes.
+	['', 'open source', ' ', 'software solution', ' ', 'cloud service', ' ', 'bug fixing', ' ', 'security update', ' ', 'technical support', '']
+Breastfeeding.com
+	Provider of support and information on breastfeeding for first-time moms. The company operates an online community of mothers and birth related medical professionals for support and advice. It also provides information and support on various child health and growth issues ranging from child care and safety to potty training and teething.
+	['', 'online community', ' ', 'medical professional', ' ', 'child care', ' ', 'child health', '']
+BlackFoot
+	Provider of campaign analysis and marketing intelligence management tools.
+	['', 'campaign analysis', ' ', 'marketing intelligence', ' ', 'data modeling', '']
+Crossgain
+	Developer of tools and applications to enable customers to build web services. The company rely on emerging Web standards that make it easier for applications to talk to one another, as well as on open-source technologies such as the Linux operating system.
+	['', 'web service', ' ', 'wed standard', ' ', 'operating system', '']
+SignaCert
+	Provider of partner-based information technology (IT) compliance solutions for organizations and government agencies in the United States. The company’s products detect, assess and provide the notifications of compliance issues; provide the whitelist measurements of commercially available and open source software. Its products enable IT organizations to prove compliance with standards and regulations.
+	['', 'partner based IT', ' ', 'software whitelist measurement', ' ', 'standard compliance', ' ', 'compliance notification', ' ', 'prove compliance', ' ', 'regulation compliance', '']
+Mandriva
+	Provider of enterprise free software products and solutions to the professional market. The company develops and distributes Linux globally. The company also provides server products and open source I.T infrastructure management solutions.
+	['Linux ', 'Open Source', ' freeware']
+ObjectRocket
+	Provider of a cloud Database as a Service based on MongoDB database. The company provides open source-based MongoDB system that help users to manage big data.
+	['', 'cloud database', ' ', 'database management system', ' ', 'MongoDB database', '']
+Utilicase
+	Provider of IT consulting and integration services. The company offers a range of asset care optimization and investment planning services. It provides a software platform designed to help companies manage and optimize their resources.
+	['', 'IT consulting', ' ', 'integration services', ' ', 'asset care', ' ', 'investment planning', ' ', 'asset management software', '']
+Oculis Labs
+	Developer of cybersecurity software. The company provides a software platform designed to protect visual on-screen data by blurring the images from nearby viewers who are not the computer\'s users.
+	['', 'data privacy', ' ', 'privacy software', ' ', 'information system', '']
+MontaVista Software
+	Provides Linux tools to the embedded software market. The company’s products include Market Specific Distributions (MSDs) for MontaVista Linux 6, which provides support for industrial automation, automotive, Android, portable multimedia devices, and multicore networking applications, and DevRocket, an Eclipse-based integrated development environment for embedded Linux platform and application development.
+	['', 'operating systems', ' ', 'embedded software', '']
+MetaCarta (Enterprise Group)
+	Developer of e-commerce tools and services. The company provides geographic intelligence solutions, map-driven geographic search, geographic referencing and data visualization capabilities.
+	['', 'geographic intelligence solutions', ' ', 'geographic search', ' ', 'wireless services', ' ', 'location-based application', '']
+SourceLabs (Certain Assets)
+	Provider of support and management tools for Linux and open source software. The company offers a software platform designed to manage petabytes of information across large geographic locations.
+	['', 'Linux support tool', ' ', 'linux management tool', ' ', 'open source software', ' ', 'information management', '']
+RedPath Integrated Pathology
+	Provider of support services for oncology cases. The company operates as a reference laboratory and serves pathologists, clinicians and patients. It offers PathFinderTG, a testing platform for resolving diagnoses from the original pathology specimen.
+	['', 'oncology case', ' ', 'reference laboratory', ' ', 'diagnostic platform', '']

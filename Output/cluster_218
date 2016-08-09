@@ -1,30 +1,51 @@
-Indeed
-	Provider of an online job searching portal. The company acts as an external source of hiring and an employer review site.
-	['', 'online search engine', ' ', 'job searching portal', ' ', 'hiring source', ' ', 'employer review site', '']
-Metirato
-	Operator of a social recruiting media. The company provides tools that helps job seekers to upload their profile and employers can find the candidates that match their profile best.
-	['', 'social recruiting media', ' ', 'job search', ' ', 'recruitment services', '']
-Joblocal
-	Provider of an online platform for staffing and recruiting services. The company provides a mobile and smart phone application that aggregates local and regional job listings in Germany. The product functions as a marketing and human resources tool for employers, in addition to an information source for job seekers.
-	['', 'business services', ' ', 'recruiting service', ' ', 'staffing and recruiting', '']
-CodeEval
-	Provider of a technical screening platform for the auto evaluation of programming challenges. The company enables employers to identify promising candidates from a crowd of applicants by creating challenges and viewing their live coding submissions and helps freelancers/developers to sharpen their skills by competing with their peers.
-	['', 'hacker platform', ' ', 'recruit developer', ' ', 'technical screening', '']
-GroupTalent
-	Provider of a hiring platform that brings together talent and employers. The company aims to connect job-seekers and employers with each other’s preferences creating a relevant hiring experience.
-	['', 'hiring marketplace', ' ', 'job matching', ' ', 'software project hiring', ' ', 'software marketplace', ' recruiting']
-JobFlash
-	Provider of hiring solutions for hourly and managerial employees. The company offers IVR technology and candidate scheduling services for restaurants, window cleaners, manufacturers, hotels, casinos, retail stores, and hospitality.
-	['', 'hiring solution', ' ', 'managerial employee', ' ', 'ivr technology', ' ', 'employee service', ' ', 'candidate service', '']
-itzBig
-	Operator of an interactive job search website. The company provides an interactive job search website that matches employers and candidates in real-time.
-	['', 'online job search', ' ', 'online recruitment', ' ', 'interactive job search', '']
-Work For Pie
-	Developer of software for the visualization of programmer skills. The company allows software developers and other technically oriented talent to create a showcase of their relevant skills, real work product and quantifiable experience.
-	['', 'quantifiable talent', '  ', 'pie representation', ' technically oriented talent']
-ZIV COMMUNICATIONS DIMAT
-	Developer and manufacturer of communication equipment for the electrical and switching equipment for private networks. The company aims to implement communication networks and operations to the electricity sector.
-	['', 'communication equipment', ' ', 'switching equipment', ' ', 'electricity sector', ' ', 'private network', '']
-TalentSpring
-	Provider of software as a service-based automated candidate sourcing services and solutions for recruiters and human resources professionals in the recruiter industry. The company enables recruiters and hiring managers to find resumes for passive and active candidates on social networking sites, job boards, and corporate application tracking systems utilizing semantic-search technology and a revolutionary resume-ranking algorithm.
-	['', 'resume search engine', ' ', 'candidate sourcing service', ' ', 'recruitment solutionl', '']
+GeckoGo
+	Operator of an online travel website. The company provides travel website for travelers which enables them to post, discuss and read travel information and reviews. It also develops travel applications for mobile phones.
+	['', 'travel application', ' ', 'travel website', ' ', 'travel resource', '']
+Offbeat Guides
+	Provider of travel guides to travel industry enterprise. The company\'s technology provide the most recent information about the destination.
+	['', 'travel guide', ' ', 'travel industry', ' ', 'information provider', '']
+Portaga
+	Provider of an online tool for booking business travel. The company also provides business travel booking and management platform in partnership with air, car and hotel companies, as well as with software-as-a-service and other web distribution partners.
+	['', 'travel services', ' ', 'online business', ' ', 'hotel booking', '']
+iXAir
+	Provider of private jet travel. The company provides private jet travel for business, as well as guidance before purchase, financing solutions and leasing offers and contract negotiation.
+	['', 'jet travel', ' ', 'private jet', ' ', 'airplane', '']
+Travelmenu
+	Operator of an online travel agency. The company operates as a hotel booking engine and provides online retail of travel products, including hotels, flights and package holidays.
+	['', 'online travel agency', ' ', 'hotel booking', ' ', 'package tour', '']
+Viator
+	Provider of travel destination products, technology and distribution services. The company arranges for multi-day trips, ranging from two to five days to religious sites, tropical islands, historic castles and natural wonders.
+	['', 'travel destination product', ' ', 'online travel service', ' ', 'travel service', ' ', 'religious site', ' ', 'historic site', '']
+Hotwire
+	Provider of discount travel services. The company offers deep discounts from its travel suppliers to help travelers book unsold airline seats, hotel rooms, and rental cars.
+	['discount ', 'rental car', ' ', 'hotel rooms', ' airline ', 'discount airfare', ' ', 'discount travel', '']
+Mygola
+	Provider of online trip advisory services. The company provides a travel planning service that helps users to create custom trip plans in minutes.
+	['', 'service platform', ' ', 'social travel', ' ', 'online travel planning', ' ', 'custom trip', '']
+Burufly
+	Provider of an online travel portal. The company offers an online platform that enables users to search for places to travel in Indonesia and book hotels and flights.
+	['', 'travel site', ' ', 'travel portal', ' ', 'tour packages', '']
+ExperienceOn Ventures
+	Operator of a website which will make internet hotel search faster. The company offers flexible travel options to its clients to enhance their travel experience and support their travel plans.
+	['', 'hotel search', ' ', 'travel solution', ' ', 'travel experience', ' travel']
+Fly.pl
+	Provider of online travel services. The company is the provider of a Polish-language booking site for international flights and travel packages.
+	['', 'travel services', ' ', 'holiday packages', ' ', 'airline tickets', ' ', 'online travel', ' ', 'booking site', ' ', 'international travel', '']
+G2 SwitchWorks
+	Provider of travel distribution solutions for travel suppliers and agents in the United States. The company offers products for ticket fare search, ticket booking, and automated exchange and refunds.
+	['', 'travel distribution', ' ', 'travel supplier', ' ', 'ticket booking', '']
+WorldMate
+	Developer of mobile travel itinerary management platform. The company\'s platform collates structured itineraries by recognizing and then parsing confirmation emails from all significant travel providers worldwide. It provides travelers with services such as itinerary updates and changes, flight delays and cancellations.
+	['', 'mobile travel software', ' ', 'android application', ' ', 'personal travel assistant', ' ', 'business travel', '']
+Chang Xiang Hangzhou Network Technology Co.
+	Provider of travel management services to businesses. The company operates a site that provides travel services including travel management and travel credit for firms, non-profit entities and governments. It also provides hotel and air ticket booking services for enterprises.
+	['', 'travel management', ' ', 'travel services', ' ', 'travel credit', ' ', 'ticket booking', '']
+Leisurehunt.com
+	Provider of online hotel booking services to the general public and small businesses. The company has positioned itself as a B2B provider of online accommodation services.
+	['', 'online hotel booking', ' holiday ', 'resort booking', ' travel ', 'holiday package', ' ', 'travel booking', '']
+DealAngel
+	Provider of a travel deal search engine. The company enables users to find travel and hotel deals.
+	['', 'travel deal', ' ', 'travel search engine', ' ', 'hotel deal', '']
+Mobile Travel Technologies
+	Provider of mobile technology platform for airlines and corporate travel industry. The company\'s products enable the airlines, hotel chains and travel intermediaries to provide their services to travelers via mobile phones and devices.
+	['', 'mobile travel platform', ' ', 'global travel industry', ' ', 'mobile technology', ' ', 'corporate travel management', '']

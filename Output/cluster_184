@@ -1,30 +1,27 @@
-CTP Hydrogen
-	Developer of a fuel reformer. The company\'s reformer generates pure hydrogen from conventional liquid fuels, including ethanol, gasoline, diesel and JP8.
-	['', 'fuel reformer', ' ', 'gaseous hydrogen distribution', ' ', 'gaseous hydrogen', ' ', 'hydrogen distribution infrastructure', '']
-Ballard Power Systems
-	Ballard Power Systems Inc was incorporated in the State of Canada on November 12, 2008. It is a clean energy growth company. The company is engaged in proton exchange membrane (PEM) fuel cell development and commercialization. The Company\'s main business is the design, development, manufacture, sale and service of fuel cell products for a variety of applications, focusing on motive power (material handling and buses) and stationary power (back-up power, supplemental power, and distributed generation). A fuel cell is an environmentally clean electrochemical device that combines hydrogen fuel with oxygen (from the air) to produce electricity. Ballard fuel cell products feature high fuel efficiency, low operating temperature, low noise and vibration, compact size, quick response to changes in electrical demand, modular design and environmental cleanliness. The Company has four principal subsidiaries and affiliates: Ballard Fuel Cell Systems Inc., an Oregon corporation that develops methanol-fueled clean energy backup power systems; Dantherm Power A/S ("Dantherm Power"), a Denmark-based corporation jointly owned with Dantherm A/S that develops hydrogen-fueled clean energy backup power systems; BDF IP Holdings Ltd. ("IP Holdings"), a Canadian corporation that holds intellectual property assets; and Ballard Material Products Inc., a Delaware corporation that formerly developed and manufactured carbon fiber products for use in the automotive and fuel cell markets, and which now focuses on the development of fuel processing components and systems for use in fuel cell applications.
-	['', 'fuel cells', '']
-P21
-	Providers of autonomous energy supply and energy-efficient solutions, with the aim of replacing diesel generators with zero-emission products. The company provides services in energy efficiency and monitoring, solutions for supplying electricity to off-grid applications such as monitoring stations, telecommunications facilities or self-sufficient houses; and providing education and research programs for fuel-cell and solar-hydrogen technology.
-	['energy-management ', 'energy consumption', ' ', 'hydrogen fuel cell system', ' ', 'climate reading', ' ', 'CO2 balance', '']
-Enginion
-	Provider of technology in the field of steam-operated, compact cogeneration systems. The company offers SteamCell, a low-emission, combined heat and power generation system using external combustion based on a Caloric Porous Structure Cell (CPS Cell) technology. CPS Cell technology utilizes a thermo-chemical combustion process, which drives an electronically controlled, oil-free steam engine. The company supplies SteamCell core systems to original equipment manufacturers who integrate them into their products.
-	['', 'cogeneration systems', ' combustion ', 'thermo-chemical', ' ', 'steam engine', '']
-Protonex Technology
-	Developer and manufacturer of intelligent power management and portable fuel cell products for military and commercial markets. The company provides mission-critical equipment to make military more energy efficient and operationally flexible.
-	['', 'energy service', ' ', 'fuel cell product', ' ', 'power system', '']
-Green Highland Renewables
-	Developer of small scale hydroelectric schemes. The company  provide advice and services to landowners in Scotland through the development of a hydro power project. The company typically works on small-scale projects, ranging from 50 kilowatts to 2 megawatts.
-	['', 'hydroelectric service', ' ', 'hydropower project', ' ', 'energy project', '']
-Mesofuel
-	Developer of hydrogen generators to convert fuels into hydrogen for fuel cell sales in portable and stationary applications. The company\'s technology uses proprietary fuel processors and nano-scale filtering of hydrogen to create a novel compact product that generates hydrogen in an environmentally friendly manner.
-	['', 'hydrogen generators', ' ', 'desulphurization technologies', ' fuel']
-H2Gen
-	Manufacturer of low-cost and small-scale hydrogen generators. The company provides these hydrogen generation machines to target the the emerging fuel cell vehicle and distributed fuel cell power generation markets.
-	['generator ', 'steam methane', ' ', 'purification plant', ' hydrogen']
-UltraCell
-	Developer and seller of integrated fuel cell systems. The company provides portable power source for computing, communications and sensing devices.
-	['', 'fuel cell', ' ', 'portable power', ' ', 'sensing device', '']
-PolyFuel
-	Developer of micro fuel cells using direct methanol fuel cell technologies.
-	['', 'micro fuel cell', ' ', 'fuel cell technology', ' ', 'methanol fuel', ' ', 'hybrid power', '']
+Circular
+	Provider of user preference based online content. The company offers an infinitely scrolling feed of content to users, based on people they follow and topics that they are interested in.
+	['', 'online content', ' ', 'infinitely scrolling', ' ', 'preferred content', '']
+fiveby tv
+	Provider of online videos based on user preference. The company scours the internet for the best videos, and hand-delivers the ones people want to watch.
+	['', 'online video search', ' ', 'free video', ' movie']
+CastTV
+	Operator of a website that helps people to watch videos through the Web. The company\'s website lets users find all their favorite online videos, from TV shows to movies to the latest celebrity, sports, news, and viral videos.
+	['', 'online video', ' ', 'original video', ' ', 'watch video', ' ', 'video website', ' ', 'video clip', ' ', 'social video sharing', ' ', 'community video', ' ', 'video blog', ' ', 'video entertainment', '']
+CAVI
+	Provider of an online in-video purchase option. The company enables content-owners and publishers to integrate as an e-commerce shop into the online videos, without disturbing the experience of the user.
+	['synergies ', 'in-video shopping', ' ', 'commercial service', ' ', 'e-commerce integration', '']
+Omnisio
+	Provider of online videos. The company enables user to annotate videos, combine clips, and synchronize slideshare presentations to videos.
+	['', 'video annotation', ' ', 'video sharing', ' ', 'video blogging', '']
+Guaranteach
+	Provider of online math classes for students, parents, and teachers. The company offers streaming videos in the areas of fundamentals, basic math, fractions, decimals, measurement, pre algebra, probability, geometry, trigonometry, linear algebra, calculus, and processes.
+	['', 'online math tutorial', ' ', 'assessment tool', ' ', 'online math class', '']
+IFILM
+	Operator of online streaming media network on the Internet. The company distributes videos online, featuring programs that comprise animations and cartoons, comedy, movie clips, music videos, short films, TV clips, video game trailers, spike shows and action sports as well as a collection of viral videos from Hollywood studios, amateur filmmakers and user-generated content.
+	['', 'online streaming', ' ', 'movie information', ' ', 'entertainment media', ' ', 'music videos', '']
+PageWise
+	Operator of a website that serves how-to videos and articles online. The website is a video portal for how-to information and the largest provider of "made for the internet" video content. Its content was created through the company\'s proprietary process wherein filmmakers select specific how-to topics and produce videos on that subject matter.
+	['article, video, ', 'how to video', ' ', 'video portal', '']
+Navify
+	Provider of interface for viewing Wikipedia with videos, images, and comments. The company is built on Wikipedia’s platform.
+	['', 'social content', ' ', 'video and images', ' ', 'user interface', '']
