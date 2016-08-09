@@ -10,16 +10,21 @@ To run the program:
 For example:
 
 Please type the name of a company (or type 'q' to quit): <------program prompt
-
 Microgon <----this is what you type
+Similar Companies: [
 
-Similar Companies: [ <---------------------- system output
 Alpha Membrane : 0.772669822503
+
 fluXXion : 0.811542176181
+
 Clean Filtration Technologies : 0.878610443091
+
 Intelligene : 0.881296033412
+
 KA Electronik : 0.981061594931
+
 Celetronix India : 0.987207561355
+
 ]
 
 Note that the similar companies also report their cosine spatial distance from the queried company. 
