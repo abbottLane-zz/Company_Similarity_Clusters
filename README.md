@@ -10,7 +10,9 @@ To run the program:
 For example:
 
 Please type the name of a company (or type 'q' to quit): <------program prompt
+
 Microgon <----this is what you type
+
 Similar Companies: [
 
 Alpha Membrane : 0.772669822503
