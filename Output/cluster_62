@@ -1,33 +1,27 @@
-Lexy
-	Provider of telecommunication solutions. The company provides voice messaging, content sharing and audio listening services to networked devices.
-	['', 'voice messaging', ' ', 'telecommunication solutions', ' ', 'audio listening', '']
-Tiscali Telecom
-	Provider of internet services. The company provides broadband and narrow band internet services in France.
-	['', 'internet service', ' ', 'broadband service', ' ', 'narrow band internet', '']
-WCS Wireless-Licences
-	Provider of wireless telecommunication services. The company was formed to acquire and hold spectrum licenses in the WCS band.
-	['spectrum ', 'radio telephone', ' acquire']
-BVfon Telecommunications
-	Provider of telecommunication and payment applications for detention facilities. The company offers an information technology and communication system for handling and monitoring prisoners telephone conversations and retail shop payment system.
-	['', 'telecommunication network', ' ', 'payment application', ' ', 'detention facility', '']
-PCS One
-	Provider of telecommunications services. The company provides telecommunication services on personal basis.
-	['', 'communication service', '']
-Gogo
-	Provider of in-flight wireless internet services. The company is developing broadband services for both private and commercial aviation.
-	['', 'flight entertainment', ' ', 'internet service', ' ', 'wireless service', '']
-Signature Genomic Laboratories
-	Provider of molecular cytogenetic diagnostic services. The company offers diagnostic services, including pediatric and adult testing, and prenatal services, as well as FISH analysis of clinically relevant loci. The company also provides prenatal diagnosis services, interpretation with genome microarrays, and G-banded karyotype analysis services.
-	['', 'diagnostic service', ' ', 'cytogenetic diagnostic service', ' ', 'adult testing', ' ', 'pediatric testing', ' ', 'prenatal service', ' ', 'prenatal diagnosis', ' ', 'genome microarray', '']
-Erenis
-	Operator of optical fiber equipments to deliver telecommunication services in the French residential market. The company provides broadband telecommunication services and internet access for the development of new services resting on high-speed bandwidth.
-	['', 'fiber optic', ' ', 'communication services', ' ', 'residential service', ' ', 'high-speed bandwidth', '']
-Broadband IP
-	Provider of high-speed Internet services. The company offers a wide range of ISP services including wired and wireless Internet service and managed connectivity. It specializes in licensed and unlicensed wireless connectivity solutions for data, voice and video.
-	['', 'high speed Internet', ' ', 'wireless Internet service', ' ', 'unlicensed wireless connectivity', '']
-Omnicom
-	Provider of telecommunication services. The company provides telecommunication services including wireless internet services.
-	['', 'telecommunication service', ' ', 'wireless internet', ' ', 'information supply', '']
-Wireless Maingate
-	Provider of telecommunication services. The company works as a virtual mobile operator for wireless communication between machines (M2M) and a provider of message services.
-	['', 'wireless equipment', ' ', 'wireless communication equipment', ' ', 'communication between machine', '']
+Culavis
+	Researcher of a biosensoric process. The company develops a non-invasive diagnostic method for disease detection, which detects metabolite in body liquids.
+	['', 'biosensoric process', ' ', 'biological research', ' ', 'disease detection', ' ', 'life science', '']
+United Orthopedic Group
+	Manufacturer of non invasive orthopedic rehabilitation products. The company also offers complimentary services designed for clinical effectiveness and patient satisfaction.
+	['', 'orthopedic product', '  ', 'rehabilitation product', '  ', 'clinical service', '']
+Corventis
+	Developer of medical technologies for curing cardiovascular diseases. The company\'s core product is a non-invasive monitor designed for measing different aspects of the heart’s function.
+	['', 'medical technology', ' cardiovascular healthcare']
+StrataGent Life Sciences
+	Developer of painless and non-invasive versions of therapies. The company offers large and small therapeutic molecules without a device penetrating into or through the skin.
+	['', 'drug therapy', ' ', 'painless therapy', ' ', 'non-evasive therapy', ' ', 'drug delivery', '']
+Bridge Medical
+	Provider of patient safety software and services to the healthcare industry. The company offers point-of-care patient safety system, which uses bar-code scanning, clinical bases, wireless networking, and integration to help nurses to intercept clinical errors at the patient bedside. It\'s products are used in hospitals and health systems.
+	['', 'patient safety software', ' ', 'healthcare application', ' ', 'patient safety system', '']
+Molecular Biometrics
+	Developer of non-invasive clinical tools to evaluate normal biologic function. The company offers medicines and drugs which focuses on reproductive health, neurodegenerative diseases, maternal fetal medicine, pulmonary metabolism and edema, and lactate metabolism.
+	['', 'non-invasive clinical tools', 'pharmacodiagnostics', '\\tDiagnostic Equipment', '']
+Abakus
+	Developer and provider of a Web-based electronic patient-record system. The company\'s products supports physiotherapists in clinical reasoning and decisions, and objectifying and registering physiotherapy outcome measures in cooperation with the patient or their representative.
+	['clinical ', 'patient record system', ' ', 'electronic records', ' SaaS']
+FysioSporttis
+	Provider of physiotherapy and health sports services. The company offers multiple services designed to enhance patients’ muscles and joints, as a preventative measure as well as a therapeutic one. The company provides guided exercise programs, employee wellness services and physiotherapy consultations and treatments. The company also provides workout centers, a gymnasium and solarium.
+	['physiotherapy ', 'health sports', ' ', 'workout center', ' gymnasium solarium ', 'sports service', ' wellness fitness']
+Medivance
+	Manufacturer of therapeutic temperature management services. The company provides thermal-cooling systems for hospitals. It provides Arctic Sun temperature management system non-invasive thermoregulatory device that monitors and controls patient temperature.
+	['', 'therapeutic devices', ' ', 'thermal cooling system', ' ', 'temperature management', '']

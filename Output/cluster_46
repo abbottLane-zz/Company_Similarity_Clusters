@@ -1,33 +1,27 @@
-Tinmar Holdings
-	Operator of a holding company. The company owns and operates endoscopy and surgical centers in the United States.
-	['', 'parent company', ' ', 'surgical centers', ' ', 'endoscopy center', '']
-SiCortex
-	Manufacturer of computers, computing systems, compiler suites, and personal development systems. The company also offers desk side, departmental, and data center packages. It serves universities, academic institutions, research laboratories, and government agencies in the United States.
-	['', 'computing system', ' ', 'compiler suite', ' ', 'development system', '']
-AdVentures
-	Operator of a media and music company. The company operates a national broadcast network in malls in the United States.
-	['', 'broadcast network', ' malls ', 'media and music', '']
-TrueBlue
-	Provider of temporary workers to the light industrial, construction and small business markets in the United States and Canada. The company is an International provider of temporary blue-collar staffing.
-	['employment ', 'labor services', ' ', 'employment agencies', ' ', 'business training', '']
-Potbelly Sandwich Works
-	Producer and retailer of sandwiches and homemade desserts. The company owns and operates more than 150 quick-service restaurants in Illinois and eight other mostly Midwestern states that specialize in fresh-made sandwiches.
-	['', 'homemade dessert', ' ', 'retail sandwich', ' ', 'quick service restaurant', ' ', 'fresh sandwich', '']
-Premier VCT (Dartford)
-	Owner and operator of a hotel. The company owns 12 bedrooms hotel in Dartford.
-	['', 'travel & leisure', ' ', '12 bedrooms', ' ', 'Holiday Inn', '']
-Morethanhotels
-	Operator of hotels. The company owns and operates twelve Express by Holiday Inn hotels throughout United Kingdom.
-	['', 'hotels in United Kingdom', ' ', 'resorts in United Kingdom', ' ', 'budget accommodations', ' ', 'hotels and resorts', '']
-BigCafe (China) Holdings
-	Operator of a chain of internet cafe. The company owns and operates internet cafes outlets and provides advisory and management services to the internet cafe industry throughout China.
-	['', 'internet cafe', ' cafe ', 'advisory service', '']
-Asahi Kasei Pharma America
-	Provider of critical-care and hospital-based therapeutics to patients, treating physicians, and payors in the United States and internationally. The company offers ART-123, a novel, recombinant, and soluble thrombomodulin for the treatment of disseminated intravascular coagulation in sepsis.
-	['biopharmaceutical ', 'critical care', ' ', 'hospital based therapeutic', ' ', 'disseminated intravascular coagulation', ' hematolog ', 'blood clotting', ' ', 'deep vein thrombosis', '']
-Hospital Management Associates
-	Operator of acute-care medical hospitals in the U.S. The company partners with mid-size communities and local hospital leaders, physicians and caregivers throughout the United States to operate leading community hospitals and health systems.
-	['Healthcare ', 'Hospital Operation', ' ', 'Healthcare Quality', '  acute-care']
-Imperium Renewables
-	Producer of biodiesel from feedstock oils and glycerin, a by-product of biodiesel. The company operates BQ-9000®-certified biodiesel facilities in the United States.
-	['biodiesel ', 'clean energy', ' ', 'green energy', ' ', 'waste management', ' ', 'sustainable fuel', '']
+Xaar
+	Developer of ink jet technologies.
+	['']
+Röntec
+	Developer of devices for X-ray elemental and structural analysis. The company offers x-ray spectrometers used for electron probe microanalysis. It also supplies spectrometer modules for ED-XRF, PIXE, XRD and other nuclear applications.
+	['X-ray Xray spectrometer ', 'electron beam microanalysis', '']
+Oxford Imaging Detectors
+	Developer of scientific imaging detectors. The company offers products for studying structures and processes at the atomic level. It offers instruments for electron microscopy, x-ray and machine vision.
+	['', 'imaging detectors', ' ', 'electron microscopy', ' x-ray']
+Ofidium
+	Developer of OFDM technologies. The company provides 100 Gigabits per second optical optical OFDM technologies which delivers increased bandwidth and reduced costs for telecommunications networks.
+	['', 'OFDM technology', ' ', 'communications infrastructure', ' ', 'communications network', ' ', 'optical fiber', '']
+SpectraFluidics
+	Provider of solutions for the field detection of trace levels of chemicals, explosives, illicit drugs, biomarkers, and other low volatility compounds at parts-per-trillion concentration levels. The company offers microfluidic chips for ultra trace sensitivity and molecular specificity of vapor-phase analytes. Its product applications include transportation security, breath diagnostics, drugs and narcotics detection, food safety and freshness, and explosives detection.
+	['', 'microfluidic chip', ' ', 'transportation security', ' ', 'breath diagnostic', ' ', 'drugs and narcotics detection', '']
+Bruker
+	Developer of scientific instruments and research systems. The company designs and manufactures life science and field analytical systems for chemical, biological, radiological, nuclear and explosives or CBRNE, detection in various industries and government applications. Its technology platforms include magnetic resonance technologies, mass spectrometry technologies, gas chromatography technologies, X-ray technologies, spark-optical emission spectroscopy, atomic force microscopy, stylus and optical metrology technology and infrared and Raman molecular spectroscopy technologies.
+	['']
+Archimedes Technology Group
+	Developer of systems for plasma ion separation. The company offers products which includes plasma mass filter and related technologies. The company tests new technologies that can speed weapons waste cleanup and opens new non-chemical approaches to commercial spent fuel reprocessing. It serves medical, semiconductor, and nuclear power industries.
+	['', 'plasma ion', ' ', 'plasma mass filter', ' ', 'waste cleanup', ' ', 'nuclear waste', '  ', 'fuel reprocessing', '']
+Mitam Biological Control
+	Developer of technologies for biological control of ticks. The company has a strategic partnership with a global player in the animal healthcare market and its product Metick is designed for the biological control of ticks.
+	['', 'animal healthcare', ' ', 'biological control', ' livestock']
+Activiomics
+	Developer of biomarker technology. The company has developed a suite of label-free mass spectrometry technologies enabling it to identify and quantify, directly from clinical samples, proteins and phosphoproteins that correlate with the progression of disease and/or the administration of drugs. The company is applying its technologies to the establishment of a pipeline of biomarker assets comprising the identified proteins and phosphoproteins along with their companion diagnostic antibody reagents. The company also partners with the pharmaceutical and biotechnology industry to provide drug profiling and drug mode of action information.
+	['', 'drug biomarkers', ' ', 'proprietory technology', ' oncology']

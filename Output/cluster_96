@@ -1,21 +1,42 @@
-Navitas Cancer Rehabilitation Centers of America
-	Provider of personalized integrated cancer rehabilitation services to cancer patients.
-	['', 'physical therapy', ' ', 'occupational therapy', ' ', 'prescriptive exercise', ' ', 'psycho-social counseling', ' ', 'nutritional counseling', ' ', 'lymphedema therapy', ' acupuncture']
-Diagnoplex
-	Developer of non invasive colorectal cancer screening tests. The company develops clinical laboratory kits for screening colorectal cancer, as well as for the detection of colon cancer. It also discovers and optimizes biomarker combinations to detect cancer.
-	['', 'cancer screening test', ' ', 'cancer diagnostic', ' ', 'cancer treatment', '']
-Alsensa
-	Developer of products for allergy diagnosis. The company engages in design, research, development and manufacture of allergy testing products for the healthcare markets. It offers a AQT allergy testing device that is used for allergy diagnostics and management.
-	['', 'allergy diagnosis', ' ', 'prick test', ' allergy']
-Mzt Holdings
-	Manufacturer & developer of cancer diagnostic technologies and products. The company is a biotechnology company, which engages in the development, manufacture, marketing, distribution, and licensing of cancer diagnostic technologies and products. Its products include NMP22 Test Kit and NMP22 BladderChek Test, which are designed to detect the presence of a specific protein marker in urine correlated with the presence of bladder cancer. Its research and development programs include NMP179 program, a nuclear matrix protein associated with cervical cancer and cervical precancerous conditions; NMP66 program to develop a blood-based test for breast cancer; NMP48 program for prostate cancer; and NMP35, a colon cancer program. In addition, it sells allergy and other diagnostic products manufactured by others. The company sells its products directly to physicians, hospitals, clinics, and physician office laboratories in the United States and Germany, as well as to distributors in other parts of Europe.
+Mortgage.com
+	Operator of an online mortgage platform. The company offers an online platform that provides mortgage services for the residential real estate industry.
 	['']
-Immunicon
-	Developer and manufacturer of cell-based diagnostic and research products. The company manufactures ultra-high sensitive cancer detection test kits (cancer blood test) and next generation cell analysis instruments (cell track cytometer) for various research and clinical applications.
-	['', 'cancer detection test kits', ' ', 'cell analysis', ' ', 'platform technologies', ' biotechnology']
-Applied Genomics
-	Developer of targeted genomics-based diagnostic and therapeutic antibodies for the treatment of human cancer. The company\'s products include Mammostrat which is an immunohistochemistry breast cancer prognostic test, Mammotax which is a single antibody immunohistochemistry test, Pulmotype is a five antibody immunohistochemistry aid for the classification of non-small cell lung cancer and Pulmostrat is a seven antibody prognostic immunohistochemistry test.
-	['', 'human cancer', ' ', 'therapeutic antibodies', ' ', 'diagnostic devices', '']
-Cell Genesys
-	Developer of novel biological therapeutic products for patients with cancer.The company pursues three cancer product platforms -- GVAX(R) cancer vaccines, oncolytic virus therapies and in vivo cancer gene therapies. The company provides clinical trials of GVAX(R) vaccines are under way in prostate cancer, lung cancer, pancreatic cancer, leukemia and myeloma.
-	['', 'therapeutic products', ' ', 'cancer treatment', '']
+Domusclick
+	Provider of an online real estate portal. The company operates an online portal focused on real estate allowing members to upload information regarding intent of sale or purchase of property. The website acts as a platform between buyers and sellers of property helping them to close on a deal.
+	['', 'real estate platform', ' ', 'online real estate platform', ' ', 'property sale', ' ', 'property purchase', '']
+Cartavi
+	Provider of cloud based document sharing platform. The company\'s platform allows everyone involved in a real estate transaction to securely manage and share documents from any computer, tablet or smartphone.
+	['', 'document sharing', ' ', 'real estate document', ' ', 'real estate transaction', ' ', 'mobile real estate', '']
+Healthcor
+	Owner and operator of commercial real estate, lease employees and provider of managed healthcare to it\'s participants. The company owned and operated the Michigan HMO known as Great Lakes Health Plan, Great Lake Health Services, First Care Health Plan and F.C. Real Estate. The company was acquired by United Health Group in February, 2004.
+	['', 'managed care', ' ', 'managed healthcare', ' ', 'real estate services', '']
+American Boarding
+	Provider of real estate services. The company offers real estate properties and rental housing products and services.
+	['', 'rental housing', ' ', 'rental property', ' ', 'property development', '']
+Martemyanovo
+	Owner and operator of residential real estate properties. The company trades and leases real estate properties in Mexico.
+	['', 'residential properties', ' lease rent']
+Trulia
+	Provider of a real estate search engine. The company offers information on search sales statistics, real estate price trends and real estate market activities. It allows users to find homes for sale, as well as provides advertising products for real estate professionals.
+	['', 'real estate market', ' ', 'search engine portal', ' ', 'real estate listing', ' ', 'online listing', '']
+Ethimmo
+	Provider of social housing services. The company caters to the real estate industry and offers housing facilities for families and single people with limited financial possibilities.
+	['', 'social economy', ' ', 'moderate rent', ' ', 'disadvantaged people', ' houses']
+Cityfeet.com
+	Provider of online commercial real estate information. The company offers commercial real estate products and services catering to the national and local needs of the commercial real estate industry.
+	['', 'real estate products', ' ', 'real estate services', ' ', 'commercial real estate', '']
+Dichanphone
+	Developer of pre-installed real estate related mobile phone software applications. The company develops a joint distribution and financial channels used as marketing platform for real estate agency, real estate developers, financial institutions.
+	['', 'mobile phone software', ' ', 'joint distribution', ' ', 'financial channels', '']
+Sciences-U Groupe
+	Provider of professional training courses in France. The company provides vocational training in multiple sectors, including graphics & design, management & human resources, data processing, communications, marketing, tourism, accounting, real estate, insurance, Web design and notary. The company operates facilities in Lille, Paris and Lyon.
+	['marketing ', 'professional training', ' communication']
+Skire
+	Provider of cloud-based solutions for managing capital projects, facilities and real estate. The company offers Unifier, an integrated solution suite developed on a collaborative Web-based platform that optimizes and integrates critical business processes, data and documents in the organization. The company\'s solution comprises Real Estate Management solution for portfolio, transaction and lease management and Integrated Workplace Management System, which provides the visibility and tools that support strategic decisions from initial planning, through project execution or creation of the asset and into the ongoing operations, maintenance and real estate management. The company also provides consulting and training services.
+	['', 'internet softwares', ' ', 'real estate management solutions', ' ', 'programmed softwares', ' ', 'real estate services', '']
+Searchandise Commerce
+	Provider of e-commerce and search solutions for product manufacturers and retailers. The company provides HitList, a service designed to help retailers monetize previously untapped online real estate by integrating manufacturer bids into the rendering of how products are presented, as well as represents an opportunity for manufactures to leverage cost per click bidding to elevate position and boost visibility across a network of retail sites.
+	['e-commerce ', 'data collection', ' ', 'clickshare analysis', ' ', 'retail network', ' ', 'in-store merchandising', '']
+Yoko Toshikaihatsu
+	Provides real estate services. The company is shifting its business emphasis from property sales to property management in a process of business restructuring. It is engaged in the investment planning, development and sale of apartments. It is also involved in brokerage and leasing of real estate properties.
+	['', 'investment planning', ' ', 'real estate service', ' ', 'property development', ' ', 'business restructuring', '']

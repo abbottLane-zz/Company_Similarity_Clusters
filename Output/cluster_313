@@ -1,21 +1,21 @@
-RED-C Optical Networking
-	Provider of amplifiers and optical monitoring devices for all network segments. The company offers solutions for some of the industry’s technological challenges such as ultra long repeaterless links and 40Gb/s transmission networks.
-	['amplifier ', 'optical device', ' ', 'transmission networks', ' ', 'transmission module', '']
-Appscio
-	Developer of applications of media mining algorithms to government, enterprise, and Web media management problems. The company provides an open architecture media processing framework with a plug-in architecture for video and audio analytics that enable researchers and customers to develop and deploy applications. It also licenses, commercializes, certifies, tests, documents, benchmarks, and resells media mining algorithms developed for commercial entities, research organizations, and individuals.
-	['', 'media mining algorithm', ' ', 'media management', ' ', 'media processing framework', '']
-Blue Flame Data
-	Developer of consumer preference analysis software. The company provides an online, real-time measurement of consumer market preferences. It provides a web application with a game-like interface that collects information about the consumer\'s likes and dislikes on a variety of products and services.
-	['', 'consumer preference', ' ', 'preference analysis', ' ', 'data aggregation', ' ', 'realtime data', '']
-NextIO
-	Developer of chips for computer servers. The company offers protocol agnostic solution, which supports server I/O technologies, including Ethernet, fiber channel, InfiniBand, iSCSI and SAS.
-	['', 'computer chip', ' ', 'computer server', ' ', 'agnostic solution', ' ', 'protocol agnostic', ' ', 'I/O technology', '']
-Rapport, Inc.
-	Developer of embedded application chips for computer intensive applications. The company\'s chips are deployed in accelerator boards and high performance systems for government and commercial services ranging from intelligent sensor modules to networking devices.
-	['', 'electronic chips', ' ', 'computer intensive application', ' ', 'sensor module', ' ', 'networking device', ' ', 'embedded application chip', '']
-Accel Semiconductor
-	Developer and provider of analog and mixed signal Integrated Chips (IC). The company\'s product lines include consumer wireless communication chips and consumer electronics chips using deep submicron (0.18um or smaller) complementary metal-oxide semiconductor (CMOS) or BiCMOS technologies.
-	['', 'wireless communication chip', ' ', 'electronic chip', ' ', 'analog wireless communication', '']
-Vivace Semiconductor
-	Developer of media processing chips for the needs of consumer market segments. The company provides chips which supports a range of video and audio standards.
-	['', 'media processing chip', ' ', 'video audio chip', ' ', 'media semiconductor', '']
+Clinsoft Corporation
+	Provider of clinical research systems. The company\'s technology enabled companies to streamline business processes, while ensuring the highest data quality.
+	['', 'database management', ' ', 'events tracking', ' ', 'clinical application', '']
+Imanext
+	Operator of a contract  research organization. The company operates in the field of functional imaging and provides insights on the non-clinical and clinical applications for drug development to the pharmaceutical and biotechnology industries.
+	['', 'functional imaging', ' research ', 'molecular imaging', ' ', 'nonclinical imaging', ' ', 'clinical imaging service', '']
+1747
+	Provider of web enabled systems to conduct clinical trials directly with participants. The company\'s product aims to clarify participant’s eligibility, aggregates their informed consent, and enrolls them for clinical trials using the internet.
+	['', 'clinical trial', ' ', 'web enabled system', ' ', 'direct-to-participant', ' ', 'enrolment systems', '']
+Swiss Pharma Contract
+	Provider of clinical research services to the pharmaceutical, biotechnology, and medical-device industries. The company offers a variety of clinical pharmacology services ranging from first testing in man to post-marketing studies.
+	['', 'clinical research', ' ', 'clinical pharmacology', ' pharmaceutical']
+IBAH
+	Provider of complete range of development services to the pharmaceutical, biotechnology, and medical device industries. The company\'s services are designed to help clients accelerate products from discovery through development more efficiently and cost- effectively.
+	['', 'development services', ' ', 'medical device', '']
+Phase Forward
+	Provider of  integrated clinical research suite of enterprise-level software products, services, and hosted services worldwide. The company\'s services are used in clinical trial and drug safety monitoring applications in the pharmaceutical, biotechnology and medical device companies; and academic institutions, governmental regulatory agencies, contract research organizations and other entities engaged in clinical trial and drug safety monitoring activities.
+	['', 'data capture', ' ', 'clinical research suite', ' ', 'clinical data management', '']
+Citizen1
+	Provider of research and development services for pharmaceutical and biotechnology industries. The company offers clinical trials and drug development information. It provides TrialTrove, which delivers ongoing clinical trials information; SiteTrove, which tracks and maintains detailed profiles; TrialScape, which provides graphical representation of clinical trial timelines; and CustomAnalytics for design and implementation of planned trials.
+	['', 'pharmaceutical research', ' ', 'clinical trials information', ' ', 'drug development information', ' ', 'biotechnology research', '']

@@ -1,30 +1,36 @@
-Nisamest
-	Developer and provider of an enterprise resource planning software. The company offers product for financial management, material management, production control and project management.
-	['', 'ERP software', ' ', 'enterprise resource planning', ' ', 'financial management', ' ', 'project management', '']
-Sage Group
-	Provider of accounting and business management software. The company provides accounting, enterprise resource planning, human resource, payroll, asset management, and payment solutions for businesses.
-	['', 'supplier management', ' ', 'inventory management', ' ', 'client management', '']
-Diktamen
-	Developer of workflow management and resource planning software. The company offers all-in-one dictation and transcription enterprise resource planning system with workflow management and resource planning features for transcription companies and authors.
-	['', 'workflow management', ' ', 'resource planning', ' transcription']
-Activplant
-	Provider of performance management application software services. The company provides software tools, analytics and reports to manufacturers, as well as integrates data with existing business systems and applications, such as statistical process control, quality measurement, enterprise resource planning, reporting packages, Web browsers and wireless pagers.
-	['', 'management application', ' ', 'software tool', ' ', 'statistical process control', ' ', 'quality measurement', ' ', 'wireless pager', '']
-Innoprise Software
-	Provider of enterprise software for utilities and local government agencies. The company provides software for CIS, financial management, community development, tax and work management. Its software helps clients manage various business processes, such as utility billing, payroll and financial management.
-	['', 'enterprise software', ' ', 'financial management', ' ', 'payroll management', ' ', 'financial management', '']
-GPS Gesellschaft fur Produktionssysteme
-	Developer of systems for automation technology. The company offers system and product development in the fields of service robotics, technology transfer and marketing, project management and controlling.
-	['', 'project management', ' robotics ', 'automation technology', '']
-Affarsstrategerna Think Tech Technologies
-	Provider of technical resource outsourcing management and consultancy services to the wireless industry. The company offers various services including business acceleration for companies entering the Asian market and helps in web strategy, web design, wireless strategy and project management.
-	['', 'wireless applications', ' ', 'high tech', ' ', 'tech consultant', '']
-Vitalz
-	Provider of web-native patient encounter management services and resource planning solutions for healthcare organizations. The company\'s solutions are customizable, easily integrated, and rapidly deployed, without the need for expensive, labor-intensive technology investments.
-	['scheduling web-native healthcare']
-Agilera
-	Provider of application management and technology services to businesses in the United States. The company provides enterprise platform that provides access to enterprise applications, including enterprise resource planning, supply chain, e-commerce, enterprise resource management, productivity, financials, and human resource.
-	['', 'enterprise resource management', ' ', 'supply chain', ' ', 'enterprise resource planning', '']
-LUMA Marketing Technologies
-	Developer and provider of Enterprise Brand Management (EBM) platform. The company\'s LUMA DAM is the tool to centralize, organize and share all the digital media files.
-	['', 'enterprise brand management', ' ', 'digital asset', ' ', 'meta data', '']
+Health Month
+	Provider of social game around improving health habits. The company offers a game that allows users to improve their health habits by identifying their unhealthy eating habits and providing strategies for changing them.
+	['', 'social game', ' ', 'health habit', ' ', 'behavior change', '']
+Yvolver
+	Developer of a consumer-engagement platform for the gaming sector. The company develops a platform to increase retention, engagement and monetization for mobile game developers through loyalty techniques and predictive analytics.
+	['', 'player engagement', ' ', 'user retention', ' ', 'mobile monetization', ' ', 'predictive analytics', ' ', 'mobile gaming', '']
+5Rocks
+	Provider of business intelligence tools for mobile gaming developers. The company develops and provides analytics and marketing automation tools for mobile game developers.
+	['', 'mobile game', ' ', 'application developing tool', ' ', 'automation tool', '']
+Conker
+	Provider of management software for games companies. The company helps in optimizing game revenue using predictive behavioral analytics.
+	['', 'Player Experience Management', ' ', 'game revenue', ' ', 'predictive behavioral analytics', ' players ', 'online game', '']
+Applicasa
+	Provider of a management platform for game developers. The company provides a platform for mobile-game developers that is designed to handle the backend elements of business, with a full hosting service and tools for device synchronization, user\'s registration, analytics and virtual currency.
+	['', 'game developers', ' ', 'device synchronization', ' ', 'backend as a service', ' ', 'payment service', '']
+Cytheris
+	Developer of therapies for immune modulation. The company offers drugs focused for lymphopenic patients. The company\'s product helps to enhance the immune system of cancer and chronic viral patients.
+	['', 'immune modulation', ' oncology']
+Natratec International
+	Developer and manufacturer of organic protective emulsions. The company primarily focuses on producing emulsions which retain the freshness of fruits and vegetables and increase the egg hatching rate of poultry.
+	['', 'organic preservation', ' ', 'food freshness', ' ', 'agricultural product', '']
+Staq.io
+	Developer of an analytics product for game management. The company offers an analytics product that helps game developers understand how to retain and monetize engaged players.
+	['', 'analytics product', ' ', 'game developer', ' ', 'retain player', ' ', 'monetize player', ' ', 'game management', '']
+Kontagent
+	Provider of a hosted and on demand viral analytics platform for social network application developers. The company\'s social analytics and marketing automation platform enables casual game publishers and game developers to engineer viral growth and gain an understanding of the demographics of their user base.
+	['', 'data pattern visualization', ' ', 'analytic platform', ' ', 'social graph', ' ', 'retention tracking', ' ', 'revenue tracking', ' ', 'application monitoring', '']
+Z2
+	Developer of multiplayer and social gaming platforms for mobile devices and wireless networks. The company’s platform enables game developers to implement subscription based services, such as game lobbies, leader boards, invites, push notifications, achievements, NAT traversal, text chat, voice chat and presence. It also provides marketing support and analytic services.
+	['', 'social gaming platform', ' ', 'multiplayer gaming platform', ' ', 'game development', '']
+Namaste Entertainment
+	Provider of a platform for computer game developers. The company develops lets game developers add emotions and complex behaviors to game characters. It works alongside game studios to integrate a toolset into online games like MMORPGs.
+	['', 'game application', ' ', 'role playing game', ' ', 'tablet game', '']
+Wwg Worldwide Games
+	Publisher of browser games for game developers and content provider for media companies. The company\'s products are browser games like Rage of Storms, Desert Blitz, Nemexia, Kiez King and Pirates of Tortuga 2.
+	['', 'browser game', ' ', 'game developer', ' ', 'online gaming', '']

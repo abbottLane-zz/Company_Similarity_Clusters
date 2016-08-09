@@ -1,27 +1,48 @@
-Infineta Systems
-	Developer of network optimization products. The company provides Velocity Dedupe Engine, a hardware deduplication/dedupe engine to identify and remove redundancies in network traffic. It also offers wide area network acceleration solutions, such as data protection for synchronous and asynchronous replication, and network backup; virtual machines (VM) mobility for live migration over distance and VM disk transfers; and big data workflows for scale-out applications and file transfers.
-	['', 'network optimization', ' ', 'hardware deduplication', ' ', 'data protection', ' ', 'synchronous replication', ' ', 'asynchronous replication', ' ', 'virtual machine mobility', ' ', 'network backup', '']
-Slipstream Data
-	Provider of acceleration, compression and network optimization technology for dial, fixed and wireless broadband networks. The company uses its patented technology the SlipStream Acceleration & Optimization Engine to provide web, email and multimedia acceleration solutions.
-	['', 'network optimization technology', ' ', 'data compression', ' ', 'broadband networks', ' ', 'SlipStream Acceleration & Optimization Engine', ' ', 'multimedia acceleration', '']
-Expand Networks
-	Provider of wide area network optimization and application accelerators to enterprises and public sector clients. The company offers a virtual WAN accelerator appliance, a central management software for accelerators and an accelerator operating system.
-	['', 'wide area network optimization', ' ', 'application accelerators', ' ', 'management software', '']
-Swan Labs
-	Provider of enterprise wide area network optimization and application acceleration solutions. The company\'s products include WANJet that accelerates file transfer, email, client-server applications, data replication, and custom applications; Web Accelerator, a Web application acceleration solution for mobile workers, extranet users, and business partners; and SL Appliances, which drives application acceleration solutions that deliver LAN-like performance to application users in various remote locations and enterprise applications on the wide area networks.
-	['', 'WAN optimization', ' ', 'application acceleration', ' ', 'file transfer acceleration', ' ', 'client server application', '']
-ASPEED Software
-	Provider of application acceleration and optimization solutions. The company provides solutions for accelerating applications for multi-core, multi-CPU, cluster and grid configurations.
-	['', 'risk management application', ' ', 'application acceleration', ' ', 'application optimization', '']
-Sync Research
-	Manufacturer and developer of wide-area network (WAN) access and management products. The company manufactures local network protocol converters, device, router, circuit management product and digital transmission device for wide-area network (WAN).
-	['', 'wide-area network', ' router ', 'local network protocol', '']
-Phurnace Software
-	Provider of Java application deployment. The company\'s products include Phurnace Deliver, which eliminates configuration-related errors and reduces dependency on scripting. It’s products also include Phurnace WebSphere Portal Deliver, which handles the dependencies that is managed when making changes to or releasing new portlets, applications, themes, skins, and contents. In addition, it offers on-site training services to improve Java application deployments. It’s solutions automate Web application deployments ranging from installation to deployment to upgrades, as well as eliminating manual error-prone processes.
-	['', 'java application', ' ', 'enterprise management', ' ', 'automation software', '']
-Eplication
-	Manufacturer of content acceleration appliances for network infrastructure applications. The company provides provide instant access to business critical applications, including enterprise wide customer relationship management and enterprise resource planning hosted on local and wide area networks.
-	['', 'network infrastructure', ' ', 'business software', ' ', 'content acceleration', '']
-Talaria Technologies
-	Developer of a dynamic web application server. The company has developed technology that helps people build and run websites more efficiently. It supported dynamic languages like PHP, Ruby and Python.
-	['', 'web application server', ' ', 'website management', ' ', 'website building', ' ', 'code interpretation', '']
+HL-Planartechnik
+	Manufacturer of thin-film metallization processes for the production of sensors. The company manufactures and sells components and subsystems using micro structures on ceramic, glass and silicon chips.
+	['', 'photographic equipment', ' ', 'magnetic fields', ' ', 'thin-film metallization', ' circuit']
+Resonex
+	Manufacturer of magnetic resonance imaging devices. The company manufactures and sells magnetic resonance imaging devices.
+	['', 'magnetic resonance', ' ', 'imaging devices', '']
+Khimaira
+	Supplier of bus seats. The company also manufactures motor vehicle seats, boat seats, special seats as well as upholstery components.
+	['', 'bus seats', ' ', 'boat seats', ' upholstery']
+Medical Device Alliance
+	Manufacturer of orthopaedic healthcare products. The company manufactures and markets devices for body fat removal through liposuction.
+	['arthroscopic orthopaedic']
+Innovasive Devices
+	Manufacturer of surgical devices and instrumentation. The company manufactures devices for sports medicine surgeries, which facilitate the repair of soft tissue injuries in the knees and shoulders.
+	['', 'sports medicine', ' ', 'soft tissue repair', ' ', 'surgical repair', '']
+Enclotek Ready Panels
+	Manufacturer of electrical equipment. The company manufactures control panel boards.
+	['', 'electrical equipment', ' ', 'industrial products', '']
+Dover
+	Manufacturer of industrial equipment and components. The company designs, manufactures and sells a wide range of industrial products for the waste handling, bulk transport, automotive, commercial food service, machine, fluid handling, petroleum, chemical and electronics industries.
+	['', 'refrigeration equipment', ' ', 'food equipment', ' compressors pupmps']
+Équipe Communications
+	Manufacturer of core network switching equipment. The company designs, manufactures and sells markets asynchronous transfer mode and multiprotocol label switching products for the optical network market.
+	['', 'core switch', ' ', 'optical network', ' switching ', 'core network', ' ', 'ATM switches', ' ', 'MPLS switches', '']
+Avalon Photonics
+	Manufacturer of vertical cavity surface emitting lasers (VCSELs). The company manufactures VCSELs for the datacom, sensing and measurement markets. The company also manufactures optical sub-assemblies that are core components in fiberoptic links.
+	['lasers ', 'optical subassemblies', ' ', 'vertical cavity surface emitting lasers', '']
+Lewis Pennicott Design
+	Manufacturer of kitchenware. The company manufactures and sells chopping devices for kitchens.
+	['kitchenware ', 'chopping device', ' ', 'chopping board', '']
+Dino Lift
+	Manufacturer and seller of aerial work platforms. The company manufactures lifts that allows workers to work above ground safely and are sold to more than 40 countries around the world.
+	['', 'lift manufacturing', ' elevator ', 'aerial work platform', '']
+Sealegs
+	Manufacturer of amphibious marine craft. The company designs, manufactures and sells amphibious marine vehicles for recreational as well as professional use, including models built on military specifications.
+	['amphibious marine ', 'recreational boating', ' ', 'rescue missions', '']
+ENTrigue Surgical
+	Manufacturer of medical devices and instrumentation for the surgical treatment. The company manufactures articulating instruments, septal staplers, MTM middle turbinate Medializer and absorbable polymers.
+	['', 'articulating instrument', ' ', 'middle turbinate medializer', ' ', 'absorbable polymer', ' ', 'surgical treatment', '']
+Maison Du Chene
+	Manufacture of kitchen and bathroom from oak wood. The company manufactures and markets wooden kitchens, cupboards, bathrooms and inside doors.
+	['', 'oak wood products', '']
+Accutronics (Electronics)
+	Manufacturer of batteries. The company designs, manufactures and sells batteries for high-performance portable and handheld electronic devices  in the medical and healthcare, defense and security and industrial electronic markets.
+	['', 'power products', ' batteries charger ', 'battery design', '']
+MCNEX Company
+	Manufacturer and developer camera module for mobile phones and automobiles. The company manufactures and sells camera modules, wireless charger products, medical cameras, network cameras and home automation products.
+	['']

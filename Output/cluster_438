@@ -1,54 +1,15 @@
-EA Technology Ventures
-	Provider of power asset management services. The company invests and works with new ventures across a wide range of traditional and emerging energy related sectors including energy efficiency, smart grid and new energy distribution and storage technologies.
-	['', 'investment vehicle', ' ', 'smart grid', ' energy']
-eQuilibrium Solutions
-	Developer of energy management software.
-	['', 'energy management', ' ', 'energy software', '']
-BuildingIQ
-	Provider of an energy management software. The company\'s software platform forecasts energy demand and automatically adjusts a building’s HVAC settings to optimize energy use.
-	['', 'energy management', '  ', 'building energy management', ' ', 'energy efficiency', '']
-Orecon
-	Producer of wave energy devices. The company specializes in providing water column technologies for wave energy applications
-	['', 'wave energy', ' ', 'water column', ' ', 'marine environment', ' ', 'wave energy conversion applications', ' ', 'multi resonant chambers ', '']
-JouleX
-	Provider of energy management systems for data centers and enterprise networks. The company\'s main product is JouleX Energy Manager, a solution that monitors, analyzes and manages the energy usage of network-connected devices and systems in the enterprise network, data center and related facilities. Its software solution monitors, analyzes and manages PCs, servers, VoIP phones and devices, printers, network switching devices, IP power switches, and HVAC systems.
-	['', 'energy management', ' ', 'sustainable energy', ' ', 'energy usage reduction', '']
-VYCON
-	Manufacturer of flywheel energy storage systems. The company’s REGEN flywheel systems, used in power applications such as container cargo handling crane applications and light electric rail.
-	['', 'energy storage system', ' ', 'cargo handling', ' ', 'energy manufacturer', '']
-Alektrona
-	Provider of hardware and software services for advanced metering infrastructure, demand side management and other energy-related applications. The company specializes in unifying open-standards products within energy management systems, enabling smart grid companies to better serve their customers energy needs
-	['', 'broadband energy management', ' ', 'hardware solution', ' ', 'software solution', ' ', 'advanced metering infrastructure', ' ', 'energy management device', ' ', 'demand side management', ' ', 'energy-related application', ' ', 'energy network appliance', ' ', 'advanced metering system', '']
-Enersciences Holdings
-	Developer of energy products and services for the energy industry. The company develops energy technologies like drilling, fracturing and gas-to-liquid processing to help customers in their operations in the energy industry, while maintaining safety and environmental integrity.
-	['', 'energy products', ' ', 'energy technologies', ' ', 'environment integrity', '']
-Adura Technologies
-	Provider of wireless lighting and energy management systems. The company provides lighting control service for new and retrofitted commercial buildings.
-	['', 'lighting management', ' ', 'energy management', ' ', 'lighting control', ' ', 'energy saving', '']
-Electro Energy
-	Provider of proprietary battery technologies and associated systems.The Company is engaged in the development of energy storage technology, products and related systems through contract research and development for the United States Government and its agencies.
-	['', 'proprietary battery', ' ', 'energy storage technology', ' ', 'bipolar batteries', ' ', 'consumer products', '']
-Formative Labs
-	Provider of social applications connected to real world actions. The company provides information to consumers on energy consumption habits.
-	['', 'social application', ' ', 'energy consumption', ' ', 'social behavior', '']
-Energy Cache
-	Developer of grid-scale energy storage technology. The company is developing a mechanical battery which captures the energy of rolling gravel to generate electricity, in the manner that the water-powered movement of rotors generates power in a hydro dam.
-	['', 'power technology', ' ', 'mechanical battery', ' ', 'alternative energy', ' gravel']
-Datapult
-	Provider of enterprise energy management (EEM) services. The company provide web-based applications that are used to collect and analyze energy usage information, monitor power quality, engage in load management, conduct rate modeling and tariff comparisons, and dispatch distributed generation capabilities.
-	['', 'enterprise management', ' ', 'web based application', ' ', 'power quality', ' ', 'load management', ' ', 'rate modeling', ' ', 'tariff comparison', '']
-Fellon-McCord & Associates
-	Provider of energy management, dispatch and consulting services to clients in the industrial and commercial sectors. The company provides a variety of services that include energy audits, energy RFPs, utility negotiations, natural gas bypass studies, energy sourcing, risk and demand management, cost-benefit analysis and program development.
-	['', 'energy management', ' ', 'consulting services', ' ', 'management consulting', '']
-Enerwise Global Technologies
-	Provider of enterprise energy management solutions as a Web-based hosted software suite for commercial, institutional, and industrial customers to reduce energy consumption. The company also provides demand response, energy analysis, load management, distributed generation, utility allocation, and report generation and energy analytical services.
-	['', 'energy management solution', ' ', 'enterprise solution', ' ', 'hosted software', ' ', 'energy analysis', ' ', 'load management', ' ', 'utility allocation', '']
-Nest Labs
-	Provider of learning thermostat focused on reducing home-energy consumption. The company\'s technology Learning Thermostat learns human behaviors and preferences, automatically adjusting the temperature so you can stay comfortable while saving energy and money.
-	['', 'household heating', ' ', 'cooling bill', ' ', 'energy saving', ' thermostat ', 'energy bill', ' ', 'energy management', ' ', 'temperature control', ' ', 'household heater', ' heater ', 'smart home', '']
-ENEA
-	Supplier of energy in Poland. The company engages in electricity generation, distribution and trading and offers energy for home and business.
-	['', 'energy supply', ' ', 'electricity generation', ' ', 'electricity distribution', '']
-Triacta Power Technologies
-	Developer of energy management systems. The company develops energy systems which enables firms to reduce energy consumption and energy costs.
-	['', 'energy management system', ' ', 'smart submetering', ' ', 'electrical sub metering', '']
+Grenslandhallen
+	Provider of event management services. The company offers spaces and accommodation for events such as concerts, theatrical productions, fairs and exhibitions.
+	['', 'event management', ' ', 'concert shows', ' ', 'live shows', ' ', 'event faculties', '']
+The HUB Brussels
+	Provider of co-working spaces. The company provides coworking spaces, events on social innovation and professional tools that help members reach their goals.
+	['', 'knowledge sharing', ' ', 'event space', ' ', 'user friendly', '']
+Gladiator Entertainment
+	Provider of theatrical acts on stories based on gladiators. The company offers entertainment to tourists by displaying battles based on gladiator stories in an authentic arena.
+	['', 'theatrical acts', ' theatrical acts gladiator']
+Exponaute
+	Operator of an online platform for information and services on exhibitions in Paris, France, Belgium and Switzerland. The company offers news about exhibitions and museums, photos and video previews, and direct access to purchase tickets and catalogs. Visitors also can register through social media, choose their favorite museums, and create calendars of exhibitions.
+	['exhibitions ', 'information service', ' ', 'social platform software', ' ', 'online patform', '']
+nTAG Interactive
+	Provider of event data management solutions for the meetings and event industry. The company offers nTAG, an event data management system that facilitates business networking, makes presentations, automates lead capture, enabling exhibitors and sponsors to collect information, supports real-time event management, allowing meeting planners to closely monitor activities, and instantly send messages to staff and meeting participants and provides reporting and ROI analysis to compare results against objectives to determine whether the meeting was worth the investment. It also offers event sponsorship services, as well as pre-event planning, on-site execution and post-event follow up services.
+	['', 'data management solution', ' ', 'business networking', ' ', 'ROI analysis', '']

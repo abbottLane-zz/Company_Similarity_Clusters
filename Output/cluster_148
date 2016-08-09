@@ -1,45 +1,21 @@
-Industrial Solar
-	Manufacturer of heating and cooling devices that utilizes solar power. The company offers solar Fresnel collector systems and other solar cooling and air-conditioning technologies. Its products are used to generate solar process heat, cooling, water treatment and polygeneration. The company was spun out of Fraunhofer Institute for Solar Energy Systems.
-	['', 'heating product', ' ', 'cooling technology', ' ', 'solar power', '']
-Innotech Solar
-	Provider of technology to classify and upgrade non-prime c-Si solar cells within the solar industry. The company uses laser-based process, to maximize electricity production by optimizing various types of solar cells.
-	['', 'solar cell', ' ', 'electricity production', ' ', 'non prime cell', '']
-Engensa
-	Provider of residential solar systems in the U.K. The company works with homeowners to design, finance, install and maintain solar-energy systems to match a range of budgets.
-	['', 'solar panel system', ' ', 'alternative energy', ' ', 'residential solar system', '']
-Skyline Solar
-	Manufacturer of high gain solar arrays for commercial, industrial, government and utility markets. The company offers HGS structural and reflective racking components. It develops a solar energy system that uses metal reflectors to concentrate the sunlight onto silicon solar cells for electricity production.
-	['', 'solar energy', ' ', 'solar array', ' ', 'high gain solar', ' ', 'HGS array', ' ', 'reflective racking', ' ', 'silicon cell', ' ', 'metal reflector', ' ', 'electricity production', ' ', 'solar silicon', ' ', 'HGS panel', ' ', 'solar electricity', '']
-Esber
-	Manufacturer of paints and wall treatments. The company manufactures paints and coatings for the professional market. Its products include dyes, waxes, protective coatings, Venetian stucco, plasters, patinas and mottling multimatices.
-	['paint covering patinas plaster stucco ', 'wall treatment', '']
-Rahu Catalytics
-	Developer of catalysts, activators, accelerators and other chemicals for industrial applications. The company develops iron-ligand based chemistry for use in coatings, composites and inks markets. The company was spun out of Unilever R&D Vlaardingen.
-	['', 'catalysts', ' ', 'industrial chemicals', ' ', 'activators', '']
-GCL Silicon Technology Holdings
-	Supplier of polysilicon and wafers to companies operating in the solar industry. The company manufactures polysilicon, the primary raw material used in the production of solar cells and modules for the generation of electric power from solar energy.
-	['', 'solar industry', ' polysilicon wafers']
-Mercury Solar Systems
-	Provider of commercial and residential solar-energy systems. The company is a designer and installer of solar-energy systems in the Eastern U.S. Its services include turnkey engineering, procurement and construction.
-	['', 'solar energy system', ' ', 'solar system installation', ' ', 'solar system design', '']
-XeroCoat
-	Manufacturer and designer of anti-reflective coatings for solar energy systems. The coatings are applicable across all solar technologies and for all solar panel systems.
-	['', 'solar energy', ' ', 'anti-reflective coatings', ' ', 'solar technologies', '']
-SolFocus
-	Developer and manufacturer of solar energy systems based on concentrator photovoltaic (CPV) technology. The company\'s products and technologies include solar concentrator photovoltaic systems, intelligent tracking systems for CPV and flat panel PV markets.
-	['', 'photovoltaic system', ' ', 'solar energy solution', ' ', 'concentrator photovoltaic technology', ' ', 'intelligent tracking system', ' ', 'alternative energy', ' ', 'renewable energy', '']
-PVPower
-	Provider of solar products. The company\'s web platform enables independent solar installers to easily configure, quote and procure solar products.
-	['', 'solar product', ' ', 'residential project', ' ', 'commercial project', ' ', 'Alternative Energy Equipment', '']
-Phoenix Bio-Industries (Ethanol Plant)
-	Operator of a dry mill ethanol plant. The company manufactures ethanol for chemicals, paints & coatings industries.
-	['ethanol ', 'dry mill', ' ', 'paints & coatings', '']
-QD Soleil
-	Provider of nanotechnology based solar products. The company focuses on the use of nanotechnology in solar panel cell designs. It develops and consolidates a range of technologies for use in photovolatics, including the use of spectrum capture enhancers, such as quantum dots, nanoparticle scatterers and light capture materials, semiconducting inks and materials for dual nanocrystal and hybrid nanocrystal/polymer designs. It serves solar equipment suppliers, solar material producers, glass and plastic manufacturers, thin film and amorphous silicon producers and incumbent and new solar entrants.
-	['', 'solar technology', ' ', 'solar panel cell', ' ', 'nanoparticle scatter', ' ', 'silicon producer', '']
-PURE Energies
-	Provider of rooftop solar energy systems. The company advises homeowners on residential solar systems and home conservation products to help them save money.
-	['', 'power grid', ' ', 'energy generation', ' ', 'rooftop solar energy', ' ', 'web-based customer acquisition', '']
-ArrayPower
-	Provider of power technologies for the solar industry. The company\'s technology helps to improve capital returns, maximize system performance and simplify system installation and operation, to the benefit of both manufacturers and system owners.
-	['', 'solar power', ' ', 'solar power technology', ' ', 'solar performance', ' ', 'solar installation', ' ', 'solar operation', ' ', 'solar grid parity', ' ', 'solar module', ' ', 'inverter less solar', '']
+LuciaWind
+	Operator and owner of wind farms. The company engages in the production of electric power generation through wind energy.
+	['', 'wind farms', ' electricity']
+SOGEM
+	Developer of wind energy power parks. The company develops alternate source of energy using wind power.
+	['', 'renewable energy', ' ', 'wind power', '']
+Vigor Renewables
+	Developer of renewable-power facilities in the U.K. The company works with property holders and commercial enterprises to develop and operate sustainable energy projects, including those utilizing solar and wind power.
+	['', 'renewable energy equipment', ' ', 'power generation projects', '']
+Windspire Energy
+	Provider of renewable wind power appliances to residential, business, and government customers. The company produces Windspire, a plug-n-produce wind power appliance that helps in harnessing power from the wind. It uses vertical turbine technology to harness wind energy.
+	['', 'alternative energy', ' ', 'clean tech', ' ', 'turbine technology', '']
+Ventus Energy
+	Developer of wind farms to produce energy. The company is currently in the process of planning and developing 25 sites in Ontario, Quebec, New Brunswick, Nova Scotia and Newfoundland with the potential for over 5,000 Megawatts of power.
+	['', 'produce energy', ' ', 'wind farm', ' ', 'alternative energy', '']
+Advanced Power Projects
+	Provider of power by focusing on natural gas power generation. The company develops new power plants to reduce power costs for industrial customers, as well as provides technologies to facilitate the economic deployment of wind, solar, and biomass plants.
+	['', 'power generation', ' ', 'natural gas', ' ', 'biomass plants', '']
+HF2
+	Developer of a photovoltaic power plant. The company sells energy to the market and is also entitled to the Italian GSE feed-in tariff system. The develops photovoltaic power plant that is used to reduce CO2 emissions.
+	['', 'renewable energy', ' ', 'photovoltaic power', '']

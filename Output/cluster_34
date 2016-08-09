@@ -1,36 +1,24 @@
-Glancee
-	Provider of is an application for iPhone, Android and Facebook.
-	['', 'application provider', ' ', 'friend finder', ' ', 'social discovery tool', '']
-Chomp
-	Promoter of iPhone/iPod Touch applications. The company offers an application search platform providing information on the functionalities of various applications.
-	['', 'consumer service', ' ', 'commercial products', ' ', 'application search platform', '']
-Supplybase
-	Provider of e-Business solutions. The company through its internet and various distribution channels, delivers information and tools to purchasing, engineering, design and sourcing professionals.
-	['', 'e-Business', '']
-Croice
-	Provider of a mobile application for bloggers. The company provides a platform for bloggers to create and share audio streams.
-	['', 'audio stream', ' ', 'blogging platform', ' ', 'audio broadcasting', '']
-Exalead
-	Provider of a search software for business and the web. The company provides a unified search technology platform for desktop, intranet or web search which provides users with a single access point to information, regardless of format or location.
-	['data-center ', 'information access platform', ' scalability']
-Yobble
-	Developer of a hybrid hardware/software technology for iPhone. The company is a mobile motion sensing platform for applications that need regular touch interfaces.
-	['', 'music game', ' ', 'motion control', ' ', 'air guitar', ' ', 'mobile motion', ' ', 'consumer electronic', '']
-Amazon Robotics
-	Developer of mobile material handling solutions for the storage, movement and sortation of products. The company\'s mobile fulfillment system include ItemFetch for picking items OrderFetch, a sortation system for routing orders to the dock door and CaseFetch, which delivers pallets to workers for case picking or forward replenishment.
-	['', 'material handling', ' ', 'mobile material handling', ' ', 'sortation system', '']
-Openera
-	Provider of mobile application services. The company provides an application that help users to find any file or attachment in two taps and automatically saves email attachments to cloud services like Dropbox, Google Drive, Box and Salesforce.
-	['', 'mobile application service', ' ', 'email attachment', ' ', 'cloud service', '']
-Nokia gate5
-	Developer of location based information technology on mobile devices. The company provides a platform for mapping, route planning, content management and personal navigation. Its products include smart2go, a client side global map and search application for GPS-equipped mobile handsets and OEM navigation software for PNDs and PDAs.
-	['', 'location based', ' ', 'information technology', ' ', 'navigation software', '']
-Grokr
-	Provider of a mobile search application for the iPhone. The company\'s mobile application delivers information to users by anticipating what they would search for.
-	['', 'cognitive Web', ' ', 'cognitive service', ' ', 'information application', ' ', 'search application', ' ', 'information search', ' ', 'mobile search', ' ', 'information delivery', '']
-Moves
-	Developer and provider of a pedometer that works with iPhone. The company\'s products use sensor and location information from the user\'s iPhone to record any activities users do and using location technology, can recognize routes of travel and locations. It enables users to track their activities and distances logged on a daily basis.
-	['pedometer ', 'fitness application', ' ', 'activity tracker', '']
-FoodieQuest
-	Provider of a food photography and restaurant search application. The company offers an online software that integrates with existing social platforms and creates a competitive game centered around smartphone food photos and direct competition between users.
-	['', 'food photography', ' ', 'platform software', '']
+Commercetools
+	Provider of cloud based e-commerce services. The company develops and operates as an e-commerce service for small businesses offering all the important trading functions as a programming interface, enabling cross-channel e-commerce.
+	['', 'cloud software', ' ', 'e-commerce software', ' ', 'commercial tool', '']
+VARStreet
+	Provider of specialized e-commerce services. The company offers E-Commerce Platform features several modules that include E-Commerce, Quoting, Sourcing, and Marketing.
+	['', 'e commerce platform', '']
+e2e (ecommerce)
+	Provider of e-commerce platform. The company provides e-commerce service for logistics, marketing and technology.
+	['', 'electronic commerce', ' ', 'online shopping', ' plataforma']
+Mixcommerce
+	Provider of e-commerce services for brands. The company focuses on the creation and production of websites for customers and the management of online sales.
+	['e-commerce ', 'online sales', ' ', 'online sales', ' e-marketing merchandising']
+Eliance
+	Provider of back office e-commerce services to the web businesses. The company provides esurcing (TM) services to web businesses to outsource their e-commerce back-office activities.
+	['', 'financial software', ' ', 'e-commerce servces', '']
+Loveyewear
+	Operator of an e-commerce platform for selling eye-wear. The company offers branded glasses and sunglasses in Sweden.
+	['eye-wear eyewear glasses sunglass ', 'online eyewear store', '']
+Resolution
+	Provider of e-commerce solutions that offers services like marketing, e-commerce management, logistics and fulfillment, product development and "on demand" manufacturing. The company initially began as a media manufacturing and distribution company. The company offers services that enable clients to enhance their revenues with minimal investments and expertise.
+	['', 'e-commerce solution', ' ', 'product development', '']
+Transactiv
+	Provider of an on demand commerce services for mid market companies. The company provides tools that allow companies to engage and manage both indirect and direct channels and deliver commerce capabilities and analytics across websites, micro-sites, Facebook, eBay, Amazon and any mobile client.
+	['', 'online commerce', ' ', 'on-demand commerce', ' ', 'commerce analytics', '']

@@ -1,18 +1,54 @@
-Yardbarker
-	Operator of a sports website. The company allows sports fans, bloggers, and professional athletes to read and discuss sports articles, view sports photos and videos, debate and interact with each other. It also operates an online store that offers women\'s, kid\'s, men\'s, and organic T-shirts; and baby one-pieces, accessories, and gift cards.
-	['', 'sports website', ' ', 'online sports media', ' ', 'online sports entertainment', ' ', 'online sports article', '']
-Shawei.com
-	Provider of an online platform for sports fans. The company offers web portal for chinese sports.
-	['', 'online sport platform', ' ', 'web portal', ' ', 'sport portal', '']
-Bleacher Report
-	Provider of an open source sports network and community publishing site for amateur sports writers. The company allows sports fans to share insights and opinions, news and photos as well as write articles. It also provides advertising opportunities, including run-of-site and targeted campaigns.
-	['', 'sports network', ' ', 'community publishing', ' ', 'sports publishing', ' ', 'sports media', ' ', 'digital publishing', ' ', 'sports website', ' ', 'sports news', '']
-Kewego
-	Provider of business solutions for managing, broadcasting and monetizing videos on Internet, Intranet, mobiles and screen networks. The company provides IP-based, multi-screen video asset management solutions for managing, broadcasting and monetizing videos on PCs, mobile phones, iPads, connected TVs, gaming consoles and other Internet-connected devices. It also provides a Web portal solution that consists of a video portal with personalized player that enables its clients to integrate a Web portal to their Websites.
-	['', 'video broadcasting', ' ', 'video monetizing', ' ', 'video portal', ' ', 'video asset management', ' ', 'online video', '']
-Enthuse
-	Provider of mobile focused platform for sports franchises. The company offers an online platform that gives fans the ability to connect with their sports teams via their mobile devices.
-	['', 'mobile device', ' ', 'sport platform', ' ', 'online connection', '']
-Mangia Technologies
-	Provider of a platform for sports fans. The company enables people to order food and merchandise using mobile phones.
-	['', 'food order', ' ', 'sports fan', ' ', 'ticket booking', '']
+Aristo Technology
+	Developer and marketer of design planning and assembly tools for complex IC and system-on-chip (SOC) designs. The company constraint driven planning and implementation tools offer design convergence by incorporating block-level physical information starting at the architectural (pre-RTL) design stage. Aristo serves IC designers from system and semiconductor companies developing high performance, multi-million transistor designs and adopting a hierarchical chip planning and implementation design methodology. Block-based methodologies are essential in designing microprocessors, network processors, 3-D graphics accelerators, DSPs, ASSPs, and complex ASIC designs.
+	['', 'IC design', ' ', 'system-on-chip', ' ', 'SOC', ' IC ', 'transistor designs', ' ', 'microprocessor design', ' ', 'network processors', ' ', '3-D graphics accelerators', ' ', 'ASIC designs', '']
+AudioAsics
+	Developer of low-power audio technologies. The company designs microphone and audio signal conditioning ASICs for consumer and communications products like MP3 players, cell phones and PDAs. It also designs audio ASICs, including analog-to-analog and analog-to-digital pre-amplifiers for microphones, receivers, converters and speaker drivers.
+	['ASIC amplifier microphone']
+NewPort Communications
+	Developer of high-performance optical communications chips. The Company\'s devices are based on a proprietary design technology called Current-Controlled CMOS (C3MOS(TM)).
+	['', 'optical communication', ' ', 'communication chip', ' ', 'proprietary design technology', '']
+Linux NetworX
+	Provider of Linux-based high performance computing (HPC) solutions. The company also provides technical services, such as batch scheduling implementations, application optimization, security implementations, and application configuration and tuning.
+	['', 'batch scheduling', ' ', 'application optimization', ' ', 'application configuration', ' ', 'high performance computing', '']
+System General
+	Manufacturer of semiconductors and analog and digital circuits. The company also designs ICs used in AC/DC power IC products.
+	['', 'integrated circuits', ' ', 'power circuits', ' ', 'digital circuits', ' ', 'semiconductors and resistors', '']
+Touchstone Semiconductor (Analog IC Products)
+	Designer and manufacturer of high-performance analog integrated circuits. The company provides high-performance, low-power analog IC products for power management services.
+	['low-power analog-to-digital ', 'power management IC', '']
+OctigaBay Systems
+	Manufacturer of computing architecture for simulation and modeling applications. The company develops high performance computing (HPC) system designed around its direct connected processor architecture, an approach to parallel processing that directly links together processors, alleviating memory contention and interconnect bottlenecks found in cluster systems.
+	['', 'computing architecture', ' ', 'modeling application', ' ', 'simulation application', '']
+ADAP Nanotech
+	Manufacturer of carbon nanotube based adhesives and coatings. The company specializes in manufacturing and commercialization of high performance thermally and electrically conductive adhesives for use in demanding industrial and electronics applications, with an initial focus on thermal interface materials deployed to facilitate cooling of electronic components.
+	['', 'carbon nanotube', ' ', 'electrically conductive adhesives', ' adhesives']
+Groupe J.L. Leclerc
+	Manufacturer and designer of industrial products for power and transportation industries. The company serves the markets for energy and transport. It has developed its own equipment designed for the maintenance and installation of electric lines.
+	['', 'industrial products', ' ', 'power and transportation', ' ', 'electric lines', ' ', 'equipment design', '']
+Quickturn Design Systems
+	Provider of system level verification solutions for the design of integrated circuits and electronic systems. The company\'s products are used by developers of high-performance computing, multimedia, graphics and communication systems.
+	['', 'computing systems', ' ', 'communication systems', ' ', 'electronic systems', '']
+Vertex Networks
+	Developer of ASIC focusing on LAN switching market. The Company focuses on providing high performance, cost-effective Third- Generation solutions for the emerging LAN and ATM switching market.
+	['', 'hardware components', ' communication ', 'system architecture', ' chipset ', 'network market', '']
+NPC Springs
+	Manufacturer of high-strength industrial springs. The company manufacturers high-strength springs for railroads, cars and agricultural equipment.
+	['', 'springs', ' ', 'high-strength', ' ', 'railroad springs', ' ', 'car springs', '']
+Touchstone Semiconductor
+	Designer and manufacturer of high-performance analog integrated circuits. The company creates high-performance analog integrated circuit (IC) services that solve critical issues for electronics companies.
+	['', 'analog integrated circuit', ' ', 'specification identical', ' ', 'integrated circuit', '']
+SemiSouth Laboratories
+	Manufacturer of high-voltage silicon-carbide semiconductor devices. The company specializes in the development and manufacturing of silicon carbide materials and electrical components for high-power, high-efficiency, harsh-environment power management and conversion applications.
+	['', 'semiconductor device', ' ', 'silicon carbide', ' ', 'electronics material', ' ', 'harsh environment electronic', '']
+FlowWise Networks
+	Provider of performance-enhancing equipment for computer networks. The company is the provider of high-performance router-acceleration products that are self-configuring. The company\'s products are designed to enhance the performance of networks, with little to no disruption of service.
+	['', 'telephony platform', ' ', 'network equipment', ' router']
+Rapport, Inc.
+	Developer of embedded application chips for computer intensive applications. The company\'s chips are deployed in accelerator boards and high performance systems for government and commercial services ranging from intelligent sensor modules to networking devices.
+	['', 'electronic chips', ' ', 'computer intensive application', ' ', 'sensor module', ' ', 'networking device', ' ', 'embedded application chip', '']
+ISOPur Fluid Technologies
+	Developer of high-performance fluid purification systems. The company provides purification systems for hydraulic and lubricating oil used in high-performance, mission-critical industrial machinery.
+	['', 'purifies oil', ' ', 'fluid purity', ' ', 'filter cartridges', ' additives']
+Antrim Design Systems
+	Provider of comprehensive software solution. The company offers software solution for automating the design of high performance analog.
+	['', 'intellectual property', ' circuit ', 'design tools', '']

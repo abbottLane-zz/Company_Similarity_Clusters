@@ -1,66 +1,129 @@
-Wharton Econometrics
-	Provider of economics forecasting and consulting services. The company provides economic information and research to commercial markets worldwide.
-	['', 'economic forecasting', ' forecasting ', 'consulting service', '']
-Predictive Systems
-	Provider of network consulting services. the company provides network infrastructure and security consulting services focused on helping global enterprises and service providers harness the power of network technology.
-	['', 'information technology service', ' ', 'network consulting', ' ', 'design and security', '']
-e2e
-	Provider of IT consulting services.The company is a technology consulting firm specializing in software architecture, program management, process improvement and assessment services.
-	['', 'technology consulting', ' ', 'program management', ' ', 'software architecture', ' ', 'process improvement', ' ', 'IT consulting', '']
-Foundstone
-	Developer of software for detecting and managing software vulnerabilities. The company offers a combination of enterprise software, appliances, consulting services and education to help organizations protect their assets from threats.
-	['', 'strategic security', ' ', 'network security', '']
-Energy Response
-	Provider of advisory services that facilitates the buying and selling of energy. The company provides strategic advice relating to market development and reform, market access, transmission, distribution and retail issues, regulation issues, competition policy, governance arrangements, legislative and institutional arrangements and user participation issues.
-	['', 'electricity market', ' ', 'price risk management', ' ', 'network support', ' ', 'electricity distribution', '']
-Forum-Défi
-	Provider of advisory and consulting services. The company provides advisory and consulting services about furniture design and multimedia to companies and individuals.
-	['', 'advisory service', '']
-Schoonover Associates
-	Provider of competency management data and consulting services. The company specializes in leadership and executive development, strategic human resources consulting, competency model building, and talent management systems.
-	['', 'competency management', ' ', 'executive development', ' ', 'talent management', ' ', 'competency model', ' ', 'human resource consulting', '']
-Solid Information Technology
-	Provider of proprietary database products. The company also provides various consulting services, which include technical assessment, proof of concept and database and application migration services.
-	['', 'database products', ' ', 'business consulting', ' ', 'application migration service', '']
-The SLTN Group
-	Provider of consulting and advisory services for implementation, management and migration of issues in profit and non-profit organizations. The company along with its four divisions provides software and hardware solutions for eServer hardware platforms, financial advisors and software vendors for consolidation, virtualization, designing infrastructure for managed cloud services.
-	['BPO eServer ', 'advisory services', ' ', 'cloud services', '']
-HelloWallet
-	Provider of online financial advisory services. The company helps workers to manage their overall household finances by finding the money to boost their contributions to retirement savings and reduce debt.
-	['', 'financial advice', ' ', 'financial guidance', ' ', 'personal finance management', ' ', 'household finance', ' ', 'retirement saving', '']
-Lexington Software Associates
-	Provider of technology and service solutions for software development and delivery environments. The company provides software consulting services including systems programming, website designing and high level consulting.
-	['', 'service solutions', ' ', 'systems management', ' ', 'website designing', '']
-Magnet 360
-	Provider of consulting services. The company provides creative, marketing and technology consulting services like Salesforce consulting, CRM implementation, engagement strategy, social, mobile development, marketing automation, user experience, application development, channel marketing, and insights and analytics.
-	['', 'marketing automation', ' ', 'cloud industries', ' ', 'implementation services', '']
-AlphaBoost
-	Provider of consulting services to social advertisers. The company enables social advertisers to make decisions about where to spend their media dollars and how to communicate with their fans, followers and other owned audiences.
-	['', 'social advertiser consultation', ' ', 'communication channel', ' ', 'advertisement platform', '']
-gp3 Groupe Conseil
-	Provider of consulting services. The company helps departments and agencies to implement their strategic plan to facilitate the transition to tactical and operational plans.
-	['', 'operational plans', ' ', 'startegic plans', ' architecture']
-Venture Farm
-	Provider of finance and advisory services. The company provides direct investments and execution assistance to entrepreneurs and early stage companies.
-	['', 'managed capital', ' ', 'advisory services', ' ', 'growth funding', '']
-Boule Diagnostics
-	Boule Diagnostics AB is engaged in developing, manufacturing, and marketing hematology measurement systems. The company offers blood analysis systems, plastic micro capillaries, as well as support and consulting services for human and veterinary markets.
-	['hematology ', 'blood disease', ' ', 'blood analysis', ' ', 'blood diagnostic', '']
-USBX Advisory Services
-	Provider of investment advisory services to businesses. The company provides merger & acquisition advisory services, valuation services, institutional private placement and related strategic advisory services.
-	['', 'investment advisory', ' ', 'financial advisory', ' ', 'strategic advisory service', '']
-InPhase Technologies
-	Developer of holographic data storage recording media and systems. The company also provides a range of holographic recording materials, test equipment and consulting services for research and development organizations. The company offers its products for film and television studios, corporate enterprises, and medical institutions.
-	['', 'holographic data', ' ', 'media and system', ' ', 'holographic recording', ' ', 'film studios', ' ', 'television studios', ' ', 'computer hardware', ' ', 'electronic components', '']
-Fidelio Software
-	Operator of a software company. The company provides management support to the hospitality industry in the form of software, hardware and consulting services.
-	['', 'software solution', ' ', 'consulting service', ' ', 'management support', '']
-Cuesol
-	Provider of multi-channel, loyalty-based shopping solutions for consumers conducting business in the store, on the Web and over wireless devices. The company also provides design, project management, implementation and marketing consulting services.
-	['', 'interactive shopping', ' ', 'online shopping', ' ', 'project management', ' ', 'data staging', '']
-Integrated Systems Consulting Group
-	Provider of information and consulting services. The company provides software applications development and systems and network management consulting services. It also provides client-server architecture, graphical user interface-based applications, object-oriented and relational databases and cross-platform applications integration.
-	['', 'information enabled service', ' ', 'client-server architecture', ' ', 'network management', '']
-BroadReach Partners
-	Provider of business development consulting services. The company provides business development consulting services like sales pipeline development, prospect nurturing and conversion, and field marketing integration to businesses to improve their efficiency.
-	['', 'sales development', ' ', 'revenue improvement', ' ', 'financial consultancy service', '']
+Signature Labs
+	Developer of a mobile shopping assistant and shopping application. The company provides a way to make connections and share discoveries of new products and services.
+	['', 'shopping assistant', ' ', 'shopping application', ' ', 'mobile shopping', ' ', 'product sharing', ' ', 'service sharing', '']
+SurgeryEdu
+	Developer of a mobile application which provides brief 3D interactive procedure animation. The company helps healthcare professionals to educate patients about medical procedures using 3D interactive animations through tablet based mobile applications.
+	['', 'education application', ' animation ', 'doctor-patient communication', ' ', 'medical device', '']
+Wakesoft
+	Provider of application architecture solutions. The company’s Wakesoft Architecture Server allows users to build enterprise-level Java, XML and Web Services applications.
+	['', 'Architecture Server', ' ', 'architecture solutions', ' Java  XML']
+Lalalab
+	Provider of photo printing application. The company provides an application that allows its users to print their photos directly from their phone and receive the prints a few days after ordering them.
+	['', 'mobile commerce', ' ', 'photo printing', ' ', 'photo printing application', '']
+Directr
+	Provider of a mobile application for creating videos. The company\'s application provides users with the ability to create movies on their phones.
+	['', 'video application', ' ', 'movie creation', ' ', 'video editing', ' ', 'mobile video', '']
+Storific
+	Developer of a mobile application to find and order food from restaurants. The company is a provider of a mobile application that allows users to find, order, and pay for food before pick-up or dine-in.
+	['', 'food app', ' ', 'order app', ' ', 'iphone app', ' ', 'restaurant menu', ' ', 'restaurant pick-up', ' ', 'restaurant search', '']
+Nukona
+	Provider of mobile application management technologies. The company\' application center is an end-to-end mobile information management and security service, enabling enterprises to secure, deploy and manage native and web applications and content on corporate-owned and personal devices.
+	['', 'mobile application management', ' ', 'mobile information management', ' ', 'web applications', '']
+Klip
+	Developer of a mobile application. The company\'s application allows users to share videos with others.
+	['', 'mobile video streaming', ' ', 'mobile video sharing', ' ', 'mobile video editing', ' ', 'mobile video platform', '']
+Tomfoolery
+	Developer of mobile application software.  The company provides mobile software to consumers and businesses across a wide array of sectors.
+	['', 'mobile software', ' ', 'consumer quality', ' ', 'enterprise application', '']
+Streamweaver
+	Developer of multi-angle mobile video application. It allows users to record videos together with their friends. The videos can then be combined to show multiple angles simultaneously in a single split-screen video.
+	['', 'mobile video application', ' ', 'multi angle video', ' ', 'split screen synchronicity', '']
+FasterLighterBetter
+	Provider of a tipping and appreciation services. The company\'s application allows fans a one-click option to support content authors in their work.
+	['', 'IT Services', '']
+Emerald Exam
+	Developer of an exam administration software. The company\'s application offers paperless exams to address the many issues that arise with hand-written examinations and also prevents cheating.
+	['', 'hand-written examinations', ' examination ', 'examination software', ' ', 'paperless exams', '']
+Indicee
+	Provider of a platform that helps business users to organize, analyze and share business data in an online community. The company operates an online application that allows users to merge data from various business systems, reports and spreadsheets, as well as analyze and share that data with co-workers, colleagues and customers in an online environment.
+	['', 'business sharing', ' ', 'data analysis', ' ', 'data sharing', ' ', 'data merge', '']
+Urbantag
+	Provider of a community to share and recommend places to people. The company\'s application allows users to build lists and then share them with friends, either online or on iPhone, they can then create their own lists or provide input to your own, giving recommendations for where to go or where not to go.
+	['', 'local discovery', ' ', 'place recommendation', ' ', 'place sharing', ' ', 'map network', '']
+Konotor
+	Operator of an online two-way communication platform. The company provides an e-commerce communication platform for mobile application users.
+	['', 'cellphone application', ' ', 'connecting software', ' ', 'texting platform', '']
+Juice Wireless
+	Developer of mobile marketing programs. The company operates JuiceCaster, a mobile and online social media community that allows users to connect with friends, as well as post and share photos and videos from mobile phones.
+	['', 'mobile marketing program', ' ', 'social media community', ' ', 'mobile media', ' ', 'mobile photo sharing', '']
+Copygram
+	Developer of a Web-based application for Instagram photos. The company provides an application that allows users to download, share and print Instagram pictures.
+	['', 'multimedia and design', ' ', 'instagram', '']
+HylioSoft
+	Developer of web mapping applications. The company offers an application which allows users to create, manage and publish online maps without any knowledge of programming.
+	['', 'web mapping', ' ', 'online map', ' ', 'rich internet applications', ' RIA']
+Tello
+	Developer of SaaS and mobile application for customer feedback. The company provides web and mobile service that aggregates ratings for businesses from across the web and allows users to post comments about their experience at a business.
+	['', 'social application', ' ', 'customer outreach', ' ', 'employee rating', ' ', 'customer feedback application', '']
+HopStop.com
+	Developer of a mobile application for pedestrian-friendly directions and information. The company is the creator of a mobile application that provides door-to-door transit, walking, biking, taxi and hourly car-rental directions in more than 300 cities. It is available for mobile phones and tablets.
+	['', 'driving software', ' ', 'driving application', ' ', 'location based software', ' ', 'subway directions', '']
+Trestle
+	Provider of a set of cloud based mobile application that allows mobile applications to store and manipulate data. The company provides chain server as well as the custom node JS service for creating custom mobile application.
+	['', 'custom mobile application', ' ', 'chain server', ' ', 'custom node', '']
+Meh Labs
+	Developer of a self-destructing mobile messaging application. The company\'s application allows its users to share anonymous, self-destructing, secret chats with their friends. It also helps in recording audio, sending texts, making videos and snapping photos. The company originally provided Kismet, a social networking application that enabled users to meet and chat with their friends.
+	['', 'mobile messaging', ' ', 'social connect', ' ', 'self-destructing texts', ' ', 'messaging application', ' ', 'secret chat', ' ', 'photo snapping', '']
+YumDots
+	Developer of a mobile application for finding places to eat. The company uses interactive maps to help users locate nearby restaurants on their computer or mobile phone.
+	['restaurant ', 'places to eat', ' ', 'nearby restaurants', '']
+ShopSavvy
+	Developer of mobile shopping comparison application. The company develops a mobile application that allows consumers to scan UPC, EAN or QR barcodes to obtain in-store price comparisons and inventory information spanning local and online retailers.
+	['', 'mobile shopping', ' ', 'shopping comparison', ' ', 'barcode scanner', ' ', 'mobile commerce', '']
+KKing
+	Developer of karaoke application. The company offers a platform to upload and share karoke through mobile phones.
+	['', 'mobile app', ' ', 'karaoke application', '']
+Backchat
+	Developer and provider of application based social platform for communication. The company\'s application allows friends to share and communicate each others feedback, opinions, feelings and ideas.
+	['', 'application platform', ' ', 'human communication', ' ', 'personal feedback', '']
+SnapGuide
+	Provider of an iOS application and web service for sharing "how to" guides. The company\'s platform enables users to share and consume instructional knowledge on a variety of topics - from automotive repairs to cheesecake. The platform can be deployed on mobile devices.
+	['', 'instruction guide', ' ', 'video guide', ' ', 'how to guide', ' ', 'voice recognition', ' ', 'web service', '']
+Daum Kakao
+	Developer of a cross-platform mobile messaging application. The company offers a series of products namely KakaoTalk, KakaoStory, KakaoMusic and KakaoGame which allows its users to share data in the form of text messages, photo and music, make voice calls and play games.
+	['', 'cross-platform messaging', ' ', 'mobile messaging', ' ', 'messaging application', '']
+Grokr
+	Provider of a mobile search application for the iPhone. The company\'s mobile application delivers information to users by anticipating what they would search for.
+	['', 'cognitive Web', ' ', 'cognitive service', ' ', 'information application', ' ', 'search application', ' ', 'information search', ' ', 'mobile search', ' ', 'information delivery', '']
+ROAM Data
+	Developer of mobile application for tracking financial transactions. The company deliver real-time information and transactions to mobile professionals on their own mobile phones.
+	['', 'commerce gateway', ' ', 'mobile application', ' ', 'payment processor', '']
+TrustGo Mobile
+	Developer of free mobile security application. The company\'s application provides virus protection to find and eradicate applications that can compromise user\'s personal data and privacy. It allows mobile device users to search, monitor, detect and prevent harmful applications and protect mobile devices.
+	['', 'mobile security application', ' ', 'virus protection', ' ', 'personal data privacy', ' ', 'mobile device protection', ' ', 'melware detection', '']
+SimpleHoney
+	Provider of a mobile application. The company offers its users with an application to make their wish list of the places and things they wish for and  provide shopping packages accordingly.
+	['', 'wish list', ' ', 'mobile product', ' ', 'mobile shooping application', '']
+Tiny Pictures
+	Operator of a mobile media-sharing site called Radar. The company\'s services help users to share mobile photos and videos to its site through e-mail and mobile messaging. It develops applications that enable users to share videos and images to others across mobile networks and social networking platforms.
+	['', 'mobile photo', ' ', 'media sharing', ' ', 'photo sharing', ' ', 'mobile video', ' ', 'mobile messaging', ' ', 'video sharing', ' ', 'social network', '']
+Maana Mobile
+	Developer of a mobile application for informal lending practices. The company’s software is designed for residents of South Africa to keep track of casual lending transactions and IOUs. Its application is designed to replace the handshake, word-of-mouth, memory or paper used by casual lenders and borrowers to enact and track their transactions. Users can view all outstanding IOUs, record payments, send out payment reminders and make payments without a bank account.
+	['lending ', 'banking software', ' ', 'payment software', ' ', 'unbanked Lending', '']
+Frankly
+	Developer of a mobile messaging application. The company offers a mobile and web platform that allows users to send messages and photos that self destructs after the recipient reads them. It also allows users to recall unread messages and make anonymous comments during group chats.
+	['', 'mobile messaging', ' ', 'messaging application', ' ', 'communication service', '']
+Brandfitters
+	Developer of a mobile application connecting consumers with brands. The company connects consumers with brands when, how and where they want–giving the consumer a voice and control of the relationship and engagement level.
+	['', 'consumer connectivity', ' ', 'customer relationship', ' ', 'consumer engagement application', '']
+SmartThings
+	Provider of a platform that enables customers to install connected devices and control them through a single mobile application. The company provides a kit that allows everyday objects, such as light switches and door locks, to be controlled through a smartphone application.
+	['', 'connected product platform', ' ', 'connect product', ' ', 'wireless control', ' ', 'wireless monitoring', ' ', 'online monitoring', ' ', 'online control', ' ', 'remote control', ' ', 'remote operation', ' ', 'remote monitoring', ' ', 'smart home', '']
+Airseed
+	Developer of a platform providing consumer data-focused tools, analytics and intelligence. The company has created a software platform that for developers provides rich intelligence and analytics on consumer users of the product. For consumers, the company provides a mobile application that automatically finds upcoming flights and enables simple flight checkins. The application also enables users to share travel itineraries with friends and family.
+	['', 'developer platform', ' ', 'consumer data', ' ', 'software platform', '']
+Rockpack
+	Provider of a video-curation application. The company is the developer of a mobile application for video downloads, curating video content from around the Web and enabling users to create their own channels for receiving it.
+	['', 'video curation application', ' ', 'video platform', ' ', 'curate video', ' ', 'share collection', '']
+Impulcity
+	Developer of a mobile application that helps users to find local concerts and events in the city. The company\'s application alerts users to nearby events, based on their preferences, and provides a social network for sending out invites and sharing real-time content and photos.
+	['', 'personalized guide', ' ', 'location based event', ' ', 'mobile device', ' finder']
+Stamped
+	Provider of an application platform to let people record and share recommendations of their favorite things. The company provides a web application that allows its users to share and recommend things like restaurants, books, movies, music and more with their friends.
+	['', 'buy book', ' ', 'movie ticket', ' ', 'restaurant menu', ' ', 'download music', ' ', 'web application', ' ', 'recommendation sharing', '']
+Cooliris
+	Developer of browser add on that transforms user’s browser into full screen to view online photos and videos. The company offers a mobile and web application that allows users to take pictures at events and share them in one live photostream.
+	['', 'internet application', ' ', 'browser add on', ' ', 'online photo', '']
+Todoroo
+	Developer of an android application for preparing a social to-do list. The company\'s application allows its users to organize their goals and share ideas. It acts as a social productivity platform.
+	['', 'android application', ' ', 'mobile application', ' ', 'productivity application', '']

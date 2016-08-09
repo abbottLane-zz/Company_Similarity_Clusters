@@ -1,24 +1,33 @@
-Indeed
-	Provider of an online job searching portal. The company acts as an external source of hiring and an employer review site.
-	['', 'online search engine', ' ', 'job searching portal', ' ', 'hiring source', ' ', 'employer review site', '']
-Smartfundit
-	Provider of financial products to technology buyers and sellers. The company provides asset finance, technology finance, venture capital finance, enterprise finance, public sector finance and online registration services.
-	['', 'financial product', ' ', 'asset finance', ' ', 'venture capital finance', '']
-Mint.com
-	Provider of a free online personal finance service. The company\'s primary service allows users to track bank, credit card, investment, and loan transactions and balances through a single user interface.
-	['', 'personal financial management', ' ', 'single user interface', '']
-Ambiensis
-	Provider of comprehensive development support for new sustainable technologies in the agricultural and environmental sectors. The company provides assistance to business propositions in the areas of finance, product and process development, marketing and business management.
-	['environment', 'agricultural sector', ' ', 'process development', ' ', 'business management', '']
-LearnVest
-	Provider of interactive and educational articles and personal finance information on the web. The company provides checklists, financial tools, a set of financial basics and access to a collaborative community. It creates content based upon personal relevance, personal finance education and investing and savings trends.
-	['', 'personal finance', ' ', 'educational article', ' ', 'personal finance education', ' ', 'financial tool', '']
-Sharewise
-	Provider of an online finance community. The company\'s website acts as a share community for users seeking for in-depth information regarding stocks. The company\'s website also acts as a forum for users to share predictions and recommendations.
-	['', 'online community', ' ', 'financial service community', ' ', 'share community', ' ', 'stock information', '']
-FitKit
-	Provider of personal nutrition. The company provides personal nutrition on subscription.
-	['', 'healthcare industry', ' ', 'nutritional capsule', ' ', 'lifestyle quiz', '']
-Rupeetalk.com
-	Provider of personal finance portal. The company acts as a intermediary portal that provides personal finance product.
-	['', 'personal finance portal', ' ', 'intermediary portal', ' ', 'personal finance product', '']
+Weilos
+	Provider of mobile based social platform to help users lose weight through accountability. The company\'s platform matches users with coaches who have won their own weight battles, and who can supply personalized input to help them reach their weight-loss goals.
+	['', 'social weight loss', ' ', 'Learn Program', ' coaching']
+Brightkite (acquired 2009)
+	Provider of location-based social networking website. The company provides a locaiton-based social platform that fosters relationships between potential strangers who happen to be in the same physical space.
+	['', 'location based', ' ', 'online community', '']
+Betterfly
+	Provider of a live video learning marketplace. The company\'s platform connects individuals with teachers, instructors and experts to help users learn a new skill or improve on something they already know.
+	['', 'self-improvement', ' ', 'online lessons', ' ', 'video chat', ' lessons ', 'online tutoring', '']
+A Space Apart
+	Provider of location based social media platform. The company\'s platform connects users with local businesses.
+	['', 'social media platform', ' ', 'online business platform', ' ', 'social platform', '']
+Guanxi (China)
+	Developer and provider of a location-based social discovery platform. The company develops a social platform that helps users discover new connections and maintain meaningful relationships, whether business or personal, with people they have commonalities with.
+	['']
+Connectipity
+	Operator of a global collaboration platform for solving professional challenges. The company develops a digital platform that connects users with the right skilled people for immediate needs.
+	['', 'global collaboration', ' ', 'professional challenges', ' ', 'work spaces', ' ', 'management tool', '']
+LoSo
+	Provider of location-based social media application. The company\'s platform delivers real-time advertisements, local deals and user loyalty reward “geo-checkins” through smart-phones and facebook applications.
+	['', 'social media app', ' ', 'location software', ' ', 'smart phone application', '']
+ShopperTrak
+	Provider of location based retail analytics for retail industry. The company provides consumers insights and analytics for retailer, malls and entertainment venues which helps in leveraging the company with consumer data.
+	['', 'retail leverage', ' ', "retailer\\'s data", ' ', 'consumer data', ' ', 'consumers insights', '']
+Scoville
+	Provider of location-based recommendation engine. The company discovers at least one place every week and shares them on their website.
+	['', 'Recommendation engine', ' ', 'discovery platform', ' location']
+Momo
+	Provider of a location-based social networking application. The company provides a free platform enabling users to communicate through voice, photos and text, while being aware of real-time distance between themselves and the person they\'re messaging.
+	['', 'navigation system', ' ', 'GPS tracker', ' ', 'global positioning system', ' ', 'social networking application', '']
+SonicLiving
+	Provider of a social platform that connects users to music concerts and events  based on their social media preferences. The company connects events and people all around the Internet, taking into account context, taste, social graph activity and event type.
+	['', 'consumer service', ' ', 'music concerts', ' ', 'social media preferences', '']

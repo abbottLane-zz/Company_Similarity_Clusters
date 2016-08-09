@@ -1,63 +1,45 @@
-Paymo
-	Provider of mobile payments network for online merchants. The company allows consumers to buy online and pay with their mobile phone.
-	['', 'online payment network', ' ', 'mobile payment', ' ', 'payment software', '']
-MobileMax
-	Provider of a solution to the calling card industry for serving the lucrative mobile user segment. The company engages in the development, manufacturing and marketing of software and hardware facilitating low-priced international calls by mobile phone.
-	['', 'unified communication', ' ', 'fixed mobile convergence', ' ', 'telecommunication service', '']
-Spring Partners
-	Provider of web and mobile phone applications that provide coupons for discounts at retailers. The company provides Springpad, which enables consumers to save and share products and services on web and mobile phones as well as EngageProactively, that communicates with consumers and provides branded information, offers and deals.
-	['', 'media service', ' ', 'mobile phone applications', ' ', 'Media and Information', '']
-Sipcall.com
-	Developer of innovative Session Initiation Protocol (SIP) based services. The company\'s products include Hipsip, a SIP service for mobile phone users in the United States and internationally.
-	['', 'Session initiation service', ' ', 'broadband connection', ' ', 'personalized phone number', ' ', 'telephone network', '']
-VoiceObjects
-	Provider of a phone application server. The company\'s products include VoiceObjects Server, a phone application server that enables carrier-grade deployment and management of over-the-phone voice, video, text and mobile Web self-service applications and VoiceObjects Desktop, a GUI-based application for creating, testing, deploying and monitoring self-service phone portals. It also offers professional services, including consulting, training and technical support services. Its customers include banking and financial services, communication, marketing agencies, industrial, travel and support, healthcare, government, entertainment and info-portals and management service providers in the United States and internationally.
-	['', 'phone application server', ' ', 'phone portal', ' ', 'phone voice', '']
-Jambo
-	Provider of net-to-phone software for connecting web searchers directly with local businesses via phone. The company provides a mobile membership directory that works like radar to give any group of people the ability to detect, search, browse and connect to each other, when they happen to be in the same city and as close as a few blocks away.
-	['', 'net-to-phone software', ' ', 'vertical market', ' ', 'embedded sales', ' ', 'software application', '']
-Brainglass
-	Provider of educational mobile applications. The company\'s language learning applications combine the concepts of audiobook, e book, dictionary and exercises into one engaging learning environment on a user\'s mobile phone.
-	['', 'learning application', ' ', 'learning environment', ' ', 'mobile education', '']
-Seeker Wireless
-	Developer of mobile phone geolocation and zone detection technologies. The company provides zone based charging with low network impact for GSM, 2G and 3G networks and also provides SeekerZone that helps zone status detection, reporting to the handsets and signals through USSD, SMS and GPRS.
-	['geolocation ', 'zone detection', ' GSM GPRS 3G']
-Secusmart
-	Provider of mobile phone security services. The company has developed a product which enables users to receive encrypted calls and to store secret documents with a single mobile device.
-	['', 'phone security', ' ', 'security service', ' ', 'mobile device', '']
-GrandCentral
-	Provider of phone management services. The company developed a service that allows users to use one phone number for all of their phones.
-	['', 'online service', ' ', 'online search service', '']
-Vumber
-	Provider of anyphone, anytime, anywhere phone number that keeps users identity private. The company offers a number from any area code users want, to be linked to their home, cell, or work phone.
-	['', 'phone number', ' ', 'private identity', ' ', 'number connection', '']
-Dblur technology
-	Developer of software lens technology.The company develops software solutions mainly for camera manufacturers. The company also mobile phone camera vendors solution for the design of miniature cameras at lower cost.
-	['cellular digital medical camera']
-Snaptu
-	Provider of online solutions for mobile devices. The company offers Snaptu, an application that turns Websites into mobile phone applications. It serves online service providers, media companies and content owners, mobile network operators and content aggregators, and system integrators.
-	['', 'online solution', ' ', 'mobile solution', ' ', 'mobile application', '']
-GooJet
-	Provider of mobile phone applications and web content. The company allows mobile phone users to define their page of selected services and widgets by providing them with relevant information  in a phone-compatible format.
-	['', 'web content', ' widgets ', 'phone-compatible format', '']
-YumDots
-	Developer of a mobile application for finding places to eat. The company uses interactive maps to help users locate nearby restaurants on their computer or mobile phone.
-	['restaurant ', 'places to eat', ' ', 'nearby restaurants', '']
-Camino Real
-	Provider of mobile applications. The company\'s application helps mobile phone turn into a push-to-talk walkie-talkie.
-	['', 'mobile application', ' ', 'voice messaging', ' ', 'walkie-talkie', '']
-Mango Capital
-	Provider of networking software. The company provides software that allows for networked sharing of files, web content and applications, clustered caching for load balancing, fault-tolerance and scalability, web caching across work groups, and multiple access to the internet from a single phone line.
-	['']
-FlipSwap
-	Provider of mobile phone trade-in and recycling services. The company engages in the online trade of cell phones and recycles unusable phones in the United States.
-	['', 'mobile phone trade', ' ', 'online phone trading', ' ', 'unusable phone recycling', ' ', 'electronics recycling', ' ', 'electronic buy back', ' ', 'phone trade', ' ', 'wireless device', ' ', 'wireless phone reuse', ' ', 'cellphone recycling', '']
-Precision Augmented Realtiy Works
-	Developer of mobile augmented reality system. The company\'s technology offer users, taking a photo of the outside of a house with a mobile phone and then overlaying a chat with the agent, taking a virtual tour of the house on the spot.
-	['', 'reality system', ' ', 'mobile reality', ' ', 'mobile augment', '']
-Socialinfinity
-	Developer of web and mobile page builder for small business owners. The company develops software to launch brands through blogging, e-commerce, Facebook page integration and other features.
-	['']
-FusionOne
-	Provider of mobile phone backup services in the United States and internationally. The company\'s products include MightyBackup that enables users to store, manage, and transfer mobile phone content, such as contacts, photos, messages, memories, and purchased content; and Network Address Book, which helps users to organize and manage their various address books through a single interface, and share their contacts across their different address books and social networks. The company also provides Social Address Book services that aggregate mobile, messaging, Internet, and social communications into a contact-centric view to access friends\' activities.
-	['', 'mobile phone backup service', ' ', 'mobile content portability', ' ', 'Handset Transfer solution', ' ', 'Social Address Book service', '']
+LCL Logistix
+	Provider of logistics and supply-chain solutions. The company provides integrated, end-to-end shipping logistics services to customers around the globe. They utilize business-owned assets like Container Freight Stations, trucks, other equipment and warehouses to accomplish this.
+	['', 'shipping logistics', ' ', 'supply chain logistics', ' ', 'integrated shipping', ' ', 'end-to-end logistics', '']
+Microposite
+	Manufacturer of siding for buildings. The company offers siding and outside seal products and boards for the building industry. The company sells its products through dealers, building material suppliers and building product distributors
+	['', 'sealing products', ' ', 'building materials', ' ', 'construction materials', '']
+LuxN
+	Developer multi-service, optical access network platforms. The company provides end-to-end optical networking products for metropolitan service providers therby enabling delivery of high bandwidth video, data, storage and voice services.
+	['', 'optical networking', ' ', 'optical access', ' ', 'network platforms', ' ', 'data delivery', '']
+Instytut Rozwoju Reklamy
+	Provider of marketing services. The company operates as a full service advertising agency developing internet media campaigns and interactive advertisements for business organizations.
+	['', 'interactive advertisement', ' ', 'internet media campaigns', ' ', 'media campaigns', '']
+Clickmarks
+	Provider of technology solutions for development of e-business applications and web services. The company provides end-to-end solutions for enterprises and wireless carriers seeking instant aggregation, personalization and mobilization of content, business processes and applications like workflow automation, portal integration, mobilization, and decision support solutions.
+	['', 'e-business applications', ' portlets ', 'integration technology', ' ', 'workflow automation', ' ', 'portal integration', ' ', 'web services', '']
+Q1 Carrier
+	Developer and distributor of telecommunications services. The company specializes in customized applications for businesses seeking to optimize internal processes and operational cost structures.
+	['', 'telecommunication service', ' ', 'customized application', ' ', 'value added service', '']
+Castleton Technology
+	Provider of IT infrastructure, data centres and smart building services. The company provides end-to-end telecommunications and IT services for business organizations.
+	['', 'business infrastructure', ' ', 'IT infrastructure', ' ', 'data centres', '']
+Grantium
+	Provider of the grants management software platform for government agencies and granting organizations. The company provides the software that helps in off-the-shelf end-to-end enterprise grants management between organization.
+	['', 'grant management software', ' ', 'automate grant', ' ', 'virtual world', '']
+AD PathLabs
+	Provider of infrastructure and technical services to the anatomic pathology community.
+	['', 'anatomic pathology', ' ', 'pathology infrastructure', ' ', 'pathology technology', '']
+CoTraveller
+	Developer of wireless applications. The company develops and implements end-to-end wireless applications.
+	['', 'wireless application', ' ', 'wireless technology application', ' ', 'application platform', '']
+Impulse Telecom
+	Provider of telecommunications services. The company provides local and long distance phone services and flat rate long-distance services.
+	['', 'telecommunications services', '']
+TransNet International
+	Provider of telecommunication reselling services. The company purchases telecommunications services from another telecommunications service provider and then resells, uses as a component part of or integrates the purchased services into a mobile telecommunications service.
+	['', 'telecom reseller', ' telecommunication ', 'retail outlet', '']
+Branded Payment Solutions
+	Provider of transaction processing services. The company provides a back-end transaction processing platform for retailers in Europe.
+	['', 'transaction processing', ' ', 'retail integration', ' ', 'prepaid transaction', '']
+Omniyat
+	Provider of construction, real estate and property building services. The company provides construction and building services for commercial and residential buildings and properties in Dubai.
+	['', 'construction service', ' ', 'property development', ' ', 'building service', '']
+Network Solutions (Bangalore)
+	Provider of information technology (IT) infrastructure solutions, software and services for enterprise customers. The company offers NOC Inside, an IT Infrastructure management service for managing end to end IT infrastructure and Desktop Manager, a web based application that allows system administrators to auto discover, monitor and report software and hardware inventory.
+	['', 'information technology', ' ', 'infrastructure solution', ' ', 'web based application', '']

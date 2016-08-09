@@ -1,54 +1,27 @@
-Angiotech Pharmaceuticals
-	Angiotech Pharmaceuticals Inc is a pharmaceutical and medical device company that develops, manufactures and markets medical device products and technologies, primarily within the areas of interventional oncology, wound closure and ophthalmology. The Company currently operates in two segments: Medical Device Technologies and Licensed Technologies. Its Medical Device Technologies segment generates the majority of its revenue, develops, manufactures and markets a wide range of single use medical device products, as well as precision manufactured medical device components. These products and components are sold directly to hospitals, clinics, physicians and other end users, as well as to medical products distributors or other third-party medical device manufacturers. Its Licensed Technologies segment includes certain of its legacy technologies for which research and development activities have been concluded. This segment generates additional revenue in the form of royalties received from partners who have licensed and utilize these technologies in their medical device product lines. The Medical Device Technologies segment manufactures and markets single-use specialty medical device products and medical device components. These products are sold directly to end users or other third-party medical device manufacturers. This segment contains significant manufacturing capabilities as well as specialized direct and indirect sales and distribution capabilities. Many of its medical products are made using proprietary manufacturing processes and may be protected by its patent portfolio or proprietary know-how. Its significant product groups within this business segment include Interventional Oncology, Wound Closure, Ophthalmology and Medical Device Components. The Licensed Technologies segment includes certain of its legacy technologies for which research and development activities have been concluded. This segment generates additional revenue in the form of royalties received from partners who have licensed and utilize these technologies in their medical device product lines. Its principal revenues in this segment to date have been royalties derived from sales by its partner BSC of TAXUS paclitaxel-eluting coronary stents for the treatment of coronary artery disease. The Company markets and sells various medical device products through a group of specialized sales organizations that consist of direct sales and marketing personnel, which in some cases are supplemented by independent sales representatives and independent medical products distributors, depending on the product category, customer base or geographic location. The research and development, manufacturing, labeling, advertising, sale, marketing and third-party reimbursement of its medical device products and those of the Company\'s suppliers, customers and partners are subject to extensive regulation by the FDA, the U.S. Department of Health and Human Services Centers for Medicare and Medicaid Services, and comparable regulatory agencies in state and local jurisdictions and in foreign countries. The Company faces competition from companies marketing, selling and developing medical device or other medical technologies that target the same diseases, clinical indications, customers or markets that its technologies target, as well as competition from other manufacturers of medical device components who sell to similar third party medical device manufacturers, including to some of its current customers.
-	['', 'medical product', ' ', 'pharmaceutical drug', ' ', 'health care', '']
-Refractec
-	Provider of ophthalmic medical device. The company develops proprietary technology that would help baby boomers improve their near vision.
-	['', 'Healthcare services', '']
-Icon Interventional Systems
-	Operator of a cardiovascular medical device company. The company offers Nuloy stent system that provides deliverability to tortuous and distal lesions. The company also provides Biosorb that offers a transformational solution to the permanency of traditional metallic implants.
-	['Cardiovascular ', 'metallic implants', ' ', 'transformational solutions', '']
-InterCure
-	Provider of a medical device called RESPeRATE. The company\'s product helps in reducing blood pressure. RESPeRATE is a non drug treatment device.
-	['', 'blood pressure', ' ', 'bp device', ' ', 'medical device', ' ', 'blood pressure device', '']
-NanoVasc
-	Operator of a medical device company. The company designs and manufactures bio mimetic materials that are non-thrombogenic, durable and demonstrate long-term patency. The company uses an electrospinning process to manufacture scaffolds in a multitude of shapes and sizes, and then application-specific modifications are applied to the scaffolds surface in order to achieve desired results. These specific modifications are designed to optimize the devices outcome based on its delivery location. The company\'s first product is a synthetic vascular graft for hemodialysis access.
-	['', 'biomimetic material', ' ', 'electrospinning process', ' scaffold ', 'synthetic vascular graft', ' ', 'hemodialysis access', '']
-Grandhope Biotech
-	Operator of a regenerative medical device company. The company\'s medical devices are used for the treatment of damaged tissue and organs.
-	['', 'regenerative implants', ' ', 'repair of damaged tissue', ' ', 'healthcare services', '']
-Terumo
-	Manufactures & supplies medical tools & equipment
-	['']
-Nanogram Devices
-	Developer of products for nanomaterial based power sources for medical device applications.
-	['', 'medical device application', ' ', 'biomedical application', ' ', 'cardiac therapy', ' nanomaterial']
-InnoLap Surgical
-	Operator of a medical device company developing a microlaparoscopy platform for scarless laparoscopic procedures. The company\'s device reduces incision diameter, enabling surgeons the ability to perform scarless laparoscopic surgeries.
-	['microlaparoscopy ', 'scarless laproscopy', ' incision']
-AiMedics
-	Operator of a medical device company. The company develops HypoMon system, a non-invasive alarm system that identifies sleep-time hypoglycaemia in children and young adults.
-	['HypoMon ', 'non-invasive', ' hypoglycaemia']
-Biometrix
-	Operator of a medical device company. The company provides medical devices for intensive care, surgery and interventional cardiology.
-	['', 'critical care products', ' ', 'thoracic catheters', ' ', 'urology products', ' ', 'ophthalmic surgery drapes', ' cardiology']
-Breonics
-	Operator of a biomedical research and development company. The company develops medical products for the clinical organ transplant and tissue replacement markets.
-	['biomedical ', 'clinical organ', ' tissue']
-Encapsule Medical
-	Operator of a medical device company. The company focuses on the development of disposable, non-invasive, breast biopsy devices. Its products include Flash, Halo and Phantom.
-	['', 'breast cancer', ' biopsy ', 'breast biopsy', '']
-EndoMetabolic Solutions
-	Developer of proprietary medical device. The company is the developer of a device for treating obesity.
-	['', 'obesity treatment', ' ', 'weight loss', '']
-Drops
-	Operator of a medical device company. The company supplies medical products for the treatment of renal function.
-	['', 'medical care', ' ', 'renal perfusion', ' ', 'nuclear medicine', '']
-PreferredTime
-	Operator of a sales representative coordination company. The company coordinates interactions between medical offices and pharmaceutical representatives by serving medical offices and pharmaceutical firms.
-	['', 'coordination company', ' ', 'commercial service', '']
-Microcuff
-	Operator of a medical device and technology company. The company develops catheter technology, integrating micro-thin balloon components. It also provides a design platform for development of various medical devices.
-	['Balloons ', 'balloon foil', ' ', 'microthin balloon', ' cuffs']
-POP Medical Solutions
-	Operator of a medical device company. The company engages in providing a device which is used in pelvic organ prolapse repairing.
-	['', 'pelvic organ', ' ', 'pelvic floor muscles', ' ', 'internal organs', ' urinary']
+RouterShare
+	The company provides technology which connects people to the internet anywhere around the world. The company create a network of Prepaid Wi-Fi Internet Access points.
+	['', 'people connection', ' ', 'access point network', ' ', 'online networking', '']
+Orthogon Systems
+	Provider of wireless Ethernet bridges and carrier-grade point-to-point broadband wireless systems. The company serves the corporate, government, healthcare, Internet service providers, and education markets in the United States, Europe, and Asia Pacific regions.
+	['ethernet ', 'wireless system', ' ', 'point to point', ' ', 'broadband wireless', '']
+Gogo
+	Provider of in-flight wireless internet services. The company is developing broadband services for both private and commercial aviation.
+	['', 'flight entertainment', ' ', 'internet service', ' ', 'wireless service', '']
+Intermetro Communications
+	Provider of voice and data communication services.The company operates VoIP switching equipment and network facilities that are utilized to provide its services to major US and international telecommunications carriers, wireless companies, broadband phone companies and, pre-paid calling card providers. It offers its services through a direct sales force, agents, and retail distribution partners, including general merchandise and discount retail chains.
+	['', 'data communication', ' ', 'wireless telecommunications', ' ', 'Carrier Services', '']
+MetroFi
+	Designer of Wi-Fi Internet networks and wireless broadband services. The company partners with city governments, local business advertisers, Internet service providers and other companies to deliver wireless broadband service to the communities in which it operates.
+	['', 'Wi-Fi internet', ' ', 'broadband service', ' ', 'wireless broadband service', '']
+Fullrate
+	Provider of broadband services. The company\'s products include internet connections with bandwidth ranging from 2 to 20 Mbit per second, and include fixed telephony in a single broadband service. The company offers its products and services using ADSL2plus technology.
+	['', 'broadband services', ' ', 'internet connections', '']
+BOB
+	Provider of wireless broadband services. The company offers internet services, business continuity plans, MPLS, point-to-point connections, online data backup, and data storage services to businesses.
+	['', 'wireless broadband service', ' ', 'online data backup', ' ', 'internet service', ' ', 'data center service', '']
+Kiyon
+	Provider of mesh networking products for wireless broadband networks. The company offers autonomic mesh networking technology that allows it to interface with higher-level protocols.
+	['', 'mesh network', ' ', 'networking products', ' ', 'networking technologies', '']
+Advanced Radio Cells
+	Manufacturer of wireless broadband access products.
+	['', 'wireless broadband', ' ', 'wireless access', ' ', 'wireless product', '']

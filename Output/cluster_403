@@ -1,18 +1,30 @@
-Etablissements Leveau
-	Producer of alcoholic beverages. The company produces Abbey of Alder, a beer.
-	['', 'alcoholic beverage', ' beer ', 'alcohol drink', '']
-Moa Group
-	Producer and distributor of beverages. The company produces beer, wines and cocktails, employing methode traditionnelle brewing techniques.
-	['', 'beer and wine', ' ', 'cocktail drink', ' ', 'boutique brewer', ' ', 'brewing technique', ' ', 'beer market', ' ', 'alcoholic beverage', '']
-Innocent Drinks
-	Manufacturer and marketer of fruit smoothies and vegetable entrees. The company provides a line of branded health-food products that include juice smoothies, waters, juice and low-calorie noodle-vegetable pots.
-	['', 'natural drink', ' ', 'fruit juice', ' smoothie']
-Northland Cranberries (Branded Juice Business)
-	Developer of branded cranberry beverages. The company is the owner of juice brands such as northland, treesweet and awake.
-	['fruit juice cranberry']
-Adina For Life
-	Producer of beverages in the United States. The company’s products include juice coolers, coffee and tea drinks, ingredients, and drink recipes.
-	['', 'manufacturing company', ' ', 'juice cooler', ' ', 'tea and coffee', '']
-IZZE Beverage
-	Manufacturer and marketer of fruit juice beverages. The company also provides apparel, accessories and glassware to the consumers through its online store.
-	['', 'online store', ' ', 'soft drinks', ' ', 'fruit juice', '']
+Quantum Leap Packaging
+	Manufacturer of electronic component packaging. The company designs and manufactures electronic component packaging utilizing proprietary material system that meets the critical design and manufacturing requirements of various applications such as semiconductor, medical and optical devices, either in hermetic or non-hermetic configurations.
+	['', 'electronic component', ' semiconductor']
+ChipScale
+	Provider of wafer level packaging. The company provides Micro SMT packaging technology. The company refines and develops the SMT technology. The company\'s services include prototype packaging developments and licensing.
+	['packaging ', 'wafer level packaging', ' ', 'Micro SMT packaging', '']
+Kalvopakkaus
+	Manufacturer of plastic packaging products. The company is a supplier of plastic bags, flexible packaging and laminated films to customers. It also prints packaging.
+	['', 'plastic products', ' ', 'rubber products', ' ', 'laminated films', '']
+Datell
+	Provider of information integration services. The company supplies MES (manufacturing execution systems) and software for logistics for the solid bulk industry (solid bulk software) and the packaging industry (packaging logistics).
+	['', 'manufacturing execution systems', ' ', 'solid bulk software', ' ', 'logistics software', ' ', 'efficiency software', '']
+AJ Precision Components
+	Provider of plastic product moulding services. The company specializes in providing injection moulding, pad printing, potting, project management, two-shot moulding, ultrasonic welding and injection blow moulding services for the pharmaceutical, packaging, aerospace and automotive industries.
+	['', 'contract manufacturing', ' ', 'blow moulding', ' ', 'moulding machines', '']
+Novus Packaging
+	Manufacturer of extrusion-coated and laminated packaging materials serving the food, pharmaceutical and industrial markets. The company provides packaging materials including Sugar pouches/sticks/packs, Stand-up pouches, Candy wrappers, Coffee pouches, Bread bag Lidding stock, Deli wrap, Cake plates and Bakery Pouches.
+	['coated ', ' commercial bags', ' ', 'juice liner', ' lamination pouch']
+Tenzen
+	Developer of product-distribution technology. The company is a developer of interactive coding equipment (ICE) used to track distribution of products and and packaging.
+	['', 'product tracking', ' ', 'interactive coding equipment', ' ICE ', 'distribution technology', '']
+Microfluid
+	Provider of Infra Red sensor technology. The company develops product for measuring dampening within the graphic industry and measuring polymer films when converting packaging materials.
+	['equipment ', 'fluid layer', ' ', 'measuring equipment', '']
+MicroGREEN Polymers
+	Producer of ecologically sound plastic for retail, food service and packaging industry. The company develops technology to convert recycled plastic water bottles into recyclable products.
+	['', 'recycle product', ' ', 'plastic technology', ' ', 'recycled plastic', ' ', 'ecological sound plastic', '']
+Colibrys
+	Supplier of standard and semi-custom MEMS based motion sensors. The company undertakes design, development, wafer fab manufacture, packaging and test of MEMS components. It mainly serves energy, aerospace, industrial and instrumentation markets.
+	['Microelectromechanical ', 'MEMS sensor', ' ', 'motion sensor', '']

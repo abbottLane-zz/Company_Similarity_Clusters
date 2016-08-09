@@ -1,24 +1,21 @@
-InteCardia
-	Provider of cardiac-imaging services and equipment to cardiologists. The company provides disease- and practice-management services focused on cardiology and cardiovascular medicine.
-	['', 'cardiac imaging', ' cardiology ', 'cardiovascular medicine', '']
-Quolaw
-	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
-	['', 'law practice', ' ', 'law practice management', ' lawyer']
-AviaHealth
-	Provider of a web-based practice management tool designed specifically for ob/gyns. The company\'s online platform provides patient information and education, including information customized to a woman\'s own needs and internet linkages to facilitate patient\'s interaction with the doctor for routine matters.
-	['', 'practice management tool', ' ', 'internet linkages', ' ', 'patient interaction', ' ', 'online platform', '']
-Clinicare
-	Operator of a healthcare IT company. The company engages in the development and marketing of computerized information services for medical group practices. The company offers electronic medical records (EMR), practice management applications (PMA) that unites billing and scheduling and internet applications such as, web-secure, domain hosting, software enhancement and support services.
-	['', 'electronic medical records', ' EMR ', 'computerized information service', ' ', 'practice management applications', ' PMA']
-US Physicians
-	Operator of a physician practice management (PPM) company. The company is a manager of specialist practices engaged in providing disease management services for cancer patients.
-	['', 'medical practices', ' ', 'ancillary services', ' cancer ', 'disease management', '']
-Wolf Medical Systems
-	Provider of electronic medical records for physician offices and medical clinics. The company offers cloud-based technology that  provides patient information over wireless and wireline networks. The company\'s practice management solutions include wolf billing, scheduler and workflow.
-	['', 'electronic medical records', ' ', 'patient information', ' ', 'wireless and wireline networks', ' ', 'wolf billing', '']
-Datamedic
-	Developer of computer-based patient record and physician practice management systems. The company\'s products and services are used in private practice, physician practice management, management service and hospital network settings for ensuring efficient point-of-care capture and retrieval of healthcare information in order to improve the quality and profitability of their medical practices.
-	['', 'practice management', ' physician ', 'medical practice', '']
-TargetRx
-	Provider of insight into the drivers of physician behavior for pharmaceutical companies.
-	['', 'physician behavior', ' ', 'pharmaceutical marketing', ' ', 'campaign development', '']
+AZZURRO Semiconductors
+	Developer of gallium nitride on silicon substrates. The company offers a range of epitaxial wafers, including LED wafers and templates, as well as power semiconductor wafers for LED and power semiconductor applications worldwide.
+	['', 'power semiconductor', ' ', 'wafer technology', ' ', 'epitaxial layer', ' ', 'high voltage', '']
+Exclara
+	Developer of digital power management platforms for solid state lighting solutions. The company offers small LED driver solutions for volume LED applications.
+	['', 'digital power management', ' ', 'lighting solution', ' ', 'led driver', ' ', 'led application', '']
+LumenVu
+	Provider of Light- embedded catheters. The company offers light- embedded catheters to direct accurate placement in the body.
+	['catheter ', 'Catheter placement', '']
+Spatial Photonics
+	Provider of microdisplays for business and consumer projection display applications. The company\'s microdisplays comprise reflective digital light modulators that control and modulate the light intensity.
+	['', 'microdisplay', ' ', 'display application', ' ', 'light', '']
+GenesisTP
+	Provider of light-steel building technologies. The company specializes in manufacturing of light-steel framed structures which are used to build residential and commercial structures throughout the world.
+	['light-steel ', 'building materials', ' ', 'building technologies', '']
+Lattice Power
+	Producer of Light-emitting Diode (LED) technologies. The company\'s aim is to create LED light sources by using the benefits of silicon substrate based GaN LED technology.
+	['', 'green energy', ' ', 'LED light bulbs', ' ', 'green technology', ' silicon']
+HC SemiTek
+	Provider of light emitting diode (LED) chips. The company provides blue and green-light light emitting diode (LED) chips for light emitting diode (LED) display; blue light light emitting diode (LED) chips for white light generation.
+	['', 'light emitting diode', ' ', 'white light', ' ', 'LED display', '']

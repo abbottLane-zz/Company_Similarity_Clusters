@@ -1,51 +1,24 @@
-KinetX IP (software assets and a specialized business unit)
-	Provider of space systems engineering, software engineering, hardware engineering, project management, space navigation, flight dynamics and satellite operations services. The company is an innovative engineering, technology, software development and business consulting firm providing complete systems solutions.
-	['', 'software engineering', '']
-McKinstry Essention
-	Provider of offers online facilities management solutions.
-	['', 'application service', ' ', 'facility management', ' ', 'property management', '']
-Active Modules
-	Provider software development solutions. The company provides open source Web Content Management System for ASP.NET.
-	['', 'software development solution', ' ', 'software development', ' ', 'Web Content Management', '']
-Catalytic Software
-	Provider of offshore software product engineering services. The company offers technology services, such as application development, web enablement, product engineering, testing, managed programs and website designing.
-	['', 'product engineering', ' ', 'software engineering', ' ', 'website design', ' ', 'web development', ' ', 'software testing', '']
-Res-Q Healthcare Systems
-	Provider of staffing and scheduling software for hospitals. The company provide Web-enabled software application that provides department-wide tracking of workload volumes and performance indicators; and Staffing Simulation Screen that compares staff requirements and available personnel by skill level to simulate staffing scenarios for making decisions.
-	['', 'staffing software', ' ', 'scheduling software', ' ', 'software application', ' ', 'performance indicator', '']
-Rofous Software
-	Provider of product engineering and content engineering services. The company offers enterprise application solutions, training and staffing services, application development services, custom software development, enterprise solutions, supply chain management solutions and customer relationship management solutions.
-	['', 'enterprise solutions', ' ', 'management solutions', ' ', 'custom software development', '']
-E Team
-	Provider of professional services and information management solutions. The company also provides services, such as assessments, pre-implementation prep, life-cycle implementations, post implementation support, mentoring/training, project insourcing, contingency staffing, human capital hiring, and contract to hire. In addition, it offers services, which include industry/technology advisory, projects services, project insourcing, component outsourcing, contingency staffing, customized training, human capital hiring, and contract to hire.
-	['', 'professional service', ' ', 'information management solution', ' ', 'project insourcing', ' ', 'contingency staffing', '']
-Notiva
-	Provider of solutions needed for transaction and financial settlement by purchasers and suppliers. The company provides cash transaction management solutions for manufacturers and retailers.
-	['', 'e- finance', ' ', 'financial transactions', ' ', 'invoicing payment', ' ', 'trade settlements', '']
-Extensity
-	Provider of financial and operational solutions. The company operates in two segments, Enterprise Application Systems and Industry Specific Applications. It also resells computer hardware and software, and provides various professional services, including application hosting, consulting, implementation services, and training.
-	['', 'enterprise application systems', ' ', 'application hosting', ' ', 'IT implementation', '']
-Luovaliike
-	Provider of software-engineering services in Finland. The company provides custom software technologies and network systems for its clients, and is the creator of an online platform for home-health nursing services.
-	['', 'care service', ' ', 'healthcare service', ' ', 'mobile application', '']
-Paxford
-	Provider of composite material engineering services.
-	['', 'material engineering', ' ', 'engineering service', ' ', 'composite material', '']
-Terracotta
-	Developer of software products for enterprise application scalability, availability, and performance optimization. The company’s products include Enterprise Ehcache, a solution for optimizing enterprise application scale and performance.
-	['', 'software product', ' ', 'java application', ' ', 'java scalability', ' ', 'performance optimization', '']
-TMX Interactive
-	Provider of web development services.  The company provides the platform which enable users to do web designing, usability, application development and content management as per their requirement.
-	['', 'web development', ' ', 'web design', ' ', 'application development', '']
-Ideaca Knowledge Services
-	Provider of management consulting, advisory, implementation and support services. The company offers enterprise resource planning (ERP) solutions implementation, business intelligence, portals and collaboration, cloud computing, custom development and integration, customer relationship management (CRM) solutions implementation, application infrastructure and support services.
-	['', 'enterprise resource planning', ' ', 'portals and collaboration', ' ', 'customer relationship management', ' ', 'application infrastructure', '']
-Unsubscribe
-	Provider of solutions for unsubscribing from mailing lists. The company\'s solutions monitor and update its system to stop unwanted emails.
-	['', 'email solution', ' ', 'email tool', ' ', 'unwanted email solution', ' ', 'online platform', '']
-Aquila Technologies
-	Developer of engineering software services. The company offers virtual engineering frameworks, image processing, computer game development, project consulting and project execution services.
-	['engineering ', 'image processing', ' ', 'game development', ' ', 'project consulting', '']
-BlueRoads
-	Provider of innovative indirect channel sales strategies for technology based companies. The company offers enterprise partner opportunity management software solutions for the manufacturers of technology products and services that sell through the reseller channels. It offers deal registration, lead management, renewal management, account registration, and lead referral management solutions.
-	['channel ', 'channel efficiency', ' technology']
+Care Team Connect
+	Provider of a care coordination platform. The company provides a technology platforms to coordinate between hospitals, community providers, family members, and patients. It provides solutions for clinical and financial performance throughout the continuum of care.
+	['', 'care technology platform', ' ', 'care coordination platform', ' ', 'care management', '']
+Keratec
+	Producer of of keratin proteins, lipids and new biopolymers from New Zealand wool using exclusive proprietary green extraction and reconstitution processes. The company also supplies natural cosmetic ingredient to  the personal care industry. The company develops nutritional supplements and medical and industrial materials.
+	['', 'wool', ' ', 'Keratin protein', ' ', 'synthetic materials', ' ', 'synthetic polymer', ' ', 'skin', ' ', 'hair', '']
+Applecroft Care Homes
+	Provider of old age care facility. The company hosts 75 bed residential care home for the elderly care in Kent.
+	['', 'old age care', ' ', 'residential care home', ' ', 'healthcare service', '']
+Scerene Healthcare
+	Provider of personal care and body care products. The company provides a range of personal hygiene and care products for women.
+	['', 'tampons and sanitary napkins', ' ', 'anti-aging cream', ' ', 'body lotion', '']
+Eisai Company
+	Eisai is a healthcare company, which provides prescription pharmaceuticals, consumer health care products, and diagnostics services.
+	['']
+Sanofi Genzyme
+	Manufacturer of human health-care products. The company focuses on rare genetic disease disorders, renal diseases, orthopedics, cancers, transplant and immune diseases, and diagnostic and predictive testing areas. It operates as a biotechnology company worldwide.
+	['biotechnology ', 'genetic disorder', ' ', 'renal disease', ' ', 'cancer treatment', ' ', 'lysosomal storage disorder', ' ', 'genetic disease', ' ', 'chronic disease', ' oncology']
+Temmentec
+	Manufacturer of personal care and cleaning products. The company is a service provider of swiss skin and body care products.
+	['', 'personal care', ' ', 'cleaning products', ' ', 'swiss skincare', '']
+Lighter Living
+	Operator of a lifestyle brand. The company provides women with the tools, products and information to better manage the life and body changes that come with age. It also offers intelligent education, sound information, and efficacious and safe products crossing all categories from food to personal care.
+	['', 'personal care', ' ', 'healthcare information services', ' ', 'fitness product', '']

@@ -1,36 +1,21 @@
-Sim Skin
-	Manufacturer of medical surgery training tool. The company manufactures surgical training model useful in surgical training.
-	['', 'surgical training tool', ' ', 'surgical training model', ' ', 'medical device', '']
-XTeam Training
-	Developer of virtual training technologies. The company offers virtual training games and simulation for organizational development.
-	['', 'online training', ' ', 'virtual training', ' ', '3D gaming', ' simulation']
-Innovasive Devices
-	Manufacturer of surgical devices and instrumentation. The company manufactures devices for sports medicine surgeries, which facilitate the repair of soft tissue injuries in the knees and shoulders.
-	['', 'sports medicine', ' ', 'soft tissue repair', ' ', 'surgical repair', '']
-Top Aces Consulting
-	Provider of airborne combat training services. The company provides airborne services, such as close air support training, anti shipping profile, airborne adversary support and aerial target towing.
-	['', 'airborne combat training', ' ', 'combat training service', ' ', 'airborne adversary support', ' ', 'aerial target towing', ' ', 'Training Service', '']
-Bestformation
-	Provider of e-learning services for corporate management training. The company operates an online platform providing corporate training programs in management and human resources.
-	['', 'management training', ' ', 'corporate management', ' ', 'HR training', ' ', 'e-learning', ' ', 'e-learning services', '']
-Safety Technology
-	Supplier of safety training and equipment for work at heights. The company offers a variety of safety courses for working onshore and offshore, including RenewableUK and GWO accredited Work at height and rescue.
-	['', 'consumer services', ' ', 'safety programs', ' ', 'safety equipments', ' harness ', 'fall arrest', ' connectors boots']
-Precimed
-	Developer of surgical equipments. The company designs, develops, manufactures and supplies critical devices used in hip, trauma, knee and spine surgery.
-	['', 'surgical equipment', ' ', 'hip surgery', ' ', 'Knee Extraction Set', '']
-Sciences-U Groupe
-	Provider of professional training courses in France. The company provides vocational training in multiple sectors, including graphics & design, management & human resources, data processing, communications, marketing, tourism, accounting, real estate, insurance, Web design and notary. The company operates facilities in Lille, Paris and Lyon.
-	['marketing ', 'professional training', ' communication']
-RedHawk Communications
-	Provider of corporate ethics, compliance training and communications services. The company\'s services include code of conduct assessments, writing and design; online ethics learning modules; supporting ethics communication awareness tools and programs; worldwide translation and localization capabilities; instructor-led ethics training and other services focused on corporate ethics, compliance and creating ethical culture.
-	['', 'corporate ethic', ' ', 'compliance training', ' ', 'communications service', '']
-ENTrigue Surgical
-	Manufacturer of medical devices and instrumentation for the surgical treatment. The company manufactures articulating instruments, septal staplers, MTM middle turbinate Medializer and absorbable polymers.
-	['', 'articulating instrument', ' ', 'middle turbinate medializer', ' ', 'absorbable polymer', ' ', 'surgical treatment', '']
-Prewise Group
-	Provider of b-to-b digital training services in Finland. The company provides digital training and communication services for business change implementation, sales and customer support, process implementation and professional skills development.
-	['', 'process implementation', ' assessments ', 'orientation training', '']
-Kalistick
-	Developer of quality management tool. The company provides its user with a quality management tool to implement best practices from various software development communities into a capability Maturity Model Integration (CMMI) process.
-	['', 'test optimization', ' ', 'agile testing', ' ', 'testing platform', ' ', 'software testing', '']
+UniPress Software
+	Provider of software solutions for managing web-based help desk and support automation functions. The company also provides professional services such as consulting, support, and training.
+	['', 'software solution', ' ', 'automation function', ' ', 'professional service', '']
+Openshift
+	Developer of deployment and management services in the cloud. The company provides a virtual "application capsule" to run business critical web applications with self-service deployment and management built in.
+	['', 'virtual application capsule', ' ', 'deployment service', ' ', 'virtual application', ' ', 'business application', '']
+PeakStream
+	Provider of software application development platform for the computing market.The company also provides Workstation, which allows software developers to program processors, such as multi-core CPUs and graphics processor units directly on desktops. It offers technical support, training, and educational services
+	['', 'computing market', ' ', 'multi-core CPU', ' ', 'parallel processing', '']
+Cloud.com
+	Provider of open source software solutions for enterprises and service providers. The company offers an open source software solution that accelerates the deployment, management, and configuration of multi-tier and multi-tenant infrastructure cloud services. The company also provides subscription services, which include technical support, training courses, and knowledge base access, as well as security updates, patches, and bug fixes.
+	['', 'open source', ' ', 'software solution', ' ', 'cloud service', ' ', 'bug fixing', ' ', 'security update', ' ', 'technical support', '']
+SignaCert
+	Provider of partner-based information technology (IT) compliance solutions for organizations and government agencies in the United States. The company’s products detect, assess and provide the notifications of compliance issues; provide the whitelist measurements of commercially available and open source software. Its products enable IT organizations to prove compliance with standards and regulations.
+	['', 'partner based IT', ' ', 'software whitelist measurement', ' ', 'standard compliance', ' ', 'compliance notification', ' ', 'prove compliance', ' ', 'regulation compliance', '']
+eNovance
+	Provider of open source cloud computing and multi cloud management services. The company provides managed services for a number of public clouds, such as google compute engine and also integrates and operates open source cloud computing infrastructures.
+	['', 'cloud computing', ' ', 'open source', ' ', 'multi cloud', '']
+SourceLabs (Certain Assets)
+	Provider of support and management tools for Linux and open source software. The company offers a software platform designed to manage petabytes of information across large geographic locations.
+	['', 'Linux support tool', ' ', 'linux management tool', ' ', 'open source software', ' ', 'information management', '']

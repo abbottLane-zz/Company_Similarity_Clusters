@@ -1,21 +1,21 @@
-LEDUC
-	Operator of a construction company. The company specializes in wood framing for stairs and industrial structures.
-	['', 'construction company', ' ', 'wood framing', ' ', 'traditional frames', ' ', 'industrial structures', ' ', 'joinery and partitions', '']
-Warrior Group
-	Operator of a permanent modular construction company. The company provides construction services for projects such as military barracks, retail establishments, classrooms and medical buildings.
-	['', 'modular construction', ' ', 'construction company', ' ', 'medical building', '']
-Unicom
-	Manufacturer of modifiers for asphalt concrete mixtures for road construction. The company produces composite material "Unirem" for road paving using nanostructured rubber powder to modify an asphalt-bitumen mixture.
-	['', 'composite material', ' ', 'rubber powder', ' ', 'asphalt concrete mixture', '']
-Gete Construction
-	Provider of home construction services. The company specializes in the sale of standard single-family homes for customers.
-	['', 'home construction', ' ', 'home builder', ' homes ', 'construction project', '']
-GetOne Rewards
-	Developer of software and mobile applications for retail sectors. The company develops software and mobile applications for retail establishments wanting to digitize their traditional loyalty, communications and marketing systems and integrates them into one platform.
-	['', 'custom development', ' ', 'digital loyalty program', ' ', 'digitalize loyalty card', ' ', 'targeted mobile marketing', '']
-Kyoob Space
-	Provider of modular buildings and portable accommodation. The company offers turnkey package for small and large projects alike and has developed a strong customer base in a variety of sectors including schools, prisons, hospitals, commercial project offices and the construction sector.
-	['', 'portable accommodation', ' ', 'modular building', ' ', 'site installation', '']
-Omniyat
-	Provider of construction, real estate and property building services. The company provides construction and building services for commercial and residential buildings and properties in Dubai.
-	['', 'construction service', ' ', 'property development', ' ', 'building service', '']
+Naratte
+	Developer of wireless technology. The company develops Zoosh, a technology that provides benefits of near-field communication based on ultrasonic technology, utilizing the speakers of mobile devices.
+	['', 'wireless technology', ' ', 'ultrasonic technology', ' zoosh']
+NFi Studios
+	Provider of web technology that connects member & industry communities. The company\'s technology provides professional networking for associations, builds relationships, drives businesses and connects members.
+	['', 'web platform', ' ', 'member community', ' ', 'social technology', '']
+Modesat Communications
+	Developer of point-to-point modem technology. The company offers modem technology products for wireless and wired communication applications.
+	['', 'modem technology', ' ', 'wired communication application', ' ', 'wireless communication application', '']
+ViVOtech (Reader Business)
+	Provider of contactless/near field communications (NFC) payment software. The company\'s products include contactless payment systems; ViVOnfc, an OTA infrastructure software for NFC mobile payments and promotions; and ViVOplatform, which provides retailers with the software platform for promotional and loyalty applications.
+	['', 'financial software', '']
+Sentica
+	Provider and developer of wireless convergence solutions. The company provides universal application enabling infrastructure for mobile devices enabling communication between any application and any wireless device.
+	['', 'wireless convergence solutions', ' ', 'mobile device', '']
+ViVOtech
+	Provider of software and hardware for the Near Field Communication (NFC) mobile payment and promotion market. The company provides contact-less/near field communications (NFC) payment software, NFC smart posters, contact-less readers/writers and over the air card provisioning, promotion and transaction management infrastructure software.
+	['', 'contactless payment solution', ' ', 'Near Field Communication software', ' ', 'Near Field Communication hardware', ' ', 'near field communications payment software', ' ', 'transaction management infrastructure software', ' ', 'NFC mobile payment', ' ', 'wireless non-cash transaction', ' ', 'credit card', ' ', 'rf card', '']
+Medit-Medical Interactive Technologies
+	Operator of a wireless communication platform. The company provides ultrasonic communication modems that offer wireless communications for applications.
+	['', 'broadband coomunication', ' M2M modems']

@@ -1,42 +1,27 @@
-Amadesa
-	Provider of website multivariate testing and customer targeting solutions to improve online conversions and engagement. The company’s solutions contain various application modules for A/B and multivariate testing, segment testing, automated personal testing, product recommendations, forms and shopping cart optimization and personalization.
-	['', 'customer targeting solution', ' ', 'segment testing', ' ', 'software-as-a-service', '']
-Compass Quality Insight
-	Developer of a software quality assurance platform. The company\'s testing product, Compass Profiler, provides testers with analytics to prioritize testing effort by identifying exactly what has changed in a web application, how it might interact with other parts of the software, and the location of potential testing gaps that may allow bugs to slip through.
-	['', 'internet application', ' ', 'infrastructure software tool', ' ', 'web application', ' ', 'testing application', ' ', 'quality software', ' ', 'testing software', ' ', 'quality testing', '']
-Qronus Interactive Israel
-	Provider of automated system testing software products. The company provides automated system testing tools for complex software and hardware configurations with embedded processors. It engages in the research, development, manufacturing and marketing of automated software quality products for non-standard platforms, embedded systems and real time computer systems. The company was spun out of Mercury Interactive.
-	['', 'software testing', ' ', 'testing tools', ' ', 'testing solution', '']
-Wireless Info Tech
-	Provider of testing and compliance certification services. The company offers global field testing services, such as voice call services in mixed and marginal signal areas; data services; and CDG3 services, including system acquisition, SMS, calling features, handoff, and DTMF tests. It also provides manufacturing and production software and applications testing and development services; wireless reference design services, including form factor and production ready services; and product testing services.
-	['', 'testing and compliance certification service', ' ', 'global field testing service', ' ', 'applications testing', ' ', 'manufacturing and production software', ' ', 'wireless reference design service', ' ', 'product testing service', '']
-Sogeti
-	Provider of technology and software testing services. The company provides software control testing, applications management, infrastructure management, high technology engineering/global engineering, business intelligence and analytics, mobile/Omni-channel, security and cloud services.
-	['', 'software testing', ' ', 'software control testing', ' ', 'application management', '']
-Amira Medical
-	Manufacturer of medical testing devices. The company\'s equipment is designed to facilitate testing of blood glucose levels for people with diabetes.
-	['', 'medical testing', ' ', 'blood glucose', ' diabetes']
-RelQ Software
-	Provider of softrware testing services. The company offers real-time and embedded applications testing, including mission critical software testing, for clients looking to deploy applications across the enterprise.
-	['', 'functional testing', ' ', 'competitive advantage', ' ', 'business applications', '']
-Maxymiser
-	Provider of multivariate testing and personalization. The company provides online business to turn every interaction into an experience with its cloud-based testing, personalization and cross channel optimization. It combines online testing and automated personalization into a single platform to help marketers to launch campaigns.
-	['', 'B2B Service', ' ', 'testing and personalization', ' ', 'customer experience optimization', '']
-Cozart
-	Developer of hand-held device using saliva samples for drugs of abuse testing. The company was a supplier to the home office for police, prison and customs and excise applications.
-	['', 'hand-held device', ' ', 'abuse testing', ' ', 'drug testing', '']
-BLGG Group
-	Developer of agribusiness testing products. The company specializes in testing, sampling, and consulting services focusing on fertilizing, crop residue, soil health, and nutritional levels. The company focuses on a micro level analysis, analyzing mineral content of the soil.
-	['', 'crop testing', ', ', 'agriculture testing', ', ', 'soil health', ', ', 'crops', '']
-Splitforce
-	Developer of mobile testing applications. The company provides A/B testing for mobile applications and games.
-	['', 'mobile analytics', ' ', 'A/B testing', ' ', 'mobile testing application', '']
-Tektagen
-	Provider of quality control testing and consulting services to the biotechnology and pharmaceutical industries. The company provides biosafety and bioanalytical testing services.
-	['', 'quality control', ' ', 'bioanalytical testing services', ' biotechnology']
-Farallon Medical
-	Developer of technology for monitoring oral anti-coagulant medications. The company is focused on developing and commercializing prothrombin time (PT) testing devices that can be used at home, as an alternative to conventional devices that are used in clinical settings. The focus is on more frequent PT testing, for a faster response in dose management and less need for venipuncture.
-	['', 'monitoring device', ' ', 'anti coagulant', '']
-SciCor
-	Provider of laboratory testing services. The company provides laboratory testing services and related data processing support to the US pharmaceutical industry. Its research data was used to prepare clinical submissions to the Food & Drug Administration (FDA) for approval to market new drugs.
-	['', 'laboratory testing service', ' ', 'drug testing', ' ', 'drug invention', '']
+Geneart
+	Manufacturer of integrated system solutions for DNA engineering and processing. The company provides software and a robotics platform enabling DNA synthesis for the fermentation of recombinant proteins, combinatorial biology and vaccines.
+	['DNA ', 'synthetic genes', ' fermentation ', 'biotechnology tools', '']
+Roche NimbleGen
+	Manufacturer and marketer of a proprietary suite of microarrays, related products and services for DNA sequencing. The company is focused on research activities and manufacturing target-enrichment probe pools for DNA sequencing. The company\'s Maskless Array Synthesis (MAS) technology permits the company to develop and manufacture custom high density, highly reproducible DNA arrays, which improve the quality and data yield of DNA chips.
+	['', 'DNA chip', ' ', 'DNA array', ' ', 'reproducible DNA', ' microarray ', 'DNA sequencing', '']
+AlphaHelix Molecular Diagnostics
+	Developer of DNA chips for process analysis. The company uses its DNA chips for mutation detection of genes, gene marking in cancer and the development of new drugs.
+	['', 'mutation detection', ' ', 'gene marking', ' ', 'DNA chips', ' DNA']
+Ion Torrent Systems
+	Developer of a DNA sequencing system. The company\'s system enables a direct connection between chemical and digital information.
+	['', 'sequencing technology', ' ', 'digital information', ' ', 'DNA replication', '']
+Intelligent Bio-Systems
+	Developer of DNA sequencing systems.
+	['', 'DNA sequencing', ' ', 'sequencing system', ' ', 'genome sequencing', '']
+GenEncap
+	Developer of DNA sequencing technology. The company provides DNA sequence information to life scientists, clinicians and individuals based on a proprietary and parallel implementation of Sanger sequencing.
+	['sequencing ', 'sanger sequencing', ' ', 'sequencing technology', '']
+TwoF
+	Developer of technology for genetic analysis assays. The company\'s technology platform Supramolecular NanoStamping is used for the production of DNA microarrays.
+	['DNA microarrays ', 'DNA chip', '']
+Performance Genomics
+	Developer of deoxyribonucleic acid (DNA) sequence based predictive algorithms. The company develops and commercializes deoxyribonucleic acid that control reproductive performance in mammals. It also develops genomics tests to predict how long livestock will stay fertile, which farmers can use for selective breeding.
+	['', 'livestock breeding', ' ', 'increase fertility', ' genome']
+Mosaic Technologies
+	Developer of DNA-based diagnostic products for the blood and plasma-screening, clinical testing research markets. The company develops Acrydite reagent and several associated chemistries for linking DNA probes to solid phases, such as beads, microtiter plates and slides-both glass and plastic. The company\'s product line, EZ-RAY, is a specialty coated glass microscope slide designed for the fabrication of DNA microarrays and also include kits, which contain coated printed slides and control reagents used to verify and calibrate array fabrication procedures.
+	['', 'DNA amplification', ' ', 'microscope slide', ' microarrays ', 'control reagents', ' ', 'fabrication procedures', '']

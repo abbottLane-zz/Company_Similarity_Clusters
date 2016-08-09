@@ -1,36 +1,18 @@
-Amerigroup
-	Provider of managed healthcare services. The company focuses on serving people who receive healthcare benefits through publicly sponsored programs, including Medicaid, Children\'s Health Insurance Program, Medicaid expansion programs, and Medicare Advantage.
-	['', 'managed healthcare', ' ', 'healthcare benefits', ' ', 'health programs', '']
-SironaHealth
-	Provider of healthcare communication technology and service. The company developed the IntelliView system using proprietary software that runs on industry standards operating platforms.
-	['', 'communication technology', ' ', 'healthcare communication', ' ', 'proprietary software', ' ', 'industry standard', ' ', 'operating platform', '']
-Construcciones Tecnicas De Radioterapia
-	Provider of healthcare construction and engineering services. The company specializes in the construction and installation of radiotherapy facilities and radiation-protection areas.
-	['', 'construction services', ' radiotherapy']
-Alteer Corporation
-	Provider of healthcare technology and services. The company provides services on healthcare technology, focused on integrated practice management and electronic medical records that includes research and development, data center, IT, finance, human resources, legal and administration.
-	['', 'electronic medical records', ' ', 'healthcare technology', '']
-Delos WomensHealth
-	Provider of healthcare services to women.
-	['', 'gynocology', ' ', 'Obstetrics', '']
-Vocera Communications
-	Provider of mobile communication services to healthcare and non-healthcare markets. The company offers voice communication services, secure messaging applications and care transition services.
-	['', 'communication service', ' ', 'software platform', ' ', 'hospital communication software', ' ', 'secure messaging application', ' ', 'care transition', '']
-Circle Health
-	Provider of healthcare services. The company operates hospitals, outpatient clinics and community services throughout the U.K., including Bath, Reading, Nottingham, Hinchingbrooke and Stratford-upon-Avon. Its services include various surgical treatments, rheumatology, diabetes & endocrinology, gynecology, orthopedics, laser treatments and physiotherapy.
-	['', 'healthcare services', ' ', 'clinical services', '']
-Milk and Honey Shoes
-	Operator of a women’s footwear brand. The company allows women to design their own footwear online from the various designs offered that includes platform pumps, stilettos, pumps, flats, oxford heels, oxford flats, wedges, platform wedges, wedges, boots, moto boots, booties, ankle boots, platform sandals, sandals and flat sandals.
-	['', 'women’s footwear', ' stilettos sandal']
-IPC Medical
-	Provider of healthcare products and healthcare services. The company provides alternate site health care space for homecare and clinics outside the hospital environment.
-	['', 'healthcare product', ' ', 'healthcare service', ' ', 'health care space', '']
-HealthSynq
-	Provider of healthcare cost containment facilities.
-	['', 'healthcare cost', '']
-Healthcare Data Solutions
-	Provider of healthcare data services. The company allows users to license the data they need and send it to communication destination.
-	['', 'healthcare data', ' ', 'healthcare information', ' ', 'healthcare provider postal', '']
-Centennial Healthcare
-	Provider of healthcare services for elderly and post-acute patients. The company provides basic and specialty healthcare services. The company\'s basic services include skilled nursing and support, housekeeping, laundry, dietary, recreational and social services.
-	['', 'post-acute patients', ' nursing laundry dietary ', 'recreational services', '']
+Pillkey Productions
+	Creator of a medication-management device. The company\'s device provides provides users with information about the medication they are taking, as well as scheduling when they should take it.
+	['', 'pill scheduler', ' ', 'medication managing', ' ', 'pill information', ' ', 'medical services', '']
+ultraBridge
+	Provider of a technology service to the long term care industry. The company provides its clients with a management service to their data and business reporting needs using outsourcing.
+	['', 'technology service', ' ', 'care industry', ' ', 'management service', '']
+American Transitional Hospitals
+	Provider of long-term specialty transitional care. The company provides transitional care facilities for subacute patients.
+	['', 'transitional care', ' ', 'specialty care', ' ', 'subacute patients', '']
+Trinity Security
+	Supplier of security, fire and communications technologies for commercial, institutional and governmental facilities.
+	['fire security technology']
+Daverci
+	Provider of electronic medication management systems. The company\'s system provides long-term care facilities and institutional pharmacies that supplies them.
+	['medication tracking ', 'design support', '']
+Sage Electrochromics
+	Manufacturer and seller of insulating glass units and control systems to window and skylight manufacturers. The company also provides windows, skylights, and curtain walls for commercial and institutional buildings. It offers its products to owner-occupied office spaces, museums, libraries, art galleries, health care facilities, religious facilities, aviation facilities, high-tech or image buildings, and atriums and overhead daylight openings.
+	['', 'insulated glass', ' ', 'curtain walls', ' skylight ', 'overhead daylight', '']

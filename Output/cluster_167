@@ -1,30 +1,33 @@
-Masimo
-	Manufacturer of innovative noninvasive patient monitoring technologies. The company offers noninvasive blood constituent patient monitoring services that consists of a monitor or circuit board and its proprietary single-patient use and reusable sensors and cables.
-	['', 'patient monitoring', ' ', 'healthcare services', ' ', 'medical device', '']
-Portico Systems
-	Provider of health plans software solutions.
-	['', 'health plans software', ' ', 'sofware solution', ' ', 'health software solution', '']
-MetricsHub
-	Provider of cloud application monitoring platform. The company\'s platform keeps web applications up and running.
-	['', 'cloud monitoring platform', ' ', 'application monitoring', ' ', 'cloud Monitoring', '']
-SepSensor
-	Manufacturer of sensing technologies for monitoring stratification in tanks primarily in the food services industry. The company provides grease interceptor monitoring system which remotely monitors the condition of internal or external grease traps.
-	['', 'grease interceptor monitoring', ' ', 'tank stratification monitoring', ' ', 'sensing technology', '']
-Pipette
-	Provider of a health monitoring platform. The company provides mobile application which provides easy reports of patient for analyzing health condition.
-	['', 'monitoring device', ' ', 'healthcare application', ' ', 'monitoring equipment', '']
-Lindexa
-	Provider of a web-oriented platform. The company offers an online monitoring platform that collects, analyzes and displays the information posted on the internet.
-	['', 'web-oriented platform', ' ', 'monitoring tool', ' ', 'digital marketing tool', ' ', 'social media marketing', '']
-TradeSync
-	Provider of services to automate B2B processes within and across companies. The company provides mobile application and Software as a service, which don\'t replace their existing business software systems but extend their functionalities to connect to those of customers or vendors.
-	['', 'Electronic Invoice Management', ' ', 'internet commerce', ' ', 'social productivity', ' ', 'accounting service', '']
-NetOps
-	Developer of software products for testing, infrastructure health monitoring and fault detection. The company develops predictive analysis software for DSL and cable modem service providers.
-	['', 'software products', ' ', 'infrastructure health monitoring', ' ', 'fault detection', ' ', 'cable modem service providers', ' testing']
-Once Again Me
-	Provider of comprehensive reports that represents business\'s financial obligations. The company also provides credit limit recommendation, background information and more data elements than other reports.
-	['', 'financial obligation', ' ', 'fraud screening', ' ', 'limit recommendation', ' recommendation']
-SenseCore
-	Provider of health-monitoring devices. The company is a provider of wearable, biomedical monitors that measure a variety of physiological functions and can be linked remotely. The devices have applications for athletes as well as healthcare providers.
-	['', 'monitoring device', ' ', 'physiological monitoring', ' ', 'remote monitoring', ' ', 'biomedical device', '']
+Callipso
+	Provider of Voice over Internet Protocol (VoIP) services through its private fiber-optic network. The company offers wholesale origination and termination services, as well as flat-rate long-distance services. It also offers a back office monitoring system that allows clients to track and monitor call traffic through a Web-based interface and computer applications that provide users with teleconferencing, call monitoring and real-time billing services.
+	['', 'internet protocol', ' ', 'fiber optic network', ' ', 'termination service', ' ', 'call monitoring', '']
+Coolwave Communication
+	Provider of voice, broadband, and mobile services. The company provides voice, VOIP, data, fiber ad internet services to consumers and businesses. It was brought to fruition by the Services Environment, an open, IP-based, modular architecture on which a wide variety of call completion, messaging and content services can be hosted.
+	['', 'internet service', ' ', 'VOIP', ' ', 'Mobile services', '']
+Zhone Technologies
+	Designer, developer and manufacturer of telecommunications equipment. The company provides international clients in the single line multi-service (SLMS) architecture business the ability to provide voice and video over internet protocol (VoIP).
+	['', 'telecommunications equipment', ' ', 'single line multi-service', ' ', 'voice over internet protocol', '']
+Vocalis Group
+	Provider of speech recognition technology applications. The company offers speech recognition systems for call centres, telecommunications operators and internet telephony.
+	['', 'Speech Recognition', ' ', 'speech recognition systems', ' ', 'voice recognition', '']
+Lightspeed International
+	Provider of voice signalling translation technology. The company develops software that assists in managing voice transmission over data networks.
+	['', 'voice signalling', ' ', 'voice transmission', ' ', 'communication software', '']
+Telovations
+	Provider of voice over Internet protocol communications services. The company\'s services feature applications, such as hosted phone systems, remote office, fax to email, find me or follow me, branch office networking, unified messaging, conference calls and collaboration, disaster redirect, email and broadband Internet, Microsoft integration toolbar, auto-attendant options, receptionist console and messages on hold.
+	['', 'Internet protocol communication', ' ', 'hosted phone system', ' ', 'branch office networking', ' ', 'disaster redirect', ' ', 'remote office', ' ', 'conference calls', ' ', 'broadband Internet service', '']
+CT Labs
+	Provider of Voice over Internet Protocol (VoIP) and networking equipment testing and evaluation services. The company focuses on voice portal, unified messaging, speech recognition, automated Voice User Interface (VUI), IP phone performance, and converged Private Branch Exchange (PBX) platform. It also develops test platforms under the brand names, CT/TestView and CT/JumpStart.
+	['', 'lab testing', ' ', 'internet protocol', ' ', 'equipment testing', ' ', 'evaluation service', '']
+Syndeo
+	Developer of voice-over-internet-protocol software. The company provides broadband local loop and traditional narrowband carriers to drive additional value over their next-generation converged networks by offering VoIP (voice-over-IP) services.
+	['VoIP']
+UbiCall Communications
+	Provider of speech recognition technologies. The company offers a speech activated automated interactive telephony technology based on speech recognition, speaker verification, text to speech and dialog processing. It offers Voxplorer that enables automatic management of incoming and outgoing calls and also helps companies to conduct business with their customers, suppliers and distributors over the telephone.
+	['', 'speech recognition', ' ', 'voice interaction', ' call-routing']
+Evi Technologies
+	Provider of voice recognition application. The company also develops internet answer engine where users can access the information from the database of facts.
+	['', 'search engine', ' ', 'online search', ' ', 'search technology', ' ', 'voice recognition application', '']
+Voice Access Technologies
+	Provider of voice-activated information services. The company\'s voice access platform and application enables service providers and enterprises to deliver user-requested content across multiple presentation platforms, automated voice-response, fax, PDA, SMS, WAP, web, email and pagers.
+	['', 'voice activated products', ' ', 'application software', ' ', 'voice access platform', ' fax']

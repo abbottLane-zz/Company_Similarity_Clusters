@@ -1,27 +1,18 @@
-Metreo
-	Provider of pricing optimization software. The company provides pricing optimization software that enables manufacturers and distributors to maximize profits from the sales of their goods and services.
-	['', 'pricing optimization', ' ', 'profit maximization', ' finance']
-CipherActive
-	Developer of a software for video coding. The company develops and markets accelerated standard encryption systems enabling wide usage of cryptography in resource constrained environments.
-	['', 'video coding', ' accelerated ', 'standard encryption', '']
-Service Vortex
-	Developer of software products designed to improve a manufacturer\'s ability to support its products in the field. The company develops software products, both custom and standard, that help make service operations efficient. The company focuses on the medical device, medical equipment and laboratory equipment markets.
-	['', 'software product', ' ', 'service operation', ' ', 'laboratory equipment market', ' ', 'electronic parts catalogues', '']
-GeoTel Communications
-	Provider of call routing and optimization software products. The company develops and markets telecommunication software products for center applications.
-	['', 'telecommunications software', ' ', 'call routing', ' ', 'call center applications', ' ', 'customer-interaction software', '']
-Nevion
-	Provider of routing, signal processing and optical transmission equipment for broadcasters. The company operates a large media network covering entities like AT&T, Arqiva, BBC, BT, CCTV, EBU, TDF, Telefonica, Telenor and NASA.
-	['', 'optical transmission', ' routing ', 'media network', '']
-MindWeavers
-	Developer of software products to help people overcome dyslexia. The company develops and sells software-based products to optimize an individuals innate abilities relating to sensory and motor skills. The company spun out from the University of Oxford.
-	['', 'brain simulation', ' ', 'brain exercises', ' ', 'sensory skills', ' ', 'motor skills', ' ', 'computer games', ' ', 'language learning', ' ', 'software products', '']
-SAP
-	The Company develops, markets and sells enterprise application software products for corporations, government agencies and educational institutions.
-	['']
-DataFlux
-	Developer of innovative database software products. The company The company develops database software products designed to significantly improve the accuracy and usability of an organization\'s data. The company provides state of the art data quality products and services for organizations ranging from financial institutions and telecommunications companies to universities and governmental agencies.
-	['', 'database software products', ' ', 'data quality', '']
-Shared Resources Exchange
-	Developer of digital switching systems and call center applications. The company\'s electronic key systems offers on-blocking intercom connectivity, conference calling, forwarding and speakers. It\'s system used in wireless local loop, E911 and PBX.
-	['', 'switching system', ' ', 'call center applications', ' ', 'electronic key systems', ' ', 'conference calling', ' ', 'on-blocking intercom connectivity', '']
+Zostel
+	Operator of chain of hostels and low-budget hotels. The company operates a branded chain of backpacker\'s hostels called zostel and offers low-budget hotel accommodations through their booking service Zo Rooms.
+	['', 'accommodation facility', ' ', 'booking service', ' hostel']
+Premier VCT (Dartford)
+	Owner and operator of a hotel. The company owns 12 bedrooms hotel in Dartford.
+	['', 'travel & leisure', ' ', '12 bedrooms', ' ', 'Holiday Inn', '']
+Rocket Travel
+	Provider of a hotel-booking website offering free airline miles as a booking incentive. The company offers an airline-mile stockpiling program, for users making multiple bookings.
+	['', 'hotel booking site', ' ', 'booking hotel room', ' ', 'free vacation', ' ', 'online vacation', ' ', 'hotel booking', ' ', 'frequent flier program', '']
+Active Hotels
+	Operator of an online hotel reservation company. The company operates an online hotel reservation website that links 2,000 smaller and medium-sized hotels in the UK. It creates mutually beneficial partnerships between hoteliers and distribution partners thereby lowering the hotel rates.
+	['', 'hotel booking', ' ', 'online booking', ' ', 'travel and tourism', '']
+FastBooking
+	Provider of online booking and electronic marketing services for the hospitality industry. The company designs and develops hotel websites, online marketing programs, Internet-enabled direct hotel website bookings, online marketing for hotel websites, consumer portals and integration with third-party consumer booking websites.
+	['', 'electronic marketing', ' ', 'internet ticket booking', ' ', 'website development service', ' ', 'marketing program', '']
+Leisurehunt.com
+	Provider of online hotel booking services to the general public and small businesses. The company has positioned itself as a B2B provider of online accommodation services.
+	['', 'online hotel booking', ' holiday ', 'resort booking', ' travel ', 'holiday package', ' ', 'travel booking', '']

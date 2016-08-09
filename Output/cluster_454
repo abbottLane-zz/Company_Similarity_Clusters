@@ -1,54 +1,39 @@
-Interactive Advisory Software
-	Provider of wealth management software-as-a-service (SaaS) solution for financial advisors and wealth managers. The company offers services like financial planning, portfolio management, customer relationship management, back-office services/reconciliation, rebalancing and trading, client portal and reporting services.
-	['', 'Wealth Management Software', ' ', 'Portfolio Management', ' ', 'Financial Planning', ' ', 'Customer Relationship Management', ' ', 'Back Office Services', ' ', 'Client Portals', '']
-My New Financial Advisor
-	Operator of an online wealth management company. The company focuses on portfolio analysis, growing nation-wide network of financial advisers and institutional passive money management.
-	['', 'online wealth management', ' ', 'portfolio analysis', ' ', 'money management', '']
-Sprintly
-	Provider of project management tool for software developers. The company provides non-programmers view into what the engineers are doing and how far along they are.
-	['', 'project management tool', ' ', 'project development', ' ', 'project streamlining', '']
-ProjectPartner.com
-	Developer of a project management software. The company offers a software for cost analysis, portfolio management, visual reporting and data organizing.
-	['', 'project management', ' ', 'cost analysis', ' ', 'portfolio management', ' ', 'data organizing', '']
-Decision Dynamics
-	Developer and supplier of project controls and real time operations reporting software solutions for project management decisions. The company\'s project cost management solution provides real-time cost capture, validation, approvals and reporting, asset management and analytics.
-	['', 'project controls', ' ', 'project management decisions', ' ', 'cost management solution', ' ', 'real time operations', ' ', 'data capture', ' ', 'business analytics solutions', '']
-myWealth.com
-	Provider of control over investors portfolios by mastering the fundamentals of key markets. The company provides finance courses, investing courses and online investment classes. Its courses cover essentials of currency, stock and ETF trading, as well as portfolio management.
-	['', 'investor portfolio', ' ', 'online finance course', ' ', 'online investing course', '']
-Anchovi Labs
-	Developer of software to help people organize, browse and share their personal photo collection. The company provides software for automatically tagging and organizing images and video based on visual content.
-	['', 'online photo collection', ' ', 'online video content', ' ', 'visual content', '']
-Pelydryn
-	Provider of airborne surveying and hydrographic services. The company\'s services includes project management, bathymetric and environmental surveys in the coastal zone worldwide.
-	['hydrographic airborne survey']
-Obsorb
-	Developer of a project management application. The company offers a software for project management for business organizations.
-	['', 'project management', 'documentation', 'decision-making', '']
-Constructw@re
-	Provider of project management and collaboration solutions to the commercial construction industry. The company\'s product construct@ware is a scalable, secure, web-based solution that simplifies project management and facilitates communication and collaboration among construction companies, owners, designers and subcontractors.
-	['', 'project management', ' ', 'collaboration solutions', '']
-Fintura
-	Operator of a portfolio management company. The company\'s services include leading-edge product development, new account origination, agent issuing and portfolio management.
-	['', 'portfolio management', ' ', 'home equity', ' ', 'student loans', '']
-Rhapso
-	Developer of software services for packaging and printing industries. The company offers software maintenance, server configuration and installation, server software maintenance, onsite training, project management and onsite consulting and parameterization services.
-	['', 'software service', ' ', 'printing industry', ' ', 'project management', '']
-Workiva
-	Provider of a cloud based software for external financial reporting to meet SEC reporting requirements. The company provides a software that streamlines the manual process to draft and file Securities Exchange Commission (SEC) reports including XBRL reporting process. It integrates word processing and spreadsheet functionality, EDGAR HTML conversion and XBRL mapping and tagging into a fully-integrated, end-to-end solution that helps SEC reporting teams meet reporting requirements for a range of regulatory filings.
-	['', 'financial reporting', ' ', 'regulatory filing mapping', ' ', 'cloud software', '']
-Superhuman
-	Developer and provider of a software for scheduling and organizing tasks. The company offers SuperCalendar, a planning and organizing application that functions as a personal assistant.
-	['', 'scheduling software', ' ', 'personal assistance', ' calender']
-Future Point Systems
-	Developer of visual information system (VIS) software to government and commercial organizations. The company provides a visual analytics platform that includes visual tools, such as VIS, an information visualization technology that provides data acquisition, information management and analysis capabilities; and XML Engineering Environment, a software solution that enables the development of custom information retrieval and processing. It also provides training, integration, and analysis support services through a network of strategic resellers.
-	['', 'visual analytic platform', ' ', 'data acquisition', ' ', 'visual tool', '']
-Kluster
-	Developer of project collaboration tool. The company provides a technology platform that allows users to collaborate on idea generation, development and execution.
-	['', 'project collaboration tools', ' ', 'technology platform', '']
-SourceLabs (Certain Assets)
-	Provider of support and management tools for Linux and open source software. The company offers a software platform designed to manage petabytes of information across large geographic locations.
-	['', 'Linux support tool', ' ', 'linux management tool', ' ', 'open source software', ' ', 'information management', '']
-Impress Software
-	Developer of software to integrate project-management and geographical-information systems. The company is a provider of packaged integration applications, designed to enable integration of project management and geographical systems into SAP (systems, applications and products in data processing).
-	['', 'integration applications', ' geography SAP']
+Elastix
+	Provider of technology that lowers the power used by digital integrated circuits. The company offers elastic clocks that helps in reducing on-chip power consumption.
+	['', 'elastic clocks', ' ', 'elastic voltage scaling', ' on-chip ', 'power consumption', '']
+MediaTek
+	Developer and manufacturer of integrated circuits. The company is engaged in the research, development, manufacture and distribution of multimedia integrated circuit chipsets.
+	['', 'Wireless Communications', ' ', 'integrated circuit', ' ', 'circuit chipsets', '']
+IceFyre Semiconductor
+	Manufacturer and designer of integrated circuits for wireless communications. The company provides wireless LAN products.
+	['', 'wireless communications', ' ', 'wireless management', ' ', 'wifi chips', ' ', 'wlan', ' ', 'semiconductor', ' ', 'circuit designs', '']
+Seattle Silicon
+	Supplier of application specific integrated circuits, semiconductor and ASIC design software. The company offers large system houses and process-independent compiler systems.
+	['', 'integrated circuits', ' ASIC software']
+Tharas Systems
+	Developer of verification appliances. The company\'s appliances are used for shortening the verification cycle of integrated circuits and electronic systems.
+	['', 'verification applications', ' ', 'integrated circuits', ' ', 'electronic systems', '']
+Cubic Wafer
+	Developer of integrated circuits. The company offers hybrid integrated circuits and multi-functional 3D integrated circuits. The company also designs and manufactures its own optical connection products for data links and optical communication applications.
+	['', 'integrated circuits', ' ', 'hybrid integrated circuits', ' ', '3D integrated circuits', ' ', 'optical communication', '']
+Alphachips
+	Manufacturer and designer of semiconductor systems. The company provides semiconductor services that owns multiple application specific integrated circuits (IPs), system on chips (SoC) and products such as MHL and HDMI based on knowledge of high speed data transmission.
+	['', 'semiconductor system', ' ', 'data transmission', ' ', 'integrated circuit', '']
+Integrated Circuit Solution
+	Designer and manufacturer of complementary metal-oxide-semiconductor integrated circuits. The company provides performance integrated circuits including memory products and logic products.
+	['', 'compact flash memory', ' ', 'application IC', ' ', 'commercial product', '']
+Capella Microsystems
+	Designer of integrated circuits primarily optical electronic products. The company manufactures integrated circuits which are used in telecommunications, mobile phones, smartphones, handheld devices, digital cameras, laptops, desktop computers, LED backlighting, office automation equipment, household electrical appliance and automotive electronics.
+	['', 'optical electronic products', ' ', 'integrated circuits', ' ', 'IC designer', '']
+Xemics
+	Provider of integrated circuits for short range wireless connectivity. The company offers semiconductor for process control, personal area networks, home and building automation networks and other automotive systems. The company was spun out of Swiss Center for Electronics and Microtechnology.
+	['', 'integrated circuits', ' radiofrequency ', 'digital IC', '']
+PhaseLink
+	Manufacturer of technology for timing source and signal conditioning timing source integrated circuits. The company also markets analog frequency multipliers, triangular modulation SST, bi-directional I/O, programmable clock chip, programmable clocks and a range of IC product lines in the industry.
+	['', 'integrated circuit', ' IC Multipliers Modulator']
+SpeedSim
+	Provider of cycle-based logic simulation software. The company\'s product is used for the testing of large and complex integrated circuits.
+	['', 'application software', ' ', 'logic simulation software', '']
+Yitran Communications
+	Provider of powerline communication (PLC) technology for command and control applications. The company\'s technology is used in applications including energy management and demand response, automated meter reading/management (AMM/AMR), home/building automation, switching and lighting, white good appliances, HVAC control, remote meter reading and street light control. It also designs, develops and markets PLC integrated circuits.
+	['', 'communication technology', ' ', 'energy management', ' ', 'integrated circuit', '']

@@ -1,30 +1,36 @@
-Presence Networks
-	Provider of secure instant messaging services. The company also provides voice telephony services.
-	['', 'added services', ' ', 'communication tools', ' ', 'business class', '']
-Concilium Technologies
-	Provider of equipments and applications services. The company provides equipments and application services to companies in broadcasting, telecommunications and electronics sectors in South Africa.
-	['', 'broadcasting equipment', ' telecommunication ', 'electronic communication', '']
-BlueSpace Software
-	Provider of cross domain applications and electronic messaging. The company serves the defense and intelligence communities by enabling the widespread adoption of multi-level security applications to help achieve US information dominance.
-	['', 'cross domain application', ' ', 'defense services', ' ', 'electronic messaging', ' ', 'security applications', '']
-Followap
-	Provider of instant messaging and interconnect solutions. The company enables operators to provide real-time communication by messaging products.
-	['', 'instant messaging', ' real-time convergence']
-Larian Communications
-	Developer of voice messaging system. The company provides system structure required for voice messaging.
-	['', 'voice messaging', '']
-PeerPong
-	Provider of a social search solution that allows users to ask questions and find information from people in their network through instant messaging and email.
-	['', 'social search solution', ' ', 'search solution', ' ', 'search engine service', '']
-Cyrye
-	Provider of commercial solutions. The company provides Drupal migration services, Growing Venture Solutions (GVS), and Drupal security services.
-	['', 'commercial solution', ' ', 'Drupal migration service', ' ', 'Growing Venture Solution', '']
-Natural Messaging
-	Provider of commercial applications for instant messaging. The company also provides ubiquitous message-driven application services.
-	['', 'commercial application', ' ', 'instant messaging', ' ', 'ubiquitous message application', '']
-Expound
-	Provider of software application to let companies conduct conversations with their customers, employees, partners and suppliers. The company provides a language processing engine capable of integrating into existing sensor and information technology products to disseminate crisis management data to enhance the ability of communication via transforming existing commercial applications (CRM, ERP and Knowledge Stores) into interactive customer self-service applications.
-	['', 'software solutions', ' ', 'commercial application', ' ', 'communication software', '']
-Ubique
-	Operator of a software company. The company provides software products such as instant messaging and collaboration for multimedia communication.
-	['', 'instant messaging', ' ', 'multimedia communication', ' ', 'virtual places', '']
+Alveolus
+	Developer of non-vascular interventional stent technology. The company designs, develops and manufactures non-vascular interventional stent technology for hospitals, physicians, and patients which creates an artificial pathway, support structure and opening for hollow lumen organs that are closed or obstructed due to cancerous lesions or benign disease. The company also offers pulmonary, gastrointestinal and ancillary products for interventional pulmonologists, gastroeterologists and interventional radiologists for use in the lungs, esophagus, enteral and biliary areas.
+	['', 'interventional stent technology', ' ', 'surgery devices', ' ', 'Diagnostic device', '  ', 'ancillary products', '']
+Hemosphere
+	Developer of vascular access devices for patients. The company offers hemodialysis reliable outflow vascular access device, an implanted subcutaneous graft with an outflow component that bypasses central venous stenosis that allows for repeated access to the circulation for hemodialysis.
+	['', 'vascular access device', ' hemodialysis ', 'kidney disease', ' ', 'vein damage', '']
+NeoRad
+	Developer of medical products in the filed of radiology. The company develops, manufactures and sells instruments and devices, mainly in the field of radiology and interventional procedures.
+	['', 'interventional procedures', ' ', 'non-vascular interventions', ' ', 'interventional oncology', ' radiology']
+Summit Access
+	Developer of interventional radiology device. The company develops radiology devices to streamline the Seldinger technique for vascular access.
+	['', 'radiology device', ' ', 'Seldinger technique', ' ', 'vascular access', '']
+Access Closure
+	Manufacturer of vascular closure devices. The company\'s products include Mynx delivery system, a vascular closure device that seals the arteriotomy using a water-soluble and extravascular sealant, which expands in the tissue tract by absorbing blood and subcutaneous fluids.
+	['', 'vascular closure', ' ', 'diagnostic procedure', ' ', 'tissue tract', ' ', 'subcutaneous fluid', ' ', 'medical device company', ' vascular']
+EndoTex Interventional Systems
+	Developer of interventional vascular therapeutic solutions. The company focuses on developing less invasive solution to treat carotid artery disease.
+	['', 'vascular therapy', ' ', 'carotid artery treatment', '']
+VasoNova
+	Developer of vascular navigation systems for healthcare providers and clinicians. The company provides VasoNova Vascular Positioning System, an algorithm-based vascular navigation and measurement system for the optimal placement of vascular access devices.
+	['', 'vascular navigation', ' ', 'electrocardiogram technology', '']
+IDev Technologies
+	Developer of medical devices for interventional radiology, gastroenterology, vascular surgery and cardiology surgery. The company focuses on the development of products for endovascular and interventional applications.
+	['gastroenterology ', 'cardiology surgery', ' ', 'interventional application', '']
+Reflow
+	Developer of interventional cardiac devices. The company provides cardiac devices to treat cronic total occlusions.
+	['cardiac cronic treat']
+Qbion
+	Developer and provider of radiology simulation software for effective education in diagnostic radiology. The company offers Oral Radiology Package (QORP), which contains four separate programs, Bitewing, Periapical, Object localisation and Panoramic. The company\'s programs focuses on projection geometry and radiographic imaging principles.
+	['', 'radiology simulation', ' radiology ', 'simulation software', '']
+r4 Vascular
+	Manufacturer of vascular access products. The company\'s products help clinicians access patient vasculature and maintain access for delivering chemotherapy, blood products, antibiotics, drugs or nutrition.
+	['', 'patient vasculature', ' ', 'blood products', ' ', 'interventional radiologists', ' ', 'vascular access products', ' drugs']
+ActiViews
+	Developer and manufacturer of high-tech medical and surgical devices. The company develops a guiding system for interventional radiology procedures, mainly for biopsy diagnosis.
+	['', 'surgical navigation', ' ', 'diagnostic percutaneous biopsies', ' ', 'biopsy', '']

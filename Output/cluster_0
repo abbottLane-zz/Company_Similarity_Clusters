@@ -1,63 +1,12 @@
-Tutum
-	Developer of a cloud computing service platform. The company provides a cloud service focused on deploying and managing containers in any environment, whether the cloud or on-premises.
-	['', 'cloud computing', ' ', 'automate management', ' ', 'docker container', '']
-EGS Group
-	Provider of cloud-based services to automate back office processes. The company offers outsourced and cloud-based back office automation services including corporate procurement, invoice processing, e-sourcing and accounts receivable.
-	['', 'back office', ' e-invoicing procurement ', 'sales order', ' ', 'invoice processing', '']
-Nebula
-	Developer of a hardware appliance for building private cloud computing infrastructures. The company provides cloud infrastructures for biotech, financial services and media companies.
-	['', 'private computing cloud', ' ', 'enterprise cloud', ' ', 'cloud computing hardware', '']
-PlanforCloud
-	Developer of free cloud forecasting software. The company\'s software allows companies to model various cloud architectures and usage patterns to budget for their cloud costs. The software figures out what servers, storage, database and data transfers are needed for cloud deployment, so that companies can forecast their cloud service needs and costs.
-	['', 'cloud forecasting software', ' ', 'cloud architecture', ' ', 'cloud deployment', '']
-Electron
-	Provider of database hosting services. The company provides technology platforms to improve the performance of enterprise applications, data warehouses and cloud computing infrastructures.
-	['', 'hosting service', ' ', 'advanced software technology', ' ', 'enterprise application', ' ', 'data warehouse', '']
-dotFX
-	Provider of technology to develop, deploy, run, and manage client and desktop software over the Internet. The company\'s proprietary technology provides support for developing, deploying and managing applications for cloud and client.
-	['', 'cloud software', ' ', 'proprietary technology', ' ', 'desktop software', '']
-RingCentral
-	Provider of cloud-based communication technology. The company develops communications systems focused on distributed and mobile workforces, by providing business-class voice, fax and text with one phone system, which can be integrated with other cloud technologies, such as Salesforce, Dropbox and Google.
-	['', 'virtual phone', ' ', 'cloud computing', ' ', 'application integration', ' ', 'internet fax', '']
-Auxo
-	Provider of cloud based software for various business support functions. The company offers white-label cloud service that can be used by its users to outsource and market their business.
-	['', 'cloud solution', ' ', 'data storage', ' ', 'IT operation', ' ', 'business support function', '']
-Macheen
-	Provider of cloud service for connected devices. The company provides cloud-based platform supports to new business models for device makers, retailers, cloud service providers and network operators.
-	['', 'cloud service provider', ' ', 'cloud service', ' ', 'cloud service platform', ' ', 'connected device', ' ', 'device platform', ' ', 'cloud based platform', ' ', 'device service', '']
-eNovance
-	Provider of open source cloud computing and multi cloud management services. The company provides managed services for a number of public clouds, such as google compute engine and also integrates and operates open source cloud computing infrastructures.
-	['', 'cloud computing', ' ', 'open source', ' ', 'multi cloud', '']
-TerraSky
-	Provider of cloud computing and system integration services. The company provides SkyVisualEditor, a tool for screen development that is used to simplify the salesforce screen and a platform for data collaboration called SkyOnDemand.
-	['', 'cloud computing platform', ' ', 'system integration services', ' ', 'data collaboration platform', '']
-Fetchnotes
-	Provider of note taking and organization tool. The company provides a cloud based note jotting and organizing system which allows user to capture, organize short notes like books to read, ideas and shopping lists.
-	['', 'note jotting', ' ', 'organization tool', ' ', 'online note', ' ', 'mobile development', ' ', 'web development', '']
-Sansa Security
-	Developer of embedded security services for mobile, storage, automotive, networking, office automation and industrial markets. The company offers a software stack that runs on the device and provides required information from either a sansa cloud service or the clients own cloud service.
-	['', 'embedded security', ' ', 'office automation', ' ', 'cloud service', '']
-AddFleet
-	Developer of a mobility platform that enables tracking of mobile units in real time. The company focuses on developing intelligent systems for transportation. It has developed a new mobility system based on cloud computing that uses mobile devices to connect vehicles to taxi dispatch centers and users with M2M technology.
-	['', 'mobility platform', ' geolocation ', 'mobile tracking', '']
-Elastra
-	Provider of software for designing, deploying, and managing application systems in public and private cloud computing environments. The company offers Elastic Computing, a database and application infrastructure solution.
-	['', 'application infrastructure', ' ', 'cloud computing', ' ', 'Cloud Server', ' ', 'cloud environment', '']
-Big Blue Software
-	Provider of software for object tracking and video compression. The company provides data conversion, cloud computing and migration technology software services.
-	['', 'object tracking', ' ', 'video compression', ' ', 'data conversion', ' ', 'migration technology', '']
-Hubspan
-	Provider of B2B cloud integration service worldwide. The company offers B2B cloud integration platforms to streamline and automate critical business processes, share information across systems and organizations and reduce manual intervention and cut costs. It also provides cloud integration platforms that help companies to exchange electronic documents and real-time messages with partners, customers and suppliers.
-	['', 'cloud integration', ' ', 'electronic document', ' ', 'electronic invoice', ' ', 'business intelligence tool', '']
-CloudSwitch
-	Provider of cloud management software for enterprises. The company focuses on cloud computing.
-	['', 'cloud management software', ' ', 'cloud computing', '']
-EnStratus Networks
-	Provider of cloud management and governance solutions. The company offers enStratus, a cloud infrastructure management solution for deploying and managing enterprise-class applications in public, private, and hybrid clouds.
-	['', 'cloud management', ' ', 'governance solution', ' ', 'cloud infrastructure', '']
-Cloudsmith
-	Provider of services to create and share software from a global cloud of components. The company offers a web service that defines stacks (dependencies) from a cloud of shared packages, extended to include private components. It also allows the users to share and install these stacks wherever they want directly from the cloud.
-	['', 'shared package', ' ', 'software sharing service', ' ', 'web service', '']
-NeoAccel
-	Provider of end to end security solution for cloud computing. The company develops software technology combining the performance of IPsec VPNs with the benefits of SSL VPN technology.
-	['', 'INTERNET PROTOCOL', ' ', 'VIRTUAL PRIVATE NETWORK', ' ', 'NETWRORK SECURITY', ' VPN IP', 'SECURED SOCKET LAYER', ' SSL']
+Feed Management Systems
+	Provider of software solutions that links critical information between commercial feed manufacturers and their suppliers and customers. The company aims to help feed manufacturers attract and retain customers by providing the information infrastructure required to operate effectively in the dynamic and complex feed manufacturing environment.
+	['', 'feed manufacturer', ' ', 'commercial feed', ' ', 'information software', ' ', 'business software', '']
+VerticalOne
+	Provider of internet content personalization services for consumers. The company has built the information infrastructure that will empower Internet destination sites to offer their online customers a single point-of-access to a wide variety of personal content and account information including reward programs, communications, investments, bank statements, and other bills or personal accounts.
+	['', 'e-mail accounts configuration', ' ', 'internet content personalization', ' ', 'internet based services', ' ', 'internet portals', ' investment']
+Clupedia
+	Provider of internet content and service provider. The company\'s solution helps user to rate web contents and helps in building encyclopedia of clues from crowds.
+	['opinion rumors ', 'meta web', '']
+Blucora
+	Developer of tools and technologies which assist consumers and businesses in finding content and information on the internet. The company uses its proprietary metasearch technology to provide private-label search and online directory services to consumers on a global basis.
+	['', 'search engine developer', ' ', 'metasearch technology', ' ', 'online directory', '']

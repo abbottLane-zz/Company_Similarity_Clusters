@@ -1,24 +1,36 @@
-fiveby tv
-	Provider of online videos based on user preference. The company scours the internet for the best videos, and hand-delivers the ones people want to watch.
-	['', 'online video search', ' ', 'free video', ' movie']
-CastTV
-	Operator of a website that helps people to watch videos through the Web. The company\'s website lets users find all their favorite online videos, from TV shows to movies to the latest celebrity, sports, news, and viral videos.
-	['', 'online video', ' ', 'original video', ' ', 'watch video', ' ', 'video website', ' ', 'video clip', ' ', 'social video sharing', ' ', 'community video', ' ', 'video blog', ' ', 'video entertainment', '']
-CAVI
-	Provider of an online in-video purchase option. The company enables content-owners and publishers to integrate as an e-commerce shop into the online videos, without disturbing the experience of the user.
-	['synergies ', 'in-video shopping', ' ', 'commercial service', ' ', 'e-commerce integration', '']
-Omnisio
-	Provider of online videos. The company enables user to annotate videos, combine clips, and synchronize slideshare presentations to videos.
-	['', 'video annotation', ' ', 'video sharing', ' ', 'video blogging', '']
-IFILM
-	Operator of online streaming media network on the Internet. The company distributes videos online, featuring programs that comprise animations and cartoons, comedy, movie clips, music videos, short films, TV clips, video game trailers, spike shows and action sports as well as a collection of viral videos from Hollywood studios, amateur filmmakers and user-generated content.
-	['', 'online streaming', ' ', 'movie information', ' ', 'entertainment media', ' ', 'music videos', '']
-LoadnVote
-	Provider of visual media competition on the internet. The company invites visitors of all ages and interests to compete in head-to-head contests by uploading videos, pictures and other media to gain exposure and win prizes.
-	['', 'social content', ' ', 'visual media', ' ', 'media competition', ' ', 'voting site', '']
-Backupify
-	Provider of online data backup services. The company\'s service enable users to protect their pictures, videos, documents and blog posts.
-	['', 'online data backup', '  ', 'information management', ' ', 'backup service', '']
-PageWise
-	Operator of a website that serves how-to videos and articles online. The website is a video portal for how-to information and the largest provider of "made for the internet" video content. Its content was created through the company\'s proprietary process wherein filmmakers select specific how-to topics and produce videos on that subject matter.
-	['article, video, ', 'how to video', ' ', 'video portal', '']
+Outside.In
+	Provider of a data and technology platform that develops, organizes, and distributes hyperlocal news online. The company monitors news, blogs, and discussions on the Web and maps it to offline locations for the discovery and sharing of hyperlocal news and information.
+	['', 'news distribution', ' ', 'technology platform', '']
+Westside Today
+	Publisher and distributor of monthly community news magazines to the upscale communities. They offer information pertaining to celebrities, politics, society, environment and everyday news.
+	['', 'community news', ' ', 'celebrity news', ' ', 'publishing news', ' ', 'monthly news', ' ', 'political news', '']
+La Estrella Digital
+	Operator of an e-newspaper. The company provides news on emerging markets, finance, international news, management, politics and technology.
+	['', 'e-newspaper', ' ', 'emerging markets', ' politics']
+Medcast Networks
+	Provider of Internet-based medical news and information services. The company provides breaking medical news, education and other information electronically every morning to physicians throughout the United States.
+	['', 'medical news', ' ', 'medical education', ' ', 'electronic medical news', '']
+Metal-Pages
+	Provider of online information for non-ferrous metals, ferro alloys and rare earths. The company also provides a daily news service for the global metal commodity markets and a bi-weekly metal prices service.
+	['', 'internet portal', ' ', 'non-ferrous metal', ' ', 'ferro alloy', '']
+Silicon Media Group
+	Provider of news and information for information technology industry. The company also provides personalized and real-time news and information for IT professionals.
+	['', 'online news', ' ', 'information technology', ' ', 'IT news', '']
+Viigo
+	Developer of a content mobilization platform. The company offers News and RSS module for news, insights, and blogs; Weather module, which allows users to view the current temperature and forecasts for cities around the world; Sports module that provides live event updates, schedules, and results; and Business and Finance module that enables users to create and follow their own stock portfolio, calculate exchange rates, or even manage their online accounts.
+	['sports weather ', 'finance module', ' ', 'portfolio management', ' weather']
+BiTnews Media
+	Operator of a video news platform. The company is a crowd-powered news channel focusing on decentralization initiatives and technologies such as crypto currencies, P2P energy grids, urban farming, direct democracy, three dimensional printing, decentralized internet, mesh networks and others.
+	['', 'video news platform', ' ', 'digital currency', ' ', 'media platform', ' ', 'decentralized technology', '']
+Individual.com
+	Provider of individually customized news and information that is delivered to business people over the internet. The company collects articles from various news services, sorts them by company and topic and sends a daily news email to each user.
+	['', 'news service', ' ', 'online news', '']
+Hashable
+	Provider of information about companies, industries, and business people over the Internet to general business users. The company subsequently pivoted to create Hashable, a mobile introductions check-in service. Tracked.com has been kept live as of June 1, 2011 however ongoing development has been put on hold to further pursue Hashable.
+	['', 'company information', ' ', 'industry information', ' ', 'business information', ' ', 'online infomation', ' ', 'check-in', ' ', 'social networking', '']
+Angstro
+	Provider of online business news articles. The company offers online information discovering and sharing services.
+	['', 'online information', ' ', 'business news', ' ', 'service sharing', '']
+Handmark
+	Developer of mobile media services for mobile devices. The company offers Tantao News Mobile Reader for BlackBerry smartphones that features global and domestic news generated by Chinese news sources.
+	['', 'entertainment tool', ' ', 'mobile reader', ' ', 'signature rating', ' ', 'online reservation', ' database']

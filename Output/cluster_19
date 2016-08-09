@@ -1,33 +1,9 @@
-MotoSport
-	Distributor of off-road motorcycle and all-terrain vehicle parts and equipment. The company offers bars and controls, body components, brakes, drive components, engine components, exhausts, graphics, suspension, tires, wheels, and intake components. It also distributes gear, boots, helmets, goggles, hydration packs, protective gear, gear bags, men’s casual clothing, women’s casual clothing, clearance gear, kid’s gear, pants, jerseys, gloves, and pajamas, as well as sells miscellaneous items, such as DVDs, sunglasses, tools, ramps and stands, chemicals, and original equipment manufacturer parts.
-	['', 'vehicle part', ' ', 'vehicle equipment', ' ', 'engine component', ' ', 'bike rider accessory', ' ', 'retailer of motorcycle', ' ', 'ATV part', ' ', 'sports apparel', ' ', 'off road vehicle', ' ', 'all terrain vehicle', '']
-Diffusion
-	Provider of multi-channel information delivery technology. The company develops intranet and extranet software for the targeted distribution of business critical information through different media.
-	['', 'intranet software', ' ', 'extranet software', ' ', 'multi-channel information', ' ', 'application software', '']
-SiXis
-	Developer of silicon circuit board technology. The company provides chip-level integration through a Silicon Integrated Circuit Board (SICB) technology platform.
-	['', 'technology platform', ' semiconductor ', 'circuit board', '']
-EpiWorks
-	Manufacturer of specially treated gallium arsenide and indium phosphide wafers. The company\'s wafers are used to make computer chips and ends up being components in cell phones and in medical and industrial lasers.
-	['', 'IT services', '']
-A-Tech Solution
-	Manufacturer of injection mold and stamping die products for the exterior and interior of automobiles and consumer electric parts. The company\'s products include precision press die, large size press die, precision gear mold, automobile components, OA components and lead frame components.
-	['', 'injection mold', ' ', 'precision gear mold', ' ', 'stamping die products', ' ', 'automobile components', '']
-StratiCELL
-	Developer of in vitro regulatory toxicology and test methods. The company assists cosmetic, pharmaceutical, chemical and food industries in evaluating the safety and efficacy of their compounds by means of in vitro models and methods.
-	['', 'healthcare services', ' ', 'laboratory services', '']
-Ugobe
-	Developer of robotic technology. The company develops technology that transforms inanimate objects into lifelike creatures.
-	['robotic technology ', 'organic movement', '']
-Tsang Yow Industrial Co.
-	Manufacturer and exporter of powertrain components. The company manufactures and exports a range of metal-based components and assemblies for power train system. It provides automatic transmission hard parts, manual transmission parts, off highway machinery parts and torque converter parts.
-	['', 'train system', ' powertrain ', 'metal-based', '']
-HVVi Semiconductors
-	Provider of silicon RF power transistors. The company offers HVVi Silicon HVVFET for pulse applications, including TCAS, IFF, radar and avionics in the UHF and L-Bands.
-	['', 'power transistor', ' ', 'pulse application', ' semiconductor']
-Sigolis
-	Developer of microsystem technology. The company develops components in polymer by first producing the parts in original through different methods for sculpting silicon and glass wafers.
-	['', 'microsystem technology', ' microfabrication ', 'medical device', '']
-Si-Light Technologies
-	Developer of a method of stimulating emission of light from silicon. The company manufactures and develops silicon light emission device.
-	['', 'light emission device', ' ', 'alternative energy equipment', ' ', 'silicon light emission device', '']
+Cartesia Dx
+	Developer of thermal/3D imaging system to quantify inflammation and to diagnose and manage rheumatoid arthritis. The company\'s technology also quantifies assessment of swelling and warmth in various diseases.
+	['', '3D imaging system', ' ', 'thermal imaging system', ' ', 'rheumatoid arthritis treatment', '']
+Inviragen
+	Developer of vaccines to protect against various infectious diseases. The company offers its products to protect against dengue viruses, as well as West Nile, swine-origin, plague, smallpox and various other diseases.
+	['', 'dengue virus', ' ', 'infectious diseases', ' ', 'avian influenza diseases', ' ', 'viral vaccine', ' ', 'mouth disease', '']
+Groove Biopharma
+	Developer of therapeutics to affect cellular processes involving microRNAs. The company’s technology addresses nucleotide therapeutic drug discovery via modulation of cellular miRNA. Its technology platform presents potential for treating various diseases, including cancers, infectious disease, and metabolic disorders.
+	['', 'nucleotide therapy', ' ', 'biotechnology service', ' ', 'microRNA therapeutic', ' ', 'medical services', '']

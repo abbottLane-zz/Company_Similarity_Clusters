@@ -1,27 +1,21 @@
-SwitchGear Genomics
-	Provider of products for studying gene regulation in the human genome. The company develops new insights into gene regulatory networks, allowing researchers to screen entire pathways in living cells.
-	['', 'human genome', ' ', 'gene regulation', ' ', 'gene regulatory networks', ' ', 'living cells', '']
-Tissue Repair Company
-	Operator of biopharmaceutical company with a clinical-stage focus on products that promote tissue repair. The company\'s scientific expertise is based on gene therapy, growth factor biology, tissue regeneration and product development.
-	['', 'tissue repair', ' ', 'tissue regeneration', ' ', 'gene therapy', '']
-Voyager Therapeutics
-	Provider of gene therapies for diseases of the central nervous system. The company is a gene therapy company that develops treatments for fatal and debilitating diseases of the central nervous system.
-	['', 'gene therapy', ' ', 'central nervous system', ' ', 'adreno virus', '']
-Elitra Phramaceuticals
-	Developer of next generation antimicrobial drugs that target essential gene products of pathogenic organisms. The company employs its functional genomics technologies to identify essential gene drug targets in clinically relevant bacterial and fungal pathogens.
-	['', 'antimicrobial drug', ' ', 'drug discovery', ' ', 'pathogenic organism', '']
-RGene Therapeutics
-	Developer of gene therapy and other nucleic acid-based drugs. The company intends to develop and commercialize gene therapies for in-vivo approaches to ovarian and breast cancer, an ex-vivo anti-sense treatment for chronic myelogenous leukemia and other applications of its gene and nucleic acid delivery systems.
-	['', 'gene therapy', ' ', 'nucleic acid', ' ', 'breast cancer', ' ', 'chronic myelogenous leukemia', '']
-Spark Therapeutics
-	Developer of gene therapy products. The company develops gene therapy products to address debilitating diseases including retinal dystrophies.
-	['', 'gene therapy', ' ', 'disease treatment', ' ', 'medical research', '']
-REGENXBIO
-	Operator of an adeno-associated virus gene therapy company. The company develops proprietary gene therapy tech to advance treatments for lysosomal storage disorders and ocular diseases, as well as other serious diseases.
-	['', 'gene therapy', ' adeno-associated ', 'viral vector', ' ', 'clinical trail', '']
-Somatix Therapy
-	Developer of gene therapy. The company engages in research, development and commercialization of proprietary processes for the genetic modification of cells and their use in the treatment of human disease.
-	['genetic ', 'gene therapy', '']
-Dimension Therapeutics
-	Developer of gene therapies for rare diseases. The company develops novel treatment and focus on advancing its platform of gene therapy programs in rare diseases through clinical development, starting with lead programs in hemophilia and building out a world-class product engine for adeno-associated virus (AAV) therapeutics.
-	['', 'novel treatment', ' ', 'gene therapy', ' ', 'clinical development', '']
+PureWave Networks
+	Developer of adaptive beamforming 4G base station equipment. The company\'s s services include Quantum 1000, a carrier-grade and outdoor compliant base station that provides macro base station performance in a compact package based on a software defined radio architecture; and PureView, a carrier-grade network management system that controls and monitors various quantum base stations, as well as facilitates network operations with automatic discovery of network topology, operations and inventory views.
+	['', 'base station equipment', ' ', 'outdoor compliant station', ' ', 'Wireless Infrastructure', ' ', 'Base Station', ' ', 'wireless router', ' router']
+Connection Services
+	Provider of Wi-Fi Services. The company provides enabling technology to the wireless service businesses of major telecommunications companies.
+	['', 'Wi-Fi Services', ' ', 'wireless service', ' telecommunications']
+Bluegiga Technologies
+	Developer and provider of short range wireless connectivity products and technologies. The company offers bluetooth modules, Wi-Fi modules, and bluetooth network access devices to OEMs and system integrators in various sectors.
+	['', 'connectivity product', ' ', 'bluetooth module', ' ', 'wireless connectivity product', '']
+connectBlue
+	Provider of bluetooth services for industrial and commercial applications. The company offers industrial-grade short range radio modules supporting popular Classic Bluetooth, Bluetooth low energy and Wi-Fi standards.
+	['', 'bluetooth service', ' ', 'industrial application', ' ', 'wireless communication', '']
+Comsys Communication & Signal Processing
+	Provider of digital baseband solutions for cellular networks. The company intelligent baseband processing solutions enable silicon vendors, handset manufacturers, laptop producers, cellular modules developers and base stations manufacturers to significantly market and create a new horizon for voice and data over cellular applications.
+	['', 'cellular network', ' ', 'digital baseband service', ' ', 'intelligent baseband processing', '']
+Go Networks
+	Provider of broadband wireless access services for indoor and outdoor deployments. The company offers micro cellular Wi-Fi sector base stations, Pico cellular Wi-Fi base stations, wireless media gateways, wireless network controllers and network management systems. It also has a research and development center in Israel.
+	['', 'broadband wireless access', ' ', 'wireless network controller', ' ', 'network management system', '']
+DesignArt Networks
+	Provider of silicon for 4G infrastructure products. The company offers software-defined SoC platforms for compact base stations (Enterprise Femto/Pico/Micro), Remote Radio Heads (RRH), Backhaul links (NLOS, Microwave and E-Band) and relay equipment.
+	['', 'silicon platform', ' ', 'radio access network', ' ', 'infrastructure product', '']

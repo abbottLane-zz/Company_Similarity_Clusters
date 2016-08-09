@@ -1,33 +1,42 @@
-Petbrosia
-	Online retailer of customized pet food. The company uses veterinarian and nutritionist designed algorithms to determine the unique nutritional needs of customers\' dogs and cats, and provides products tailored to activity levels and specific health issues.
-	['', 'pet food', ' ', 'pet nutritionist', ' ', 'diet chart', ' ', 'online pet nutrition', '']
-Snaptracs
-	Developer of pet GPS tracking systems for pet owners. The company offers a GPS pet tracking device that uses GPS and wireless technology to locate and track the activities of pets from desktops or mobile devices.
-	['', 'GPS tracking system', ' ', 'wireless technology', ' ', 'pet tracker', '']
-FamilyPet
-	Provider of marketing services for the pet industry. The company operates websites that offer information about services and merchandise for dogs, cats and other breeds to pet-owners.
-	['', 'pet market', ' pet ', 'pet industry', '']
-NorBelle
-	Provider of GPS engineering and intellectual property licensing. The company\'s core technology is known as Cearch, which enables one wireless device in motion to track and locate another wireless device in motion. It has integrated Cearch technology into a line of consumer mobile products and has combined its mobile tracking capabilities with a consumer buying platform for distribution in the US.
-	['', 'GPS engineering', ' ', 'mobile tracking', ' ', 'wireless technology', ' ', 'buying platform', '']
-SnapTrack
-	Developer of wireless position location technology to determine the position of cell phones, pagers and other hand-held devices. The company develops chips with GPS signal processing ability which is built into handsets to track their locations.
-	['', 'global positioning system', ' ', 'wireless position location', ' ', 'signal processing chips', '']
-PetStuff
-	Operator of pet food stores. The company operates a pet supply superstores in the Eastern United States.
-	['', 'pet food', ' ', 'pet care', ' ', 'supply chain', '']
-Green Way Systems
-	Provider of traffic guidance systems.  The company uses GPS technology and proprietary detectors that can alter traffic signals for emergency vehicles and alter traffic signs to accurately display hazards and traffic information.
-	['traffic ', 'traffic guidance', ' ', 'traffic detector', ' ', 'traffic technology', '']
-Securus
-	Developer of pet tracking devices in the United States. The company offers global positioning system (GPS) pet locators that bundle GPS technology with the recovery assistance.
-	['', 'global positioning system', ' ', 'pet tracking device', ' ', 'pet locator', ' ', 'recovery assistance', '']
-Allpets.com
-	Provider of an online pet magazine and encyclopedia. The company provides valuable information, education and pet products to the consumer and business markets.
-	['', 'pet magazine', ' ', 'pet encyclopedia', ' ', 'pet product', ' ', 'pet information', '']
-Navx
-	Provider of a platform for geo-localized content. The company\'s technology helps to visualize points of interests, traces and personal data. It connects GPS with the internet and allows customers to generate their content, share and upload it onto their GPS devices and social communities.
-	['', 'global positioning system', ' ', 'geo-localized content', ' ', 'social community', '']
-IPET Holdings
-	Provider of products and services for the pets. The company offers pet accessories and supplies to the consumers over internet.
-	['', 'pet products', ' ', 'pet accessories', ' ', 'consumer products', '']
+Kingdee International Software Group Co.
+	Provider of enterprise management software and Internet service in Asia. The company is a provider of middleware, online management and life-cycle e-commerce software, as well as a provider of Internet service in China and the Asia-Pacific region.
+	['', 'enterprise management', ' ERP ', 'Enterprise Information System', '']
+BufferBox
+	Developer of an automated, self-serve kiosk to eliminate failed parcel deliveries. The company\'s kiosks allow for 24/7 pick-up of parcels at a convenient location.
+	['', 'online shopping', ' ', 'parcel delivery', ' ', 'self service parcel', '']
+dotFX
+	Provider of technology to develop, deploy, run, and manage client and desktop software over the Internet. The company\'s proprietary technology provides support for developing, deploying and managing applications for cloud and client.
+	['', 'cloud software', ' ', 'proprietary technology', ' ', 'desktop software', '']
+Volunteers in Health Care
+	Provider of web-based medication assistance resource centers. The company provides a current and comprehensive database of patient assistance programs for managing medication.
+	['', 'medication assistance', ' ', 'healthcare service', ' ', 'pharmaceutical access', '']
+Brightware
+	Developer of eCustomer Assistance software for the Internet. The company\'s products provide automated, self-service assistance to customers through the Internet.
+	['', 'software assistance', ' ', 'eCustomer software', ' ', 'self service assistance', '']
+Andrews Consulting Practice
+	Provider of business software advice and assistance software. The company works closely with Business Objects, Oracle, Microstrategy, Microsoft and IBM, customizing their products to clients’ needs.
+	['', 'business software', ' ', 'assistance software', ' ', 'business advice software', '']
+Threshold Networks
+	Provider of internet-enabled applications to enterprises and service providers. The company\'s products provide enterprises with enhanced network and application performance and improve bandwidth efficiencies by associating acceleration and security policies between the network and the applications.
+	['', 'internet enabled application', ' ', 'network applications', ' ', 'internet based applications', ' ', 'network management service', ' ', 'network management', '']
+NewZoom
+	Provider of automated retail services for customers in the United States, Europe and Japan. The company partners with brands and retailers to create and implement custom-branded automated self-service retail shops in high-traffic locations, such as airports, shopping centers, supermarkets, military bases and retail stores.
+	['', 'location procurement', ' ', 'inventory management', ' ', 'logistics management', ' ', 'creative development', ' ', 'account management', ' ', 'project management', ' ', 'automated retail solution', '']
+Vigix
+	Provider of self-service retail kiosks. The company offers self-service, dispensing kiosks for selling products ranging from gift cards to watches.
+	['kisok ', 'product dispensing', ' ', 'self-service', '']
+Tapuz People
+	Operator of an internet company. The company specializes in internet eCommerce, media and marketing activities.
+	['', 'internet applications', ' ', 'information technology', ' ', 'internet applications', '']
+NexTone Communications
+	Provider of software for internet telephone service. The company develops software for use in communications firms to route, manage and control internet telephone calls.
+	['', 'internet software', ' ', 'internet telephone', ' ', 'VOIP', '']
+Besser Betreut
+	Developer of online portal for home care and assistance. The company helps parents, families, pet owners and others to find the help they are looking for along with reliable support and appropriate assistance in their area.
+	['', 'online portal', ' ', 'home care portal', ' ', 'assistance portal', '']
+Apropos Technology
+	Provider of multichannel interaction management application for managing customer interactions across various communications media, including email, fax, Web, and voice. The company\'s products enable on-line customers to interact with businesses over the Internet, through email, or Web collaboration; and also provide access to human assistance through either an interactive Web chat or voice interaction, to help in completing a sale or service transaction.
+	['', 'multichannel interaction', ' ', 'management application', ' ', 'communication media', ' ', 'web collaboration', ' ', 'voice interaction', ' ', 'service transaction', '']
+Telelogue
+	Provider of directory assistance services to telecommunications service providers. The company offers a family of products that address the needs of service providers for automation of directory assistance and provides voice-enabled automation for directory assistance, as well as web-based, real-time access to customized reports which provide analysis of busy hour calls, length of call, the rate of automation, call completion rate and other vital statistics.
+	['']

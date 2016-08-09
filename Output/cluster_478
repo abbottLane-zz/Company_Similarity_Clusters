@@ -1,27 +1,33 @@
-Lively
-	Provider of a mobile platform that allows music fans to download live recordings. The company\'s platform bring artists and fans together by capturing the live performance and encouraging people to live in the moment.
-	['', 'video recording', ' ', 'live performance recording', ' ', 'music platform', ' ', 'live performance', '']
-SingShot Media
-	Provider of online singing community that lets you choose from thousands of songs, record your own versions, and share them with the world.
-	['', 'online singing community', ' ', 'singing community', ' ', 'karaoke community', ' ', 'karaoke singing', '']
-Rock The Post
-	Provider of an investment crowd funding site for startups. The company has the primary goal of creating a tool and meeting ground for like minded individuals to connect with each other in order to pursue and develop all types of projects and business ideas.
-	['', 'business social network', ' ', 'social network', ' ', 'business idea', '']
-Tipjoy
-	Operator of a social payment engine. The company allows merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another on their payment engine.
-	['', 'social payment', ' ', 'digital content', ' ', 'payment engine', '']
-Steam Republic
-	Provider of fan relationship management services. The company provides an online platform through which fans can connect with their favorite bands, athletes, celebs and artists, those who have a fan following can start a direct conversation with their fans, increase fan loyalty and analyze the tribe.
-	['', 'fan relationship management', ' fans ', 'fan loyalty', ' ', 'loyalty builder', ' ', 'fan engagement', ' ', 'fan relationship', ' direct-2-fan']
-Beyond Oblivion
-	Provider of access to music library where content owners are paid per-play.The company’s first go-to-market product is Boinc. Boinc is a magnetic and social music service that distributes a vast legal music library from a cloud (supplied by majors, independents, and artists the world over), and embeds the right to download and PLAY IT ALL within devices like PCs, tablets, autos and smartphones.
-	['', 'music library', ' ', 'content owner', ' ', 'social music service', '']
-SellaBand
-	Developer of an online crowd funding platform for music artists. The company operates an website that allows artists to raise money from their music fans all over the world in order to record a professional album.
-	['', 'crowd funding', ' ', 'music platform', ' ', 'music artists', '']
-Awdio
-	Provider of free listening and live audio streams from best clubs around the world. The company offers music from sources, artists, and special events. The company plans to launch a paid service offering demand listening and securities in a better encoding quality
-	['', 'audio streams', ' ', 'free listening', ' ', 'encoding quality', ' clubs']
-Imagekind
-	Provider of hybrid art, photo-sharing service and a print-on-demand service. The company allows artists to upload and sell framed prints of their pieces and also allows users to purchase one-off prints of their own images. It gives consumers options to purchase poster art from over 50,000 domestic and international artists.
-	['', 'photo sharing service', ' ', 'hybrid art', ' ', 'off print image', '']
+Advanced DX
+	Provider of testing equipment and personnel for diagnosis of clinical conditions including diabetic retinopathy, neuropathies and peripheral vascular disease. The company gives primary care physicians the ability to diagnose these conditions so they can keep patients in house and generate revenue from diagnostic procedures.
+	['', 'testing equipment', ' ', 'testing personnel', ' ', 'primary care', '']
+AviaHealth
+	Provider of a web-based practice management tool designed specifically for ob/gyns. The company\'s online platform provides patient information and education, including information customized to a woman\'s own needs and internet linkages to facilitate patient\'s interaction with the doctor for routine matters.
+	['', 'practice management tool', ' ', 'internet linkages', ' ', 'patient interaction', ' ', 'online platform', '']
+OREX
+	Supplier of x-ray machines. The company provides computerized radiography products which enable medical practitioners to acquire patient\'s digital x-ray images anywhere.
+	['', 'x-ray machine', ' ', 'computerized radiography', ' ', 'digital x-ray image', ' ', 'Diagnostic Equipment', '']
+Homestead Clinical
+	Developer of diagnostic and prognostic tools. The company was founded to commercialize a suite of technologies developed at the Institute for Systems Biology (ISB) that have broad utility in the development of novel diagnostic tools.
+	['', 'diagnostic tool', ' ', 'prognostic tool', ' ', 'novel diagnostic tool', '']
+Digital Healthcare
+	Provider of healthcare information technology. The company provides image management and storage solutions for the Ophthalmology sector with core competencies in clinical information and patient care management.
+	['', 'ophthalmology', ' ', 'healthcare technology', '']
+Cancer Genetics
+	Developer of personalized medicines for cancer diagnostics as well as treatments that are tailored to the specific genetic profile of the individual. The company provides cancer patient management to diagnose, monitor and inform treatment of cancer.
+	['', 'cancer diagnostic', ' ', 'cancer treatment', ' ', 'cancer patient management', '']
+BetterFit Technologies
+	Developer of an artificial intelligence platform for personalized medicine to users. The company is committed to facilitating data-driven healthcare decisions for patients and providers.
+	['', 'artificial intelligence platform', ' ', 'personalized medicine', ' ', 'medical consultancy', '  ', 'prescription consultation', ' ', 'medication database', ' ', 'prescription database', ' ', 'prescription use', ' ', 'patient data', '']
+Awenydd Diagnostics
+	Provider of personalised medicine to German doctors. The company offers a drug interaction program combining metabolic genotyping which enables physicians to prescribe personalised medicine for their patients.
+	['', 'personalised medicine', ' ', 'metabolic genotyping', ' ', 'medicine prescription', ' medication']
+Abaton.com
+	Developer of Internet-based clinical applications for use by clinicians in ambulatory settings. The company provides clinical information, medical decision-making support, access to test results, order management and prescription-writing capability– opening electronic lines of communication to streamline functions and augment clinical workflow.
+	['', 'clinical application', ' ', 'information management service', ' workflow']
+Catalyst Oncology
+	Provider of information solutions that enable personalized medicine approaches to cancer patient management. The company provides clinical information to physicians, with an emphasis on proprietary testing and also provides diagnostic and prognostic information for individual patients, allowing physicians to create treatment plans that are tailored for each patient\'s needs.
+	['', 'medicinal information', ' cancer ', 'patient management', '']
+Prometheus Laboratories
+	Developer of diagnostic and therapeutic products. The company developing and commercializing novel pharmaceutical and diagnostic products to help physicians individualize patient care. It markets and promotes Entocort EC, a glucocorticosteroid, which is indicated for the induction and maintenance of clinical remission in mild to moderate active Crohn\'s disease involving the ileum and/or the ascending colon. It has an agreement to acquire rights to LOTRONEX tablets, which is used in female patients with diarrhea-predominant irritable bowel syndrome; and an agreement to develop and commercialize COLAL-PRED, a development-stage product for the treatment of gastrointestinal diseases or other applications.
+	['', 'therapeutic product', ' ', 'diagnostic testing service', ' ', 'inflammatory disease treatment', '']

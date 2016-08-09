@@ -1,27 +1,18 @@
-Danyl
-	Manufacturer of electronic data collection which input to computerized accounting systems. The company also produces self-service electronic transaction systems with magnetic stripe cards.
-	['', 'electronic data collection', ' ', 'electronic transaction', ' ', 'magnetic stripe card', '']
-FCS Control Systems
-	Developer of electromechanical and electro hydraulic flight and vehicle simulation equipment. The company develops a technology for control loading systems used in flight training simulators.
-	['', 'electro hydraulic flight', ' ', 'vehicle simulation equipment', ' electromechanical']
-Quantum Leap Packaging
-	Manufacturer of electronic component packaging. The company designs and manufactures electronic component packaging utilizing proprietary material system that meets the critical design and manufacturing requirements of various applications such as semiconductor, medical and optical devices, either in hermetic or non-hermetic configurations.
-	['', 'electronic component', ' semiconductor']
-Enclotek Ready Panels
-	Manufacturer of electrical equipment. The company manufactures control panel boards.
-	['', 'electrical equipment', ' ', 'industrial products', '']
-TriVirix International
-	Manufacturer of electronic and electromechanical medical device. The company manufactures elector-mechanical systems and biotech equipment.
-	['', 'electromechanical medical device', ' ', 'biotech equipment', ' ', 'therapautic devices', ' ', 'diagnostic devices', ' ', 'surgical equipments', ' ', 'monitoring equipment', '']
-KA Electronik
-	Manufacturer of electronic and electromechanical equipment. The company focuses on the contract manufacturing of electronics in small series and prototype production.
-	['electromechanical ', 'prototype production', ' ', 'electronic manufacturing service', '']
-Picosecond Pulse Labs
-	Designer and manufacturer of electronic pulse, pattern generators and broadband components. The company\'s product includes products include amplifiers, attenuators, baluns, bias tees and comb generators.
-	['electronic pulse ', 'broadband components', ' ', 'comb generators', '']
-Molecular Imprints
-	Provider of nanopatterning systems and solutions for hard disk drive. The company manufactures nano-lithography systems for 3-dimensional pattern replication.
-	['', 'nanopatterning system', ' ', 'imprint lithography', ' ', '3-dimensional printing', ' ', 'optical lithography tool', ' semiconductor']
-Fluid Medical
-	Developer of micro-size electromechanical devices. The company offers intravascular ultrasound devices.
-	['', 'electromechanical device', ' ', 'intravascular ultrasound device', '']
+Covagen
+	Operator of a biopharmaceutical company focused on therapies for inflammatory diseases and cancer. The company provides a proprietary platform that genetically fuses Fynomer binding proteins to antibodies, resulting in therapeutics with novel modes of action. The company’s first clinical drug candidate is designed for treatment of rheumatoid arthritis, psoriatic arthritis and other inflammatory diseases.
+	['', 'inflammation binder', ' ', 'protein therapy', ' ', 'clinical drug', '']
+Link Medicine
+	Operator of a privately held biotechnology company advancing novel approaches for the treatment of neurodegenerative diseases. The company is developing treatments for multiple diseases, including Alzheimer’s, Parkinson’s, Huntington’s, and Amyotrophic Lateral Sclerosis (ALS). It targets a common feature of the disorders - the buildup in nerve cells of incorrectly folded, aggregated and ultimately neurotoxic proteins.
+	['', 'neurodegenerative disease', ' Alzheimer’s Parkinson’s, Huntington’s ', 'Amyotrophic Lateral Sclerosis', ' ALS']
+Radiant Medical
+	Developer of endovascular temperature therapy products. The company offers its products to advance the treatment of patients with acute ischemic or inflammatory medical conditions, such as heart attack, radiocontrast nephropathy, stroke, and cardiac arrest.
+	['', 'endovascular temperature therapy', ' ', 'medical care product', ' ', 'acute ischemic treatment', '']
+Intracellular Therapies
+	Developer of drugs for the treatment of diseases and disorders of the Central Nervous System (CNS). The company develops compounds to treat neuropsychiatric and neurological diseases. It also develops a state of the art technology platform for generating a unique molecular signature for drug compounds.
+	['', 'neuropsychiatric disease treatment', ' ', 'neurological disease treatment', ' ', 'drug compound', ' ', 'drug development', '']
+StormBio
+	Developer of therapy for influenza and other inflammatory diseases. The company is developing a new class of therapeutics designed to target only an over-reaction of the inflammatory process, without shutting down the body\'s immune response.
+	['', 'influenza', ' ', 'inflammation treatment', ' ', 'pandemic', ' ', 'biopharm', '']
+Centaur Pharmaceuticals
+	Developer of novel class of small molecule pharmaceutical compounds for the treatment of neurodegenerative and inflammatory diseases. The company develops such compounds to treat inflammatory diseases such as acute stroke, dementia, rheumatoid arthritis, myocardial ischemia and Parkinson’s disease.
+	['', 'molecule pharmaceutical compound', ' ', 'pharmaceutical products', '']

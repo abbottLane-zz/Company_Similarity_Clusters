@@ -1,30 +1,15 @@
-Paragon Wireless
-	Operator of online mobile store. The company offers mobile phones and mobile accessories, including mobile phone cases, chargers, headsets and memory cards.
-	['', 'mobile accessories', ' ', 'online mobile shop', ' ', 'mobile games', '']
-PhoneAndPhone
-	Provider of online retail. The company sells a range of mobile phones with or without subscription and mobile accessories.
-	['', 'online retail', ' ', 'online services', ' ', 'online purchase', '']
-MobilGiganten
-	Operator of an online store for mobile phones. The company provides ecommerce retail and distribution services for mobile phones and accessories, and also offers other mobile services.
-	['', 'mobile phone', ' ', 'mobile accessories', ' ', 'mobile retailer', '']
-Firefly Mobile
-	Developer and seller of mobile phones and accessories. The company also provides airtime services and offers accessories such as wall chargers, universal serial bus cables, stereo headsets, batteries and car chargers for teenagers.
-	['', 'mobile phones', ' ', 'airtime services', '']
-Coveroo
-	Producer of custom cell phone covers and cases. The company develops back cover on the mobile phones, MP3 players, or gaming devices with custom artwork or text.
-	['', 'cell phone cover', ' ', 'device art', ' ', 'customized phone-cover', ' ', 'cover personalization', ' ', 'custom art-work', '']
-MCC
-	Provider of mobile products and services in the Netherlands. The company is a retailer of mobile devices, including smart phones, tablets, navigation devices and accessories, and sells service descriptions for their use.
-	['', 'wireless communications', ' ', 'mobile devices', ' ', 'wireless services', '']
-KKing
-	Developer of karaoke application. The company offers a platform to upload and share karoke through mobile phones.
-	['', 'mobile app', ' ', 'karaoke application', '']
-Dmailer
-	Provider of portable back up and synchronization software services for a mobile devices. The company provides backup services to mobile device including USB flash drives, memory cards, external hard disk drives, mp3 players, embedded phone memory, SIM cards and flash based memory cards for mobile phones.
-	['', 'backup service', ' ', 'portable storage device', ' backup ', 'data backup software', '']
-ROAM Data
-	Developer of mobile application for tracking financial transactions. The company deliver real-time information and transactions to mobile professionals on their own mobile phones.
-	['', 'commerce gateway', ' ', 'mobile application', ' ', 'payment processor', '']
-Iqua
-	Developer of wireless accessories for mobile communications market. The company develops handsfree headsets and other mobile accessories for personal, active or professional use.
-	['', 'wireless accessory', ' ', 'handsfree device', ' headset']
+FCS Control Systems
+	Developer of electromechanical and electro hydraulic flight and vehicle simulation equipment. The company develops a technology for control loading systems used in flight training simulators.
+	['', 'electro hydraulic flight', ' ', 'vehicle simulation equipment', ' electromechanical']
+Xoomsys
+	Provider of simulation solutions based on decoupling and distributed processing technology for circuits. The company provides processing solution for circuit simulation, using circuit simulators and Linux computing clusters.
+	['', 'software services', ' ', 'simulation solutions', ' ', 'circuits technology', ' ', 'circuit simulation', '']
+ConveyEx
+	Developer of systems for transportation of goods for the air industry. The company offers various products for different types of airports and aircraft including loading systems, flight containers and automatic unloading machines.
+	['logistic ', 'air transport', ' ', 'flight container', '']
+Neumath
+	Developer of mathematical software for control solutions. The company provides semiconductor applications for industries such as engineering, biomedical and pharmaceutical arenas for a range of problem solutions and uses advanced mathematical techniques including neural network technology to control semiconductor fabrication equipment.
+	['', 'mathematical software', ' semiconductor biomedical pharmaceutical']
+KOR Electronics
+	Provider of military electronics equipment and system solutions. The company offers digital radiofrequency memories; radar environment simulators; electronic countermeasure target simulators; and electronic warfare simulators, which serve mission critical operational requirements, as well as laboratory simulation, testing, and training needs.
+	['', 'military electronics', ' ', 'digital radiofrequency', ' ', 'radar environment simulator', '']

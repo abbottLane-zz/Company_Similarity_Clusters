@@ -1,21 +1,54 @@
-Circular
-	Provider of user preference based online content. The company offers an infinitely scrolling feed of content to users, based on people they follow and topics that they are interested in.
-	['', 'online content', ' ', 'infinitely scrolling', ' ', 'preferred content', '']
-Youlicit
-	Operator of a web content recommendation engine. The company allows users to discover the web via personalized recommendations based on users interests and enables to find other users interested in the same topics.
-	['', 'web content', ' ', 'recomendation engine', ' ', 'personalized recommendations', '']
-Soruka
-	Operator of a web portal which provides web site monitoring and tracking services. The company offers a variety of information categories that users can keep tabs on and share like-interests with groups of users via Twitter, sms and email.
-	['', 'content management', ' ', 'web sharing', ' ', 'tracking services', '']
-Loku
-	Operator of a local search site. The company promotes local discovery and allows its users to discover events, restaurants, news, deals and businesses, and local experts in various cities.
-	['', 'local results', ' ', 'local search', ' ', 'discover events', '']
-mor.sl
-	Provider of web recipes over the internet. The company serves as a recipe recommendation application that provides personalized recipe suggestions and recommendations to users.
-	['', 'grocery delivery platform', ' ', 'recipe suggestion', ' cooking']
-Scoville
-	Provider of location-based recommendation engine. The company discovers at least one place every week and shares them on their website.
-	['', 'Recommendation engine', ' ', 'discovery platform', ' location']
-Sosh
-	Provider of a personal concierge and offline activity recommendation application. The company provides its recommendations by in-taking all sorts of local listings information and targeting users based on their behavior, friends, stated interests, neighborhood and demographics.
-	['', 'algorithmic recommendation', ' ', 'data analysis', ' ', 'personal recommendation', ' ', 'social networking platform', ' ', 'recommendation application', '']
+Dapper
+	Provider of an advertising technology platform for creating dynamic display advertisements. The company provides a platform built on machine learning, intent exploration, sophisticated matching algorithms and real-time automated optimization which delivers dynamically assembled, intent-driven display ads that drive increased relevance and performance.
+	['', 'advertising technology platform', ' ', 'display adverts', ' ', 'display advertising', ' ', 'advertisement platform', ' ', 'web applications', ' ', 'semantic web', '']
+MCN
+	Provider of mobile search and advertising technology platform. The company provides advertising services to operators and content providers which includes  MessagePlus, RichMedia Advertising and Social Media Advertising.
+	['', 'mobile search', ' ', 'search platform', ' ', 'search on mobile', ' ', 'advertising application', '']
+Mobixell Networks
+	Developer of mobile multimedia and advertising solutions to the mobile telecommunications industry. The company’s services enable mobile operators and content providers to offer multimedia based services to their subscribers. It distributes its services through system integrators and messaging and media platform vendors.
+	['', 'mobile multimedia', ' ', 'multimedia based service', ' ', 'media platform vendor', ' ', 'mobile advertising', '']
+Feedster
+	Provider of Internet search, targeted media and advertising delivery services. The company offers information to consumers and internet sites.
+	['', 'Internet search', ' ', 'targeted media', ' ', 'advertising delivery', '']
+Right Media
+	Provider of digital advertising exchange for online advertising. The company provides an auction-based platform for advertisers, publishers, ad networks and technology providers to trade digital media. It also provides customer support, instructor-led training and e-learning and documentation services.
+	['', 'online advertising', ' ', 'digital media trading', ' ', 'advertising exchange platform', '']
+RUN
+	Provider of a real time advertising management platform. The company provides an advertising software platform which enbles users to advertise across multiple channels, including mobile, tablet, desktop and television.
+	['', 'real-time bidding', ' ', 'audience targeting', ' ', 'programmatic advertising technology', '']
+Boo-box
+	Provider of social media advertising services. The company provides various advertising services and allows the bloggers to monetize their blogs to earn money.
+	['', 'media service', ' ', 'advertising system', ' ', 'business servcies', '']
+Blue Noodle
+	Provider of advertising services for the online casual gaming industry. The company, through its NeoARM technology suite and NeoAds advertising network, provides advertising supported video gaming.
+	['', 'advertising service', ' ', 'game advertising', ' ', 'game portal', '']
+Telecom USA Publishing Group
+	Operator of publishing and independent telephone directory business. The company also offer services like publishing, yellow page advertising and interactive audio-text services.
+	['Directory ', 'yellow page', ' ', 'telephone directory', '']
+Medialets
+	Developer of media advertising and an analytics platform for mobile applications. The company\'s platform enables mobile application developers to measure their audience and monetize their applications through advertising.
+	['', 'media advertising', ' ', 'analytic platform', ' ', 'user activity', ' ', 'advertisement performance', ' ', 'advertising monetization', '']
+Videoplaza
+	Provider of advertising serving platform. The company provides an advertising serving platform which is used by the global client base to monetise video experiences on computers, mobile devices, tablets and televisions.
+	['', 'serving platform', ' ', 'media sevice', ' ', 'advertising platform', '']
+Fast Channel Network
+	Operator of an application service provider. The company provides advertising solutions that allow its customers to manage and distribute print and radio advertising campaigns online.
+	['', 'application service provider', ' ', 'advertising solution', ' campaigns']
+AdPortal
+	Developer of advertising technology for publishers.
+	['', 'advertising solution', ' advertising ', 'advertising application', '']
+Branded Reality
+	Developer of a mobile technology platform. The company provides a platform that integrates with advertising campaigns and enables brands to give free samples to consumers.
+	['', 'mobile technology platform', ' ', 'mobile advertising', ' ', 'integrate advertising campaign', '']
+netvico
+	Developer of digital advertising signage. The company engages in the design and implementation of custom visual advertising messaging, using media content, hardware and its proprietary content-management system, »PlayEverywhere«.
+	['', 'Digital pillars', ' ', 'Digital Signage', ' Signage ', 'display screen', '']
+VoiceStar
+	Provider of call tracking software and pay-per-call technology for advertising and marketing agency. The company is a provider of call tracking software and pay-per-call technology for advertising and marketing agency which helps them to track the success of advertising and demonstrate return on investment to clients.
+	['', 'call tracking', ' ', 'marketing data management', ' ', 'call placement', '']
+Mediaplex
+	Provider of cross channel advertising technology solutions and services. The company enables marketers to achieve one to one messaging, greater efficiencies and a competitive edge through insightful reporting and analytics.
+	['', 'behavioral targeting', ' advertising reporting']
+Pheedo
+	Operator of an advertising network and ad-delivery platform. The company provides tools that enable individuals, organizations and corporations to promote, analyze and optimize advertising in their weblogs and syndicated content feeds.
+	['', 'advertising network', ' ', 'ad-delivery', ' weblogs']

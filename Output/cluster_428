@@ -1,24 +1,9 @@
-Chemrec
-	Developer of manufacturing technology for biofuels. The company provides a proprietary black liquor gasification technology that can be used to convert pulp and paper mills into biorefineries. The company\'s processing technology is used to create a synthetic gas product that can be converted into low-carbon fuels and chemicals, such as synthetic gasoline & diesel.
-	['biofuels biorefineries syngas']
-Legends Optical 4.0
-	Operator of optical laboratories. The company provides facility equipped with the lens processing technology.
-	['', 'eyeglass lenses', ' ', 'lens processing', ' facility']
-Famgro
-	Provider of an indoor farming platform. The company provides a farming system equipped with a hydroponic growing system and an automatic harvesting system, that helps to grow produce in urban areas without use of pesticides.
-	['', 'indoor farming', ' ', 'farming system', ' harvesting farming']
-Xoomsys
-	Provider of simulation solutions based on decoupling and distributed processing technology for circuits. The company provides processing solution for circuit simulation, using circuit simulators and Linux computing clusters.
-	['', 'software services', ' ', 'simulation solutions', ' ', 'circuits technology', ' ', 'circuit simulation', '']
-Xponent Photonics
-	Provider of semiconductor processing technology. The company\'s product Surface Mount Photonics ("SMP"), include a range of triplexers and diplexers for single-fiber applications including point-to-point and bidirectional RF systems.
-	['', 'semiconductor processing technology', ' ', 'surface mount photonic', ' semiconductor']
-ELABORADOS GALLEGOS
-	Wholesale distributor of fresh, frozen and canned fish. The company operates a processing facility, offering products made from cod, Greenland halibut, eel, river cobbler and ling cod to the European market.
-	['', 'frozen fish', ' ', 'fresh fish', ' ', 'cold storage', ' ', 'fish marketing', '']
-varioptic
-	Developer of electrically-controlled miniature optics for the digital camera sector. The company offers variable focus liquid lens for miniature industrial cameras, variable focus and tilt liquid lenses, auto focus lens modules, liquid lens drivers and development kits.
-	['biometrics ', 'consumer application', ' ', 'miniature optics', ' ', 'lens modules', ' ', 'liquid lens drivers', '']
-Colloquis
-	Producer of self-service tools that enable to answer customer questions with a natural language processing technology. The company provides interactive agent technology and conversational online business solutions.
-	['', 'language processing', ' ', 'conversational online', ' ', 'agent technology', ' ', 'messaging platform', '']
+Edenbee
+	Provider of social networking site to reduce carbon footprint. The company provide an open source platform developed on an agile Ruby on Rails framework with a MySQL database that provides users with a series of Web 2.0 features to communicate around the central issues of climate changes and their carbon footprint.
+	['', 'social networking site', ' ', 'carbon footprint', ' ', 'rails framework', '']
+Obtiva
+	Developer of Ruby on Rails software.
+	['', 'software developer', '']
+Talaria Technologies
+	Developer of a dynamic web application server. The company has developed technology that helps people build and run websites more efficiently. It supported dynamic languages like PHP, Ruby and Python.
+	['', 'web application server', ' ', 'website management', ' ', 'website building', ' ', 'code interpretation', '']

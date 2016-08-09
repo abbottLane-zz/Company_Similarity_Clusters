@@ -1,18 +1,42 @@
-LCL Logistix
-	Provider of logistics and supply-chain solutions. The company provides integrated, end-to-end shipping logistics services to customers around the globe. They utilize business-owned assets like Container Freight Stations, trucks, other equipment and warehouses to accomplish this.
-	['', 'shipping logistics', ' ', 'supply chain logistics', ' ', 'integrated shipping', ' ', 'end-to-end logistics', '']
-eShip-4u
-	Provider of value added hardware and software services for the logistics and courier service industry. The company provides a system of automatic delivery machines (ADMs), interconnected over a web-based IP network, that serve for the pick-up and drop-off of packages that were ordered from various sources.
-	['', 'software service', ' ', 'courier service', ' ', 'automatic delivery machine', '']
-Pickup Services
-	Developer of software for the parcel-delivery industry across France. The company provides a software platform and interactive map  that outlines a network of business-to-customer relay points, field services logistics, relay points for parcels after failed home deliveries and reverse logistics.
-	['', 'relay points', ' ', 'parcel VPC', ' ', 'logistics management', '']
-Datell
-	Provider of information integration services. The company supplies MES (manufacturing execution systems) and software for logistics for the solid bulk industry (solid bulk software) and the packaging industry (packaging logistics).
-	['', 'manufacturing execution systems', ' ', 'solid bulk software', ' ', 'logistics software', ' ', 'efficiency software', '']
-Logistics.com
-	Provider of logistics planning and execution software to shippers and carriers. The company links players in the logistics and adjacent industries on a standard communication and application integration platform, Logistics Event Management Architecture. It offers OptiManage, which is a transportation management software, as well as OptiBid, which is a procurement software for shippers.
-	['', 'procurement software', ' ', 'transportation management software', ' ', 'application integration platform', '']
-B-there
-	Provider of online event management and consolidation solutions. The company offers Internet registration, housing and transportation management solution for the meeting and trade show industries.
-	['', 'event management', ' ', 'Internet registration', ' ', 'transportation management', '']
+BioScan Technologies
+	Developer of imaging technology for use in interventional vascular applications. The company is the developer of LightWire guidewires, a technology  based on the company\'s optical-ultrasonic platform, and used for the diagnosis and treatment of cardiovascular disease.
+	['ultrasonic cardiovascular optical-ultrasonic']
+Map Pharmaceuticals
+	Developer of novel inhalation therapies for respiratory and systemic diseases. The company develops innovative drug that focuses on providing better treatments for patients with neurological diseases.
+	['', 'novel inhalation', ' ', 'neurological diseases', ' ', 'bio pharma drug', '']
+Corvas
+	Manufacturer and developer of therapeutic agents for the prevention and treatment of cardiovascular and inflammatory diseases. The company also undertakes cancer research programs.
+	['biotherapeutics ', 'cardiovascular disease', ' ', 'drug candidate', '']
+Encore Pharmaceuticals
+	Developer of drugs for clinical applications in the pharmaceutical and nutritional fields. The company\'s products enables treatment and prevention of cancer, neurologic and cardiovascular diseases.
+	['', 'drug development', ' ', 'proprietary products', ' ', 'bio-pharmaceutical research', ' ', 'clinical applications', '']
+Gensia Pharmaceuticals
+	Developer of drugs to treat cardiovascular diseases. The company\'s drug research programmes involve technology based on purine-pyrimidine metabolism, which have application in the treatment of cardiovascular, cerebrovascular and neurological diseases.
+	['', 'cardiovascular diseases', ' ', 'purine-pyrimidine metabolism', '']
+Serodus
+	Developer of pharmaceuticals for treatment of diseases in the heart and blood vessels. The company focuses on new therapeutic products for the treatment of cardiovascular diseases with large unmet clinical needs.
+	['', 'cardiovascular diseases', ' ', 'blood vessels', ' ', 'therapeutic products', '']
+Vecta
+	Developer of drugs for gastrointestinal diseases. The company is a research and development based pharmaceutical company which develops and commercializes products for gastrointestinal diseases.
+	['', 'gastrointestinal disease', ' ', 'pharmaceutical research', ' ', 'intestine disease', '']
+ZOLL LIFEBRIDGE
+	Supplier of life support systems for the acute medical care in the area of cardiovascular diseases. The company develops heart-lung machine that allows doctors to substitute the patient’s cardiovascular system and save them from death in cardiogenic shock.
+	['', 'life support system', ' ', 'heart-lung machine', ' ', 'cardiovascular system', ' ', 'medical care', '']
+Sequel Pharmaceuticals
+	Developer of novel and clinical-stage drug candidates to treat cardiovascular diseases. The company\'s lead product K201 (JTV-519) has the potential to treat A-Fib, which can cause shortness of breath, chest pain, and blood clot, often leading to a stroke.
+	['cardiovascular ', 'novel drug', '']
+Harvest Technologies Corp
+	Provider of bone marrow aspirate concentrate (BMAC) systems to treat vascular, orthopedic and cardiovascular diseases. The company offers SmartJet applicator kits that deliver platelet concentrate and thrombin to the surgical site. It helps in improving patient outcomes by enhancing the body\'s normal healing process using adult stem cells and growth factors.
+	['BMAC ', 'stem cells', ' ', 'bone marrow aspirate concentrate', '']
+Angio B
+	Developer and provider of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders. The company engages in research and development of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders.
+	['', 'cardiovascular disease', ' ', 'peripheral ischemic disorder', ' ', 'development of drug', '']
+MIGENIX
+	Developer of drugs to treat or prevent infectious, degenerative and metabolic diseases. The company is committed to advancing therapy, improving health, and enriching life by developing and commercializing drugs for the prevention and treatment of major medical diseases and certain conditions with unmet medical need.
+	['', 'commercial drug', ' ', 'disease control', ' ', 'metabolic diseases', ' infection']
+Catalyst Pharmaceutical Partners
+	Developer of a pharmaceutical company. The company focuses on in-licensing, developing and commercializing prescription drugs to treat rare (orphan) neuromuscular and neurological diseases, including Lambert-Eaton Myasthenic Syndrome (LEMS), infantile spasms and Tourette\'s disorder.
+	['in-licensing ', 'prescription drugs', ' spasms']
+Adnexus Therapeutics
+	Developer of Adnectins biologics/medicines in the United States. The company\'s product candidates include Angiocept/CT-322, an anti-angiogenesis agent for treating cancer that blocks the VEGFR-2 pathway; and other Adnectin therapies for the treatment of oncology, immunology, and cardiovascular diseases.
+	['', 'drug discovey', ' ', 'anti-angiogenesis agent', ' ', 'treatment of oncology', '']

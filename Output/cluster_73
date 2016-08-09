@@ -1,24 +1,24 @@
-SurgeryEdu
-	Developer of a mobile application which provides brief 3D interactive procedure animation. The company helps healthcare professionals to educate patients about medical procedures using 3D interactive animations through tablet based mobile applications.
-	['', 'education application', ' animation ', 'doctor-patient communication', ' ', 'medical device', '']
-Point Cloud
-	Provider of interactive 3D imaging for e-commerce companies. The company developed Zap 3D, a software technology which automatically transforms standard video into interactive 3D images that viewers can manipulate and control using low bandwidth.
-	['', '3D imaging', ' bandwidth ', 'standard video', '']
-UpNext
-	Provider of mobile 3D map applications. The company\'s applications enable users to explore and discover cities, as well as glide around their cities virtually.
-	['', '3D map application', ' ', 'mobile 3D map', ' ', '3D navigation', ' ', 'map app', ' ', '3D map', ' ', '3D service', ' ', 'map service', ' mapping']
-NextEngine
-	Provider of desktop 3D scanners. The company offers ScanStudio Core, a scanning and modeling software that enables to make 3d scans and assemble digital models.
-	['ScanStudio ', '3D scanners', ' desktop']
-Okyz
-	Developer of 3D collaboration and publishing tools. The company has developed a secure 3D-based collaboration software which allows organizations to exchange real 3D models instead of emailing, faxing and publishing static 2D images.
-	['', 'publishing tools', ' ', '3D collaboration', ' ', 'collaboration software', ' ', '3D technology', ' ', '3D models', '']
-SensABLE Technologies
-	Developer of 3D touch-enabled (force feedback) solutions. The company offers force-feedback haptic devices and touch-enabled 3D modeling software solutions. Its solutions can be used for product design, digital content creation and fine arts, commercial software development, and academic and commercial research.
-	['', '3D touch device', ' ', 'force feedback', ' ', '3D modeling', '']
-BumpTop
-	Developer of 3D desktop software. The company\'s interface uses 3D presentation and physics-based animations. It allows users to interact by pushing, pulling and piling documents.
-	['', '3D presentation', ' ', 'desktop application', ' ', 'physical animation', '']
-NewSight
-	Developer of 3D technologies and displays. The company creates digital narrowcast networks that deliver interactive and measurable customized advertising channels outside the house. It develops 3D displays based on flat panel displays, providing a spatial impression for a plurality of observers. The company also offers small screen displays for cell phones, navigation systems and military applications.
-	['', '3D technology', ' ', '3D displays', ' ', 'flat panel displays', ' ', 'digital narrowcast networks', ' ', '3D monitors', ' ', 'scanning technology', ' ', 'LCD monitors', ' monitors']
+Kawa Objects
+	Provider of technology platform that enable datacenter infrastructure such as POTS, PANS and SAN infrastructure. The company offers fault tolerance, availability, security and performance optimization for business applications regardless of what hardware infrastructure is used in the data centers.
+	['', 'technology platforms', ' decoupling ', 'infrastructure management', '']
+TrixBox
+	Distributor of Asterisk based software. The company is into Implementing, installing, managing and maintaining an Asterisk-based telephony system. It also provides web interface to manage and maintain PBX system.
+	['', 'Asterisk based software', ' ', 'Asterisk installer', ' ', 'PBX application platform', ' ', 'manage telephony system', '']
+CORDA Technologies
+	Provider of data visualization software used for tasks such as creating charts, maps, and graphs. The company also develops and sells charting/graphing tools. CORDA provides services through PopChart.com, an Application Service Provider helping high-volume sports and financial web sites display statistics with exciting, interactive charts and graphs.
+	['', 'visualization software', '']
+Class Data Systems
+	Developer of software used for bandwidth management. The company\'s clientele includes organizations using the Internet, Intranets and other dedicated networks.
+	['', 'software development', ' ', 'internet management', ' ', 'bandwidth control and management', '']
+Infochimps
+	Provider of data indexing platform. The company develops a cloud based software used for implementing data infrastructure.
+	['', 'data indexing', ' ', 'cloud based software', ' ', 'data infrastructure', '']
+Matchbox
+	Developer of custom-built enterprise iPad application that streamlines the university admissions process. The company develops a cloud based application that simplifies the admissions review process.
+	['', 'admission process application', ' ', 'admission review process', ' ', 'admission process streamlining', ' ', 'Educational Software', '']
+Memeo
+	Provider of data-management services. The company’s cloud-based software enables users to access files, protect and restore data and send large files securely. The product has applications for commercial and home-based users and can be used on mobile devices.
+	['', 'database management', ' ', 'data retrieval', ' ', 'restore data', '']
+GraphDive
+	Provider of a data analytic and personalization platform. The company provides online businesses with integrated social data from platforms such as Facebook to deliver insights into their users\' top interests and key demographic data- age, education, income and relationship status.
+	['', 'social data', ' ', 'e-commerce service', ' ', 'e-commerce content', ' API ', 'social API', ' ', 'data analysis', '']

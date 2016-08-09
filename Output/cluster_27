@@ -1,93 +1,18 @@
-Symbiot
-	Provider of risk metrics products for measurement and management of network security events. The company offers predictive tools for managing and analyzing streams of security event data. The company’s products include Symbiot 5600, a detection and mitigation solution to deliver community centric security to organizations; Symbiot.NET, a central repository of attacker profiles based on the cooperative surveillance and reconnaissance gathered by network participants; and Symbiot Orb, which provides interface solutions for users enabling them to avoid logging in or paged to monitor their network security.
-	['', 'network security', ' ', 'risk measurement', ' ', 'risk metric product', '']
-SHYM Technology
-	Provider of plug-in security and trust management solutions for critical business applications. SHYM\'s MailShym solutions accelerate the adoption of secure e-mail as the cornerstone for Internet transactions. It combines plug-in security integration products and a cutting edge trust management platform.
-	['', 'trust management solution', ' ', 'internet transaction', ' ', 'security integration', ' ', 'security integration', '']
-Phobos Corporation
-	Developer of internet security and enterprise switching products. The company engages in the design, development and sale of Internet traffic management solutions.
-	['', 'Internet traffic management', ' ', 'Web hosting', '']
-CloudLink Technologies
-	Provider of cloud security and management services. The company provides a software security appliance that combines cloud infrastructure security and manageability with cloud performance monitoring.
-	['', 'cloud computing software', ' ', 'data loss protection', ' ', 'ethernet software product', ' ', 'cloud security', ' ', 'cloud management', ' ', 'cloud software', '']
-Syntensia
-	Provider of network security services. The company provides security on-demand solutions on subscription basis.
-	['', 'network security', ' ', 'security services', ' ', 'subscription basis', '']
-Micro Technologies
-	Developer of transformational security devices. The company provides security products, including vehicle security systems, fleet monitoring systems, bike security systems among others.
-	['', 'vehicle security system', ' ', 'fleet monitoring system', ' ', 'security system', '']
-Insightix
-	Provider of security intelligence and control solutions. The company offers Business Security Assurance Suite, which is designed to detect, identify, profile, audit, and control various devices connected to client’s network; Business Security Assurance Visibility, which delivers the information necessary to properly manage and secure the enterprise network and the business of information technology; Business Security Assurance Security Configuration Management, which provides an automated way to audit the security configuration of client devices by measuring their level of compliance with internal and external policies; Business Security Assurance Security Network Access Control, which provides way to control access to the enterprise network; and Business Security Assurance Guest Network Access, which provides a way to offer guest network access while maintaining the security of client’s internal network
-	['', 'security intelligence solution', ' ', 'control solution', ' ', 'Security Configuration Management', '']
-Arkoon Network Security
-	Provider of Internet security services. The company\'s software products enables network security, computer system protection and data confidentiality.
-	['', 'internet security', ' ', 'integrated software', ' ', 'network security', ' ', 'computer system protection', ' ', 'data confidentiality', ' ', 'firewall', '']
-Anchulsu laboratory
-	Provider of security services. The company provides security product, security consulting, security control and security ASP for various computer crime prevention and guidance activity.
-	['', 'security services', ' ', 'security consulting', ' ', 'computer crime prevention', '']
-iPolicy Networks
-	Operator of an integrated network security product. The company offers intrusion prevention firewall appliance; and iPolicy Security Manager, a security management system to service providers, enterprises, financial services firms, education institutions, and government agencies.
-	['', 'network security product', ' ', 'firewall appliance', ' ', 'security management system', '']
-Sereniti
-	Provider of home computer network security, technical support and management services. The company\'s products provides router security, wireless management services, folder sharing, printer sharing, share protection safeguards and security identification. The company aims to improve and enhance the flow of data for broadband service providers such as cable operators.
-	['', 'network security', ' ', 'wireless management', ' ', 'folder sharing', ' ', 'security identification', '']
-Reasoning
-	Provider of software inspection services. The company offers discovery mapping analytics and automated software inspection services to help measure the reliability and security of a client\'s software and also helps in reducing code defects and security vulnerabilities.
-	['', 'security services', ' ', 'software inspection', '']
-SecureInfo
-	Provider of cyberspace security. The company provides a cloud-based, online-security platform for government, cloud technology companies and critical-infrastructure industries. Its services  includes cloud security, continuous monitoring and maintaining compliance with the Federal Information Security Management Act.
-	['', 'FISMA preparedness assessment', ' ', 'information assurance', ' ', 'accreditation service', ' ', 'threat management', '']
-Netect
-	Provider of security software. The company provides security assessment and systems management software that identify and close security holes to prevent internal and external network intrusions, including attempts to hack into a network via the Internet.
-	['', 'security malware', ' ', 'network security', ' ', 'security assessment', ' ', 'system management software', '']
-Infosec
-	Provider of products and services for cyber-security. The company offers various services including security management consulting, secure technology consulting, development and operation of security systems and managed security services.
-	['cyber-security ', 'security management', ' ', 'security systems', '']
-Pedestal Software
-	Provider of security management services. The company offers security software used by companies in the financial services, insurance, health care and government sectors.
-	['', 'management solution', ' ', 'security solution', ' ', 'security software', ' ', 'financial service', '']
-Nitrosecurity
-	Developer of security information and compliance management solutions that protect business information and infrastructure. The company offers products, including NitroView Enterprise Security Manager, NitroView LogCaster, and NitroGuard.
-	['', 'security information', ' ', 'business infrastructure', ' ', 'compliance management', ' ', 'analytical tool', ' ', 'data collection', ' ', 'event management', '']
-EdenWall Technologies
-	Developer of IPS firewall and VPN security services. The company also offers training seminars and maintenance services, professional services, such as account management, security project design and implementation.
-	['', 'IPS firewall', ' ', 'security services', ' ', 'account management', '']
-Security-7
-	Developer of network security services. The company provides security products for the corporate market against threats coming into the network through downloaded internet content.
-	['', 'internet content', ' ', 'network security', ' ', 'security service', '']
-Packet Analytics
-	Provider of network security tools. The company specializes in tool development for IT security assessments and incident response applications. It offers Network Forensics Search Engine (Net/FSE), a Linux-based software that provides a web interface for network managers to see an analytical profile of host-to-host activity based on NetFlow router data and other log information related to an organization\'s security systems.
-	['', 'security system', ' ', 'network security', ' ', 'network manager', ' ', 'router data', '']
-eTunnels
-	Provider of virtual private network and security services. The company offers connection to network servers securely using VPN technology.
-	['', 'telecommunication service providers', ' ', 'virtual private network', '']
-Fortinet
-	Provider of network security appliances and unified threat management (UTM) network security solutions. The company\'s primary UTM solution consists of FortiGate appliance products that provide a range of security and networking functions, including firewall, VPN, antivirus, intrusion prevention, application control, Web filtering, antispam, wireless controller, and WAN acceleration. It also offers a family of FortiManager appliances that enable end-customers to manage the system configuration and security functions of multiple FortiGate appliances from a centralized console; and FortiAnalyzer appliances, which enable collection, analysis, and archiving of content and log data generated by its products. In addition, it provides FortiMail, a family of messaging security appliances; FortiDB, a family of appliances that provide centrally managed database-specific security; FortiClient, a software product that provides endpoint security for desktops, laptops, and mobile devices; and FortiWeb, a family of appliances that provide security for Web-based applications.
-	['', 'network security appliance', ' ', 'unified threat management', ' ', 'wireless access point', '']
-Karotek Systemer
-	Provider of security systems for retail and cash handling and desktop security systems. The company specializes in the production of ballistic protection systems for vehicles and passenger cars. It also provides protection against anti-personnel, anti-tank blast mines and security systems for armored cash and bullion vans to prevent loss.
-	['', 'cash handling', ' ', 'armor security', ' ', 'specialist vehicle', ' ', 'desktop security system', ' ', 'defense system', ' ', 'modular system', ' ', 'security service', ' ', 'security glass', '']
-CipherMax
-	Provider of an enterprise-class storage security solution for securing information assets and achieving compliance with government regulations. The company offers a storage security system for tapes that provides line-speed encryption processing and centralized security administration solutions for legacy.
-	['', 'storage security solution', ' ', 'government regulation', ' ', 'storage security system', ' ', 'centralized security', ' ', 'encryption processing', '']
-Latis Networks (Managed Security Services Division)
-	Provider of network security services. The company handles the operation of data security for companies that don\'t have the bandwidth.
-	['', 'network security', ' bandwidth operation']
-Protego Networks
-	Provider of purpose-built intelligent network security information and threat management appliances. The company provides security threat mitigation solutions that allow organizations to quickly identify, analyze and respond to security threats targeted at mission critical networks and applications.
-	['', 'Mitigation and Response System', ' ', 'network security', ' firewall']
-Securewave
-	Provider of security software and digital data-security services. The company develops security products that enable banks and other organizations to manage, monitor and maintain control over applications and devices on their corporate networks, and to prevent cases of data threats.
-	['', 'network security', ' ', 'digital data security', ' ', 'data threat', ' ', 'software security', '']
-IntruVert Networks
-	Provider of network-based intrusion prevention software. The company\'s intrusion detection system sensor appliances include IntruShield 4000 and the IntruShield 2600, which provide the performance and functionality required to protect networks. It\'s management system, IntruShield Security Management, manages IntruShield sensor appliance deployments for enterprise networks.
-	['', 'intrusion prevention', ' ', 'security management', ' ', 'intrusion detection', ' ', 'network protection', ' ', 'sensor appliance deployment', '']
-Seclarity
-	Developer of network security services to users, applications and operating systems. The company offers Sinic, a security card that enforces various security policies, such as encryption, authentication and firewalling, as well as turns broadcast network into a private network by offering protection.
-	['', 'network security service', ' ', 'operating system', ' ', 'broadcast network', '']
-NetOctave
-	Developer of Internet security solutions that provide high-performance, turnkey system security. The company designs security processors and accelerator boards that protect high-speed network communications. It builds security processors and security accelerator boards and cards for the SSL, IPsec and IP Storage markets.
-	['', 'internet services', ' ', 'Monitoring & Security', ' ', 'Network Security', '']
-Beijing Venustech
-	Provider of network security products. The company engages in providing security management platforms and security services in China.
-	['', 'network security products', ' ', 'security services', ' ', 'security auditing', '']
+Weyland
+	Producer of renewable energy. The company provides a technology that helps in producing bio ethanol from agricultural wastes and forestry residues.
+	['', 'energy production', '']
+Mycologix
+	Provider of a biological treatment process for biofuels. The company uses a combination of microbial treatment and engineering to degrade woody material on an industrial scale, to be fermented into fuels such as ethanol.
+	['', 'wood decay mechanisms', ' biomass bioenergy biofuel']
+Bio Architecture Lab
+	Developer of a technology that enables the production of ethanol from kelp sugars. The company develops an application of synthetic biology and enzyme design for the development of biofuels and renewable chemicals from aqua farmed native macro algae.
+	['', 'ethanol production', ' ', 'synthetic biology', ' ', 'enzyme design', ' biofuel ', 'renewable chemical', ' ', 'native macro algae', '']
+Hawkeye Renewables (Ethanol Plants)
+	Producer of ethanol with plants in Iowa Falls and Fairbank, Iowa. The company\'s plants are specialized in ethanol and dried distiller grains.
+	['', 'ethanol plant', ' ', 'renewable resource', ' refinery']
+Phoenix Bio-Industries (Ethanol Plant)
+	Operator of a dry mill ethanol plant. The company manufactures ethanol for chemicals, paints & coatings industries.
+	['ethanol ', 'dry mill', ' ', 'paints & coatings', '']
+Range Fuels
+	Producer of cellulosic ethanol. The company\'s clean energy technology uses biomass for the production of ethanol.
+	['', 'cellulosic ethanol', ' ', 'ethanol production', ' ', 'clean energy', ' ', 'biomass conversion', '']

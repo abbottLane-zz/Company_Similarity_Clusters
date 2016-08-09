@@ -1,30 +1,48 @@
-Visual Sciences
-	Developer of imaging informatics. The company utilizes imaging technologies and analytics to create integrated information management technology products and services that address problems in healthcare and homeland security for corporations and governmental agencies. Its product suite integrates, streamlines, and distributes business and clinical information and images across the enterprise.
-	['', 'imaging informatic', ' ', 'imaging technology', ' ', 'integrated information management', ' ', 'clinical information', ' ', 'image management', ' ', 'Internet Software', '']
-InstantService
-	Provider of live chat services. The company offers various customer communication technologies for online businesses and contact centers including an integrated suite of live chat, email management, knowledge base, web site analytics and lead capture software application.
-	['', 'live chat', ' ', 'customer communication', ' ', 'communication technologies', '']
-Dave Networks
-	Provider of integrated video distribution and social community platforms. The company utilizes the latest matrix distribution technology to deliver music, video and other information assets to consumer, corporate and commercial customers.
-	['', 'social community platforms', ' ', 'media platform', ' ', 'integrated video', '']
-Digital Campaigns
-	Provider of information management and IP-enabled solutions for political, non-profit and special interest groups. The company offers database-driven information management solutions for campaign management and fundraising management. The company also provides strategic advisory services to the customers in getting advantage out of new digital technologies.
-	['ASP', 'information management', ' ', 'digital technologies', 'real-time ePhone', 'telephone-based campaign', '']
-SuiteLinq
-	Provider of integrated communication, on demand entertainment and business productivity services. The company provides integrated content, connectivity, and commerce technology services to the hospitality industry worldwide.
-	['', 'communication service', ' ', 'technology service', ' ', 'business productivity service', '']
-Contact
-	Provider of contact center services. The company provides provider of contact center services with national capital of the country\'s market environment .
-	['', 'contact center', ' ', 'center service', ' ', 'national capital', '']
-HyperEdge
-	Provider of loop management systems and access equipment for the local exchange carrier markets.
-	['broadband communication ', 'loop management', ' telephone network']
-Archify
-	Provider of personal archiving services. The company integrates in the browsers and stores social history in the cloud.
-	['', 'internet software', ' ', 'social history storage', ' ', 'browser integration', '']
-Genesis Teleserv
-	Provider of integrated customer contact services. The company also integrates information management systems.
-	['', 'integrated customer contact', ' ', 'information management system', ' telesale']
-TradeGlobal
-	Provider of fashion, e-commerce and customer contact management services. The company offers online shop systems as solutions with individual services in the fields of sorting, warehousing, packaging and dispatch of goods, as well as return and debtor management.
-	['', 'contact management services', ' ', 'debtor management', ' ', 'online store', '']
+Opalis Software
+	Provider of an  information technology (IT) process automation software products for the enterprises. The company provide software that integrates and automates common IT assets to automate the IT runbook. Opalis allow companies to capture the internal knowledge of their IT staff. Opalis helps to provide native operators to leading systems management monitors, problem resolution packages, backup tools, virtual machines, software distribution and network devices.
+	['', 'knowledge process automation', ' ', 'knowledge worker management', ' ', 'knowledge sharing', '']
+Active Modules
+	Provider software development solutions. The company provides open source Web Content Management System for ASP.NET.
+	['', 'software development solution', ' ', 'software development', ' ', 'Web Content Management', '']
+Levanta
+	Provider of linux systems management, systems provisioning and software deployment to address management challenges at the operating system level, delivering dramatically faster and more flexible systems management and provisioning.
+	['', 'address management', ' ', 'systems management', ' ', 'technology investment', '']
+XenSource
+	Developer of enterprise grade virtualization solutions. The company offers Xen 3.0, an open source hyper visor virtualization technology that provides features required for servers deployed in enterprise; Xen Optimiser, a multi-server virtualization infrastructure software management solution; and Xen Support, a subscription-based support for Xen and XenOptimizer. It also provides value-added enterprise solutions, including enterprise grade virtualization infrastructure solutions.
+	['virtualization ', 'software mangement', ' ', 'server utilization', '']
+DynamicOps
+	Provider of virtual infrastructure and lifecycle management software solutions. The company offers Virtual Resource Manager, an information technology service automation software. The company also provides DynamicOps Cloud Automation Center, a platform for defining and automating the delivery and management of on-demand IT services on a shared multi-tenant private or public cloud infrastructure. It also provides server provisioning, desktop provisioning, and lab management solutions
+	['', 'virtual infrastructure', ' ', 'lifecycle management software', ' ', 'server provisioning', '']
+Crossgain
+	Developer of tools and applications to enable customers to build web services. The company rely on emerging Web standards that make it easier for applications to talk to one another, as well as on open-source technologies such as the Linux operating system.
+	['', 'web service', ' ', 'wed standard', ' ', 'operating system', '']
+Virtugo Software Inc
+	Provider of performance and service level management tools for virtual environments.
+	['', 'service management', ' ', 'virtual environment', '']
+Securent
+	Provider of entitlement management solutions. The company’s Entitlement Management Solution (EMS), is an XACML-based solution, which allows organizations to administer, enforce, review, and audit fine-grained access policies across heterogeneous application and information technology environments distributed in the enterprise with centralized management and visibility.
+	['', 'entitlement management solution', ' ', 'content management', ' ', 'software solution', ' ', 'digital rights management', '']
+Mandriva
+	Provider of enterprise free software products and solutions to the professional market. The company develops and distributes Linux globally. The company also provides server products and open source I.T infrastructure management solutions.
+	['Linux ', 'Open Source', ' freeware']
+Qlusters
+	Developer of linux-based enterprise cluster management software. The company provides open-source systems management solution for software provisioning and managing virtual environments.
+	['', 'cluster management software', ' ', 'open-source system', ' ', 'data center technology', '']
+MontaVista Software
+	Provides Linux tools to the embedded software market. The company’s products include Market Specific Distributions (MSDs) for MontaVista Linux 6, which provides support for industrial automation, automotive, Android, portable multimedia devices, and multicore networking applications, and DevRocket, an Eclipse-based integrated development environment for embedded Linux platform and application development.
+	['', 'operating systems', ' ', 'embedded software', '']
+Bluebeam Software
+	Developer of software for paperless workflows that leverages the PDF format. The company provides a platform for desktop and tablet users to create, view, markup, and edit PDF files. The company provides Bluebeam PDF Revu Standard Edition, a PDF solution for use in MS Office, Windows, and tablet PCs; Bluebeam PDF Revu CAD Edition, a professional PDF solution for use in AutoCAD, SolidWorks, and Windows; Bluebeam Conversion Server, a server-based software solution for companies to centrally control PDF creation from source files; and Studio, a solution for digitally collaborating on PDF drawings and documents in real-time.
+	['', 'collaboration software', ' pdf ', 'pdf format', '']
+Kenati Technologies
+	Provider of Linux-based embedded software for networking appliances for the delivery of data and voice over wired and wireless broadband networks. The company develops device software for the home networking market. Its products include components from device drivers, to operating systems, to management interfaces.
+	['', 'embedded software', ' ', 'linux software', ' ', 'networking appliance', ' ', 'wireless broadband', ' ', 'management interface', '']
+Element Energy
+	Developer of software and hardware systems for the management of multi-cell battery systems. The company also provides service for system-in-package (SIP) chips and a system software stack.
+	['', 'multicell battery system', ' ', 'battery management hardware', ' ', 'battery management software', ' ', 'system-in-package', ' ', 'system software stack', ' battery ', 'power electronics', ' ', 'digital control', '']
+Jibe Mobile
+	Provider of cloud-based communication services. The company provides open technology platform that provides an open end-to-end technology platform enabling carriers to rapidly launch and commercially scale the most innovative IP communication services to mobile consumers.
+	['', 'communication service', ' ', 'cloud communication', ' ', 'telephony platform', '']
+Tickmark Solutions
+	Provider of configuration management software for Oracle Applications environments.
+	['', 'configuration management', ' ', 'enterprise software', ' ERP']

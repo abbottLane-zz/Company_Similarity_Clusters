@@ -1,36 +1,15 @@
-B2
-	Provider of broadband services. The company provides Ethernet services, IP-telephony, Video-on-Demand and television services
-	['', 'broadband services', ' ', 'network technology', ' ', 'internet connection', '']
-Coolwave Communication
-	Provider of voice, broadband, and mobile services. The company provides voice, VOIP, data, fiber ad internet services to consumers and businesses. It was brought to fruition by the Services Environment, an open, IP-based, modular architecture on which a wide variety of call completion, messaging and content services can be hosted.
-	['', 'internet service', ' ', 'VOIP', ' ', 'Mobile services', '']
-Anevia
-	Provider of video on demand software. The company offers application suites for broadcasters and telecom operators. It also offers a suite of components and applications to build-up video service infrastructures.
-	['', 'television service', ' ', 'online video streaming', ' ', 'telecom operator', '']
-Avilinks
-	Developer of software and technology for the distribution of multimedia services via ADSL and VDSL on the existing telephone network. The company\'s product, AVIcenia, is a multimedia switch which can be installed in a building’s technical control room, on a campus, in the heart of a city or in an operator’s central office. It enables its users to have have access to a variety of services such as video on demand, high-speed internet, television and videoconferencing.
-	['', 'multimedia services', ' ', 'telephone network', ' ', 'multimedia switch', ' ', 'high-speed internet', '']
-Myrio
-	Provider of software, content management and integration services for internet protocol based video services. The company enables telecommunications providers to offer digital TV, video-on-demand, interactive TV services,  communications and internet services to their customers.
-	['', 'IP video', ' ', 'broadband service provider', ' ', 'video on demand', '']
-Mobyson Holding
-	Provider of mobile IP telephony services. The company markets telephony provisions, including hardware and software communication equipment.
-	['', 'communication equipment', ' ', 'telephony service', ' ', 'hardware product', '']
-Flimmer
-	Developer of a platform for viewers to watch movie trailers. The company\'s platform allows viewers to watch the latest trailer from Cinema, DVD & Blu-Ray and Video On Demand and reward them for their attention with movie tickets or DVD/Video on Demand Coupons.
-	['', 'watch film trailer', ' ', 'photography platform', ' ', 'video on-demand', '']
-Fullrate
-	Provider of broadband services. The company\'s products include internet connections with bandwidth ranging from 2 to 20 Mbit per second, and include fixed telephony in a single broadband service. The company offers its products and services using ADSL2plus technology.
-	['', 'broadband services', ' ', 'internet connections', '']
-On Demand Group
-	Provider of video on demand services to television brands.
-	['', 'video service', ' ', 'television service', ' ', 'digital media service', '']
-Cloudtc
-	Developer and manufacturer of android-based media phones. The company develops software for business applications and IP telephony.
-	['', 'android based phone', ' ', 'IP telephony', ' ', 'business applications', ' ', 'smart phone', '']
-Prescreen
-	Provider of social discovery video-on-demand platform designed to promote and showcase premium content. The company provides a daily movie service that presents films to a community of movie lovers.
-	['', 'video-on-demand', ' ', 'premium content', ' ', 'premium movie', ' ', 'daily movie service', '']
-Atrica
-	Manufacturer of optical component technology with the Ethernet networking protocol to bring computer network capabilities to metropolitan area telecommunications networks. The company also provides Ethernet Internet access, Ethernet transparent LAN, T1 private line, Ethernet private line, and Ethernet private network services.
-	['technology communication Ethernet networking telecommunication ', 'ethernet equipment', ' ', 'telecommunication service', ' ', 'communication system', '']
+Sandlot
+	Provider of subscription management software and services for publishing industry. The company\'s product EclipseNet, manages order fulfillment processes within the virtual enterprise. The company provides a in-house and hosted services for management of recurring order transactions, integrated order process management, order fulfillment and customer service.
+	['', 'application software', ' e-business ', 'subscription solutions', '']
+HealthyOut
+	Provider of an online nutrition and restaurant guide. The company develops a mobile application which aggregates food items from online ordering sites and provides consumers with an interface to enter dietary requirements, find appropriate dishes and purchase them.
+	['', 'restaurant guide', ' ', 'online services', ' ', 'online nutrition', '']
+Bettermeans
+	Provider of technology platform enabling founders to build companies collaboratively. The company provides a web platform where people can start and run projects in an open and democratic way.
+	['', 'web platform', ' ', 'project management', '']
+Just Eat
+	Provider of an online food-ordering platform. The company operates a global online and mobile marketplace for restaurant take-out food. It also provides services in 13 countries around the world, with more than 40,000 takeaway restaurants in its network.
+	['', 'online order', ' ', 'order processing', ' foodservice ', 'takeaway ordering', ' ', 'food delivery', '']
+Yemeksepeti.com
+	Provider of an online food ordering and delivery portal in Turkey. The company provides a platform enabling users to order food from their favorite restaurant through the Internet and have it delivered. The company\'s platform provides an aggregated list of the restaurants from which users can choose to place an order.
+	['', 'online food ordering', ' ', 'food delivery portal', ' ', 'online food delivery', ' ', 'food delivery', '']

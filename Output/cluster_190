@@ -1,15 +1,51 @@
-PIA-Engineering
-	Manufacturer of moving and lifting appliances. The company designs and delivers rolling, moving, sliding and lifting appliances required as per customer specifications.
-	['', 'sliding appliances', ' ', 'lifting appliances', ' ', 'rolling appliances', ' ', 'engineering services', ' ', 'rolling devices', '']
-FriCSo
-	Developer of advanced surface treatment technology for friction reduction between moving parts. The company\'s single process delivers new surface characteristics that reduce friction and result in performance improvements. The company is into the research, development, manufacture, and marketing of its products between moving parts to automotive, hydraulic, and machinery industries.
-	['', 'surface treatment technology', ' ', 'nanolayer device', ' ', 'friction reduction', '']
-Duke Corporation
-	Manufacturer of machined parts for the automotive and electrical industries. The company is engaged in the manufacture and sale of precision assemblies, systems, machined parts to the automotive and electrical industries.
-	['', 'machine part', ' ', 'precision assembly', ' ', 'electrical industry', '']
-Fabricacion Componentes Motocicletas
-	Manufacturer of motorcycle parts. The company uses electronics technology to manufacture backlashes, gearboxes and instrument panels.
-	['', 'motorcycle parts', ' backlashes ', 'instrument panels', ' gearboxes']
-Finow Automotive
-	Manufacturer of components and parts for the automotive industry. The company manufactures tubes and profiles for chassis and engine applications to attain weight optimization and structural strength. The company also provides laser welding system for single tubes and tailored tubes.
-	['', 'component manufacturing', ' ', 'automotive industry', ' ', 'laser welding', ' ', 'steel tubes', '']
+Metasonic
+	Provider of software for subject oriented business process management. The company\'s core product Metasonic Suite provides a platform for dynamic process applications, which focuses on the communication or interaction among different participants of  business and helps in addressing different aspects of a company\'s organizational culture.
+	['', 'business process management', ' ', 'business communications', ' ', 'process automization', '']
+Cordys Holding
+	Developer of business process management (BPM) software. The company is the creator of the Cordys Business Operations Platform, which enables users to design, execute, monitor, change and optimize business operations.
+	['BPM ', 'service-oriented architecture', ' ', 'composite application', '']
+Teamplate
+	Developer and provider of business process workflow for Microsoft environments. The company\'s technology automates business processes such as customer service, human resources, capital requisitions and expense controls.
+	['', 'business process', ' ', 'capital requisitions', ' ', 'customer services', '']
+IBM Daksh Business Process Services
+	Provider of business process outsourcing services. The company offers a range of customer care services including voice, email response, real-time chat, knowledge management, eCRM architecture and other value added services to Fortune 500 companies.
+	['BPO ', 'business process outsourcing', ' ', 'customer care', ' ', 'voice process', '']
+SteelTrace
+	Developer of business process and requirement tools. The company develops tools that increase the accuracy between customer requirements and system delivery.
+	['', 'software solution', ' ', 'management solution', ' ', 'system analyst capture', '']
+THINQ Learning Solutions
+	Provider of enterprise wide corporate learning solutions. The company offers enterprise learning management software designed to help companies achieve their business objectives.
+	['', 'professional learning services', ' ', 'management systems software', ' ', 'enterprise software', '']
+Entigo
+	Provider of a warranty program management software. The company provides a collaborative system that simplifies business process and integrates with warranty chain partners. It provides B2B, sell and service-side and e-commerce services.
+	['', 'warranty program', ' ', 'warranty management', ' warranty']
+Metastorm
+	Provider of enterprise architecture, business process modeling and analysis, and business process management software.
+	['', 'business process modeling', ' ', 'enterprise modeling', ' ', 'process improvement', ' ', 'business process management', '']
+Exigen Properties
+	Provider of business process management software. The company engages in the development of software for business process automation to lower the total cost of operations for financial services, insurance, communications and other service businesses.
+	['', 'financial software', ' ', 'process management software', '']
+Brovada Technologies
+	Provider of a software for business process integration. The company provides a software specializing in business process integration, system conversions, legacy system integration and agent connectivity.
+	['', 'business service', ' ', 'business process integration', ' ', 'system conversion', '']
+Corticon Technologies
+	Provider of business rules management solutions for companies to model and automate recurring decisions in their enterprise systems. The company offers a Management System that manages the rules that drive decisions, including design, analysis, execution, and optimization. Its suite includes a desktop environment to model, analyze, test, and package business rules; a performance execution engine that deploys rules from the Modeling Studio as decision services; a package of integrated components that deliver enterprise data integration and analysis for decision automation; and a system that provides multi-user environment to manage rule assets through their lifecycle.
+	['', 'business rules management', ' ', 'automate recurring decision', ' ', 'enterprise system', ' ', 'performance execution engine', ' ', 'integrated component', ' ', 'decision automation', '']
+Borland Software
+	Provider of open application life-cycle management solutions. The company is focused in helping IT organizations transform software delivery into a managed, efficient and predictable business process.
+	['', 'business process', ' ', 'open application', ' ', 'Lifecycle Management solution', '']
+Lombardi Software
+	Provider of business process management (BPM) software that helps companies monitor business activities. The company\'s software also includes applications for modifying business rules and routing notifications and workflows.
+	['', 'online platform', '']
+ICCM Solutions
+	Developer of an enterprise management software. The company provides global client base with process applications and tailored services for IT service management, HR shared services and intelligent BPM.
+	['', 'service management', ' BPM ', 'business process management', ' ', 'tailored services', ' ', 'enterprise management', '']
+PureEdge Solutions
+	Provider of business process management software and services. The company provides a business process automation framework to create electronic forms-based processes. The company serves department of defense, securities and exchange commissions.
+	['', 'business process management software', ' ', 'electronic forms-based processes', ' securities ', 'exchange commissions', '']
+Spotlight Data
+	Provider of software tool for collecting and analyzing process data and metrics on human-centric business activities. The company offers process discovery tool which addresses the process discovery phase of the business process improvement lifecycle .
+	['', 'Data collection', ' ', 'data analysis', '']
+Ten Rivers Technologies
+	Provider of contract performance management software solutions to business process outsourcing and business services companies.
+	['', 'Contract Performance Management', ' ', 'software solutions', ' ', 'business process outsourcing', '']

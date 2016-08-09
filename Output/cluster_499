@@ -1,27 +1,6 @@
-Pathway Therapeutics (Anticancer Drug)
-	Anticancer Drug molecules and its backup compounds in San Francisco. The drug molecules and its backup compounds are used as an inhibitor to slow down the growth of cancer cells and solid tumors.
-	['', 'oncology', ' ', 'life sciences', ' ', 'treatment of tumors', ' ', 'cancer inhibitor', '']
-Mozy
-	Provider of online backup system for Windows and Mac users. The company provides service to up data continuously, manually or schedule updates.
-	['', 'online backup', ' ', 'manual backup', ' ', 'backup storage space', ' ', 'remote backup', '']
-TweetBackup
-	Provider of a Twitter backup service. The company offers an online Twitter backup tool and stores Twitter data online.
-	['', 'Twitter back up', ' ', 'Twitter data', ' ', 'Twitter tool', '']
-Parascale
-	Developer of cloud software for servers. The company also provides video-on-demand, document archive, online backup and video surveillance solutions.
-	['', 'cloud software', ' ', 'server software', ' ', 'online backup', ' ', 'video surveillance', '']
-BackupAgent
-	Developer of online backup recovery software. The company\'s software enables its clients to offer a backup service to their customers, as well as enables its clients to make backups over the internet in their backup servers.
-	['', 'backup recovery', ' ', 'backup service', ' ', 'online backup', '']
-Connected Backup
-	Provider of an automated computer backup service.  The company offers a remote, automated backup of computers that allows a user to recover files from any location.
-	['', 'data storage', ' ', 'data backup', ' ', 'computer backup', '']
-Ibrii
-	Provider of technology enabling online note-sharing between users. The company\'s software enables clients to clip an object from any Web page, as well as mixing videos, text or photos from different pages into a single digital note that can be shared with other users leveraged from social-networking platforms. The primary sharing platforms are Facebook,Twitter and Google Buzz.
-	['', 'notes sharing', ' ', 'content sharing', ' ', 'online content', ' permalink ', 'online notes', '']
-DataGardens
-	Provider of disaster recovery software systems. The company provides infrastructure services including virtual machine migration, virtual machine provisioning, fail over and fail back, backup and recovery across geographically distributed sites.
-	['', 'disaster recovery', ' virtualization ', 'data center migration', '']
-Xchange
-	Provider of relevant, personalized customer communications. The company provides eCRM software and services that enables clients to customize offers based on profile information, synchronize offers across all customer channels in real-time, and track the responses.
-	['', 'customer communication', ' CRM']
+CuaQea
+	Provider of a voice micro-blog/social network enabling users to record and share voice messages with their friends and others. The company\'s technology enables users to talk into their mobile handsets and create their own channel podcasts for sharing.
+	['', 'micro blog', ' blogging ', 'voice social network', ' ', 'voice micro-blog', '']
+Hallo
+	Developer of a social voice application. The company offers a software which enables users to record and share voice messages.
+	['', 'mobile app', ' ', 'social voice app', ' ', 'voice messages', ' ', 'voice chats', '']

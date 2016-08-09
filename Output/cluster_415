@@ -1,30 +1,18 @@
-Mobixell Networks
-	Developer of mobile multimedia and advertising solutions to the mobile telecommunications industry. The company’s services enable mobile operators and content providers to offer multimedia based services to their subscribers. It distributes its services through system integrators and messaging and media platform vendors.
-	['', 'mobile multimedia', ' ', 'multimedia based service', ' ', 'media platform vendor', ' ', 'mobile advertising', '']
-SmartReply
-	Provider of voice and mobile messaging solutions to retailers and retail brands in the United States and Canada. The company delivers solutions for loyalty, credit, and promotional marketing, as well as hosts Webinars and seminars. It also offers mobile marketing, text messaging, and email marketing solutions.
-	['', 'marketing program', ' ', 'telephone marketing', ' ', 'email marketing', ' ', 'marketing solution', '']
-Mobile Commons
-	Provider of a platform to create and manage mobile marketing campaigns. The company provides tools to reach people on mobile phones. It provides web based tools that provide functionalities like integrating mobile messaging into campaign strategy and website.
-	['', 'mobile marketing', ' ', 'mobile messaging', ' ', 'web based platform', '']
-PureWave Networks
-	Developer of adaptive beamforming 4G base station equipment. The company\'s s services include Quantum 1000, a carrier-grade and outdoor compliant base station that provides macro base station performance in a compact package based on a software defined radio architecture; and PureView, a carrier-grade network management system that controls and monitors various quantum base stations, as well as facilitates network operations with automatic discovery of network topology, operations and inventory views.
-	['', 'base station equipment', ' ', 'outdoor compliant station', ' ', 'Wireless Infrastructure', ' ', 'Base Station', ' ', 'wireless router', ' router']
-Mobile 365
-	Provider of mobile messaging and data services. The company offers mobile messaging services, including short message services, multimedia messaging service, video, and wireless application protocol services for mobile operators, brands, portals, content providers, and media companies worldwide.
-	['', 'mobile messaging', ' ', 'data service', ' ', 'wireless application', ' ', 'content provider', '']
-ConteXtream
-	Operator of a software-defined-networking (SDN) company. The company is a provider of carrier-grade network visualization technology. Deployed by Tier-1 operators, the company\'s Carrier-SDN elastically connects subscribers to services and enables carriers to leverage standard server hardware and hypervisors to virtualize functions and services, while replacing purpose-built proprietary systems.
-	['', 'routing service', ' ', 'internet protocol', ' ', 'internet broadband', '']
-Excilan
-	Provider of payment and authentication platform. The company allows mobile subscribers to access and pay for public WLAN services using their mobile telephone numbers.
-	['payment wifi roaming wlan']
-Impact Mobile
-	Developer of a mobile marketing platform. The company provides a platform which provide marketing services and carrier grade messaging infrastructure which allow clients to reach mobile subscribers using short messaging service, multimedia messaging service and mobile web.
-	['', 'mobile marketing', ' ', 'marketing platform', ' ', 'mobile web', '']
-eVector
-	Developer of an online messaging platform. The company develops a multiple access messaging platform that offers stock prices and other content services for mobile devices.
-	['', 'messaging platform', ' ', 'mobile commerce', ' ', 'digital messaging platform', '']
-Banter
-	Provider of communication technologies. The company provides technology designed to interpret unstructured text communication, like e mail, web form submissions, instant messaging and service inquiries.
-	['', 'communication technology', ' ', 'text communication', ' ', 'instant messaging', '']
+buecher.de
+	Owner and operator of an online bookstore. The company primarily operates as an online retailer of books and also engages in the sale of other media products such as games, music and movies.
+	['', 'online books', ' ', 'books retailer', ' bookstore']
+Djangos.com
+	Seller of new and used CDs, DVDs and VHS via internet.
+	['', 'compact disc', ' ', 'optical disc storage', ' ', 'Digital Versatile Disc', '']
+Nano-Tex
+	Developer of nanotechnology-based textile enhancements for apparel, home and commercial and residential interiors markets. The company’s products are applied in apparel, home textiles, residential furniture, hard goods and commercial interiors.
+	['', 'textile enhancement', ' nanotechnology ', 'commercial interior market', ' ', 'residential interior market', ' ', 'residential furniture', ' ', 'home textile', '']
+EcoScraps
+	Provider of organic, chemical and manure free lawn and garden products. The company\'s process recycles food wastes into nutrient rich products.
+	['', 'organic soil', ' compost fertilizer ', 'potting soil', ' ', 'garden product', ' ', 'lawn product', '']
+WebMediaGroup
+	Owner and operator of social commerce websites in France. The company operates multiple websites geared toward women consumers, with content ranging from home appliances, gardening and decor to an online marketplace for handcrafted objects and a female-focused classified platform.
+	['', 'specialist furniture', ' ', 'homemade products', ' ', 'household goods', '']
+PriceMinister
+	Owner and operator of e-commerce websites and online communities. The company offers private and professional users a marketplace to trade various products, including books, videos, CDs, DVDs and games, electronics, clothes, childcare products, apparel, home and garden products, automobiles and many other products.
+	['', 'e-commerce', ' shopping ', 'online shopping', ' marketplace']

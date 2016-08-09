@@ -1,45 +1,57 @@
-Kingdee International Software Group Co.
-	Provider of enterprise management software and Internet service in Asia. The company is a provider of middleware, online management and life-cycle e-commerce software, as well as a provider of Internet service in China and the Asia-Pacific region.
-	['', 'enterprise management', ' ERP ', 'Enterprise Information System', '']
-BufferBox
-	Developer of an automated, self-serve kiosk to eliminate failed parcel deliveries. The company\'s kiosks allow for 24/7 pick-up of parcels at a convenient location.
-	['', 'online shopping', ' ', 'parcel delivery', ' ', 'self service parcel', '']
-Redstone Communications
-	Developer of networking equipments and market service provider solutions that address the scalability, performance, reliability and quality of service issues associated with the transformation of the public Internet. The company\'s products include edge routers, which enable internet service providers to support multiple services.
-	['', 'networking equipments', ' ', 'internet service providers', ' ', 'edge routers', '']
-Volunteers in Health Care
-	Provider of web-based medication assistance resource centers. The company provides a current and comprehensive database of patient assistance programs for managing medication.
-	['', 'medication assistance', ' ', 'healthcare service', ' ', 'pharmaceutical access', '']
-Brightware
-	Developer of eCustomer Assistance software for the Internet. The company\'s products provide automated, self-service assistance to customers through the Internet.
-	['', 'software assistance', ' ', 'eCustomer software', ' ', 'self service assistance', '']
-Andrews Consulting Practice
-	Provider of business software advice and assistance software. The company works closely with Business Objects, Oracle, Microstrategy, Microsoft and IBM, customizing their products to clients’ needs.
-	['', 'business software', ' ', 'assistance software', ' ', 'business advice software', '']
-NewZoom
-	Provider of automated retail services for customers in the United States, Europe and Japan. The company partners with brands and retailers to create and implement custom-branded automated self-service retail shops in high-traffic locations, such as airports, shopping centers, supermarkets, military bases and retail stores.
-	['', 'location procurement', ' ', 'inventory management', ' ', 'logistics management', ' ', 'creative development', ' ', 'account management', ' ', 'project management', ' ', 'automated retail solution', '']
-Discern Communications
-	Developer of automated self-service question answering software for call centers.
-	['', 'self service question', ' ', 'automated self service', ' ', 'answering software', ' ', 'computer telephony', '']
-Vigix
-	Provider of self-service retail kiosks. The company offers self-service, dispensing kiosks for selling products ranging from gift cards to watches.
-	['kisok ', 'product dispensing', ' ', 'self-service', '']
-NativeMinds
-	Provider of Virtual Representatives or vRepsTM, which offers self-service solutions for Web customers. The company\'s software and services are used by organizations to answer product and service inquiries.
-	['vRepsTM ', 'Virtual Representatives', ' ', 'self-service solutions', ' ', 'application software', '']
-Baselabs
-	Developer of software for prototyping of driving assistance systems. The company provides the infrastructure to collect, record and replay sensor data and allows complex sensor data fusion applications.
-	['', 'driver assistance system', ' ', 'software tool', ' ', 'navigation software', '']
-NexTone Communications
-	Provider of software for internet telephone service. The company develops software for use in communications firms to route, manage and control internet telephone calls.
-	['', 'internet software', ' ', 'internet telephone', ' ', 'VOIP', '']
-Besser Betreut
-	Developer of online portal for home care and assistance. The company helps parents, families, pet owners and others to find the help they are looking for along with reliable support and appropriate assistance in their area.
-	['', 'online portal', ' ', 'home care portal', ' ', 'assistance portal', '']
-Apropos Technology
-	Provider of multichannel interaction management application for managing customer interactions across various communications media, including email, fax, Web, and voice. The company\'s products enable on-line customers to interact with businesses over the Internet, through email, or Web collaboration; and also provide access to human assistance through either an interactive Web chat or voice interaction, to help in completing a sale or service transaction.
-	['', 'multichannel interaction', ' ', 'management application', ' ', 'communication media', ' ', 'web collaboration', ' ', 'voice interaction', ' ', 'service transaction', '']
-Telelogue
-	Provider of directory assistance services to telecommunications service providers. The company offers a family of products that address the needs of service providers for automation of directory assistance and provides voice-enabled automation for directory assistance, as well as web-based, real-time access to customized reports which provide analysis of busy hour calls, length of call, the rate of automation, call completion rate and other vital statistics.
-	['']
+Sepro Telecom International
+	Developer and provider of rating and billing software. The company develops rating and billing software for telecommunications and electronic commerce industries.
+	['', 'billing software', ' ', 'electronic commerce', ' rating']
+Danyl
+	Manufacturer of electronic data collection which input to computerized accounting systems. The company also produces self-service electronic transaction systems with magnetic stripe cards.
+	['', 'electronic data collection', ' ', 'electronic transaction', ' ', 'magnetic stripe card', '']
+CheckFree
+	Provider of electronic commerce services. The company provides electronic billing and electronic statement creation, delivery, payment services and also offers electronic commerce, software and investment services.
+	['', 'e-billing', ' ', 'e-commerce', '']
+NetBuy
+	Provider of e-commerce purchasing services. The company provides services for OEMs, contract manufacturers and electronic manufacturing services whose real-time requirements for electronic components typically include small order, shortage and quick-turn manufacturing.
+	['', 'electronic components', ' ', 'purchasing service', ' ', 'contract manufacturers', ' ', 'online purchasing', ' ', 'internet retail', '']
+Alpha Mos
+	Manufacturer and developer of electronic sensing instruments for analyzing the chemical and sensory properties of products. The company\'s electronic noses measure volatile organic compounds (VOC) and odors, electronic tongues analyze the taste of products, vision analyzers evaluate the color and shape and Gas chromatographs analyze the chemical composition of products and coupled with the odor analysis module, can further qualify odor-related compounds.
+	['', 'electronic sensing instrument', ' ', 'electronic nose', ' ', 'electronic equipment', '']
+TeleKnowledge Group
+	Provider of e-commerce services offering customer care and electronic billing. The company provides content commerce platform for fee based services such as customer service and billing applications.
+	['', 'revenue growth', ' billing ', 'electronic billing', '']
+Atrenta
+	Provider of realization services for the semiconductor and electronic systems industries. The company designs and develops a system on chip that pinpoints structural, coding and consistency problems in register transfer language (RTL) and enables users to fine tune testability during RTL creation.
+	['', 'electronic system', ' ', 'electronic equipment', ' ', 'register transfer language', '']
+ShopIgniter
+	Provider of electronic commerce software services. The company\'s social performance marketing platform enables digital marketing leaders to reach and convert their social mobile consumers.
+	['', 'internet retail', ' ', 'electronic commerce', ' ', 'software service', '']
+Profile Systems
+	Developer of product data and supply chain management solutions for business-to-business electronic commerce. The company also offers extensive consulting services, including product data cleanup, supplier enablement/assessment, inventory consulting and overall electronic commerce and supply chain scoping projects.
+	['e-business ', 'supply chain management', ' SCM']
+ShopLocket
+	Provider of electronic commerce platform. The company allows users to create single-item storefronts they can embed on any website.
+	['', 'electronic commerce', ' ', 'link sharing', ' ', 'video embedding', ' ', 'online sale', ' ', 'ecommerce platform', '']
+Fiserv
+	Provider of information management and electronic commerce systems and services. The company\'s services include transaction processing, electronic bill payment and presentment, business process outsourcing, document distribution services and software development.
+	['', 'information management', ' ', 'electronic commerce systems', ' ', 'transaction processing', '']
+PartMiner Worldwide (CAPS Business)
+	Supplier of electronic components for the electronics industry.
+	['', 'electronic component', ' ', 'electronic tool', ' ', 'electronic component database', ' ', 'equipment manufacturer', '']
+Securant Technologies
+	Developer of software solutions that provide a solid, integrated security infrastructure for electronic commerce. The company\'s software enables companies to easily manage a cohesive security policy required when deploying secure electronic commerce applications on the Web or across an Enterprise.
+	['eBusiness ', 'security software', ' ', 'electronic commerce', '']
+Trivnet
+	Provider of mobile payment and mobile commerce services. The company enables payment and commercial services offered by operators and service providers, allowing a rapid rollout of profitable offerings with a minimal investment.
+	['', 'mobile financial service', ' ', 'mobile payment', ' ', 'mobile commerce', ' ', 'mobile money transfer', '']
+ThorpeGlen
+	Provider of electronic surveillance services. The company provides monitoring and tracking systems, data extraction and analytical services for law enforcement agencies.
+	['', 'proactive monitoring', ' ', 'data extraction', ' ', 'homeland security', ' ', 'organized crime', ' faruds']
+EC Cubed
+	Provider of the application components for the business-to-business electronic commerce marketplace. The company provides the cross-application components platform that allow organizations to build electronic-commerce applications.
+	['', 'electronic commerce', ' ', 'cross-application', ' ', 'electronic commerce', '']
+Printechnologics
+	Developer of electronic printed functionalities for the printing industry. The company offers an invisible electronic data tag that transforms paper, cardboard, plastics, films and labels into digital content and enables direct link between online and offline communications.
+	['', 'electronic printer', ' ', 'digital content', ' printer']
+AudeSi Technologies
+	Developer and marketer of smart card based terminals that facilitate electronic commerce in the home and at unattended point of sale sites. The company\'s business strategy is to specify, design and develop its products for license to large scale manufacturing and marketing organizations.
+	['', 'point of sale', ' ', 'electronic commerce', '']
+Tradecom Soluções Empresariais de Comércio Electrónico
+	Provider of electronic commerce services. The company offers an platform for business-to-business electronic commerce services to enterprises in Portugal.
+	['', 'B2b services', ' ', 'electronic commerce', ' ', 'business-to-business e-commerce', '']

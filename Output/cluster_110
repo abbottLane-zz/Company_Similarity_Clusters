@@ -1,30 +1,15 @@
-Chuisy
-	Operator of a social networking platform for sharing shopping decisions. The company offers a social plugin for online shops, Chu Box which enables recommendation marketing and also helps in sharing shopping decisions with friends and customers, and get their feedback. It also offer services to retailers and offline merchants by connecting with customers.
-	['', 'shopping decision', ' ', 'online shopping', ' ', 'fashion application', ' ', 'social shopping platform', '']
-Five Across
-	Provider of social networking and community building technology. The company\'s web platform enables organizations to grow user communities with multimedia experiences.
-	['', 'social content', ' ', 'community building technology', ' ', 'web platform', ' ', 'multimedia experience', '']
-CodeEval
-	Provider of a technical screening platform for the auto evaluation of programming challenges. The company enables employers to identify promising candidates from a crowd of applicants by creating challenges and viewing their live coding submissions and helps freelancers/developers to sharpen their skills by competing with their peers.
-	['', 'hacker platform', ' ', 'recruit developer', ' ', 'technical screening', '']
-Fafarazzi
-	Provider of an entertainment platform. The company provides entertainment news, pop culture games, social forums as well as fantasy celebrity leagues for its users. It brings together the idea of social networking plus celebrities.
-	['', 'social software', ' ', 'entertainment platform', ' ', 'pop culture game', ' ', 'entertainment news', '']
-GenCell
-	Developer of technology that addresses life sciences challenges in genomics and proteomics. The company offers molecular biology with genetics instrumentation to perform protocols and composite liquid cell platform technology for various applications, such as sample extraction and preparation.
-	['', 'molecular biology', ' ', 'genetics instrumentation', ' ', 'liquid cell', '']
-Insoshi
-	Provider of an online open-source social networking platform. The company provides social networking codes to the developers.
-	['', 'source code', ' ', 'networking codes', ' ', 'online services', ' ', 'social networking platform', '']
-SpotLikes
-	Provider of a local business review platform. The company provides a social-local platform for listing, referring and discovering trusted local businesses.
-	['', 'business review', ' ', 'business listing', ' ', 'information service', '']
-Orbius
-	Provider of online social networking services. The company\'s platform is optimized for SEO at the page and application level. It is robust and scalable and is built on a flexible platform that enables rapid development of new features and applications.
-	['', 'social networking', ' ', 'flexible platform', ' ', 'application development', ' ', 'feature development', ' ', 'create content', '']
-Hipster
-	Provider of a web platform for answering questions and queries of users. The company provides social networking services.
-	['', 'web platform', ' ', 'answer provider', ' ', 'query blog', '']
-Bragster
-	Provider of an online entertainment platform. The company provides social networking platform that enables the user perform dares and challenges.
-	['challenge ', 'social network', ' dare']
+Greenvironment
+	Developer of micro-turbine technology.The company offers CHP plants in a power range of 30 kWel to 1 MWel with low maintenance requirements and low emissions.
+	['', 'turbine technology', ', ', 'power plant', ', ', 'biogas', '']
+Wind & Sail Energy
+	Provider of wind-turbine technology. The company\'s technology helps in solving problems associated with propeller-driven turbines.
+	['', 'energy services', '']
+Resteel
+	Provider of services to scrap stream contamination problems. The company provides a total separation technology system based on proprietary technology that helps scrap traders and steel companies increase value from their scrap.
+	['scrap ', 'separation technology', ' extraction ', 'separation technology', '']
+Blade Dynamics
+	Manufacturer of wind turbine rotors, blade components and surface coatings. The company\'s technology enables blades longer than 90 meters that will enable the next generation of turbines, such as the Sea Titan.
+	['', 'wind turbine rotor', ' ', 'blade component', ' ', 'surface coating', ' ', 'wind turbine', '']
+Opsmatic
+	Provider of tools for professional operations. The company\'s technology helps professionals to complete their tasks in a strategic manner thus keeping performance, deployments and downtime under check.
+	['', 'professional operation', ' ', 'workflow software', ' ', 'performance management', '']

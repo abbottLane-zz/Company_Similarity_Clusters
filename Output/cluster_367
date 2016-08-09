@@ -1,36 +1,24 @@
-Actions Semiconductor
-	A fabless semiconductor company which designs, develops and markets integrated platform solutions, including SoCs, firmware, software development tools and reference designs, for manufacturers of portable media players.
-	['']
-RMI Corporation
-	Operator of a fabless semiconductor company. The company provides power-optimized System-on-a-Chip (SoCs) solutions to high-performance processors for the digital consumer, wireless, networking, security, thin clients, and connected multi-media devices market. It offers XLR Processor Family, a processor solution that enables applications, including integrated security, web services, virtualized storage, and load balancing and server offload, as well as content and application aware, and multi-service routing and switching for various infrastructure equipment and enterprise systems; and XLS Processor Family, a multi-core and multi-threaded XLS Processor family that addresses applications that demand smaller form factor and lower power consumption.
-	['', 'fabless semiconductor', ' ', 'semiconductor chips', ' ', 'semiconductor design', '']
-RF Magic
-	Operator of a fabless semiconductor company. The company is a developer of broadband radio frequency systems-on-a-chip. The company applies RF integrated circuit (IC) design, broadband RF systems, and digital communications systems expertise to the development of a diversified portfolio of patented RFIC technologies.
-	['', 'radio frequency', ' ', 'broadband radio', ' RFIC ', 'system on a chip', '']
-EqcoLogic
-	Owner and operator of a fabless semiconductor company. The company designs and develops equalizer and coaxial transceiver products and technologies.
-	['', 'Transceiver circuit', ' ', 'coaxial transceiver product', ' cable']
-RF Solutions
-	Developer of transceiver products for the broadband wireless access market. The company offers initial standard product design that focused on broadband wireless access.
-	['', 'wireless service provider', ' ', 'broadband services', '']
-InnoCOMM Wireless
-	Developer and manufacturer of fabless semicondutor. The company manufacturer fabless semicondutor and develops highly integrated wireless products.
-	['', 'fabless semicondutor', ' ', 'wireless product', ' power']
-BeSang
-	Provider of semiconductor. The company provides fabless semiconductor focusing on developing proprietary 3D integrated circuit technology.
-	['', 'semiconductor', ' ', 'fabless semiconductor', '']
-Douro Azul
-	Owner and operator of river cruise ships on the Douro River in Portugal. The company provides gym, spa, and other amenities, along with lodging, on their vessels. The company has plans to open a hotel as well.
-	['cruise ', 'Cruise ship', ' ', 'cruise vessel', ' ', 'river cruise', ' ', 'luxury cruise', '']
-Stream Processors
-	Operator of fabless semiconductor company. The company develops stream processing architecture that help industrial companies accelerate time to market for their products, while reducing system development costs.
-	['', 'stream processing architecture', ' ', 'cost reduction', ' ', 'fabless semiconductor', ' industry']
-Staccato Communications
-	Provider of ultra-wideband wireless technology for communication applications. The company is a fabless semiconductor company.
-	['', 'wireless technology', ' ', 'communication application', ' ', 'Internet protocol connectivity', '']
-WiQuest Communications
-	Manufacturer of fabless semiconductors for ultra-wideband technologies. The company designs, develops, and supplies ultrawideband (UWB) solutions to PC, consumer electronics, and mobile systems companies. Its solution portfolio includes silicon, software, and manufacturing designs.
-	['semiconductor ', 'fabless semiconductor', ' ', 'ultrawideband technology', ' ', 'consumer electronic', ' ', 'mobile system', ' ', 'manufacturing design', '']
-Tropian
-	Developer of fabless semiconductors for wireless devices. The company develops complex, wireless communications technology, including multi-mode radio transceiver products for the cellular handset market.
-	['', 'wireless communication', ' ', 'fabless semiconductor', ' ', 'wireless devices', '']
+Diktamen
+	Developer of workflow management and resource planning software. The company offers all-in-one dictation and transcription enterprise resource planning system with workflow management and resource planning features for transcription companies and authors.
+	['', 'workflow management', ' ', 'resource planning', ' transcription']
+CyMed
+	Provider of medical transcription and document management services. The company offers workflow management services which enables a department\'s workflow with  hand-helds, bar coding, electronic signature, HIPAA compliant access protocols, audit trails, voice capture systems and transcription software.
+	['', 'medical transcription', ' ', 'workflow management', ' ', 'quality control', '']
+Ascendo System
+	Developer of document and workflow management technologies. The company specializes in electronic invoice management system and also offers other software products for businesses that monitors time-related documents and sets email reminder.
+	['', 'document management', ' ', 'workflow solution', ' ', 'invoice management', '']
+Synchris
+	Provider of bid lifecycle management software for government contractors. The company provides virtual workspace software that integrates communication, collaboration, document management and workflow features into a unified application that integrates with the Microsoft desktop.
+	['', 'bid lifecycle management software', ' ', 'virtual workspace software', ' ', 'document management', ' ', 'task order management', '']
+Probity Medical Transcription
+	Provider of clinical documentation services and integrated technologies to healthcare providers. It provides electronic medical transcription and document management services to the health care industry.
+	['', 'clinical documentation', ' ', 'healthcare integrated technology', ' ', 'electronic medical transcription', ' ', 'document management', '']
+Heartland Information Services
+	Provider of medical transcription services to hospitals and health care systems. The company offers full-service transcription and technical capacity to work with any healthcare information system.
+	['', 'medical transcription', ' ', 'health care', ' ', 'information system', '']
+Sanovia
+	Provider of pharmacy management services. The company focuses on pharmaceutical administration, validation, utilization, cost, workflow management, fraud, abuse management and technology services.
+	['', 'managed care', ' ', 'pharmaceutical administration', ' ', 'PA Logic', '']
+Image Integration SystIems
+	Developer of cost-effective document management services. The company focuses on development, enhancement, maintenance, implementation and support of its docusphere services for accounts payable automation.
+	['', 'information technology', ' ', 'automation service', ' ', 'financial service', '']

@@ -1,54 +1,30 @@
-SaltCheck
-	Developer of a technology to monitor salt intake for the control of hypertension and congestive heart failure. The company develops the technology for self-monitoring by people used in doctor offices, clinics and for home use worldwide.
-	['', 'salt intake', ' monitor  hypertension ', 'congestive heart failure', ' ', 'urine spot test', '']
-CircuLite
-	Developer of miniature blood pumps for the long-term treatment of chronic heart failure. The company provides synergy pocket circulatory assist device, which is designed to rest a failing heart by supplementing its natural function.
-	['', 'blood pump', ' ', 'miniature pump', ' ', 'heart failure', ' ', 'Circulatory assist device', '']
-MitralSolutions
-	Developer of implantable devices that repair heart valve abnormalities.  The company develops implantable devices for cardiac valve repair. The company offers an adjustable surgical device that custom fits to each patient’s anatomy and can be tuned under beating heart conditions to eliminate valve leakage.
-	['', 'implantable devices', ' ', 'heart valve', ' ', 'cardiac valve', ' ', 'adjustable surgical device', '']
-InflammaGen
-	Developer of treatment, assay and lavage to treat and diagnose multiple organ dysfunction syndrome (MODS), formally known as multi-organ failure.
-	['', 'dysfunction syndrome', ' ', 'surgical devices', ' ', 'multi-organ failure', ' ', 'inflammatory mediator', '']
-CardioOptics
-	Developer of catheter-based systems for minimally invasive treatment for heart failure and various cardiovascular diseases. The company offers sinus access system that allows physicians to see through flowing blood, and look directly at heart and blood vessel anatomy and tissue; and implant biventricular pacemaker leads to treat heart failure. Its system includes the a forward-viewing infrared steerable catheter; and image acquisition console, a digital touch-screen control monitor, which includes a camera pod containing an infrared camera that sends siteseekir images from catheter tip to the monitor.
-	['', 'minimally invasive treatment', ' ', 'heart failure treatment', ' ', 'cardiovascular disease treatment', ' ', 'sinus access system', ' ', 'biventricular pacemaker', ' ', 'infrared steerable catheter', ' ', 'image acquisition console', ' pacemaker catheter']
-Cornovus Pharmaceuticals
-	Developer of methods to treat cardiac hypertrophy and heart failure. The company develops a technology that helps to delay the onset of heart failure after a heart attack or injury.
-	['', 'cardiac attack', ' ', 'cardiac hypertrophy', ' ', 'heart failure', ' ', 'heart injury', '']
-Viacor
-	Developer of catheter-based techniques for the treatment of heart valve disease contributing to congestive heart failure. The company develops percutaneous therapies for cardiac valve repair; and a minimally invasive cardiac valve repair system to treat congestive heart failure patients afflicted with mitral regurgitation or leaky mitral valves.
-	['', 'heart treatment', ' ', 'heart valve disease', ' ', 'heart failure', ' ', 'percutaneous therapy', '']
-3F Therapeutics
-	Developer, manufacturer, and marketer of cardiovascular devices for patients with unmet clinical needs in the United States. The company\'s products include Aortic Bioprosthesis, a biological replacement aortic heart valve to maintain flow characteristics after implant. It\'s products under development includes Invasive and Transapical Aortic heart replacement technology, including Enable Aortic Heart Valve, Entrata Aortic Valve system, and Endurance Valve System to reduce surgical cross-clamp and cardio-pulmonary bypass time, utilization for congestive heart failure in patients with right heart failure symptoms, and to replicate the natural mitral apparatus.
-	['', 'cardiovascular device', ' ', 'aortic heart valve', ' ', 'heart failure', ' ', 'cardio pulmonary bypass', ' ', 'heart implantation', '']
-Ample Medical
-	Manufacturer of endovascular medical devices for repairing heart valves. The company develops medical devices that treat vascular heart diseases and congestive heart failures. Its first product, the PS3 System, targets percutaneous repair of mitral valve regurgitation associated with congestive heart failure (CHF).
-	['', 'healthcare services', '']
-Berlin Heart
-	Developer, producer and marketer of innovative devices for mechanically supporting the heart. The company offers INCOR, the implantable axial pump.
-	['', 'innovative device', ' ', 'implantable axial pump', ' ', 'heart support', ' ', 'heart device', ' ', 'heart surgery', ' heart']
-Kyma Medical Technologies
-	Developer of remote patient monitoring solution for congestive heart failure patients. The company\'s device consists of a small patch attached to the patient\'s torso, and transfers the data wirelessly to a remote center through a gateway device such as a smart-phone.
-	['', 'patient monitoring', ' ', 'chronic heart patients', ' ', 'wireless remote', '']
-Endocardial Solutions
-	Developer and manufacturer of diagnostic and therapeutic tools used to treat atrial fibrillation. The company develops products for diagnostic mapping of complex arrhythmias (abnormally rapid heartbeats caused by irregular electrical activity in the heart), the integrated system provides a 3D graphical display of the heart\'s electrical activity.
-	['', 'therapeutic device', ' ', 'diagnostic equipment', ' ', 'atrial fibrillation', ' arrhythmias ', 'heart disease', '']
-Cardio Life Research
-	Provider of cardiac surgery devices. The company designs and develops self-guided endoscopic aortic clamping systems, self adjusting atrial retractors and self suturing puncture devices, for heart valve surgery.
-	['', 'heart valve surgery', ' ', 'cardiac surgery devices', ' ', 'aortic clamping systems', ' ', 'atrial retractors', ' ', 'puncture devices', ' ', 'surgical devices', '']
-AngioGuard
-	Developer of embolic containment technology. The company has developed containment technology designed to protect the heart and brain from embolic particles potentially dislodged during interventional medical procedures.
-	['', 'embolic containment technology', ' ', 'heart surgery', ' ', 'embolic particle protection', '']
-Corthera
-	Developer of therapies for illnesses in the acute care setting. The company\'s product Relaxin, which is developed from a naturally occurring polypeptide hormone, is used to treat acute decompensated heart failure.
-	['therapy treatment illness ', 'care setting', '']
-MicroMed Cardiovascular
-	Supplier of medical devices mainly for cardiac support. The company offers devices that increases the cardiac output of a failing heart and also act as a bridge to human heart transplant and destination therapies.
-	['', 'monitoring devices', ' ', 'medical devices', '']
-Cardiola
-	Developer of therapeutic systems to treat heart failure. The company offers a treatment system for heart failure treatment in patient settings and hospital based treatment regimens.
-	['', 'treatment system', ' ', 'therapeutic system', ' ', 'heart failure treatment', '']
-CardioPolymers
-	Developer of an implantable device for treating congestive heart failure. The company provides biocompatible polymer implant therapies to handle chronic heart failure, mitral valve regurgitation, and post-operative atrial fibrillation.
-	['', 'biocompatible polymer implant', ' ', 'medical device', ' ', 'heart problem', '']
+TeraVicta Technologies
+	Manufacturer of micro electro mechanical systems for a broad range of RF and microwave applications. The company develops semiconductor components that manage the radiofrequency (RF) signals used by electronic products from automatic test equipment to wireless handsets.
+	['', 'radio frequency', ' ', 'wireless handsets', ' ', 'semiconductor component', '']
+Virtus Advanced Sensors
+	Developer of MEMS (Micro Electro-Mechanical Systems) multi-axis inertial sensors. The company develops multi-axis inertial sensors, including accelerometers, gyroscopes and integrated motion sensors.
+	['nanotechnology ', 'multi-axis inertial sensor', ' ', 'micro electro-mechanical system', ' accelerometer ', 'integrated motion sensor', '']
+Global Metro Networks
+	Provider of building and fiber optic communications networks in metropolitan commerce centers in the United States and internationally. The company\'s bandwidth communications infrastructure connects various telecommunication-intensive locations, such as local switching offices, carrier points-of-presence, ISPs, commercial buildings and high technology office parks.
+	['', 'fiber optic communication', ' ', 'fiber optic cable', ' ', 'fiber optic network', '']
+Touchdown Technologies
+	Manufacturer of advanced Micro-Electro-Mechanical Systems (MEMS) probe cards.
+	['', 'Micro Electro Mechanical System', ' ', 'MEMS probecard', ' ', 'Device Manufacturing', '']
+GalayOr Networks
+	Manufacturer of optical networking products. The company offers on-chip integrated micro opto-mechanical systems for communications equipment vendors and datacom vendors.
+	['', 'optical components', ' datacom ', 'Micro Opto-Mechanical Systems', ' ', 'optical switching', '']
+Exajoule
+	Designer of Micro-Electro-Mechanical Systems (MEMS) technology for the projection display markets. The company has early patents in the micromirror technology architecture space.
+	['', 'display market', ' ', 'electro-mechanical system', ' ', 'micromirror technology', ' nanotechnology']
+Primary Access
+	Provider and supplier of integrated remote access systems. The company\'s products are used by providers of data networks, including long-distance and local carriers, on-line information services, cellular carriers, transaction processors and corporations.
+	['', 'remote access', ' ', 'cellular carriers', ' ', 'data networks', '']
+Optical Micro Machines
+	Supplier of photonic switching subsystems based upon MEMS technology (micro electro-mechanical systems). The company\'s products enable communications equipment manufacturers to build the of fiber-optic switching systems for the long haul, metropolitan and local access segments of the global communications network.
+	['switching ', 'communications equipment', ' fiber-optic']
+Elmicron
+	Manufacturer and developer of micro-mechanical components for technical applications. The company offers precision electro-forming and engineering specialized for micro-technological applications.
+	['micromechanical engineering ', 'technical applications', '']
+MMC Networks
+	Manufacturer of network processors and switch fabrics. The company’s products include EPIF, XPIF, and GPIF Packet Processors; nPX5400 Gigabit Ethernet switching engine; ATMS 2000 ATM switching engine; and PS 1000 Fast Ethernet switching engine.
+	['', 'network processor', ' ', 'packet processor', ' ', 'switching engine', ' ', 'manufacturing company', '']

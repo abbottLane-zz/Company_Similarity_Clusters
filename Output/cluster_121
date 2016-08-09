@@ -1,18 +1,24 @@
-Portaga
-	Provider of an online tool for booking business travel. The company also provides business travel booking and management platform in partnership with air, car and hotel companies, as well as with software-as-a-service and other web distribution partners.
-	['', 'travel services', ' ', 'online business', ' ', 'hotel booking', '']
-Aero IQ
-	Provider of software services for the airline and travel industry. The company focuses on solving scheduling and logistical problems due to patented technologies in the area of Type III systems theory.
-	['', 'software service', ' ', 'travel industry', ' ', 'airline industry', ' ', 'logistical problem', ' ', 'scheduling problem', '']
-Rocket Travel
-	Provider of a hotel-booking website offering free airline miles as a booking incentive. The company offers an airline-mile stockpiling program, for users making multiple bookings.
-	['', 'hotel booking site', ' ', 'booking hotel room', ' ', 'free vacation', ' ', 'online vacation', ' ', 'hotel booking', ' ', 'frequent flier program', '']
-CSafe (acquired October 2012)
-	Provider of mobile refrigeration units for the life sciences, healthcare, military and international disaster relief agencies. The company provides a full line of cold chain services including packaging, passive systems, active systems, with both airline and non-airline approval.
-	['', 'mobile refrigeration', ' refrigeration ', 'cold chain', ' ', 'chain services', ' ', 'Containers and Packaging', '']
-FastBooking
-	Provider of online booking and electronic marketing services for the hospitality industry. The company designs and develops hotel websites, online marketing programs, Internet-enabled direct hotel website bookings, online marketing for hotel websites, consumer portals and integration with third-party consumer booking websites.
-	['', 'electronic marketing', ' ', 'internet ticket booking', ' ', 'website development service', ' ', 'marketing program', '']
-Leisurehunt.com
-	Provider of online hotel booking services to the general public and small businesses. The company has positioned itself as a B2B provider of online accommodation services.
-	['', 'online hotel booking', ' holiday ', 'resort booking', ' travel ', 'holiday package', ' ', 'travel booking', '']
+Rogue Resolutions
+	Provider of equipment and services to the researchers and clinicians in the neurology sector. The company provides integrated services to the neuroscience sector for the purpose of neuromodulation, neurofeedback and brain imaging.
+	['neurology ', 'brain imaging', ' neurofeedback']
+Edge Therapeutics
+	Provider of therapeutic products for acute, fatal and debilitating medical conditions. The company develops implantable technology for direct delivery of therapeutic compounds to the site of brain injury.
+	['', 'healthcare service', ' ', 'biotechnology service', ' ', 'hospital product', '']
+CTF Systems
+	Provider of cortex magnetoencephalography (MEG) systems. The company focuses on functional brain mapping, epilepsy localization, diagnostics in stroke recovery and fetal neurological assessment.
+	['', 'magnetoencephalography system', ' ', 'brain mapping', ' diagnostic']
+SAGE Therapeutics
+	Operator of a biopharmaceutical company developing novel medicines to treat central nervous system (CNS) diseases. The company offers medicines to patients with schizophrenia, major depressive disorder, pain and traumatic brain injury conditions, for multiple sclerosis, autism and anesthesia.
+	['', 'central nervous system', ' ', 'traumatic brain injury', ' ', 'depressive disorder', '']
+Xytis
+	Developer of central nervous system (CNS) drug candidates. The company is assembling a pipeline of innovative compounds with validated mechanisms of action, addressing major unmet clinical needs in CNS fields such as Schizophrenia, Traumatic Brain Injury, Depression, Anxiety, or Insomnia. It has two clinical stage compounds in development and operates from the USA, UK and Switzerland.
+	['', 'central nervous system', ' ', 'nervous system disorder', ' ', 'cognition enhancement', ' ', 'schizophrenia treatment', '']
+Cardiac Support Systems
+	Operator of innovative factory. The company operates as a licensee of a technology to treat patients suffering from ventricular fibrillation.
+	['', 'ventricular fibrillation', ' ', 'innovative factory', ' ', 'technology licensee', ' ', 'patient care', '']
+Intelect Medical
+	Developer of deep brain stimulation (DBS) therapies and technology for patients suffering with disabilities from stroke and traumatic brain injury. The company focuses on developing an implantable neuromodulation system for stroke and traumatic brain injury recovery.
+	['', 'deep brain stimulation', ' ', 'brain injury treatment', ' ', 'neuromodulation system', '']
+Neurolutions
+	Provider of devices, based on Brain Computer Interface (BCI) technology. The company focuses on restoring function to patients who are disabled as a result of neurological injury.
+	['', 'computer interface technology', ' ', 'neurological injury', ' ', 'neurological treatment', ' ', 'mobility device', '']

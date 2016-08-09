@@ -1,9 +1,24 @@
-Caelux
-	Operator of a solar-cell designing company. The company designs and develops solar-cell manufacturing process that minimizes the amount of used semiconducting material.
-	['solar-cell semiconductor ', 'solar device', '']
-Trony Solar
-	Producer of thin-film solar energy modules. The company is an amorphous silicon thin film solar cell manufacturer and service provider in China.
-	['', 'solar energy module', ' ', 'solar cell', ' ', 'silicon thin film', '']
-Surfect Technologies
-	Manufacturer of semiconductor equipment. The company provides metallization, interconnect and module process for solar cell, light emitting device (LED) and power management applications. It also develops and commercializes patented automated electroplating deposition tools, which apply single metal or multi-metal stacks on solar cells and modules through single chamber electroplating process.
-	['']
+Ixi Mobile
+	Developer of data centric wireless mobile devices and services for mass market users. The company provides end-to-end software and hardware reference designs which it claims creates a new category of mobile devices.
+	['', 'communication server', ' ', 'wireless communication service', ' ', 'mobile device', ' ', 'data centric', '']
+Pulse Technologies
+	Provider of home and building automation softwares. The company provides a software platform that can be adapted from home automation to smart cities, from smart metering to intelligent appliances, and from stand-alone devices to cloud-connected services. The company also offers hardware-reference designs to clients wanting to incorporate the company’s technology into their own products.
+	['', 'vertical market', ' ', 'software service', '']
+13th Lab
+	Developer of next generation computer vision platform for mobile devices. The company is developing three dimensional Tracking and Mapping (SLAM) implementation process to consumer devices through Ball Invasion.
+	['', 'mobile computer vision', ' ', 'three dimensional tracking', ' ', 'three dimensional mapping', '']
+Zamba
+	Provider of wireless mobile data communication services. The company provides mobile data communication software products and various services including professional services, systems integration, training, and end-to-end mobile network system support for organizations in the transportation, field service, sales or order entry and utility markets..
+	['', 'information system', ' ', 'data communication', ' ', 'mobile data', '']
+Sense
+	Developer of devices for cardiovascular diagnostics. The company\'s technologies creates new possibilities for measurements of blood pressure.
+	['cardiovascular ', 'blood pressure', '']
+WorkLight
+	Developer of HTML5, hybrid and native applications for smartphones and tablets with industry-standard technologies and tools. The company provides flexible mobile IDE, next-generation mobile middleware, end-to-end security and integrated management and analytics.
+	['HTML5 smartphone tablet ', 'mobile IDE', ' ', 'integrated development environment', ' ', 'mobile middleware', ' MEAP ', 'mobile enterprise application platform', '']
+DN2K
+	Developer of a software-based system that can remotely monitor, display and control important assets. The company provides a software that aggregates business data into a single graphically-rich visualization that is displayed on mobile devices.
+	['', 'remote monitoring', '  ', 'critical asset management', ' ', 'Software-as-a-Service', ' ', 'mobile device', '']
+ClearWater Data
+	Provider of services addressing the challenges of dealing with massive data flow volumes. The company provides a data-centric architecture enabling the ingestion of billions of daily transactions.
+	['', 'software development', ' ', 'data flow management', ' ', 'data-centric architecture', '']

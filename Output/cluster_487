@@ -1,24 +1,27 @@
-Foodik.ru
-	Provider of an online food ordering service in Russia. The company provides convenience to customers and new degree of automation to restaurants.
-	['restaurants ', 'food joints', ' automation']
-Applied Digital Access
-	Provider of network performance management solutions to telecommunications service providers. The company focuses on systems, software and services that manage the performance, quality, reliability and availability of telecommunications service provider\'s networks.
-	['', 'telecommunications service', ' ', 'Network Performance Management', '']
-Synterra
-	Provider of telecommunications service in Russia. The company\'s WiMax service provides offices with internet access and joins local area networks without cable lines.
-	['', 'telecommunications services', ' ', 'local area networks', ' ', 'internet access', '']
-Green Packet
-	Provider of mobile internet software for secure network access. The company provides service such as Wireless Local Area Network (WLAN)-cellular integration, roaming and instant community networks.
-	['', 'mobile networks', ' ', 'wireless network', ' mobile connectivity']
-Xyplex
-	Developer and marketer of distributed network processing equipment. The company offers communications processors for local-area networks (LANs) and wide-area networks (WANs) integrating Digital Equipment systems with systems from other manufacturers to increase the overall system performance.
-	['LAN WAN ', 'network processing equipment', '']
-TransNet International
-	Provider of telecommunication reselling services. The company purchases telecommunications services from another telecommunications service provider and then resells, uses as a component part of or integrates the purchased services into a mobile telecommunications service.
-	['', 'telecom reseller', ' telecommunication ', 'retail outlet', '']
-Stellaris Networks
-	Provider of wireless local area networks for enterprise customers. The company engages in technology development and product implementation of Wi-Fi based wireless local area networks.
-	['', 'wireless local area networks', ' WLAN 802.11']
-Compatible Systems
-	Provider of a full line of standalone VPN Access Servers for enterprise and carrier applications. The company designs, manufactures and markets a full line of inter connectivity products for Internet access, private Wide Area Networks (WANs) and local intranet-works.
-	['VPN', 'VPN Access Servers', ' ', 'VPN technologies', '']
+Mozy
+	Provider of online backup system for Windows and Mac users. The company provides service to up data continuously, manually or schedule updates.
+	['', 'online backup', ' ', 'manual backup', ' ', 'backup storage space', ' ', 'remote backup', '']
+Parascale
+	Developer of cloud software for servers. The company also provides video-on-demand, document archive, online backup and video surveillance solutions.
+	['', 'cloud software', ' ', 'server software', ' ', 'online backup', ' ', 'video surveillance', '']
+BackupAgent
+	Developer of online backup recovery software. The company\'s software enables its clients to offer a backup service to their customers, as well as enables its clients to make backups over the internet in their backup servers.
+	['', 'backup recovery', ' ', 'backup service', ' ', 'online backup', '']
+ReTel Technologies
+	Provider of video surveillance analysis for stores and restaurants. The company uses security camera feeds to deliver metrics and data such as table cleanliness, service times and employee activities.
+	['', 'video auditing', ' ', 'raw surveillance video', ' ', 'interactive report', '']
+Flimmer
+	Developer of a platform for viewers to watch movie trailers. The company\'s platform allows viewers to watch the latest trailer from Cinema, DVD & Blu-Ray and Video On Demand and reward them for their attention with movie tickets or DVD/Video on Demand Coupons.
+	['', 'watch film trailer', ' ', 'photography platform', ' ', 'video on-demand', '']
+NextIO
+	Developer of chips for computer servers. The company offers protocol agnostic solution, which supports server I/O technologies, including Ethernet, fiber channel, InfiniBand, iSCSI and SAS.
+	['', 'computer chip', ' ', 'computer server', ' ', 'agnostic solution', ' ', 'protocol agnostic', ' ', 'I/O technology', '']
+Intransa
+	Provider of appliance platform products. The company offers appliances and products for video surveillance, industrial video, access control, video analytics and other physical security needs.
+	['', 'video surveillance', '']
+GeoMetrix
+	Provider of biometric identity management solutions. The company provides solutions to access control for corporate facilities. The company also offers biometric cameras that acquires facial biometrics in 3D formats which is widely designed for commercial, defense, Government, gaming and video surveillance.
+	['', 'biometric cameras', ' ', 'employee tracking', ' ', 'identification management', ' ', 'video surveillance', '']
+Prescreen
+	Provider of social discovery video-on-demand platform designed to promote and showcase premium content. The company provides a daily movie service that presents films to a community of movie lovers.
+	['', 'video-on-demand', ' ', 'premium content', ' ', 'premium movie', ' ', 'daily movie service', '']

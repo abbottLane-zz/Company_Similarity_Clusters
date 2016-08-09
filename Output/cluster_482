@@ -1,12 +1,30 @@
-Exeros
-	Operator of a data relationship discovery and management company. The company offers solutions for data integration projects, including data migration, sensitive data governance, master data management, and ETL migration.
-	['', 'data relationship discovery', ' ', 'data integration', ' ', 'data migration', '']
-Mobilespan
-	Provider of remote access platform for personal devices. The company provides Bring Your Own Device (BYOD) technology that enables a company’s workforce to work from anywhere, on any device, while remaining integrated with existing management systems and fully compliant with data governance standards.
-	['', 'data governance', ' ', 'remote access', ' ', 'personal device', ' ', 'mobile device', '']
-Softek
-	Provider of vendor-independent data migration software. The company enables to see, move and recover data, with full customer choice, regardless of server platform or storage vendor. It offers a family of host-based enterprise data migration software, utilizing synchronous, asynchronous and point-in-time copy replication technologies.
-	['', 'data migration', ' ', 'non disruptive data', ' ', 'data replication', ' ', 'disaster recovery software', '']
-Evident Software
-	Operator of a data relationship discovery and management company. The company offers services for data integration projects, including data migration, sensitive data governance, master data management and ETL migration.
-	['', 'data migration', ' ', 'data relationship discovery', ' ', 'data lineage', '']
+Paragon Wireless
+	Operator of online mobile store. The company offers mobile phones and mobile accessories, including mobile phone cases, chargers, headsets and memory cards.
+	['', 'mobile accessories', ' ', 'online mobile shop', ' ', 'mobile games', '']
+PhoneAndPhone
+	Provider of online retail. The company sells a range of mobile phones with or without subscription and mobile accessories.
+	['', 'online retail', ' ', 'online services', ' ', 'online purchase', '']
+MobilGiganten
+	Operator of an online store for mobile phones. The company provides ecommerce retail and distribution services for mobile phones and accessories, and also offers other mobile services.
+	['', 'mobile phone', ' ', 'mobile accessories', ' ', 'mobile retailer', '']
+Firefly Mobile
+	Developer and seller of mobile phones and accessories. The company also provides airtime services and offers accessories such as wall chargers, universal serial bus cables, stereo headsets, batteries and car chargers for teenagers.
+	['', 'mobile phones', ' ', 'airtime services', '']
+Qype
+	Provider of a consumer review website for goods and services in Europe. The company offers the review service in nine languages and more than 160,000 cities and towns worldwide. The service is available online and through a mobile application.
+	['', 'consumer review', ' ', 'review website', ' ', 'internet software', '']
+Coveroo
+	Producer of custom cell phone covers and cases. The company develops back cover on the mobile phones, MP3 players, or gaming devices with custom artwork or text.
+	['', 'cell phone cover', ' ', 'device art', ' ', 'customized phone-cover', ' ', 'cover personalization', ' ', 'custom art-work', '']
+VuCast Media
+	Developer of technology to create private wireless data broadcasting networks over unused licensed RF spectrum in existing frequencies. The company offers mobile device technology to wirelessly broadcast rich media content to e-readers, media players and mobile phones; digital display services to simultaneously deliver images, audio and video to home, office and retail picture frames, monitors and outdoor displays.
+	['', 'wireless data broadcasting', ' ', 'broadcasting network', ' ', 'content management', ' ', 'disaster management', '']
+Dmailer
+	Provider of portable back up and synchronization software services for a mobile devices. The company provides backup services to mobile device including USB flash drives, memory cards, external hard disk drives, mp3 players, embedded phone memory, SIM cards and flash based memory cards for mobile phones.
+	['', 'backup service', ' ', 'portable storage device', ' backup ', 'data backup software', '']
+Iqua
+	Developer of wireless accessories for mobile communications market. The company develops handsfree headsets and other mobile accessories for personal, active or professional use.
+	['', 'wireless accessory', ' ', 'handsfree device', ' headset']
+FlipSwap
+	Provider of mobile phone trade-in and recycling services. The company engages in the online trade of cell phones and recycles unusable phones in the United States.
+	['', 'mobile phone trade', ' ', 'online phone trading', ' ', 'unusable phone recycling', ' ', 'electronics recycling', ' ', 'electronic buy back', ' ', 'phone trade', ' ', 'wireless device', ' ', 'wireless phone reuse', ' ', 'cellphone recycling', '']

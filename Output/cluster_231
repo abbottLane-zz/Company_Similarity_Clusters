@@ -1,12 +1,30 @@
-IDEC Pharmaceuticals
-	Developer of products for the treatment of cancer and autoimmune diseases. The company was founded with the intent of developing and commercializing monoclonal antibodies. The company looks to find patient specific approaches in treating non-Hodgkin\'s lymphoma.
-	['', 'cancer and autoimmune disease', ' ', 'treating lymphoma', ' ', 'patient specific', ' ', 'monoclonal antibody', '']
-Sensorbit Systems
-	Developer of vapor-sensing technology. The company is developing and commercializing a technology capable of detecting trace amounts of complex chemical vapors within seconds. The company plans to utilize this technology for sensor integration into cell phones and other portable devices, as well as the construction of small portable self-contained units in forms such as badges, buttons, and tags
-	['chip ', 'chemical vapour', ' ', 'vapor sensing', ' ', 'sensor-on-chip', '']
-Affimed Therapeutics
-	Developer of unique TandAb antibody therapeutics for cancer and inflammatory diseases. The company offers anticancer drug candidates, including AFM13, a bispecific and tetravalent human antibody to treat Hodgkin Lymphoma, AFM11 and AFM15 for the treatment of Non-Hodgkin Lymphoma and autoimmune diseases.
-	['', 'inflammatory diseases', ' antibody Lymphoma']
-BioInvent
-	Developer of antibody-based drug therapies for the treatment of cancer. The company has a pipeline of three proprietary antibodies focused on treatment for multiple myeloma, non-Hodgkin lymphoma and medulloblastoma.
-	['', 'antibody drugs', ' ', 'drug developer', ' ', 'multiple myeloma', ' ', 'non-Hodgkin lymphoma', '']
+InovisProject
+	Manufacturer and developer of multilayer coatings. The company specializes in the production of coated products for the production of films for cameras.
+	['', 'industrial coating', ' ', 'film coating', ' ', 'multilayer coating', '']
+Big Frame
+	Provider of media production and marketing services. The company creates video advertising campaigns.
+	['', 'media production', ' ', 'marketing service', ' ', 'video campaign', '']
+Ocean Films
+	Provider of financial services to the film industry. The company primarily engages in the production of films and documentaries.
+	['', 'movie producer', ' ', 'film producer', ' ', 'film production', ' ', 'movie production', ' documentary']
+The Worx Production House
+	Provider of media and production services. The company facilitates and co-ordinates productions for the photographic stills industry.
+	['', 'media service', ' ', 'production service', ' ', 'media provider', '']
+Matsutake
+	Operator of a Matsutake mushrooms developing company. The company commercialization of a production method for Matsutake mushrooms.
+	['', 'Matsutake mushroom', ' mushroom ', 'Cantharellus cibarius', '']
+Skyline Entertainment
+	Owner and operator of a television production house. The company produces fiction and non-fiction programmes.
+	['', 'television production', ' ', 'production house', ' ', 'cinema films', ' ', 'TV series', '']
+Digidesign
+	Manufacturer of digital audio workstations. The company offers products for the music, broadcast, multimedia and film industries. The company\'s flagship product was Pro Tools, a software suite designed in variations for professional recording studios, home users and post-production users.
+	['', 'digital audio workstation', ' ', 'digital recording', ' ', 'audio production systems', ' ', 'multimedia software', '']
+Ibisa Televisión
+	Operator of a media production house. The company is a creator of TV docudramas and documentaries. It oversees all phases of film production, from concept to script, shooting, post production and broadcasting.
+	['', 'television series', ' documentaries ', 'production and distribution', '']
+Habit Industries
+	Provider of an application for creating online animations. The company provides backgrounds in animation and offers services for new media promotions, video games, graphic design, and film production.
+	['', 'online animation', ' ', 'animation background', ' ', 'graphic design', '']
+Infinia es
+	Provider of production and post-production services for the advertising, film and television markets.The company offers the industry sets, mobile post-production facilities and everything needed for the purpose of the production of any event or TV spot.
+	['', 'production services', ' ', 'post-production services', ' ', 'sets and facilities', ' ', 'film and television market', '']

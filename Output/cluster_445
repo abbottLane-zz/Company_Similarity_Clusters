@@ -1,21 +1,15 @@
-Kiala
-	Provider of collection points network in Europe. The company offers technological platform, which automates all transportation and delivery activities and helps provide collection points network for the delivery of parcels to end-consumers.
-	['', 'collection point network', ' ', 'technological platform', ' ', 'delivery point', ' ', 'logistic solution', ' ', 'home delivery', '']
-Dinamundo
-	Provider of a social check in service that rewards users who check in to other people with jokes and comedy.
-	['', 'social content', ' ', 'information application', '']
-Rehab Associates
-	Provider of physical and occupational therapy services in owned and managed free-standing clinics and hospital departments. The company operates 37 points of service throughout the states of Alabama, Colorado, Georgia, Illinois and Missouri.
-	['', 'therapy service', ' ', 'free-standing clinics', ' ', 'occupational therapy', ' ', 'managed free-standing', '']
-Topguest
-	Provider of geolocation services that link loyalty points programs with geo check-in applications. The company\'s solutions provide rewards program points for check-ins.
-	['', 'loyalty point program', ' geolocation']
-WPL Group
-	Provider of a shopping-loyalty program.The company rewards engaged couples for their spending as they shop for their wedding day, as well as points generated in their name by their family and friends. The couple then redeems their points for a variety of products, including appliances, televisions and honeymoon travel.
-	['', 'loyalty program', ' ', 'wedding merchandise', ' ', 'reward program', ' wedding ', 'newly engaged couple', '']
-SaveUp
-	Developer of reward program for personal savings. The company offers an online rewards program for users to save money and pay their debt while earning credits to play for prizes.
-	['', 'online game', ' ', 'online reward', ' ', 'debt payment', '']
-Hyperpublic
-	Developer of an open database and platform of people, places, deals and events tied to a specific location. Anyone can add objects to the database and developers are able to build applications on top of the data. The data includes recent check-ins, daily deal aggregations and reviews.
-	['', 'geo local platform', ' ', 'location application', ' ', 'location database', ' ', 'location-based search', ' ', 'location-based', '']
+Nelson House
+	Operator of a mental rehabilitation hospital. The company offers care and treatment to male patients aged between 18 and 65.
+	['', 'rehabilitation hospital', ' ', 'mental health', ' ', 'male patients', '']
+Schick Shadel Hospital
+	Operator of an addiction treatment hospital. The company provides alcohol, drug, oxycontin, methamphetamine, marijuana, cocaine treatment programs, as well as offers dietary services.
+	['', 'addiction treatment', ' ', 'alcohol treatment program', ' ', 'drug treatment', ' ', 'dietary service', '']
+DrugAbuse Sciences
+	Developer of novel therapies for alcohol and drug abusers. The company develops and commercializes novel therapies for the treatment of alcohol and drug addictions.
+	['', 'treatment for alcoholic', ' ', 'drug based treatment', ' ', 'pharmaceutical service', '']
+Eco-Solids International
+	Developer of technologies for organic residue treatment. The company develops and commercializes technologies for waste treatment with a particular focus on treatment of sewage sludge to improve their stability and decrease pathogen content.
+	['', 'waste treatment', ' ', 'sewage sludges', ' pathogen ', 'environmental processing technology', '']
+Cardiola
+	Developer of therapeutic systems to treat heart failure. The company offers a treatment system for heart failure treatment in patient settings and hospital based treatment regimens.
+	['', 'treatment system', ' ', 'therapeutic system', ' ', 'heart failure treatment', '']

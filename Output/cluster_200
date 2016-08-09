@@ -1,30 +1,27 @@
-Frog AGV Systems
-	Developer of navigation hardware and software products. The company develops, produces and sells guidance and control systems for freely moving, electronically controlled vehicles.
-	['', 'navigation software', ' ', 'navigation hardware', ' ', 'guidance and control  systems', ' ', 'electronically controlled vehicles', ' ', 'automated guided vehicle systems', ' AGV navigation']
-Basil Corporation
-	Manufacturer of specialized equipment for the laboratory and scientific markets. The company makes laboratory washing equipment and devices.
-	['', 'laboratory equipment', ' ', 'scientific devices', ' ', 'medical equipment', '']
-Bio-Gate
-	Provider of silver technology to endow materials and products with antimicrobial properties. The company provides protection for the surfaces of medical implants and instruments against bacterial contamination.
-	['', 'silver technology', ' ', 'silver plating', ' ', 'silver coating', ' antimicrobial ', 'Surgical Device', '']
-CSM Instruments
-	Provider of laboratory instruments. The company develops, produces and sells laboratory instruments for the characterization of mechanical properties on material surfaces at the micro and nano scales.
-	['', 'laboratory instrument', ' ', 'industrial product', ' ', 'commercial product', '']
-Singular ID
-	Provider of tagging services to combat counterfeiting and forgeries. The company provides an integrated anti-counterfeiting technology called Enxure, an enterprise-brand security system that uses magnetic tagging. It also offers a consultancy service for adopting nanotechnology, anti-counterfeiting and brand-protection instruments. The company was spun out of IMRE.
-	['', 'barcode labels', ' ', 'database integration', ' scanners authentication anti-counterfeiting']
-Laboratorio de Ensayos ICIM LAB
-	Provider of laboratory and test certification services. The company provides research and consulting services for calibration and adjustment of instruments and equipments.
-	['calibration ', 'research and consulting', ' ', 'quality testing', '']
-NMDG Engineering
-	Developer of software for measuring instruments. The company assists research and developemnt, design, test engineers and instrumentation manufacturers who need to characterize active components and circuits under realistic conditions, especially in nonlinear mode of operation.
-	['', 'measuring instruments', ' ', 'instrumentation manufacturers', ' ', 'measuring software', ' instruments']
-AMSCO Scientific
-	Developer of scientific capital equipment. The company specializes in industrial and laboratory sterilizers, laboratory glassware and animal care washing equipment, absolute barrier isolators and sterility assurance products and supplies.
-	['', 'medical equipment', ' ', 'barrier isolator', ' ', 'pharmaceutical production', '']
-Bencar
-	Provider of positron emission tomography facilities. The company offers laboratory facilities for radiopharmaceutical production under cGMP condition.
-	['', 'positron emission tomography', ' radiopharmaceutical radio tracers labs']
-RedPath Integrated Pathology
-	Provider of support services for oncology cases. The company operates as a reference laboratory and serves pathologists, clinicians and patients. It offers PathFinderTG, a testing platform for resolving diagnoses from the original pathology specimen.
-	['', 'oncology case', ' ', 'reference laboratory', ' ', 'diagnostic platform', '']
+MMIC Solutions
+	Developer of technology for systems operating in the millimeter wave bands (50 GHz to 250 GHz). The company develops, manufactures and supplies products for use in security, detection and high-bandwidth communication equipment. The company\'s products include mechanical interfaces, direct detection receivers and "conncetorized" modules.
+	['', 'advanced materials', ' ', 'wave applications', ' down-convertor bandwidth ', 'wave bands', '']
+NOXA Holdings
+	Manufacturer of satellite GPS asset-tracking and messaging products. The company\'s products include SMARTONE that is used to track assets specific needs and provide intermediate and emergency alerts by email and/or text or cellular; AXTracker STX2 Satellite Transmitter, an industrial-use satellite transmitter; AXTracker MMT, a wireless device with multiple sensors and Globalstar Satellite System, a constellation of low earth-orbiting satellites that relay messages to ground stations to provide GPS location data.
+	['', 'gps tracker', ' ', 'satellite gps', ' ', 'tracking device', ' ', 'messaging product', ' ', 'email alert', ' ', 'satellite transmitter', ' ', 'wireless device', ' ', 'satellite system', '']
+VCON Video Conferencing
+	Provider of video-conferencing systems and products. The company offers standards-based systems and infrastructure, which are operated over a variety of networks. The company sells internationally through a global distribution network to business enterprises, government agencies, financial institutions, broadcasters, universities and colleges, distance learning companies, health-care organizations, and satellite companies.
+	['', 'videoconferencing products', '  videoconferencing']
+Elonics
+	Developer of radio tuner chip technologies. The company offers radio tuner chip technologies that can be configured to support different standards and frequencies for use in set-top box receivers, PCs and other applications.
+	['', 'radio tuner', ' ', 'tuner chip', ' ', 'set-top box', ' radio']
+Hughes Network Systems
+	Provider of broadband satellite networks and services to large enterprises, governments, small businesses, and consumers. The company offers satellite based communications services and equipment that utilize very small aperture terminals (VSATs) to distribute signals via satellite. It also offers satellite-based enterprise and consumer networks, mobile satellite networks and terminals, and broadband LMDS point-to-multipoint systems.
+	['', 'broadband satellite', ' ', 'satellite network', ' ', 'communications service', '']
+NordNav Technologies
+	Developer of Global Navigation Satellite System receivers.
+	['', 'Global Navigation', ' ', 'Navigation Satellite', ' ', 'Satellite System', ' ', 'satellite receivers', ' ', 'navigation system', ' GPS ', 'galileo navigation', '']
+Nokia gate5
+	Developer of location based information technology on mobile devices. The company provides a platform for mapping, route planning, content management and personal navigation. Its products include smart2go, a client side global map and search application for GPS-equipped mobile handsets and OEM navigation software for PNDs and PDAs.
+	['', 'location based', ' ', 'information technology', ' ', 'navigation software', '']
+SkyWave Mobile Communications
+	Provider of satellite communication and airtime services. The company provides satellite and satellite-cellular terminals, applications, network and professional services for mobile and fixed remote industrial tracking, monitoring, control and management.
+	['', 'satellite communication', ' ', 'satellite-cellular terminal', ' ', 'remote industrial tracking', '']
+Locationary
+	Provider of a global clearinghouse for local data in mobile, web search, profile publisher, managers and navigation applications. The company provides it\'s services for local business data fragmentation, accuracy and universal broadcast update challenges.
+	['', 'global clearinghouse', ' ', 'data fragmentation', ' ', 'statistics analysis', ' ', 'business data', '']

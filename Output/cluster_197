@@ -1,39 +1,57 @@
-Sinclair Meadows
-	Provider of residential houses and apartments. The company has seventeen home-sites along with restaurants and shopping facilities.
-	['', 'residential service', ' ', 'housing development', ' ', 'shopping facility', '']
-Five Guys Restaurants (8 sites )
-	Portfolio of 8 restaurants. The restaurants are located across central California including Elk Grove, Fresno, Lodi, Natomas, Roseville, Stockton, Tracy and West Sacramento.
-	['burger ', 'junk food', ' ', 'restaurant service', '']
-Sqipp
-	Developer of a location based mobile ordering application from restaurants. The company enables restaurants to integrate a mobile ordering platform that makes orders and restaurant operations while allowing users to order and pay at participating restaurants using a smartphone.
-	['', 'ordering application', ' ', 'participating restaurant', ' ', 'mobile ordering platform', '']
-Storific
-	Developer of a mobile application to find and order food from restaurants. The company is a provider of a mobile application that allows users to find, order, and pay for food before pick-up or dine-in.
-	['', 'food app', ' ', 'order app', ' ', 'iphone app', ' ', 'restaurant menu', ' ', 'restaurant pick-up', ' ', 'restaurant search', '']
-ReTel Technologies
-	Provider of video surveillance analysis for stores and restaurants. The company uses security camera feeds to deliver metrics and data such as table cleanliness, service times and employee activities.
-	['', 'video auditing', ' ', 'raw surveillance video', ' ', 'interactive report', '']
-9Cookies
-	Developer of an internet based system for restaurants and delivery services. The company provides a tablet based platform with tools for taking orders, accepting card payments, scheduling employees, printing receipts and creating custom notes for the kitchen.
-	['', 'restaurant service', ' ', 'delivery service', ' ', 'tablet based platform', '']
-Kabukiman
-	Provider of online information about restaurants. The company allows users to search for names, places, type of cuisine and look for a suitable restaurant in Germany.
-	['', 'restaurant information', ' ', 'search function', ' ', 'online search', '']
-Skipola
-	Developer of white-labeled application for restaurants. The company develops application that has contact information, menus and includes ways to order food through the application.
-	['', 'white-labeled apps', ' ', 'restaurant information', ' ', 'food ordering', '']
-Yemeksepeti.com
-	Provider of an online food ordering and delivery portal in Turkey. The company provides a platform enabling users to order food from their favorite restaurant through the Internet and have it delivered. The company\'s platform provides an aggregated list of the restaurants from which users can choose to place an order.
-	['', 'online food ordering', ' ', 'food delivery portal', ' ', 'online food delivery', ' ', 'food delivery', '']
-Jgzam
-	Provider of an online food delivery platform. The company allows its users to discover new restaurants in their city, order food and even see what their friends are ordering from different restaurants. The website also allows restaurants to to accept orders from customers.
-	['', 'food delivery', ' ', 'food order', ' ', 'online food ordering', ' ', 'food delivery platform', ' ', 'online delivery', ' ', 'online ordering', '']
-PrimaTable
-	Provider of a platform to help restaurants to manage their scarce table resources. The company develops last-minute perishable inventory demand forecasting and pricing tools for the restaurant industry.
-	['', 'resource management', ' ', 'inventory demand forecasting', ' ', 'perishable inventory', ' ', 'pricing tool', ' ', 'restaurant pricing tool', '']
-InstantQ
-	Provider of an advertising platform for restaurants. The company allows restaurants to promote their services online.
-	['', 'advertising platform', ' ', 'restaurant promotions', ' ', 'online services', '']
-Butter Systems
-	Provider of digital menu for restaurants. The company is the creator of a mobile application enabling customers to place their orders at the table from a tablet.
-	['', 'digital menu system', ' ', 'online service', ' ', 'restaurant menu', '']
+ModeWalk
+	Provider of online marketplace for luxury designers and craftsmen. The company enables luxury designers and craftsmen to interact directly with consumers online and sell their products through online marketplace.
+	['', 'luxury design', ' ', 'online marketplace', '']
+Given Goods Company
+	Provider of an online marketplace that encourages social change for companies. The company offers apparel, accessories, footwear, home goods and more from brand names, as well as up-and-coming designers who make a tangible impact.
+	['', 'online store', ' ', 'fashion-forward apparel', ' ', 'home goods', '']
+Allurent
+	Developer of online shopping solutions. The company provides Rich Commerce Suite, which provides a strategic and ongoing approach to deliver online shopping; and e-commerce software that delivers interactions throughout the shopping lifecycle, such as browsing, choosing, and buying. It also offers development and project management services, as well as research, ideation, interaction design, information architecture, visual design, branding, and usability services.
+	['', 'online shopping solution', ' ', 'online shopping', ' ', 'project management service', '']
+YellowDog Media
+	Provider of an online shopping website. The company offers an online marketplace which uses social networks to connect buyers and sellers.
+	['', 'online shopping website', ' ', 'social buying', ' ', 'online retail', ' ', 'seller buyer network', '']
+Extrabux
+	Operator of a comparison shopping website. The company enables consumers to compare prices,find coupons, and earn cash back on their online purchases.
+	['', 'price comparison', ' ', 'cash back', ' coupons']
+AbeBooks
+	Provider of an online marketplace for books. The company offers collections of new as well as used and out-of-print books on the Internet. It provides book sellers with a venue for their products.
+	['', 'online marketplace', ' ', 'out-of-print', ' ', 'Internet Retail', ' ', 'book sales', '']
+Pomocni.pl
+	Provider of online marketplace in Poland for local contractors. The company provides a listing service for an array of services, including childcare, construction, computer services, tutors, car repair and entertainment.
+	['', 'child care', ' ', 'senior care', ' ', 'construction verticals', '']
+Junglee.com
+	Provider of shopping information over the internet. The company creates giant databases of highly targeted content that instantly link buyers and sellers, thus creating giant new online markets.
+	['', 'online shopping', ' ', 'E Commerce', ' ', 'B 2 C', '']
+Oferton Liveshopping
+	Operator of live shopping website. The company offers sale in various product categories like electronics, leisure and fashion at slashed prices on a particular day. It is an alternative to the traditional online shops and the private sales sites where the customer can benefit from highly discounted products for a period of 24 hours or until stock is depleted.
+	['', 'live shopping', ' ', 'discounted price', ' ', 'shopping website', '']
+BRANDiD
+	Provider of an online shopping-assistance service for men. The company offers a worldwide online shopping service that enables men to have personal shoppers assemble outfits for them, which they can try on before committing to purchase through the company. The platform also functions as a marketing channel for clothing retailers.
+	['', 'online shopping assistance', ' ', 'marketing channel', ' ', 'men clothing', '']
+HealthRally
+	Provider of online platform that uses social motivation and positive financial incentives to inspire people to achieve their health and wellness goals.
+	['', 'online platform', ' ', 'social motivation', ' ', 'social support', '']
+Bureau of Trade
+	Provider of an online marketplace for men’s shopping. The company provides a platform that offers classic cars and vintage chronographs, mummy cartonage, lightning, furniture and literature.
+	['', 'online shopping platform', ' ecommerce ', 'mummy cartonage', '']
+Cameraworld.com
+	Provider of online shopping site for photographic equipment and digital imaging. The company is a retailer of brands such as Canon, Fuji, Kodak, Nikon, Olympus, Panasonic, Pentax and Sony.
+	['', 'photographic equipment', ' ', 'video product', ' ', 'video accessory', '']
+L\'ArcoBaleno
+	Provider of a curated marketplace and resource for exploring and purchasing furniture, lighting, crafts and decorative arts. The company\'s online platform mixes a curated marketplace with magazine-style content covering pieces across the spectrum of design ranging from furniture and crafts to architecture and technology.
+	['', 'online furniture', ' ', 'decorative arts', ' ', 'contemporary lights', '']
+Exchange.com
+	Developer of an online marketplace. The company is an e commerce marketplace which offers buyers a vast selection of merchandise from dealers and reputable sources.
+	['', 'online marketplace', ' ', 'merchandise selection', ' ', 'merchandise dealer', '']
+BuyPlayWin
+	Provider of an online tournament marketplace. The company combines online shopping with tournament games.
+	['', 'online marketplace', ' ', 'tournament marketplace', ' ', 'online shopping', '']
+OkCupid
+	Provider of an online dating service and social-networking website. The company uses an algorithm-based system to evaluate user questionnaires and suggest compatible connections. The company was acquired by Match.com in February 2011.
+	['', 'online dating', ', ', 'social networking', ', ', 'dating website', '']
+GoNabit
+	Operator of online shopping platform. The company provides an e-commerce platform which connects buyers and sellers, and offers discounted products for a limited period of time.
+	['', 'group buying', ' ', 'daily deals', ' ', 'online marketing', '']
+nMotion Technologies
+	Provider of an online marketing service. The company provides a marketplace for individual digital out-of-home networks to sell ad space on their screen networks and connect with interested advertisers.
+	['', 'IT Services', '']

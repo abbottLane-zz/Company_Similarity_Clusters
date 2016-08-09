@@ -1,33 +1,30 @@
-Hamilton Pharmaceuticals
-	Developer of medical treatments for diseases related to central nervous system. The company engages in the development of late-stage products for neurology and psychiatry.
-	['', 'medical treatment', ' ', 'medical product', ' ', 'psychiatric disease', '']
-Pharmaxon
-	Developer of neurology and neuro-oncology drugs. The company engages in the discovery and development of drugs for nervous system disorders in which cell mobility is modified. The company\'s activities are currently concentrated on the development of therapies for spinal cord injury, memory disorders and glioblastoma. The company spun out of the Development Biology Institute of Marseille Luminy.
-	['', 'neuro-oncology drugs', ' ', 'nervous system disorders', ' ', 'neurological drugs', '']
-Capsant Neurotechnologies
-	Provider of a technology platform based on organotypic slice cultures. The company focuses on solving problems in the discovery of novel targets and drugs for central nervous system disorders such as stroke, trauma, epilepsy, Parkinson\'s and Alzheimer\'s.
-	['', 'drug evaluation', ' ', 'organotypic slice culture', ' ', 'nervous system disorder', '']
-Myelos Neurosciences
-	Developer of therapeutics for neuropathic pain, peripheral neuropathy and neurodegenerative central nervous system disorders. The company provides peptide therapy to treat nervous system disorders and related degenerative diseases to treat pain syndromes and peripheral neuropathies.
-	['', 'neuropathic pain', ' ', 'peripheral neuropathy', '']
-SAGE Therapeutics
-	Operator of a biopharmaceutical company developing novel medicines to treat central nervous system (CNS) diseases. The company offers medicines to patients with schizophrenia, major depressive disorder, pain and traumatic brain injury conditions, for multiple sclerosis, autism and anesthesia.
-	['', 'central nervous system', ' ', 'traumatic brain injury', ' ', 'depressive disorder', '']
-Ception Therapeutics
-	Developer of biopharmaceuticals engaged in the discovery, development, and commercialization of new drugs and therapies for difficult to treat illnesses. The company offers Reslizumab for eosinophilic inflammatory conditions. It also provides Anti-TNF, a class of small molecule anti-TNF receptor agents with the potential to be orally administered. The companies portfolio includes treatments for central nervous system disorders, pain and cancer  and include eight proprietary products in the United States, along with more than 100 products internationally. Cephalon\'s research pipeline is focused on developing new compounds and new indications for existing products, while their business collaborations capitalize on new products and smart drug delivery technologies.
-	['', 'Pharmaceuticals and Biotechnology', ' ', 'commercialization of new drugs', ' ', 'drug delivery technologies', '']
-Sention
-	Developer of drugs to treat memory impairment and other central nervous system disorders. The company develops lead compounds using its specialized genomics and behavioral models to treat other major central nervous system disorders.
-	['memory ', 'nervous disorder', ' ', 'specialized genomics', ' ', 'behavioral model', ' nerve']
-Targeted Molecules
-	Developer of drug therapies for cancer and diseases of the central nervous system. The company\'s technology enables both the identification and optimization\nof molecules (peptides and antibody fragments) that precisely target disease tissue.
-	['', 'drug therapies', ' ', 'targeted therapeutic', ' ', 'identification and optimization of molecules', '']
-BioBehavioral Diagnostics
-	Developer of diagnostic systems for the quantitative assessment of behavioral and neurobiological disorders. The company develops and markets a proprietary platform technology to objectively measure specific behaviors that correlate with brain function and deficits in inhibitory control.
-	['', 'diagnostic system', ' ', 'neurobiological disorder', ' ', 'psychiatric condition', '']
-Ascendis Pharma
-	Developer of pro-drug technology for endocrinology, cardiovascular and central nervous system disorders. The company develops a prodrug technology, TransCon, which conjugates the drug compound to a carrier molecule in a reversible fashion. It also provides transient conjugation technology, long-acting prodrugs of proteins, peptides and small molecules.
-	['', 'drug-technology', ' ', 'conjugation technology', ' ', 'drug compound', ' ', 'carrier molecule', ' prodrug']
-Axonia Medical
-	Developer of tissue-engineered medical products for peripheral & central nervous system injury. The company produces living, functional tissue-engineered nerve grafts in the lab that can replace and repair damaged parts of the nervous system. It has developed technique for production of axons (instead of stem cells), the long thin parts of nerve cells that carry signals to distant target cells. Its regenerative treatments use neurons from patients or cadavers to grow long, integrated tracks of axons in the lab and then implants this tissue into the body, which then enables or accelerates the body’s natural repair system.
-	['', 'regenerative treatment', ' ', 'axon production', ' ', 'nervous tissue regeneration', ' ', 'nervous system injury', ' ', 'medical product', '']
+Net4Call
+	Provider of Parlay/OSA service delivery components for the telecommunications industry.  The company provides network independent value added voice, data communication and multimedia products and services for existing and next generation telecom networks fot fixed, IP and wireless.
+	['OSA parlay VOIP ', 'telecommunication components', ' ', 'data communication', ' ', 'telecom networks', '']
+Cisco Systems
+	Designer, manufacturer and seller of Internet Protocol (IP) based networking technologies to its clients. The company offers various products and services including networking software, routers, video, wireless, security, voice and unified communication, telepresence, collaboration, webex, data center, virtualization and unified computing systems.
+	['', 'information technology', ' ', 'networking technology', ' ', 'networking software', '']
+NetCentrex
+	Developer of networking products and network-based applications for business communications, customer interactions and broadband residential communications. The company offers network-based software enabling IP-based voice-video-data and FMC (fixed-mobile convergence) solutions for service providers; and software-based converged voice-video-data-over-IP solutions. It develops network (NGN) voice and video solutions that enable telecom operators and service providers to deliver voice-video-data and fixed-mobile converged services for the consumer and enterprise markets.
+	['', 'broadband communication', ' ', 'network product', ' ', 'mobile converge service', '']
+Genesis Networks
+	Provider of global video transmission services over fiber and satellite that leverage the cost and integration advantages of internet protocol (IP) technology. The company offers quality of service (QoS) parameters for video-over-IP  proprietary software system to give customers control of the network themselves.
+	['', 'video transmission', ' ', 'internet protocol', '']
+Communicado
+	Provider of solutions for managing converged voice/data communication networks that carry real-time person-to-person business communications.The company\'s solutions include VXTracker, which integrates the management of converged voice and data networks to enterprise standards; and Streamline.
+	['', 'real time communication', ' ', 'converged voice', ' ', 'VXTracker', '']
+Mobyson Holding
+	Provider of mobile IP telephony services. The company markets telephony provisions, including hardware and software communication equipment.
+	['', 'communication equipment', ' ', 'telephony service', ' ', 'hardware product', '']
+FORE Systems
+	Supplier of networking solutions based on intelligent infrastructure. The company designs, manufacturers and sells product design to handle the networked applications. The company is a supplier of ATM, computer network switches as well as the developer of network switches.
+	['', 'Asynchronous Transfer Mode', ' ', 'computer network switches', ' ', 'high performance networking systems', ' ', 'enterprise applications', '']
+Sonus Networks
+	Provider of voice infrastructure products for the new public network. The company provides hardware and software that enable customers to deploy an integrated, packet-based network carrying both voice and data traffic.
+	['', 'network services', ' ', 'voice infrastructure product', ' ', 'public network', ' ', 'voice traffic', '']
+Ridgeway Systems and Software
+	Provider of multi-boundary solutions for end-to-end IP video and voice communications. The company\'s software products, IPFreedom, securely traverse network firewalls and NATs (Network Address Translation) enabling the next generation of IP connectivity-ubiquitous IP video and voice between any and all IP endpoints.
+	['firewall ', 'IP connectivity', ' telecommunications']
+3Com
+	Provider of secure, converged voice and data networking solutions that enable customers to manage voice, video, and data in a secure network environment. The company\'s products and services include security systems, such as intrusion prevention systems, network access control systems, and firewalls; Internet protocol (IP) telephony that includes IP telephony platforms, convergence application suite, and IP phones; and networking infrastructure products comprising local area network (LAN) switches, routers and gateways, mobility and wireless LAN, network and security management. In addition, the company offers a range of professional services, such as assessment and design, project management, training and certifications, installation, and integration services.
+	['', 'computer communications equipments', ' ', 'secure network', ' ', 'intrusion prevention systems', ' installations']

@@ -1,63 +1,39 @@
-Signature Labs
-	Developer of a mobile shopping assistant and shopping application. The company provides a way to make connections and share discoveries of new products and services.
-	['', 'shopping assistant', ' ', 'shopping application', ' ', 'mobile shopping', ' ', 'product sharing', ' ', 'service sharing', '']
-SocialStudio
-	Developer of a mobile application. The company\'s application enables users to creates collaborative videos by compiling multiple videos into a single clip.
-	['', 'video builder application', ' ', 'collaborative video', ' ', 'video making application', ' ', 'video platform', '']
-Directr
-	Provider of a mobile application for creating videos. The company\'s application provides users with the ability to create movies on their phones.
-	['', 'video application', ' ', 'movie creation', ' ', 'video editing', ' ', 'mobile video', '']
-Klip
-	Developer of a mobile application. The company\'s application allows users to share videos with others.
-	['', 'mobile video streaming', ' ', 'mobile video sharing', ' ', 'mobile video editing', ' ', 'mobile video platform', '']
-Streamweaver
-	Developer of multi-angle mobile video application. It allows users to record videos together with their friends. The videos can then be combined to show multiple angles simultaneously in a single split-screen video.
-	['', 'mobile video application', ' ', 'multi angle video', ' ', 'split screen synchronicity', '']
-FasterLighterBetter
-	Provider of a tipping and appreciation services. The company\'s application allows fans a one-click option to support content authors in their work.
-	['', 'IT Services', '']
-Emerald Exam
-	Developer of an exam administration software. The company\'s application offers paperless exams to address the many issues that arise with hand-written examinations and also prevents cheating.
-	['', 'hand-written examinations', ' examination ', 'examination software', ' ', 'paperless exams', '']
-Evertale
-	Developer of mobile applications. The company provides an application that automatically logs user\'s activities through mobile devices and creates a scrapbook.
-	['', 'user activity', ' ', 'scrapbook application', ' ', 'social application', '']
-ReallyLateBooking
-	Provider of a mobile application for last minute hotel bookings. The company\'s mobile application enables users to make reservations at hotels on the same day at a discounted deal.
-	['', 'hotel bookings', ' ', 'discounted deal', ' ', 'last minute bookings', ' ', 'smartphone applications', '']
-HopStop.com
-	Developer of a mobile application for pedestrian-friendly directions and information. The company is the creator of a mobile application that provides door-to-door transit, walking, biking, taxi and hourly car-rental directions in more than 300 cities. It is available for mobile phones and tablets.
-	['', 'driving software', ' ', 'driving application', ' ', 'location based software', ' ', 'subway directions', '']
-ShopSavvy
-	Developer of mobile shopping comparison application. The company develops a mobile application that allows consumers to scan UPC, EAN or QR barcodes to obtain in-store price comparisons and inventory information spanning local and online retailers.
-	['', 'mobile shopping', ' ', 'shopping comparison', ' ', 'barcode scanner', ' ', 'mobile commerce', '']
-Collective.li
-	Developer of a multimedia social platform. The company offers a mobile application which enables users to uploaded images, videos and share in the form of a digital magazine.
-	['', 'digital magazine', ' ', 'share photos', ' ', 'share videos', '']
-TrustGo Mobile
-	Developer of free mobile security application. The company\'s application provides virus protection to find and eradicate applications that can compromise user\'s personal data and privacy. It allows mobile device users to search, monitor, detect and prevent harmful applications and protect mobile devices.
-	['', 'mobile security application', ' ', 'virus protection', ' ', 'personal data privacy', ' ', 'mobile device protection', ' ', 'melware detection', '']
-Swarm
-	Developer of a mobile application for retailers. The company\'s application enables brick and mortar retailers to engage with in store shoppers and provides shopper interaction analytics.
-	['', 'retailer mobile-application', ' ', 'mobile shopping', ' ', 'price comparison', ' ', 'customer engagement', ' ', 'customer analytic', '']
-SimpleHoney
-	Provider of a mobile application. The company offers its users with an application to make their wish list of the places and things they wish for and  provide shopping packages accordingly.
-	['', 'wish list', ' ', 'mobile product', ' ', 'mobile shooping application', '']
-Brandfitters
-	Developer of a mobile application connecting consumers with brands. The company connects consumers with brands when, how and where they want–giving the consumer a voice and control of the relationship and engagement level.
-	['', 'consumer connectivity', ' ', 'customer relationship', ' ', 'consumer engagement application', '']
-Atlanpix
-	Operator of an instant messaging application for smartphones. The company offers an mobile application which enables users to meet people, send text messages, images, videos and audio messages.
-	['', 'instant messaging', ' ', 'text messages', ' ', 'audio message', '']
-SmartThings
-	Provider of a platform that enables customers to install connected devices and control them through a single mobile application. The company provides a kit that allows everyday objects, such as light switches and door locks, to be controlled through a smartphone application.
-	['', 'connected product platform', ' ', 'connect product', ' ', 'wireless control', ' ', 'wireless monitoring', ' ', 'online monitoring', ' ', 'online control', ' ', 'remote control', ' ', 'remote operation', ' ', 'remote monitoring', ' ', 'smart home', '']
-Airseed
-	Developer of a platform providing consumer data-focused tools, analytics and intelligence. The company has created a software platform that for developers provides rich intelligence and analytics on consumer users of the product. For consumers, the company provides a mobile application that automatically finds upcoming flights and enables simple flight checkins. The application also enables users to share travel itineraries with friends and family.
-	['', 'developer platform', ' ', 'consumer data', ' ', 'software platform', '']
-Rockpack
-	Provider of a video-curation application. The company is the developer of a mobile application for video downloads, curating video content from around the Web and enabling users to create their own channels for receiving it.
-	['', 'video curation application', ' ', 'video platform', ' ', 'curate video', ' ', 'share collection', '']
-Todoroo
-	Developer of an android application for preparing a social to-do list. The company\'s application allows its users to organize their goals and share ideas. It acts as a social productivity platform.
-	['', 'android application', ' ', 'mobile application', ' ', 'productivity application', '']
+Prepay Technologies
+	Designer of stored-value card solutions. The company provides clients with integrated portfolio of prepaid services. The company\'s solution includes prepaid debit cards, retail gift cards, corporate incentive cards, prepaid payroll cards, insurance claim cards etc.
+	['', 'debit cards', ' ', 'prepaid services', ' ', 'stored-value card solutions', '']
+dedendo
+	Provider of online access to pharmacy shops and medical stores. The company offers its customers direct access to their local pharmacy online.
+	['', 'online medicine purchase', ' ', 'local pharmacy', ' ', 'internet retail', '']
+Vivaro
+	Seller of prepaid phone cards. The company sells through proprietary VoIP network and a direct-to-store retail distribution channel.
+	['', 'phone card', ' prepaid VoIP']
+RapidMoney
+	Provider of online financial services. The company provides an online platform for multiple transfer services, including money, bank wire, international and Western Union. The company also is a provider of consumer-loan services.
+	['', 'consumer finance', ' ', 'money transfer', ' lending']
+DBS Communications
+	Provider of prepaid wireless services nationally. The company uses its proprietary technology platform to create distinctive prepaid products across wireless carrier networks and handset technologies. The company creates products for a defined distribution channel and works with its business partners to enable wireless programs for select distribution channels and market segments.
+	['', 'mobile virtual network operators', ' ', 'wireless communication', '']
+Wipit
+	Provider of mobile payments and financial services. The company enables underbanked consumers to use cash for payments on their mobile phone with an integrated prepaid card. It also provides financial services such as international money transfer, mobile check deposit, bill payment and prepaid wireless replenishment.
+	['', 'mobile payment', ' ', 'wireless telecom', ' ', 'prepaid stored value', '']
+Synaptic Systems
+	Provider of software services for financial advisers. The company provides detailed information across the total marketplace of financial products. It\'s fund clarity enables users to research and select products on internet.
+	['', 'financial advisers', ' ', 'financial services', ' ', 'Product Manager', ' ', 'software solution', ' ', 'fund clarity', '']
+LibertadCard
+	Provider of prepaid debit and remit cards for immigrants living and working in the United States. The company offers 24/7 Card which provides worldwide network of products and benefits such as reloadable debit cards, access to global remittance capabilities and make purchases online and at retail outlets.
+	['', 'prepaid debit', ' ', 'remit cards', ' ', 'reloadable debit cards', '']
+Green Dot
+	Provider of prepaid financial services. The company offers consumers financial products and services through retailer locations including Walmart, Walgreens, CVS/pharmacy. It offers general purpose re-loadable prepaid debit cards, and cash loading and transfer services.
+	['', 'money management solution', ' ', 'prepaid debit card', ' ', 'prepaid reload network', ' ', 'online shopping card', ' ', 'express bill Pay card', ' ', 'funds transfer network', ' ', 'real-time transaction', ' ', 'reloadable debit card', ' ', 'third-party payment', ' ', 'cash reloading network', '']
+Achieve Financial Services
+	Provider of marketing service for prepaid debit cards. The company markets and distributes general purpose reloadable (GPR) Visa debit cards that can be used for making purchases, direct deposits and paying bills online.
+	['', 'prepaid debit card', ' ', 'debit card marketing', ' ', 'financial service', '']
+Invesmart
+	Provider of retirement financial services. The company provides selection of independent investments and advice products with internet technology. The company enables employers and employees to invest so that they can retire right.
+	['', 'retirement financial services', ' ', 'independent investment', '  internet']
+SmartFlex
+	Provider of debit card programs and services. The company provides different kinds of financial services which involves the use of debit cards to customers.
+	['', 'debit card', ' ', 'financial services', '']
+WildCard Systems
+	Provider of electronic host based stored-value cards, virtual stored-value accounts, and internet payment products and services. The company develops software that creates and stores financial services information, similar to the technology that is used for prepaid phone cards, which stores information on available phone minutes and then registers a debit as the card is used.
+	['', 'electronic host', ' ', 'stored-value accounts', ' ', 'financial services', '']

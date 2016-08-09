@@ -1,27 +1,12 @@
-LZ Therapeutics
-	Developer of therapeutics for patients at different stages of Parkinson’s disease. The company provides neuroprotective/neurorestoritive therapies for early-stage Parkinson’s disease (PD), a combination therapy with levodopa-enhancing and anti-dyskinesia effects designed for mid-stage PD patients and gene therapies for advanced PD patients.
-	['', 'parkinson therapeutic', ' ', 'neurorestoritive therapy', ' ', 'anti dyskinesia effect', ' ', 'gene therapy', '']
-Civitas Therapeutics
-	Developer of respiratory drug delivery therapies. The company has developed a program in Parkinson’s disease that leverages the ARCUS respiratory delivery platform. CVT-301, Civita\'s other lead program, is being developed for the treatment of debilitating and unpredictable motor fluctuations associated with Parkinson’s disease.
-	['biopharmaceutical ', 'pulmonary delivery therapy', ' ', 'pulmonary technology', ' ', 'Parkinson’s disease', ' ', 'respiratory drug delivery', ' ', 'respiratory therapy', ' ', 'pulmonary therapy', '']
-Edge Therapeutics
-	Provider of therapeutic products for acute, fatal and debilitating medical conditions. The company develops implantable technology for direct delivery of therapeutic compounds to the site of brain injury.
-	['', 'healthcare service', ' ', 'biotechnology service', ' ', 'hospital product', '']
-Besunyen Holdings Company
-	Provider of therapeutic tea products in China. The company is engaged in the development, production, sales and marketing of therapeutic tea and other health food products.
-	['', 'brand awareness', ' ', 'food product', ' ', 'laxative products', '']
-GeneGrafts
-	Provider of therapeutic products. The company manufactures therapeutic products to treat cardiac arrhythmia, Parkinson\'s disease and epilepsy.
-	['', 'therapeutic product', ' ', 'cardiac arrhythmia treatment', ' ', 'epilepsy treatment', '']
-Cantab Pharmaceuticals
-	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
-	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
-Xcyte Therapies
-	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
-	['', 'drug discovery', '']
-EP Technologies
-	Developer of invasive catheter-based diagnostic and therapeutic systems to diagnose and cure patients suffering from tachyarrhythmias. The company manufactures radiofrequency ablation products to treat cardiac arrhythmia. It develops minimally invasive catheter-based diagnostic and therapeutic systems to diagnose and cure patients suffering from tachyarrhythmias.
-	['', 'therapeutic system', ' ', 'radiofrequency ablation product', ' ', 'cardiac arrhythmia', ' tachyarrhythmias']
-Prometheus Laboratories
-	Developer of diagnostic and therapeutic products. The company developing and commercializing novel pharmaceutical and diagnostic products to help physicians individualize patient care. It markets and promotes Entocort EC, a glucocorticosteroid, which is indicated for the induction and maintenance of clinical remission in mild to moderate active Crohn\'s disease involving the ileum and/or the ascending colon. It has an agreement to acquire rights to LOTRONEX tablets, which is used in female patients with diarrhea-predominant irritable bowel syndrome; and an agreement to develop and commercialize COLAL-PRED, a development-stage product for the treatment of gastrointestinal diseases or other applications.
-	['', 'therapeutic product', ' ', 'diagnostic testing service', ' ', 'inflammatory disease treatment', '']
+Pantresse
+	Manufacturer of hair care products. The company produces and sells shampoos, conditioners, hair sprays and related products mainly throughout the US and Mexico.
+	['', 'hair care', ' shampoo conditioner']
+Cambridge Bioclinical
+	Developer of treatments for common skin and hair disorders. The company develops therapies for hair loss, psoriasis, acne, eczema and other dermatological disorders. It is generating new technologies based on work done at the University of Cambridge. It has an assay for hair growth stimulants and is investigating new compounds for the treatment of male-pattern baldness.
+	['', 'hair therapy', ' ', 'skin therapy', ' ', 'hair disorder', ' ', 'hair growth', ' ', 'growth stimulant', ' baldness haircare skincare']
+Auris Medical
+	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
+	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
+Valocor Therapeutics
+	Developer of therapies to treat dermatological diseases. The company focuses on moderate to severe acne, acne and oily skin, atopic dermatitis, and viltiligo areas.
+	['dermatology ', 'skin treatment', ' ', 'skin therapy', ' ', 'acne treatment', ' ', 'atopic dermatistis', ' ', 'oily skin treatment', '']

@@ -1,54 +1,27 @@
-Octagen
-	Operator of biopharmaceutical company. The company develops drugs for hemophilia, other genetic disorders and variations of recombinant B domain to avoid inactivation by flying below the radar screen of the immune system.
-	['', 'genetic disorder', ' hemophilia ', 'blood clotting', ' therapies']
-Salient Pharmaceuticals
-	Developer of drugs for the treatment of multiple inflammatory gastrointestinal conditions. The company develops a proprietary compound intended for use in treating severe diarrhea associated with chemotherapy, chronic conditions, infectious diseases and other drug therapies.
-	['', 'drug compound', ' ', 'gastrointestinal disease', ' ', 'radiation therapy', ' ', 'gastrointestinal treatment', '']
-Maxia Pharmaceuticals
-	Provider of non-dermatological applications of a patented library of compounds. The company focuses on small molecule drugs that target major diseases such as cancer and metabolic disorders.
-	['', 'molecule drugs', ' ', 'metabolic disorders', ' ', 'cervical cancer', '']
-Intellikine
-	Developer of small molecule drugs that target signal transduction networks for the treatment of cancer, inflammation, and autoimmune disorders. The company\'s products include INK128, an orally-available TORC1/2 inhibitor for the treatment of solid tumor malignancies; INK1197, a small molecule dual PI3K selective inhibitor for patients with immune-mediated inflammatory diseases, such as rheumatoid arthritis and asthma; and PI3K selective inhibitors for the treatment of hematologic malignancies and solid tumors.
-	['', 'small molecule drug', ' ', 'cancer drug', ' ', 'drug for autoimmune disorder', ' ', 'treatment of solid tumor malignancie', '']
-Vantia
-	Developer of small molecule drugs. The company develops drugs for the treatment of nocturia, dysmenorrhoea, respiratory disorders, inflammation, oncological and fibrotic diseases.
-	['', 'drug development', ' ', 'nocturia treatment', ' ', 'fibrotic disease treatment', '']
-Chronogen
-	Developer of small-molecule drugs to treat oxidative stress and lipid disorders in age-related diseases. The company develops human therapeutics to treat age-dependent diseases, with an initial focus on cardiovascular disorders and cancer.
-	['', 'small-molecule drugs', ' ', 'human therapeutics', ' ', 'pharmaceutical industry', '']
-Neuromed Pharmaceuticals
-	Provider of small molecule drugs for the Biopharmaceutical industry. The company develops drugs targeting neuronal calcium channels to treat neurological disorders with the initial emphasis on chronic pain anxiety and stroke.
-	['therapy ', 'drug developer', ' calcium']
-Ancile Pharmaceuticals
-	Developer of botanical drugs. The company has a multi-drug portfolio, which includes ANPH 101, an investigational drug with indications for sleep maintenance disorders.
-	['', 'botanical drug', ' ', 'chronic disease', ' ', 'prescription botanical drug', '']
-Neolab
-	Developer of antibiotics and generic medicines. The company specializes in registering generic medicines, with a particular focus on respiratory diseases. It also develops anti-inflammatory agents, antibacterial, and cardiovascular drugs.
-	['', 'generic medicine', ' antibiotic ', 'respiratory disease', '']
-Intercept Pharmaceuticals
-	Developer of small molecule drugs for the treatment of chronic liver and metabolic diseases. The company develops therapeutics to treat orphan and more prevalent liver diseases in bile acid chemistry.
-	['', 'molecule drug', ' ', 'chronic liver treatment', ' ', 'metabolic disease treatment', '']
-Kinaxo Biotechnologies
-	Developer of spectrum-specific kinase inhibitors. The company operates as a service company specializing in chemical proteomics methods to support the development of small molecule drugs. The company spun out of the Max Planck Institute of Biochemistry.
-	['', 'kinase inhibitors', 'inhibitors', 'chemical proteomics', ' ', 'molecule drugs', '']
-KuDOS Pharmaceuticals
-	Developer of oncology drugs. The company develops drugs for combination with chemo- and radiotherapy, based on expertise in DNA repair mechanisms for treatment of cancer.
-	['', 'cancer treatment', ' ', 'drug discovery', ' ', 'drug delivery', '']
-Cytoguide
-	Developer of combined drugs that target receptors on cells in pathological tissues. The company offers drugs that are aimed to improve the treatment of onocyte and macrophage-related diseases including autoimmune disease, leukemia and other infectious diseases.
-	['', 'combined drugs', ' pathological ', 'autoimmune disease', '  leukemia']
-Aposense
-	Developer of diagnostic and therapeutic drugs. The company develops diagnostic and therapeutic drugs to identify and cure cells undergoing apoptosis.
-	['', 'molecular imaging', ' apoptosis ', 'therapeutic drugs', '']
-Green Highland Renewables
-	Developer of small scale hydroelectric schemes. The company  provide advice and services to landowners in Scotland through the development of a hydro power project. The company typically works on small-scale projects, ranging from 50 kilowatts to 2 megawatts.
-	['', 'hydroelectric service', ' ', 'hydropower project', ' ', 'energy project', '']
-Morphosys
-	MorphoSys AG and its subsidiaries develops and commercializes antibodies for therapeutic applications. It also develops drugs together with its partners in the pharmaceutical and biotechnology industries.
-	['', 'antibody technology', ' ', 'human antibody', ' ', 'therapeutic antibody', '']
-KeyNeurotek Pharmaceuticals
-	Provider of bio pharmaceutical products. The company provides for development and marketing of small molecule drugs for the treatment of neuronal and autoimmune diseases.
-	['', 'bio pharmaceutical product', ' ', 'molecule drug', ' ', 'autoimmune disease', '']
-Carolus Therapeutics
-	Developer of biopharmaceuticals aimed at treating acute and chronic inflammation. The company develops new drugs that are aimed to provide relief to patients suffering from a host of disorders triggered by acute and chronic inflammation.
-	['', 'chronic inflammation', ' ', 'inflammation diseases', ' ', 'noninvasively monitor', ' ', 'organ transplantation', '']
+BeInSync
+	Developer of a software to synchronize information for end users. The software uses secure peer-to-peer technology that makes information available for end-users, small businesses, and businesspeople on the move, by automatically synchronizing the user\'s files and e-mail among several computers.
+	['synchronization ', 'shared across', ' ', 'data protection', '']
+Infrasearch
+	Provider of person to person information sharing services. The company provides distributed, peer to peer search engine and networking technology.
+	['', 'peer search engine', ' ', 'person information sharing', ' ', 'information sharing service', ' ', 'peer networking technology', '']
+Wooboard
+	Operator of a cloud-based peer recognition platform. The company\'s platform builds up morale, productivity and team work by using social features and gamification design to drive every day engagement in the workplace.
+	['', 'peer recognition', ' ', 'smartphone application', ' ', 'employee recognition', '']
+Qrew
+	Provider of cloud, peer-coaching software to companies that want to be able to provide on-the-job employee development (ED) support to all their employees. The company is a social networking software for peer-coaching programs, bringing the benefits of executive coaching to all employees in a company.
+	['', 'peer-coaching software', ' ', 'peer coaching', ' ', 'Enterprise Software', '']
+Abritel
+	Provider of peer-to-peer holiday rental platform. The company puts vacationers in touch with owners of seasonally available property. It offers its services through its online platform.
+	['', 'rental property', ' vacation ', 'vacation home', '']
+Coridan
+	Developer of messaging middleware. The company offers an embeddable messaging technology that optimizes the basic logic of messaging systems and is deployed using peer-to-peer architecture.
+	['middleware ', 'messaging system', ' ', 'peer to peer', ' ', 'messaging software', '']
+The New York Enterprise Report
+	Provider of resources and expert advice to help readers grow and run their businesses successfully. The company builds a peer-to-peer community of entrepreneurs and executives who constantly seek better ways to operate and grow.
+	['news ', 'Custom Content', ' event']
+Caffeinated Mind
+	Provider of an on demand peer to peer transfer system. The company enables its users to transfer any size file between them.
+	['', 'online transfer system', ' ', 'file transfer', ' ', 'file sharing', '']
+Plasmyd
+	Creator of an online community for researchers. The company provides a platform for peer review and discussion of research papers.
+	['', 'search engine', ' ', 'scientific search', ' ', 'papers online', '']

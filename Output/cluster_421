@@ -1,12 +1,30 @@
-Atego
-	Provider of software tools and professional services. The company helps organizations engineer systems and software.
-	['', 'software tool', ' ', 'application development tool', ' ', 'system engineering', '']
-Syndesis
-	Developer of Operations Support Systems (OSS) software that automates the provisioning process for telecommunications service providers. The company\'s product  helps telecommunication companies bring services to their customers.
-	['', 'Operations Support Systems', ' ', 'Programming Services', ' ', 'software development', '']
-Cramer Systems
-	Provider of telecommunication support systems software. The company provides inventory-based OSS software that accelerates the introduction of new services, enables OSS transformation and reduces cost of ownership.
-	['', 'OSS Software', ' telecommunication inventory-based']
-Extant
-	Provider of carrier transport, OSS interconnect, and clearinghouse solutions to integrated communications providers.
-	['', 'carrier transport', ' ', 'clearing house solution', ' ', 'operational system support', '']
+Yotta Networks
+	Provider of connectivity products. The company offered advanced elements for all-optical networks.
+	['', 'Fiber Optic', ' ', 'optical network', ' ', 'Telecommunication industry', '']
+Photop Technologies
+	Manufacturer of crystal materials, optics, microchip lasers and optoelectronic modules.
+	['', 'crystal material', ' ', 'optics instrument', ' ', 'optoelectronic module', ' photonics']
+Xtellus
+	Developer of  passive optical components using liquid crystal technology. The company combines manufacturing liquid crystal and fiberoptic technologies to create components and modules for reconfigurable optical networks.
+	['', 'optical component', ' ', 'fiberoptic technology', ' ', 'liquid crystal technology', ' wavelength']
+OphthoCare
+	Developer and manufacturer of eyeglasses used for treating Amblyopia. The company uses liquid crystal technology and miniature electronics to develop eyeglasses.
+	['', 'corrective eyeglasses', ' ', 'eye treatment', ' ', 'eye-care', ' ', 'caring for the eyes', ' eyeglasses']
+Tenor Networks
+	Provider of communications equipment that offers service intelligence for optical networks.
+	['', 'communication equipment', ' ', 'optical network', ' ', 'optical switch', ' ', 'optical bandwidth', '']
+Chorum Technologies
+	Developer of optical technology. The company evaluates and develops optical applications for various industries. Through its subsidiary, the company also is a provider of specialized liquid crystal displays and glass for multiple markets.
+	['', 'optical switching', ' ', 'communication equipments', ' ', 'fiberoptic products', '']
+varioptic
+	Developer of electrically-controlled miniature optics for the digital camera sector. The company offers variable focus liquid lens for miniature industrial cameras, variable focus and tilt liquid lenses, auto focus lens modules, liquid lens drivers and development kits.
+	['biometrics ', 'consumer application', ' ', 'miniature optics', ' ', 'lens modules', ' ', 'liquid lens drivers', '']
+Pacinian
+	Manufacturer of keyboards and touchscreens. The company produces liquid crystal displays drivers, computer parts, keyboards and touchscreens and other products.
+	['keyboard touchscreen ', 'computer parts', ' ', 'computer hardware', '']
+Applied Optoelectronics
+	Developer and manufacturer of analog and digital lasers for fiberoptic networking. The company designs, develops and manufactures optical semiconductor devices, packaged optical components, optical subsystems, laser transmitters and fiberoptic transceivers.
+	['', 'fiberoptic network', ' ', 'optical semiconductor', ' transceiver']
+Lightchip (Dense Wavelength Division)
+	Provider of optical components to the cable and telecommunications industries. The company develops DWDM modules based on its patented free-space diffraction grating technology platform.
+	['', 'optical monitoring', ' ', 'optical routing', ' ', 'wavelength management', ' ', 'fiber optic', ' ', 'optical routing', '']

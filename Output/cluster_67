@@ -1,24 +1,36 @@
-Coquelux
-	Provider of fashion purchase club website. The company is online shopping club that caters towards premium and luxury markets and provides information about the latest fashion, home decoration, beauty, cooking, technology, events and entertainment products.
-	['', 'fashion purchase club', ' ', 'online fashion club', ' ', 'online shopping club', ' ', 'fashion e-commerce website', '']
-Tie Society
-	Provider of an online rental service for neck-wear and menswear accessories. The company offers a monthly subscription service where the members can choose and rent a number of ties every month.
-	['', 'necktie rental', ' menswear ', 'rental service', '']
-Private Outlet
-	Operator of an online store. The company focuses on private sales of fashion items including clothing and accessories. The company offers fashion, athletics, beauty, interior decoration as well as small appliances to customers.
-	['', 'online store', ' ', 'small appliances', '']
-Casabu
-	Operator of an online flash sales site. The company focuses on maternity and child products including clothing, toys, nursery equipment, maternity gear and treats for mothers.
-	['', 'online flash sales', ' ', 'online site', ' ', 'online store', ' ', 'children’s brand', '']
-StyleZen
-	Provider of a online fashion shopping assistant. The company provides a platform that generates personalized fashion feeds to subscribers through their Pinterest accounts, utilizing their pre-set fashion preferences.
-	['', 'IT services', ' ', 'fashion store', ' ', 'social content', '']
-MyNines
-	Aggregator of private-sales websites. The company provides a platform that aggregates limited-time deals on discounted sample products, enabling customers to visit just one site for multiple retailers. The company offers shopping opportunities in men\'s and women\'s fashion, jewelry and accessories, beauty, wines, travel and sports gear.
-	['', 'sample sales', ' ', 'sample search', ' ', 'online product', ' cloth']
-PaulDirekt
-	Provider of an internet retail website. The company sells consumer electronics, fashion items and sports products online.
-	['', 'internet retail', ' ', 'entertainment and lifestyle', ' ', 'fashion and sport', '']
-Decorati
-	Provider of an online source for interior decoration. The company also enables consumers to find a designer through its database of interior designer portfolios, as well as its interior designer matching service.
-	['', 'interior decoration', ' ', 'interior designer portfolio', ' ', 'interior designer matching service', '']
+GasSecure
+	Developer of gas-detection technology. The company develops, market and sells wireless optic gas detectors for industrial applications. Its specialty is in low-power gas detection and safe wireless communication. Its products have applications to the oil & gas industry, as well as other industrial sectors.
+	['', 'wireless sensor', ' ', 'gas detector', ' ', 'industrial application', '']
+Sifteo
+	Developer of tabletop gaming consoles. The company offers Siftables, a set of cookie-sized computers with motion sensing, neighbor detection, graphical display, and wireless communication systems that enable children to play and learn.
+	['', 'B2C services', ' ', 'gaming consoles', ' Siftables ', 'cookie-sized computers', '']
+Rahu Catalytics
+	Developer of catalysts, activators, accelerators and other chemicals for industrial applications. The company develops iron-ligand based chemistry for use in coatings, composites and inks markets. The company was spun out of Unilever R&D Vlaardingen.
+	['', 'catalysts', ' ', 'industrial chemicals', ' ', 'activators', '']
+Oxford Medical Diagnostics
+	Developer of advanced proprietary methods of gas analysis. The company\'s technologies are used to analyse gases in industrial settings and also for diagnosing conditions such as stomach ulcers.
+	['gas analysis ', 'stomach ulcers', ' ', 'clinical diagnosis', '']
+Avo Photonics
+	Manufacturer of environmental control, fire and gas detection and security products. The company provides custom design and contract manufacturing services to customers in the military/aerospace, medical, communications, and commercial markets.
+	['', 'environmental control', ' ', 'gas detection', ' ', 'security products', '']
+CommQuest
+	Designer, developer and marketer of integrated wireless communication chip-sets, systems and related software which provide the core functionality of wireless communication subscriber equipment. The company\'s products include integrated GSM and AMPS chipsets for cellular and PCS applications, receiver and decoder chips for DBS applications and various satellite communication modems.
+	['', 'wireless communication chipsets', ' chipsets']
+Gulf Coast LNG Partners
+	Developer of liquefied natural gas receiving, storage and re-gasification facility. The company\'s core project is Calhoun LNG, a liquefied natural gas (LNG) receiving, storage and regasification terminal.
+	['', 'natural gas storage', ' ', 'regasification terminal', ' liquefied']
+PoroGen
+	Manufacturer of chemical and temperature resistant porous polymeric membranes. The company manufactures polymeric membranes for a range of nanofiltration, microfiltration, gas separation and gas transfer applications, including methane recovery and biofuels processing.
+	['', 'polymeric membrane', ' nanofiltration microfiltration ', 'gas separation', ' ', 'methane recovery', ' ', 'biofuel processing', ' membrane']
+Gesellschaft für analytische Sensorsysteme
+	Developer of gas analyzers for volatile organic compounds (VOCs). The company\'s product, FlavourSpec, is a device made forfood control that measures VOCs in liquids or solids.
+	['', 'gas analyzers', ' ', 'organic compounds', '  siloxanes ', 'trace detectors', ' ', 'power plants', '']
+AppliedSensor
+	Manufacturer of semiconductor based gas sensor elements and modules. The company manufactures chemical gas sensors for appliance, automotive, building, consumer and industrial applications.
+	['', 'gas sensor', ' ', 'chemical gas sensor', ' ', 'chemical sensor component', '']
+Investigacion Criogenia y Gas
+	Operator of gas transformation plants. The company engages in transport processes handling, storage and regasification of liquid natural gas for use in commercial and industrial consumption. The company also constructs gas transformation plants.
+	['', 'gas plants', ' ', 'processes handling', ' regasification storage ', 'gas transformation', '']
+Vaperma
+	Manufacturer of gas separation systems for energy and industrial applications. The company specializes in the development, manufacture, and commercialization of hollow fiber polymeric Siftek membrane allowing high selective separation of water from various gas mixtures and organic vapors. Its membrane systems are used for dewatering and dehydration of fuel ethanol, chemicals, and natural gas; fuel-grade ethanol production and natural gas and biogas treatment applications.
+	['', 'gas separation system', ' ', 'membrane system', ' ', 'gas separation', '']

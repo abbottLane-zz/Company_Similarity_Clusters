@@ -1,18 +1,66 @@
-Frozen Codebase
-	Developer of gaming software. The company provides 3 dimensional video games for both download and store based markets.
-	['', 'gaming software', ' ', '3D games', ' ', 'store-based markets', '']
-Mütli
-	Provider of game servers. The company provides hosting services for multi-player games.
-	['', 'game server', ' ', 'multi-player games', ' ', 'hosting services', '']
-Game Minion
-	Provider of cross-platform cloud services for the mobile-development industry. The company offers diifferent software-development kits, including multi-player gaming, push notifications, analytics, cloud storage, leaderboards, achievements, content delivery and social sharing.
-	['SDK ', 'software development kit', ' ', 'application development', ' ', 'mobile development', '']
-C Sports Ventures
-	Developer of a gaming application. The company provides users with online arcade and multi player games.
-	['', 'online sports', ' ', 'gaming application', ' ', 'online gaming', '']
-Taya Communications
-	Provider of the video, media and visual communication content technologies services. The company provides the interactive games, multi player servers, interactive advertising and information services.
-	['', 'visual communication', ' ', 'interactive game', ' ', 'interactive advertising', '']
-C3L3B Digital
-	Developer of gaming software. The company develops massively multi-player online (MMO) games.
-	['MMO ', 'online game', '']
+LeftHand Networks
+	Provider of flexible IP-SAN network storage solutions. The company also offers evaluation software, such as SAN/iQ software and virtual SAN appliance, which aggregate disparate resources into a single, larger storage system. It offers iSCSI SANs that are composed of multiple storage nodes, pooled together into a single storage system; integrated storage systems; and virtual storage systems.
+	['', 'storage solution', ' ', 'san application', ' ', 'virtual application', ' ', 'storage system', ' ', 'storage node', ' ', 'virtual storage system', '']
+All Stor Storage
+	Provider of self storage space services. The company is a provider of self storage services which acquires self storage properties both in the form of institutional portfolios and individual properties.
+	['', 'self storage property', ' ', 'secured storage space', ' ', 'property rental service', ' ', 'storage space', '']
+Cirtas Systems
+	Provider of cloud-storage technology. The company is the creator of technology to make cloud storage work like onsite enterprise storage arrays. The company\'s product, the Cirtas Bluejet Cloud Storage Controller, is designed to simplify storage management and to reduce data-storage total cost of ownership, while addressing  challenges associated with data backup and disaster recovery for mid-size to large enterprises.
+	['', 'cloud storage', ' ', 'storage management', ' ', 'data storage', ' ', 'application software', '']
+XtremIO
+	Developer of solid-state drive data storage systems. The company develops platform that will help shared storage environments with performance improvements, utilization of IT resources and a low capital investment. XtremIO’s solutions are designed to deliver performance in Enterprise storage environments, while addressing existing storage device limitations and data network connectivity challenges.
+	['', 'solid state drive', ' ', 'data storage system', ' ', 'enterprise storage', ' ', 'data network', ' ', 'enterprise solutions', ' ', 'data storage', '']
+Double-Take Software Canada
+	Provider of software solutions for data protection and recovery. The company serves legal, educational, government, finance, and healthcare industries.
+	['', 'software services', ' ', 'data recovery', ' ', 'data protection', '']
+EqualLogic
+	Provider of data storage solutions. The company’s products include PS Series Architecture for consolidated networked storage in a self-managing iSCSI storage area network; enterprise data services for storage virtualization, server management and protection integration, and data protection and recovery; PS6000 and PS4000 Series iSCSI storage area network arrays for data storage consolidation; and PS storage stack that enables users to configure storage pools or tiers to optimize performance and capacity according to application-specific demands.
+	['', 'data storage', ' database virtualization recovery']
+Viathan
+	Developer of technology that helps companies manage data. The company\'s storage virtualization software provides data management platforms for use by companies and e-commerce vendors alike.
+	['', 'internet application', ' ', 'data storage', ' ', 'database management', '']
+VeloBit
+	Developer of software that delivers an order-of-magnitude improvement in storage price-performance. The company\'s allows customers to deploy Solid State Disk (SSD) without changing their applications or primary storage, thus preserving their existing investments in data protection and storage management.
+	['', 'storage management', ' ', 'solid state drive', ' ', 'data protection', ' ', 'solid state disk', '']
+Zettapoint
+	Provider of database optimization software solutions. The company classifies structured data based on actual usage and importance to the organization.It also provides with data storage platforms, as well as optimize business intelligence processes.
+	['', 'database optimization', ' ', 'software solution', ' ', 'data storage platform', ' ', 'business intelligence process', '']
+FTAPI Software
+	Provider of software for the secure transmission and storage of data. The company\'s data space allows location-independent and share access to files and replace FTP server through a data exchange option.
+	['', 'data transmission', ' ', 'data storage', ' ', 'file sharing', ' ', 'data exchange', '']
+Vita 34 International
+	Provider of storage of cord blood for future therapeutic purposes. The company is engaged in the collection, preparation and storage of children umbilical cord blood.
+	['', 'cord blood', ' ', 'therapeutic purposes', ' unbilical storage ', 'blood bank', ' ', 'stem cell', ' ', 'umbilical core blood', ' blood']
+Alditech
+	Manufacturer of silicon-based heads for multimedia tape recordings. The company\'s products had applications for the reproduction sector as well as data storage and digital videos.
+	['', 'tape recording', ' ', 'tape drive', ' ', 'digital video', ' components']
+Silicon Graphics
+	Developer of servers and data storage systems. The company develops, markets and sells a broad line of servers and data storage systems, as well as differentiating software.
+	['', 'Data Analytic', ' ', 'Data Center Technology', ' ', 'HPC Software', '']
+Virident Systems
+	Provider of server side flash storage for the enterprise that delivers consistent performance to data intensive applications. The company\'s services enable enterprises to tackle performance intensive enterprise applications with enterprise flash storage and Solid State Disks (SSD) for database.
+	['', 'cloud computing', ' ', 'storage service', ' ', 'data centric technology', ' ', 'flash storage', '']
+DataCenter Technologies
+	Provider of data management software that helps to migrate and protect data. The company\'s solution enables customers to clasify data, simulate data management operations and copy or move data between storage tiers.
+	['', 'data management software', ' ', 'protect data', ' operations']
+Seanodes
+	Provider of data storage services. The company converts unused internal disks and Direct Attached Storage (DAS) into Shared Internal Storage (SIS). The company also provides cloud computing and high performance computing services.
+	['', 'computer hardware', ' ', 'cloud computing', ' ', 'shared internal storage', ' ', 'high performance computing', '']
+ByCast
+	Provider of storage virtualization software for large-scale digital archives and storage clouds. The company provides storage software designed to manage petabyte-scale, globally distributed repositories of images, video and records for enterprises and service providers.
+	['', 'business continuity', ' ', 'digital archives', ' ', 'fixed content', '']
+4Blox
+	Provider of a family of software components used to expand CPU processing capacity in internet small computer systems interface (iSCSI) storage area networks. The company offers 4Mezzo suite, a product line of software accelerators to reduce host CPU processing overhead associated with iSCSI in standalone and virtual machines; 4Mezzo Plus Target, an iSCSI target add-on for commodity operating systems, which incorporates 4Blox acceleration techniques; and 4Mezzo Plus Initiator, an iSCSI initiator add-on for commodity operating systems, which incorporates 4Blox acceleration techniques for small to medium sized businesses. It’s software is also available for standalone OSes or iSCSI storage area network solutions from original equipment manufacturers, value added resellers, value added distributors, and independent software vendors.
+	['', 'software accelerator', ' ', 'server visualization', ' ', 'system integrator', ' ', 'commodity operating system', '']
+Newisys
+	Developer of server and storage technology for original equipment manufacturers. The company offers storage expansion product platforms, storage application platforms, integrated RAID server/storage application product platforms, JBOD expansion enclosures, and racks.
+	['', 'server technology', ' ', 'storage technology', ' ', 'equipment manufacturing', ' ', 'storage expansion', '']
+Virsto Software
+	Developer of virtual storage solutions for virtual servers and datacenters. The company offers Virsto One, a hypervisor-based storage virtualization software solution that enables users to virtualize storage-intensive workloads, maximize the consolidation of server and storage hardware and reduce storage management.
+	['', 'data storage', ' ', 'virtual storage', ' ', 'virtual server', ' ', 'storage virtualization', ' ', 'server consolidation', ' ', 'storage management', ' ', 'storage hardware', '']
+Qlayer
+	Provider of datacenter, combining server, networking and storage infrastructure virtualization software. The company offers solutions for virtual datacenter automation, storage and volume management and also provides virtual disks to servers and to external consumers.
+	['', 'virtual disk', ' datacenter virtualization']
+NetCell
+	Developer of host adapter storage acceleration silicon devices for the ATA and SATA host bus adapter, server, PC, workstation and embedded storage markets.
+	['', 'silicon device', ' ', 'storage market', ' workstation']

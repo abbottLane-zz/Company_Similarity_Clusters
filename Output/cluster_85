@@ -1,9 +1,9 @@
-Amplidata
-	Provider of a cloud-based service provider offering scale-out technology for storage providers. The company offers, AmpliStor an object-based software defined storage system for enterprise, private cloud and hyper scale public cloud implementations.
-	['', 'storage infrastructure', ' ', 'storage technology', ' ', 'storage system', '']
-Samplify Systems
-	Provider of compression algorithms for high speed sampled data systems. The company offers analog-to-digital converter ICs for applications in ultrasound front-ends, 4G wireless base stations, automated test equipment, and RADAR/SONAR receivers; and Samplify\'s Prism, a compression and decompression engine that solves I/O and storage bottlenecks in embedded systems. It also provides Samplify for Windows, a compression analysis tool that displays input and output file sizes and other relevant compression results, including compression ratio, dynamic range, noise floor and distortion levels, and a rate-distortion curve.
-	['', 'compression algorithm', ' ', 'sampled data system', ' ', 'compression analysis tool', ' ', 'analog to digital converter', '']
-Streem
-	Provider of a cloud based hard drive that offers storage space. The company has developed a proprietary de duplication and compression technology to be able to provide storage facility.
-	['', 'storage space', ' ', 'hard drive', ' ', 'compression technology', ' ', 'cloud storage service', '']
+OSspray
+	Developer of dental products.  The company develops products that utilize air polishing technologies for the cleaning, desensitizing and whitening of teeth in the dental industry.
+	['dental ', 'dentistry', ' ', 'air polishing', '']
+Exopro
+	Operator of a medical device company. The company engages in providing dental implant products and related accessories for the Brazilian dental industry.
+	['intra-oral maxillofacial ', 'dental implant', ' osseointegratio']
+POP Medical Solutions
+	Operator of a medical device company. The company engages in providing a device which is used in pelvic organ prolapse repairing.
+	['', 'pelvic organ', ' ', 'pelvic floor muscles', ' ', 'internal organs', ' urinary']

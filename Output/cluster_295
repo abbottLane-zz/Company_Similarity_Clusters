@@ -1,21 +1,15 @@
-Six3
-	Provider of video communication platform. The company\'s platform allows people to share video messages, follow and interact on mobile and web.
-	['', 'communication platform', ' ', 'video message', ' ', 'mobile video', '']
-Userfarm
-	Operator of a video crowdsourcing platform. The company creates promo videos, corporate films and creative advertisements through its network of video makers.
-	['', 'entertainment software', ' ', 'crowdsourcing platform', ' ', 'creative advertisement', '']
-Flexible Stenting Solutions
-	Developer of third-generation flexible peripheral arterial and biliary stents. The company develops stents on a proprietary design platform.
-	['', 'peripheral arterial', ' ', 'biliary stent', ' ', 'superficial femoral', ' ', 'medical equipment', '']
-Intransa
-	Provider of appliance platform products. The company offers appliances and products for video surveillance, industrial video, access control, video analytics and other physical security needs.
-	['', 'video surveillance', '']
-SNRLabs
-	Developer of software for smart phones and mini laptops. The company offers SNRLabs Convergence Manager, a software that incorporates multiple radios, such as GSM and WiFi, WiMAX and WiFi and 3G and WiFi.
-	['', 'smart phone software', ' ', 'mini laptop software', ' ', 'multi radio device', ' ', 'mobile software', '']
-CelioCorp
-	Creator of wireless smartphone terminal technologies for organizations, mobile executives, and consumers to access and use their smartphone. The company offers REDFLY Mobile Companion, which lets users to use their smartphone like a laptop and allows to do email, read attachments, view web sites, and use applications that reside on smartphone.
-	['', 'wireless smartphone', ' ', 'read email attachment', ' ', 'phone kit', ' ', 'car charger', ' ', 'power supply', '']
-Kiwatch
-	Developer of video-monitoring surveillance platform. The company develops a platform which allows for WiFi video monitoring of premises through computer or smartphone.
-	['', 'video monitoring', ' ', 'home security', ' ', 'Electronic Component', '']
+Home Bistro Foods
+	Provider of gourmet food. The company specializes in vacuum-sealed and flash-frozen meals prepared by chefs and sold through its catalog and its e-commerce site. It offers soups, appetizers, meals, and desserts, including beef, pork, lamb/veal/bison, poultry, and seafood.
+	['', 'gourmet food', ' ', 'frozen food', ' ', 'sealed food', '']
+Gascomer
+	Operator of a seafood processing company. The company processes, markets and sells seafood such as fish, crustaceans and molluscs .
+	['seafood ', 'seafood processing', ' ', 'seafood marketing', '']
+Equitalk
+	Provider of low cost, paperless, telephone service. The company\'s processes are automated, the customers are e-mailed their bill and they can pay by direct debit. The company offers IDA and CPS voice services, broadband and teleconferencing.
+	['paperless ', 'telephone service', ' bill']
+Channel Fisheries
+	Provider of fish and seafood. The company also supplies seafoods in the export markets in continental Europe, the Middle East and the US.
+	['seafood ', 'fish products', ' ', 'export fish', '']
+Reimes Rekefabrikk
+	Operator of a seafood-processing enterprise. The company processes and exports shrimp, fish, snails and other seafood.
+	['', 'seafood distributor', ' ', 'fresh seafood', '']

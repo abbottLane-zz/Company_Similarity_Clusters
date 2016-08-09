@@ -1,27 +1,45 @@
-Linux NetworX
-	Provider of Linux-based high performance computing (HPC) solutions. The company also provides technical services, such as batch scheduling implementations, application optimization, security implementations, and application configuration and tuning.
-	['', 'batch scheduling', ' ', 'application optimization', ' ', 'application configuration', ' ', 'high performance computing', '']
-OctigaBay Systems
-	Manufacturer of computing architecture for simulation and modeling applications. The company develops high performance computing (HPC) system designed around its direct connected processor architecture, an approach to parallel processing that directly links together processors, alleviating memory contention and interconnect bottlenecks found in cluster systems.
-	['', 'computing architecture', ' ', 'modeling application', ' ', 'simulation application', '']
-VaST Systems Technology
-	Provider of tools and models for embedded system design automation. The company provides ESL engineering tools and models to companies involved in the engineering and manufacture of high-performance, real-time electronic systems integrating significant hardware, software and other technology components.
-	['', 'architectural analysis', ' ', 'virtual system prototyping', ' ', 'wireless technology', ' ', 'systems design', ' ', 'software development', '']
-Seattle Silicon
-	Supplier of application specific integrated circuits, semiconductor and ASIC design software. The company offers large system houses and process-independent compiler systems.
-	['', 'integrated circuits', ' ASIC software']
-Tharas Systems
-	Developer of verification appliances. The company\'s appliances are used for shortening the verification cycle of integrated circuits and electronic systems.
-	['', 'verification applications', ' ', 'integrated circuits', ' ', 'electronic systems', '']
-Quickturn Design Systems
-	Provider of system level verification solutions for the design of integrated circuits and electronic systems. The company\'s products are used by developers of high-performance computing, multimedia, graphics and communication systems.
-	['', 'computing systems', ' ', 'communication systems', ' ', 'electronic systems', '']
-CoFluent Design
-	Provider of electronic system level design tools for modelling and simulating systems. The company offers an integrated electronic system-level modeling and simulation environment that operates as a graphical modeler for capturing the system\'s behavior and execution platform.
-	['', 'simulating system', ' ', 'electronic system', ' ', 'graphical modeler', ' simulation']
-Nusym Technology
-	Provider of verification closure solutions for electronic products manufacturing companies. The company provides functional verification EDA tool.
-	['', 'verification closure', ' ', 'electronic design automation', ' ', 'verification software', ' ', 'functional verification', '']
-Nvelo
-	Developer of storage software to address the input output bottleneck in computing systems. The company\'s product Dataplex, a cache software solution used by PC OEMs and SSD vendors to deliver SSD-level performance from HDD-based systems for a fraction of the cost of an SSD-only system.
-	['', 'storage system', ' ', 'hard drive', ' ', 'hybrid drive', ' ', 'computing management', '']
+Biocistronix
+	Provider of drug discovery and medical research and development services. The company also engages in development of latest diagnostic techniques for various ailments.
+	['', 'medicine discovery', ' ', 'medical research', ' ', 'diagnostic techniques', '']
+ImmunoTheragnostics Incorporated
+	Developer of therapeutic and prognostic equipments. The company engages in research, development and commercialization of exosome-based clinical diagnostic arrays for women\'s health as well as for cardiovascular diseases and cancer.
+	['', 'prognostic equipment', ' ', 'diagnostic assays', ' ', 'cancer prevention', ' ', 'response monitoring', '']
+Diatos
+	Operator of a bio-pharmaceutical company that develops anti-cancer therapies based on cellular-delivery and drug-targeting technologies. The company engages in the  research, development and marketing of anti-cancer chemotherapeutic drugs.
+	['', 'chemotherapeutic drugs', ' ', 'human therapies', ' bio-pharmaceutical ', 'anti-cancer therapies', '']
+Qronus Interactive Israel
+	Provider of automated system testing software products. The company provides automated system testing tools for complex software and hardware configurations with embedded processors. It engages in the research, development, manufacturing and marketing of automated software quality products for non-standard platforms, embedded systems and real time computer systems. The company was spun out of Mercury Interactive.
+	['', 'software testing', ' ', 'testing tools', ' ', 'testing solution', '']
+Okapi Sciences
+	Developer of drugs to treat viral infections for both pets and livestock. The company engages itself in the research, development, promotion and marketing of anti-viral drugs for veterinary applications.
+	['', 'viral infection', ' livestock ', 'veterinary application', '']
+Majestic Research
+	Provider of data-driven equity research services. The company serves airlines, auto retail, casino, consumer technology, cruise lines, ecommerce, financial exchanges, homebuilders, and healthcare industries.
+	['', 'equity research', ' ', 'financial research', ' ', 'market insight', '']
+Compass Information Services
+	Developer of oncology and autoimmune therapeutics. The company is a distributor of the Compass (R) system, a procedure for assessing the outcomes of mental-health treatments. The company also engages in related research.
+	['', 'mental health', ' ', 'treatment assessment', ' ', 'ongoing treatment', ' ', 'mental illness', ' ', 'treatment management', ' ', 'treatment outcome', '']
+MTI Laboratory
+	Provider research and development of remote radio head (RRH) technologies for WCDMA/HSDPA and WiMAX/LTE infrastructure products. The company\'s RRH technologies enable the transmission of high output power, which is essential for delivering high data rates and coverage required for mobile TV/video/audio/data-centric 3G data services.
+	['', '3G data', ' ', 'remote radio head', ' ', 'wireless internet', ' ', 'power amplifier', '']
+Intertisement
+	Provider of advertising services to businesses and individuals. The company engages in the research and development of 3D augmented reality services and markets the same to the customers to be used as a visual advertisement platform.
+	['', '3D augmented reality services', ' ', 'media services', ' ', 'advertising services', '']
+Sasken Communications
+	Provider of research and development consultancy, wireless software products and software services that helps businesses across the communications value chain accelerate product development life cycles. The company works with network OEMs, semiconductor vendors, terminal device OEMs and operators.
+	['', 'development consulting', ' ', 'wireless software', ' ', 'semiconductor vendors', ' ', 'communications value chain', '']
+Blue Ridge Pharmaceuticals
+	Operator of an animal health pharmaceutical company. The company is involved in the research, development and marketing of veterinary products.
+	['veterinary ', 'animal health', ' ', 'clinical development', '']
+RWHD
+	Provider of research services. The company engages in the research and development of pharmaceutical products.
+	['', 'research services', ' ', 'research and development', ' ', 'pharmaceutical products', '']
+Algieplus
+	Operator of a research and development company. The company\'s product, Algieplus, promotes active molecules from sustainable marine resources and adds value to seaweed deposits, harvested in a way which is adapted to recycling thereby aiding in managing waste from seaweed deposits.
+	['', 'research company', ' ', 'active molecules', ' ', 'sustainable marine resources', ' ', 'waste treatment', '']
+Somatix Therapy
+	Developer of gene therapy. The company engages in research, development and commercialization of proprietary processes for the genetic modification of cells and their use in the treatment of human disease.
+	['genetic ', 'gene therapy', '']
+Rissington Breedline
+	Provider of sheep breeding, rearing and genetics services. The company engages in the research and development of sheep and cattle genetics and breeds for farming and food industries.
+	['', 'sheep husbandry', ' ', 'animal farming', ' ', 'sheep breeding', ' ', 'animal husbandry', '']

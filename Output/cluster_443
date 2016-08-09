@@ -1,27 +1,57 @@
-BlackLocus
-	Provider of a cloud-based platform for online retailers that provide recommendations on pricing, inventory management and marketing. The company provides platform that recommends actionable items, enables implementation of recommendations.
-	['', 'pricing tool', ' ', 'online retailer', ' ', 'actionable item', ' ', 'pricing recommendation', '']
-MyBuys
-	Provider of cross-channel personalization for brands and retailers. The company offers web recommendations and personalized alerts. It builds profiles based on individual shopper\'s behavior and then uses a patented portfolio of algorithms and real-time optimization to deliver recommendations. It offers its recommendations to users through email and RSS alerts.
-	['', 'predictive display advertising', ' ', 'cross channel marketing', ' ', 'personalized alert', ' recommendation']
-CouchCommerce
-	Provider of a platform to create shopping applications for online retailers. The company\'s cloud-based platform is designed to be a turnkey solution for generating online shop Web applications for tablets, smartphones and smart TVs. Shop data is sourced via pre-integration into shop systems or extensions to be installed in existing open source shop systems.
-	['', 'online shops', ' ', 'web application', ' ', 'Saas platform', '']
-Malcovery Security
-	Developer of a cloud based actionable cyber security intelligence services. The company develops and delivers cloud based actionable cyber security intelligence and forensic analysis through software and services for corporations and government organizations to target cyber criminals and their activities.
-	['', 'cyber security', ' ', 'intelligence service', ' ', 'forensic analysis', '']
-Shopcastr
-	Provider of an online and mobile platform for independent local retailers and shoppers. The company provides a web based platform where fashion and lifestyle retailers create online stores to feature their products.
-	['', 'consumer service', ' ', 'mobile platform', ' ', 'local retailers', '']
-MarketYze
-	Provider of an e-commerce market intelligence data to online retailers. The company offers a cloud-based platform that tracks and analyzes product prices across competitors to provide retailers with the pricing data and analytics.
-	['', 'market intelligence', ' ', 'online retailers', ' ', 'pricing data', '']
-Predictive Edge
-	Provider of online retail technology services. The company\'s software platform makes product pricing easy and different to online retailers by applying advanced data mining and artificial intelligence techniques to large bodies of data.
-	['', 'data mining', ' ', 'social platform software', ' ', 'artificial intelligence technique', '']
-Wanderfly
-	Provider of a platform to discover and share travel recommendations. The company uses Facebook friends and Google Contacts to give users recommendations on hotels, restaurants and activities.
-	['', 'online travel recommendation', ' ', 'travel information', ' ', 'travel review', '']
-BestVendor
-	Provider of an online resource where business professionals can exchange recommendations for work-related software and services. The company provides a platform for professionals to share their recommendations of the SaaS and other software services for use in business.
-	['', 'online resource', ' ', 'procurement decision', ' ', 'professional platform', ' ', 'software as a service', '']
+Gazoontite
+	Provider of household products. The company provides products that help reduce asthma problems, allergies and respiratory problems. The company\'s products include anti-allergen and hypoallergenic bedding, air purifiers, vacuum cleaners, bath and beauty products, toys, dust control products, odor control products and asthma management products.
+	['', 'household products', ' hypoallergenic ', 'cleaning product', '']
+Support Technologies
+	Manufacturer of automatic computer test equipment for use by firms designing, servicing and manufacturing electronic-based products. The company\'s products consisted of ROM emulator and diagnostic tester.
+	['', 'computer equipment', ' ', 'electronic products', ' ', 'test equipment', '']
+Amsco International
+	Manufacturer and supplier of sterilization products. The company manufactures sterilization systems, surgical tables and lights, and related infections prevention products and services for the healthcare and scientific markets.
+	['', 'sterilization product', ' ', 'health care industry', ' ', 'technology platform', '']
+Genetics Institute
+	Developer of pharmaceutical products. The firm developed pharmaceuticals based on leading edge functional genomics technologies and proprietary disease models to treat a wide variety of human disease conditions.
+	['biopharmaceuticals']
+Educational Holdings
+	Provider of educational products. The company\'s products are designed to provide and promote science and math education as well as reading literacy for children in PreK through 3rd grade.
+	['', 'educational products', ' math ', 'reading literacy', '']
+Ilypsa
+	Developer of renal care pharmaceutical products. The company develops non-absorbed polymeric phosphate and potassium binder compounds to treat chronic kidney diseases.
+	['', 'renal care', ' ', 'kidney disease treatment', ' ', 'healthcare industry', '']
+Reliant Pharmaceuticals
+	Developer of cardiovascular therapies. The company acquires and develops branded pharmaceutical products, as well as potential pharmaceutical products in mid- to late-stage clinical development for drug delivery technologies and formulation advancements.
+	['cardiovascular ', 'cardiovascular therapies', '']
+Collplant
+	Produces recombinant human collagen from tobacco plants. The company produces sells collagen-based products in medical devices, cosmetics and pharmaceutical products.
+	['', 'medical device', ' ', 'collagen pharmaceutical product', ' cosmetic']
+Outinens Potatis
+	Provider of potato products. The company provides pre-cooked and related potato products that are grown with minimal pesticide usage.
+	['potatoes ', 'clean food', ' ', 'potato production', '']
+InnoPharma
+	Developer of complex generic and innovative specialty pharmaceutical/bio-pharmaceutical products in injectable and ophthalmic dosage forms. The company has a broad portfolio of products under development, with formulations including, suspension, lyophilized, emulsions, liposomes, micelles and lipid complexes.
+	['', 'medical product', ' ', 'drug development', ' ', 'bio pharmaceutical product', ' ', 'medical drug research', ' ', 'sterile injectable product', ' ', 'sterile products', ' injectable ophthalmic']
+Nortel Networks
+	Manufacturer of networking products. The company is a manufacturer of equipment for telecommunications and data networking.
+	['', 'networking equipment', '  ', 'data networking equipment', ' ', 'cable operators', '']
+Scandinavian BioPharma
+	Developer of pharmaceutical  products such as vaccines and immunoglobulins. The company mainly focuses on development of a new oral traveler’s diarrhea vaccine. The company is currently developing a pharmaceutical  product for the treatment of mild to moderate psoriasis.
+	['vaccines immunoglobins ', 'diarrhea vaccine', '']
+Pentland Systems
+	Provider of signal acquisition technology and products. The company offers analog input/output, sigma delta, synchro and resolver modules which are complemented by digital input/output and relay products to form a comprehensive range of system ready, COTS, I/O products. The company also provides analog-acquisition and reconstruction products for sonar, radar, signal intelligence and software-defined radio applications in the aerospace and defense markets.
+	['', 'sonar product', ' ', 'signal intelligence', ' ', 'analog signal', ' ', 'radar product', ' ', 'embedded computing', ' ', 'digital input/output', ' ', 'relay product', '']
+Takumi Technology
+	Provider of design for manufacturability (DFM) products. The company engages in designing products that a easy to manufacture. The company also provides mask detection and automated full chip semiconductors.
+	['', 'design for manufacturing', ' ', 'semiconductor devices', ' ', 'electronic products', '']
+C M & D Pharma
+	Manufacturer of pharmaceutical products. The company\'s pharma products are fostrap, recoclix, eviendep, ossulin and silsos.
+	['', 'pharmaceutical product', ' ', 'healthcare market', '']
+ViroChem Pharma
+	Developer and producer of the drugs and pharmaceutical products for viral disease. The company manufacture, develop and produce the medicine products for viral infection, Hepatitis C (HCV) and human immunodeficiency virus (HIV).
+	['', 'pharmaceutical product', ' ', 'drug research', ' ', 'human immunodeficiency virus', '']
+Proteon Networks
+	Provider of internet access and LAN products. The company markets the products of OpenROUTE Networks.
+	['', 'internet access', ' ', 'LAN products', '']
+eDEV
+	Developer of drug. The company operates as a structured finance portfolio company developing an approved drug for three additional follow-on indications in collaboration with a pharmaceutical partner. eDev is a special purpose vehicle that has entered into an R&D project financing relationship with an undisclosed pharma company to finance multiple Phase 3 clinical trials for additional indications of an already-approved drug.
+	['', 'Drug Developer', ' ', 'Finance Portfolio', '']
+Hanza
+	Manufacturer of industrial products. The company provides mechanical, electronics, cable harnesses and final assembly products for industrial uses.
+	['', 'industrial product', ' ', 'assembly product', ' ', 'cable harness', '']

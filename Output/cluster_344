@@ -1,18 +1,27 @@
-BambooTori
-	Operator of a restaurant chain. The company provides Japanese food and serves all-natural chicken, beef, pork and vegetable skewers.
-	['Kushiyaki YAKITORI teriyaki grill meat ', 'skewered meats', ' char']
-Starfish Holdings
-	Operator of a personalized marketing and payments platform for retailers. The company provides its payment platform for use by grocery chains, drug chains and big box retailers, as well as neighborhood merchants and restaurants.
-	['', 'payment service', ' ', 'payment platform', ' ', 'online transaction', '']
-DF&R Restaurants
-	Owner of various restaurant chains. The company owns and operates 53 casual dining restaurants in Texas, Oklahoma, New Mexico, Indiana, Kentucky, Maryland, Ohio, Virgina and Michigan under the names "Don Pablo\'s" and "Harrigan\'s".
-	['', 'casual dining', '']
-Indoor Direct
-	Provider of media network for the fast food and casual dining markets. The company produces theBITE, a national in-store television show that delivers short clips of sports, music, entertainment and lifestyle content to users and helps in marketing for the restaurants and dining.
-	['', 'casual dining market', ' ', 'restaurant network', ' ', 'out-of-home media', ' ', 'media network', '']
-Cibando
-	Provider of a restaurant marketing website and mobile application. The company caters to restaurants and other dining enterprises. Through the use of technology the company helps to create a way for consumers and food venues to interact.
-	['', 'restaurant marketing', ' ', 'restaurant reservation', ' ', 'fine dining', ' ', 'restaurant search service', '']
-The Grill Group
-	Operator of restaurant chains. The company owns and operates bars, grills and dining restaurants.
-	['', 'restaurant chains', ' ', 'dining restaurants', ' grills']
+Paypal
+	Provider of a digital wallet and online payment services for individuals and businesses. The company offers various ways to pay and ways to get paid, including mobile express checkout service for retailers. Its service allows users to pay in various ways, such as through credit cards, bank accounts, and buyer credit or account balances.
+	['', 'online payment', ' ', 'money transfer', ' SaaS ', 'payment solution', ' ', 'Internet payments', ' ', 'Internet commerce', '']
+Simple Finance Technology
+	Provider of banking services through Web and mobile applications. The company works in partnership with financial institutions that hold the actual deposits. It also offers deposit, money transfer and online bill payment services.
+	['', 'online banking', ' ', 'money transfer', ' ', 'bill payment', ' deposit ', 'debit card', ' ', 'consumer banking', ' ', 'saving account', '']
+Virtual Purchase Card
+	Provider of online payment system. The company also provides virtual card which offers secure electronic identification, authorization, settlement and reporting tool.
+	['electronic']
+Tactilize
+	Provider of an online blogging platform. The company develops self-publishing service for Apple’s iPad and iPad mini tablets.
+	['', 'online blog', ' ', 'blogging platform', ' ', 'iPad blog', ' ', 'blog publishing', '']
+Square
+	Provider of online payment services. The company provides online payment services to enable merchants to accept credit cards anywhere, using a card reader that plugs into a phone or iPad.
+	['', 'payment service', ' ', 'mobile payment device', ' ', 'digital payment', ' ', 'credit card payment', ' ', 'credit card reader', '']
+NextCard
+	Provider of online credit card business targeting the consumer market. The company uses the Internet to acquire customers and provide immediate approval to qualified applicants.
+	['', 'online credit card', ' ', 'credit approval', ' ', 'internet marketing', '']
+DineroMail
+	Provider of e-payment services to international merchants. The company operates as an online payment platform which helps companies to collect payments from online and offline sales. It offers different local payment methods like cash payment, credit cards, bank transfer and also e-wallet.
+	['e-payment ', 'payment platform', ' ', 'transaction software', '']
+mChek India Payment Systems
+	Provider of mobile payment services. The company offers mobile banking and payment services. It offers a hosted service for mobile money transfer and secure payments using credit cards, debit cards, bank accounts and stored-value wallets.
+	['', 'mobile payment', ' ', 'mobile banking', ' ', 'mobile money transfer', ' ', 'secure payment', ' ', 'stored value wallet', '']
+Mblox (Premium SMS Business)
+	Provider of SMS services. The company provides mobile payment services in the U.S., U.K., Ireland and Australia.
+	['', 'Premium SMS', ' message ', 'SMS messages', ' ', 'paid text message', ' ', 'text message', '']

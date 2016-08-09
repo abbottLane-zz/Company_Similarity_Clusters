@@ -1,27 +1,36 @@
-Tablus
-	Provider of content loss prevention solutions that locate, monitor, and protect sensitive enterprise information across their networks and desktops from loss or misuse.
-	['', 'content loss prevention', ' information network ', 'sensitive information', '']
-Orchestria
-	Designer and provider of software and solutions targeted at information protection and control. The company helps prevent data loss, address compliance concerns, and enforce information classification and control.
-	['', 'information protection', ' ', 'information control', ' ', 'online software', '']
-Reconnex
-	Developer of appliance-based data loss prevention system. The company provides system that helps an organization to protect all information assets on its network against known and emerging threats.
-	['', 'data loss prevention', ' ', 'data protection', ' ', 'information security', ' ', 'enterprise security', '']
-SafeCentral
-	Developer of security software applications and technologies for data loss prevention. The company offers software solutions and services for web browsing that provide security against identity theft by locking out desktop malware and establishing web connections. Its technology block key-loggers, screen-scrapers, and other malware agents; ensure a connection to the actual site; and provide protection for seamless integration into user’s existing browsing habits.
-	['', 'security software application', ' ', 'data loss prevention', ' ', 'data security', '']
-Network Switching Systems
-	Developer of switching device for use by enterprises. The company develops digital telecommunications switches
-	['', 'enterprise telecommunication', ' ', 'network switch', ' networking']
-PostX
-	Provider of email encryption technology for enterprises.
-	['', 'email encryption', ' ', 'personalized electronic communication', ' ', 'message control', ' ', 'delivery tracking', ' ', 'email tracking', ' ', 'email security', '']
-Reliant Protective Services
-	Provider of professional protective services. The company provides protection services which includes residential security, corporate security, loss prevention, executive body guard, executive transportation, armed security, rapid response team, private investigation to children, homes and businesses.
-	['', 'residential security', ' ', 'corporate security', ' ', 'loss prevention', ' ', 'armed security', '']
-Green Border Technologies
-	Provider of malware prevention, mobile PC safety, unauthorized downloads prevention, patching and data confidentiality solutions. The company also offers protection on corruption, theft and invasion of business data systems, as well as engages in the protection of enterprises from internet threats that are picked up by compulsively-clicking users and mobile PCs.
-	['', 'patching technology', ' ', 'data confidentiality', ' ', 'data system invasion', ' ', 'data system theft', ' ', 'internet threat protection', ' ', 'DMZ technology', ' ', 'malware prevention', ' ', 'mobile PC safety', '']
-Code Green Networks
-	Provider of data-loss prevention and content-security technology for enterprises. The company offers a platform that provides enterprises with content monitoring and data loss protection from insider threats and accidental misuse.
-	['', 'data loss prevention', ' ', 'content security', ' ', 'accidental misuse', ' ', 'enterprise solution', '']
+Pictos Technologies
+	Provider of semiconductor and imaging products. The company designs, manufactures and markets digital imaging semiconductor products for digital camera and mobile imaging appliance markets.
+	['', 'imaging products', ' ', 'digital imaging', ' ', 'digital images', '']
+Eyesquad
+	Developer of an imaging technology. The company engages in the design and development of digital auto-focus and optical zoom systems for camera phones and other electronic products.
+	['imaging ', 'auto-focus', ' ', 'lens module', '']
+Imagelock
+	Provider of web-enabled digital image asset monitoring services. The company provides protection and management services and provides customers with instant access to information about the use and misuse of their digital image assets on the internet.
+	['', 'monitoring service', ' ', 'security service', ' ', 'digital image security', ' ', 'digital asset protection', '']
+Pure Digital Technologies
+	Developer of digital imaging solutions for the mass market. The company offers one-time-use digital cameras and video camcorders, as well as point and shoot camcorders.
+	['', 'flip video', ' ', 'digital camcorder', ' ', 'digital camera', ' ', 'video camcorder', ' ', 'flip camera', ' ', 'digital imaging', '']
+NuCORE Technology
+	Developer of digital and analog imaging devices for digital still and video cameras. The company offers image, analog, and digital processors. It also provides development and evaluation platforms based on its chips, as well as software component building blocks, including a software API interface, a hardware evaluation kit, and image tuning tools. It’s products are used for various imaging applications, including hybrid cameras, security and surveillance systems, and digital projectors.
+	['', 'digital projector', ' ', 'video camera', ' ', 'hybrid camera', ' ', 'image tuning tool', '']
+Scalado
+	Operator of a mobile imaging company. The company develops software for creating, presenting and transferring image-based digital information.
+	['', 'mobile imaging', ' ', 'digital information', ' ', 'still imaging', '']
+UltraVisual Medical Systems
+	Developer of medical image distribution and visualization software. The company offers visualization technologies for use in primary diagnosis, clinical review and image distribution applications in hospitals, imaging centers and private radiology practices with comprehensive image management needs.
+	['', 'medical image distribution', ' ', 'medical image', ' ', 'visualization software', '']
+Sierra Imaging
+	Developer of a digital image management platform. The company provides digital camera components, embedded imaging chips, firmware and imaging application software.
+	['', 'digital image platform', ' ', 'embedded imaging chip', ' firmware']
+RotaryView
+	Developer of mobile applications for e-commerce websites. The company enables the users to shoot, upload and post high quality 360 degree views in under five minutes using RotaryView\'s free mobile app or any digital camera, compared to purchasing expensive industry equipment.
+	['', 'mobile apps', ' ', 'software support services', '']
+Check-Cap
+	Provider and developer of gastrointestinal imaging devices. The company provides a multi-disciplinary technology for the imaging and screening of the colon, as well as a screening system for colo-rectal cancer. The system includes a capsule, a receiver, proprietary imaging software and an associated database for web-based access and analysis.
+	['', 'cancer screening', ' ', 'imaging device', ' ', 'colon imaging', ' ', 'imaging software', '']
+Imsense
+	Developer of various methods for automated enhancement of images. The company develops and licenses algorithms to original equipment manufacturers (OEMs) and independent software vendors (ISVs) to improve and complement their own software products. It developed several digital image enhancement services, including a compression technology, that improve the quality of all digital images (including videos) to make them look real, and as actually remembered.
+	['', 'digital image enhancement', ' ', 'automated enhancement', ' ', 'licenses algorithms', ' ', 'video editing', '']
+OrthoScan
+	Provider of orthopedic imaging devices. The company produces medical devices that are used in the imaging of extremities in orthopedic surgery and for digital diagnostic imaging in the office.
+	['', 'orthopedic imaging', ' ', 'orthopedic surgery', ' ', 'orthopedic device', '']

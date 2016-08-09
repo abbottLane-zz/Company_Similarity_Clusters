@@ -1,45 +1,42 @@
-SilverSky
-	Provider of on demand security services for computer networks in the United States. The company\'s on demand security services include vulnerability defense, intrusion defense, managed firewall, network defense, virus protection, email defense, system defense, high speed internet access, user defense, secure hosted email, email archiving and desktop management.
-	['', 'antivirus software', ' ', 'network security', ' ', 'email security', '']
-Primary Rate
-	Producer of computer network products and software. The company develops subsystem products and sells technology licenses worldwide. The company also provides high speed wide area connectivity using standards-based architectures and protocols.
-	['connectivity ', 'Frame Relay', ' ', 'leased lines', '']
-Efficient Networks
-	Developer of high-speed customer premises equipment (CPE) that employs digital subscriber line (DSL) technology. The company\'s products enable applications as high-speed Internet access, secure access to computer networks from remote locations, telecommuting, and extensions of corporate networks to branch offices.
-	['', 'high-speed internet', ' ', 'digital subscriber line', ' telecommuting']
-Firecomms
-	Provider of plastic optical fiber high-speed data networking services. The company develops high-speed light sources in visible range wavelengths.
-	['', 'optical fiber', ' ', 'light source', ' ', 'fiber optic', ' transmitters']
-Nomadix
-	Provider of network devices for nomadic computing and public Internet access. The company offers the Nomadix Service Engine (NSE), which allows venues to deploy high-speed Internet access offering. The company\'s NSE also addresses the key issues of customer acquisition, provisioning, security, and revenue generation faced by public access service operators (PASO), system integrators, venue owners, service providers, hotspot owners, and end users when deploying fixed line and WiFi public access networks.
-	['', 'high speed internet', ' ', 'public internet', ' ', 'network device', '']
-RAScom
-	Provider of remote access servers for organizations that need to deploy network access to telecommuters, contractors, remote office workers and small branch offices. The company is a data communications equipment vendor focused on delivering open systems remote access servers.
-	['', 'communications equipment', ' ', 'telecom vendor', '']
-Epigram
-	Provider of advanced technology and products for high-speed residential networking.
-	['', 'residential networking', '']
-Recourse Technologies
-	Provider of threat management solutions for computer networks. The company provides software to monitor corporate networks against hackers. It provides solutions that detect, analyze and respond to malicious computer attacks.
-	['', 'threat management', ' ', 'network monitoring', ' ', 'network threat management', '']
-GlooLabs
-	Developer of multimedia platform for embedded devices and remote access services. The company\'s technology enables partners to provide next-generation technology for use at home, office and remote locations.
-	['multimedia ', 'embedded device', ' ', 'digital technology', '']
-New Edge Networks
-	Provider of internet access through digital subscriber line (DSL) technology. The company provides DSL connection internet service to residences and businesses in small cities and semi-rural communities, as well as services such as wide area networks, virtual private networks and frame relay.
-	['', 'digital subscriber line', ' ', 'internet service', '']
-eMation
-	Provider of internet infrastructure for the pervasive computing wave. The company develops software for applications involving remote control and access to computer-embedded systems, such as electric appliances and medical equipments.
-	['', 'internet infrastructure', ' ', 'remote control', ' ', 'visual information', ' computing']
-Loran International Technologies
-	Operator of a data networking company. The company is a system integrator of high speed networks.
-	['', 'data networking', ' ', 'system integrator', ' ', 'internet network', '']
-Big Bear Networks
-	Developer of interface solutions for networks that operate at 10 Gb/s and higher rates. The company delivers a range of high-speed devices for optical/electrical interface.
-	['', 'electrical interface', ' ', 'high-speed device', ' ', 'network interface', ' “optical network”']
-FTTH Communications
-	Provider of facilities-based fiber optic network. The company provides video, telephone and ultra high-speed internet services to residential customers.
-	['', 'fiber optic network', ' ', 'facility network', ' ', 'optic network', '']
-Enzymatix
-	Developer of applications of high purity enzymes. The company develops enymes for pharmaceutical industries.
-	['enzymes ', 'lipase enzymes', '']
+Bedo Technologies
+	Provider of LBS application and service. The company\'s product enables users to take real-time location-based information and display it in context of a consumer’s online social network.
+	['', 'location based services', ' ', 'LBS application software', ' ', 'online social network', '']
+MyBuys
+	Provider of cross-channel personalization for brands and retailers. The company offers web recommendations and personalized alerts. It builds profiles based on individual shopper\'s behavior and then uses a patented portfolio of algorithms and real-time optimization to deliver recommendations. It offers its recommendations to users through email and RSS alerts.
+	['', 'predictive display advertising', ' ', 'cross channel marketing', ' ', 'personalized alert', ' recommendation']
+Echoecho Media
+	Developer of a location-based mobile application for finding friends. The company offers an open API, cross-platform, carrier agnostic location sharing system which helsp users in searching for friends and suggesting meeting places.
+	['', 'application developer', ' ', 'friend tracking', ' ', 'social content', '']
+KitLocate
+	Developer of location based applications. The company offers developers and brands a standard for user engagement and services, based on real-time location and enhanced user profiles.
+	['', 'intelligence platform', ' ', 'real-time location', ' ', 'consumer location', '']
+MeNetwork
+	Developer of location-based mobile marketing software for businesses and consumers. The company allows local merchants to deliver targeted content, offers, loyalty programs and promotions directly to consumers mobile devices based on the location-based services.
+	['', 'advertisement and promotion', ' ', 'marketing software', ' ', 'targeted marketing', '']
+Yandex
+	Operator of an Internet search engine in Russia. The company offers access to a range of information available online; email and personalized services, including email, photo, Website, and blog-hosting services; maps and location-based services comprising map service, road traffic congestion monitoring, maps of metro systems, panoramic photo images of streets and towns, and user-generated map services; and downloadable applications and services for mobile and digital platforms and devices.
+	['', 'internet search', ' ', 'search engine', ' ', 'web search', ' ', 'online information', ' ', 'email service', ' ', 'blog hosting', ' ', 'online map', ' ', 'mobile application', '']
+Connected Backup
+	Provider of an automated computer backup service.  The company offers a remote, automated backup of computers that allows a user to recover files from any location.
+	['', 'data storage', ' ', 'data backup', ' ', 'computer backup', '']
+Tagzania Services
+	Provider of geo-location services. The company, based in Spain, provides geo-location services and maps on the internet.
+	['', 'consumer service', ' ', 'geo-location services', ' ', 'location information', '']
+Penteye Technologies
+	Developer of location tracking technologies. The company offers a real-time software which offers tracking and location-based services at airport and amusement parks.
+	['', 'location-based services', ' ', 'location engine', ' ', 'alerting module', '']
+Sapias
+	Provider of web based intelligent resource management solutions for large enterprise customers. The company uses advanced wireless, GPS, Internet, telephony and database technologies to deliver much needed visibility to fleet managers - resulting in reduced operating costs, increased security, productivity and customer satisfaction. Sapias delivers intelligent, event-driven supply chain execution. Its patented technologies transform real-time, location-based data into customized business intelligence that can be easily integrated into existing mission-critical back-end systems.
+	['', 'web based services', ' ', 'communication technology', '']
+Moves
+	Developer and provider of a pedometer that works with iPhone. The company\'s products use sensor and location information from the user\'s iPhone to record any activities users do and using location technology, can recognize routes of travel and locations. It enables users to track their activities and distances logged on a daily basis.
+	['pedometer ', 'fitness application', ' ', 'activity tracker', '']
+FSlogic
+	Developer of methods for managing files and applications on Windows PCs. The companies products enhance the value of Windows-based computer solutions in single and multi user open access environments. It empower the user\'s experience and reduce total cost of ownership for the customer by decreasing system maintenance and administrative complexity.
+	['', 'managing file', ' ', 'computer solution', ' ', 'system maintenance', ' ', 'administrative complexity', '']
+Logictree
+	Provider of interactive voice response (IVR) services for the transit and 511 markets. The company provides a platform for a multi-modal communications environment that delivers location-based real-time information via various channels, including voice, Web, short message service, social networks, Email and mobile applications for public agencies.
+	['', 'interactive voice response', ' ', 'multi modal communication', ' ', 'short message service', ' ', 'social network', '']
+Meridian Apps
+	Provider of assistance that helps location-based businesses engage with their visitors. The company offers its services to retail outlets, hotels, hospitals, subways, airports and museums to use their platform to build and maintain mobile apps that take advantage of GPS and other location-aware technologies.
+	['', 'location-aware technology', ' ', 'mobile app', ' ', 'content management system', '']

@@ -1,45 +1,39 @@
-GrindMedia
-	Provider of online action sports and entertainment content. The company provides adventure sports and entertainment content, featuring print, online and event properties through action sports, comedy and custom client web solutions.
-	['sports ', 'entertainment content', '']
-Zing Systems
-	Provider of a mobile entertainment platform and hardware. The company offers platform to listen, bookmark and collect songs from live digital streams. The company offers devices that are able to connect, download, manage and exchange entertainment content directly from the player through WiFi or other wireless protocols, without requiring a PC.
-	['', 'mobile media service', ' ', 'wireless content', ' ', 'live internet radio', ' ', 'entertainment platform', '']
-Akumiitti
-	Developer of mobile entertainment software. The company engages in developing mobile entertainment software products for mobile operators and service providers.
-	['', 'mobile entertainment', ' ', 'mobile entertainment software', ' ', 'gaming software', ' ', 'entertainment software', ' ', 'entertainment solution', '']
-Player X
-	Publisher and distributor of mobile entertainment content. The company publishes game titles and mobile entertainment content onto the mobile operators in the industry and distributes this content across all key global territories.
-	['', 'distribution network', ' ', 'mobile content', ' ', 'delivery platform', '']
-iTouch
-	Provider, marketer and distributor of mobile content and entertainment products and services. The company is a marketer and distributor of mobile content and entertainment products. The company also provides information and messaging services.
-	['', 'messaging service', '', 'mobile games', ' mobile']
-Retalika
-	Provider of end-to-end services that enables retailers to sell and deploy mobile apps, mobile entertainment and services within their retail chains. The company combines mobile and internet technologies to enable retailers to operate.
-	['', 'mobile application', '', 'internet store', '', 'mobile app store', '']
-Forside Co.
-	Developer of content provision and copyright management businesses. The company, through its relationships with wireless carriers, distributes various e-books.
-	['', 'content provision', ' ', 'copyright management', ' ', 'online content', '']
-MyCube
-	Operator of a social network that allows individuals and organizations to store and share their information, updates and content with others. The company offers organization, publishing, communication and management tools for all individual brands and content producers that let users own and protect their digital assets, thereby transferring control to the user allowing the content to be monetized.
-	['', 'management tool', ' ', 'share content', ' ', 'content producers', '']
-WinStar New Media
-	Provider of business and entertainment content. The company produces and markets business information and entertainment content targeting the business, educational and consumer markets.
-	['', 'business information', ' ', 'entertainment content', ' ', 'online information', '']
-Apalya Technologies
-	Provider of a content aggregation, provisioning and distribution platform. The company\'s video delivery platform streams video content to consumers by integrating mobile operators, content owners and mobile advertisers.
-	['', 'streaming video', ' ', 'video streaming', ' ', 'online entertainment', ' ', 'online broadcasting', '']
-Viva! Vision
-	Provider of entertainment content. The company provides slideshows and live videos for entertainment brands, content providers and carriers through a suite of broadcast platforms.
-	['slideshows ', 'video on demand', ' ', 'content providers', ' ', 'broadcast platforms', '']
-Comverging Technologies
-	Provider of roaming gateway for mobile operators. The company operates an independent multi-standard roaming gateway which enables a mobile operator to offer seamless prepaid roaming in a connected ecosystem with other operators.
-	['', 'traffic flow', ' roaming ', 'connected ecosystem', ' ', 'seamless prepaid', '']
-FineMedia
-	Operator of a website developer of editorial content in France. The company publishes online editorial content on various issues, such as home, decoration, finance, and health.
-	['', 'website developer', ' ', 'editorial content', ' ', 'online publishing', '']
-MobileWeaver
-	Provider of entertaining software, games and multimedia titles and delivery platform. The company provides a quality content catalog that consists of 20,000 titles from more than 365 international mobile content developers.
-	['', 'content catalog', ' ', 'delivery platform', ' ', 'multimedia gaming', '']
-Myxer
-	Provider of a community-based mobile entertainment website for consumers, content owners and advertisers. The company\'s platform enables advertisers to deliver ad campaigns on the Web.
-	['', 'mobile entertainment', ' ', 'mobile community', ' ', 'mobile ad campaigns', ' ', 'multimedia and design', '']
+Portico Systems
+	Provider of health plans software solutions.
+	['', 'health plans software', ' ', 'sofware solution', ' ', 'health software solution', '']
+Westwave Communications
+	Developer of software solutions. The company develops software solutions that enable Local Exchange Carriers (LECs), hardware vendors, and Independent Software Vendors (ISVs) to implement converged services quickly, at the lowest-cost entry point in the network, and with minimal operational impact. The company provides carriers with a smooth migration path and an adaptive, responsive network that speeds time to market and improves the bottom line.
+	['', 'electronic switches', ' ', 'telecommunications network solutions', ' ', 'hardware vendors', ' ', 'virtual switching technology', '\\n', 'media gateway', ' ', 'media servers', '']
+Theralogix
+	Provider of health benefits of certain nutrients to their patients. The company develop nutritional supplements which they could recommend to their patients.
+	['', 'nutritional supplement', ' ', 'health care', ' ', 'reproductive health', '']
+Pipette
+	Provider of a health monitoring platform. The company provides mobile application which provides easy reports of patient for analyzing health condition.
+	['', 'monitoring device', ' ', 'healthcare application', ' ', 'monitoring equipment', '']
+NetMedical
+	Provider of e-health products and services. The company provides telemedicine products and services for hospitals, home care providers and clinical research organizations.
+	['imodem e-health telemedicine ', 'telemedicine solutions', ' ', 'hospital care', '']
+DeNovis
+	Provider of transaction processing and information management solutions for the health insurance and health care benefits administration industry.The company\'s flagship software product eHD™ serves as the core administrative platform for health plans and is designed to deliver the sophistication necessary to meet both existing and emerging needs of commercial, Medicare and Medicaid healthcare benefits administrators.
+	['', 'transaction processing', '']
+MedSpan
+	Provider of pharmacy network services. The company provides ancillary facilities such as labs, walk-in centers, home healthcare services and physical therapy centers. The company provides health care plans which include health maintenance organization (HMO) plans, preferred provider organization (PPO) plans and point-of-service (POS) plans.
+	['', 'health maintenance', '']
+Zen99
+	Provider of health insurance tracking platform. The company provides a platform which allow users to track health policies with their earnings, expenses and figure out how much to save for taxes on a single dashboard.
+	['', 'health insurance', ' ', 'insurance policy tracking', ' ', 'productivity software', '']
+Health AtoZ
+	Provider of internet guide featuring online health merchants. The company provides customized web-based solutions and consulting for hospitals and integrated delivery networks, health plans, pharmacy benefit management companies, employer groups and e-pharmacy sites.
+	['', 'internet guide', ' ', 'online health merchants', ' ', 'web-based solutions and consulting', ' ', 'online healthcare resources', ' ', 'e-pharmacy sites', ' ', 'health plans', '']
+MyFitnessPal
+	Provider of a health & fitness mobile application and online community. The company provides a free database of food and exercises, top fitness technology partners, community support, insights, and access to personal health information across all major platforms.
+	['', 'fitness tracking', ' ', 'personal trainer', ' ', 'health community', ' ', 'exercise health fitness', ' ', 'fitness app', ' ', 'health tracker', ' ', 'health app', '']
+Oxford Health Plans
+	Provider of health benefit plans. The company offers health benefit plans to address the needs of commercial, individual and Medicare members. It offers products which include its health maintenance organization plans (HMOs), provider organization plans (EPOs), point-of-service plans (POS), preferred provider plans (PPOs) and indemnity plans.
+	['', 'health benefit plan', ' ', 'Medicare member', ' ', 'indemnity plan', ' ', 'point-of-service plan', ' Medicare HMO PPO']
+HealthPocket
+	Provider of a web portal enabling consumers health-insurance plans in their local area. The company provides a Web service that combines a health care plan\'s quality ratings from government and non-profits, with the company\'s own ranking system.
+	['', 'health insurance plan', ' comparison ', 'health claim', '']
+New River Innovation
+	Provider of taxation software solutions. The company uses its post-filing tax technology and engages in development of web-based software solutions.
+	['tax ', 'software solution', ' ', 'taxation software', '']

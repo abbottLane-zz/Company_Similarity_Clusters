@@ -1,15 +1,12 @@
-Kalila Medical
-	Developer of cardiac catheter technologies. The company provides a platform of specialized delivery and access catheters that can be leveraged across multiple endovascular applications, including atrial fibrillation ablation, mitral valve repair, ASD/PFO closure, left atrial appendage closure, transseptal puncture, and LV lead placement.
-	['', 'steerable sheath', ' catheter ', 'cardiac catheter', '']
-Agamit Medical
-	Developer of devices for patients suffering from mitral regurgitation. The company\'s devices mechanically modify the Mitral valve geometry in order to cause it to function without the regurgitation.
-	['', 'mitral valve', ' ', 'valve regurgitation', ' ', 'valve geometry', '']
-Evalve
-	Developer of devices that repair cardiac valves. The company provides a non-surgical mitral valve repair system consisting of a steerable guide catheter, a clip delivery system, and an implant device that is used by interventional cardiologists to reduce mitral regurgitation.
-	['', 'cardiac valve', ' ', 'cardiac treatment', ' ', 'catheter guide', ' ', 'implant device', ' ', 'heart treatment', '']
-Tendyne Holdings
-	Developer of medical device for the treatment of mitral regurgitation. The company engages in the development and commercialization of medical devices for transcatheter mitral valve replacement, repair and targeting mitral regurgitation.
-	['catheter ', 'mitral valve', ' regurgitation']
-Sadra Medical
-	Developer of therapies for the treatment of aortic valve disease. The company offers transcatheter aortic valve replacement systems. It also provides Lotus valve, a bovine tissue tri-leaflet bioprosthetic aortic valve supported by a nitinol stent structure; and Lotus delivery catheter, a delivery system for guidance and placement of the Lotus valve.
-	['', 'aortic valve treatment', ' ', 'aortic valve replacement system', '']
+NeoDiagnostix
+	Operator of a cancer diagnostics company. The company uses molecular DNA technologies with a substantial portfolio of proprietary biomarkers. The company provides clinicians with a patient\'s molecular profile that provides crucial insights into cancer leading to improved patient care.
+	['', 'cancer diagnostics', ' DNA ', 'molecular profile', '']
+GenQuest
+	Provider of functional genomics screening for cancer therapeutics and diagnostics. The company\'s technology platform currently consists of proprietary methods to discover genes associated with cancer, response to DNA damage, senescence, cellular proliferation and terminal cell differentiation.
+	['', 'functional genomics', ' genomics ', 'cancer therapeutics', '']
+NovioGendix
+	Provider of molecular diagnostics and services to physicians, clinics, and hospitals. The company offers service to conduct test for prostate cancer and developing molecular diagnostic assays for uro-oncological practices and cancer treatment.
+	['', 'molecular diagnostic', ' ', 'laboratory service', ' ', 'kidney cancer', ' ', 'uro-oncological disease', '']
+Kite Pharma
+	Developer of active immunotherapies for cancer. The company has a portfolio of proprietary product candidates designed to stimulate the patient\'s own immune system to fight tumor cells.
+	['', 'cancer therapy', ' ', 'cancer immunotherapy', ' ', 'cancer treatment', ' ', 'tumor treatment', '']

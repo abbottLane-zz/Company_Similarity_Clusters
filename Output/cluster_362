@@ -1,21 +1,15 @@
-Pantresse
-	Manufacturer of hair care products. The company produces and sells shampoos, conditioners, hair sprays and related products mainly throughout the US and Mexico.
-	['', 'hair care', ' shampoo conditioner']
-Total Beauty Media
-	Operator of a website that publishes a catalog of beauty products online for women. The company’s portal provides information about face, makeup, hair, and body products, such as anti-aging, foundations, mascaras, moisturizers, shampoos, sunless lotions, and conditioners. It also hosts events for fashion and beauty brands.
-	['', 'beauty product', ' ', 'product review', ' ', 'online beauty portal', ' ', 'beauty product catalogue', ' ', 'fashion brand', '']
-Cambridge Bioclinical
-	Developer of treatments for common skin and hair disorders. The company develops therapies for hair loss, psoriasis, acne, eczema and other dermatological disorders. It is generating new technologies based on work done at the University of Cambridge. It has an assay for hair growth stimulants and is investigating new compounds for the treatment of male-pattern baldness.
-	['', 'hair therapy', ' ', 'skin therapy', ' ', 'hair disorder', ' ', 'hair growth', ' ', 'growth stimulant', ' baldness haircare skincare']
-Collplant
-	Produces recombinant human collagen from tobacco plants. The company produces sells collagen-based products in medical devices, cosmetics and pharmaceutical products.
-	['', 'medical device', ' ', 'collagen pharmaceutical product', ' cosmetic']
-Scerene Healthcare
-	Provider of personal care and body care products. The company provides a range of personal hygiene and care products for women.
-	['', 'tampons and sanitary napkins', ' ', 'anti-aging cream', ' ', 'body lotion', '']
-Mackmyra Svensk Whisky
-	Mackmyra Svensk Whisky AB is engaged in manufacturing, sales and marketing of malt whiskey and whiskey-related products. The Company offers a range of Swedish Whiskey\'s produced at its distillery located in Mackmyra Mill in Gastrikland.
-	['', 'Single Malt Whiskey', ' Whiskey ', 'Whiskey related products', ' ', 'whiskey events', ' ', 'malt whiskey', '']
-Temmentec
-	Manufacturer of personal care and cleaning products. The company is a service provider of swiss skin and body care products.
-	['', 'personal care', ' ', 'cleaning products', ' ', 'swiss skincare', '']
+InflammaGen
+	Developer of treatment, assay and lavage to treat and diagnose multiple organ dysfunction syndrome (MODS), formally known as multi-organ failure.
+	['', 'dysfunction syndrome', ' ', 'surgical devices', ' ', 'multi-organ failure', ' ', 'inflammatory mediator', '']
+Apneon
+	Developer of healthcare devices for treating obstructive sleep apnea. The company develops products which diagnose and repair the upper airway and restore patients’ health and quality of life.
+	['', 'healthcare devices', ' ', 'obstructive sleep apnea', ' ', 'diagnose and repair the upper airway', '']
+Sleep Solutions
+	Developer of medical devices focused on obstructive sleep apnea. The company provides testing of sleep-disordered breathing and treatment of obstructive sleep apnea.
+	['', 'obstructive sleep apnea', ' ', 'sleep disorder', ' ', 'sleep-disordered breathing', '']
+Medotech
+	Developer of customized devices that analyse biometric signals and convert these into contingent stimulation. The company offers GrindCare devices that measure the activity of the temporalis muscle during sleep through an electrode placed on the temple and then reduces the grinding while patients sleep.
+	['', 'joint disorders', ' ', 'unhealthy reflexes', ' ', 'healthcare devices', '']
+Laboratoires Narval
+	Developer and manufacturer of equipment to treat, diagnose and manage disorders of breathing during sleep. The company manufactures oral appliances for the treatment of sleep disordered breathing and sells its products principally in France.
+	['', 'breathing disorder', ' ', 'oral appliance', ' ', 'sleep breathing cure', ' ', 'diagnostic equipment', '']

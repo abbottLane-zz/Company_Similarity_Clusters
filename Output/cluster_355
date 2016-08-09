@@ -1,36 +1,27 @@
-Mahi Networks
-	Supplier of optical networking equipment. The company supplies multi-service metro packet switching, TDM grooming and reconfigurable optical transport systems to service provider customers.
-	['', 'optical equipment', ' ', 'networking equipment', ' ', 'metro packet switching', '']
-Internet Photonics
-	Provider of optical Ethernet transport and switching products for telecom service providers. The company is a supplier of carrier-grade optical Ethernet products.
-	['', 'switching product', ' ', 'network product', ' ', 'optical Ethernet transport', ' ', 'networking device', '']
-IL&FS Transportation & Networks
-	Developer of surface transport infrastructure projects. The company constructs and operates national and state highways, roads, flyovers and bridges, as well as metro rail, bus transportation and border entry points.
-	['infrastructure ', 'infrastructure projects', ' transport ', 'surface transport infrastructure projects', '']
-Cerent
-	Manufacturer of optical transport platform for service provider.
-	['', 'optical equipment', ' ', 'optical transport platform', ' ', 'optical network', ' ', 'scalable transport', '']
-Mintera
-	Provider of high-performance optical transport sub-systems solutions. The company\'s solutions enable deployment of next generation 40 Gbps optical transport in metro-core, regional, long- haul and ultra long-haul optical networks. It primarily serves the carriers, enterprises, educational institutions, and government agencies.
-	['', 'transport subsystem', ' ', 'optical network', ' networking ', 'data transmission', ' ', 'fiber optic', '']
-Azanda Network Devices
-	Operator of a communications semiconductor company. The company develops semiconductors for use in next-generation optical and metro-area networks and multi-service traffic management solutions for routers and switches.
-	['optical ', 'traffic management', ' routers']
-RouteLambda
-	Provider of an optical networking equipment. The company provides outsourced assembly of standardized optical networking equipment and broad base communication equipment in Japan.
-	['', 'optical networking', ' ', 'communication equipment', ' ', 'outsourced assembly', '']
-Tenor Networks
-	Provider of communications equipment that offers service intelligence for optical networks.
-	['', 'communication equipment', ' ', 'optical network', ' ', 'optical switch', ' ', 'optical bandwidth', '']
-Elixent
-	Provider of reconfigurable arithmetic processors. The company offers reconfigurable semiconductor which helps chips to change its functions even when in use. The company also offers silicon devices and supporting software
-	['', 'arithmetic processors', 'chip', 'reconfigurable semiconductor', '']
-Avantry
-	Provider of broadband wireless optical network services. The company offers transmission product line, ranging from low to high capacity, integrating microwave radio and optical transport systems aimed at carrying flexible combinations of SDH, PDH voice and data and ethernet traffic.
-	['', 'transmission product', ' ', 'data transmission', ' ', 'information technology', '']
-Movaz Networks
-	Provider of optical solutions in the United States. The company provides next generation all optical solutions for delivery of cost-effective wavelength services. Its products are designed for metro, regional, enterprise and government networks. The products are carrier-class solutions incorporating optical transport, distributed photonic switching, generalized multiprotocol label switching (GMPLS) protocols, and standards-based network management.
-	['optical wavelength ', 'photonic switching', ' ', 'network management', ' network photonic']
-Xebeo Communications
-	Developer of optical packet switch for metro networks. The company offers switching platforms that deliver packet services with QoS guarantees and manageability.
-	['', 'optical packet', ' ', 'packet switch', ' ', 'metro network', ' ', 'switching platform', '']
+Higher One
+	Provider of technology and payment services to the higher education industry. The company provides student refunds, on-campus and community purchases, payroll and employee expenses, as well as the collection of payments from students, parents, and sponsors.
+	['', 'higher education', ' education ', 'student refund', ' ', 'community purchase', ' payroll ', 'payment collection', '']
+Chancery Software
+	Provider of school administration and curriculum management software. The company\'s software tools help in the management of student information, such as enrollments, scheduling, attendance, grading and student performance.
+	['', 'student information system', ' ', 'curriculum management software', ' ', 'student data management', ' ', 'information management systems', ' ', 'software tools', '']
+Hallway Social Learning Network
+	Provider of social learning network. The company\'s network enables student-to-student collaboration.
+	['', 'social learning network', ' ', 'student network', ' ', 'student collaboration', ' ', 'note sharing', ' ', 'assignment collaboration', ' ', 'ranking content', ' ', 'storing content', '']
+Macmillan New Ventures LLC
+	Provider of a virtual online science labs for secondary schools and higher education institutions. The company\'s online laboratory contains over 100 interactive lab simulations that are utilized by secondary and higher education institutions in the United States and abroad.
+	['', 'simulation technology', ' ', 'science education', ' ', 'laboratory simulation', ' ', 'online education', ' ', 'online science lab', ' ', 'online laboratory', '']
+TopSchool
+	Provider of simplified ways in which colleges manage and report student information. The company built the first SaaS student administrative system in higher education to address key aspects of the student lifecycle, including recruitment, retention and career services.
+	['', 'administrative technology', ' ', 'lifecycle management system', ' ', 'information management solution', ' ', 'customizable student portal', ' ', 'customizable faculty portal', ' ', 'information system', ' ', 'educational lifecycle', ' ', 'College Student Information System', '']
+Collegis
+	Provider of education, business and technology services to higher education institutions. The company provides services that help in improving the delivery of education, increase student recruitment and retention and increase revenues while stabilizing and reducing costs.
+	['', 'education services', ' ', 'higher education institutions', '']
+Socrative
+	Provider of an intelligent student response system. The company empowers teachers to engage & assess the class with educational activities on laptops, smartphones and tablets.
+	['', 'student response system', ' ', 'blended learning', ' ', 'e learning', '']
+Always Prepped
+	Developer of education software focused on classroom data management for the K-12 marketplace. The company\'s software aggregates and analyzes student classroom performance, attendance and behavior metrics from several online programs in a single dashboard for teachers.
+	['', 'student data', ' ', 'education data', ' ', 'education platform', '']
+VisualCV
+	Provider of technology and support to build and manage online career portfolios and securely share professional qualifications with employers, customers, partners, and colleagues. The company helps in recruitment and career management.
+	['', 'online career portfolio', ' ', 'online CV', ' ', 'career management', ' ', 'professional networking', '']

@@ -1,12 +1,18 @@
-numberFire
-	Provider of a sports analytics platform to predict and analyze sports performance. The company develops technology that helps players to use mathematical modeling tools and algorithmic analysis to understand, analyze and predict their team performance.
-	['', 'quantitative analysis', ' ', 'statistical reasoning', ' ', 'sports statistics', ' ', 'sports performance', '']
-Performance Genomics
-	Developer of deoxyribonucleic acid (DNA) sequence based predictive algorithms. The company develops and commercializes deoxyribonucleic acid that control reproductive performance in mammals. It also develops genomics tests to predict how long livestock will stay fertile, which farmers can use for selective breeding.
-	['', 'livestock breeding', ' ', 'increase fertility', ' genome']
-Ponte Solutions
-	Developer of model-based software products and design-for-manufacturing solutions that analyze, predict and reduce the impact of process variability during the manufacture and design of semiconductors.
-	['', 'semiconductor software', ' ', 'manufacturability solution', ' ', 'design automation', ' ', 'IC design', '']
-Opsmatic
-	Provider of tools for professional operations. The company\'s technology helps professionals to complete their tasks in a strategic manner thus keeping performance, deployments and downtime under check.
-	['', 'professional operation', ' ', 'workflow software', ' ', 'performance management', '']
+Tablus
+	Provider of content loss prevention solutions that locate, monitor, and protect sensitive enterprise information across their networks and desktops from loss or misuse.
+	['', 'content loss prevention', ' information network ', 'sensitive information', '']
+Orchestria
+	Designer and provider of software and solutions targeted at information protection and control. The company helps prevent data loss, address compliance concerns, and enforce information classification and control.
+	['', 'information protection', ' ', 'information control', ' ', 'online software', '']
+Cobion
+	Developer of content security solutions and anti-spam technology. The company provides software solutions to protect organizations from unwanted internet content and also protect private computers from dangerous content.
+	['anti-spam database ', 'content security', '']
+Reconnex
+	Developer of appliance-based data loss prevention system. The company provides system that helps an organization to protect all information assets on its network against known and emerging threats.
+	['', 'data loss prevention', ' ', 'data protection', ' ', 'information security', ' ', 'enterprise security', '']
+SafeCentral
+	Developer of security software applications and technologies for data loss prevention. The company offers software solutions and services for web browsing that provide security against identity theft by locking out desktop malware and establishing web connections. Its technology block key-loggers, screen-scrapers, and other malware agents; ensure a connection to the actual site; and provide protection for seamless integration into user’s existing browsing habits.
+	['', 'security software application', ' ', 'data loss prevention', ' ', 'data security', '']
+Code Green Networks
+	Provider of data-loss prevention and content-security technology for enterprises. The company offers a platform that provides enterprises with content monitoring and data loss protection from insider threats and accidental misuse.
+	['', 'data loss prevention', ' ', 'content security', ' ', 'accidental misuse', ' ', 'enterprise solution', '']

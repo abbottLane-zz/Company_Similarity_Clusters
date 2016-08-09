@@ -1,27 +1,30 @@
-Covagen
-	Operator of a biopharmaceutical company focused on therapies for inflammatory diseases and cancer. The company provides a proprietary platform that genetically fuses Fynomer binding proteins to antibodies, resulting in therapeutics with novel modes of action. The company’s first clinical drug candidate is designed for treatment of rheumatoid arthritis, psoriatic arthritis and other inflammatory diseases.
-	['', 'inflammation binder', ' ', 'protein therapy', ' ', 'clinical drug', '']
-Kanisa Pharmaceuticals
-	Provider of oncology focused pharmaceutical services. The company is focused on developing new treatments for cancer with novel testing formats to stratify patients and predict likely responders to therapy.
-	['', 'cancer treatment', ' ', 'pharmaceutical service', ' ', 'diagnosis service', '']
-Cyrenaic Pharmaceuticals
-	Developer of drugs for schizophrenia and bipolar disorder. The company is focused on the development of CYR-101, an innovative antipsychotic for the treatment of schizophrenia.
-	['', 'schizophrenia treatment drug', ' ', 'bipolar disorder treatment', ' ', 'drug development', '']
-Apalexo Biotechnologie
-	Operator of a biopharmaceutical company focused on cancer treatment. The company is focused on development of a treatment to eradicate residual tumor cells following conventional cancer therapies.
-	['immunotherapeutics cellular']
-Arana Therapeutics
-	Provider of biotechnology services. The company is focused on the development of antibody and peptide products for the treatment of inflammatory diseases and cancer.
-	['', 'inflammatory diseases', ' ', 'peptide products', ' ', 'research services', '']
-Oxxon Therapeutics
-	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
-	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
-Nucleonics
-	Provider of biotechnology services. The company is engaged in the development of novel RNA interference-based therapeutics for viral and other diseases.
-	['', 'therapeutic products', ' ', 'biotechnology services', ' ', 'viral diseases', '']
-Virxsys
-	Provider of a biotechnology company. The company provides technology for the development of gene and vaccine therapies for the treatment of HIV, cancer and genetic diseases.
-	['', 'vaccine therapy', ' ', 'genetic disease', ' ', 'biotechnology company', '']
-Automated Cell
-	Developer of antibody therapeutic antibodies for the treatment of oncology and immune disease. The company is focused on the development of monoclonal antibody therapeutics for the treatment of cancer.
-	['', 'antibody therapeutic', ' ', 'therapeutic treatment', ' ', 'oncology disease', ' ', 'immune disease', ' ', 'monoclonal antibody', '']
+Lookcraft
+	Retailer of curated men\'s apparel and accessories. The company provides men with clothing and accessories suggestions based on the preferences that are selected through the company\'s website, which it then sells as a package to the customer.
+	['', 'discovery commerce', ' curated ', 'mens apparel', '']
+Koodos
+	Retailer of apparel and accessories. The company specializes in selling online excess inventory and end of season stock for various brands.
+	['', 'stock clearance sale', ' ', 'online shop', ' ', 'discount fashion store', '']
+TRB International
+	Manufacturer of men\'s luxury swimwear, accessories and resort wear. The company designs and distributes high end swimwear and accessories.
+	['swimwear ', 'pants and shorts', ' cap']
+Tie Society
+	Provider of an online rental service for neck-wear and menswear accessories. The company offers a monthly subscription service where the members can choose and rent a number of ties every month.
+	['', 'necktie rental', ' menswear ', 'rental service', '']
+M2M Fashion
+	Retailer of customized clothing and accessories. The company through its website sells men\'s personalized garments through an online self-surveying process.
+	['', 'fashion accessories', ' ', 'personalized garments', ' ', 'customized clothing', ' ', 'self-surveying process', '']
+El Secreto del Mar
+	Manufacturer of youth sportswear. The company is a manufacturer of sporting apparel and accessories under the brand name El Nino.
+	['', 'sport apparel', ' ', 'apparel and accessory', ' ', 'apparel manufacturing', '']
+Vipventa
+	Provider of an e-commerce platform for fashion and luxury products. The company is a Spain-based retailer of apparel and accessories for men, women and children.
+	['', 'e-commerce', ' kinga ', 'disney pictures', '']
+MyNines
+	Aggregator of private-sales websites. The company provides a platform that aggregates limited-time deals on discounted sample products, enabling customers to visit just one site for multiple retailers. The company offers shopping opportunities in men\'s and women\'s fashion, jewelry and accessories, beauty, wines, travel and sports gear.
+	['', 'sample sales', ' ', 'sample search', ' ', 'online product', ' cloth']
+Mon Showroom
+	Retailer of fashions for men, women and children. The company is an online retailer of French-inspired clothing and accessories.
+	['', 'fashion retail store', ' ', 'ready to wear', ' ', 'women trend', '']
+Jackalope Labs
+	Operator of a fashion-retail site with curated, home-try-on selections. The company operates an electronic commerce site for men and women utilizing its own label, sending customers curated garment collections to try on at home and charging them for the garments they opt to keep.
+	['', 'luxury clothing', ' ', "men\\'s apparel", ' ', "women\\'s apparel", ' ', 'internet retail', ' ', 'fashion retail', '']

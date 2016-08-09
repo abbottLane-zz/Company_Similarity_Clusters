@@ -1,30 +1,33 @@
-Polimetrix
-	Developer of databases, infrastructure and analytics for politics and survey research. The company provides information product that collects responses and calculates BIX net metrics based on the responses. It also provides consulting, online survey and online qualitative services.
-	['', 'survey research', ' ', 'politics research', ' ', 'online qualitative service', ' ', 'online polling', '']
-Active Reasoning
-	Provider of information technology controls automation software for information technology policy enforcement. The company’s solution collects data from the information technology infrastructure and change management system for validation, as well as detects and reconciles authorized changes, and uncovers the unauthorized changes and out-of-compliance activities that put the infrastructure at risk.
-	['', 'automation software', ' ', 'policy enforcement', ' ', 'change management', ' ', 'compliance activity', '']
-Change Dynamics
-	Provider of software provisions for change management. The company provides software provisions within the IT Infrastructure environment, enabling cost-effective compliance with Sarbanes-Oxley 404 as well as conformity to ITIL guidelines.
-	['', 'information technology', ' ', 'lifecycle management', ' ', 'implementation services', '']
-Consul Risk Management International
-	Provider of compliance and security audit software. The company provides software that helps to track the clients , report and investigate non-compliant behavior, such as unauthorized activity by information technology administrators or other users.
-	['', 'security audit', ' compliance ', 'security management', '']
-Securent
-	Provider of entitlement management solutions. The company’s Entitlement Management Solution (EMS), is an XACML-based solution, which allows organizations to administer, enforce, review, and audit fine-grained access policies across heterogeneous application and information technology environments distributed in the enterprise with centralized management and visibility.
-	['', 'entitlement management solution', ' ', 'content management', ' ', 'software solution', ' ', 'digital rights management', '']
-Active Control eXperts
-	Provider of Active Vibration Control (AVC) services. The company\'s vibration controls technology actively damps or controls unwanted vibration. It also provides vibration-controlling tolls to OEMs.
-	['', 'vibration controlling toll', ' ', 'vibration control', ' ', 'semiconductor manufacturing', ' ', 'motion control component', ' ', 'vibration suppression', '']
-Trust Digital
-	Provider of enterprise mobility management technology and security software for government organizations and various companies. The company offers its services to secure, deploy, and manage smartphones for information technology organizations. It also offers EMM Console, a browser-based software to centrally manage the different smartphones used by mobile workers, as well as to provide policy management tools, reporting capabilities and compliance enforcement facilities to secure smartphones and ruggedized devices.
-	['', 'enterprise mobility management', ' ', 'smartphone management', ' ', 'policy management tool', ' ', 'compliance enforcement', '']
-Network Solutions (Bangalore)
-	Provider of information technology (IT) infrastructure solutions, software and services for enterprise customers. The company offers NOC Inside, an IT Infrastructure management service for managing end to end IT infrastructure and Desktop Manager, a web based application that allows system administrators to auto discover, monitor and report software and hardware inventory.
-	['', 'information technology', ' ', 'infrastructure solution', ' ', 'web based application', '']
-RapidBlue Solutions
-	Provider of retail data and offline shopper analytics. The company uses radio frequency technology to collect shopper movement information and then transforms the anonymous data into information and insights that retailers can use to manage the marketing, merchandising and operations of their businesses.
-	['', 'retail data', ' ', 'radio frequency', ' ', 'shopper movement', '']
-Lighter Living
-	Operator of a lifestyle brand. The company provides women with the tools, products and information to better manage the life and body changes that come with age. It also offers intelligent education, sound information, and efficacious and safe products crossing all categories from food to personal care.
-	['', 'personal care', ' ', 'healthcare information services', ' ', 'fitness product', '']
+Mahi Networks
+	Supplier of optical networking equipment. The company supplies multi-service metro packet switching, TDM grooming and reconfigurable optical transport systems to service provider customers.
+	['', 'optical equipment', ' ', 'networking equipment', ' ', 'metro packet switching', '']
+Phobos Corporation
+	Developer of internet security and enterprise switching products. The company engages in the design, development and sale of Internet traffic management solutions.
+	['', 'Internet traffic management', ' ', 'Web hosting', '']
+Crosslayer Networks
+	Developer of communication network products and components. The company develops scalable silicon that brings quality service capabilities to next generation switches and routers. The company\'s combined packet-processor and switch fabric architecture accommodates emerging technologies as 10-gigabit Ethernet and MPLS which allows system vendors to create products at low power and price.
+	['', 'communication network products', ' silicon ', 'switches and routers', ' ', 'switch fabric architechture', ' packet-processor']
+Enigma Semiconductor
+	Operator of a semiconductor company. The company provides semiconductors for switching systems for network and storage. It also provides line card and backplane systems up to 6.25G link speed and up to 1x40G line card speeds.
+	['', 'chassis equipment', ' ', 'crossbar switches', ' ', 'fabric managers', ' chipset']
+XLight Photonics
+	Manufacturer of tunable transponders. The company develops and commercializes next-generation optical switching fabrics for multi-terabit routers.
+	['', 'scalable solution', ' ', 'network congestion', ' ', 'information technology', '']
+Jungul Communication
+	Operator of communications agency specializing in the design and development of websites. The company develops logos, graphic charters and specific interactive tools for the creation of website.
+	['', 'communication agency', ' ', 'website development', ' ', 'graphic charters', ' ', 'interactive tools', ' website']
+Azanda Network Devices
+	Operator of a communications semiconductor company. The company develops semiconductors for use in next-generation optical and metro-area networks and multi-service traffic management solutions for routers and switches.
+	['optical ', 'traffic management', ' routers']
+SwitchOn Networks
+	Provider of semiconductor and software components to the Content and Policy-based networking. The company\'s products enable next generation network equipment, including web and content switches, CMTS, DSLAM, enterprise routers, edge routers, bandwidth managers, VPNs, Firewalls and Intrusion detection systems.
+	['', 'semiconductor and software component', ' ', 'wirespeed packet classification', ' ', 'networking solution', ' ', 'networking device', ' ', 'semiconductor component', ' ', 'semiconductor networking solution', ' ', 'networking equipment', ' ', 'packet content processor', '']
+Wilinx
+	Operator of a semiconductor company providing single-chip CMOS services covering the entire UWB bandwidth from 3 to 10 GHz. The company enables a wimedia based universal and robust wireless connectivity with enhanced range and data-rate for wireless personal area networks.
+	['', 'CMOS services', ' ', 'wireless connectivilty', ' ', 'personal area network', ' bandwidth ', 'semiconductor company', '']
+Kystlink
+	Operator of ferry shipping services. The company schedules cargo traffic between Langesund and Hirtshals, and between Langesund and Strømstad.
+	['', 'ferry shipping', ' ferry shipping cargo']
+VocalData
+	Developer of service delivery soft switches and service platforms. The company enables communications carriers to deliver telephony and communications services on next generation networks (NGNs).
+	['', 'service delivery', ' ', 'service platform', ' ', 'communication service', '']

@@ -1,18 +1,48 @@
-Aduva
-	Developer of software applications for maintaining Linux computer systems. The company\'s product, Aduva OnStage, is a life-cycle management application which is used to detect, analyze, and resolve any deviation, conflicts or drift from compliance. The application ensures security and system compliance in supporting the build, test, stage, deployment, and production stages.
-	['', 'software application', ' ', 'Linux computer systems', ' ', 'system maintenance', ' ', 'system compliance', '']
-Prolyte Group
-	Provider of aluminum supporting systems for the entertainment and exhibition industry. The company manufactures modular aluminium supporting systems (trussing) used for constructing stages and mounting light fixtures, scenery and speakers. The company also produces mobile stages and rigging material.
-	['trussing ', 'aluminium supporting', ' ', 'mobile stage', '']
-Columbia Pacific Aluminum
-	Provider of aluminum-casting services. The company operates an aluminum-extrusion operation, with plants in  Modesto, Watsonville and City of Industry in the U.S. state of California.
-	['', 'metal casting', ' ', 'aluminum extrusion', ' ', 'aluminum casting', '']
-Remi Claeys Aluminium
-	Producer of semi-finished aluminum products. The company produces high-frequency welded tubes made of aluminum that are used for various purposes such as gardening tools, cycle frames, furniture, and telescopic handles. The company also produces precision welded tools which are used in radiators and air-conditioners.
-	['', 'aluminum products', ' ', 'aluminum frames', ' ', 'welded tools', ' ', 'aluminum tools', '']
-EKB Technology
-	Developer of a bioprocessing technology. The company\'s technology platform is used for eliminating the stages involved in product purification and clean up by combining the production and recovery of chemicals.
-	['', 'bipolar electrodialysis', ' electrokinetic chemistry electrodialysis']
-Discovery Bay Games
-	Provider of iOS accessories and supporting applications. The company develops content for tablet play experiences.
-	['', 'iOS accessory', ' ', 'multi player game', ' ', 'gaming application', ' ', 'game accessory', ' ', 'tablet accessory', ' ', 'iPad accessory', '']
+alma bioinformatics
+	Developer of software for information retrieval and analysis of text biomedical data. The company specializes in the research and development of biomedical software. It\'s mission is to provide the life science community with innovative information technologies that enable the search, management and relation of the knowledge available in different sources, facilitating its analysis and comprehension.
+	['', 'information retrieval', ' ', 'biomedical data', ' ', 'text mining', '']
+Cataphora
+	Developer of data mining technologies. The company develops software technologies for finding patterns and anomalies in digital communications.
+	['analytics investigation ', 'behavioral modeling', '']
+Decision Team - Software
+	Developer and distributor of data-mining tools for workflow in the oil industry. The company is the provider of intelligent reservoir surveillance software called DECIDE!, which captures, analyzes and transforms historical and real-time production data into actionable operational decisions.
+	['', 'data mining', ' ', 'E&P sector', ' ', 'oil industry', ' ', 'real-time data', '']
+CompanDX
+	Developer of in-house data analysis algorithms to identify patterns in healthcare datasets. The company applies its technology to clinical-trial and medical-sample data to find disease markers and help drug developers in creating approved drugs.
+	['', 'data analysis', ' ', 'healthcare data', ' ', 'medical sample', ' algorithms SaaS']
+Spotfire
+	Provider of interactive, visual data analytics applications and services. The company\'s analytic application, offers an interactive, visual approach to data analysis that empowers individuals to see trends, patterns, outliers and unanticipated relationships in data.
+	['', 'data analysis', ' ', 'visual data analytics', ' ', 'analytics application', '']
+Alpharel
+	Developer of data-management systems.The company develops multi-terabyte engineering-data systems.
+	['', 'data management', ' ', 'engineering data', ' multi-terabyte']
+Anvil
+	Provider of data mining, analysis, and visualization services to the pharmaceutical and biotechnology companies. The company has developed a software internally which allows the exploration of large and complex datasets that help the clients in their decision-making process.
+	['', 'data exploration', ' ', 'data mining', ' ', 'data visualization', '']
+Predictive Edge
+	Provider of online retail technology services. The company\'s software platform makes product pricing easy and different to online retailers by applying advanced data mining and artificial intelligence techniques to large bodies of data.
+	['', 'data mining', ' ', 'social platform software', ' ', 'artificial intelligence technique', '']
+Oxford NanoScience
+	Manufacturer of 3-dimensional atom probes. The company\'s laser atom probe offers high resolution sample data acquisition together with comprehensive data analysis for a range of low and high resistivity materials.The atom probe is a point projection microscope capable of resolving the chemical identity and position of individual atoms in 3D with atomic resolution in the z direction and sub-nanometer lateral resolution.
+	['', '3-dimensional atom probe', ' ', 'laser atom probe', ' ', 'point projection microscope', ' ', '3D Atom Probe analysis system', '']
+Neovest
+	Developer of proactive intelligent technology solutions. The company provides technology that allows buy and sell-side communities to leverage an integrated suite of pre-trade analytics and order entry functionality to achieve best execution within today’s fast-paced and fragmented electronic markets. The company provides products and technologies that enable fast and efficient delivery of market data from multiple sources and drive real-time data analysis and decision support.
+	['', 'software technology', ' ', 'broker-neutral financial technology', '']
+Datahero
+	Provider of a platform that helps users to analyze, visualize and understand data. The company offers data analysis tools for users to import internal data, store it in a spreadsheet format, link multiple sources and create data dashboards to track various types of information.
+	['', 'data analysis tool', ' ', 'database platform', ' ', 'data dashboard', '']
+PharmaDM
+	Provider of data analysis software and services. The company offers data analysis, data mining, and text mining software and services for researchers in life sciences, with a focus on drug discovery.
+	['', 'data analysis', ' ', 'text mining software', ' ', 'data mining', '']
+Alternis
+	Provider of software services for telecom data processing. The company provides prepackaged software for electronics and telecom industries.
+	['', 'telecom data processing', ' ', 'telecom software', ' ', 'real time proceesing', '']
+LightMiner Systems
+	Provider of data management systems. The company offers an appliance that is designed by integrating different software and hardware architecture for data analysis.
+	['', 'data processing', ' ', 'data management system', ' ', 'hardware architecture', '']
+Wakoopa
+	Provider of online software services. The company develops multi-device passive metering technology which collects behavioural data from research participants. Its technology tracks what websites are visited, what advertisements are seen or what applications are used.
+	['', 'database software', ' ', 'behavioural data', ' ', 'technology tracks', '']
+Signal Data
+	Provider of proprietary retail analytic software platform. The company offers analytic, operational data and mapping analysis to assess the quality of U.S.-based retailers locations on a comprehensive and updated basis.
+	['', 'analytic software platform', ' ', 'mapping analysis', ' ', 'analytic platform', ' ', 'data analytic software', '']

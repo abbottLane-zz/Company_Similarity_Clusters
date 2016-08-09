@@ -1,24 +1,21 @@
-Cypher Genomics
-	Provider of cloud-based genomic analytic services. The company develops a proprietary ranking algorithm that is more effective at disease variant identification compared to other methodologies.
-	['', 'genomic analysis', ' ', 'proprietary ranking algorithm', ' genomics']
-Spotsetter
-	Provider of a social search engine that offers personalized recommendations for places to go. The company\'s platform uses a ranking algorithm that leverages each user’s content across different social networking sites.
-	['', 'search engine', ' ', 'user content', ' ', 'search recommendation', '']
-eGuardian
-	Provider of a software solution that blocks contact with online predators and filters out adult content without hindering a child\'s learning, social networking, and exploring opportunities. The company helps to make online communication, including social networking sites, chat, and email safe from sexual predators and adult content.
-	['', 'online communication', ' ', 'block online predator', ' ', 'block adult content', ' ', 'social networking', '']
-NutshellMail
-	Provider of services that help in keeping track of social networking activities. The company was developed so that all the users who have multiple accounts on various social networking sites could keep track of their activities easily.
-	['', 'social networking', '', 'social network application', '', 'social software', '']
-OkCupid
-	Provider of an online dating service and social-networking website. The company uses an algorithm-based system to evaluate user questionnaires and suggest compatible connections. The company was acquired by Match.com in February 2011.
-	['', 'online dating', ', ', 'social networking', ', ', 'dating website', '']
-Delver
-	Developer of a social search engine to help users to find content, media and people within their network.
-	['', 'social search engine', ' ', 'social network search', ' ', 'people search', '']
-TalentSpring
-	Provider of software as a service-based automated candidate sourcing services and solutions for recruiters and human resources professionals in the recruiter industry. The company enables recruiters and hiring managers to find resumes for passive and active candidates on social networking sites, job boards, and corporate application tracking systems utilizing semantic-search technology and a revolutionary resume-ranking algorithm.
-	['', 'resume search engine', ' ', 'candidate sourcing service', ' ', 'recruitment solutionl', '']
-Gowalla
-	Provider of social-networking service for smart phones. The company gives people a way to communicate and express themselves through the everyday places and extraordinary settings they enjoy.
-	['', 'social networking', ' ', 'mobile application', ' ', 'mobile chat application', '']
+Flytteportalen
+	Provider of online address change service. The company also offers a mov- related trade portal where users can get an overview of available services. The company also enables customers to address notification to suppliers and partners and update them with the company\'s new address, billing address, office address and shipping address.
+	['address ', 'address notification', ' ', 'advertising service', ' ', 'information service', '']
+Sipcall.com
+	Developer of innovative Session Initiation Protocol (SIP) based services. The company\'s products include Hipsip, a SIP service for mobile phone users in the United States and internationally.
+	['', 'Session initiation service', ' ', 'broadband connection', ' ', 'personalized phone number', ' ', 'telephone network', '']
+Vox.io
+	Provider of chat and video calls from browser. The company\'s technology import contacts with phone numbers from Google contacts and Linkedin for communication.
+	['', 'video calling', ' ', 'online chatting', ' ', 'online calling', ' ', 'browser calling', '']
+Seeker Wireless
+	Developer of mobile phone geolocation and zone detection technologies. The company provides zone based charging with low network impact for GSM, 2G and 3G networks and also provides SeekerZone that helps zone status detection, reporting to the handsets and signals through USSD, SMS and GPRS.
+	['geolocation ', 'zone detection', ' GSM GPRS 3G']
+Mingly
+	Provider of a web service that brings email and social networks together. The company offers an online service, which aggregates contacts from Gmail, Facebook, LinkedIn, and Twitter into a searchable merged address book.
+	['', 'contact management', ' ', 'relationship management', ' ', 'social networking application', '']
+FusionOne
+	Provider of mobile phone backup services in the United States and internationally. The company\'s products include MightyBackup that enables users to store, manage, and transfer mobile phone content, such as contacts, photos, messages, memories, and purchased content; and Network Address Book, which helps users to organize and manage their various address books through a single interface, and share their contacts across their different address books and social networks. The company also provides Social Address Book services that aggregate mobile, messaging, Internet, and social communications into a contact-centric view to access friends\' activities.
+	['', 'mobile phone backup service', ' ', 'mobile content portability', ' ', 'Handset Transfer solution', ' ', 'Social Address Book service', '']
+Vlingo
+	Provider of speech recognition software that delivers a voice interface for mobile applications. The company software translates voice into text and enables users with various applications, such as email, text messaging, Web search, dialing, address book, and launching applications.
+	['', 'speech recognition software', ' ', 'voice interface', ' ', 'voice translation', '']

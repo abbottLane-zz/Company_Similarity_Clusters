@@ -1,51 +1,18 @@
-American Overseas Group
-	Provider of non-standard auto insurance. The company operates as a professional reinsurer through subsidiaries in Bermuda and Barbados, provides management services in the U.S. and offers captive management services in Bermuda and Barbados.
-	['', 'auto insurance', ' ', 'management services', ' ', 'professional reinsurer', '']
-Care Team Connect
-	Provider of a care coordination platform. The company provides a technology platforms to coordinate between hospitals, community providers, family members, and patients. It provides solutions for clinical and financial performance throughout the continuum of care.
-	['', 'care technology platform', ' ', 'care coordination platform', ' ', 'care management', '']
-Openshift
-	Developer of deployment and management services in the cloud. The company provides a virtual "application capsule" to run business critical web applications with self-service deployment and management built in.
-	['', 'virtual application capsule', ' ', 'deployment service', ' ', 'virtual application', ' ', 'business application', '']
-Health and Productivity Corporation of America
-	Provider of health care management services. The company provides a continuum of care management services integrating health management, disease management, complex care management, disability management, workers\' compensation management and case management services.
-	['', 'health care management', ' ', 'health care service', ' ', 'disease management', ' ', 'complex care', ' ', 'disability management', '']
-Boston Heart Diagnostics
-	Provider of cardiovascular disease management services. The company provides cholesterol balance test and Boston Heart Navigator. It also conducts studies for the pharma industry and health care research organizations to support drug and therapy trials.
-	['', 'cardiovascular disease management', ' ', 'cholesterol balance test', ' ', 'healthcare research', ' ', 'cardiovascular disease', '']
-CleveX
-	Provider of skin biopsy and wound care management products. The company provides ExiClip, a surgical device that eliminates the surgery and suture approach used by medical professionals to remove skin lesions, and improves patient outcomes.
-	['', 'skin biopsy', ' ', 'cosmetic surgery', ' ', 'surgical devices', ' ', 'skin lesion', '']
-Digital Healthcare
-	Provider of healthcare information technology. The company provides image management and storage solutions for the Ophthalmology sector with core competencies in clinical information and patient care management.
-	['', 'ophthalmology', ' ', 'healthcare technology', '']
-Imperative Health
-	Provider of technology services for personalized weight management. The company is focused on providing ground-breaking health management technology services to address high-risk health conditions, including diabetes, high blood pressure, obesity and raised cholesterol.
-	['', 'weight management', ' ', 'health management technology', ' ', 'behavioural change system', ' ', 'technology platform', '']
-Presidium Holdings
-	Provider of managed care and administrative services for worker\'s compensation. The company provides complete set of claims management and managed care services that allow self-insured, mid-sized companies to manage their workers\' compensation.
-	['', 'administrative services', ' ', "worker\\'s compensation", ' ', 'claim management', '']
-Probity Medical Transcription
-	Provider of clinical documentation services and integrated technologies to healthcare providers. It provides electronic medical transcription and document management services to the health care industry.
-	['', 'clinical documentation', ' ', 'healthcare integrated technology', ' ', 'electronic medical transcription', ' ', 'document management', '']
-Thap
-	Provider of internet application services. The company works with private and public employers to improve their health and disability management programs.
-	['attendance public']
-Novalis
-	Provider of outsourced management services for provider sponsored managed care networks. The company provides administrative, management and computing services to physician networks and managed care companies.
-	['', 'management service', ' ', 'care network', ' ', 'physician network', '']
-Sanovia
-	Provider of pharmacy management services. The company focuses on pharmaceutical administration, validation, utilization, cost, workflow management, fraud, abuse management and technology services.
-	['', 'managed care', ' ', 'pharmaceutical administration', ' ', 'PA Logic', '']
-Accelion
-	Provider of management services for hospitals and health systems. The company partners with hospitals and health systems to optimize the performance of home-care agencies.
-	['', 'home health service', ' ', 'infusion pump', ' ', 'pharmacy technician', ' ', 'home care service', '']
-CyberIQ Systems
-	Provider of website management services. The company uses its expertise in Internet traffic and content management along with acceleration technology to make websites and web applications faster and more reliable.
-	['', 'website management', ' ', 'internet traffic', ' ', 'web application', '']
-Omnimark Technlogies
-	Developer and distributor of load and application management.
-	['', 'load management', ' ', 'application management', '']
-Vivra Specialty Partners
-	Provides physician network and disease management services. The company operates as a managed care services in various specialties, including asthma and allergy, cardiology, urology, neurology, diabetes, orthopedics, dialysis/nephrology, ENT, and OB/GYN.
-	['', 'multispeciality clinic', ' ', 'healthcare services', '']
+Aqua Pro Technologies
+	Developer of advanced microbial feed additives for aquatic organisms. The company develops probiotic additives for aquatic organisms including different fish species for enhancement of their immune response.
+	['', 'microbial feed', ' ', 'probiotic additives', ' ', 'feed additives', ' ', 'feed products', '']
+Rasiris
+	Developer of photodynamic therapy (PDT) and the treatments of breast cancer and age-related macular degeneration. The company received financial support from Pacific Horizon Ventures to validate the proof of concept in an animal model.
+	['', 'macular degeneration', ' ', 'breast cancer', ' ', 'photodynamic therapy', '']
+SurgRx
+	Provider of tissue sealing and hemostasis systems for laparoscopic and open surgery. The company makes radio frequency-controlled tissue sealing device. It develops a proprietary nanotechnology designed to control the delivery of electrosurgical energy in vessel sealing instruments. Its product grasps, dissects, seals, and transects tissues; and provides a seal of vessels encountered during laparoscopic and open surgery.
+	['', 'open surgery', ' ', 'tissue sealing', ' ', 'hemostasis systems', ' ', 'laproscopic surgery', ' ', 'electrosurgical energy', ' ', 'vessel sealing', ' ', 'tissue transection', '']
+Kine Robot Solutions
+	Designer and developer of robot systems for industrial use. The company offers robotic products for the food, metal, building, car and glass industries.
+	['', 'robot systems', ' ', 'grippers', ' ', 'material handling systems', '']
+ForSight NewCo
+	Developer of pharmaceutical products for use in photo dynamic therapy (PDT), using light-activated drugs to treat disease.
+	['', 'pharmaceutical product', ' ', 'photo dynamic theory', ' ', 'light activated drug', '']
+Photopharmica
+	Developer of photosensitizer products for medical use. The company provides photodynamic therapy (PDT) which involves the use of a light source of a specific wavelength to activate a photosensitive drug which can kill diseased tissues or infectious organisms. Its products are used for the treatment of microbial disease in wounds and open surgery.
+	['', 'light sensitive drugs', ' photosensitisers ', 'Infectious Disease', '']

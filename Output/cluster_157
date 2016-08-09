@@ -1,51 +1,21 @@
-Medtech Pharma (Wales)
-	Developer of bioencapsulation based life science and therapeutic products. The company offers drug delivery systems for the formulations of cancer and diabetes treating drugs.
-	['', 'bioencapsulation', ' ', 'therapeutic product', ' ', 'drug delivery system', '']
-Crisi Medical Systems
-	Developer of drug-delivery systems. The company\'s products are designed to improve clinical outcomes and lower healthcare costs by making the delivery of intravenous injectable drugs safer and more accurate.
-	['medication ', 'clinical workflow', ' caregiver']
-Respirics
-	Provider of drug delivery and development services. The company is a respiratory drug delivery and development company serving the pharmaceutical, biotechnology and diagnostic industries. It has developed a proprietary dry powder respiratory drug delivery system that can incorporate a range of drug products to treat respiratory diseases as well as other diseases where systemic drug targeting is required.
-	['', 'drug delivery', ' ', 'inhalation technology', ' ', 'dry powder respiratory', '']
-PreCision Dermatology
-	Developer of dermatological products. The company\'s DELEVO Foam Technology, a drug delivery platform that provides levels of proven active ingredients to the skin with fewer side effects and improvement of the natural skin barrier.
-	['', 'dermatological product', ' ', 'skincare product', ' ', 'skin treatment', '']
-Mistral Pharma
-	Developer of drug-delivery systems. The company develops new controlled-delivery profiles for existing commercial drugs.
-	['', 'drug delivery', '']
-Gardia Medical
-	Developer of catheter based drug delivery systems. The company offers a wire independent distal filtration system that reduces the incidence of embolic complications during stenting procedures, such as carotid and angioplasty.
-	['', 'drug delivery', ' ', 'filtration system', ' ', 'stenting procedure', '']
-OnPharma
-	Developer of a drug delivery system. The company develops a dispensing device for local anesthetic that allows dentist to reduce injection pain and accelerate the numbing of the affected tooth area.
-	['', 'drug delivery', ' ', 'dispensing device', ' ', 'local anesthetic', '']
-iCeutica
-	Manufacturer and provider of branded medicines. The company offers SoluMatrix platform, a drug reformulation and delivery technology for poorly water-soluble compounds.
-	['', 'branded medicines', ' SoluMatrix water-soluble compounds']
-Transcu Group
-	Operator of a drug delivery company. The company engages in the development of a transdermal drug delivery system based on iontophoresis.
-	['transdermal iontophoresis ', 'cutting-edge technology', '']
-Setagon
-	Developer of metallic nanoporous surface modification technology. The company also develops drug delivery technologies for the intravascular treatment of cardiovascular, peripheral vascular and neurovascular diseases.
-	['', 'nanoporous modification technology', ' ', 'drug delivery technology', ' ', 'nanoporous metal coating', '']
-Novosis
-	Provider of transdermal and implantable drug delivery systems. The company specializes in the development and production of transdermal therapeutic systems and subcutaneous implants for drug application.
-	['', 'therapeutic plasters', ' ', 'transdermal therapeutic system', ' ', 'subcutaneous implant', ' plasters ', 'drug delivery', '']
-Therafuse
-	Provider of drug delivery systems. The company uses microelectromechanical (MEMS) technology to develop medication-specific drug delivery systems that will provide the accuracy of pump delivery with the user-friendliness of a patch.
-	['', 'drug delivery', ' microelectromechanical ', 'pump delivery', '']
-Medingo
-	Developer of miniature devices and technologies for people living with diabetes. The company offers Solo Insulin Patch Pump System, a miniature insulin dispensing patch that allows users to personalize and guide patch for insulin needs.
-	['', 'diabetes treatment', ' ', 'insulin need', ' ', 'insulin delivery', '']
-e-Nicotine Technology
-	Developer of electronic nicotine (eNT) products. The company is developing a nicotine product that produces a condensation aerosol of nicotine using a proprietary thermal drug-delivery technology. The eNT platform is designed to produce the appropriate dose of  nicotine particles for deep lung delivery, to reduce cravings and to avoid the carcinogens associated with cigarette smoke.
-	['', 'health care', ' ', 'electronic nicotine', ' ', 'nicotine product', '']
-Orexo
-	Developer of treatments using proprietary drug delivery technology. The company develops a product Diabact, a breath test for diagnosing the stomach ulcer bacterium.
-	['', 'drug delivery technology', ' ', 'insomnia treatment', ' ', 'gastric ulcer', '']
-Intella Interventional Systems
-	Developer of balloon catheters and guide wires for coronary angioplasty. The company\'s products include interventional vascular products, including guide wires, balloon-on-a-wire systems, rapid exchange systems, over-the-wire systems and stent delivery systems.The company supplies its products to cardiologists, physicians and surgeons.
-	['', 'balloon catheters', ' cardiologists']
-Insert Therapeutics
-	Developer of delivery-enhanced therapeutics. The company use patented class of polymeric delivery systems which is called CyclosertÔ family of linear cyclodextrin-containing polymers.
-	['', 'polymeric delivery', ' therapeutics']
+OnCart
+	Provider of online grocery shopping services.
+	['grocery ', 'online shopping', '']
+dealvertise
+	Provider of online deal services that enable high-reach companies to integrate daily deals into their own web sites. The company acts as a neutral facilitator of deals and a service provider of all services to building and operating a group shopping platform.
+	['', 'deal services', ' ', 'neutral facilitator', ' ', 'shopping platform', '']
+Lottay
+	Provider of online gifting solutions.
+	['', 'online gift', ' ', 'personalized message', ' ', 'personalized gift', '']
+Deal Pilot
+	Provider of comparison shopping services trough an online website. The company provides search engines for obtaining online price comparison shopping information via a global computer network and enabling consumers to make purchases of goods and services from others on a global computer network.
+	['', 'comparison shopping', ' ', 'search engines', ' ', 'computer network', ' ', 'price comparison', ' ', 'online price', '']
+6 Wunderkinder
+	Provider of a business task management software with online synchronization. The company provides an interface to track everything from grocery shopping to long-term travel plans.
+	['', 'task management software', ' ', 'online synchronization', ' ', 'productivity software', '']
+Boolistic
+	Developer of a search tool software. The company provides users with access to on-line resources, including communications tools, shopping services, personalized content and branded programming.
+	['shopping ', 'search tool', ' resources']
+FatWallet.com
+	Provider of online shopping services. The company provides coupons and deals for shoppers.
+	['', 'online shopping', ' coupon ', 'shopping deal', '']

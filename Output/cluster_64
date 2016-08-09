@@ -1,27 +1,36 @@
-Arctic Silicon Devices
-	Developer and seller of data converters. The company develops application specific mixed mode signal processing chips, modules, subsystems, integrated circuits, low power ADCs and AFEs.
-	['modules subsystems microwave IC']
-Airify Communications
-	Provider of wireless baseband solutions. The company provides a platform  that utilizes patented core technologies to maintain synchronous connections and implement smart, on-the-fly protocol transfer between 802.11b, Bluetooth, and GPRS protocols. The company takes advantage of low-noise, low-power, small-footprint, multi-processor devices to provide uninterrupted access from cell phones, PDAs, and laptops. Its microprocessor allows the user to download software upgrades and adds flexibility and longevity to their product with a small programmable logic core.
-	['', 'wireless solutions', ' baseband ', 'wirless LAN', ' ', 'IT Services', '']
-Spirea
-	Developer of fabless semi-conductor. The company develops low-cost, integrated and low power radio products for the wireless local and personal area network markets, using CMOS design techniques for radio, mixed-signal and digital designs.
-	['', 'fable semi conductor', ' ', 'personal area network', ' CMOS ', 'digital design', '']
-Toumaz Technology
-	Developer of radio frequency, analogue and mixed-signal semiconductors. The company focuses on development of low power devices for mobile and wireless systems. The company was spun out of Imperial College.
-	['', 'semiconductors production', ' ', 'low power device', ' ', 'wireless systems', ' ', 'radio frequency', '']
-Wilinx
-	Operator of a semiconductor company providing single-chip CMOS services covering the entire UWB bandwidth from 3 to 10 GHz. The company enables a wimedia based universal and robust wireless connectivity with enhanced range and data-rate for wireless personal area networks.
-	['', 'CMOS services', ' ', 'wireless connectivilty', ' ', 'personal area network', ' bandwidth ', 'semiconductor company', '']
-Lightstorm Networks
-	Developer of integrated semiconductors. The company is engaged in developing and manufacturing integrated, low power consuming semiconductor products for the transport of packet data over SONET/SDH and packet networks.
-	['', 'high port density semiconductors', ' ', 'semiconductor products', ' ', 'semiconductor design', '']
-Pump Engineering
-	Manufacturer of advanced technology pumps. The company also provides technology turbo, low pressure turbo, low cost turbochargers, advanced variable speed pumps, gas processing and turbo plus systems.
-	['', 'technology pump', ' ', 'low pressure turbo', ' turbocharger ', 'variable speed pump', '']
-Fresco Microchip
-	Developer of fabless semiconductor. The company develops radio frequency, mixed-signal and digital signal processing integrated circuits for the consumer electronics market.
-	['', 'integrated circuit', ' ', 'digital signal processing', ' ', 'radio frequency processing', '']
-Integrated Device Technology
-	Designer, developer and manufacturer of low power, mixed signal semiconductor solutions for the advanced communications, computing and consumer industries. The company\'s computing products are designed specifically for desktop, notebook, sub-notebook, storage, and server applications while its consumer products are optimized for gaming consoles, set-top boxes, digital TV and smart phones.
-	['signal ', 'semiconductor solution', ' ', 'wireless network', ' ', 'data integration', ' ', 'server application', '']
+ChipData
+	Provider of software and services to the electronics industry. The company provides services to the component suppliers, equipment manufacturers and contract electronic manufacturers to get the products faster and in a cost effective manner.
+	['', 'design chain management', ' ', 'content creation', ' ', 'cost effective', '']
+Arrow Shuttle
+	Provider of airline services. The company provides its services to the aviation industry.
+	['', 'aviation industry', ' airline flight']
+Atosho
+	Provider of e-commerce software and services. The company offers a marketplace infrastructure allowing retailers to offer their products via a range of channel partner websites.
+	['', 'ecommerce solution', ' ', 'B2C Service', '']
+Ciashop
+	Provider of e-commerce software services. The company provides services for electronic commerce in the form of SaaS (Software as a Service). It offers SaaS virtual store, hosting, infrastructure and payments gateway services.
+	['', 'e-commerce software', ' ', 'virtual store', ' ', 'innovative technology', '']
+Everdream
+	Provider of on-demand software and managed services for desktop management. The company provides software-as-a-service (SaaS) solutions for remote-service management. It offers compliance software services suite that provides visibility into hardware and software assets, tracks software license usage, and automates the distribution of software to ensure regulatory compliance to the computers; and up-time software services suite that provides protection against Internet attacks, hackers, and loss of critical data through malware protection, patch management, and online data backup services.
+	['', 'desktop management', ' SaaS ', 'on demand software', ' ', 'service management', ' ', 'remote-service management', ' ', 'compliance software', ' ', 'software license', ' ', 'internet protection', ' ', 'malware protection', ' ', 'patch management', ' ', 'data backup', '']
+Celestry
+	Provider of physical design products. The company offers software and services to electronic and semiconductor companies that are involved with the design of chips.
+	['chips electrinc semiconductor']
+Fine Trade
+	Provider of e-commerce trading services with payment options. The company provides shopping and sales service of national and international goods and handles service transactions for businesses.
+	['', 'trading services', ' ', 'payment options', '']
+Bry Technologia
+	Provider of digital certification hardware and software services. The company provides services to ensure safety in the use of electronic document.
+	['', 'digital certification', ' ', 'software services', ' ', 'electronic services', ' hardware']
+ES Enterprise Solutions
+	Provider of an online software service.
+	['', 'online software', ' ', 'virtual software', ' ', 'software service', '']
+Mohchi
+	Developer of e-commerce software and applications. The company provides applications for online shopping to its customers.
+	['', 'e-commerce software', ' ', 'social/platform software', ' ', 'online shopping platform', '']
+BusinessThreads
+	Provider of E-Commerce software. The company provides a software platform that helps companies set up electronic marketplaces in which buyers and sellers can meet and carry out their business activities.
+	['marketplace ', 'software platform', '  E-Commerce']
+BestVendor
+	Provider of an online resource where business professionals can exchange recommendations for work-related software and services. The company provides a platform for professionals to share their recommendations of the SaaS and other software services for use in business.
+	['', 'online resource', ' ', 'procurement decision', ' ', 'professional platform', ' ', 'software as a service', '']

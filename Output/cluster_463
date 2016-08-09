@@ -1,51 +1,21 @@
-BioMachines
-	Provider of environmental monitoring software. The company provides sensor applications for the atmosphere, soil, plants, animals and water. It also provides environmental research.
-	['', 'Agriculture development', ' ', 'environmental research', ' ', 'data acquisition', ' soil']
-Quay Technologies
-	Provider of environment friendly UV disinfection system for water and wastewater applications. The company’s purification technology uses microwave ultraviolet technology to energize low-pressure, high-output bulbs for municipal or industrial water and wastewater disinfection.
-	['', 'disinfection system', ' ', 'wastewater application', ' ', 'purification technology', ' ', 'environment friendly', '']
-Alkaline Water Company
-	Provider of alkaline water where minerals are infused in the water, along with a 8.4 pH level. The company provides alkaline water through a consumer oriented bulk delivery system aimed at removing expensive small bottles from the distribution supply chain.
-	['', 'alkaline water', ' ', 'mineral water', ' ', 'consumer product', '']
-inge watertechnologies
-	Provider of ultra-filtration technology for water treatment. The company offers a membrane process used to treat drinking water, process water, wastewater and sea water.
-	['filtration ', 'water filtration', ' ', 'water filter', '']
-Acuity/Sparkle
-	Provider of waste management and disposal services. The company also provides drinking water treatment, wastewater treatment and industrial water recovery services.
-	['', 'water treatment services', ' ', 'waste-water management', ' ', 'environment conservation', '']
-Mycologix
-	Provider of a biological treatment process for biofuels. The company uses a combination of microbial treatment and engineering to degrade woody material on an industrial scale, to be fermented into fuels such as ethanol.
-	['', 'wood decay mechanisms', ' biomass bioenergy biofuel']
-Pressure Products
-	Manufacturer of an add on accessory water pack. The company offers pressurized hydration packs that gives access to pressurized water that users do not have to suck from the pack to drink or use it for other purpose.
-	['', 'add on accessory', ' accessory ', 'hydration pack', ' ', 'pressurized water', '']
+Microgon
+	Manufacturer of biotechnological separation, filtration and OEM medical devices. The company produces hollow-fiber membrane filters for use in research laboratories.
+	['', 'laboratory products', ' filtration ', 'medical devices', '']
 Alpha Membrane
 	Manufacturer of filtration-membrane products. The company manufactures dialyzers, dialyzer assembly equipment, fiber and water-filtration modules, as well as providing contract services for module manufacturing. It also provides engineering services for turnkey manufacturing technologies. The company focuses on its four key application areas: medical, water, biotech and industrial membrane products.
 	['', 'water filter', ' ', 'water filtration', ' membrane']
-Serrot International
-	Provider of plastic linings fabricator which serves the metals refining, plating and water/waste water treatment industries. The company provides liner that prevent the flow of leachate off the site and control the migration of methane from the landfill.
-	['waste water treatment fabricator methane']
-BluMetric Environmental
-	Designer of onsite wastewater treatment systems for domestic and industrial sites. The company offers products that focus on environmental problems relating to water treatment, re-use, and wastewater technology.
-	['', 'environmental services', '']
-Arcadia Biosciences
-	Developer of agricultural technologies and products. The company develops and commercializes agriculture-based technologies that create value for growers and consumers while benefiting the environment and enhancing human health. It offers nitrogen use efficient crops, water use efficient crops, salt tolerant plants and GLA safflower oil.
-	['', 'agricultural technology', ' ', 'agricultural product', ' salt ', 'water efficient crop', '']
-WaterClean
-	Developer of diaphragmatic process for water purification and surface disinfection. The company offers drinking water and plant surface disinfectants which are used to eliminate germs, pesticides, mycobacteria, biofilms, microorganisms, fungus and yeasts.
-	['', 'drinking water', ' ', 'membrane electrolysis', ' ', 'water purification', ' ', 'surface disinfection', '']
-Konepaja Ceiko
-	Provider of contract manufacturing services and steel components. The company also has its own products such as tanks, pressure vessels, and water treatment systems. The company does a number of services including machining, plasma cutting, TIG and MIG/MAG welding, plate cutting, edging and mangling, painting and shot blasting, heat treatment and 3D measurement.
-	['', 'steel components', ' ', 'contract manufacturing', ' ', 'machining', ' ', 'plate cutting', ' ', 'manufacturing services', '']
-Thermoenergy
-	Provider of technologies for wastewater recovery and clean energy production. The company is engaged in the commercialization of patented proprietary municipal and industrial wastewater treatment and power generation technologies.
-	['', 'wastewater recovery', ' ', 'clean energy productio', ' ', 'wastewater treatment', '']
-PoroGen
-	Manufacturer of chemical and temperature resistant porous polymeric membranes. The company manufactures polymeric membranes for a range of nanofiltration, microfiltration, gas separation and gas transfer applications, including methane recovery and biofuels processing.
-	['', 'polymeric membrane', ' nanofiltration microfiltration ', 'gas separation', ' ', 'methane recovery', ' ', 'biofuel processing', ' membrane']
-Bio Pure Technology
-	Provider of wastewater treatment, and chemical process technologies. The company’s products include hybrid membrane technology system that provides a solution for the treatment of industrial water and wastewater streams; chemically stable nanofiltration membranes for the chemical process industry; and well water treatment systems. It serves pharmaceuticals and agrochemicals, mining, landfill, chemicals, food and beverage, drinking water, water re-use and desalination, and fermentation industries
-	['', 'waste water treatment', ' ', 'chemical process technology', ' ', 'water treatment solution', '']
-Medesa Technology
-	Developer of desalination technology. The company is the creator of a proprietary water-treatment technology aimed at production of smaller capacities (100 to 500 cubic meters of driking water per diem. The company\'s treatment units are small enough to be transportable by container, ship, lorry and helicopter, and are designed to be grid-independent.
-	['', 'water treatment', ' desalination ', 'water filtration', ' ', 'desalination equipment', '']
+KA Electronik
+	Manufacturer of electronic and electromechanical equipment. The company focuses on the contract manufacturing of electronics in small series and prototype production.
+	['electromechanical ', 'prototype production', ' ', 'electronic manufacturing service', '']
+Clean Filtration Technologies
+	Developer of water treatment technology. The company produces the CFT Turboclone hydroclone system, a patented water filtration device designed to efficiently reduce total suspended solids from difficult-to-filter water.
+	['', 'water treatment', ' ', 'water filtration device', ' ', 'suspended solid filtration', '']
+fluXXion
+	Manufacturer of micro filtration membrane products. The company offers filter stack sub assemblies, an integrated dynamic cross flow pulsing system for bulk micro filtration applications and small wafer membrane segments for analytical test applications.
+	['', 'micro filtration', ' ', 'industrial supply', ' filter']
+Celetronix India
+	Provider of Electronic Manufacturing Services to computing, telecommunications, and medical Original Equipment Manufacturers. The company offers precision electro-mechanical assembly; AC/DC and DC/DC power supplies and RFID products; PCB and memory module test and assembly; box-build and systems integration; and supply of design, engineering, and other prototyping services.
+	['EMS ', 'electro mechanical assembly', ' ', 'memory Module test', ' ', 'electro-mechnical assembly', ' ', 'printed circuit board', ' PCB']
+Intelligene
+	Developer of ribozyme based technology in clinical diagnostics. The company provides instruments to support in-process monitoring, quality control, micro-filtration and ultra-filtration systems.
+	['', 'therapeutic application', ' ', 'pharmaceutical application', ' ', 'healthcare service', '']

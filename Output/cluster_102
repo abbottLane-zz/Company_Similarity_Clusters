@@ -1,27 +1,36 @@
-Dynamotive Energy Systems
-	Provider of services for the conversion of biomass to liquid fuel. The company\'s pyrolysis technology uses biomass to produce renewable fuels.
-	['', 'bio oil', ' biomass ', 'heat generation', '']
-CTP Hydrogen
-	Developer of a fuel reformer. The company\'s reformer generates pure hydrogen from conventional liquid fuels, including ethanol, gasoline, diesel and JP8.
-	['', 'fuel reformer', ' ', 'gaseous hydrogen distribution', ' ', 'gaseous hydrogen', ' ', 'hydrogen distribution infrastructure', '']
-Biom (Commercial Products)
-	Manufacturer of biomass heating systems. The company offers heating services consisting of boiler and feeder-system installation and fuel-supply networks such as wood chips, miscanthus and olive kernels for biomass industries.
-	['', 'biomass heating system', ' ', 'heating services', ' boiler ', 'feeder-system installation', '']
-Topell Energy
-	Provider of torrefied pellets and torrefaction technology for the biomass supply chain. The company has developed a process for the production of solid bio-fuel from woody biomass.
-	['', 'torrefaction technology', ' ', 'biomass supply chain', ' ', 'clean technology', '']
-BioEndev
-	Developer of technology and method for extracting fuel from biological raw material (biomass). The company is a provider of biomass fuel, which it creates from a heating process called torrefaction. The company operates industrial facilities in the Netherlands for creating its torrefied biomass fuels.
-	['', 'energy extraction', ' ', 'green fuels', ' biomass']
-Meredian
-	Manufacturer of bioplastics from renewable, natural resources. The company utilizes environmental friendly materials that are not derived from petroleum and provide jobs in an emerging technology and increases employment.
-	['biodegradable ', 'polymer coating', ' recycling']
-Virdia
-	Developer of process converting lignocellulosic biomass to fermentable sugars.
-	['', 'biomass conversion', ' ', 'sugar fermentation', ' ', 'alcohol production', ' biomass']
-ClearFuels Technology
-	Producer of clear and clean renewable fuels. The company develops commercially viable cellulosic biofuels conversion technologies to support commercial-scale production of advanced biofuels while reducing commodity risks of both feedstock costs and biofuels prices.
-	['', 'renewable fuels', ' biofuels']
-Range Fuels
-	Producer of cellulosic ethanol. The company\'s clean energy technology uses biomass for the production of ethanol.
-	['', 'cellulosic ethanol', ' ', 'ethanol production', ' ', 'clean energy', ' ', 'biomass conversion', '']
+IHM Services
+	Provider of an analytics software for hospitals and healthcare institutions. The company focuses on transforming hospital data into clinical intelligence to help hospitals and healthcare enterprises fully automate the reporting systems, improve performance for other programs and produce predictable medical outcomes.
+	['', 'analytic software', ' ', 'hospital data', ' ', 'clinical intelligence', '']
+Infineta Systems
+	Developer of network optimization products. The company provides Velocity Dedupe Engine, a hardware deduplication/dedupe engine to identify and remove redundancies in network traffic. It also offers wide area network acceleration solutions, such as data protection for synchronous and asynchronous replication, and network backup; virtual machines (VM) mobility for live migration over distance and VM disk transfers; and big data workflows for scale-out applications and file transfers.
+	['', 'network optimization', ' ', 'hardware deduplication', ' ', 'data protection', ' ', 'synchronous replication', ' ', 'asynchronous replication', ' ', 'virtual machine mobility', ' ', 'network backup', '']
+Stellr
+	Provider of data analytics platform. The company develops a suite of software as a service (SaaS) analytics technologies.
+	['', 'data analytic', ' ', 'analytic technology', ' ', 'cloud based portal', ' ', 'data analytic portal', '']
+Aster Data Systems
+	Provider of parallel processing databases for data warehousing and analytics. The company provides analytics, data loading performance, data growth, query performance, administration, scaling solutions, self-management, analytics center, analytic data pipeline discovery, educational, sales engineering, consulting, support, training services.
+	['', 'data warehousing', ' ', 'analytics solution', ' ', 'sales engineering', ' ', 'data growth', ' ', 'data warehouse services', '']
+ObjectRocket
+	Provider of a cloud Database as a Service based on MongoDB database. The company provides open source-based MongoDB system that help users to manage big data.
+	['', 'cloud database', ' ', 'database management system', ' ', 'MongoDB database', '']
+Metanautix
+	Provider of big data analytics software. The company builds big data analytics systems for large enterprises.
+	['', 'Big data', ' ', 'analytic service', ' ', 'data analystics system', '']
+mbr targeting
+	Developer of a targeting technologies for increased relevance of advertising focus and product recommendations. The company has developed an approach that can analyze and structure big data categories without having to make a Prior assumptions or use categories.
+	['', 'targeting technology', ' ', 'analysis method', ' ', 'product recommendation', ' ', 'advertising focus', '']
+640 Labs
+	Developer of an open big data platform for agriculture. The company offers 640 Drive, a device to automatically collect and aggregate agricultural data across farming operations.
+	['', 'data aggregation', ' ', 'farming operation', ' ', 'agricultural data', ' ', 'big data platform', '']
+ADKU
+	Provider of e-commerce big data solutions. The company provides a service that attempts to optimize a person’s shopping experience by providing product suggestions.
+	['', 'data solution', ' ', 'personal shopping', '']
+RightsCube
+	Provider of a data and analytics platform for publishers. The company provides actionable insights, data and feedback to the book publishers about their market, customers and retail partners. It also provides a standardized source for all of the world\'s film and TV rights information.
+	['', 'analytics platform', ' ', 'data platform', ' ', 'publishers platform', ' ', 'retailer auditing', ' ', 'film rights information', '']
+Application Security
+	Provider of database security application. The company develops security software for relational databases and big data stores that helps businesses and government agencies uncover critical configuration mistakes, access control issues, missing patches, or any toxic combination of settings that could lead to denial-of-service attacks, unauthorized data modification and data breaches.
+	['', 'database security', ' ', 'compliance solution', ' ', 'vulnerability management', ' ', 'threat management', ' ', 'audit management', ' ', 'database integration', ' ', 'database discovery', '']
+Katkar Flink
+	Provider of a platform that provides online sale information to customers. The company provides data analytics to help online shoppers discover deals.
+	['', 'retailing service', ' ', 'online sale information', ' ', 'data analytics', '']

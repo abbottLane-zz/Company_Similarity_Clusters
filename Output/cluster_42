@@ -1,60 +1,69 @@
-Outside.In
-	Provider of a data and technology platform that develops, organizes, and distributes hyperlocal news online. The company monitors news, blogs, and discussions on the Web and maps it to offline locations for the discovery and sharing of hyperlocal news and information.
-	['', 'news distribution', ' ', 'technology platform', '']
-Westside Today
-	Publisher and distributor of monthly community news magazines to the upscale communities. They offer information pertaining to celebrities, politics, society, environment and everyday news.
-	['', 'community news', ' ', 'celebrity news', ' ', 'publishing news', ' ', 'monthly news', ' ', 'political news', '']
-Ziff Davis Enterprise
-	Provider of online content, lead generation services, events and publications serving the technology industry. The business unit creates innovative media that targets technology markets with online, events, custom content, eNewsletters, print, virtual tradeshows and eseminars.
-	['', 'online content', ' ', 'custom content', ' ', 'lead generation service', '']
-Alphonso Labs
-	Provider of news reading application platform. The company enables users to consume news on mobile phones and tablets.
-	['', 'news reading application', ' ', 'news application', ' ', 'mobile news', ' ', 'news reader', '']
-Enterproid
-	Provider of an application enabling smartphone users to switch between work and personal use on their devices. The company offers Divide, a BYOD application  enabling users to transform their smartphones into enterprise-ready mobile devices. The platform offers multiple profile support, productivity applications and personal and IT cloud management.
-	['', 'cloud management', ' ', 'enterprise security', ' ', 'secure mobile platform', ' ', 'enterprise mobility', '']
-La Estrella Digital
-	Operator of an e-newspaper. The company provides news on emerging markets, finance, international news, management, politics and technology.
-	['', 'e-newspaper', ' ', 'emerging markets', ' politics']
-YellowBrix
-	Provider of syndicated news content for portals and intranets. The company offers content analytics solutions that provide insight into market and business intelligence on companies, people, products, topics, brands.
-	['', 'syndicated news', ' ', 'news content analytic', ' ', 'content infrastructure service', '']
-Cemmerce
-	Operator of an online commerce platform. The company helps publishers and content creators generate new revenue streams from existing and future online content by automatically convert product references into live commerce links. It’s platform also provides access to real time price comparison data, abandonment rates and conversion rates.
-	['', 'Affiliate Marketing', ' ', 'Automated affiliate marketing', ' ', 'Affiliate link', ' ', 'Content monetization', '']
-Silicon Media Group
-	Provider of news and information for information technology industry. The company also provides personalized and real-time news and information for IT professionals.
-	['', 'online news', ' ', 'information technology', ' ', 'IT news', '']
-ZebraMobile
-	Provider of online news platform. The company provides an application enabling mobile access to personalized news content, advertising and other online content.
-	['', 'news platform', ' ', 'online news', '']
-Viigo
-	Developer of a content mobilization platform. The company offers News and RSS module for news, insights, and blogs; Weather module, which allows users to view the current temperature and forecasts for cities around the world; Sports module that provides live event updates, schedules, and results; and Business and Finance module that enables users to create and follow their own stock portfolio, calculate exchange rates, or even manage their online accounts.
-	['sports weather ', 'finance module', ' ', 'portfolio management', ' weather']
-BiTnews Media
-	Operator of a video news platform. The company is a crowd-powered news channel focusing on decentralization initiatives and technologies such as crypto currencies, P2P energy grids, urban farming, direct democracy, three dimensional printing, decentralized internet, mesh networks and others.
-	['', 'video news platform', ' ', 'digital currency', ' ', 'media platform', ' ', 'decentralized technology', '']
-Cortex
-	Maker of tools for sharing of online content and multimedia.
-	['', 'content sharing', ' ', 'multimedia tool', '']
-Sentica
-	Provider and developer of wireless convergence solutions. The company provides universal application enabling infrastructure for mobile devices enabling communication between any application and any wireless device.
-	['', 'wireless convergence solutions', ' ', 'mobile device', '']
-Individual.com
-	Provider of individually customized news and information that is delivered to business people over the internet. The company collects articles from various news services, sorts them by company and topic and sends a daily news email to each user.
-	['', 'news service', ' ', 'online news', '']
-Angstro
-	Provider of online business news articles. The company offers online information discovering and sharing services.
-	['', 'online information', ' ', 'business news', ' ', 'service sharing', '']
-Chasm.io
-	Provider of an online content marketing network. The company has developed a content matching system that analyzes personal interest graphs, categories of influence and network behaviors that allows content producers to present their content to only those influencers who are most likely to consume and share it.
-	['', 'social networking', ' ', 'startup assistance', ' ', 'startup guidance', '']
-Mochila
-	Operator of an online market place for syndicated content from various content providers. The company’s marketplace contains articles, photos, and videos covering hard news and feature stories on various topics, such as health, business, entertainment, fashion, sports, science, and technology. Its online platform helps publishers to build business, content owners to find new value for their content, and advertisers to reach target audience.
-	['', 'online market place', ' ', 'online platform', ' ', 'publisher platform', '']
-Daylife
-	Provider of a platform for curating, discovering and combining content. The company\'s platform serves some of the media brands and consumer destination websites, including USA Today, Turner Sports, Sky News and the Washington Post.
-	['', 'content discovery', ' ', 'cloud publishing', ' aggregator']
-Handmark
-	Developer of mobile media services for mobile devices. The company offers Tantao News Mobile Reader for BlackBerry smartphones that features global and domestic news generated by Chinese news sources.
-	['', 'entertainment tool', ' ', 'mobile reader', ' ', 'signature rating', ' ', 'online reservation', ' database']
+Lincoln Technologies
+	Operator of a software development and consulting company focused on support of the pharmaceutical industry drug development process. The company provides systems and services related to applications in clinical development, pharmacovigilance, electronic data submission, and regulatory review to industry sponsors, and to FDA and other public health agencies.
+	['', 'software development', ' ', 'safety data mining', ' ', 'database cleaning', '']
+Intek Technologies
+	Developer of a desktop multimedia conferencing software. The company designs software development tools and programs for server applications development.
+	['', 'system management', ' ', 'server applications', ' ', 'desktop multimedia conferencing', ' multimedia']
+Coverity
+	Provider of source code analysis tools for identifying software defects in the software development life cycle. The company’s products includes a prevent static analyzer, a static analysis tool that creates a visualization of software, including an architecture map, call graph visualization and a dependency structure matrix.
+	['', 'source code', ' ', 'analysis tool', ' ', 'software defect', ' ', 'security vulnerability', ' ', 'software development', '']
+InitMe
+	Provider of software development services. The computer offers adaptive software development, computer repair, collaborative software development and agile software development services.
+	['', 'development services', ' ', 'technology companies', ' ', 'computer programing', '']
+Mathsoft Engineering & Education
+	Provider of math, science, and engineering software for business, academia, research, and government. The company offers a calculation management suite, a customizable client server solution, which provides searchable and centralized access for managing, tracking, and publishing various calculations, values, methods, and worksheets. Its products also include binder toolkit, which enables users to create e-books from data managed via the suite; customization toolkit, which provides a set of APIs and a software development kit; and publishing toolkit, which enables flexible display and viewing of the XML data generated by the suite.
+	['', 'software prodcuts', '']
+Probe
+	Provider of e-learning software. The company provides e-learning software to national and international clients. It also offers various services like strategic management consulting, outsourcing and software development.
+	['', 'e-learning software', ' ', 'educational software', ' ', 'application software', ' ', 'software development', ' ', 'strategic management consulting', '']
+InsureWorx
+	Provides enterprise and tactical software services. The company is an insurance software development company that provides enterprise and tactical software services for workers’ compensation, commercial property, casualty and risk administration organizations.
+	['', 'software service', ' ', 'software development', ' ', 'insurance software', '']
+Ubiq
+	Operator of a marketing and sales organization. The company is specialized in software development, licensing and distribution for original equipment manufacturers (OEMs), large accounts and retail markets.
+	['', 'original equipment manufacturer', ' OEM ', 'electronic software distribution', ' CRM']
+The Learning Company
+	Operator of a software development and sales company.The company operates as a publisher for consumer desktop publishing titles. Its flagship desktop publishing products are The Print Shop and PrintMaster. It operates a retail website offering its own software titles as well as others.
+	['', 'convenient software', ' ', 'project templates', ' ', 'consumer products', '']
+Game Minion
+	Provider of cross-platform cloud services for the mobile-development industry. The company offers diifferent software-development kits, including multi-player gaming, push notifications, analytics, cloud storage, leaderboards, achievements, content delivery and social sharing.
+	['SDK ', 'software development kit', ' ', 'application development', ' ', 'mobile development', '']
+EdgeTrade
+	Provider of agency only brokerage and software development services. The company also provides services to improve client\'s trading performance, increase productivity, lower explicit and implicit trading costs and maintain anonymity in the markets.
+	['', 'software development', ' ', 'trading performance', ' ', 'productivity increment', '']
+Akimbi Systems
+	Developer of infrastructure management services for software development and test organizations. The company offers complex configuration capture-and-restore system, a software development and test infrastructure, which allows software developers and quality assurance engineers to suspend and capture to a shared storage library.
+	['', 'infrastructure management service', ' ', 'software development', ' ', 'test infrastructure', '']
+Netmania
+	Developer of software and hardware services for industries. The company develops software and hardware for Internet service providers (ISPs), cable operators, education and health sectors, enterprise organizations and small and medium sized enterprises. It offers software development services which includes product development, data migration and online systems.
+	['', 'software development service', ' ', 'online system', ' ', 'industrial supply', ' ', 'data migration', ' ', 'development service', '']
+InterObject
+	Developer of embedded software, mobile and multimedia streaming products. The company provides a variety of outsourced development services, as well as customized software solutions and ready-made building blocks for communications and multimedia applications.
+	['', 'mobile multimedia', ' ', 'multimedia streaming', ' ', 'IT software', '']
+Wintegra
+	Provider of access processing semiconductors and software for telecommunication infrastructure solutions. The company\'s products include access processors; reference boards for software development; and Data Path Software. It offers network processors and production grade software solutions for communication applications, such as DSL; PON; 2G, 3G, and LTE wireless infrastructure; carrier Ethernet; and WiMAX.
+	['semiconductor ', 'integrated network processor', ' ', 'access processor', ' ', 'mobile network gear', ' ', 'mobile backhaul', '']
+Identum
+	Provider of software development services. The company offers an email encryption software tool, which allows original equipment manufacturer to tailor the email privacy capabilities.
+	['', 'software development', ' ', 'email encryption', ' ', 'email privacy', '']
+Catapulse
+	Developer of a hosted development service (HDS) for internet software development. The company\'s HDS was a collaborative development platform that included hosted development tools, Web-based collaboration services, and infrastructure for the creation and reuse of intellectual property.
+	['', 'internet software development', ' ', 'hosted development service', ' ', 'web-based collaboration', ' ', 'collaborative development platform', '']
+Vanceinfo Technologies
+	Provider of IT services and offers offshore software development services. The company offers research and development, quality assurance and testing, and custom application development. It also provides enterprise software implementation and maintenance services, specializing in applications from such vendors as Oracle and SAP. Its globalization and localization services include creating versions of software for different languages.
+	['', 'IT service', ' ', 'offshore software development', '  ', 'custom application development', ' ', 'enterprise software implementation', ' ', 'software maintenance service', ' ', 'Software quality assurance', ' ', 'software testing', '']
+Jaczone
+	Creator of a software-development platform. The company is the developer of the WayPointer, a technology platform enabling software modeling and testing, as well as document handling & generation. The platform also can be used to support ERP implementation or contracting processes.
+	['', 'software organization', ' ', 'software development', '']
+Integrated Chipware
+	Developer of software development tools and operating systems. The company provides products that allow teams to manage requirements for products and projects throughout the development lifecycle at an enterprise level.
+	['', 'software development tool', ' ', 'operating system', ' ', 'manage projects', '']
+Kalistick
+	Developer of quality management tool. The company provides its user with a quality management tool to implement best practices from various software development communities into a capability Maturity Model Integration (CMMI) process.
+	['', 'test optimization', ' ', 'agile testing', ' ', 'testing platform', ' ', 'software testing', '']
+Hive Media
+	Provider of media development services. The company offers media development services, creation of graphic designs, illustrations, concept art and technology consulting.
+	['', 'media development service', ' ', 'graphic design', ' ', 'concept art', '']
+Teja
+	Operator of network processor software development platform. The company has a development platform product for multiple embedded processors in fixed architectures or multiple soft cores in reconfigurable silicon.
+	['', 'network processor', ' ', 'reconfigurable silicon', ' architecture']

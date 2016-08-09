@@ -1,57 +1,30 @@
-ModeWalk
-	Provider of online marketplace for luxury designers and craftsmen. The company enables luxury designers and craftsmen to interact directly with consumers online and sell their products through online marketplace.
-	['', 'luxury design', ' ', 'online marketplace', '']
-Given Goods Company
-	Provider of an online marketplace that encourages social change for companies. The company offers apparel, accessories, footwear, home goods and more from brand names, as well as up-and-coming designers who make a tangible impact.
-	['', 'online store', ' ', 'fashion-forward apparel', ' ', 'home goods', '']
-YellowDog Media
-	Provider of an online shopping website. The company offers an online marketplace which uses social networks to connect buyers and sellers.
-	['', 'online shopping website', ' ', 'social buying', ' ', 'online retail', ' ', 'seller buyer network', '']
-MiNeeds
-	Provider of an online marketplace for local services. The company provides a website enabling users to post service requests and receive bids from local professional service providers, such as photographers, contractors or dentists.
-	['', 'productivity software', ' ', 'local professionals', ' ', 'data strategy', '']
-Stylemarks
-	Provider of mobile marketplace for vintage fashion and design products. The company provides a website enabling young and upcoming designers to showcase fashion, furniture, artwork, bags and gadgets to the German market.
-	['', 'mobile marketplace', ' ', 'vintage fashion', ' ', 'design products', '']
-AbbeyPost
-	Operator of online marketplace and community. The company provides software-driven custom apparel and focuses on the needs of the plus size women\'s fashion market.
-	['', 'online shopping platform', ' ', 'online fashion market', ' ', 'party dress', '']
-Data Marketplace
-	Operator of an online marketplace for data. The company provides a platform linking people seeking data with those who specialize in collecting, cleaning and analyzing data. Users place a request, and providers upload it to the site, provide descriptive metadata and set a price for it. The stored metadata is used to help consumers find relevant data through traditional search engines and when browsing the marketplace.
-	['', 'online marketplace', ' ', 'payment processing', ' ', 'file conversion', ' whitelabel ', 'branded storefront', '']
-AbeBooks
-	Provider of an online marketplace for books. The company offers collections of new as well as used and out-of-print books on the Internet. It provides book sellers with a venue for their products.
-	['', 'online marketplace', ' ', 'out-of-print', ' ', 'Internet Retail', ' ', 'book sales', '']
-Pomocni.pl
-	Provider of online marketplace in Poland for local contractors. The company provides a listing service for an array of services, including childcare, construction, computer services, tutors, car repair and entertainment.
-	['', 'child care', ' ', 'senior care', ' ', 'construction verticals', '']
-SideTour
-	Provider of an online marketplace to book and host local activities. The company provides a curated list of activities, tours and other memorable things to do from pre-screened hosts, which is then marketed to to out-of-town visitors or local consumers wanting to know their city better. The company\'s service is available in select cities in the U.S.
-	['', 'community marketplace', ' ', 'online booking service', ' ', 'hotel booking', ' ', 'peer-to-peer marketplace', ' ', 'curated activities', ' ', 'social marketplace', '']
-LoveYourLarder
-	Operator of an online food market. The company operates an online marketplace where the customers can discover artisan food and drink items from across the UK and buy directly from the people who make it.
-	['', 'artisan food', ' ', 'online marketplace', '']
-Bureau of Trade
-	Provider of an online marketplace for men’s shopping. The company provides a platform that offers classic cars and vintage chronographs, mummy cartonage, lightning, furniture and literature.
-	['', 'online shopping platform', ' ecommerce ', 'mummy cartonage', '']
-BiddingAce
-	Operator of an online marketplace for buying and selling general aviation aircraft. The company provides aircraft owners and pilots a resource on the Internet for conducting actual transactions and for encouraging market-based pricing for aircraft sales.
-	['', 'aviation service', ' ', 'software tech', ' ', 'online market', '']
-UGIG
-	Provider of an online marketplace for performing artists and set operators. The company provides a web portal to match performing artists and related service providers with potential employers, including booking agents, event organizers and modeling agents.
-	['', 'web portal', ' ', 'performing artist', ' ', 'set operator', '']
-Exchange.com
-	Developer of an online marketplace. The company is an e commerce marketplace which offers buyers a vast selection of merchandise from dealers and reputable sources.
-	['', 'online marketplace', ' ', 'merchandise selection', ' ', 'merchandise dealer', '']
-DisplayPoints
-	Provider of interactive content and information directly to consumers at the point of presence. The company enables advertisers to access their target audience in venues where they are captive, out-of-home and ready to spend.
-	['', 'digital media', ' interactive ', 'content information', '']
-Excara
-	Operator of a content and commerce services company. The company provides tools and services customized specifically to meet the needs of manufacturers\' sell-side and buy-side internet strategies. The company\'s sell-side solutions allow manufacturers to present and sell their products online, as well as manage their online supply chain.
-	['', 'online content', ' ', "manufacturers\\' software", ' ', 'commerce service', '']
-WebMediaGroup
-	Owner and operator of social commerce websites in France. The company operates multiple websites geared toward women consumers, with content ranging from home appliances, gardening and decor to an online marketplace for handcrafted objects and a female-focused classified platform.
-	['', 'specialist furniture', ' ', 'homemade products', ' ', 'household goods', '']
-Indocs
-	Provider of an application service provider for the printing and publishing industries. The company enables marketing staff, designers, and print houses to edit, manage, and produce graphically-enhanced documents online.
-	['', 'application service provider', ' ', 'online documentation', ' publishing']
+Fidelisoft
+	Provider of stored-value transaction platform that supercharges various aspects of loyalty initiatives, which range from points programs and gift cards to eCoupons for users to offer the program enhancements to their customers. The company offers reward delivery at the point-of-sale, loyalty programs, and gift cards, as well as eCoupons, eTickets, eWallets, and eTokens; and various program design, program management, return on investment assessment and data mining services.
+	['', 'transaction platform', ' ', 'loyalty initiative', ' ', 'loyalty program', ' ', 'gift card', ' ', 'e ticket', ' ', 'e coupon', ' ', 'e wallet', ' ', 'e token', ' ', 'program management', ' ', 'data miming service', '']
+SiteScape
+	Provider of Web-based business collaboration software and services. The company provides integrated Web based team collaboration and conferencing solutions for communication and program management of teams in business, government, and military organizations. Its solutions include calendar and meeting management, knowledge networks, partner management, program management, HR management, grants management, continuity of operations, bond offer management, and telework.
+	['', 'business collaboration', ' ', 'conferencing solution', ' ', 'program management', ' ', 'meeting management', ' ', 'knowledge network', ' ', 'partner management', '']
+Retailo
+	Operator of European third party prepaid card network. The company\'s products such as gift cards, virtual gift vouchers and online shopping cards are available at multiple point-of-sales such as stores, flower shops and petrol stations where the gift cards of various brands can be easily bought for special occasions. The company, in addition to offline sales also offers electronic vouchers via SMS or MMS through their website.
+	['', 'prepaid card', ' ', 'gift card', ' ', 'online shopping card', '']
+3V Transaction Services
+	Provider of stored value accounts and standard and contactless payment cards. The company also provides mobile payments and money transfer services at a product and platform level to corporate clients internationally.
+	['', 'stored value account', ' ', 'contactless payment card', ' ', 'standard payment card', ' ', 'money transfer', '']
+Topguest
+	Provider of geolocation services that link loyalty points programs with geo check-in applications. The company\'s solutions provide rewards program points for check-ins.
+	['', 'loyalty point program', ' geolocation']
+Brierley
+	Provider of customer relationship management and loyalty program services. The company creates, manages and supports loyalty and CRM programs for globally recognized companies working in various fields.
+	['', 'loyalty program', ' ', 'CRM marketing', ' trademarking']
+WPL Group
+	Provider of a shopping-loyalty program.The company rewards engaged couples for their spending as they shop for their wedding day, as well as points generated in their name by their family and friends. The couple then redeems their points for a variety of products, including appliances, televisions and honeymoon travel.
+	['', 'loyalty program', ' ', 'wedding merchandise', ' ', 'reward program', ' wedding ', 'newly engaged couple', '']
+Punchd
+	Provider of digital loyalty card services. The company provides a replacement for the buy-10-get-1-free cards with a mobile loyalty system.
+	['loyalty cards smart-phones']
+SaveUp
+	Developer of reward program for personal savings. The company offers an online rewards program for users to save money and pay their debt while earning credits to play for prizes.
+	['', 'online game', ' ', 'online reward', ' ', 'debt payment', '']
+Quippi
+	Developer of a platform for users to buy gift and shopping cards online. The company sells redeemable gift cards to its users which is aimed at international money transfers.
+	['', 'international shopping card', ' ', 'gift card', ' ', 'international money transfer', ' ', 'international gift card', '']

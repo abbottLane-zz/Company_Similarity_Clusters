@@ -1,30 +1,30 @@
-Cartagenia
-	Provider of software and services for clinical genetics and molecular pathology labs. The company provides a software platform for variant assessment and reporting of clinical genomics data from next-generation sequencing and microarrays. The platform also enables technicians, lab directors and clinicians to visualize, assess and report clinical genetics data in the context of patient information.
-	['', 'healthcare Software', ' ', 'genetic interpretation', ' ', 'database system', '']
-Imanext
-	Operator of a contract  research organization. The company operates in the field of functional imaging and provides insights on the non-clinical and clinical applications for drug development to the pharmaceutical and biotechnology industries.
-	['', 'functional imaging', ' research ', 'molecular imaging', ' ', 'nonclinical imaging', ' ', 'clinical imaging service', '']
-Avidimer Therapeutics
-	Developer of targeted therapeutics to treat cancer and other diseases. It is a biopharmaceutical company that focuses on the advance use of its proprietary nano-scale therapeutic platform for the treatment of certain cancers through clinical trials.
-	['', 'cancer treatment', ' ', 'clinical trials', ' ', 'therapeutic platform', '']
-1747
-	Provider of web enabled systems to conduct clinical trials directly with participants. The company\'s product aims to clarify participant’s eligibility, aggregates their informed consent, and enrolls them for clinical trials using the internet.
-	['', 'clinical trial', ' ', 'web enabled system', ' ', 'direct-to-participant', ' ', 'enrolment systems', '']
-Swiss Pharma Contract
-	Provider of clinical research services to the pharmaceutical, biotechnology, and medical-device industries. The company offers a variety of clinical pharmacology services ranging from first testing in man to post-marketing studies.
-	['', 'clinical research', ' ', 'clinical pharmacology', ' pharmaceutical']
-Cambridge Cognition
-	Developer of cognitive testing software. The company also conducts computer-based cognitive tests used in academic research, pharmaceutical clinical trials and early detection screening for conditions such as Alzheimer\'s and depression.
-	['', 'pharmaceutical clinical trials', ' ', 'cognitive tests', ' ', "Alzheimer\\'s disease", ' touchscreen ', 'healthcare technologies', '']
-Phase Forward
-	Provider of  integrated clinical research suite of enterprise-level software products, services, and hosted services worldwide. The company\'s services are used in clinical trial and drug safety monitoring applications in the pharmaceutical, biotechnology and medical device companies; and academic institutions, governmental regulatory agencies, contract research organizations and other entities engaged in clinical trial and drug safety monitoring activities.
-	['', 'data capture', ' ', 'clinical research suite', ' ', 'clinical data management', '']
-eDEV
-	Developer of drug. The company operates as a structured finance portfolio company developing an approved drug for three additional follow-on indications in collaboration with a pharmaceutical partner. eDev is a special purpose vehicle that has entered into an R&D project financing relationship with an undisclosed pharma company to finance multiple Phase 3 clinical trials for additional indications of an already-approved drug.
-	['', 'Drug Developer', ' ', 'Finance Portfolio', '']
-Citizen1
-	Provider of research and development services for pharmaceutical and biotechnology industries. The company offers clinical trials and drug development information. It provides TrialTrove, which delivers ongoing clinical trials information; SiteTrove, which tracks and maintains detailed profiles; TrialScape, which provides graphical representation of clinical trial timelines; and CustomAnalytics for design and implementation of planned trials.
-	['', 'pharmaceutical research', ' ', 'clinical trials information', ' ', 'drug development information', ' ', 'biotechnology research', '']
-R5 Pharmaceuticals
-	Developer of medicines and clinical trial materials. The company develops and manufactures medicines and materials for phase 1 and phase 2 clinical trials.
-	['', 'pharmaceutical dosage', ' ', 'drug discovery', ' ', 'drug manufacturer', '']
+CTP Hydrogen
+	Developer of a fuel reformer. The company\'s reformer generates pure hydrogen from conventional liquid fuels, including ethanol, gasoline, diesel and JP8.
+	['', 'fuel reformer', ' ', 'gaseous hydrogen distribution', ' ', 'gaseous hydrogen', ' ', 'hydrogen distribution infrastructure', '']
+Ballard Power Systems
+	Ballard Power Systems Inc was incorporated in the State of Canada on November 12, 2008. It is a clean energy growth company. The company is engaged in proton exchange membrane (PEM) fuel cell development and commercialization. The Company\'s main business is the design, development, manufacture, sale and service of fuel cell products for a variety of applications, focusing on motive power (material handling and buses) and stationary power (back-up power, supplemental power, and distributed generation). A fuel cell is an environmentally clean electrochemical device that combines hydrogen fuel with oxygen (from the air) to produce electricity. Ballard fuel cell products feature high fuel efficiency, low operating temperature, low noise and vibration, compact size, quick response to changes in electrical demand, modular design and environmental cleanliness. The Company has four principal subsidiaries and affiliates: Ballard Fuel Cell Systems Inc., an Oregon corporation that develops methanol-fueled clean energy backup power systems; Dantherm Power A/S ("Dantherm Power"), a Denmark-based corporation jointly owned with Dantherm A/S that develops hydrogen-fueled clean energy backup power systems; BDF IP Holdings Ltd. ("IP Holdings"), a Canadian corporation that holds intellectual property assets; and Ballard Material Products Inc., a Delaware corporation that formerly developed and manufactured carbon fiber products for use in the automotive and fuel cell markets, and which now focuses on the development of fuel processing components and systems for use in fuel cell applications.
+	['', 'fuel cells', '']
+P21
+	Providers of autonomous energy supply and energy-efficient solutions, with the aim of replacing diesel generators with zero-emission products. The company provides services in energy efficiency and monitoring, solutions for supplying electricity to off-grid applications such as monitoring stations, telecommunications facilities or self-sufficient houses; and providing education and research programs for fuel-cell and solar-hydrogen technology.
+	['energy-management ', 'energy consumption', ' ', 'hydrogen fuel cell system', ' ', 'climate reading', ' ', 'CO2 balance', '']
+Enginion
+	Provider of technology in the field of steam-operated, compact cogeneration systems. The company offers SteamCell, a low-emission, combined heat and power generation system using external combustion based on a Caloric Porous Structure Cell (CPS Cell) technology. CPS Cell technology utilizes a thermo-chemical combustion process, which drives an electronically controlled, oil-free steam engine. The company supplies SteamCell core systems to original equipment manufacturers who integrate them into their products.
+	['', 'cogeneration systems', ' combustion ', 'thermo-chemical', ' ', 'steam engine', '']
+Protonex Technology
+	Developer and manufacturer of intelligent power management and portable fuel cell products for military and commercial markets. The company provides mission-critical equipment to make military more energy efficient and operationally flexible.
+	['', 'energy service', ' ', 'fuel cell product', ' ', 'power system', '']
+Green Highland Renewables
+	Developer of small scale hydroelectric schemes. The company  provide advice and services to landowners in Scotland through the development of a hydro power project. The company typically works on small-scale projects, ranging from 50 kilowatts to 2 megawatts.
+	['', 'hydroelectric service', ' ', 'hydropower project', ' ', 'energy project', '']
+Mesofuel
+	Developer of hydrogen generators to convert fuels into hydrogen for fuel cell sales in portable and stationary applications. The company\'s technology uses proprietary fuel processors and nano-scale filtering of hydrogen to create a novel compact product that generates hydrogen in an environmentally friendly manner.
+	['', 'hydrogen generators', ' ', 'desulphurization technologies', ' fuel']
+H2Gen
+	Manufacturer of low-cost and small-scale hydrogen generators. The company provides these hydrogen generation machines to target the the emerging fuel cell vehicle and distributed fuel cell power generation markets.
+	['generator ', 'steam methane', ' ', 'purification plant', ' hydrogen']
+UltraCell
+	Developer and seller of integrated fuel cell systems. The company provides portable power source for computing, communications and sensing devices.
+	['', 'fuel cell', ' ', 'portable power', ' ', 'sensing device', '']
+PolyFuel
+	Developer of micro fuel cells using direct methanol fuel cell technologies.
+	['', 'micro fuel cell', ' ', 'fuel cell technology', ' ', 'methanol fuel', ' ', 'hybrid power', '']

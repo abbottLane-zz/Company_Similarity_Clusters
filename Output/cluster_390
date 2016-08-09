@@ -1,39 +1,21 @@
-Precision Beam
-	Provider of laser cutting services. The company provides laser cutting and welding services in United Kingdom.
-	['', 'laser cutting', ' ', 'welding service', ' laser']
-Questek
-	Manufacturer of excimer lasers. The company develops, manufactures and markets excimer lasers.
-	['', 'excimer lasers', ' lasers ', 'excimer laser technology', '']
-TherMark
-	Developer of laser marking technology and materials. The company has a patented laser marking process which produces permanent marks on a variety of surfaces including metals, ceramics, glass, porcelain, nylon, marble, granite, stone and some plastics. The technology is increasingly being used as a solution for component tracking, quality control and anticounterfeiting in the automotive, aerospace and perfume and cosmetics industries.
-	['', 'laser marking equipment', ' ', 'fuse marking', ' ', 'laser device', ' ', 'electrical system', '']
-DeMaria ElectroOptics Systems
-	Manufacturer of CO2 lasers, far infrared laser and laser systems. The company designs and manufactures carbon-dioxide lasers used in materials processing, electronics packaging and research applications.
-	['', 'infrared laser', ' ', 'carbon dioxide laser', ' laser ', 'laser systems', ' ', 'remote sensing', ' ', 'ladar application', '']
-Photop Technologies
-	Manufacturer of crystal materials, optics, microchip lasers and optoelectronic modules.
-	['', 'crystal material', ' ', 'optics instrument', ' ', 'optoelectronic module', ' photonics']
-PhaseBridge
-	Provider of photonic integration technologies, devices and system solutions. The company offers wideband externally modulated laser transmitters, wideband integrated laser transmitters, and external cavity mode-locked lasers.
-	['semiconductors', 'laser transmitters', ' ', 'mode-locked lasers', '']
-Ekips Technologies
-	Manufacturer of lasers and laser-based systems. The company develops and markets tunable mid-infrared lasers and laser systems made for molecular spectroscopy applications.
-	['', 'mid-infrared laser', ' ', 'diagnostic equipment', ' ', 'molecular spectroscopy', '']
-PinPointe USA
-	Developer of laser light-based therapies for treating nail fungus. The company develops laser-enabled devices to address onychomycosis and other footcare issues. The company  also offers PinPointe FootLaser, a laser device for the temporary increase of clear nail in patients with onychomycosis or nail fungus.
-	['', 'laser light', ' ', 'nail fungus', ' ', 'laser enabled devices', ' onychomycosis']
-SPI Lasers
-	Designer and manufacturer of fiber lasers for the industrial, aerospace, analytical, sensing and communications markets. The company offers fiber lasers & laser arrays, high-power optical amplifiers and filters.
-	['', 'fiber Bragg gratings', ' ', 'fiber laser', ' ', 'optical component', ' ', 'laser array', '']
-CellPro
-	Developer of devices used in biotechnology. The company develops continuous-flow, cell-selection systems that can be used in a variety of therapeutic, diagnostic and research applications.
-	['', 'diagnostic device', ' ', 'research application', '']
-Laser Power Optics
-	Manufacturer of high-performance lasers and laser optics for industrial, medical and military applications. The company\'s optics products are sold to laser system OEMs and end users as original and replacement components in high power CO2 and other lasers.
-	['laser ', 'optic products', ' OEM ', 'CO2 laser', ' ', 'carbon dioxide lasers', '']
-Intense
-	Provider of single and multimode monolithic laser array products and high power laser diodes. The company  provides foundry services, including front-end wafer processing, back-end assembly line, engineering support and product development support services and laser diode, optics, electronics and package design services.
-	['', 'laser diodes', ' ', 'electrical equipments', ' ', 'laser equipments', '']
-Lumics
-	Manufacturer of semiconductor diode laser for medical and industrial applications. The company manufactures semiconductors and diode lasers from 750 nm to 1960 nm in industry standard packages such as 14-pin butterfly, 8-pin miniDIL and 2-pin TO220 as well as a series of compact fiber coupled laser modules with output powers up to 900 W.
-	['', 'diode laser', ' ', 'laser module', ' ', 'fiber coupled diode', ' ', 'industrial application', ' ', 'chip technology', '']
+MyBrands
+	Provider of an e-commerce clothing outlet. The company provides clothing for both men and women and offers a variety of designer brands. It also sells shoes and accessories.
+	['', 'designer clothing', ' ', 'e commerce', ' ', 'mobile shopping', '']
+The Fab Shoes
+	Provider of online retail of women\'s shoes, accessories and other personalized style items in Europe. The company provides an e-fashion club which features collections of shoes and accessories. It\'s designers prepare a personalized recommendation of trendy accessories that is adapted to the client\'s  style and advises them how to combine them.
+	['', 'online shopping', ' ', 'internet shopping', ' ', 'personalized style item', '']
+Franck Style
+	Provider of leather goods. The company provides retail services of leather goods.
+	['', 'leather goods', ' ', 'retail services', ' leather']
+Build A Bear Workshop
+	Provider of a storefront workshop where customers create their own teddy bear. The Company provides various types of animals to be stuffed; clothing, shoes and accessories for the stuffed animals and other appropriate toy and accessory items.
+	['', 'storefront workshop', ' ', 'teddy bear', ' ', 'stuffed animal', ' ', 'accessory item', '']
+Courseload
+	Provider of digital course material. The company offers an electronic version of any textbook on any computer at a discounted price as compared to the original price of  printed textbooks.
+	['', 'digital textbook', ' e-textbook e-text']
+Brandalley
+	Operator of an online outlet. The company markets a selection of items at a discounted price, which include clothing, shoes, accessories, leather goods, furniture, jewelry and homeware from past collections, surplus stocks or cancelled orders.
+	['', 'online outlet', ' ', 'online retail shopping', ' ', 'leather good', '']
+Tannerie de Villefranque
+	Operator of a leather processing company. The company engages in tanning, dressing and dyeing of leather. It offers various types of leather for shoes, accessories and furniture industries.
+	['leather ', 'leather tanning', ' ', 'leather dressing', '']

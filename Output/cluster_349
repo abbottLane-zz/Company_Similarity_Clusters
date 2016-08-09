@@ -1,27 +1,18 @@
-Unified Nexsys
-	Manufacturer of software and hardware technologies for education and military markets. The company\'s configuration service provides situational awareness, access and control across different user platforms and devices. Its technology also develops applications requiring collaboration, connectivity and complex data acquisition and management.
-	['', 'hardware technology', ' ', 'software technology', ' ', 'situational awareness', ' ', 'Wide Area Network', '']
-Vhayu Technologies
-	Provider of market data solutions for the capture and analysis of streaming and historical data to financial institutions. The company combines software and hardware to provide advantages to financial firms that are seeking to increase their trading speed.
-	['data analysis ', 'data analysis', ' financial ', 'financial data', '']
-Seaside Software
-	Designer and manufacturer of corporate messaging and intranet applications for the corporate market. The company offers integrated software and hardware products.
-	['', 'enterprise applications', ' ', 'corporate messaging applications', ' ', 'platform software', '']
-LocoMobi
-	Provider of software and hardware for security services. The company provides software and hardware for the parking, security and the transportation markets.
-	['', 'security service', ' ', 'transportation market', ' ', 'security software', '']
-Alpharel
-	Developer of data-management systems.The company develops multi-terabyte engineering-data systems.
-	['', 'data management', ' ', 'engineering data', ' multi-terabyte']
-Oxford NanoScience
-	Manufacturer of 3-dimensional atom probes. The company\'s laser atom probe offers high resolution sample data acquisition together with comprehensive data analysis for a range of low and high resistivity materials.The atom probe is a point projection microscope capable of resolving the chemical identity and position of individual atoms in 3D with atomic resolution in the z direction and sub-nanometer lateral resolution.
-	['', '3-dimensional atom probe', ' ', 'laser atom probe', ' ', 'point projection microscope', ' ', '3D Atom Probe analysis system', '']
-Datahero
-	Provider of a platform that helps users to analyze, visualize and understand data. The company offers data analysis tools for users to import internal data, store it in a spreadsheet format, link multiple sources and create data dashboards to track various types of information.
-	['', 'data analysis tool', ' ', 'database platform', ' ', 'data dashboard', '']
-PharmaDM
-	Provider of data analysis software and services. The company offers data analysis, data mining, and text mining software and services for researchers in life sciences, with a focus on drug discovery.
-	['', 'data analysis', ' ', 'text mining software', ' ', 'data mining', '']
-LightMiner Systems
-	Provider of data management systems. The company offers an appliance that is designed by integrating different software and hardware architecture for data analysis.
-	['', 'data processing', ' ', 'data management system', ' ', 'hardware architecture', '']
+ProstaLund
+	Developer of urological devices and treatments.  The company\'s principal product, CoreTherm, is a microwave therapy treatment for BPH (benign prostatic hyperplasia).
+	['bph urology prostate ', 'benign prostatic hyperplasia', ' coretherm ', 'urological device', '']
+Lectus Therapeutics
+	Developer of novel drugs for diseases associated with smooth muscle hyper-reactivity. The company offers ion channel therapeutics and modulators for urinary bladder disorders, pain and angina.
+	['', 'novel drug', ' ', 'channel therapeutic', ' ', 'bladder disorder', '  ', 'urinary bladder disorders', ' angina']
+Solarant Medical
+	Developer of minimally invasive therapies for women who suffer from stress urinary incontinence. The company\'s technology include radio frequency bladder neck suspension, an innovative treatment for female urinary incontinence.
+	['', 'urinary incontinence', ' ', 'therapeutic device', '']
+Influence (Urological Technologies)
+	Developer of healthcare therapies. The company provides therapies for urinary incontinence, atonic bladder disorder and other urological disorders as well as treatment for coronary disease.
+	['', 'urological disorder', ' ', 'urinary ailment', ' ', 'coronary disease', ' ', 'healthcare technology', ' ', 'urinary incontinence', '']
+Aclaris Therapeutics
+	Developer of topical dermatological therapies. The company is a specialty pharmaceutical company with a mission to develop topically applied therapy directed towards the removal of seborrheic keratosis and other verrucoid lesions of the skin.
+	['dermatology ', 'dermatological therapy', ' ', 'topical treatment', ' ', 'skin lesion', '']
+Omthera Pharmaceuticals
+	Developer of therapies for the treatment of lipid disorders. The company is developing therapies focused on dyslipidemia, a lipid disorder resulting in elevated triglycerides and increased risk of cardiovascular disease.
+	['triglyceride ', 'pharmaceutical therapy', ' ', 'lipid disorder', ' ', 'cardiovascular risk', ' ', 'heart disease', '']

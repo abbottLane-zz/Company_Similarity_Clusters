@@ -1,24 +1,30 @@
-Eutraco Logistics
-	Provider of transportation services. The company provides warehousing, logistics and delivery services.
-	['', 'delivery service', ' ', 'transportation service', ' ', 'business products', '']
-Blue Water Ventures
-	Operator as the surveying and excavating the treasures. The company\'s business is to search for and recover historical cultural artifacts, intrinsically valuable cargo and treasure from shipwrecks, primarily in shallow water.
-	['treasure survey excavat']
-AirAsia X
-	Provider of airline services. The company provides passenger and cargo air transportation services.
-	['']
-Arrow Shuttle
-	Provider of airline services. The company provides its services to the aviation industry.
-	['', 'aviation industry', ' airline flight']
-Star Flyer
-	Provider of air transportation services in Japan. The company provides frequent shuttle services between key Japanese cities for business travelers.
-	['JetBlue airline ', 'air transport', '']
-Kystlink
-	Operator of ferry shipping services. The company schedules cargo traffic between Langesund and Hirtshals, and between Langesund and Strømstad.
-	['', 'ferry shipping', ' ferry shipping cargo']
-T-link di Navigazione
-	Operator of a navigation company. The company provider maritime transportation services for goods and civil.
-	['', 'maritime transportation', ' ', 'reservation and catering', ' commercial']
-Aptera
-	Manufacturer of passenger vehicles. The company is a maker of high-efficiency vehicles. It offers three wheeler cars.
-	['', 'passenger vehicle', ' ', 'efficiency vehicle', ' ', 'three wheeler car', '']
+Neul
+	Developer of disruptive wireless network technology to enable the use of television white space spectrum. The company provides asset tracking, transportation, rural broadband, machine-to-machine communications, e-Media distribution and networking services.
+	['', 'wireless network technology', ' ', 'asset tracking', ' ', 'rural broadband', ' ', 'e-media distribution', ' ', 'traffic management', ' ', 'road pricing', ' ', 'diagnosis market', '']
+Communication Services
+	Operator of a wireless network service provider. The company provides communication infrastructure for cellular, private radio, and other wireless customers.
+	['', 'wireless network', ' ', 'communication infrastructure', ' ', 'wireless service peovider', '']
+Codima Technologies
+	Developer of software tools for organizations. The company enables users to view, maintain and store data on network inventory. It also helps organizations to reduce costs, save time and manage their infrastructure network. It sells network management tools.
+	['', 'software tools', ' ', 'network management tools', ' ', 'VoIP management', ' ', 'IT assets', '']
+Morphics Technology
+	Provider of programmable signal processor semiconductors and software solutions for use in wireless infrastructure and terminals. The company supplies off-the-shelf wireless signal processors (WSPs) which enables broadband service using 3G wireless network.
+	['', 'signal processor', ' ', 'software solutions', ' ', '3G wireless network', ' ', 'broadband service', '']
+Alvarion (Cellular Mobile Business)
+	Developer of core wireless network equipment.
+	['', 'wireless network equipment', ' ', 'network equipment', '']
+Altobridge
+	Developer of a wireless network service. The company develops wireless network services that reduce network operating costs in the delivering of mobile voice, mobile broadband and big data services.
+	['', 'mobile communication', ' ', 'local connectivity', ' ', 'split architecture', ' ', 'remote community market', ' ', 'satellite bandwidth', '']
+Voopii Mobile
+	Developer of telecommunication technologies. The company develops wireless routers, mobile WiFi devices and other international data communication products.
+	['', 'telecommunication technologies', ' router ', 'WiFi device', '']
+Visual Networks
+	Provider of network and application performance management solutions. The company’s products increase application and network availability, optimize the use of bandwidth and reduce operating costs across traditional and new IP-based infrastructures.
+	['VoIP ', 'Broadband IP solution', ' ', 'Private IP solution', ' ', 'Network management', '']
+ipUnplugged
+	Developer of wireless networking products. The company develops networking products for network service providers and system integrators, that includes mobile service routers, client software and mobile service management applications, that integrate mobile networks such as GPRS and wireless LANs.
+	['', 'wireless networking', ' ', 'system integrator', ' ', 'mobile VPN', '']
+Stoke
+	Developer of carrier-class multi-access convergence gateways for fixed, mobile and Internet-based operators. The company provides Stoke Session Exchange, an integrated hardware and software platform that addresses the security, service and mobility challenges associated with optimizing subscribers\' multimedia sessions across fixed, mobile, Wi-Fi and WiMAX networks and Stoke Mobile Data Offload, a service designed to help 3G network operators address their economic capacity and subscriber satisfaction challenges delivering mobile broadband data.
+	['', 'covergence gateway', ' ', 'mobile broadband', ' multimedia ', 'mobile broadband', '']

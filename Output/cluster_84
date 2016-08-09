@@ -1,12 +1,21 @@
-LogLogic
-	Developer of log data management and security event management solutions for the business operations of enterprises and mid-market companies in the United States and internationally. The company’s LX-ST and MX appliances enable customers to log data from firewalls, routers, servers, applications, operating systems, and devices to be automatically collected, stored, reported, and alerted for compliance, risk mitigation, security, performance management, virtualization, and user monitoring. Its solutions also include LogLogic MX Virtual that provides enterprise-grade IT data collection, search, and storage solutions, as well as customizable alerts and reports covering identity and access management, user activity, network changes, security, business continuity, and IT performance; Enterprise Virtual Appliance, a software-based appliance that delivers on-demand and scheduled network reports for cloud deployments and virtualized data centers; and LogLogic Compliance Manager, which provides users with an executive view into an enterprise\'s compliance posture. It also provides customer support, consultation, implementation, training, and integration services. Its open log management and database activity monitoring solutions provide tools for customers to monitor activities that occur in networks, applications, databases, and servers. It serves telecommunications, technology, pharmaceutical, retail, petroleum, commercial banks, aerospace and defense, insurance, and healthcare companies.
-	['', 'log data management', ' ', 'security event management', ' ', 'risk mitigation', ' ', 'performance management', ' ', 'data collection', ' ', 'storage solution', ' ', 'activity monitoring', '']
-XenSource
-	Developer of enterprise grade virtualization solutions. The company offers Xen 3.0, an open source hyper visor virtualization technology that provides features required for servers deployed in enterprise; Xen Optimiser, a multi-server virtualization infrastructure software management solution; and Xen Support, a subscription-based support for Xen and XenOptimizer. It also provides value-added enterprise solutions, including enterprise grade virtualization infrastructure solutions.
-	['virtualization ', 'software mangement', ' ', 'server utilization', '']
-FieldView Solutions
-	Provider of facilities managers and IT personnel that handle data centers with real time branch circuit and environmental monitoring, circuit alarm notification, and cabinet asset management for small and large data centers. The company’s enterprise-ready platform optimizes space and energy usage in data center environments, as well as enhances security features, access, and permissions. It serves financial, insurance, co-location, and pharmaceutical companies.
-	['', 'enterprise software', ' ', 'energy management', ' ', 'risk mitigation', ' ', 'paltform optimization', ' ', 'space optimization', '']
-SenSage
-	Provider of enterprise event data warehouse technology for security, compliance, call detail records data retention, data retrieval and systems management. The company offers enterprise security analytics software that provides a log management platform, for event collection, retention and analysis to automate compliance reporting, investigation and security decision support processes.
-	['', 'data warehouse', ' ', 'log management platform', ' ', 'data management architecture', ' ', 'log management', ' ', 'system management', ' ', 'security process', ' ', 'compliance reporting', '']
+Zip2
+	Operator of a mobile media company which creates applications that enable business partners to engage and interact with their target audiences via mobile devices. The company operates Zumobi Network, a portfolio of interconnected mobile media applications, which enable user discovery of applications and content, network cross-promotion, and viral distribution, as well as provide reporting metrics on usage and behavior.
+	['', 'mobile media', ' ', 'interconnected mobile media', ' ', 'media application', '']
+CGEN Digital Media Co.
+	Provider of lifestyle targeted interactive digital media network. The Company provides digital media platforms aimed at Chinese consumers at various urban locations.
+	['', 'lifestyle targeted media', ' ', 'interactive digital media', ' ', 'display network', ' ', 'digital media', '']
+BiBC
+	Provider of streaming and hosting services for visual media. The company uses webcasting technology to enable content providers to distribute digital media securely via the internet. The company offers media consultancy in the area of video downloads.
+	['', 'media consultancy', ' ', 'digital content', ' ', 'digital media', '']
+Zenverge
+	Provider of semiconductors for digital media products. The company is developer of content networking ICs built around the patented TransAll technology, a core requirement for next generation video services gateways.
+	['', 'digital media', ' ', 'integrated circuit', ' ', 'video networking', ' ', 'networking equipment', ' ', 'desktop media', '']
+Tukati
+	Provider of managed services and software for large-scale, secure and legal distribution of digital media.
+	['', 'digital media', ' ', 'Computer Programming', ' ', 'Software Publisher', '']
+iStreamPlanet
+	Provider of live streaming video services. The company develops and provides digital media strategy, managed webcasting services and internet applications to enable online media delivery.
+	['', 'Internet broadcast', ' ', 'live broadcast', ' ', 'video workflow', ' ', 'automated video', ' ', 'video application', ' ', 'digital media', ' ', 'online media', '']
+Arcanvs
+	Developer of identity proof processors for online cash transactions. The company offers a licensed certification for digital signatures in order to enable online signatures.
+	['', 'online transaction', ' ', 'digital signature', '']

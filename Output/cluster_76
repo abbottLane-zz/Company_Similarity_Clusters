@@ -1,51 +1,15 @@
-Frontlineshop
-	Provider of an online retail store for streetwear. The company offers clothing, shoes and accessories on the internet through its online store. It also offers merchandise of different brands.
-	['', 'street wear', ' ', 'brand bandwidth', ' ', 'online retail store', '']
-Twice
-	Provider of online marketplace for secondhand clothing. The company provides an e-commerce site browsable by category, with items that are evaluated by professional buyers and professionally photographed.
-	['', 'clothing marketplace', ' ', 'used clothing', ' ', 'concierge style', ' secondhand']
-Deal Mates
-	Operator of an online shopping mall in Malaysia. The company as an online flash sales website which offers clothing, handbags, jewelry, watches, shoes and accessories.
-	['', 'shopping mall', ' handbags watches']
-Moki.TV
-	Operator of an online video directory. The company provides an e-commerce platform for the television and film industries.
-	['', 'TV guide', ' movies ', 'video directory', '']
-One Jackson
-	Developer of e-commerce platform for kids clothing. The company provides an online platform that offers designer clothes for kids and promotes independent designers of children’s clothes.
-	['', 'e-commerce platform', ' ', 'ecommerce platform', ' ', 'kid clothing', ' ', 'designer clothing', ' ', 'designer clothes', ' ', 'kids clothing', ' ', "children\\'s clothing", '']
-Kirondo
-	Provider of a second hand kid\'s clothing portal. The company offers an online platform for users to sell secondhand kid\'s clothing.
-	['', "kid\\'s clothing", ' ', 'second hand apparel', ' ', 'clothes sale portal', '  ', 'secondhand sale', ' garments']
-NearbyNow
-	Provider of on line services to retailers and shopping centers that allow consumers to search local store inventory using the Internet or mobile phones. The company offers information on baby products, such as car seats, clothes, furniture, highchairs and feedings, shoes, slings and carriers, and strollers; bathroom furniture, blankets, comforters, mirrors, pillows, rugs, shower curtains, toilet accessories, and towels; maternity products, including clothing and personal care; and clothing and accessories, including athletic and workout products, belts, blazers and sport coats, dresses, handbags and wallets, hoodies and sweatshirts, jeans, lingerie, outerwear, pants, petites, shirts and tops, shorts, skirts, sleepwear, socks and hosiery, suits, sweaters, swimwear, ties, and underwear products.
-	['', 'on-line marketing service', ' ', 'local store inventory', ' ', 'on line retail shop', ' ', 'on-line local market shopping', ' ', 'mobile shopping application', ' ', 'local store inventory information', ' ', 'scan local market product', ' ', 'nearby store information', ' ', 'local shopping center information', '']
-Polska Grupa Odzieżowa
-	Operator in the clothing trade industry. The company focuses on connecting to and taking over companies in financial difficulty operating in the clothing trade.
-	['', 'clothing trade', ' ', 'apparel company financing', ' ', 'investment opportunity', '']
-Chlorophylle
-	Operator of an online clothing store. The company provides an e-commerce platform which offers clothing products and accessories for users.
-	['', 'recycled materials', ' ', 'organic cotton', ' ', 'clothing industry', '']
-Bizpora
-	Operator of an online platform for travelers. The company provides an e-commerce platform for travelers to interact with each other about upcoming trips.
-	['', 'online traveling platform', ' ', 'business networking', ' ', 'travel network', '']
-e2e (ecommerce)
-	Provider of e-commerce platform. The company provides e-commerce service for logistics, marketing and technology.
-	['', 'electronic commerce', ' ', 'online shopping', ' plataforma']
-AllAboardToys.com
-	Operator of an online specialty toy store. The company provides family-friendly and educational toys. They also offer wooden toy trains, clothing, bedding products, toys, puzzles, books, birthday party, school supplies, costumes, decorative items and DVD\'s for children.
-	['toys ', 'online toy shop', ' ', 'educational toys', '']
-ActivityStream.io
-	Operator of an online store. The company provides an online platform which connects e-commerce retailers with customers.
-	['', 'customer activity', ' ', 'purchase decisions', ' ', 'customer satisfaction', '']
-Smithfield Case
-	Provider of online clothing service for men. The company creates an online platform which allows the customer to create a profile that includes style, brand, preferences, sizes and then personal stylist develops a set of looks and sizes.
-	['', 'online clothing', ' ', 'online platform', ' style']
-Heverest.ru
-	Operator of an online shopping portal. The company provides clothing, footwear, bags and backpacks, sports and outdoor tourism equipment and accessories.
-	['', 'sporting goods', ' ', 'consumer durables', ' ', 'shopping portal', '']
-eÓtica
-	Provider of an e-commerce platform to sell optical products online. The company sells contact lenses, sunglasses, prescription glasses, frames and accessories.
-	['', 'optical products', ' ', 'sunglasses', ' ', 'contact lenses', ' ', 'online optical store', '']
-Seek & Adore
-	Operator of an online boutique for artists and designers. The company provides an e-commerce platform for designers and customers who are looking to discover and buy things such as homewares, jewellery, fashion accessories and gifts.
-	['', 'fashion accessories', ' ', 'handmade gifts', ' homewares']
+Provasculon
+	Developer of novel therapeutic proteins. The company develops therapeutic proteins that help organs damaged by ischemia to heal. The company\'s lead protein therapeutic can restore hearts that have been damaged by severe ischemia to near normal function.
+	['', 'therapeutic proteins', ' ischemia ', 'cardiovascular disease', '']
+Targovax
+	Operator of an oncology bio-pharmaceutical company. The company develops therapeutic vaccine for pancreatic cancer.
+	['', 'pancreatic cancer', ' ', 'therapeutic vaccine', ' ', 'oncology bio-pharmaceutical', '']
+Genemedicine
+	Developer of bio-pharmaceutical products. The company designs gene medicines to produce sustained levels of therapeutic proteins within the body. The company develops therapeutic products for both acute and chronic use and to be administered to patients through conventional means such as intramuscular or intravenous injection, or inhalation.
+	['biopharmaceutical genes']
+Creatogen
+	Developer of technology for genome wide functional genomics. The company develops bacterial carriers for oral delivery to treat and to prevent acute and chronic diseases caused by an imbalance of the immune system. The company also develops a bird flu vaccine for poultry.
+	['genomics ', 'bacterial carriers', ' ', 'oral delivery', ' ', 'chronic diseases', ' ', 'immune system', ' ', 'bird flu vaccine', '']
+Carolus Therapeutics
+	Developer of biopharmaceuticals aimed at treating acute and chronic inflammation. The company develops new drugs that are aimed to provide relief to patients suffering from a host of disorders triggered by acute and chronic inflammation.
+	['', 'chronic inflammation', ' ', 'inflammation diseases', ' ', 'noninvasively monitor', ' ', 'organ transplantation', '']

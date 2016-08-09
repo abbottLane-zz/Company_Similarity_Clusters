@@ -1,15 +1,30 @@
-ZetaRx Biosciences
-	Operator of biotechnology company. The company engages in the development of therapies for cancer and other diseases using genetically engineered lymphocites.
-	['', 'cancer therapies', ' lymphocites genetically']
-Genizon BioSciences
-	Operator of a biotechnology company. The company discovers genes and biomarkers in common diseases using genome wide association studies (GWAS), leveraging its technology platform and access to patients.
-	['', 'genome studies', ' ', 'common diseases', ' biomarkers']
-Syntherix
-	Operator of a biotechnology company. The company focuses in the invention of third generation cancer biomarkers using proteomics.
-	['cancer biomarkers proteomics']
-Creatogen
-	Developer of technology for genome wide functional genomics. The company develops bacterial carriers for oral delivery to treat and to prevent acute and chronic diseases caused by an imbalance of the immune system. The company also develops a bird flu vaccine for poultry.
-	['genomics ', 'bacterial carriers', ' ', 'oral delivery', ' ', 'chronic diseases', ' ', 'immune system', ' ', 'bird flu vaccine', '']
-Anteo Diagnostics
-	Operator of a biotechnology company. The company develops and commercializes specialized surfaces used in life sciences and the research and development of surfaces for specific binding of proteins.
-	['', 'specific binding', ' Mix&Go ', 'life sciences', '']
+Mutewatch
+	Designer and manufacturer of touchscreen wrist watches. The company is the developer of a watch with a hidden touchscreen that actives with a tap of the finger of a flip of the wrist. Its watches functions include clock, alarm and timer, with a vibrating alert.
+	['watch ', 'wrist watch', ' alarm ', 'touchscreen watch', '']
+Wicked Quick Industries
+	Designer and manufacturer of apparel for men and women. The company\'s brand is available in top specialty lifestyle accounts and over 150 specialty stores across the United States.
+	['lifestyle ', 'outerwear and apparel', ' fabrics']
+Warwick Effect Polymers
+	Provider of specialty biopolymers for the modification of biological products. The company provides advanced polymers for the biosciences, materials and specialty chemicals industries.
+	['', 'polymer synthesis', ' ', 'Speciality Polymer', ' PolyPEG  GlycoPol Polymerisation ', 'specialty chemicals', '']
+FoodShouldTasteGood
+	Manufacturer of natural tortilla chips. The company offers multigrain, jalapeño, olive, chocolate, sweet potato, cantina, lime, blue corn, cheddar, blue and white corn dipping, toasted sesame, hemp and hatch Chile chips. Its products are available through its own and various online stores; retailers in the United States and Canada; and at specialty gourmet and natural food markets.
+	['', 'online store', ' ', 'natural food', ' ', 'tortilla chip', '']
+Whyred
+	Manufacturer of apparel for men and women. The company also provides online shopping options for the users.
+	['', 'online shopping', ' ', 'wearing apparel', '']
+Zeal
+	Provider of eyewear. The company offers sunglasses, goggles and RX eyewear for men, women and athletes. The company also offers HD camera goggles for documenting adventures.
+	['eyewear ', 'HD camera', '']
+Lightfull Foods
+	Producer of nutritious snacks. The company provides its products through grocery and natural foods stores in United States, as well as online. It also offers smoothies.
+	['', 'nutritious snack', ' ', 'healthy diet', ' ', 'online food store', ' ', 'healthy snacking', '']
+Quincy Apparel
+	Designer of woman apparel. The company combines bespoke and ready-to-wear by rethinking traditional clothing sizes allowing women to shop by bust, body shape and height.
+	['', 'professional apparel', ' ', 'online clothing', ' ', 'online apparel', ' ', "women\\'s apparel", ' ', 'professional wear', '']
+Meemi
+	Provider of luxury fashion for men and women. The company operates a website that offers various types of clothes, shoes, bags, accessories and designer wears.
+	['', 'luxury fashion', ' ', "women\\'s clothing", ' ', 'designer wear', '']
+The Fine Art Auction Group
+	Provider of auction services in the U.K. The company operates a network of regional auction houses in the U.K., with a specialty in art and antiques.
+	['', 'auction house', ' appraisals auctions']

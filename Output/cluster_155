@@ -1,66 +1,24 @@
-Turboprop
-	Creator of a mobile-application development platform. The company operates an online platform enabling users to create mobile applications with a drag-and-drop experience. The company provides ready-made templates, as well as tools to build applications from scratch.
-	['', 'mobile application development', ' ', 'application template', ' ', 'ready-made template', '']
-Adept Cloud
-	Provider of cloud-based file-sharing and collaboration services. The company is the provider of a cloud-managed, private collaboration service, designed to enable security, control and privacy for enterprise communications on multiple devices.
-	['', 'cloud-managed service', ' ', 'collaboration service', ' ', 'internal collaboration', ' ', 'collaboration software', ' ', 'file sharing', ' ', 'file-sharing', '']
-AppFog
-	Provider of a web based application platform. The company provides a platform as a service that allows to deploy, manage and scale applications written in all languages, with all frameworks, across public, private and hybrid clouds.
-	['', 'web application deployment', ' ', 'application scaling', ' ', 'workload portability', '']
-Nukona
-	Provider of mobile application management technologies. The company\' application center is an end-to-end mobile information management and security service, enabling enterprises to secure, deploy and manage native and web applications and content on corporate-owned and personal devices.
-	['', 'mobile application management', ' ', 'mobile information management', ' ', 'web applications', '']
-New Moon Systems
-	Provider of non-internet mobile software services. The company\'s services enables enterprises and service providers to centrally deliver and manage their software assets across hundreds and thousands of user desktops. The company\'s iQ application management platform is used to intelligently deploy and manage Windows applications across private and public networks.
-	['windows ', 'software platform', ' ', 'IQ application', '']
-FeedHenry
-	Provider of a cloud-based mobile application platform. The company’s software enables application developers to build, deploy and manage mobile applications. The software can be deployed to different cloud and platform as a service environments.
-	['', 'application developer', ' ', 'cloud based service', ' ', 'cloud-based application', '']
-MobileDevHQ
-	Provider of a search engine and discovery platform for mobile applications and developers. The company offers a directory of mobile application developers, including their current portfolio of published applications and the category(ies) of projects they specialize in.
-	['', 'discovery platform', ' ', 'application store optimization', ' ', 'competitive intelligence', '']
-Wix.com
-	Provider of a cloud-based web development platform. The company offers cloud-based templates for designing websites, without any coding knowledge required.
-	['', 'website building', ' ', 'web publishing platform', ' ', 'personalized website', ' ', 'customized website', ' ', 'website template', ' ', 'website design', '']
-Hojoki
-	Provider of a cloud based applications to solve the problem of information fragmentation. The company supports individuals in tracking application and connects task management and communication with the productivity application.
-	['', 'productivity tool', ' ', 'information fragmentation', ' ', 'collaboration service', '']
-Trestle
-	Provider of a set of cloud based mobile application that allows mobile applications to store and manipulate data. The company provides chain server as well as the custom node JS service for creating custom mobile application.
-	['', 'custom mobile application', ' ', 'chain server', ' ', 'custom node', '']
-Via Response Technologies
-	Provider of cloud-based classroom tools. The company\'s platform leverages mobile smart devices, tablets and enables student-teacher interaction through the cloud.
-	['', 'teaching software', ' ', 'cloud software', ' ', 'interaction platform', '']
-SnapGuide
-	Provider of an iOS application and web service for sharing "how to" guides. The company\'s platform enables users to share and consume instructional knowledge on a variety of topics - from automotive repairs to cheesecake. The platform can be deployed on mobile devices.
-	['', 'instruction guide', ' ', 'video guide', ' ', 'how to guide', ' ', 'voice recognition', ' ', 'web service', '']
-Scringo
-	Developer of applications for mobile application developers and their users. The company offers set of features and tools to help mobile application developers to manage and customize their applications, connect with their users and listen to their feedback.
-	['', 'software developer kit', ' swipe ', 'discovery tool', ' ', 'user retention', '']
-MobileIron
-	Provider of a mobile IT platform to secure and manage mobile applications, documents and devices. The company’s cloud-based software enables end-users to access their applications and data anywhere on the device of their choice, as well as providing access security.
-	['', 'application management', ' ', 'document management', ' ', 'mobile device', ' ', 'mobile platform', '']
-Rosslyn Analytics
-	Provider of on-demand spend analytics platform for providing real-time access to the enterprise-wide spend data. The company\'s cloud-based platform enables organizations to build, deploy and run on-demand comparative analysis.
-	['', 'spend analytics platform', ' ', 'comparative analysis', ' ', 'spend data analysis', ' ', 'data integration', '']
-Collections Labs
-	Provider of Mac application that helps users to manage media content like Facebook and Instagram photos, Tweets and videos, alongside other cloud-based things like Google Docs. The company\'s product also allows a user to toggle between Dropbox and Google Drive content and the more traditional Finder material like Word docs and other native applications.
-	['', 'mac application', ' ', 'media content', ' ', 'traditional Finder', ' ', 'native application', '']
-Taviz Technology
-	Provider of integration software that automates the development and management of intelligent adapters and connectors. The company offers applications that enables users to deploy and manage integrated applications cost.
-	['', 'integration software', ' ', 'intelligent adapters', ' connectors']
-Vigill Alerts
-	Provider of communication platforms for customer communications and marketing campaigns. The company allows mobile application publishers and developers to deploy two-way customer communications and marketing campaigns through their mobile applications. The company\'s platform also helps users to send updates, get feedback, ask questions, create polls and deliver offers for their marketing campaigns.
-	['', 'communications platform', ' feedback ', 'marketing campaign', ' ', 'create poll', '']
-Librato
-	Provider of a cloud-based monitoring platform for development and operations teams. The company\'s platform monitors the metrics and events important to their application deployments, while leaving metrics storage, analysis, annotation and alerts as an easy-to-deploy service that can scale with their operation.
-	['', 'monitoring software', ' ', 'resource management', ' ', 'infrastructure software', '']
-BugSense
-	Provider of software to assess mobile-application performance. The company\'s software analyzes metrics each month across multiple platforms, generating performance reports designed to help developers identify issues and create better app customer experiences.
-	['', 'quality standard', ' ', 'performance report', ' ', 'application performance', '']
-Inaura
-	Provider of mobile computing platform. The company\'s platform helps in simplifying the delivery of applications and services to end-users across the distributed enterprise and also enables an enterprise to deploy web services and provide safe and secure mobility of enterprise resources to the end users.
-	['', 'mobile computing platform', ' ', 'application delivery', ' ', 'distributed enterprise', '']
-DevZuz
-	Developer of delivery platforms that link enterprise businesses to application developers.
-	['', 'delivery platform', ' ', 'enterprise business', ' ', 'application developer', '']
+Empowered Careers
+	Provider of online education services. The company has partnered with the University of California, Los Angeles extension program to offer courses specifically for professionals going back to school for professional development or a new career. It offers counseling in career guidance, online courses and assistance with the job search process.
+	['', 'education service', ' ', 'online education', ' ', 'training service', ' ', 'career change', '']
+Lore
+	Provider of a cloud-hosted education service for instructors to manage courses and engage their students. The company offers tools for gradebook, file management, communication and calendaring with social networking features that enable students to communicate with each other.
+	['', 'online education', ' ', 'education platform', ' ', 'online course', ' ', 'course management', ' ', 'file management', '']
+Cloudup
+	Provider of an online education platform that provides classrooms with collaborative real-time tools, interactive communities, shared content, educational applications, and classroom management solutions. The company also provides administrative tools to manage students, classes, and teachers through a permissions system.
+	['', 'education platform', ' ', 'interactive community', ' ', 'educational application', ' ', 'classroom solution', ' ', 'administrative tool', '']
+Guroo
+	Provider of an online education platform. The company provides online and offline learning resources including videos to engage students in the learning tasks.
+	['', 'online education platform', ' ', 'education platform', ' ', 'online learning resource', '']
+Zinch
+	Operator of web site that allows students to post profiles for recruitment into colleges and universities. The company helps colleges to find and recruit students looking for undergraduate, transfer and graduate school opportunities, as well as enables admissions officers to interact with students.
+	['', 'college recruitment website', ' ', 'student recruiting', ' ', 'student interaction', '']
+ProwebCE
+	Developer of management and communication software for works council. The company offers ProwebCom, a software for managing and publishing content, statistical tools and interactive communication and also provides a software for managing sales by department.
+	['', 'works council', ' ', 'statistical tools', ' ', 'interactive communication', '']
+Zoji
+	Developer of a network of users that incorporates reviewing and social networking features for the internet community. The company aims to make invitations social with various web 2.0 features for users creating invites.
+	['', 'photo sharing', ' ', 'photo tagging', ' ', 'internet community', ' ', 'restaurant review', ' ', 'social networking', '']
+Instructure
+	Provider of a cloud-based learning management system. The company offers tools for instructors and students that are designed to integrate drag-and-drop file uploaders, HTML 5 video, automatic speech-to-text conversion applications, as well as Web 2.0 tools and social media platforms. It also provides an index of online courses.
+	['', 'learning management system', ' ', 'education technology', ' ', 'education software', '']

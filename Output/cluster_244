@@ -1,33 +1,36 @@
-MessageClick
-	Provider of internet-based outsourced messaging services including fax, voice and unified messaging. The company offers its services directly to end-users and through service providers, which include cable operators, telephone companies, and major ISPs.
-	['telecommunications ', 'internet service provider', ' ', 'cable operators', '']
-Telogy Networks
-	Developer of asymmetric digital subscriber line semiconductors. The company\'s golden gateway software enables its customers to develop connected products that send real-time voice, fax and data over packet networks.
-	['', 'Asymmetric Digital Subscriber Line', ' semiconductors']
-Azuki Systems
-	Provider of over-the-top optimized multi-screen video technology services. The company operates a web-based platform that enables service providers, mobile operators and brand-name media to combine the power of over-the-top delivery with the highest quality of user experience, content protection, scale and reliability.
-	['', 'video technology services', ' ', 'web-based platform', ' ', 'video delivery', '']
-Clarent
-	Provider of networked internet telephony services for long distance phone calling service providers. The company enables service providers to deliver simultaneous transmission of voice, fax and data over internet protocol network.
-	['VoIP ', 'communication service', ' ', 'internet telephony', '']
-Nexabit Networks
-	Designer and manufacturer of switch/router equipment for carrier and service provider networks. The company\'s product enables service providers to offer real-time services and accommodate the bandwidth demands.
-	['', 'electronic equipment', ' ', 'router equipment', ' ', 'service provider networks', ' ', 'network equipment', '']
-Xtera Communications
-	Developer of optical, internet protocol performance, and service solutions to terrestrial and sub-sea global service providers. The company’s products include NU-WAVE ES, a scalable optical line system; Nu-Wave CXR system, an OADM transport system to converge metropolitan, regional, long haul and ultra long haul systems into a homogeneous network.
-	['', 'IP performance', ' ', 'optical line', ' ', 'homogeneous network', ' ', 'ip service', '']
-Impulse Telecom
-	Provider of telecommunications services. The company provides local and long distance phone services and flat rate long-distance services.
-	['', 'telecommunications services', '']
-Packet Shaper Technologies
-	Provider of software solutions and hosted services to the telecommunications industry in the Asia Pacific. The company provides Soft Switch Prix, a carrier-class deployment platform that allows service providers, ISVs, and OEMs to develop and deploy converged communication services; a calling cards platform that features call waiting, call forwarding, conferencing, and voicemail options; and a calling card hosted service to build a private-label pre-paid phone card business. It also offers Predictive Dialer, an outbound campaigns management solution for telemarketing and telesales teams; DialPrix, an outbound customer contact solution; SMS gateway, an SMS transit service for transforming messages to mobile network traffic from other media; and Email2sms, a solution that translates email messages into text messages and forwards to mobile networks.
-	['telecommunication ', 'calling card', ' ', 'IVR platform', ' voicemail conferencing ', 'call forwarding', ' ', 'bandwidth management', ' ', 'wireless networking', '']
-VocalData
-	Developer of service delivery soft switches and service platforms. The company enables communications carriers to deliver telephony and communications services on next generation networks (NGNs).
-	['', 'service delivery', ' ', 'service platform', ' ', 'communication service', '']
-Intelepeer (Voice Peering Business)
-	Provider of direct IP connections to global service providers. The company is a provider of carrier-class voice-peering infrastructure, designed to deliver transmission of voice and related rich-media services to users\' wireline or wireless device of choice.
-	['', 'voice transmission', ' ', 'rich media', ' VoIP']
-Voice Access Technologies
-	Provider of voice-activated information services. The company\'s voice access platform and application enables service providers and enterprises to deliver user-requested content across multiple presentation platforms, automated voice-response, fax, PDA, SMS, WAP, web, email and pagers.
-	['', 'voice activated products', ' ', 'application software', ' ', 'voice access platform', ' fax']
+Umbria
+	Provider of internet related research and marketing advice. The company collects the unsolicited opinions and perceptions of the online community like blogs, message boards, chats and turns it into actionable market research about companies, products, people and topics of interest.
+	['', 'market research', ' ', 'marketing data', ' ', 'internet research', '']
+Groxis
+	Developer of visual search technology and graphical information interface solutions. The company develops and markets Grokker, a Web-based enterprise search management platform that leverages federated content access and visualization for enterprises, universities, content publishers, libraries, and other research-intensive organizations.
+	['', 'visual search', ' ', 'search management', ' ', 'graphical information', '']
+Motilal Oswal Financial Services
+	Provider of equity research services. The company provides market research, technical and derivative analysis and other research facilities for both institutional and retail investors in India.
+	['brokerage ', 'equity research', ' ', 'market research', ' ', 'wealth management', ' ', 'retail broking', '']
+Zapera.com
+	Provider of market research services. The company offers online market research services in the Nordic countries.
+	['', 'online market research', ' ', 'market research', ' ', 'market analysis', '']
+MacroMill
+	Provider of online application tool for market research. The company has an automatic online research system, which collects consumer response data on products and services provided by a variety of companies.
+	['', 'market research', ' ', 'consumer response', ' ', 'online research', '']
+Aegis Media Europe
+	Provider of research tools and client support services. The company offers business consulting based on the research data.
+	['', 'research tool', ' ', 'client support', ' ', 'business consulting', '']
+Knowledge Networks
+	Provider of online research services for consumer products and services, pharmaceuticals, retail, media and public policy. The company offers the research process to their clients throughout to retail, healthcare, government, academic research, media, yellow pages research and financial services industries.
+	['', 'promotion research', ' ', 'online research', ' ', 'consumer insights', ' ', 'media research', ' ', 'study designs', ' ', 'analytics', ' ', 'research', ' ', 'market research', '']
+Napkin Labs
+	Provider of online market research platform. The company provides crowdsourcing platform to get market research, insights and ideas from their social networks.
+	['', 'market research', ' ', 'crowd sourcing', ' ', 'online lab', ' ', 'analytic dashboard', '']
+Carsala
+	Provider of online research and negotiating services for used cars. The company uses Web technology, in conjunction with its own professional negotiators, to enable users to research and purchase used cars.
+	['', 'online business', ' ', 'car buying service', ' ', 'carfax report', '']
+SurveyExecutives
+	Provider of surveys for marketing research. The company provides decision maker research data and surveys.
+	['', 'marketing research survey', ' ', 'research data', ' ', 'decision maker survey', '']
+NetRatings
+	Provider of internet media and market research solutions. The company\'s products and services are designed to assist companies in making business decisions regarding their internet strategies and initiatives.
+	['', 'market research', ' ', 'internet media', ' ', 'business decision', '']
+Northern Light Technology
+	Provider of an online research engine platform. The company engages in providing strategic research portals, market research tools, business research content and search technologies for the energy, financial services, transportation, retail and telecommunication sectors.
+	['', 'research portal', ' ', 'content aggregation', ' ', 'search engine', '']

@@ -1,24 +1,15 @@
-Santiago and Beverage Trade Lemos
-	Owner and operator of a beer club. The company also publishes a magazine covering articles on the brewery industry. This apart, the company also mails a kit containing a selection of four bottles of beer to its customers. The company also operates as a beer retailer through an online platform.
-	['', 'internet retail', ' ', 'clubs and resorts', ' ', 'beer retailer', '']
-Wal-Mart.com
-	Owner and operator of an online retail business. The company is a global online seller of consumer products such as electronics, office products, books, furniture and outdoor equipment.
-	['', 'party supplies', ' ', 'video games', ' ', 'gift cards', '']
-MallStreet
-	Provider of an online retail portal. The company offers portable electronics, home equipment, things for garden, computers, cosmetics, fitness products, children’s goods and others.
-	['', 'internet retail', ' ', 'portable electronic', ' ', 'household equipment', '']
-Ascotfirst.com
-	Owner and operator of an online property portal. The company offers the facility to apply for online quotes, mortgages, conveyancing or removals.
-	['', 'online portal', ' ', 'property portal', ' ', 'real estate website', '']
-buecher.de
-	Owner and operator of an online bookstore. The company primarily operates as an online retailer of books and also engages in the sale of other media products such as games, music and movies.
-	['', 'online books', ' ', 'books retailer', ' bookstore']
-JPS Groupe
-	Provider and seller of goods and equipment to industries. The company focuses on selling and renting products for industrial and construction purposes.
-	['leasing trading ', 'building trade', '']
-Pooch
-	Provider of accessories and apparel for dogs. The company is into online retail of dog products.
-	['', 'dog accessory', ' ', 'dog apparel', ' ', 'online dog product', ' ', 'online retail', ' ', 'pet accessories', ' ', 'pet apparel', ' pet']
-PriceMinister
-	Owner and operator of e-commerce websites and online communities. The company offers private and professional users a marketplace to trade various products, including books, videos, CDs, DVDs and games, electronics, clothes, childcare products, apparel, home and garden products, automobiles and many other products.
-	['', 'e-commerce', ' shopping ', 'online shopping', ' marketplace']
+Ravenflow
+	Provider of business requirements definition software. The company product helps business analysts to visualize and validate requirements, build team consensus, and produce specifications of business process workflows, business use cases, and business application needs. It also provides training and professional services. It serves finance, banking, insurance, government, telecommunications, technology, healthcare, and education sectors, as well as independent software vendors and systems integrators.
+	['', 'business requirements definition', ' ', 'requirement gathering', ' ', 'requirements management interface', '']
+Affinity Labs
+	Provider of online professional community for people. The company offers networks for careers such as law enforcement, healthcare, education, government and technology.
+	['', 'online community', ' ', 'professional community', ' ', 'educational community', '']
+Ambiensis
+	Provider of comprehensive development support for new sustainable technologies in the agricultural and environmental sectors. The company provides assistance to business propositions in the areas of finance, product and process development, marketing and business management.
+	['environment', 'agricultural sector', ' ', 'process development', ' ', 'business management', '']
+Licensario
+	Developer of a technology that helps independent software vendors and SaaS businesses build flexible pricing models and sell their products. The company also manages the end-user rights management, gives detailed analytics and insights, integrates with the business customer relation management.
+	['', 'pricing models', ' ', 'software developer', '']
+Comcerto
+	Communications processor business of Mindspeed Technologies, Inc. This business provides a series of multicore, ARM®-based embedded processors and associated software, a talented team and Tier One customers spanning the globe.
+	['', 'connectivity product', ' ', 'communication processor', ' ', 'associated software', '']

@@ -1,30 +1,42 @@
-Oxford BioMedica
-	Developer of gene-based medicines and therapeutic vaccines. The company\'s technology platform includes a gene delivery system for the treatment of the diseases of the central nervous system and the eye and a tumor antigen for anti-cancer therapy.
-	['', 'gene-based medicines', ' ', 'therapeutic vaccines', ' ', 'gene delivery system', ' ', 'tumor antigen', ' ', 'anti-cancer therapy', '']
-Molecular Engines Laboratories
-	Developer of a new generation of drugs against cancer. The company\'s research is focused on the analysis and understanding of the molecular mechanism which makes it possible for a cancer cell to quit its malignant state and to revert to a suppressed-malignant phenotype.
-	['', 'cancer drug', ' ', 'cancer cell analysis', ' ', 'cancer research', '']
-ACT Biotech
-	Developer of cancer drugs. The company is focused on the development and commercialization of targeted oral and cancer drugs.
-	['', 'oral cancer', ' ', 'cancer treatment', '']
-JSK Therapeutics
-	Developer of novel anti-cancer drugs using an approved compound to inhibit the growth of cancer cells. The company\'s business is based on two types of drugs, the first class of drug, has been tested in animal systems and the second class of drugs is not as developed as a cancer drug but is more versatile with wider range of cancers.
-	['', 'cancer therapy', '']
-Gloucester Pharmaceuticals
-	Developer of cancer therapeutics. The company develops romidepsin, a histone deacetylase inhibitor and oncology drug candidate for T-cell lymphomas, as well as for the treatment of hematologic malignancies. It also develops treatments for hematological cancers, including cutaneous T-cell lymphoma, peripheral T-cell lymphoma, and multiple myeloma.
-	['', 'cancer therapy', ' ', 'hematological cancer treatment', ' ', 'cancer drug', '']
-Cancer Genetics
-	Developer of personalized medicines for cancer diagnostics as well as treatments that are tailored to the specific genetic profile of the individual. The company provides cancer patient management to diagnose, monitor and inform treatment of cancer.
-	['', 'cancer diagnostic', ' ', 'cancer treatment', ' ', 'cancer patient management', '']
-Hémax Génome
-	Provider of a gene-discovery platform for mapping a gene on the X chromosome that is involved in regulating hematopoiesis. The company also applies its gene-discovery platform to other genes responsible for diseases showing an unequal distribution amongst genders.
-	['', 'gene-discovery platform', ' ', 'hematopoiesis regulation', ' ', 'genes identification', ' biotechnology']
-Pathway Therapeutics
-	Developer of therapeutics against human diseases. The company offers PI3 kinase, an enzyme identified as active in cancer tumor development.
-	['', 'drug development', ' ', 'cancer treatment', ' ', 'lifesciences and oncology', '']
-ZGene
-	Provider of gene therapeutics for the treatment of cancer diseases. The company develops treatments for several cancer forms with an enzyme based gene suicide system that increase the activation of anti-cancer drugs in tumour cells with faster cell death.
-	['', 'cancer treatment', ' ', 'gene suicide', ' ', 'anti-cancer drugs', '']
-Tacere Therapeutics
-	Developer of therapeutics for the treatment of serious infectious diseases such as Hepatitis C (HCV). The company utilizes gene silencing technology called DNA-directed RNA interference (ddRNAi).
-	['', 'Hepatitis C', ' ', 'RNAi therapeutic', ' ', 'RNA interference drug', '']
+Trusted Network Technologies
+	Provider of authentication, access control and misuse prevention software. The company develops identity-based network control and audit products.
+	['', 'misuse prevention software', ' ', 'access control', ' ', 'identity based network', '']
+Insightix
+	Provider of security intelligence and control solutions. The company offers Business Security Assurance Suite, which is designed to detect, identify, profile, audit, and control various devices connected to client’s network; Business Security Assurance Visibility, which delivers the information necessary to properly manage and secure the enterprise network and the business of information technology; Business Security Assurance Security Configuration Management, which provides an automated way to audit the security configuration of client devices by measuring their level of compliance with internal and external policies; Business Security Assurance Security Network Access Control, which provides way to control access to the enterprise network; and Business Security Assurance Guest Network Access, which provides a way to offer guest network access while maintaining the security of client’s internal network
+	['', 'security intelligence solution', ' ', 'control solution', ' ', 'Security Configuration Management', '']
+Consul Risk Management International
+	Provider of compliance and security audit software. The company provides software that helps to track the clients , report and investigate non-compliant behavior, such as unauthorized activity by information technology administrators or other users.
+	['', 'security audit', ' compliance ', 'security management', '']
+Roving Planet
+	Provider of network access control and management solutions for enterprise networks. The company provides its client a secure network environment to manage and control its users, endpoints, connections and sessions.
+	['', 'networking software', ' ', 'network management', ' ', 'wireless service provider', '']
+PassMark Security
+	Developer of authentication systems for online banking. The company\'s authentication platform is focused on automated Two-Factor Two-Way Authentication(TM). They offers complete front-to-back system that exceeds FFIEC guidelines with its real-time risk-based analytics, layered security, shared fraud data network, multi-model decision engine, and automated supplemental authentication.
+	['authentication ', 'layered security', ' ', 'automated supplemental authentication', '']
+Netect
+	Provider of security software. The company provides security assessment and systems management software that identify and close security holes to prevent internal and external network intrusions, including attempts to hack into a network via the Internet.
+	['', 'security malware', ' ', 'network security', ' ', 'security assessment', ' ', 'system management software', '']
+AEP Networks
+	Developer of security and communications technologies to governments, enterprises and carriers in the United Kingdom and internationally. The company\'s products include Series A Secure Application Access, which is available as hardware or virtual appliance that enables secure web browser access to a range of business applications, Series E IPSec VPN Encryptor, an independently assured encryptor that protects IP traffic across networks, Series K Hardware Security Module, a hardware security module designed to generate, store and protect cryptographic keys for mission critical applications that demand maximum security and Series V Managing, a heterogeneous network that is used by armies and other agencies that require fast, reliable and secure deployable communications.
+	['', 'security application', ' ', 'communication technology', ' ', 'IP traffic', ' ', 'hardware appliance', '']
+Nitrosecurity
+	Developer of security information and compliance management solutions that protect business information and infrastructure. The company offers products, including NitroView Enterprise Security Manager, NitroView LogCaster, and NitroGuard.
+	['', 'security information', ' ', 'business infrastructure', ' ', 'compliance management', ' ', 'analytical tool', ' ', 'data collection', ' ', 'event management', '']
+Rohati Systems
+	Provider of internet networking solutions. The company provides agent-less access management, authentication and authorization, controlled collaboration, managing offshore risk, micro perimeters, secure administration, compliance and audit, and payment card industry council\'s data security standards compliance solutions. It offers Transaction Networking System, a network-based entitlement control platform, which enables entitlement control on a per-transaction basis for data center environments.
+	['', 'networking solution', ' ', 'access management', ' ', 'controlled collaboration', ' ', 'secure administration', ' ', 'compliance solution', ' ', 'control platform', '']
+Reverb Networks
+	Developer of closed-loop mobile network technologies. The company\'s InteliSON product suite delivers radio access network optimization through antenna and RF parameter configuration changes.
+	['', 'cellular networks', ' ', 'SON software products', ' ', 'InteliSON product suite', '']
+CipherMax
+	Provider of an enterprise-class storage security solution for securing information assets and achieving compliance with government regulations. The company offers a storage security system for tapes that provides line-speed encryption processing and centralized security administration solutions for legacy.
+	['', 'storage security solution', ' ', 'government regulation', ' ', 'storage security system', ' ', 'centralized security', ' ', 'encryption processing', '']
+Latis Networks
+	Designer and developer of security software and certified compliance services for external and internal network security threats. The company offers automated, military-grade network access control to its customers. The company also offers a suite of security testing, monitoring and management products such as Border Guard Standard, Border Guard Gateway, Border Guard Wireless, Server VAM and Remote VAM.
+	['', 'security software', ' ', 'network access control', ' ', 'Border Guard Standard', '']
+Validity Sensors
+	Provider of authentication sensors technology. The company offers password replacement, identity verification, centralized management for corporate network security and secure wireless transactions for the protection of portable data and physical access control.
+	['', 'biometric sensor', ' ', 'fingerprint authentication', ' ', 'network security', ' ', 'fingerprint sensor', ' identification ', 'access control', '']
+Tail-f Systems
+	Provider of configuration management and network automation software. The company creates an abstraction layer between network devices and centralized network control software.
+	['', 'network automation software', ' ', 'configuration management', ' ', 'network device', '']

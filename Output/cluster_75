@@ -1,21 +1,54 @@
-InovisProject
-	Manufacturer and developer of multilayer coatings. The company specializes in the production of coated products for the production of films for cameras.
-	['', 'industrial coating', ' ', 'film coating', ' ', 'multilayer coating', '']
-EcoSynthetix
-	Developer and marketer of biobased materials. The company is focused on developing bio-based materials through the value-added substitution of petroleum-based products. The company’s products include biolatex binders, which use starches from renewable-crop resources; and EcoMer, environmentally sustainable, sugar-based monomer adhesives, which can be used instead of a wide variety of petrochemical ingredients that go into paint, adhesives, plastics, inks, toners and surfacants.
-	['', 'chemical products', ' ', 'bio-materials', ' polymers ', 'renewable resources', '']
-Carbodeon
-	Developer and supplier of super-hard nanomaterials. The company is a developer of nano-diamonds and graphite carbon nitride, materials that it markets for use in wear-resistant, biocompatible coatings, energy storage, thermal management, polishing, abrasives and lubricant oils.
-	['nanomaterials  diamonds abrasives polishing']
-ADAP Nanotech
-	Manufacturer of carbon nanotube based adhesives and coatings. The company specializes in manufacturing and commercialization of high performance thermally and electrically conductive adhesives for use in demanding industrial and electronics applications, with an initial focus on thermal interface materials deployed to facilitate cooling of electronic components.
-	['', 'carbon nanotube', ' ', 'electrically conductive adhesives', ' adhesives']
-PartMiner Worldwide (CAPS Business)
-	Supplier of electronic components for the electronics industry.
-	['', 'electronic component', ' ', 'electronic tool', ' ', 'electronic component database', ' ', 'equipment manufacturer', '']
-Lingk & Sturzebecher
-	Manufacturer of lightweight hydraulic cylinders consisting of carbon fiber-reinforced plastics. The company is engaged in the development of composite materials for use in pressurized hydraulic applications in aerospace, mobile and industrial markets.
-	['', 'hydraulic cylinder', ' ', 'carbon fiber reinforced plastics', ' actuator']
-Nanoconduction
-	Provider of products based on carbon nanotube technology optimized for IC chips, LEDs  and Solar Cells. The company develops nano-based electronic cooling Technology.
-	['nanotechnology ', 'nanoconduction technology', ' semiconductors']
+Optis Pristine
+	Developer of software products enabling engineers to visualize the impact of manufacturing variations on the final perceived quality of a product. The company\'s product, Aesthetica, can be used throughout the digital-product development process and enhances cross-functional collaboration and build quality.
+	['', 'manufacturing variation', ' ', 'digital product development', ' ', 'visualization software', '']
+RuleStream
+	Provider of standards based engineering solutions that help manufacturers to capture, manage and reuse product knowledge. The company provides software for automating the build-to-order process across engineering, manufacturing and sales.
+	['', 'software solutions', ' ', 'software engineering', ' ', 'Standards Based Engineering', ' ', 'Product Lifecycle Management', ' ', 'Engineering Resource Planning', ' ', 'knowledge software', '']
+ManageIQ
+	Provider of enterprise cloud management and automation software. The company provides an automation software that enables organizations to deploy, manage and optimize private clouds, virtualized infrastructures and virtual desktops. It delivers unified monitoring, management and automation through a single pane of glass across enterprise clouds and globally distributed data centers.
+	['', 'enterprise cloud management', ' ', 'automation software', ' ', 'virtualized infrastructure', ' ', 'virtual desktop', ' ', 'unified monitoring', '']
+e-Xstream engineering
+	Provider of software and engineering services. The company develops a non-linear multi-scale modelling software platform DIGIMAT and also offers its consultancy service for multi-scale modelling of materials and composite structures. The company was spun out of Université catholique de Louvain.
+	['', 'modelling software', ' ', 'engineering service', ' ', 'composite materials', '']
+Camilion Solutions
+	Provider of product development and management services for insurance and other financial services organizations. The company\'s software creates enterprise product agility with strategic initiatives such as product lifecycle management, product bundling and product rationalization.
+	['', 'product development', ' ', 'management service', ' ', 'product lifecycle management', '']
+VaST Systems Technology
+	Provider of tools and models for embedded system design automation. The company provides ESL engineering tools and models to companies involved in the engineering and manufacture of high-performance, real-time electronic systems integrating significant hardware, software and other technology components.
+	['', 'architectural analysis', ' ', 'virtual system prototyping', ' ', 'wireless technology', ' ', 'systems design', ' ', 'software development', '']
+Fintura
+	Operator of a portfolio management company. The company\'s services include leading-edge product development, new account origination, agent issuing and portfolio management.
+	['', 'portfolio management', ' ', 'home equity', ' ', 'student loans', '']
+Cycell
+	Operator of a mobile network. The company enables organizations to complete product development, secure GSM certification and set up a production facility to customise and brand handsets.
+	['', 'mobile network', ' ', 'product development', ' ', 'GSM certification', '']
+Structural Dynamics Research
+	Provider of enterprise product development solutions with a suite of mechanical design automation software and product data management software. The company provides mechanical computer-aided engineering (MCAE) software and engineering services which help manufacturers optimize product development early in the design process.
+	['', 'automation software', ' ', 'data management software', ' MCAE ', 'mechanical computer-aided engineering', '']
+InPart Design
+	Developer of strategic sourcing software and content services for the industrial marketplace. The company provides web-based enterprise software and three-dimensional (3D) computer-aided design (CAD) model libraries of standard mechanical components to improve product development cycles and reduce component expenses for manufacturing companies.
+	['', '3D geometry', ' ', '3D models', ' ', 'technical specification', '']
+Accept Software
+	Developer of Enterprise Product Development technology. The company offers a collaborative approach to product planning for product professionals while transforming product outcomes.
+	['', 'enterprise product development', ' ', 'product development platform', ' ', 'consumer good', '']
+Federation Web
+	Provider of software products that integrate product data and product lifecycle management applications. The company engages in designing, building and delivering software solutions that federate multiple levels of data across the product development and manufacturing value chain.
+	['', 'product lifecycle', ' ', 'management applications', ' ', 'manufacturing value chain', ' ', 'PDM system', '']
+Trinity Convergence
+	Provider of embedded software platforms that enable VoIP, voice and video over IP (V2IP) products and services. The company designs, develops and licenses comprehensive VoIP software solutions enabling equipment manufacturers to streamline the product development process.
+	['VoIP ', 'software platforms', ' ', 'software solutions', ' V2IP']
+CommerceInterface
+	Provider of e-commerce channel management software. The company provides software to help manufacturers, distributors and retailers to manage their businesses and selling online.
+	['', 'channel management', ' ', 'e-commerce', ' ', 'channel management technology', ' ', 'online business management', '']
+Aspect Development
+	Operator of a software, data content and services company. The company provides component and supplier management (CSM) technology to manufacturers. The company\'s applications and supplier-information databases are focused on improving the product-development cycle. Its CSM technology targets the design and procurement processes of the manufacturing enterprise, providing design engineers and procurement personnel the ability to rapidly search, compare and select optimal designs, components and suppliers.
+	['', 'enterprise solution', ' CSM ', 'supplier database', ' ', 'data content', '']
+6th Sense Analytics
+	Provider of software solutions for automated collection and analysis of software engineering process and product data.
+	['', 'software engineering', ' ', 'engineering software', ' ', 'data collection', ' ', 'automated data collection', ' ', 'data analysis', '']
+Everstream
+	Provider of enterprise business software and engineering services. The company offers enterprise software such as Data Suite, which provides architecture for data extraction, transformation, loading and storage of data.
+	['', 'cable television operator', ' ', 'enterprise software', ' ', 'productivity software', '']
+Satellier
+	Provider of workshare solutions to the global AEC industry. The company provides workshare services such as Building Information Modeling (BIM), Design Support, Engineering/MEP, Design Management Services, and computer aided drafting support to architectural, engineering, and MEP disciplines.
+	['', 'design support', ' ', 'design management', ' ', 'project documentation', ' ', 'building information modeling', '']

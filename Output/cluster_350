@@ -1,30 +1,18 @@
-Furndex
-	Provider of ancillary services. The company provides services to members including credit and payment information, logistic services such as shipping and warehousing. The company also provides an e-commerce model in the steel, plastics and chemical industries.
-	['', 'B2B services', ' ', 'software services', '']
-High Mark Credit Information Services
-	Provider of credit risk information services. The company enables financial institutions to take credit decisions, deter concurrent borrowers and spot defaulters.
-	['', 'credit risk', ' ', 'credit decision', ' ', 'financial institution', '']
-Hangi Kredi
-	Operator of a credit portal where users can search and compare all credit products of banks and credit institutions and send online applications to them. The company offers an independent and impartial platform that brings together the creditors and borrowers. The company provides credit rates of banks and credit institutions, required conditions for such credits and an online application service to such credits on free of charge basis.
-	['', 'credit portal', ' ', 'credit institutions', ' borrowers creditors ', 'credit rates', '']
-LiveCapital
-	Provider of online small business financing. The company offers DecisionExpress product, which creates benefit through automating credit or lease decision processes and integrates workflow.
-	['', 'online financing', ' ', 'credit management', ' ', 'automatic credit', '']
-Bio Architecture Lab
-	Developer of a technology that enables the production of ethanol from kelp sugars. The company develops an application of synthetic biology and enzyme design for the development of biofuels and renewable chemicals from aqua farmed native macro algae.
-	['', 'ethanol production', ' ', 'synthetic biology', ' ', 'enzyme design', ' biofuel ', 'renewable chemical', ' ', 'native macro algae', '']
-CreditScorer
-	Developer of technology for studying payment behavior of clients. The company\'s technology enables credit professionals to improve their credit granting and collections performance. The company creates and implements risk scoring models for the credit and financial services industries.
-	['', 'credit payment', ' ', 'credit granting', ' ', 'payment behavior', ' ', 'finance technology', ' ', 'credit benchmarking', ' ', 'credit payment software', ' ', 'finance software', ' credit']
-Descant
-	Provider of tools to quantify and benchmark the performance of companies using financial and market metrics. The company creates web application that makes it easy for businesses to manage and access financing and credit from a position of strength.
-	['', 'performance benchmarking', ' ', 'financial analysis', ' ', 'performance measurement tool', '']
-DPG Holdings
-	Provider of eco-friendly information and products over internet. The company is a provider of corporate credit information with value-added services such as credit ratings, bankruptcy probability analysis and alarm systems via the internet.
-	['', 'bankruptcy probability', ' ', 'information service', ' ', 'credit ratings', ' ', 'corporate credit information', '']
-Bill Me Later
-	Provider of payment and marketing technology services to multichannel retailers. The company offers PayCapture, a set of credit tools; and Bill Me Later that enables customers to pay for purchases without providing credit card information.
-	['', 'marketing technology', ' ', 'multichannel retailer', ' ', 'credit tool', ' ', 'payment technology', ' paycapture ', 'credit card payment', '']
-FreeMonee
-	Provider of consumer gift incentives. The company enables merchants to give gifts directly to individual credit and debit cardholders through participating financial institutions.
-	['', 'gift network', ' ', 'gift card', ' ', 'cash gift', '']
+NanoVasc
+	Operator of a medical device company. The company designs and manufactures bio mimetic materials that are non-thrombogenic, durable and demonstrate long-term patency. The company uses an electrospinning process to manufacture scaffolds in a multitude of shapes and sizes, and then application-specific modifications are applied to the scaffolds surface in order to achieve desired results. These specific modifications are designed to optimize the devices outcome based on its delivery location. The company\'s first product is a synthetic vascular graft for hemodialysis access.
+	['', 'biomimetic material', ' ', 'electrospinning process', ' scaffold ', 'synthetic vascular graft', ' ', 'hemodialysis access', '']
+L.G. Med
+	Developer of a passive non invasive extravasation patch detector. The company\'s device identifies the rate at which intravenous medication is delivered to patients and will alert medical professional with an alarm and stop the flow of medication should there be an error.
+	['', 'intravenous site', ' ', 'non invasive', ' ', 'non invasive', '']
+AiMedics
+	Operator of a medical device company. The company develops HypoMon system, a non-invasive alarm system that identifies sleep-time hypoglycaemia in children and young adults.
+	['HypoMon ', 'non-invasive', ' hypoglycaemia']
+Biometrix
+	Operator of a medical device company. The company provides medical devices for intensive care, surgery and interventional cardiology.
+	['', 'critical care products', ' ', 'thoracic catheters', ' ', 'urology products', ' ', 'ophthalmic surgery drapes', ' cardiology']
+Exogen ( Ultrasound Bone Healing System )
+	Developer of medical devices for the non-invasive treatment of bone injury and disease. The company focuses on the biophysical modulation and treatment of musculoskeletal injuries and disease.
+	['', 'medical devices', ' ', 'non invasive treatment', ' ', 'bone injury', ' ', 'biophysical modulation', ' ', 'musculoskeletal injuries', '']
+Encapsule Medical
+	Operator of a medical device company. The company focuses on the development of disposable, non-invasive, breast biopsy devices. Its products include Flash, Halo and Phantom.
+	['', 'breast cancer', ' biopsy ', 'breast biopsy', '']

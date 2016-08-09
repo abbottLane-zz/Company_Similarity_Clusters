@@ -1,27 +1,18 @@
-ClimateMinder
-	Provider of wireless climate monitoring and control systems for agriculture. The company offers products that growers can use to increase quality, improve yield per acre, reduce water and nutrient costs, operate remotely, increase profits and achieve sustainability.
-	['agriculture ', 'climate monitoring', '']
-Telemic
-	Provider of wireless based remote sensing technologies for lighting and other applications. The company offers remote monitoring and control systems for street lights.
-	['', 'remote sensing', ' ', 'remote monitoring', ' ', 'street light', ' ', 'power conservations', '']
-Integrated Energy Services
-	Provider of commercial and industrial heating, ventilation and air conditioning systems. The company also installs, renovates and do maintenance services of commercial and industrial products.
-	['', 'B2B Services', ' ', 'commercial products', '']
-BusLogic
-	Supplier of Small Computer Systems Interface (SCSI) host adapters and RAID products for desktop PCs and network servers. The company\'s products were used by OEMs, VARs and system integrators.
-	['', 'Small Computer Systems Interface', ' RAID server']
-Lively (Wireless Monitoring Technology)
-	Developer of a wireless monitoring technology for senior citizens. The company has developed a safety watch and sensors for monitoring pill dispensers, appliances and other everyday items. The system shares sensor data through its home health platform for older adults, enabling family members and other caregivers to get alerts.
-	['', 'remote sensor', ' ', 'remote monitoring', ' ', 'family networking', ' ', 'family communication platform', ' ', 'photo sharing', ' ', 'family message sharing', '']
-WinfoMedia
-	Provider of electronic display products for out-of-home advertising. The company\'s products consist of a regular LCD screen combined with touch-free sensor for user accessibility.
-	['touchscreen ', 'touch-free sensor', ' ', 'multichannel system', '']
-Vensafe
-	Developer of automated sales services for theft traded goods in retail. The company\'s products streamline store operations, reduce shrinkage and theft and helps reduce capital tied up in a number of high value.
-	['', 'theft product', ' ', 'theft security', ' ', 'selling automation', ' retail']
-Spinwave Systems
-	Developer of wireless sensor networks and sensing products. The company\'s products are used to reduce and simplify monitoring and control of commercial and industrial buildings.
-	['sensors ', 'wireless transceivers', ' ', 'mesh repeaters', '']
-Millennial Net
-	Provider of commercial and industrial wireless sensor networking software. The company provides a device that performs wireless network management tasks.
-	['', 'industrial wireless sensor', ' ', 'wireless network management', ' ', 'networking software', '']
+Anagnostics Bioanalysis
+	Developer of systems and tests for multiplex clinical and medical research diagnostics. The company\'s Hybcell technology aims at providing services in the fields of drugs of abuse screening, severe infections and diagnostics in the field of oncology.
+	['', 'molecular diagnostics', ' ', 'multiplex clinical', ' ', 'research diagnostics', ' ', 'drugs of abuse screening', '']
+Cartagenia
+	Provider of software and services for clinical genetics and molecular pathology labs. The company provides a software platform for variant assessment and reporting of clinical genomics data from next-generation sequencing and microarrays. The platform also enables technicians, lab directors and clinicians to visualize, assess and report clinical genetics data in the context of patient information.
+	['', 'healthcare Software', ' ', 'genetic interpretation', ' ', 'database system', '']
+Unwind Me
+	Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.
+	['', 'massage therapy', ' ', 'wellness service', ' Massage']
+Gaiam
+	Provider of a lifestyle media company and offers a  selection of information, media, products and services to customers. The company caters goods for home, clothing, wellness, yoga, fitness and videos.
+	['lifestyle ', 'direct response television', ' ecommerce catalog']
+Spectral Genomics
+	Developer and marketer of products and services in molecular genetics and diagnostics. The company also provides genomic profiling services for customers in academic and industrial research laboratories.
+	['', 'genomic profiling service', ' ', 'molecular genetic', ' genomes']
+Exemplar Logic
+	Developer and marketer of logic synthesis software. The company also participates in third-party programs.
+	['', 'logic synthesis software', ' ', 'automation software', '']

@@ -1,15 +1,57 @@
-Wavefront Technologies
-	Producer of computer graphics & animation software. The company designs software for graphic designing and animation.
-	['', 'multimedia software', '']
-DYGRA FILMS
-	Producer of 3D animated movies. The company offers graphic design, digital, animation and production services.
-	['', '3D animation studio', ' ', '3D graphic design', ' ', '3d movie production', ' ', 'movie animation', ' ', 'movies', '']
-XtremeAir
-	Producer and designer of aerobatics aircraft. The company designs, produces and distributes aircraft. It also involves in composite parts design, prototyping and production.
-	['', 'aircraft manufacturer', ' airplane ', 'airplane designer', '']
-Habit Industries
-	Provider of an application for creating online animations. The company provides backgrounds in animation and offers services for new media promotions, video games, graphic design, and film production.
-	['', 'online animation', ' ', 'animation background', ' ', 'graphic design', '']
-Content Critical
-	Provider of content management, transaction processing and custom middleware technologies. The company provides compliance messaging and reporting solutions, such as composition and rendering solutions for institutions that require distribution of compliance documents. It also provides professional services, such as programming and development, Web development, graphic design and prepress; production services, including digital print, wide format output, mailing and fulfillment, commercial print and binding and finishing; and online support and client services.
-	['', 'compliance messaging', ' ', 'graphic design', ' ', 'digital printing', '']
+SilverSky
+	Provider of on demand security services for computer networks in the United States. The company\'s on demand security services include vulnerability defense, intrusion defense, managed firewall, network defense, virus protection, email defense, system defense, high speed internet access, user defense, secure hosted email, email archiving and desktop management.
+	['', 'antivirus software', ' ', 'network security', ' ', 'email security', '']
+Arxan Defense Systems
+	Provider of an application protection and anti-tamper software to the federal market in the United States. The company provides security guard technology rooted in hardware.
+	['', 'anti-tamper', ' ', 'security guard technology', ' ', 'unauthorized change', ' protection']
+Symbiot
+	Provider of risk metrics products for measurement and management of network security events. The company offers predictive tools for managing and analyzing streams of security event data. The company’s products include Symbiot 5600, a detection and mitigation solution to deliver community centric security to organizations; Symbiot.NET, a central repository of attacker profiles based on the cooperative surveillance and reconnaissance gathered by network participants; and Symbiot Orb, which provides interface solutions for users enabling them to avoid logging in or paged to monitor their network security.
+	['', 'network security', ' ', 'risk measurement', ' ', 'risk metric product', '']
+Syphan Technologies
+	Developer of network security software and technology. The company provides a security platform and equipment for enterprises, original equipment manufacturers and service providers. It also manufacture products that protect multi-staged attacks as well as protect servers against network attack.
+	['broadband ', 'security appliance', ' ', 'network attack', '']
+International Network Services
+	Provider of network consulting and security services. The company provides services for the full life cycle of a network, including planning, design, implementation, operations and optimization.
+	['', 'network consulting', ' ', 'security services', ' optimization']
+Syntensia
+	Provider of network security services. The company provides security on-demand solutions on subscription basis.
+	['', 'network security', ' ', 'security services', ' ', 'subscription basis', '']
+CoSoSys
+	Developer of network endpoint security and portable storage device enhancement solutions. The company also provides portable USB security software solutions that offer flash drive encryption, data synchronization, Outlook synchronization, and biometric data security.
+	['', 'network security', ' ', 'software solution', ' ', 'biometric data', ' ', 'data security', '']
+Arkoon Network Security
+	Provider of Internet security services. The company\'s software products enables network security, computer system protection and data confidentiality.
+	['', 'internet security', ' ', 'integrated software', ' ', 'network security', ' ', 'computer system protection', ' ', 'data confidentiality', ' ', 'firewall', '']
+Anchulsu laboratory
+	Provider of security services. The company provides security product, security consulting, security control and security ASP for various computer crime prevention and guidance activity.
+	['', 'security services', ' ', 'security consulting', ' ', 'computer crime prevention', '']
+Sereniti
+	Provider of home computer network security, technical support and management services. The company\'s products provides router security, wireless management services, folder sharing, printer sharing, share protection safeguards and security identification. The company aims to improve and enhance the flow of data for broadband service providers such as cable operators.
+	['', 'network security', ' ', 'wireless management', ' ', 'folder sharing', ' ', 'security identification', '']
+LocoMobi
+	Provider of software and hardware for security services. The company provides software and hardware for the parking, security and the transportation markets.
+	['', 'security service', ' ', 'transportation market', ' ', 'security software', '']
+Cyrye
+	Provider of commercial solutions. The company provides Drupal migration services, Growing Venture Solutions (GVS), and Drupal security services.
+	['', 'commercial solution', ' ', 'Drupal migration service', ' ', 'Growing Venture Solution', '']
+Security-7
+	Developer of network security services. The company provides security products for the corporate market against threats coming into the network through downloaded internet content.
+	['', 'internet content', ' ', 'network security', ' ', 'security service', '']
+Packet Analytics
+	Provider of network security tools. The company specializes in tool development for IT security assessments and incident response applications. It offers Network Forensics Search Engine (Net/FSE), a Linux-based software that provides a web interface for network managers to see an analytical profile of host-to-host activity based on NetFlow router data and other log information related to an organization\'s security systems.
+	['', 'security system', ' ', 'network security', ' ', 'network manager', ' ', 'router data', '']
+eTunnels
+	Provider of virtual private network and security services. The company offers connection to network servers securely using VPN technology.
+	['', 'telecommunication service providers', ' ', 'virtual private network', '']
+Reliant Protective Services
+	Provider of professional protective services. The company provides protection services which includes residential security, corporate security, loss prevention, executive body guard, executive transportation, armed security, rapid response team, private investigation to children, homes and businesses.
+	['', 'residential security', ' ', 'corporate security', ' ', 'loss prevention', ' ', 'armed security', '']
+Latis Networks (Managed Security Services Division)
+	Provider of network security services. The company handles the operation of data security for companies that don\'t have the bandwidth.
+	['', 'network security', ' bandwidth operation']
+Protego Networks
+	Provider of purpose-built intelligent network security information and threat management appliances. The company provides security threat mitigation solutions that allow organizations to quickly identify, analyze and respond to security threats targeted at mission critical networks and applications.
+	['', 'Mitigation and Response System', ' ', 'network security', ' firewall']
+Seclarity
+	Developer of network security services to users, applications and operating systems. The company offers Sinic, a security card that enforces various security policies, such as encryption, authentication and firewalling, as well as turns broadcast network into a private network by offering protection.
+	['', 'network security service', ' ', 'operating system', ' ', 'broadcast network', '']

@@ -1,33 +1,24 @@
-EyeLock
-	Provider of identity management technology. The company provides identity authentication-focused systems for border control, logical access, global access control and other identity-management sectors.
-	['', 'iris biometric', ' ', 'security system', ' ', 'identity management', '']
-Trusted Network Technologies
-	Provider of authentication, access control and misuse prevention software. The company develops identity-based network control and audit products.
-	['', 'misuse prevention software', ' ', 'access control', ' ', 'identity based network', '']
-LifeLock
-	Provider of identity theft protection services, filed a registration statement with the US Securities and Exchange Commission. The company provides various serices that protect its users’ identity and personal information, as well as prevent users’ identity from being stolen.
-	['', 'identity theft', ' ', 'identity protection', ' ', 'security software', '']
-Symplified
-	Provider of identity infrastructure for the on demand market. The company provides KeyChain, which provides pre-integrated secure single sign-on for software-as-a-service (SaaS) and enterprise applications; Access, an identity and access management product for SaaS and Web applications; and Identity Cloud, which enables users to deploy identity infrastructure.
-	['', 'identity infrastructure', ' ', 'access management', ' ', 'SaaS', '']
-ID Analytics
-	Provider of identity risk and fraud management services in the United States. The company offers ID Score–Risk, which delivers on-demand identity intelligence across various points of customer contact, including online, call centers, mail and in-store interactions, ID Score–Action, which calculates an identity risk score, ID Score–Revenue that enables customer management decisions, ID Analytics for Compliance, a regulatory compliance solution that uses on-demand identity intelligence to support business processes and ID Analytics for Data Defense, which detects organized misuse of personal information due to lost hard drives, stolen laptops or illicit behavior by internal or external parties.
-	['', 'fraud management', ' ', 'on demand identity', ' ', 'identity risk score', ' ', 'identity intelligence', ' ', 'identity fraud', ' ', 'identity protection', ' ', 'regulatory compliance', ' ', 'customer management decisions', '']
-Applied Identity
-	Provider of identity aware netowrk security solutions. Also a provider of audit and compliance, asset protection, network level user and group separation and identity virtualization solutions.
-	['', 'identity network solution', ' ', 'security solution', ' ', 'identity store', ' ', 'network enforcement solution', '']
-GeoMetrix
-	Provider of biometric identity management solutions. The company provides solutions to access control for corporate facilities. The company also offers biometric cameras that acquires facial biometrics in 3D formats which is widely designed for commercial, defense, Government, gaming and video surveillance.
-	['', 'biometric cameras', ' ', 'employee tracking', ' ', 'identification management', ' ', 'video surveillance', '']
-Validity Sensors
-	Provider of authentication sensors technology. The company offers password replacement, identity verification, centralized management for corporate network security and secure wireless transactions for the protection of portable data and physical access control.
-	['', 'biometric sensor', ' ', 'fingerprint authentication', ' ', 'network security', ' ', 'fingerprint sensor', ' identification ', 'access control', '']
-Lumidigm
-	Developer of identification technology based on optical skin tissue measurements. The company provides biometric identity management for civil identification (ID), point-of-sale, time and attendance, physical and logical access and portable electronic device applications.
-	['', 'identification biometric', ' ', 'fingerprint sensor identification', '  ', 'civil identification', ' ', 'verification optical', '']
-Avenda Systems
-	Provider of network access solutions for user and endpoint authentication and posture assessment. The company offers trust and identity policy solutions for enterprises and government organizations internationally. It also provides a proactive resource management solution that secures networks and organizations from threats before the user gains access.
-	['', 'network access', ' ', 'endpoint authentication', ' ', 'posture assessment', ' ', 'identity policy', ' ', 'management solution', '']
-Fidelica Microsystems
-	Developer of fingerprint imaging and authentication technology. The company develops biometric technology for electronic security, access and transaction control.
-	['', 'fingerprint image', ' ', 'biometrics technology', ' ', 'electronic security', ' ', 'smart card', ' ', 'fingerprint sensor', '']
+Tutum
+	Developer of a cloud computing service platform. The company provides a cloud service focused on deploying and managing containers in any environment, whether the cloud or on-premises.
+	['', 'cloud computing', ' ', 'automate management', ' ', 'docker container', '']
+Concurrent Thinking
+	Provider of computing systems and software. The company is involved in designing and implementation of large-scale computing infrastructures and software including cluster integration and monitoring software and services.
+	['', 'High Performance Computing', ' ', 'cluster management', 'supercomputing', 'Data Centre', '']
+Nebula
+	Developer of a hardware appliance for building private cloud computing infrastructures. The company provides cloud infrastructures for biotech, financial services and media companies.
+	['', 'private computing cloud', ' ', 'enterprise cloud', ' ', 'cloud computing hardware', '']
+Terraspring
+	Developer and provider of management software. The company provides service for the automated deployment, management, visibility and control of the heterogeneous computing environments.
+	['', 'automated deployment', ' ', 'storage resource', ' ', 'device agnostic', ' computing']
+Virtugo Software
+	Provider of software products that monitor, control and optimize virtual and physical server environments. The company delivers a workflow engine-based software platform that enables system integrators to automate customer specific system management processes for computing and communications environments.
+	['', 'optimize virtual server', ' ', 'workflow engine', ' ', 'performance monitoring', ' ', 'capacity management', '']
+Elastra
+	Provider of software for designing, deploying, and managing application systems in public and private cloud computing environments. The company offers Elastic Computing, a database and application infrastructure solution.
+	['', 'application infrastructure', ' ', 'cloud computing', ' ', 'Cloud Server', ' ', 'cloud environment', '']
+Eucalyptus Systems
+	Developer of open-source software platform for implementing on-premise private and hybrid clouds. The company offers Elastic Utility Computing Architecture for Linking Your Programs to Useful Systems (EUCALYPTUS), which implements cloud computing on clusters, as well as delivers hybrid cloud deployments for enterprise data centers.
+	['', 'cloud computing', ' ', 'hybrid cloud', ' ', 'software platform', ' ', 'computing architecture', ' ', 'cluster computing', '']
+EnStratus Networks
+	Provider of cloud management and governance solutions. The company offers enStratus, a cloud infrastructure management solution for deploying and managing enterprise-class applications in public, private, and hybrid clouds.
+	['', 'cloud management', ' ', 'governance solution', ' ', 'cloud infrastructure', '']

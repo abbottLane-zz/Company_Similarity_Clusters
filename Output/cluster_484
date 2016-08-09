@@ -1,27 +1,15 @@
-Metaboli (White Label Division)
-	Provider of download stores for game publishers. The business offers commerce-as-a-service solutions for publishers of video games and their online retailers.
-	['', 'video game', ' ', 'digital game', ' ', 'gaming console', '']
-Sight & Sound Distributors
-	Distributor of home videos, video games and related accessories. The company buys prerecorded tapes from movie studios and sells them to retailers, including regional supermarket chains and video stores. Local customers include Video Update, Dierbergs Markets, Blockbuster franchises and several smaller independent stores. The stores both rent and sell the videos.
-	['', 'video distributor', ' ', 'distribution service', ' ', 'video distribution service', '']
-Red Swoosh
-	Provider of P2P network technologies designed to alleviate bandwidth bills for Websites. Its products include Predelivery, which delivers video, video games, and files to users as a background delivery.
-	['', 'bandwidth bill', ' ', 'content delivery', ' ', 'media management', ' ', 'retrieve metadata', '']
-Realtime Worlds
-	Developer of video games.
-	['', 'video game', '']
-Canesta
-	Provider of electronic perception technology. The company’s technology enables electronic devices, including video games, computers, industrial and medical electronics devices, automobiles or other vehicles, and factory automation equipment to perceive and react to objects or individuals in real time.
-	['', 'electronic perception', ' robotics ', 'security application', '']
-Dark Water Studios
-	Provider and developer of video games. The company develops computer and video games through its studio based in Derry, Northern Ireland.
-	['', 'computer game', ' ', 'video game', ' ', 'game studio', '']
-5min Media
-	Operator of a syndication platform for broadband instructional, knowledge, and lifestyle videos, as well as DIY projects. The company\'s platform features content from media companies and independent producers in various categories, such as arts, automobiles, business, extreme, fashion, fitness, food, games, health, home, music, parenting, people, pets, spiritual, sports, technology, travel, life tips, knowledge, and video games.
-	['', 'lifestyle video', ' ', 'syndication platform', ' ', 'health video', ' ', 'video solution', '']
-Humongous Entertainment
-	Developer of computer video games. The company develops educational games for children.
-	['', 'computer games', ' ', 'educational games', ' ', 'video games', '']
-VideoJax
-	Provider of video games on the web. The company offers play games with video clips and trivia questions in the areas of movie, television, music and sports, as well as featured games.
-	['', 'video game', ' ', 'online game', ' ', 'online trivia', ' ', 'game sharing', '']
+Adept Cloud
+	Provider of cloud-based file-sharing and collaboration services. The company is the provider of a cloud-managed, private collaboration service, designed to enable security, control and privacy for enterprise communications on multiple devices.
+	['', 'cloud-managed service', ' ', 'collaboration service', ' ', 'internal collaboration', ' ', 'collaboration software', ' ', 'file sharing', ' ', 'file-sharing', '']
+Gravitant
+	Provider of cloud computing services. The company develops software designed to enable the deployment of virtual data centers and business applications by aggregating services from infrastructure-as-a-service providers.
+	['', 'cloud computing', ' ', 'virtual data center', ' ', 'cloud brokerage', ' ', 'cloud marketplace', ' ', 'predictive analytic', '']
+Found Software
+	Provider of a file-sharing and collaboration platform. The company allows users to search for, find and discover their files, documents and data across devices and cloud services.
+	['', 'file sharing', ' ', 'data search', ' ', 'file discovery', ' ', 'data collaboration', '']
+TerraSky
+	Provider of cloud computing and system integration services. The company provides SkyVisualEditor, a tool for screen development that is used to simplify the salesforce screen and a platform for data collaboration called SkyOnDemand.
+	['', 'cloud computing platform', ' ', 'system integration services', ' ', 'data collaboration platform', '']
+Dispatch
+	Provider of cloud based data management services. The company provides cloud-based file sharing services. It also offers group email addresses for the projects.
+	['', 'cloud sharing movement', ' ', 'cloud sharing management', ' ', 'cloud file sharing', ' ', 'file sharing', '']

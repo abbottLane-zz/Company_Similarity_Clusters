@@ -1,33 +1,15 @@
-ultraBridge
-	Provider of a technology service to the long term care industry. The company provides its clients with a management service to their data and business reporting needs using outsourcing.
-	['', 'technology service', ' ', 'care industry', ' ', 'management service', '']
-Nelson House
-	Operator of a mental rehabilitation hospital. The company offers care and treatment to male patients aged between 18 and 65.
-	['', 'rehabilitation hospital', ' ', 'mental health', ' ', 'male patients', '']
-6 Wunderkinder
-	Provider of a business task management software with online synchronization. The company provides an interface to track everything from grocery shopping to long-term travel plans.
-	['', 'task management software', ' ', 'online synchronization', ' ', 'productivity software', '']
-American Transitional Hospitals
-	Provider of long-term specialty transitional care. The company provides transitional care facilities for subacute patients.
-	['', 'transitional care', ' ', 'specialty care', ' ', 'subacute patients', '']
-EndoProtech
-	Developer of therapies for organ transplantation and invasive cardiovascular surgery. The company\'s technology helps in delivery and long term display of bio-therapeutics on the surface of vascular endothelium which enables close monitoring and protection of vascular surfaces.
-	['', 'organ transplantation', ' ', 'cardiovascular surgery', ' ', 'vascular surfaces', ' bio-therapeutics']
-Bridge Pharmaceuticals
-	Provider of preclinical services. The company conducts drug development and preclinical services which include short and long-term in vivo studies ranging from acute to carcinogenicity protocols.
-	['', 'preclinical service', ' ', 'drug development', ' ', 'reproductive toxicology', '']
-Daverci
-	Provider of electronic medication management systems. The company\'s system provides long-term care facilities and institutional pharmacies that supplies them.
-	['medication tracking ', 'design support', '']
-CareCentric Solutions
-	Provider of  technology, business operation and outsourcing solutions. The company provides technology, business operation and outsourcing solutions for home health, private duty, hospice, home medical equipment, home pharmacy, long-term care and assisted living providers.
-	['', 'managed care', ' ', 'outsource solution', ' ', 'home pharmacy', '']
-VHA Long Term Care
-	Provider of long-term health care facilities.
+ConjuChem
+	Developer of novel therapeutics with an initial focus on diabetes. The company makes use of its platforms namely drug affinity complex (DAC) and preformed conjugate drug affinity complex (PC-DAC) to develop new drugs, moreover the company is currently managing many research programs in-house and has one product in clinical development.
+	['diabetes ', 'growth deficiencies', '']
+KIDS GARDEN
+	Operator of independent nursery. The company is in stealth mode.
+	['nursery']
+Optality
+	Provider of meaningful personal insights. The company aggregates, synthesizes and analyzes data currently stored in disconnected silos and serves the interests of consumers and vendors alike as a third party and hence improves the relevance and economic value in a broad array of exchanges and transactions.
+	['', 'personal insights', ' ', 'online portal', '']
+Randwal Instruments
+	The company was in stealth mode.
 	['']
-Sage Electrochromics
-	Manufacturer and seller of insulating glass units and control systems to window and skylight manufacturers. The company also provides windows, skylights, and curtain walls for commercial and institutional buildings. It offers its products to owner-occupied office spaces, museums, libraries, art galleries, health care facilities, religious facilities, aviation facilities, high-tech or image buildings, and atriums and overhead daylight openings.
-	['', 'insulated glass', ' ', 'curtain walls', ' skylight ', 'overhead daylight', '']
-Mariner Health
-	Provider of sub-acute medical services. The company provides long-term health care services offering assistance through nursing facilities and long-term acute care hospitals which includes daily living, therapy and rehabilitation.
-	['', 'medical services', ' ', 'long-term health care', ' ', 'daily living', ' therapy']
+Cynergen
+	The company is currently operating in stealth mode.
+	['commodity excess power']

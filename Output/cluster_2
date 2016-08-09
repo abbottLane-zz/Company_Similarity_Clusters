@@ -1,12 +1,21 @@
-Íshestar
-	Provider of horseback tours in Iceland.  The company is an operator of equestrian-tourism services in Iceland, providing traditional Icelandic horses, riding and dining facilities for riders, and promoting its services through an online booking site.
-	['', 'horse', ' ', 'hiking', ' ', 'riding', ' ', 'online booking', '']
-Destination Kiruna
-	Operator of a tourism company in the region of Kiruna. The company organizes events, guided tours, self-drive tours and offers holiday and tourism packages.
-	['', 'tour planner', ' ', 'event organizing', ' tours ', 'tourism agency', '']
-Totombola
-	Provider of an automated tool for creating and managing viral promotions through various social channels. The company offers an online platform to create different types of campaign (sweepstakes, photo contests and discount coupons) for different targets. These campaigns are self-managing and self-configuring.
-	['', 'viral promotion', ' sweepstake ', 'photo contest', ' ', 'discount coupon', ' ', 'social channel', ' coupon']
-Vendaria Media
-	Provider of guided selling services for online, in-store, mobile and social channels. The company offers videos, demos, selectors, syndication, site-wide services and B2B sales tools.
-	['', 'information management', ' ', 'selling services', '']
+MoboTap
+	Developer of a browser technology for mobile devices. The company is a mobile technology developer which has created Dolphin Browser, a web browser created for andriod, iOS phone and tablet users.
+	['', 'browser technology', ' ', 'mobile technology', ' ', 'web browser', '']
+Evertale
+	Developer of mobile applications. The company provides an application that automatically logs user\'s activities through mobile devices and creates a scrapbook.
+	['', 'user activity', ' ', 'scrapbook application', ' ', 'social application', '']
+MCC
+	Provider of mobile products and services in the Netherlands. The company is a retailer of mobile devices, including smart phones, tablets, navigation devices and accessories, and sells service descriptions for their use.
+	['', 'wireless communications', ' ', 'mobile devices', ' ', 'wireless services', '']
+Openera
+	Provider of mobile application services. The company provides an application that help users to find any file or attachment in two taps and automatically saves email attachments to cloud services like Dropbox, Google Drive, Box and Salesforce.
+	['', 'mobile application service', ' ', 'email attachment', ' ', 'cloud service', '']
+RallyCause
+	Provider of mobile commerce services by connecting affinity groups to local businesses. The company provides an application which allows people to enroll for a cause and when they shop at participating businesses in the cause, they claim an instant rebate with their smart phones, which enables them to contribute savings to one of the causes featured in the app.
+	['', 'mobile commerce', ' ', 'fund raising', '']
+JustChalo
+	Provider of a mobile technology focused on US restaurant industry. The company provides an application for reservations to be made on mobile devices for diners.
+	['', 'mobile technology', ' ', 'restaurant mobile payment', ' ', 'restaurant iphone application', '']
+PrimaTable
+	Provider of a platform to help restaurants to manage their scarce table resources. The company develops last-minute perishable inventory demand forecasting and pricing tools for the restaurant industry.
+	['', 'resource management', ' ', 'inventory demand forecasting', ' ', 'perishable inventory', ' ', 'pricing tool', ' ', 'restaurant pricing tool', '']

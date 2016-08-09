@@ -1,27 +1,21 @@
-Scrittura
-	Manufacturer of software targeting the financial services markets. The company provides document management, confirmation and straight-through-processing for the OTC derivatives marketplace. Its suite comprises DocGenerator, DocManager and Workflow Manager, as well as configured technology for the automation and management of OTC derivative, legal, corporate trust and HR business processes.
-	['', 'financial service', ' ', 'document management', ' ', 'derivative marketplace', ' ', 'hr business process', ' ', 'document confirmation', '']
-CyMed
-	Provider of medical transcription and document management services. The company offers workflow management services which enables a department\'s workflow with  hand-helds, bar coding, electronic signature, HIPAA compliant access protocols, audit trails, voice capture systems and transcription software.
-	['', 'medical transcription', ' ', 'workflow management', ' ', 'quality control', '']
-GTESS
-	Provider of healthcare claims processing service. The company\'s custom solutions edit and clean claims by automating specific, time and cost-intensive processes.
-	['automation ', 'healthcare claims', '']
-Ascendo System
-	Developer of document and workflow management technologies. The company specializes in electronic invoice management system and also offers other software products for businesses that monitors time-related documents and sets email reminder.
-	['', 'document management', ' ', 'workflow solution', ' ', 'invoice management', '']
-Synchris
-	Provider of bid lifecycle management software for government contractors. The company provides virtual workspace software that integrates communication, collaboration, document management and workflow features into a unified application that integrates with the Microsoft desktop.
-	['', 'bid lifecycle management software', ' ', 'virtual workspace software', ' ', 'document management', ' ', 'task order management', '']
-Nipuna Services
-	Provider of industry specific services to the customers in the insurance and healthcare sectors. The company\'s services include claims processing, policy issuance and premium accounting. The company also offers contact centre services for customer service, product support and technical help desk, in accounting, HR and other transaction-intensive activities, including analytics and animations.
-	['', 'Finance and accounting', ' ', 'accounts payable', ' ', 'financial accounting', ' ', 'HR services', ' ', 'payroll processing', ' ', 'employee development', ' ', 'Customer contact services', ' ', 'contact management', ' ', 'Technical helpdesk', ' ', 'product support', ' ', 'research and analytics', '']
-Third Millennium Healthcare Systems
-	Provider of revenue cycle management software. The company provides automate rejected or denied claims management, document imaging, claims tracking, workflow, document management, reporting and secondary claims processing.
-	['', 'revenue cycle management', ' ', 'denied claim', ' ', 'document imaging', ' ', 'Productivity Software', '']
-Enfocus
-	Developer of portable document format software. The company specializes in the development of tools to control the quality of PDF files for print and to automate workflow processes in the graphic arts industry.
-	['format ', 'PDF files', ' ', 'graphic arts', '']
-GHN Online
-	Developer of a revenue cycle management platform and clearinghouse focusing on the healthcare industry. The company serves the enterprise-class clientele through their intuitive web-based claims management solution during every stage of the electronic billing process.
-	['', 'revenue cycle management', ' ', 'transaction processing', ' ', 'claims processing', '']
+Net.Genesis
+	Provider of software and services that empower companies to understand, optimize and accelerate their online businesses. The company\'s flagship product, net.Analysis, is a Web site analysis solution, offering analytical power, reporting, scalability and enterprise support.
+	['', 'online business', ' ', 'enterprise support', ' ', 'website analysis', '']
+Activplant
+	Provider of performance management application software services. The company provides software tools, analytics and reports to manufacturers, as well as integrates data with existing business systems and applications, such as statistical process control, quality measurement, enterprise resource planning, reporting packages, Web browsers and wireless pagers.
+	['', 'management application', ' ', 'software tool', ' ', 'statistical process control', ' ', 'quality measurement', ' ', 'wireless pager', '']
+OutlookSoft
+	Provider of performance management solution. The company\'s flagship solution, OutlookSoft 5, provides a single performance management platform for strategic planning, budgeting, forecasting, statutory consolidation, reporting, analysis, predictive analytics, scorecarding, and dashboards. It also delivers related consulting, training, implementation, and ongoing product/client support services.
+	['', 'performance management solution', ' ', 'flagship solution', ' ', 'performance management platform', '']
+2Catalyze
+	Provider of social performance management platform. The company offers personal feedback, decision support, customer engagement, rapid peer reviews, team feedback, quick pulse, integration, consulting, live support, analytics, configuration tools and team activation services. It serves employees, consultants, managers, executives and educators, as well as teams, companies and academic/non-profits.
+	['', 'performance management', ' ', 'employee feedback', ' ', 'employee review', ' ', 'employee benchmarking', '']
+Cartesis
+	Provider of Business Performance Management (BPM) software. The company provides solutions in the field of financial consolidation and reporting, planning, budgeting and forecasting, management reporting and analysis and comprehensive business performance management.
+	['', 'business software', ' ', 'financial software', ' ', 'information delivery', ' ', 'performance management', '']
+Exony
+	Provider of customer interaction performance management and optimization to enterprises and service providers internationally. The company offers VIM Performance, an integrated platform to drive productivity across various aspects of virtualized customer contact. It’s VIM Performance includes VIM Analytics, a single platform for day-to-day self-serve operational reporting and OLAP-based analytics to measure contact center performance, VIM Performance Management, which offers a closed loop performance management and process automation capability, VIM Resource Management, an application that allows business users to enhance the VCC’s performance without third-party training or assistance, VIM Service Management, which allows supervisors to change specific agent resources, VIM Mediator, which delivers deeper insight into business data by bringing together fact data from various data sources to enable sophisticated analytical reporting and VIM Virtualization Framework, which brings together distributed operations, management, infrastructure components and resource layers to provide scalability, security and collaboration required by distributed contact operations. It also provides insight, implementation, knowledge and support services.
+	['', 'performance management', ' ', 'customer interaction', ' ', 'customer performance optimization', '']
+AS-Groupe
+	Provider of corporate performance management software. The company offers corporate planning, controlling, reporting, and services to various organizations.
+	['', 'corporate software', ' ', 'corporate planning', ' ', 'software services', '']

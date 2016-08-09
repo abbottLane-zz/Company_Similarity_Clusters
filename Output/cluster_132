@@ -1,42 +1,45 @@
-Graficas del Noroeste
-	Designer and manufacturer of packaging materials. The company engages in manufacturing of paper and cardboard cases and designing of graphic arts mainly for the food and cosmetic sectors.
-	['', 'packaging material', ' ', 'cardboard case', ' ', 'graphic arts', '']
-Reduce Destruccion Confidencial
-	Provider of paper shredding services. The company primarily offers confidential document destruction service for both digital and paper data.
-	['', 'document destruction', ' ', 'data delete', ' ', 'data demagnetise', '']
-SweTree Technologies
-	Developer of technologies for improving the value and productivity of trees and wood fibers. The company provides products and technologies to improve the productivity and performance properties of plants, wood and fiber for forestry, pulp & paper, packaging, hygiene, textile and other fiber related industries.
-	['forestry ', 'wood fibers', ' ', 'performance properties of plants', ' ', 'value of trees', '']
-ChipScale
-	Provider of wafer level packaging. The company provides Micro SMT packaging technology. The company refines and develops the SMT technology. The company\'s services include prototype packaging developments and licensing.
-	['packaging ', 'wafer level packaging', ' ', 'Micro SMT packaging', '']
-DMD Industries
-	Supplier of arts & crafts products. The company is a manufacturer of party supplies, scrap-booking, paper-crafting and stationary products.
-	['', 'scrap book', ' ', 'stationary product', ' ', 'paper crafting', ' ', 'consumer durables', '']
-SiPix Imaging
-	Developer of electrophoretic display (EPD) technologies. The company manufactures electronic paper modules that are used to display digital readouts in other manufacturers\' products. The company offers custom manufacturing of EPD materials to enable system designers to rapidly get their products to market. The company\'s product has applications for high-resolution displays, electronic shelf labels, information displays, smart cards and a variety of consumer products.
-	['', 'electrophoretic display', ' ', 'digital paper', ' ', 'imaging display e-paper', ' ', 'computer hardware', '']
-Raland Technologies
-	Provider of regulatory consulting, training, and integration services to the biotechnology, pharmaceutical, medical device, and energy industry. The company\'s software, LogIt! is an integrated system that allows users throughout the facility to enter equipment recordings and then store them securely, eliminating the need for paper-based logbook creation, data entry, review, and storage. The company also offers LearnLink which is a dynamic portal for delivering content like e-learning courses, videos and technical documentation to employees, customers, and prospects.
-	['', 'Regulatory Consulting', ' ', 'Learning Solution', ' ', 'medical device', ' ', 'specialized training', '']
-Kalvopakkaus
-	Manufacturer of plastic packaging products. The company is a supplier of plastic bags, flexible packaging and laminated films to customers. It also prints packaging.
-	['', 'plastic products', ' ', 'rubber products', ' ', 'laminated films', '']
-Novus Packaging
-	Manufacturer of extrusion-coated and laminated packaging materials serving the food, pharmaceutical and industrial markets. The company provides packaging materials including Sugar pouches/sticks/packs, Stand-up pouches, Candy wrappers, Coffee pouches, Bread bag Lidding stock, Deli wrap, Cake plates and Bakery Pouches.
-	['coated ', ' commercial bags', ' ', 'juice liner', ' lamination pouch']
-Tre Trapp
-	Producer of indoor wooden staircases. The company manufactures custom designed wooden staircases for homes using both craftsmanship and computerized techniques.
-	['', 'staircases', ' ', 'home decor', ' ', 'wooden stairs', '']
-Seamless Receipts
-	Provider of connecting platform between retailers and customers. The company replaces paper receipts with branded eReceipts and allows to personalize messages.
-	['e-receipt  ', 'personalized messages', ' ', 'commercial services', ' ', 'paper receipts', '']
-Microfluid
-	Provider of Infra Red sensor technology. The company develops product for measuring dampening within the graphic industry and measuring polymer films when converting packaging materials.
-	['equipment ', 'fluid layer', ' ', 'measuring equipment', '']
-Sidepa
-	Producer of paper-based products. The company manufactures paper bags and packaging materials made of paperboard for household purposes.
-	['', 'paper bags', ' ', 'packaging paper', ' ', 'paper products', '']
-Architel
-	Provider of archiving for paper and digital documents. The company offers data base filing and paper document management services.
-	['archiving ', 'digital documents', ' filing']
+Arcxis Biotechnologies
+	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
+	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
+FASgen
+	Developer of therapeutic drugs. The company designed and synthesized many compounds that selectively inhibit fatty acid biosynthesis. It offers cancer, infectious diseases, multiple drug resistant and latent tuberculosis and obesity and diabetes therapeutics.
+	['', 'therapeutic drugs', ' ', 'diabetes tool', ' ', 'latent tuberculosis', '']
+Movetis
+	Developer of drugs for the treatment of diseases in the gastrointestinal (GI) area. The company\'s products address GI disorders, such as severe chronic constipation, ascites, paediatric reflux, as well as severe forms of GI motility disorders, including refractory gastro-oesophageal reflux disease. Its lead product, Resolor, is used for the symptomatic treatment of chronic constipation in women.
+	['', 'gastrointestinal treatment', ' ', 'GI disorder', ' ', 'paediatric reflux', ' ascite gastrointestinal  constipation ', 'paediatric reflux', ' ', 'GI motility', ' ', 'refractory gastro-oesophageal reflux', '']
+TaiMed Biologics
+	Developer of biotechnology prevention and treatment solutions for viral infectious diseases that are causing serious harm to human health. Products in research include Tamiphosphor, a neuraminidase inhibitor for the treatment of influenza, and Ibalizumab, an HIV prophylactic drug.
+	['influenza HIV']
+Arana Therapeutics
+	Provider of biotechnology services. The company is focused on the development of antibody and peptide products for the treatment of inflammatory diseases and cancer.
+	['', 'inflammatory diseases', ' ', 'peptide products', ' ', 'research services', '']
+Penederm
+	Developer of products for the treatment of dermatologic disorders based on its topical delivery technology. The company\'s products are Mentax cream for the treatment of fungal infections of the skin such as athlete\'s foot, ringworm and groin fungus and Avita cream for the treatment of acne.
+	['', 'dermatologic disorders', ' Mentax ', 'fungal infections', ' ringworm ', 'anti fungus cream', ' acne']
+Ester Neurosciences
+	Developer of therapeutic products for the treatment of neurological disorders. The company provides novel therapeutic products for the treatment of neurological disorders such as myasthenia gravis, alzheimer disease, multiple sclerosis and acute stress reactions.
+	['', 'therapeutic product', ' ', 'neurological disorder', ' ', 'disease treatment', '']
+Intersect ENT
+	Developer of medical devices focused on the treatment of chronic sinusitis. The company\'s technology provides treatment for patients\' condition in which sinuses become swollen and inflamed, leading to difficulty breathing, facial pain or headache and reduced sense of smell and taste.
+	['', 'bioabsorbable drug', ' ', 'heart failure', ' ', 'chronic sinusitis', ' ', 'difficulty breathing', ' ', 'facial pain', '']
+Oxxon Therapeutics
+	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
+	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
+Cytoguide
+	Developer of combined drugs that target receptors on cells in pathological tissues. The company offers drugs that are aimed to improve the treatment of onocyte and macrophage-related diseases including autoimmune disease, leukemia and other infectious diseases.
+	['', 'combined drugs', ' pathological ', 'autoimmune disease', '  leukemia']
+IQ Therapeutics
+	Developer of human antibodies for the prevention and treatment of infectious diseases. The company provides research and development services and also offers technology as a service for third parties.
+	['', 'human antibodies', ' ', 'infectious diseases', ' ', 'anthrax infections', '']
+Lee\'s Pharmaceutical Holdings
+	Provider of pharmaceuticals for drug development and clinical development. The company specializes in cardiovascular and infectious diseases, dermatology, oncology, gynecology, ophthalmology and others.
+	['', 'infectious diseases', ' dermatology']
+Cantab Pharmaceuticals
+	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
+	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
+Tacere Therapeutics
+	Developer of therapeutics for the treatment of serious infectious diseases such as Hepatitis C (HCV). The company utilizes gene silencing technology called DNA-directed RNA interference (ddRNAi).
+	['', 'Hepatitis C', ' ', 'RNAi therapeutic', ' ', 'RNA interference drug', '']
+Xcyte Therapies
+	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
+	['', 'drug discovery', '']

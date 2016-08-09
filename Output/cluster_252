@@ -1,30 +1,42 @@
-CEB Merchandise Brokers
-	Wholesaler of custom apparel and promotional items. The company specializes in brand design, screen printing, embroidery and imprinted promotional products.
-	['', 'custom apparel', ' ', 'brand design', ' merchandise']
-Raster Graphics
-	Developer and manufacturer of large format digital color printing systems. The company is engaged in the development, manufacture and marketing of high performance and large format digital color printing systems, and in the sale of related consumables and software for the on-demand large format digital printer market.
-	['', 'digital color printing', ' ', 'printing system', ' ', 'electrostatic technology', ' ', 'inkjet technology', ' ', 'digital printer', '']
-Matan Digital Printers
-	Manufacturer of professional digital printers. The company designs and manufactures printing equipment for three major printing segments: super-wide format, traffic signage and labels, decals and license-plate printing.
-	['', 'digital printer', ' ', 'printing equipment', ' ', 'sign printing', '']
-IF-Com
-	Developer and manufacturer generic interface products for thermal printers. The company\'s products improve the total output of the printing system, especially printing systems operating within graphic printing.
-	['', 'generic interface product', ' ', 'thermal printer', ' graphic']
-DigePrint
-	Developer of digital printing technology. The company designs and manufactures digital print processors for the retail and photofinishing markets.
-	['', 'printing technology', ' ', 'digital printing', ' ', 'print processor', '']
-Impika
-	Designer, manufacturer and marketer of production inkjet printing technology. The company offers a portfolio of aqueous (water-based) inkjet presses based on proprietary technology. Its product lines include iPrint, a range of continuous feed production printers that print at speeds as fast as 375 meters per minute and iPress, a range of graphic communications digital presses with resolutions of up to 2400 x 1200 dpi.
-	['', 'inkjet printing', ' ', 'inkjet press', ' ', 'package printing', ' ', 'print media', '']
-LFH Illuminating Brands
-	Provider of printing and design management services. The company creates designs for the ad-campaigns for various brands.
-	['', 'printing and design', ' ', 'conceptual designing', ' ', 'brand promotion', '']
-Printechnologics
-	Developer of electronic printed functionalities for the printing industry. The company offers an invisible electronic data tag that transforms paper, cardboard, plastics, films and labels into digital content and enables direct link between online and offline communications.
-	['', 'electronic printer', ' ', 'digital content', ' printer']
-Shira Computers
-	Provider of web based workflow management software for pre-press and digital printing industries. The company offers vendor independent designs for prepress, printing and publishing firms worldwide.
-	['', 'workflow management software', ' ', 'digital printing', ' ', 'pre press', '']
-Bellamax
-	Developer of automated digital images enhancement software services.The company provides photo editing and web and printing optimization softwares such as UpShot, Pro and Gold. It caters to printing labs, photography studios and kiosks. It has strategic alliances with Adobe Systems, Digibug Express, Epson America, PhotoAccess, Photolightning and Sony Electronics.
-	['', 'image enhancement', ' ', 'photo editing', ' ', 'printing optimization', '']
+Navia Systems
+	Developer of probabilistic computers. The company\'s product  include Veritable, which solves data interpretation and prediction problems in human health, policy, marketing and finance.
+	['', 'computer hardware', ' Veritable ', 'probabilistic computers', '']
+SiCortex
+	Manufacturer of computers, computing systems, compiler suites, and personal development systems. The company also offers desk side, departmental, and data center packages. It serves universities, academic institutions, research laboratories, and government agencies in the United States.
+	['', 'computing system', ' ', 'compiler suite', ' ', 'development system', '']
+Pyramid Technology
+	Manufacturer of virtual memory super mini-computers. The company manufactures 32-bit virtual memory super mini-computer for sale to engineering, scientific and military applications.
+	['', 'mini computers', ' ', 'super mini computers', ' ', 'computer manufacturers', ' computer']
+PineBrook Imaging Technology
+	Manufacturer of computers and electronics. The company primarily manufactures computers, electronics, semiconductors and microchips.
+	['', 'electronics manufacturer', ' ', 'computer manufacturer', ' ', 'manufacturer of semiconductors and microchips', ' ', 'electronic products', '']
+Power Computing
+	Manufacturer of Apple Macintosh-compatible computers. The company focuses on delivering Wintel-based systems.
+	['', 'personal computers', '']
+Slate Corporation
+	Developer of application software for pen computers. The company developed application and utility software for pen-based computers such as GO Lombard, GO Hyde, GridPad, Grid Convertible and Momenta. The applications developed contained products like At-Hand spreadsheet.
+	['', 'application software', ' ', 'pen computers', ' ', 'utility software', '']
+Cognitive Match
+	Developer of software services that match individuals with content online and personalize their experience. The company provides relevant content on every impression, across computers, Mobile and Tablet platforms resulting in increased response to digital campaigns.
+	['', 'software solution', ' ', 'online content', ' ', 'artificial intelligence software', ' ', 'semantic technology', '']
+Cinet
+	Manufacturer of computers. The company provides computers in Norway and Finland.
+	['']
+Cranium
+	Provider of games, toys, puzzles and books. The company provides board games, as well as spare parts for games, books and toys for preschool, kids, family and adults and teens. It has operations in the United States, Canada, Australia, Denmark, Finland, Hong Kong, Ireland, Italy, New Zealand, Norway, Singapore, South Africa, Sweden, the Netherlands and the United Kingdom.
+	['', 'board game', ' ', 'game spare parts', ' ', 'creator of book', ' ', "children\\'s vehicles", ' ', 'game and toy', '']
+ADI Engineering
+	Manufacturer of commercial off the shelf and embedded single board computers. The company provides reference platforms, platform derivatives and full custom embedded computers to OEMs in the military, industrial, networking and communications, avionics, medical, wireless infrastructure, and digital signage markets.
+	['', 'computer hardware', ' ', 'product manufacturing', ' ', 'product development', '']
+Everex Systems
+	Provider of design, engineering, manufacture, and sale of personal computers. The company produces laptops, desktops and computer accessories such as batteries and adaptors.
+	['', 'computer manufacturing', ' ', 'personal computers', ' ', 'laptops desktops', ' ', 'batteries adaptors', '']
+Plexus Computer
+	Developer of super micro computers based on Unix. The company provides its technology for commercial data-processing applications.
+	['', 'computer hardware', ' ', 'image processing system', ' ', 'unix-based', '']
+Siine
+	Developer of software that communicates using touch-screen phones and tablet computers. The company provides touch screen keyboard that is used to type, edit and personalize messages in Android devices.
+	['', 'keyboard service', ' ', 'mobile software', ' ', 'android software', '']
+Wristop Technologies
+	Provider of wireless medical wrist computers. The company designs, develops and produces wrist electronics products including computers and watches and serves the sports, health-care and fitness brands.
+	['', 'wrist computer', ' ', 'wrist electronics', ' ', 'sports watch', ' electronics']

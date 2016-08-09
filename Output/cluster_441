@@ -1,18 +1,39 @@
-Dogpatch Labs
-	Provider of work space and consultancy services for startups. The company provides desk space, bandwidth and lunch services to aspiring entrepreneurs for their startups.
-	['', 'work space', ' ', 'desk space', ' ', 'lunch services', ' entrepreneurs']
-Yana Group
-	Provider of office space rental services. The company also invests in Israeli start-ups and provides electrical and mechanical system installation services.
-	['', 'office space rental services', ' ', 'installation services', ' ', 'investment and finance', '']
-Zaprica
-	Operator of a user experience design company. The company defines and strategizes user experiences for early start ups, mid-sized mature companies and fortune 500 companies.
-	['', 'software publisher', ' ', 'software developer', ' ', 'user experience', '']
-Invesco PowerShares Capital Management
-	Provider of investment management services. The company invests in the public equity, fixed income, currency and commodity markets across the globe. It primarily invests in growth and value stocks of small-cap, mid-cap and large-cap companies.
-	['', 'investment managers', ' ', 'exchange traded funds', ' ', 'public equity', '']
-Elevator Labs
-	Provider of finance, technical and strategic guidance to start-ups.
-	['', 'finance guide', ' ', 'business finance', '  ', 'strategic guidance', '']
-Giac Elec
-	Provider of electrical installation services.
-	['', 'electric wiring', ' ', 'electric installation', ' ', 'electrical services', ' ', 'electrical installation services', '']
+LiveTime Software
+	Developer of IT service management software. The company provides a platform one of reactive incident response to a more holistic approach involving the entire business, its processes and workflows.
+	['', 'IT service management', ' ', 'business processes', ' ', 'business processes', '']
+Tonic Software
+	Innovator of web application management software for companies that rely on the Internet to conduct business. The company’s software performs root cause analysis. Its software product enables users to measure and monitor performance, verify content and functional integrity, load test, and detect problems.
+	['', 'web application', ' ', 'management software', ' ', 'monitor performance', ' ', 'functional integrity', ' ', 'load test', ' ', 'detect problem', '']
+Tridion
+	Developer and provider of web content management software. The company\'s core product, DialogServer, enables enterprises to publish, manage and update their web content. The company\'s system is suited for organizations choosing to use online channels like the web, WAP phones, interactive televisions and handheld devices - to exchange business critical information with customers, partners, suppliers and employees.
+	['', 'web content management', ' ', 'interactive televisions', '']
+Kainos Software
+	Provider of business software application. The company is involved in the deployment and integration of enterprise content management, electronic document management, workflow and collaborative technologies.
+	['', 'enterprise content management', ' ', 'electronic document management', ' ', 'collaborative technology', '']
+Volta
+	Provider of a call queue management software for businesses. The company allows companies to insert call triggers into their existing crm software where agents can log in and start calling from the browser.
+	['', 'call triggers', ' ', 'call queue', ' ', 'call management', '']
+Ibistic Pool
+	Provider of procurement services. The company provides procurement services which enable companies to automate administrative processes.
+	['', 'purchasing pool', ' ', 'procurement services', ' ', 'administrative processes', '']
+Trigo Technologies
+	Developer of product information management for global manufacturers, distributors and retailers. The company offers supplier-focused software platforms that automate and integrate supplier business processes to enable manufacturers and distributors manage multiple online sales channels.
+	['', 'business process', ' ', 'product information management', ' ', 'global distributor', ' ', 'global manufacturer', '']
+Relevance Technologies
+	Provider of enterprise content management software. The company offers decision support solutions and also provides workers with answers.
+	['intelligence decision ', 'information resources', '']
+Innoprise Software
+	Provider of enterprise software for utilities and local government agencies. The company provides software for CIS, financial management, community development, tax and work management. Its software helps clients manage various business processes, such as utility billing, payroll and financial management.
+	['', 'enterprise software', ' ', 'financial management', ' ', 'payroll management', ' ', 'financial management', '']
+Formscape Group
+	Provider of a document process automation software. The company\'s products ensure effective enterprise information delivery via eBusiness document presentation, access and exchange among customers, suppliers and employees. Their software includes the usage of XML, data transformation and process integration to automate the business processes.
+	['', 'process automation', ' ', 'business process', ' ', 'data process', ' ', 'inbound imaging', ' ', 'outbound communication', '']
+Systinet
+	Provider of service-oriented architecture (SOA) governance and life-cycle management software and services. The company\'s web applications and services platform enables to build and integrate business applications over the internet.
+	['', 'service-oriented architecture', ' ', 'life-cycle management', ' ', 'web applications', ' ', 'services platform', ' ', 'business application integration', '']
+ProActivity
+	Developer of a business process and data flow mapping tool. The company develops software for mapping data processes in organizations, facilitating the transfer of businesses to the web.
+	['', 'process mapping', ' ', 'data mapping', ' ', 'business process management', '']
+Image Technology
+	Developer of business process management software. The company develops enterprise content management software that allows companies to automate business-oriented processes by creating, executing and optimizing business processes.
+	['', 'business processes', ' ', 'management system', ' ', 'web services', ' ', 'inductive statistics', '']

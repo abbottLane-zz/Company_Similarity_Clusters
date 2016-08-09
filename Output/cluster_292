@@ -1,15 +1,30 @@
-Monroe Motor Speedway
-	Operator of auto race track in New Orleans. The company provides a paved race track, grandstands and support facilities and services for auto-racing events, including NASCAR. The track features a 3.75-mile long oval course.
-	['', 'auto racing', ' motorsports racing']
-Cezanne HR
-	Developer of an online human resources software system and talent management services. The company offers Cezanne OnDemand which is an online HR software to streamline HR administration, cut costs and engage with employees. It enables automatic updates, pay-per-use pricing and similar features to keep a track of people, absence and performance management.
-	['', 'HR system', ' ', 'talent management', ' ', 'performance management', '']
-UCMS Group EMEA
-	Provider of payroll, HR administration and accounting services. The company caters to multinational corporations and domestic companies doing business in eastern and central Europe.
-	['', 'human resource service', ' ', 'administration service', ' ', 'accounting service', '']
-OneClick HR
-	Provider of human resources software. The company operates a web portal offering human resource services including a number of ASP services.
-	['', 'web portal', ' ', 'human resource software', ' ', 'outsourcing service', '']
-TribeHR
-	Provider of social human resources management tool for small and medium businesses. The company builds online human resources software that helps with all aspects of people-management including vacation tracking, information management, performance, recruiting, payroll, on-boarding and analytics.
-	['', 'human resources management', ' ', 'human resource software', ' ', 'vacation tracking', ' ', 'on boarding', ' ', 'people-management', ' payroll']
+InteCardia
+	Provider of cardiac-imaging services and equipment to cardiologists. The company provides disease- and practice-management services focused on cardiology and cardiovascular medicine.
+	['', 'cardiac imaging', ' cardiology ', 'cardiovascular medicine', '']
+Quolaw
+	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
+	['', 'law practice', ' ', 'law practice management', ' lawyer']
+Navitas Cancer Rehabilitation Centers of America
+	Provider of personalized integrated cancer rehabilitation services to cancer patients.
+	['', 'physical therapy', ' ', 'occupational therapy', ' ', 'prescriptive exercise', ' ', 'psycho-social counseling', ' ', 'nutritional counseling', ' ', 'lymphedema therapy', ' acupuncture']
+NovoGI
+	Provider of medical devices for GI disease management. The company\'s clinically proven nitinol technology works with the biological forces of the healing process which enables dynamic compression anastomosis of varying tissue thicknesses for natural healing for various patients undergoing colorectal resection procedures.
+	['', 'GI disease management', ' ', 'nitinol technology', ' ', 'colorectal surgery', ' ', 'surgical devices', '']
+Peminic
+	Developer of healthcare IT workflow and process management software. The company offers integrated software solutions for patient safety and quality, patient relations, risk management, and legal services. Its solutions include incident manager, root cause analysis manager, patient relations manager, peer review manager, claims manager, legal matter manager, employee health manager, contract manager, compliance manager, infection control manager, performance improvement manager, and quality outcomes manager, as well as patient safety organization solutions.
+	['', 'IT workflow', ' ', 'process management software', ' ', 'integrated software solution', ' ', 'cause analysis manager', ' ', 'healthcare solution', '']
+Health and Productivity Corporation of America
+	Provider of health care management services. The company provides a continuum of care management services integrating health management, disease management, complex care management, disability management, workers\' compensation management and case management services.
+	['', 'health care management', ' ', 'health care service', ' ', 'disease management', ' ', 'complex care', ' ', 'disability management', '']
+US Physicians
+	Operator of a physician practice management (PPM) company. The company is a manager of specialist practices engaged in providing disease management services for cancer patients.
+	['', 'medical practices', ' ', 'ancillary services', ' cancer ', 'disease management', '']
+BMJ Medical Management
+	Provider of management services to physician practices that focus on musculoskeletal care. The company focuses on musculoskeletal care, which involves the medical and surgical treatment of conditions related to bones, muscles, joints, and related connective tissues.
+	['', 'surgical treatment', '']
+Macab
+	Operator of a cable technology company. The company is engaged in providing products for the reception and distribution of television signals. The company also provides installation and maintenance services.
+	['', 'maintenance services', ' ', 'installation services', ' ', 'cable technology', ' ', 'antenna television', ' ', 'television signal distribution', '']
+Datamedic
+	Developer of computer-based patient record and physician practice management systems. The company\'s products and services are used in private practice, physician practice management, management service and hospital network settings for ensuring efficient point-of-care capture and retrieval of healthcare information in order to improve the quality and profitability of their medical practices.
+	['', 'practice management', ' physician ', 'medical practice', '']

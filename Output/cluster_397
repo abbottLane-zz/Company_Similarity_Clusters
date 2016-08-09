@@ -1,21 +1,24 @@
-Epocal
-	Provider of biochips and micro-fabrication of solid-state diagnostic devices. The company is implementing an entire blood diagnostic system in FlexCard™ technology, a card format similar to the smart card used in conventional check and telephone cards.
-	['', 'monitoring devices', ' ', 'diagnostic devices', '']
-Spectralus
-	Developer of solid-state green laser platform. The company\'s product is suitable for integration into mobile projection devices.
-	['laser ', 'green laser', '']
-Aline Aesthetics (Aline Hyaluronic Acid Thread Technology)
-	Solid state, cross-linked hyaluronic acid. Hyaluronic acid in thread form that is attached to a needle to be used as a dermal filler for cosmetic and cancer reconstructive surgeries.
-	['', 'hyaluronic acid', ' ', 'dermal filler', ' ', 'cosmetic surgery', ' ', 'cancer reconstructive surgery', '']
-Xiring
-	Provider of security services for remote transactions. The company offers software embedded terminals, smart card readers and electronic signature in banking, healthcare and transportation markets. The company also provides services for banks to authenticate online customers and secure remote banking activities.
-	['', 'remote transactions', ' banking ', 'transportation markets', '']
-Transmo
-	Developer of automated fare collection and smart-card systems. The company designs and supplies a wide range of products which are used on buses, trams, ferries and station platforms for processing smart cards. Hardware products include driver consoles, on-board smart card processors, handheld card readers, gate adaption kits, platform smart card processors, smart-card office terminals and add-value machines.
-	['', 'smart card', ' ', 'smart card scheme', ' ', 'travel management scheme', ' travel']
-NanoMR
-	Manufacturer of blood diagnostic devices. The company has developed a system for rapid isolation of rare cells from complex matrices at levels of one cell per milliliter or lower.
-	['', 'blood diagnostic', ' ', 'bloodstream infection', ' ', 'molecular diagnostic', '']
-CircleSmartCard
-	Developer of thermoplastic material smart card bodies and data carriers. The company\'s products include chipcoins, magnetic strip and microprocessor cards. It serves computer chip holders.
-	['thermoplastic ', 'magnetic strip', ' microprocessor ', 'smart cards', '']
+Red Brick Systems
+	Provider of relational database software. The company relational database software for data warehousing.
+	['', 'relational database software', ' ', 'data warehousing', ' ', 'database software', '']
+Approach Software Corporation
+	Developer of relational database software. The company is developer of end-user relational database applications for the Windows environment.
+	['', 'database software', ' ', 'database application', '']
+Health Market Science
+	Provider of data integration and analytic software for the health care industry. The company supplies data on healthcare professionals and operates a practitioner-level medical claims database in the U.S. Its data assets also help its clients deal with government compliance, reduce operational costs and more.
+	['', 'federal compliance', ' ', 'healthcare information', ' ', 'federal regulation compliance', ' ', 'customer data validation', '']
+DCF Technologies
+	Provider of services for eliminating data retrieval bottlenecks. The company offers software services to access data accumulating in organizational and internet portal databases. It also provides SafePeak, which acts as a distributed proxy cache between application servers and database servers to accelerate data access.
+	['', 'data access', ' ', 'performance management', ' ', 'portal database', '']
+Ansa Software
+	Provider of a database management program. The company is the developer of Paradox, a ground-up relational database software product for personal computers.
+	['', 'database management', ' ', 'information system', ' ', 'data software', '']
+Membase
+	Provider of elastic NoSQL database technologies. The company offers Membase Server, a distributed key-value database for the data management needs of interactive Web applications, which employs a non-relational data model and allows the data tier to scale out the Web application logic tier by adding various commodity servers; and Memcached, a distributed data caching technology that transparently caches data in front of its key-value database.
+	['', 'database technology', ' ', 'database management', ' ', 'database application', '']
+Hyperpublic
+	Developer of an open database and platform of people, places, deals and events tied to a specific location. Anyone can add objects to the database and developers are able to build applications on top of the data. The data includes recent check-ins, daily deal aggregations and reviews.
+	['', 'geo local platform', ' ', 'location application', ' ', 'location database', ' ', 'location-based search', ' ', 'location-based', '']
+Prefer Network
+	Provider of strategic marketing and list processing services. The company offers a cooperative catalog database which provides organizations with consumer purchasing behavior data.
+	['', 'consumer purchasing data', ' ', 'list processing', ' ', 'collaborative database', ' ', 'transactional data', '']

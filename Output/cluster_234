@@ -1,27 +1,39 @@
-Advanced Cardiac Therapeutics
-	Developer of temperature-sensing cardiac ablation systems for the treatment of patients with cardiac arrhythmias. The company offers TEMPASURE, a radio frequency cardiac ablation catheter that enables the saline-irrigation and temperature measurement at three millimeters depth below the heart wall surface.
-	['', 'cardiac ablation system', ' ', 'temperature measurement', ' ', 'saline-irrigation', ' ', 'cardiac arrhythmias', '']
-Radiant Medical
-	Developer of endovascular temperature therapy products. The company offers its products to advance the treatment of patients with acute ischemic or inflammatory medical conditions, such as heart attack, radiocontrast nephropathy, stroke, and cardiac arrest.
-	['', 'endovascular temperature therapy', ' ', 'medical care product', ' ', 'acute ischemic treatment', '']
-NanoStim
-	Developer of a miniaturized, leadless cardiac pacemaker for the healthcare industry. The company\'s leadless cardiac pacemaker is configured for implantation in electrical contact with a cardiac chamber and configured for leadless pacing.
-	['', 'leadless cardiac pacemaker', ' ', 'healthcare device', ' ', 'medical device development', '']
-BarRx Medical
-	Developer of non-surgical and endoscopic treatment solutions for Barrett\'s esophagus. The company offers an ablation system that uses a balloon-based electrode to ablate Barrett tissue circumferentially within the esophagus and removes the diseased cells.
-	['', 'endoscopic treatment', ' ', 'ablation system', ' ', 'Barrett tissue circumferentially', ' ', 'electrode system', '']
-BMDSys Production
-	Developer of cardiac diagnostic imaging systems. The company uses magnetic field imaging system in medical diagnosis. It also helps to identify persons with a risk for sudden cardiac problem by cardiac electrophysiology.
-	['', 'cardiac diagnostic imaging', ' ', 'cardiac electrophysiology', ' ', 'medical diagnosis', ' ', 'cardiac diagnosis', ' cardiac']
-Reflow
-	Developer of interventional cardiac devices. The company provides cardiac devices to treat cronic total occlusions.
-	['cardiac cronic treat']
-Medivance
-	Manufacturer of therapeutic temperature management services. The company provides thermal-cooling systems for hospitals. It provides Arctic Sun temperature management system non-invasive thermoregulatory device that monitors and controls patient temperature.
-	['', 'therapeutic devices', ' ', 'thermal cooling system', ' ', 'temperature management', '']
-Endosense
-	Developer of technology for contact-force measurement in catheter ablation. The company focuses on improving the efficacy, safety and accessibility of catheter ablation for the treatment of cardiac arrhythmias. The company pioneered the use of contact force measurement in catheter ablation with the development of the TactiCath, the industry’s first force-sensing ablation catheter.
-	['', 'cardiovascular device', ' ', 'catheter ablation', ' ', 'cardiac arrhythmia', '']
-AFx
-	Provider of microwave surgical cardiac ablation technology. The company has developed a proprietary technology that allows surgeons to apply microwave energy to the surface of the heart.
-	['', 'cardiac ablation technology', ' ', 'microwave energy', ' ', 'heart surface', '']
+Dscovered
+	Developer of a genetic algorithm for design. The company develops a genetic algorithm for design that simplifies creative processes. It also helps match clients with graphic designers who share their taste and style.
+	['', 'graphic design', ' ', 'genetic algorithm', ' ', 'designing platform', '']
+AWR Corporation
+	Developer of electronic design automation software in the United States. The company offers Microwave Office design suite, which encompasses various tools for IC, PCB, and module design, including linear circuit simulators, non-linear circuit simulators, electromagnetic (EM) analysis tools, integrated schematic and layout, and parametric cell libraries with built-in design-rule check; Visual System Simulator, a software for the design of communications systems; Analog Office design suite, a design system that is architected from the ground up for analog and radio-frequency integrated circuit designs; and Signal Integrity design software that is for integrated co-chip/package/module designs as it addresses the cross-domain signal integrity issues.
+	['', 'electronic design', ' ', 'automation software', ' ', 'analog design', '']
+Ciranova
+	Provider of electronic design automation software. The company focuses on building interoperable tools for custom chip designers to create new and/or migrate legacy analog IP and help engineers integrate complex RF, analog and mixed-signal content into nanometer-scale silicon with higher density and speed.
+	['', 'electronic design', ' automation ', 'chip designer', '']
+Valid Logic
+	Manufacturer of computer-aided design equipment. The company also develops integrated electronic design automation software.
+	['', 'electronic design automation', ' ', 'electronic design software', '']
+FASTech Integration
+	Developer of factory automation software. The company develops execution systems, cell control and equipment interface software for semiconductor manufacturing facilities.
+	['', 'automation software', ' ', 'equipment interface software', ' ', 'Workflow Software', '']
+Flexible Stenting Solutions
+	Developer of third-generation flexible peripheral arterial and biliary stents. The company develops stents on a proprietary design platform.
+	['', 'peripheral arterial', ' ', 'biliary stent', ' ', 'superficial femoral', ' ', 'medical equipment', '']
+Infiniscale
+	Operator of an electronic design automation (EDA) company. The company develops a proprietary modeling engine and optimization software, and has created a software suite to address emerging design for yield (DFY) challenges related to analog, mixed-signal and RF designs.
+	['', 'Statistical analyses', ' ', 'behavioral modeling', ' ', 'design optimization', ' ', 'variation-aware design', ' ', 'modeling software', ' EDA RF']
+GrabCAD
+	Provider of cross-platform computer aided design library and engineering community. The company\'s platform allows engineers to share and host files and communicate.
+	['', 'engineering service', ' ', 'computer aided design', ' ', 'technical drawing', ' ', 'design model library', ' ', 'engineering community', '']
+SteLar Tools
+	Developer of software applications for the electronic design automation industry. The company provides graphical and intelligent textual design creation and analysis environment for large, complex HDL designs. The company\'s technology enables designers and verification engineers to reach RTL Closure by offering them the ability to explore, navigate, analyze, document and create a design using their current design methodology and tools.
+	['', 'Software Applications', ' ', 'Electronic Design', ' ', 'Automation Industry', ' ', 'HDL Design', '']
+ViewLogic Systems
+	Developer of electronic design automation software. The company designs, develops and markets electronic design automation software for field-programmable gate array (FPGA) printed circuit boards and systems designs.
+	['', 'electronic design automation', ' ', 'automation software', ' ', 'gate array software', '']
+CoFluent Design
+	Provider of electronic system level design tools for modelling and simulating systems. The company offers an integrated electronic system-level modeling and simulation environment that operates as a graphical modeler for capturing the system\'s behavior and execution platform.
+	['', 'simulating system', ' ', 'electronic system', ' ', 'graphical modeler', ' simulation']
+PlanPlatform
+	Developer of software that provides engineers with two-dimensional and three-dimensional software drafting tools. The company develops SaaS technologies that enable users to edit two dimensional and three dimensional Computer Aided Design and geospatial data from every internet enabled machine.
+	['', 'software drafting tool', ' ', 'computer aided design', ' ', 'geospaial data', '']
+0-In Design Automation
+	Operator of an assertion-based verification company. The company develops and supports electronic design automation tools and functional verification products that help clients to verify multi-million gate application-specific integrated circuit and system-on-chip designs. Its system also automates the engineered methodologies.
+	['', 'assertion-based verification', ' ', 'electronic design automation', '']

@@ -1,18 +1,30 @@
-AskMe
-	Provider of online business dictionary. The company provides online local search service that allows people to find relevant providers of products and services in their locality, area or city.
-	['', 'online search', '']
-Vinetrade
-	Provider of an online platform for building and managing wine portfolios. The company operates a website which allows people to trade directly with other investors and collectors of wines.
-	['', 'online trading', ' ', 'online wine trading', ' ', 'wine collectors', ' ', 'online trading platform', '']
-Swap.com (Acquired 2012)
-	Provider of an online goods exchange platform. The company operates an online platform that allows users to swap and trade books, compact discs (CDs), digital versatile discs (DVDs) and video games and other goods for a fee.
-	['', 'online trading platform', ' ', 'Electronic Shopping platform', ' ', 'item swapping', '']
-Tasting Room
-	Provider of wine tasting service. The company allows consumer to taste the wine before purchasing it, by supplying a sample sized bottles.
-	['', 'wine tasting', ' ', 'sample sized bottle', ' ', 'wine acquistion', '']
-IZEOS
-	Operator of an online platform for the nursing community. The company operates a website that provides information and resources for nurses, nursing students and applicants to nursing assistance.
-	['', 'online nursing resources', ' ', 'nursing books', ' ', 'online courses', ' ', 'studying materials', ' ', 'nursing website', '']
-Lending Club
-	Provider of an online peer-lending service. The company provides a lending marketplace enabling creditworthy borrowers to apply for loans, financed in turn by investors on the site building their portfolios.
-	['', 'personal loan', ' ', 'loan investment', ' ', 'loan application', ' ', 'loan platform', '']
+Qualcomm MEMS Technologies
+	Developer of iMoD technology for mobile products. The company offers iMoD technology, which is based on a Micro-Electro-Mechanical-Systems structure combined with thin film optics, is a display technology that delivers display images with lower power consumption. It develops its iMoD technology for applications, such as wireless phones, global positioning system units, and industrial devices. It offers its products through online, as well as bookstores in South Korea.
+	['', 'mobile product', ' ', 'power consumption', ' ', 'mechanical system', ' ', 'industrial device', '']
+Dresden Silicon
+	Designer of micro processor chips with low power consumption. The company designs and manufactures chips with low power consumption based on a novel signal processor architecture and integrated hardware and software development environments using rapid design methodology.
+	['', 'low power CPU', ' CPU ', 'central processing unit', ' semiconductor']
+Qualcomm Atheros
+	Developer of semiconductor system for wireless and other network communications products. The company\'s products include services for wireless local area network (WLAN), mobile WLAN, Ethernet, bluetooth, global positioning system (GPS) and powerline communications. It offers reference designs used in designing networking cards and routers, broadband gateways, mobile devices and handsets.
+	['', 'semiconductor system', ' ', 'network communications product', ' ', 'wireless networking product', ' semiconductor']
+Qubulus
+	Provider of platform for indoor positioning systems. The company provides a positioning platform for smartphones where GPS doesn\'t work. The company serves airports, malls, retail chains, property owners, and developers.
+	['', 'indoor positioning system', '  ', 'positioning platform', '   navigation']
+U-blox
+	Provider of positioning and wireless semiconductors for the consumer, industrial and automotive markets. The company\'s services enable people, devices and machines to locate and communicate their exact position.
+	['', 'wireless semiconductor', ' chips modules']
+Securus
+	Developer of pet tracking devices in the United States. The company offers global positioning system (GPS) pet locators that bundle GPS technology with the recovery assistance.
+	['', 'global positioning system', ' ', 'pet tracking device', ' ', 'pet locator', ' ', 'recovery assistance', '']
+CellGuide
+	Manufacturer of Global Positioning System (GPS) chips. The company develops Global Positioning System (GPS) chips for mobile devices. It distributes cloud-based positioning while delivering low power consumption for mobility and applications.
+	['', 'global positioning system', ' ', 'cloud-based positioning', ' ', 'mobile chip', ' ', 'Application Specific Semiconductor', '']
+Navx
+	Provider of a platform for geo-localized content. The company\'s technology helps to visualize points of interests, traces and personal data. It connects GPS with the internet and allows customers to generate their content, share and upload it onto their GPS devices and social communities.
+	['', 'global positioning system', ' ', 'geo-localized content', ' ', 'social community', '']
+Ubida Solutions
+	Provider of dial-in auto rickshaw service. The company offers a mobile application that enables users to book global positioning system tracked auto-rickshaws across India.
+	['']
+Vivace Semiconductor
+	Developer of media processing chips for the needs of consumer market segments. The company provides chips which supports a range of video and audio standards.
+	['', 'media processing chip', ' ', 'video audio chip', ' ', 'media semiconductor', '']

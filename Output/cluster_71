@@ -1,57 +1,36 @@
-INEX
-	Provider of Internet commerce applications for merchants to build, manage and promote their on-line storefronts. The company\'s applications inter operate with a host of industry standards and environments, allowing merchants to maximize their investment in existing business systems and processes.
-	['', 'back office', ' ', 'front office', ' ', 'E Commerce', '']
-Absolute Capital Management
-	Operator and manager of funds. The company provides investment management and advisory services to mutual funds.
-	['', 'mutual fund', ' ', 'fund manager', ' ', 'investment bank', '']
-Information Development Consultants
-	Developer of a fund accounting software for government and not-for-profit organizations. The company\'s web based products can be tailored to fit specific needs of IT, finance and elected officials. The company provides system integration services, application software products, training and advisement specially for local governments and agencies.
-	['', 'accounting software', ' ', 'web based products', '']
-Covestor
-	Provider of an asset management service. The company provides an online investing marketplace that allows investors to compare and select money managers, offering active and passive investment options.
-	['', 'financial platform', ' ', 'money manager', ' ', 'investment option', '']
-SEI Investments
-	SEI Investments Co was incorporated in Pennsylvania in 1968. The Company is a provider of investment processing, investment management and investment operations solutions. It helps financial institutions, financial advisors, institutional investors, investment managers and ultra-high-net-worth families create and manage wealth by providing comprehensive, investment and investment-business solutions. The Company\'s wealth management business solutions include: Investment processing outsourcing solutions for providers of institutional and private-client wealth management services, including banks, trust companies, independent wealth advisers and other financial services firms; investment management solutions for institutional investors, including retirement plan sponsors, not-for-profit organizations and affluent individual investors; and investment operations outsourcing solutions for investment management firms, banks and investment companies that sponsor and distribute mutual funds, hedge funds and alternative investments. The Company\'s business segments include: Private Banks, provides investment processing and investment management programs to banks and trust institutions, independent wealth advisers and financial advisors; Investment Advisors, provides investment management programs to affluent investors through a network of independent registered investment advisors, financial planners and other investment professionals in the United States; Institutional Investors, provides investment management programs and administrative outsourcing solutions to retirement plan sponsors, hospitals and not-for-profit organizations; Investment Managers, provides investment operations outsourcing solutions to fund companies, banking institutions and both traditional and non-traditional investment managers; and Investments in New Businesses, focuses on providing investment management programs to ultra-high-net-worth families residing in the United States, developing internet-based investment services and advice solutions, entering new markets, and conducting other research and development activities. Its business solutions are directly marketed to potential clients in its target markets. Its competitors include: Federated Investors, Inc., Russell Investment Group, AssetMark Investment Services Inc., Brinker Capital, Mercer and Aon Hewitt. The Company\'s products and services include: Investment Processing, Investment Management Programs and Investment Operations.
-	['', 'wealth management', ' advisors investment']
-Cake Financial
-	Provider of a social investment service that lets people safely and securely track all their investment portfolios in one place. The company allows individual investors to track and analyze their historical performance up to ten years.
-	['', 'investment portfolio', ' ', 'track investment', ' ', 'social investment service', ' ', 'financial service', '']
-KM Ventures
-	Provider of investment in projects. The company manages information of businesses and prevent repetition, reinvention and duplication of work.
-	['', 'information management', ' ', 'repetition prevention', ' reinvention projects']
-BUYandHOLD Securities
-	Provider of an online investing service platform. The company provides an internet based investment brokerage service to retail customers.
-	['', 'internet brokerage', ' ', 'internet based brokerage', ' ', 'brokerage service', '']
-Utilicase
-	Provider of IT consulting and integration services. The company offers a range of asset care optimization and investment planning services. It provides a software platform designed to help companies manage and optimize their resources.
-	['', 'IT consulting', ' ', 'integration services', ' ', 'asset care', ' ', 'investment planning', ' ', 'asset management software', '']
-Track.com
-	Provider of a platform for investment research and market ideas. The company provides a platform for research analysts, market participants and investment managers to share ideas with institutions, high net worth individuals and other market participants.
-	['', 'financial research', ' ', 'investment research', ' ', 'financial information sharing', '']
-Mansard Capital
-	Provider of discretionary management services, multi asset management and alternative investment funds to private client and institution. The company has corporate partnerships with financial firms in the UK and globally. It also offer investment products to both retail and institutional client.
-	['', 'discretionary management', ' ', 'multi asset', '  ', 'alternative investment ', '']
-Stockr
-	Provider of social network for the investment community. The company provides a platform where investors, analysts and public companies can communicate directly about financial news, stocks, market trends, investment ideas and more.
-	['', 'investment community', ' ', 'social community', ' ', 'online investment information', '']
-Recognia
-	Provider of actionable investment research products for online brokers. The company helps to automate the investment decision making process by offering trading ideas for all trader types, in order to execute timely trade transactions.
-	['', 'investment research', ' ', 'online broker', ' ', 'investment decision', ' ', 'automated quantitative analysis', '']
-Thomas Weisel Partners Group
-	Operator of an investment bank. The company offers investment banking, brokerage, equity research and asset management. The company\'s services include mergers and acquisition advisory, institutional sales and wealth management. The company focuses on  health care, mining, consumer products and services sectors.
-	['', 'investment bank', ' brokerage ', 'asset management', ' ', 'consumer products', '']
-Princeton Financial Systems
-	Provider of investment accounting software products and services. The company provides investment accounting, investment compliance, data management, performance measurement and reporting products to the global investment industry.
-	['', 'investment technology', ' ', 'institutional investors', ' ', 'data management', '']
-Envestnet
-	Provider of managed account investment services. The company offers separately managed accounts, mutual funds and alternative investments to independent financial advisors through its sub-managers. Its offerings are supported by a proprietary technology platform that delivers customized advisor websites, consolidated views and comprehensive reporting capabilities to independent investment advisory firms.
-	['', 'managed account', ' ', 'investment services', ' ', 'mutual funds', '']
-Gridstone Research
-	Provider of a research platform that aims to help investment analysts in making investment decisions. The company\'s research platform assembles, analyzes and structures unstructured company information into financial data, operational data and structured text. It also sells its research platform to buy-side investment managers.
-	['', 'investment analysis', ' ', 'structured text', ' ', 'financial data', '']
-Volaris Advisors
-	Provider of volatility management advice to individuals, trusts, foundations, banks, and money managers. The company provides customized investment products for banks and broker or dealers to manage investment risk and create portfolios.
-	['', 'volatility management advice', ' ', 'portfolio advisory', ' ', 'stock yield enhancement', ' ', 'investment products', '']
-FreeEdgar
-	Provider of products and services that deliver financial data to analysts and investors. The company engages in the delivery and extraction of critical information from electronic filings made by public companies and investment managers to the SEC.
-	['', 'electronic filings', ' ', 'stock information', ' ', 'financial data', '']
+Questek
+	Manufacturer of excimer lasers. The company develops, manufactures and markets excimer lasers.
+	['', 'excimer lasers', ' lasers ', 'excimer laser technology', '']
+BioArray Solutions
+	Developer of a technology for rapid biomolecular analysis that combines microparticle chemistry, semiconductor physics and image analysis. The company\'s BeadChip products and systems for molecular immunohematology are used in pre-transfusion characterization of recipients and donors of blood transfusions in hospitals and donor centers.
+	['', 'biomolecular analysis', ' ', 'pre-transfusion characterization', ' ', 'blood transfusions', ' ', 'image analysis', ' developer']
+DeMaria ElectroOptics Systems
+	Manufacturer of CO2 lasers, far infrared laser and laser systems. The company designs and manufactures carbon-dioxide lasers used in materials processing, electronics packaging and research applications.
+	['', 'infrared laser', ' ', 'carbon dioxide laser', ' laser ', 'laser systems', ' ', 'remote sensing', ' ', 'ladar application', '']
+Klastech Karpushko Laser Technology
+	Designer and manufacturer of solid state single frequency lasers. The company manufactures diode pumped solid state (DPSS) lasers and its products include core models of lasers in green and blue spectrum range.
+	['lasers ', 'diode pumped solid state', ' spectrum']
+Powerlase
+	Developer and manufacturer of high power lasers for industrial materials processing. The company designs and manufactures nanosecond Q-switched Diode Pumped Solid State lasers developed for industrial applications primarily for use in the materials processing and microelectronics markets.
+	['', 'high power lasers', ' ', 'industrial materials processing', ' ', 'material processing', ' ', 'industrial application', ' microelectronics']
+XRL
+	Manufacturer of semiconductor memory devices. The company developes dynamic random access memories (DRAMs) and laser based products.
+	['', 'semiconductor memory', ' ', 'memory device', ' ', 'laser based product', '']
+Connector Optics
+	Producer of vertical cavity surface emitting lasers and photo-detectors. The company\'s product is based on advanced technology for growing semiconductor heterostructures with molecular beam epitaxy, which ensures ultralow internal optical loss in the produced epitaxial wafers.
+	['', 'photo detector', ' laser ', 'semiconductor heterostructure', ' ', 'optical component', '']
+Ekips Technologies
+	Manufacturer of lasers and laser-based systems. The company develops and markets tunable mid-infrared lasers and laser systems made for molecular spectroscopy applications.
+	['', 'mid-infrared laser', ' ', 'diagnostic equipment', ' ', 'molecular spectroscopy', '']
+SPI Lasers
+	Designer and manufacturer of fiber lasers for the industrial, aerospace, analytical, sensing and communications markets. The company offers fiber lasers & laser arrays, high-power optical amplifiers and filters.
+	['', 'fiber Bragg gratings', ' ', 'fiber laser', ' ', 'optical component', ' ', 'laser array', '']
+Laser Power Optics
+	Manufacturer of high-performance lasers and laser optics for industrial, medical and military applications. The company\'s optics products are sold to laser system OEMs and end users as original and replacement components in high power CO2 and other lasers.
+	['laser ', 'optic products', ' OEM ', 'CO2 laser', ' ', 'carbon dioxide lasers', '']
+Altitun
+	Manufacturer of tunable lasers and transmitters that enable flexible provisioning of affordable bandwidth. The company develops commercially available tunable semi-conductor laser for the telecommunications industry.
+	['transmitter ', 'tunable laser', ' ', 'switching laser', ' ', 'optical packet switching', ' ', 'semiconductor laser', '']
+Lumics
+	Manufacturer of semiconductor diode laser for medical and industrial applications. The company manufactures semiconductors and diode lasers from 750 nm to 1960 nm in industry standard packages such as 14-pin butterfly, 8-pin miniDIL and 2-pin TO220 as well as a series of compact fiber coupled laser modules with output powers up to 900 W.
+	['', 'diode laser', ' ', 'laser module', ' ', 'fiber coupled diode', ' ', 'industrial application', ' ', 'chip technology', '']

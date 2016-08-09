@@ -1,48 +1,24 @@
-Mmc Energy
-	Provider of electricity generating and energy infrastructure-related assets. The company acquires small- to mid-sized energy generating facilities, or those with below 250 megawatts (MW) of capacity.
-	['', 'gas generation', ' ', 'power plant', ' ', 'electricity generation', ' ', 'energy infrastructure', '']
-Konarka Technologies
-	Developer of specialized photovoltaic materials used to convert light to energy. The company develops and advances nano-enabled polymer photovoltaic materials for commercial, industrial, government, and consumer applications. It provides standard products to serve portable power needs; and custom solutions, such as roll up chargers, personal accessories, and fold up chargers.
-	['', 'photovoltaic material', ' ', 'energy production', ' ', 'light conversion', ' ', 'polymer photovoltaic', ' ', 'portable power', ' ', 'power generation', ' ', 'roll up charger', ' ', 'fold up charger', ' ', 'solar energy', '']
-Pelamis Wave Power
-	Manufacturer of systems to generate renewable electricity from ocean waves. The company offers wave energy converter, a semi-submerged and articulated structure composed of cylindrical sections linked by hinged joints. It also assists project developers and electricity generators in developing, constructing, and operating power projects.
-	['', 'renewable electricity', ' ', 'ocean wave', ' ', 'wave energy converter', ' ', 'articulated structure', ' ', 'hinged joint', ' ', 'power project', '']
-Weyland
-	Producer of renewable energy. The company provides a technology that helps in producing bio ethanol from agricultural wastes and forestry residues.
-	['', 'energy production', '']
-Gen110
-	Provider of alternative way for heavy energy users to purchase residential power. The company provides customers with generators for no installation or upgradation fees, then customers pay for the electricity at a guaranteed rate.
-	['', 'residential power', ' ', 'energy user', ' ', 'utility rate', ' ', 'distributed energy', '']
-Bionersis
-	Operator of renewable energy services. The company engaged in conception, financing, installation, and the operation of landfill biogas units. It also helps in reduction of greenhouse gases effects.
-	['', 'renewable energy', ' ', 'landfill biogas', ' greenhouse']
-Enermetrix
-	Provider of real- time transaction - processing environment in which utilities, traders and marketers, service companies, commercial and industrial users buy and sell energy. The company provide internet commerce system that allows energy consumers, energy suppliers and utilities to share information.
-	['', 'online energy trading', ' ', 'energy markets', ' ', 'energy sellers', ' ', 'energy buyers', ' ', 'energy software solutions', '']
-Vigor Renewables
-	Developer of renewable-power facilities in the U.K. The company works with property holders and commercial enterprises to develop and operate sustainable energy projects, including those utilizing solar and wind power.
-	['', 'renewable energy equipment', ' ', 'power generation projects', '']
-Grupo Guascor
-	Provider of energy solutions based on renewable energy. The company develops and manufactures technologies to harness energy from renewable sources such as wind, solar, bio-energy and hydel power. The company focuses on production of cells, modules and other components, offering turnkey market as well as the promotion, operation and maintenance of residential and industrial energy facilities.
-	['', 'energy solutions', ' ', 'bio-energy', ' ', 'renewable energy', ' ', 'photovoltaic systems', ' ', 'turnkey projects', '']
-Episol
-	Developer of solar thermal products for production renewable energy. The company offers installation services and other thermal products for generation of electricity in an ecological way.
-	['', 'solar collectors', ' ', 'energy consumption', ' ', 'renewable energy source', ' ', 'solar photovoltaic', ' ', 'wind energy', '']
-Fat Spaniel Technologies
-	Provider of monitoring and reporting services for the renewable energy industry. The company also provides lifecycle management services. It offers Fat Spaniel Insight Manager, a Web portal for building, sharing and running energy data applications.
-	['', 'monitoring service', ' ', 'lifecycle management', ' ', 'energy data application', ' ', 'systems monitoring', '']
-Skystream Markets
-	Provider of platform for the renewable energy and environmental markets. The company\'s markets is focused on creating price discovery, concentrating liquidity and improving trade execution quality.
-	['', 'renewable energy', ' ', 'quality improvement', ' ', 'liquidity concentration', '']
-Sun Catalytix
-	Developer of technology for use in energy storage and renewable fuels. The company generates renewable energy supply from sunlight and water. It develops new earth abundant materials for energy conversion processes.
-	['', 'energy storage technology', ' ', 'renewable fuel', ' ', 'renewable energy', '']
-Hydrovolts
-	Provider of hydropower technology. The company produces hydrokinetic turbines for renewable energy generation.
-	['', 'hydropower technology', ' ', 'renewable energy generation', ' ', 'hydrokinetic turbine', ' hydropower']
-Airxchange
-	Manufacturer of energy recovery ventilation products and components. The company offers energy recovery ventilators, integrated packages, air handler options, wall mounts and packaged units. The company also provides field replacement services.
-	['', 'energy recovery', ' ', 'energy recovery ventilation', ' ', 'recovery ventilator', ' ', 'air handler', ' ', 'wall mount', '']
-Greenbox Technology
-	Provider of Web-based energy management solutions for the utilities and residential energy customers. The company\'s platform enables its customers to track, compare, and manage energy usage, as well as engages them in energy efficiency, demand response, alternative and renewable energy, and carbon reduction activities.
-	['', 'energy management', ' ', 'energy utility', ' ', 'energy usage', ' ', 'energy efficiency', ' ', 'carbon reduction', '']
+SmartRM
+	Developer of encryption software that allows users to protect and share digital content, such as documents, audio and video files. The company operates an open-source, interoperable DRM platform based on the MPEG-21 standard. The company\'s software prevents unauthorized printing, copying and sharing, sets time limits on file use, tracks file users and helps keep control of files even after they are sent.
+	['', 'encryption software', ' ', 'digital contents', ' ', 'unauthorized printing', ' tracking']
+Yepler
+	Creator of an online social desktop community. The company\'s platform enables users to organize files, links,videos, friends and groups by tagging and rating them locally and globally. The platform allows users to write comments or chat about any link or file on their computer. Through the platform, a document can instantly serve as a communication channel between two users.
+	['', 'desktop software', ' ', 'communication channel', ' ', 'document tagging', '']
+Kippt
+	Provider of social and collaborative bookmarking site. The company enables its users to organize links into lists, collect bookmarks and clips add comments and share content.
+	['', 'bookmarking site', ' ', 'content sharing platform', ' ', 'social site', '']
+WebShaka
+	Developer of a Web desktop platform. The company is the creator of YouOS, a platform replicating a desktop environment on a Web page. The platform allows users to login and save their work from multiple computers, to centralize all their Web services and files in one place, and to share files and apps with others. The platform operates on Javascript.
+	['', 'manage files', ' ', 'development tools', ' ', 'desktop platform', ' ', 'desktop environment', '']
+Thinkature
+	Developer of an online collaboration platform for small groups. The company offers a web-based white-board platform that allows users to chat and draw diagrams on a shared whiteboard.
+	['', 'collaboration platform', ' white-board workspace']
+ShareFile
+	Provider of software solutions that help businesses exchange files. The company offers an online file storage solution that allows users to create a custom-branded password-protected area where users exchange business files with clients
+	['', 'software solution', ' ', 'businesses exchange file', ' ', 'online file storage', ' storage']
+BigSwerve
+	Operator of a search aggregator for blog comments, which are often omitted in blog searches and roundups. The company\'s crawler aggregates comments, allowing users to follow the comments for a given person and discover new content by seeing where other people are engaged.
+	['', 'search aggregator', ' ', 'blog comment', ' crawler ', 'web crawler', ' ', 'comment aggregator', ' ', 'blog crawler', ' ', 'web spider', ' ', 'blog spider', '']
+Lefora
+	Provider of a platform that allows members to create public and private forums and add videos and photos. The company allows members to create animal, automotive, business and professional, computer and Internet, culture and community.
+	['', 'public forum', ' ', 'private forum', ' ', 'web discussion', ' ', 'online forum', '']

@@ -1,39 +1,24 @@
-Blue H Group Technologies
-	Developer of deep water floating platform technology for offshore wind turbines. The company develops a product that takes wind as a primary resource and converts it into energy. Its floating platform is designed to unlock the vast potential of offshore wind at an economical cost of electricity.
-	['', 'wind turbine', ' ', 'wind electricity', ' ', 'energy infrastructure', '']
-Windcoat group
-	Producer of wind turbines. The company is engaged in the design and manufacture of wind turbines in Norway.
-	['', 'wind turbine', ' ', 'wind turbine manufacturer', '']
-Timbertower
-	Provider of wind-turbine towers made from renewable resources. The company builds and installs wooden towers for large wind turbines.
-	['', 'wind turbine', ' ', 'wooden tower', ' ', 'renewable resource', '']
-Nordic Windpower
-	Provider of wind turbines to wind farm developers and community wind projects in the United States and internationally.
-	['', 'wind turbine', ' ', 'renewable energy', ' ', 'wind farm development', ' ', 'energy generation', '']
-ChapDrive
-	Provider of gearless technology for wind turbines. The company develops drive train services for wind turbines that enables lower weight in the nacelle, simplifies installation and reduces operation and maintenance cost. It also engages in developing hydraulic transmission for wind turbines.
-	['', 'wind turbine machinery', ' ', 'hydraulic transmission technology', ' windmill']
-Proven Energy
-	Manufacturer and supplier of small-scale wind turbines. The company designs, manufactures and markets wind turbines ranging from 2.5 kilowatts to 15kw. The company\'s turbines are designed for an array of applications, from domestic to offshore.
-	['', 'wind turbine', ' ', 'affordable renewable energy', ' ', 'domestic turbine', '']
-Wind & Sail Energy
-	Provider of wind-turbine technology. The company\'s technology helps in solving problems associated with propeller-driven turbines.
-	['', 'energy services', '']
-Goldwind Science & Technology
-	Manufacturer of wind turbines. The company specializes in large megawatt wind turbine research, development and manufacturing of total wind energy services and wind farm investment management.
-	['', 'wind turbines', ' ', 'wind energy', ' ', 'wind farm', '']
-IQwind
-	Developer of gearbox technology for wind turbine applications. The company develops and commercializes a variable speed turbine which increases power generation efficiency and drive train reliability through reduction of loads.
-	['', 'gearbox technology', ' ', 'power generation', ' ', 'variable speed turbine', '']
-Angle Wind
-	Developer of mechanical gearbox and drive train for wind turbines. The company develops eccentric gearboxes and drivetrain technology for offshore and onshore wind turbines.
-	['', 'wind turbines', ' gearbox ', 'drive train', '']
-Blade Dynamics
-	Manufacturer of wind turbine rotors, blade components and surface coatings. The company\'s technology enables blades longer than 90 meters that will enable the next generation of turbines, such as the Sea Titan.
-	['', 'wind turbine rotor', ' ', 'blade component', ' ', 'surface coating', ' ', 'wind turbine', '']
-Viryd Technologies
-	Developer and distributor of power generating turbines and windmills for the wind industry. The company offers drivetrains for residential and commercial wind systems, as well as energy management systems and developer kits. It also provides engineering services, including design, bench, and field testing services.
-	['', 'power generating turbine', ' ', 'renewable energy', ' ', 'commercial wind system', '']
-Cool Power Products
-	Manufacturer and marketer of a load-controller device for alternative power sources. The company manufactures energy & micro-generator managers (EMMAs), supplying them to resellers. The device is designed for use with new and existing grid-connected generators, from domestic to large-scale solar photovoltaic (PV) arrays, wind turbines and hydro turbines.
-	['', 'solar electricity', ' micro-generator EMMA electricity']
+Innogenetics
+	Producer of diagnostics and therapeutic vaccines. The company develops and markets various diagnostic assays with a focus on molecular diagnostics and multiparameter testing.
+	['', 'therapeutic vaccines', ' vaccinations ', 'molecular diagnostics', '']
+Xceed Molecular
+	Developer of expression-based molecular diagnostic products. The company is working on the speed, simplicity, and efficiency of expression-based molecular diagnostics through its “Ziplex™” Automated Workstation. The Ziplex uses the company\'s flow-thru-chip microarray technology to perform highly multiplexed molecular assays faster and at a lower cost than conventional array systems, while providing simplicity of use that is essential for broader adoption of molecular diagnostics.
+	['', 'molecular diagnostics', ', expression-based', '']
+Nx Networks
+	Provider of network switching products for enterprise networks. The company\'s products unify voice, data and image applications. The company focuses on networking technologies, combining circuit and packet transmission with T1 multiplexing on a single platform.
+	['', 'network products', ' switch ', 'image application', '']
+Inostics
+	Provider of diagnostic services. The company provides molecular diagnostics testing for physicians, clinical trials, and research offering sensitive mutation testing from plasma and serum samples.
+	['', 'diagnostics testing', ' ', 'molecular diagnostics', ' ', 'mutation testing', '']
+EnviroGene
+	Provider of molecular diagnostics related to environmental pollution. The company provides environmentally friendly tracer systems to identify sources of fecal and microbial contamination in water bodies.
+	['', 'molecular diagnostic', ' ', 'natural resources management', ' ', 'contamination test', ' ', 'Environmental Service', '']
+Pronota
+	Developer of protein biomarker diagnostics platform. The company provides diagnostics for early detection of life-threatening conditions and unmet medical needs that includes pre-eclampsia, cardio-renal syndrome, ovarian cancer and sepsis.
+	['biomaker ', 'diagnostic platform', ' protein']
+Elcom Technologies
+	Manufacturer of dielectric resonance oscillators. The company designs, develops, manufactures and markets RF and microwave modules and sub-systems for commercial and defense applications.
+	['', 'electrical equipment', ' ', 'dielectric resonance oscillator', ' ', 'radio frequency modules', '']
+Nanosphere
+	Nanosphere Inc develops, manufactures and markets molecular diagnostics platform, the Verigene System, which enables sensitive genomic and protein testing on a single platform.
+	['', 'molecular diagnostics', ' ', 'diagnostics platform', ' ', 'cardiovascular diseases', ' ', 'protein testing', '']

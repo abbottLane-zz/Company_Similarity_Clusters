@@ -1,42 +1,21 @@
-Bigstep.com
-	Provider of hosting services for business and e-commerce Web sites. The company offers Web site design and promotion, marketing and reporting, e-commerce and customer support services, as well as communication tools.
-	['', 'hosting service', ' ', 'website design', ' ', 'customer support service', '']
-Vivisimo
-	Provider of enterprise search software solutions to OEM and reseller markets. The companies search solutions are used on corporate and governmental Web sites, enterprise intranets and departments, and in government intelligence agencies.
-	['', 'search software', ' ', 'reseller market', ' ', 'search solution', ' ', 'information management', ' ', 'security management', ' ', 'navigation software', '']
-CORDA Technologies
-	Provider of data visualization software used for tasks such as creating charts, maps, and graphs. The company also develops and sells charting/graphing tools. CORDA provides services through PopChart.com, an Application Service Provider helping high-volume sports and financial web sites display statistics with exciting, interactive charts and graphs.
-	['', 'visualization software', '']
-Nauticus Networks
-	Developer of internet infrastructure products. The company offers customer support programs for enterprise networks and IT outsources deploying web-enabled applications requiring security.
-	['', 'internet infrastructure', ' ', 'customer support system', ' ', 'web enabled application', ' ', 'network management', ' ', 'enterprise software', '']
-Redline Networks
-	Manufacturer of network appliances. The company\'s family of E|X application front end network appliances, deployed at corporate data centers, and T|X Web I/O processors, used by Web sites, are designed to control and customize any HTTP-based environment while reducing infrastructure cost and complexity.
-	['', 'enterprise data', ' ', 'network ready', ' ', 'internet infrastructure', '']
-Hillclimb Media
-	Developer of pay-for-content Web sites for customers and publishers. The company operates a network of Web sites that provide information on travel, sports, and the outdoors. Its Web publishing solutions bring offline content to the online.
-	['', 'Web publishing solution', ' ', 'content website', ' ', 'pay for content website', '']
-Pages Software
-	Provider of web development technologies. The company\'s technology is used in corporate brochure Web sites, online commercial applications, website launching and submission of search engines.
-	['', 'web development', ' ', 'website hosting', ' ', 'search engine', '']
-VoiceGenie Technologies
-	Provider of Interactive Voice Response (IVR) software platform. The company\'s platform provides open standards infrastructure for supporting next-generation speech-enabled contact centers.
-	['', 'interactive voice response', ' ', 'open communication service', ' telecommunication']
-Atomz
-	Provider of on-demand digital marketing applications, including site search and web content management. The company develops hosted applications for building Web sites.
-	['', 'digital marketing', ' ', 'site search', ' ', 'content management', ' ', 'web content', ' ', 'website building', '']
-GetRelevant
-	Provider of network of marketing websites. The company connects marketers of both online and offline businesses and services with a broad network of Web sites to maximize the earning potential of both partners.
-	['', 'marketing website', ' ', 'business marketing', '']
-Quack
-	Provider of speech-enabled Web sites and Internet information.
-	['', 'internet information', ' ', 'online service', ' ', 'online content', '']
-Gilian Technologies
-	Provider of web content security services. The company provides protection against website vandalism and sabotage, monitors the web sites, detects hacking attempts and stop applications from performing corrupted transactions.
-	['', 'website monitoring', ' ', 'website vandalism', ' ', 'content security services', ' ', 'web applications', '']
-Everyone.net
-	Provider of outsourced email solutions for individuals and companies. The company offers custom email services for everyone from Internet Service Providers, web hosts and web sites to businesses, organizations and individuals.
-	['', 'email hosting', ' SaaS ', 'email backup', ' ', 'outsourced email solutions', '']
-Caw Networks
-	Developer of real-world capacity assessment products for websites and network devices. The company sells internet-based software which measures the capacity of web sites without having to put the sites under actual user loads.
-	['', 'capacity assessment product', ' ', 'internet software', ' ', 'stress testing appliance', '']
+Savene (European Assets)
+	Provider of detoxifying agents. The company specializes in providing dexrazoxane to prevent the effect of anthracyclines.
+	['dexrazoxane anthracyclines chemotherapy ', 'catalytic cycle', '']
+Maptuit
+	Provider of navigation solutions to the transportation industry in the United States. The company specializes in providing location information Web services for consumer, tracking, and traffic markets.
+	['', 'navigation solution', ' ', 'location information', ' ', 'transportation optimization solution', ' ', 'geofencing technology', ' ', 'direction application', ' ', 'online traffic application', '']
+Readia
+	Developer of educational hand-held device. The company provides learning tool that provides demonstrable educational value in reading, writing, spelling and math.
+	['literacy ', 'education service', ' ', 'handheld device', '']
+InnoDesk
+	Developer of workspace products for home offices and student consumer markets. The company specializes in providing hand-held and battery-operated home office supply products. The company\'s products includes staplers, blades, shredders, letter openers and pencil sharpeners.
+	['', 'workspace products', ' ', 'consumer markets', ' ', 'business tools', ' battery staplers blades ', 'letter openers', '']
+WinfoMedia
+	Provider of electronic display products for out-of-home advertising. The company\'s products consist of a regular LCD screen combined with touch-free sensor for user accessibility.
+	['touchscreen ', 'touch-free sensor', ' ', 'multichannel system', '']
+Cozart
+	Developer of hand-held device using saliva samples for drugs of abuse testing. The company was a supplier to the home office for police, prison and customs and excise applications.
+	['', 'hand-held device', ' ', 'abuse testing', ' ', 'drug testing', '']
+Ubiquisys
+	Developer of communications devices for mobile operators and consumers. The company provides a small plug-and-play device that plugs into home or office broadband connections and provides 3G coverage in the home and office. It also offers convergence software to the wireless-wireline convergence technology market.
+	['', 'communication device', ' ', 'broadband connection', ' ', 'convergence software', ' femtocell']

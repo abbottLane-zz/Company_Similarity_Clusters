@@ -1,36 +1,96 @@
-Stellr
-	Provider of data analytics platform. The company develops a suite of software as a service (SaaS) analytics technologies.
-	['', 'data analytic', ' ', 'analytic technology', ' ', 'cloud based portal', ' ', 'data analytic portal', '']
-Spotfire
-	Provider of interactive, visual data analytics applications and services. The company\'s analytic application, offers an interactive, visual approach to data analysis that empowers individuals to see trends, patterns, outliers and unanticipated relationships in data.
-	['', 'data analysis', ' ', 'visual data analytics', ' ', 'analytics application', '']
-ObjectRocket
-	Provider of a cloud Database as a Service based on MongoDB database. The company provides open source-based MongoDB system that help users to manage big data.
-	['', 'cloud database', ' ', 'database management system', ' ', 'MongoDB database', '']
-Metanautix
-	Provider of big data analytics software. The company builds big data analytics systems for large enterprises.
-	['', 'Big data', ' ', 'analytic service', ' ', 'data analystics system', '']
-mbr targeting
-	Developer of a targeting technologies for increased relevance of advertising focus and product recommendations. The company has developed an approach that can analyze and structure big data categories without having to make a Prior assumptions or use categories.
-	['', 'targeting technology', ' ', 'analysis method', ' ', 'product recommendation', ' ', 'advertising focus', '']
-640 Labs
-	Developer of an open big data platform for agriculture. The company offers 640 Drive, a device to automatically collect and aggregate agricultural data across farming operations.
-	['', 'data aggregation', ' ', 'farming operation', ' ', 'agricultural data', ' ', 'big data platform', '']
-ADKU
-	Provider of e-commerce big data solutions. The company provides a service that attempts to optimize a person’s shopping experience by providing product suggestions.
-	['', 'data solution', ' ', 'personal shopping', '']
-AGILEci
-	Provider of an online application for data analytics and insight propositions for sales and marketing users. The company offers a secure Web browser application that works on desktops, laptops and tablets which helps enterprises to know their customers.
-	['', 'data analytic', ' ', 'Web browser application', ' astute ', 'insight proposition', '']
-RightsCube
-	Provider of a data and analytics platform for publishers. The company provides actionable insights, data and feedback to the book publishers about their market, customers and retail partners. It also provides a standardized source for all of the world\'s film and TV rights information.
-	['', 'analytics platform', ' ', 'data platform', ' ', 'publishers platform', ' ', 'retailer auditing', ' ', 'film rights information', '']
-Application Security
-	Provider of database security application. The company develops security software for relational databases and big data stores that helps businesses and government agencies uncover critical configuration mistakes, access control issues, missing patches, or any toxic combination of settings that could lead to denial-of-service attacks, unauthorized data modification and data breaches.
-	['', 'database security', ' ', 'compliance solution', ' ', 'vulnerability management', ' ', 'threat management', ' ', 'audit management', ' ', 'database integration', ' ', 'database discovery', '']
-Katkar Flink
-	Provider of a platform that provides online sale information to customers. The company provides data analytics to help online shoppers discover deals.
-	['', 'retailing service', ' ', 'online sale information', ' ', 'data analytics', '']
-Morta Security
-	Provider of a cybersecurity platform. The company develops technology to counter advanced cybersecurity threats to large enterprises.
-	['', 'cyber security platform', ' ', 'cyber security', ' ', 'cyber threat', ' ', 'cyber defense', '']
+Regiohelden
+	Provider of online marketing services. The company helps local advertisers with search engine marketing software to reach their online audience, convert prospects to actual clients and measure the results of campaigns.
+	['', 'local online advertising', ' ', 'marketing and advertising', ' ', 'local advertising', '']
+Encounter Development Technologies
+	Provider of end-to-end technology and online marketing services, including design, build, hosting and online marketing support. The company utilizes their pre-built applications to provide the platforms in which to base solutions for businesses looking to utilize video technology to increase online collaboration and interaction.
+	['', 'online marketing', ' collaboration ', 'video technology', '']
+SmartReceipt
+	Provider of personalized nutrition and marketing messages that enable consumers to make better food decisions. The company provides innovative marketing services that enable retailers to generate incremental revenue and influence consumer purchasing decisions.
+	['', 'personalized nutrition', ' ', 'nutrition information', ' ', 'consumer purchasing decision', ' ', 'marketing management software', '']
+Nomi (Acquired)
+	Provider of marketing-optimization platform for retailers. The company provides a platform enabling retailers to create a unified view of their customers across all channels, by leveraging real-world customer behavior into existing CRM, loyalty and e-commerce platforms.
+	['', 'store infrastructure', ' ', 'customer behavior', ' ', 'reward loyal customer', ' ', 'offline analytic', ' ', 'marketing optimization', '']
+Band Digital
+	Provider of digital marketing services. The company connects audiences, targets, and customers to brands, products, and services.
+	['', 'digital marketing', ' ', 'connection agency', ' ', 'business intelligence service', '']
+Omniture
+	Provider of online business optimization software. The company hosts and delivers Omniture Online Marketing Suite, as an on-demand solution, as well as an on-premise solution that consists of Open Business Analytics Platform and integrated set of optimization applications for online analytics, channel analytics, visitor acquisition and conversion.
+	['software data warehouse information']
+Mixicom
+	Operator of a YouTube multi-channel network. The company operates a YouTube channel network in which it gathers famous YouTubeurs for online marketing and advertising.
+	['', 'marketing and advertising', ' ', 'channel network', ' ', 'online media marketing', '']
+EmSense
+	Developer of physiological and brainwave measurement technology. The company’s quantitative metrics provides insights that facilitate the creation and optimization of advertising, packaging, media content, online marketing, and the live in-store and virtual store shopping experiences. It also provides expertise and advancements in emotion tracking, cognitive neuroscience, analytics, and market research through its EmBand and now EmBand 24, a wireless non-invasive EEG neuroscience technology. In addition, the company combines neurometrics with stationary and mobile eye tracking.
+	['', 'brainwave measurement technology', ' ', 'emotion tracking', ' ', 'mobile eye tracking', '']
+New Media Gateway
+	Provider of web-based enterprise marketing services. The company\'s marketing services include search engine marketing, marketing analytics, creative design, email marketing, and serves the agency, franchise, financial, energy, healthcare and insurance industries.
+	['', 'marketing software', ' ', 'enterprise marketing', '']
+RentMineOnline
+	Provider of social network marketing services for the multifamily rental housing industry. The company acts as a referral management tool for the multi-billion dollar apartment rental market. It enables residents to get paid for marketing their properties to friends.
+	['', 'rental housing society', ' ', 'referral management program', ' ', 'apartment rental', '']
+Performable
+	Provider of an internet marketing software. The company provides a marketing software platform for converting visitors into customers.
+	['', 'online marketing', ' ', 'marketing software', ' ', 'internet marketing software', '']
+Digital Railroad
+	Provider of online photo archiving and marketing services. It offers photographers and agencies to manage, market, and sell their images.
+	['', 'online photo archiving', ' ', 'photo marketing', ' ', 'sell image', '']
+Online Marketing Group
+	Operator of an online directory network. The company offers marketing services to businesses operating in Australia, by linking them to potential customers through their online directories. It allows businesses to create mini-websites and upload their logo, photos or video, promote special offers and share customer testimonials.
+	['', 'online directory', ' ', 'customer acquisition', ' ', 'website development', ' ', 'online marketing', '']
+IPLSHOP
+	Provider of a marketing platform. The company provides a network platform of waxing professionals and consultants in Brazil.
+	['', 'waxing consultant', ' ', 'network platform', ' ', 'health and wellness', '']
+OnDialog
+	Provider of tools to marketers to maximize acquisition of leads, conversion or prospects and retain customers using on-demand landing pages, micro sites and personalized URLs. The company\'s customers include online marketing affiliates, direct marketing agencies, and sports and entertainment marketing agencies.
+	['', 'personalized URLs', ' ', 'on-demand landing pages', ' ', 'Search Engine Marketing', '']
+NetFlip
+	Provider of a pay-for-performance online marketing network. The company provides cash to customers for signing up for deals like credit cards, CD and book clubs, free web services and  cheap long distance travel.
+	['', 'internet shop', ' ecommerce ', 'online shop', ' ', 'online deal', '']
+freeXmedia
+	Provider of an online digital marketing platform. The company provides digital marketing services to the automotive, digital entertainment, sport, active living, free-net and social media industry.
+	['', 'digital marketing', ' ', 'marketing domain', ' ', 'market topography', '']
+Pulpo Media
+	Provider of technology enabled marketing services. The company works with leading online advertisers to help them dynamically localize and tailor their offerings for their diverse target markets.
+	['', 'marketing service', ' ', 'online advertisement', ' ', 'diverse market', '']
+TongCard
+	Provider of the marketing services through distribution of reward cards. The company provides the marketing service to the organization by promoting them via distributing reward cards in the consumers.
+	['', 'marketing service', ' ', 'product promotion', ' ', 'consumer attraction', '']
+24h00
+	Provider of an online retail marketing platform. The company provides branded marketing services to retail clients through its e-commerce website, which provides a changing topography of consumer discounts.
+	['', 'online retail', ' ', 'discounted rates', ' ', 'shopping online', ' ', 'branded products', '']
+XLMedia
+	Provider of digital publishing and marketing services. provides marketing services to online gambling operators and develops proprietary tools and methodologies to drive high value users.
+	['', 'digital publishing', ' ', 'marketing services', ' ', 'proprietary tools', '']
+Apparel Media Group
+	Provider of network marketing services to apparel industry. The company\'s platform delivers relationships with target consumers that brands can leverage to drive digital engagement metrics vital to fan acquisition, video distribution, content creation, CRM, and consumer insights initiatives.
+	['', 'network marketing', ' ', 'marketing service', '']
+Envoii
+	Provider of online marketing services. The company develops a distributed software platform that allows businesses to leverage their current infrastructure while making transition to the next generation internet.
+	['', 'e commerce', ' ', 'online marketing', ' ', 'online shopping', ' ', 'web services', '']
+Groupon Japan
+	Provider of daily deal coupons. The company provides website design and internet marketing services and also offers discounts to the online communities from the local businesses.
+	['', 'daily deals', ' ', 'discount coupon', ' ', 'on-line coupon distribution', '']
+Gydget
+	Provider of a social marketing platform. The company helps music groups, teams, non-profits and other organizations reach their audiences.
+	['', 'social marketing', ' ', 'online advertising', ' ', 'marketing widget', '']
+VirtuOz
+	Provider of Digital Customer Relationship system to large and mid-market enterprises. The company offers Intelligent Virtual Agents to provide world-class online marketing, sales and support channels.
+	['', 'virtual agent', ' ', 'customer assistance', ' ', 'Digital Customer Relationship', ' ', 'Intelligent Virtual Agent', ' ', 'online marketing', ' ', 'support channel', '']
+Marketbright
+	Provider of an on-demand marketing automation platform. The company\'s products include eMarketing Enterprise, an on-demand platform to roll out new campaigns, messages and offers daily, and validate strategies; BrightSite, which changes the way prospects interact with sales and marketing teams during an evaluation; and ChannelBright, which runs syndicated campaigns through channels.
+	['', 'marketing automation platform', ' ', 'marketing solution', ' ', 'marketing automation', '']
+TellApart
+	Developer of online marketing applications for ecommerce retailers. The company uses personalized retargeting technology to create banner advertisements and offers a platform that helps users to collect and organize cloud based customer data.
+	['', 'display advertising', ' ', 'personalized banner', ' ', 'banner advertisement', '']
+Peer Squared
+	Operator of an online marketing and rewards platform. The company uses a combination of game-play mechanics, proprietary technology and incentives to harness the power of word-of-mouth marketing on the social web.
+	['', 'proprietary technology', ' ', 'rewards platform', '']
+Elogia Media
+	Provider of an online marketing platform. The company provides e-commerce marketing services.
+	['', 'online marketing platform', ' ', 'e-commerce services', ' ', 'online marketing', '']
+Dealer.com
+	Provider of online marketing services for the automotive industry. The company offers a suite of web services, including automotive dealer websites, search engine marketing, advertising and optimization tools, lead and inventory management tools and the analysis tools for online marketing and advertising programs. It also provides LeadMachine that allows users to capture, track, organize and follow-up on leads from one single online location and video integration, integrated call tracking, performance analytics, advertising Return On Investment (ROI) and Website performance.
+	['', 'online marketing service', ' ', 'Web marketing service', ' ', 'inventory marketing', '']
+Cardstore
+	Operator of a platform that enables to design and message personalized greeting cards and invitations. The company offers the users to add customized photos and personalized messages to cards. The company provides business marketing services that include online greeting card and postcard, photo-card creation and presentation editing tools.
+	['e-commerce ', 'personalized greeting cards', ' ', 'customized photos', ' ', 'business marketing', ' ', 'online greeting cards', '']

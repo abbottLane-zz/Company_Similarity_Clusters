@@ -1,36 +1,45 @@
-AdBrite (Certain Intellectual Property Assets)
-	Provider of advertising services. The company has video, data management and optimization technology, which is integrated into its various products aimed at performance-driven digital marketers.
-	['', 'advertisement service', ' ', 'digital data management', ' ', 'intellectual property', ' ', 'data management', ' data']
-YuMe
-	Provider of digital-video advertising services. The company provides digital advertising, using its proprietary software that is embedded across a wide variety of Internet-connected screens, enabling brands to unify their audiences with a single advertising campaign. The company\'s software also collects data on advertising campaigns, content context and audience, to enable decisions on best branding outcomes.
-	['', 'brand advertising technology', ' ', 'digital video technology', ' ', 'advertising campaign', '']
-PropelAd
-	Provider of digital advertising services. The company makes advertising products on facebook and provides marketing automation and value added services to facebook advertisers.
-	['', 'digital advertising', ' ', 'marketing automation', ' ', 'value added service', '']
-OnRequest Images
-	Provider of custom imagery. The company creates original photography using its global network of professional photographers, providing corporations and creative agencies with images shot to their specifications at rights-managed stock prices. The company\'s Custom Stock libraries are designed to give enterprises the ability to build their brands with brand-aligned imagery for marketing use.The company also provides custom production capabilities to customers for an end-to-end commissioned  service.
-	['', 'stock photography', ' ', 'photography services', ' ', 'marketing products', '']
-Internet Broadcasting System
-	Provider of scalable internet publishing technology. The company is a provider of multiple services and products, including a SaaS-based digital publishing platform, original and syndicated content, and a digital advertising agency that provides full life-cycle advertising and sales operations. The company has had a long-term focus on serving local television companies.
-	['', 'digital publishing', '  webtrend ', 'digital agency', ' ', 'syndicated content', '']
-Boo-box
-	Provider of social media advertising services. The company provides various advertising services and allows the bloggers to monetize their blogs to earn money.
-	['', 'media service', ' ', 'advertising system', ' ', 'business servcies', '']
-Blue Noodle
-	Provider of advertising services for the online casual gaming industry. The company, through its NeoARM technology suite and NeoAds advertising network, provides advertising supported video gaming.
-	['', 'advertising service', ' ', 'game advertising', ' ', 'game portal', '']
-Chromatide
-	Provider of custom purification services. The company provides outsourced purification services to the pharmaceutical, biotech, agrochemical and fine chemical industries. It also offers custom peptide synthesis services.
-	['', 'custom purification service', ' ', 'purification service', ' ', 'peptide synthesis service', ' ', 'Commercial Service', '']
-IdeaCast
-	Provider of custom video content and advertising services. The company provides digital out-of-home television advertising services.
-	['', 'video content', ' ', 'out-of-home', ' ', 'cable provider', '']
-netvico
-	Developer of digital advertising signage. The company engages in the design and implementation of custom visual advertising messaging, using media content, hardware and its proprietary content-management system, »PlayEverywhere«.
-	['', 'Digital pillars', ' ', 'Digital Signage', ' Signage ', 'display screen', '']
-DirectRevenue
-	Provider of search, content, and software for advertisers and marketers. The company provides technology solutions that enable marketers to deliver highly targeted contextual advertisements. DirectRevenue delivers its contextual advertising services through partnerships with online media brokers.
-	['', 'advertisers', ' ', 'contextual advertisements', '']
-Channel M
-	Provider of content and advertising for out-of-home video. The company produces video content that engages and entertains each demographic specific to its retail and lifestyle venues. It designs in-store and online campaigns, on-air promotions, mobile campaigns, and celebrity tie-ins.
-	['', 'online campaign', ' ', 'mobile campaign', ' ', 'content provider', ' ', 'advertising provider', '']
+Metaboli (White Label Division)
+	Provider of download stores for game publishers. The business offers commerce-as-a-service solutions for publishers of video games and their online retailers.
+	['', 'video game', ' ', 'digital game', ' ', 'gaming console', '']
+Sight & Sound Distributors
+	Distributor of home videos, video games and related accessories. The company buys prerecorded tapes from movie studios and sells them to retailers, including regional supermarket chains and video stores. Local customers include Video Update, Dierbergs Markets, Blockbuster franchises and several smaller independent stores. The stores both rent and sell the videos.
+	['', 'video distributor', ' ', 'distribution service', ' ', 'video distribution service', '']
+Red Swoosh
+	Provider of P2P network technologies designed to alleviate bandwidth bills for Websites. Its products include Predelivery, which delivers video, video games, and files to users as a background delivery.
+	['', 'bandwidth bill', ' ', 'content delivery', ' ', 'media management', ' ', 'retrieve metadata', '']
+Frozen Codebase
+	Developer of gaming software. The company provides 3 dimensional video games for both download and store based markets.
+	['', 'gaming software', ' ', '3D games', ' ', 'store-based markets', '']
+Realtime Worlds
+	Developer of video games.
+	['', 'video game', '']
+Canesta
+	Provider of electronic perception technology. The company’s technology enables electronic devices, including video games, computers, industrial and medical electronics devices, automobiles or other vehicles, and factory automation equipment to perceive and react to objects or individuals in real time.
+	['', 'electronic perception', ' robotics ', 'security application', '']
+Dark Water Studios
+	Provider and developer of video games. The company develops computer and video games through its studio based in Derry, Northern Ireland.
+	['', 'computer game', ' ', 'video game', ' ', 'game studio', '']
+Arush Entertainment
+	Developer of video and computer games. The company publishes interactive entertainment software for personal computers and entertainment consoles.
+	['', 'computer game', ' ', 'video game', ' ', 'interactive entertainment software', '']
+5min Media
+	Operator of a syndication platform for broadband instructional, knowledge, and lifestyle videos, as well as DIY projects. The company\'s platform features content from media companies and independent producers in various categories, such as arts, automobiles, business, extreme, fashion, fitness, food, games, health, home, music, parenting, people, pets, spiritual, sports, technology, travel, life tips, knowledge, and video games.
+	['', 'lifestyle video', ' ', 'syndication platform', ' ', 'health video', ' ', 'video solution', '']
+Fifth Dimension
+	Developer of video games for children. The company develops and publishes computer games based on popular children’s TV brands such as Tweenies, Teletubbies, Fimbles and RobotWars.
+	['', 'video games', ' ', 'computer games', ' ', "children\\'s games", '']
+Humongous Entertainment
+	Developer of computer video games. The company develops educational games for children.
+	['', 'computer games', ' ', 'educational games', ' ', 'video games', '']
+VideoJax
+	Provider of video games on the web. The company offers play games with video clips and trivia questions in the areas of movie, television, music and sports, as well as featured games.
+	['', 'video game', ' ', 'online game', ' ', 'online trivia', ' ', 'game sharing', '']
+Ndoors
+	Developer of video games. The company develops and publishes MMORPGs (Massively Multiplayer Online Role-Playing Games) like Atlantica Online and Goonzu.
+	['MMORPGs ', 'Role-Playing', ' Goonzu']
+yourvideocard
+	Developer of video greeting cards. The company develops video cards which are used to record personal messages and can be sent to others as greeting cards.
+	['', 'online card', ' ', 'greeting cards', ' ', 'online platform', ' ', 'greeting messages', '']
+Kiwatch
+	Developer of video-monitoring surveillance platform. The company develops a platform which allows for WiFi video monitoring of premises through computer or smartphone.
+	['', 'video monitoring', ' ', 'home security', ' ', 'Electronic Component', '']

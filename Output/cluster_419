@@ -1,60 +1,18 @@
-StackLead
-	Provider of automated sales research. The company provides financial business intelligence for developing sales leads. The company\'s platform pulls together data from multiple sources across the Web, including social media profiles that can be used for introductions and building connections.
-	['', 'data analytical service', ' algorithm ', 'public source', '']
-ProClarity
-	Provider of business intelligence software and solutions. The company offers an analytic application platform that allows companies to build custom analytic applications. Its software and solutions are used for decision support, data mining, balanced scorecards, and reporting from multiple data sources.
-	['', 'business intelligence software', ' ', 'analytic application platform', ' ', 'data mining', '']
-GeoIQ
-	Provider of software tools for mapping caches of publicly available data tagged for use with geospatial information systems (GIS) technologies. The company provides location intelligence software.
-	['', 'mapping cache software', ' ', 'information systems', ' ', 'location intelligence software', '']
-Opscape
-	Developer of business intelligence software. The company offers data visualization software that enables user to convert large data into visual representation.
-	['', 'key performance indicators', ' ', 'data visualization', ' ', 'data patterns', ' ', 'visualization software', '']
-Presstracking
-	Provider of a business intelligence tool for companies, institutions and professionals in communication. The company\'s tool provides the department responsible for the implementation of the actions to be gathering, compiling and analyzing diverse sources.
-	['', 'business intelligence tool', ' ', 'information gathering', ' ', 'data source analysis', ' ', 'data extraction', '']
-Rewired Production Management
-	Developer of internet based systems to manage the information flow required to employ and pay unionized performers who appear in broadcast commercials. The company provides management of information relating to the use of union talent in the production of commercials, music and films.
-	['', 'information services', ' ', 'broadcast services', ' ', 'talent management', '']
-YaData
-	Provider of analytical software for marketers to micro-segment consumers. The company provides an automated business intelligence tool for self-discovery of customer micro-segments.
-	['', 'analytical software', ' ', 'micro-segment consumers', ' ', 'automated technology', ' ', 'self-discovery', ' ', 'business intelligence tool', '']
-Perceptive Pixel
-	developer of multi-touch display interfaces and screens. The company\'s products are used in applications, such as information visualization and exploration, digital content creation and storyboarding and ideation, as well as geo-spatial, command and control. It serves markets, including medical imaging, broadcast, defense, energy exploration, business intelligence, geo-intelligence, industrial design, finance, museum exhibition and entertainment.
-	['', 'business intelligence', ' ', 'industrial design', ' ', 'geo intelligence', ' ', 'museum exhibition', ' ', 'industrial design', '']
-Kynogon
-	Developer of intelligence software for interactive applications. The company provides its services to various industries including gaming, defense and security, industrial, simulation and education.
-	['', 'Artificial Intelligence solutions', ' ', 'Artificial Intelligence software', ' Kynapse ', 'gaming software', ' ', 'defense software', '']
-Anodyne Health
-	Provider of revenue cycle management software for healthcare providers. The company provides business intelligence software and outsourced billing services to large provider groups and hospital-based physician practices.
-	['', 'revenue cycle management', ' ', 'revenue cycle', ' ', 'revenue management software', ' ', 'hospital billing', '']
-QueryObject Systems
-	Developer and provider of business intelligence software solutions that enable business managers to make strategic decisions, leveraging existing corporate data. The company delivers its products to a variety of industries, including telecommunications, healthcare, and financial services.
-	['datamarts economy digital']
-Spikes Cavell & Co
-	Provider of business intelligence, online tools and analytical insight to decision makers in the public sectors and higher education institutions. The company\'s supply management, payment recovery and advanced analytics experts deliver a range of data driven professional services to its customers.
-	['', 'online database', ' ', 'data analytic', ' ', 'decision making', '']
-Pentland Systems
-	Provider of signal acquisition technology and products. The company offers analog input/output, sigma delta, synchro and resolver modules which are complemented by digital input/output and relay products to form a comprehensive range of system ready, COTS, I/O products. The company also provides analog-acquisition and reconstruction products for sonar, radar, signal intelligence and software-defined radio applications in the aerospace and defense markets.
-	['', 'sonar product', ' ', 'signal intelligence', ' ', 'analog signal', ' ', 'radar product', ' ', 'embedded computing', ' ', 'digital input/output', ' ', 'relay product', '']
-Sharp Analytics
-	Provider of business intelligence technology. The company is the developer of a proprietary marketing dashboard technology, SharpView, designed to provide Fortune 500 marketers and their agencies offline-to-online campaign insights. The company\'s platform uses embedded optimization and modeling to identify key insights within data and to integrate campaign results from disparate systems, analyzing the information against pre-defined campaign goals.
-	['', 'business intelligence', ' ', 'marketing dashboard', '']
-Maximal
-	Provider of business intelligence services that enable organizations to discover the knowledge hidden in their data warehouses, gaining competitive edge.
-	['knowledge ', 'business intelligence', ' ', 'data warehouse', '']
-Balanced Insight
-	Provider of business intelligence and information management software and services. The company develops an enterprise software platform that assists customers in establishing a cost-effective platform for delivering enterprise business intelligence and performance management services.
-	['', 'cost effective platform', ' ', 'project budgets', ' ', 'performance management', '']
-LucidEra
-	Developer of business intelligence software solutions for sales management. The company offers LucidEra Enterprise, which integrates sales, marketing, and financial data, as well as tracks pipeline performances; LucidEra for Salesforce.com, which is used to accelerate sales cycles; and LucidEra for Oracle Applications, a reporting and analysis application for Oracle E-Business Suite Order Management. It also provides LucidEra Lead Insight, an on-demand application that contains prebuilt metrics focused on quality and performance of marketing leads.
-	['', 'business intelligence', ' ', 'order management', ' ', 'sales management', '']
-GOCO Company
-	Provider of management information systems. The company offers management information, knowledge management and e-learning services for government enterprises.
-	['', 'e-government solution', ' ', 'knowledge management', ' ', 'e-learning services', ' ', 'management information systems', ' MIS']
-Crystal Decisions
-	Provider of a business intelligence software. The company provides business intelligence software and services that enable the use and management of information within and among organizations.
-	['', 'software platform', ' ', 'software service', ' ', 'business service', '']
-Zanza Software
-	Developer of software allowing users to query database and create reports using the Web browser. The company offers web-based, java business intelligence solutions. It provides computer software used to access, format, process and distribute information via electronic communications networks.
-	['', 'business software', ' ', 'software services', ' ', 'query database', ' ', 'information software', '']
+Encampment Minerals
+	Explorer of natural resources. The company is engaged in the exploration of copper, nickel, and platinum in northern Minnesota.
+	['Exploring', 'natural resources', ' ', 'metal copper', '']
+Íshestar
+	Provider of horseback tours in Iceland.  The company is an operator of equestrian-tourism services in Iceland, providing traditional Icelandic horses, riding and dining facilities for riders, and promoting its services through an online booking site.
+	['', 'horse', ' ', 'hiking', ' ', 'riding', ' ', 'online booking', '']
+Aero IQ
+	Provider of software services for the airline and travel industry. The company focuses on solving scheduling and logistical problems due to patented technologies in the area of Type III systems theory.
+	['', 'software service', ' ', 'travel industry', ' ', 'airline industry', ' ', 'logistical problem', ' ', 'scheduling problem', '']
+Destination Kiruna
+	Operator of a tourism company in the region of Kiruna. The company organizes events, guided tours, self-drive tours and offers holiday and tourism packages.
+	['', 'tour planner', ' ', 'event organizing', ' tours ', 'tourism agency', '']
+Edbe
+	Provider and distributor of wedding and party dresses. The company is engaged in the distribution of wedding and party dresses through its chain of stores distributed throughout Europe.
+	['', 'wedding dress', ' ', 'clothing store', ' ', 'party wear', '']
+Conservation Tourism
+	Provider of tourism services. The company is engaged in the travel industry and is known to build tramways across the world.
+	['tourism travel']

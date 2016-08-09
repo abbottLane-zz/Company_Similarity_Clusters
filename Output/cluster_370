@@ -1,12 +1,21 @@
-DATAllegro
-	Provider of data warehouse appliances.
-	['', 'data warehouse', ' ', 'warehouse appliance', '']
-InfiniDB
-	Provider of analytic database software for information processing applications. The company provides data warehouse storage engine for analytical data, analytical workloads and analytical data volumes. It also offers support services for the implementation of data warehouse.
-	['', 'analytic database software', ' ', 'storage engine', ' warehousing']
-Prism Solutions
-	Designer, developer and marketer of data warehouse management software solutions in United States. The company also provides database management solutions to its customers.
-	['', 'data warehouse', ' ', 'database solution', ' DBMS']
-ClearWater Data
-	Provider of services addressing the challenges of dealing with massive data flow volumes. The company provides a data-centric architecture enabling the ingestion of billions of daily transactions.
-	['', 'software development', ' ', 'data flow management', ' ', 'data-centric architecture', '']
+LRS Ortho
+	Developer of bone drilling device. The company develops computer-aided guiding device for accurate, effective aiming in bone drilling and cutting procedures.
+	['', 'bone device', ' ', 'bone drilling', ' ', 'medical device', '']
+FacetMed
+	Developer of bone fixation medical devices. The comapny\'s devices are focused on development of safer implants for posterior spine surgeries to treat disorders mainly in the aging population.
+	['', 'medical implant', ' ', 'spinal surgery', ' ', 'bone fixation', '']
+Lunar
+	Developer of  bone disease diagnostic systems. The company develops, manufactures and markets bone densitometers and other related medical equipments and products for the treatment of osteoporosis and other metabolic bone diseases that causes excessive bone loss due to aging.
+	['', 'bone diseases', ' osteoporosis ', 'bone densitometers', ' ', 'bone loss', ' ', 'metabolic bone disease', '']
+RepRegen
+	Developer of bio-active materials for orthopedic and dental applications. The company\'s products are used for bone grafting, hard tissue repair and regeneration.
+	['', 'bio-active materials', ' ', 'dental applications', ' ', 'bone grafting', ' ', 'tissue repair', ' ', 'tissue regeneration', '']
+Progentix Orthobiology
+	Manufacturer of orthopedic bone graft materials. The company develops a suite of osteoinductive material products for clinical application in bone regenerative surgery.
+	['', 'bone grafting', ' ', 'osteoinductive materials', ' ', 'one regenerative surgery', ' orthopedic']
+Resoimplant
+	Provider of orthopedic devices. The company develops, manufactures and markets double shell expansion systems for secure fixation of tendons, ligaments and bone fragments in orthopaedic, trauma and sports medicine applications.
+	['', 'resorbable fixations', ' ', 'arthroscopic refixation', ' ', 'healthcare devices', '']
+PRADAMA
+	Developer of drugs for bone diseases and disorders.
+	['', 'bone disease', ' ', 'bone disorder', ' ', 'bone drugs', '']

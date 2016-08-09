@@ -1,30 +1,21 @@
-Small Smiles Dental Centers
-	Provider of dental care services. The company provides dental care services for children.
-	['', 'dental care', ' ', 'dental health', ' ', 'dental center', ' ', 'dental office', '']
-NetMedical
-	Provider of e-health products and services. The company provides telemedicine products and services for hospitals, home care providers and clinical research organizations.
-	['imodem e-health telemedicine ', 'telemedicine solutions', ' ', 'hospital care', '']
-Keratec
-	Producer of of keratin proteins, lipids and new biopolymers from New Zealand wool using exclusive proprietary green extraction and reconstitution processes. The company also supplies natural cosmetic ingredient to  the personal care industry. The company develops nutritional supplements and medical and industrial materials.
-	['', 'wool', ' ', 'Keratin protein', ' ', 'synthetic materials', ' ', 'synthetic polymer', ' ', 'skin', ' ', 'hair', '']
-AerovectRx
-	Developer of an inhaled drug delivery platform and provides dosage-controlled therapeutics. The company develops vibrating mesh nebulizers to deliver drugs and vaccines. The aerosol therapeutic company also delivers a variety of vaccine and therapies varying from multiple-use mass immunizations, specialty pharmaceutical and personal home care use.
-	['Respiratory ', 'Anti-Infectives', ' aerosol']
-OakTree Health Plan
-	Provider of managed care services. The company operates an health maintenance organization for Medicaid members.
-	['', 'health maintenance organization', ' HMO ', 'managed care', '']
-Second Porch
-	Provider of a social vacation home marketplace, where travelers can discover the perfect vacation rental through their trusted social circle. The company serves as a vacation home portal that offers private visibility for homeowners who only want their friends to see their home listing. The company\'s users can search for homes based on location, budget, recommendations, amenities and their relationship with the owner or former guests.
-	['', 'social software platform', ' ', 'leisure facilities', ' ', 'social vacation home marketplace', '']
-Fryers Walk VCT
-	Provider of nursing home services for people with learning and hearing disabilities in Thetford. The company operates a 34 bedroom home to provide home care services for people with learning and hearing disabilities.
-	['', 'home care', ' ', 'nursing home', ' ', 'hearing disability', '']
-Applecroft Care Homes
-	Provider of old age care facility. The company hosts 75 bed residential care home for the elderly care in Kent.
-	['', 'old age care', ' ', 'residential care home', ' ', 'healthcare service', '']
-Channel Fisheries
-	Provider of fish and seafood. The company also supplies seafoods in the export markets in continental Europe, the Middle East and the US.
-	['seafood ', 'fish products', ' ', 'export fish', '']
-Direct Health
-	Provider of domiciliary and home-care services. The company supplies care workers into homes for those with special and geriatric needs.
-	['', 'managed care', ' ', 'trained workers', ' ', 'medical needs', '']
+Amrahp
+	Developer and manufacturer of instruments for analysis and quality control of particles based on the technology of neural networks and artificial intelligence. The company\'s product suite contains two automatic vision systems, BeadCheck 830 and MicroCheck.
+	['', 'artificial intelligence', ' ', 'image analysis', ' vision instruments']
+AirXpanders
+	Developer of technology for tissue expansion after reconstructive surgery. The company\'s technology primarily enables patients to initiate implant expansion by a wireless remote control unit that activates a small gas reservoir within the implant to release a predetermined volume after the reconstruction surgery.
+	['', 'tissue expansion', ' ', 'reconstructive surgery', ' ', 'implant expansion', '']
+NovoSource
+	Manufacturer of orthopedic implants and instruments. The company manufactures and supplies private label orthopedic implants to a variety of healthcare providers, for joint replacement and reconstruction for knees and hips.
+	['', 'orthopedic implant', ' ', 'joint replacement', ' ', 'healthcare provider', '']
+Fran\'s Healthy Helpings
+	Manufacturer of nutritious frozen meals with natural ingredients targeted for young children. The company\'s meals are free of artificial colors, flavors, sweeteners, synthetic preservatives and are nutrient-rich and low in fat, sodium and cholesterol. The company\'s product line includes Lucky Ducky Chicken, Wacky Whale Pizza and Lovey Dovey Patty and can be microwaved in five minutes.
+	['', 'frozen meals', ' ', 'artificial colors', ' ', 'synthetic preservatives', '']
+Cartificial
+	Operator of an orthopedic medical devices company. The company develops artificial cartilage for prosthetic hips. The company\'s product, Cartificial Hip helps in replacing prostheses with the potential of being inserted during day care surgery.
+	['', 'orthopedic company', ' ', 'artificial cartilage', ' ', 'medical devices', ' ', 'surgical devices', ' ', 'surgical implants', '']
+Augusta-Heckenrose
+	Manufacturer of specialized saws. The company designs and sells specialized saws for different uses. The company primarily produces handheld saws such as hand saws, bow saws, gardening saws, builder\'s saws, hack saws and fret saws.
+	['equipment ', 'saw manufacturer', ' ', 'specialized saws', '']
+Origin Medsystems
+	Developer and manufacturer of specialized endosurgery devices and instruments for orthopedic and general surgery. The company\'s first product, the Cement Extraction System is used for replacement of artificial hips.
+	['', 'artificial hip', ' ', 'surgical device', ' endosurgery']

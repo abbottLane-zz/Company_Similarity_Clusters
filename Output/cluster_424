@@ -1,24 +1,48 @@
-Giftly
-	Developer of a mobile gifting application. The company providers online gift cards through digital and mobile commerce. It allows users to create a customized gift card.
-	['', 'gift card', ' ', 'gift idea', ' ', 'online gift card', ' ', 'gift card market', ' ', 'mobile gifting application', ' ', 'digital card', '']
-One4all Gift Cards
-	Creator of national multi-store gift voucher and gift card. The company supplies gift cards and gift vouchers in the public and corporate market.
-	['', 'reward scheme', ' ', 'incentive scheme', ' ', 'gift card', ' ', 'gift voucher', ' gift']
-TargetCast Networks
-	Operator of a digital advertising company that provides venue operators to create and post their own and custom designed promotional messages directly on television sets. The company gives every affiliate restaurant the ability to create customized marketing messages for their store and their customers. It promotes featured products and introduces new products.
-	['', 'digital advertising', ' advertising ', 'venue operator', ' ', 'customized ad', ' ', 'television ad', ' ', 'customized marketing', ' ', 'marketing message', ' ', 'marketing campaign', ' ', 'product promotion', ' ', 'sales increase', '']
-Lottay
-	Provider of online gifting solutions.
-	['', 'online gift', ' ', 'personalized message', ' ', 'personalized gift', '']
-Analog Analytics
-	Provider of an online, mobile, print and alternative media coupons and gift certificates for local publishers and advertisers. The company also provides interactive display coupons and gift certificates; coupons and gift certificates for interactive display, mobile text, print, TV, motion pictures, radio and billboards; integrated mobile telephony platform with content delivery and optimized local search from handsets; and self service coupon and gift certificate content management and marketing; and comprehensive analytics and reporting services.
-	['', 'mobile telephony platform', ' ', 'gift certificate', ' ', 'interactive display coupon', '']
-Quippi
-	Developer of a platform for users to buy gift and shopping cards online. The company sells redeemable gift cards to its users which is aimed at international money transfers.
-	['', 'international shopping card', ' ', 'gift card', ' ', 'international money transfer', ' ', 'international gift card', '']
-Plastic Jungle
-	Operator of an online gift-card exchange. The company provides a platform enabling customers to swap, exchange or convert their unwanted gift cards into airline miles or shopping points at various retailers.
-	['', 'preloaded gift card', ' ', 'online trading', ' ', 'gift card', '']
-Camdens
-	Operator of an online gift store. The company targets the upscale corporate gift market. It offers wines, gourmet foods and other executive business gift items.
-	['', 'corporate gift', ' ', 'online gift', ' ', 'gift retailer', '']
+Introspeckt
+	Operator of an online social music platform. The company\'s platform helps people to communicate by using music as a message and with the help of this platform users can send music as a reminder or gift over a message.
+	['', 'online music platform', ' ', 'music network', ' ', 'virtual product', '']
+PlusFourSix
+	Developer of cloud based music services. The company provides end-to-end services to the users including licensing music from labels and collecting societies, complete streaming and mp3 bundled music platform with multiple storefronts such as desktop browser, mobile browsers and various application.
+	['streaming ', 'music service', ' ', 'cloud technology', '']
+Melody Management
+	Provider of technology services to manage music careers. The company offers a central music management console, including Melody Music Desk and Melody Card, a pay system for distributed music business. Its professional music management tools helps artists to create consistent Web presence and load music, photos, video, and news that keep their fans informed.
+	['', 'technology service', ' ', 'music career', ' ', 'central music management', ' ', 'music business', '']
+Last.fm
+	Provider of music recommendation service. The company provides social music network that connects people with music.
+	['', 'music recommendation', ' ', 'social music network', ' ', 'online music', '']
+PROnoise
+	Provider of an online platform for musicians. The company organises music competitions for the music lovers.
+	['', 'online musical platform', ' ', 'musical battle', ' ', 'online entertainment', '']
+AG Entertainment
+	Provider of a platform which allows its users to make their music and playlists accessible to other computers and devices. The company\'s platform helps its users to find people who have similar musical tastes and follow what music they are listening to.
+	['', 'music sharing platform', ' ', 'music lover search', ' ', 'entertainment platform', '']
+Melodeo
+	Provider of mobile podcasting solutions. The company delivers music and other media via mobile phones and Web. It provides wireless customers with music, comedy, news, sports, and entertainment programs, including radio shows.
+	['', 'mobile podcasting', ' ', 'mobile media', ' ', 'radio show', ' ', 'delivers music', '']
+Beyond Oblivion
+	Provider of access to music library where content owners are paid per-play.The company’s first go-to-market product is Boinc. Boinc is a magnetic and social music service that distributes a vast legal music library from a cloud (supplied by majors, independents, and artists the world over), and embeds the right to download and PLAY IT ALL within devices like PCs, tablets, autos and smartphones.
+	['', 'music library', ' ', 'content owner', ' ', 'social music service', '']
+SellaBand
+	Developer of an online crowd funding platform for music artists. The company operates an website that allows artists to raise money from their music fans all over the world in order to record a professional album.
+	['', 'crowd funding', ' ', 'music platform', ' ', 'music artists', '']
+Songza Media
+	Provider of a curated music streaming platform. The company offers free streaming music platlists curated by DJs, musicians, music critics and musicologists.
+	['', 'music search engine', ' ', 'internet radio', ' ', 'music search', ' ', 'music playlist', ' ', 'mood music', '']
+Soundtracker
+	Provider of music streaming service that blends internet radio, social networking and location-awareness. The company provides an application and website that allows users to connect their mobile devices to the social and geographic aspects of music discovery.
+	['', 'music streaming', ' ', 'internet radio', ' ', 'location awareness', ' ', 'geosocial internet radio', ' ', 'music discovery', '']
+Anywhere.FM
+	Provider of music player service and engages in uploading of music collection, playing it on the Web music player and discovering music. It holds licenses for the public performances of the music streamed through the Web site.
+	['', 'uploading music', ' ', 'music streaming', ' ', 'Web music player', ' ', 'discovering music', '']
+Graywhale Entertainment Exchange
+	Provider of music related accessories. The company provides portable electronic products such as music cassettes, video games and compact discs to music lovers.
+	['', 'music accessories', ' ', 'portable electronics', ' cassettes ', 'video games', ' ', 'compact discs', '']
+UAB MTV Networks Baltic
+	Broadcaster of video music channel in the Baltic States. The company broadcasts the MTV music channels, serving households in Lithuania, Latvia and Estonia.
+	['broadcaster ', 'television channels', ' MTV']
+TuneCore
+	Distributor of online digital music, film and video. The company offers music delivery and distribution services to online stores. It also provides mastering, t-shirts, ad placements, billboard musician’s guide, billboard talent and touring directory, posters, stickers, music copyrights, trending reports and professional mixing services.
+	['', 'digital music', ' ', 'online video', ' ', 'music delivery', ' ', 'professional mixing', '']
+Memolane
+	Provider of digital platform collecting and connecting thoughts, pictures, messages and music. The company helps people archive and explore social network activity across different platforms.
+	['', 'social data aggregation', ' ', 'social data collection', ' ', 'social media content', '']

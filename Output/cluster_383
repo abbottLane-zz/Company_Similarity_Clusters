@@ -1,18 +1,12 @@
-New Resource Bank
-	Provider of banking products and services to small to middle-size businesses. The company products include checking accounts, savings accounts, money market accounts and certificates of deposit, as well as attorney client trust accounts and solar certificates of deposit.
-	['', 'banking products', ' ', 'checking accounts', ' ', 'savings account', ' ', 'financial returns', '']
-LifeEnsured
-	Operator of an organization which manages digital accounts of the deceased. The company partners with websites, estate planners, funeral homes, insurance companies and government organizations to ensure an individual’s internet accounts, digital assets and content are transferred or removed according to their wishes or those of surviving family members.
-	['', 'online account', ' ', 'digital assets', ' ', 'digital content', ' ', 'digital account management', '']
-Get Lower
-	Provider of loans, personal credit, banking, real estate, insurance and utility services. The company offers loan products, which include home loans, auto loans and personal loans, personal credit products, including credit cards, credit reports and debt management and banking services, such as checking accounts, saving accounts and bill pay services.
-	['', 'loan product', ' ', 'personal credit', ' ', 'internet banking', ' ', 'online payment', '']
-Gratio Capital
-	Provider of asset management services to consumers irrespective of income level or investing know-how. The company\'s product GoalMine allows customers to open mutual fund accounts with mere investments and with no prior financial knowledge required.
-	['', 'financial services', ' ', 'mutual fund', ' ', 'asset management', '']
-Access National Bank
-	Provides banking and financial services to emerging businesses. The company offers business banking services, including deposit products, such as checking, savings and treasury management, lending products that include loans and lines of credit and treasury management services.
-	['', 'financial service', ' ', 'treasury management service', ' ', 'business banking service', '']
-Image Integration SystIems
-	Developer of cost-effective document management services. The company focuses on development, enhancement, maintenance, implementation and support of its docusphere services for accounts payable automation.
-	['', 'information technology', ' ', 'automation service', ' ', 'financial service', '']
+LiveLoop
+	Developer of PowerPoint collaboration software. The company provides a platform that enables collaboration on PowerPoint presentations without requiring the PowerPoint software to be downloaded.
+	['', 'document collaboration', ' ', 'document sharing software', ' ', 'cloud-based software', ' powerpoint']
+Citizen Logistics
+	Developer of mobile-collaboration software. The company provides a platform enabling users to collaborate with others via SMS, IM, e-mail or Twitter. The platform contains map tools as well as tools for organizing teams by locations, interests and skills.
+	['', 'web service', ' ', 'mobile device', ' ', 'online community platform', '']
+DocVerse
+	Developer of real time sharing and simultaneous group-editing services of Microsoft PowerPoint, Excel and Word documents. The company offers DocVerse, a download plug-in that turns the Microsoft Word, PowerPoint and Excel applications into Web-enabled collaboration tools.
+	['', 'group editing service', ' ', 'document sharing tool', ' ', 'collaboration tool', '']
+Marratech
+	Developer of collaboration and communication software. The company offers e-meeting, video conferencing and collaboration software.
+	['', 'video conferencing', ' ', 'voice over Internet', ' ', 'collaboration tool', '']

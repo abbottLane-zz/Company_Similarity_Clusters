@@ -1,33 +1,42 @@
-Newton Propulsion Technology
-	Developer of hybrid propulsion technology based engine. The company\'s product is a hybrid of the gas turbine and of the volumetric internal combustion engine, which can be used in all types of heavy vehicles, sailing craft, aircraft and power stations.
-	['', 'hybrid propulsion technology', ' ', 'hybrid engine', ' ', 'industrial supply', ' ', 'volumetric engine', ' ', 'heavy vehicles engine', '']
-SNTech
-	Manufacturer of electric motors. The companies electric motors are used in ventilation, refrigeration, aftermarket applications, heating and cooling applications, such as furnaces, air handlers, heat pumps and air conditioners.
-	['', 'electric motor', ' ', 'cooling application', ' ', 'electric motor manufacturer', '']
-Lévêque Electricité
-	Provider of electric cables. The company develops and provides electric cable for supermarkets, hospitals, hotels, restaurants and manufacturing factories in France.
-	['', 'electric cable', ' ', 'electricity distributor', ' ', 'electric current', ' ', 'electric utility', '']
-Hybrid Electric Vehicle Technologies
-	Developer of electric motors. The company\'s technology provides hybrid, plug-in hybrid and electric powertrains and powertrain components.
-	['', 'electric motor', ' ', 'electric bicycle', ' ', 'electric vehicle design', ' ', 'hybrid vehicle', '']
-Xtend Networks
-	Provider of hybrid fiber-coaxial network system that helps expand the existing bandwidth by up to 3 GHz.
-	['', 'fiber-coaxial systems', ' ', 'network systems', ' ', 'band-width', '']
-NFi Studios
-	Provider of web technology that connects member & industry communities. The company\'s technology provides professional networking for associations, builds relationships, drives businesses and connects members.
-	['', 'web platform', ' ', 'member community', ' ', 'social technology', '']
-GOVECS
-	Manufacturer of electric vehicles for transportation. The company is dedicated to the development, production and marketing of electric vehicles including zero-emission scooter models.
-	['', 'electric vehicle', ' ', 'electric scooter', ' scooter ', 'zero-emission vehicle', '']
-Agile Systems
-	Manufacturer of energy-efficient electronic controls for electric motors. The company designs and develops advanced motion control technology including motor control and power conversion. The company caters to broad range of industries including semiconductor, life science, robotics, automation equipment, automotive, industrial machinery and alternative energy.
-	['', 'energy-efficient technology', ' ', 'motion control', ' ', 'power conversion', '']
-elmove
-	Developer of electric drive technology. The company develops technology for two and three wheel vehicles.
-	['', 'electric drive', ' ', 'electric movement', ' ', 'electric component', '']
-Pantec
-	Developer of mini motors.  The company develops software-controlled, piezo ceramic-based mini motors for the consumer electronics and automotive sectors.
-	['motor ', 'ceramic motor', ' ', 'software controlled motor', ' ', 'mini motor', ' piezo']
-New Eagle
-	Provider of mechatronic control systems. The company develops electronic control modules for a range of applications, including electric & hybrid vehicles, autonomous vehicles, intelligent machines, hydraulic systems and engine systems.
-	['', 'mechatronic control system', ' ', 'control system', ' ', 'electronic control module', '']
+Pathway Therapeutics (Anticancer Drug)
+	Anticancer Drug molecules and its backup compounds in San Francisco. The drug molecules and its backup compounds are used as an inhibitor to slow down the growth of cancer cells and solid tumors.
+	['', 'oncology', ' ', 'life sciences', ' ', 'treatment of tumors', ' ', 'cancer inhibitor', '']
+Cytion
+	Developer of drug screening technology. The company has developed drug screening technology for the functional analysis of ion channel proteins.
+	['', 'drug screening technology', ' ', 'ion channel protein', ' ', 'drug development', '']
+Capsant Neurotechnologies
+	Provider of a technology platform based on organotypic slice cultures. The company focuses on solving problems in the discovery of novel targets and drugs for central nervous system disorders such as stroke, trauma, epilepsy, Parkinson\'s and Alzheimer\'s.
+	['', 'drug evaluation', ' ', 'organotypic slice culture', ' ', 'nervous system disorder', '']
+Neugenesis
+	Developer of technology for the discovery, improvement and production of complex proteins especially heteromeric proteins. The company develops platforms that help in the discovery and production of complex proteins for biopharmaceutical industries.
+	['biotherapeutics ', 'veterinary vaccines', ' ', 'bio therapeutics', ' enzyme protein']
+Myelos Neurosciences
+	Developer of therapeutics for neuropathic pain, peripheral neuropathy and neurodegenerative central nervous system disorders. The company provides peptide therapy to treat nervous system disorders and related degenerative diseases to treat pain syndromes and peripheral neuropathies.
+	['', 'neuropathic pain', ' ', 'peripheral neuropathy', '']
+DermaGen
+	Developer of antimicrobial peptides directed against skin microbes. The company develops peptides which exert potent antimicrobial effects and are derived from endogenous human proteins, such as those of the complement system, as well as several other skin and blood-derived proteins.
+	['peptides ', 'antimicrobial peptides', ' ', 'peptide-based products', '']
+Aderis Pharmaceuticals
+	Developer of therapeutics focused on cardiovascular, renal and neurological diseases. The company develops novel small-molecule, receptor-specific therapeutics for the treatment of central nervous system, cardiovascular and renal diseases. The company focuses on drug candidates that act selectively to either block (antagonists) or increase (agonists) the activity of certain proteins, such as adenosine or dopamine, to produce the desired therapeutic effect while minimizing side effects. Small molecules generally offer the dosing flexibility required for patients to easily take the drug as prescribed (commonly referred to as patient compliance), have a broader array of dosage forms, lend themselves to easier formulation and have greater potential for absorption and utilization by the body.
+	['', 'Cardiovascular therapeutics', ' ', 'renal therapeutics', ' ', 'neurological disease', ' ', 'cardiovascular disease', ' ', 'renal disease', '']
+Ception Therapeutics
+	Developer of biopharmaceuticals engaged in the discovery, development, and commercialization of new drugs and therapies for difficult to treat illnesses. The company offers Reslizumab for eosinophilic inflammatory conditions. It also provides Anti-TNF, a class of small molecule anti-TNF receptor agents with the potential to be orally administered. The companies portfolio includes treatments for central nervous system disorders, pain and cancer  and include eight proprietary products in the United States, along with more than 100 products internationally. Cephalon\'s research pipeline is focused on developing new compounds and new indications for existing products, while their business collaborations capitalize on new products and smart drug delivery technologies.
+	['', 'Pharmaceuticals and Biotechnology', ' ', 'commercialization of new drugs', ' ', 'drug delivery technologies', '']
+Solucel
+	Developer of plant-derived pharmaceuticals. The company offers small molecules, such as secondary metabolites from plants for pharmaceutical applications.
+	['', 'plant-derived pharmaceutical', ' ', 'plant biotechnology', ' microbial fermentation']
+Sention
+	Developer of drugs to treat memory impairment and other central nervous system disorders. The company develops lead compounds using its specialized genomics and behavioral models to treat other major central nervous system disorders.
+	['memory ', 'nervous disorder', ' ', 'specialized genomics', ' ', 'behavioral model', ' nerve']
+Combinent BioMedical Systems
+	Provider of hydrophobic and hydrophilic molecules, proteins and other molecules. The company focuses on trans-vaginal delivery of drugs targeting women\'s reproductive endocrinology disorders as well as diabetes, obesity and infectious diseases.
+	['', 'vaginal ring', ' ', 'transvaginal drug delivery', ' ', 'reproductive endocrinology disorders', ' ', 'drug delivery system', ' ', 'diabetes drug', '']
+ForHealth Technologies
+	Provider of automation technology for intravenous drug preparation.
+	['', 'automation technology', ' ', 'intravenous drug', ' ', 'robotic system', '']
+Targeted Molecules
+	Developer of drug therapies for cancer and diseases of the central nervous system. The company\'s technology enables both the identification and optimization\nof molecules (peptides and antibody fragments) that precisely target disease tissue.
+	['', 'drug therapies', ' ', 'targeted therapeutic', ' ', 'identification and optimization of molecules', '']
+Ascendis Pharma
+	Developer of pro-drug technology for endocrinology, cardiovascular and central nervous system disorders. The company develops a prodrug technology, TransCon, which conjugates the drug compound to a carrier molecule in a reversible fashion. It also provides transient conjugation technology, long-acting prodrugs of proteins, peptides and small molecules.
+	['', 'drug-technology', ' ', 'conjugation technology', ' ', 'drug compound', ' ', 'carrier molecule', ' prodrug']

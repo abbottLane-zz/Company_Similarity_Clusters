@@ -1,30 +1,36 @@
-Biocistronix
-	Provider of drug discovery and medical research and development services. The company also engages in development of latest diagnostic techniques for various ailments.
-	['', 'medicine discovery', ' ', 'medical research', ' ', 'diagnostic techniques', '']
-Sagres Discovery
-	Provider of oncogene discovery, individualized cancer profiling, drug target validation and therapeutic development.
-	['', 'oncogene discovery', ' ', 'drug target validation', ' ', 'drug therapeutic', ' ', 'cancer profiling', '']
-Cellumen
-	Provider of cell-based drug discovery, early safety assessment, and discovery toxicology products and solutions for the biopharmaceutical researchers to create various efficacious, safe, and patient-targeted drugs.
-	['', 'patent targeted drug', ' ', 'drug discovery', ' ', 'discovery toxicology product', ' ', 'early safety assessment', '']
-Shaser Bioscience
-	Developer of aesthetic dermatological technology for home use devices. The company develops technology for the treatment of various skin ailments, acne and blemishes and spider veins.
-	['', 'dermatological technology', ' ', 'skin treatment', ' ', 'skin care', '']
-Nabriva Therapeutics
-	Provider of pharmaceutical research and development services. The company focuses on antibiotic classes, such as pleuromutilins designed for oral and topical application and injectable broad-spectrum anti-MRSA cephalosporins.
-	['', 'pharmaceutical research', ' ', 'antibiotic classe', ' ', 'pleuromutilin antibiotic', '']
-Lipomics Technologies
-	Provider of metabolite profiling, biomarker discovery and metabolism consultation services. The company develops diagnostic tests for important measures of metabolic function. It provides metabolic assessments for drug research, clinical diagnostics and personalized medicine. It uses its technologies to discover new diagnostic biomarkers, improve drug discovery, develop companion diagnostics.
-	['', 'metabolite profiling', ' ', 'metabolism consultation services', ' ', 'Healthcare industry', '']
-LANergy
-	Provider of networking technologies. The company engages in development of various communication technologies including broadband and wireless networking systems.
-	['', 'networking technology', ' ', 'broadband technology', ' ', 'wireless networking', '']
-7d Software
-	Provider of software services. The company engages in the development and marketing of a personalization software which provides internet-based services for its clients.
-	['', 'personalization software', ' internet-based ', 'software services', '']
-Hive Media
-	Provider of media development services. The company offers media development services, creation of graphic designs, illustrations, concept art and technology consulting.
-	['', 'media development service', ' ', 'graphic design', ' ', 'concept art', '']
-Rissington Breedline
-	Provider of sheep breeding, rearing and genetics services. The company engages in the research and development of sheep and cattle genetics and breeds for farming and food industries.
-	['', 'sheep husbandry', ' ', 'animal farming', ' ', 'sheep breeding', ' ', 'animal husbandry', '']
+Cardonet
+	Provider of master data management and product information management solutions for manufacturers and distributors in various industries. The company offers Synergy, a suite of enterprise software for the creation, management, synchronization and distribution of electronic product information inside companies and between trading partners.
+	['', 'data management', ' ', 'enterprise software', '']
+Scope e-Knowledge Center
+	Provider of remote knowledge services. The company offers master data management services, including domain expertise, customer data integration, assisted automation software and workflow process.
+	['', 'remote knowledge', ' ', 'master data management', ' ', 'automation software', '']
+Exeros
+	Operator of a data relationship discovery and management company. The company offers solutions for data integration projects, including data migration, sensitive data governance, master data management, and ETL migration.
+	['', 'data relationship discovery', ' ', 'data integration', ' ', 'data migration', '']
+Efficient Market Services
+	Provider of store-specific information services to supermarket retailers, consumer packaged goods manufacturers, distributors and brokers. The company\'s software-based services transform basic product movement data into demand data with the integration of store-level consumer activity.
+	['', 'store-specific solutions', ' ', 'software-based solutions', ' ', 'demand data', ' ', 'integration of store-level consumer activity', ' supermarket']
+Knowlix
+	Developer of knowledge tools software. The company develops knowledge tools for integration into the existing workflow of internal help desks and customer support centers.
+	['knowledge tool ', 'customer support', '']
+Human Inference
+	Provider of data management services. The company provides data management services for customer databases. It offers human inference to address data life cycle and also provides customer data services.
+	['', 'data management', ' ', 'human inference', ' ', 'customer database', '']
+Striva
+	Provider of data integration services. The company offers detail, infrastructure software, which combines native database access with agent-based technology platforms.
+	['', 'data integration service', ' ', 'infrastructure software', ' ', 'native database access', ' ', 'technology platform', '']
+Ready Business System
+	Provider of computer data management services. The company provides information system management services and design & integration of web and e-commerce software for businesses.
+	['', 'data management service', ' ', 'information system management', ' ', 'web integration', ' ', 'e-commerce software', '']
+Initiate Systems
+	Provider of master data management software services for organizations. The company offers customer data integration and enterprise master person index software to financial service providers, information exchange, hospitality, manufacturing and retail industries.
+	['', 'data management', ' ', 'financial service', ' ', 'healthcare provider', ' ', 'retail industry', ' ', 'delivery network', '']
+Flashfoto
+	Developer of image workflow automation and other multimedia software. The company specializes in services including image workflow automation, entertainment, advertising, marketing and transmedia experiences.
+	['', 'image workflow automation', ' ', 'multimedia software', ' ', 'media application', '']
+Evident Software
+	Operator of a data relationship discovery and management company. The company offers services for data integration projects, including data migration, sensitive data governance, master data management and ETL migration.
+	['', 'data migration', ' ', 'data relationship discovery', ' ', 'data lineage', '']
+Clear Technology
+	Provider of task and process automation services.
+	['', 'process automation', ' ', 'task automation', '']

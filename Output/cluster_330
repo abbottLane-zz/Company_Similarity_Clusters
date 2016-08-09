@@ -1,51 +1,39 @@
-Currensee
-	Operator of a forex trading social network for retail forex traders in the United States and internationally. The company enables like-minded traders to connect and collaborate with each other and share ideas, insights and data based on the actual trading activity of the community. It allows members to access real-time trade and position information and leverage a set of social analytics.
-	['', 'forex trading', ' ', 'social network', ' ', 'trading community', ' ', 'real time trade', '']
-Gecko Health Innovations
-	Provider of an asthma monitoring device. The company\'s device provides reminders and increases disease awareness among its users to better manage their asthma.
-	['', 'monitoring program', ' ', 'monitoring platform', ' ', 'asthma tool', ' ', 'monitoring device', '']
-Capigami
-	Provider of shopping list applications for phones. The company provides an application called Out of Milk which helps its users to manage their shopping, kitchen and other tasks.
-	['', 'other software', ' ', 'mobile software', ' ', 'shopping list', '']
-Gumhouse
-	Provider of social stream video shopping network. The company network uses Facebook to personalize users shopping experience.
-	['', 'video shopping', ' ', 'online shopping', ' ', 'shopping network', '']
-SupportLocal
-	Operator of a social network for sharing information and opinions. The company\'s platform enables people to give and get local business recommendations from the people they know and trust.
-	['', 'share information', ' ', 'share opinions', ' ', 'business recommendations', '']
-Shopa
-	Developer of a social advertising platform. The company provides a social marketplace for its users to provide personalized shopping feeds towards targeted social offers.
-	['', 'social advertising platform', ' ', 'social marketplace', ' ', 'online advertising platform', '']
-StartBull
-	Provider of a financial social network. The company\'s network enables individuals to invest in capital markets by providing an exchange simulator, educational articles and competitions.
-	['', 'exchange simulator', ' ', 'capital market', ' ', 'stock trading', '']
-Get Satisfaction
-	Provider of online discussion, part FAQ and part social network for products and services. The company\'s products and services include satisfaction beta release, iphone, pownce on the web, twitter on the web, and classic messenger.
-	['', 'online discussion', ' ', 'voice messenger', ' ', 'customer support forum', ' ', 'discussion forum', '']
-Bookingshark
-	Operator of a social network.  The company provides a social platform for the entertainment industry, such as garage bands, clubs and fans.
-	['', 'Business products', ' ', 'business services', '']
-Hallway Social Learning Network
-	Provider of social learning network. The company\'s network enables student-to-student collaboration.
-	['', 'social learning network', ' ', 'student network', ' ', 'student collaboration', ' ', 'note sharing', ' ', 'assignment collaboration', ' ', 'ranking content', ' ', 'storing content', '']
-Gruvie.com
-	Provider of social network platform to aggregate their social web content into one location.
-	['', 'social network', ' ', 'social web', ' ', 'network platform', ' ', 'web content', '']
-Football4You
-	Operator of a social network platform for football fans. The company provides an opportunity to gather news from leading football internet portals based on football sympathies and preferences of a particular user.
-	['blog ', 'football fans', ' playground']
-Causes
-	Provider of social network platform for spreading awareness. The company engages in social, political and cultural issues and hosts causes.com to advocate and raise funding for issues one chooses to participate.
-	['', 'online fundraising', ' ', 'awareness platform', ' ', 'massage spreading', '']
-Impulcity
-	Developer of a mobile application that helps users to find local concerts and events in the city. The company\'s application alerts users to nearby events, based on their preferences, and provides a social network for sending out invites and sharing real-time content and photos.
-	['', 'personalized guide', ' ', 'location based event', ' ', 'mobile device', ' finder']
-DietTV.com
-	Provider of a social network built around healthy living and dieting. The site helps you find an exercise and diet plan that works for you, provides tracking of meals, water and exercise and connects you with exercise and nutrition professionals and other dieters.
-	['', 'social network', ' ', 'healthy living', ' dieting exercise ', 'diet plan', ' nutrition']
-FAD IO
-	Provider of social network platform. The company provides social network for products and shopping that helps users find better products through community curation, users get ratings, ideas and insights for product purchases from real people.
-	['', 'social network platform', ' community ', 'community curation', ' ratings shopping']
-Memolane
-	Provider of digital platform collecting and connecting thoughts, pictures, messages and music. The company helps people archive and explore social network activity across different platforms.
-	['', 'social data aggregation', ' ', 'social data collection', ' ', 'social media content', '']
+RMI Corporation
+	Operator of a fabless semiconductor company. The company provides power-optimized System-on-a-Chip (SoCs) solutions to high-performance processors for the digital consumer, wireless, networking, security, thin clients, and connected multi-media devices market. It offers XLR Processor Family, a processor solution that enables applications, including integrated security, web services, virtualized storage, and load balancing and server offload, as well as content and application aware, and multi-service routing and switching for various infrastructure equipment and enterprise systems; and XLS Processor Family, a multi-core and multi-threaded XLS Processor family that addresses applications that demand smaller form factor and lower power consumption.
+	['', 'fabless semiconductor', ' ', 'semiconductor chips', ' ', 'semiconductor design', '']
+Qumu (acquired 2011)
+	Provider of appliances, hosted solutions, and enterprise video communications software.
+	['enterprise video webcast ', 'hosted solution', '']
+LogLogic
+	Developer of log data management and security event management solutions for the business operations of enterprises and mid-market companies in the United States and internationally. The company’s LX-ST and MX appliances enable customers to log data from firewalls, routers, servers, applications, operating systems, and devices to be automatically collected, stored, reported, and alerted for compliance, risk mitigation, security, performance management, virtualization, and user monitoring. Its solutions also include LogLogic MX Virtual that provides enterprise-grade IT data collection, search, and storage solutions, as well as customizable alerts and reports covering identity and access management, user activity, network changes, security, business continuity, and IT performance; Enterprise Virtual Appliance, a software-based appliance that delivers on-demand and scheduled network reports for cloud deployments and virtualized data centers; and LogLogic Compliance Manager, which provides users with an executive view into an enterprise\'s compliance posture. It also provides customer support, consultation, implementation, training, and integration services. Its open log management and database activity monitoring solutions provide tools for customers to monitor activities that occur in networks, applications, databases, and servers. It serves telecommunications, technology, pharmaceutical, retail, petroleum, commercial banks, aerospace and defense, insurance, and healthcare companies.
+	['', 'log data management', ' ', 'security event management', ' ', 'risk mitigation', ' ', 'performance management', ' ', 'data collection', ' ', 'storage solution', ' ', 'activity monitoring', '']
+Tricord Systems
+	Developer of server appliances. The company develops and markets a wide range of server appliances for content-intensive applications.
+	['', 'server appliances', ' ', 'storage appliance', ' content-intensive ', 'data storage', '']
+Redline Networks
+	Manufacturer of network appliances. The company\'s family of E|X application front end network appliances, deployed at corporate data centers, and T|X Web I/O processors, used by Web sites, are designed to control and customize any HTTP-based environment while reducing infrastructure cost and complexity.
+	['', 'enterprise data', ' ', 'network ready', ' ', 'internet infrastructure', '']
+Align Technology
+	Manufacturer of invisalign system for treating malocclusion or the misalignment of teeth. The company’s products include Invisalign Full for the treatment of a range of malocclusions. It corrects malocclusion using a series of clear, nearly invisible, removable appliances that gently move teeth to a desired final position.
+	['', 'invisalign system', ' malocclusion ', 'misalignment of teeth', '']
+Senforce Technologies
+	Provider of endpoint security solutions to the endpoint security enforcement market.
+	['', 'personal firewall', ' ', 'endpoint security', ' ', 'security solution', '']
+Demarc Security
+	Provider of threat-security software. The company provides a platform enabling enterprises to centrally monitor & manage their networks and receive real-time security threat updates.
+	['firewall ', 'internet security', ' ', 'threat protection', '']
+Fortinet
+	Provider of network security appliances and unified threat management (UTM) network security solutions. The company\'s primary UTM solution consists of FortiGate appliance products that provide a range of security and networking functions, including firewall, VPN, antivirus, intrusion prevention, application control, Web filtering, antispam, wireless controller, and WAN acceleration. It also offers a family of FortiManager appliances that enable end-customers to manage the system configuration and security functions of multiple FortiGate appliances from a centralized console; and FortiAnalyzer appliances, which enable collection, analysis, and archiving of content and log data generated by its products. In addition, it provides FortiMail, a family of messaging security appliances; FortiDB, a family of appliances that provide centrally managed database-specific security; FortiClient, a software product that provides endpoint security for desktops, laptops, and mobile devices; and FortiWeb, a family of appliances that provide security for Web-based applications.
+	['', 'network security appliance', ' ', 'unified threat management', ' ', 'wireless access point', '']
+Mi5
+	Operator of a Web security gateway. The company provides Webgate security appliances that protect organizations against Web-based threats, including malicious URLs, spyware, crimeware, botnets, and viruses.
+	['', 'Web security gateway', ' ', 'Webgate security appliance', ' ', 'security application', '']
+Envara
+	Developer of networking chipsets technologies. The company offers chipsets that provide security support and are used for network interface cards and access points. It serves wireless access providers and ODM\'s, personal computer manufacturers, appliances manufacturers, consumer electronics manufacturers, and ODM/OEM providers.
+	['chipsets ', 'network interface card', ' ', 'broadband wireless communication', '']
+IntruVert Networks
+	Provider of network-based intrusion prevention software. The company\'s intrusion detection system sensor appliances include IntruShield 4000 and the IntruShield 2600, which provide the performance and functionality required to protect networks. It\'s management system, IntruShield Security Management, manages IntruShield sensor appliance deployments for enterprise networks.
+	['', 'intrusion prevention', ' ', 'security management', ' ', 'intrusion detection', ' ', 'network protection', ' ', 'sensor appliance deployment', '']
+Red Elite de Electrodomesticos
+	Operator of a chain of retail and franchise outlets selling electrical household appliances. The company offers a joint distribution of household appliances and digital technology coverage nationwide. The company offers appliances such as portable audio, air conditioner, home theater, television, kitchen appliances and various digital equipments.
+	['', 'household appliance', ' ', 'digital technology', ' ', 'portable audio', ' ', 'kitchen appliances', '']

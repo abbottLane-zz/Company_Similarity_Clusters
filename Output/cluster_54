@@ -1,30 +1,39 @@
-Massivkonzept
-	Online retailer of custom furniture, including shelving, cabinets, tables and seating systems. The company provides home furnishings that can be customized to users’ specific measurements, colors and wood qualities. The company also operates a flagship store in Hamburg, Germany.
-	['', 'home furnishings', ' ', 'custom furniture', ' ', 'online retailer', ' ecommerce ', 'wood products', '']
-Gérard de Gilly
-	Provider of office supplies. The company provides office stationery, supplies, equipment and furniture.
-	['', 'office supply', ' ', 'office stationery', ' ', 'equipment and furniture', '']
-Actional
-	Provider of service-oriented architecture management and security solutions. The company\'s Control Brokers give market-facing e-business environments direct control of business services contained in back-office, front-office and marketplace applications.
-	['', 'architecture management', ' ', 'service management', ' ', 'security solution', ' ', 'business control', ' ', 'eBusiness environment', '']
-Eliance
-	Provider of back office e-commerce services to the web businesses. The company provides esurcing (TM) services to web businesses to outsource their e-commerce back-office activities.
-	['', 'financial software', ' ', 'e-commerce servces', '']
-INTERTREND
-	Provider of furniture-manufacturing services. The company manufactures office furniture and kitchen units.
-	['', 'office furniture', ' ', 'kitchen unit', ' ', 'furniture seller', '']
-Combinet
-	Developer of professional-office products which provide small offices and residential users with easy access to remotely located information using telephone lines based on ISDN technology. ISDN is anadvanced telecommunication service capable of moving information faster than standard telephone service.
-	['', 'enterprise software', ' telecommuter ', 'speedy remote access', '']
-Welcome office
-	Online retailer of office products. The company sells office supplies, school supplies and office furniture through its website.
-	['', 'office supplies', ' mail-order ', 'office products', '']
-Dixon Ticonderoga
-	Manufacturer and seller of writing instruments, art materials, and office products. The company offers writing and drawing pencils, pens, art materials, felt tip markers, industrial markers, lumber crayons, and correction materials, as well as wax crayons, chalks, dry and liquid tempera, and water colors under various brands, including Ticonderoga, Prang, and Dixon. It distributes its products through wholesale, commercial, and retail stationers, as well as through school supply houses, industrial supply houses, blueprint and reproduction supply firms, and art material distributors and retailers.
-	['']
-CBS France
-	Supplier of furniture and office equipment. The company offers various products for local authorities which include signage and road equipments, waste collection products, games, outdoor and school furniture and other supplies for communities.
-	['', 'office supplies', ' ', 'office furniture', ' ', 'outdoor furniture', '']
-Ubiquisys
-	Developer of communications devices for mobile operators and consumers. The company provides a small plug-and-play device that plugs into home or office broadband connections and provides 3G coverage in the home and office. It also offers convergence software to the wireless-wireline convergence technology market.
-	['', 'communication device', ' ', 'broadband connection', ' ', 'convergence software', ' femtocell']
+Planfortytwo
+	Provider of sports gaming applications. The company builds sports-related social applications for Facebook and mobile devices designed to gamify the sports fan experience.
+	['', 'gaming software', '']
+Sportamore
+	Operator of an e-Commerce company involved in selling sports related equipment. The company provides shoes, clothes, bags and apparel from well known brands such as Nike, Adidas, Puma and Converse.
+	['', 'sports equipment', ' Nike Adidas apparel']
+American Sports Products Group
+	Provider of sports and recreation infrastructure facilities. The company designs, manufactures, and installs various kinds of sports surfaces. The company\'s surfaces include synthetic and natural grass playing fields for sports, such as football and soccer, as well as running tracks and indoor gymnasium floors.
+	['', 'sports infrastructure', ' ', 'infrastructure', '']
+TVGenesis
+	Provider of the digital broadcast platform. The company provides digital broadcast platform, engaging audiences across premium lifestyle channels. The company\'s network covers fashion and entertainment, healthy living, food and drink, sports, gaming, and custom programming channels.
+	['', 'digital broadcast', ' ', 'lifestyle channel', ' ', 'media platform', ' ', 'fashion and entertainment', '']
+Vaillant Stadium Limits
+	Developer of equipment for tracing boundaries. The company has designed and developed a system of tapes, reels and clips to create and maintain boundaries of a sports field.
+	['tapes reels clips ', 'tracing boundaries', '']
+KB Labs
+	Developer of facebook applications. The company develops Facebook applications and widgets.
+	['', 'facebook application', ' ', 'application development', '']
+RecBob
+	Provider of a facebook application that manages adult sports league teams. The company offers a platform that makes recreational sports easy by organizing play.
+	['', 'facebook application', ' ', 'adult sport league', ' ', 'sports team', ' ', 'organizing play', '']
+Swink
+	Provider of sports media network. The company\'s website provides video service that cuts sports game films into individual plays, indexes each play and stores them in its database for sports teams and individuals to share their sports highlights with their teams, friends and fans.
+	['', 'sport media', ' ', 'video service', ' ', 'sport highlight', '']
+NuCom Online International Company
+	Provider of a sports portal. The company operates a sports portal and broadcasts live sports matches and sports programmes.
+	['', 'sports programs', ' ', 'sports portal', ' ', 'sports forum', ' ', 'sports broadcast', '']
+Enthuse
+	Provider of mobile focused platform for sports franchises. The company offers an online platform that gives fans the ability to connect with their sports teams via their mobile devices.
+	['', 'mobile device', ' ', 'sport platform', ' ', 'online connection', '']
+numberFire
+	Provider of a sports analytics platform to predict and analyze sports performance. The company develops technology that helps players to use mathematical modeling tools and algorithmic analysis to understand, analyze and predict their team performance.
+	['', 'quantitative analysis', ' ', 'statistical reasoning', ' ', 'sports statistics', ' ', 'sports performance', '']
+FantasyBook
+	Developer of sports applications for social networks. The company offers live drafts, free live scoring, and mobile access for football games; and salary cap baseball game to the casual fan.
+	['', 'sport application', ' ', 'live scoring', ' ', 'football mobile access', ' ', 'internet application', '']
+51pegasi
+	Provider of a software for sports event production management. The company provides sports event production management software to event organizing committees, integrators, operators, sponsors, International Sports Federations and related media companies.
+	['', 'legacy integration', ' ', 'sports management', ' ', 'production management software', ' ', 'software application', '']

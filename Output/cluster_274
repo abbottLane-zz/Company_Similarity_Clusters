@@ -1,15 +1,9 @@
-TurnTide
-	Developer of anti-spam technologies. The company manufactures anti-spam routers that provide perimeter-based e-mail security. Its products entail software as well as hardware.
-	['', 'anti-spam router', ' ', 'anti-spam', ' ', 'spam control', ' spamming']
-BioRelix
-	Developer of anti-infective drug treatments. The company is focused on building a portfolio of anti-infective products based on novel patented RNA targets, termed riboswitches. The company is developing its products to counter increasingly antibiotic-resistant bacterial pathogens.
-	['', 'anti-biotic drug', ' ', 'infectious disease', ' ', 'therapeutic agent', ' ', 'bacterial infection', '']
-NT Pharma
-	Manufacturer of pharmaceuticals and vaccines. The company provides promotion and sales services primarily for drugs manufactured by global pharmaceutical manufacturers, focusing on anti-infective and CNS products.
-	['vaccines ', 'drug developer', ' ', 'anti-infective', ' ', 'CNS products', '']
-Cumbre Pharmaceuticals
-	Developer of anti-infective products for the treatment of serious and life-threatening infections, particularly those caused by antibiotic resistant pathogens. The company discovers, develops and markets anti-infective products and antibacterial drug and multifunctional anti-infective drugs that target multiple inhibitory pathways.
-	['', 'healthcare products', ' ', 'anti-infective products', ' ', 'antibacterial drug', '']
-Bellerophon Therapeutics
-	Provider of clinical biotherapeutics services. The company is focused on developing products for critical care combining novel drugs and devices in the treatment of cardiopulmonary and cardiac diseases.
-	['', 'critical care product', ' ', 'clinical biotherapeutic', ' ', 'cardiopulmonary disease', ' ', 'investigational device', ' ', 'drug-device therapy', ' ', 'pulmonary arterial hypertension', '']
+Tobira Therapeutics (acquired 2015)
+	Developer of antiviral compounds for treating HIV infection. The company develops TBR-652 and TBR-220 antagonists for the treatment of HIV/AIDS, hepatitis and other associated infectious conditions.
+	['', 'antiviral compound', ' ', 'HIV treatment', ' ', 'hepatitis treatment', '']
+PreferredTime
+	Operator of a sales representative coordination company. The company coordinates interactions between medical offices and pharmaceutical representatives by serving medical offices and pharmaceutical firms.
+	['', 'coordination company', ' ', 'commercial service', '']
+HealthMedia
+	Developer of scalable behavior change interventions for health and wellness, disease management, behavioral health and medication compliance. The company develops specialty programs for pharmaceutical firms and medical device manufacturers in the areas of drug and alcohol addiction, mental illness, CAD/CHF, hypertension, HIV/AIDS, and a host of applications for various pharmaceutical issues.
+	['', 'disease management', ' ', 'science model', ' ', 'data integration', ' ', 'data analysis', '']

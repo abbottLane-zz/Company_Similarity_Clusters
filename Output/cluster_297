@@ -1,39 +1,27 @@
-NowMedia
-	Provider of an online platform for live video streaming of events. The company engages in developing an integrated broadcast media network in order to build location-centric mobile communities with live interactive content.
-	['', 'online platform', ' ', 'live video streaming', ' ', 'broadcast media network', ' ', '3G phones', ' ', 'mobile communities', ' ', 'live interactive content', '']
-Ahortech
-	Provider of automatic traffic control services. The company also provides a wireless live video streaming transmission system for public and business sectors.
-	['', 'automatic traffic control', ' ', 'video streaming', ' ', 'transmission system', '']
-Talk Talk TV Store
-	Provider of video streaming services. The company offers action, animation, comedy, crime, documentary, drama, family, fantasy, horror, indie, music, romance, sci-fi, seasonal, sport, thriller, war, western movies, shows and quizzes.
-	['', 'digital video', ' ', 'feature film', ' ', 'television series', '']
-Floobs
-	Developer of a live video streaming platform. The company supports live video streaming from web cameras and digital video cameras.
-	['', 'video streaming', ' ', 'live events', ' ', 'online sharing', '']
-Betterfly
-	Provider of a live video learning marketplace. The company\'s platform connects individuals with teachers, instructors and experts to help users learn a new skill or improve on something they already know.
-	['', 'self-improvement', ' ', 'online lessons', ' ', 'video chat', ' lessons ', 'online tutoring', '']
-Veebeam
-	Developer of wireless technologies and products. The company provides software products for video streaming and designs hardware systems for consumer electronic device for the wireless streaming of HD audio or video content from laptop to television.
-	['', 'wireless applications', ' ', 'video streaming software', ' ', 'wireless protocol software', '']
-Redmere Technology
-	Developer of cable semiconductor software. The company provides a power signal conditioning chip technology, which is embedded within the cable to create smart HDMI cables for consumer multimedia, gaming, home theater, mobile phone, digital video cameras or digital video still cameras and PC markets. It also provides VerifEye, cable manufacturing test platform that enables the rapid testing of cable technology based on MagnifEye chip technology.
-	['', 'cable semiconductor', ' ', 'chip technology', ' ', 'conditional power signal', '']
-Hantro
-	Provider of mobile video technology. The company provides hardware and software based MPEG4, H.263, H.264 and VC-1 video software specifically tailored for handheld devices. The company\'s product portfolio also includes video applications for video capturing, playback, messaging, streaming and telephony.
-	['', 'mobile video technology', ' MPEG4 ', 'video software', '']
-Inlet Technologies
-	Provider of encoding solutions. The company\'s products include Armada, a transcoding and encoding workflow system that eliminates the stove-pipes and manual steps; Spinnaker, a broadcast quality streaming solution; Fathom, an encoding platform for VC-1, Windows media, AVC, and flash files; and Semaphore, an automated quality control program for digital encoding. It provides its solutions for professional streaming, adaptive streaming, video-on-demand, IPTV, video on the Web, mobile video, reviewing dailies and rushes, broadband television, corporate communications and training, distance learning, and security and surveillance.
-	['', 'encoding solution', ' ', 'encoding workflow system', ' ', 'encoding platform', '']
-RipCode
-	Provider of realtime transcoding software for video clips and streaming. The company supports live mobile video or video on-demand transcoding for mobile and user generated content applications. It enables video to be dynamically transcoded and served to a customer on any screen size as they request it, giving viewers an expansion of content choices while reducing an operator’s server hardware, storage and energy use.
-	['transcode IPTV ', 'video on-demand', '']
-W&W Communications
-	Developer of video compression software and hardware solutions for video-enabled consumer, professional, enterprise, and infrastructure platforms. The company’s products are used for video conferencing and telepresence, live video broadcast, video surveillance, and mobile telephony infrastructure video transcoding.
-	['', 'video compression software', ' ', 'video conferencing', ' ', 'video telepresence', ' ', 'live video broadcast', ' ', 'mobile telephony infrastructure', '']
-A2 Media
-	Provider of online video streaming services. The company\'s video aggregating service iStream provides an online content streaming platform where users can discover content across multiple genres like news, television shows and movies.
-	['', 'video streaming', ' ', 'online video', ' ', 'video aggregating service', ' ', 'content streaming', '']
-StoreVision
-	Developer of POS monitoring systems. The company designs and develops software which combines live POS data with live CCTV video allowing auditors to create evidence based reports of process errors and fraudulent activity.
-	['', 'evidence based reports', ' ', 'monitoring systems', ' ', 'error processing', '']
+Aspective
+	Provider of e-commerce and WAP-based mobile applications and services for customer relationship management, business intelligence, data management and field service management. The company also provides managed and support services, which include application support, support desk, infrastructure, monitoring and outsourcing services.
+	['', 'field service management', ' ', 'mobile application service', ' ', 'application support', ' ', 'outsourcing service', '']
+Fractal:Edge
+	Developer of visualization software for navigating and analyzing large and complex dynamic data. The company\'s product suite includes Fractal Map, Fractal:Server, Fractal:Intelligence and Fractal:SDK.
+	['', 'visualization software', ' ', 'navigating  data', ' ', 'dynamic data', '']
+Certainty Solutions
+	Provider of comprehensive infrastructure management services. The company specialized in providing Integrated Managed Services for companies with sophisticated Internet businesses. Certainty\'s managed services include 24/7 monitoring and network operations center escalation, hardware support, systems architecture support, managed network services, database management and technical account management.
+	['', 'Infrastructure Management Services', '']
+Guardium
+	Developer of database security software. The company develops software for preventing information leaks from the data center and ensuring the integrity of enterprise data.
+	['', 'database security', ' ', 'enterprise data integration', ' ', 'information security', '']
+Servicesoft
+	Developer of a customer support software. The company offers an online software that enables its customers to obtain requested information facilitating e-commerce services, processing transactions and resolving problems within customer support.
+	['', 'internet customer service', ' ', 'customer service solution', ' ', 'customer service', '']
+Nauticus Networks
+	Developer of internet infrastructure products. The company offers customer support programs for enterprise networks and IT outsources deploying web-enabled applications requiring security.
+	['', 'internet infrastructure', ' ', 'customer support system', ' ', 'web enabled application', ' ', 'network management', ' ', 'enterprise software', '']
+Corio
+	Provider of enterprise applications from software vendors such as Oracle, Siebel, and SAP. The company\'s product Applications on Demand 2005, offers a suite of applications management, infrastructure, and professional services. The application management services include providing computers, data center facilities, and networks to support software applications. It also includes customer support; application, security, and infrastructure management; data center; and network management solutions.
+	['', 'enterprise application', ' ', 'application management', ' ', 'resource management', ' ', 'infrastructure management', '']
+Omnimark Technlogies
+	Developer and distributor of load and application management.
+	['', 'load management', ' ', 'application management', '']
+Appilog
+	Provider of auto-discovery and application mapping software. The company\'s products mapped the relationships among applications and their underlying infrastructure.
+	['', 'auto discovery', ' ', 'application mapping', ' ', 'mapping software', '']

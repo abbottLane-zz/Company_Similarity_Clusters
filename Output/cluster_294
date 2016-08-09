@@ -1,42 +1,9 @@
-TestSource
-	Provider of behavioral-based, pre-employment assessments for the healthcare industry. The company offers healthcare selection inventory services, a behavioral-based pre-employment assessment service designed to identify top performers for job families, such as nursing, patient care, entry-level service, administrative/clerical and technical/professionals.
-	['', 'pre employment assessment', ' ', 'inventory service', ' ', 'clerical service', ' ', 'technical service', '']
-Network
-	Owner and operator of a social networking site for professionals. The company allows professionals to stay connected.
-	['', 'social networking', ' ', 'professional network', ' ', 'social media network', '']
-NeoDiagnostix
-	Operator of a cancer diagnostics company. The company uses molecular DNA technologies with a substantial portfolio of proprietary biomarkers. The company provides clinicians with a patient\'s molecular profile that provides crucial insights into cancer leading to improved patient care.
-	['', 'cancer diagnostics', ' DNA ', 'molecular profile', '']
-Ensure Medical
-	Developer of devices for post catheterization closure of the femoral artery. The company offers femoral artery closure device, which uses a synthetic bioabsorbable polymer to stop bleeding and close the site of the arterial puncture. It also offers cardiac and vascular devices for health care professionals to treat cardiovascular diseases.
-	['', 'arterial puncture', ' ', 'femoral artery', ' ', 'health care professional', '']
-Breastfeeding.com
-	Provider of support and information on breastfeeding for first-time moms. The company operates an online community of mothers and birth related medical professionals for support and advice. It also provides information and support on various child health and growth issues ranging from child care and safety to potty training and teething.
-	['', 'online community', ' ', 'medical professional', ' ', 'child care', ' ', 'child health', '']
-Luminous Medical
-	Developer of an automated glucose measurement system for tight glycemic control in the intensive care units, operating rooms and intermediate care units. The company enables automatic sampling of blood, measures glucose and other analytes spectroscopically and returns the unchanged blood to the patient through its measurement system.
-	['', 'glucose measurement system', ' ', 'glycemic control', ' ', 'automatic blood sampling', ' ', 'healthcare service', '']
-Oceana Therapeutics
-	Manufacturer of pharmaceuticals for pediatric endocrinology, urology, oncology, gastroenterology, endocrinology, cardiology and acute care. The company’s Solesta is used for the treatment of fecal (bowel) incontinence.
-	['', 'pediatric endocrinology', ' ', 'fecal incontinence', '']
-Camelot Care
-	Provider of foster care and community based services. The company is a six state provider of foster care and community based services in Illinois, Indiana, Tennessee, Nebraska, Ohio and Florida.
-	['']
-Viadeo
-	Operator of an online networking site for professionals. The company helps its users to find clients, suppliers, business partners, jobs and employees online.
-	['', 'networking site', ' ', 'professional network', ' ', 'job search', '']
-HistoRX
-	Developer of tissue-based theranostic solutions for individualized patient care. The company provides customized biomarker assays and reagents, instrumentation and software, and contract services for quantitative biomarker analysis. It also engages in the development of companion and standard-of-care diagnostic assays. In addition, it offers drug discovery and development, disease detection and diagnosis, and clinical pathology and patient care services.
-	['', 'patient care service', ' ', 'disease detection', ' ', 'clinical pathology', '']
-MySelfHelp
-	Provider of online and interactive mental health self-help programs and tools. The company’s programs enable users to manage depression, stress, insomnia, eating disorders, grief, guilt, low self-esteem, compulsive shopping, and hope for HIV. It serves health care companies and individuals.
-	['', 'online mental health', ' ', 'interactive mental health', ' ', 'manage disease', '']
-TLContact
-	Provider of a web page service to help healthcare providers deliver better care to their patients and their families by supporting their emotional and spiritual needs. The company has formed an online community where visitors come together to share the challenges, hopes and triumphs of anyone facing a life-changing health event.
-	['', 'online community', ' ', 'web page service', '']
-MedApps
-	Developer of wireless patient monitoring devices. The company offers a range of portable health devices that automatically record a patients monitor readings and wirelessly transmits the data so that it can be monitored and acted upon by health care professionals.
-	['', 'monitoring devices', ' ', 'wireless patient monitoring', ' ', 'health devices', '']
-Beansprout Networks
-	Provider of an online community for parents, pediatricians and child care professionals. The company provides pediatric professionals and the families in their care with tools, resources and educational programs to enhance patient care and practice efficiency.
-	['', 'online community', ' pediatricians ', 'child care professionals', '']
+Agamit Medical
+	Developer of devices for patients suffering from mitral regurgitation. The company\'s devices mechanically modify the Mitral valve geometry in order to cause it to function without the regurgitation.
+	['', 'mitral valve', ' ', 'valve regurgitation', ' ', 'valve geometry', '']
+Evalve
+	Developer of devices that repair cardiac valves. The company provides a non-surgical mitral valve repair system consisting of a steerable guide catheter, a clip delivery system, and an implant device that is used by interventional cardiologists to reduce mitral regurgitation.
+	['', 'cardiac valve', ' ', 'cardiac treatment', ' ', 'catheter guide', ' ', 'implant device', ' ', 'heart treatment', '']
+Tendyne Holdings
+	Developer of medical device for the treatment of mitral regurgitation. The company engages in the development and commercialization of medical devices for transcatheter mitral valve replacement, repair and targeting mitral regurgitation.
+	['catheter ', 'mitral valve', ' regurgitation']

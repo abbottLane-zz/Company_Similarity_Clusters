@@ -1,27 +1,21 @@
-Pertinence
-	Provider of predictive, rules-based data-mining solutions. The company provides Enterprise Manufacturing Intelligence (EMI) software solutions and analytical solutions that enable manufacturers, operators, and maintenance organizations to meet their business goals while addressing inherent industry challenges and realizing unprecedented ROI.
-	['data ', 'enterprise manufacturing', ' ', 'artificial intelligence', ' ', 'analytical solution', '']
-VividLogic
-	Provider of Home Entertainment Software for HDTV and HD STB. The company\'s comprehensive software infrastructure and applications for HDTV cover the basic ATSC software stack, Cable Card software and the next generation OCAP software and related OCHD 2.0 software.
-	['', 'home entertainment', ' ', 'high definition TV', ' ', 'set top box', '']
-Westwave Communications
-	Developer of software solutions. The company develops software solutions that enable Local Exchange Carriers (LECs), hardware vendors, and Independent Software Vendors (ISVs) to implement converged services quickly, at the lowest-cost entry point in the network, and with minimal operational impact. The company provides carriers with a smooth migration path and an adaptive, responsive network that speeds time to market and improves the bottom line.
-	['', 'electronic switches', ' ', 'telecommunications network solutions', ' ', 'hardware vendors', ' ', 'virtual switching technology', '\\n', 'media gateway', ' ', 'media servers', '']
-Double-Take Software Canada
-	Provider of software solutions for data protection and recovery. The company serves legal, educational, government, finance, and healthcare industries.
-	['', 'software services', ' ', 'data recovery', ' ', 'data protection', '']
-Neverfail
-	Provider of data protection and disaster recovery software. The company develops software solutions that enable users to remain continuously connected to the live software application irrespective of hardware, software, operating system or network failures.
-	['', 'data protection', ' ', 'security software', ' ', 'disaster recovery', ' ', 'disaster recovery software', '']
-Everdream
-	Provider of on-demand software and managed services for desktop management. The company provides software-as-a-service (SaaS) solutions for remote-service management. It offers compliance software services suite that provides visibility into hardware and software assets, tracks software license usage, and automates the distribution of software to ensure regulatory compliance to the computers; and up-time software services suite that provides protection against Internet attacks, hackers, and loss of critical data through malware protection, patch management, and online data backup services.
-	['', 'desktop management', ' SaaS ', 'on demand software', ' ', 'service management', ' ', 'remote-service management', ' ', 'compliance software', ' ', 'software license', ' ', 'internet protection', ' ', 'malware protection', ' ', 'patch management', ' ', 'data backup', '']
-PINS Group
-	Provider of hosting and managed services. The company offers a range of services and specializes in network infrastructure, network and internet connectivity and DNS, backup and recovery, fire walling and load balancing, server hardware, operating systems and utility software, application server and database services.
-	['', 'Network infrastructure', ' ', 'hosting services', ' ', 'managed services', '']
-FSB
-	Developer of remote-control systems for devices connected to the electric network. The company is an integrator of hardware and software systems for remote control of lighting, temperature, security and other parameters associated with the management of buildings, equipment and general environment. The company is capable of managing and controlling, through the Internet, any equipment or device connected to the power grid.
-	['', 'software system', ' ', 'remote control', ' ', 'technology system', ' ', 'Building Management', ' ', 'building automation', '']
-Previo
-	Provider of software products designed to provide personal computer recovery from software virus or hacker attacks, software failures or glitches, thefts, losses, and broken equipment.
-	['', 'software product', ' ', 'computer recovery', ' ', 'hacker attack', ' ', 'software failure', ' ', 'broken equipment', '']
+Fiomi Diagnostics
+	Manufacturer and marketer of diagnostic test kits. The company also develops a panel of point-of-care cardiac marker assays.
+	['', 'diagnostic substance', ' ', 'Invitro diagnostic substance', ' ', 'diagnostic testing', ' ', 'cardiac marker assays', '']
+Crux Biomedical
+	Developer of a preventive device for pulmonary embolisms. The company provide Crux VCF System, that stops the blood clots from reaching the lungs. It is useful for patients at risk of pulmonary embolism who can\'t tolerate blood thinners, method of preventing clots.
+	['', 'medical device', ' ', 'vascular device', ' ', 'inferior vena cava filter', ' ', 'pulmonary embolism', ' IVC']
+DiaSpect Medical
+	Provider of in vitro diagnostic systems. The company provides instant hemoglobin related measurements in unaltered whole blood for point of care.
+	['hemoglobin measurements ', 'point of care', ' ', 'healthcare services', '']
+Quotient Diagnostics
+	Developer of immunohematology products. The company develops testing technologies for the diagnosis and treatment of diabetes and associated diseases. It also provides point-of-care devices for glycated hemoglobin measurement.
+	['immunohematology ', 'testing technology', ' diabetes ', 'point-of-care device', ' ', 'glycated hemoglobin measurement', '']
+Limerick BioPharma
+	Developer of pharmaceuticals with attenuated tissue specific toxicity. The company develops methods for simulating activity of the blood-tissue barriers in vitro and in vivo. It leads programs in areas of metabolic diseases and solid organ transplantation.
+	['', 'tissue specific toxicity', ' ', 'blood tissue simulation', ' ', 'metabolic disease treatment', ' ', 'solid organ transplantation', '']
+Åmic
+	Developer of point-of-care diagnostic products. The company has developed a diagnostic platform based on micro-fabrication technology for application in point-of-care diagnostics.
+	['', 'diagnostic platform', ' ', 'point-of-care', ' ', 'microfluidic technology', ' ', 'micro-fabrication technology', '']
+BioBehavioral Diagnostics
+	Developer of diagnostic systems for the quantitative assessment of behavioral and neurobiological disorders. The company develops and markets a proprietary platform technology to objectively measure specific behaviors that correlate with brain function and deficits in inhibitory control.
+	['', 'diagnostic system', ' ', 'neurobiological disorder', ' ', 'psychiatric condition', '']

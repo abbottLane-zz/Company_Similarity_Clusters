@@ -1,27 +1,15 @@
-GetBack Media
-	Provider of an online community for sharing pop culture. The company collects music, movies, TV shows, games, and novelties.
-	['', 'entertainment community', ' ', 'pop culture marketplace', ' ', 'online media content', '']
-DocMorris
-	Provider of an online drugstore. The company operates an online pharmacy store serving the German market.
-	['', 'online drugstore', ' ', 'drug distribution', ' ', 'drug sales', ' ', 'online drugs', ' ', 'online pharmaceutical', ' ', 'pharmaceutical sales', ' pharmacy']
-Loopport
-	Provider of an online music sample library. The company provides a library of every genre of computer based music to musicians, producers and DJ\'s.
-	['', 'online music', ' ', 'music library', '']
-Indicee
-	Provider of a platform that helps business users to organize, analyze and share business data in an online community. The company operates an online application that allows users to merge data from various business systems, reports and spreadsheets, as well as analyze and share that data with co-workers, colleagues and customers in an online environment.
-	['', 'business sharing', ' ', 'data analysis', ' ', 'data sharing', ' ', 'data merge', '']
-Rawporter
-	Provider of online raw video and photos. The company provides photos and videos that are shared online.
-	['', 'online video', ' ', 'online sharing', ' ', 'online photo', '']
-Fotocommunity
-	Provider of an online platform for uploading and sharing photographs. The company\'s website serves as an online community for both amateurs and professional photographers to showcase their photographs.
-	['photography ', 'upload photos', ' ', 'photography exhibition', '']
-Nerve.com
-	Provider of online dating platform. The company offers online dating and social content. It provides online community for original, award-winning stories, features and photography, as well as discerning coverage of the films, television, books and music.
-	['', 'social content', ' ', 'dating destination', ' coverage']
-Imeem
-	Provider of online music, videos and photos. The company operates as an online community for musicians, directors, photographers and groups.
-	['', 'Internet software', ' music video photo']
-Lefora
-	Provider of a platform that allows members to create public and private forums and add videos and photos. The company allows members to create animal, automotive, business and professional, computer and Internet, culture and community.
-	['', 'public forum', ' ', 'private forum', ' ', 'web discussion', ' ', 'online forum', '']
+iSend
+	Provider of bill payment and money-transfer services. The company enables customers to pay utility and wireless phone bills through a network of retailers in the United States. It also processes transactions in Mexico, Brazil, Guatemala, Honduras and El Salvador, as well as satellite and mortgage payments in Mexico, Brazil and Guatemala.
+	['', 'bills payment', ' ', 'money transfer', ' ', 'mortgage payment', '']
+Sage Group
+	Provider of accounting and business management software. The company provides accounting, enterprise resource planning, human resource, payroll, asset management, and payment solutions for businesses.
+	['', 'supplier management', ' ', 'inventory management', ' ', 'client management', '']
+Brain Institucional
+	Operator of a human resource company in Brazil.
+	['', 'human resource', '']
+Weda Bay Minerals
+	Developer of nickel and cobalt laterite projects. The company is a natural resource company engaged in the exploration and development of a nickel and cobalt laterite property on Halmahera Island east Indonesia.
+	['', 'metal exploration', ' mining ', 'natural resource', '']
+OneClick HR
+	Provider of human resources software. The company operates a web portal offering human resource services including a number of ASP services.
+	['', 'web portal', ' ', 'human resource software', ' ', 'outsourcing service', '']

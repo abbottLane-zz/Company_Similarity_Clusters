@@ -1,21 +1,42 @@
-Agile Energy
-	Developer of utility-scale renewable power generating projects. The Company manages and performs all development activities required to bring its projects from conception through completion, including siting, environmental permitting, securing transmission, contract negotiations and arranging project financing.
-	['', 'renewable power', ' ', 'project financing', ' ', 'electric power', ' ', 'power project development', ' ', 'renewable energy', '']
-Plant Genetic Systems
-	Developer of genetically engineered plants. The company is a biotech company lacated in Ghent, Belgium. The was the first (in 1985) to develop genetically engineered (tobacco) plants with insect tolerance by expressing genes encoding for insecticidal proteins from Bacillus thuringiensis (Bt).
-	['', 'genetic engineering', ' ', 'plants', ' ', 'insecticidal protein', '']
-Meridian Energy USA
-	Developer of utility-scale, environmentally-clean solar plants. The company focuses on generating photovoltaic peak electricity that is free of green house gases for sale to utilities, municipalities and other major customers.
-	['', 'electric utilities', ' ', 'photovoltaic electricity', ' ', 'green house gases', ' ', 'green house', ' photovoltaic']
-Intec Power Holdings
-	Developer of technologies for generating electricity. The company develops Silent Urban Rotational Generator of Electricity (SURGE) that captures the natural movement of air and converts into electricity by means of generator and ducting control system.
-	['', 'Generator of Electricity', ' ', 'Electricity Generator', ' generator']
-SolarQuest
-	Developer of photovoltaic solar farms. The company specialises in designing, developing and managing integrated photovoltaic electricity-generating arrays on buildings.
-	['', 'photovoltaic solar farms', ' ', 'electricity-generating arrays', ' photovoltaic']
-Energy Informatics
-	Developer of software for management of distributed energy resources. The company provides cloud services for management of solar photovoltaic facilities ranging in size from small residential rooftop systems to multi-megawatt utility-scale power plants.
-	['', 'energy product', ' ', 'rooftop system', ' ', 'power plant', ' ', 'solar photovoltaic', ' ', 'asset management', '']
-ALUmonte Technologiefortschritt in Aluminium
-	Operator of aluminum melting plants. The company processes its alloys and aluminum scrap through an oxidation and salt-free melting process that removes miscellaneous impurities.
-	['', 'oxidation-free remelting', ' ', 'miscellaneous impurity', ' ', 'aluminum-melting plant', ' ', 'clean aluminum', ' metallurgy']
+Primary Rate
+	Producer of computer network products and software. The company develops subsystem products and sells technology licenses worldwide. The company also provides high speed wide area connectivity using standards-based architectures and protocols.
+	['connectivity ', 'Frame Relay', ' ', 'leased lines', '']
+Efficient Networks
+	Developer of high-speed customer premises equipment (CPE) that employs digital subscriber line (DSL) technology. The company\'s products enable applications as high-speed Internet access, secure access to computer networks from remote locations, telecommuting, and extensions of corporate networks to branch offices.
+	['', 'high-speed internet', ' ', 'digital subscriber line', ' telecommuting']
+Firecomms
+	Provider of plastic optical fiber high-speed data networking services. The company develops high-speed light sources in visible range wavelengths.
+	['', 'optical fiber', ' ', 'light source', ' ', 'fiber optic', ' transmitters']
+Nomadix
+	Provider of network devices for nomadic computing and public Internet access. The company offers the Nomadix Service Engine (NSE), which allows venues to deploy high-speed Internet access offering. The company\'s NSE also addresses the key issues of customer acquisition, provisioning, security, and revenue generation faced by public access service operators (PASO), system integrators, venue owners, service providers, hotspot owners, and end users when deploying fixed line and WiFi public access networks.
+	['', 'high speed internet', ' ', 'public internet', ' ', 'network device', '']
+RAScom
+	Provider of remote access servers for organizations that need to deploy network access to telecommuters, contractors, remote office workers and small branch offices. The company is a data communications equipment vendor focused on delivering open systems remote access servers.
+	['', 'communications equipment', ' ', 'telecom vendor', '']
+Epigram
+	Provider of advanced technology and products for high-speed residential networking.
+	['', 'residential networking', '']
+Avilinks
+	Developer of software and technology for the distribution of multimedia services via ADSL and VDSL on the existing telephone network. The company\'s product, AVIcenia, is a multimedia switch which can be installed in a building’s technical control room, on a campus, in the heart of a city or in an operator’s central office. It enables its users to have have access to a variety of services such as video on demand, high-speed internet, television and videoconferencing.
+	['', 'multimedia services', ' ', 'telephone network', ' ', 'multimedia switch', ' ', 'high-speed internet', '']
+Telogy Networks
+	Developer of asymmetric digital subscriber line semiconductors. The company\'s golden gateway software enables its customers to develop connected products that send real-time voice, fax and data over packet networks.
+	['', 'Asymmetric Digital Subscriber Line', ' semiconductors']
+GlooLabs
+	Developer of multimedia platform for embedded devices and remote access services. The company\'s technology enables partners to provide next-generation technology for use at home, office and remote locations.
+	['multimedia ', 'embedded device', ' ', 'digital technology', '']
+New Edge Networks
+	Provider of internet access through digital subscriber line (DSL) technology. The company provides DSL connection internet service to residences and businesses in small cities and semi-rural communities, as well as services such as wide area networks, virtual private networks and frame relay.
+	['', 'digital subscriber line', ' ', 'internet service', '']
+Loran International Technologies
+	Operator of a data networking company. The company is a system integrator of high speed networks.
+	['', 'data networking', ' ', 'system integrator', ' ', 'internet network', '']
+Big Bear Networks
+	Developer of interface solutions for networks that operate at 10 Gb/s and higher rates. The company delivers a range of high-speed devices for optical/electrical interface.
+	['', 'electrical interface', ' ', 'high-speed device', ' ', 'network interface', ' “optical network”']
+Enzymatix
+	Developer of applications of high purity enzymes. The company develops enymes for pharmaceutical industries.
+	['enzymes ', 'lipase enzymes', '']
+LiquidLight
+	Developer of intelligent optical networking technology that spans from the core to the edge of the optical network. The company offers robust set of revenue enhancing services, such as high-speed internet access, streaming video and guaranteed performance for hosted applications, to the OSP\'s business customers that sit at the edge of the optical network.
+	['', 'optical networking', ' ', 'high-speed internet', ' ', 'video streaming', '']

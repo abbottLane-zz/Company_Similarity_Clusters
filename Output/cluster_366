@@ -1,21 +1,30 @@
-QuiQom Systems
-	Provider of high-speed broadband services. The company develops technology that allows individual units to use the existing central antenna system in multifamily houses to obtain high-performance broadband and internet protocol televison.
-	['', 'high-speed broadband', ' ', 'central antenna system', ' ', 'broadband modem', '']
-Ping Communications
-	Provider of broadband gateways, VoIP adapters, fiber equipments and remote monitoring and management systems. The company develops electronic items that combines the functionality of the broadband modem and wireless router.
-	['', 'broadband gateways', ' ', 'fiber equipment', ' ', 'electronic item', ' ', 'wireless router', ' ', 'remote monitoring', '']
-Advanced Digital Internet
-	Provider of broadband internet access and internet protocol services. The company provides internet access service to apartment buildings, cooperatives and condominiums. Their focus is on residents of buildings with multiple dwelling units (MDUs).
-	['', 'broadband internet', ' ', 'internet access service', ' ', 'inter protocols', '']
-NextGenTel
-	Provider of internet network access services. The company is a DSL provider offering DSL based services, access to contents via its broadband portal BroadPark, full Internet services (ISP), IP based services (VPN) and IP based telephony.
-	['', 'outsourced activities', ' ', 'IP based', ' ', 'broadband service', '']
-Vanion
-	Provider of integrated voice and data communications services to business and residential customers. The company offers services that range from dial-Up internet access to DSL and from dedicated internet access to voice services.
-	['', 'data communications services', ' ', 'dial-Up internet access', '']
-Irish Broadband Internet Services
-	Provider of broadband internet access services in Ireland.
-	['', 'broadband access', ' bandwidth ', 'internet connectivity', '']
-Mblox (Premium SMS Business)
-	Provider of SMS services. The company provides mobile payment services in the U.S., U.K., Ireland and Australia.
-	['', 'Premium SMS', ' message ', 'SMS messages', ' ', 'paid text message', ' ', 'text message', '']
+Internet Photonics
+	Provider of optical Ethernet transport and switching products for telecom service providers. The company is a supplier of carrier-grade optical Ethernet products.
+	['', 'switching product', ' ', 'network product', ' ', 'optical Ethernet transport', ' ', 'networking device', '']
+Strata8 Networks
+	Provider of cellular services on a licensed spectrum. The company provides services to the enterprises to use and manage cellular services within local coverage areas using carrier-class technology.
+	['', 'wireless network', ' ', 'cellular service', ' ', 'carrier-class technology', '']
+IL&FS Transportation & Networks
+	Developer of surface transport infrastructure projects. The company constructs and operates national and state highways, roads, flyovers and bridges, as well as metro rail, bus transportation and border entry points.
+	['infrastructure ', 'infrastructure projects', ' transport ', 'surface transport infrastructure projects', '']
+Cerent
+	Manufacturer of optical transport platform for service provider.
+	['', 'optical equipment', ' ', 'optical transport platform', ' ', 'optical network', ' ', 'scalable transport', '']
+Electronics Corporation of Israel Telecom
+	Provider of network management systems and lifecycle services. The company offers network solutions to other service providers, energy, transportation government and defense sectors. They provide Optimized Multi-Layer Transport platform, carrier class transport platforms, carrier Ethernet network and bandwidth management.
+	['', 'network solutions', ' ', 'network management', '']
+HyperEdge
+	Provider of loop management systems and access equipment for the local exchange carrier markets.
+	['broadband communication ', 'loop management', ' telephone network']
+Extant
+	Provider of carrier transport, OSS interconnect, and clearinghouse solutions to integrated communications providers.
+	['', 'carrier transport', ' ', 'clearing house solution', ' ', 'operational system support', '']
+Infinera
+	Provider of optical networking computer chips. The company’s DTN System is carrier-class, which means that it complies with applicable Telcordia and equivalent major international standards for central office-based network elements. Its DTN System supports a broad range of optical service interfaces, including Ethernet (Gigabit Ethernet and 10 GbE) and separate synchronous optical network/synchronous digital hierarchy. Infinera Line System 2 Infinera DTN Systems are built upon and connected to one another using an optical line system.
+	['', 'computer chip', ' optics interface ', 'line system', '']
+Movaz Networks
+	Provider of optical solutions in the United States. The company provides next generation all optical solutions for delivery of cost-effective wavelength services. Its products are designed for metro, regional, enterprise and government networks. The products are carrier-class solutions incorporating optical transport, distributed photonic switching, generalized multiprotocol label switching (GMPLS) protocols, and standards-based network management.
+	['optical wavelength ', 'photonic switching', ' ', 'network management', ' network photonic']
+Atrica
+	Manufacturer of optical component technology with the Ethernet networking protocol to bring computer network capabilities to metropolitan area telecommunications networks. The company also provides Ethernet Internet access, Ethernet transparent LAN, T1 private line, Ethernet private line, and Ethernet private network services.
+	['technology communication Ethernet networking telecommunication ', 'ethernet equipment', ' ', 'telecommunication service', ' ', 'communication system', '']

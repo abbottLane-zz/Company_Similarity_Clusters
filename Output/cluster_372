@@ -1,33 +1,12 @@
-Sentinel Vision
-	Provider of security alarm notification and verification systems and services. The company offers SafeScout system, that sends images, sound, and text information to the Sentinel’s data center. The company provides service to renters, homeowners, and business people.
-	['', 'security alarm', ' ', 'verification system', ' ', 'safescout system', '']
-Strata8 Networks
-	Provider of cellular services on a licensed spectrum. The company provides services to the enterprises to use and manage cellular services within local coverage areas using carrier-class technology.
-	['', 'wireless network', ' ', 'cellular service', ' ', 'carrier-class technology', '']
-Appex Cellular
-	Provider of products and services for cellular industry. The company provides cellular telephone systems and services.
-	['', 'cellular industry', ' ', 'telephone system', ' cellular']
-Panomics
-	Provider of a suite of assay products for various low to mid-plex genetic, protein, and cellular analysis applications worldwide. The company focuses on delivering solutions for Parallel Quantitative Biology, a contextual, systems-level measurement of genes, proteins, and their cellular functions.
-	['', 'cellular analysis', ' ', 'cellular function', ' ', 'gene expression', ' ', 'cell signalling', ' ', 'drug discovery', '']
-General Telephone and Electronics
-	Operator of an independent telephone company. The company provides telecommunications products, telephone operations and electrical products.
-	['', 'wiring devices', ' ', 'electronic devices', ' wiring']
-PlymoVent
-	Supplier of products, systems and services for the extraction and filtration of polluted indoor air. The company provide services that remove welding and cutting fumes, grinding dust and oil mist in the metalworking industry.
-	['filtration extraction ', 'pollution filtration', ' ', 'extration services', '']
-Primary Access
-	Provider and supplier of integrated remote access systems. The company\'s products are used by providers of data networks, including long-distance and local carriers, on-line information services, cellular carriers, transaction processors and corporations.
-	['', 'remote access', ' ', 'cellular carriers', ' ', 'data networks', '']
-Pancel
-	Operator of early stage cellular therapy company. The company develops technology to genetically engineer pancreatic cell lines for the eventual cure of diabetes.
-	['', 'cellular therapy', ' pancreatic diabetes']
-Comsys Communication & Signal Processing
-	Provider of digital baseband solutions for cellular networks. The company intelligent baseband processing solutions enable silicon vendors, handset manufacturers, laptop producers, cellular modules developers and base stations manufacturers to significantly market and create a new horizon for voice and data over cellular applications.
-	['', 'cellular network', ' ', 'digital baseband service', ' ', 'intelligent baseband processing', '']
-Telecom*USA
-	Distributor of cellular phones. The company provides cellular modems, wireless Internet and other communications products. It also offers rate plans with which you can service these products.
-	['', 'cellular phone', ' ', 'cellular modem', ' ', 'communications product', '']
-Aeronamic
-	Provider of products and services to the aerospace industry. The company offers airflow valves, air turbine starters, centrifugal load compressors, cooling turbines and re-circulation fans among other products. It also offers maintenance, repair and overhaul services.
-	['', 'aircraft components', ' ', 'aerospace industry', ' ', 'airflow valves', ' ', 'air turbine starters', '']
+The Marionette Collective
+	Provider of a framework to build server orchestration or parallel job execution systems. The company offers a number of agents to manage packages, services and other common components.
+	['', 'middle ware system', ' ', 'authentication model', ' ', 'meta data', '']
+Anevia
+	Provider of video on demand software. The company offers application suites for broadcasters and telecom operators. It also offers a suite of components and applications to build-up video service infrastructures.
+	['', 'television service', ' ', 'online video streaming', ' ', 'telecom operator', '']
+AVM Software
+	Provider of video enabled chat room service. The company offers public screening rooms, which allows its users to enter a chat room and watch a streaming video together while chatting.
+	['', 'chat room service', ' ', 'video watching', ' ', 'online chatting', '']
+On Demand Group
+	Provider of video on demand services to television brands.
+	['', 'video service', ' ', 'television service', ' ', 'digital media service', '']

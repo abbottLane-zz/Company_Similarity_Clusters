@@ -1,27 +1,39 @@
-PathoGenetix
-	Developer of an automated system for the rapid identification of pathogenic bacterial strains using proprietary Genome Sequence Scanning (GSS) technology. The company’s technology analyzes an enriched biological sample without the need for a cultured isolate and also provides results in five hours.
-	['', 'automated system', ' ', 'rapid identification', ' ', 'bacterial strain', ' ', 'genome sequence', ' ', 'scanning technology', ' ', 'pathogen detection', ' ', 'bacterial strain', ' pathogen']
-Paratek Pharmaceuticals
-	Developer of products to treat infectious diseases. The company develops antibiotic and anti-infective products for blocking bacterial resistance. Its drug compounds include MK-2764/PTK 0796, a clinical stage tetracycline-derived antibiotic agent for the treatment of bacterial infections, including infections caused by resistant strains, such as MRSA.
-	['', 'infectious disease', ' ', 'inflammatory disease', ' ', 'anti-infective product', '']
-LumeRx
-	Developer and provider of a cure for peptic ulcer disease that uses visible light. The Company is a development stage medical device company which is developing a  technology for light-based therapies to treat diseases caused by bacterial and other pathogenic infections, including a single-treatment endoscopic therapy for peptic ulcer disease.
-	['', 'medical device', ' ', 'peptic ulcer disease', ' ', 'medical technology', ' Electromedical Electrotherapeutic']
-Arcxis Biotechnologies
-	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
-	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
-Cytochroma
-	Developer of products to treat and prevent the clinical consequences of vitamin D insufficiency and Secondary Hyperparathyroidism (SHPT) associated with (Chronic Kidney Disease) CKD. The company develops vitamin D therapies which are designed to safely and effectively treat patients with stage 3, 4 or 5 Chronic Kidney Disease.
-	['', 'vitamin D insufficiency', ' ', 'kidney disease', ' ', 'vitamin D therapy', ' ', 'elevated serum phosphorus', '']
-Thallion Pharmaceuticals
-	Developer of pharmaceutical products in the areas of infectious disease and oncology. The company\'s clinical program Shigamabs is a dual antibody product for the treatment of Shiga toxin-producing E. coli ("STEC") bacterial infections.
-	['', 'infectious disease', ' ', 'antibody product', ' ', 'bacterial infection', ' oncology']
-Sequel Pharmaceuticals
-	Developer of novel and clinical-stage drug candidates to treat cardiovascular diseases. The company\'s lead product K201 (JTV-519) has the potential to treat A-Fib, which can cause shortness of breath, chest pain, and blood clot, often leading to a stroke.
-	['cardiovascular ', 'novel drug', '']
-Optimer Pharmaceuticals
-	Developer of anti-infective products. The company develops antibacterial drug for the treatment of Clostridium difficile-associated diarrhea (CDAD). It develops products that treat gastrointestinal infections and related diseases.
-	['', 'anti infective product', ' ', 'infectious disease', ' ', 'stomach infection', ' ', 'gastrointestinal treatment', '']
-GlycoVaxyn
-	Developer of a portfolio of bioconjugate vaccines to prevent and treat bacterial infections. The company\'s technology enables the development and production of immunogenic glycoproteins (polysaccharide and protein complexes) for use as conjugated vaccines. It has the ability to conjugate any carbohydrate to almost any protein resulting in a well-characterized molecule with high consistency and batch-to-batch reproducibility enabling the targeting of bacterial diseases.
-	['', 'immunogenic glycoprotein', ' ', 'bioconjugate vaccine', ' ', 'bacterial disease', '']
+Pomarfin
+	Operator of a Finnish family business that manufactures shoes.
+	['shoe ', 'multilayer sole', ' ', 'microporous membrane ', '']
+Primeloop
+	Provider of an information tracking tool used in social networking websites. The company\'s tool makes it simple to bookmark, clip, and tag contents from a webpage and receive notifications about new comments, shares and engagement on all \'PR clippings\'.
+	['', 'information tracking tool', ' ', 'social networking', ' bookmark notifications']
+OSN Online Social Networking
+	Operator of an online social networking platform. The company operates family networking websites for build family trees.
+	['', 'family tree', ' ', 'family network', ' ', 'social engagement', '']
+Soletron
+	Provider of social networking platform. The company provides blogs, e-commerce and social networking facilities for designer, retailer and collectors to buy, sell and discuss.
+	['', 'networking platform', ' ', 'social commerce', ' ', 'street wear', ' ecommerce']
+In.Sites Media
+	Developer of a social powered small businesses marketing and networking platform. The company helps small businesses and individuals to increase exposure and traffic volume by transforming their standalone websites into business pages at social networking sites, where traffic is constant.
+	['', 'networking platform', ' ', 'businesses marketing', ' ', 'traffic volume ', '']
+RocketCash
+	Provider of online incentive programs. The company is an online gateway that enables consumers to shop and buy online at merchant websites without a credit card, in a secure, family-friendly environment. It developed the RocketCash Currency Exchange, which allows consumers to aggregate various forms of currencies, including online incentive dollars, offline promotional points, gift certificates, money orders, personal checks and U.S. dollars.
+	['', 'online gateway', ' ', 'e-commerce', '']
+Beep
+	Operator of an online audio networking platform. The company provides a networked audio software that enables consumers to convert any speaker into an internet music streaming device.
+	['', 'wireless speakers', ' ', 'audio software', ' ', 'online music', '']
+Megabowl Group
+	Owner and operator of ten pin bowling alleys. The company operates bowling-based family entertainment centers.
+	['', 'bowling center', ' ', 'consumer service', ' ', 'ten pin', '']
+Insoshi
+	Provider of an online open-source social networking platform. The company provides social networking codes to the developers.
+	['', 'source code', ' ', 'networking codes', ' ', 'online services', ' ', 'social networking platform', '']
+SilverStorm Technologies
+	Provider of interconnect solutions for clustered computing. The company designs, manufactures and services a family of networking hardware and software products that improve cluster performance and scalability.
+	['', 'Clustered computing', ' ', 'network hardware', '  ', 'connectivity software solutions', ' ', 'Network solutions', '']
+Jaxtr
+	Operator of a social communication website. The company website enables its clients to receive calls from people visiting their social networking pages, as well as make calls to their friends and family worldwide.
+	['', 'social communication', ' ', 'cloud-based voice conferencing', ' ', 'fax-to-email service', ' ', 'voice over internet protocol technology (VOIP) service', '']
+iRadius
+	Developer of custom software applications. The company develops a comprehensive platform that supports a family\'s digital communications and household needs.
+	['', 'custom software application', ' ', 'software platform', ' ', 'Household software', '']
+Orbius
+	Provider of online social networking services. The company\'s platform is optimized for SEO at the page and application level. It is robust and scalable and is built on a flexible platform that enables rapid development of new features and applications.
+	['', 'social networking', ' ', 'flexible platform', ' ', 'application development', ' ', 'feature development', ' ', 'create content', '']

@@ -1,42 +1,39 @@
-Zebido.com
-	Operator of an auction website.
-	['auction']
-OKWave
-	Operator of a question-answering website. The company provides a platform for users to solve their queries and discuss about their problems.
-	['', 'Q&A community', ' ', 'Q&A forum', ' ', 'discuss answers', ' queries']
-Reverb Technologies
-	Operator of an online dictionary website. The company operates a dictionary which offers information on words, as well as allows users to place their opinions about words.
-	['', 'online dictionary', ' ', 'social content', ' ', 'dictionary website', '']
-Atweb
-	Provider of website maintenance and promotion service. The company offers two product lines - Web Site Garage and !Register-It!. Web Site Garage allows website owners to "park" their URL for a free seven point online website tune up and provides recommendations for improvement; while !Register-It! is a way for website owners to register their website with search engines and directories.
-	['promotion communication ', 'Website promotion', '']
-StopTheHacker
-	Provider of website security. The company provides SaaS services to web hosters, website owners, administrators and web designers to help them protect, detect and recover from malware attacks.
-	['', 'website security', ' ', 'web hoster', ' ', 'malware attack', ' ', 'malware security', '']
-105 LOOKS
-	Provider of a beauty-product website. The company offers a video-centric website that contains information related to fashion.
-	['', 'beauty product', ' ', 'fashion information', ' ', 'beauty content', '']
-Jungul Communication
-	Operator of communications agency specializing in the design and development of websites. The company develops logos, graphic charters and specific interactive tools for the creation of website.
-	['', 'communication agency', ' ', 'website development', ' ', 'graphic charters', ' ', 'interactive tools', ' website']
-BiddingForGood
-	Provider of an online charity auction service for schools and nonprofit organizations in the United States. The company operates a cause related e-commerce platform for connecting consumers and marketers to nonprofit fundraising auction events. It serves fundraisers and volunteers in the fields of K-12 schools, healthcare and human services, corporate philanthropies, higher education/colleges and universities, arts and humanities, faith based organizations, recreation and sports, and radio/TV/media.
-	['', 'charity auction service', ' ', 'nonprofit fundraising', ' ', 'cause related e-commerce', ' ', 'online fundraising', '']
-GoIndustry Dovebid
-	Provider of asset management Services. The company offers auction and valuation services relating to industrial equipment.
-	['', 'asset management', ' auction ', 'industrial equipment', ' valuation']
-Torbit
-	Provider of a cloud-based website accelerator. The company provides tools to help businesses measure website performance and quantify how speed impacts their revenue.
-	['', 'website accelerator', ' ', 'website performance', ' ', 'website optimization', ' ', 'website management', '']
-Connected
-	Provider of a website that manages personal relationships.
-	['', 'contact management', ' ', 'social integration', ' ', 'relationship management', '']
-Snaptalent
-	Operator of a job advertisement network. The company\'s network detect the IP addresses of website visitors and attempt to identify whether they work for a particular company or attend a particular university.
-	['', 'job advertisement', ' ', 'IP address detection', ' ', 'job information', ' job']
-Pure people
-	Operator of a celebrity magazine website. The company is a digital media group operating as a magazine dedicated to celebrities.
-	['celebrity ', 'digital media', ' magazine']
-The Fine Art Auction Group
-	Provider of auction services in the U.K. The company operates a network of regional auction houses in the U.K., with a specialty in art and antiques.
-	['', 'auction house', ' appraisals auctions']
+Open Monoclonal Technology
+	Developer of human monoclonal antibody platforms. The company develops human therapeutic antibodies based on transgenic rats for pharmaceutical companies.
+	['', 'human monoclonal', ' ', 'antibody platform', ' ', 'transgenic rat', '']
+GLYCART Biotechnology
+	Developer of antibody based products for the treatment of unmet clinical needs such as cancer. The company focuses on the development and commercialization of a new generation of antibody products based on its proprietary GlycoMAb technology.
+	['antibody ', 'antibody products', '']
+Centocor
+	Developer of monoclonal antibody technology. The company develops monoclonal antibody-based products for cardiovascular and autoimmune diseases, cancer and inflammation.
+	['', 'monoclonal antibody technology', ' ', 'autoimmune disease', ' biopharmaceutical']
+Merrimack Pharmaceuticals
+	Provider of commercialize medicines paired with companion diagnostics for the treatment of serious diseases, with an initial focus on cancer. The company develops MM-093, a human alpha-fetoprotein for the treatment of patients with rheumatoid arthritis and psoriasis and MM-121, a human monoclonal antibody and therapeutic to block signaling of the ErbB3 receptor.
+	['', 'commercial medicine', ' ', 'diagnostic treatment', ' cancer']
+FivePrime Therapeutics
+	Developer of protein and antibody therapeutics. The company\'s products include protein based therapeutics for oncology, metabolic disease, type II diabetes, acute myocardial infarction, intestinal bowel disease and infectious diseases and cancer immunotherapy disease areas.
+	['', 'antibody therapeutic', ' ', 'cancer immunotherapy', ' ', 'protein therapeutic', '']
+4-Antibody
+	Developer of an antibody drug discovery platform. The company is a biopharmaceutical enterprise developing a fully human, antibody drug discovery platform. The company is making this technology available to pharmaceutical partners, as well as developing a proprietary pipeline of antibody oncology drugs.
+	['', 'discovery technology platform', ' immunotherapy ', 'antibody drug', '']
+Affomix
+	Developer of antibody-based products.
+	['', 'antibody screening', ' ', 'antibody product', ' ', 'antibody preparation', '']
+UroTec
+	Provider of tissue-engineering services for the treatment of urologic disease. The company focuses on treatment of urethral stricture, ureteral strictures, ureteral anomalies and hypospadia.
+	['', 'urologic disease', ' ', 'urethral stricture', ' hypospadia ', 'tissue engineering', '']
+BioInvent
+	Developer of antibody-based drug therapies for the treatment of cancer. The company has a pipeline of three proprietary antibodies focused on treatment for multiple myeloma, non-Hodgkin lymphoma and medulloblastoma.
+	['', 'antibody drugs', ' ', 'drug developer', ' ', 'multiple myeloma', ' ', 'non-Hodgkin lymphoma', '']
+Automated Cell
+	Developer of antibody therapeutic antibodies for the treatment of oncology and immune disease. The company is focused on the development of monoclonal antibody therapeutics for the treatment of cancer.
+	['', 'antibody therapeutic', ' ', 'therapeutic treatment', ' ', 'oncology disease', ' ', 'immune disease', ' ', 'monoclonal antibody', '']
+Applied Genomics
+	Developer of targeted genomics-based diagnostic and therapeutic antibodies for the treatment of human cancer. The company\'s products include Mammostrat which is an immunohistochemistry breast cancer prognostic test, Mammotax which is a single antibody immunohistochemistry test, Pulmotype is a five antibody immunohistochemistry aid for the classification of non-small cell lung cancer and Pulmostrat is a seven antibody prognostic immunohistochemistry test.
+	['', 'human cancer', ' ', 'therapeutic antibodies', ' ', 'diagnostic devices', '']
+GITR
+	Developer of oncological therapies. The company is developing TRX518, a humanized monoclonal antibody that is reactive with the glucocorticoid-induced tumor necrosis factor receptor (GITR), for the treatment of cancer.
+	['', 'chemotherapeutic treatment', ' ', 'tumor markers', ' ', 'T cell', '']
+Immunologix
+	Developer of antibody-based therapeutics. The company provides methods for producing human monoclonal antibodies against any target including bacterial and viral antigens, as well as tumor antigens, and human autoantigens. Its technology allows for the conversion of naïve B-cells (from a tonsillectomy or whole blood collection) to fully mature human B-cells producing the human antibody of interest.
+	['', 'antibody therapeutic', ' ', 'human monoclonal', ' ', 'therapeutic device', '']

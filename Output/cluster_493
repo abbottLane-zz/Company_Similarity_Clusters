@@ -1,33 +1,30 @@
-Advanced DX
-	Provider of testing equipment and personnel for diagnosis of clinical conditions including diabetic retinopathy, neuropathies and peripheral vascular disease. The company gives primary care physicians the ability to diagnose these conditions so they can keep patients in house and generate revenue from diagnostic procedures.
-	['', 'testing equipment', ' ', 'testing personnel', ' ', 'primary care', '']
-SensiVida Medical Technologies
-	Developer and provider of minimally invasive diagnostic devices and technologies. The company develops and provides digital diagnostic devices with microsystems-based technology that automates bio-sensing and data acquisition. The Company\'s optical-digital platform technology addresses allergy testing, pain-free automated glucose monitoring, blood coagulation testing, TB testing and cholesterol monitoring.
-	['', 'minimally invasive', ' ', 'microsystems-based technology', ' ', 'bio-sensing', '']
-Homestead Clinical
-	Developer of diagnostic and prognostic tools. The company was founded to commercialize a suite of technologies developed at the Institute for Systems Biology (ISB) that have broad utility in the development of novel diagnostic tools.
-	['', 'diagnostic tool', ' ', 'prognostic tool', ' ', 'novel diagnostic tool', '']
-Venture Alliance
-	Provider of seed capital and start-up executive management to commercialize technologies developed at national laboratories and other research institutions. The company has provided investments for the development of medical diagnostic devices, predictive maintenance hardware/software, restaurant software and electroless nickel plating technology.
-	['', 'seed capital', ' ', 'start-up finance', ' ', 'commercialize technology', ' investment']
-Biex
-	Developer of maternity management products. The company diagnostic tests to identify the potential for premature deliveries in pregnant women.
-	['maternity ', 'diagnostic test', ' ', 'hormone estriol', '']
-C2Cure
-	Manufacturer of cameras used for diagnosis and surgery purposes. The company develops disposable miniature viewing and operational devices for an array of heatlhcare markets, including diagnostic, endoscopic, imaging, and surgical.
-	['', 'operational device', ' ', 'cardiac surgery', ' ', 'miniature device', ' ', 'surgery camera', ' ', 'surgical device', '']
-Genosis
-	Developer of home use diagnostic devices to assess fertility in couples of childbearing age. The company\'s product- Fertell, is available over the counter in the UK and the US and provides couples with the tools required to assess their fertility in the privacy of their homes.
-	['', 'Fertility test', ' ', 'vitro diagnostic', ' ', 'reproductive disorder', '']
-GeneOhm Sciences
-	Developer of nucleic acid-based diagnostic services. The company offers methicillin-resistant Staphylococcus aureus (MRSA) Assay, an in vitro diagnostic test for the direct detection of MRSA from a nasal specimen; StrepB Assay, an in vitro diagnostic test for the detection of Group B Streptococcus in pregnant women at the time of delivery or at any other stage of their pregnancy and Lysis Kit for the lysis of cells and spores from various sample types.
-	['', 'microbiology specimen processing', ' ', 'molecular diagnostic', ' ', 'MRSA Assay', '']
-Sirigen
-	Developer of novel polymeric materials for the life-science and diagnostic industries. The company is the developer of light-harvesting polymeric materials, which offer high sensitivity flourescence (HSF) detection, with applications for drug testing, optimized detection techniques and developing next-generation diagnostic tools.
-	['', 'light harvesting', ' polymers flourescent']
-20/10 Perfect Vision
-	Developer of femtosecond and excimer laser technologies for refractive and cataract surgeons. The company’s products include excimer workstations for laser surgery, femtosecond workstations, diagnostic workstations and ZYOPTIX XP, a microkeratome system that allows surgeons to perform stromal and epithelial flaps.
-	['', 'laser surgery', ' ', 'diagnostic workstations', ' ', 'microkeratome system', ' ', 'epithelial flaps', ' cataract']
-VasoLux MicroSystems
-	Developer of optically based diagnostic devices for surgical and diagnostic procedures. The company\'s diagnostic imaging system helps surgeons to identify later-stage osteoarthritis patients.
-	['', 'Optical diagnostic device', ' ', 'imaging system', ' ', 'medical device', '']
+CEB Merchandise Brokers
+	Wholesaler of custom apparel and promotional items. The company specializes in brand design, screen printing, embroidery and imprinted promotional products.
+	['', 'custom apparel', ' ', 'brand design', ' merchandise']
+Angela Bruderer
+	Provider of an online retail platform. The company through its website markets and sells consumer products which mainly include home textiles, bed linen, underwear and accessories.
+	['', 'e-commerce platform', ' ', 'online goods purchase', ' ', 'online services', '']
+MallStreet
+	Provider of an online retail portal. The company offers portable electronics, home equipment, things for garden, computers, cosmetics, fitness products, children’s goods and others.
+	['', 'internet retail', ' ', 'portable electronic', ' ', 'household equipment', '']
+Harper Leather Goods
+	Manufacturers and distributors of rawhide pet products such as dog bones and chews. The company\'s products include a variety of rawhide dog bones and chews produced in different sizes and marketed as plain or basted with flavors.
+	['', 'distributor', ' ', 'rawhide dog bones', ' ', 'dog chew manufacturer', ' ', 'dog chew distributor', '']
+Energetic Solutions
+	Developer of electromagnetic pest repellants. The company\'s products, shoo!TAG and shoo!BUG, are designed to protect people, dogs, cats, cows and horses against insect pests. Its technology emits electromagnetic frequencies to keep targeted insects away and is an alternative to chemical repellants.
+	['', 'pest repellant', ' ', 'animal care', ' ', 'pest control', ' ', 'dog care', ' ', 'electromagnetic porduct', ' ', 'animal health', ' ', 'pet care', '']
+LiL\' Things
+	Provider of children specialty retail chain. The company provides retail store services for infant\'s and children\'s toys, apparel, furniture, and accessories.
+	['', 'children retail', ' ', 'specialty retail', ' ', 'retail store', ' ', 'retail services', '']
+AbsolutelyNew
+	Operator of an consumer goods company that launches new products from inventors into stores, catalogs, online retail stores and television shopping channels. The company engages in identifying, licensing, manufacturing, and selling inventions.
+	['', 'online retail store', ' ', 'television shopping channel', ' ', 'selling invention', ' ', 'television shopping', '']
+Pooch
+	Provider of accessories and apparel for dogs. The company is into online retail of dog products.
+	['', 'dog accessory', ' ', 'dog apparel', ' ', 'online dog product', ' ', 'online retail', ' ', 'pet accessories', ' ', 'pet apparel', ' pet']
+Club Guaf
+	Provider of online subscription service for dog treats. The company operates a website for a dog-treat delivery service. Its users can indicate the size of their dog, the kind of products they would like and the frequency of delivery.
+	['', 'subscription service', ' ', 'pet treat', ' ', 'pet supplier', '']
+Propane Continental
+	Operator of a wholesale and retail propane distribution company. The company operates a wholesale propane division and a network of retail propane outlets.
+	['propane ', 'wholesale distribution', ' ', 'retail outlets', '']

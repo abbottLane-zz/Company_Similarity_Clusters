@@ -1,30 +1,36 @@
-Andigilog
-	Provider of thermal management technology. The company develops sensor interface integrated circuits, temperature sensors, system controllers and brushless DC fan motor controllers. It provides fabless analog and mixed-signal IC.
-	['', 'thermal management', ' ', 'sensor interface circuit', ' ', 'temperature sensor', ' ', 'motor controller', ' ', 'fabless analog', '']
-Maxim Integrated Products
-	Designer, manufacturer and seller of analog and mixed-signal semiconductor products. The company markets a range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a number of geographically diverse customers.
-	['', 'Mixed signal semiconductor', ' ', 'integrated circuits', '']
-Neolinear
-	Developer of software for analog or mixed-signal silicon design. The company provides mixed-signal chips with integrated analog and digital circuitry for communications applications.
-	['', 'mixed signal silicon design', ' ', 'digital circuitry', ' ', 'communication application', '']
-Global Communication Devices
-	Developer of fabless RF and mixed-signal ICs (integrated circuits) and RF and mixed-signal intellectual property (IP) cores for use in wireless and broadband networking. The company provides full-custom design, joint development, design consultation and manufacturing and testing services.
-	['', 'mixed signal IC', ' ', 'mixed signal intellectual property', ' ', 'joint development', ' ', 'design consultation', '']
-Alpha Microelectronics
-	Manufacturer of fabless semiconductors. The company manufactures fabless semiconductors for custom-specific and standard ICs. It specializes in motor control & gate drivers, lighting, power management, sensors, RF, high-voltage applications and MOSFETs.
-	['', 'production service', ' ', 'microelectronics', ' ', 'radio data transmission', ' ', 'power circuit', ' ', 'high voltage', ' sensor ', 'power management', '']
-Symwave
-	Developer of analog/mixed-signal connectivity solutions in the United States and internationally. The company offers physical layer, low power analog front end cores, integrated circuits (ICs), and semiconductor system solutions to distribute video, sound, photos, and data in the home, automobile, office, and factory; and USB hubs, card readers and mass storage devices, input/output, Ethernet and embedded networking devices, and in-vehicle networks.
-	['', 'analog signal connectivity', ' ', 'semiconductor system solution', ' ', 'embedded networking', '']
-SprayCool
-	Developer of liquid spray cooling for thermal management.
-	['', 'spray liquid cooling', ' ', 'thermal management', '']
-RocketChips
-	Developer of multi-gigabit speed analog and mixed signal integrated circuit technology. The company is involved in the development of high-speed Complementary metal–oxide semiconductor circuit topologies capable of achieving Gallium arsenide performance levels.
-	['semiconductor CMOS GaAs multi-gigabit circuit']
-SliceX
-	Designer, developer and supplier of analog and mixed signal integrated circuits. The company develops ICs for consumer, communications infrastructure, video imaging, industrial equipment, automotive and medical applications.
-	['', 'analog integrated circuit', ' ', 'mixed signal IC', ' ', 'video imaging', ' ', 'communication infrastructure', ' ', 'power analog signal', '']
-Infrared Integrated Systems
-	Provider of thermal-technology products. The company designs, develops and manufactures radiometric thermal imagers, people counters, security sensors and other thermal-detection solutions for a wide range of commercial applications, including security, healthcare, supermarkets and smart-building technologies.
-	['', 'thermal technology', ' ', 'thermal imager', ' ', 'thermal imagers', ' ', 'people counter', ' ', 'people counters', ' ', 'security sensors', ' ', 'thermal detection', ' ', 'thermal', '']
+Targanta Therapeutics
+	Developer of innovative antibiotics to treat serious infections in the hospital and other institutional settings. The company develops antibiotics for the treatment of serious gram-positive bacterial infections, including complicated skin and skin structure infections.
+	['biopharmaceutical ', 'skin infection', ' ', 'bone infection', ' antibiotic']
+Paratek Pharmaceuticals
+	Developer of products to treat infectious diseases. The company develops antibiotic and anti-infective products for blocking bacterial resistance. Its drug compounds include MK-2764/PTK 0796, a clinical stage tetracycline-derived antibiotic agent for the treatment of bacterial infections, including infections caused by resistant strains, such as MRSA.
+	['', 'infectious disease', ' ', 'inflammatory disease', ' ', 'anti-infective product', '']
+Thallion Pharmaceuticals
+	Developer of pharmaceutical products in the areas of infectious disease and oncology. The company\'s clinical program Shigamabs is a dual antibody product for the treatment of Shiga toxin-producing E. coli ("STEC") bacterial infections.
+	['', 'infectious disease', ' ', 'antibody product', ' ', 'bacterial infection', ' oncology']
+Inimex Pharmaceuticals
+	Developer of innate defense regulators (IDRs) that trigger the body\'s innate defenses without causing inflammation. The company provides product which is active against normal and drug resistant bacteria and used to stimulate host innate immune defenses. Its products are used to treat infections in immune suppressed patients, antibiotic resistant hospital infections, and the management of inflammatory and cancer disease.
+	['', 'developer of drung', '  ', 'innate immune defense', ' ', 'drug resistant bacteria', '']
+NanoAntibiotics
+	Developer of antibiotics to treat multi drug resistant bacterias. The company engages in the discovery, development and commercialization of antibiotics.
+	['', 'antibiotic treatment', ' ', 'drug resistant bacteria', ' ', 'nano technology', '']
+Redpoint Bio
+	Developer of novel and healthful taste enhancers for the food, beverage and pharmaceutical industries. The company researches, discovers, develops and commercializes breakthrough products that improve the palatability of oral medicines and enhance the flavor and nutritional value of foods and beverages.
+	['', 'taste enhancers', ' ', 'healthful taste', ' ', 'pharmaceutical industries', '']
+RQx Pharmaceuticals
+	Developer of broad spectrum small molecule antibiotics. The company\'s antibiotics are developed for life threatening infections, including those caused by multi drug-resistant Gram-negative bacteria.
+	['', 'antibiotic developer', ' ', 'drug resistant infection', ' ', 'broad spectrum antibiotic', ' ', 'molecule antibiotics', ' ', 'life threatening infections', ' ', 'healthcare industry', '']
+Mpex Pharmaceuticals
+	Developer of therapies for antibiotic resistance. The company offers MP-376, a proprietary formula of levofloxacin that is developed clinically as a maintenance therapy for the prevention of bacterial exacerbations in patients with cystic fibrosis and chronic obstructive pulmonary diseases. It also provides inhibitors of bacterial multi-drug resistant efflux pumps, which are source of drug resistance in gram-negative pathogens, such as Pseudomonas aeruginosa and gram-positive pathogens, such as methicillin-resistant staphylococcus aureus. It has a strategic alliance with GlaxoSmithKline.
+	['', 'antibiotic resistance therapy', ' ', 'gram-negative organism', ' antibiotic ', 'aerosol formulation', ' ', 'bacterial exacerbation', '']
+Cempra Pharmaceuticals
+	Developer of medicines for curing bacterial infections. The company discovers and develops differentiated medicines that cure bacterial infections. It develops antibiotics to treat multi-drug resistant bacterial infections.
+	['', 'bacterial infection', ' ', 'infection treatment', ' ', 'infection medicine', ' ', 'drug resistant bacteria', ' ', 'bacterial antibiotics', '']
+GlycoVaxyn
+	Developer of a portfolio of bioconjugate vaccines to prevent and treat bacterial infections. The company\'s technology enables the development and production of immunogenic glycoproteins (polysaccharide and protein complexes) for use as conjugated vaccines. It has the ability to conjugate any carbohydrate to almost any protein resulting in a well-characterized molecule with high consistency and batch-to-batch reproducibility enabling the targeting of bacterial diseases.
+	['', 'immunogenic glycoprotein', ' ', 'bioconjugate vaccine', ' ', 'bacterial disease', '']
+Achaogen
+	Developer of antibacterial therapies for treating multi-drug resistant (MDR) infections. The company is focused on the discovery, development and commercialization of antibacterials to treat MDR gram-negative infections. Its lead product candidate is plazomcin, designed to treat serious bacterial infections due to MDR Enterobacteriaceae, including carbapenem-resistant Enterobacteriaceae, or CRE.
+	['', 'bacterial infection', ' ', 'antibiotic resistant', ' ', 'antibacterial compound', ' ', 'drug-resistant', '']
+Sequoia Pharmaceuticals
+	Developer of drugs to combat drug-resistant viral infections.
+	['', 'drug resistant infection', ' ', 'viral infection', '']

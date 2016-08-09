@@ -1,33 +1,12 @@
-Paypal
-	Provider of a digital wallet and online payment services for individuals and businesses. The company offers various ways to pay and ways to get paid, including mobile express checkout service for retailers. Its service allows users to pay in various ways, such as through credit cards, bank accounts, and buyer credit or account balances.
-	['', 'online payment', ' ', 'money transfer', ' SaaS ', 'payment solution', ' ', 'Internet payments', ' ', 'Internet commerce', '']
-Simple Finance Technology
-	Provider of banking services through Web and mobile applications. The company works in partnership with financial institutions that hold the actual deposits. It also offers deposit, money transfer and online bill payment services.
-	['', 'online banking', ' ', 'money transfer', ' ', 'bill payment', ' deposit ', 'debit card', ' ', 'consumer banking', ' ', 'saving account', '']
-Billpoint
-	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
-	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
-3V Transaction Services
-	Provider of stored value accounts and standard and contactless payment cards. The company also provides mobile payments and money transfer services at a product and platform level to corporate clients internationally.
-	['', 'stored value account', ' ', 'contactless payment card', ' ', 'standard payment card', ' ', 'money transfer', '']
-Venmo
-	Provider of text messaging-based digital wallet payment system. The company is a social payments platform that makes it easy for friends to exchange money using their phones.
-	['', 'bill payment', ' ', 'text messaging', '']
-Square
-	Provider of online payment services. The company provides online payment services to enable merchants to accept credit cards anywhere, using a card reader that plugs into a phone or iPad.
-	['', 'payment service', ' ', 'mobile payment device', ' ', 'digital payment', ' ', 'credit card payment', ' ', 'credit card reader', '']
-Trivnet
-	Provider of mobile payment and mobile commerce services. The company enables payment and commercial services offered by operators and service providers, allowing a rapid rollout of profitable offerings with a minimal investment.
-	['', 'mobile financial service', ' ', 'mobile payment', ' ', 'mobile commerce', ' ', 'mobile money transfer', '']
-DineroMail
-	Provider of e-payment services to international merchants. The company operates as an online payment platform which helps companies to collect payments from online and offline sales. It offers different local payment methods like cash payment, credit cards, bank transfer and also e-wallet.
-	['e-payment ', 'payment platform', ' ', 'transaction software', '']
-mChek India Payment Systems
-	Provider of mobile payment services. The company offers mobile banking and payment services. It offers a hosted service for mobile money transfer and secure payments using credit cards, debit cards, bank accounts and stored-value wallets.
-	['', 'mobile payment', ' ', 'mobile banking', ' ', 'mobile money transfer', ' ', 'secure payment', ' ', 'stored value wallet', '']
-First USA Partners
-	Issuer of affinity credit cards for alumni associations and other nonprofit groups. The company serves as exclusive sales and business development arm of First USA Bank.
-	['', 'credit cards', '']
-99Bill
-	Provider of independent third-party payment services in China. The company offers electronic payment services to enterprises and individuals. It also supports payment via international cards, such as VISA and MasterCard; and services domestic and international bank cards.
-	['', 'third party payment', ' ', 'electronic payment', ' ', 'electronic fund transfer', '']
+GlobalTouch Telecom
+	Provider of VoIP software. The company owns and develops VoIP software platform for the enterprise and residential markets.
+	['', 'Internet Telephony', 'VoIP', 'Voice Over Internet Protocol', '']
+AngioScore
+	Developer of tools for endovascular therapy. The company develops angioplasty catheters for use in the treatment of cardiovascular and vascular disease.
+	['', 'endovascular tool', ' ', 'cardiovascular disease treatment', ' catheter ', 'endovascular therapy', '']
+Azelon Pharmaceuticals
+	Developer of formulations for the treatment of osteoporosis. The company develops ZT-034, a nasal spray formulation of teriparatide that offers an alternate for patients at high risk of fracture.
+	['', 'osteoporosis treatment', ' ', 'nasal spray', ' teriparatide ', 'nasal spray formulation', '']
+Cooke Pharma
+	Developer of formulations for the treatment of atherosclerosis. The company owns and develops the intellectual property rights to use arginine for vascular disease.
+	['atherosclerosis arginine ', 'vascular disease', '']

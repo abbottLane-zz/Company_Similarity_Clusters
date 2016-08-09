@@ -1,21 +1,39 @@
-ImmunoTheragnostics Incorporated
-	Developer of therapeutic and prognostic equipments. The company engages in research, development and commercialization of exosome-based clinical diagnostic arrays for women\'s health as well as for cardiovascular diseases and cancer.
-	['', 'prognostic equipment', ' ', 'diagnostic assays', ' ', 'cancer prevention', ' ', 'response monitoring', '']
-Lumativa
-	Developer of anti-infectives for women’s health. The company engages in the development and marketing of new drugs to combat infections for women’s health, addressing areas of high unmet medical need.
-	['FemiFect ', 'anti-infective', ' gynaecologists']
-Corvas
-	Manufacturer and developer of therapeutic agents for the prevention and treatment of cardiovascular and inflammatory diseases. The company also undertakes cancer research programs.
-	['biotherapeutics ', 'cardiovascular disease', ' ', 'drug candidate', '']
-Sterix
-	Operator of a biopharmaceutical company. The company specializes in the research and development of a new generation of steroid-based therapeutic products for use in oncology and metabolism or endocrine-related diseases, including cancer treatments, women\'s health, diabetes and hormone-associated diseases.
-	['steroid metabolism endocrine']
-ZOLL LIFEBRIDGE
-	Supplier of life support systems for the acute medical care in the area of cardiovascular diseases. The company develops heart-lung machine that allows doctors to substitute the patient’s cardiovascular system and save them from death in cardiogenic shock.
-	['', 'life support system', ' ', 'heart-lung machine', ' ', 'cardiovascular system', ' ', 'medical care', '']
-Angio B
-	Developer and provider of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders. The company engages in research and development of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders.
-	['', 'cardiovascular disease', ' ', 'peripheral ischemic disorder', ' ', 'development of drug', '']
-Adnexus Therapeutics
-	Developer of Adnectins biologics/medicines in the United States. The company\'s product candidates include Angiocept/CT-322, an anti-angiogenesis agent for treating cancer that blocks the VEGFR-2 pathway; and other Adnectin therapies for the treatment of oncology, immunology, and cardiovascular diseases.
-	['', 'drug discovey', ' ', 'anti-angiogenesis agent', ' ', 'treatment of oncology', '']
+facilityboss
+	Developer of software for building owners and operators. The company develops various process optimizing applications for various industries including web based room or desk management and reservation, tracking software for the pharma industry, data capture application for business continuity management used in the financial sector. The company was spun out of Fraunhofer Institut SIT.
+	['', 'managing spaces', ' ', 'digital building', ' ', 'building space', ' ', 'space management', ' ', 'resource optimization', '']
+CipherActive
+	Developer of a software for video coding. The company develops and markets accelerated standard encryption systems enabling wide usage of cryptography in resource constrained environments.
+	['', 'video coding', ' accelerated ', 'standard encryption', '']
+Diffusion
+	Provider of multi-channel information delivery technology. The company develops intranet and extranet software for the targeted distribution of business critical information through different media.
+	['', 'intranet software', ' ', 'extranet software', ' ', 'multi-channel information', ' ', 'application software', '']
+VividLogic
+	Provider of Home Entertainment Software for HDTV and HD STB. The company\'s comprehensive software infrastructure and applications for HDTV cover the basic ATSC software stack, Cable Card software and the next generation OCAP software and related OCHD 2.0 software.
+	['', 'home entertainment', ' ', 'high definition TV', ' ', 'set top box', '']
+Yobble
+	Developer of a hybrid hardware/software technology for iPhone. The company is a mobile motion sensing platform for applications that need regular touch interfaces.
+	['', 'music game', ' ', 'motion control', ' ', 'air guitar', ' ', 'mobile motion', ' ', 'consumer electronic', '']
+Remedy Corporation
+	Developer of a software system and technology. The company develops a action request system and various applications software.
+	['', 'software system', ' ', 'request system', ' ', 'communication software', '']
+McCormack & Dodge
+	Provider of financial software. The company develops mainframe applications software.
+	['', 'mainframe application', ' ', 'mainframe software', ' ', 'financial platform', '']
+MindWeavers
+	Developer of software products to help people overcome dyslexia. The company develops and sells software-based products to optimize an individuals innate abilities relating to sensory and motor skills. The company spun out from the University of Oxford.
+	['', 'brain simulation', ' ', 'brain exercises', ' ', 'sensory skills', ' ', 'motor skills', ' ', 'computer games', ' ', 'language learning', ' ', 'software products', '']
+Pure Software
+	Developer of Software tool. The company provides software quality improvement products.
+	['', 'software tool', ' ', 'quality improvement', ' product']
+Dblur technology
+	Developer of software lens technology.The company develops software solutions mainly for camera manufacturers. The company also mobile phone camera vendors solution for the design of miniature cameras at lower cost.
+	['cellular digital medical camera']
+PushLife
+	Developer of software for the BlackBerry and Android Smartphones.
+	['', 'mobile software', ' ', 'blackberry software', ' ', 'android software', '']
+Sensinode
+	Developer of software technology for the Internet of things (IoT). The company develops commercial 6LoWPAN and related IPv6 technologies which enable physical sensing, tracking and identification with enterprise systems and the Internet. Its NanoStack, NanoRouter and NanoService software leads to low-power networks in wireless health, building automation, asset management and other applications.
+	['', 'wireless embedded system', ' ', 'embedded system', ' ', 'Wireless embedded', ' ', 'physical sensing', ' ', 'asset tracking', ' ', 'enterprise system', ' ', 'smart grid', ' ', 'internet of things', '']
+Explore Technologies
+	Manufacturer of interactive, talking globe known as Odyssey. The company is the maker of a globe which calculates latitude and longitude through a software technology called NearTouch. The globe is marketed as an educational product for children.
+	['', 'educational toy', ' ', 'learning toy', ' ', 'interactive products', ' globe']

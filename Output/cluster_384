@@ -1,15 +1,21 @@
-WaferScale Integration
-	Manufacturer of field-programmable peripheral integrated circuits. The company produces non-volatile PROM and EPROM memory products for electronic systems in telecommunications, data processing, military, automotive, and industrial markets for a variety of applications such as disk drive controllers, modems, engine management computers, engineering workstations, and video graphics.
-	['', 'integrated circuits', ' ', 'memory products', ' PROM EPROM ', 'data processing', ' modems']
-Qs Semiconductor Australia
-	Developer of disruptive non-volatile random access memory. The company offers a computer non-volatile memory of high density.
-	['', 'random access memory', 'RAM', 'non-volatile memory', '']
-XRL
-	Manufacturer of semiconductor memory devices. The company developes dynamic random access memories (DRAMs) and laser based products.
-	['', 'semiconductor memory', ' ', 'memory device', ' ', 'laser based product', '']
-Macronix International
-	Manufacturer of integrated device in the Non-Volatile Memory (NVM) market. The company provides a full range of NOR Flash, NAND Flash and ROM products with its R&D and manufacturing capability.
-	['']
-Exel Microelectronics
-	Provider of electronic programmable logic devices. The company designs, manufactures and markets non volatile memory products.
-	['', 'programmable logic device', ' ', 'memory product', ' ', 'non volatile memory', '']
+StratiCELL
+	Developer of in vitro regulatory toxicology and test methods. The company assists cosmetic, pharmaceutical, chemical and food industries in evaluating the safety and efficacy of their compounds by means of in vitro models and methods.
+	['', 'healthcare services', ' ', 'laboratory services', '']
+Biex
+	Developer of maternity management products. The company diagnostic tests to identify the potential for premature deliveries in pregnant women.
+	['maternity ', 'diagnostic test', ' ', 'hormone estriol', '']
+GeneOhm Sciences
+	Developer of nucleic acid-based diagnostic services. The company offers methicillin-resistant Staphylococcus aureus (MRSA) Assay, an in vitro diagnostic test for the direct detection of MRSA from a nasal specimen; StrepB Assay, an in vitro diagnostic test for the detection of Group B Streptococcus in pregnant women at the time of delivery or at any other stage of their pregnancy and Lysis Kit for the lysis of cells and spores from various sample types.
+	['', 'microbiology specimen processing', ' ', 'molecular diagnostic', ' ', 'MRSA Assay', '']
+Pinnacle Pharmaceuticals
+	Developer of therapeutics for pain management, urology, antibiotics and oncology space by leveraging its supramolecular chemistry platform and drug formulation technology. The company also develops synergistic compounds for current antibiotic regimes to treat patients suffering from infections refractory to the current gold-standard and therapeutics for various infectious disease indications, including methicillin resistant staphylococcus aureus and vancomycin resistant enterococci.
+	['', 'pain management', ' ', 'oncology space', ' ', 'supramolecular chemistry platform', ' ', 'drug formulation technology', ' ', 'synergistic compound', ' ', 'antibiotic regime', '']
+BabyCenter
+	Provider of pregnancy and parenting information online. The company provides advice on various issues, such as getting pregnant, pregnancy, babies, toddlers, preschoolers and big kids. It also provides various tools, such as pregnancy/baby calendar, baby name finder, due date calculator, pregnancy weight gain estimator, product recall finder, packing list for hospital or birth center, average fetal length and weight, birth clubs and pregnancy food diary.
+	['', 'parenting information', ' ', 'pregnancy information', ' ', 'pregnancy calendar', ' ', 'pregnancy food diary', '']
+Arpida
+	Developer of antimicrobial drugs for the treatment of infectious diseases. The company’s lead product is intravenous iclaprim, an antibiotic product that targets severe infections requiring hospital treatment, including those caused by methicillin-resistant Staphylococcus aureus.
+	['', 'antimicrobial drugs', ' antibiotic ', 'methicillin-resistant', ' ', 'staphylococcus aureus', '']
+Great Basin
+	Developer of point-of-care molecular diagnostic technology for healthcare professionals. The company offers molecular diagnostics platform for detection of nucleic acid and protein analytes in diagnostic testing platform. It also provides diagnostic tests for methicillin resistant staphylococcus aureus, group B streptococcus and human papilloma virus.
+	['', 'molecular diagnostic', ' ', 'diagnostic platform', ' ', 'diagnostic testing', '']

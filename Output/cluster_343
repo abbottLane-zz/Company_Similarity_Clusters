@@ -1,39 +1,33 @@
-Cropsolution
-	Developer of agrochemicals for protecting crops from weeds, pests and diseases. The company uses its proprietary Evolutionary Chemistry technology to discover and develop agrochemicals for protecting crops.
-	['', 'crop protection', ' agrochemical']
-Sirus
-	Operator of a pharmaceutical research company. The company focuses on drug development for the treatment of nerve injury and muscle spasm by using its proprietary platform technologies that covers pain, emesis, epilepsy and insomnia.
-	['', 'neurological disease', ' ', 'drug development', ' ', 'chemical properties', ' ', 'platform technologies', '']
-Genoway
-	Developer of genetically modified rat and mouse models for use in in vivo target validation and drug development. The company offers scientific consulting to enhance the reliability of the client\'s in vivo studies. It provides services or generation of transgenic mice, conditional and constitutive knockout mice, knockin mice and humanized mice.
-	['', 'transgenic mice', ' ', 'in vivo', ' ', 'mouse model', ' ', 'genetically modified', ' ', 'knockout mice', '']
-OPX Biotechnologies
-	Developer of bio-based fuels. The company uses proprietary bioengineering technology to convert renewable feedstocks into biofuels and green chemistry products.
-	['bioproduct bioengineering ', 'renewable fuel', ' biofuel ', 'green technology', '']
-Combio
-	Developer of novel synthesis and screening technologies. The company focuses in discovery and optimization of drug candidates against therapeutically important protease and protease reagents and protease characterization. It is based on proprietary bead-based lead optimization tools and chemical scaffolds for novel protease inhibitors. In addition, it has in-house in vitro pharmacology, medicinal chemistry, computational chemistry and intellectual property rights management.
-	['healthcare ', 'drug discovery', ' biochemical ', 'pharmaceutical preparations', ' ', 'screening technologies', '']
-Inpharmatica
-	Provider of proprietary platform, PharmaCarta(TM), is an integrated suite of informatics-based technologies. The company uses its  informatics approaches to look at the relationships between the structure and function of proteins in order to identify drug targets for further commercial development.
-	['informatics PharmaCarta ', 'drug discovery', '']
-OxEpi
-	Developer of new therapies for oncology and metabolic disease. The company uses a medicinal chemistry approach for the discovery and development of new antagonists of a major new class of enzymatic targets involved in epigenetic regulation.
-	['epigenetics ', 'genetic code', ' mutations']
-Coelacanth Chemical
-	Provider of proprietary chemistry technologies to rapidly discover new chemical entities for drug development and discovery. The company uses its proprietary technology ClickChem to create sets of novel building blocks which are used for the production of innovative compound sets that shorten lead discovery and lead optimization time for drug development.
-	['ClickChem , ', 'proprietary chemistry technologies', ' ', 'novel building blocks', '']
-Nuada Pharmaceuticals
-	Developer of new medicines by utilizing a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network. The company is a specialty pharmaceutical company that utilizes a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network to discover new medicines for both internal programs and collaborative projects. It delivers enabling chemical synthesis solutions for medicinal chemistry, process chemistry, high throughput parallel synthesis and combinatorial chemistry. The company\'s proprietary technologies, including instruments, chemicals, databases and informatics tools, fundamentally change chemical synthesis discovery and development, by accelerating the process in a cost-effective manner.
-	['', 'medicinal chemistry', ' ', 'medicinal chemistry', '']
-OSS Healthcare
-	Provider of seed funding to drug development companies. The company engages in searching for new oncology focused drugs and also provides seed funding for further drug development.
-	['', 'drug development', ' oncology drugs']
-Illumigen Biosciences
-	Developer of drugs for the treatment of hepatitis C virus infections. The company uses its proprietary genetic technologies to discover human genetic mutations for therapeutic drug mechanisms.
-	['', 'human genetic mutations', ' ', 'therapeutic drug', ' ', 'hepatitis C', '']
-Lee\'s Pharmaceutical Holdings
-	Provider of pharmaceuticals for drug development and clinical development. The company specializes in cardiovascular and infectious diseases, dermatology, oncology, gynecology, ophthalmology and others.
-	['', 'infectious diseases', ' dermatology']
-ESBATech
-	Developer of human antibody fragments for therapeutic applications. The company also provides drug development and development programs.
-	['', 'therapeutic application', ' ', 'antibody fragment', ' ', 'drug development', '']
+ishoni Networks
+	Developer of broadband communication gateway technology. The company develops highly integrated Broadband Gateway Engines for OEMs to provide easy voice and Internet service over a single broadband connection to residential and small business customers. Its platform enhance technologies such as xDSL, cable modems, voice over IP, home networking over phone lines (using HomePNA specifications) and wireless technologies, to provide shared Internet access throughout the small business or home.
+	['', 'broadband communication', ' ', 'broadband technology', ' ', 'broadband gateway', ' ', 'gateway engine', ' ', 'broadband connection', ' ', 'cable modem', ' ', 'home networking', ' ', 'wireless technology', '']
+SercoNet
+	Developer of Ethernet backbone networking services. The company provides home networking services that enables customers to easily interconnect PC\'s, telephone and entertainment equipment in every room over a single home network.
+	['', 'ethernet networking service', ' ', 'home networking service', ' ', 'broadband service', '']
+Netgem
+	Netgem provides connected home entertainment solutions to multiservice operators. Its nCloud software platform and hardware products provide technologies and solutions from digital payTV, internet, home networking and computing domains.
+	['set-top-box ', 'IPTV', ' ', 'broadband package', ' ', 'telecom operator', ' ', 'internet TV', '']
+Core Networks
+	Provider of a suite of applications for the broadband industry. The company offers provisioning, network assurance and home networking services for the cable industry.
+	['', 'broadband applications', ' ', 'network assurance', ' modem']
+Stargus
+	Provider of network and service analysis, and control solutions for cable broadband networks. The company offers CableEdge product suite that provides bandwidth management, network optimization, and service assurance to broadband operators.
+	['', 'network anaylsis', ' ', 'service analysis', ' ', 'bandwidth management', ' ', 'network optimization', ' ', 'service assurance', '']
+Fertile Earth
+	Manufacturer of commercial grade fustigation systems and formula plant foods for the green industry. The company offers its products to homeowners and home builders, business owners, turf professionals, commercial growers and agriculture markets through landscape professionals and their suppliers.
+	['', 'fustigation system', ' ', 'fertilizer delivery', ' ', 'building products', ' ', 'plant food', '']
+Gascoigne Melotte Holding
+	Manufacturer of equipment for the dairy industry. The company offers milking machines and other dairy automation products.
+	['', 'milk harvesting equipment', ' ', 'agricultural machinery', ' ', 'dairy automation', '']
+Kanisa
+	Provider of customer service applications. The company provides a suite of applications to support analysts, experts, users and empower customers with knowledge directly on the website.
+	['', 'customer service', ' ', 'empower customer', ' knowledge']
+Togetherville
+	Provider of online networking services. The company focuses on providing kids with safe, socially-connected, child-focused community where they can engage with age-appropriate eduction, expression and entertainment applications.
+	['', 'online networking', ' ', 'entertainment application', ' ', 'child-focused community', '']
+Emperative
+	Provider of on-demand multi-vendor network and service provisioning products for access and optical, DSL, cable, and wireless networks. The company\'s products include ProvEn Optical that delivers end-to-end circuits and services over multi-vendor access, core, and long-haul networks, as well as supports SONET, dense wavelength-division multiplexing, Ethernet, and IP; ProvEn Cable for end-to-end self-provisioning and auto-provisioning of cable modem services; ProvEn CMX with integrated dynamic host control protocol capability for cable-centric IP address management; ProvEn DSL, which lets end-users self-provision broadband services and allocate bandwidth on demand in DSL environments; and ProvEn Wireless that delivers integrated provisioning within wireless environments with self-provisioning and bandwidth on demand.
+	['', 'multi vendor network', ' ', 'service provisioning product', ' ', 'network device management', '']
+Positron Access Solutions
+	Developer and manufacturer of telecommunications equipment for critical service applications. The company design, manufactures and markets networking and broadband management equipment to information technology and telecommunication industries. Its platform enables broadband connectivity and system networking services.
+	['', 'telecommunications equipment', ' ', 'critical service', ' ', 'broadband management', ' ', 'broadband connectivity', ' ', 'networking service', '']

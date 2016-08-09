@@ -1,1000 +1,1000 @@
 Cluster 0:
-	Top 10 Dimensions:  cloud,  cloud computing,  computing,  cloud service,  provider cloud,  provides cloud,  software,  service,  deploying managing,  cloud based, 
+	Top 10 Dimensions:  feed,  internet content,  content,  information,  internet,  consumers,  services consumers,  information infrastructure,  provider internet,  helps, 
 Cluster 1:
-	Top 10 Dimensions:  telecom,  provider software,  software services,  services,  software,  processing,  services telecom,  data,  provider telecom,  mobility management, 
+	Top 10 Dimensions:  real time,  real,  time,  management,  reporting,  provides real,  decisions,  solution,  management solution,  approvals, 
 Cluster 2:
-	Top 10 Dimensions:  tours,  tourism,  guided,  social channels,  self,  channels company,  services online,  site,  channels,  services, 
+	Top 10 Dimensions:  mobile,  provides application,  mobile devices,  restaurant industry,  devices,  provider mobile,  application,  mobile technology,  browser,  restaurant, 
 Cluster 3:
-	Top 10 Dimensions:  outsourcing,  services,  outsourcing services,  management,  consulting,  services company,  consulting services,  legal,  provider management,  management consulting, 
+	Top 10 Dimensions:  customer relationship,  relationship management,  relationship,  customer,  crm,  management,  management crm,  software,  provider customer,  services, 
 Cluster 4:
-	Top 10 Dimensions:  development,  discovery,  development services,  engages development,  company engages,  engages,  drug,  services company,  services,  ailments, 
+	Top 10 Dimensions:  data,  data management,  integration,  data integration,  master,  services,  management,  master data,  management services,  automation, 
 Cluster 5:
-	Top 10 Dimensions:  sell,  platform,  list,  offers platform,  enables users,  enables,  users,  retail,  sell products,  gifts, 
+	Top 10 Dimensions:  platform software,  development,  development company,  software development,  deployment,  software,  assessment,  import export,  export,  import, 
 Cluster 6:
-	Top 10 Dimensions:  messages,  messaging application,  mobile messaging,  messaging,  allows,  users,  application company,  mobile,  application,  send, 
+	Top 10 Dimensions:  computer,  software,  developer computer,  aided,  computer aided,  computer software,  software company,  developer,  provider computer,  programming, 
 Cluster 7:
-	Top 10 Dimensions:  dimensional,  software,  software technology,  developer software,  internet,  technology internet,  internet things,  applications software,  request,  technologies enable, 
+	Top 10 Dimensions:  service,  containment,  subscriber,  embolic,  service providers,  providers,  products include,  monetize,  products,  include, 
 Cluster 8:
-	Top 10 Dimensions:  integrated circuits,  circuits,  integrated,  lan,  semiconductor,  lan products,  products,  designer,  manufacturer designer,  wireless, 
+	Top 10 Dimensions:  test,  cancer,  cell,  research,  cell based,  diagnostic,  blood,  developer,  kits,  continuous, 
 Cluster 9:
-	Top 10 Dimensions:  video,  digital,  digital video,  media,  digital media,  compression,  software,  communications,  video communications,  channels, 
+	Top 10 Dimensions:  solutions,  management,  management solutions,  engineering,  enterprise,  software,  services,  supply,  supply chain,  staffing, 
 Cluster 10:
-	Top 10 Dimensions:  social,  compares,  general public,  social analytics,  posted,  graphs,  provides detailed,  users track,  allow users,  friends family, 
+	Top 10 Dimensions:  spirits,  local merchants,  local,  merchants,  offering,  delivery,  businesses online,  cheese,  sweets,  service offering, 
 Cluster 11:
-	Top 10 Dimensions:  mobile,  games,  mobile phones,  mobile games,  games mobile,  phones,  game,  phones company,  develops,  company develops, 
+	Top 10 Dimensions:  mobile,  mobile internet,  services,  mobile marketing,  provider mobile,  internet,  mining technology,  marketing,  services using,  data mining, 
 Cluster 12:
-	Top 10 Dimensions:  company specializes,  specializes,  provider information,  technology services,  information,  technology,  services,  information technology,  services company,  consumer, 
+	Top 10 Dimensions:  virtual,  provider virtual,  economy,  offers payment,  network application,  online game,  provides way,  allow business,  limitations,  api, 
 Cluster 13:
-	Top 10 Dimensions:  cancer,  gene,  cancer drugs,  drugs,  diseases,  therapeutics,  cell,  anti cancer,  treatment,  developer, 
+	Top 10 Dimensions:  security,  network,  control,  authentication,  access,  compliance,  access control,  audit,  secure,  software, 
 Cluster 14:
-	Top 10 Dimensions:  advertising,  platform,  provides online,  online,  platform company,  provider advertising,  advertising platform,  provides,  company provides,  advertisement, 
+	Top 10 Dimensions:  shopping platform,  online shopping,  shopping,  online,  consumer electronics,  electronics,  platform,  platform company,  operator online,  consumer, 
 Cluster 15:
-	Top 10 Dimensions:  managed,  managed services,  services,  businesses,  internet protocol,  protocol,  internet,  cloud,  telephony,  provides cloud, 
+	Top 10 Dimensions:  fiber,  optic,  fiber optic,  optical,  fibers,  components,  switches,  company manufactures,  developer optical,  tunable, 
 Cluster 16:
-	Top 10 Dimensions:  integrated circuit,  circuit,  develops integrated,  integrated,  improve,  images,  develops,  company develops,  plant,  growth, 
+	Top 10 Dimensions:  real time,  real,  time,  data,  time data,  provider real,  software,  platform,  technology,  data visualization, 
 Cluster 17:
-	Top 10 Dimensions:  protein,  proteins,  human proteins,  biotech,  human,  pharmaceutical,  derived,  technology,  develops,  research, 
+	Top 10 Dimensions:  creator,  company creator,  application enabling,  application,  enabling,  creator mobile,  mobile application,  users,  mobile,  tag, 
 Cluster 18:
-	Top 10 Dimensions:  development,  tools,  development tools,  software,  products allow,  allow,  enterprise level,  app,  graph,  software tools, 
+	Top 10 Dimensions:  pet,  stores,  stores company,  food,  company operates,  operates,  operator,  grocery,  united states,  united, 
 Cluster 19:
-	Top 10 Dimensions:  silicon,  components,  parts,  technology company,  technology,  wafers,  gear,  methods,  develops,  circuit board, 
+	Top 10 Dimensions:  various diseases,  diseases,  various,  protect,  infectious,  company technology,  cellular,  3d imaging,  diagnose manage,  developer thermal, 
 Cluster 20:
-	Top 10 Dimensions:  meat,  products,  prevention products,  damage,  supplier,  products company,  manufacturer supplier,  prevention,  manufacturer,  equipment monitoring, 
+	Top 10 Dimensions:  drug delivery,  drug,  delivery,  oral,  delivery platform,  delivery technology,  respiratory,  nicotine,  delivery company,  proprietary, 
 Cluster 21:
-	Top 10 Dimensions:  community,  online community,  online,  touch,  people,  operator online,  people stay,  stay,  provides platform,  operator, 
+	Top 10 Dimensions:  operator biopharmaceutical,  biopharmaceutical,  biopharmaceutical company,  operator,  company company,  diseases,  company develops,  treatments,  develops,  delivery technologies, 
 Cluster 22:
-	Top 10 Dimensions:  immediate,  credit card,  platform connects,  credit,  connects,  card,  global,  payment,  card business,  qualified, 
+	Top 10 Dimensions:  broadband,  provider broadband,  services,  protocol,  ip,  internet protocol,  optimization,  internet,  service,  broadband internet, 
 Cluster 23:
-	Top 10 Dimensions:  personal computers,  computers,  personal,  software,  communication,  software enable,  company produces,  communication software,  enable,  produces, 
+	Top 10 Dimensions:  gaming,  online gaming,  online,  site company,  website enables,  friends,  website,  company website,  publish,  site, 
 Cluster 24:
-	Top 10 Dimensions:  health insurance,  health,  insurance,  insurance services,  plans,  provider health,  care,  health care,  benefits,  online private, 
+	Top 10 Dimensions:  advertising,  advertisers,  publishers,  online,  offers,  online advertising,  ads,  advertising solutions,  company offers,  text, 
 Cluster 25:
-	Top 10 Dimensions:  marketing,  retail,  marketing services,  consumer,  marketing platform,  branded,  provides,  company provides,  retail clients,  discounts, 
+	Top 10 Dimensions:  company main,  main,  clinical trial,  trial,  cardiology,  images,  decorating,  main focus,  electronic devices,  ipod, 
 Cluster 26:
-	Top 10 Dimensions:  advertising,  advertising services,  custom,  services,  content,  digital,  digital advertising,  video,  provider custom,  services company, 
+	Top 10 Dimensions:  games,  video games,  video,  developer video,  games company,  computer,  developer,  company develops,  publishes,  develops, 
 Cluster 27:
-	Top 10 Dimensions:  security,  network,  network security,  security services,  services,  management,  security management,  provides security,  security systems,  services company, 
+	Top 10 Dimensions:  ethanol,  producer,  production ethanol,  plants,  biofuels,  chemicals,  renewable,  energy,  dried,  uses, 
 Cluster 28:
-	Top 10 Dimensions:  pressure,  drilling,  aerospace automotive,  blood pressure,  aerospace,  blood,  measurements,  high pressure,  subsea,  sprinkler, 
+	Top 10 Dimensions:  site,  networking site,  site company,  social,  social networking,  networking,  express,  online,  provider social,  operator social, 
 Cluster 29:
-	Top 10 Dimensions:  revenue,  management,  management software,  software,  fundraising,  company known,  business,  predictive,  business management,  revenue management, 
+	Top 10 Dimensions:  water,  waste,  treatment,  wastewater,  water treatment,  waste water,  industrial,  municipal,  waste management,  wastewater treatment, 
 Cluster 30:
-	Top 10 Dimensions:  music,  users,  provider music,  online music,  online,  platform,  listen,  store,  enables users,  people, 
+	Top 10 Dimensions:  risk,  management,  compliance,  governance,  governance risk,  risk compliance,  corporate,  solutions,  software,  risk management, 
 Cluster 31:
-	Top 10 Dimensions:  imaging,  disease,  imaging systems,  resonance imaging,  magnetic resonance,  imaging devices,  resonance,  developer,  magnetic,  heart disease, 
+	Top 10 Dimensions:  power,  power technology,  semiconductor,  generation,  electric,  systems,  offers,  clock,  manufacturer power,  converters, 
 Cluster 32:
-	Top 10 Dimensions:  marketing,  marketing services,  services,  agency,  provider marketing,  services company,  online,  email,  advertising,  tools, 
+	Top 10 Dimensions:  office,  furniture,  supplies,  retailer,  office products,  products,  online retailer,  office supplies,  hedge,  office furniture, 
 Cluster 33:
-	Top 10 Dimensions:  social,  social networks,  networks,  websites,  platform,  users,  creator,  web,  online platform,  online, 
+	Top 10 Dimensions:  small,  small businesses,  businesses,  businesses company,  users set,  set,  phone,  track,  extensions,  voicemail, 
 Cluster 34:
-	Top 10 Dimensions:  iphone,  application,  search,  mobile,  application iphone,  iphone company,  company mobile,  search application,  information,  delivers information, 
+	Top 10 Dimensions:  commerce,  commerce services,  commerce platform,  provider commerce,  services,  commerce service,  services web,  logistics,  marketing,  businesses, 
 Cluster 35:
-	Top 10 Dimensions:  energy,  renewable,  renewable energy,  energy company,  electricity,  power,  installation,  utilities,  solar,  facilities, 
+	Top 10 Dimensions:  files,  users,  comments,  platform,  allows,  allows users,  file,  platform allows,  users organize,  desktop, 
 Cluster 36:
-	Top 10 Dimensions:  processing industries,  processing,  industries,  microwave,  technologies company,  food,  provides process,  developer asset,  performance monitoring,  markets various, 
+	Top 10 Dimensions:  thermal,  solar,  developer solar,  cooling,  liquid,  heat,  thermal management,  spray,  concentrating,  developer, 
 Cluster 37:
-	Top 10 Dimensions:  non invasive,  treatment,  invasive,  function,  non,  medical,  focuses,  injuries,  company focuses,  bone, 
+	Top 10 Dimensions:  company produces,  produces,  beverages,  beverages company,  beer,  producer,  coffee,  juice,  doors,  aluminum, 
 Cluster 38:
-	Top 10 Dimensions:  electronic,  payment,  electronic payment,  services,  transaction processing,  transaction,  commerce,  processing,  technical,  services company, 
+	Top 10 Dimensions:  emergency,  medical,  manufacturer,  manufacturer distributor,  equipment,  healthcare professionals,  ambulance,  ambulance services,  distributor,  healthcare, 
 Cluster 39:
-	Top 10 Dimensions:  location,  location based,  based,  developer location,  airport,  based services,  tracking,  time location,  real,  offers, 
+	Top 10 Dimensions:  discovery,  drug discovery,  protein,  drug,  computational,  small molecule,  technology,  molecule,  proteomics,  developed proprietary, 
 Cluster 40:
-	Top 10 Dimensions:  arthritis,  rheumatoid arthritis,  rheumatoid,  treatment,  novel,  developer novel,  novel therapeutics,  disease multiple,  crohn disease,  crohn, 
+	Top 10 Dimensions:  pain,  chronic pain,  chronic,  gene,  treatment,  patients,  pain treatment,  developer pain,  disorder,  pathways, 
 Cluster 41:
-	Top 10 Dimensions:  website,  auction,  operator,  provider website,  website company,  magazine,  website owners,  words,  dictionary,  particular, 
+	Top 10 Dimensions:  antibody,  developer antibody,  monoclonal,  monoclonal antibody,  antibody based,  treatment,  human,  cancer,  antibodies,  based products, 
 Cluster 42:
-	Top 10 Dimensions:  news,  content,  online,  online content,  news information,  application enabling,  information,  platform,  enabling,  mobile, 
+	Top 10 Dimensions:  development,  software development,  software,  development services,  services,  development platform,  offers,  development tools,  provides,  tool, 
 Cluster 43:
-	Top 10 Dimensions:  diseases,  immune,  genetic,  rare,  drug,  biotechnology,  products,  care products,  company focuses,  renal, 
+	Top 10 Dimensions:  travel,  hotel,  provider travel,  booking,  river,  search,  faster,  ticket,  business travel,  plans, 
 Cluster 44:
-	Top 10 Dimensions:  online,  owner operator,  owner,  products,  online retail,  retail,  beer,  books,  operator,  operator online, 
+	Top 10 Dimensions:  business,  healthcare education,  team,  independent software,  software vendors,  finance,  education,  online professional,  community people,  law enforcement, 
 Cluster 45:
-	Top 10 Dimensions:  multi player,  player,  developer gaming,  games,  multi,  gaming,  gaming software,  player games,  servers,  software company, 
+	Top 10 Dimensions:  storage,  data,  data storage,  server,  software,  storage systems,  virtualization software,  iscsi,  virtualization,  virtual, 
 Cluster 46:
-	Top 10 Dimensions:  united,  states,  company owns,  owns,  united states,  operates,  owns operates,  operator,  hotel,  cafe, 
+	Top 10 Dimensions:  technologies,  ray,  jet,  ink,  developer,  biological,  nuclear,  ofdm,  electron,  optical, 
 Cluster 47:
-	Top 10 Dimensions:  supply,  chain,  supply chain,  management,  chain management,  provider supply,  software,  medical supplies,  services,  inventory, 
+	Top 10 Dimensions:  finance,  corporate,  venture capital,  finance community,  venture,  intranet,  website acts,  capital,  community,  asset, 
 Cluster 48:
-	Top 10 Dimensions:  end,  end end,  optical,  provides end,  service,  wireless applications,  networking,  multi service,  optical access,  multi, 
+	Top 10 Dimensions:  recordings,  audio cds,  audio,  cds,  dvds,  merchandise,  home entertainment,  music,  retails,  including audio, 
 Cluster 49:
-	Top 10 Dimensions:  business,  business business,  marketplace,  online,  online business,  application business,  provider business,  marketplace company,  services,  industry, 
+	Top 10 Dimensions:  application enables,  application,  mobile application,  videos,  enables users,  mobile,  enables,  images videos,  company application,  users, 
 Cluster 50:
-	Top 10 Dimensions:  stem cell,  stem,  cell,  organisms,  aquatic,  biopharmaceutical,  metabolic disorders,  biopharmaceutical products,  serum,  repair, 
+	Top 10 Dimensions:  food,  sea food,  sea,  products,  fish,  food products,  food processing,  toxic,  reagents,  fresh, 
 Cluster 51:
-	Top 10 Dimensions:  food,  online,  delivery,  restaurant,  provider online,  delivery services,  service,  software service,  online software,  distribution platform, 
+	Top 10 Dimensions:  search,  search engine,  engine,  marketing,  advertising,  provider search,  optimization,  engine optimization,  company search,  web, 
 Cluster 52:
-	Top 10 Dimensions:  degeneration,  macular,  macular degeneration,  eye,  therapeutic,  proteins,  age related,  related macular,  age,  diabetic, 
+	Top 10 Dimensions:  radio,  radio frequency,  frequency,  identification,  frequency identification,  parking,  rfid,  identification technology,  technology,  services, 
 Cluster 53:
-	Top 10 Dimensions:  metrology,  designs,  designs manufactures,  company designs,  advanced,  handling,  wafer,  range,  manufactures,  process, 
+	Top 10 Dimensions:  wireless,  broadband wireless,  wireless networking,  broadband,  wireless access,  networking,  access,  access market,  optical,  wise, 
 Cluster 54:
-	Top 10 Dimensions:  office,  furniture,  supplies,  office furniture,  office products,  provider office,  office supplies,  school,  services web,  online retailer, 
+	Top 10 Dimensions:  sports,  provider sports,  facebook,  teams,  facebook applications,  live,  applications,  sports related,  sports teams,  platform, 
 Cluster 55:
-	Top 10 Dimensions:  data,  cloud,  security,  private,  virtual,  software,  security software,  information,  clouds,  cloud environments, 
+	Top 10 Dimensions:  planar,  long haul,  haul,  long,  optical,  photonic,  electromagnetic,  components,  transport,  tape, 
 Cluster 56:
-	Top 10 Dimensions:  provider commerce,  commerce software,  commerce,  channel,  channel partner,  software,  software services,  partner,  services,  saas, 
+	Top 10 Dimensions:  information,  information services,  covering,  operator,  operator online,  online,  linux,  provides,  company provides,  databases, 
 Cluster 57:
-	Top 10 Dimensions:  commercial industrial,  sensor,  wireless,  products,  monitoring control,  monitoring,  reduce,  commercial,  industrial,  wireless sensor, 
+	Top 10 Dimensions:  services customers,  developer marketer,  genetics,  marketer,  services,  wellness,  diagnostics,  clinical,  customers,  diagnostics company, 
 Cluster 58:
-	Top 10 Dimensions:  video,  video game,  game,  features,  short,  tournaments,  short form,  gamers,  news,  content, 
+	Top 10 Dimensions:  testing,  testing services,  services,  laboratory,  control testing,  production,  software testing,  services including,  setting,  including, 
 Cluster 59:
-	Top 10 Dimensions:  care,  care services,  home,  home care,  company supplies,  services,  supplies,  dental,  services company,  vacation, 
+	Top 10 Dimensions:  artificial,  orthopedic,  hips,  surgery,  company product,  specialized,  instruments,  manufacturer specialized,  manufacturer,  product, 
 Cluster 60:
-	Top 10 Dimensions:  pharmaceutical,  drug,  oral,  pharmaceutical products,  products,  drug delivery,  developer pharmaceutical,  delivery,  developer,  products based, 
+	Top 10 Dimensions:  business intelligence,  intelligence,  business,  intelligence software,  software,  provider business,  information,  data,  management,  services, 
 Cluster 61:
-	Top 10 Dimensions:  heart,  failure,  heart failure,  valve,  congestive heart,  congestive,  failure company,  cardiac,  treat,  devices, 
+	Top 10 Dimensions:  micro,  mechanical,  mechanical systems,  electro,  micro electro,  electro mechanical,  mems,  switching,  systems,  systems mems, 
 Cluster 62:
-	Top 10 Dimensions:  telecommunication,  telecommunication services,  services,  internet services,  provider telecommunication,  services company,  internet,  wireless,  wireless internet,  provides telecommunication, 
+	Top 10 Dimensions:  non invasive,  invasive,  patient,  non,  clinical,  physiotherapy,  temperature,  services designed,  therapeutic,  designed, 
 Cluster 63:
-	Top 10 Dimensions:  delivery,  content delivery,  delivery network,  content,  network,  infrastructure service,  computing,  computing services,  services,  streaming, 
+	Top 10 Dimensions:  wide area,  wide,  area,  applications,  enterprise,  applications company,  resource,  management,  access,  resource planning, 
 Cluster 64:
-	Top 10 Dimensions:  low,  low power,  signal,  mixed,  mixed signal,  power,  integrated,  radio,  wireless,  semiconductor, 
+	Top 10 Dimensions:  software,  software services,  services,  commerce software,  commerce,  provider commerce,  provides services,  software service,  electronic,  provides, 
 Cluster 65:
-	Top 10 Dimensions:  power,  plants,  heat,  plant,  generation,  power generation,  power plants,  generation company,  low,  power plant, 
+	Top 10 Dimensions:  games,  games company,  children,  online games,  web,  online,  games web,  platform,  wiki,  interactive, 
 Cluster 66:
-	Top 10 Dimensions:  cards,  prepaid,  debit,  cards company,  card,  debit cards,  gift,  gift cards,  greeting,  services, 
+	Top 10 Dimensions:  optical,  chip,  optical networking,  handset,  technology,  provides technology,  photonic,  surface,  surface plasmon,  plasmon, 
 Cluster 67:
-	Top 10 Dimensions:  fashion,  interior,  decoration,  online,  fashion items,  beauty,  including clothing,  accessories,  maternity,  accessories company, 
+	Top 10 Dimensions:  gas,  industrial,  natural gas,  industrial applications,  applications,  wireless communication,  gas detection,  natural,  detection,  communication, 
 Cluster 68:
-	Top 10 Dimensions:  wireless,  network,  services,  hosting,  wireless network,  network services,  web,  provider wireless,  web hosting,  high speed, 
-Cluster 69:
-	Top 10 Dimensions:  mobile,  mobile social,  social media,  media,  social,  application,  provider mobile,  media platform,  provides mobile,  location, 
-Cluster 70:
-	Top 10 Dimensions:  decision,  decision making,  making,  large complex,  pharmaceutical biotechnology,  pharmaceutical,  biotechnology companies,  biotechnology,  visualization,  complex, 
-Cluster 71:
-	Top 10 Dimensions:  investment,  managers,  investors,  funds,  analysts,  management,  ideas,  research,  financial,  investment managers, 
-Cluster 72:
-	Top 10 Dimensions:  research,  research services,  market research,  market,  services,  services company,  institutional,  informatics,  online research,  retail, 
-Cluster 73:
-	Top 10 Dimensions:  3d,  developer 3d,  interactive,  displays,  animations,  cities,  modeling software,  software,  desktop,  models, 
-Cluster 74:
-	Top 10 Dimensions:  healthcare,  clinical,  clinical trial,  trial,  patient,  hospitals,  medical,  improve,  data,  analytics software, 
-Cluster 75:
-	Top 10 Dimensions:  adhesives,  carbon,  electronic components,  materials,  coatings,  electronic,  electronics industry,  supplier,  carbon nanotube,  nanotube, 
-Cluster 76:
-	Top 10 Dimensions:  clothing,  online,  commerce,  provides commerce,  commerce platform,  operator online,  accessories,  platform,  operator,  store, 
-Cluster 77:
-	Top 10 Dimensions:  implants,  spinal,  suffering,  implants company,  ceramic,  fractures,  spinal implants,  treat patients,  patients suffering,  replacement, 
-Cluster 78:
-	Top 10 Dimensions:  products used,  multimedia,  products,  probe,  used,  scanning,  tool,  internet,  software,  communications, 
-Cluster 79:
-	Top 10 Dimensions:  gas,  natural gas,  natural,  fuel,  reserves,  fossil fuel,  gas company,  fossil,  fuel products,  gasification, 
-Cluster 80:
-	Top 10 Dimensions:  manufacturer electronic,  electromechanical,  electronic,  manufacturer,  equipment company,  manufactures,  equipment,  systems,  electronic electromechanical,  company manufactures, 
-Cluster 81:
-	Top 10 Dimensions:  performance,  performance management,  management,  reporting,  analysis,  provider performance,  business,  support,  business rules,  rules, 
-Cluster 82:
-	Top 10 Dimensions:  printing,  printing services,  eco friendly,  eco,  media,  friendly,  digital printing,  services,  irrigation,  provider media, 
-Cluster 83:
-	Top 10 Dimensions:  mobile data,  mobile,  analytics,  data,  visibility,  usage,  web video,  potato,  time visibility,  provider mobile, 
-Cluster 84:
-	Top 10 Dimensions:  enterprise,  data,  virtualization,  security,  compliance,  management,  log,  enterprise grade,  data centers,  solutions, 
-Cluster 85:
-	Top 10 Dimensions:  compression,  storage,  cloud,  provider cloud,  cloud based,  scale,  storage space,  able provide,  duplication,  compression technology, 
-Cluster 86:
-	Top 10 Dimensions:  high speed,  speed,  high,  access,  networks,  remote,  computer,  internet,  speed internet,  defense, 
-Cluster 87:
-	Top 10 Dimensions:  comparison,  prices,  compare prices,  compare,  website company,  shopping,  online,  comparison shopping,  price comparison,  website, 
-Cluster 88:
-	Top 10 Dimensions:  digital,  rights,  content,  rights management,  digital rights,  management,  digital content,  provider digital,  technology,  services, 
-Cluster 89:
-	Top 10 Dimensions:  video,  online video,  video advertising,  network company,  right,  online,  create,  advertisement,  advertising,  allows, 
-Cluster 90:
-	Top 10 Dimensions:  solar,  solar cell,  cell,  film solar,  film,  electroplating,  process,  modules,  metal,  minimizes, 
-Cluster 91:
-	Top 10 Dimensions:  voice,  voice video,  network,  video,  ip,  data,  solutions,  video data,  communications,  converged, 
-Cluster 92:
-	Top 10 Dimensions:  content,  entertainment,  entertainment content,  mobile,  mobile entertainment,  content company,  mobile operators,  operators,  titles,  distributor mobile, 
-Cluster 93:
-	Top 10 Dimensions:  information,  information services,  web based,  web,  based,  services,  provides,  company provides,  based information,  matching, 
-Cluster 94:
-	Top 10 Dimensions:  polymers,  automotive sector,  industries,  specialty,  cells,  chemicals,  conductive,  sector,  solar cells,  automotive, 
-Cluster 95:
-	Top 10 Dimensions:  ruby rails,  rails,  ruby,  web,  framework,  wiki,  open,  features,  web features,  footprint, 
-Cluster 96:
-	Top 10 Dimensions:  cancer,  test,  allergy,  cell,  products,  diagnostic,  services cancer,  cancer detection,  provider personalized,  cancer patients, 
-Cluster 97:
-	Top 10 Dimensions:  solar,  hot,  air,  engages manufacture,  manufacture,  water,  company engages,  engages,  floor,  cells, 
-Cluster 98:
-	Top 10 Dimensions:  acceleration,  wide area,  wide,  network,  area,  area network,  optimization,  application,  application acceleration,  network optimization, 
-Cluster 99:
-	Top 10 Dimensions:  healthcare,  healthcare industry,  industry,  management,  software products,  software,  industry company,  software healthcare,  workflow,  consumer, 
-Cluster 100:
-	Top 10 Dimensions:  design,  electronic,  electronic design,  design automation,  automation,  designs,  automation software,  circuit,  developer electronic,  programmable, 
-Cluster 101:
-	Top 10 Dimensions:  semiconductor,  manufacturer semiconductor,  equipment,  inspection,  wafer,  equipment company,  semiconductor equipment,  manufacturer,  fab,  materials, 
-Cluster 102:
-	Top 10 Dimensions:  biomass,  fuel,  fuels,  ethanol,  heating,  uses biomass,  renewable,  technology uses,  process,  biofuels, 
-Cluster 103:
-	Top 10 Dimensions:  financial,  banks,  pricing,  risk,  hedge,  provider financial,  software,  financial institutions,  risk management,  banks financial, 
-Cluster 104:
-	Top 10 Dimensions:  company manufactures,  manufactures,  seats,  components,  manufacturer,  datacom,  optical,  fiberoptic,  combustion engines,  motorcycles, 
-Cluster 105:
 	Top 10 Dimensions:  provider undisclosed,  undisclosed,  undisclosed products,  products services,  services,  products,  goods services,  goods,  zoom,  error, 
+Cluster 69:
+	Top 10 Dimensions:  paper,  digital,  document,  digital paper,  materials,  products,  pen,  documents,  packaging materials,  digital pen, 
+Cluster 70:
+	Top 10 Dimensions:  drugs,  drugs company,  molecule drugs,  develops drugs,  small molecule,  molecule,  disorders,  develops,  small,  diseases, 
+Cluster 71:
+	Top 10 Dimensions:  lasers,  laser,  manufacturer,  lasers laser,  diode,  excimer,  tunable,  manufactures,  materials processing,  pin, 
+Cluster 72:
+	Top 10 Dimensions:  enables users,  enables,  users,  company enables,  online,  books,  share,  reading,  provider online,  platform, 
+Cluster 73:
+	Top 10 Dimensions:  data,  software used,  provider data,  used,  based software,  implementing,  develops cloud,  based,  infrastructure,  cloud based, 
+Cluster 74:
+	Top 10 Dimensions:  clothing,  online,  store,  operator online,  store company,  provides commerce,  operator,  commerce,  commerce platform,  platform, 
+Cluster 75:
+	Top 10 Dimensions:  product,  product development,  engineering,  software,  development,  enterprise,  software engineering,  design,  management,  data, 
+Cluster 76:
+	Top 10 Dimensions:  therapeutic,  acute chronic,  develops therapeutic,  acute,  chronic,  company develops,  develops,  vaccine,  therapeutic proteins,  bio pharmaceutical, 
+Cluster 77:
+	Top 10 Dimensions:  solutions,  mobile,  automation,  field,  automation solutions,  force,  force automation,  field service,  management,  field force, 
+Cluster 78:
+	Top 10 Dimensions:  applications,  android,  engages development,  smartphone,  applications company,  mobile,  company engages,  engages,  development,  phone, 
+Cluster 79:
+	Top 10 Dimensions:  electronic medical,  records,  medical,  medical records,  resources,  management,  electronic,  human resources,  healthcare,  human, 
+Cluster 80:
+	Top 10 Dimensions:  inflammatory,  diseases,  inflammatory diseases,  compounds,  treatment,  arthritis,  diseases company,  develops compounds,  treatment neurodegenerative,  compounds treat, 
+Cluster 81:
+	Top 10 Dimensions:  stations,  radio stations,  radio,  stations company,  language,  operator,  spanish,  spanish language,  cng,  music, 
+Cluster 82:
+	Top 10 Dimensions:  drilling,  energy,  energy industry,  industry,  industry company,  operations,  portal,  monitoring reporting,  provider monitoring,  manager web, 
+Cluster 83:
+	Top 10 Dimensions:  online,  music,  online music,  portal,  portal company,  provider online,  offers online,  operator online,  offers,  company offers, 
+Cluster 84:
+	Top 10 Dimensions:  media,  digital media,  digital,  enable,  signatures,  enable online,  applications enable,  video services,  webcasting,  managed, 
+Cluster 85:
+	Top 10 Dimensions:  dental,  dental industry,  operator medical,  device,  engages providing,  device company,  medical device,  company engages,  providing,  engages, 
+Cluster 86:
+	Top 10 Dimensions:  location,  location based,  based,  user,  developer location,  real time,  offers,  real,  time,  services, 
+Cluster 87:
+	Top 10 Dimensions:  archiving,  management,  integrates,  company integrates,  archiving services,  information management,  services,  contact,  customer contact,  services company, 
+Cluster 88:
+	Top 10 Dimensions:  anti,  anti infective,  infective,  diseases,  developer anti,  drug,  treatments,  treatment,  develops,  gastrointestinal, 
+Cluster 89:
+	Top 10 Dimensions:  insulation,  wall,  carbon,  manufacturer,  thermal,  materials,  external,  paints,  machinery,  company develops, 
+Cluster 90:
+	Top 10 Dimensions:  devices,  end,  mobile,  mobile devices,  data,  creates new,  data centric,  end end,  centric,  company provides, 
+Cluster 91:
+	Top 10 Dimensions:  social media,  marketing campaigns,  campaigns,  media,  marketing,  media marketing,  social,  help brands,  brands connect,  brands, 
+Cluster 92:
+	Top 10 Dimensions:  health,  plans,  provider health,  software solutions,  health plans,  solutions,  provides,  software,  health insurance,  company provides, 
+Cluster 93:
+	Top 10 Dimensions:  signal,  mixed,  mixed signal,  circuits,  integrated circuits,  analog,  integrated,  signal processing,  fabless,  wireless, 
+Cluster 94:
+	Top 10 Dimensions:  provider management,  services,  communication services,  promotion,  management,  communication,  consulting services,  company engages,  engages providing,  engages, 
+Cluster 95:
+	Top 10 Dimensions:  event,  platform offers,  platform,  marketing platform,  calender,  platform company,  lifecycle,  calendar,  marketing,  management platform, 
+Cluster 96:
+	Top 10 Dimensions:  real estate,  estate,  real,  estate properties,  housing,  estate industry,  properties,  commercial real,  platform,  residential real, 
+Cluster 97:
+	Top 10 Dimensions:  mobile,  games,  applications,  mobile applications,  games mobile,  applications company,  developer online,  develops operates,  game,  develops, 
+Cluster 98:
+	Top 10 Dimensions:  manufactures,  company manufactures,  manufactures sells,  manufacturer,  sells,  devices,  kitchens,  seats,  markets,  designs manufactures, 
+Cluster 99:
+	Top 10 Dimensions:  breast,  breast cancer,  cancer,  risk,  cancer screening,  treatment breast,  treatment,  screening,  precision,  medical, 
+Cluster 100:
+	Top 10 Dimensions:  banking,  institutions company,  banks,  financial,  financial institutions,  institutions,  payment,  electronic payment,  electronic,  software, 
+Cluster 101:
+	Top 10 Dimensions:  construction,  facilities,  installation,  engineering,  specializes,  engineering services,  services,  company specializes,  stairs,  provider healthcare, 
+Cluster 102:
+	Top 10 Dimensions:  data,  big data,  big,  analytics,  data analytics,  provides,  database,  analytics platform,  help,  service, 
+Cluster 103:
+	Top 10 Dimensions:  broadcasting,  television,  broadcasting services,  television broadcasting,  engaged development,  provider television,  tv,  company engaged,  engaged,  services, 
+Cluster 104:
+	Top 10 Dimensions:  cars,  car,  platform,  car sharing,  people,  operator,  sharing,  online,  operator car,  online platform, 
+Cluster 105:
+	Top 10 Dimensions:  heart,  valve,  heart failure,  failure,  aortic,  repair,  congestive heart,  congestive,  implantable,  heart valve, 
 Cluster 106:
-	Top 10 Dimensions:  application,  mobile application,  mobile,  company application,  developer mobile,  application company,  videos,  users,  application enables,  application allows, 
+	Top 10 Dimensions:  prepaid,  cards,  debit,  financial,  financial services,  debit cards,  services,  prepaid debit,  pharmacy,  card, 
 Cluster 107:
-	Top 10 Dimensions:  baby,  supplements,  feeding,  baby food,  nutritional supplements,  food,  pregnancy,  milk,  nutritional,  baby care, 
+	Top 10 Dimensions:  healthcare,  providers,  healthcare providers,  software products,  software,  software healthcare,  company develops,  develops,  develops software,  management tool, 
 Cluster 108:
-	Top 10 Dimensions:  radiology,  interventional,  vascular,  vascular access,  access,  interventional radiology,  devices,  flower,  developer,  developer interventional, 
+	Top 10 Dimensions:  3d,  scanning,  desktop,  software,  developer 3d,  3d software,  models,  windows,  modeling,  provider desktop, 
 Cluster 109:
-	Top 10 Dimensions:  peer,  peer peer,  transfer,  messaging,  coaching,  file,  person,  closed,  rtl,  rental, 
+	Top 10 Dimensions:  platform,  cloud,  monitoring,  provider cloud,  monitoring platform,  application monitoring,  web applications,  platform company,  shop,  company platform, 
 Cluster 110:
-	Top 10 Dimensions:  social networking,  social,  networking,  platform,  provides social,  challenges,  networking platform,  web platform,  platform company,  enables, 
+	Top 10 Dimensions:  turbine,  technology,  technology helps,  turbine technology,  scrap,  company technology,  wind turbine,  turbines,  wind,  low, 
 Cluster 111:
-	Top 10 Dimensions:  independent,  pool,  covers,  enables employers,  technology enables,  company provides,  employers,  provides,  enables,  technology, 
+	Top 10 Dimensions:  management software,  management,  software,  software company,  energy,  energy management,  developer management,  space,  developer energy,  configuration management, 
 Cluster 112:
-	Top 10 Dimensions:  customer,  customer service,  service,  contractors,  solutions,  provider customer,  marketing customer,  software,  business,  sales customer, 
+	Top 10 Dimensions:  website,  platform helps,  owners,  helps,  build,  online,  teachers,  online platform,  web,  website owners, 
 Cluster 113:
-	Top 10 Dimensions:  wind,  power,  electric power,  energy,  electric,  wind energy,  wind power,  developer wind,  wind farms,  farms, 
+	Top 10 Dimensions:  investment,  public companies,  analysts,  ideas,  provides platform,  public,  market,  communicate,  financial,  investment managers, 
 Cluster 114:
-	Top 10 Dimensions:  optical,  technology used,  used,  tunable,  used optical,  grating,  diffraction grating,  grating technology,  diffraction,  technology, 
+	Top 10 Dimensions:  streaming,  movies,  shows,  television,  content,  online,  television shows,  video,  video streaming,  news, 
 Cluster 115:
-	Top 10 Dimensions:  insurance,  insurance products,  insurance company,  online insurance,  defined,  insurance companies,  insurance services,  agents,  employees,  compare, 
+	Top 10 Dimensions:  application,  users,  lets users,  sharing,  photos,  messages,  pictures,  lets,  application lets,  mobile, 
 Cluster 116:
-	Top 10 Dimensions:  online marketplace,  marketplace,  online,  provider online,  designers,  provides,  local,  company provides,  consumers,  aircraft, 
+	Top 10 Dimensions:  loyalty,  program,  cards,  gift,  points,  gift cards,  rewards,  management,  money,  programs, 
 Cluster 117:
-	Top 10 Dimensions:  students,  college students,  college,  universities,  enables students,  help,  platform,  campus,  enables,  allows students, 
+	Top 10 Dimensions:  digital,  entertainment,  dvd,  home,  television,  electronics,  products,  digital audio,  consumer,  consumer electronics, 
 Cluster 118:
-	Top 10 Dimensions:  computer,  provider computer,  computer software,  services,  software,  management,  programming,  software businesses,  information management,  management services, 
+	Top 10 Dimensions:  equipments,  measurement,  flow,  radio communications,  provides equipments,  control,  provider radio,  communications,  strain,  flow cytometry, 
 Cluster 119:
-	Top 10 Dimensions:  decision support,  decision,  support,  enterprise,  provider enterprise,  management,  software,  content,  content management,  software company, 
+	Top 10 Dimensions:  bloggers,  platform,  connect,  share,  share ideas,  platform bloggers,  platform company,  ideas,  connect share,  publishing platform, 
 Cluster 120:
-	Top 10 Dimensions:  production,  broadcasting,  tv,  media production,  broadcasting services,  post production,  post,  services,  media,  film, 
+	Top 10 Dimensions:  food,  provider food,  recipes,  recipe,  delivery services,  coffee,  food recipes,  doorstep,  traceability,  fast food, 
 Cluster 121:
-	Top 10 Dimensions:  booking,  airline,  hotel,  hotel booking,  travel,  business travel,  online,  provider online,  bookings,  websites, 
+	Top 10 Dimensions:  brain,  injury,  brain injury,  traumatic brain,  traumatic,  patients,  stroke,  neurological,  cns,  company focuses, 
 Cluster 122:
-	Top 10 Dimensions:  payment,  processing,  provider payment,  payment processing,  processing services,  services,  card,  payment services,  debit,  merchants, 
+	Top 10 Dimensions:  wireless,  wireless networks,  networks,  security,  networks company,  provider wireless,  wireless security,  encoding,  solutions,  data networks, 
 Cluster 123:
-	Top 10 Dimensions:  drugs,  molecule drugs,  small molecule,  diseases,  molecule,  small,  disorders,  develops drugs,  develops,  drugs company, 
+	Top 10 Dimensions:  peer,  peer peer,  messaging,  coaching,  transfer,  platform,  person,  grow,  builds,  available, 
 Cluster 124:
-	Top 10 Dimensions:  company focused,  focused,  cancer,  treatment,  focused development,  diseases,  provider biotechnology,  diseases cancer,  development,  novel, 
+	Top 10 Dimensions:  accessories,  men,  retailer,  apparel accessories,  accessories company,  apparel,  men women,  clothing accessories,  women,  clothing, 
 Cluster 125:
-	Top 10 Dimensions:  video demand,  demand,  video,  services,  telephony,  ethernet,  ip telephony,  ip,  movie,  television, 
+	Top 10 Dimensions:  order,  food,  ordering,  restaurant,  platform,  food ordering,  platform enabling,  online,  online food,  provides, 
 Cluster 126:
-	Top 10 Dimensions:  mixed signal,  mixed,  signal,  analog,  analog mixed,  thermal,  circuits,  integrated,  integrated circuits,  thermal management, 
+	Top 10 Dimensions:  infections,  bacterial,  resistant,  bacterial infections,  drug resistant,  antibiotics,  drug,  treat,  multi drug,  gram, 
 Cluster 127:
-	Top 10 Dimensions:  gas,  oil gas,  oil,  offshore,  gas industry,  technology,  industry,  monitoring,  production,  downhole, 
+	Top 10 Dimensions:  business development,  consulting,  sales,  consulting company,  development,  german market,  german,  business,  development consulting,  company specializes, 
 Cluster 128:
-	Top 10 Dimensions:  resistant,  staphylococcus,  staphylococcus aureus,  aureus,  resistant staphylococcus,  methicillin resistant,  methicillin,  antibiotic,  gram,  resistance, 
+	Top 10 Dimensions:  cell,  stem cell,  stem,  research,  biopharmaceutical,  products,  development,  production,  research development,  drug, 
 Cluster 129:
-	Top 10 Dimensions:  designers,  software,  tooling,  offers software,  product,  software support,  offers,  designs,  company offers,  designers company, 
+	Top 10 Dimensions:  investment,  management,  investors,  institutional,  services,  financial,  wealth,  provider investment,  funds,  managers, 
 Cluster 130:
-	Top 10 Dimensions:  semiconductor,  semiconductor products,  computer,  personal computer,  devices,  personal,  devices mobile,  consumer,  mobile,  provider semiconductor, 
+	Top 10 Dimensions:  enterprises,  enterprises company,  medium enterprises,  capital,  financing,  financial,  cash,  small,  small medium,  provides financial, 
 Cluster 131:
-	Top 10 Dimensions:  telecommunications,  telecommunications equipment,  manufacturer telecommunications,  networking services,  equipment,  networking,  telecommunications products,  manufacturer,  distribution,  broadband, 
+	Top 10 Dimensions:  insurance,  individual,  accounts,  digital assets,  family members,  according,  digital,  comparison services,  online insurance,  planners, 
 Cluster 132:
-	Top 10 Dimensions:  paper,  packaging,  packaging materials,  materials,  products,  wooden,  products company,  company manufactures,  bags,  measuring, 
+	Top 10 Dimensions:  diseases,  infectious diseases,  infectious,  treatment,  cancer,  products treatment,  products,  therapeutic products,  therapeutic,  developer, 
 Cluster 133:
-	Top 10 Dimensions:  providers,  service providers,  service,  carriers,  providers company,  atm,  policy,  services,  policy control,  broadband, 
+	Top 10 Dimensions:  outdoor,  manufacturer,  outdoor advertising,  advertising,  tiles,  porcelain,  ski,  advertising solutions,  banner,  sports, 
 Cluster 134:
-	Top 10 Dimensions:  platform,  platform allows,  time,  allows,  real,  allows users,  real time,  company platform,  users,  web, 
+	Top 10 Dimensions:  medical,  device,  medical device,  develops medical,  medical devices,  devices,  use,  single use,  single,  focuses medical, 
 Cluster 135:
-	Top 10 Dimensions:  website,  website enables,  company website,  friends,  operator,  social,  online,  enables,  operator social,  website allows, 
+	Top 10 Dimensions:  software,  digital,  develops software,  tablets,  photo,  software digital,  publishing,  workflow,  company develops,  digital publishing, 
 Cluster 136:
-	Top 10 Dimensions:  food,  consumer,  food processing,  distribution food,  goods,  toxic,  chefs,  fast food,  consumer goods,  manufacturing, 
+	Top 10 Dimensions:  communications,  computing,  semiconductor,  integrated,  microprocessors,  digital technology,  products mainly,  computing communications,  semiconductor components,  develops integrated, 
 Cluster 137:
-	Top 10 Dimensions:  financial,  financial services,  provider financial,  services,  payments,  institutions,  financial institutions,  network operators,  mobile,  provides financial, 
+	Top 10 Dimensions:  advisory services,  advisory,  services,  issues,  mortgage,  valuation services,  provides,  valuation,  trip,  profit, 
 Cluster 138:
-	Top 10 Dimensions:  search,  provider search,  search engine,  engine,  credit card,  company search,  cash,  rewards,  calendar,  credit, 
+	Top 10 Dimensions:  oil,  oil gas,  gas,  reserves,  technology,  gas industry,  pressure,  industry,  exploration,  offshore, 
 Cluster 139:
-	Top 10 Dimensions:  manufacturer,  outdoor,  manufacturer computer,  sporting,  computer systems,  sportswear,  ski,  cattle,  poultry,  compound, 
+	Top 10 Dimensions:  mail,  america,  america europe,  north america,  north,  europe,  solutions,  mail services,  security,  voice mail, 
 Cluster 140:
-	Top 10 Dimensions:  loss,  prevention,  loss prevention,  data loss,  enterprises,  protection,  technology enterprises,  data,  security,  threats, 
+	Top 10 Dimensions:  imaging,  digital,  image,  digital image,  camera,  digital camera,  developer digital,  imaging devices,  mobile imaging,  software, 
 Cluster 141:
-	Top 10 Dimensions:  virtual,  automation,  solutions,  manager,  management,  software,  service,  infrastructure,  lifecycle,  cloud, 
+	Top 10 Dimensions:  gear,  mothers,  nursery,  child,  flash sales,  maternity,  products,  nursery products,  flash,  deals, 
 Cluster 142:
-	Top 10 Dimensions:  network,  service,  bandwidth,  networks,  broadband,  cable,  operators,  broadband networks,  management,  control, 
+	Top 10 Dimensions:  conferencing,  web conferencing,  audio,  web,  sharing,  house,  audio conferencing,  cinema,  conferencing company,  desktop sharing, 
 Cluster 143:
-	Top 10 Dimensions:  rfid,  frequency identification,  identification,  radio frequency,  frequency,  radio,  identification technology,  identification rfid,  nfc,  inventory management, 
+	Top 10 Dimensions:  computer,  operating,  personal computer,  software,  controls,  personal,  vibration,  products,  digital products,  operating systems, 
 Cluster 144:
-	Top 10 Dimensions:  mobile,  provider mobile,  mobile marketing,  marketing,  services,  mobile content,  provides mobile,  applications,  content,  provides, 
+	Top 10 Dimensions:  minimally,  minimally invasive,  invasive,  surgery,  surgical,  instrumentation,  procedures,  treatment,  manufacturer surgical,  invasive surgical, 
 Cluster 145:
-	Top 10 Dimensions:  games,  casino,  social games,  played,  games played,  social,  ios android,  ios,  develops games,  android, 
+	Top 10 Dimensions:  video,  compression,  algorithms,  video compression,  algorithms software,  digital,  software,  technologies,  delivery digital,  digital video, 
 Cluster 146:
-	Top 10 Dimensions:  engineering,  solutions,  services,  management,  management solutions,  engineering services,  development,  application,  software,  staffing, 
+	Top 10 Dimensions:  care,  care products,  personal care,  personal,  products,  body,  body care,  health care,  products company,  age, 
 Cluster 147:
-	Top 10 Dimensions:  resource,  management,  resource planning,  planning,  enterprise resource,  enterprise,  financial management,  project management,  offers product,  project, 
+	Top 10 Dimensions:  game,  game developers,  developers,  analytics,  developers company,  habits,  games,  mobile game,  platform,  product helps, 
 Cluster 148:
-	Top 10 Dimensions:  solar,  solar energy,  energy systems,  coatings,  energy,  systems,  paints,  solar cells,  residential solar,  solar industry, 
+	Top 10 Dimensions:  wind,  power,  energy,  wind power,  wind energy,  developer wind,  wind farms,  farms,  photovoltaic power,  power generation, 
 Cluster 149:
-	Top 10 Dimensions:  games,  games company,  online games,  online,  lottery,  publisher,  publisher online,  developer publisher,  multiplayer online,  developer, 
+	Top 10 Dimensions:  media,  media management,  twitter,  social media,  management,  social,  backup,  tools manage,  online,  tools, 
 Cluster 150:
-	Top 10 Dimensions:  messaging,  instant messaging,  instant,  messaging company,  services,  company provides,  provider commercial,  provides,  voice,  voice messaging, 
+	Top 10 Dimensions:  vascular,  interventional,  radiology,  vascular access,  devices,  access,  developer interventional,  interventional radiology,  developer,  products, 
 Cluster 151:
-	Top 10 Dimensions:  printed,  circuit boards,  boards,  printed circuit,  circuit,  electronics,  molded,  optical inspection,  automated optical,  electrical, 
+	Top 10 Dimensions:  pharmaceutical research,  research,  pharmaceutical,  protein,  provider pharmaceutical,  research company,  company provides,  development,  research services,  provides, 
 Cluster 152:
-	Top 10 Dimensions:  military,  mission critical,  mission,  critical,  simulators,  commercial markets,  critical applications,  rugged,  communications,  intelligent, 
+	Top 10 Dimensions:  food products,  sell,  food,  products,  company allows,  allows merchants,  merchants sell,  vegetable,  trip,  allows, 
 Cluster 153:
-	Top 10 Dimensions:  travel,  airlines,  provider travel,  hotels,  deals,  travel industry,  hotel,  services travelers,  car,  engine company, 
+	Top 10 Dimensions:  nutrition,  personal,  provider personal,  personal finance,  provides personal,  sports,  finance,  exercise,  provides,  organizing, 
 Cluster 154:
-	Top 10 Dimensions:  configuration management,  configuration,  provider configuration,  management software,  software,  management,  oracle applications,  oracle,  network,  software company, 
+	Top 10 Dimensions:  mobile,  mobile marketing,  provider mobile,  marketing,  provides mobile,  mobile phones,  marketing mobile,  mobile content,  phones,  services, 
 Cluster 155:
-	Top 10 Dimensions:  application,  mobile,  cloud,  cloud based,  applications,  platform,  mobile application,  deploy,  developers,  application developers, 
+	Top 10 Dimensions:  students,  courses,  tools,  online education,  education,  engage students,  learning,  features,  education platform,  networking features, 
 Cluster 156:
-	Top 10 Dimensions:  sales,  demand,  provider sales,  demand sales,  rates,  portals,  sales productivity,  provider demand,  sales enablement,  software, 
+	Top 10 Dimensions:  mobile,  text,  services,  messages,  phones,  platform,  content,  text message,  end,  service, 
 Cluster 157:
-	Top 10 Dimensions:  delivery,  drug delivery,  drug,  delivery systems,  systems,  transdermal,  systems company,  developer,  developer drug,  delivery technology, 
+	Top 10 Dimensions:  shopping services,  shopping,  provider online,  online,  grocery shopping,  deals,  grocery,  online gifting,  gifting,  services, 
 Cluster 158:
-	Top 10 Dimensions:  power,  systems,  high,  manufacturer,  manufacturer power,  semiconductor,  power supply,  offers,  digital,  products, 
+	Top 10 Dimensions:  legal,  services,  firms,  invoice,  law firms,  law,  provides legal,  attorneys,  outsourcing,  management, 
 Cluster 159:
-	Top 10 Dimensions:  food products,  food,  products,  dairy,  frozen,  sea food,  baked,  breads,  sea,  products company, 
+	Top 10 Dimensions:  cancer,  drugs,  focused,  company focused,  focused development,  cancer drugs,  developing,  treatment,  drugs company,  pharmaceutical, 
 Cluster 160:
-	Top 10 Dimensions:  software platform,  software,  platform,  developed,  goods,  internet,  platform company,  company developed,  developed software,  software company, 
+	Top 10 Dimensions:  online,  provides online,  media,  online media,  content,  company provides,  provides,  online content,  management,  content management, 
 Cluster 161:
-	Top 10 Dimensions:  sports,  fans,  sports fans,  platform sports,  fans company,  web portal,  portal,  mobile,  platform,  allows sports, 
+	Top 10 Dimensions:  high performance,  high,  performance,  analog,  performance analog,  power,  manufacturer,  manufacturer high,  ic,  design, 
 Cluster 162:
-	Top 10 Dimensions:  electronics,  operator online,  consumer electronics,  computers electronics,  online,  computers,  online shopping,  operator,  consumer,  shopping, 
+	Top 10 Dimensions:  security,  cyber,  security systems,  cyber security,  security software,  services,  protection,  systems,  management,  government, 
 Cluster 163:
-	Top 10 Dimensions:  photo,  photo sharing,  sharing,  sharing application,  application,  provider photo,  tap,  application company,  twitter,  foursquare, 
+	Top 10 Dimensions:  development studio,  game development,  studio company,  studio,  game,  direct consumer,  provider game,  games,  development,  platforms, 
 Cluster 164:
-	Top 10 Dimensions:  email,  message,  text,  voice,  text message,  mobile,  im,  messaging,  users text,  send, 
+	Top 10 Dimensions:  security,  china,  company engages,  engages providing,  engages,  connectivity,  recreational,  security products,  security management,  security services, 
 Cluster 165:
-	Top 10 Dimensions:  trip,  site company,  site,  share,  users,  share information,  trip plans,  information,  users make,  enables users, 
+	Top 10 Dimensions:  optical,  films,  optical components,  components,  cameras,  provider optical,  optical materials,  applications,  products,  optical films, 
 Cluster 166:
-	Top 10 Dimensions:  mitral,  valve,  regurgitation,  mitral regurgitation,  mitral valve,  repair,  regurgitation company,  catheter,  lotus,  aortic valve, 
+	Top 10 Dimensions:  cancer,  molecular,  portfolio proprietary,  diagnostics,  patient,  proprietary,  diagnostics company,  portfolio,  dna,  proprietary product, 
 Cluster 167:
-	Top 10 Dimensions:  monitoring,  health,  provider health,  monitoring platform,  health monitoring,  reports,  patient,  platform,  health plans,  platform company, 
+	Top 10 Dimensions:  voice,  provider voice,  speech,  recognition,  speech recognition,  internet,  voip,  internet protocol,  services,  protocol, 
 Cluster 168:
-	Top 10 Dimensions:  speech,  recognition,  speech recognition,  voice,  provider speech,  applications,  center,  software,  recognition systems,  text, 
+	Top 10 Dimensions:  service,  remote,  solutions,  remote access,  access,  virtual,  control,  dynamic,  mailing,  organizations, 
 Cluster 169:
-	Top 10 Dimensions:  training,  surgical,  airborne,  manufactures,  devices instrumentation,  corporate,  training services,  company manufactures,  manufacturer medical,  tool, 
+	Top 10 Dimensions:  open source,  source,  open,  source software,  support,  deployment management,  support training,  software,  cloud,  deployment, 
 Cluster 170:
-	Top 10 Dimensions:  therapies,  urinary,  incontinence,  urinary incontinence,  bladder,  therapies company,  disorders,  developer,  treatment,  disorder, 
+	Top 10 Dimensions:  exploration,  gold,  mineral,  mining,  precious metals,  precious,  minerals,  metals,  mining exploration,  properties, 
 Cluster 171:
-	Top 10 Dimensions:  assistance,  service,  self service,  self,  automated self,  internet,  software,  automated,  software internet,  kiosks, 
+	Top 10 Dimensions:  electronic,  electronic commerce,  commerce,  services,  provider electronic,  billing,  commerce services,  business,  components,  electronic components, 
 Cluster 172:
-	Top 10 Dimensions:  programming,  api,  application programming,  interface,  programming interface,  application,  interface api,  apis,  provides application,  applications, 
+	Top 10 Dimensions:  consulting,  consulting services,  services,  services company,  provides,  company provides,  provider consulting,  systems,  development,  software, 
 Cluster 173:
-	Top 10 Dimensions:  process,  business process,  business,  software,  process management,  management,  process automation,  management software,  provider business,  developer business, 
+	Top 10 Dimensions:  denial service,  denial,  distributed denial,  attacks,  cyber,  attack,  ddos,  service ddos,  distributed,  threats, 
 Cluster 174:
-	Top 10 Dimensions:  storage,  disk,  storage devices,  drives,  computer,  disk drives,  devices,  heads,  manufacturer,  data, 
+	Top 10 Dimensions:  property management,  property,  management,  management software,  software,  residential,  products small,  service products,  homes,  properties, 
 Cluster 175:
-	Top 10 Dimensions:  data,  database,  servers,  distributed,  database data,  tier,  key,  analytic software,  data assets,  reduce operational, 
+	Top 10 Dimensions:  flat,  flat panel,  display,  panel,  displays,  panel display,  televisions,  control technologies,  provider touchscreen,  flat rate, 
 Cluster 176:
-	Top 10 Dimensions:  cancer,  drugs,  treatment,  treatment cancer,  diseases,  discovery,  drugs treatment,  discovery development,  developer drugs,  development, 
+	Top 10 Dimensions:  small medium,  medium,  medium sized,  sized businesses,  sized,  small,  businesses,  businesses company,  services,  business, 
 Cluster 177:
-	Top 10 Dimensions:  metals,  scrap,  non ferrous,  ferrous,  precious metals,  precious,  steel,  metal,  non,  ferrous metals, 
+	Top 10 Dimensions:  plastic,  plastic products,  molded,  injection,  products,  egg,  production,  manufacturer molded,  plastic injection,  tooling, 
 Cluster 178:
-	Top 10 Dimensions:  mobile,  phones,  mobile phones,  accessories,  mobile accessories,  headsets,  chargers,  memory,  memory cards,  phones accessories, 
+	Top 10 Dimensions:  simulators,  simulation,  flight,  loading systems,  technology control,  loading,  mathematical,  solutions,  control,  circuit, 
 Cluster 179:
-	Top 10 Dimensions:  medical,  medical devices,  devices,  developer medical,  device,  devices company,  medical device,  develops,  developer,  company develops, 
+	Top 10 Dimensions:  service providers,  providers,  service,  providers company,  software,  services,  atm,  telecommunications,  carriers,  enables, 
 Cluster 180:
-	Top 10 Dimensions:  advertising,  publishers,  advertising solutions,  solutions,  advertisers,  providers,  advertisers publishers,  advertising technology,  service,  online, 
+	Top 10 Dimensions:  outsourcing,  outsourcing services,  services,  provider outsourcing,  medium sized,  small medium,  sized,  medium,  sized companies,  internet access, 
 Cluster 181:
-	Top 10 Dimensions:  performance management,  compliance,  management,  performance,  regulatory,  management software,  regulatory compliance,  software,  tool company,  corporate, 
+	Top 10 Dimensions:  semiconductor,  semiconductor products,  products,  logic,  networking,  computer,  products company,  systems,  markets,  networking products, 
 Cluster 182:
-	Top 10 Dimensions:  sensors,  micro,  mems,  systems,  electro,  mechanical,  micro electro,  electro mechanical,  mechanical systems,  sensors company, 
+	Top 10 Dimensions:  live,  events,  events company,  live events,  live video,  video streaming,  live interactive,  video,  streaming,  interactive, 
 Cluster 183:
-	Top 10 Dimensions:  identity,  access,  authentication,  control,  biometric,  provider identity,  identity management,  access control,  id,  management, 
+	Top 10 Dimensions:  computing,  cloud,  cloud computing,  deploying managing,  environments,  deploying,  infrastructures,  software,  private,  computing environments, 
 Cluster 184:
-	Top 10 Dimensions:  clinical,  trials,  clinical trials,  pharmaceutical,  drug,  pharmaceutical biotechnology,  research,  clinical trial,  trial,  phase, 
+	Top 10 Dimensions:  fuel,  fuel cell,  hydrogen,  cell,  power,  small scale,  scale,  energy,  portable,  generators, 
 Cluster 185:
-	Top 10 Dimensions:  platform,  platform company,  tablet,  cloud,  computer tablet,  allows,  sharing,  cloud based,  sharing platform,  company platform, 
+	Top 10 Dimensions:  wireless,  antenna,  site,  network,  services,  web,  tower,  wireless communication,  site development,  web site, 
 Cluster 186:
-	Top 10 Dimensions:  wind,  turbines,  wind turbines,  turbine,  wind turbine,  turbines company,  provider wind,  offshore,  drive train,  technology, 
+	Top 10 Dimensions:  diagnostics,  molecular diagnostics,  molecular,  testing,  diagnostics platform,  single platform,  sensitive,  manufactures markets,  diagnostic,  develops manufactures, 
 Cluster 187:
-	Top 10 Dimensions:  imaging,  digital,  digital imaging,  camera,  imaging products,  digital camera,  imaging company,  products,  scanning,  mobile imaging, 
+	Top 10 Dimensions:  cloud,  security,  software,  cloud service,  private,  provider cloud,  services,  management,  cloud security,  information, 
 Cluster 188:
-	Top 10 Dimensions:  photonic,  flow,  control,  optical,  technology,  light,  surface,  plasmon,  surface plasmon,  chip, 
+	Top 10 Dimensions:  monitoring control,  wireless,  commercial industrial,  reduce,  commercial,  industrial,  monitoring,  wireless sensor,  control,  provider commercial, 
 Cluster 189:
-	Top 10 Dimensions:  children,  voice recognition,  ipad,  recognition,  educational,  voice,  games,  water,  company offers,  application, 
+	Top 10 Dimensions:  wind,  turbines,  wind turbines,  provider wind,  wind farm,  wind turbine,  states internationally,  turbine,  farm,  internationally, 
 Cluster 190:
-	Top 10 Dimensions:  parts,  moving,  parts automotive,  automotive,  tubes,  manufacture,  parts company,  manufacturer,  appliances,  industries, 
+	Top 10 Dimensions:  business process,  process,  business,  software,  process management,  management,  management software,  provider business,  enterprise,  bpm, 
 Cluster 191:
-	Top 10 Dimensions:  gastrointestinal,  minimally invasive,  minimally,  invasive,  gastrointestinal diseases,  endoscopic,  devices,  endoscopy,  developer,  procedures, 
+	Top 10 Dimensions:  systems,  vehicles,  control,  control systems,  systems company,  develops,  company develops,  modules,  electric,  vehicles company, 
 Cluster 192:
-	Top 10 Dimensions:  shopping,  online shopping,  shopping platform,  online,  provider online,  platform,  provides,  company provides,  men,  shoppers, 
+	Top 10 Dimensions:  media,  social,  social media,  provider social,  platform,  topics,  platform company,  media monitoring,  users,  presence, 
 Cluster 193:
-	Top 10 Dimensions:  phone,  mobile phone,  mobile,  users,  provider mobile,  web,  applications,  phones,  number,  services, 
+	Top 10 Dimensions:  end,  services,  end end,  building,  telecommunications,  telecommunications services,  provides end,  services company,  building services,  infrastructure, 
 Cluster 194:
-	Top 10 Dimensions:  antenna,  antenna systems,  distributed,  systems,  wireless communication,  wireless,  distributed antenna,  provider scalable,  communication systems,  communication, 
+	Top 10 Dimensions:  manufactures supplies,  manufacturing,  manufactures,  manufacturing processes,  semiconductors,  supplies,  instruments,  supplies medical,  processes,  developer, 
 Cluster 195:
-	Top 10 Dimensions:  healthcare,  provider healthcare,  healthcare services,  services,  services company,  women,  communication,  facilities,  containment,  sandals, 
+	Top 10 Dimensions:  facilities,  medication,  care,  care facilities,  long term,  term,  institutional,  long,  transitional,  medication management, 
 Cluster 196:
-	Top 10 Dimensions:  pharmaceutical company,  pharmaceutical,  company involved,  drugs,  involved,  research,  operator,  company company,  research development,  veterinary, 
+	Top 10 Dimensions:  companies,  pharmaceutical companies,  pharmaceutical,  companies company,  advertising platform,  advertising,  provider advertising,  platform,  textile,  verification, 
 Cluster 197:
-	Top 10 Dimensions:  restaurants,  restaurants company,  order,  food,  order food,  orders,  restaurant,  table,  application,  ordering, 
+	Top 10 Dimensions:  online,  marketplace,  shopping,  online marketplace,  provider online,  online shopping,  sellers,  buyers,  shopping website,  website company, 
 Cluster 198:
-	Top 10 Dimensions:  logistics,  software,  transportation management,  services logistics,  event management,  provider logistics,  industry,  bulk,  transportation,  event, 
+	Top 10 Dimensions:  diseases,  cardiovascular,  cardiovascular diseases,  diseases company,  treatment cardiovascular,  treatment,  drugs,  developer,  treat,  developer drugs, 
 Cluster 199:
-	Top 10 Dimensions:  dna,  dna microarrays,  microarrays,  supramolecular,  used production,  assays,  slides,  genetic,  coated,  fabrication, 
+	Top 10 Dimensions:  video,  short,  video game,  game,  tournaments,  short form,  gamers,  fracture,  news,  online video, 
 Cluster 200:
-	Top 10 Dimensions:  laboratory,  instruments,  instruments company,  provider laboratory,  equipment,  facilities,  washing equipment,  produces sells,  counterfeiting,  develops produces, 
+	Top 10 Dimensions:  satellite,  navigation,  receivers,  global,  terminals,  tuner,  gps,  mobile,  ghz,  products, 
 Cluster 201:
-	Top 10 Dimensions:  data,  big data,  data analytics,  big,  analytics,  cybersecurity,  database,  large enterprises,  analytics platform,  platform, 
+	Top 10 Dimensions:  marketing,  marketing services,  online marketing,  online,  services,  platform,  marketing platform,  provides,  provider online,  platform company, 
 Cluster 202:
-	Top 10 Dimensions:  search,  search engine,  engine,  engine company,  online search,  local,  canada,  crawler based,  internet,  crawler, 
+	Top 10 Dimensions:  disorders,  metabolic disorders,  candidates,  metabolic,  drugs metabolic,  cancer,  drug,  active,  diseases,  developer drugs, 
 Cluster 203:
-	Top 10 Dimensions:  molecular,  diagnostics,  molecular diagnostics,  diagnostic,  vaccines,  testing,  cancer,  molecular diagnostic,  assays,  diagnostics platform, 
+	Top 10 Dimensions:  programming,  application programming,  programming interface,  interface,  application,  api,  interface api,  apis,  provides application,  makes easy, 
 Cluster 204:
-	Top 10 Dimensions:  inflammatory,  diseases,  autoimmune,  autoimmune diseases,  disease,  diseases company,  therapeutics,  asthma,  cancer,  chronic obstructive, 
+	Top 10 Dimensions:  multi player,  player,  multi,  games,  developer gaming,  player games,  provides users,  gaming,  coins,  users online, 
 Cluster 205:
-	Top 10 Dimensions:  gold,  exploration,  mining,  minerals,  minerals company,  projects,  mining exploration,  provides ready,  platform buy,  finland, 
+	Top 10 Dimensions:  domain,  domain names,  acquiring,  names,  provide high,  internet,  acquiring developing,  developing,  failover,  developer database, 
 Cluster 206:
-	Top 10 Dimensions:  mail,  piece,  art,  users,  internet,  services,  mail services,  filtering,  platform,  available online, 
+	Top 10 Dimensions:  small molecule,  molecule,  therapeutics,  small,  molecule therapeutics,  developer small,  treatment,  therapeutics treatment,  autoimmune,  cancer, 
 Cluster 207:
-	Top 10 Dimensions:  stealth mode,  stealth,  nursery,  mode,  company stealth,  nursery company,  independent nursery,  operator independent,  independent,  company currently, 
+	Top 10 Dimensions:  solar,  power,  energy,  solar photovoltaic,  solar power,  photovoltaic,  projects,  software management,  rooftop,  management distributed, 
 Cluster 208:
-	Top 10 Dimensions:  positioning,  global positioning,  chips,  power consumption,  gps,  global,  consumption,  positioning gps,  auto,  low power, 
+	Top 10 Dimensions:  solar,  cells,  solar cells,  solar energy,  energy,  power,  production,  electric power,  manufacturer,  cells company, 
 Cluster 209:
-	Top 10 Dimensions:  healing,  wounds,  wound,  wound healing,  heal,  skin,  treatment,  heal wounds,  chronic,  products, 
+	Top 10 Dimensions:  eye,  degeneration,  macular,  macular degeneration,  age related,  related macular,  age,  retinal,  related,  blindness, 
 Cluster 210:
-	Top 10 Dimensions:  portal,  online portal,  online,  parenting,  destinations,  health,  portal company,  provides crowdsourcing,  provider online,  contracts, 
+	Top 10 Dimensions:  web applications,  web,  developer web,  helps businesses,  applications,  businesses,  helps,  developer,  connect customers,  developers, 
 Cluster 211:
-	Top 10 Dimensions:  programs,  merchandise,  branded,  branded merchandise,  brand,  logos,  programs company,  synthesis,  offers branded,  developer marketer, 
+	Top 10 Dimensions:  interactive,  language,  natural language,  technology,  processing technology,  agent technology,  processing,  tools enable,  natural,  conversational, 
 Cluster 212:
-	Top 10 Dimensions:  pain,  chronic,  treatment,  chronic pain,  patients,  treatment chronic,  pain management,  gi,  drug,  severe, 
+	Top 10 Dimensions:  optical,  storage software,  developer optical,  storage,  area networks,  networks,  area,  local area,  ssd,  developer storage, 
 Cluster 213:
-	Top 10 Dimensions:  events,  live events,  live,  online ticket,  events company,  ticket,  promoters,  tickets,  promotional services,  chat, 
+	Top 10 Dimensions:  ablation,  catheter,  cardiac,  patients,  invasive,  tissue,  heart,  minimally,  minimally invasive,  cardiac ablation, 
 Cluster 214:
-	Top 10 Dimensions:  ray,  technology,  medical technology,  shaping,  beam,  technology company,  medical,  low,  proprietary tools,  obtaining, 
+	Top 10 Dimensions:  application developers,  developers,  developer delivery,  delivery,  link,  application,  mobile,  platforms,  mobile application,  developer, 
 Cluster 215:
-	Top 10 Dimensions:  grid,  smart,  smart grid,  grid devices,  utility,  metering,  electricity,  softwares,  devices,  utilities, 
+	Top 10 Dimensions:  semiconductor,  inspection,  automated,  manufacturer semiconductor,  semiconductor industry,  metrology,  equipment,  industry,  tools,  inspection services, 
 Cluster 216:
-	Top 10 Dimensions:  photo,  photo sharing,  digital,  sharing,  online photo,  services,  software,  photographers,  enables,  photos, 
+	Top 10 Dimensions:  related services,  related,  equity,  online offline,  offline,  services,  offers,  company offers,  private equity,  mobile users, 
 Cluster 217:
-	Top 10 Dimensions:  compliance,  risk,  governance,  risk compliance,  governance risk,  risk management,  services,  security,  enterprises,  management, 
+	Top 10 Dimensions:  schools,  high schools,  program,  loyalty program,  000,  local businesses,  businesses,  local,  education services,  colleges, 
 Cluster 218:
-	Top 10 Dimensions:  plastic,  plastic products,  products,  producer,  bottles,  surface,  injection,  recyclable,  coating,  molded, 
+	Top 10 Dimensions:  job,  employers,  hiring,  job seekers,  candidates,  seekers,  skills,  employers candidates,  provider hiring,  job search, 
 Cluster 219:
-	Top 10 Dimensions:  chain,  chain company,  garden,  budget,  operator,  chain stores,  ring,  screens,  stores,  dresses, 
+	Top 10 Dimensions:  internet protocol,  protocol,  internet,  protocol based,  satellite,  based,  broadcast,  services,  telecommunications,  video broadcast, 
 Cluster 220:
-	Top 10 Dimensions:  image,  visualization,  provider image,  software,  developer image,  image sensor,  distribution,  developer,  face,  technology, 
+	Top 10 Dimensions:  loans,  banking,  credit,  accounts,  lending,  deposit,  personal,  reports,  checking,  services, 
 Cluster 221:
-	Top 10 Dimensions:  broadband,  wireless,  wireless broadband,  internet,  point,  fi internet,  broadband access,  internet service,  manufacturer wireless,  access, 
+	Top 10 Dimensions:  healthcare,  healthcare industry,  claims,  industry,  management,  industry company,  consumer,  software,  cardiac,  provides healthcare, 
 Cluster 222:
-	Top 10 Dimensions:  hearing,  aid,  sells,  manufactures sells,  designs manufactures,  communication skills,  marine,  communication,  company designs,  batteries, 
+	Top 10 Dimensions:  printing,  designs,  provider printing,  digital printing,  digital,  printing publishing,  vendor,  print,  vendor independent,  designs manufactures, 
 Cluster 223:
-	Top 10 Dimensions:  translation,  language,  translation services,  provider multilingual,  multilingual,  localization,  multilingual software,  language translation,  software,  globalization, 
+	Top 10 Dimensions:  fish company,  markets sells,  fish,  sells,  breeds,  markets,  river,  wholesale,  corporations government,  educational institutions, 
 Cluster 224:
-	Top 10 Dimensions:  testing,  testing services,  services,  applications,  personalization,  software,  multivariate testing,  testing applications,  automated,  multivariate, 
+	Top 10 Dimensions:  dna,  sequencing,  developer dna,  dna sequencing,  sequencing company,  dna chips,  microarrays,  developer,  dna microarrays,  dna sequence, 
 Cluster 225:
-	Top 10 Dimensions:  internet,  provider internet,  services,  businesses,  internet consulting,  offers internet,  consulting,  company offers,  offers,  internet video, 
+	Top 10 Dimensions:  sports,  fantasy,  fantasy sports,  sports fans,  fans,  players,  online,  football,  games,  basketball, 
 Cluster 226:
-	Top 10 Dimensions:  real estate,  estate,  real,  estate properties,  housing,  estate industry,  properties,  commercial real,  services,  residential real, 
+	Top 10 Dimensions:  phones,  mobile phones,  phones company,  mobile,  applications,  games,  android,  virtual,  application mobile,  develops virtual, 
 Cluster 227:
-	Top 10 Dimensions:  development studio,  studio company,  studio,  game development,  game,  provider game,  development,  games,  platforms,  platforms including, 
+	Top 10 Dimensions:  content,  recommendation services,  recommendation,  content discovery,  provider content,  online content,  online,  discovery recommendation,  content recommendation,  personal, 
 Cluster 228:
-	Top 10 Dimensions:  accessories,  shoes,  men,  clothing,  women,  retailer,  men women,  shoes accessories,  apparel,  fashion, 
+	Top 10 Dimensions:  payment,  payment services,  electronic payment,  provider payment,  merchants,  electronic,  debit,  services,  payment platform,  cards, 
 Cluster 229:
-	Top 10 Dimensions:  schools,  high schools,  program,  businesses,  secondary,  loyalty program,  000,  local businesses,  local,  loyalty, 
+	Top 10 Dimensions:  wireless,  wireless internet,  access,  wireless products,  high speed,  speed,  sky,  internet,  high,  products, 
 Cluster 230:
-	Top 10 Dimensions:  web,  web applications,  developer web,  applications,  applications company,  developers,  platform,  errors,  allows,  developer, 
+	Top 10 Dimensions:  software tools,  software,  tools,  app,  development software,  developers,  league,  development,  application development,  apps, 
 Cluster 231:
-	Top 10 Dimensions:  hodgkin,  hodgkin lymphoma,  lymphoma,  non hodgkin,  antibody,  treatment,  non,  antibodies,  cancer,  developing commercializing, 
+	Top 10 Dimensions:  production,  film,  media production,  post production,  production films,  post,  media,  provider media,  production house,  house company, 
 Cluster 232:
-	Top 10 Dimensions:  based social,  social,  social platform,  platform,  provider location,  location based,  people,  location,  meaningful,  discover, 
+	Top 10 Dimensions:  medical,  disposable,  medical products,  products,  manufacturer,  products medical,  sensors used,  markets,  medical technology,  veneer, 
 Cluster 233:
-	Top 10 Dimensions:  ad,  service,  mailing,  pay,  provider pay,  service company,  service helps,  helps businesses,  agency,  train, 
+	Top 10 Dimensions:  video,  advertisement,  online video,  campaign,  display,  metadata,  particular,  provider mobile,  accounting services,  video distribution, 
 Cluster 234:
-	Top 10 Dimensions:  cardiac,  ablation,  temperature,  cardiac ablation,  catheter,  esophagus,  heart,  pacemaker,  configured,  developer, 
+	Top 10 Dimensions:  design,  electronic design,  design automation,  automation,  electronic,  automation software,  software,  develops,  company develops,  aided design, 
 Cluster 235:
-	Top 10 Dimensions:  small molecule,  molecule,  small,  therapeutics,  molecule therapeutics,  developer small,  treatment,  treat,  therapeutics treatment,  developer, 
+	Top 10 Dimensions:  tubes,  structural,  discharge,  bioinformatics,  automotive industry,  feeding tubes,  feeding,  automotive,  bioinformatics services,  rationally, 
 Cluster 236:
-	Top 10 Dimensions:  connectivity,  engages providing,  company engages,  providing,  engages,  connectivity software,  handset,  connectivity solutions,  products company,  peripheral, 
+	Top 10 Dimensions:  local,  local search,  businesses,  search,  cities,  local businesses,  users,  engine company,  deals,  web, 
 Cluster 237:
-	Top 10 Dimensions:  3d,  provider 3d,  media services,  services,  media,  view,  space,  technology sports,  venues,  3d software, 
+	Top 10 Dimensions:  warehouse,  data warehouse,  data,  provider data,  analytical,  management,  appliances,  warehouse management,  software,  collection, 
 Cluster 238:
-	Top 10 Dimensions:  platform,  rewards,  users,  social,  creator,  enabling,  enabling users,  purchase,  earn rewards,  users purchase, 
+	Top 10 Dimensions:  contact,  platform,  websites,  search,  engine,  search engine,  provider platform,  sharing company,  contact center,  contact centers, 
 Cluster 239:
-	Top 10 Dimensions:  cable,  voice,  video services,  high,  multimedia,  deliver high,  chipset,  cable modem,  data,  modem, 
+	Top 10 Dimensions:  wireless,  wireless local,  provider wireless,  network services,  local area,  wireless data,  local,  network,  area,  provides wireless, 
 Cluster 240:
-	Top 10 Dimensions:  marketing,  marketing automation,  automation,  campaign,  software,  automation platform,  management tools,  support training,  provider marketing,  support, 
+	Top 10 Dimensions:  social commerce,  commerce,  commerce platform,  social,  content creators,  women,  creators,  provider social,  platform company,  rates, 
 Cluster 241:
-	Top 10 Dimensions:  payment,  payment services,  cards,  services,  online payment,  credit cards,  bank,  credit,  mobile,  money, 
-Cluster 242:
-	Top 10 Dimensions:  waste,  waste management,  company offer,  publishing,  services,  offer,  mixture,  yellow,  offer services,  procedure, 
-Cluster 243:
-	Top 10 Dimensions:  applications,  android,  development,  smart,  engages development,  applications company,  iphones,  applications android,  devices,  algae, 
-Cluster 244:
-	Top 10 Dimensions:  service,  service providers,  providers,  voice,  enables service,  services,  fax,  long,  enables,  deliver, 
-Cluster 245:
-	Top 10 Dimensions:  dental,  dental products,  dental industry,  products,  products company,  metallic,  polishing,  products utilize,  teeth,  teaching, 
-Cluster 246:
-	Top 10 Dimensions:  trading,  fixed income,  income,  electronic trading,  fixed,  trading platform,  mortgage,  liquidity,  income trading,  equity, 
-Cluster 247:
-	Top 10 Dimensions:  verification,  systems,  electronic,  computing,  electronic systems,  high performance,  performance computing,  level,  integrated circuits,  performance, 
-Cluster 248:
-	Top 10 Dimensions:  dna,  sequencing,  dna sequencing,  developer dna,  sequencing company,  dna chips,  developer,  acid dna,  deoxyribonucleic,  deoxyribonucleic acid, 
-Cluster 249:
-	Top 10 Dimensions:  consulting,  consulting services,  services,  advisory,  advisory services,  services company,  provider consulting,  provides,  company provides,  development, 
-Cluster 250:
-	Top 10 Dimensions:  sports,  provider sports,  individual,  fans,  teams,  nutrition,  updates,  recovery,  website,  social, 
-Cluster 251:
-	Top 10 Dimensions:  wide range,  wide,  books,  reading,  range,  provides wide,  online,  online reading,  readers,  community, 
-Cluster 252:
-	Top 10 Dimensions:  printing,  digital,  designs,  printers,  format,  printing systems,  digital printing,  printing technology,  promotional,  printers company, 
-Cluster 253:
-	Top 10 Dimensions:  long term,  term,  long,  care,  facilities,  care facilities,  term care,  provider long,  term health,  transitional, 
-Cluster 254:
-	Top 10 Dimensions:  conferencing,  collaboration,  collaboration software,  video conferencing,  developer collaboration,  video,  software,  powerpoint,  capture,  web conferencing, 
-Cluster 255:
-	Top 10 Dimensions:  obesity,  obesity company,  diabetes,  treatment obesity,  drugs,  developer,  diabetes obesity,  developer anti,  obesity diabetes,  treatment, 
-Cluster 256:
-	Top 10 Dimensions:  parents,  platform parents,  children,  share children,  commerce,  service,  brand,  platform,  provider children,  provides, 
-Cluster 257:
-	Top 10 Dimensions:  transportation services,  transportation,  services,  cargo,  airline services,  provider airline,  airline,  services company,  passenger,  air transportation, 
-Cluster 258:
-	Top 10 Dimensions:  networking products,  networking,  routers,  products,  networks,  data networking,  computer networks,  products company,  manufacturer,  computer, 
-Cluster 259:
-	Top 10 Dimensions:  database,  relational database,  relational,  database software,  database applications,  software,  software company,  company developer,  developer,  dangerous, 
-Cluster 260:
-	Top 10 Dimensions:  venture,  capital,  venture capital,  private,  equity,  private equity,  provider private,  funding,  financing,  companies, 
-Cluster 261:
-	Top 10 Dimensions:  fantasy,  sports,  fantasy sports,  football,  players,  games,  baseball,  basketball,  online,  provides fantasy, 
-Cluster 262:
-	Top 10 Dimensions:  diseases,  compounds,  neurological,  neurological diseases,  drugs,  diseases company,  drug,  neurologic,  treat,  developer drugs, 
-Cluster 263:
-	Top 10 Dimensions:  cancer,  breast,  breast cancer,  receptor,  treatment,  drug,  developer,  cancer screening,  treatment breast,  screening, 
-Cluster 264:
-	Top 10 Dimensions:  games,  social,  social games,  play,  free play,  free,  social gaming,  gaming,  game,  play social, 
-Cluster 265:
-	Top 10 Dimensions:  stations,  radio,  radio stations,  stations company,  radio communications,  provider radio,  language,  operator,  spanish language,  spanish, 
-Cluster 266:
-	Top 10 Dimensions:  real time,  time,  real,  test,  data,  platform,  provider real,  management,  technology,  monitoring, 
-Cluster 267:
-	Top 10 Dimensions:  filtration,  diagnostics,  quality control,  micro filtration,  quality,  based technology,  clinical diagnostics,  diagnostics company,  clinical,  micro, 
-Cluster 268:
-	Top 10 Dimensions:  discovery,  life science,  drug discovery,  science,  knowledge,  natural products,  life,  proteomics,  drug,  knowledge management, 
-Cluster 269:
-	Top 10 Dimensions:  medical,  manufacturer,  manufacturer medical,  medical devices,  devices,  medical products,  products,  use,  healthcare professionals,  pipes, 
-Cluster 270:
-	Top 10 Dimensions:  file,  backup file,  backup,  file sharing,  desktops,  sharing,  sharing online,  sync,  software virtual,  desktops laptops, 
-Cluster 271:
-	Top 10 Dimensions:  surgical,  medical instruments,  invasive,  instruments,  surgery,  minimally,  minimally invasive,  bone,  orthopedic,  surgical medical, 
-Cluster 272:
-	Top 10 Dimensions:  buying,  group,  group buying,  online group,  buying platform,  online,  exclusive,  offers group,  leisure,  activities, 
-Cluster 273:
-	Top 10 Dimensions:  electric,  hybrid,  motors,  vehicles,  electric motors,  technology,  motors company,  developer electric,  develops,  company develops, 
-Cluster 274:
-	Top 10 Dimensions:  anti,  anti infective,  infective,  developer anti,  developing products,  products,  anti spam,  infective products,  spam,  drugs, 
-Cluster 275:
-	Top 10 Dimensions:  satellite,  tracking,  receivers,  mobile fixed,  navigation,  fixed,  terminals,  tracking monitoring,  control,  monitoring control, 
-Cluster 276:
-	Top 10 Dimensions:  liquid crystal,  crystal,  optical,  liquid,  provider specialized,  crystal displays,  rescue,  specialized,  developer optical,  crystal technology, 
-Cluster 277:
-	Top 10 Dimensions:  content,  content distribution,  internet,  internet content,  services,  distribution,  distribution services,  application,  application services,  provider internet, 
-Cluster 278:
-	Top 10 Dimensions:  teachers,  teachers company,  math,  student,  classroom,  provides online,  platform enables,  online,  online platform,  share, 
-Cluster 279:
-	Top 10 Dimensions:  pen,  paper,  ink,  digital,  jet,  pda,  digital pen,  pen paper,  phones pda,  electronic, 
-Cluster 280:
-	Top 10 Dimensions:  seeds,  large scale,  scale,  large,  diesel,  dried,  industry,  software large,  software,  computing, 
-Cluster 281:
-	Top 10 Dimensions:  manufacturers,  equipment manufacturers,  original,  original equipment,  equipment,  protect,  oems,  network,  manufacturers oems,  technology, 
-Cluster 282:
-	Top 10 Dimensions:  risk,  security,  risk management,  compliance,  security software,  management,  software,  intelligent,  management compliance,  provides, 
-Cluster 283:
-	Top 10 Dimensions:  car,  services customers,  services,  wellness,  service,  service allows,  customers,  therapy services,  wellness services,  customers company, 
-Cluster 284:
-	Top 10 Dimensions:  coffee,  beans,  online subscription,  subscription,  food services,  edible,  grains,  foods,  feeds,  services industry, 
-Cluster 285:
-	Top 10 Dimensions:  education,  students,  educational,  educators,  learning,  higher education,  higher,  parents,  services,  math, 
-Cluster 286:
-	Top 10 Dimensions:  health,  health wellness,  wellness,  records,  spending,  personal health,  programs,  nutrition,  consumer directed,  pharmaceutical, 
-Cluster 287:
-	Top 10 Dimensions:  audio,  spaces,  spaces company,  cinema,  amplifiers,  conferencing,  loudspeakers,  audio conferencing,  analog,  construction industries, 
-Cluster 288:
-	Top 10 Dimensions:  gaming,  mobile,  play,  handsets,  gaming companies,  phones,  gaming company,  provides gaming,  gaming products,  video gaming, 
-Cluster 289:
-	Top 10 Dimensions:  travel,  online,  book,  online travel,  booking,  flights,  provider online,  hotels,  hotel,  travel services, 
-Cluster 290:
-	Top 10 Dimensions:  transmission,  services law,  contrast,  electron,  law,  phase,  services,  document collection,  provider mortgage,  monitoring tracking, 
-Cluster 291:
-	Top 10 Dimensions:  pet,  gps,  traffic,  pets,  pet food,  tracking,  technology,  cats,  dogs cats,  gps technology, 
-Cluster 292:
-	Top 10 Dimensions:  human resources,  human,  track,  resources software,  resources,  hr,  hr administration,  payroll,  online human,  auto, 
-Cluster 293:
-	Top 10 Dimensions:  film,  films,  independent,  entertainment industry,  cameras,  domestic international,  feature,  studio company,  domestic,  industry, 
-Cluster 294:
-	Top 10 Dimensions:  care,  professionals,  patient,  health,  patient care,  professionals company,  community,  care professionals,  site professionals,  child, 
-Cluster 295:
-	Top 10 Dimensions:  video,  wifi,  smartphone,  platform,  stents,  surveillance,  platform company,  platform allows,  allows,  monitoring, 
-Cluster 296:
-	Top 10 Dimensions:  channel,  marketing channel,  marketing,  multi channel,  youtube,  channel advertisers,  platform,  multi,  provides social,  platform enabling, 
-Cluster 297:
-	Top 10 Dimensions:  video,  streaming,  live,  video streaming,  live video,  transcoding,  content,  cameras,  encoding,  video cameras, 
-Cluster 298:
-	Top 10 Dimensions:  gene,  gene therapy,  therapy,  developer gene,  diseases,  therapy company,  gene therapies,  therapy products,  debilitating diseases,  company develops, 
-Cluster 299:
-	Top 10 Dimensions:  media monitoring,  monitoring,  service,  provider social,  social,  service company,  monitoring service,  manage,  manage online,  media, 
-Cluster 300:
-	Top 10 Dimensions:  television,  broadcasting,  provider television,  television broadcasting,  broadcasting services,  production,  broadcasters,  television programming,  content,  software technologies, 
-Cluster 301:
-	Top 10 Dimensions:  wine,  online,  nursing,  allows,  provider online,  allows people,  lending,  portfolios,  operates website,  online platform, 
-Cluster 302:
-	Top 10 Dimensions:  communication,  communication platform,  wireless,  wireless communication,  operator wireless,  cellular,  ultrasonic,  platform,  communication modems,  platform company, 
-Cluster 303:
-	Top 10 Dimensions:  food,  nutrition,  fatty acids,  omega,  omega fatty,  developer food,  acids,  fatty,  magazine,  food ingredients, 
-Cluster 304:
-	Top 10 Dimensions:  information,  information technology,  infrastructure,  vibration,  technology,  software,  compliance,  management,  provisions,  changes, 
-Cluster 305:
-	Top 10 Dimensions:  sciences,  life sciences,  lasers,  life,  diode pumped,  materials processing,  pumped,  opto electronic,  systems,  opto, 
-Cluster 306:
-	Top 10 Dimensions:  ip,  quality service,  protocol ip,  provider quality,  internet protocol,  quality,  protocol,  voip,  unified,  video, 
-Cluster 307:
-	Top 10 Dimensions:  learning,  online,  students,  online education,  courses,  education,  provider online,  tools,  resources,  resources including, 
-Cluster 308:
-	Top 10 Dimensions:  recovery,  disaster,  disaster recovery,  continuity,  data,  exchange,  business continuity,  microsoft exchange,  servers,  microsoft, 
-Cluster 309:
-	Top 10 Dimensions:  cable television,  television,  cable,  television networks,  county,  operator cable,  service,  television service,  assurance,  networks, 
-Cluster 310:
-	Top 10 Dimensions:  construction,  construction company,  construction services,  buildings,  provides construction,  building services,  retail establishments,  establishments,  company specializes,  specializes, 
-Cluster 311:
-	Top 10 Dimensions:  computers,  computers company,  macintosh,  focuses delivering,  apple macintosh,  apple,  delivering,  manufacturer,  norway,  manufacturer computers, 
-Cluster 312:
-	Top 10 Dimensions:  finance,  personal,  personal finance,  acts,  provides personal,  nutrition,  provider personal,  company acts,  portal,  finance product, 
-Cluster 313:
-	Top 10 Dimensions:  chips,  consumer,  segments company,  chips computer,  consumer market,  segments,  media,  media processing,  supports,  video audio, 
-Cluster 314:
-	Top 10 Dimensions:  digital,  digital marketing,  marketing,  provider digital,  platform,  marketing services,  provides digital,  services,  online digital,  platform company, 
-Cluster 315:
-	Top 10 Dimensions:  videos,  online videos,  online,  user,  provider online,  clips,  website,  watch,  head,  video, 
-Cluster 316:
-	Top 10 Dimensions:  event,  provider event,  event management,  software,  management,  upcoming,  organizers,  event organizing,  production management,  event planning, 
-Cluster 317:
-	Top 10 Dimensions:  switching,  fabrics,  ethernet,  ethernet switching,  switch,  cotton,  packet,  processors,  switch fabrics,  optical, 
-Cluster 318:
-	Top 10 Dimensions:  online,  online community,  provider online,  music,  community,  photos,  photos company,  operates online,  online music,  videos, 
-Cluster 319:
-	Top 10 Dimensions:  diagnostic,  point care,  point,  test,  kits,  care,  kits company,  blood,  diagnostic test,  manufacturer marketer, 
-Cluster 320:
-	Top 10 Dimensions:  data integration,  integration,  master,  knowledge,  data,  master data,  customer data,  customer,  workflow,  software, 
-Cluster 321:
-	Top 10 Dimensions:  metabolic,  metabolic disorders,  disorders,  diabetes,  drugs metabolic,  developer drugs,  treatment diabetes,  diseases,  drugs,  developer, 
-Cluster 322:
-	Top 10 Dimensions:  tape,  recordings,  manufacturer silicon,  silicon,  products,  storage,  carbide,  silicon carbide,  manufacturer,  mechanism, 
-Cluster 323:
-	Top 10 Dimensions:  engineering,  product,  mechanical,  design,  aided,  product development,  industrial,  software,  computer aided,  computer, 
-Cluster 324:
-	Top 10 Dimensions:  modem,  wireless,  specializes providing,  transceivers,  radio,  provider wireless,  radio frequency,  frequency,  company specializes,  specializes, 
-Cluster 325:
-	Top 10 Dimensions:  flat,  flat panel,  panel,  display,  photovoltaic,  manufacturers,  systems,  displays,  panel display,  photovoltaic systems, 
-Cluster 326:
-	Top 10 Dimensions:  users company,  mobile users,  mobile,  related services,  users,  related,  services,  data,  services mobile,  sim, 
-Cluster 327:
-	Top 10 Dimensions:  insulation,  thermal,  roofing,  wall,  systems,  materials,  machinery,  systems company,  vacuum insulation,  external, 
-Cluster 328:
 	Top 10 Dimensions:  formulations treatment,  developer formulations,  owns develops,  vascular disease,  voip software,  formulations,  company owns,  owns,  voip,  develops, 
+Cluster 242:
+	Top 10 Dimensions:  outsourced,  provider outsourced,  services,  management services,  management,  information,  information technology,  technology,  technology management,  internet, 
+Cluster 243:
+	Top 10 Dimensions:  long term,  term,  long,  acute,  care,  hospitals,  health,  nursing,  health systems,  hospitals health, 
+Cluster 244:
+	Top 10 Dimensions:  research,  market research,  market,  research services,  online research,  services,  online,  research data,  surveys,  provider online, 
+Cluster 245:
+	Top 10 Dimensions:  wounds,  healing,  wound,  wound healing,  heal,  skin,  treatment,  heal wounds,  chronic,  products, 
+Cluster 246:
+	Top 10 Dimensions:  identity,  provider identity,  users identity,  users,  sim,  id,  users deploy,  theft,  identity management,  access, 
+Cluster 247:
+	Top 10 Dimensions:  research,  research development,  engages research,  development,  engages,  company engages,  provider research,  veterinary,  services,  research services, 
+Cluster 248:
+	Top 10 Dimensions:  games,  social,  developer social,  social games,  facebook,  android,  games company,  mobile games,  platforms,  ios, 
+Cluster 249:
+	Top 10 Dimensions:  application,  mobile,  mobile application,  users,  application allows,  allows,  allows users,  share,  developer mobile,  company application, 
+Cluster 250:
+	Top 10 Dimensions:  database,  provider proprietary,  database applications,  proprietary tools,  obtaining,  provides various,  cartilage,  grafts,  proprietary,  shaping, 
+Cluster 251:
+	Top 10 Dimensions:  backup,  data,  file,  data backup,  backup file,  desktops,  wifi,  laptops,  desktops laptops,  file sharing, 
+Cluster 252:
+	Top 10 Dimensions:  computers,  computers company,  manufacturer computers,  super,  manufacturer,  norway,  computers electronics,  finland,  electronics,  company provides, 
+Cluster 253:
+	Top 10 Dimensions:  stealth mode,  stealth,  mode,  company stealth,  currently,  company currently,  affinity,  nursery company,  independent nursery,  operator independent, 
+Cluster 254:
+	Top 10 Dimensions:  customer,  software,  collaboration,  developer collaboration,  communications,  collaboration software,  capture,  customer retention,  allowing,  tie, 
+Cluster 255:
+	Top 10 Dimensions:  online service,  business,  marketing,  customer,  service,  online,  management,  web,  web business,  customer relationship, 
+Cluster 256:
+	Top 10 Dimensions:  food,  health,  acid,  nutrition,  fatty acids,  omega,  omega fatty,  developer food,  acids,  fatty, 
+Cluster 257:
+	Top 10 Dimensions:  wireless,  network,  wireless network,  mobile,  service,  network service,  develops wireless,  network equipment,  developer,  costs, 
+Cluster 258:
+	Top 10 Dimensions:  multimedia,  platform,  create,  enables,  photos,  users create,  platform enables,  social networking,  networking platform,  social, 
+Cluster 259:
+	Top 10 Dimensions:  gene therapy,  gene,  diseases,  therapy,  rare,  rare diseases,  therapy products,  associated virus,  adeno,  adeno associated, 
+Cluster 260:
+	Top 10 Dimensions:  social network,  social,  operator social,  entertainment industry,  entertainment,  network,  football,  network company,  industry,  bands, 
+Cluster 261:
+	Top 10 Dimensions:  translation,  localization,  translation services,  language translation,  language,  translation localization,  services,  machine,  globalization,  software, 
+Cluster 262:
+	Top 10 Dimensions:  parents,  platform parents,  children,  platform,  share children,  commerce,  service,  mobile platform,  provides,  brand, 
+Cluster 263:
+	Top 10 Dimensions:  telecommunication services,  telecommunication,  services,  provides telecommunication,  company formed,  formed,  provider telecommunication,  services company,  wireless,  provider telecommunications, 
+Cluster 264:
+	Top 10 Dimensions:  access,  remote,  remote access,  secure sockets,  layer virtual,  sockets,  sockets layer,  security,  virtual,  virtual private, 
+Cluster 265:
+	Top 10 Dimensions:  web sites,  sites,  web,  technology used,  used,  technology,  search,  applications,  used corporate,  content, 
+Cluster 266:
+	Top 10 Dimensions:  music,  sharing,  songs,  users,  sharing platform,  upload,  creates shares,  share,  users upload,  allows users, 
+Cluster 267:
+	Top 10 Dimensions:  pumps,  pressure,  pumps company,  manufacturer,  designs manufactures,  control,  advanced,  process,  company designs,  components, 
+Cluster 268:
+	Top 10 Dimensions:  trading,  exchange,  futures options,  futures,  fixed income,  trading platform,  foreign exchange,  income,  financial,  provider financial, 
+Cluster 269:
+	Top 10 Dimensions:  business,  social,  application business,  business social,  events,  lead generation,  social events,  unit,  lead,  business networking, 
+Cluster 270:
+	Top 10 Dimensions:  club,  golf,  club company,  operator,  golf courses,  products,  exclusive,  offers,  courses,  logo, 
+Cluster 271:
+	Top 10 Dimensions:  printing,  printing services,  eco friendly,  eco,  media,  services,  friendly,  digital printing,  irrigation,  provider media, 
+Cluster 272:
+	Top 10 Dimensions:  risk,  risk management,  management,  financial,  software,  security,  compliance,  pricing,  provides,  software products, 
+Cluster 273:
+	Top 10 Dimensions:  molecules,  proteins,  drug,  nervous,  central nervous,  nervous disorders,  central,  disorders,  peptides,  technology, 
+Cluster 274:
+	Top 10 Dimensions:  hiv,  pharmaceutical,  pharmaceutical firms,  hiv aids,  offices,  aids,  medical,  firms,  operator sales,  coordinates, 
+Cluster 275:
+	Top 10 Dimensions:  connected,  connected devices,  devices,  tablets,  video,  smartphones,  companion,  tvs,  manufacturers,  smartphones tablets, 
+Cluster 276:
+	Top 10 Dimensions:  printed,  circuit boards,  printed circuit,  boards,  circuit,  electronics,  molded,  boards company,  developer,  conductive, 
+Cluster 277:
+	Top 10 Dimensions:  non volatile,  programmable,  volatile,  memory,  volatile memory,  non,  programmable logic,  company designs,  logic,  designs, 
+Cluster 278:
+	Top 10 Dimensions:  microsoft,  digital,  windows,  download,  microsoft windows,  media,  online digital,  distribution,  music,  digital coupons, 
+Cluster 279:
+	Top 10 Dimensions:  internet,  internet based,  based,  services,  provider internet,  software,  software services,  provides,  based services,  company provides, 
+Cluster 280:
+	Top 10 Dimensions:  sales,  software enable,  software,  demand,  enable,  company software,  demand sales,  portals,  provider demand,  sales enablement, 
+Cluster 281:
+	Top 10 Dimensions:  lithium ion,  lithium,  ion,  battery,  charger,  oxygen,  segments,  used high,  ion technology,  batteries company, 
+Cluster 282:
+	Top 10 Dimensions:  insurance,  services,  health insurance,  insurance company,  insurance products,  insurance services,  health,  insurance companies,  management services,  photovoltaic systems, 
+Cluster 283:
+	Top 10 Dimensions:  storage,  storage devices,  disk,  drives,  devices,  disk drives,  heads,  manufacturer,  computer,  data, 
+Cluster 284:
+	Top 10 Dimensions:  biomass,  fuel,  process,  bio,  heating,  fuels,  developer process,  sugars,  municipal,  torrefied, 
+Cluster 285:
+	Top 10 Dimensions:  metal,  metal products,  materials,  sheet,  steel,  links,  composite,  products,  stainless,  powders, 
+Cluster 286:
+	Top 10 Dimensions:  images video,  video,  provider scalable,  images,  recognition,  scalable,  software,  image,  face,  image recognition, 
+Cluster 287:
+	Top 10 Dimensions:  spine,  stabilization,  systems,  cervical,  screw,  spinal,  pedicle,  pedicle screw,  lumbar,  thoracolumbar, 
+Cluster 288:
+	Top 10 Dimensions:  consumer,  consumer products,  products,  polymers,  designs,  day,  pricing,  designs develops,  solutions,  notebook, 
+Cluster 289:
+	Top 10 Dimensions:  network,  network infrastructure,  delivery,  application,  layers,  delivery network,  content delivery,  internet,  provides network,  infrastructure, 
+Cluster 290:
+	Top 10 Dimensions:  video,  digital video,  digital,  multimedia,  software,  collaborative,  cable,  applications,  video applications,  broadcasting, 
+Cluster 291:
+	Top 10 Dimensions:  assistance,  internet,  software internet,  service,  self,  self service,  internet company,  automated self,  kiosks,  software, 
+Cluster 292:
+	Top 10 Dimensions:  practice,  management,  manager,  practice management,  management services,  services,  services cancer,  physician,  cancer patients,  cancer, 
+Cluster 293:
+	Top 10 Dimensions:  analytics,  data,  provider mobile,  visibility,  mobile data,  mobile,  platform,  publishers,  real time,  usage, 
+Cluster 294:
+	Top 10 Dimensions:  mitral,  regurgitation,  mitral regurgitation,  mitral valve,  valve,  repair,  regurgitation company,  developer devices,  devices,  company devices, 
+Cluster 295:
+	Top 10 Dimensions:  seafood,  company processes,  fish,  operator seafood,  seafood processing,  processes,  meals,  processing,  europe middle,  seafood company, 
+Cluster 296:
+	Top 10 Dimensions:  small,  tax,  small business,  business,  small businesses,  businesses,  services,  processing services,  ebusiness,  card holders, 
+Cluster 297:
+	Top 10 Dimensions:  support,  management,  infrastructure,  customer support,  software,  application,  application management,  customer,  data,  applications, 
+Cluster 298:
+	Top 10 Dimensions:  base,  bluetooth,  wi,  wi fi,  fi,  base stations,  stations,  cellular,  modules,  wireless, 
+Cluster 299:
+	Top 10 Dimensions:  advertising,  advertising services,  custom,  digital,  services,  digital advertising,  provider custom,  video,  services company,  marketing, 
+Cluster 300:
+	Top 10 Dimensions:  gaming,  mobile,  gaming applications,  mobile gaming,  social gaming,  play,  gaming companies,  games,  engages developing,  social, 
+Cluster 301:
+	Top 10 Dimensions:  positioning,  gps,  global positioning,  chips,  global,  positioning gps,  power consumption,  devices,  consumption,  auto, 
+Cluster 302:
+	Top 10 Dimensions:  information technology,  information,  provider information,  asset,  technology,  services,  offers information,  recycling,  technology services,  services company, 
+Cluster 303:
+	Top 10 Dimensions:  heat,  plants,  aluminum,  plants company,  power,  coal,  electric motors,  plant,  applications,  production, 
+Cluster 304:
+	Top 10 Dimensions:  routers,  switching,  generation,  switches,  traffic,  optical,  communications,  service,  operator,  semiconductor company, 
+Cluster 305:
+	Top 10 Dimensions:  problems,  answering,  queries,  solve,  question answering,  question,  provides platform,  solve problems,  self service,  india, 
+Cluster 306:
+	Top 10 Dimensions:  merchandise,  fans,  fan,  branded merchandise,  platform,  branded,  b2b,  celebrities,  programs,  users, 
+Cluster 307:
+	Top 10 Dimensions:  inflammatory,  autoimmune,  diseases,  autoimmune diseases,  diseases company,  therapeutics,  asthma,  inflammatory autoimmune,  disease,  arthritis, 
+Cluster 308:
+	Top 10 Dimensions:  intellectual,  intellectual property,  property,  products,  property company,  commercialization,  property rights,  semiconductor,  lan,  rights, 
+Cluster 309:
+	Top 10 Dimensions:  customer,  enterprise software,  customer service,  service,  software,  enterprise,  provider enterprise,  solutions,  execution,  facing, 
+Cluster 310:
+	Top 10 Dimensions:  communication,  wireless,  nfc,  near field,  technology,  near,  ultrasonic,  field,  modem,  developer wireless, 
+Cluster 311:
+	Top 10 Dimensions:  aircraft,  aircraft company,  steel,  market,  actual transactions,  online marketplace,  actual,  pricing,  marketplace,  operator online, 
+Cluster 312:
+	Top 10 Dimensions:  provider location,  based social,  location based,  location,  social,  platform,  based,  platform connects,  connects,  users, 
+Cluster 313:
+	Top 10 Dimensions:  clinical,  pharmaceutical biotechnology,  trials,  clinical trials,  biotechnology,  research,  clinical research,  pharmaceutical,  biotechnology medical,  services pharmaceutical, 
+Cluster 314:
+	Top 10 Dimensions:  sciences,  life sciences,  life,  biomedical,  research,  systems,  unit,  pool,  manufacturing,  soil, 
+Cluster 315:
+	Top 10 Dimensions:  news,  information,  news information,  politics,  module,  business,  online information,  medical news,  daily news,  articles, 
+Cluster 316:
+	Top 10 Dimensions:  shoes,  boots,  handbags,  jewelry,  footwear,  sandals,  clothing,  accessories,  bags,  women, 
+Cluster 317:
+	Top 10 Dimensions:  time,  real time,  real,  platform allows,  allows,  platform,  company platform,  allows users,  platform company,  web, 
+Cluster 318:
+	Top 10 Dimensions:  resource,  human resource,  brazil,  human,  resource company,  cobalt,  nickel,  accounting,  mexico,  payment, 
+Cluster 319:
+	Top 10 Dimensions:  decision,  decision making,  making,  chat,  group,  group chat,  magazine,  provider group,  join group,  website, 
+Cluster 320:
+	Top 10 Dimensions:  students,  college,  college students,  apartments,  houses,  campus,  textbooks,  houses apartments,  rent,  enables students, 
+Cluster 321:
+	Top 10 Dimensions:  technology,  traffic,  company technology,  network,  caching,  technology company,  patterns,  network performance,  developer network,  software, 
+Cluster 322:
+	Top 10 Dimensions:  instant messaging,  messaging,  instant,  applications,  message,  commercial applications,  messaging company,  services,  intelligent,  application services, 
+Cluster 323:
+	Top 10 Dimensions:  travel,  website,  online,  online travel,  travelers,  operator,  hotels,  travel services,  airlines,  booking, 
+Cluster 324:
+	Top 10 Dimensions:  recovery,  disaster,  disaster recovery,  data,  continuity,  storage,  virtualization,  systems services,  mainframe,  services, 
+Cluster 325:
+	Top 10 Dimensions:  processing,  payment,  payment processing,  processing software,  registration,  software,  provider online,  online event,  processing services,  event, 
+Cluster 326:
+	Top 10 Dimensions:  breads,  baked,  breads baked,  goods company,  note,  goods,  grain,  bread,  bakery,  holders, 
+Cluster 327:
+	Top 10 Dimensions:  phone,  mobile,  allows,  mobile phone,  platform,  platform allows,  share,  users,  allows users,  provider mobile, 
+Cluster 328:
+	Top 10 Dimensions:  web based,  web,  based,  provider web,  matching,  based application,  company web,  software,  application,  based software, 
 Cluster 329:
-	Top 10 Dimensions:  volatile organic,  organic compounds,  compounds,  volatile,  oxidation,  organic,  analyzers,  chemical,  control,  odor, 
+	Top 10 Dimensions:  iphone,  facebook,  application,  twitter,  facebook twitter,  tap,  android,  sharing application,  sharing,  ipod touch, 
 Cluster 330:
-	Top 10 Dimensions:  social,  social network,  network,  provider social,  shopping,  network platform,  provides social,  network company,  users,  company network, 
+	Top 10 Dimensions:  appliances,  security,  endpoint security,  endpoint,  family,  appliances company,  solutions,  web,  network,  threat, 
 Cluster 331:
-	Top 10 Dimensions:  clinical,  enterprise,  record,  electronic,  medical record,  developer clinical,  electronic medical,  lending,  loan,  streamlines, 
+	Top 10 Dimensions:  training,  virtual,  offers virtual,  developer virtual,  simulation,  airborne,  services,  world,  offers,  regional, 
 Cluster 332:
-	Top 10 Dimensions:  solar,  solar power,  power,  solar panels,  panels,  photovoltaic,  tiles,  systems,  manufacturer,  energy, 
+	Top 10 Dimensions:  content delivery,  delivery,  video,  content,  high,  high definition,  definition,  streaming,  delivery network,  network, 
 Cluster 333:
-	Top 10 Dimensions:  software products,  software,  products,  develops markets,  optimization software,  company develops,  provider routing,  develops,  markets,  center applications, 
+	Top 10 Dimensions:  hotel,  booking,  online hotel,  online,  hotel booking,  budget,  airline,  bookings,  12,  operator, 
 Cluster 334:
-	Top 10 Dimensions:  audio video,  audio,  video,  sky,  broadcast,  content,  software,  recognition software,  web customers,  files, 
+	Top 10 Dimensions:  allows people,  people,  allows,  company allows,  social,  provider social,  check,  service,  interact,  networking service, 
 Cluster 335:
-	Top 10 Dimensions:  water,  water treatment,  treatment,  pumps,  air,  manufacturer,  air water,  uv,  pools,  provides water, 
+	Top 10 Dimensions:  car,  comparison,  automotive,  platform,  automotive sector,  sector,  compare prices,  compare,  prices,  users, 
 Cluster 336:
-	Top 10 Dimensions:  therapeutic,  therapeutic products,  parkinson disease,  provider therapeutic,  parkinson,  products,  disease,  products treat,  treat,  patients, 
+	Top 10 Dimensions:  hair,  acne,  ear,  therapies,  dermatological,  developer therapies,  disorders,  skin,  acute,  disorders company, 
 Cluster 337:
-	Top 10 Dimensions:  radiation,  therapy,  radiation therapy,  cancer,  systems,  therapy company,  replacement,  software improve,  chronic,  sensor systems, 
+	Top 10 Dimensions:  logistics,  transportation services,  services,  transportation,  delivery,  company provides,  points,  provides,  warehousing,  air transportation, 
 Cluster 338:
-	Top 10 Dimensions:  data,  sources,  real,  information,  data sources,  real time,  time,  application content,  disparate,  time providing, 
+	Top 10 Dimensions:  peripheral,  vessels,  catheter,  catheter based,  treatment,  endovascular,  connectivity solutions,  vascular,  treatment peripheral,  ankle, 
 Cluster 339:
-	Top 10 Dimensions:  comments,  company built,  images,  videos images,  built,  videos,  blog,  platform,  student,  interface, 
+	Top 10 Dimensions:  telecommunication,  equipments company,  equipments,  telecommunication industry,  seeds,  industry,  fiber,  manufacturer,  multiplexers,  manufacturer telecommunication, 
 Cluster 340:
-	Top 10 Dimensions:  family,  networking,  social networking,  operator,  company operates,  golf,  operates,  club,  family networking,  networking websites, 
+	Top 10 Dimensions:  cable television,  revenue,  cable,  television,  end,  provider end,  end end,  price,  operators,  county, 
 Cluster 341:
-	Top 10 Dimensions:  domain,  domain names,  acquiring,  names,  provide high,  internet,  advertisers,  acquiring developing,  developing,  failover, 
+	Top 10 Dimensions:  graphics,  3d graphics,  3d,  related technology,  cards,  technology,  graphics technology,  2d,  chips,  windows, 
 Cluster 342:
-	Top 10 Dimensions:  information technology,  information,  services,  technology,  provider information,  technology services,  management,  services company,  asset,  systems, 
+	Top 10 Dimensions:  photo,  photo sharing,  sharing,  photos,  friends,  facial recognition,  group messaging,  facial,  sharing services,  enables, 
 Cluster 343:
-	Top 10 Dimensions:  drug development,  chemistry,  drug,  development,  proprietary,  company uses,  uses proprietary,  uses,  new,  medicinal chemistry, 
+	Top 10 Dimensions:  broadband,  networking services,  home,  networking,  home networking,  cable,  dairy,  provisioning,  industry,  suite applications, 
 Cluster 344:
-	Top 10 Dimensions:  dining,  restaurants,  chains,  restaurant,  operator restaurant,  dining restaurants,  restaurant chains,  chains company,  owns operates,  restaurants dining, 
+	Top 10 Dimensions:  payment,  payment services,  online payment,  credit,  ipad,  online,  credit cards,  services,  cards,  card, 
 Cluster 345:
-	Top 10 Dimensions:  advertising,  mobile,  mobile advertising,  platform,  advertising platform,  advertising services,  online advertising,  online,  offers,  provider mobile, 
+	Top 10 Dimensions:  videos,  clips,  video,  online videos,  watch,  movie,  content,  website,  user,  movie clips, 
 Cluster 346:
-	Top 10 Dimensions:  manufacturers distributors,  distributors,  manufacturers,  product information,  product,  supplier,  developer product,  information,  offers supplier,  bones, 
+	Top 10 Dimensions:  image,  informatics,  patent,  technology,  provider image,  pending technology,  pharmaceutical,  patent pending,  pending,  visual, 
 Cluster 347:
-	Top 10 Dimensions:  medical,  medical device,  device,  device company,  operator medical,  company company,  operator,  supplies medical,  non,  medical products, 
+	Top 10 Dimensions:  broadband,  wireless broadband,  wireless,  broadband services,  internet,  services,  point,  mesh,  fi internet,  internet services, 
 Cluster 348:
-	Top 10 Dimensions:  social media,  media,  social,  platform,  marketing,  provider social,  media marketing,  web,  twitter,  business, 
+	Top 10 Dimensions:  advertising,  mobile,  mobile advertising,  advertising platform,  mobile applications,  provider mobile,  platform,  advertising services,  applications,  online advertising, 
 Cluster 349:
-	Top 10 Dimensions:  data,  software hardware,  hardware,  data analysis,  analysis,  software,  management systems,  data management,  resolution,  systems, 
+	Top 10 Dimensions:  therapies,  urinary,  urinary incontinence,  bladder,  incontinence,  urological,  treatment,  disorders,  disorder,  therapies company, 
 Cluster 350:
-	Top 10 Dimensions:  credit,  institutions,  financial,  enables,  information,  creates,  services,  payment,  financing,  financial institutions, 
+	Top 10 Dimensions:  medical,  operator medical,  non invasive,  device company,  non,  invasive,  medical device,  device,  company company,  identifies, 
 Cluster 351:
-	Top 10 Dimensions:  new york,  york,  wildlife,  contractor,  military,  new,  civilian,  systems military,  aerial,  licensing, 
+	Top 10 Dimensions:  social media,  media,  social,  media platform,  mobile social,  mobile,  platform,  web mobile,  web,  provider web, 
 Cluster 352:
-	Top 10 Dimensions:  windows,  desktop,  doors,  pdf,  windows desktop,  virtual desktop,  applications,  solution,  pcs,  server, 
+	Top 10 Dimensions:  diagnostic,  diagnostic devices,  testing,  devices,  allergy,  blood,  testing devices,  blood diagnostic,  allergy testing,  devices company, 
 Cluster 353:
-	Top 10 Dimensions:  small,  small businesses,  businesses,  small business,  business,  customers,  marketing,  web,  helps small,  retain customers, 
+	Top 10 Dimensions:  fluid,  lower,  lower pain,  pain,  urine,  renal,  company technology,  control,  accelerated,  computer controlled, 
 Cluster 354:
-	Top 10 Dimensions:  voice,  voice messages,  share voice,  users record,  record share,  enables users,  provider voice,  users,  record,  technology enables, 
+	Top 10 Dimensions:  project,  project management,  management,  developer project,  software,  company offers,  offers software,  services,  offers,  developer, 
 Cluster 355:
-	Top 10 Dimensions:  optical,  transport,  metro,  optical transport,  switching,  service,  packet,  equipment,  reconfigurable,  networking equipment, 
+	Top 10 Dimensions:  student,  education,  higher education,  higher,  career,  recruitment,  education institutions,  attendance,  student information,  teachers, 
 Cluster 356:
-	Top 10 Dimensions:  game,  game developers,  developers,  analytics,  platform,  invoice,  developers company,  virtual,  mobile game,  platform game, 
+	Top 10 Dimensions:  dental,  care services,  care,  managed care,  services,  managed,  home,  home care,  services company,  designs, 
 Cluster 357:
-	Top 10 Dimensions:  plans,  health,  operator internet,  internet,  healthcare information,  health care,  care,  healthcare,  company company,  transcription, 
+	Top 10 Dimensions:  social,  provides social,  feeds,  shopping,  platform,  provider social,  social marketplace,  users,  cattle,  developer social, 
 Cluster 358:
-	Top 10 Dimensions:  disease,  alzheimer,  alzheimer disease,  protein,  diabetes,  treatment,  type diabetes,  type,  diseases,  biotechnology company, 
+	Top 10 Dimensions:  insulin,  therapy,  diabetic,  chronic,  peptide,  patch,  diabetic neuropathy,  function,  neuropathy,  replacement, 
 Cluster 359:
-	Top 10 Dimensions:  online gaming,  online,  gaming,  provider online,  platform,  web platform,  games,  provides online,  gaming platform,  athletes, 
+	Top 10 Dimensions:  3d,  provider 3d,  graphic,  mapping,  media services,  cell phones,  displays,  space,  aerial,  view, 
 Cluster 360:
-	Top 10 Dimensions:  water,  recycling,  waste,  raw materials,  recycling services,  utilization,  raw,  materials,  traceability,  biofuel, 
+	Top 10 Dimensions:  wine,  sample,  wines,  tasting,  wine tasting,  provider personalized,  subscription service,  bottles,  subscription,  personalized, 
 Cluster 361:
-	Top 10 Dimensions:  product,  software,  lifecycle,  development,  lifecycle management,  software solutions,  product lifecycle,  building,  solutions,  product development, 
+	Top 10 Dimensions:  messaging,  mobile,  mobile messaging,  messaging services,  services,  messaging service,  email,  offers mobile,  message,  messaging platform, 
 Cluster 362:
-	Top 10 Dimensions:  hair,  care products,  care,  products,  body,  products company,  body care,  personal care,  related products,  personal, 
+	Top 10 Dimensions:  sleep,  diagnose,  obstructive sleep,  sleep apnea,  apnea,  breathing,  organ,  obstructive,  treat diagnose,  apnea company, 
 Cluster 363:
-	Top 10 Dimensions:  handheld,  handheld devices,  devices,  wireless,  mobile,  phones,  computers,  chipset,  provider handheld,  base, 
+	Top 10 Dimensions:  business,  consulting,  services,  business consulting,  consulting services,  provider business,  business solutions,  management,  solutions,  technology services, 
 Cluster 364:
-	Top 10 Dimensions:  graphics,  3d graphics,  3d,  graphics technology,  operator semiconductor,  cards,  semiconductor company,  entertainment industries,  technology,  2d, 
+	Top 10 Dimensions:  solar,  photovoltaic,  solar panels,  panels,  systems,  power,  heating,  photovoltaic solar,  solar products,  film, 
 Cluster 365:
-	Top 10 Dimensions:  uterine,  bleeding,  ablation,  tissue,  uterine bleeding,  women,  minimally,  minimally invasive,  collagen,  invasive, 
+	Top 10 Dimensions:  vacation,  rental,  vacation rental,  homes,  vacation homes,  resorts,  clubs,  places,  hospitality,  home, 
 Cluster 366:
-	Top 10 Dimensions:  broadband,  internet access,  internet,  access,  services,  broadband internet,  services ireland,  provider broadband,  ireland,  access services, 
+	Top 10 Dimensions:  ethernet,  carrier,  transport,  optical,  carrier class,  transport platform,  network,  manufacturer optical,  class,  optical transport, 
 Cluster 367:
-	Top 10 Dimensions:  fabless,  semiconductor company,  fabless semiconductor,  semiconductor,  operator fabless,  wireless,  transceiver,  transceiver products,  manufacturer fabless,  designs, 
+	Top 10 Dimensions:  transcription,  workflow,  management,  workflow management,  document,  document management,  management services,  medical transcription,  services,  resource planning, 
 Cluster 368:
-	Top 10 Dimensions:  entertainment,  online entertainment,  company enables,  enables users,  enables,  operator online,  online,  create,  users,  operator, 
+	Top 10 Dimensions:  cancer,  drugs,  treatment cancer,  treatment,  diseases,  discovery,  novel,  drugs treatment,  developer drugs,  discovery development, 
 Cluster 369:
-	Top 10 Dimensions:  software,  enterprise,  data,  enterprise software,  provider enterprise,  transformation,  integration,  business,  integration software,  suite, 
+	Top 10 Dimensions:  marketing,  marketing automation,  campaign,  provider marketing,  automation,  tools,  email,  analysis marketing,  management tools,  marketing professionals, 
 Cluster 370:
-	Top 10 Dimensions:  data warehouse,  warehouse,  data,  volumes,  analytical,  provider data,  provides data,  appliances,  database,  addressing challenges, 
+	Top 10 Dimensions:  bone,  orthopedic,  developer bone,  bone diseases,  fixation,  disorders,  diseases disorders,  drilling,  aging,  developer, 
 Cluster 371:
-	Top 10 Dimensions:  facebook,  blackberry,  game,  social game,  iphone,  blackberry android,  facebook applications,  social,  habits,  iphone blackberry, 
+	Top 10 Dimensions:  digital,  content,  rights,  digital rights,  provider digital,  rights management,  digital content,  management,  music,  technology, 
 Cluster 372:
-	Top 10 Dimensions:  cellular,  products,  services,  telephone,  systems services,  provides cellular,  services cellular,  systems,  products offers,  provider products, 
+	Top 10 Dimensions:  provider video,  video,  video demand,  demand services,  demand,  room,  chat,  build,  offers,  components, 
 Cluster 373:
-	Top 10 Dimensions:  internet applications,  internet,  software based,  applications,  based,  provides software,  software,  company based,  services,  location services, 
+	Top 10 Dimensions:  organic light,  light emitting,  emitting,  deposition,  organic,  fast,  light,  production,  oleds,  diodes, 
 Cluster 374:
-	Top 10 Dimensions:  threats,  attacks,  security,  cyber,  denial service,  denial,  distributed denial,  malicious,  service,  protection, 
+	Top 10 Dimensions:  imaging,  ultrasound,  imaging systems,  systems,  body,  optics,  cardiac,  size,  micro,  non, 
 Cluster 375:
-	Top 10 Dimensions:  data,  management,  customer,  data management,  management services,  services,  services company,  provider data,  address,  online customer, 
+	Top 10 Dimensions:  sensor data,  sensor,  environmental,  software,  replay,  data,  monitoring,  applications,  bugs,  record, 
 Cluster 376:
-	Top 10 Dimensions:  field,  force,  field service,  automation,  sales force,  service automation,  solutions,  force automation,  sales,  mobile, 
+	Top 10 Dimensions:  recognition,  pattern,  products,  image processing,  develops manufactures,  telecommunications products,  image,  generators,  pattern recognition,  electronic, 
 Cluster 377:
-	Top 10 Dimensions:  oncology,  developer oncology,  antiviral,  large unmet,  unmet,  hiv,  autoimmune,  products large,  large,  developer, 
+	Top 10 Dimensions:  nutritional,  supplements,  technology produce,  acceleration,  nutritional needs,  company uses,  based supplements,  technology,  produce,  uses patented, 
 Cluster 378:
-	Top 10 Dimensions:  nutritional,  lipid,  develops clinically,  lipid based,  clinically,  ingredients,  products,  develops,  foods,  functional, 
+	Top 10 Dimensions:  monitoring,  patient,  care,  patient monitoring,  monitoring devices,  health,  devices,  professionals,  care professionals,  health care, 
 Cluster 379:
-	Top 10 Dimensions:  commercial,  professionals commercial,  ventilation,  professionals,  interiors,  systems,  commercial buildings,  primarily,  apparel home,  products primarily, 
+	Top 10 Dimensions:  online,  social,  platform,  online platform,  provider online,  social networking,  touch,  social network,  networking,  provides online, 
 Cluster 380:
-	Top 10 Dimensions:  systems management,  provisioning,  systems,  management,  linux,  software,  linux based,  provider linux,  proven,  address management, 
+	Top 10 Dimensions:  disease,  damage,  alzheimer,  alzheimer disease,  treatment,  parkinson disease,  parkinson,  treatment alzheimer,  brain,  protein, 
 Cluster 381:
-	Top 10 Dimensions:  high performance,  high,  performance,  analog,  circuits company,  performance analog,  circuits,  ic,  integrated,  manufacturer, 
+	Top 10 Dimensions:  drug,  chemistry,  drug development,  development,  proprietary,  discovery,  new,  uses,  company uses,  discover, 
 Cluster 382:
-	Top 10 Dimensions:  wine,  spirits,  wines,  private label,  provider personalized,  subscription service,  label,  subscription,  consumers,  approximately, 
+	Top 10 Dimensions:  cells,  cytometers,  flow,  flow cytometers,  cytometers company,  medical diagnostics,  assays,  method,  tissue,  developed, 
 Cluster 383:
-	Top 10 Dimensions:  accounts,  loans,  banking,  services,  deposit,  credit,  checking,  management services,  management,  banking services, 
+	Top 10 Dimensions:  powerpoint,  collaboration,  collaboration software,  software,  software company,  word,  tools,  microsoft,  conferencing collaboration,  developer collaboration, 
 Cluster 384:
-	Top 10 Dimensions:  memory,  non volatile,  volatile,  volatile memory,  non,  random access,  random,  memory products,  programmable,  flash, 
+	Top 10 Dimensions:  diagnostic,  pregnancy,  vitro,  resistant,  aureus,  methicillin resistant,  staphylococcus,  staphylococcus aureus,  methicillin,  resistant staphylococcus, 
 Cluster 385:
-	Top 10 Dimensions:  blood,  vascular,  catheter,  aneurysm,  peripheral,  clots,  provider catheter,  treatment peripheral,  closure,  aortic aneurysm, 
+	Top 10 Dimensions:  parts,  moving,  surface,  parts automotive,  manufacture,  parts company,  plastic,  automotive,  appliances,  manufacturer, 
 Cluster 386:
-	Top 10 Dimensions:  deals,  daily deals,  daily,  recipes,  website,  platform,  online,  local,  platform users,  users, 
+	Top 10 Dimensions:  combustion,  engines,  combustion engines,  diesel,  internal combustion,  generation company,  engine,  power,  motors,  power generation, 
 Cluster 387:
-	Top 10 Dimensions:  america,  america europe,  north,  north america,  europe,  financial,  banking,  business,  latin,  industry, 
+	Top 10 Dimensions:  buying,  group buying,  group,  business search,  offers group,  leisure,  reviews,  activities,  discounts,  search, 
 Cluster 388:
-	Top 10 Dimensions:  exploration,  uranium,  engaged exploration,  nickel,  mineral,  properties,  company engaged,  provider mineral,  mineral exploration,  exploration services, 
+	Top 10 Dimensions:  baby,  feeding,  baby food,  food,  supplements,  products,  baby care,  toys,  cosmetics,  shop baby, 
 Cluster 389:
-	Top 10 Dimensions:  predict,  analyze,  analyze predict,  performance,  technology helps,  deoxyribonucleic,  deoxyribonucleic acid,  design,  model based,  acid, 
+	Top 10 Dimensions:  loss,  data loss,  loss prevention,  protect,  prevention,  content,  solutions,  information,  misuse,  data, 
 Cluster 390:
-	Top 10 Dimensions:  laser,  lasers,  optics,  lasers laser,  manufacturer,  excimer,  materials,  pin,  high power,  nail, 
+	Top 10 Dimensions:  leather,  shoes accessories,  shoes,  accessories,  leather goods,  clothing,  price,  goods,  discounted price,  outlet company, 
 Cluster 391:
-	Top 10 Dimensions:  stores,  grocery,  stores company,  retail,  operator,  online,  operates,  propane,  grocery stores,  company operates, 
+	Top 10 Dimensions:  chain,  chain company,  growing,  established,  operator,  growing demand,  demand,  garden,  farming,  ring, 
 Cluster 392:
-	Top 10 Dimensions:  interactive,  writing,  plug play,  plug,  play,  events,  designed,  company monitors,  provider monitoring,  collaboration, 
+	Top 10 Dimensions:  supply,  supply chain,  chain,  provider supply,  performance,  chain performance,  fulfillment software,  business,  collaboration,  business performance, 
 Cluster 393:
-	Top 10 Dimensions:  metal,  steel,  trading,  metal products,  trading platform,  selling,  links,  online,  products,  platform selling, 
+	Top 10 Dimensions:  implants,  fixation,  surgical,  implants company,  medical,  medical implants,  tissue,  surgical implants,  foot,  manufacturer, 
 Cluster 394:
-	Top 10 Dimensions:  job,  candidates,  recruiting,  employers,  job seekers,  seekers,  hiring,  social recruiting,  employers candidates,  job search, 
+	Top 10 Dimensions:  technology,  develops technology,  electric,  company develops,  develops,  technology company,  vehicles,  developer,  developer electric,  electric vehicles, 
 Cluster 395:
-	Top 10 Dimensions:  sleep,  computer aided,  aided,  computer,  developer,  sleep apnea,  apnea,  obstructive sleep,  breathing,  software, 
+	Top 10 Dimensions:  semiconductor,  integrated circuit,  circuit,  fabless semiconductor,  semiconductor company,  fabless,  integrated,  operator fabless,  designs,  development, 
 Cluster 396:
-	Top 10 Dimensions:  virtual,  provides virtual,  datacenter,  networking storage,  infrastructure,  simulation,  storage,  patient,  provider technology,  settlement, 
+	Top 10 Dimensions:  play,  games,  social games,  social,  free,  provides free,  free play,  casino,  online,  game, 
 Cluster 397:
-	Top 10 Dimensions:  smart card,  card,  smart,  solid state,  solid,  state,  blood diagnostic,  diagnostic devices,  diagnostic,  acid, 
+	Top 10 Dimensions:  database,  relational,  data,  relational database,  database software,  software,  servers,  company developer,  distributed,  database data, 
 Cluster 398:
-	Top 10 Dimensions:  property,  property management,  vacation,  homes,  vacation homes,  management,  residential property,  residential,  property owners,  rental, 
+	Top 10 Dimensions:  original,  original equipment,  manufacturers,  equipment manufacturers,  equipment,  transceivers,  oems,  manufacturers oems,  market,  multi band, 
 Cluster 399:
-	Top 10 Dimensions:  legal,  firms,  law firms,  law,  attorneys,  services,  communication,  provides legal,  attorneys law,  trial, 
+	Top 10 Dimensions:  handheld,  personal computers,  computers,  personal,  manufacturer computer,  computer,  handheld devices,  develops markets,  equipment company,  devices, 
 Cluster 400:
-	Top 10 Dimensions:  immune,  resistant,  infections,  innate,  viral,  drug resistant,  stimulate,  patients,  cancer,  viral infections, 
+	Top 10 Dimensions:  healthcare services,  healthcare,  provider healthcare,  services,  clinics,  space,  startups,  services company,  hospital,  health, 
 Cluster 401:
-	Top 10 Dimensions:  commerce,  commerce services,  electronic commerce,  electronic,  billing,  services,  customer,  provider commerce,  rating,  software, 
+	Top 10 Dimensions:  focuses developing,  technologies,  endoscopic,  company focuses,  developing,  focuses,  performing,  technologies company,  developer endoscopic,  developer, 
 Cluster 402:
-	Top 10 Dimensions:  touch,  touch screen,  screen,  vending,  developer touch,  device,  vending machine,  cashless,  fabric,  textiles, 
+	Top 10 Dimensions:  business,  provider business,  integration,  business business,  business integration,  right,  integration software,  services,  integration services,  journals, 
 Cluster 403:
-	Top 10 Dimensions:  beverages,  beverages company,  juice,  beer,  producer,  company produces,  produces,  include juice,  marketer fruit,  branded, 
+	Top 10 Dimensions:  packaging,  plastic,  packaging materials,  technology company,  measuring,  packaging company,  industry,  packaging industry,  technology,  materials, 
 Cluster 404:
-	Top 10 Dimensions:  genetic,  products used,  therapies,  treatments,  treatment,  bone,  developer therapies,  developer,  disorders,  treatments company, 
+	Top 10 Dimensions:  gene,  vaccines,  diseases central,  cancer,  therapeutic vaccines,  diseases,  therapeutic,  central nervous,  nervous,  vaccines company, 
 Cluster 405:
-	Top 10 Dimensions:  equipment,  communication,  networks,  communication networks,  manufacturer communication,  communication equipment,  switching,  developer manufacturer,  networks company,  manufacturer, 
+	Top 10 Dimensions:  gift,  online gift,  gift items,  gift card,  card,  gift cards,  items,  gifting,  store,  cards, 
 Cluster 406:
-	Top 10 Dimensions:  storage,  data storage,  data,  storage software,  software,  storage systems,  iscsi,  server,  storage services,  performance, 
+	Top 10 Dimensions:  cleaning,  cleaning services,  cleaning technologies,  premises,  metadata,  semiconductor,  maintenance,  laser technology,  semiconductor wafers,  data, 
 Cluster 407:
-	Top 10 Dimensions:  provider web,  web based,  web,  based,  tool,  carbon,  based tool,  assessment,  league,  based service, 
+	Top 10 Dimensions:  printing,  large,  printing systems,  large format,  format,  antiviral,  products large,  large unmet,  developer oncology,  products, 
 Cluster 408:
-	Top 10 Dimensions:  parking,  meters,  street,  manufacture distribution,  software online,  online services,  design manufacture,  engages design,  management technologies,  space, 
+	Top 10 Dimensions:  electricity,  wave energy,  wave,  energy,  generator,  projects,  generators,  power,  generating,  renewable, 
 Cluster 409:
-	Top 10 Dimensions:  wrist,  watches,  touchscreen,  computers,  electronics products,  develops produces,  tap,  vibrating,  alert,  fitness, 
+	Top 10 Dimensions:  laboratory,  scientific,  equipment,  washing,  industrial laboratory,  washing equipment,  developer scientific,  animal,  buying,  probe, 
 Cluster 410:
-	Top 10 Dimensions:  contact,  management,  integrated,  services,  provider integrated,  information management,  integrates,  services company,  company integrates,  information, 
+	Top 10 Dimensions:  management,  linux,  software,  systems management,  open,  open source,  source,  provides open,  provisioning,  environments, 
 Cluster 411:
-	Top 10 Dimensions:  business,  sized enterprises,  medium sized,  enterprises,  small medium,  sized,  medium,  operational,  business intelligence,  operational business, 
+	Top 10 Dimensions:  start ups,  ups,  start,  provider finance,  technical,  finance,  outsourcing solutions,  strategic,  accounting,  outsourcing, 
 Cluster 412:
-	Top 10 Dimensions:  bacterial,  treat,  infections,  diseases,  sample,  clinical,  disease,  bacterial infections,  stage,  products treat, 
+	Top 10 Dimensions:  networking,  family,  social networking,  social,  networking platform,  operator,  platform,  platform company,  online,  websites, 
 Cluster 413:
-	Top 10 Dimensions:  science,  life science,  research,  life,  development,  pharmaceutical,  biotechnology,  research development,  products,  production, 
+	Top 10 Dimensions:  technology services,  technology,  information,  communication,  services,  information technology,  provider information,  communication technology,  airport,  integrated, 
 Cluster 414:
-	Top 10 Dimensions:  wireless,  security,  networks,  wireless networks,  guard,  wi,  wi fi,  fi,  provider wi,  networks company, 
+	Top 10 Dimensions:  lottery,  games,  based games,  lottery games,  lottery based,  creates designs,  games multiple,  provider handheld,  spain company,  based, 
 Cluster 415:
-	Top 10 Dimensions:  messaging,  mobile,  messaging service,  services,  subscribers,  mobile messaging,  carrier,  carrier grade,  marketing,  platform, 
+	Top 10 Dimensions:  products,  apparel home,  cds dvds,  cds,  owner operator,  dvds,  garden products,  owner,  home,  garden, 
 Cluster 416:
-	Top 10 Dimensions:  optical,  network,  optical network,  products,  provider optical,  components,  optical components,  products optical,  ofdm,  applications, 
+	Top 10 Dimensions:  drug,  life science,  delivery systems,  science,  delivery,  drug delivery,  therapeutic,  life,  systems,  products, 
 Cluster 417:
-	Top 10 Dimensions:  products,  consumer products,  high end,  consumer,  beauty,  accessories,  end,  beauty products,  swimwear,  day, 
+	Top 10 Dimensions:  rubber,  mixture,  parts,  rubber company,  road,  waste,  company engages,  material,  engages,  mechanism, 
 Cluster 418:
-	Top 10 Dimensions:  maintenance,  installation,  installation maintenance,  maintenance services,  hydropower,  premises,  cleaning,  services,  buildings,  industries company, 
+	Top 10 Dimensions:  repair,  maintenance repair,  aerospace industry,  services aerospace,  services,  maintenance,  aerospace,  repair overhaul,  overhaul,  technology design, 
 Cluster 419:
-	Top 10 Dimensions:  intelligence,  business intelligence,  intelligence software,  business,  software,  provider business,  data,  information,  management information,  management, 
+	Top 10 Dimensions:  tourism,  tours,  tourism services,  company engaged,  travel industry,  engaged,  dresses,  wedding,  travel,  party, 
 Cluster 420:
-	Top 10 Dimensions:  management,  care,  management services,  services,  health,  managed care,  care management,  provides,  managed,  services company, 
+	Top 10 Dimensions:  pdt,  therapy pdt,  organisms,  open surgery,  use,  therapy,  use company,  aquatic,  microbial,  photodynamic therapy, 
 Cluster 421:
-	Top 10 Dimensions:  oss,  systems software,  oss software,  support systems,  software,  communications providers,  clearinghouse,  provider carrier,  telecommunication,  providers, 
+	Top 10 Dimensions:  crystal,  optical,  liquid,  liquid crystal,  optical networks,  modules,  crystal displays,  manufacturer,  optical components,  fiberoptic, 
 Cluster 422:
-	Top 10 Dimensions:  web sites,  sites,  web,  speech enabled,  enabled,  network,  search,  speech,  internet,  applications, 
+	Top 10 Dimensions:  home office,  specializes providing,  home,  hand held,  held,  hand,  office,  held device,  company specializes,  specializes, 
 Cluster 423:
-	Top 10 Dimensions:  online,  online platform,  platform,  social,  provider online,  provides online,  social networking,  networking,  provides,  company provides, 
+	Top 10 Dimensions:  content,  entertainment,  entertainment content,  mobile,  mobile entertainment,  content company,  company publishes,  titles,  content entertainment,  publishes, 
 Cluster 424:
-	Top 10 Dimensions:  gift,  gifting,  gift cards,  cards,  online gift,  gift card,  online gifting,  online,  card,  create customized, 
+	Top 10 Dimensions:  music,  provider music,  platform,  social music,  social,  streaming,  artists,  music lovers,  people,  lovers, 
 Cluster 425:
-	Top 10 Dimensions:  price,  textbooks,  price information,  shopping price,  offers electronic,  shopping,  information,  college,  video clips,  clips, 
+	Top 10 Dimensions:  credit,  institutions,  financial,  financial institutions,  enables financial,  enables,  company enables,  merchants,  information,  services, 
 Cluster 426:
-	Top 10 Dimensions:  design,  planning,  implementation,  network,  design implementation,  physical,  services,  physical design,  planning design,  semiconductor companies, 
+	Top 10 Dimensions:  email,  provider email,  track,  platform enable,  web,  email encryption,  technology enterprises,  provides platform,  tracking,  technology, 
 Cluster 427:
-	Top 10 Dimensions:  world,  virtual world,  virtual,  social,  drama,  social interaction,  character,  played,  person,  real, 
+	Top 10 Dimensions:  fabrics,  textiles,  cotton,  textiles company,  touch,  products,  fabric,  sanitary,  sanitary ware,  decorating, 
 Cluster 428:
-	Top 10 Dimensions:  processing technology,  processing,  lens,  technology,  equipped,  facility,  farming,  simulation,  point,  company provides, 
+	Top 10 Dimensions:  ruby,  rails,  ruby rails,  footprint,  dynamic,  carbon,  developed,  developer dynamic,  server company,  application server, 
 Cluster 429:
-	Top 10 Dimensions:  internet protocol,  protocol,  internet,  voice internet,  voice,  services,  based,  protocol based,  telecommunications,  mobile virtual, 
+	Top 10 Dimensions:  protein,  proteins,  pharmaceutical,  human proteins,  human,  biotech,  developer pharmaceutical,  occurring,  naturally occurring,  naturally, 
 Cluster 430:
-	Top 10 Dimensions:  social networking,  social,  networking,  algorithm,  networking sites,  ranking algorithm,  ranking,  social search,  sites,  content, 
+	Top 10 Dimensions:  address,  contacts,  address book,  phone,  zone,  book,  mobile phone,  sip,  linkedin,  mobile, 
 Cluster 431:
-	Top 10 Dimensions:  aluminum,  stages,  supporting,  used,  provider aluminum,  company produces,  produces,  provider ios,  ios,  tablet, 
+	Top 10 Dimensions:  data,  data analysis,  analysis,  mining,  software,  data mining,  patterns,  developer data,  software services,  develops multi, 
 Cluster 432:
-	Top 10 Dimensions:  electricity,  plants,  generating,  photovoltaic,  plants company,  utility scale,  aluminum,  utility,  solar,  scale, 
+	Top 10 Dimensions:  high speed,  speed,  high,  access,  networks,  remote,  internet access,  optical,  technology,  networking, 
 Cluster 433:
-	Top 10 Dimensions:  digital,  digital audio,  audio,  globe,  developer digital,  software,  hdmi,  music,  technologies,  users, 
+	Top 10 Dimensions:  marketing,  direct marketing,  direct,  brand,  services,  marketing services,  advertising direct,  counterfeiting,  service,  advertising, 
 Cluster 434:
-	Top 10 Dimensions:  manufactures,  company manufactures,  removal,  manufactures markets,  kitchens,  manufacturer,  products,  healthcare products,  devices,  develops manufactures, 
+	Top 10 Dimensions:  laser,  temporary,  developer laser,  nail,  skin,  cancerous,  developer solid,  medical,  marking,  device, 
 Cluster 435:
-	Top 10 Dimensions:  medium,  small medium,  medium sized,  sized,  small,  sized businesses,  businesses,  services small,  businesses company,  services, 
+	Top 10 Dimensions:  restaurants,  food,  restaurants company,  online food,  ordering,  online,  orders,  restaurant,  company allows,  allows restaurants, 
 Cluster 436:
-	Top 10 Dimensions:  antibody,  based products,  based,  antibody based,  products,  developer antibody,  human,  monoclonal,  monoclonal antibody,  developer, 
+	Top 10 Dimensions:  silicon,  integrated,  silicon company,  voice,  developer integrated,  develops,  circuit,  circuit board,  develops integrated,  emission, 
 Cluster 437:
-	Top 10 Dimensions:  magnetic,  rotating,  bearing,  magnetic bearing,  systems rotating,  magnetic bearings,  bearings,  systems,  equipment,  equipment services, 
+	Top 10 Dimensions:  wood,  wooden,  panels,  industry,  surfaces wood,  surfaces,  control quality,  laminated,  processing,  company manufactures, 
 Cluster 438:
-	Top 10 Dimensions:  energy,  energy management,  management,  developer energy,  systems,  energy consumption,  consumption,  management systems,  energy storage,  systems company, 
+	Top 10 Dimensions:  exhibitions,  spaces,  event,  theatrical,  stories,  provider event,  events,  event management,  battles,  authentic, 
 Cluster 439:
-	Top 10 Dimensions:  operator biotechnology,  biotechnology company,  biotechnology,  company company,  biomarkers,  diseases using,  using,  operator,  genome wide,  surfaces, 
+	Top 10 Dimensions:  specialty,  women,  men women,  men,  women company,  apparel,  designer,  auction,  manufacturer apparel,  apparel men, 
 Cluster 440:
-	Top 10 Dimensions:  microsoft,  microsoft dynamics,  dynamics,  powerpoint,  word,  dynamics gp,  gp,  data collection,  editing services,  simultaneous, 
+	Top 10 Dimensions:  language,  english,  english language,  provider english,  learning,  platform,  text based,  interactions,  training,  based, 
 Cluster 441:
-	Top 10 Dimensions:  start ups,  ups,  installation services,  start,  installation,  electrical,  space,  invests,  cap,  provider electrical, 
+	Top 10 Dimensions:  software,  management software,  business,  management,  processes,  business processes,  enterprise content,  content management,  automate,  software company, 
 Cluster 442:
-	Top 10 Dimensions:  browser,  developer browser,  browser based,  technology mobile,  chat,  created,  technology,  mobile,  contacts,  nicotine, 
+	Top 10 Dimensions:  online booking,  meat,  booking,  company distributes,  travel agencies,  booking platform,  tour,  distributes,  ski,  agencies, 
 Cluster 443:
-	Top 10 Dimensions:  recommendations,  retailers,  online retailers,  platform,  online,  based platform,  cloud based,  pricing,  cloud,  shop, 
+	Top 10 Dimensions:  products,  products company,  pharmaceutical products,  pharmaceutical,  manufacturer,  pharma,  potato,  collagen,  designing,  based products, 
 Cluster 444:
-	Top 10 Dimensions:  content,  relevant,  relevant content,  developer software,  skills,  provides relevant,  software,  patterns,  experience,  audio content, 
+	Top 10 Dimensions:  social networks,  social,  networks,  websites,  users,  creator,  platform,  news,  websites company,  enables users, 
 Cluster 445:
-	Top 10 Dimensions:  points,  check,  rewards,  program,  rewards program,  check ins,  ins,  collection,  check service,  jokes, 
+	Top 10 Dimensions:  treatment,  alcohol drug,  alcohol,  hospital,  hospital company,  drug,  novel therapies,  develops commercializes,  commercializes,  heart failure, 
 Cluster 446:
-	Top 10 Dimensions:  topical,  skin,  dermal,  developer topical,  topical dermatological,  mission develop,  company mission,  dermatological,  mission,  topically, 
+	Top 10 Dimensions:  behavioral,  healthcare,  healthcare information,  health,  care,  information,  healthcare industry,  provider behavioral,  employment,  residential, 
 Cluster 447:
-	Top 10 Dimensions:  social commerce,  commerce,  commerce platform,  social,  women,  provider social,  platform,  platform company,  fun,  fashion, 
+	Top 10 Dimensions:  customer,  online customer,  online,  provider online,  services,  management services,  customer acquisition,  information,  medical information,  online health, 
 Cluster 448:
-	Top 10 Dimensions:  cars,  sells,  automobiles company,  automobiles,  mini,  company sells,  fish company,  used cars,  breeds,  super, 
+	Top 10 Dimensions:  content,  distribution,  content distribution,  distribution services,  application content,  provider content,  services,  application,  internet,  internet content, 
 Cluster 449:
-	Top 10 Dimensions:  cells,  cytometers,  flow,  flow cytometers,  cytometers company,  assays,  sensitivity flow,  samples,  analysis,  sensitivity, 
+	Top 10 Dimensions:  company owns,  owns,  owns operates,  operates,  operator,  company company,  united,  states,  hot,  hotels, 
 Cluster 450:
-	Top 10 Dimensions:  management software,  software,  management,  software company,  developer,  developer management,  network,  develops,  software based,  company provides, 
+	Top 10 Dimensions:  devices,  medical devices,  medical,  devices company,  developer medical,  develops,  company develops,  developer,  uterine,  develops devices, 
 Cluster 451:
-	Top 10 Dimensions:  cardiovascular,  diseases,  cardiovascular diseases,  women health,  women,  treatment cardiovascular,  cancer,  health,  research,  therapeutic, 
+	Top 10 Dimensions:  software,  developer software,  software technology,  company develops,  develops,  applications software,  developer,  globe,  applications,  technology, 
 Cluster 452:
-	Top 10 Dimensions:  car,  cars,  car sharing,  platform,  online platform,  online,  used,  new,  sharing,  operator car, 
+	Top 10 Dimensions:  fashion,  beauty,  latest,  website,  shopping,  club,  latest fashion,  clothes,  fashion lifestyle,  provider fashion, 
 Cluster 453:
-	Top 10 Dimensions:  nervous,  central nervous,  central,  nervous disorders,  disorders,  disorders company,  treat,  drugs,  pain,  nervous company, 
+	Top 10 Dimensions:  ip,  voice,  network,  voice data,  video,  data,  telephony,  converged,  converged voice,  communication, 
 Cluster 454:
-	Top 10 Dimensions:  project,  project management,  management,  software,  portfolio management,  portfolio,  organizing,  reporting,  developer project,  offers software, 
+	Top 10 Dimensions:  integrated circuits,  circuits,  integrated,  circuits company,  semiconductor,  used,  designer,  manufacturer,  appliances,  designer integrated, 
 Cluster 455:
-	Top 10 Dimensions:  tunable,  components,  fiber,  laser,  wavelength,  planar,  egg,  electromagnetic,  dense,  dense wavelength, 
+	Top 10 Dimensions:  smart,  grid,  smart grid,  grid devices,  new,  smart card,  utility,  electrochemical,  card,  new generation, 
 Cluster 456:
-	Top 10 Dimensions:  intellectual,  intellectual property,  property,  property company,  products,  semiconductor,  property rights,  provider funding,  lan,  rights, 
+	Top 10 Dimensions:  visualization technology,  visualization,  pc,  virtualization,  technology,  client virtualization,  life cycle,  cycle,  client,  platform, 
 Cluster 457:
-	Top 10 Dimensions:  stabilization,  spine,  screw,  systems,  pedicle screw,  pedicle,  stabilization systems,  cervical,  thoracolumbar,  short, 
+	Top 10 Dimensions:  voice messaging,  voice,  messaging,  developer voice,  voicemail,  premium,  applications helps,  messaging content,  provider voice,  content sharing, 
 Cluster 458:
-	Top 10 Dimensions:  telecommunication,  fiber,  optic,  fiber optic,  telecommunication industry,  data,  fibers,  equipments company,  industry,  manufacturer, 
+	Top 10 Dimensions:  disease,  programs,  health,  heart,  pulmonary,  hypertension,  management programs,  pain,  weight,  asthma, 
 Cluster 459:
-	Top 10 Dimensions:  order,  order management,  management,  fulfillment,  drugstore,  cash,  online,  seafood,  signatures,  enterprise company, 
+	Top 10 Dimensions:  cd,  cd rom,  rom,  metrology,  print,  applications,  publishing,  developer visual,  internet,  visual design, 
 Cluster 460:
-	Top 10 Dimensions:  screens,  prescription,  gene expression,  dermatitis,  atopic,  atopic dermatitis,  expression,  acne,  prescription products,  gene, 
+	Top 10 Dimensions:  users write,  application company,  write,  writing,  document,  application,  publish,  group,  wiki,  users, 
 Cluster 461:
-	Top 10 Dimensions:  allows people,  people,  company allows,  allows,  social,  provider social,  interact,  converse,  networking service,  share, 
+	Top 10 Dimensions:  energy,  renewable,  renewable energy,  biofuels,  technology,  fuels,  fuels company,  energy storage,  materials,  developer technology, 
 Cluster 462:
-	Top 10 Dimensions:  bluetooth,  modules,  short range,  short,  range wireless,  wireless connectivity,  theft,  range,  applications,  development innovative, 
+	Top 10 Dimensions:  products used,  used,  products,  immune,  used treatment,  treatment,  diseases,  company products,  gastroenterology,  dermatology, 
 Cluster 463:
-	Top 10 Dimensions:  water,  wastewater,  treatment,  water treatment,  industrial,  wastewater treatment,  drinking,  drinking water,  water wastewater,  process, 
+	Top 10 Dimensions:  filtration,  membrane,  water,  micro filtration,  membrane products,  manufacturing,  dc,  manufacturer,  micro,  assembly, 
 Cluster 464:
-	Top 10 Dimensions:  recommendation services,  recommendation,  share,  content discovery,  share recommend,  provider content,  users share,  recommend,  content,  discovery recommendation, 
+	Top 10 Dimensions:  device,  medical device,  medical,  device company,  medical devices,  developer,  treatment,  products,  operator medical,  company company, 
 Cluster 465:
-	Top 10 Dimensions:  digital,  consumer electronics,  home,  entertainment,  electronics,  consumer,  television,  home entertainment,  solutions,  living room, 
+	Top 10 Dimensions:  hearing,  aid,  hearing aids,  aids,  sells,  digital,  provider digital,  communication,  hearing loss,  equipment designed, 
 Cluster 466:
-	Top 10 Dimensions:  animation,  graphic,  graphic design,  producer,  production,  design,  aircraft,  production services,  design digital,  company designs, 
+	Top 10 Dimensions:  security,  security services,  network,  network security,  provides security,  services,  services company,  provides,  protection,  provider network, 
 Cluster 467:
-	Top 10 Dimensions:  emergency,  medical services,  ambulance,  ambulance services,  medical,  services,  services local,  local,  doctors,  provides non, 
+	Top 10 Dimensions:  advertisers,  spend,  advertisers company,  enables,  company enables,  enables advertisers,  enables publishers,  publishers,  presence,  decisions, 
 Cluster 468:
-	Top 10 Dimensions:  customer relationship,  relationship management,  relationship,  customer,  management,  crm,  provider customer,  software,  management crm,  services, 
+	Top 10 Dimensions:  learning,  students,  knowledge,  educators,  parents,  online learning,  educational,  provider learning,  educators students,  education, 
 Cluster 469:
-	Top 10 Dimensions:  exchange,  futures,  futures options,  foreign exchange,  trading,  foreign,  options,  financial,  middle,  trade, 
+	Top 10 Dimensions:  biotechnology,  operator biotechnology,  biotechnology company,  biomarkers,  company company,  operator,  company focuses,  using,  focuses,  genetic, 
 Cluster 470:
-	Top 10 Dimensions:  music,  curated,  streaming,  musicians,  music streaming,  platform,  online,  platform company,  online platform,  streaming music, 
+	Top 10 Dimensions:  wind,  turbines,  wind turbines,  turbines company,  offshore,  drive train,  train,  onshore,  gearbox,  drive, 
 Cluster 471:
-	Top 10 Dimensions:  claims,  workflow,  document,  management,  document management,  claims processing,  software,  processing,  processes,  claims management, 
+	Top 10 Dimensions:  performance management,  performance,  reporting,  management,  planning,  analysis,  support,  analytics,  corporate,  company flagship, 
 Cluster 472:
-	Top 10 Dimensions:  reagents,  medicine,  manufacturer distributor,  personalised,  reagents company,  distributor,  opticians,  equipment used,  manufacturer,  surgeries, 
+	Top 10 Dimensions:  questions,  answers,  ask,  ask questions,  social,  platform,  questions answers,  online,  users ask,  mobile platform, 
 Cluster 473:
-	Top 10 Dimensions:  software,  recovery,  software solutions,  solutions,  hardware,  protection,  solutions enable,  failures,  recovery software,  network, 
+	Top 10 Dimensions:  point care,  point,  diagnostic,  care,  blood,  hemoglobin,  diagnostic systems,  vitro,  clots,  company develops, 
 Cluster 474:
-	Top 10 Dimensions:  remote access,  remote,  security,  access,  endpoint security,  endpoint,  secure,  solutions,  sockets,  secure sockets, 
+	Top 10 Dimensions:  systems,  radiation,  ventilation,  applications,  sensor systems,  flywheel,  radiation therapy,  settings,  manufacturer,  sensor, 
 Cluster 475:
-	Top 10 Dimensions:  games,  children,  children company,  games children,  developer video,  publishes,  develops publishes,  computer games,  games based,  interactive, 
+	Top 10 Dimensions:  industrial mechanics,  mechanics,  removal,  company engages,  industrial,  engages,  metalworking,  electronic designs,  disposal,  designs company, 
 Cluster 476:
-	Top 10 Dimensions:  practice,  practice management,  physician,  management,  physician practice,  practices,  patient,  medical,  lawyers,  pharmaceutical companies, 
+	Top 10 Dimensions:  light,  led,  provider light,  diode led,  emitting diode,  light emitting,  catheters,  emitting,  diode,  wafers, 
 Cluster 477:
-	Top 10 Dimensions:  users,  recommendation,  interests,  local,  recommendation engine,  recommendations,  recommendation application,  recipe,  web,  based, 
+	Top 10 Dimensions:  advertising,  advertising technology,  provides advertising,  platform,  media advertising,  technology,  media,  mobile,  advertising services,  services, 
 Cluster 478:
-	Top 10 Dimensions:  artists,  music,  fans,  world,  live,  fan,  money,  allows,  music fans,  crowd funding, 
+	Top 10 Dimensions:  patient,  clinical,  medicine,  physicians,  information,  diagnostic,  patients,  clinical information,  personalised,  ray, 
 Cluster 479:
-	Top 10 Dimensions:  antibiotics,  infections,  resistant,  bacterial infections,  multi drug,  drug resistant,  bacterial,  skin,  antibiotics treat,  treat, 
+	Top 10 Dimensions:  cutting,  laser,  welding,  flower,  pipes,  provider laser,  services,  stone,  workstations,  tunable, 
 Cluster 480:
-	Top 10 Dimensions:  light,  light emitting,  emitting,  led,  organic,  emitting diode,  diode,  diode led,  organic light,  catheters, 
+	Top 10 Dimensions:  diagnostic,  molecular,  genetic,  prenatal,  molecular diagnostic,  tests,  testing,  diagnostic technology,  diagnosis,  kits, 
 Cluster 481:
-	Top 10 Dimensions:  search,  marketing,  search engine,  advertising,  optimization,  engine,  online,  engine marketing,  engine optimization,  online marketing, 
+	Top 10 Dimensions:  hosting,  web,  web hosting,  hosting services,  services,  hosting web,  provides hosting,  avatars,  provider web,  cities, 
 Cluster 482:
-	Top 10 Dimensions:  data,  migration,  data migration,  data governance,  governance,  management etl,  data relationship,  sensitive data,  etl migration,  discovery management, 
+	Top 10 Dimensions:  mobile,  phones,  mobile phones,  accessories,  mobile accessories,  headsets,  chargers,  phone,  memory,  offers mobile, 
 Cluster 483:
-	Top 10 Dimensions:  software development,  development,  software,  development services,  services,  offers,  provides enterprise,  tactical,  development company,  applications, 
+	Top 10 Dimensions:  shopping,  price,  price information,  shopping price,  shopping online,  information,  retail,  online,  shoppers,  gives, 
 Cluster 484:
-	Top 10 Dimensions:  video games,  games,  video,  developer video,  computer video,  stores,  games company,  publishers,  movie,  computer, 
+	Top 10 Dimensions:  cloud,  provider cloud,  file sharing,  collaboration,  file,  sharing collaboration,  services,  based file,  sharing,  cloud based, 
 Cluster 485:
-	Top 10 Dimensions:  battery,  lithium,  lithium ion,  ion,  oxygen,  medication,  device,  battery technologies,  device provides,  charger, 
+	Top 10 Dimensions:  parts,  components,  die,  transmission,  contrast,  motorcycles,  components company,  manufacturing,  electron,  components assemblies, 
 Cluster 486:
-	Top 10 Dimensions:  services,  rubber,  engaged,  tax,  business,  company engaged,  consulting,  services company,  integrated services,  provider business, 
+	Top 10 Dimensions:  images,  videos images,  editing platform,  platform,  writing,  editing,  interface,  videos,  company built,  viewing, 
 Cluster 487:
-	Top 10 Dimensions:  area networks,  telecommunications service,  area,  local area,  telecommunications,  networks,  service,  local,  wireless local,  service russia, 
+	Top 10 Dimensions:  video,  video surveillance,  backup,  surveillance,  online backup,  video demand,  movie,  servers,  demand,  servers company, 
 Cluster 488:
-	Top 10 Dimensions:  waste,  treatment,  disposal,  medical,  provider medical,  solid waste,  waste treatment,  technologies,  solid,  transportation, 
+	Top 10 Dimensions:  online games,  games,  online,  games company,  publisher,  multiplayer,  publisher online,  developer publisher,  multiplayer online,  player, 
 Cluster 489:
-	Top 10 Dimensions:  answers,  questions,  questions answers,  technology related,  tubes,  parenting,  answers company,  feeding tubes,  feeding,  related, 
+	Top 10 Dimensions:  cloud,  cloud based,  provider cloud,  based,  platform,  based platform,  cloud service,  retailers,  storage,  offers, 
 Cluster 490:
-	Top 10 Dimensions:  panels,  decorative,  laminated,  rooms,  offices,  wood,  decorating,  sanitary ware,  sanitary,  ware, 
+	Top 10 Dimensions:  drugstore,  online drugstore,  prescription products,  prescription,  online,  german market,  german,  pharmacy,  serving,  provider online, 
 Cluster 491:
-	Top 10 Dimensions:  marketing platform,  brazil,  platform,  provides network,  network,  marketing,  platform company,  network platform,  helps,  provider marketing, 
+	Top 10 Dimensions:  interior,  interior designer,  designer,  commercial,  fine arts,  background,  database,  fine,  consultation,  arts, 
 Cluster 492:
-	Top 10 Dimensions:  surgery,  tissue,  laparoscopic,  open surgery,  surgery company,  cancerous,  expansion,  open,  develops proprietary,  implant, 
+	Top 10 Dimensions:  business,  business business,  marketplace,  online,  services,  online business,  industry,  marketplace company,  management,  provides business, 
 Cluster 493:
-	Top 10 Dimensions:  diagnostic,  diagnostic devices,  company diagnostic,  devices,  testing,  surgeons,  workstations,  developer,  pregnant women,  technologies developed, 
+	Top 10 Dimensions:  dog,  retail,  online retail,  apparel,  products,  propane,  dogs,  accessories,  children,  online, 
 Cluster 494:
-	Top 10 Dimensions:  semiconductor,  semiconductor industry,  industry,  cleaning,  metrology,  tools semiconductor,  industry company,  wafers,  laser,  manufactures, 
+	Top 10 Dimensions:  independent,  operator independent,  mobile,  location,  operator,  mobile location,  roaming,  film,  telephone,  location data, 
 Cluster 495:
-	Top 10 Dimensions:  application,  users,  stories,  users write,  pictures,  photos,  write,  lets users,  sharing,  application company, 
+	Top 10 Dimensions:  designers,  software,  offers software,  product,  software product,  offers,  company offers,  support,  software support,  designs, 
 Cluster 496:
-	Top 10 Dimensions:  kids,  enables kids,  mothers,  learn,  online,  company enables,  connect friends,  enables,  connect,  games help, 
+	Top 10 Dimensions:  energy,  energy management,  energy consumption,  systems,  management,  consumption,  management systems,  commercial,  energy systems,  offers energy, 
 Cluster 497:
-	Top 10 Dimensions:  fitness,  health,  weight,  mobile platform,  health fitness,  coaching,  mobile,  coaches,  platform,  exercises, 
+	Top 10 Dimensions:  internet,  provider internet,  internet consulting,  offers internet,  internet video,  internet radio,  video,  consulting,  businesses,  services, 
 Cluster 498:
-	Top 10 Dimensions:  fuel,  fuel cell,  hydrogen,  cell,  clean,  power,  place,  municipal,  generators,  pharmaceutical industry, 
+	Top 10 Dimensions:  testing,  multivariate,  personalization,  multivariate testing,  optimization,  soil,  testing product,  campaigns,  testing automated,  online, 
 Cluster 499:
-	Top 10 Dimensions:  backup,  enables clients,  twitter,  online backup,  backup service,  online,  clients,  service,  recovery,  software, 
+	Top 10 Dimensions:  voice,  voice messages,  share voice,  users record,  record share,  record,  messages,  enables users,  users,  share, 

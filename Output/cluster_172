@@ -1,33 +1,45 @@
-CardSpring
-	Provider of Application Programming Interface (API). The company\'s API lets developers add new capabilities to credit and debit cards by programming the payment network to link online applications to specific payment events.
-	['', 'Application Programming Interface', ' ', 'payment network program', ' ', 'online payment application', '']
-Jambool
-	Provider of a virtual economy platform. The company offers a payment API that provides way to enable micropayments in an online game or social network application.
-	['', 'virtual economy platform', ' ', 'social network application', ' ', 'virtual economy analytic', ' ', 'virtual currency', '']
-Peak Broadcasting
-	Provider of radio broadcasting and programming strategy services. The company develops audio programming, marketing, advertiser solutions and media technology.
-	['', 'radio broadcaster', ' ', 'media technology', ' ', 'programming strategy', '']
-Orchestrate
-	Provider of an application programming interface service. The company provides an application programming interface (API), that eliminates the need to deploy databases while building new applications or adding new features to existing applications.
-	['', 'cloud agnostic', ' ', 'application programming', ' ', 'interface application', ' ', 'API service', '']
-ReportGrid
-	Provider of an advanced analytics engine for multi-structured data. The company provides an application programming interface (API) that makes it easy for SaaS vendors and technology platforms to give their customers deep analytics and insightful reporting.
-	['', 'analytic engine', ' ', 'multi-structured data', ' ', 'application programming interface', '']
-Gnip
-	Provider of an on-demand messaging platform for integrating social and business data. The company\'s platform enables to access, filter and integrate the Web\'s data that companies use as the basis for providing compelling business and social applications. It also provides push API service that enables the companies to identify opportunities to move inefficient and repetitive API and Website traffic to a more efficient push based approach.
-	['', 'messaging platform', ' ', 'consumer application', ' ', 'social media integration', '']
-Layer 7 Technologies
-	Provider of security and management products. The company provides application programming interface for security and management products. It is a tool for managing and securing application programming interfaces (APIs).
-	['', 'service oriented', ' ', 'web security', ' ', 'cloud oriented', ' ', 'application management product', '']
-Wit.AI
-	Developer of an application programming interface-based natural language platform. The company has created a voice interface that makes it easy for developers to build applications and devices that you can talk to. It learns human language from every interaction and leverages the community.
-	['', 'application programming interface', ' ', 'natural language platform', ' ', 'voice interface', '']
-Fluidinfo
-	Provider of online information storage and search platform. The company enables content owners to publish product information through a writable application programmer interface (API) with permissions and developers to create applications that make data social.
-	['', 'information storage', ' ', 'online search', ' ', 'social data', '']
-Get Scaffold
-	Provider of an identity and reputation system for the web. The company provides APIs (Application Programming Interface) for businesses to verify their users.
-	['identity reputation API']
-Nimble VR
-	Developer of a computer interface that reads physical gestures. The company is developing a computer vision technology that provides 3-D, 10-finger dexterous control and is designed to run in the background all day. The company\'s API is open, enabling users to write software in any language that takes advantage of it.
-	['', 'computer interface', ' ', 'computer vision', ' ', 'three dimensional camera', ' ', 'hand-tracking system', '']
+Wharton Econometrics
+	Provider of economics forecasting and consulting services. The company provides economic information and research to commercial markets worldwide.
+	['', 'economic forecasting', ' forecasting ', 'consulting service', '']
+Predictive Systems
+	Provider of network consulting services. the company provides network infrastructure and security consulting services focused on helping global enterprises and service providers harness the power of network technology.
+	['', 'information technology service', ' ', 'network consulting', ' ', 'design and security', '']
+e2e
+	Provider of IT consulting services.The company is a technology consulting firm specializing in software architecture, program management, process improvement and assessment services.
+	['', 'technology consulting', ' ', 'program management', ' ', 'software architecture', ' ', 'process improvement', ' ', 'IT consulting', '']
+Foundstone
+	Developer of software for detecting and managing software vulnerabilities. The company offers a combination of enterprise software, appliances, consulting services and education to help organizations protect their assets from threats.
+	['', 'strategic security', ' ', 'network security', '']
+Forum-Défi
+	Provider of advisory and consulting services. The company provides advisory and consulting services about furniture design and multimedia to companies and individuals.
+	['', 'advisory service', '']
+Schoonover Associates
+	Provider of competency management data and consulting services. The company specializes in leadership and executive development, strategic human resources consulting, competency model building, and talent management systems.
+	['', 'competency management', ' ', 'executive development', ' ', 'talent management', ' ', 'competency model', ' ', 'human resource consulting', '']
+Laboratorio de Ensayos ICIM LAB
+	Provider of laboratory and test certification services. The company provides research and consulting services for calibration and adjustment of instruments and equipments.
+	['calibration ', 'research and consulting', ' ', 'quality testing', '']
+Lexington Software Associates
+	Provider of technology and service solutions for software development and delivery environments. The company provides software consulting services including systems programming, website designing and high level consulting.
+	['', 'service solutions', ' ', 'systems management', ' ', 'website designing', '']
+Magnet 360
+	Provider of consulting services. The company provides creative, marketing and technology consulting services like Salesforce consulting, CRM implementation, engagement strategy, social, mobile development, marketing automation, user experience, application development, channel marketing, and insights and analytics.
+	['', 'marketing automation', ' ', 'cloud industries', ' ', 'implementation services', '']
+TrialGraphix
+	Provider of litigation consulting services. The company provides discovery, trial and jury consulting and courtroom presentation services in the United States. It provides services to trial attorneys, law firms and corporate counsel.
+	['', 'litigation consulting', ' ', 'legal service', ' ', 'courtroom presentation', '']
+gp3 Groupe Conseil
+	Provider of consulting services. The company helps departments and agencies to implement their strategic plan to facilitate the transition to tactical and operational plans.
+	['', 'operational plans', ' ', 'startegic plans', ' architecture']
+Mobile Cohesion
+	Provider of partner relationship management services. The company provides its consulting services in Ireland.
+	['', 'relationship management', ' ', 'consulting service', ' ', 'management consultant', '']
+Boule Diagnostics
+	Boule Diagnostics AB is engaged in developing, manufacturing, and marketing hematology measurement systems. The company offers blood analysis systems, plastic micro capillaries, as well as support and consulting services for human and veterinary markets.
+	['hematology ', 'blood disease', ' ', 'blood analysis', ' ', 'blood diagnostic', '']
+InPhase Technologies
+	Developer of holographic data storage recording media and systems. The company also provides a range of holographic recording materials, test equipment and consulting services for research and development organizations. The company offers its products for film and television studios, corporate enterprises, and medical institutions.
+	['', 'holographic data', ' ', 'media and system', ' ', 'holographic recording', ' ', 'film studios', ' ', 'television studios', ' ', 'computer hardware', ' ', 'electronic components', '']
+Integrated Systems Consulting Group
+	Provider of information and consulting services. The company provides software applications development and systems and network management consulting services. It also provides client-server architecture, graphical user interface-based applications, object-oriented and relational databases and cross-platform applications integration.
+	['', 'information enabled service', ' ', 'client-server architecture', ' ', 'network management', '']

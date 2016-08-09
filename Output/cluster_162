@@ -1,27 +1,48 @@
-Visual Meta
-	Operator of online shopping portals. The company offers shoes, fashion, bags, jewelry and furniture through its websites.
-	['', 'pet supplies', ' spirits ', 'shopping portals', '']
-ITmedia
-	Operator of an online IT publishing platform. The company provides various information about IT industries, consumer electronics, music, personal computing, and business administrations in Japan.
-	['', 'web advertising', ' ', 'media management', ' ', 'program guide site', '']
-AAC Technologies
-	Manufacturer of miniature acoustic and non acoustic components. The company is the manufacturer of micro component total equipments for communications and consumer electronics market.
-	['', 'acoustic component', ' ', 'micro component', ' ', 'consumer electronic', '']
-PineBrook Imaging Technology
-	Manufacturer of computers and electronics. The company primarily manufactures computers, electronics, semiconductors and microchips.
-	['', 'electronics manufacturer', ' ', 'computer manufacturer', ' ', 'manufacturer of semiconductors and microchips', ' ', 'electronic products', '']
-JD.com
-	Operator of an online shopping platform. The company is engaged in online sales of consumer electronics, communications products and computers.
-	['', 'online shopping platform', ' ', 'consumer electronic', ' ', 'communications product', '']
-Shutl
-	Operator of an online shopping delivery platform. The company connects retailers with local courier companies by enabling immediate delivery of online purchases.
-	['', 'same-day delivery', ' ', 'expedited delivery', ' ', 'same-hour delivery', ' delivery']
-TechForward
-	Provider of buyback plans for consumer electronics. The company gives customers the flexibility to upgrade their computers and electronics more affordably, easily, and responsibly.
-	['', 'buyback plan', ' ', 'trade-in process', ' ', 'recyclable device', ' ', 'consumer electronics', '']
-Hipbone
-	Provider of real-time web interaction services for online sales and support. The company\'s products enable support center personnel to simultaneously view the same image of a Web page with prospects and customers while communicating with them using VoIP.
-	['', 'web interaction service', ' ', 'web page sharing', ' ', 'online purchasing', '']
-PortugalRes
-	Operator of an online booking platform. The company also distributes products to travel agencies and tour operators worldwide.
-	['', 'ticket booking', ' ', 'travel product', ' ', 'online travel platform', '']
+SHYM Technology
+	Provider of plug-in security and trust management solutions for critical business applications. SHYM\'s MailShym solutions accelerate the adoption of secure e-mail as the cornerstone for Internet transactions. It combines plug-in security integration products and a cutting edge trust management platform.
+	['', 'trust management solution', ' ', 'internet transaction', ' ', 'security integration', ' ', 'security integration', '']
+Benebit Networks
+	Provider of a security software. The company develops security software for real time protection of information in the real world, security audits, penetration testing, programmer education programs, security consulting and data classification.
+	['prevention ', 'information leakage', ' ', 'data theft', '']
+Fluxus
+	Designer of internet applications. The company provides website hosting and monitoring including database management, operation, application sharing and security management services.
+	['', 'web hosting', ' ', 'internet application', ' ', 'database management', ' ', 'monitoring services', ' ', 'security services', '']
+Malcovery Security
+	Developer of a cloud based actionable cyber security intelligence services. The company develops and delivers cloud based actionable cyber security intelligence and forensic analysis through software and services for corporations and government organizations to target cyber criminals and their activities.
+	['', 'cyber security', ' ', 'intelligence service', ' ', 'forensic analysis', '']
+Micro Technologies
+	Developer of transformational security devices. The company provides security products, including vehicle security systems, fleet monitoring systems, bike security systems among others.
+	['', 'vehicle security system', ' ', 'fleet monitoring system', ' ', 'security system', '']
+WholeSecurity
+	Provider of cyber- security software for prevention, mitigation and detection of malicious threats. The company provides protection against eavesdropping, electronic theft and other types of cyber crimes.
+	['', 'cyber crime', ' ', 'cyber security', ' ', 'electronic theft', '']
+Cortex Vision Systems
+	Provider of automated video surveillance products. The company offers various security systems for industrial, commercial, governmental and high-end residential applications.
+	['surveillance ', 'smart camera', ' ', 'security systems', '']
+Infosec
+	Provider of products and services for cyber-security. The company offers various services including security management consulting, secure technology consulting, development and operation of security systems and managed security services.
+	['cyber-security ', 'security management', ' ', 'security systems', '']
+EdenWall Technologies
+	Developer of IPS firewall and VPN security services. The company also offers training seminars and maintenance services, professional services, such as account management, security project design and implementation.
+	['', 'IPS firewall', ' ', 'security services', ' ', 'account management', '']
+Karotek Systemer
+	Provider of security systems for retail and cash handling and desktop security systems. The company specializes in the production of ballistic protection systems for vehicles and passenger cars. It also provides protection against anti-personnel, anti-tank blast mines and security systems for armored cash and bullion vans to prevent loss.
+	['', 'cash handling', ' ', 'armor security', ' ', 'specialist vehicle', ' ', 'desktop security system', ' ', 'defense system', ' ', 'modular system', ' ', 'security service', ' ', 'security glass', '']
+SSH Communications
+	Provider of security technology. The company offers technology for corporations and government entities that enable managed file transfer, secure file transfer, auditing and monitoring, mainframe connectivity, application connectivity and secure system administration. Its customers include government, financial services, retail, automotive, healthcare, federal government and public administration.
+	['', 'file transfer', ' ', 'mainframe connectivity', ' ', 'system administration', '']
+Sana Security
+	Developer of security software that is autonomous, aware of environment change, adaptive to new threats and active in preventing attacks before they do harm. The company offers Primary Response SafeConnect, a security software that provides protection against known and unknown threats, including spyware, adware and rootkits and Primary Response Memory Shield Server, which provides buffer overflow protection for various servers.
+	['', 'software services', ' ', 'security software', ' ', 'server protection', '']
+iSIGHT Partners
+	Provider of cyber security risk-management services. The company provides cyber threat tracking and security services for corporates as well as government enterprises.
+	['', 'global network security', ' ', 'intelligence service', ' ', 'intelligence products', ' ', 'intelligence service', ' ', 'intelligence product', ' ', 'security analysis', ' ', 'cyber security', ' ', 'cyber threat', '']
+NetOctave
+	Developer of Internet security solutions that provide high-performance, turnkey system security. The company designs security processors and accelerator boards that protect high-speed network communications. It builds security processors and security accelerator boards and cards for the SSL, IPsec and IP Storage markets.
+	['', 'internet services', ' ', 'Monitoring & Security', ' ', 'Network Security', '']
+Infrared Integrated Systems
+	Provider of thermal-technology products. The company designs, develops and manufactures radiometric thermal imagers, people counters, security sensors and other thermal-detection solutions for a wide range of commercial applications, including security, healthcare, supermarkets and smart-building technologies.
+	['', 'thermal technology', ' ', 'thermal imager', ' ', 'thermal imagers', ' ', 'people counter', ' ', 'people counters', ' ', 'security sensors', ' ', 'thermal detection', ' ', 'thermal', '']
+Redspin
+	Provider of information security assessments, risk management and compliance services. The company specializes in IT and web application security assessments, HIPAA security risk analysis, penetration testing and mobile device security assessments.
+	['', 'information security', ' ', 'information security assessments', ' ', 'penetration testing', ' ', 'security audits', '']

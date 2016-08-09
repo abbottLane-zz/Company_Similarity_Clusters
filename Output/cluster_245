@@ -1,12 +1,21 @@
-OSspray
-	Developer of dental products.  The company develops products that utilize air polishing technologies for the cleaning, desensitizing and whitening of teeth in the dental industry.
-	['dental ', 'dentistry', ' ', 'air polishing', '']
-Exopro
-	Operator of a medical device company. The company engages in providing dental implant products and related accessories for the Brazilian dental industry.
-	['intra-oral maxillofacial ', 'dental implant', ' osseointegratio']
-DenX Advanced Dental Systems
-	Provider of dental teaching and practicing technologies to dental surgeons and dental schools worldwide to enhance the quality of clinical care and equip dental educators with pre-clinical teaching equipment. The company also manufactures and markets the DentSim simulator, which is presently located in over 25 dental schools around the world to help teach dental students professional skills.
-	['', 'clinical care', ' ', 'dental teaching', ' ', 'DentSim simulator', '']
-Azenic
-	Developer of disposable dental products. The company designs and manufactures single use dental tools that can be used in lieu of standard metallic equipment.
-	['', 'dental product', ' dental ', 'dental device', ' ', 'disposable device', '']
+BioMonde (Acquired by ZooBiotic)
+	Manufacturer of larval therapy products used to treat wounds like diabetic ulcers and orthopaedic wounds. The company produces and distributes fly maggots for wound treatment at clinics.
+	['', 'larval debridement therapy', ' ', 'medical supply', ' ', 'therapeutic device', '']
+CellTran
+	Developer of cell therapy products to aid in wound healing. The company using autologous skin cells treats difficult to heal wounds. Its products Myskin and Myskin Clinic help to heal wounds and provide dedicated treatment for chronic, complex or non-healing wounds.
+	['', 'Skin treatment', ' ', 'healing wounds', ' ', 'cultured human keratinocytes', ' ', 'integrated wound care dressing', ' ', 'wound healing', '']
+ProCyte
+	Developer and manufacture of wound care, haircare and skin health products. The firm initially focused on the research and development of copper peptides specifically for wound healing.
+	['', 'Wound healing agents', ' ', 'skin care', '']
+Biofisica
+	Developer of medical devices that trigger the healing process in wounds that fail to heal on their own. The company develops solutions in the tissue engineering market to address chronic wound healing. It provides POSiFECT, a medical device that is used to heal wounds naturally.
+	['', 'medical device developer', ' ', 'wound healing process', ' ', 'tissue engineering', ' ', 'chronic wound healing', '']
+Neocutis
+	Developer of technology platform to understand the scarless wound healing. The company provides innovative topical preparations for dermatological and gynaecological affections as well as high-end cosmeceutical skincare products. Its platform has multiple applications in wound healing, dermatology and skin care. It is also developing a program of cellular therapy for the treatment of severe burns.
+	['', 'scarless wound healing', ' dermatology ', 'cellular therapy', '']
+Pharmasurgics
+	Developer of an anti-scarring and healing treatment after surgery. The company develops and commercializes a novel treatment for preventing harmful scarring and promoting wound healing after surgery. It\'s product concept is based on proprietary synthetic peptides of human lactoferrin which have strong anti-inflammatory and anti-infectious properties.
+	['', 'anti-scarring', ' ', 'healing treatment', ' ', 'synthetic peptide', ' ', 'anti-inflammatory', '']
+Polyheal
+	Developer of wound healing products for chronic wounds. The company wound healing products provides a sterile disposable suspension for topical application in the treatment of chronic wounds such as skin ulcers, burns, trauma and post-surgery wounds.
+	['', 'wound healing product', ' ', 'sterile disposable suspension', ' ', 'chronic wound', '']

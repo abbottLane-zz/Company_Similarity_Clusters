@@ -1,30 +1,18 @@
-enScaler
-	Provider of middleware services to enterprises to deliver streaming content. The company provides licensed platforms and applications to service providers, content owners and enterprises to provision and manage streaming media services and applications.
-	['', 'middleware services', ' ', 'licensed platforms and applications', ' ', 'streaming content', ' ', 'streaming media services', ' ', 'content owners', '']
-Seemage
-	Provider of application management and support services for automotive and aerospace industries. The company develops PowerPoint 3D software that enables consultants to view, explore, measure and annotate 3D CAD models for businesses.
-	['', 'application management', ' ', 'poerpoint 3D', ' ', 'support services', '']
-Bionatics
-	Provider of 3D software services for decision making in territory management. The company operates a software editor which allows 3D modeling and visualization of large urban or rural landscapes. The company\'s products target the 3D needs in planning and land management and military training simulation.
-	['', 'software editor', ' ', 'decision making', ' ', 'military training', ' ', 'territory management', '']
-Advanced Visual Technologies
-	Provider of 3D visual macro space planning software for retailers. The company enables retailers to collaborate with their stores and supplier partners to design and plan retail floor space in real time with a current photo-realistic view of each store.
-	['', 'space-planning software', ' ', 'space management technology', ' ', 'visual merchandising solution', ' ', 'technology platform', '']
-Digital Media Professionals
-	Provider of 3D graphic services for embedded systems. The company provides 3D graphic services for the consumer electronics space such as cell phones, car navigation and mobile games.
-	['', '3D graphic services', ' ', 'car navigation', ' ', 'mobile games', '']
-Peekspy
-	Provider of 3d view technology into sports and concert venues.
-	['', '3dimensional technology', ' ', 'multicolored map', ' ', '3dimensional web environment', '']
-Eyetronics
-	Provider of 3D scanning services and systems. The company offers three-dimensional scanning of the human face, body and objects mainly for applications in the computer games industry, film industry, garment industry and medical applications. The company has spun out from the University of Leuven.
-	['', 'scanning services', ' ', 'scanning systems', ' ', '3D scanning', '']
-earthmine
-	Provider of 3D street level imaging services. The company provides tools for collecting, processing, managing and hosting 3D street level imagery as well as developer tools for creating and distributing applications.
-	['', '3D mapping', ' ', '3D imaging', ' ', '3D mobile mapping', ' ', 'cloud based hosting', '']
-Timeless Cities
-	Provider of 3D media services.
-	['', '3D media', ' ', '3D display', ' ', '3D television', ' ', 'commercial services', '']
-Revere Digital
-	Provider of online media services. The company offers news, reviews, events and analysis from journalists in technology and media.
-	['', 'media service', ' ', 'technology news', ' ', 'media content', '']
+DATAllegro
+	Provider of data warehouse appliances.
+	['', 'data warehouse', ' ', 'warehouse appliance', '']
+InfiniDB
+	Provider of analytic database software for information processing applications. The company provides data warehouse storage engine for analytical data, analytical workloads and analytical data volumes. It also offers support services for the implementation of data warehouse.
+	['', 'analytic database software', ' ', 'storage engine', ' warehousing']
+living-e
+	Provider of a data-base supported web content management system. The company\'s products serve as tools for the administration and update of information for internet applications and their derivatives.
+	['', 'web content', ' CMS ', 'internet applications', '']
+Prism Solutions
+	Designer, developer and marketer of data warehouse management software solutions in United States. The company also provides database management solutions to its customers.
+	['', 'data warehouse', ' ', 'database solution', ' DBMS']
+Maximum Data Solutions
+	Provider of data collection and warehouse management technology solutions. The company operates as an independent software vendor of automated data collection hardware and software for companies that utilize the Microsoft Dynamics GP ERP packages. Its software products include InTouch Distribution, a module which connects, collects, and controls various aspects of Microsoft Dynamics GP receiving, order fulfillment, and inventory control functions; and InTouch Manufacturing, a solution developed for the purpose of acquiring and entering information about the inventory and processes.
+	['', 'warehouse management technology', ' ', 'data collection', ' ', 'inventory information entering', '']
+SenSage
+	Provider of enterprise event data warehouse technology for security, compliance, call detail records data retention, data retrieval and systems management. The company offers enterprise security analytics software that provides a log management platform, for event collection, retention and analysis to automate compliance reporting, investigation and security decision support processes.
+	['', 'data warehouse', ' ', 'log management platform', ' ', 'data management architecture', ' ', 'log management', ' ', 'system management', ' ', 'security process', ' ', 'compliance reporting', '']

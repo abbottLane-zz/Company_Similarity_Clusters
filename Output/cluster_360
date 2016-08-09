@@ -1,18 +1,21 @@
-Valorene
-	Provider of recycling services. The company specializes in providing recovery and recycling services for waste materials to make recycled raw materials.
-	['', 'recycling of waste materials', ' ', 'commercial service', ' ', 'recycling service', '']
-Salsnes Filter
-	Developer of filters to remove particles from municipal waste and industrial process water. The company\'s technology is used to secure good quality of incoming water, recycling water, or to improve utilization of raw materials in industries such as food-processing, maritime and fish farming.
-	['', 'particles removal', ' filters ', 'municiple waste', '']
-Spiralcat
-	Provider of water and biofuel renewable services. The company recovers water and biofuel using harvesting systems that transform waste into valuable energy and water resources.
-	['biofuel ', 'soil fertility', ' ', 'usable resources', '']
-TransCella
-	Developer of technology for utilization of multi core processors.
-	['', 'multi core processor', ' ', 'faster application', ' ', 'processor utilization', '']
-Qualiboo
-	Provider of software systems for food traceability. The company offers a combined hardware and software system that provides traceability from receipt of raw materials to the shipment of finished products.
-	['', 'traceability solution', ' ', 'hygiene solution', ' ', 'food quality check', ' ', 'traceability software', ' ', 'raw material quality check', ' ', 'business software', '']
-Ecowat
-	Provider and developer of water purification technologies and products. The company applies gas hydrate crystallization as a method to purify industrial waste water. It also provides water recycling services.
-	['', 'water recycling service', ' ', 'water purification', ' ', 'gas hydrate crystallization', '']
+Nevada County Wine Guild
+	Provider of wines. The company provides spirits and beers under private label and national brands. It provides certified organic and sulfite-free wine.
+	['', 'organic wine', ' ', 'sulfite-free wine', ' spirit wine beer']
+Indie Vinos
+	Developer of a mobile application for wine tasting. The company connects small wineries with wine drinkers via mobile and web-based social marketplace and provide them with social selling and customer relationship management tools.
+	['', 'consumer service', ' ', 'consumer product', ' ', 'wine tasting', '']
+BioStorage Technologies
+	Provider of sample-management services for the bioscience sector.The company manages the complete life cycle of samples, using a team of global sample experts, temperature-controlled storage facilities and a real-time, Web-based sample intelligence and tracking system. It operates biostorage facilities in the U.S. state of Indiana and Frankfurt, Germany.
+	['', 'sample management', ' ', 'cold storage', ' ', 'lab equipment', '']
+Vinetrade
+	Provider of an online platform for building and managing wine portfolios. The company operates a website which allows people to trade directly with other investors and collectors of wines.
+	['', 'online trading', ' ', 'online wine trading', ' ', 'wine collectors', ' ', 'online trading platform', '']
+Wine Preserva
+	Developer of device to preserve the quality of wine. The company offers Wine Shield, an in-bottle floating lid that is a barrier to oxidation. The product is designed for consumers who open bottles but don\'t consume the contents immediately, and for restaurants and bars that sell bottled wine by the glass.
+	['preservation wine']
+Tasting Room
+	Provider of wine tasting service. The company allows consumer to taste the wine before purchasing it, by supplying a sample sized bottles.
+	['', 'wine tasting', ' ', 'sample sized bottle', ' ', 'wine acquistion', '']
+FirstCrush
+	Provider of personalized wine subscription service.
+	['', 'wine subscription', ' ', 'personalized subscription', ' ', 'wine purchase', ' ', 'consumer products', '']

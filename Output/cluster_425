@@ -1,18 +1,36 @@
-Clipbook
-	Seller of video clips which can be used without licensing restrictions. The company sells video clips in high definition, with a wide range of topics in order to meet customer needs at a price lower than current production costs, with a single price for format and royalty-free license.
-	['', 'Visual content', ' ', 'video clip', ' ', 'high definition video', '']
-Ziftr
-	Provider of a consumer shopping price engine. The company provides a browser that gives comparative price information to the customers for the products they are shopping online.
-	['', 'shopping price engine', ' ', 'online shopping', ' ', 'price information', ' ', 'price engine', '']
-Atomic Dog Publishing
-	Publisher of hybrid media textbooks for college courses. The company focuses on social sciences and business text books publishing. It publishes college textbooks in various areas, including management, psychology, marketing, research methods and political science.
-	['', 'hybrid media', ' ', 'online publisher', ' ', 'college course', ' ', 'business text book', ' ', 'text publishing', '']
-Decide
-	Provider of an online shopping and price-information service. The company mines data on price points and products to provide shoppers with more information on price drops, new products and ratings.
-	['', 'online shopping', ' ', 'shopping service', ' ', 'electronics shopping', '']
-W5 Networks
-	Developer of wireless systems for the retail industry. The offers electronic shelf label (ESL) systems for displaying price information on retail shelves.
-	['', 'wireless system', ' ', 'electronic shelf label', ' ', 'wireless application', ' wifi ', 'wireless solution', '']
-Courseload
-	Provider of digital course material. The company offers an electronic version of any textbook on any computer at a discounted price as compared to the original price of  printed textbooks.
-	['', 'digital textbook', ' e-textbook e-text']
+FreeDecision
+	Provider of web based credit decisions to shoppers, merchants, and financial institutions. The company\'s Instant Financing Solution allows customers, either consumers or small businesses, to apply for loans or other financing and receive an approval or rejection on-the-spot.
+	['', 'credit decisions', ' ', 'financing solutions', ' ', 'financing approval', ' Finance']
+The Vantra Group
+	Provider of comprehensive internet brokerage infrastructure services. The company\'s technology links investors, brokers, clearing firms and back offices. The company enables financial institutions to get to market in the area of online investments.
+	['“brokerage software” “trading management” “transaction processing” investors ', 'financial institutions', '']
+High Mark Credit Information Services
+	Provider of credit risk information services. The company enables financial institutions to take credit decisions, deter concurrent borrowers and spot defaulters.
+	['', 'credit risk', ' ', 'credit decision', ' ', 'financial institution', '']
+Hangi Kredi
+	Operator of a credit portal where users can search and compare all credit products of banks and credit institutions and send online applications to them. The company offers an independent and impartial platform that brings together the creditors and borrowers. The company provides credit rates of banks and credit institutions, required conditions for such credits and an online application service to such credits on free of charge basis.
+	['', 'credit portal', ' ', 'credit institutions', ' borrowers creditors ', 'credit rates', '']
+CorePROFIT Solutions
+	Provider of profitability information services for banks and credit unions. The company provides information to make profitable decisions about e-commerce transactions, channels and migration strategies. The company\'s services include analysis-cost development, hosted profitability and profit-wise costing applications.
+	['profitability ', 'costing services', ' ', 'credit unions', ' banks ', 'cost development', '']
+CreditScorer
+	Developer of technology for studying payment behavior of clients. The company\'s technology enables credit professionals to improve their credit granting and collections performance. The company creates and implements risk scoring models for the credit and financial services industries.
+	['', 'credit payment', ' ', 'credit granting', ' ', 'payment behavior', ' ', 'finance technology', ' ', 'credit benchmarking', ' ', 'credit payment software', ' ', 'finance software', ' credit']
+Distra
+	Provider of social payments channels. The company enables financial institutions, processors and retailers to enhance the flexibility and performance of their existing payments infrastructure to address market needs.
+	['', 'social payments channel', ' ', 'payment system', ' ', 'e-commerce', '']
+Covarity
+	Provider of commercial loan monitoring and portfolio management solutions for the financial services industry. The company provides web-based software solution that automates the process for collecting and analyzing borrower financial data and enables financial institutions to manage credit risk on a loan-by-loan basis. Its solution is used for document collection and statement tracking, financial statement analysis, statement spreading, ratio analysis, covenant monitoring, borrowing base analysis, and reporting applications.
+	['', 'commercial loan monitoring', ' ', 'portfolio management solution', ' ', 'credit risk management', ' ', 'commercial loan analysis', '']
+Gensar Holdings
+	Provider of electronic data capture and authorization services for financial institutions and sales agents. The company provides a processor of credit card transactions for retailers and other merchants.
+	['', 'data capture', ' ', 'authorization services', ' ', 'financial institutions', '']
+DPG Holdings
+	Provider of eco-friendly information and products over internet. The company is a provider of corporate credit information with value-added services such as credit ratings, bankruptcy probability analysis and alarm systems via the internet.
+	['', 'bankruptcy probability', ' ', 'information service', ' ', 'credit ratings', ' ', 'corporate credit information', '']
+Bill Me Later
+	Provider of payment and marketing technology services to multichannel retailers. The company offers PayCapture, a set of credit tools; and Bill Me Later that enables customers to pay for purchases without providing credit card information.
+	['', 'marketing technology', ' ', 'multichannel retailer', ' ', 'credit tool', ' ', 'payment technology', ' paycapture ', 'credit card payment', '']
+FreeMonee
+	Provider of consumer gift incentives. The company enables merchants to give gifts directly to individual credit and debit cardholders through participating financial institutions.
+	['', 'gift network', ' ', 'gift card', ' ', 'cash gift', '']

@@ -1,27 +1,30 @@
-Quality Care Solutions
-	Developer of platform software products for the healthcare industry. The company provides healthcare claims administration platforms and consumer-directed health and claims platforms with integrated medical management functions for healthcare payers.
-	['', 'healthcare claim', ' ', 'medical bill', ' ', 'healthcare organization', '']
-CompassCare
-	Provider of cost and treatment delivery management software for the healthcare industry. The company develops software in connection with management of healthcare data.
-	['', 'healthcare software', ' ', 'healthcare data solution', ' ', 'data management', '']
-Bioapter
-	Manufacturer of biosensors for the healthcare industry. The company\'s product portfolio includes in situ bio-sensing equipment, aptamers and other DNA sequence identification devices.
-	['biosensor ', 'biotechnological equipment', ' aptamers']
-Nordic Phytopharma
-	Developer of scientifically documented dietary supplements and herbal remedies. The company engages in developing patentable ideas within the healthcare industry into proprietary products, including a treatment to lessen the symptoms of the common cold.
-	['', 'dietary supplements', ' ', 'immune system health and modulation', ' ', 'skin care areas', '']
-DocVue
-	Developer of cloud-based consumer engagement software products. The company offers an online technology platform for the consumer healthcare industry that enables patients to interact with their doctors.
-	['', 'consumer engagement', ' ', 'consumer healthcare', ' ', 'healthcare consumers', ' ', 'doctor-patient relationship', '']
-Beijing Neusoft Viewhigh Technology
-	Provider of software products and services for healthcare industry. The company develops applications in healthcare business management including business planning and control for healthcare organizations, hospital operation and management, government supervision and financial management.
-	['']
-InStream
-	Developer of workflow software for healthcare offices. The company develops software products that coordinate the movement of documents and other information between managed healthcare providers and their staffs.
-	['', 'managed healthcare', ' ', 'workflow software', ' ', 'data transfer software', ' ', 'behavioral healthcare', '']
-Agility Healthcare Solutions
-	Provider of an automated workflow and resource management solutions to the healthcare industry.
-	['', 'resource management', ' ', 'management software', ' ', 'healthcare industry', '']
-Point-of-Care Systems
-	Operator of healthcare information data capture system. The company captures point-of-care data for the home healthcare industry.
-	['', 'Healthcare information data', ' ', 'healthcare industry', '']
+BioLucent
+	Operator of women\'s health company, involved in the early detection and treatment of breast cancer. The company manufactures and markets the MammoPad breast cushion, a radiolucent foam cushion that breast centers use to provide women with a mammogram.
+	['', 'breast cancer', ' ', 'MammoPad breast cushion', ' ', 'radiolucent cushion', '']
+NewRiver
+	Provider of innovative technology solutions that simplify investor disclosure, transparency and cost savings to the delivery of fund data and investor communications. The company pioneered the first electronic prospectus, and guarantee its data to be "compliance grade" which allows customers to reduce risk, lower compliance costs and increase revenues.
+	['compliance ', 'summary prospectus', ' ', 'share class analysis', '']
+Z-Tech
+	Developer of cancer screening technology. The company has developed a a system that detects changes in electrical charges that occur when normal tissue undergoes malignant changes. The first use of this technology has been in the development of a medical device for the detection of breast cancer in a screening environment.
+	['', 'monitoring equipment', ' ', 'medical diagnostic', ' malignant']
+RGene Therapeutics
+	Developer of gene therapy and other nucleic acid-based drugs. The company intends to develop and commercialize gene therapies for in-vivo approaches to ovarian and breast cancer, an ex-vivo anti-sense treatment for chronic myelogenous leukemia and other applications of its gene and nucleic acid delivery systems.
+	['', 'gene therapy', ' ', 'nucleic acid', ' ', 'breast cancer', ' ', 'chronic myelogenous leukemia', '']
+Orthotopix
+	Developer of modelling products for cancer research. The company is a provider of cell, tissue and animal models modelling the prevention and treatment of breast cancer and prostate cancer, urodynamical models of urethral function and a cell line-based safety model of the endometrium. The company provided its products and services to drug-development companies.
+	['', 'drug development', ' ', 'healthcare service', ' ', 'tissue modeling', '']
+Seragon Pharmaceuticals
+	Developer of orally active selective estrogen receptor degraders (SERDs) that represent a treatment for metastatic breast cancer. The company is developing breast cancer pharmaceuticals based on the selective estrogen receptor degraders platform, including its lead drug candidate, ARN-810, under evaluation for ER+ breast cancer.
+	['', 'breast cancer', ' ', 'estrogen receptor degrader', ' metastatic']
+Semler Scientific
+	Provider of medical risk-assessment services. The company\'s mission is to develop, manufacture and market patented products that identify the risk profile of medical patients to allow healthcare providers to capture full reimbursement potential for their services.
+	['', 'risk assessment', ' ', 'risk analysis', ' ', 'medical assessment', ' ', 'risk profile', '']
+Suomen Terveystutkimus
+	Provider of breast-cancer screening products and services. The company develops products and performs mammography screenings along with other clinical tests, to detect and treat breast cancer.
+	['', 'breast cancer', ' ', 'mammography screening', ' ', 'cancer treatment', '']
+NaniRx Therapeutics
+	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
+	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
+Windy Hill Medical
+	Developer of medical devices to reduce the risk of developing breast cancer in high risk patients. The company intends to develop intraductal therapy for the prevention of breast cancer.
+	['', 'breast cancer', '']

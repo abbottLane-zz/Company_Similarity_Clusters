@@ -1,60 +1,36 @@
-MMIC Solutions
-	Developer of technology for systems operating in the millimeter wave bands (50 GHz to 250 GHz). The company develops, manufactures and supplies products for use in security, detection and high-bandwidth communication equipment. The company\'s products include mechanical interfaces, direct detection receivers and "conncetorized" modules.
-	['', 'advanced materials', ' ', 'wave applications', ' down-convertor bandwidth ', 'wave bands', '']
-Elastix
-	Provider of technology that lowers the power used by digital integrated circuits. The company offers elastic clocks that helps in reducing on-chip power consumption.
-	['', 'elastic clocks', ' ', 'elastic voltage scaling', ' on-chip ', 'power consumption', '']
-Sinewave Energy Technologies
-	Developer of power-modulation systems. The company researches and develops sinewave power-control products based on its patented, ultra-high-speed power-switching technology. The company\'s products include digital sinewave lighting dimmers for high intensity discharge (HID) and fluorescent lighting.
-	['', 'light dimmer', ' ', 'power modulation', ' ESD HID ', 'lighting products', '']
-Qspeed Semiconductor
-	Manufacturer of silicon power semiconductor devices for power supplies, inverters, motor control and other power applications. The company also offers power diodes.
-	['', 'silicon power semiconductor', ' ', 'power diodes', ' ', 'motor control', '']
-Exclara
-	Developer of digital power management platforms for solid state lighting solutions. The company offers small LED driver solutions for volume LED applications.
-	['', 'digital power management', ' ', 'lighting solution', ' ', 'led driver', ' ', 'led application', '']
-Gnodal
-	Developer of a technology that improves performance and power in data centers. The company\'s technology aims to significantly reduce power usage and running costs.
-	['', 'systems design', ' ', 'data technology', ' ', 'data centre', '']
-Gecko Alliance
-	Manufacturer of electronic controls. The company offers systems, controls, pumps, audio, accessories and bath products.
-	['', 'temperature setting', ' ', 'electronic button', ' pump']
-Inverpower Controls
-	Manufacturer of power electronics modules and advanced high-speed digital controls. The company manufactures products for use in industrial power supply, power conversion and power quality systems.
-	['', 'electronic module', ' power']
-Nidecon Technologies
-	Designer and manufacturer of power-quality filtering technology for renewable energy and motor drives. The company creates its products based on a proprietary inductive design concept enabling it to reduce filter sizes. In addition, its products utilize integrated liquid cooling and forced-air cooling technologies.
-	['', 'filtering products', ' ', 'inductive components', ' ', 'motor products', ' ', 'energy products', ' filters']
-Camstar
-	Provider of enterprise manufacturing execution and quality systems. The company makes manufacturing execution systems (MES) software for such industries as semiconductors, biotechnology, electronics, medical devices, and outsourced operations.
-	['', 'system software', ' ', 'outsourced operation', ' ', 'quality system', '']
-Nokian Capacitors
-	Manufacturer of power system components and capacitors. The company manufactures equipment and systems for reactive power compensation and harmonic filtering.
-	['capacitors ', 'system component', ' filtering']
-SemiSouth Laboratories
-	Manufacturer of high-voltage silicon-carbide semiconductor devices. The company specializes in the development and manufacturing of silicon carbide materials and electrical components for high-power, high-efficiency, harsh-environment power management and conversion applications.
-	['', 'semiconductor device', ' ', 'silicon carbide', ' ', 'electronics material', ' ', 'harsh environment electronic', '']
-Planet ATE
-	Supplier of fabless semiconductor for the manufacturers of automatic test equipment. The company manufactures "System on a Chip" (SoC) integrated circuits that combine all analog functions required to construct digital channel, DUT Power supply, PMU and VI.
-	['', 'Digital Channel', ' ', 'DUT Power Supply', ' PMU VI Semiconductor chips']
-Photonic Power Systems
-	Provider of power over optical fiber. The company provides EMI and RFI immune electrical power to remote locations with no electrical wire. The company’s products include photovoltaic power converters and modules, optically powered data links and high power optical data systems, which are used in  medical, electric power, sensor and wireless markets.
-	['', 'optical fiber', ' ', 'photovoltaic power', ' sensor']
-Ideal Power
-	Developer of power converters. The company develops and manufactures disruptive electronic power converters. It also offers electronic power converters for renewable energy generation, electrical energy efficiency, smart power grids and electric vehicles. The company also provides photovoltaic inverters and battery converters for grid storage and electrified vehicle fast charging infrastructure, such as peak demand reduction in commercial and industrial markets, utility load shifting, buffering EV fast chargers and bi-directional EV DC chargers. In addition, it offers hybrid power conversion systems and power switches.
-	['', 'PV Inverters', ' ', 'Battery Converters', ' ', '3-Port Hybrid Converters', ' ', 'Bi-polar', ' inverters']
-PulseWave RF
-	Provider of semiconductor components for wireless power amplifiers. The company offers Class M Power technology, a digital multi-carrier power amplifier module that simplifies the design for transmitters and provides the scalability required for various power level configurations, including fail-soft operation.
-	['', 'semiconductor component', ' ', 'wireless power amplifier', ' ', 'amplifier module', ' ', 'digital multi carrier', '']
-Pentadyne Power
-	Manufacturer of flywheel clean energy storage systems for energy recycling applications. The company\'s power system engineering features a high-speed composite flywheel, fully-active magnetic bearings and an integrated vacuum system. This combination provides significant advantages including reliability, operating costs and footprint. The Pentadyne flywheel system delivers 120 kW of instant, precise electrical power for up to 20 seconds.
-	['', 'storage system', ' ', 'clean energy', ' clean-tech ', 'energy recycling application', '']
-Silicon Power
-	Provider of semiconductor devices, pulsed-power modules and utility-applicable systems. The company offers semiconductor components, which include rectifier type diodes and thyristorsm, phase control and line commutation devices, pulse power application device and phase modules. It offers its products for use in commercial, industrial, defense and national power applications.
-	['', 'semiconductor device', ' ', 'pulsed-power module', ' ', 'utility-applicable system', ' ', 'semiconductor component', ' ', 'line commutation device', '']
-Calypto Design Systems
-	Provider of power optimization and functional verification software services. The company offers PowerPro CG that reads in an RTL design and evaluates circuit behavior in various clock cycles to identify sequential clock gating enable conditions; PowerPro MG, an automated memory power optimization service that reduces dynamic and leakage memory power; and PowerPro-filer, a Linux utility that calculates clock-gating efficiency, as well as the percentage of registers clock gated in a RTL design block.
-	['circuit ', 'functional verification', ' ', 'electronic system', '']
-CyberPower Systems
-	Designer, manufacturer and marketer of Uninterruptible Power Supply (UPS) systems. The company offers line of emergency battery backup systems for computer systems, electronics and telecommunication equipment.
-	['', 'emergency battery', ' ', 'backup system', ' uninterruptible']
+Scrittura
+	Manufacturer of software targeting the financial services markets. The company provides document management, confirmation and straight-through-processing for the OTC derivatives marketplace. Its suite comprises DocGenerator, DocManager and Workflow Manager, as well as configured technology for the automation and management of OTC derivative, legal, corporate trust and HR business processes.
+	['', 'financial service', ' ', 'document management', ' ', 'derivative marketplace', ' ', 'hr business process', ' ', 'document confirmation', '']
+RP Holdings
+	Provider of mortgage default services. The company offers non-legal administrative, accounting, technology and information, data and document collection, transmission and processing services to law firms.
+	['', 'mortgage default services', ' ', 'processing services', '']
+Deskom
+	Provider of an invoice management platform. The company provides a platform which allow organization in invoice accounting, internal invoice management and editing & maintenance of digital form of invoice.
+	['', 'invoice management', ' ', 'invoice accounting', ' editing']
+SOFTLINE
+	Provider of IT services. The company specializes in software licensing and provides a full range of IT services relating to training, consulting, technical and legal support, and IT outsourcing.
+	['', 'IT services', ' ', 'IT training', ' ', 'Software licensing', '']
+Control Group
+	Provider of consulting, outsourcing and managed-services. The company offers services such as strategy, design, development, implementation and support. It specializes in technology services for architects, designers, publishers, financial, legal and professional services firms.
+	['', 'on site support', ' ', 'remote support', ' CAD ', 'work flow service', ' ', 'IT outsourcing', '']
+VTEL Products
+	Manufacturer of video telecommunications equipment. The company\'s products facilitate staff meetings, training, job interviews, client presentations and legal depositions through videoconferencing.
+	['', 'telecommunication equipment', ' ', 'videoconferencing', ' video ', 'video based technologies', '']
+Pangea3
+	Provider of legal process outsourcing services. The company offers corporate legal outsourcing services, such as contract drafting and revision, contract management and abstraction, compliance and risk management, and troubled asset relief program; and e-discovery and litigation support services. It also provides legal research, business, and competitive intelligence services, which include conducting and analyzing research in the areas of federal, state, and international case laws; federal, state, and municipal regulatory codes and legislative history; and multi-jurisdictional surveys.
+	['', 'legal process outsourcing service', ' ', 'legal research', ' ', 'legal service', ' ', 'patent litigation service', '']
+FindLaw
+	Provider of legal resources. The company provides legal information for lawyers, businesses, students and individuals. The company provides online videos, lawyer directory and other internet advertising services.
+	['', 'legal information', ' lawyers']
+JusticeLink
+	Providers of technology enabled services for courts, attorneys, clients and other interested parties in the legal community through their website. The company provides  legal system for filing legal documents digitally with the court system.
+	['', 'legal community', ' attorneys ', 'court system', ' website']
+Burrill & Company
+	Provider of venture funding to healthcare firms. The company provides venture capital and private equity funding to mid-stage development medicine and biotechnology companies in Russia.
+	['', 'venture funding', ' ', 'funding and investment', ' ', 'venture fund', '']
+Datacert
+	Developer of e-billing products to law firms. The company offers Passport, a platform for uniting legal systems; Advanced Invoice Management System, a legal spend management system; and Corporate Legal Desktop, an integrated matter and legal spend management solution. It also offers consulting and hosting services.
+	['', 'advanced invoice management', ' ', 'corporate legal desktop', ' ', 'management solution', ' ', 'hosting service', ' ', 'consulting service', '']
+RealPractice
+	Provider of legal technology products and services for attorneys and law firms. The company’s products include RealDealDocs, which provides attorneys, researchers, and legal professionals with access to executed legal agreements and documents drafted by lawyers at America’s law firms and corporations.
+	['', 'legal technology product', ' ', 'document drafting', ' ', 'legal agreement', '']

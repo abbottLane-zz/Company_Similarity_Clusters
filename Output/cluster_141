@@ -1,30 +1,21 @@
-Combrio
-	Provider of remote product services (RPS) software to managed services, enterprise information technology and industrial automation organizations to monitor and manage remote devices. The company’s products include Virtual Service Infrastructure software solution (VSI), an RPS ecosystem that provides the service delivery solutions for service providers, remote device monitoring and management solutions for service organizations and the service control solutions for enterprises.
-	['', 'remote product services', ' ', 'managed services', ' ', 'enterprise information technology', ' ', 'industrial automation', ' ', 'remote devices', '']
-ManageIQ
-	Provider of enterprise cloud management and automation software. The company provides an automation software that enables organizations to deploy, manage and optimize private clouds, virtualized infrastructures and virtual desktops. It delivers unified monitoring, management and automation through a single pane of glass across enterprise clouds and globally distributed data centers.
-	['', 'enterprise cloud management', ' ', 'automation software', ' ', 'virtualized infrastructure', ' ', 'virtual desktop', ' ', 'unified monitoring', '']
-DynamicOps
-	Provider of virtual infrastructure and lifecycle management software solutions. The company offers Virtual Resource Manager, an information technology service automation software. The company also provides DynamicOps Cloud Automation Center, a platform for defining and automating the delivery and management of on-demand IT services on a shared multi-tenant private or public cloud infrastructure. It also provides server provisioning, desktop provisioning, and lab management solutions
-	['', 'virtual infrastructure', ' ', 'lifecycle management software', ' ', 'server provisioning', '']
-Peminic
-	Developer of healthcare IT workflow and process management software. The company offers integrated software solutions for patient safety and quality, patient relations, risk management, and legal services. Its solutions include incident manager, root cause analysis manager, patient relations manager, peer review manager, claims manager, legal matter manager, employee health manager, contract manager, compliance manager, infection control manager, performance improvement manager, and quality outcomes manager, as well as patient safety organization solutions.
-	['', 'IT workflow', ' ', 'process management software', ' ', 'integrated software solution', ' ', 'cause analysis manager', ' ', 'healthcare solution', '']
-Cloud.com
-	Provider of open source software solutions for enterprises and service providers. The company offers an open source software solution that accelerates the deployment, management, and configuration of multi-tier and multi-tenant infrastructure cloud services. The company also provides subscription services, which include technical support, training courses, and knowledge base access, as well as security updates, patches, and bug fixes.
-	['', 'open source', ' ', 'software solution', ' ', 'cloud service', ' ', 'bug fixing', ' ', 'security update', ' ', 'technical support', '']
-rPath
-	Developer of a technology for virtualizing software applications, and managing the lifecycle of virtual appliances and application images. The company\'s products include rBuilder,\nrPath Lifecycle Management Platform. It also offers rBuilder Online and the Cloud Catalog for EC2 and rPath X6.
-	['', 'virtualizing software application', ' ', 'virtual appliance', ' ', 'application image', ' ', 'Lifecycle Management', ' ', 'Cloud Catalog', '']
-Rostrum
-	Provider of virtual meeting software. The company provides a platform which allow business organizations to conduct virtual general-assembly board meetings without any geographic limitations.
-	['', 'virtual meeting', ' ', 'online meeting', ' ', 'virtual general-assembly', '']
-B-hive Networks
-	Provider of virtual environment management solutions. The company offers B-hive Conductor, a software solution, which delivers service level control in virtualized IT environments. It’s software solution also provides visibility into the multi-tier applications, such as end-user transaction response time, virtual machine utilization, and cross-virtual machine dependencies to the virtual infrastructure groups, as well as determines baseline performance and usage of various business services and issues service level reports. It also plans and implements virtualization projects ranging from installation to capacity planning to performance improvement, as well as offers service delivery assessment services.
-	['', 'environment management', ' ', 'service level control', ' ', 'virtual machine utilization', ' ', 'cross virtual machine', '']
-Mandriva
-	Provider of enterprise free software products and solutions to the professional market. The company develops and distributes Linux globally. The company also provides server products and open source I.T infrastructure management solutions.
-	['Linux ', 'Open Source', ' freeware']
-Enigmatec
-	Provider of automation solutions for physical and virtual resource management. The company offers Execution Management System, an automation solution to implement run book automation solutions that describe the process of cataloguing, codifying, testing, and automating the manual, scripted, and ad hoc procedures used to manage information technology (IT) environments.
-	['resource management automation ', 'user interface', '']
+Circle of Moms
+	Provider of a community website platform for mothers. The company enables mothers to connect with friends, talk about their kids and join topical communities.
+	['', 'social networking', ' ', 'parenting site', ' ', 'motherhood community', '']
+MotoSport
+	Distributor of off-road motorcycle and all-terrain vehicle parts and equipment. The company offers bars and controls, body components, brakes, drive components, engine components, exhausts, graphics, suspension, tires, wheels, and intake components. It also distributes gear, boots, helmets, goggles, hydration packs, protective gear, gear bags, men’s casual clothing, women’s casual clothing, clearance gear, kid’s gear, pants, jerseys, gloves, and pajamas, as well as sells miscellaneous items, such as DVDs, sunglasses, tools, ramps and stands, chemicals, and original equipment manufacturer parts.
+	['', 'vehicle part', ' ', 'vehicle equipment', ' ', 'engine component', ' ', 'bike rider accessory', ' ', 'retailer of motorcycle', ' ', 'ATV part', ' ', 'sports apparel', ' ', 'off road vehicle', ' ', 'all terrain vehicle', '']
+Compring
+	Provider of a smart search platform for the flash sales and daily deals industry. The company\'s website displays offers on various products and alerts its customers about new deals as they are published online.
+	['', 'discount voucher', ' ', 'product deal', ' ', 'online deal', ' discount ', 'notification email', '']
+Breastfeeding.com
+	Provider of support and information on breastfeeding for first-time moms. The company operates an online community of mothers and birth related medical professionals for support and advice. It also provides information and support on various child health and growth issues ranging from child care and safety to potty training and teething.
+	['', 'online community', ' ', 'medical professional', ' ', 'child care', ' ', 'child health', '']
+Trus Plus Systems
+	Provider of agricultural and nursery products. The company is engaged in the production of nursery products, nursery stock, shrubbery, bulbs, fruit stock, sod and other agricultural products.
+	['', 'nursery products', ' ', 'nursery stock', ' shrubbery ', 'fruit stock', ' nursery bulbs']
+Casabu
+	Operator of an online flash sales site. The company focuses on maternity and child products including clothing, toys, nursery equipment, maternity gear and treats for mothers.
+	['', 'online flash sales', ' ', 'online site', ' ', 'online store', ' ', 'children’s brand', '']
+Clarus (acquired)
+	Provider of B2B procurement software and trading services. The company develops, manufactures and distributes a broad range of products including carabiners, protection devices, belay and rappel equipment, helmets, ropes, ice-climbing gear, backcountry gear, technical backpacks, high-end day packs, tents, trekking poles, gloves, skis, ski bindings and ski boots.
+	['', 'outdoor equipment', ' ', 'lifestyle products', ' helmets']

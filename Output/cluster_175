@@ -1,9 +1,18 @@
-Health Market Science
-	Provider of data integration and analytic software for the health care industry. The company supplies data on healthcare professionals and operates a practitioner-level medical claims database in the U.S. Its data assets also help its clients deal with government compliance, reduce operational costs and more.
-	['', 'federal compliance', ' ', 'healthcare information', ' ', 'federal regulation compliance', ' ', 'customer data validation', '']
-DCF Technologies
-	Provider of services for eliminating data retrieval bottlenecks. The company offers software services to access data accumulating in organizational and internet portal databases. It also provides SafePeak, which acts as a distributed proxy cache between application servers and database servers to accelerate data access.
-	['', 'data access', ' ', 'performance management', ' ', 'portal database', '']
-Membase
-	Provider of elastic NoSQL database technologies. The company offers Membase Server, a distributed key-value database for the data management needs of interactive Web applications, which employs a non-relational data model and allows the data tier to scale out the Web application logic tier by adding various commodity servers; and Memcached, a distributed data caching technology that transparently caches data in front of its key-value database.
-	['', 'database technology', ' ', 'database management', ' ', 'database application', '']
+CoreFlow
+	Developer and manufacturer of aeromechanical systems for the microelectronics industry. The company provides handling and conveying products for flat panel display and photovoltaic equipment manufacturers.
+	['', 'air floating systems', ' ', 'non contact glass handling', ' ', 'aeromechanical system', ' ', 'commercial product', '']
+Oplus Technologies
+	Provider of video processing products and technologies for digital television and digital displays. The company designs, develops and markets integrated circuit and software solutions for flat panel plasma and LCD TVs, projection systems, LCD multi-function monitors and emerging digital display applications.
+	['', 'video processing', ' ', 'electronics devices', ' ', 'LCD TV', '']
+Nouvoyance
+	Developer of PenTile technology to flat-panel display manufacturers and their IC suppliers. The company’s technology applications include highly viewable GPS/automotive displays, earth-saving solutions for HDTV, mobile displays, entertainment players for mobile video, easy-read menus for imaging devices and superhero displays for electronic games.
+	['', 'PenTile technology', ' ', 'earth saving solution', ' ', 'flat panel display technology', '']
+Pocket Communications Northeast
+	Provider of flat rate, unlimited wireless voice and data services. The company offers a flat rate service which allows customers to place and receive unlimited wireless calls within a\nlocal service area for a flat monthly fee.
+	['', 'wireless telecommunication', ' ', 'data service', ' ', 'wireless network', '']
+Enuclia Semiconductor
+	Developer of semiconductors for display electronics such as flat panel televisions.
+	['', 'semiconductor', ' ', 'visual semiconductor', ' ', 'screen semiconductor', ' ', 'TV semiconductor', ' ', 'television semiconductor', '']
+F-Origin
+	Provider of touchscreen, motion control technologies for mobile and fixed display devices.
+	['', 'motion control', ' ', 'interface solution', ' ', 'mobile device', ' touchscreen']

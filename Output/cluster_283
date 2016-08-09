@@ -1,30 +1,30 @@
-Cherry
-	Provider of on demand car wash services to customers. The company\'s service allows its users to park the car anywhere, check in online and get the car washed.
-	['', 'car wash', ' ', 'car cleaning', ' ', 'car maintenance', ' ', 'cleaning service', ' ', 'automobile service', ' ', 'auto service', ' ', 'car service', ' ', 'vehicle maintenance', ' ', 'car washing', ' ', 'driving service', '']
-Krillion
-	Operator of a shopping search engine. The company offers audio and video accessories, such as A/V mounts and brackets, headphones, remote controls, and satellite radio accessories; cameras, such as camcorders, digital cameras, and digital picture frames; car audio and electronics, such as car amplifiers, car audio and video accessories, car CD changers, car speakers and subwoofers, in dash car audio, and radio scanners; and handheld electronics, including GPS navigation systems.
-	['', 'online shopping', ' ', 'consumer infrastructure', ' ', 'navigation system', ' ', 'video accessory', '']
-Novarc
-	Creator of novel manufacturing process for car components. The company is the creator of sprayforming, a method of creating dies and tools for the production of car parts as well as other objects. The company has licensed key intellectual properties related to the process and is focused on developing manufacturing facilities in the U.S. and U.K.
-	['', 'spray forming', ' ', 'machine tools', ' prototype']
-Unwind Me
-	Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.
-	['', 'massage therapy', ' ', 'wellness service', ' Massage']
-Auto.nl
-	Provider of a subscription car service in the Netherlands. The company provides a car service that requires users to pay a subscription fee only for the gas and use of the vehicle, while the company handles all warranty, maintenance and replacement-transport costs and services.
-	['', 'car rental', ' ', 'car leasing', ' ', 'car lease', '']
-Gaiam
-	Provider of a lifestyle media company and offers a  selection of information, media, products and services to customers. The company caters goods for home, clothing, wellness, yoga, fitness and videos.
-	['lifestyle ', 'direct response television', ' ecommerce catalog']
-Kine Robot Solutions
-	Designer and developer of robot systems for industrial use. The company offers robotic products for the food, metal, building, car and glass industries.
-	['', 'robot systems', ' ', 'grippers', ' ', 'material handling systems', '']
-ThirdVoice
-	Provider of service that allows inline discussion forums for private, group or public interaction. The company provides technology that allows people to create inline notes that can be shared publicly, within a group or kept private. The company\'s service allows users to freely and openly express ideas at points of references anywhere in a web page.
-	['discussion forum ', 'social platform', '']
-Sweetch (valet service)
-	Provider of an on-demand valet service for people in San Francisco. The company provides a way for office goers to order a valet through a mobile application, enabling the user to drop the car off in front of office and then request it whenever he is ready to leave.
-	['', 'valet service', ' parking ', 'valet parking', '']
-Fleet Innovation
-	Provider of car fleet management services. The company engages in car outsourcing services and also monitors services such as leasing, insurance and debit cards.
-	['', 'car fleet management', ' ', 'car outsourcing', ' ', 'car services', ' car']
+Matrix Semiconductor
+	Developer of three-dimensional integrated circuits (IC). The company is a provider of flash-memory storage solutions for digital content, including memory cards,  solid-state drives, USB storage devices, media software, embedded storage and music and video players.
+	['', 'integrated circuit', ' ', 'flash device', ' ', 'digital content', '']
+Transfusion Technologies
+	Developer and designer of systems for processing human blood for transfusion to patients. The company\'s systems are based on centrifuge technology called the Dynamic Disk and consist of sterile, single use disposable sets and computer controlled electromechanical devices that control the blood processing procedure.
+	['', 'centrifuge technology', ' ', 'monitoring systems', '']
+StorageApps
+	Provider of all-encompassing solutions, applications and appliances for storage-based network services. The company\'s appliances and applications enable customers to connect virtually any type of storage devices with any servers over any connection type.
+	['storage ', 'live data', ' ', 'data mirroring', '']
+Headway Technologies
+	Manufacturer and supplier of  magnetoresistive heads to the disk drive industry. The company develops magnet resistive recording heads for the disk storage industry.
+	['storing ', 'magnet resistive', ' drive disk']
+Xanto Technologies
+	Provider of wireless based devices for multimedia data exchange and security storage. The company developes innovative pocket wireless based storage devices that allow data exchange without the mediation of a personal computer.
+	['', 'wireless devices', ' ', 'security storage', ' ', 'multimedia data exchange', ' ', 'wireless based devices', '']
+Micropolis
+	Manufacturer of high capacity/performance disk drives. The company provides high capacity mini floppy disk drives and 8" Winchester drives.
+	['', 'disk drives', '']
+Link_A_Media Devices
+	Manufacturer of custom system-on-chip (SoC) solutions for peripheral data storage devices. The company’s SoC solutions integrate the read/write channel, disk controller functions, microprocessor and memories and servo processing for HDD application on a single chip.
+	['', 'data recovery', ' ', 'system on chip', ' ', 'data storage device', '']
+Archive (Storage (IT))
+	Manufacturer of streaming tape drives. The company\'s products are used as backup storage devices to protect against the loss of data in the event of drive malfunction or user error, as well as for archival storage, data interchange and software loading.
+	['', 'tape drive', ' ', 'computer storage', ' ', 'archive storage', ' minicomputer archive ', 'storage device', ' tape']
+Amcodyne
+	Provider of disk drives and other computer storage devices.
+	['', 'disk drive', ' ', 'computer storage', ' ', 'storage device', '']
+EEStor
+	Developer and Manufacturer of Electrical Energy Storage Unit. The company designs, develops and manufactures energy density storage devices and capacitors.
+	['', 'energy storage device', ' ', 'electrical energy storage', ' ', 'capacitor', ' ', 'ultra capacitor', '']

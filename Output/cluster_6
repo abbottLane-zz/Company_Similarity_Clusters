@@ -1,18 +1,54 @@
-WhatsApp
-	Provider of a cross platform mobile messaging application. The company\'s platform allows the user to exchange messages without having to pay for SMS. In addition to basic messaging WhatsApp users can create groups, send each other unlimited images, video and audio media messages. It\'s available for iPhone, BlackBerry, Android, Windows Phone and Nokia.
-	['', 'messaging application', ' ', 'mobile messaging', ' ', 'iPhone messaging application', '']
-Meh Labs
-	Developer of a self-destructing mobile messaging application. The company\'s application allows its users to share anonymous, self-destructing, secret chats with their friends. It also helps in recording audio, sending texts, making videos and snapping photos. The company originally provided Kismet, a social networking application that enabled users to meet and chat with their friends.
-	['', 'mobile messaging', ' ', 'social connect', ' ', 'self-destructing texts', ' ', 'messaging application', ' ', 'secret chat', ' ', 'photo snapping', '']
-Knowrtl
-	Provider of a platform that allows end users to share data, models, scenarios and experiences in computational environments. The company provides an infrastructural platform that helps in computational environments that range from private laptops and PDAs to shared high-performance compute clouds.
-	['', 'infrastructure platform', ' ', 'data sharing', ' ', 'cloud computation', '']
-Daum Kakao
-	Developer of a cross-platform mobile messaging application. The company offers a series of products namely KakaoTalk, KakaoStory, KakaoMusic and KakaoGame which allows its users to share data in the form of text messages, photo and music, make voice calls and play games.
-	['', 'cross-platform messaging', ' ', 'mobile messaging', ' ', 'messaging application', '']
-Frankly
-	Developer of a mobile messaging application. The company offers a mobile and web platform that allows users to send messages and photos that self destructs after the recipient reads them. It also allows users to recall unread messages and make anonymous comments during group chats.
-	['', 'mobile messaging', ' ', 'messaging application', ' ', 'communication service', '']
-MogoTix
-	Provider of a mobile ticketing service for events. The company\'s services are used to send event tickets to attendees\' cell phones through text messages for parties, fundraisers and conferences.
-	['', 'mobile ticketing service', ' ', 'event website', ' ', 'mobile QR code', ' ', 'event hosting', ' ', 'ticket distribution', '']
+Wavefront Technologies
+	Producer of computer graphics & animation software. The company designs software for graphic designing and animation.
+	['', 'multimedia software', '']
+EverySignal
+	Provider of computer software services. The company accelerates customer acquisition using data science.
+	['computer ', 'information technology', ' ', 'data science', '']
+Ygsoft
+	Operator of a computer software development and consultancy company. The company develops and sells computer software with provision of software consultancy services and computer software system integration.
+	['', 'computer software', ' ', 'hardware system', ' ', 'software system integration', '']
+Haystack Labs
+	Developer of computer intrusion detection software. The company develops a large database of known attacks and misuses thus protecting web users against dangerous connections.
+	['', 'software company', ' ', 'cyber security', ' ', 'monitoring software', '']
+CIMLINC
+	Developer of custom and multimedia work instruction software for the manufacturing industry. The company provides Product Lifecycle Management (PLM), Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM) solutions for the manufacturing industry.
+	['', 'multimedia software', ' ', 'Software Publishers', ' ', 'Prepackaged Software', '']
+TriQuest
+	Developer of computer chip design software. The company specializes in enhancing synthesis tools in the semiconductor industry.
+	['semiconductor ', 'computer chip', '']
+VuCOMP
+	Developer of computer-aided detection systems for automatic analysis of medical images. The company help physicians to find disease at earlier stages. Its CAD system assists radiologists by automatically identifying areas of a mammogram that are consistent with breast cancer.
+	['', 'computer aided detection', ' ', 'medical images', ' ', 'breast cancer', '']
+Omegaon Networks
+	Developer of computer program to identify problems in computer networks. The company develops a software system permitting quick and continuous identification of difficulties and interruptions in the various communications networks.
+	['', 'computer program', ' ', 'software system', ' ', 'communication network', '']
+Lattice Voice Technologies
+	Provider of multilingual software. The company develops and provides language software to enterprises which aim at communicating with non English speakers.
+	['', 'multilingual software', ' ', 'language software', ' ', 'non English speaker', ' ', 'Communication Software', '']
+Biosym Technologies
+	Developer of spectrum of molecular modeling software products for the biopharmaceutical, polymer and catalysis technology sectors. The company markets for Computer Aided Molecular Design.
+	['', 'molecular design', ' ', 'computer aided', '']
+Index Technology
+	Developer of computer software. The company develops and provides computer-aided software and services.
+	['', 'computer aided software', ' ', 'computer engineer', ' ', 'operating system', '']
+WideMed
+	Developer of a web based sleep diagnostic software. The company offers Morpheus, a computer aided sleep scoring system that is used in laboratories and hospitals.
+	['', 'web based', ' ', 'sleep diagnostic', ' scoring']
+Oculis Labs
+	Developer of cybersecurity software. The company provides a software platform designed to protect visual on-screen data by blurring the images from nearby viewers who are not the computer\'s users.
+	['', 'data privacy', ' ', 'privacy software', ' ', 'information system', '']
+Ntropy
+	Provider of computer programming services. The company offers computer programming services.
+	['', 'computer programming', ' ', 'programming services', '']
+Cambridge Cognition
+	Developer of cognitive testing software. The company also conducts computer-based cognitive tests used in academic research, pharmaceutical clinical trials and early detection screening for conditions such as Alzheimer\'s and depression.
+	['', 'pharmaceutical clinical trials', ' ', 'cognitive tests', ' ', "Alzheimer\\'s disease", ' touchscreen ', 'healthcare technologies', '']
+Adra Systems
+	Developer of computer-aided designing software used for industrial and mechanical processes. The company engages in providing software-aided mechanical casting and industrial processing services.
+	['', 'CAD software', ' ', 'computer-aided design', ' ', 'mechanical designing', '']
+Nimble VR
+	Developer of a computer interface that reads physical gestures. The company is developing a computer vision technology that provides 3-D, 10-finger dexterous control and is designed to run in the background all day. The company\'s API is open, enabling users to write software in any language that takes advantage of it.
+	['', 'computer interface', ' ', 'computer vision', ' ', 'three dimensional camera', ' ', 'hand-tracking system', '']
+Zanza Software
+	Developer of software allowing users to query database and create reports using the Web browser. The company offers web-based, java business intelligence solutions. It provides computer software used to access, format, process and distribute information via electronic communications networks.
+	['', 'business software', ' ', 'software services', ' ', 'query database', ' ', 'information software', '']

@@ -1,48 +1,27 @@
-Restricted Stock Systems
-	Provider of software services to financial institutions and public companies. The company provides commercial software to manage trading plans in addition to software and services for processing and reporting of restricted stock and insider trading compliance.
-	['', 'commercial software', ' ', 'trading plans', ' ', 'restricted stock', ' reporting']
-Liquiverse
-	Provider of a software for editing complex data lists in diagrams. The company develops and distributes software services based on liquid browsing, a patented technology leveraging the display of charts and information lists.
-	['', 'complex data', ' ', 'Liquid Browsing', ' diagrams ', 'graphical data', '']
-ProfitLine
-	Provider of telecom expense and mobility management services.
-	['', 'telecom expense', ' ', 'mobility management', ' ', 'expense management', '']
-Gascomer
-	Operator of a seafood processing company. The company processes, markets and sells seafood such as fish, crustaceans and molluscs .
-	['seafood ', 'seafood processing', ' ', 'seafood marketing', '']
-Quickcomm Software Solutions
-	Provider of telecom and mobility management solutions for multinational enterprises, integrators, outsourcers and carriers. The company offers Enterprise Telecommunications Expense Management Solution that provides automatic reconciliation of telecom bills down the line-item level.
-	['', 'mobility management', ' ', 'telecom management', ' ', 'telecom infrastructure', '']
-Clarity Technologies
-	Provider of software and services for improving the audio quality and performance of voice-based communications systems and products.
-	['', 'audio quality', ' ', 'voice communication', ' ', 'voice product', '']
-Swapcom
-	Provider of software services in server-side mobile architecture for mobile telecom carriers. The company\'s mobile multimedia services include remote management of devices and carrier-grade hub services.
-	['', 'mobile solutions', ' ', 'server-side mobile architecture', ' ', 'remote management of devices', '']
-Plexus Computer
-	Developer of super micro computers based on Unix. The company provides its technology for commercial data-processing applications.
-	['', 'computer hardware', ' ', 'image processing system', ' ', 'unix-based', '']
-ENQIO Holding
-	Provider of software for in-depth analyses of company data. The company allows management to calculate risks in a timely fashion and make informed, corporate decisions. It is primarily focused on the telecom, financial, public and media sectors.
-	['', 'data analyses', ' ', 'decision making', ' ', 'risk calculation', '']
-4DK Technologies
-	Developer of interoperability services for wireless networks and devices. The company provides wireless technology products, professional and strategy services to telecom operators and infrastructure vendors.
-	['', 'interoperability service', ' ', 'wireless network', ' ', 'wireless device', '']
-Alternis
-	Provider of software services for telecom data processing. The company provides prepackaged software for electronics and telecom industries.
-	['', 'telecom data processing', ' ', 'telecom software', ' ', 'real time proceesing', '']
-Bitboys
-	Developer of graphics hardware Internet Protocol (IP) services for various wireless and embedded devices. The company provides managed services, cloud computing services, telecom consultation and digital marketing services.
-	['', 'graphics processor', ' ', 'mobile gaming', ' ', 'embedded device', '']
-Guangzhou 3G Information Technology
-	Operator of a value-added telecom and information service company. The company provides both voice and data connection to the major telecom operators covering both mobile and fixed-line networks.
-	['', 'instant messaging services', ' community-oriented ', 'IVR service', ' ', 'telecom services', '']
-ITA Inverse Theory & Applications
-	Developer of software specializing in interactive, workstation-based approaches to the processing of geophysical data. The company offers geophysical software, systems, processing, and research worldwide.
-	['', 'geophysical data', ' ', 'software development', '']
-Omiino
-	Manufacturer of programmable microchips for telecom applications. The company\'s technology allows users to deliver silicon in a field upgradable format.
-	['', 'FPGA platform', ' ', 'Optical Transport Silicon', ' microchips ', 'telecom applications', '']
-Nextime Solutions
-	Provider of software services for businesses. The company provides heavy-duty off-the-shelf-appointment system, which is used in many sectors, such as health care, regulatory actions, as well as the financial sector.
-	['', 'software service', ' ', 'business software', ' ', 'information management', '']
+Cloudmetrx
+	Developer of real-time risk-return management technologies. The company provides real-time, cloud-based, mobile financial analytic services in the areas of portfolio management, risk analysis, and trading for asset management professionals.
+	['', 'risk return management', ' ', 'financial analytic', ' fin-tech ', 'financial software', '']
+Decision Dynamics
+	Developer and supplier of project controls and real time operations reporting software solutions for project management decisions. The company\'s project cost management solution provides real-time cost capture, validation, approvals and reporting, asset management and analytics.
+	['', 'project controls', ' ', 'project management decisions', ' ', 'cost management solution', ' ', 'real time operations', ' ', 'data capture', ' ', 'business analytics solutions', '']
+Strongroom Solutions
+	Provider of accounts payable and payment automation services for midsize companies. The company offers a software-as-a service platform, which enables real-time, secure invoice management and approvals for association managers and board members.
+	['', 'automation services', ' ', 'payment automation', ' ', 'invoice management', '']
+ScriptLogic
+	Provider of network administration software for Microsoft Windows-based networks. The company offers active directory, application, desktop, incident, server, SQL server, and vulnerability management solutions. It also provides Patch Authority Ultimate, an enterprise-class patch management solution; and Desktop Authority, a desktop lifecycle management solution. In addition, the company offers Security Explorer, a graphical solution for real-time management of access controls and security on workstations across the enterprise.
+	['', 'network administration software', ' ', 'patch management solution', ' ', 'desktop lifecycle management', '']
+BioSig Technologies
+	Developer of clinical technology for diagnoses and treatments of abnormal heart rhythms. The company provides electrophysiologists to make crucial clinical decisions in real time by providing information unobtainable with any other equipment presently in the electrophysiology laboratory.
+	['', 'abnormal heart', ' ', 'electrophysiology', ' ', 'electrophysiology laboratory', '']
+Workiva
+	Provider of a cloud based software for external financial reporting to meet SEC reporting requirements. The company provides a software that streamlines the manual process to draft and file Securities Exchange Commission (SEC) reports including XBRL reporting process. It integrates word processing and spreadsheet functionality, EDGAR HTML conversion and XBRL mapping and tagging into a fully-integrated, end-to-end solution that helps SEC reporting teams meet reporting requirements for a range of regulatory filings.
+	['', 'financial reporting', ' ', 'regulatory filing mapping', ' ', 'cloud software', '']
+WorkSimple
+	Provider of on demand enterprise messaging platform. The company provides an online goal communication and performance management solution that helps small and medium businesses to create an engaging and collaborative work environment. Its goal management platform for employees includes real-time goal management, 360-degree performance reviews, real-time commitment management, recognition, informal learning, workgroups, and employee profiles.
+	['', 'messaging platform', ' ', 'online goal communication', ' ', 'performance management', ' ', 'management solution', ' ', 'management platform', ' ', 'employee profile', '']
+WebSpective Software
+	Developer of management performance software solutions for large websites. The company provides internet commerce and content sites with web resource management systems designed to run e-business in real-time.
+	['', 'internet commerce', ' e-business']
+VoteIt
+	Provider of online group decisions. The company provides real-time consensus-generator that uses community interaction and polling methodologies to move groups quickly and right into action.
+	['', 'online group decision', ' ', 'polling methodology', ' ', 'information service', ' ', 'community interaction', '']

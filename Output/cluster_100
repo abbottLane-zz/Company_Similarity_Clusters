@@ -1,45 +1,12 @@
-AWR Corporation
-	Developer of electronic design automation software in the United States. The company offers Microwave Office design suite, which encompasses various tools for IC, PCB, and module design, including linear circuit simulators, non-linear circuit simulators, electromagnetic (EM) analysis tools, integrated schematic and layout, and parametric cell libraries with built-in design-rule check; Visual System Simulator, a software for the design of communications systems; Analog Office design suite, a design system that is architected from the ground up for analog and radio-frequency integrated circuit designs; and Signal Integrity design software that is for integrated co-chip/package/module designs as it addresses the cross-domain signal integrity issues.
-	['', 'electronic design', ' ', 'automation software', ' ', 'analog design', '']
-Ciranova
-	Provider of electronic design automation software. The company focuses on building interoperable tools for custom chip designers to create new and/or migrate legacy analog IP and help engineers integrate complex RF, analog and mixed-signal content into nanometer-scale silicon with higher density and speed.
-	['', 'electronic design', ' automation ', 'chip designer', '']
-Valid Logic
-	Manufacturer of computer-aided design equipment. The company also develops integrated electronic design automation software.
-	['', 'electronic design automation', ' ', 'electronic design software', '']
-FASTech Integration
-	Developer of factory automation software. The company develops execution systems, cell control and equipment interface software for semiconductor manufacturing facilities.
-	['', 'automation software', ' ', 'equipment interface software', ' ', 'Workflow Software', '']
-AccelChip
-	Provider of algorithmic synthesis solutions for digital signal processing (DSP) design. The company develops and markets design tools, integrated verification flows, and parametric intellectual property toolkits that automate the development and implementation of DSP algorithms in field programmable gate-arrays and application-specific integrated circuits
-	['', 'algorithmic synthesis solution', ' ', 'digital signal processing design', ' ', 'markets design tool', '']
-Infiniscale
-	Operator of an electronic design automation (EDA) company. The company develops a proprietary modeling engine and optimization software, and has created a software suite to address emerging design for yield (DFY) challenges related to analog, mixed-signal and RF designs.
-	['', 'Statistical analyses', ' ', 'behavioral modeling', ' ', 'design optimization', ' ', 'variation-aware design', ' ', 'modeling software', ' EDA RF']
-DesignAdvance Systems
-	Developer of electronic design automation services for printed circuit boards. The company allows designers reduce board layout and placement time which enables bi directional communication.
-	['', 'electronic design', ' ', 'circuit board', ' ', 'board layout', '']
-SteLar Tools
-	Developer of software applications for the electronic design automation industry. The company provides graphical and intelligent textual design creation and analysis environment for large, complex HDL designs. The company\'s technology enables designers and verification engineers to reach RTL Closure by offering them the ability to explore, navigate, analyze, document and create a design using their current design methodology and tools.
-	['', 'Software Applications', ' ', 'Electronic Design', ' ', 'Automation Industry', ' ', 'HDL Design', '']
-ViewLogic Systems
-	Developer of electronic design automation software. The company designs, develops and markets electronic design automation software for field-programmable gate array (FPGA) printed circuit boards and systems designs.
-	['', 'electronic design automation', ' ', 'automation software', ' ', 'gate array software', '']
-Neoplex
-	Developer of electronic lottery. The company develops, manufactures and markets electronic lottery based on organic electronics. It also developed the next generation of scratch card (instant lottery ticket), a patent pending new game product.
-	['', 'electronic lottery', ' ', 'organic electronic', ' ', 'scratch card', ' ', 'instant lottery ticket', ' ', 'game product', ' ', 'electronic equipment', '']
-Abound Logic
-	Provider and developer of programmable logic technology. The company develops programmable gate arrays such as eFPGA core, implemented in 90nm CMOS process.
-	['', 'programmable logic technology', ' ', 'logic system', ' ', 'logic semiconductor', ' ', 'logic application', ' ', 'configurable logic system', ' silicon']
-Ederena Concept
-	Provider of electronic designs. The company engages in the field of industrial mechanics.
-	['', 'electronic designs', ' ', 'mechanical designs', ' ', 'consulting solution', ' ', 'construction and engineering', '']
-Eldat Communication
-	Developer of Electronic Shelf Label (ESL) systems. The company develops electronic defense systems and integrated circuit designs.
-	['', 'information technology', ' ', 'defense systems', ' ', 'circuit designs', '']
-Mission Controls Automation
-	Provider of automation and process engineering services. The company designs, fabricates, installs and maintains automation, robotic controls, manufacturing systems, processing operations and consulting, for industrial plants and batch processing facilities.
-	['', 'Automation software', ' ', 'process engineering', ' ', 'robotic controls', '']
-0-In Design Automation
-	Operator of an assertion-based verification company. The company develops and supports electronic design automation tools and functional verification products that help clients to verify multi-million gate application-specific integrated circuit and system-on-chip designs. Its system also automates the engineered methodologies.
-	['', 'assertion-based verification', ' ', 'electronic design automation', '']
+Vhayu Technologies
+	Provider of market data solutions for the capture and analysis of streaming and historical data to financial institutions. The company combines software and hardware to provide advantages to financial firms that are seeking to increase their trading speed.
+	['data analysis ', 'data analysis', ' financial ', 'financial data', '']
+Xiring
+	Provider of security services for remote transactions. The company offers software embedded terminals, smart card readers and electronic signature in banking, healthcare and transportation markets. The company also provides services for banks to authenticate online customers and secure remote banking activities.
+	['', 'remote transactions', ' banking ', 'transportation markets', '']
+Magnet Communications
+	Provider of online banking for visionary financial institutions. The company provides retail and commercial Internet banking, electronic bill payment and presentment, e-commerce portal technology, wireless channel delivery, advanced targeted marketing, website development and maintenance, as well as online and call center lending services.
+	['', 'online banking', ' e-commerce ', 'call center', ' ', 'virtual banking software products', '']
+Generated Systems Technologies
+	Provider of e-banking software products for banks and financial institutions. The company provides e-banking software and offers electronic payment softwares designed to address payment needs of corporations and correspondent banks.
+	['', 'financial institution', ' ', 'software product', ' ', 'electronic payment', ' ', 'e-banking', '']

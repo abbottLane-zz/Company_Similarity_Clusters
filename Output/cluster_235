@@ -1,48 +1,12 @@
-Pharmacopeia
-	Developer of novel small molecule therapeutics to address significant medical needs. The company has a portfolio of clinical and preclinical candidates under development internally or with partners including nine clinical compounds in Phase 2 or Phase 1 development addressing hypertension, diabetic nephropathy, muscle wasting, inflammation and respiratory disease.
-	['', 'small molecule', ' hypertension ', 'diabetic nephropathy', '']
-Argintex
-	Developer of therapeutics like small molecule inhibitors of arginase.The company’s arginase also leads to the production of ornithine which increases polyamine, stimulating cell division, and contributing to hyperplasia and fibrosis.
-	['', 'molecule inhibitor', ' ', 'pulmonary treatment', ' ', 'vascular disorder', ' ', 'arginase enzyme', '']
-Diaxonhit
-	Developer of RNA-based diagnostic tests. The company is engaged in developing RNA-based diagnostic tests and small molecule therapeutics for the treatment of Alzheimer\'s disease (AD) and cancer. Its Genome Wide SpliceArray (GWSA) platform is a patented microarray design that incorporates a specific probe configuration, enabling monitoring of RNA splice variants in humans, mice and rats.
-	['', 'diagnostic test', ' ', 'small molecule', ' ', 'RNA splice', '']
-Xanthus Pharmaceuticals
-	Developer of small-molecule therapeutics for the treatment of cancer and autoimmune disorders.
-	['', 'cancer treatment', ' ', 'small-molecule therapeutic', ' ', 'autoimmune disorder', '']
-Small Bone Innovations (Ankle Replacement System & Other Assets)
-	The company provides ankle replacement system. The unit offers a portfolio of products and technologies to treat trauma and diseases in the small bones & joints.
-	['ankle ', 'replacement system', ' ', 'surgical device', '']
-HemaQuest Pharmaceuticals
-	Developer of small molecule therapeutics. The company develops small molecule therapeutics based on its short chain fatty acid derivative (SCFAD) technologies to treat anemia and other blood disorders.
-	['', 'blood disorder treatment', ' ', 'anemia treatment', ' ', 'small molecule therapeutic', '']
-Galileo Pharmaceuticals
-	Developer of small molecule therapeutics. The company specializes in the discovery of compounds that moderate the effects of oxidative stress and energetic perturbations on living biological systems.
-	['', 'small molecule therapeutics', ' ', 'metabolic diseases', ' oxidative ', 'metabolic stress', '']
-Aderis Pharmaceuticals
-	Developer of therapeutics focused on cardiovascular, renal and neurological diseases. The company develops novel small-molecule, receptor-specific therapeutics for the treatment of central nervous system, cardiovascular and renal diseases. The company focuses on drug candidates that act selectively to either block (antagonists) or increase (agonists) the activity of certain proteins, such as adenosine or dopamine, to produce the desired therapeutic effect while minimizing side effects. Small molecules generally offer the dosing flexibility required for patients to easily take the drug as prescribed (commonly referred to as patient compliance), have a broader array of dosage forms, lend themselves to easier formulation and have greater potential for absorption and utilization by the body.
-	['', 'Cardiovascular therapeutics', ' ', 'renal therapeutics', ' ', 'neurological disease', ' ', 'cardiovascular disease', ' ', 'renal disease', '']
-Ardea Biosciences
-	Developer of small-molecule therapeutics. The company provides therapeutics for the treatment of gout, cancer and human immunodeficiency virus (HIV)..
-	['', 'small molecule therapeutic', ' ', 'disease treatment', ' ', 'gout treatment', ' ', 'cancer drug', ' ', 'cancer treatment', ' ', 'HIV drug', ' ', 'HIV treatment', '']
-Signase
-	Developer of small molecule inhibitors of a critical cell pathway for the treatment of a variety of solid tumors.
-	['', 'molecule inhibitor', ' ', 'solid tumor treatment', ' ', 'critical cell pathway', '']
-Ansaris
-	Provider of small molecule drug discovery equipment and technology. The company has developed a proprietary platform technology which combines a torsion-space algorithm for building dynamic protein models with silico fragment-based libraries and computational chemists to design therapeutics that solves contemporary small molecule drug discovery challenges.
-	['', 'mall molecule drug discovery', ' ', 'platform technology', '']
-Conatus Pharmaceuticals
-	Provider of human therapeutics to treat liver diseases. The company offers CTS-1027, an oral, small molecule and matrix metalloproteinase inhibitor for the treatment of liver disease.
-	['', 'human therapeutic', ' ', 'liver disease', ' ', 'drug discoverer', '']
-Entellus Medical
-	Developer of balloon-dilation technologies to treat sinusitis. The company offers XprESS multi-sinus dilation tool, which offers ENT physicians a tool to trans-nasally treat the frontal, sphenoid or maxillary sinuses in either a doctor’s office or operating room.
-	['', 'sinus treatment', ' healthcare ', 'sinus dilation', ' sinusitis ', 'therapeutic solution', '']
-Oculon
-	Developer of products for the diagnosis and treatment of cataracts based on phase-separation technology.. The company develops small molecule pharmaceuticals to treat conditions other than cataract that involve protein aggregation, such as the formation of protein condensates in certain blood, neurological and connective tissue disorders.
-	['', 'diagnosis treatment', ' ', 'small molecule', ' ', 'phase separation technology', ' ', 'protein condensates', ' ', 'tissue disorder', '']
-Artesian Therapeutics
-	Developer of small molecule therapeutics for the treatment of cardiovascular diseases. The company provides small molecule drugs for congestive heart failure.
-	['', 'cardiovascular disease treatment', ' ', 'small molecule therapeutic', ' ', 'congestive heart failure', '']
-Adamas Pharmaceuticals
-	Developer of small molecule advantaged therapeutics to treat neurological and infectious diseases. The company also develops novel extended release and combination products for symptomatic treatment of dementia.
-	['', 'small molecule', ' ', 'advantaged therapeutic', ' ', 'neurological disease', ' ', 'symptomatic treatment', ' dementia']
+Westco Medical Holdings
+	Developer of technology for feeding tubes. The company develops technology related to nasogastric feeding tubes, including a device to test for the correct positioning of tubes when utilized by patients.
+	['', 'masogastric feeding tube', ' ', 'detect positioning', ' ', 'feeding tube', ' tube']
+Jensen Devices
+	Developer of high discharge tube technology (GDT). The company specializes in creating discharge tubes for ignition circuits for headlamps in the automotive industry and over-voltage protectors for industrial and telecommunications companies.
+	['', 'automotive tech', ' ', 'high voltage', ' ', 'voltage protectors', ' ', 'headlamps', '']
+AlgoNomics
+	Provider of structural bioinformatics services. The company provides structural bioinformatics tools to develop rationally designed therapeutics in the broad field of immunotherapy.
+	['', 'therapeutic protein', ' ', 'structural bioinformatics tool', ' immunotherapy']
+Finow Automotive
+	Manufacturer of components and parts for the automotive industry. The company manufactures tubes and profiles for chassis and engine applications to attain weight optimization and structural strength. The company also provides laser welding system for single tubes and tailored tubes.
+	['', 'component manufacturing', ' ', 'automotive industry', ' ', 'laser welding', ' ', 'steel tubes', '']

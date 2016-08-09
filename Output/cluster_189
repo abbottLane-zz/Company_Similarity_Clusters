@@ -1,18 +1,15 @@
-Tactilize
-	Provider of an online blogging platform. The company develops self-publishing service for Apple’s iPad and iPad mini tablets.
-	['', 'online blog', ' ', 'blogging platform', ' ', 'iPad blog', ' ', 'blog publishing', '']
-Volio
-	Provider of video and voice recognition technology. The company\'s technology is used by media creators, brands, marketers and entertainers for audience engagement.
-	['', 'video recognition  technology', ' ', 'voice recognition technology', ' ', 'video technology', ' ', 'voice activated', '']
-Red Mapache
-	Developer of an educational application for mobile phones. The company offers educational applications and games that help children improve their reading comprehension skills.
-	['', 'educational games', ' ', 'comprehension skills', ' ', 'reading skills', '']
-Ocean Breeze Waterpark
-	Operator of a water park company. The company offers amenities that includes rides and attractions, watershed programs and children areas. The company also offers gallon wave pool and a children\'s water playground.
-	['', 'water park', ' slides ', 'watershed programs', ' ', 'water playground', '']
-Evi Technologies
-	Provider of voice recognition application. The company also develops internet answer engine where users can access the information from the database of facts.
-	['', 'search engine', ' ', 'online search', ' ', 'search technology', ' ', 'voice recognition application', '']
-Ubooly
-	Provider of iPhone and iPad games for children. The company offers an iOS application and plush toy with voice recognition capabilities that allow children to play educational and interactive games.
-	['', 'interactive media', ' ', 'voice recognition', ' ', 'iPhone application', ' ', 'interactive toy', ' ', 'educational toy', ' ', 'interactive game', ' ', 'iPad toy', ' ', 'iPhone toy', '']
+Timbertower
+	Provider of wind-turbine towers made from renewable resources. The company builds and installs wooden towers for large wind turbines.
+	['', 'wind turbine', ' ', 'wooden tower', ' ', 'renewable resource', '']
+Nordic Windpower
+	Provider of wind turbines to wind farm developers and community wind projects in the United States and internationally.
+	['', 'wind turbine', ' ', 'renewable energy', ' ', 'wind farm development', ' ', 'energy generation', '']
+Goldwind Science & Technology
+	Manufacturer of wind turbines. The company specializes in large megawatt wind turbine research, development and manufacturing of total wind energy services and wind farm investment management.
+	['', 'wind turbines', ' ', 'wind energy', ' ', 'wind farm', '']
+Asahi Kasei Pharma America
+	Provider of critical-care and hospital-based therapeutics to patients, treating physicians, and payors in the United States and internationally. The company offers ART-123, a novel, recombinant, and soluble thrombomodulin for the treatment of disseminated intravascular coagulation in sepsis.
+	['biopharmaceutical ', 'critical care', ' ', 'hospital based therapeutic', ' ', 'disseminated intravascular coagulation', ' hematolog ', 'blood clotting', ' ', 'deep vein thrombosis', '']
+Viryd Technologies
+	Developer and distributor of power generating turbines and windmills for the wind industry. The company offers drivetrains for residential and commercial wind systems, as well as energy management systems and developer kits. It also provides engineering services, including design, bench, and field testing services.
+	['', 'power generating turbine', ' ', 'renewable energy', ' ', 'commercial wind system', '']

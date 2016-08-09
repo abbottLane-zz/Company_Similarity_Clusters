@@ -1,15 +1,9 @@
-Trus Plus Systems
-	Provider of agricultural and nursery products. The company is engaged in the production of nursery products, nursery stock, shrubbery, bulbs, fruit stock, sod and other agricultural products.
-	['', 'nursery products', ' ', 'nursery stock', ' shrubbery ', 'fruit stock', ' nursery bulbs']
-KIDS GARDEN
-	Operator of independent nursery. The company is in stealth mode.
-	['nursery']
-Deborah Centre
-	Operator of an independent nursery. The company provides educational assistance which includes child catering and childminding.
-	['nursery ', 'independent nursery', ' ', 'educational service', ' childminding ', "kid\\'s nursery", '']
-Randwal Instruments
-	The company was in stealth mode.
-	['']
-Cynergen
-	The company is currently operating in stealth mode.
-	['commodity excess power']
+Tripod Energy
+	Developer of energy projects that provide solar power to local communities and large energy buyers. The company is a special situation investment vehicle for solar projects which engages in all stages from solar project development to power plant completion.
+	['', 'solar project investment', ' ', 'investment vehicle', ' ', 'solar power investor', '']
+Tioga Energy
+	Provider of solar power purchasing services. The company owns, operates and maintains solar photovoltaic energy systems through power purchase agreements. It offers solar electric system assessment, designing, engineering, installation, maintaining and equipment monitoring services. It also provides certification services.
+	['', 'solar power', ' ', 'power purchase', ' ', 'solar photovoltaic', ' ', 'clean energy', ' photovoltaic ', 'solar electric', ' ', 'solar certification', '']
+Energy Informatics
+	Developer of software for management of distributed energy resources. The company provides cloud services for management of solar photovoltaic facilities ranging in size from small residential rooftop systems to multi-megawatt utility-scale power plants.
+	['', 'energy product', ' ', 'rooftop system', ' ', 'power plant', ' ', 'solar photovoltaic', ' ', 'asset management', '']

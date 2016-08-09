@@ -1,21 +1,45 @@
-Apptix
-	Provider of on-demand business communication services. The company is a provider of hosted business communication, collaboration, and information technology, with particular expertise supporting legal, financial, healthcare and telecom firms.
-	['', 'software developer', ' ', 'on-demand business communication', ' ', 'mobile messaging', '']
-TrialGraphix
-	Provider of litigation consulting services. The company provides discovery, trial and jury consulting and courtroom presentation services in the United States. It provides services to trial attorneys, law firms and corporate counsel.
-	['', 'litigation consulting', ' ', 'legal service', ' ', 'courtroom presentation', '']
-FindLaw
-	Provider of legal resources. The company provides legal information for lawyers, businesses, students and individuals. The company provides online videos, lawyer directory and other internet advertising services.
-	['', 'legal information', ' lawyers']
-HipChat
-	Provider of internal communication and messaging services. The company provides messaging services designed for businesses, law firms, student groups and non-profits organizations. Its services include internal communication with chat rooms and file sharing and sending and receiving messages through SMS on various phones, desktop, Web browser, i-Phone and androids.
-	['', 'messaging service', ' ', 'file sharing', ' ', 'chat room', ' ', 'data sharing', ' messaging SMS']
-JusticeLink
-	Providers of technology enabled services for courts, attorneys, clients and other interested parties in the legal community through their website. The company provides  legal system for filing legal documents digitally with the court system.
-	['', 'legal community', ' attorneys ', 'court system', ' website']
-Datacert
-	Developer of e-billing products to law firms. The company offers Passport, a platform for uniting legal systems; Advanced Invoice Management System, a legal spend management system; and Corporate Legal Desktop, an integrated matter and legal spend management solution. It also offers consulting and hosting services.
-	['', 'advanced invoice management', ' ', 'corporate legal desktop', ' ', 'management solution', ' ', 'hosting service', ' ', 'consulting service', '']
-RealPractice
-	Provider of legal technology products and services for attorneys and law firms. The company’s products include RealDealDocs, which provides attorneys, researchers, and legal professionals with access to executed legal agreements and documents drafted by lawyers at America’s law firms and corporations.
-	['', 'legal technology product', ' ', 'document drafting', ' ', 'legal agreement', '']
+01 Communique Laboratory
+	Developer and provider of communication software and services. The company develops and markets remote access software which provide users the ability to conduct online meetings and access and remotely control their personal computers using a device connected to the Internet.
+	['', 'remote control', ' ', 'remote communication software', ' ', 'remote access', '']
+Logic Instrument
+	Manufacturer of computer and electronic equipment. The company develops and markets portable personal computers and handheld devices in France.
+	['', 'smart phone', ' ', 'electronic equipment', ' ', 'personal computer', '']
+Mashmobile Sweden
+	Operator of an information technology company. The company offers software products for direct content between mobile phones, personal digital assistants, laptops and personal computers.
+	['', 'mobile phones', ' ', 'streaming music', ' ', 'personal digital', '']
+Sequent
+	Manufacturer of computer systems.
+	['', 'computer systems', '']
+NomadIQ
+	Provider of location based applications services for handheld devices. The company offers a wireless service that enables subscribers to access and navigate the Internet, send and receive email messages, and conduct e-commerce transactions over handheld mobile devices.
+	['', 'location based application', ' ', 'site information', ' ', 'application development', '']
+Emissary Systems
+	Developer of communication software. The company produces software which enable communication among personal computers.
+	['', 'personal computers', ' ', 'online communication', '']
+Xplore Technologies
+	Developer of wireless tablet PC. The company provides rugged mobile personal computers and docking systems for both the commercial and military market.
+	['', 'wireless tablet', ' ', 'personal computer', ' ', 'mobile computer', ' ', 'docking system', '']
+Electronic Arts
+	The Company develops, markets, publishes and distributes video game software and content played by consumers, including video game consoles, personal computers, handheld game players and cellular handsets. It also provides online game-related services.
+	['']
+GoldPocket Interactive
+	Provider of a television software. The company provides two-way interactive television programming for set-top boxes and personal computers.
+	['eTV ', 'set-top boxes', ' ', 'television programming', '']
+NeuroLogica
+	Developer of medical imaging equipment. The company offers portable computer tomography scanners including BodyTom and CereTom.
+	['', 'medical imaging', ' ', 'medical imaging equipment', ' ', 'computer tomography scanner', ' ', 'portable tomography scanner', '']
+Corona Optical Systems
+	Developer and manufacturer of optoelectronic component and subsystems for carrier class equipment. The company develops parallel optical modules for switching and routing equipment.
+	['', 'optoelectronic component', ' ', 'optical modules', ' fiberoptic']
+OQO
+	Developer of handheld mini-personal computers. The company manufactures model 01 and model 01+ ultra personal computer.
+	['', 'mini computer', ' ', 'ultra personal computer', ' ', 'personal computer', '']
+Nogatech
+	Developer of a codec chipset technology. The company is a global chipset development company that enables consumer electronic companies to design and integrate their video products to desktop and handheld computers.
+	['', 'chipset technology', ' ', 'consumer electronic', ' ', 'video product', '']
+Cellular3G
+	Provider of third generation base-band chips for use in mobiles. The company develops and markets base-band chips with layer of two and three radio protocol stack for third generation handheld devices
+	['', 'third generation bandwidth', ' ', 'mobile chip', ' ', 'third generation connection', ' ', 'semiconductor chip', '']
+Handspring
+	Provider of handheld computing devices, which include organizers; and integrated, handheld wireless devices, known as communicators or smartphones. The company\'s products include the Treo wireless communicators and Treo 90 organizer, the Visor expandable handheld computers, and client and server software for fast web access from handheld devices and mobile phones.
+	['', 'computing device', ' ', 'hand device', ' ', 'wireless device', '']

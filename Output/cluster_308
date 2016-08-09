@@ -1,21 +1,51 @@
-Cemaphore Systems
-	Developer of e-mail continuity and content management solutions for the Microsoft Exchange. The company\'s products include MailShadow, an enterprise email continuity and disaster recovery solution that protects Microsoft Exchange systems at the transaction level by replicating selected mailboxes from various exchange servers to disaster recovery exchange servers; and MailShadow 2.2 that delivers management automation solutions.
-	['', 'content management', ' ', 'disaster recovery', ' ', 'management automation', '']
-SteelEye Technology
-	Provider of cost-effective enterprise IT reliability solutions for business continuity. The company\'s application failover, data replication, and disaster recovery software products are easy to deploy and operate, and enable enterprises of all sizes to ensure availability of business-critical applications, servers and data.
-	['', 'Business Continuity', ' ', 'High Availability', ' ', 'Data Replication', ' ', 'Linux High Availability', '']
-PERFORMANCE Technologies.
-	Provider of products and services such as virtualization. The company provides services for virtualization, data center computing & storage, disaster recovery & business continuity, information security and information technology systems and services management.
-	['', 'data center computing', ' ', 'disaster recovery', ' ', 'information security', '']
-Teneros
-	Provider of application continuity appliances for disaster recovery. The company’s Velocity series offers email application and data continuity in local high availability and remote disaster recovery models that support applications in various environments. It also offers Social Sentry that enables companies to monitor employee public activity on social networks.
-	['', 'application continuity', ' ', 'disaster recovery', ' ', 'data comtinuity', ' ', 'social sentry', '']
-Avamar
-	Developer of enterprise data protection software for corporations, medium to large-sized businesses, and multinational enterprises. The company offers Axion, a disk backup and recovery solution that allows corporations to move, store, and leverage data on a server. It also provides business continuity and disaster recovery, data security and encryption, remote office protection, and legal discovery and support for regulatory compliance solutions.
-	['', 'data protection software', ' ', 'recovery solution', ' ', 'disaster recovery', ' ', 'data security', '']
-InMage Systems
-	Developer of disaster recovery (DR) software. The company provides DR-Scout, a CDP-based storage software platform that protects, maintains and accesses data, files, blocks and applications, as well as offers replication, disaster recovery, continuous data and application backup.
-	['', 'disaster recovery software', ' ', 'local continuous backup', ' ', 'application backup', ' ', 'data migration', '']
-AppAssure Software
-	Developer of backup, disaster protection and recovery software applications for Microsoft Exchange and BlackBerry environments. The company offers Virtual Recovery Accelerator, a disaster recovery solution that enables organizations to protect messaging environment workloads; Recovery Accelerator, which enables organizations to accelerate the recoveries of messaging environments and Replay agents that provide protection for Windows application servers. It also provides Data Store Manager, a software package for browsing, recovering, searching, exporting and analyzing e-mail and mailbox content directly from various unmounted Microsoft Exchange data stores; Exchange Observer, a tool that monitors and reports the health and status of exchange servers and data stores and DocRetriever for SharePoint, which provides multiple document, item, site, sub-site and folder restores without requiring a SharePoint recovery farm.
-	['', 'recovery software', ' ', 'disaster protection', ' ', 'backup application', ' ', 'data storage', ' ', 'server monitor', '']
+Dot Wireless
+	Developer of semiconductor chip sets, embedded communication protocol software, hardware reference solutions and semiconductor intellectual property. The company’s CDMA 3G products encompass the enabling technologies required to support the convergence of data and wireless communication services.
+	['', 'technology components', ' licenser ', 'communication protocol', ' ', 'data services', ' CDMA 3G “embedded protocol software”']
+Transwarp Networks
+	Provider of storage products. The company focuses on manufacturing switching, CPU, memory products, high-performance switches, microprocessors and significant storage-related intellectual property.
+	['', 'storage products', ' ', 'storage IT', ' ', 'memory products', ' ', 'intellectual property', ' switches microprocessors']
+XLNT Designs
+	Manufacturer of a complete line of LAN switches. The company provides custom design and the intellectual property products for LAN companies.
+	['', 'LAN switch', ' ', 'intellectual property product', '']
+Bops.com
+	Developer of DSP intellectual property cores and compiler and software tool products. The company\'s products are used in system-on-chip-based applications in the Internet, multimedia, and wireless communications markets.
+	['', 'digital signal processor', ' ', 'broadband licensing', ' ', 'software tool product', ' ', 'wireless communication', '']
+Tatara Systems (Certain Mobile Broadband unit assets)
+	Provider of connection management software and mobility gateway software to support Authentication, Authorization and Accounting (AAA) for carrier deployments. The company\'s assets include intellectual property, patents and technology related to the broadband connectivity space.
+	['', 'connection  management software', ' ', 'mobility gateway software', ' ', 'carrier deployment', ' ', 'broadband connectivity space', '']
+Pendrell
+	Provider of corporate intellectual property services and litigation insights. The company is a next-generation MSS operator authorized to offer MSS throughout the United States using a GEO satellite.
+	['', 'mobile satellite', ' ', 'GEO Satellite', ' MSS']
+Information Holdings
+	Provider of information products and services to scientific, technical, medical, intellectual property and IT learning markets. The company provides databases, information products and complementary services through Intellectual Property Group, which includes MicroPatent(R), Master Data Center(TM), Liquent-IDRAC and LPS Group.
+	['', 'information provider', ' ', 'database organizer', ' ', 'information technology', '']
+Walker Digital
+	Developer of intellectual property. The company\'s mission is to use the tools of the digital age to create business systems that unlock value for consumers and businesses. It has started several operating companies to commercialize their inventions in e-commerce, gaming, publishing, retailing, education and other industries.
+	['', 'intellectual property', ' ', 'financial software', ' ', 'commercial services', '']
+EmbElectronIP
+	Provider of intellectual and industrial property for electronic embedded systems. The company provides royalty-free intellectual property licenses and serve all sectors that incorporate electronics in their products.
+	['', 'intellectual property', ' ', 'industrial property', ' ', 'property right', '']
+NorBelle
+	Provider of GPS engineering and intellectual property licensing. The company\'s core technology is known as Cearch, which enables one wireless device in motion to track and locate another wireless device in motion. It has integrated Cearch technology into a line of consumer mobile products and has combined its mobile tracking capabilities with a consumer buying platform for distribution in the US.
+	['', 'GPS engineering', ' ', 'mobile tracking', ' ', 'wireless technology', ' ', 'buying platform', '']
+Vincera
+	Provider of end-to-end user activity management services. The company offers user activity intelligence, license management and intellectual property protection technologies that are applicable to applications on web, software and content-based applications.
+	['', 'management solutions', ' ', 'user activity intelligence', '']
+IDENT Technology
+	Provider of intellectual property and semiconductor products. The company\'s products enable proximity sensing and real-time 3D gesture recognition for the consumer electronics industry, including mobile devices, gaming and other input devices.
+	['', 'intellectual property', ' ', 'semiconductor products', '']
+Article One Partners
+	Operator of a research community focused on intellectual property. The company leverages a crowd of more than 30,000 researchers to identify patents, non-patent literature and non-textual content to inform users\' IP-related business decisions.
+	['', 'patent validity', ' ', 'patent quality', ' ', 'online research community', ' ', 'commercial services', '']
+Ulive
+	Commercialization of intellectual property rights. The company engages in the identification, protection, maintenance and commercialization of intellectual property rights owned and created by the University of Liverpool.
+	['rights ', 'intellectual property', ' commercialization']
+TriCN
+	Developer of intellectual property (IP) for semiconductor interface technology. The company offers interface-specific I/Os (ISI/O) and SerDes IP core that assists in increasing speed and data transmission of interfaces and applications.
+	['', 'intellectual property', ' ', 'semiconductor interface technology', ' ', 'interface specific', '']
+Open Channel Software
+	Publisher of software solutions from academic and research institutions. The company focuses on the need for a new mechanism to efficiently publish software from the university while allowing for the commercialization of the most promising programs. The company developed the idea of a separating the publishing entity from the commercialization process by creating a non-profit organization (Open Channel Foundation) devoted to publication and community building.
+	['', 'aerodynamics applications', ' ', 'artificial intelligence', ' ', 'economics applications', '']
+Fusion IP
+	Provider of funding to Universities for developing intellectual property. The company is a venture capitalist that provides short, medium and long term investments to Universities for developing intellectual property and in return get a share in earnings of such intellectual property rights.
+	['', 'intellectual property', ' ', 'venture capitalist', ' ', 'long term investment', '']

@@ -1,18 +1,15 @@
-LuciaWind
-	Operator and owner of wind farms. The company engages in the production of electric power generation through wind energy.
-	['', 'wind farms', ' electricity']
-JEN Holdings
-	Provider of an electrical energy in local area. The company provides the facility of production, supply and sale of electric power and steam for local user like industries and electric power suppliers by utilizing Eco-friendly and renewable electricity sources.
-	['', 'electrical energy', ' ', 'renewable electricity', ' ', 'electric power', '']
-SOGEM
-	Developer of wind energy power parks. The company develops alternate source of energy using wind power.
-	['', 'renewable energy', ' ', 'wind power', '']
-MobileWise
-	Provider of wire- free electric power technology specially for mobile devices. The company offers Wire-Free Electric Power chipsets to mobile, networking and power accessories OEM and aftermarket manufacturers.
-	['', 'electric chipsets', ' ', 'application specific semiconductors', ' ', 'information technology', '']
-Windspire Energy
-	Provider of renewable wind power appliances to residential, business, and government customers. The company produces Windspire, a plug-n-produce wind power appliance that helps in harnessing power from the wind. It uses vertical turbine technology to harness wind energy.
-	['', 'alternative energy', ' ', 'clean tech', ' ', 'turbine technology', '']
-Ventus Energy
-	Developer of wind farms to produce energy. The company is currently in the process of planning and developing 25 sites in Ontario, Quebec, New Brunswick, Nova Scotia and Newfoundland with the potential for over 5,000 Megawatts of power.
-	['', 'produce energy', ' ', 'wind farm', ' ', 'alternative energy', '']
+Restricted Stock Systems
+	Provider of software services to financial institutions and public companies. The company provides commercial software to manage trading plans in addition to software and services for processing and reporting of restricted stock and insider trading compliance.
+	['', 'commercial software', ' ', 'trading plans', ' ', 'restricted stock', ' reporting']
+One2Like
+	Provider of social dating service. The company provides a platform that brings people together to communicate with others or simply want to meet new people.
+	['', 'dating service', ' ', 'dating platform', '']
+Track.com
+	Provider of a platform for investment research and market ideas. The company provides a platform for research analysts, market participants and investment managers to share ideas with institutions, high net worth individuals and other market participants.
+	['', 'financial research', ' ', 'investment research', ' ', 'financial information sharing', '']
+Stockr
+	Provider of social network for the investment community. The company provides a platform where investors, analysts and public companies can communicate directly about financial news, stocks, market trends, investment ideas and more.
+	['', 'investment community', ' ', 'social community', ' ', 'online investment information', '']
+FreeEdgar
+	Provider of products and services that deliver financial data to analysts and investors. The company engages in the delivery and extraction of critical information from electronic filings made by public companies and investment managers to the SEC.
+	['', 'electronic filings', ' ', 'stock information', ' ', 'financial data', '']

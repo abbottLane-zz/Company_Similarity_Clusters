@@ -1,24 +1,39 @@
-CoreFlow
-	Developer and manufacturer of aeromechanical systems for the microelectronics industry. The company provides handling and conveying products for flat panel display and photovoltaic equipment manufacturers.
-	['', 'air floating systems', ' ', 'non contact glass handling', ' ', 'aeromechanical system', ' ', 'commercial product', '']
-ChipData
-	Provider of software and services to the electronics industry. The company provides services to the component suppliers, equipment manufacturers and contract electronic manufacturers to get the products faster and in a cost effective manner.
-	['', 'design chain management', ' ', 'content creation', ' ', 'cost effective', '']
-Greenergetic
-	Provider of online tools for configuring photovoltaic systems at home. The company offers online information about financing, insurance and maintenance of photovoltaic systems.
-	['', 'photovoltaic system', ' ', 'online tools', ' ', 'online information', '']
-ConveyEx
-	Developer of systems for transportation of goods for the air industry. The company offers various products for different types of airports and aircraft including loading systems, flight containers and automatic unloading machines.
-	['logistic ', 'air transport', ' ', 'flight container', '']
-Oplus Technologies
-	Provider of video processing products and technologies for digital television and digital displays. The company designs, develops and markets integrated circuit and software solutions for flat panel plasma and LCD TVs, projection systems, LCD multi-function monitors and emerging digital display applications.
-	['', 'video processing', ' ', 'electronics devices', ' ', 'LCD TV', '']
-Nouvoyance
-	Developer of PenTile technology to flat-panel display manufacturers and their IC suppliers. The company’s technology applications include highly viewable GPS/automotive displays, earth-saving solutions for HDTV, mobile displays, entertainment players for mobile video, easy-read menus for imaging devices and superhero displays for electronic games.
-	['', 'PenTile technology', ' ', 'earth saving solution', ' ', 'flat panel display technology', '']
-Pocket Communications Northeast
-	Provider of flat rate, unlimited wireless voice and data services. The company offers a flat rate service which allows customers to place and receive unlimited wireless calls within a\nlocal service area for a flat monthly fee.
-	['', 'wireless telecommunication', ' ', 'data service', ' ', 'wireless network', '']
-Enuclia Semiconductor
-	Developer of semiconductors for display electronics such as flat panel televisions.
-	['', 'semiconductor', ' ', 'visual semiconductor', ' ', 'screen semiconductor', ' ', 'TV semiconductor', ' ', 'television semiconductor', '']
+Samna
+	Developer of word processing software for personal computers. The company serves as the springbroad for an all-out expansion into word processing.
+	['', 'processing software', ' ', 'personal computer', ' word']
+Jware Technologies
+	Provider of online payment and card processing services. The company engages in providing an electronic payment transaction processing software for the retail, banking and telecommunication sectors.
+	['', 'electronic payment', ' ', 'transaction processing', ' ', 'card processing', '']
+Dynamic Payment Ventures
+	Provider of payment processing services.
+	['', 'payment', ' ', 'processing services', '']
+Watermark Software
+	Provider of image storage and processing software. The company integrates scanned paper documents and faxes with applications such as e-mail, databases, spreadsheets,and accounting software.
+	['', 'multimedia software', '']
+Eventjoy
+	Provider of an online event organizing platform. The company\'s platform allows organizers to use self-service platform to create social mobile applications, handle ticketing/registration, power activity walls and design an event website.
+	['', 'event organizing platform', '  ticketing ', 'event website', '']
+PreEnroll
+	Provider of online registration services.
+	['', 'online registration', ' ', 'registration service', '  ', 'registration software', '']
+B-there
+	Provider of online event management and consolidation solutions. The company offers Internet registration, housing and transportation management solution for the meeting and trade show industries.
+	['', 'event management', ' ', 'Internet registration', ' ', 'transportation management', '']
+Braspag
+	Provider of payment processing services for e-commerce and call centers in Latin America. The company integrates all payment methods and consolidates the technical, financial and operational processes.
+	['', 'payment processing', ' ', 'payment methods', ' e-commerce']
+Harbor Payments
+	Provider of enterprise invoice, billing, and payments management solutions for the enterprises. The company offers Payment Harbor, a Web-based payment processing platform, which provides centralized concurrent management of various disbursement activities and payment systems; Invoice Harbor that streamlines the process of invoice receipt, handling, presentment, and payment processing; and Billing Harbor, which provides electronic bill presentment and payment solution that allows clients to view and pay their bills online, schedule recurring or automatic payments, and receive their billing data.
+	['', 'bill management', ' ', 'invoice billing', ' ', 'payment solution', '']
+Tunessence
+	Provider of an online platform to teach musical instruments. The company\'s software uses audio processing software with instructional videos and gives note-by-note feedback to users.
+	['', 'IT service', ' ', 'internet platform', ' ', 'online music training', '']
+Thriva
+	Provider of online event registration and payment processing software.
+	['', 'event management', ' ', 'event registration', ' ', 'payment processing', '']
+ITA Inverse Theory & Applications
+	Developer of software specializing in interactive, workstation-based approaches to the processing of geophysical data. The company offers geophysical software, systems, processing, and research worldwide.
+	['', 'geophysical data', ' ', 'software development', '']
+SFG Technologies
+	Provider of software systems and solutions focusing on revenue cycle services for municipalities and power utilities. The company\'s utility management system integrated software consists of various modules, such as customer service, requests for service, service orders, credit collections and deposits, billing and rate management, payment processing and meter reading and consumption.
+	['', 'software solutions', '', 'service orders', '', 'meter reading software', '', 'energy software', '']

@@ -1,39 +1,18 @@
-ErgoNex Pharma
-	Developer of drug for Pulmonary Arterial Hypertension treatment and other treatments. The company develops the drug for treatment of diseases like high blood pressure, heart problems.
-	['', 'blood vessel', ' ', 'high blood pressure', ' ', 'drug development', '']
-Dscovered
-	Developer of a genetic algorithm for design. The company develops a genetic algorithm for design that simplifies creative processes. It also helps match clients with graphic designers who share their taste and style.
-	['', 'graphic design', ' ', 'genetic algorithm', ' ', 'designing platform', '']
-Rose Pharma
-	Developer of therapies for irritable bowel syndrome (IBS) and functional dyspepsia (FD). The company is focused on novel treatments for IBS and FD, with a platform technology that is based on a glucagon-like peptide (GLP-1).
-	['', 'irritable bowel syndrome', ' ', 'functional dyspepsia', ' ', 'peptide hormones', ' ', 'gastrointestinal diseases', '']
-Auris Medical
-	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
-	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
-DNA Direct
-	Provider of genetic guidance and decision support solutions for genetics that enable individuals and healthcare providers use genetic information to guide healthcare decisions. The company\'s solution include pre-test questionnaire, genetics call centers, personalized reports, clinical policy and compliance, and physician education and program customization services, as well as prenatal primer, a web-based interactive guide to prenatal testing options. It also offers tests and services for consumers, including screening tests, testing for genetic disorders, testing for drug response, genetic consultation, DNA storage, and paternity and family tests.
-	['', 'genetic guidance', ' ', 'genetic information', ' ', 'healthcare decision', ' ', 'genetic call center', ' ', 'screening test', '']
-ProstaLund
-	Developer of urological devices and treatments.  The company\'s principal product, CoreTherm, is a microwave therapy treatment for BPH (benign prostatic hyperplasia).
-	['bph urology prostate ', 'benign prostatic hyperplasia', ' coretherm ', 'urological device', '']
-FacetMed
-	Developer of bone fixation medical devices. The comapny\'s devices are focused on development of safer implants for posterior spine surgeries to treat disorders mainly in the aging population.
-	['', 'medical implant', ' ', 'spinal surgery', ' ', 'bone fixation', '']
-RepRegen
-	Developer of bio-active materials for orthopedic and dental applications. The company\'s products are used for bone grafting, hard tissue repair and regeneration.
-	['', 'bio-active materials', ' ', 'dental applications', ' ', 'bone grafting', ' ', 'tissue repair', ' ', 'tissue regeneration', '']
-Aires Pharmaceuticals
-	Developer of therapies for pulmonary vascular disorders. The company develops therapies to treat pulmonary vascular disorders such as pulmonary arterial hypertension and pulmonary hypertension due to heart failure.
-	['', 'pulmonary disorder', ' ', 'bacterial pulmonary', ' ', 'cystic fibrosis', '']
-Imaging Automation
-	Developer of technology for document authentication, biometrics and data collection. The company offers products used to authenticate identification documents such as passports, visas, national identification cards and driver\'s licenses. Its products are used in security applications in the government, travel and transportation industries.
-	['', 'document authentication application', ' ', 'biometrics application', ' ', 'data collection application', ' ', 'security application', '']
-Enobia Pharma
-	Developer of therapies to treat genetic bone disorders for which there are no approved treatments. The company’s products are used for the treatment of hypophosphatasia (HPP).
-	['', 'enzyme replacement', ' hypophosphatasia ', 'bone disorder', ' biotechnology ', 'bone mineralization', ' ', 'bone disease', '']
-Cellerix
-	Developer of medicinal products. The company\'s products are used for the treatment of gastroenterology, dermatology and immune-based diseases.
-	['', 'medicinal products', ' ', 'healthcare devices and supplies', ' ', 'life sciences', '']
-Algeta
-	Developer of novel targeted therapies for patients with cancer, based on its alpha-pharmaceutical platform. The company is focused to extend and improve cancer patient\'s lives by developing targeted therapies to fulfill unmet medical needs. It\'s lead product Alpharadin is used for treatment for cancer patients with bone metastases. They are also developing thorium targeted conjugates which are based on conjugating the alpha-emitter thorium-227 to tumor-targeting molecules.
-	['', 'cancer drug', ' ', 'targeted therapy', ' ', 'bone metastase', '']
+Oxford BioMedica
+	Developer of gene-based medicines and therapeutic vaccines. The company\'s technology platform includes a gene delivery system for the treatment of the diseases of the central nervous system and the eye and a tumor antigen for anti-cancer therapy.
+	['', 'gene-based medicines', ' ', 'therapeutic vaccines', ' ', 'gene delivery system', ' ', 'tumor antigen', ' ', 'anti-cancer therapy', '']
+Voyager Therapeutics
+	Provider of gene therapies for diseases of the central nervous system. The company is a gene therapy company that develops treatments for fatal and debilitating diseases of the central nervous system.
+	['', 'gene therapy', ' ', 'central nervous system', ' ', 'adreno virus', '']
+BruCells
+	Developer of therapeutic cellular vaccines. The company produces vaccines based on dendritic cells. It also develops cytokines of a clinical nature used in the preparation of cancer vaccines.
+	['vaccine ', 'cancer vaccine', ' ', 'cellular vaccine', ' ', 'therapeutic vaccine', '']
+Elitra Phramaceuticals
+	Developer of next generation antimicrobial drugs that target essential gene products of pathogenic organisms. The company employs its functional genomics technologies to identify essential gene drug targets in clinically relevant bacterial and fungal pathogens.
+	['', 'antimicrobial drug', ' ', 'drug discovery', ' ', 'pathogenic organism', '']
+VectorLogics
+	Developer of virus based cancer therapies and therapeutic vaccines for viral liver diseases. The company utilizes IBDV technology for research on Viral hepatitis and Hepatocellular carcinoma. The company commercializes products for Cancer Virotherapy, Cancer Vaccines, Prophylactic and Therapeutic Vaccines.
+	['', 'Viral hepatitis', ' ', 'Hepatocellular carcinoma', '  carcinoma liver IBDV ', 'Infectious Bursal Disease Virus', '']
+Hémax Génome
+	Provider of a gene-discovery platform for mapping a gene on the X chromosome that is involved in regulating hematopoiesis. The company also applies its gene-discovery platform to other genes responsible for diseases showing an unequal distribution amongst genders.
+	['', 'gene-discovery platform', ' ', 'hematopoiesis regulation', ' ', 'genes identification', ' biotechnology']

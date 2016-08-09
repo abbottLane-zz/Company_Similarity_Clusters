@@ -1,42 +1,33 @@
-Cyntellect
-	Manufacturer of work stations used by biotechs for cell analysis, purification, and processing. The company\'s products support key applications to advance life science research, biopharmaceutical production, stem cell research and drug discovery.
-	['', 'cell analysis', ' ', 'life science', ' ', 'stem cell research', ' ', 'drug discovery', ' ', 'biopharmaceutical', '']
-alma bioinformatics
-	Developer of software for information retrieval and analysis of text biomedical data. The company specializes in the research and development of biomedical software. It\'s mission is to provide the life science community with innovative information technologies that enable the search, management and relation of the knowledge available in different sources, facilitating its analysis and comprehension.
-	['', 'information retrieval', ' ', 'biomedical data', ' ', 'text mining', '']
-Cytomyx Holdings
-	Operator of a life-sciences holding company. The company, through its subsidiaries, develops gene- and protein-based tools to support pharmaceutical companies and researchers in the development of drugs. The company also provides outsourced pharmaceutical research and development, human biology research products and services, and diagnostic products, as well as distributing third parties’ products.
-	['', 'pharmaceutical company', ' ', 'protein tools', ' ', 'human biology', '']
-Millipore
-	Provider of life science products and services. The company provides innovative products and services that help academic, biotechnology and pharmaceutical customers advance their research, development and production.
-	['', 'life science tool', ' ', 'pharmaceutical customer', ' ', 'life science products', ' ', 'healthcare device', '']
-Bionamics
-	Provider of project management services for pharmaceutical companies. The company acquires and licenses life science assets in the pre-clinical phases.
-	['pre-clinical ', 'clinical research', ' ', 'drug development', '']
-Eurogentec
-	Provider of products and services to the life-science, diagnostic and pharmaceutical industries. The company specializes in genomics and proteomics kits and reagents.
-	['', 'biotechnology supplier', ' genomics proteomics ', 'life-science research', '']
-Mosaïc Systems
-	Provider of technology for the development and production of biologics. The company offers products for the production of therapeutics and drugs, food ingredients and agri-based products. It enables isolation and purification of valuable materials, such as antibodies, proteins and enzymes from complex process streams marked for the pharmaceutical, biotechnology and food industries.
-	['biologics ', 'biologics separation', ' ', 'biologics purification', '']
-Spectral Genomics
-	Developer and marketer of products and services in molecular genetics and diagnostics. The company also provides genomic profiling services for customers in academic and industrial research laboratories.
-	['', 'genomic profiling service', ' ', 'molecular genetic', ' genomes']
-Cellular Research
-	Operator of a biotechnology research and development company. The company focuses on life science research by enabling investigation of single cells and limited samples.
-	['', 'molecular indexing', ' ', 'single cell', ' ', 'biotechnology research', '']
-Avacta Group
-	Developer of chemical and biological detection technology. The company provides technologies, consumables and reagents for the life science markets, from drug discovery to diagnostics. It is engaged in the research, development, production and delivery of instrumentation and services for the biopharmaceutical drug development and clinical diagnostics markets using biophysical technology.
-	['', 'protein formulation', ' ', 'protein characterization', ' ', 'stability testing', '']
-Marical
-	Provider of aquatic life science biotechnology. The company develops techniques to improve the growth and development of farm animals and fish.
-	['', 'aquatic life science biotechnology', ' aquaculture ', 'farm animal development', '']
-Kinetek Systems
-	Manufacturer of hollow-fiber bioreactors for cell culture and liquid-separations systems. The company\'s products are designed for laboratory- and developmental-scale production of biotechnology products and pharmaceuticals, as well as having applications for research and development.
-	['', 'fiber bioreactors', ' ', 'cell culture', ' ', 'liquid separations systems', ' ', 'laboratory production', ' bioreactors ', 'pharmaceutical production', '']
-Halo Genomics
-	Provider of equipment and supplies to the life science and chemical analysis markets. The company provides instrumentation, consumables, software and services to an array of industries, including pharmaceutical, research, forensics, food safety, petrochemical processing, environmental and manufacturing.
-	['', 'DNA sequencing', ' ', 'sample preparation', ' resequencing']
-Granular (Soil Science Business)
-	Provider of Soil Science research. The company is the Soil Science Business unit of Granular.
-	['', 'soil', ' ', 'agriculture research', ' ', 'farmer', ' ', 'farming', ' ', 'farm', '']
+SironaHealth
+	Provider of healthcare communication technology and service. The company developed the IntelliView system using proprietary software that runs on industry standards operating platforms.
+	['', 'communication technology', ' ', 'healthcare communication', ' ', 'proprietary software', ' ', 'industry standard', ' ', 'operating platform', '']
+Solaiemes
+	Developer of communication technology for mobility and unified communications. The company provides infrastructure to help carriers and service providers to enrich the communication experience with their base of customers beyond the person to person case.
+	['', 'telco border', ' ', 'mobile cloud', ' ', 'rich communication', ' ', 'unified communication', '']
+Proservia
+	Provider of information technology services. The company offers operational maintenance services, architecture and integration services, information system governance services and training services.
+	['', 'operational maintenance', ' architecture prototyping']
+Digia
+	Provider of information and communication technology services. The company is specializing in integrated information and communications technology services, smartphone and mobile research and development and telecom products.
+	['', 'communication technology service', ' ', 'integrated information', ' ', 'mobile research and development', '']
+UFIS
+	Provider of airport information technology. The company provides integrated information for single, multi-terminal and multi-airport operations for the global aviation community. The company was spun out of Kongsberg Airport System.
+	['', 'airport information', ' ', 'integrated services', ' operations']
+Virtusa
+	Provider of information technology services. The company\'s offerings include application outsourcing, technology implementation and technology consulting.
+	['', 'application outsourcing', ' ', 'technology implementation', ' ', 'strategic planning', ' ', 'quality assurance', '']
+Awarix
+	Provider of communications and reporting tools to hospitals. The company\'s technology allow operational and administrative staff quick access to information across the healthcare enterprise.
+	['', 'communication reporting', ' ', 'healthcare hospital administration', ' ', 'patient care', '']
+Apptix
+	Provider of on-demand business communication services. The company is a provider of hosted business communication, collaboration, and information technology, with particular expertise supporting legal, financial, healthcare and telecom firms.
+	['', 'software developer', ' ', 'on-demand business communication', ' ', 'mobile messaging', '']
+SuiteLinq
+	Provider of integrated communication, on demand entertainment and business productivity services. The company provides integrated content, connectivity, and commerce technology services to the hospitality industry worldwide.
+	['', 'communication service', ' ', 'technology service', ' ', 'business productivity service', '']
+Imperative Health
+	Provider of technology services for personalized weight management. The company is focused on providing ground-breaking health management technology services to address high-risk health conditions, including diabetes, high blood pressure, obesity and raised cholesterol.
+	['', 'weight management', ' ', 'health management technology', ' ', 'behavioural change system', ' ', 'technology platform', '']
+SoHaTec
+	Provider of information technology services to local government entities. The company\'s software platform is tailored to country-specific requirements for its clients, which include Germany and Ukraine.
+	['', 'government information technology', ' ', 'local government', ' ', 'software platform', '']

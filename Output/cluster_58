@@ -1,30 +1,27 @@
-Waywire
-	Provider of a social artery for video news. The company\'s network provides original, syndicated and community created video content, allowing people to develop informed opinions on topics and then engage in positive debates and discussions.
-	['', 'social artery', ' ', 'video news', ' ', 'social video', '']
-Metacafe
-	Provider of online video. The company specializes in short-form original content. It operates a Video Games hub, which features trailers, reviews, news, interviews and walkthroughs for video game releases in various gaming platforms.
-	['', 'online video', ' ', 'content filter', ' ', 'video sharing', ' entertainment']
-Viddyou
-	Provider of custom-built video service that allows users to archive and express their life in short-form videos.
-	['', 'video publishing', ' ', 'video sharing', ' ', 'video hosting solution', ' ', 'videoblogging', '']
-World Cyber Games
-	Organizer and operator of international video game tournaments. The company organizes gaming tournaments, conferences and exhibitions.
-	['', 'video game', ' ', 'video game tournament', ' ', 'cyber game', '']
-GirlGamer
-	Provider of a social network and video game lifestyle platform for female gamers. The company features news, reviews, profiles, forums and more, focused on creating a  space for both gamers and the industry.
-	['', 'social network', ' ', 'online gaming platform', '']
-Electronic Arts
-	The Company develops, markets, publishes and distributes video game software and content played by consumers, including video game consoles, personal computers, handheld game players and cellular handsets. It also provides online game-related services.
-	['']
-Vine Labs
-	Provider of a video-sharing website. The company focuses on users capturing short video clips that can then be shared via their iPhone.
-	['', 'video sharing website', ' ', 'short video clip', ' ', 'video sharing', ' ', 'iphone application', '']
-EyeWonder
-	Provider of online video and rich media advertising products and services. The company offers advertising formats including video and rich media, in-page to transitional, in-game to in-application, video ads, rich media ads, and custom site ads; and advertising features, such as video features, mobile features and creative features.
-	['', 'media advertising product', ' ', 'online video', ' ', 'rich media advertising', '']
-SeaWell Networks
-	Provider of a software that enables delivery of Hypertext Transfer Protocol (HTTP) adaptive streaming video. The company offers video hosting and distribution for content delivery networks and other video hosting companies. It also provides Spectrum, a network-based, high capacity video management that optimizes and enables monetization of content.
-	['', 'video hosting', ' ', 'content delivery network', ' ', 'video management', ' ', 'content monetization', '']
-TurboBOTZ
-	Developer of e-retailing platform to serve video game buyers and sellers. The company offers a place where used video games can be bought or sold.
-	['e-retailing ', 'online retail', ' ', 'video-game buying', ' ', 'video-game selling', ' ', 'used video-game', '']
+Target 250
+	Provider of performance based outbound sales services to technology and communications companies. The company offers services including appointment setting, account setting profiling, channel enablement, prospecting workshops and data services to technology firms.
+	['', 'outbound sales service', ' ', 'technology service', ' ', 'data service', '']
+Wireless Info Tech
+	Provider of testing and compliance certification services. The company offers global field testing services, such as voice call services in mixed and marginal signal areas; data services; and CDG3 services, including system acquisition, SMS, calling features, handoff, and DTMF tests. It also provides manufacturing and production software and applications testing and development services; wireless reference design services, including form factor and production ready services; and product testing services.
+	['', 'testing and compliance certification service', ' ', 'global field testing service', ' ', 'applications testing', ' ', 'manufacturing and production software', ' ', 'wireless reference design service', ' ', 'product testing service', '']
+Sogeti
+	Provider of technology and software testing services. The company provides software control testing, applications management, infrastructure management, high technology engineering/global engineering, business intelligence and analytics, mobile/Omni-channel, security and cloud services.
+	['', 'software testing', ' ', 'software control testing', ' ', 'application management', '']
+RelQ Software
+	Provider of softrware testing services. The company offers real-time and embedded applications testing, including mission critical software testing, for clients looking to deploy applications across the enterprise.
+	['', 'functional testing', ' ', 'competitive advantage', ' ', 'business applications', '']
+Tektagen
+	Provider of quality control testing and consulting services to the biotechnology and pharmaceutical industries. The company provides biosafety and bioanalytical testing services.
+	['', 'quality control', ' ', 'bioanalytical testing services', ' biotechnology']
+SciCor
+	Provider of laboratory testing services. The company provides laboratory testing services and related data processing support to the US pharmaceutical industry. Its research data was used to prepare clinical submissions to the Food & Drug Administration (FDA) for approval to market new drugs.
+	['', 'laboratory testing service', ' ', 'drug testing', ' ', 'drug invention', '']
+Content Critical
+	Provider of content management, transaction processing and custom middleware technologies. The company provides compliance messaging and reporting solutions, such as composition and rendering solutions for institutions that require distribution of compliance documents. It also provides professional services, such as programming and development, Web development, graphic design and prepress; production services, including digital print, wide format output, mailing and fulfillment, commercial print and binding and finishing; and online support and client services.
+	['', 'compliance messaging', ' ', 'graphic design', ' ', 'digital printing', '']
+RedPath Integrated Pathology
+	Provider of support services for oncology cases. The company operates as a reference laboratory and serves pathologists, clinicians and patients. It offers PathFinderTG, a testing platform for resolving diagnoses from the original pathology specimen.
+	['', 'oncology case', ' ', 'reference laboratory', ' ', 'diagnostic platform', '']
+Catapult Genetics
+	Developer and provider of a Deoxyribonucleic Acid (DNA) testing services. The company provides commercializes livestock Deoxyribonucleic Acid (DNA) tests to improve meat production and quality to increase production efficiency both on-farm and in the value chain for global livestock and aquaculture industries.
+	['', 'genetic testing', ' ', 'livestock testing', ' ', 'commercial breeder', '']

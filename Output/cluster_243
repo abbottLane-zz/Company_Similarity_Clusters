@@ -1,24 +1,39 @@
-Ashby BioSystems
-	Developer of a platform technology based on a method for manufacturing porous silicone rubber. The company also engages in the development of cellular support material for applications ranging from themanufacture of vaccines to vascular skin grafts and liver-assisted devices.
-	['', 'cell culture', ' ', 'tissue engineering', ' ', 'cell culture', ' ', 'porous silicone rubber', '']
-ZDworks
-	Developer of smartphone development applications. The company engages in the development of smart phone applications for Android devices and iPhones.
-	['', 'mobile platform', ' ', 'cellular phone', ' ', 'phone application', '']
-Ingrepro
-	Producer of algae for industrial purposes. The company engages in the development and exploitation of hybrid reactors for algae production. It mainly serves the energy and food industries.
-	['', 'algae production', ' ', 'hybrid reactors', ' ', 'waste streams', ' plants ', 'industrial algae', '']
-Appurify
-	Provider of performance-optimization testing for mobile applications. The company’s platform enables software developers to test their applications on iOS and Android devices under real user conditions. It also provides debugging and optimization tools, actionable test outputs, scriptless tests and framework tests.
-	['', 'optimization platform', ' ', 'testing platform', ' ', 'debugging application', '']
-Alminder
-	Developer of mobile based applications. The company is focused on developing an intelligent mobile calendar application for iPhones and other iOS devices.
-	['', 'contextual calendar', ' ', 'smart calendar', ' ', 'time management', '']
-MontaVista Software
-	Provides Linux tools to the embedded software market. The company’s products include Market Specific Distributions (MSDs) for MontaVista Linux 6, which provides support for industrial automation, automotive, Android, portable multimedia devices, and multicore networking applications, and DevRocket, an Eclipse-based integrated development environment for embedded Linux platform and application development.
-	['', 'operating systems', ' ', 'embedded software', '']
-Xtreme Labs
-	Developer of mobile applications. The company develops applications for Android, BlackBerry, iPhone, iPad, Symbian and Windows Phone 7.
-	['', 'Mobile Development', ' ', 'Discovery Product Performance', ' ', 'iOS application', '']
-Ntera
-	Developer of printable electrochemical materials. The company\'s electrochemical assemblies and technologies enables display and color change applications for smart cards, smart packaging, and smart objects. The company also provides electronic displays using industry printing techniques and equipment.
-	['', 'B2C Services', ' ', 'B2B Services', ' ', 'consumer durables', '']
+CircuLite
+	Developer of miniature blood pumps for the long-term treatment of chronic heart failure. The company provides synergy pocket circulatory assist device, which is designed to rest a failing heart by supplementing its natural function.
+	['', 'blood pump', ' ', 'miniature pump', ' ', 'heart failure', ' ', 'Circulatory assist device', '']
+EndoProtech
+	Developer of therapies for organ transplantation and invasive cardiovascular surgery. The company\'s technology helps in delivery and long term display of bio-therapeutics on the surface of vascular endothelium which enables close monitoring and protection of vascular surfaces.
+	['', 'organ transplantation', ' ', 'cardiovascular surgery', ' ', 'vascular surfaces', ' bio-therapeutics']
+Hospital Management Associates
+	Operator of acute-care medical hospitals in the U.S. The company partners with mid-size communities and local hospital leaders, physicians and caregivers throughout the United States to operate leading community hospitals and health systems.
+	['Healthcare ', 'Hospital Operation', ' ', 'Healthcare Quality', '  acute-care']
+Bridge Pharmaceuticals
+	Provider of preclinical services. The company conducts drug development and preclinical services which include short and long-term in vivo studies ranging from acute to carcinogenicity protocols.
+	['', 'preclinical service', ' ', 'drug development', ' ', 'reproductive toxicology', '']
+Accelion
+	Provider of management services for hospitals and health systems. The company partners with hospitals and health systems to optimize the performance of home-care agencies.
+	['', 'home health service', ' ', 'infusion pump', ' ', 'pharmacy technician', ' ', 'home care service', '']
+IZEOS
+	Operator of an online platform for the nursing community. The company operates a website that provides information and resources for nurses, nursing students and applicants to nursing assistance.
+	['', 'online nursing resources', ' ', 'nursing books', ' ', 'online courses', ' ', 'studying materials', ' ', 'nursing website', '']
+fiberSpace
+	Designer and manufacturer of stabilized laser products. The company\'s product enables absolute accuracy, tunability and long-term wavelength stability for dense wavelength division multiplexing applications.
+	['', 'long term wavelength', ' ', 'wavelength division', ' laser']
+Corthera
+	Developer of therapies for illnesses in the acute care setting. The company\'s product Relaxin, which is developed from a naturally occurring polypeptide hormone, is used to treat acute decompensated heart failure.
+	['therapy treatment illness ', 'care setting', '']
+CareCentric Solutions
+	Provider of  technology, business operation and outsourcing solutions. The company provides technology, business operation and outsourcing solutions for home health, private duty, hospice, home medical equipment, home pharmacy, long-term care and assisted living providers.
+	['', 'managed care', ' ', 'outsource solution', ' ', 'home pharmacy', '']
+Xoova
+	Provider of online directory of doctors and medical services. The company enables patients to find doctors by location, specialty, conditions treated, and medical services offered, as well as schedule appointments online.
+	['', 'online directory', ' ', 'online health website', ' ', 'online appointment service', ' ', 'online doctor search', ' ', 'online medical service', '']
+HealthSouth
+	Operator of an inpatient rehabilitation hospitals that provide rehabilitative treatment on an inpatient and outpatient basis. The company operates inpatient rehabilitation hospitals that offers rehabilitative care services to patients in various medical conditions, such as strokes, neurological disorders, hip fractures, head injuries and spinal cord injuries.
+	['', 'inpatient rehabilitation hospital', ' ', 'neurological disorder', ' ', 'rehabilitation hospital', '']
+VHA Long Term Care
+	Provider of long-term health care facilities.
+	['']
+Mariner Health
+	Provider of sub-acute medical services. The company provides long-term health care services offering assistance through nursing facilities and long-term acute care hospitals which includes daily living, therapy and rehabilitation.
+	['', 'medical services', ' ', 'long-term health care', ' ', 'daily living', ' therapy']

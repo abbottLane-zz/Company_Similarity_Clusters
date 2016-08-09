@@ -1,33 +1,24 @@
-BeInSync
-	Developer of a software to synchronize information for end users. The software uses secure peer-to-peer technology that makes information available for end-users, small businesses, and businesspeople on the move, by automatically synchronizing the user\'s files and e-mail among several computers.
-	['synchronization ', 'shared across', ' ', 'data protection', '']
-Infrasearch
-	Provider of person to person information sharing services. The company provides distributed, peer to peer search engine and networking technology.
-	['', 'peer search engine', ' ', 'person information sharing', ' ', 'information sharing service', ' ', 'peer networking technology', '']
-Carmel Pharma
-	Developer of a closed system drug transfer device. The company provides clinically proven closed-system drug transfer device (CSTD) for the safe handling of hazardous drugs. Their PhaSeal system is a closed system for handling antibiotics and cytostatic drugs which minimizes the leakage and spread of aerosols into the work environment, allowing more efficient handling near the patient.
-	['', 'drug handling', ' drug ', 'handling antibiotics', '']
-Atrenta
-	Provider of realization services for the semiconductor and electronic systems industries. The company designs and develops a system on chip that pinpoints structural, coding and consistency problems in register transfer language (RTL) and enables users to fine tune testability during RTL creation.
-	['', 'electronic system', ' ', 'electronic equipment', ' ', 'register transfer language', '']
-Qrew
-	Provider of cloud, peer-coaching software to companies that want to be able to provide on-the-job employee development (ED) support to all their employees. The company is a social networking software for peer-coaching programs, bringing the benefits of executive coaching to all employees in a company.
-	['', 'peer-coaching software', ' ', 'peer coaching', ' ', 'Enterprise Software', '']
-RentWiki
-	Developer of peer review and recommendation website. The company provides rental search with user-generated content, neighborhood reviews and the ability for renters and locals to talk to each other as well as pros and cons about various areas.
-	['', 'reviewed rental site', ' ', 'recommendation website', ' ', 'rental search', ' ', 'user generated content', '']
-Abritel
-	Provider of peer-to-peer holiday rental platform. The company puts vacationers in touch with owners of seasonally available property. It offers its services through its online platform.
-	['', 'rental property', ' vacation ', 'vacation home', '']
-Coridan
-	Developer of messaging middleware. The company offers an embeddable messaging technology that optimizes the basic logic of messaging systems and is deployed using peer-to-peer architecture.
-	['middleware ', 'messaging system', ' ', 'peer to peer', ' ', 'messaging software', '']
-SSH Communications
-	Provider of security technology. The company offers technology for corporations and government entities that enable managed file transfer, secure file transfer, auditing and monitoring, mainframe connectivity, application connectivity and secure system administration. Its customers include government, financial services, retail, automotive, healthcare, federal government and public administration.
-	['', 'file transfer', ' ', 'mainframe connectivity', ' ', 'system administration', '']
-The New York Enterprise Report
-	Provider of resources and expert advice to help readers grow and run their businesses successfully. The company builds a peer-to-peer community of entrepreneurs and executives who constantly seek better ways to operate and grow.
-	['news ', 'Custom Content', ' event']
-Caffeinated Mind
-	Provider of an on demand peer to peer transfer system. The company enables its users to transfer any size file between them.
-	['', 'online transfer system', ' ', 'file transfer', ' ', 'file sharing', '']
+Blue Box Group
+	Provider of cloud hosting and managed services. The company provides a managed and automated application infrastructure that enables customers to focus their energy on building and improving their web applications.
+	['', 'cloud hosting service', ' ', 'application infrastructure', ' ', 'web application', '']
+MetricsHub
+	Provider of cloud application monitoring platform. The company\'s platform keeps web applications up and running.
+	['', 'cloud monitoring platform', ' ', 'application monitoring', ' ', 'cloud Monitoring', '']
+CouchCommerce
+	Provider of a platform to create shopping applications for online retailers. The company\'s cloud-based platform is designed to be a turnkey solution for generating online shop Web applications for tablets, smartphones and smart TVs. Shop data is sourced via pre-integration into shop systems or extensions to be installed in existing open source shop systems.
+	['', 'online shops', ' ', 'web application', ' ', 'Saas platform', '']
+Pattern Insight (Log Insight)
+	Provider of cloud log analytic platform. The company provides a data management and search platform.
+	['', 'log analysis platform', ' ', 'data management', ' ', 'data search', ' ', 'cloud log analysis', ' ', 'big data', '']
+NodeFly Systems
+	Provider of infrastructure and application monitoring service. The company allows users to add, remove and monitor servers with the click of a mouse.
+	['', 'application monitoring', ' ', 'infrastructure monitoring', ' ', 'workload management', ' ', 'application server', ' ', 'application management', '']
+Lindexa
+	Provider of a web-oriented platform. The company offers an online monitoring platform that collects, analyzes and displays the information posted on the internet.
+	['', 'web-oriented platform', ' ', 'monitoring tool', ' ', 'digital marketing tool', ' ', 'social media marketing', '']
+Librato
+	Provider of a cloud-based monitoring platform for development and operations teams. The company\'s platform monitors the metrics and events important to their application deployments, while leaving metrics storage, analysis, annotation and alerts as an easy-to-deploy service that can scale with their operation.
+	['', 'monitoring software', ' ', 'resource management', ' ', 'infrastructure software', '']
+ShieldArc
+	Developer of a security platform that monitors cloud applications. The company\'s platform enables enterprises to protect their cloud asset without impacting end-user experience in without involving IT operations. The platform also provides tools for real-time monitoring and remediation.
+	['', 'security platform', ' ', 'cloud application', ' ', 'public platform', '']

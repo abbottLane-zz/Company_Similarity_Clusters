@@ -1,33 +1,51 @@
-Widcomm
-	Provider of Internet and data communications. The company offers its Bluetooth software and systems to semiconductor, consumer electronic manufacturers, and computing device OEMs. The radio technology helps in enabling easy wireless communications.
-	['', 'bluetooth software', ' ', 'wireless connectivity solution', ' bluetooth ', 'data communication', ' ', 'radio technology', '']
-Intel Corporation
-	Developer and manufacturer of microprocessors and other semiconductor components. The company develops integrated digital technology products, mainly integrated circuits, for industries such as computing and communications.
-	['', 'integrated digital technology', ' ', 'semiconductor component', ' ', 'technology platform', '']
-MediCapture
-	Manufacturer and designer of advanced digital video recorders. The company provides USB flash drives, footswitches and network adapters.
-	['footswitches ', 'video recorders', ' adapters']
-MaxComm Technologies
-	Developer of in-home LAN products, based on DSL-related technology. The company provides broadband internet technology that brings data and multiple voice lines to consumers.
-	['telecommunications ', 'Internet technology', '']
-IceFyre Semiconductor
-	Manufacturer and designer of integrated circuits for wireless communications. The company provides wireless LAN products.
-	['', 'wireless communications', ' ', 'wireless management', ' ', 'wifi chips', ' ', 'wlan', ' ', 'semiconductor', ' ', 'circuit designs', '']
-Cubic Wafer
-	Developer of integrated circuits. The company offers hybrid integrated circuits and multi-functional 3D integrated circuits. The company also designs and manufactures its own optical connection products for data links and optical communication applications.
-	['', 'integrated circuits', ' ', 'hybrid integrated circuits', ' ', '3D integrated circuits', ' ', 'optical communication', '']
-Alphachips
-	Manufacturer and designer of semiconductor systems. The company provides semiconductor services that owns multiple application specific integrated circuits (IPs), system on chips (SoC) and products such as MHL and HDMI based on knowledge of high speed data transmission.
-	['', 'semiconductor system', ' ', 'data transmission', ' ', 'integrated circuit', '']
-Integrated Circuit Solution
-	Designer and manufacturer of complementary metal-oxide-semiconductor integrated circuits. The company provides performance integrated circuits including memory products and logic products.
-	['', 'compact flash memory', ' ', 'application IC', ' ', 'commercial product', '']
-Capella Microsystems
-	Designer of integrated circuits primarily optical electronic products. The company manufactures integrated circuits which are used in telecommunications, mobile phones, smartphones, handheld devices, digital cameras, laptops, desktop computers, LED backlighting, office automation equipment, household electrical appliance and automotive electronics.
-	['', 'optical electronic products', ' ', 'integrated circuits', ' ', 'IC designer', '']
-Proteon Networks
-	Provider of internet access and LAN products. The company markets the products of OpenROUTE Networks.
-	['', 'internet access', ' ', 'LAN products', '']
-ShareWave
-	Provider of semiconductor technology for multimedia-capable wireless home networks. The company provides wireless LAN semiconductor service which provides seamless transmission of multimedia content, including video and audio entertainment.
-	['', 'semiconductor technology', ' ', 'wireless semiconductor', ' ', 'seamless transmission', ' ', 'multimedia content', '']
+Shire Regenerative Medicine
+	Developer of cell-based therapies. It develops Dermagraft, which received a premarket approval from the U.S. food and drug administration. Dermagraft is a regenerative bio-engineered skin substitute that assists in restoring damaged tissue and is indicated for the treatment of certain types of diabetic foot ulcers (DFU).
+	['', 'cell based therapy', ' ', 'skin substitute', ' ', 'skin replacement product', '']
+Molecular Engines Laboratories
+	Developer of a new generation of drugs against cancer. The company\'s research is focused on the analysis and understanding of the molecular mechanism which makes it possible for a cancer cell to quit its malignant state and to revert to a suppressed-malignant phenotype.
+	['', 'cancer drug', ' ', 'cancer cell analysis', ' ', 'cancer research', '']
+Accord Biosciences
+	Developer of practical sensor systems to measure nitric oxide and its carriers in blood for clinical and research applications. The company utilizes its proprietary membrane, sensing and stabilization technologies to release nitric oxide from blood’s natural reserve in plasma and reproducibly detect it with practical, cost-effective sensing systems. Nitric oxide serves critical bodily functions, including proper blood vessel function and protection against infections, thereby servings as a powerful platform molecule for Accord\'s diagnostic and research product pipelines.
+	['', 'sensor system', ' ', 'blood plasma', ' ', 'blood vessel', ' ', 'pulmonary arterial hypertension', ' ', 'nitric oxide', '']
+Velocity Medical Solutions
+	Developer of imaging software to improve cancer treatment. The company offers a software which could improve the planning of radiation therapy for patients and develop new cancer therapies. It builds oncology PACS applicable to the research, clinical, and drug discovery markets.
+	['', 'cancer treatment', ' ', 'imaging system', ' ', 'radiation therapy', ' ', 'cancer therapy', '']
+Koality
+	Provider of a continuous integration platform that parallelizes test suites, prevents broken builds and works behind firewall. The company\'s platform automatically parallelizes test suite across available virtual machines, manages parallelization and which eliminates nondeterministic test results.
+	['', 'integration platform', ' ', 'manage parallelization', ' ', 'development tool', '']
+NMDG Engineering
+	Developer of software for measuring instruments. The company assists research and developemnt, design, test engineers and instrumentation manufacturers who need to characterize active components and circuits under realistic conditions, especially in nonlinear mode of operation.
+	['', 'measuring instruments', ' ', 'instrumentation manufacturers', ' ', 'measuring software', ' instruments']
+Diagnoplex
+	Developer of non invasive colorectal cancer screening tests. The company develops clinical laboratory kits for screening colorectal cancer, as well as for the detection of colon cancer. It also discovers and optimizes biomarker combinations to detect cancer.
+	['', 'cancer screening test', ' ', 'cancer diagnostic', ' ', 'cancer treatment', '']
+Guide Technology
+	Developer of continuous time interval analyzer and high-precision frequency counter instruments. The company supplies production-scale CTIA-based timing measurement services, allowing semiconductor manufacturers to minimize timing-related failures and to reduce production test costs through test-time reduction and extending their ATE lifecycles.
+	['', 'time interval analyzer', ' ', 'frequency counter instrument', ' ', 'semiconductor support', ' ', 'information technology', '']
+Gloucester Pharmaceuticals
+	Developer of cancer therapeutics. The company develops romidepsin, a histone deacetylase inhibitor and oncology drug candidate for T-cell lymphomas, as well as for the treatment of hematologic malignancies. It also develops treatments for hematological cancers, including cutaneous T-cell lymphoma, peripheral T-cell lymphoma, and multiple myeloma.
+	['', 'cancer therapy', ' ', 'hematological cancer treatment', ' ', 'cancer drug', '']
+CellPro
+	Developer of devices used in biotechnology. The company develops continuous-flow, cell-selection systems that can be used in a variety of therapeutic, diagnostic and research applications.
+	['', 'diagnostic device', ' ', 'research application', '']
+Wellness Indicators
+	Provider of a wellness screening test. The company develops and manufactures a dry urinary wellness test strip called The Health EquaterTM Assessment Profile t. The test is a first-to-market test screening for such biomarkers as oxidative stress, low-grade inflammation and total antioxidant capacity, which indicate levels of wellness. The product has applications for employers, insurers and governments.
+	['', 'wellness assessment', ' ', 'urinary wellness strips', ' ', 'test strips', ' wellness']
+Mzt Holdings
+	Manufacturer & developer of cancer diagnostic technologies and products. The company is a biotechnology company, which engages in the development, manufacture, marketing, distribution, and licensing of cancer diagnostic technologies and products. Its products include NMP22 Test Kit and NMP22 BladderChek Test, which are designed to detect the presence of a specific protein marker in urine correlated with the presence of bladder cancer. Its research and development programs include NMP179 program, a nuclear matrix protein associated with cervical cancer and cervical precancerous conditions; NMP66 program to develop a blood-based test for breast cancer; NMP48 program for prostate cancer; and NMP35, a colon cancer program. In addition, it sells allergy and other diagnostic products manufactured by others. The company sells its products directly to physicians, hospitals, clinics, and physician office laboratories in the United States and Germany, as well as to distributors in other parts of Europe.
+	['']
+Didimi
+	Developer of cell-based regenerative medicines. The company develops cell-based therapeutics to create living and functional tissues to repair or replace organ function for major diseases such as Type 1 diabetes, Type 2 diabetes and other pancreatic insufficiency.
+	['', 'pancreatic disorders', ' ', 'endocrine insufficiency', ' ', 'cell technologies', ' ', 'regenerative medicines', '']
+Standard Diagnostics
+	Manufacturer and distributor of diagnostics reagents. The company manufactures diagnostics healthcare equipment includes rapid test kits, urine analyzing systems, enzyme-linked immunosorbent assay (ELISA) kits and medicine materials.
+	['']
+TTS Pharma
+	Developer of a personalized nicotine patch for smokers. The company has created a companion diagnostic blood test product that provides users with a tailored dose of nicotine via patch technology.
+	['', 'nicotine patch', ' ', 'diagnostic product', ' ', 'patch technology', ' patch']
+Immunicon
+	Developer and manufacturer of cell-based diagnostic and research products. The company manufactures ultra-high sensitive cancer detection test kits (cancer blood test) and next generation cell analysis instruments (cell track cytometer) for various research and clinical applications.
+	['', 'cancer detection test kits', ' ', 'cell analysis', ' ', 'platform technologies', ' biotechnology']
+Oxford Immunotec Global
+	Manufacturer and marketer of T Cell based diagnostic test products and services for the laboratories and clinicians. The company\'s product is the \'T-SPOT.TB\' test, the new cellular blood test for the detection of active and latent tuberculosis infection.
+	['', 'blood test', ' ', 'tuberculosis infection', ' ', 'blood sample', ' ', 'tuberculosis diagnosis', '']

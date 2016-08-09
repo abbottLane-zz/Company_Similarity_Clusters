@@ -1,12 +1,9 @@
-FYIQuest
-	Developer of an internet-based system that provides customized content to physicians\' offices. The company provides systems that puts portable touchscreen computers in doctors\' waiting rooms through which idle patients can access information and see advertisements.
-	['', 'prescription advisory', ' ', 'health information', ' treatment clinics ', 'healthcare advertising', '']
-Argos Control
-	Developer of advanced systems for automatic control of surfaces in wood, plaster and wooden panels industry. The company focuses on wood processing industry and control for quality checking of veneer and laminated plates.
-	['', 'advanced systems', ' ', 'wooden panels', ' ', 'wood processing', ' ', 'laminated plates', ' plaster ', 'quality check', ' surfaces']
-Oberflex
-	Manufacturer of decorative laminated panels. The company provides range of panels for the arrangement of shops, offices, hotels, meeting rooms or shows as well as the decoration of private houses.
-	['laminates ', 'wood panels', ' veneers ', 'wood panels', ' laminboard ', 'particle board', ' ', 'fiber board', ' wood']
-Madras Concept
-	Provider of sanitary ware and decorative products. The company provides textiles for the table art and objects for decorating the house.
-	['', 'table covers', ' ', 'geometric designs', ' ', 'sanitary product', ' ', 'home decor', '']
+DocMorris
+	Provider of an online drugstore. The company operates an online pharmacy store serving the German market.
+	['', 'online drugstore', ' ', 'drug distribution', ' ', 'drug sales', ' ', 'online drugs', ' ', 'online pharmaceutical', ' ', 'pharmaceutical sales', ' pharmacy']
+PlanetRx
+	Provider of online drugstore fulfillment. The website is an online drugstore where customers can find all the usual prescription products in their drugstore and order online.
+	['', 'online drugstore', ' ', 'online drugstore', ' ', 'online store', '']
+York Pharma
+	Provider of prescription products. The company company is engaged in developing, marketing and supplying prescription products to pharmaceutical wholesalers, hospitals and general practitioners within the field of dermatology.
+	['', 'dermatological products', ' ', 'prescription products', ' supplier ', 'product development', '']

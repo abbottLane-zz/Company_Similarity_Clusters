@@ -1,27 +1,33 @@
-SocialEngine
-	Provider of an online community that rewards members for posting great content. The company provides customizable online communities.
-	['', 'customize online community', ' ', 'social media management', ' ', 'community management', '']
-Stylehive
-	Operator of an online style club for women. The company operates a global social shopping community for discovering and sharing the products, the stores that sell them, and the people that find them.
-	['', 'online style club', ' ', 'social shopping community', ' ', 'social shopping', '']
-Atrua Technologies
-	Developer of intelligent touch controls for the mobile device industry.The company provides a variety of touch-control products that can sense a user’s touch, confirm a user’s identity through fingerprint biometrics and convert touch motions and gestures into control input.
-	['biometric ', 'security access', ' ', 'mobile phone technology', '']
-Eons.com
-	Operator of an online community enabling people to stay in touch with friends.
-	['', 'social networking', ' ', 'baby boomer marketing', ' ', 'online dating', ' ', 'ad network', '']
-FanLib
-	Operator of online community for the entertainment fans. The company\'s online storytelling platform enables its members to create stories and scripts based on television shows, books, movies, video games, and other works.
-	['', 'fan community', ' ', 'entertainment community', ' ', 'storytelling platform', '']
-Affinity Labs
-	Provider of online professional community for people. The company offers networks for careers such as law enforcement, healthcare, education, government and technology.
-	['', 'online community', ' ', 'professional community', ' ', 'educational community', '']
-hi5
-	Provider of social networking site. The company provides platform for the people to stay connected with each other, share content and information. It also provide gaming platform to play online game.
-	['', 'online chat', ' ', 'online game', ' ', 'online community', ' ', 'advertised game', '']
-eCircles.com
-	Operator of an online community for groups of friends and families. The company provides a platform where people can communicate, develop ideas, exchange information, coordinates activities, solve problems and share experiences.
-	['', 'online community', ' ', 'social community', ' ', 'social platform', '']
-Plasmyd
-	Creator of an online community for researchers. The company provides a platform for peer review and discussion of research papers.
-	['', 'search engine', ' ', 'scientific search', ' ', 'papers online', '']
+Octagen
+	Operator of biopharmaceutical company. The company develops drugs for hemophilia, other genetic disorders and variations of recombinant B domain to avoid inactivation by flying below the radar screen of the immune system.
+	['', 'genetic disorder', ' hemophilia ', 'blood clotting', ' therapies']
+Tissue Repair Company
+	Operator of biopharmaceutical company with a clinical-stage focus on products that promote tissue repair. The company\'s scientific expertise is based on gene therapy, growth factor biology, tissue regeneration and product development.
+	['', 'tissue repair', ' ', 'tissue regeneration', ' ', 'gene therapy', '']
+Alkermes
+	Operator of a biopharmaceutical company. The company develops products based on drug-delivery technologies to enhance therapeutic outcomes in major diseases.
+	['', 'drug delivery technology', ' schizophrenia ', 'therapeutic outcomes', '']
+Neorphys
+	Operator of a biopharmaceutical company focusing on visceral pain management. The company discovered analgesic drug candidate with low side effects, especially on gastrointestinal transit, respiratory depression and addiction.
+	['', 'healhcare service', ' ', 'pharmaceutical service', ' ', 'analgesic drug', ' ', 'visceral pain management', '']
+Flex Pharma
+	Operator of a biopharmaceutical company. The company develops clinically proven products and treatments for muscle cramps and spasms.
+	['', 'muscle cramp', ' spasm ', 'neuromuscular disorder', ' program']
+Sterix
+	Operator of a biopharmaceutical company. The company specializes in the research and development of a new generation of steroid-based therapeutic products for use in oncology and metabolism or endocrine-related diseases, including cancer treatments, women\'s health, diabetes and hormone-associated diseases.
+	['steroid metabolism endocrine']
+Avidimer Therapeutics
+	Developer of targeted therapeutics to treat cancer and other diseases. It is a biopharmaceutical company that focuses on the advance use of its proprietary nano-scale therapeutic platform for the treatment of certain cancers through clinical trials.
+	['', 'cancer treatment', ' ', 'clinical trials', ' ', 'therapeutic platform', '']
+Twinstrand Therapeutics
+	Operator of biopharmaceutical company. The company engages in the discovery, development and commercialization of biological drugs for the treatment of life threatening diseases.
+	['', 'biological drugs', ' cancer']
+Setagon
+	Developer of metallic nanoporous surface modification technology. The company also develops drug delivery technologies for the intravascular treatment of cardiovascular, peripheral vascular and neurovascular diseases.
+	['', 'nanoporous modification technology', ' ', 'drug delivery technology', ' ', 'nanoporous metal coating', '']
+Ansata Therapeutics
+	Operator of a biopharmaceutical company focused on dermatologic treatments. The company develops peptide-based topical antibiotics for skin issues.
+	['', 'peptide-based', ' ', 'antibiotic product', ' ', 'topical medication', ' ', 'skin infection', ' ', 'pharmaceutical product', '']
+Axovan
+	Operator of a biopharmaceutical research company. The company is involved in the discovery of drugs linked to G protein-coupled receptors.
+	['post-genomic ', 'human genome', ' G-protein GPCRs']

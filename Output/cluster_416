@@ -1,45 +1,48 @@
-Optimax Systems
-	Provider of optical materials to make aspheres, cylinders, spheres. The company manufactures prototype optical components for aerospace, display technologies and solar applications.
-	['cylinderical optics axicon wedges']
-Optiva
-	Developer of self-assembling nanomaterials. The company is engaged in developing and manufacturing self-assembling nanomaterials for use in a wide range of optical, electro-optical and semiconductor applications.
-	['nano-material ', 'self-assembling nanomaterials', ' ', 'electro-optical applications', ' ', 'optical applications', ' ', 'crystal films', ' ', 'semiconductor applications', ' nanomaterials']
-Arryx
-	Developer of holographic optical trapping (HOT) technology for optically controlled measurement and manipulation in nanotechnology, biotechnology, physical and material sciences, and basic research industries. The company offers stand-alone and turnkey solutions for holo-tweezers, as well as kit-based packages for the implementation of holographic optical trapping.
-	['', 'optical trapping technology', ' ', 'blood processing application', ' ', 'therapeutic research', ' ', 'nanotechnology application', ' ', 'optical telecommunication', ' ', 'reconfigurable biochip', '']
-Theta Optics
-	Provider of optical products. The company operates shops that sell optical glasses and other optical consumer products.
-	['', 'optical shops', ' ', 'optical products', ' eyeglass spectacles']
-Koyj Company
-	Manufacturer and seller of composite optical materials in South Korea. The company offers optical components, chemical applications, optical films, thermal extrusion processing, and polymer material developments.
-	['']
-CyOptics
-	Developer of Indium Phosphide (InP) optical chips and components for integration into access, metro and long-haul communications systems. The company\'s products include planar lightwave circuits (PLCs) for optical networks in telecommunications and defense applications.
-	['', 'laser detector', ' ', 'planar lightwave circuit', ' ', 'optical chip', ' ', 'lightwave circuit', ' ', 'optical component', ' ', 'optical product', '']
-Équipe Communications
-	Manufacturer of core network switching equipment. The company designs, manufactures and sells markets asynchronous transfer mode and multiprotocol label switching products for the optical network market.
-	['', 'core switch', ' ', 'optical network', ' switching ', 'core network', ' ', 'ATM switches', ' ', 'MPLS switches', '']
-NanoOpto
-	Manufacturer of integrated modular nano-optic components for optical systems and networks. The company\'s products include IR cut filters, nano-optic isolators, deep ultraviolet polarizers, polarizing beam splitters/combiners, optical isolators, microlens arrays, and WDM filters, as well as waveplates, retarders, and trim retarders. It\'s services include conformal optical coatings by atomic layer deposition, precision coatings by e-beam deposition, precision dicing, and optical design and engineering.
-	['', 'nano-optic component', ' ', 'IR cut filter', ' ', 'deep ultraviolet polarizer', ' ', 'conformal optical coating', '']
-Ofidium
-	Developer of OFDM technologies. The company provides 100 Gigabits per second optical optical OFDM technologies which delivers increased bandwidth and reduced costs for telecommunications networks.
-	['', 'OFDM technology', ' ', 'communications infrastructure', ' ', 'communications network', ' ', 'optical fiber', '']
-JDS Uniphase
-	Viavi Solutions Inc was incorporated in California in 1979 and reincorporated in Delaware in 1993 as JDS Uniphase Corp (CA). The Company changed its name from JDS Uniphase Corp (CA) to Viavi Solutions Inc. The Company is a provider of network and service enablement solutions and optical products for telecommunications service providers, wireless operators, cable operators, network-equipment manufacturers and enterprises. Its segments include Network Enablement, Service Enablement, Communications and Commercial Optical Products and Optical Security and Performance Products. The Network Enablement segment provides an integrated portfolio of testing solutions that access the network to perform build-out and maintenance tasks. These solutions include instruments, software and services to design, build, turn-up, certify, troubleshoot and optimize networks. The Service Enablement segment provides embedded systems and enterprise performance management solutions that supply global service providers, enterprises and cloud operators visibility into network, service and application data. The Communications and Commercial Optical Products segment addresses end markets including data communications (Datacom) and telecommunications (Telecom) networking and commercial lasers (Lasers) for manufacturing, inspection and life-sciences applications. The Optical Security and Performance Products segment leverages its core optical coating technologies and volume manufacturing capability to design, manufacture, and sell products targeting anti-counterfeiting, consumer and industrial, government, healthcare and other markets. The Company markets its products to telecommunications and cable service providers, NEMs, original equipment manufacturers (OEMs), enterprises, governmental organizations, distributors and strategic partners. Its competitors include Giesecke & Devrient, Agilent Technologies, Inc., Anritsu Corporation, Exfo Inc., Ixia, NetScout Systems, Inc.
-	['', '', 'optical communications', ' laser']
-Fiberxon
-	Manufacturer of optical link interfaces for optical communication systems. The company offers telecommunication/data products, optical network products, and optical components, which comprise transceivers and sub-assemblies. Its products enable various applications of optical communication systems, such as metropolitan area network and access network.
-	['', 'optical link interface', ' ', 'optical communication system', ' ', 'optical network product', '']
-Network Elements
-	Developer of network infrastructure building blocks. The company provides customers with fully tested modular solutions incorporating optical interfaces and wirespeed processing for layers 2/3 through layers 4/7.
-	['', 'network infrastructure', ' ', 'wirespeed processing', '']
-Infinera
-	Provider of optical networking computer chips. The company’s DTN System is carrier-class, which means that it complies with applicable Telcordia and equivalent major international standards for central office-based network elements. Its DTN System supports a broad range of optical service interfaces, including Ethernet (Gigabit Ethernet and 10 GbE) and separate synchronous optical network/synchronous digital hierarchy. Infinera Line System 2 Infinera DTN Systems are built upon and connected to one another using an optical line system.
-	['', 'computer chip', ' optics interface ', 'line system', '']
-LiquidLight
-	Developer of intelligent optical networking technology that spans from the core to the edge of the optical network. The company offers robust set of revenue enhancing services, such as high-speed internet access, streaming video and guaranteed performance for hosted applications, to the OSP\'s business customers that sit at the edge of the optical network.
-	['', 'optical networking', ' ', 'high-speed internet', ' ', 'video streaming', '']
-Caliopa
-	Developer of optical transceivers for the data and telecommunication markets. The company is a spin-off of the Photonics Research Group of Ghent University and imec.
-	['', 'optical transceivers', ' ', 'silicon photonics', ' ', 'telecommunication markets', ' ', 'connectivity products', '']
+Medtech Pharma (Wales)
+	Developer of bioencapsulation based life science and therapeutic products. The company offers drug delivery systems for the formulations of cancer and diabetes treating drugs.
+	['', 'bioencapsulation', ' ', 'therapeutic product', ' ', 'drug delivery system', '']
+Crisi Medical Systems
+	Developer of drug-delivery systems. The company\'s products are designed to improve clinical outcomes and lower healthcare costs by making the delivery of intravenous injectable drugs safer and more accurate.
+	['medication ', 'clinical workflow', ' caregiver']
+Nanox
+	Developer of nanostructured perovskite-based catalyst formulations for emission control and alternative energy applications. The company offers products for diesel oxidation catalysts and particulate control, oxidation of carbon monoxide, volatile organic compounds oxidation and physico-chemical data applications.
+	['', 'emission control', ' oxidation energy']
+Intermed Discovery
+	Developer of natural products for the life science industry.  The company generates proprietary product pipelines of early stage pharmaceuticals and functional ingredients for the life science, animal health, agrochemical, food and cosmetic industries.
+	['', 'animal health', ' ', 'agrochemical', ' ', 'chemical research', '']
+Sagres Discovery
+	Provider of oncogene discovery, individualized cancer profiling, drug target validation and therapeutic development.
+	['', 'oncogene discovery', ' ', 'drug target validation', ' ', 'drug therapeutic', ' ', 'cancer profiling', '']
+Mistral Pharma
+	Developer of drug-delivery systems. The company develops new controlled-delivery profiles for existing commercial drugs.
+	['', 'drug delivery', '']
+Gardia Medical
+	Developer of catheter based drug delivery systems. The company offers a wire independent distal filtration system that reduces the incidence of embolic complications during stenting procedures, such as carotid and angioplasty.
+	['', 'drug delivery', ' ', 'filtration system', ' ', 'stenting procedure', '']
+LifeMed Media
+	Provider of multimedia platform for the diabetes community. The company provides information and community support for type 1 diabetes, type 2 diabetes, and caregivers online. It offers a TV program, a web portal, direct mail, and professional and retail programs.
+	['', 'retail program', ' ', 'diabetes community', ' ', 'direct mail', '']
+Eurogentec
+	Provider of products and services to the life-science, diagnostic and pharmaceutical industries. The company specializes in genomics and proteomics kits and reagents.
+	['', 'biotechnology supplier', ' genomics proteomics ', 'life-science research', '']
+Varro Technologies
+	Developer of distributed knowledge management software. The company offers products for the life science industry and assists in the drug discovery process.
+	['', 'knowledge management software', ' ', 'healthcare software', ' ', 'drug discovery', '']
+Sirigen
+	Developer of novel polymeric materials for the life-science and diagnostic industries. The company is the developer of light-harvesting polymeric materials, which offer high sensitivity flourescence (HSF) detection, with applications for drug testing, optimized detection techniques and developing next-generation diagnostic tools.
+	['', 'light harvesting', ' polymers flourescent']
+CellMed
+	Developer of a biological drug delivery system for therapeutic treatment. The company\'s core product is CellMed UHVBiopolymer, which is used as a material to encapsulate cells and tissue. The company\'s products are marketed as CellBeads, which are micro-implants that produces therapeutic molecules to treat diseases like hypoparathyroidism, diabetes, oncology and neurodegeneration.
+	['', 'therapeutic treatment', ' CellBeads ', 'micro-implants', ' ', 'therapeutic molecules', '']
+GeneGrafts
+	Provider of therapeutic products. The company manufactures therapeutic products to treat cardiac arrhythmia, Parkinson\'s disease and epilepsy.
+	['', 'therapeutic product', ' ', 'cardiac arrhythmia treatment', ' ', 'epilepsy treatment', '']
+Novosis
+	Provider of transdermal and implantable drug delivery systems. The company specializes in the development and production of transdermal therapeutic systems and subcutaneous implants for drug application.
+	['', 'therapeutic plasters', ' ', 'transdermal therapeutic system', ' ', 'subcutaneous implant', ' plasters ', 'drug delivery', '']
+Marical
+	Provider of aquatic life science biotechnology. The company develops techniques to improve the growth and development of farm animals and fish.
+	['', 'aquatic life science biotechnology', ' aquaculture ', 'farm animal development', '']
+Intella Interventional Systems
+	Developer of balloon catheters and guide wires for coronary angioplasty. The company\'s products include interventional vascular products, including guide wires, balloon-on-a-wire systems, rapid exchange systems, over-the-wire systems and stent delivery systems.The company supplies its products to cardiologists, physicians and surgeons.
+	['', 'balloon catheters', ' cardiologists']

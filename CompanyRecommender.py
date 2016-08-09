@@ -58,13 +58,13 @@ class CompanyRecommender:
             sorted_companies = get_sorted_companies(cluster, company_name, self.company_idx_map, self.instance_vector_array)
 
             # Append all the companies similar to the given company to a string and return
-            similar_str ="["
+            similar_str ="[\n"
             for company_dist_tuple in sorted_companies:
                 company = company_dist_tuple[0]
                 distance_from_centroid_company = company_dist_tuple[1]
                 if company_name != company.name:
-                    similar_str += company.name + " : " + str(distance_from_centroid_company) + ", "
-            similar_str = similar_str[:len(similar_str)-2] + "]" # similar_str = similar_str minus the last character, which is a comma
+                    similar_str += company.name + " : " + str(distance_from_centroid_company) + "\n"
+            similar_str += "]"
         else:
             similar_str = "Sorry, the company name \"" + company_name + "\" does not appear in the given data. "
         return similar_str

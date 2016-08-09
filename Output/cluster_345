@@ -1,66 +1,30 @@
-MCN
-	Provider of mobile search and advertising technology platform. The company provides advertising services to operators and content providers which includes  MessagePlus, RichMedia Advertising and Social Media Advertising.
-	['', 'mobile search', ' ', 'search platform', ' ', 'search on mobile', ' ', 'advertising application', '']
-AppRedeem
-	Provider of a promotion and advertising platform for mobile applications discovery, branding and monetization. The company offers rewards and incentives both for installing and taking action on promoted applications.
-	['', 'branding and monetization', ' ', 'rewards and incentives', ' ', 'gift cards', '']
-Fivia
-	Provider of automated inventory, order and billing management software designed originally for online advertising. The company’s software product manages the workflow of major sell-side advertising publishers to maximize the value of their digital advertising inventory.
-	['', 'automated inventory', ' ', 'billing management software', ' ', 'online advertising', '']
-UUCun
-	Provider of Internet based mobile advertising services. The company provides Internet based mobile advertising services for WAP sites, application developers, and advertisers
-	['', 'Internet based advertisement', ' ', 'mobile advertising services', ' ', 'internet advertising platform', '']
-Dispop
-	Developer of an online advertising-design platform. The company operates a crowdsourced platform that enables advertisers to run advertising-design contests, relying on a crowdsourced network to choose the best designs for their campaigns.
-	['', 'crowd source', ' ', 'advertisement source', ' ', 'advertising design', ' ', 'banner advertising', '']
-HowMark Mobile
-	Operator a mobile advertising platform for advertisers and publishers. The company provides performance marketing networks for mobile advertising campaigns.
-	['', 'mobile advertising platform', ' ', 'performance marketing network', ' ', 'mobile advertising campaign', ' ', 'mobile advertising', '']
-TapCanvas
-	Developer of a tool to build single-use mobile applications. The company focuses on building disposable, context-specific applications using web technologies.
-	['', 'application building', ' ', 'application development', ' ', 'web technology', '']
-ReTargeter
-	Provider of an online display advertising platform. The company offers services for brand awareness and conversions by showing banner advertisements to the audience to a site after they leave. It enables brands to focus their advertisements on everyone who has engaged with them online, whether through the Web, e-mail, mobile devices or social media.
-	['', 'display advertising', ' ', 'brand awareness', ' ', 'banner advertisements', '']
-RUN
-	Provider of a real time advertising management platform. The company provides an advertising software platform which enbles users to advertise across multiple channels, including mobile, tablet, desktop and television.
-	['', 'real-time bidding', ' ', 'audience targeting', ' ', 'programmatic advertising technology', '']
-ShopLocal
-	Provider of multi-channel shopping and advertising services. The company offers a suite of solutions that connect advertisers and consumers online and in-store. Its solutions include an interactive and rich media banner ad that automatically delivers the clients locally versioned offers across the Web; a localization engine that distributes versioned local promotions and deals across various mediums; and an online circular advertising service that converts locally versioned ads into an online circular that shopper can view on their site.
-	['', 'multi-channel shopping', ' ', 'advertising service', ' ', 'online in-store', ' ', 'rich media banner', ' ', 'localization engine', ' ', 'online circular advertising', '']
-AdScale
-	Provider of a marketplace for online advertising in Germany. The company offers traditional display advertising and special forms of advertising via video advertising and text ads to advertisers and website owners. The company also offers publishers and marketers a tool for controlling inventory use.
-	['', 'online advertising', ' ', 'online marketplace', ' ', 'video advertising', '']
-Namo Media
-	Provider of a mobile advertising platform. The company offers online advertising services for mobile applications.
-	['', 'mobile platform', ' ', 'application system', ' ', 'advertising service', '']
-Domob Network Technology
-	Provider of mobile advertising service. The company operates a mobile internet advertising platform and offers in-application digital display advertising to mobile devices.
-	['', 'mobile advertising platform', ' ', 'mobile advertising network', ' ', 'online mobile advertising', '']
-Gradient X
-	Provider of a programmatic marketing platform for mobile advertising. The company\'s platform solution for mobile advertising is powered by a cloud-based, on-demand infrastructure that incorporates emerging technologies and strategies within the mobile environment.
-	['', 'technology platform', ' ', 'mobile media space', ' ', 'performance advertising', ' ', 'mobile advertising', '']
-Medialets
-	Developer of media advertising and an analytics platform for mobile applications. The company\'s platform enables mobile application developers to measure their audience and monetize their applications through advertising.
-	['', 'media advertising', ' ', 'analytic platform', ' ', 'user activity', ' ', 'advertisement performance', ' ', 'advertising monetization', '']
-Pudding Media
-	Provider of mobile advertising services. The company is focused on enabling and selling carrier-based inventories.
-	['', 'advertising solution', ' ', 'mobile advertising', ' ', 'voice based advertising', '']
-Zave Networks
-	Operator of an incentive platform that links online and mobile incentive placement with in-store redemption. The company offers Zavers, an incentive network that replaces paper coupons and instead digitally links consumers, manufacturers, and retailers. Its solution gives product marketers a data environment around their incentives and online advertising.
-	['', 'incentive platform', ' ', 'incentive network', ' ', 'mobile incentive placement', '']
-Webnext
-	Operator of an online publisher and advertising network. The company offers networking services to publishers and advertising industry.
-	['', 'advertising network', ' ', 'networking service', ' ', 'publisher web', '']
-Where
-	Provider of local search and recommendation services on mobile phones and Web applications. The company offers WHERE, a mobile application for searching and locating places, events, and special offers; Where.com, a Web portal that offers local search and recommendation services; Traffic.com, a mobile traffic application that provides traffic related data in the United States with coverage in various metropolitan areas; and WHERE Ads, a hyper-local advertising network.
-	['', 'location service', ' ', 'local search', ' ', 'hotel search', ' ', 'mobile traffic', ' ', 'local advertising', ' ', 'mobile advertising', '']
-Maxifier
-	Provider of a software platform for online advertising. The company provides a marketing platform that generates revenues from advertising campaigns.
-	['', 'internet software', ' ', 'advertising inventory', ' ', 'premium inventory', '']
-Dobleas
-	Operator of a mobile advertising technology company. The company offers data sources to buyers and sellers on mobile platforms. It also provides API access and DSP platform services for trading desks to fulfill their buying needs.
-	['', 'mobile advertising', ' ', 'data sources', ' ', 'API access', ' ', 'trading desks', ' ', 'DSP platform', '']
-AdColony
-	Provider of a mobile advertising platform. The company offers high-definition in-app video advertisement network featuring Instant-Play technology across smartphone and tablet publisher inventory.
-	['', 'mobile advertising', ' ', 'video advertisement', ' ', 'tablet publisher', '']
+fiveby tv
+	Provider of online videos based on user preference. The company scours the internet for the best videos, and hand-delivers the ones people want to watch.
+	['', 'online video search', ' ', 'free video', ' movie']
+CastTV
+	Operator of a website that helps people to watch videos through the Web. The company\'s website lets users find all their favorite online videos, from TV shows to movies to the latest celebrity, sports, news, and viral videos.
+	['', 'online video', ' ', 'original video', ' ', 'watch video', ' ', 'video website', ' ', 'video clip', ' ', 'social video sharing', ' ', 'community video', ' ', 'video blog', ' ', 'video entertainment', '']
+Omnisio
+	Provider of online videos. The company enables user to annotate videos, combine clips, and synchronize slideshare presentations to videos.
+	['', 'video annotation', ' ', 'video sharing', ' ', 'video blogging', '']
+Userfarm
+	Operator of a video crowdsourcing platform. The company creates promo videos, corporate films and creative advertisements through its network of video makers.
+	['', 'entertainment software', ' ', 'crowdsourcing platform', ' ', 'creative advertisement', '']
+IFILM
+	Operator of online streaming media network on the Internet. The company distributes videos online, featuring programs that comprise animations and cartoons, comedy, movie clips, music videos, short films, TV clips, video game trailers, spike shows and action sports as well as a collection of viral videos from Hollywood studios, amateur filmmakers and user-generated content.
+	['', 'online streaming', ' ', 'movie information', ' ', 'entertainment media', ' ', 'music videos', '']
+LoadnVote
+	Provider of visual media competition on the internet. The company invites visitors of all ages and interests to compete in head-to-head contests by uploading videos, pictures and other media to gain exposure and win prizes.
+	['', 'social content', ' ', 'visual media', ' ', 'media competition', ' ', 'voting site', '']
+RipCode
+	Provider of realtime transcoding software for video clips and streaming. The company supports live mobile video or video on-demand transcoding for mobile and user generated content applications. It enables video to be dynamically transcoded and served to a customer on any screen size as they request it, giving viewers an expansion of content choices while reducing an operator’s server hardware, storage and energy use.
+	['transcode IPTV ', 'video on-demand', '']
+PageWise
+	Operator of a website that serves how-to videos and articles online. The website is a video portal for how-to information and the largest provider of "made for the internet" video content. Its content was created through the company\'s proprietary process wherein filmmakers select specific how-to topics and produce videos on that subject matter.
+	['article, video, ', 'how to video', ' ', 'video portal', '']
+ZEFR
+	Provider of content rights management to movie studios on YouTube. The company allows its users to search, find, watch, discuss and share movie clips from movies. It also offers a website that offers a collection of movie clips on YouTube.
+	['', 'social marketing', ' ', 'rights management', ' ', 'video solution', ' ', 'online video platform', '']
+Indoor Direct
+	Provider of media network for the fast food and casual dining markets. The company produces theBITE, a national in-store television show that delivers short clips of sports, music, entertainment and lifestyle content to users and helps in marketing for the restaurants and dining.
+	['', 'casual dining market', ' ', 'restaurant network', ' ', 'out-of-home media', ' ', 'media network', '']

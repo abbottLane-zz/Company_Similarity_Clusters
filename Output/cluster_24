@@ -1,15 +1,42 @@
-DeNovis
-	Provider of transaction processing and information management solutions for the health insurance and health care benefits administration industry.The company\'s flagship software product eHD™ serves as the core administrative platform for health plans and is designed to deliver the sophistication necessary to meet both existing and emerging needs of commercial, Medicare and Medicaid healthcare benefits administrators.
-	['', 'transaction processing', '']
-Primary Health
-	Operator of a healthcare delivery system for health insurance companies, self-insured employer groups, and medical providers and facilities. The company offers health insurance products and services within HMO, POS, and PPO model plans. It offers care management services, as well as operates physician clinics in Idaho and Oregon.
-	['', 'healthcare delivery', ' ', 'health insurance', ' ', 'insured group', ' ', 'healthcare management', ' ', 'physician clinic', ' ', 'physician network', '']
-Zen99
-	Provider of health insurance tracking platform. The company provides a platform which allow users to track health policies with their earnings, expenses and figure out how much to save for taxes on a single dashboard.
-	['', 'health insurance', ' ', 'insurance policy tracking', ' ', 'productivity software', '']
-Health.com.au
-	Provider of health insurance services. The company provides an online private health insurance services in Australia.
-	['', 'insurance policies', ' ', 'health policy', ' ', 'online insurance', '']
-HealthPocket
-	Provider of a web portal enabling consumers health-insurance plans in their local area. The company provides a Web service that combines a health care plan\'s quality ratings from government and non-profits, with the company\'s own ranking system.
-	['', 'health insurance plan', ' comparison ', 'health claim', '']
+DOCLIX
+	Developer of pay-per-click advertising network. The company offers an online platform that delivers text advertisements within a controlled environment of quality content sites for advertisers as well as allows content publishers to customize the presentation of advertisements on their sites and to create new advertisement placements on under-monetized sections of each page or site.
+	['', 'advertising network', ' ', 'online platform', ' ', 'quality content', ' ', 'text advertisement', '']
+Wunderloop
+	Provider of an integrated targeting services to target specific demographics online. The company offers wunderloop custom solution, a multi tasking and online marketing application; and wunderloop connect, an open marketplace for targeted online advertising that unites advertisement displays and open advertising inventory. It offers its solutions for advertisers, corporate sites, agencies, publishers, and online shops.
+	['', 'demographics online', ' ', 'custom solution', ' ', 'online marketing', ' ', 'online advertising', ' ', 'online shop', ' ', 'open marketplace', '']
+Fivia
+	Provider of automated inventory, order and billing management software designed originally for online advertising. The company’s software product manages the workflow of major sell-side advertising publishers to maximize the value of their digital advertising inventory.
+	['', 'automated inventory', ' ', 'billing management software', ' ', 'online advertising', '']
+Authenticlick
+	Operator of a web analytics company. The company specializes in web traffic intelligence services for online advertising optimization. It provides pay-per-click advertising audit and fraud detection technology and offers various services like identifying, verifying, documenting, scoring low quality click activity and helping to secure equitable refunds and credits.
+	['', 'campaign services', ' ', 'web analytic', ' ', 'ROI optimization', '']
+Sportgenic
+	Owner and operator of a men\'s vertical sports Web advertising network that connects advertisers with sports enthusiasts. The company offers a software-driven media planning tool that enables marketers to plan, build, buy, and manage integrated campaigns across various media types.
+	['', "men\\'s sport", ' ', 'sport advertising', ' ', 'advertising network', ' ', 'media planning', ' ', 'marketing campaign', ' ', 'sport marketing', '']
+ShopLocal
+	Provider of multi-channel shopping and advertising services. The company offers a suite of solutions that connect advertisers and consumers online and in-store. Its solutions include an interactive and rich media banner ad that automatically delivers the clients locally versioned offers across the Web; a localization engine that distributes versioned local promotions and deals across various mediums; and an online circular advertising service that converts locally versioned ads into an online circular that shopper can view on their site.
+	['', 'multi-channel shopping', ' ', 'advertising service', ' ', 'online in-store', ' ', 'rich media banner', ' ', 'localization engine', ' ', 'online circular advertising', '']
+AdScale
+	Provider of a marketplace for online advertising in Germany. The company offers traditional display advertising and special forms of advertising via video advertising and text ads to advertisers and website owners. The company also offers publishers and marketers a tool for controlling inventory use.
+	['', 'online advertising', ' ', 'online marketplace', ' ', 'video advertising', '']
+Gourmetage
+	Operator of a chain of alcohol retail stores in Germany. The company offers dishes, wines, champagne, whisky, spirits and accessories.
+	['spirits dishes whisky']
+NebuAd
+	Provider of online advertising solutions. The company’s behavioral advertising solutions help advertisers, publishers, and service providers.
+	['', 'online media', ' ', 'advertising solution', ' ', 'behavioral advertising', ' ', 'behavioral targeting', '']
+Smartclip Holding
+	Provider of a network platform that enables advertisers and agencies to expand their TV campaigns to the Internet. The company delivers video advertising across various platforms, such as mobile devices, TV screens and computers. It provides various tools that enable advertisers to reach, engage and persuade their audience.
+	['', 'network platform', ' ', 'online video advertising', ' ', 'advertising network', '']
+AdGrok
+	Provider of Internet advertising solutions for business owners. The company offers GrokBar, a Web-based platform that enables users to bid for keywords, compose text ads, and monitor traffic; and GrokBot, a Web spider that crawls into Websites looking for product pages and builds keyword campaigns.
+	['', 'Internet advertising', ' ', 'online advertising', ' ', 'text ad', ' ', 'online traffic', ' ', 'keyword campaign', ' ', 'keyword bidding', '']
+EyeWonder
+	Provider of online video and rich media advertising products and services. The company offers advertising formats including video and rich media, in-page to transitional, in-game to in-application, video ads, rich media ads, and custom site ads; and advertising features, such as video features, mobile features and creative features.
+	['', 'media advertising product', ' ', 'online video', ' ', 'rich media advertising', '']
+Webnext
+	Operator of an online publisher and advertising network. The company offers networking services to publishers and advertising industry.
+	['', 'advertising network', ' ', 'networking service', ' ', 'publisher web', '']
+Kontera
+	Provider of an in text advertising and information. The company provides ContentLink, an in text advertising service that identifies contextually relevant keywords on a publishers web page, as well as matches them to relevant advertisements and information. It offers intext pay per click and web site advertising service.
+	['', 'text advertising software', ' ', 'text engine', ' semantic']

@@ -1,12 +1,30 @@
-Base-2 Capital
-	Provider of an algorithmic electronic trading. The company offers state of the art trading systems that utilize advanced trading algorithms statistical analysis to make markets in domestic equity and equity derivatives. It uses intelligent algorithms and automation to simultaneously provide liquidity and manage risk across multiple products and exchanges.
-	['', 'algorithmic electronic trading', ' ', 'intelligent algorithm', ' ', 'risk management', ' ', 'equity derivative', '']
-Beacon Capital Strategies
-	Provider of an electronic trading platform for execution of mortgage and asset backed fixed income instruments. The company offers Trade Discovery, an electronic trading platform and a bid list application for creating, launching and monitoring multiple BWICs.
-	['', 'electronic trading', ' ', 'trading platform', ' ', 'fixed income instrument', '']
-Basis100
-	Provides business solutions to the mortgage lending community. The company’s lines of business included lending solutions for consumer credit, mortgage origination and processing, data warehousing and analytics solutions for automated property valuations, property data-warehousing, data products and analytics support, and capital markets solutions for fixed income trading.
-	['', 'financial services', '']
-Bondcube
-	Operator of a fixed-income trading platform. The company offers a platform for trading in fixed income sector of bonds while allowing traders to filter and search for the bond liquidity, as well as specific trades that match their requirements
-	['income ', 'electronic trading', ' ', 'trade online', '']
+EyeLock
+	Provider of identity management technology. The company provides identity authentication-focused systems for border control, logical access, global access control and other identity-management sectors.
+	['', 'iris biometric', ' ', 'security system', ' ', 'identity management', '']
+LifeLock
+	Provider of identity theft protection services, filed a registration statement with the US Securities and Exchange Commission. The company provides various serices that protect its users’ identity and personal information, as well as prevent users’ identity from being stolen.
+	['', 'identity theft', ' ', 'identity protection', ' ', 'security software', '']
+Symplified
+	Provider of identity infrastructure for the on demand market. The company provides KeyChain, which provides pre-integrated secure single sign-on for software-as-a-service (SaaS) and enterprise applications; Access, an identity and access management product for SaaS and Web applications; and Identity Cloud, which enables users to deploy identity infrastructure.
+	['', 'identity infrastructure', ' ', 'access management', ' ', 'SaaS', '']
+BioID
+	Developer of multimodal biometric-security systems. The company provides camera-based cloud recognition services to protect Internet and mobile users from identity  and data theft.
+	['', 'cloud authentication', ' recognition multifactor ', 'multimodal biometric authentication', ' ', 'face recognition', ' ', 'iris recognition', ' ', 'voice recognition', '']
+Vumber
+	Provider of anyphone, anytime, anywhere phone number that keeps users identity private. The company offers a number from any area code users want, to be linked to their home, cell, or work phone.
+	['', 'phone number', ' ', 'private identity', ' ', 'number connection', '']
+ID Analytics
+	Provider of identity risk and fraud management services in the United States. The company offers ID Score–Risk, which delivers on-demand identity intelligence across various points of customer contact, including online, call centers, mail and in-store interactions, ID Score–Action, which calculates an identity risk score, ID Score–Revenue that enables customer management decisions, ID Analytics for Compliance, a regulatory compliance solution that uses on-demand identity intelligence to support business processes and ID Analytics for Data Defense, which detects organized misuse of personal information due to lost hard drives, stolen laptops or illicit behavior by internal or external parties.
+	['', 'fraud management', ' ', 'on demand identity', ' ', 'identity risk score', ' ', 'identity intelligence', ' ', 'identity fraud', ' ', 'identity protection', ' ', 'regulatory compliance', ' ', 'customer management decisions', '']
+Applied Identity
+	Provider of identity aware netowrk security solutions. Also a provider of audit and compliance, asset protection, network level user and group separation and identity virtualization solutions.
+	['', 'identity network solution', ' ', 'security solution', ' ', 'identity store', ' ', 'network enforcement solution', '']
+OpenTrust
+	Provider of software and cloud security services. The company provides software products to governments, financial institutions, enterprises and citizens for managing digital identities and securing electronic transactions and documents. It provides digital identity such as corporate, citizen, object and cert identity, digital signature and digital transaction for secure exchange of documents and transactions with complete traceability.
+	['', 'security software', ' ', 'digital identity', ' ', 'digital signature', ' ', 'cloud security', '']
+Taviz Technology
+	Provider of integration software that automates the development and management of intelligent adapters and connectors. The company offers applications that enables users to deploy and manage integrated applications cost.
+	['', 'integration software', ' ', 'intelligent adapters', ' connectors']
+Movirtu
+	Provider of identity services for mobile operators. The company offers a virtual SIM based service that enables multiple numbers to be active on a single standard SIM card.
+	['', 'telecommunications service', ' ', 'mobile technology', ' ', 'wireless service', '']

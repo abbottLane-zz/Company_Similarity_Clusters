@@ -1,51 +1,42 @@
-Lookcraft
-	Retailer of curated men\'s apparel and accessories. The company provides men with clothing and accessories suggestions based on the preferences that are selected through the company\'s website, which it then sells as a package to the customer.
-	['', 'discovery commerce', ' curated ', 'mens apparel', '']
-Koodos
-	Retailer of apparel and accessories. The company specializes in selling online excess inventory and end of season stock for various brands.
-	['', 'stock clearance sale', ' ', 'online shop', ' ', 'discount fashion store', '']
-Styletread
-	Online retailer of shoes in Australia. The company is a multi-brand retailer of shoes for men, women and children. Its products include fashion footwear, dress shoes, athletic footwear and boots.
-	['', 'online shoe store', ' ', 'athletic footwear', ' ', 'formal shoes', ' ', 'fashion footwear', '']
-Wicked Quick Industries
-	Designer and manufacturer of apparel for men and women. The company\'s brand is available in top specialty lifestyle accounts and over 150 specialty stores across the United States.
-	['lifestyle ', 'outerwear and apparel', ' fabrics']
-Zeal
-	Provider of eyewear. The company offers sunglasses, goggles and RX eyewear for men, women and athletes. The company also offers HD camera goggles for documenting adventures.
-	['eyewear ', 'HD camera', '']
-MyBrands
-	Provider of an e-commerce clothing outlet. The company provides clothing for both men and women and offers a variety of designer brands. It also sells shoes and accessories.
-	['', 'designer clothing', ' ', 'e commerce', ' ', 'mobile shopping', '']
-The Fab Shoes
-	Provider of online retail of women\'s shoes, accessories and other personalized style items in Europe. The company provides an e-fashion club which features collections of shoes and accessories. It\'s designers prepare a personalized recommendation of trendy accessories that is adapted to the client\'s  style and advises them how to combine them.
-	['', 'online shopping', ' ', 'internet shopping', ' ', 'personalized style item', '']
-Brands4friends
-	Provider of fashion and lifestyle products. The company offers an online shopping club for various brands from the fashion and lifestyle sector. It provides clothes, shoes, accessories, cosmetics, home and living products.
-	['', 'online shopping services', ' ', 'lifestyle products', ' ', 'e-commerce', ' ', 'lifestyle product', ' ', 'shopping club', '']
-Build A Bear Workshop
-	Provider of a storefront workshop where customers create their own teddy bear. The Company provides various types of animals to be stuffed; clothing, shoes and accessories for the stuffed animals and other appropriate toy and accessory items.
-	['', 'storefront workshop', ' ', 'teddy bear', ' ', 'stuffed animal', ' ', 'accessory item', '']
-M2M Fashion
-	Retailer of customized clothing and accessories. The company through its website sells men\'s personalized garments through an online self-surveying process.
-	['', 'fashion accessories', ' ', 'personalized garments', ' ', 'customized clothing', ' ', 'self-surveying process', '']
-Quincy Apparel
-	Designer of woman apparel. The company combines bespoke and ready-to-wear by rethinking traditional clothing sizes allowing women to shop by bust, body shape and height.
-	['', 'professional apparel', ' ', 'online clothing', ' ', 'online apparel', ' ', "women\\'s apparel", ' ', 'professional wear', '']
-6pm.com
-	Provider of an online outlet for discount shoes, clothing, bags, and accessories. The company sells shoes, sandals, boots, slippers, clearance clothing, handbags, backpacks, travel bags, briefcases, watches, sunglasses, jewelry, hats, scarves, gloves, socks, belts, wallets, and electronics.
-	['', 'clothing bag', ' watch scarf glove electronic briefcase wallet']
-Vipventa
-	Provider of an e-commerce platform for fashion and luxury products. The company is a Spain-based retailer of apparel and accessories for men, women and children.
-	['', 'e-commerce', ' kinga ', 'disney pictures', '']
-Mon Showroom
-	Retailer of fashions for men, women and children. The company is an online retailer of French-inspired clothing and accessories.
-	['', 'fashion retail store', ' ', 'ready to wear', ' ', 'women trend', '']
-Meemi
-	Provider of luxury fashion for men and women. The company operates a website that offers various types of clothes, shoes, bags, accessories and designer wears.
-	['', 'luxury fashion', ' ', "women\\'s clothing", ' ', 'designer wear', '']
-Brandalley
-	Operator of an online outlet. The company markets a selection of items at a discounted price, which include clothing, shoes, accessories, leather goods, furniture, jewelry and homeware from past collections, surplus stocks or cancelled orders.
-	['', 'online outlet', ' ', 'online retail shopping', ' ', 'leather good', '']
-Tannerie de Villefranque
-	Operator of a leather processing company. The company engages in tanning, dressing and dyeing of leather. It offers various types of leather for shoes, accessories and furniture industries.
-	['leather ', 'leather tanning', ' ', 'leather dressing', '']
+Affinity Payments
+	Provider of payment platform. The company provides electronic payment services to merchants and partners.
+	['', 'payment platform', ' ', 'electronic payment', ' ', 'online payment', '']
+Piano media
+	Provider of payment services to the media publishing industry. The company enables publishers to monetize web content without fear of losing either website advertising revenue or audience share.
+	['', 'payment service', ' ', 'web content', ' ', 'paid content', '']
+Up & Net
+	Provider of e-payment services to e-merchants. The company creates private e-payment programs. The company provides e-gift card programs which are accepted by e-merchants. E-giftcards are re-materialized for distribution in convenience store.
+	['', 'e-payment', ' ', 'e-giftcard', ' ', 'e-commerce', '']
+Beijing Tong Technology Development
+	Provider of electronic payment applications and services. The company supplies payment cards for the public transportation system in China.
+	['', 'virtual payment', ' micro-payment ', 'payment services', '']
+Billpoint
+	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
+	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
+Starfish Holdings
+	Operator of a personalized marketing and payments platform for retailers. The company provides its payment platform for use by grocery chains, drug chains and big box retailers, as well as neighborhood merchants and restaurants.
+	['', 'payment service', ' ', 'payment platform', ' ', 'online transaction', '']
+Balanced
+	Provider of a payment system for marketplaces. The company allows marketplaces to charge cards, escrow funds and collect their marketplace fees.
+	['', 'payment system', ' ', 'online payment', ' ', 'escrow fund', ' ', 'marketplace fee', '']
+Tempo Payments
+	Provider of payment technology for debit card related technologies. The company offers Tempo Debit, a solution that enables ACH-based decoupled debit programs for issuers.
+	['', 'payment technology', ' ', 'debit program', ' ', 'transaction processing', ' ', 'decoupled debit card', '']
+Clareon
+	Provider of electronic payment platform for businesses. The company develops PayMode platform that enables businesses to send and receive electronic payments, along with detailed remittance information, to and from suppliers and customers.
+	['', 'electronic payment', ' ', 'online transaction', ' ', 'electronic business payment', ' ', 'payment software', '']
+PropertyBridge
+	Developer of electronic payment processing solutions for the real estate management industry. The company provides payment types such as credit and debit card, automated clearing house, check scanning, cash payment and lockbox.
+	['', 'electronic payment', ' ', 'payment processing', ' ', 'real estate management', ' ', 'automated clearing', ' ', 'payments platform', '']
+Absolute Commerce
+	Developer of an electronic payment tool. The company provides a way to integrate organization’s payment systems with supplier catalogs.
+	['', 'electronic payment', ' ', 'electronic procurement', ' ', 'enterprise resource management', ' ', 'supplier enablement', ' ', 'price auditing', '']
+Works
+	Provider of commercial credit card management and optimization technology.The company provides a Web-based platform that connects payment-management automation with the global Visa payment network.
+	['', 'credit card management', ' ', 'credit card service', ' ', 'electronic payment', ' ', 'payment policy', '']
+Allcharge
+	Provider of e-payment services. The company is a global Internet payment-service provider offering merchants and content owners e-payment, billing and processing technologies and services.
+	['', 'digital content', ' ', 'electronic network', ' ', 'internet payment system', ' e-wallet']
+99Bill
+	Provider of independent third-party payment services in China. The company offers electronic payment services to enterprises and individuals. It also supports payment via international cards, such as VISA and MasterCard; and services domestic and international bank cards.
+	['', 'third party payment', ' ', 'electronic payment', ' ', 'electronic fund transfer', '']

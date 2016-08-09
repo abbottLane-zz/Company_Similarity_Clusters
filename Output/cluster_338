@@ -1,21 +1,24 @@
-Allerez
-	Provider of web-based information, real-time and disparate data sources. The company integrates disparate data sources in real-time, providing user-centric reporting and analytics.
-	['', 'web based information', ' ', 'real time data', ' ', 'disparate data source', ' ', 'centric reporting', ' ', 'reporting analytic', '']
-TopTier Software
-	Provider of enterprise information portals and products that unify information residing throughout an organization\'s computing systems. The company provides software platform that integrates corporate data residing in a company and its business partners enterprise applications, databases, text documents, web sites and other data sources and allows end users to directly access, navigate and manipulate this data through a corporate portal which serves as a common user interface for the company.
-	['', 'enterprise database', ' ', 'portal software', ' ', 'ebusiness portals', ' database']
-Neovest
-	Developer of proactive intelligent technology solutions. The company provides technology that allows buy and sell-side communities to leverage an integrated suite of pre-trade analytics and order entry functionality to achieve best execution within today’s fast-paced and fragmented electronic markets. The company provides products and technologies that enable fast and efficient delivery of market data from multiple sources and drive real-time data analysis and decision support.
-	['', 'software technology', ' ', 'broker-neutral financial technology', '']
-Punch
-	Provider of an application content management system (ACMS). The company can update Application content in real time, providing a publishing environment without the need of programmers.
-	['', 'publishing environment', ' ', 'management system', ' ', 'application content management', '']
-Enviro Global
-	Provider of real estate-related and marketing information databases. The company develops advanced data compilation, transformation and delivery technology designed to transform and distribute substantial amounts of information from disparate sources. They provide information through Internet licensing agreements and under long-term service contracts to multiple listing services, realtor associations, and other information companies located primarily in the eastern United States.
-	['', 'data compilation', ' ', 'marketing information', '']
-Ripfire
-	Developer of integration software. The company integrates search, personalization, categorization and marketing analytics into a single, real-time data for e-commerce and content sites.
-	['', 'integration software', ' ', 'marketing analytics', ' ', 'web analytics', '']
-nQuire Software
-	Provider of the internet-based search and analytic platform for structured information. The company server accesses the data warehouses and intelligently federates information from multiple systems and data sources including data warehouses, data marts, operational, transactional and XML-based sources.
-	['', 'analytic platform', ' ', 'server access', ' ', 'data warehouse', ' ', 'data mart', ' ', 'xml source', '']
+ARC International (Peripheral Connectivity Business)
+	Supplier of peripheral connectivity solutions.
+	['', 'connectivity solution', '']
+Atrionix
+	Developer of catheter-based system for the treatment of atrial fibrillation. The company has developed several patented medical devices which will eliminate the need for surgical intervention in the treatment of atrial fibrillation. It provides a permanent cure for AF patients.
+	['', 'catheter-based system', ' ', 'atrial fibrillation', ' ', 'medical devices', '']
+Small Bone Innovations (Ankle Replacement System & Other Assets)
+	The company provides ankle replacement system. The unit offers a portfolio of products and technologies to treat trauma and diseases in the small bones & joints.
+	['ankle ', 'replacement system', ' ', 'surgical device', '']
+OmniSonics Medical Technologies
+	Developer of medical devices used in the treatment of vascular occlusive diseases. The company offers OmniWave Endovascular System, which is a catheter-based thrombectomy device that uses transverse ultrasound technology to remove thrombus and improve the dispersion of physician specified fluids in the peripheral vasculature.
+	['', 'vascular occlusive treatment', ' ', 'thrombectomy device', ' ', 'ultrasound technology', '']
+Atheromed
+	Provider of catheter based medical devices for the treatment of peripheral artery disease (PAD). The system is designed to treat vessel diameters from the small vessels at the ankle up to the larger vessels located above the knee.
+	['', 'peripheral arterial disease', ' ', 'atherectomy device', ' ', 'catheter based device', ' peripheral']
+Lemaitre Vascular
+	Provider of innovative devices for the treatment of peripheral vascular disease. The company\'s products include EndoFit Thoracic Stent Graft used for the repair of thoracic aortic aneurysm and dissection, UniFit Abdominal Stent Graft for abdominal aortic aneurysm, VascuTape Radiopaque Tape for the improvement of endovascular procedures, and AnastoClip Vessel Closure System for the attachment of blood vessels, primarily for dialysis access. It\'s product portfolio also comprises of LeMaitre Balloon Catheters for the removal of blood clots, occlusion, and facilitation of blood flow, Reddick Cholangiogram Catheter for the introduction of dye into the cystic duct, and OptiLock Implantable Port, a central venous infusion of drugs and nutrients.
+	['']
+Vard Brevik Holding
+	Operator of a shipbuilding company. The company constructs offshore and specialized vessels used in the offshore oil and gas exploration, production and oil services industries. It develops vessels such as LNG-powered ferries, naval and coast guard vessels, fishing vessels and non-offshore related icebreakers.
+	['shipbuilder vessels ', 'oil and gas exploration', ' ', 'LNG-powered ferries', ' ', 'fishing vessels', '']
+MicroVention
+	Developer of catheter-based technologies for the endovascular treatment of peripheral and cerebral vascular diseases. The company offers HydroCoil Embolic System, an endovascular embolization device combining platinum microcoil technology for the treatment of fistula and peripheral vascular aneurysms; and MicroPlex Coil System, which is an embolization device that include framing, helical filling, and finishing coils for use in various types of aneurysm morphologies.
+	['', 'catheter based technology', ' ', 'cerebral vascular treatment', ' ', 'healthcare service', ' ', 'endovascular treatment', ' ', 'endovascular embolization device', '']
