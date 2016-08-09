@@ -6,27 +6,4 @@ To run the program:
 2. Make sure a folder named "Data" lives at the project root, and in "Data/input_file.csv", where "input_file.csv" is a data file of the expected format (not included here on github)
 3. Type "python3 run_company_recommender.py"
 4. Follow the prompt and type in one of the company names from the input data file. 
-
-For example:
-
-Please type the name of a company (or type 'q' to quit): <------program prompt
-
-Microgon <----this is what you type
-
-Similar Companies: [
-
-Alpha Membrane : 0.772669822503
-
-fluXXion : 0.811542176181
-
-Clean Filtration Technologies : 0.878610443091
-
-Intelligene : 0.881296033412
-
-KA Electronik : 0.981061594931
-
-Celetronix India : 0.987207561355
-
-]
-
-Note that the similar companies also report their cosine spatial distance from the queried company. 
+5. A list of most similar companies will be displayed in order from most similar to least. Note that the cosine spatial distance from the queried company is also reported. 
