@@ -1,5 +1,5 @@
 # Company_Similarity_Clusters
-This program takes information about different companies and clusters them using K-means. You can then query the program to find companies similar to the one you provide.
+This program takes information about different companies and clusters them using K-means. You can then query the program to find companies similar to the one you provide. The output is ranked by similarity to the queried company using cosine spatial distance metric, so the first item in the list will have the smallest similarity score, meaning it is the most similar instance in the cluster.
 
 To run the program:
 
