@@ -30,7 +30,7 @@ class CompanyRecommender:
         print("n_samples: %d, n_features: %d" % X.shape)
 
         # Initialize K-means algorithm preferences
-        self.km = KMeans(n_clusters=self.k, init='k-means++', max_iter=100, n_init=1, verbose=True)
+        self.km = KMeans(n_clusters=self.k, init='k-means++', max_iter=100, n_init=1, verbose=False)
 
         # Use k-means to generate clusters
         self.km.fit(X)
