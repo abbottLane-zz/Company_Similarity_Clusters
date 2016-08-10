@@ -1,12 +1,21 @@
-Deal Mates
-	Operator of an online shopping mall in Malaysia. The company as an online flash sales website which offers clothing, handbags, jewelry, watches, shoes and accessories.
-	['', 'shopping mall', ' handbags watches']
-Casabu
-	Operator of an online flash sales site. The company focuses on maternity and child products including clothing, toys, nursery equipment, maternity gear and treats for mothers.
-	['', 'online flash sales', ' ', 'online site', ' ', 'online store', ' ', 'children’s brand', '']
-6pm.com
-	Provider of an online outlet for discount shoes, clothing, bags, and accessories. The company sells shoes, sandals, boots, slippers, clearance clothing, handbags, backpacks, travel bags, briefcases, watches, sunglasses, jewelry, hats, scarves, gloves, socks, belts, wallets, and electronics.
-	['', 'clothing bag', ' watch scarf glove electronic briefcase wallet']
-Vipshop
-	Provider of flash sales website. The company provides new sales events with foreign and domestic brand name clothing, accessories, cosmetics and designer household items at discounted prices in a limited time sales format.
-	['', 'flash sale', ' ', 'limited time sale', '']
+Webupdate
+	Provider of internet consulting. The company specializes in the maintenance, updating and development of websites, extranets and intranets.
+	['extranets intranets ', 'web maintenance', '']
+CityReach International
+	Provider of telecommunications, data communications, internet and web hosting services. The company provides services such as network provisioning, support, bandwidth management, network monitoring, and disaster recovery services.
+	['', 'internet software', ' ', 'bandwidth management', ' ', 'web hosting', '']
+Class Data Systems
+	Developer of software used for bandwidth management. The company\'s clientele includes organizations using the Internet, Intranets and other dedicated networks.
+	['', 'software development', ' ', 'internet management', ' ', 'bandwidth control and management', '']
+Stargus
+	Provider of network and service analysis, and control solutions for cable broadband networks. The company offers CableEdge product suite that provides bandwidth management, network optimization, and service assurance to broadband operators.
+	['', 'network anaylsis', ' ', 'service analysis', ' ', 'bandwidth management', ' ', 'network optimization', ' ', 'service assurance', '']
+ChanneLogics
+	Operator of software development company. The company designs bandwidth software for cable networks. The company provides solutions to cable service providers that enable them to optimize their systems by increasing the use of the total bandwidth.
+	['', 'bandwidth management software', ' ', 'cable network', ' real-time']
+Operax
+	Provider of products for dynamic service and bandwidth control. The company offers dynamic resource and admission control product for single service deployments.
+	['', 'bandwidth management', ' ', 'internet protocol network', ' ', 'Connectivity Product', '']
+CableMatrix Technologies
+	Provider of policy management software platforms and tools. The company enables service providers to deploy the internet services and offers on demand service platform (ODSP) policy server that enables bandwidth management on a per customer and per application basis.
+	['', 'bandwidth management', ' ', 'internet application', ' ', 'service provider', '']

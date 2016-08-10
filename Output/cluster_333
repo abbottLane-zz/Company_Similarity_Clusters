@@ -1,9 +1,27 @@
-Cyrba
-	Manufacturer of whirlpool components. The company offers control systems, heaters, regulating valves, pop ups, light therapy, level sensors, air pumps and water pumps.
-	['', 'control systems', ' valves ', 'air pumps', '']
-Intrexon
-	Developer of biotherapeutic control systems. The company\'s technology involves the use of DNA as the natural control modality for the delivery, targeting, activation, regulation and location of biological therapeutics.
-	['', 'biotherapeutic control system', ' ', 'synthetic biology', ' ', 'biotechnology', ' ', 'DNA control systems', '']
-Aeronamic
-	Provider of products and services to the aerospace industry. The company offers airflow valves, air turbine starters, centrifugal load compressors, cooling turbines and re-circulation fans among other products. It also offers maintenance, repair and overhaul services.
-	['', 'aircraft components', ' ', 'aerospace industry', ' ', 'airflow valves', ' ', 'air turbine starters', '']
+Evomote
+	Provider of content discovery services. The company develops an online platform that helps in offering content discovery and recommendation services.
+	['', 'content discovery services', ' ', 'content platform', ' ', 'recommendation services', '']
+Loomia
+	Provider of content recommendation services.
+	['', 'content recommendation', ' ', 'recommendation service', '']
+Youlicit
+	Operator of a web content recommendation engine. The company allows users to discover the web via personalized recommendations based on users interests and enables to find other users interested in the same topics.
+	['', 'web content', ' ', 'recomendation engine', ' ', 'personalized recommendations', '']
+VendorCity
+	Operator of a business-to-business recommendation Website.
+	['', 'referral service', ' ', 'business referral', ' ', 'business recommendation', '']
+RentWiki
+	Developer of peer review and recommendation website. The company provides rental search with user-generated content, neighborhood reviews and the ability for renters and locals to talk to each other as well as pros and cons about various areas.
+	['', 'reviewed rental site', ' ', 'recommendation website', ' ', 'rental search', ' ', 'user generated content', '']
+Once Again Me
+	Provider of comprehensive reports that represents business\'s financial obligations. The company also provides credit limit recommendation, background information and more data elements than other reports.
+	['', 'financial obligation', ' ', 'fraud screening', ' ', 'limit recommendation', ' recommendation']
+Minekey
+	Provider of online content discovery and recommendation services. The company offers a social platform enabling users to share and recommend their online discoveries.
+	['', 'content discovery', ' ', 'recommendation service', ' ', 'online recommendation', '']
+Scoville
+	Provider of location-based recommendation engine. The company discovers at least one place every week and shares them on their website.
+	['', 'Recommendation engine', ' ', 'discovery platform', ' location']
+Sosh
+	Provider of a personal concierge and offline activity recommendation application. The company provides its recommendations by in-taking all sorts of local listings information and targeting users based on their behavior, friends, stated interests, neighborhood and demographics.
+	['', 'algorithmic recommendation', ' ', 'data analysis', ' ', 'personal recommendation', ' ', 'social networking platform', ' ', 'recommendation application', '']

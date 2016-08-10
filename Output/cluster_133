@@ -1,18 +1,12 @@
-NOXA Holdings
-	Manufacturer of satellite GPS asset-tracking and messaging products. The company\'s products include SMARTONE that is used to track assets specific needs and provide intermediate and emergency alerts by email and/or text or cellular; AXTracker STX2 Satellite Transmitter, an industrial-use satellite transmitter; AXTracker MMT, a wireless device with multiple sensors and Globalstar Satellite System, a constellation of low earth-orbiting satellites that relay messages to ground stations to provide GPS location data.
-	['', 'gps tracker', ' ', 'satellite gps', ' ', 'tracking device', ' ', 'messaging product', ' ', 'email alert', ' ', 'satellite transmitter', ' ', 'wireless device', ' ', 'satellite system', '']
-Hughes Network Systems
-	Provider of broadband satellite networks and services to large enterprises, governments, small businesses, and consumers. The company offers satellite based communications services and equipment that utilize very small aperture terminals (VSATs) to distribute signals via satellite. It also offers satellite-based enterprise and consumer networks, mobile satellite networks and terminals, and broadband LMDS point-to-multipoint systems.
-	['', 'broadband satellite', ' ', 'satellite network', ' ', 'communications service', '']
-NordNav Technologies
-	Developer of Global Navigation Satellite System receivers.
-	['', 'Global Navigation', ' ', 'Navigation Satellite', ' ', 'Satellite System', ' ', 'satellite receivers', ' ', 'navigation system', ' GPS ', 'galileo navigation', '']
-Pendrell
-	Provider of corporate intellectual property services and litigation insights. The company is a next-generation MSS operator authorized to offer MSS throughout the United States using a GEO satellite.
-	['', 'mobile satellite', ' ', 'GEO Satellite', ' MSS']
-SkyWave Mobile Communications
-	Provider of satellite communication and airtime services. The company provides satellite and satellite-cellular terminals, applications, network and professional services for mobile and fixed remote industrial tracking, monitoring, control and management.
-	['', 'satellite communication', ' ', 'satellite-cellular terminal', ' ', 'remote industrial tracking', '']
-Altamira Information
-	Provider of ground satellite image analysis services. The company provides round movement measurements with millimetric precision and mapping applications using satellite images. It offers ground motion and mapping products to major industry sectors like oil and gas, infrastructure, mining, insurance, environment, natural hazards, research and space.
-	['', 'ground satellite', ' ', 'image analysis', ' ', 'satellite image', ' ', 'mapping product', ' ', 'ground motion', ' infrastructure mining']
+ProfitLine
+	Provider of telecom expense and mobility management services.
+	['', 'telecom expense', ' ', 'mobility management', ' ', 'expense management', '']
+Quickcomm Software Solutions
+	Provider of telecom and mobility management solutions for multinational enterprises, integrators, outsourcers and carriers. The company offers Enterprise Telecommunications Expense Management Solution that provides automatic reconciliation of telecom bills down the line-item level.
+	['', 'mobility management', ' ', 'telecom management', ' ', 'telecom infrastructure', '']
+Trust Digital
+	Provider of enterprise mobility management technology and security software for government organizations and various companies. The company offers its services to secure, deploy, and manage smartphones for information technology organizations. It also offers EMM Console, a browser-based software to centrally manage the different smartphones used by mobile workers, as well as to provide policy management tools, reporting capabilities and compliance enforcement facilities to secure smartphones and ruggedized devices.
+	['', 'enterprise mobility management', ' ', 'smartphone management', ' ', 'policy management tool', ' ', 'compliance enforcement', '']
+Alternis
+	Provider of software services for telecom data processing. The company provides prepackaged software for electronics and telecom industries.
+	['', 'telecom data processing', ' ', 'telecom software', ' ', 'real time proceesing', '']

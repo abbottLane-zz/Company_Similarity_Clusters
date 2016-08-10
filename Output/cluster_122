@@ -1,15 +1,54 @@
-MapSense
-	Provider of a mapping technology. The company provides a wide range of services in order to create an infrastructure for maps.
-	['', 'mapping technology', ' ', 'machine learning', ' ', 'data-driven map', '']
-Platial
-	Provider of user-created social-mapping Websites. The company enables users to find, create, and use meaningful maps of places.
-	['', 'social mapping Website', ' ', 'map creation', ' ', 'social network', '']
-VisionMap
-	Provider of digital automatic aerial survey and mapping systems. The company develops technologies for aerial 3D mapping and photography for civilian and military uses.
-	['', 'aerial survey', ' ', 'mapping system', ' ', '3D mapping', ' photography']
-HylioSoft
-	Developer of web mapping applications. The company offers an application which allows users to create, manage and publish online maps without any knowledge of programming.
-	['', 'web mapping', ' ', 'online map', ' ', 'rich internet applications', ' RIA']
-Appilog
-	Provider of auto-discovery and application mapping software. The company\'s products mapped the relationships among applications and their underlying infrastructure.
-	['', 'auto discovery', ' ', 'application mapping', ' ', 'mapping software', '']
+FYIQuest
+	Developer of an internet-based system that provides customized content to physicians\' offices. The company provides systems that puts portable touchscreen computers in doctors\' waiting rooms through which idle patients can access information and see advertisements.
+	['', 'prescription advisory', ' ', 'health information', ' treatment clinics ', 'healthcare advertising', '']
+ShowBiz Data
+	Provider of a B2B portal for the global entertainment industry. The company provides detailed information about the film industry by capturing domestic and international box office news.
+	['', 'media information', ' ', 'BRB portal', ' ', 'box office', '']
+bla-bla.com
+	Provider of a low cost method for establishing as a content-rich Internet portal. The company was positioned to capitalize on the growing demand for online destinations that allow users to develop their own identities and establish relationships with other Internet users.
+	['', 'portal', ' ', 'website developer', '']
+Elite Daily
+	Provider of online portal to receive information and original content on subjects created by their peers. The company provides and updates about music, health and beauty, dating, celebrities, travel destinations and culture.
+	['', 'online news', ' ', 'online information portal', ' ', 'cultural news website', '']
+Medico.com
+	Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.
+	['', 'health care information', ' ', 'health information portal', ' ', 'online health portal', '']
+Oceania
+	Provider of electronic medical records software. The company aims to maintain patient records electronically to create a comprehensive health care information system. They offer NeXT machines, Unix, the legal chart, Objective-C, C, SUN servers to develop computer human interface and a database for the clinical environment.
+	['', 'medical record', ' ', 'electronic medical record', ' ', 'health care information system', ' ', 'healthcare information system', '']
+Health and Productivity Corporation of America
+	Provider of health care management services. The company provides a continuum of care management services integrating health management, disease management, complex care management, disability management, workers\' compensation management and case management services.
+	['', 'health care management', ' ', 'health care service', ' ', 'disease management', ' ', 'complex care', ' ', 'disability management', '']
+NetMedical
+	Provider of e-health products and services. The company provides telemedicine products and services for hospitals, home care providers and clinical research organizations.
+	['imodem e-health telemedicine ', 'telemedicine solutions', ' ', 'hospital care', '']
+Join Sessions
+	Developer of mobile platform for personal coaching for regular physical exercises. The company offers a platform that tracks behavioural health and health programs to help people improve their fitness and lose weight.
+	['', 'wellness health program', ' ', 'track behavioral health', ' ', 'regular physical exercise', ' ', 'mobile platform', '']
+K-Mobile
+	Provider of an online portal. The company provides an online portal to its customer to download ringtones and games via short messages (SMS).
+	['', 'online portal', ' ', 'download ringtone', ' ', 'download game', '']
+PassportMD
+	Provider of consumer-directed healthcare and personal health records (PHR) industry. The company helps individuals keep track of all facets of their family’s health and wellness including personal health records and documentation, doctor communication, pharmacy and expenses.
+	['', 'health industry', ' ', 'healthcare record', ' ', 'doctor communication', ' ', 'health record', '']
+Quevita
+	Provider of a social network and pre-medical marketplace. The company offers an individual cockpit to optimize the quality of life by services such as individual sports planners and a body coach for nutrition and diets.
+	['', 'health advice', ' ', 'online health', ' ', 'online health community', ' ', 'health advisory', ' ', 'online health advisory', '']
+Eisai Company
+	Eisai is a healthcare company, which provides prescription pharmaceuticals, consumer health care products, and diagnostics services.
+	['']
+Integrative Medicine Communications
+	Provider of science-based information on wellness and alternative medicine to health care professionals. The company offers information services to healthcare professionals, consumers and executives to combine the conventional and alternative medicine for healthcare.
+	['', 'health care', ' ', 'medical information', ' ', 'health information', ' ', 'wellness medicine', '']
+MIKESTAR
+	Operator of an online karaoke portal. The company specializes on building up an active community through social networks, gaming and mobile applications, that enable its users to sing songs, record their performance via webcam and let others evaluate these movies.
+	['karaoke ', 'karaoke portal', ' singing songs ', 'record vocals', '']
+MyFitnessPal
+	Provider of a health & fitness mobile application and online community. The company provides a free database of food and exercises, top fitness technology partners, community support, insights, and access to personal health information across all major platforms.
+	['', 'fitness tracking', ' ', 'personal trainer', ' ', 'health community', ' ', 'exercise health fitness', ' ', 'fitness app', ' ', 'health tracker', ' ', 'health app', '']
+HealthSouk
+	Developer of an online health care network. The company provides its users with access to health care providers offering treatments and procedures. It provides a platform where patients can ask questions, receive answers, search for procedures and directly purchase procedures while comparing price and quality in an easy to understand manner.
+	['', 'health care provider', ' ', 'online treatment', '  ', 'health care network', '']
+HealthPocket
+	Provider of a web portal enabling consumers health-insurance plans in their local area. The company provides a Web service that combines a health care plan\'s quality ratings from government and non-profits, with the company\'s own ranking system.
+	['', 'health insurance plan', ' comparison ', 'health claim', '']

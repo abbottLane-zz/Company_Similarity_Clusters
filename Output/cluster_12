@@ -1,15 +1,48 @@
-Basis100
-	Provides business solutions to the mortgage lending community. The company’s lines of business included lending solutions for consumer credit, mortgage origination and processing, data warehousing and analytics solutions for automated property valuations, property data-warehousing, data products and analytics support, and capital markets solutions for fixed income trading.
-	['', 'financial services', '']
-HipType
-	Provider of a platform for data-driven book publishing. The company gathers data from ebook-readers and provides analytics and demographics to authors and publishers.
-	['', 'eBook platforms', ' ', 'date analytics', ' ', 'demographics', ' ', 'book performance', '']
-Aster Data Systems
-	Provider of parallel processing databases for data warehousing and analytics. The company provides analytics, data loading performance, data growth, query performance, administration, scaling solutions, self-management, analytics center, analytic data pipeline discovery, educational, sales engineering, consulting, support, training services.
-	['', 'data warehousing', ' ', 'analytics solution', ' ', 'sales engineering', ' ', 'data growth', ' ', 'data warehouse services', '']
-SocialExpress
-	Provider of social media analytics for data-driven marketers that create interactive reports online and via e-mail. The company allows executives to make better business decisions by helping teams tell stories with their data in minutes.
-	['', 'media analytics', ' ', 'interactive reports', ' ', 'data-driven', '']
-Prodea
-	Provider of data warehousing, decision support and application development software. The company\'s product helps in accessing and transforming raw data into useable, relevant information that can be shared throughout an enterprise.
-	['', 'data transformation', ' ', 'data access', ' ', 'decision support', ' ', 'data warehousing', ' ', 'application development software', '']
+Naratte
+	Developer of wireless technology. The company develops Zoosh, a technology that provides benefits of near-field communication based on ultrasonic technology, utilizing the speakers of mobile devices.
+	['', 'wireless technology', ' ', 'ultrasonic technology', ' zoosh']
+SKY MobileMedia
+	Provider of application and platform software for wireless handset industry. The company provides multimedia technologies put into use in the iPhone OS which provides access to audio and video capabilities of the devices working on the OS. It provides softwares such as SKY-MAP, SKY-MMF, SKY-IMS, SKY-SYNC and SKY-VM which supports all wireless handset systems to operate.
+	['', 'multimedia technologies', ' ', 'platform software', ' ', ' iPhone', ' ', 'wireless handset', ' OS']
+Greenbox
+	Developer of a cloud-connected, smart irrigation system. The company has designed and developed a eco-friendly smartphone-controlled irrigation system which can replace existing AC irrigation controllers without requiring updates to existing infrastructure.
+	['', 'smart irrigation system', ' ', 'wireless application', ' ', 'wireless system', ' automation']
+Voyager Systems
+	Provider of secure data transmission services and wireless applications. The company\'s \'s flagship product, Voyager Query(TM), provides law enforcement personnel access to information in the course of field operations, quickly and securely, via a high-speed handheld device communicating over any wireless network.
+	['', 'data transmission service', ' ', 'wireless application', ' ', 'enterprise applications software', '']
+KidoZen
+	Developer of an enterprise mobility platform delivered completely as a service. The company offers a web-based software that helps companies to develop and manage wireless applications that integrate with existing business software programs.
+	['', 'enterprise mobility', ' ', 'wireless application manager', ' ', 'business software program', '']
+W5 Networks
+	Developer of wireless systems for the retail industry. The offers electronic shelf label (ESL) systems for displaying price information on retail shelves.
+	['', 'wireless system', ' ', 'electronic shelf label', ' ', 'wireless application', ' wifi ', 'wireless solution', '']
+2Roam
+	Provider of a Wireless Web Application Service. The company\'s solution is targeted at Web site businesses. The company provide Web site businesses with the products and services they require to extend their brand and revenue models to wireless users with functionality, usability and control.
+	['', 'wireless web application', ' ', 'wireless solution', ' ', 'web application service', '']
+Modesat Communications
+	Developer of point-to-point modem technology. The company offers modem technology products for wireless and wired communication applications.
+	['', 'modem technology', ' ', 'wired communication application', ' ', 'wireless communication application', '']
+CoTraveller
+	Developer of wireless applications. The company develops and implements end-to-end wireless applications.
+	['', 'wireless application', ' ', 'wireless technology application', ' ', 'application platform', '']
+Sentica
+	Provider and developer of wireless convergence solutions. The company provides universal application enabling infrastructure for mobile devices enabling communication between any application and any wireless device.
+	['', 'wireless convergence solutions', ' ', 'mobile device', '']
+Affarsstrategerna Think Tech Technologies
+	Provider of technical resource outsourcing management and consultancy services to the wireless industry. The company offers various services including business acceleration for companies entering the Asian market and helps in web strategy, web design, wireless strategy and project management.
+	['', 'wireless applications', ' ', 'high tech', ' ', 'tech consultant', '']
+Iqua
+	Developer of wireless accessories for mobile communications market. The company develops handsfree headsets and other mobile accessories for personal, active or professional use.
+	['', 'wireless accessory', ' ', 'handsfree device', ' headset']
+Red-M Group
+	Developer of wireless infrastructures for mission-critical applications. The company\'s wireless services are mainly used for airspace management through its approach called Total Airspace Management (TAM).
+	['', 'airspace management', ' ', 'wireless services', ' ', 'wireless infrastructure', '']
+Staccato Communications
+	Provider of ultra-wideband wireless technology for communication applications. The company is a fabless semiconductor company.
+	['', 'wireless technology', ' ', 'communication application', ' ', 'Internet protocol connectivity', '']
+4DK Technologies
+	Developer of interoperability services for wireless networks and devices. The company provides wireless technology products, professional and strategy services to telecom operators and infrastructure vendors.
+	['', 'interoperability service', ' ', 'wireless network', ' ', 'wireless device', '']
+Emperative
+	Provider of on-demand multi-vendor network and service provisioning products for access and optical, DSL, cable, and wireless networks. The company\'s products include ProvEn Optical that delivers end-to-end circuits and services over multi-vendor access, core, and long-haul networks, as well as supports SONET, dense wavelength-division multiplexing, Ethernet, and IP; ProvEn Cable for end-to-end self-provisioning and auto-provisioning of cable modem services; ProvEn CMX with integrated dynamic host control protocol capability for cable-centric IP address management; ProvEn DSL, which lets end-users self-provision broadband services and allocate bandwidth on demand in DSL environments; and ProvEn Wireless that delivers integrated provisioning within wireless environments with self-provisioning and bandwidth on demand.
+	['', 'multi vendor network', ' ', 'service provisioning product', ' ', 'network device management', '']

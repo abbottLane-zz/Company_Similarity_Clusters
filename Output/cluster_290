@@ -1,18 +1,48 @@
-Luminate
-	Provider of an Internet service that turns static images into engaging content. The company\'s platform enables consumers to mouse over images on their favorite websites to learn more and see related products.
-	['', 'web publisher', ' ', 'brand advertising', ' crowdsourcing ', 'online image', ' ', 'interactive content', '']
-Koodos
-	Retailer of apparel and accessories. The company specializes in selling online excess inventory and end of season stock for various brands.
-	['', 'stock clearance sale', ' ', 'online shop', ' ', 'discount fashion store', '']
-Unistar field of Science and Technology Co.
-	Operator of an online platform for stock photo transactions. The company offers various categories of images through a stock image marketplace in China.
-	['', 'photo transaction', ' ', 'stock image', ' ', 'image marketplace', ' images']
-OnRequest Images
-	Provider of custom imagery. The company creates original photography using its global network of professional photographers, providing corporations and creative agencies with images shot to their specifications at rights-managed stock prices. The company\'s Custom Stock libraries are designed to give enterprises the ability to build their brands with brand-aligned imagery for marketing use.The company also provides custom production capabilities to customers for an end-to-end commissioned  service.
-	['', 'stock photography', ' ', 'photography services', ' ', 'marketing products', '']
-CardioNow
-	Provider of web-based system for the transmission and analysis of medical images for hospitals, cardiovascular core labs and clinical trial sponsors. The company offers storing and sharing of patient images and data for cardiology community.
-	['', 'medical image analysis', ' ', 'patient image storing', ' ', 'medical image transmission', ' ', 'image archiving', ' ', 'health care information', '']
-LTU Technologies
-	Provider of scalable image recognition software. The company provides a software for content-based search, retrieval and classification of images and video.
-	['', 'scalable image', ' ', 'image recognition', ' ', 'image classification', '']
+Ixi Mobile
+	Developer of data centric wireless mobile devices and services for mass market users. The company provides end-to-end software and hardware reference designs which it claims creates a new category of mobile devices.
+	['', 'communication server', ' ', 'wireless communication service', ' ', 'mobile device', ' ', 'data centric', '']
+Nukona
+	Provider of mobile application management technologies. The company\' application center is an end-to-end mobile information management and security service, enabling enterprises to secure, deploy and manage native and web applications and content on corporate-owned and personal devices.
+	['', 'mobile application management', ' ', 'mobile information management', ' ', 'web applications', '']
+mimoOn
+	Developer of LTE software for mobile devices and wireless infrastructure. The company offers physical layer and protocol stack for small cells and terminals, advanced scheduler for small cells, self-organizing network support and IP development in the areas of advanced PHY algorithms on multi-core SDR platforms. It provides complete porting, optimization and verification service, as well as a roadmap to future 3GPP releases.
+	['', 'mobile device', ' ', 'wireless infrastructure', ' ', 'LTE software', '']
+Apptix
+	Provider of on-demand business communication services. The company is a provider of hosted business communication, collaboration, and information technology, with particular expertise supporting legal, financial, healthcare and telecom firms.
+	['', 'software developer', ' ', 'on-demand business communication', ' ', 'mobile messaging', '']
+Cambridge Silicon Radio (Mobile Business)
+	Developer of mobile chip and handset. The company provides technology for handset connectivity.
+	['', 'mobile chip', ' ', 'handset connectivity', ' handset']
+iKoa Corporation
+	Provider of semiconductor products for consumer mobile devices in the mobile communications, entertainment, and personal computer markets. The company involves in developing disruptive semiconductor array technology.
+	['', 'semiconductor product', ' ', 'mobile device', ' ', 'mobile communication', ' ', 'semiconductor array technology', '']
+MCC
+	Provider of mobile products and services in the Netherlands. The company is a retailer of mobile devices, including smart phones, tablets, navigation devices and accessories, and sells service descriptions for their use.
+	['', 'wireless communications', ' ', 'mobile devices', ' ', 'wireless services', '']
+Blurtt
+	Provider of a web based platform that conveys expressions, thoughts and feelings in a creative way. The company provides a mobile application that helps one to create and share a visual statement to express oneself. The company also offers photo-upload service, permitting users to send printed postcards of said photos to friends via mail.
+	['app expression ', 'mobile application', '']
+AdJitsu
+	Provider of mobile display advertisement.
+	['', 'mobile display advertisement', ' ', 'advertisement network', ' ', 'mobile application', '']
+MobileIron
+	Provider of a mobile IT platform to secure and manage mobile applications, documents and devices. The company’s cloud-based software enables end-users to access their applications and data anywhere on the device of their choice, as well as providing access security.
+	['', 'application management', ' ', 'document management', ' ', 'mobile device', ' ', 'mobile platform', '']
+ROAM Data
+	Developer of mobile application for tracking financial transactions. The company deliver real-time information and transactions to mobile professionals on their own mobile phones.
+	['', 'commerce gateway', ' ', 'mobile application', ' ', 'payment processor', '']
+TrustGo Mobile
+	Developer of free mobile security application. The company\'s application provides virus protection to find and eradicate applications that can compromise user\'s personal data and privacy. It allows mobile device users to search, monitor, detect and prevent harmful applications and protect mobile devices.
+	['', 'mobile security application', ' ', 'virus protection', ' ', 'personal data privacy', ' ', 'mobile device protection', ' ', 'melware detection', '']
+ipUnplugged
+	Developer of wireless networking products. The company develops networking products for network service providers and system integrators, that includes mobile service routers, client software and mobile service management applications, that integrate mobile networks such as GPRS and wireless LANs.
+	['', 'wireless networking', ' ', 'system integrator', ' ', 'mobile VPN', '']
+Airwide Solutions
+	Provider of mobile infrastructure software. The company\'s software enable mobile communications for wireless operators worldwide.
+	['', 'mobile infrastructure', ' ', 'wireless communication', ' ', 'mobile communication', '']
+Openera Technologies
+	Provider of mobile application handset services for converged mobile networks. The company enables the delivery of various multimedia IP communication services on mobile devices.
+	['', 'mobile application', ' ', 'mobile service', ' ', 'multimedia IP communication', ' ', 'mobile device', '']
+Jibe Mobile
+	Provider of cloud-based communication services. The company provides open technology platform that provides an open end-to-end technology platform enabling carriers to rapidly launch and commercially scale the most innovative IP communication services to mobile consumers.
+	['', 'communication service', ' ', 'cloud communication', ' ', 'telephony platform', '']

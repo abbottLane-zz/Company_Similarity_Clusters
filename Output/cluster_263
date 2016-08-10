@@ -1,6 +1,21 @@
-EcoMom
-	Operator of an online shopping portal that recommends and sells eco-conscious products for children. The company offers baby care, holiday, bath and body, feeding and nursing, and health and wellness products, as well as organic baby food, toys, books, clothing and gifts.
-	['', 'online shopping portal', ' ', 'eco conscious product', ' ', 'baby care product', '']
-Heverest.ru
-	Operator of an online shopping portal. The company provides clothing, footwear, bags and backpacks, sports and outdoor tourism equipment and accessories.
-	['', 'sporting goods', ' ', 'consumer durables', ' ', 'shopping portal', '']
+Synterra
+	Provider of telecommunications service in Russia. The company\'s WiMax service provides offices with internet access and joins local area networks without cable lines.
+	['', 'telecommunications services', ' ', 'local area networks', ' ', 'internet access', '']
+Advanced Digital Internet
+	Provider of broadband internet access and internet protocol services. The company provides internet access service to apartment buildings, cooperatives and condominiums. Their focus is on residents of buildings with multiple dwelling units (MDUs).
+	['', 'broadband internet', ' ', 'internet access service', ' ', 'inter protocols', '']
+Proteon Networks
+	Provider of internet access and LAN products. The company markets the products of OpenROUTE Networks.
+	['', 'internet access', ' ', 'LAN products', '']
+Xyplex
+	Developer and marketer of distributed network processing equipment. The company offers communications processors for local-area networks (LANs) and wide-area networks (WANs) integrating Digital Equipment systems with systems from other manufacturers to increase the overall system performance.
+	['LAN WAN ', 'network processing equipment', '']
+Vanion
+	Provider of integrated voice and data communications services to business and residential customers. The company offers services that range from dial-Up internet access to DSL and from dedicated internet access to voice services.
+	['', 'data communications services', ' ', 'dial-Up internet access', '']
+Stellaris Networks
+	Provider of wireless local area networks for enterprise customers. The company engages in technology development and product implementation of Wi-Fi based wireless local area networks.
+	['', 'wireless local area networks', ' WLAN 802.11']
+Compatible Systems
+	Provider of a full line of standalone VPN Access Servers for enterprise and carrier applications. The company designs, manufactures and markets a full line of inter connectivity products for Internet access, private Wide Area Networks (WANs) and local intranet-works.
+	['VPN', 'VPN Access Servers', ' ', 'VPN technologies', '']

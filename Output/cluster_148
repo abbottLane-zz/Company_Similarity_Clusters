@@ -1,15 +1,12 @@
-Encampment Minerals
-	Explorer of natural resources. The company is engaged in the exploration of copper, nickel, and platinum in northern Minnesota.
-	['Exploring', 'natural resources', ' ', 'metal copper', '']
-NYX
-	Provider of oil and natural gas. The company specializes in the exploration and development of fossil fuel reserves.
-	['', 'oil and natural gas exploration', ' ', 'fossil fuel reserves', '']
-Tilford Pinson Exploration
-	Explorer and developer of oil and gas. The company develops coal-bed methane gas and hydrocarbon reserves utilizing horizontal drilling technology and 3-D seismic imaging to explore for hydrocarbon reserves.
-	['', 'methane gas', ' ', 'hydrocarbon reserves', ' ', 'drilling technology', '']
-Gulf Coast LNG Partners
-	Developer of liquefied natural gas receiving, storage and re-gasification facility. The company\'s core project is Calhoun LNG, a liquefied natural gas (LNG) receiving, storage and regasification terminal.
-	['', 'natural gas storage', ' ', 'regasification terminal', ' liquefied']
-Cortus Energy
-	Producer of non-fossil fuel products. The company has developed a gasification process called WoodRoll, to produce synthetic gas with a high heat value from bio fuels.
-	['', 'gasification technology', ' ', 'non-fossil fuel', ' ', 'synthetic gas', ' ', 'high heat value gas', ' ', 'energy production', '']
+Mobile Commons
+	Provider of a platform to create and manage mobile marketing campaigns. The company provides tools to reach people on mobile phones. It provides web based tools that provide functionalities like integrating mobile messaging into campaign strategy and website.
+	['', 'mobile marketing', ' ', 'mobile messaging', ' ', 'web based platform', '']
+Heysan
+	Provider of mobile social messaging and community services. The company provides mobile Web based service use MSN, AIM, ICQ, Yahoo and GTalk accounts in mobile phones.
+	['', 'mobile messaging', ' ', 'social messaging', ' ', 'mobile web service', '']
+Impact Mobile
+	Developer of a mobile marketing platform. The company provides a platform which provide marketing services and carrier grade messaging infrastructure which allow clients to reach mobile subscribers using short messaging service, multimedia messaging service and mobile web.
+	['', 'mobile marketing', ' ', 'marketing platform', ' ', 'mobile web', '']
+Vigill Alerts
+	Provider of communication platforms for customer communications and marketing campaigns. The company allows mobile application publishers and developers to deploy two-way customer communications and marketing campaigns through their mobile applications. The company\'s platform also helps users to send updates, get feedback, ask questions, create polls and deliver offers for their marketing campaigns.
+	['', 'communications platform', ' feedback ', 'marketing campaign', ' ', 'create poll', '']

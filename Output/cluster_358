@@ -1,39 +1,12 @@
-Zip2
-	Operator of a mobile media company which creates applications that enable business partners to engage and interact with their target audiences via mobile devices. The company operates Zumobi Network, a portfolio of interconnected mobile media applications, which enable user discovery of applications and content, network cross-promotion, and viral distribution, as well as provide reporting metrics on usage and behavior.
-	['', 'mobile media', ' ', 'interconnected mobile media', ' ', 'media application', '']
-Cellular-Blowout
-	Provider of wireless products and services. The company provides cell phones, PDA, mobile software, phone activations, accessories and novelty items.
-	['', 'cell phones', ' ', 'mobile accessories', ' ', 'novelty items', ' ', 'wireless products', '']
-Spring Partners
-	Provider of web and mobile phone applications that provide coupons for discounts at retailers. The company provides Springpad, which enables consumers to save and share products and services on web and mobile phones as well as EngageProactively, that communicates with consumers and provides branded information, offers and deals.
-	['', 'media service', ' ', 'mobile phone applications', ' ', 'Media and Information', '']
-Paragon Wireless
-	Operator of online mobile store. The company offers mobile phones and mobile accessories, including mobile phone cases, chargers, headsets and memory cards.
-	['', 'mobile accessories', ' ', 'online mobile shop', ' ', 'mobile games', '']
-PhoneAndPhone
-	Provider of online retail. The company sells a range of mobile phones with or without subscription and mobile accessories.
-	['', 'online retail', ' ', 'online services', ' ', 'online purchase', '']
-Mobango
-	Provider of mobile social networking platform. The company operates in the field of online and mobile services addressed to mobile users. The company provides services that lets its users to create, store, share, play original and self-produced content, both via Web and via mobile phones.
-	['', 'mobile apps', ' ', 'social content', '']
-MobilGiganten
-	Operator of an online store for mobile phones. The company provides ecommerce retail and distribution services for mobile phones and accessories, and also offers other mobile services.
-	['', 'mobile phone', ' ', 'mobile accessories', ' ', 'mobile retailer', '']
-Firefly Mobile
-	Developer and seller of mobile phones and accessories. The company also provides airtime services and offers accessories such as wall chargers, universal serial bus cables, stereo headsets, batteries and car chargers for teenagers.
-	['', 'mobile phones', ' ', 'airtime services', '']
-Snaptu
-	Provider of online solutions for mobile devices. The company offers Snaptu, an application that turns Websites into mobile phone applications. It serves online service providers, media companies and content owners, mobile network operators and content aggregators, and system integrators.
-	['', 'online solution', ' ', 'mobile solution', ' ', 'mobile application', '']
-KKing
-	Developer of karaoke application. The company offers a platform to upload and share karoke through mobile phones.
-	['', 'mobile app', ' ', 'karaoke application', '']
-Punchd
-	Provider of digital loyalty card services. The company provides a replacement for the buy-10-get-1-free cards with a mobile loyalty system.
-	['loyalty cards smart-phones']
-Iqua
-	Developer of wireless accessories for mobile communications market. The company develops handsfree headsets and other mobile accessories for personal, active or professional use.
-	['', 'wireless accessory', ' ', 'handsfree device', ' headset']
-Precision Augmented Realtiy Works
-	Developer of mobile augmented reality system. The company\'s technology offer users, taking a photo of the outside of a house with a mobile phone and then overlaying a chat with the agent, taking a virtual tour of the house on the spot.
-	['', 'reality system', ' ', 'mobile reality', ' ', 'mobile augment', '']
+Novera Optics
+	Developer of optical access solutions to overcome the bandwidth bottlenecks in copper-based last mile networks. The company\'s λ-PON™ optical solutions, based on advanced wavelength-locked WDM-PON (wavelength division multiplexed passive optical network) technology, enable equipment vendors and service providers to address multiple markets with a single product.
+	['', 'fiber optic', ' ', 'optical access', ' ', 'Remote Terminals', '']
+Équipe Communications
+	Manufacturer of core network switching equipment. The company designs, manufactures and sells markets asynchronous transfer mode and multiprotocol label switching products for the optical network market.
+	['', 'core switch', ' ', 'optical network', ' switching ', 'core network', ' ', 'ATM switches', ' ', 'MPLS switches', '']
+Network Elements
+	Developer of network infrastructure building blocks. The company provides customers with fully tested modular solutions incorporating optical interfaces and wirespeed processing for layers 2/3 through layers 4/7.
+	['', 'network infrastructure', ' ', 'wirespeed processing', '']
+Movaz Networks
+	Provider of optical solutions in the United States. The company provides next generation all optical solutions for delivery of cost-effective wavelength services. Its products are designed for metro, regional, enterprise and government networks. The products are carrier-class solutions incorporating optical transport, distributed photonic switching, generalized multiprotocol label switching (GMPLS) protocols, and standards-based network management.
+	['optical wavelength ', 'photonic switching', ' ', 'network management', ' network photonic']

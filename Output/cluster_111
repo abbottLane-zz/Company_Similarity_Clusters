@@ -1,24 +1,30 @@
-Sinewave Energy Technologies
-	Developer of power-modulation systems. The company researches and develops sinewave power-control products based on its patented, ultra-high-speed power-switching technology. The company\'s products include digital sinewave lighting dimmers for high intensity discharge (HID) and fluorescent lighting.
-	['', 'light dimmer', ' ', 'power modulation', ' ESD HID ', 'lighting products', '']
-Gnodal
-	Developer of a technology that improves performance and power in data centers. The company\'s technology aims to significantly reduce power usage and running costs.
-	['', 'systems design', ' ', 'data technology', ' ', 'data centre', '']
-Gecko Alliance
-	Manufacturer of electronic controls. The company offers systems, controls, pumps, audio, accessories and bath products.
-	['', 'temperature setting', ' ', 'electronic button', ' pump']
-Inverpower Controls
-	Manufacturer of power electronics modules and advanced high-speed digital controls. The company manufactures products for use in industrial power supply, power conversion and power quality systems.
-	['', 'electronic module', ' power']
-Nokian Capacitors
-	Manufacturer of power system components and capacitors. The company manufactures equipment and systems for reactive power compensation and harmonic filtering.
-	['capacitors ', 'system component', ' filtering']
-Planet ATE
-	Supplier of fabless semiconductor for the manufacturers of automatic test equipment. The company manufactures "System on a Chip" (SoC) integrated circuits that combine all analog functions required to construct digital channel, DUT Power supply, PMU and VI.
-	['', 'Digital Channel', ' ', 'DUT Power Supply', ' PMU VI Semiconductor chips']
-Photonic Power Systems
-	Provider of power over optical fiber. The company provides EMI and RFI immune electrical power to remote locations with no electrical wire. The company’s products include photovoltaic power converters and modules, optically powered data links and high power optical data systems, which are used in  medical, electric power, sensor and wireless markets.
-	['', 'optical fiber', ' ', 'photovoltaic power', ' sensor']
-Ideal Power
-	Developer of power converters. The company develops and manufactures disruptive electronic power converters. It also offers electronic power converters for renewable energy generation, electrical energy efficiency, smart power grids and electric vehicles. The company also provides photovoltaic inverters and battery converters for grid storage and electrified vehicle fast charging infrastructure, such as peak demand reduction in commercial and industrial markets, utility load shifting, buffering EV fast chargers and bi-directional EV DC chargers. In addition, it offers hybrid power conversion systems and power switches.
-	['', 'PV Inverters', ' ', 'Battery Converters', ' ', '3-Port Hybrid Converters', ' ', 'Bi-polar', ' inverters']
+GasSecure
+	Developer of gas-detection technology. The company develops, market and sells wireless optic gas detectors for industrial applications. Its specialty is in low-power gas detection and safe wireless communication. Its products have applications to the oil & gas industry, as well as other industrial sectors.
+	['', 'wireless sensor', ' ', 'gas detector', ' ', 'industrial application', '']
+Tubel Technologies
+	Provider of technology for oil and gas industry\'s Exploration and Production (E&P) business. The company provides downhole two-way, wireless sensor systems for coiled tubing stimulation and permanent or retrofit reservoir monitoring, as well as downhole power generator and fiber optic pressure sensor system for downhole permanent monitoring.
+	['', 'gas industry', ' ', 'exploration business', ' ', 'wireless casing collar', '']
+Triscend
+	Provider of configurable system-on-chip devices and microcontrollers. The company\'s software enable user to create embedded systems for communication, consumer and industrial applications.
+	['', 'embedded system', ' ', 'industrial application', ' ', 'configurable microcontroller', ' ', 'communications software', ' ', 'software applications', '']
+Equipamientos Europeos 2005
+	Manufacturer of commercial vehicles with energy-saving technologies. The company develops and commercializes medium-tonnage trucks for a variety of applications, including firefighting, military operations, forestry and waste collection. Among the company\'s products is a line of vehicles propelled by compressed natural gas (CNG).
+	['', 'industrial transportation', ' ', 'pollution', ' ', 'industrial vehicles', '']
+Oxford Medical Diagnostics
+	Developer of advanced proprietary methods of gas analysis. The company\'s technologies are used to analyse gases in industrial settings and also for diagnosing conditions such as stomach ulcers.
+	['gas analysis ', 'stomach ulcers', ' ', 'clinical diagnosis', '']
+Avo Photonics
+	Manufacturer of environmental control, fire and gas detection and security products. The company provides custom design and contract manufacturing services to customers in the military/aerospace, medical, communications, and commercial markets.
+	['', 'environmental control', ' ', 'gas detection', ' ', 'security products', '']
+PoroGen
+	Manufacturer of chemical and temperature resistant porous polymeric membranes. The company manufactures polymeric membranes for a range of nanofiltration, microfiltration, gas separation and gas transfer applications, including methane recovery and biofuels processing.
+	['', 'polymeric membrane', ' nanofiltration microfiltration ', 'gas separation', ' ', 'methane recovery', ' ', 'biofuel processing', ' membrane']
+Gesellschaft für analytische Sensorsysteme
+	Developer of gas analyzers for volatile organic compounds (VOCs). The company\'s product, FlavourSpec, is a device made forfood control that measures VOCs in liquids or solids.
+	['', 'gas analyzers', ' ', 'organic compounds', '  siloxanes ', 'trace detectors', ' ', 'power plants', '']
+AppliedSensor
+	Manufacturer of semiconductor based gas sensor elements and modules. The company manufactures chemical gas sensors for appliance, automotive, building, consumer and industrial applications.
+	['', 'gas sensor', ' ', 'chemical gas sensor', ' ', 'chemical sensor component', '']
+Investigacion Criogenia y Gas
+	Operator of gas transformation plants. The company engages in transport processes handling, storage and regasification of liquid natural gas for use in commercial and industrial consumption. The company also constructs gas transformation plants.
+	['', 'gas plants', ' ', 'processes handling', ' regasification storage ', 'gas transformation', '']

@@ -1,60 +1,66 @@
-Pharmacopeia
-	Developer of novel small molecule therapeutics to address significant medical needs. The company has a portfolio of clinical and preclinical candidates under development internally or with partners including nine clinical compounds in Phase 2 or Phase 1 development addressing hypertension, diabetic nephropathy, muscle wasting, inflammation and respiratory disease.
-	['', 'small molecule', ' hypertension ', 'diabetic nephropathy', '']
-Argintex
-	Developer of therapeutics like small molecule inhibitors of arginase.The company’s arginase also leads to the production of ornithine which increases polyamine, stimulating cell division, and contributing to hyperplasia and fibrosis.
-	['', 'molecule inhibitor', ' ', 'pulmonary treatment', ' ', 'vascular disorder', ' ', 'arginase enzyme', '']
-Intellikine
-	Developer of small molecule drugs that target signal transduction networks for the treatment of cancer, inflammation, and autoimmune disorders. The company\'s products include INK128, an orally-available TORC1/2 inhibitor for the treatment of solid tumor malignancies; INK1197, a small molecule dual PI3K selective inhibitor for patients with immune-mediated inflammatory diseases, such as rheumatoid arthritis and asthma; and PI3K selective inhibitors for the treatment of hematologic malignancies and solid tumors.
-	['', 'small molecule drug', ' ', 'cancer drug', ' ', 'drug for autoimmune disorder', ' ', 'treatment of solid tumor malignancie', '']
-Vantia
-	Developer of small molecule drugs. The company develops drugs for the treatment of nocturia, dysmenorrhoea, respiratory disorders, inflammation, oncological and fibrotic diseases.
-	['', 'drug development', ' ', 'nocturia treatment', ' ', 'fibrotic disease treatment', '']
-Chronogen
-	Developer of small-molecule drugs to treat oxidative stress and lipid disorders in age-related diseases. The company develops human therapeutics to treat age-dependent diseases, with an initial focus on cardiovascular disorders and cancer.
-	['', 'small-molecule drugs', ' ', 'human therapeutics', ' ', 'pharmaceutical industry', '']
-Diaxonhit
-	Developer of RNA-based diagnostic tests. The company is engaged in developing RNA-based diagnostic tests and small molecule therapeutics for the treatment of Alzheimer\'s disease (AD) and cancer. Its Genome Wide SpliceArray (GWSA) platform is a patented microarray design that incorporates a specific probe configuration, enabling monitoring of RNA splice variants in humans, mice and rats.
-	['', 'diagnostic test', ' ', 'small molecule', ' ', 'RNA splice', '']
-Xanthus Pharmaceuticals
-	Developer of small-molecule therapeutics for the treatment of cancer and autoimmune disorders.
-	['', 'cancer treatment', ' ', 'small-molecule therapeutic', ' ', 'autoimmune disorder', '']
-Vioquest Pharmaceuticals
-	Provider of therapeutic services for oncology. The company develops and commercializes late preclinical and early clinical stage therapies for oncology, viral and autoimmune disorders.
-	['', 'oncology treatment', ' ', 'cancer therapy', ' ', 'cancer relief', '']
-HemaQuest Pharmaceuticals
-	Developer of small molecule therapeutics. The company develops small molecule therapeutics based on its short chain fatty acid derivative (SCFAD) technologies to treat anemia and other blood disorders.
-	['', 'blood disorder treatment', ' ', 'anemia treatment', ' ', 'small molecule therapeutic', '']
-Galileo Pharmaceuticals
-	Developer of small molecule therapeutics. The company specializes in the discovery of compounds that moderate the effects of oxidative stress and energetic perturbations on living biological systems.
-	['', 'small molecule therapeutics', ' ', 'metabolic diseases', ' oxidative ', 'metabolic stress', '']
-Signase
-	Developer of small molecule inhibitors of a critical cell pathway for the treatment of a variety of solid tumors.
-	['', 'molecule inhibitor', ' ', 'solid tumor treatment', ' ', 'critical cell pathway', '']
-Intercept Pharmaceuticals
-	Developer of small molecule drugs for the treatment of chronic liver and metabolic diseases. The company develops therapeutics to treat orphan and more prevalent liver diseases in bile acid chemistry.
-	['', 'molecule drug', ' ', 'chronic liver treatment', ' ', 'metabolic disease treatment', '']
-Endocyte
-	Developer of receptor-targeted therapeutics for the treatment of cancer and autoimmune diseases. The company provides EC17, a folate-targeted hapten therapy drug to treat metastatic renal and ovarian cancer; EC145, a folate-targeted chemotherapeutic conjugate to treat various tumors, including cancers of the breast, lung, and blood; EC0225, a targeted chemotherapy drug.
-	['', 'cancer treatment', ' ', 'autoimmune disease', ' ', 'ovarian cancer', ' ', 'breast cancer', '']
-Interomex Biopharmaceuticals
-	Developer of proteomic drugs. The company is engaged in the discovery and commercialization of novel targets and drugs in the proteomics area, for the treatment of viral, cancer and autoimmune diseases.
-	['proteomics autoimmune']
+Covagen
+	Operator of a biopharmaceutical company focused on therapies for inflammatory diseases and cancer. The company provides a proprietary platform that genetically fuses Fynomer binding proteins to antibodies, resulting in therapeutics with novel modes of action. The company’s first clinical drug candidate is designed for treatment of rheumatoid arthritis, psoriatic arthritis and other inflammatory diseases.
+	['', 'inflammation binder', ' ', 'protein therapy', ' ', 'clinical drug', '']
+LeukoSite
+	Developer of therapeutics based upon the biology of leukocytes with potential applications in cancer, inflammatory, autoimmune and viral diseases. The company\'s technology and expertise in leukocyte biology facilitate the discovery and development of proprietary drugs that destroy or block the disease-causing actions of leukocytes.
+	['', 'drug discovery', ' ', 'leukocyte', '']
+CorSolutions
+	Provider of disease management and related services to employers, health plans and government-sponsored healthcare programs. The company offers cancer treatment; cardiac treatment, including coronary artery disease program and heart failure program; respiratory treatment comprising asthma and chronic obstructive pulmonary disease program and pain treatment.
+	['', 'disease management', ' ', 'healthcare program', ' ', 'government healthcare program', ' ', 'artery disease program', ' ', 'pulmonary disease program', '']
+Peptor
+	Developer of products to treat autoimmune diseases. The company develops small cyclical analogues of peptide loop drugs to treat cancer, bacterial and fungal infections, autoimmune diseases, multiple sclerosis and other disorders.
+	['', 'autoimmune product', ' ', 'protein treatment', ' ', 'healthcare service', '']
+Cartesia Dx
+	Developer of thermal/3D imaging system to quantify inflammation and to diagnose and manage rheumatoid arthritis. The company\'s technology also quantifies assessment of swelling and warmth in various diseases.
+	['', '3D imaging system', ' ', 'thermal imaging system', ' ', 'rheumatoid arthritis treatment', '']
+Adenosine Therapeutics
+	Developer of novel pharmaceutical products that target adenosine receptor subtypes. The company develops drugs for the treatment of asthma, diabetes, Parkinsonís disease, cancer, ophthalmic disease and inflammatory indications such as sepsis, heart attack, ischemia-reperfusion injury, sickle cell crisis, vascular injury, arthritis, spinal cord injury, COPD and inflammatory bowel disease.
+	['adenosine asthma diabetes ', 'adenosine receptor', ' ischemia-reperfusion']
+Aerocrine
+	Creator of a device to monitor inflammatory airway diseases. The company provides a device to monitor exhaled nitric oxide (NO) from patients with inflammatory airway diseases such as asthma to assess the levels of their ailment and predict exacerbations.
+	['', 'medical technology', ' ', 'treatment product', ' ', 'inflammatory airway disease', '']
+SuppreMol
+	Developer of therapeutics for the treatment of autoimmune diseases and allergic diseases. The company is focused on development of soluble Fc-gamma receptors (FcyRs), which are recombinant autologous therapeutic proteins with a specific immunoregulatory potential.
+	['', 'therapeutic device', ' ', 'autoimmune disease', ' ', 'therapeutic protein', '']
+Neolab
+	Developer of antibiotics and generic medicines. The company specializes in registering generic medicines, with a particular focus on respiratory diseases. It also develops anti-inflammatory agents, antibacterial, and cardiovascular drugs.
+	['', 'generic medicine', ' antibiotic ', 'respiratory disease', '']
+Epigenesis
+	Developer of inhaled respiratory medicines for the treatment of asthma and chronic obstructive pulmonary disease (COPD). The company develops EPI-12323, a once daily, small molecule, inhaled non-glucocorticoid steroid that targets the inflammatory and airway obstruction cascade in the irritated lung.
+	['', 'respiratory medicine', ' ', 'asthma treatment', ' ', 'obstructive pulmonary disease', ' ', 'respiratory treatment', ' inhaler']
+Atherogenics
+	Developer of treatments for inflammatory disease. The company develops novel drugs for diabetes and coronary heart disease.
+	['', 'inflammatory disease', ' ', 'coronary disease', ' ', 'metabolic disease', '']
+Arana Therapeutics
+	Provider of biotechnology services. The company is focused on the development of antibody and peptide products for the treatment of inflammatory diseases and cancer.
+	['', 'inflammatory diseases', ' ', 'peptide products', ' ', 'research services', '']
+Palau Pharma
+	Provider of biopharmaceutical products. The company specializes in the discovery and development of new products for treating inflammatory and autoimmune diseases.
+	['bio-pharmaceutical ', 'inflammatory disease', ' ', 'autoimmune disease', '']
+Cytoguide
+	Developer of combined drugs that target receptors on cells in pathological tissues. The company offers drugs that are aimed to improve the treatment of onocyte and macrophage-related diseases including autoimmune disease, leukemia and other infectious diseases.
+	['', 'combined drugs', ' pathological ', 'autoimmune disease', '  leukemia']
+Viral Logic Systems Technology
+	Developer of novel therapeutics for the treatment of inflammatory and autoimmune disorders. The company\'s product is used for the treatment of rheumatoid arthritis, Crohn\'s disease, multiple sclerosis, lupus nephritis, mixed cryoglobulinemia, Wegener\'s granulomatosis and diabetes.
+	['', 'novel therapeutic', ' ', 'inflammatory disorder', ' ', 'autoimmune disorder', ' ', 'rheumatoid arthritis', ' ', 'multiple sclerosis', ' ', 'lupus nephritis', ' ', 'mixed cryoglobulinemia', '']
+Actimis Pharmaceuticals
+	Developer of small molecule therapeutics for respiratory, inflammatory and autoimmune diseases. The company offers its therapeutics for autoimmune diseases, such as asthma, chronic obstructive pulmonary disease (COPD), inflammatory dermatoses, inflammatory bowel disease and rheumatoid arthritis.
+	['', 'autoimmune disease treatment', ' ', 'inflammatory disease treatment', ' ', 'rheumatoid arthritis treatment', '']
 Avidex
 	Operator of a biotechnology company focused on the development of therapeutics for cancer and autoimmune diseases. The company develops small molecule modulators of T cell function and protein therapeutics based on T cell receptors. The technology enables the company to develop treatments for cancer, inflammation, autoimmune diseases and allergies.
 	['', 'T cell', ' mTCR ', 'autoimmune disease', ' ', 'cancer therapy', '']
-Ziopharm
-	Developer of drug candidates for cancer treatments. The company operates with the strategy of in-licensing proprietary drug-candidate families with prior ""related-molecule" efficacy in human cancer that could be efficiently and effectively developed and commercialized.
-	['', 'cancer therapeutics', ' ', 'molecule therapeutic', ' ', 'healthcare service', '']
-NaniRx Therapeutics
-	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
-	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
-Oculon
-	Developer of products for the diagnosis and treatment of cataracts based on phase-separation technology.. The company develops small molecule pharmaceuticals to treat conditions other than cataract that involve protein aggregation, such as the formation of protein condensates in certain blood, neurological and connective tissue disorders.
-	['', 'diagnosis treatment', ' ', 'small molecule', ' ', 'phase separation technology', ' ', 'protein condensates', ' ', 'tissue disorder', '']
-Artesian Therapeutics
-	Developer of small molecule therapeutics for the treatment of cardiovascular diseases. The company provides small molecule drugs for congestive heart failure.
-	['', 'cardiovascular disease treatment', ' ', 'small molecule therapeutic', ' ', 'congestive heart failure', '']
-Adamas Pharmaceuticals
-	Developer of small molecule advantaged therapeutics to treat neurological and infectious diseases. The company also develops novel extended release and combination products for symptomatic treatment of dementia.
-	['', 'small molecule', ' ', 'advantaged therapeutic', ' ', 'neurological disease', ' ', 'symptomatic treatment', ' dementia']
+StormBio
+	Developer of therapy for influenza and other inflammatory diseases. The company is developing a new class of therapeutics designed to target only an over-reaction of the inflammatory process, without shutting down the body\'s immune response.
+	['', 'influenza', ' ', 'inflammation treatment', ' ', 'pandemic', ' ', 'biopharm', '']
+Immunex
+	Provider of biopharmaceutical drug discovery. The company is focused on immune-system research, in the disciplines of immunology, cytokine biology, vascular biology, antibody-based therapeutics and small-molecule research. It works to develop new therapeutics for rheumatoid arthritis, asthma and other inflammatory diseases, as well as cancer and cardiovascular diseases.
+	['', 'antibody therapeutics', ' ', 'vascular science', ' ', 'rheumatoid arthritis', ' asthma ', 'cardiovascular therapy', '']
+Cornerstone Therapeutics
+	Developer and distributor of products for respiratory, inflammatory and critical care diseases. The company focuses on the discovery, development and commercialization of products designed to treat asthma and critical care diseases through the regulation of the body’s inflammatory response.
+	['', 'critical care disease', ' ', 'body inflammatory', ' ', 'chronic disease', ' ', 'respiratory disease', '']
+Centaur Pharmaceuticals
+	Developer of novel class of small molecule pharmaceutical compounds for the treatment of neurodegenerative and inflammatory diseases. The company develops such compounds to treat inflammatory diseases such as acute stroke, dementia, rheumatoid arthritis, myocardial ischemia and Parkinson’s disease.
+	['', 'molecule pharmaceutical compound', ' ', 'pharmaceutical products', '']
+Allostera Pharma
+	The company also developes allosteramers for inflammation and autoimmune diseases. The company\'s lead products target the insulin-like growth factor-1 receptor (IGF-1R)for cancer.
+	['', 'inflammation disease', ' ', 'autoimmune disease', '']

@@ -1,21 +1,9 @@
-Tranvia
-	Provider of a merchant processing services for card holders.
-	['', 'merchant processing service', ' ', 'credit card processor', ' ', 'credit card transaction', '']
-Dianping.com
-	Provider of an online local platform for business search, user generated reviews, detailed business information, featured discounts, group buying and other merchant services. The company operates a website that covers a full spectrum of local business content and reviews from restaurants, boutiques, entertainment, leisure and lifestyle services. The company also provides a one-stop targeted marketing solution for small and medium-sized businesses using electronic coupons, online advertising and group buying.
-	['', 'one stop marketing', ' ', 'internet portal', '']
-Gearworks
-	Provider of carrier-class mobile management software solutions for location-based mobile business applications. The company also provides phone programming and provisioning, training, customization, and integration services. Gearworks serves small to medium sized business and enterprise customers across construction, healthcare, field service, home and store delivery, utilities, and government services industries.
-	['']
-Intuit
-	Intuit Inc was incorporated in California in March 1984. The Company was reincorporated in Delaware and completed its initial public offering in March 1993. The Company creates business and financial management solutions that help simplify the business of life for small businesses, consumers, and accounting professionals. The Company\'s products and services include; QuickBooks, TurboTax, Quicken and Mint, and help customers solve business and financial management problems including running a small business, paying bills, and filing income taxes. The Company\'s tax preparation offerings for professional accountants includes; ProSeries and Lacerte. The Company operates its businesses into three segments; Small Business, Consumer Tax, and Professional Tax. The Small Business segment includes offerings targeting the small business market. It includes QuickBooks financial and business management online services and desktop software for small businesses and the accounting professionals serving small businesses; Small business payroll and employee management products and services; Payment processing services for small businesses, including merchant services such as credit and debit card processing; web-based transaction processing services for online merchants; secure online payments for small businesses and their customers through the Intuit Commerce Network; GoPayment mobile payment processing services; and QuickBooks Point of Sale solutions. The Consumer Tax segment targets consumers and includes TurboTax income tax preparation products and services and electronic tax filing services. The Professional Tax segment targets professional accountants and includes Lacerte, ProSeries, and Intuit Tax Online professional tax products and services. The Company faces competition in all businesses, both domestically and internationally. The Company\'s competitors includes; Wells Fargo, JP Morgan Chase, Bank of America, First Data Corporation, Elavon, Global Payments, FIS-Certegy, PayPal and Square. The Company is subject to federal and state laws and government regulations concerning employee safety and health and environmental matters.
-	['', 'financial management', ' ', 'accounting management', ' ', 'asset management', '']
-ProStores
-	Provider of e-business software for small and medium-sized businesses. The company also sets up, designs, markets and manages customizable virtual storefronts at their Internet domains.
-	['', 'online shopping', ' ', 'online trade', ' ', 'e-business software', '']
-Inboxer
-	Provider of email archiving, electronic discovery and content monitoring systems. The company serves state and local governments, health care institutions and small and medium sized businesses.
-	['', 'email archiving', ' ', 'content monitoring system', ' ', 'electronic discovery', ' ', 'email analysis', '']
-Verus Financial Management
-	Provider of payment processing services to small and medium sized businesses. The company is a merchant services business specializing in credit card and cheque processing for small and medium-sized businesses (”SMEs”).
-	['', 'merchant services', ' ', 'credit card processing', ' payroll ', 'payment processing services', '']
+VoiceGenie Technologies
+	Provider of Interactive Voice Response (IVR) software platform. The company\'s platform provides open standards infrastructure for supporting next-generation speech-enabled contact centers.
+	['', 'interactive voice response', ' ', 'open communication service', ' telecommunication']
+Logictree
+	Provider of interactive voice response (IVR) services for the transit and 511 markets. The company provides a platform for a multi-modal communications environment that delivers location-based real-time information via various channels, including voice, Web, short message service, social networks, Email and mobile applications for public agencies.
+	['', 'interactive voice response', ' ', 'multi modal communication', ' ', 'short message service', ' ', 'social network', '']
+TuVox
+	Provider of on demand speech and interactive voice response hosting applications. The company also offers on demand hosting, managed, design center, development and CTI integration, support and maintenance, and training services.
+	['', 'demand speech', ' ', 'interactive voice application', ' ', 'voice response hosting', ' ', 'voice hosting application', '']

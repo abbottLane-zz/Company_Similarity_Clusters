@@ -1,18 +1,6 @@
-Wal-Mart.com
-	Owner and operator of an online retail business. The company is a global online seller of consumer products such as electronics, office products, books, furniture and outdoor equipment.
-	['', 'party supplies', ' ', 'video games', ' ', 'gift cards', '']
-Gérard de Gilly
-	Provider of office supplies. The company provides office stationery, supplies, equipment and furniture.
-	['', 'office supply', ' ', 'office stationery', ' ', 'equipment and furniture', '']
-INTERTREND
-	Provider of furniture-manufacturing services. The company manufactures office furniture and kitchen units.
-	['', 'office furniture', ' ', 'kitchen unit', ' ', 'furniture seller', '']
-Welcome office
-	Online retailer of office products. The company sells office supplies, school supplies and office furniture through its website.
-	['', 'office supplies', ' mail-order ', 'office products', '']
-L\'ArcoBaleno
-	Provider of a curated marketplace and resource for exploring and purchasing furniture, lighting, crafts and decorative arts. The company\'s online platform mixes a curated marketplace with magazine-style content covering pieces across the spectrum of design ranging from furniture and crafts to architecture and technology.
-	['', 'online furniture', ' ', 'decorative arts', ' ', 'contemporary lights', '']
-CBS France
-	Supplier of furniture and office equipment. The company offers various products for local authorities which include signage and road equipments, waste collection products, games, outdoor and school furniture and other supplies for communities.
-	['', 'office supplies', ' ', 'office furniture', ' ', 'outdoor furniture', '']
+MTI Laboratory
+	Provider research and development of remote radio head (RRH) technologies for WCDMA/HSDPA and WiMAX/LTE infrastructure products. The company\'s RRH technologies enable the transmission of high output power, which is essential for delivering high data rates and coverage required for mobile TV/video/audio/data-centric 3G data services.
+	['', '3G data', ' ', 'remote radio head', ' ', 'wireless internet', ' ', 'power amplifier', '']
+WiChorus
+	Developer of smart 4G packet core infrastructure products. The company\'s smartcore platform enable operators to deploy WiMAX and LTE networks with service and subscriber management, content management, and network optimizations, as well as to monetize the Internet.
+	['WiMAX ', 'LTE network', ' 4G ', 'smartcore platform', ' Internet software technology']

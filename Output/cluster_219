@@ -1,18 +1,27 @@
-Agouron Pharmaceuticals
-	Developer of therapeutic products to treat cancer and AIDS. The company engages in the discovery, development and commercialization of drugs for treatment of cancer, viral diseases and diseases of the eye.
-	['biomedical pharmacology immunogenetics']
-Karyopharm Therapeutics
-	Developer of drugs for the treatment of cancer, inflammation and diseases related to cell proliferation. The company focuses on discovery and development of novel first-in-class drugs directed against nuclear transport targets for the treatment of cancer and other major diseases.
-	['', 'cancer treatment', ' ', 'inflammation drug', ' ', 'cell proliferation', '']
-ImmunoTheragnostics Incorporated
-	Developer of therapeutic and prognostic equipments. The company engages in research, development and commercialization of exosome-based clinical diagnostic arrays for women\'s health as well as for cardiovascular diseases and cancer.
-	['', 'prognostic equipment', ' ', 'diagnostic assays', ' ', 'cancer prevention', ' ', 'response monitoring', '']
-Allergene
-	Developer of products for diseases relating to immune system dysfunction. The company provides treatment of diseases that affect the immune system, ranging from allergies to AIDS.
-	['nontoxic alternative modification']
-Okapi Sciences
-	Developer of drugs to treat viral infections for both pets and livestock. The company engages itself in the research, development, promotion and marketing of anti-viral drugs for veterinary applications.
-	['', 'viral infection', ' livestock ', 'veterinary application', '']
-Twinstrand Therapeutics
-	Operator of biopharmaceutical company. The company engages in the discovery, development and commercialization of biological drugs for the treatment of life threatening diseases.
-	['', 'biological drugs', ' cancer']
+Geneart
+	Manufacturer of integrated system solutions for DNA engineering and processing. The company provides software and a robotics platform enabling DNA synthesis for the fermentation of recombinant proteins, combinatorial biology and vaccines.
+	['DNA ', 'synthetic genes', ' fermentation ', 'biotechnology tools', '']
+Roche NimbleGen
+	Manufacturer and marketer of a proprietary suite of microarrays, related products and services for DNA sequencing. The company is focused on research activities and manufacturing target-enrichment probe pools for DNA sequencing. The company\'s Maskless Array Synthesis (MAS) technology permits the company to develop and manufacture custom high density, highly reproducible DNA arrays, which improve the quality and data yield of DNA chips.
+	['', 'DNA chip', ' ', 'DNA array', ' ', 'reproducible DNA', ' microarray ', 'DNA sequencing', '']
+AlphaHelix Molecular Diagnostics
+	Developer of DNA chips for process analysis. The company uses its DNA chips for mutation detection of genes, gene marking in cancer and the development of new drugs.
+	['', 'mutation detection', ' ', 'gene marking', ' ', 'DNA chips', ' DNA']
+GeneMachines
+	Provider of solutions for the automation and instrumentation needs of the genomics community. The company develops and provides automated solutions, collaborating with researchers to determine and address instrumentation needs and challenges.
+	['DNA']
+Intelligent Bio-Systems
+	Developer of DNA sequencing systems.
+	['', 'DNA sequencing', ' ', 'sequencing system', ' ', 'genome sequencing', '']
+GenEncap
+	Developer of DNA sequencing technology. The company provides DNA sequence information to life scientists, clinicians and individuals based on a proprietary and parallel implementation of Sanger sequencing.
+	['sequencing ', 'sanger sequencing', ' ', 'sequencing technology', '']
+Blue Heron Biotechnology
+	Provider of a range of synthetic DNA sequences and related services to researchers in pharmaceutical and biotechnology companies. The company offers gene synthesis, codon and expression optimization, cloning options, and variant clone sets.
+	['', 'synthetic DNA sequence', ' ', 'gene synthesis', ' ', 'cloning option', '']
+TwoF
+	Developer of technology for genetic analysis assays. The company\'s technology platform Supramolecular NanoStamping is used for the production of DNA microarrays.
+	['DNA microarrays ', 'DNA chip', '']
+Mosaic Technologies
+	Developer of DNA-based diagnostic products for the blood and plasma-screening, clinical testing research markets. The company develops Acrydite reagent and several associated chemistries for linking DNA probes to solid phases, such as beads, microtiter plates and slides-both glass and plastic. The company\'s product line, EZ-RAY, is a specialty coated glass microscope slide designed for the fabrication of DNA microarrays and also include kits, which contain coated printed slides and control reagents used to verify and calibrate array fabrication procedures.
+	['', 'DNA amplification', ' ', 'microscope slide', ' microarrays ', 'control reagents', ' ', 'fabrication procedures', '']

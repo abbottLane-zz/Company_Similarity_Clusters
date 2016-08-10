@@ -1,33 +1,21 @@
-AdBrite (Certain Intellectual Property Assets)
-	Provider of advertising services. The company has video, data management and optimization technology, which is integrated into its various products aimed at performance-driven digital marketers.
-	['', 'advertisement service', ' ', 'digital data management', ' ', 'intellectual property', ' ', 'data management', ' data']
-LogLogic
-	Developer of log data management and security event management solutions for the business operations of enterprises and mid-market companies in the United States and internationally. The company’s LX-ST and MX appliances enable customers to log data from firewalls, routers, servers, applications, operating systems, and devices to be automatically collected, stored, reported, and alerted for compliance, risk mitigation, security, performance management, virtualization, and user monitoring. Its solutions also include LogLogic MX Virtual that provides enterprise-grade IT data collection, search, and storage solutions, as well as customizable alerts and reports covering identity and access management, user activity, network changes, security, business continuity, and IT performance; Enterprise Virtual Appliance, a software-based appliance that delivers on-demand and scheduled network reports for cloud deployments and virtualized data centers; and LogLogic Compliance Manager, which provides users with an executive view into an enterprise\'s compliance posture. It also provides customer support, consultation, implementation, training, and integration services. Its open log management and database activity monitoring solutions provide tools for customers to monitor activities that occur in networks, applications, databases, and servers. It serves telecommunications, technology, pharmaceutical, retail, petroleum, commercial banks, aerospace and defense, insurance, and healthcare companies.
-	['', 'log data management', ' ', 'security event management', ' ', 'risk mitigation', ' ', 'performance management', ' ', 'data collection', ' ', 'storage solution', ' ', 'activity monitoring', '']
-Human Inference
-	Provider of data management services. The company provides data management services for customer databases. It offers human inference to address data life cycle and also provides customer data services.
-	['', 'data management', ' ', 'human inference', ' ', 'customer database', '']
-Pattern Insight (Log Insight)
-	Provider of cloud log analytic platform. The company provides a data management and search platform.
-	['', 'log analysis platform', ' ', 'data management', ' ', 'data search', ' ', 'cloud log analysis', ' ', 'big data', '']
-Ready Business System
-	Provider of computer data management services. The company provides information system management services and design & integration of web and e-commerce software for businesses.
-	['', 'data management service', ' ', 'information system management', ' ', 'web integration', ' ', 'e-commerce software', '']
-NextPage
-	Provider of technological services to businesses to track and manage documents. The company provides services for tracking documents across e-mail, hard drives and servers.
-	['', 'information retrieval', ' ', 'data gathering', ' ', 'data management', '']
-DCF Technologies
-	Provider of services for eliminating data retrieval bottlenecks. The company offers software services to access data accumulating in organizational and internet portal databases. It also provides SafePeak, which acts as a distributed proxy cache between application servers and database servers to accelerate data access.
-	['', 'data access', ' ', 'performance management', ' ', 'portal database', '']
-DataCenter Technologies
-	Provider of data management software that helps to migrate and protect data. The company\'s solution enables customers to clasify data, simulate data management operations and copy or move data between storage tiers.
-	['', 'data management software', ' ', 'protect data', ' operations']
-Purisma
-	Provider of solutions- driven data management platform and software for enterprises. The company provides online customer registry system that connects enterprise applications, databases and external data sources.
-	['', 'data integration software', ' ', 'data management platform', '']
-Memeo
-	Provider of data-management services. The company’s cloud-based software enables users to access files, protect and restore data and send large files securely. The product has applications for commercial and home-based users and can be used on mobile devices.
-	['', 'database management', ' ', 'data retrieval', ' ', 'restore data', '']
-Singly
-	Provider of an open source personal data and application platform. The company\'s platform integrates third-party services in both web and mobile applications. It offers methods to speed up the process of writing code to authenticate users via third-party services and other data from various social networks and other services.
-	['', 'social data', ' ', 'data management', ' ', 'data transfer', '']
+Alveolus
+	Developer of non-vascular interventional stent technology. The company designs, develops and manufactures non-vascular interventional stent technology for hospitals, physicians, and patients which creates an artificial pathway, support structure and opening for hollow lumen organs that are closed or obstructed due to cancerous lesions or benign disease. The company also offers pulmonary, gastrointestinal and ancillary products for interventional pulmonologists, gastroeterologists and interventional radiologists for use in the lungs, esophagus, enteral and biliary areas.
+	['', 'interventional stent technology', ' ', 'surgery devices', ' ', 'Diagnostic device', '  ', 'ancillary products', '']
+BMJ Medical Management
+	Provider of management services to physician practices that focus on musculoskeletal care. The company focuses on musculoskeletal care, which involves the medical and surgical treatment of conditions related to bones, muscles, joints, and related connective tissues.
+	['', 'surgical treatment', '']
+Endoart
+	Developer of of telemetrically-controlled or remote controlled implants. The company also offers breast implant options for reconstructive and aesthetic breast surgery, and minimally invasive devices for obesity intervention treatment.
+	['', 'breast implant', ' ', 'invasive devices', ' ', 'intervention treatment', ' ', 'healthcare devices', ' ', 'obesity control technology', '']
+ENTrigue Surgical
+	Manufacturer of medical devices and instrumentation for the surgical treatment. The company manufactures articulating instruments, septal staplers, MTM middle turbinate Medializer and absorbable polymers.
+	['', 'articulating instrument', ' ', 'middle turbinate medializer', ' ', 'absorbable polymer', ' ', 'surgical treatment', '']
+NaniRx Therapeutics
+	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
+	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
+Artemis Medical
+	Developer of medical device systems for the surgical and interventional treatment of breast and other cancers.
+	['', 'surgical treatment', ' ', 'interventional treatment', ' ', 'breast cancer', '']
+ActiViews
+	Developer and manufacturer of high-tech medical and surgical devices. The company develops a guiding system for interventional radiology procedures, mainly for biopsy diagnosis.
+	['', 'surgical navigation', ' ', 'diagnostic percutaneous biopsies', ' ', 'biopsy', '']

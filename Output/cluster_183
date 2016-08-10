@@ -1,84 +1,15 @@
-TraceDetect
-	Provider of new chemical and optical sensors. The company provides research and commercialization of new chemical and optical sensors through reductions in electrode size. The company presently focuses on commercialization of automated trace metals measurements instrumentation, using stripping voltammetry and the Nano-Band electrode.
-	['electrode ', 'optical sensor', ' metal']
-Yotta Networks
-	Provider of connectivity products. The company offered advanced elements for all-optical networks.
-	['', 'Fiber Optic', ' ', 'optical network', ' ', 'Telecommunication industry', '']
-NewPort Communications
-	Developer of high-performance optical communications chips. The Company\'s devices are based on a proprietary design technology called Current-Controlled CMOS (C3MOS(TM)).
-	['', 'optical communication', ' ', 'communication chip', ' ', 'proprietary design technology', '']
-RED-C Optical Networking
-	Provider of amplifiers and optical monitoring devices for all network segments. The company offers solutions for some of the industry’s technological challenges such as ultra long repeaterless links and 40Gb/s transmission networks.
-	['amplifier ', 'optical device', ' ', 'transmission networks', ' ', 'transmission module', '']
-Arryx
-	Developer of holographic optical trapping (HOT) technology for optically controlled measurement and manipulation in nanotechnology, biotechnology, physical and material sciences, and basic research industries. The company offers stand-alone and turnkey solutions for holo-tweezers, as well as kit-based packages for the implementation of holographic optical trapping.
-	['', 'optical trapping technology', ' ', 'blood processing application', ' ', 'therapeutic research', ' ', 'nanotechnology application', ' ', 'optical telecommunication', ' ', 'reconfigurable biochip', '']
-Theta Optics
-	Provider of optical products. The company operates shops that sell optical glasses and other optical consumer products.
-	['', 'optical shops', ' ', 'optical products', ' eyeglass spectacles']
-Koyj Company
-	Manufacturer and seller of composite optical materials in South Korea. The company offers optical components, chemical applications, optical films, thermal extrusion processing, and polymer material developments.
-	['']
-Cerent
-	Manufacturer of optical transport platform for service provider.
-	['', 'optical equipment', ' ', 'optical transport platform', ' ', 'optical network', ' ', 'scalable transport', '']
-Kailight Photonics
-	Developer of optical modules for the global telecommunications industry. The company’s components make it possible to upgrade the quality of signals at various points and to correct various distortions created in the signal. This extends the broadcasting range, expands bandwidth and improves signal quality in a given range.
-	['', 'optical module', ' ', 'fiber-optic infrastructure', ' ', 'bandwidth expansion', ' ', 'optical communication', '']
-Nevion
-	Provider of routing, signal processing and optical transmission equipment for broadcasters. The company operates a large media network covering entities like AT&T, Arqiva, BBC, BT, CCTV, EBU, TDF, Telefonica, Telenor and NASA.
-	['', 'optical transmission', ' routing ', 'media network', '']
-Tellium
-	Provider of core optical switches. The company\' optical switches are installed in the core of telecommunications networks to manage the flow of optical signals, which are beams of light carrying voice, video, and data traffic, transmitted over fiber-optic cables.
-	['', 'optical switch', ' ', 'optical signal', ' ', 'fiber-optic cable', '']
-Mintera
-	Provider of high-performance optical transport sub-systems solutions. The company\'s solutions enable deployment of next generation 40 Gbps optical transport in metro-core, regional, long- haul and ultra long-haul optical networks. It primarily serves the carriers, enterprises, educational institutions, and government agencies.
-	['', 'transport subsystem', ' ', 'optical network', ' networking ', 'data transmission', ' ', 'fiber optic', '']
-Équipe Communications
-	Manufacturer of core network switching equipment. The company designs, manufactures and sells markets asynchronous transfer mode and multiprotocol label switching products for the optical network market.
-	['', 'core switch', ' ', 'optical network', ' switching ', 'core network', ' ', 'ATM switches', ' ', 'MPLS switches', '']
-Optical Solutions
-	Provider of fiber-optic communications systems for the local access markets. The company provides optical networks for voice, video and data to service providers. The company\'s customers are facilities-based service providers including independent telephone companies, competitive and incumbent local exchange carriers, utilities, municipalities and housing developers.
-	['', 'Communications Equipment', ' telecommunications ', 'communications systems', ' ', 'optical networks', '']
-NanoOpto
-	Manufacturer of integrated modular nano-optic components for optical systems and networks. The company\'s products include IR cut filters, nano-optic isolators, deep ultraviolet polarizers, polarizing beam splitters/combiners, optical isolators, microlens arrays, and WDM filters, as well as waveplates, retarders, and trim retarders. It\'s services include conformal optical coatings by atomic layer deposition, precision coatings by e-beam deposition, precision dicing, and optical design and engineering.
-	['', 'nano-optic component', ' ', 'IR cut filter', ' ', 'deep ultraviolet polarizer', ' ', 'conformal optical coating', '']
-GalayOr Networks
-	Manufacturer of optical networking products. The company offers on-chip integrated micro opto-mechanical systems for communications equipment vendors and datacom vendors.
-	['', 'optical components', ' datacom ', 'Micro Opto-Mechanical Systems', ' ', 'optical switching', '']
-Ofidium
-	Developer of OFDM technologies. The company provides 100 Gigabits per second optical optical OFDM technologies which delivers increased bandwidth and reduced costs for telecommunications networks.
-	['', 'OFDM technology', ' ', 'communications infrastructure', ' ', 'communications network', ' ', 'optical fiber', '']
-Siimpel
-	Provider of optical micro systems solutions. The company offers Autofocus that corrects for variations in the distance to the object and variations in the lens with temperature; and Shutter that corrects for image distortion and/or blurring when objects are moving, as well as enables dark image subtraction for picture quality in low light conditions.
-	['', 'optical microsystems solution', ' ', 'MEMS sensor', ' ', 'MEMS platform technology', ' ', 'digital imaging', ' ', 'integrated micro-optical system', '']
-Laserdata
-	Developer of a optical storage software. The company develops and markets document imaging and optical storage software for personal computer local area networks.
-	['optical ', 'document imaging', ' storage']
-Tenor Networks
-	Provider of communications equipment that offers service intelligence for optical networks.
-	['', 'communication equipment', ' ', 'optical network', ' ', 'optical switch', ' ', 'optical bandwidth', '']
-Optix Networks
-	Developer of VSLI (very large scale integration) components used in optical switches and broadband networks equipment. The company serves the optical communications market.
-	['', 'scale Integration', ' ', 'optical backbones', ' ', 'information technology ', '']
-JDS Uniphase
-	Viavi Solutions Inc was incorporated in California in 1979 and reincorporated in Delaware in 1993 as JDS Uniphase Corp (CA). The Company changed its name from JDS Uniphase Corp (CA) to Viavi Solutions Inc. The Company is a provider of network and service enablement solutions and optical products for telecommunications service providers, wireless operators, cable operators, network-equipment manufacturers and enterprises. Its segments include Network Enablement, Service Enablement, Communications and Commercial Optical Products and Optical Security and Performance Products. The Network Enablement segment provides an integrated portfolio of testing solutions that access the network to perform build-out and maintenance tasks. These solutions include instruments, software and services to design, build, turn-up, certify, troubleshoot and optimize networks. The Service Enablement segment provides embedded systems and enterprise performance management solutions that supply global service providers, enterprises and cloud operators visibility into network, service and application data. The Communications and Commercial Optical Products segment addresses end markets including data communications (Datacom) and telecommunications (Telecom) networking and commercial lasers (Lasers) for manufacturing, inspection and life-sciences applications. The Optical Security and Performance Products segment leverages its core optical coating technologies and volume manufacturing capability to design, manufacture, and sell products targeting anti-counterfeiting, consumer and industrial, government, healthcare and other markets. The Company markets its products to telecommunications and cable service providers, NEMs, original equipment manufacturers (OEMs), enterprises, governmental organizations, distributors and strategic partners. Its competitors include Giesecke & Devrient, Agilent Technologies, Inc., Anritsu Corporation, Exfo Inc., Ixia, NetScout Systems, Inc.
-	['', '', 'optical communications', ' laser']
-Fiberxon
-	Manufacturer of optical link interfaces for optical communication systems. The company offers telecommunication/data products, optical network products, and optical components, which comprise transceivers and sub-assemblies. Its products enable various applications of optical communication systems, such as metropolitan area network and access network.
-	['', 'optical link interface', ' ', 'optical communication system', ' ', 'optical network product', '']
-Infinera
-	Provider of optical networking computer chips. The company’s DTN System is carrier-class, which means that it complies with applicable Telcordia and equivalent major international standards for central office-based network elements. Its DTN System supports a broad range of optical service interfaces, including Ethernet (Gigabit Ethernet and 10 GbE) and separate synchronous optical network/synchronous digital hierarchy. Infinera Line System 2 Infinera DTN Systems are built upon and connected to one another using an optical line system.
-	['', 'computer chip', ' optics interface ', 'line system', '']
-Lightchip (Dense Wavelength Division)
-	Provider of optical components to the cable and telecommunications industries. The company develops DWDM modules based on its patented free-space diffraction grating technology platform.
-	['', 'optical monitoring', ' ', 'optical routing', ' ', 'wavelength management', ' ', 'fiber optic', ' ', 'optical routing', '']
-Power X
-	Manufacturer of communications chipsets for the telecommunications industry. The company designs switch fabrics for the routing, switching and optical transport markets.
-	['chipsets ', 'switch fabrics', ' ', 'optical transport', '']
-LiquidLight
-	Developer of intelligent optical networking technology that spans from the core to the edge of the optical network. The company offers robust set of revenue enhancing services, such as high-speed internet access, streaming video and guaranteed performance for hosted applications, to the OSP\'s business customers that sit at the edge of the optical network.
-	['', 'optical networking', ' ', 'high-speed internet', ' ', 'video streaming', '']
-Allayer Communications
-	Developer of optical networking communications chips. The company manufactures silicon solutions for the global network and designs flexible and scalable ICs for optical and ethernet switching applications.
-	['', 'optical components', ' ', 'ethernet switch', '']
+Chromatide
+	Provider of custom purification services. The company provides outsourced purification services to the pharmaceutical, biotech, agrochemical and fine chemical industries. It also offers custom peptide synthesis services.
+	['', 'custom purification service', ' ', 'purification service', ' ', 'peptide synthesis service', ' ', 'Commercial Service', '']
+Mosaïc Systems
+	Provider of technology for the development and production of biologics. The company offers products for the production of therapeutics and drugs, food ingredients and agri-based products. It enables isolation and purification of valuable materials, such as antibodies, proteins and enzymes from complex process streams marked for the pharmaceutical, biotechnology and food industries.
+	['biologics ', 'biologics separation', ' ', 'biologics purification', '']
+Radient Technologies
+	Provider of pharmaceutical intermediates, nutraceutical compounds and oil from biomass. The company is engaged in the extraction, purification and isolation of naturally derived compounds and ingredients. It produces natural substances by combining an extraction platform, microwave assisted processing, with expertise in the areas of purification and isolation.
+	['nutraceutical ', 'microwave assisted processing', ' ', 'naturally derived compound', '  biomass']
+EKB Technology
+	Developer of a bioprocessing technology. The company\'s technology platform is used for eliminating the stages involved in product purification and clean up by combining the production and recovery of chemicals.
+	['', 'bipolar electrodialysis', ' electrokinetic chemistry electrodialysis']
+ISOPur Fluid Technologies
+	Developer of high-performance fluid purification systems. The company provides purification systems for hydraulic and lubricating oil used in high-performance, mission-critical industrial machinery.
+	['', 'purifies oil', ' ', 'fluid purity', ' ', 'filter cartridges', ' additives']

@@ -1,15 +1,12 @@
-SepSensor
-	Manufacturer of sensing technologies for monitoring stratification in tanks primarily in the food services industry. The company provides grease interceptor monitoring system which remotely monitors the condition of internal or external grease traps.
-	['', 'grease interceptor monitoring', ' ', 'tank stratification monitoring', ' ', 'sensing technology', '']
-Plasmart
-	Developer of plasma generation and monitoring systems for semiconductors. The company manufactures, and supplies instruments and components used to measure, control and analyze productivity in semiconductor and other advanced manufacturing processes.
-	['', 'plasma generation', ' ', 'monitoring system', ' ', 'advanced manufacturing process', '']
-Farallon Medical
-	Developer of technology for monitoring oral anti-coagulant medications. The company is focused on developing and commercializing prothrombin time (PT) testing devices that can be used at home, as an alternative to conventional devices that are used in clinical settings. The focus is on more frequent PT testing, for a faster response in dose management and less need for venipuncture.
-	['', 'monitoring device', ' ', 'anti coagulant', '']
-SenseCore
-	Provider of health-monitoring devices. The company is a provider of wearable, biomedical monitors that measure a variety of physiological functions and can be linked remotely. The devices have applications for athletes as well as healthcare providers.
-	['', 'monitoring device', ' ', 'physiological monitoring', ' ', 'remote monitoring', ' ', 'biomedical device', '']
-ART Healthcare
-	Developer of tube-feeding technology for the heatlhcare sector. The company is creating a new technology for enteral nourishment of patients. The system includes physiological monitoring and real-time prevention of aspiration pneumonia.
-	['', 'physiological monitoring', ' ', 'enteral feeding', ' enteral ', 'tube feeding', '']
+Billpoint
+	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
+	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
+Beeminder
+	Provider of an online goal-setting tool. The company provides a free platform for users to set personal goals and to track their progress to attain them. The consequence of not staying on track is the user now has to commit to a small payment for the service.
+	['', 'goal setting', ' ', 'personal health', ' ', 'goal tracking', '']
+Tipjoy
+	Operator of a social payment engine. The company allows merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another on their payment engine.
+	['', 'social payment', ' ', 'digital content', ' ', 'payment engine', '']
+Allcharge
+	Provider of e-payment services. The company is a global Internet payment-service provider offering merchants and content owners e-payment, billing and processing technologies and services.
+	['', 'digital content', ' ', 'electronic network', ' ', 'internet payment system', ' e-wallet']

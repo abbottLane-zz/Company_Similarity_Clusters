@@ -1,12 +1,9 @@
-Jensen Devices
-	Developer of high discharge tube technology (GDT). The company specializes in creating discharge tubes for ignition circuits for headlamps in the automotive industry and over-voltage protectors for industrial and telecommunications companies.
-	['', 'automotive tech', ' ', 'high voltage', ' ', 'voltage protectors', ' ', 'headlamps', '']
-Xtime
-	Provider of retention services for the retail automotive industry. The company\'s ServiceCRM software is offered to automotive service departments for web scheduling and customer relationship management.
-	['', 'web scheduling', ' ', 'automotive service', ' ', 'online scheduling', ' ', 'dealership scheduling', ' ', 'call-center scheduling', ' ', 'service marketing', ' ', 'shop control', '']
-Digital Motorworks
-	Provider of information management services to the retail automotive industry. The company provides the automotive industry with dealership management system (DMS) data and data management solutions for a variety of business initiatives, including parts locators, service marketing programs, service history reports, sales programs, vehicle valuations, customer relationship management, OEM data analytics, consumer-facing website content, and inventory management.
-	['', 'automotive industry', ' ', 'information management system', ' ', 'database software', '']
-Finow Automotive
-	Manufacturer of components and parts for the automotive industry. The company manufactures tubes and profiles for chassis and engine applications to attain weight optimization and structural strength. The company also provides laser welding system for single tubes and tailored tubes.
-	['', 'component manufacturing', ' ', 'automotive industry', ' ', 'laser welding', ' ', 'steel tubes', '']
+Zars Pharma
+	Developer of topically administered drugs. The company\'s products include Pliaglis, a topical local anesthetic cream that provides local dermal anesthesia on intact skin prior to painful cosmetic procedures, such as dermatologic laser surgery and dermal filler injections; Synera, a topical patch designed to provide local dermal anesthesia for potentially painful superficial procedures, such as venous access procedures involving needles and immunization injections of children; and Flexicaine, which is designed to provide rapid dermal analgesia to affected skin for the treatment of post-herpetic neuralgia.
+	['', 'pharmaceutical drug', ' ', 'pain management', ' ', 'anesthetic cream', ' ', 'dermal anesthesia', '  immunization ', 'post-herpetic neuralgia', ' psoriasis ', 'hand dermatitis', ' risperidone']
+ISW Group
+	Developer of topical dermatological products. The company\'s product focuses on a medical condition known as \'razor bumps,\' \'shaving bumps,\' or \'ingrown hairs\' where the irritation is caused by an inflammatory reaction in response to a foreign body being embedded into the skin.
+	['', 'dermatological products', ' skin papules']
+Aclaris Therapeutics
+	Developer of topical dermatological therapies. The company is a specialty pharmaceutical company with a mission to develop topically applied therapy directed towards the removal of seborrheic keratosis and other verrucoid lesions of the skin.
+	['dermatology ', 'dermatological therapy', ' ', 'topical treatment', ' ', 'skin lesion', '']

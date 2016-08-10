@@ -1,36 +1,30 @@
-Aduva
-	Developer of software applications for maintaining Linux computer systems. The company\'s product, Aduva OnStage, is a life-cycle management application which is used to detect, analyze, and resolve any deviation, conflicts or drift from compliance. The application ensures security and system compliance in supporting the build, test, stage, deployment, and production stages.
-	['', 'software application', ' ', 'Linux computer systems', ' ', 'system maintenance', ' ', 'system compliance', '']
-Transfusion Technologies
-	Developer and designer of systems for processing human blood for transfusion to patients. The company\'s systems are based on centrifuge technology called the Dynamic Disk and consist of sterile, single use disposable sets and computer controlled electromechanical devices that control the blood processing procedure.
-	['', 'centrifuge technology', ' ', 'monitoring systems', '']
-Sequent
-	Manufacturer of computer systems.
-	['', 'computer systems', '']
-Pixel Qi
-	Developer and producer of laptop screens. The company offers epaper diagonal screens for netbooks and ebook readers.
-	['', 'laptop screen', ' ', 'epaper diagonal screen', ' ', 'computer part', '']
-Omegaon Networks
-	Developer of computer program to identify problems in computer networks. The company develops a software system permitting quick and continuous identification of difficulties and interruptions in the various communications networks.
-	['', 'computer program', ' ', 'software system', ' ', 'communication network', '']
-BusLogic
-	Supplier of Small Computer Systems Interface (SCSI) host adapters and RAID products for desktop PCs and network servers. The company\'s products were used by OEMs, VARs and system integrators.
-	['', 'Small Computer Systems Interface', ' RAID server']
-Simulus
-	Developer of performance management software for host mainframe systems. The company develops systems for enterprise computer systems that gives companies the chance to eliminate problems before they occur.
-	['', 'performance management', ' ', 'host mainframe', ' eliminate']
-Ntropy
-	Provider of computer programming services. The company offers computer programming services.
-	['', 'computer programming', ' ', 'programming services', '']
-NextIO
-	Developer of chips for computer servers. The company offers protocol agnostic solution, which supports server I/O technologies, including Ethernet, fiber channel, InfiniBand, iSCSI and SAS.
-	['', 'computer chip', ' ', 'computer server', ' ', 'agnostic solution', ' ', 'protocol agnostic', ' ', 'I/O technology', '']
-Pacinian
-	Manufacturer of keyboards and touchscreens. The company produces liquid crystal displays drivers, computer parts, keyboards and touchscreens and other products.
-	['keyboard touchscreen ', 'computer parts', ' ', 'computer hardware', '']
-FORE Systems
-	Supplier of networking solutions based on intelligent infrastructure. The company designs, manufacturers and sells product design to handle the networked applications. The company is a supplier of ATM, computer network switches as well as the developer of network switches.
-	['', 'Asynchronous Transfer Mode', ' ', 'computer network switches', ' ', 'high performance networking systems', ' ', 'enterprise applications', '']
-CyberPower Systems
-	Designer, manufacturer and marketer of Uninterruptible Power Supply (UPS) systems. The company offers line of emergency battery backup systems for computer systems, electronics and telecommunication equipment.
-	['', 'emergency battery', ' ', 'backup system', ' uninterruptible']
+Alinea Pharmaceuticals
+	Develop of therapeutics for the treatment of diabetes and other metabolic disorders. The company also commercialize pharmaceuticals for the treatment of diabetes and related metabolic disorders.
+	['', 'diabetes treatment therapeutic', ' ', 'metabolic disorder treatment', ' ', 'diabetes treatment pharmaceutical', '']
+Discovery Partners International
+	Provider of technologies and services to pharmaceutical and biotech companies. The company\'s services assist worldwide pharmaceutical and biotechnology companies in the design, development and production of assays of disease molecules to accelerate their drug discovery activities.
+	['', 'drug discovery', ' ', 'pharmaceutical healthcare', ' ', 'disease molecule', ' ', 'drug discovery', '']
+Trega Biosciences
+	Developer of products designed to assist pharmaceutical and biotechnology companies in the identification of drug candidates. The company conducts an internal drug discovery program in the areas of obesity, diabetes and syndrome X, a syndrome associated with obesity and diabetes, involving the human body\'s resistance to insulin.
+	['', 'drug discovery', ' ', 'drug discovery program', ' ', 'obesity treatment', ' ', 'diabetes treatment', '']
+Paradigm Therapeutics
+	Developer of drugs combining model genetics and bioinformatics. The company provides target identification and validation services based on gene knock out technology and in vivo pharmacology. The company has developed a drug discovery pipeline comprising targets and late stage pre-clinical projects in pain, CNS disorders, hormone dependent diseases such as prostate and breast cancer and metabolic diseases such as diabetes, hyperlipidemias, obesity and osteoporosis.
+	['', 'hormone dependent diseases', ' bioinformatics ', 'model genetics', ' ', 'validation services', '']
+Elitra Phramaceuticals
+	Developer of next generation antimicrobial drugs that target essential gene products of pathogenic organisms. The company employs its functional genomics technologies to identify essential gene drug targets in clinically relevant bacterial and fungal pathogens.
+	['', 'antimicrobial drug', ' ', 'drug discovery', ' ', 'pathogenic organism', '']
+C4X Discovery Holdings
+	Developer of pharmaceutical services and drug discovery. The company used a NMR-based technique to determined 3D molecular structures with high accuracy. It is focused on the design and development of medicines and partnering with the pharmaceutical sector to generate better, safer products.
+	['', 'design and development', ' ', 'pharmaceutical sector', ' ', 'pharmaceutical drug discovery', '']
+Santaris Pharma
+	Developer of ribonucleic acid (RNA) targeted therapies. The company\'s Locked Nucleic Acid (LNA) Drug Platform and Drug Discovery Engine  is designed to deliver single-stranded Locked Nucleic Acid (LNA) based drug candidates across an array of disease states, including  cancer, cardiovascular disease, infectious and inflammatory diseases and rare genetic disorders.
+	['', 'nucleic acid', ' ', 'drug discovery engine', ' ', 'ribonucleic acid', '']
+LifeMed Media
+	Provider of multimedia platform for the diabetes community. The company provides information and community support for type 1 diabetes, type 2 diabetes, and caregivers online. It offers a TV program, a web portal, direct mail, and professional and retail programs.
+	['', 'retail program', ' ', 'diabetes community', ' ', 'direct mail', '']
+DiaKine Therapeutics
+	Developer of drugs for diabetes and related complications. The company provides oral compounds drug therapies to stop the progression of diabetes and helps to recover damage already caused by the disease.
+	['', 'diabetes drug', ' ', 'diabetic treatment', ' ', 'oral compound drug', '']
+Ionis Pharmaceuticals
+	Provider of antisense drug discovery and development exploiting a novel drug discovery platform it created to generate a pipeline of first-in-class drugs. The company\'s provides a direct route from genomics to drugs. The company discovers and conducts early development of new drugs and, at the key clinical value inflection points, outlicense the drugs to its partners.
+	['', 'antisense drug', ' ', 'drug delivery', '']

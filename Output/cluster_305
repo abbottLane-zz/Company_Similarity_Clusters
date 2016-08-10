@@ -1,39 +1,27 @@
-Arcxis Biotechnologies
-	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
-	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
-FASgen
-	Developer of therapeutic drugs. The company designed and synthesized many compounds that selectively inhibit fatty acid biosynthesis. It offers cancer, infectious diseases, multiple drug resistant and latent tuberculosis and obesity and diabetes therapeutics.
-	['', 'therapeutic drugs', ' ', 'diabetes tool', ' ', 'latent tuberculosis', '']
-Sterix
-	Operator of a biopharmaceutical company. The company specializes in the research and development of a new generation of steroid-based therapeutic products for use in oncology and metabolism or endocrine-related diseases, including cancer treatments, women\'s health, diabetes and hormone-associated diseases.
-	['steroid metabolism endocrine']
-Serodus
-	Developer of pharmaceuticals for treatment of diseases in the heart and blood vessels. The company focuses on new therapeutic products for the treatment of cardiovascular diseases with large unmet clinical needs.
-	['', 'cardiovascular diseases', ' ', 'blood vessels', ' ', 'therapeutic products', '']
-Oxxon Therapeutics
-	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
-	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
-Scancell
-	Developer of biopharmaceutical products. The company engages in the discovery and development of novel monoclonal antibodies and vaccines for the treatment of cancer and infectious diseases based on its ImmunoBody and Moditope platforms.
-	['', 'biopharmaceutical product', ' ', 'monoclonal antibodies', ' ', 'infectious diseases', '']
-Inviragen
-	Developer of vaccines to protect against various infectious diseases. The company offers its products to protect against dengue viruses, as well as West Nile, swine-origin, plague, smallpox and various other diseases.
-	['', 'dengue virus', ' ', 'infectious diseases', ' ', 'avian influenza diseases', ' ', 'viral vaccine', ' ', 'mouth disease', '']
-GeneGrafts
-	Provider of therapeutic products. The company manufactures therapeutic products to treat cardiac arrhythmia, Parkinson\'s disease and epilepsy.
-	['', 'therapeutic product', ' ', 'cardiac arrhythmia treatment', ' ', 'epilepsy treatment', '']
-IQ Therapeutics
-	Developer of human antibodies for the prevention and treatment of infectious diseases. The company provides research and development services and also offers technology as a service for third parties.
-	['', 'human antibodies', ' ', 'infectious diseases', ' ', 'anthrax infections', '']
-Lee\'s Pharmaceutical Holdings
-	Provider of pharmaceuticals for drug development and clinical development. The company specializes in cardiovascular and infectious diseases, dermatology, oncology, gynecology, ophthalmology and others.
-	['', 'infectious diseases', ' dermatology']
-Nucleonics
-	Provider of biotechnology services. The company is engaged in the development of novel RNA interference-based therapeutics for viral and other diseases.
-	['', 'therapeutic products', ' ', 'biotechnology services', ' ', 'viral diseases', '']
-Cantab Pharmaceuticals
-	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
-	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
-Xcyte Therapies
-	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
-	['', 'drug discovery', '']
+TestSource
+	Provider of behavioral-based, pre-employment assessments for the healthcare industry. The company offers healthcare selection inventory services, a behavioral-based pre-employment assessment service designed to identify top performers for job families, such as nursing, patient care, entry-level service, administrative/clerical and technical/professionals.
+	['', 'pre employment assessment', ' ', 'inventory service', ' ', 'clerical service', ' ', 'technical service', '']
+Indeed
+	Provider of an online job searching portal. The company acts as an external source of hiring and an employer review site.
+	['', 'online search engine', ' ', 'job searching portal', ' ', 'hiring source', ' ', 'employer review site', '']
+Lana Interim
+	Operator of an employment agency. The company matches candidates with job opportunities in manufacturing, construction, logistics, medical and other industries. The company serves the employer sector by providing a pool of available candidates for hire.
+	['', 'employment agency', ' ', 'HR Service', ' ', 'employment service', '']
+Seelio
+	Provider of an online platform for college students to showcase their work and experience to employment recruiters. The company enables college students to showcase their work via online portfolios.
+	['', 'student job search', ' ', 'employment search', ' ', 'online recruitment', '']
+Joyo
+	Provider of a career exploration site. The company\'s platform helps people navigate and discover careers they love.
+	['', 'career exploration', ' ', 'job search', ' ', 'employment portal', ' ', 'career search', '']
+InfoJobs Spain
+	Developer of an online job platform. The company provides a digital platform that offers employment information services in Spain.
+	['', 'online job platform', ' ', 'job portal', ' ', 'employment services', '']
+itzBig
+	Operator of an interactive job search website. The company provides an interactive job search website that matches employers and candidates in real-time.
+	['', 'online job search', ' ', 'online recruitment', ' ', 'interactive job search', '']
+Collegefeed
+	Developer of a social platform for students and employers. The platform offers a Facebook-like news feed where students can access tuition help, job opportunities, interview-preparation help and access to alumni and mentors. It connects employers with students as they progress through school as opposed to forcing decisions through short interviews, career fairs and campus visits.
+	['', 'job opportunity', ' ', 'job seeking platform', ' ', 'digital platform', '']
+Snaptalent
+	Operator of a job advertisement network. The company\'s network detect the IP addresses of website visitors and attempt to identify whether they work for a particular company or attend a particular university.
+	['', 'job advertisement', ' ', 'IP address detection', ' ', 'job information', ' job']

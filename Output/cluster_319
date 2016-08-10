@@ -1,30 +1,15 @@
-Molecular Engines Laboratories
-	Developer of a new generation of drugs against cancer. The company\'s research is focused on the analysis and understanding of the molecular mechanism which makes it possible for a cancer cell to quit its malignant state and to revert to a suppressed-malignant phenotype.
-	['', 'cancer drug', ' ', 'cancer cell analysis', ' ', 'cancer research', '']
-Avidimer Therapeutics
-	Developer of targeted therapeutics to treat cancer and other diseases. It is a biopharmaceutical company that focuses on the advance use of its proprietary nano-scale therapeutic platform for the treatment of certain cancers through clinical trials.
-	['', 'cancer treatment', ' ', 'clinical trials', ' ', 'therapeutic platform', '']
-Jennerex Biotherapeutics
-	Developer of oncolytic products for cancer. The company\'s products include JX-594, an engineered oncolytic virus that selectively targets and destroys cancer cells, JX-929 that targets the epidermal growth factor receptor and ras signal transduction pathways and JX-963, which is engineered from a strain of vaccinia virus.
-	['', 'cancer treatment', ' ', 'oncolytic product development', ' ', 'vaccinia virus', ' ', 'epidermal growth', '']
-Orthotopix
-	Developer of modelling products for cancer research. The company is a provider of cell, tissue and animal models modelling the prevention and treatment of breast cancer and prostate cancer, urodynamical models of urethral function and a cell line-based safety model of the endometrium. The company provided its products and services to drug-development companies.
-	['', 'drug development', ' ', 'healthcare service', ' ', 'tissue modeling', '']
-Cabrellis Pharmaceuticals
-	Developer of therapies for the treatment of cancer. The company\'s product includes synthetic anthracycline drug for small cell and nonsmall cell lung cancers in Japan. It also has drug commercialization rights in North America and Europe.
-	['', 'cancer treatment', ' ', 'lung cancer treatment', ' ', 'drug commercialization', '']
-VectorLogics
-	Developer of virus based cancer therapies and therapeutic vaccines for viral liver diseases. The company utilizes IBDV technology for research on Viral hepatitis and Hepatocellular carcinoma. The company commercializes products for Cancer Virotherapy, Cancer Vaccines, Prophylactic and Therapeutic Vaccines.
-	['', 'Viral hepatitis', ' ', 'Hepatocellular carcinoma', '  carcinoma liver IBDV ', 'Infectious Bursal Disease Virus', '']
-LifeSpex
-	Provider of accurate, rapid, and cost-effective products for the early detection of cancer. The company develops its new products by combining advanced biophotonic and state-of-the-art signal processing technologies.
-	['', 'cancer detection', '']
-Stemline Therapeutics
-	Stemline Therapeutics Inc is a clinical-stage biopharmaceutical company. The Company is engaged in discovering, acquiring, developing and commercializing proprietary therapeutics that target both cancer stem cells, or CSCs, and tumor bulk.
-	['', 'oncology', ' ', 'cancer stem cell', ' ', 'interleukin receptor', ' ', 'hematological cancer', ' ', 'leukemia blast', '']
-Algeta
-	Developer of novel targeted therapies for patients with cancer, based on its alpha-pharmaceutical platform. The company is focused to extend and improve cancer patient\'s lives by developing targeted therapies to fulfill unmet medical needs. It\'s lead product Alpharadin is used for treatment for cancer patients with bone metastases. They are also developing thorium targeted conjugates which are based on conjugating the alpha-emitter thorium-227 to tumor-targeting molecules.
-	['', 'cancer drug', ' ', 'targeted therapy', ' ', 'bone metastase', '']
-Cell Genesys
-	Developer of novel biological therapeutic products for patients with cancer.The company pursues three cancer product platforms -- GVAX(R) cancer vaccines, oncolytic virus therapies and in vivo cancer gene therapies. The company provides clinical trials of GVAX(R) vaccines are under way in prostate cancer, lung cancer, pancreatic cancer, leukemia and myeloma.
-	['', 'therapeutic products', ' ', 'cancer treatment', '']
+General Telephone and Electronics
+	Operator of an independent telephone company. The company provides telecommunications products, telephone operations and electrical products.
+	['', 'wiring devices', ' ', 'electronic devices', ' wiring']
+Celestry
+	Provider of physical design products. The company offers software and services to electronic and semiconductor companies that are involved with the design of chips.
+	['chips electrinc semiconductor']
+Takumi Technology
+	Provider of design for manufacturability (DFM) products. The company engages in designing products that a easy to manufacture. The company also provides mask detection and automated full chip semiconductors.
+	['', 'design for manufacturing', ' ', 'semiconductor devices', ' ', 'electronic products', '']
+Alchip Technologies
+	Provider of silicon design and manufacturing services for companies developing complex and high-volume system-on-chip (SoC) designs. The company provides services intended to enable customers to cost-effectively address increasing technological complexity of silicon design and the need to reduce time to market. It targets customers that address rapid growing and high-volume end markets, such as entertainment devices, mobile phones, HDTV, communications equipment, computers and other consumer electronic products.
+	['', 'silicon design', ' ', 'manufacturing services', ' ', 'design services', ' ', 'system-on-chip', '']
+Ponte Solutions
+	Developer of model-based software products and design-for-manufacturing solutions that analyze, predict and reduce the impact of process variability during the manufacture and design of semiconductors.
+	['', 'semiconductor software', ' ', 'manufacturability solution', ' ', 'design automation', ' ', 'IC design', '']

@@ -1,36 +1,18 @@
-Precision Beam
-	Provider of laser cutting services. The company provides laser cutting and welding services in United Kingdom.
-	['', 'laser cutting', ' ', 'welding service', ' laser']
-Pixer Technology
-	Designer and supplier of semiconductor capital equipment to integrated circuit manufacturers and mask makers. The company develops integrated systems based on its innovative optical laser technologies. It also develops technological products for the discovery and correction of defects in semiconductor production and improve quality control.
-	['', 'optical laser', ' pixel laser IC']
-Spectralus
-	Developer of solid-state green laser platform. The company\'s product is suitable for integration into mobile projection devices.
-	['laser ', 'green laser', '']
-TherMark
-	Developer of laser marking technology and materials. The company has a patented laser marking process which produces permanent marks on a variety of surfaces including metals, ceramics, glass, porcelain, nylon, marble, granite, stone and some plastics. The technology is increasingly being used as a solution for component tracking, quality control and anticounterfeiting in the automotive, aerospace and perfume and cosmetics industries.
-	['', 'laser marking equipment', ' ', 'fuse marking', ' ', 'laser device', ' ', 'electrical system', '']
-GWS Photonics
-	Developer of tunable components. The company produces tunable components for fiber optic dense wavelength division multiplex systems.
-	['', 'fiber optic', ' tunable ', 'laser application', '']
-PhaseBridge
-	Provider of photonic integration technologies, devices and system solutions. The company offers wideband externally modulated laser transmitters, wideband integrated laser transmitters, and external cavity mode-locked lasers.
-	['semiconductors', 'laser transmitters', ' ', 'mode-locked lasers', '']
-PinPointe USA
-	Developer of laser light-based therapies for treating nail fungus. The company develops laser-enabled devices to address onychomycosis and other footcare issues. The company  also offers PinPointe FootLaser, a laser device for the temporary increase of clear nail in patients with onychomycosis or nail fungus.
-	['', 'laser light', ' ', 'nail fungus', ' ', 'laser enabled devices', ' onychomycosis']
-XLight Photonics
-	Manufacturer of tunable transponders. The company develops and commercializes next-generation optical switching fabrics for multi-terabit routers.
-	['', 'scalable solution', ' ', 'network congestion', ' ', 'information technology', '']
-Agility Communications
-	Provider of laser solutions for the optical network. The company focuses on offering tunable transponder and tunable laser solutions for carriers and system providers.
-	['', 'laser solution', ' ', 'optical network', ' ', 'tunable transponder', ' ', 'tunable laser', '']
-20/10 Perfect Vision
-	Developer of femtosecond and excimer laser technologies for refractive and cataract surgeons. The company’s products include excimer workstations for laser surgery, femtosecond workstations, diagnostic workstations and ZYOPTIX XP, a microkeratome system that allows surgeons to perform stromal and epithelial flaps.
-	['', 'laser surgery', ' ', 'diagnostic workstations', ' ', 'microkeratome system', ' ', 'epithelial flaps', ' cataract']
-Altitun
-	Manufacturer of tunable lasers and transmitters that enable flexible provisioning of affordable bandwidth. The company develops commercially available tunable semi-conductor laser for the telecommunications industry.
-	['transmitter ', 'tunable laser', ' ', 'switching laser', ' ', 'optical packet switching', ' ', 'semiconductor laser', '']
-Xebeo Communications
-	Developer of optical packet switch for metro networks. The company offers switching platforms that deliver packet services with QoS guarantees and manageability.
-	['', 'optical packet', ' ', 'packet switch', ' ', 'metro network', ' ', 'switching platform', '']
+Hearing Science
+	Provider of hearing health care and audiologist services. The company\'s services include marketing, public relations, managed care contracting, recruiting and training, accounting services, facility management and enhanced information systems. The company also conducts hearing tests and provides patients with hearing aids.
+	['', 'hearing health', ' ', 'audiologist services', ' ', 'diagnostic devices', ' ', 'check-up clinics', ' ', 'facility management', ' audiology']
+Nacre
+	Developer of a patented technology for intelligent hearing systems. The company develops electronic and passive in ear hearing protection with natural speech and radio communications.
+	['', 'hearing system', ' ', 'hearing protection', ' ', 'natural speech', ' ', 'radio communication', '']
+Auris Medical
+	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
+	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
+Fryers Walk VCT
+	Provider of nursing home services for people with learning and hearing disabilities in Thetford. The company operates a 34 bedroom home to provide home care services for people with learning and hearing disabilities.
+	['', 'home care', ' ', 'nursing home', ' ', 'hearing disability', '']
+AVR Communications
+	Developer of hearing technologies. The company designs, manufactures and sells hearing aids for improving the auditory and verbal communication skills of hearing impaired children and adults.
+	['', 'hearing aids', ' ', 'hearing impairment', ' ', 'hearing technologies', '']
+William Demant Holding
+	Manufacturer of hearing devices. The company develops and sells products and equipment designed to aid people with hearing loss in their individual communication.
+	['', 'hearing aid', ' ', 'Hearing Implants', ' ', 'Diagnostic Instruments', '']

@@ -1,18 +1,36 @@
-Solid Information Technology
-	Provider of proprietary database products. The company also provides various consulting services, which include technical assessment, proof of concept and database and application migration services.
-	['', 'database products', ' ', 'business consulting', ' ', 'application migration service', '']
-ObjectRocket
-	Provider of a cloud Database as a Service based on MongoDB database. The company provides open source-based MongoDB system that help users to manage big data.
-	['', 'cloud database', ' ', 'database management system', ' ', 'MongoDB database', '']
-Membase
-	Provider of elastic NoSQL database technologies. The company offers Membase Server, a distributed key-value database for the data management needs of interactive Web applications, which employs a non-relational data model and allows the data tier to scale out the Web application logic tier by adding various commodity servers; and Memcached, a distributed data caching technology that transparently caches data in front of its key-value database.
-	['', 'database technology', ' ', 'database management', ' ', 'database application', '']
-TopTier Software
-	Provider of enterprise information portals and products that unify information residing throughout an organization\'s computing systems. The company provides software platform that integrates corporate data residing in a company and its business partners enterprise applications, databases, text documents, web sites and other data sources and allows end users to directly access, navigate and manipulate this data through a corporate portal which serves as a common user interface for the company.
-	['', 'enterprise database', ' ', 'portal software', ' ', 'ebusiness portals', ' database']
-Dabble DB
-	Developer of database applications. The company let users build multiple database applications from a single database or spreadsheet.
-	['', 'database application', ' spreadsheet ', 'database chart', ' ', 'database maps', '']
-Clustra Systems
-	Developer of database systems. The company provides clustering technology that allows apps to failover and provide high degrees of uptime.
-	['', 'database system', ' ', 'clustering technology', ' failover']
+Frontlineshop
+	Provider of an online retail store for streetwear. The company offers clothing, shoes and accessories on the internet through its online store. It also offers merchandise of different brands.
+	['', 'street wear', ' ', 'brand bandwidth', ' ', 'online retail store', '']
+Shanghai 9Diamond Jewelry
+	Provider of online diamond retail store. The company offers a sale platform of diamond products including jeweleries in and across Shanghai.
+	['', 'sale platform', ' ', 'diamond jewelry', ' diamonds']
+iGet.it
+	Operator of an online private buying club of exclusive products. The company provides opportunity to members to buy exclusive products for a limited period of time.
+	['', 'online buying', ' ', 'online retail store', ' ', 'electronic commerce', '']
+24h00
+	Provider of an online retail marketing platform. The company provides branded marketing services to retail clients through its e-commerce website, which provides a changing topography of consumer discounts.
+	['', 'online retail', ' ', 'discounted rates', ' ', 'shopping online', ' ', 'branded products', '']
+dealvertise
+	Provider of online deal services that enable high-reach companies to integrate daily deals into their own web sites. The company acts as a neutral facilitator of deals and a service provider of all services to building and operating a group shopping platform.
+	['', 'deal services', ' ', 'neutral facilitator', ' ', 'shopping platform', '']
+Start Here
+	Operator of an online shopping platform. The company provides an online retail store for Australian consumers.
+	['', 'online retail store', ' ', 'shopping platform', ' ', 'daily deals', '']
+LiL\' Things
+	Provider of children specialty retail chain. The company provides retail store services for infant\'s and children\'s toys, apparel, furniture, and accessories.
+	['', 'children retail', ' ', 'specialty retail', ' ', 'retail store', ' ', 'retail services', '']
+ShareBloc
+	Provider of an online enterprise vendor comparison platform. The company provides enterprise consumers with an online platform to rate, review, ask and answer questions about their vendors. It also works closely with the vendor community to reach their customers.
+	['', 'vendor comparison platform', ' ', 'vendor rating', ' ', 'online portal', '']
+AbsolutelyNew
+	Operator of an consumer goods company that launches new products from inventors into stores, catalogs, online retail stores and television shopping channels. The company engages in identifying, licensing, manufacturing, and selling inventions.
+	['', 'online retail store', ' ', 'television shopping channel', ' ', 'selling invention', ' ', 'television shopping', '']
+ActivityStream.io
+	Operator of an online store. The company provides an online platform which connects e-commerce retailers with customers.
+	['', 'customer activity', ' ', 'purchase decisions', ' ', 'customer satisfaction', '']
+Yardsale
+	Provider of an online retail platform. The company offers a platform that enables users to list items for sale and then sell their products on other local marketplaces.
+	['', 'local marketplace', ' ', 'online retail platform', ' ', 'online selling platform', '']
+GoNabit
+	Operator of online shopping platform. The company provides an e-commerce platform which connects buyers and sellers, and offers discounted products for a limited period of time.
+	['', 'group buying', ' ', 'daily deals', ' ', 'online marketing', '']

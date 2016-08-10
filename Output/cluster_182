@@ -1,39 +1,24 @@
-SaltCheck
-	Developer of a technology to monitor salt intake for the control of hypertension and congestive heart failure. The company develops the technology for self-monitoring by people used in doctor offices, clinics and for home use worldwide.
-	['', 'salt intake', ' monitor  hypertension ', 'congestive heart failure', ' ', 'urine spot test', '']
-CircuLite
-	Developer of miniature blood pumps for the long-term treatment of chronic heart failure. The company provides synergy pocket circulatory assist device, which is designed to rest a failing heart by supplementing its natural function.
-	['', 'blood pump', ' ', 'miniature pump', ' ', 'heart failure', ' ', 'Circulatory assist device', '']
-InflammaGen
-	Developer of treatment, assay and lavage to treat and diagnose multiple organ dysfunction syndrome (MODS), formally known as multi-organ failure.
-	['', 'dysfunction syndrome', ' ', 'surgical devices', ' ', 'multi-organ failure', ' ', 'inflammatory mediator', '']
-CardioOptics
-	Developer of catheter-based systems for minimally invasive treatment for heart failure and various cardiovascular diseases. The company offers sinus access system that allows physicians to see through flowing blood, and look directly at heart and blood vessel anatomy and tissue; and implant biventricular pacemaker leads to treat heart failure. Its system includes the a forward-viewing infrared steerable catheter; and image acquisition console, a digital touch-screen control monitor, which includes a camera pod containing an infrared camera that sends siteseekir images from catheter tip to the monitor.
-	['', 'minimally invasive treatment', ' ', 'heart failure treatment', ' ', 'cardiovascular disease treatment', ' ', 'sinus access system', ' ', 'biventricular pacemaker', ' ', 'infrared steerable catheter', ' ', 'image acquisition console', ' pacemaker catheter']
-Cornovus Pharmaceuticals
-	Developer of methods to treat cardiac hypertrophy and heart failure. The company develops a technology that helps to delay the onset of heart failure after a heart attack or injury.
-	['', 'cardiac attack', ' ', 'cardiac hypertrophy', ' ', 'heart failure', ' ', 'heart injury', '']
-LifeMasters Supported SelfCare
-	Provider of health promotion and disease management programs and services. The company offers programs for individuals with diabetes, congestive heart failure, coronary artery disease, chronic obstructive pulmonary disease, hypertension and asthma, cancer, metabolic syndrome and musculo-skeletal pain. It also provides programs for depression and lifestyle changes, such as smoking cessation and weight loss.
-	['', 'weight loss', ' ', 'health promotion', ' ', 'disease management', ' ', 'heart failure', ' ', 'coronary artery management', ' ', 'smoking cessation', '']
-Viacor
-	Developer of catheter-based techniques for the treatment of heart valve disease contributing to congestive heart failure. The company develops percutaneous therapies for cardiac valve repair; and a minimally invasive cardiac valve repair system to treat congestive heart failure patients afflicted with mitral regurgitation or leaky mitral valves.
-	['', 'heart treatment', ' ', 'heart valve disease', ' ', 'heart failure', ' ', 'percutaneous therapy', '']
-BG Medicine
-	Developer of novel cardiovascular diagnostic tests. The company\'s product pipeline includes BGM Galectin-3, a diagnostic test for heart failure that measures galectin-3 levels in blood plasma or serum. It also offers TNF alpha blockers comprising Enbrel, Remicade and Humira, which are treatments indicated for autoimmune diseases, such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and Crohn’s disease.
-	['', 'diagnostic test', ' ', 'heart failure', ' ', 'cardiovascular test', ' ', 'lipid disorder', '']
-Asahi Kasei Pharma America
-	Provider of critical-care and hospital-based therapeutics to patients, treating physicians, and payors in the United States and internationally. The company offers ART-123, a novel, recombinant, and soluble thrombomodulin for the treatment of disseminated intravascular coagulation in sepsis.
-	['biopharmaceutical ', 'critical care', ' ', 'hospital based therapeutic', ' ', 'disseminated intravascular coagulation', ' hematolog ', 'blood clotting', ' ', 'deep vein thrombosis', '']
-AngioGuard
-	Developer of embolic containment technology. The company has developed containment technology designed to protect the heart and brain from embolic particles potentially dislodged during interventional medical procedures.
-	['', 'embolic containment technology', ' ', 'heart surgery', ' ', 'embolic particle protection', '']
-Entellus Medical
-	Developer of balloon-dilation technologies to treat sinusitis. The company offers XprESS multi-sinus dilation tool, which offers ENT physicians a tool to trans-nasally treat the frontal, sphenoid or maxillary sinuses in either a doctor’s office or operating room.
-	['', 'sinus treatment', ' healthcare ', 'sinus dilation', ' sinusitis ', 'therapeutic solution', '']
-Corthera
-	Developer of therapies for illnesses in the acute care setting. The company\'s product Relaxin, which is developed from a naturally occurring polypeptide hormone, is used to treat acute decompensated heart failure.
-	['therapy treatment illness ', 'care setting', '']
-Cardiola
-	Developer of therapeutic systems to treat heart failure. The company offers a treatment system for heart failure treatment in patient settings and hospital based treatment regimens.
-	['', 'treatment system', ' ', 'therapeutic system', ' ', 'heart failure treatment', '']
+CGEN Digital Media Co.
+	Provider of lifestyle targeted interactive digital media network. The Company provides digital media platforms aimed at Chinese consumers at various urban locations.
+	['', 'lifestyle targeted media', ' ', 'interactive digital media', ' ', 'display network', ' ', 'digital media', '']
+AdzCentral
+	Developer of a scientific media buying platform. The company offers automated digital ad buying, campaign measurement, analytics, and visitor profiling.
+	['', 'media buying', ' ', 'ad-matching', ' ', 'programmatic buying', ' ', 'smart media buying', '  ', 'campaign measurement', '']
+Universal Electronics
+	Designer and developer of solutions that enable consumers to control entertainment devices, digital media, and home systems. The company sells and licenses wireless control products through distributors and retailers under the "One For All" brand name. The company\'s offerings include Universal Code Library, Macro Keys, Upgrade ability, IR Blaster, Extensible Multimedia Protocol and RF Technology.
+	['', 'entertainment device', ' ', 'Universal Code Library', ' ', 'electronic services', ' ', 'consumer durables', '']
+Zap Media
+	Developer of technology to allow the storage and delivery of digital media assets. The company develops convergence technology and bringing entertainment to consumers’s living room.
+	['', 'digital media', ' ', 'entertainment software', '']
+Tukati
+	Provider of managed services and software for large-scale, secure and legal distribution of digital media.
+	['', 'digital media', ' ', 'Computer Programming', ' ', 'Software Publisher', '']
+DisplayPoints
+	Provider of interactive content and information directly to consumers at the point of presence. The company enables advertisers to access their target audience in venues where they are captive, out-of-home and ready to spend.
+	['', 'digital media', ' interactive ', 'content information', '']
+The Exchange Lab
+	Provider of a programmatic digital media marketplace. The company delivers campaigns across digital display, video, social media and mobile channels, evaluating 1 billion daily audience interactions across digital channels and devices.
+	['', 'digital media', ' ', 'digital campaign', ' ', 'programmatic media', ' ', 'programmatic buying', '']
+LUMA Marketing Technologies
+	Developer and provider of Enterprise Brand Management (EBM) platform. The company\'s LUMA DAM is the tool to centralize, organize and share all the digital media files.
+	['', 'enterprise brand management', ' ', 'digital asset', ' ', 'meta data', '']

@@ -1,12 +1,21 @@
-Konova
-	Developer of anti-obesity drugs. The company develops drugs that are used for the treatment of obesity.
-	['', 'anti obesity drug', ' ', 'slimming drug', ' ', 'medical device', '']
-Paradigm Therapeutics
-	Developer of drugs combining model genetics and bioinformatics. The company provides target identification and validation services based on gene knock out technology and in vivo pharmacology. The company has developed a drug discovery pipeline comprising targets and late stage pre-clinical projects in pain, CNS disorders, hormone dependent diseases such as prostate and breast cancer and metabolic diseases such as diabetes, hyperlipidemias, obesity and osteoporosis.
-	['', 'hormone dependent diseases', ' bioinformatics ', 'model genetics', ' ', 'validation services', '']
-Didimi
-	Developer of cell-based regenerative medicines. The company develops cell-based therapeutics to create living and functional tissues to repair or replace organ function for major diseases such as Type 1 diabetes, Type 2 diabetes and other pancreatic insufficiency.
-	['', 'pancreatic disorders', ' ', 'endocrine insufficiency', ' ', 'cell technologies', ' ', 'regenerative medicines', '']
-Xcellsyz
-	Developer of drugs for the treatment of diabetes and obesity. The company is using human cell-based systems biology to discover new drugs to treat metabolic diseases such as diabetes and obesity.
-	['', 'obesity treatment', ' ', 'cell-based systems biology', ' ', 'metabolic diseases', '']
+VMX
+	Designer and manufacturer of communication equipment used for business conference presentations. The Company\'s systems are assembled in the form of video displays and peripheral systems.
+	['', 'communication equipment', ' ', 'video displays', ' ', 'peripheral systems', ' ', 'business conference', '']
+TrixBox
+	Distributor of Asterisk based software. The company is into Implementing, installing, managing and maintaining an Asterisk-based telephony system. It also provides web interface to manage and maintain PBX system.
+	['', 'Asterisk based software', ' ', 'Asterisk installer', ' ', 'PBX application platform', ' ', 'manage telephony system', '']
+Mobyson Holding
+	Provider of mobile IP telephony services. The company markets telephony provisions, including hardware and software communication equipment.
+	['', 'communication equipment', ' ', 'telephony service', ' ', 'hardware product', '']
+Whaleback Managed Services
+	Provider of an internet protocol telephony service and develops phone services for small and medium sized businesses. The company provides cloud based managed services for business communications.
+	['', 'internet protocol telephony', ' ', 'telephony service', ' ', 'voice technology', '']
+VocalData
+	Developer of service delivery soft switches and service platforms. The company enables communications carriers to deliver telephony and communications services on next generation networks (NGNs).
+	['', 'service delivery', ' ', 'service platform', ' ', 'communication service', '']
+Cloudtc
+	Developer and manufacturer of android-based media phones. The company develops software for business applications and IP telephony.
+	['', 'android based phone', ' ', 'IP telephony', ' ', 'business applications', ' ', 'smart phone', '']
+ZIV COMMUNICATIONS DIMAT
+	Developer and manufacturer of communication equipment for the electrical and switching equipment for private networks. The company aims to implement communication networks and operations to the electricity sector.
+	['', 'communication equipment', ' ', 'switching equipment', ' ', 'electricity sector', ' ', 'private network', '']

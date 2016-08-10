@@ -1,18 +1,24 @@
-Zebido.com
-	Operator of an auction website.
-	['auction']
-EveryArt
-	Operator of an online art gallery. The company\'s platform allows the visitor to commission an art piece from a diverse portfolio of artists on the web to create an original piece of art for them.
-	['', 'art gallery', ' ', 'art piece', ' portfolio masterpiece']
-Trading Dynamics
-	Provider of business-to-business Internet trading applications that enable Internet market makers and corporations deploy and configure a range of dynamically priced markets including auctions, reverse auctions and bid/ask exchanges.
-	['', 'bid exchange', ' ', 'ask exchange', ' ', 'internet trading', ' ', 'reverse auction', '']
-BiddingForGood
-	Provider of an online charity auction service for schools and nonprofit organizations in the United States. The company operates a cause related e-commerce platform for connecting consumers and marketers to nonprofit fundraising auction events. It serves fundraisers and volunteers in the fields of K-12 schools, healthcare and human services, corporate philanthropies, higher education/colleges and universities, arts and humanities, faith based organizations, recreation and sports, and radio/TV/media.
-	['', 'charity auction service', ' ', 'nonprofit fundraising', ' ', 'cause related e-commerce', ' ', 'online fundraising', '']
-Dixon Ticonderoga
-	Manufacturer and seller of writing instruments, art materials, and office products. The company offers writing and drawing pencils, pens, art materials, felt tip markers, industrial markers, lumber crayons, and correction materials, as well as wax crayons, chalks, dry and liquid tempera, and water colors under various brands, including Ticonderoga, Prang, and Dixon. It distributes its products through wholesale, commercial, and retail stationers, as well as through school supply houses, industrial supply houses, blueprint and reproduction supply firms, and art material distributors and retailers.
-	['']
-The Fine Art Auction Group
-	Provider of auction services in the U.K. The company operates a network of regional auction houses in the U.K., with a specialty in art and antiques.
-	['', 'auction house', ' appraisals auctions']
+Cierra
+	Developer of novel therapies for the minimally invasive treatment of patent foramen ovale. The company is developing devices to mend hole in the heart and significantly reduce migraines.
+	['', 'novel therapies', ' ', 'patent foramen ovale treatment', ' ', 'heart diseases', ' ', 'therapeutic devices', '']
+Map Pharmaceuticals
+	Developer of novel inhalation therapies for respiratory and systemic diseases. The company develops innovative drug that focuses on providing better treatments for patients with neurological diseases.
+	['', 'novel inhalation', ' ', 'neurological diseases', ' ', 'bio pharma drug', '']
+Mervin Fine Wines
+	Importer and distributor of wines in China. The company is an importer of approximately 200 labels, which it sells through established distribution channels.
+	['', 'alcoholic beverages', ' ', 'hard drinks', ' ', 'fine wines', '']
+Etablissements Leveau
+	Producer of alcoholic beverages. The company produces Abbey of Alder, a beer.
+	['', 'alcoholic beverage', ' beer ', 'alcohol drink', '']
+Sequel Pharmaceuticals
+	Developer of novel and clinical-stage drug candidates to treat cardiovascular diseases. The company\'s lead product K201 (JTV-519) has the potential to treat A-Fib, which can cause shortness of breath, chest pain, and blood clot, often leading to a stroke.
+	['cardiovascular ', 'novel drug', '']
+Redpoint Bio
+	Developer of novel and healthful taste enhancers for the food, beverage and pharmaceutical industries. The company researches, discovers, develops and commercializes breakthrough products that improve the palatability of oral medicines and enhance the flavor and nutritional value of foods and beverages.
+	['', 'taste enhancers', ' ', 'healthful taste', ' ', 'pharmaceutical industries', '']
+Schick Shadel Hospital
+	Operator of an addiction treatment hospital. The company provides alcohol, drug, oxycontin, methamphetamine, marijuana, cocaine treatment programs, as well as offers dietary services.
+	['', 'addiction treatment', ' ', 'alcohol treatment program', ' ', 'drug treatment', ' ', 'dietary service', '']
+DrugAbuse Sciences
+	Developer of novel therapies for alcohol and drug abusers. The company develops and commercializes novel therapies for the treatment of alcohol and drug addictions.
+	['', 'treatment for alcoholic', ' ', 'drug based treatment', ' ', 'pharmaceutical service', '']

@@ -1,15 +1,18 @@
-Big Frame
-	Provider of media production and marketing services. The company creates video advertising campaigns.
-	['', 'media production', ' ', 'marketing service', ' ', 'video campaign', '']
-Stitcher
-	Provider of media service that allows audio content to be aggregated, organized and shared on mobile devices. The company provides relevant content in business, sports, politics, entertainment and current events from media industry\'s content providers. It also offers a platform for listening to audio content on-the-go. In addition, the company provides operational setup and maintenance management, custom production or editing services.
-	['', 'media service', ' ', 'maintenance management', ' ', 'custom production', ' ', 'editing service', '']
-The Worx Production House
-	Provider of media and production services. The company facilitates and co-ordinates productions for the photographic stills industry.
-	['', 'media service', ' ', 'production service', ' ', 'media provider', '']
-Immedia
-	Provider of media technology solutions. The company focuses on in-store media, visual displays, content production, and measurement tools. It provides services to the banking, leisure, retail, and hospitality industries. The company examines the expectations of customers to create a deeper meaning of communications to drive sales.
-	['', 'media production', ' ', 'visual displays', ' ', 'measurement tools', ' ', 'mobile marketing', ' music ', 'retail marketing', '']
-Brio Software
-	Provider of media and market intelligence solutions. The company provides media planning and management, agency and client benchmarking, audience impact research, competitive and best practices advisory, and influencer program development services. The company also offers media segmentation, ranking, optimization, and outlet and journalist performance; market sentiments evaluation; and trends, issues, and threats monitoring services.
-	['', 'media segmentation', ' ', 'media planning', ' ', 'market intelligence', ' ', 'client benchmarking', ' consultancy']
+SinglePlatform
+	Provider of restaurant content to publishers. The company develops a digital portal for local businesses to manage their web presence, integrating their websites and social media.
+	['', 'restaurant content', ' ', 'website integration', ' ', 'online marketing tool', '']
+Hillclimb Media
+	Developer of pay-for-content Web sites for customers and publishers. The company operates a network of Web sites that provide information on travel, sports, and the outdoors. Its Web publishing solutions bring offline content to the online.
+	['', 'Web publishing solution', ' ', 'content website', ' ', 'pay for content website', '']
+Quack
+	Provider of speech-enabled Web sites and Internet information.
+	['', 'internet information', ' ', 'online service', ' ', 'online content', '']
+Oddpost
+	Developer of web-based communications applications that look and feel like desktop programs. The company is also building products focused on the emergence and acceptance of the open RSS standard as a means of publishing online content.
+	['', 'communication application', ' ', 'online publishing content', ' ', 'web-based email', ' ', 'news service', '']
+Gilian Technologies
+	Provider of web content security services. The company provides protection against website vandalism and sabotage, monitors the web sites, detects hacking attempts and stop applications from performing corrupted transactions.
+	['', 'website monitoring', ' ', 'website vandalism', ' ', 'content security services', ' ', 'web applications', '']
+FineMedia
+	Operator of a website developer of editorial content in France. The company publishes online editorial content on various issues, such as home, decoration, finance, and health.
+	['', 'website developer', ' ', 'editorial content', ' ', 'online publishing', '']

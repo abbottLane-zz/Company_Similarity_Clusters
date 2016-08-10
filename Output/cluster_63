@@ -1,27 +1,102 @@
-KinetX IP (software assets and a specialized business unit)
-	Provider of space systems engineering, software engineering, hardware engineering, project management, space navigation, flight dynamics and satellite operations services. The company is an innovative engineering, technology, software development and business consulting firm providing complete systems solutions.
-	['', 'software engineering', '']
-Servicios de Ingeniería y Tecnologías de Diseño
-	Provider of engineering services and technology design. The company provides services to the aerospace industry.
-	['', 'electrical system', ' ', 'aerospace industry', ' ', 'engineering service', '']
-RuleStream
-	Provider of standards based engineering solutions that help manufacturers to capture, manage and reuse product knowledge. The company provides software for automating the build-to-order process across engineering, manufacturing and sales.
-	['', 'software solutions', ' ', 'software engineering', ' ', 'Standards Based Engineering', ' ', 'Product Lifecycle Management', ' ', 'Engineering Resource Planning', ' ', 'knowledge software', '']
-Catalytic Software
-	Provider of offshore software product engineering services. The company offers technology services, such as application development, web enablement, product engineering, testing, managed programs and website designing.
-	['', 'product engineering', ' ', 'software engineering', ' ', 'website design', ' ', 'web development', ' ', 'software testing', '']
-Paxford
-	Provider of composite material engineering services.
-	['', 'material engineering', ' ', 'engineering service', ' ', 'composite material', '']
-CDI Biosciences
-	Developer of biotechnology to imporove yield of bioproducts. The company developes technology that is used to control the metabolism of cells.
-	['', 'mammalian cell', ' ', 'cellular system', '  ', 'Genetic engineering technology', '']
-Aquila Technologies
-	Developer of engineering software services. The company offers virtual engineering frameworks, image processing, computer game development, project consulting and project execution services.
-	['engineering ', 'image processing', ' ', 'game development', ' ', 'project consulting', '']
-ADA Cellworks
-	Provider of radio network planning services. The company provides network planning, such as design, optimization and performance; network support services, including benchmarking, drive tests, site audits, RFI and model calibration; recruiting services and provisioning of manpower; and technical training. It also provides in-building design and implementation, implementation and integration, site acquisition, site physical design and layout, wireless engineering software development and market and technology assessment.
-	['', 'radio network planning', ' ', 'wireless engineering software', ' ', 'technology assessment', '']
-Biovation
-	Provider of pharmaceutical research services. The company provides antibody and protein engineering technologies.
-	['', 'pharmaceutical research', ' ', 'healthcare service', ' ', 'antibody engineering technology', '  ', 'protein engineering technology', '']
+BioScan Technologies
+	Developer of imaging technology for use in interventional vascular applications. The company is the developer of LightWire guidewires, a technology  based on the company\'s optical-ultrasonic platform, and used for the diagnosis and treatment of cardiovascular disease.
+	['ultrasonic cardiovascular optical-ultrasonic']
+Pharmacopeia
+	Developer of novel small molecule therapeutics to address significant medical needs. The company has a portfolio of clinical and preclinical candidates under development internally or with partners including nine clinical compounds in Phase 2 or Phase 1 development addressing hypertension, diabetic nephropathy, muscle wasting, inflammation and respiratory disease.
+	['', 'small molecule', ' hypertension ', 'diabetic nephropathy', '']
+Maxia Pharmaceuticals
+	Provider of non-dermatological applications of a patented library of compounds. The company focuses on small molecule drugs that target major diseases such as cancer and metabolic disorders.
+	['', 'molecule drugs', ' ', 'metabolic disorders', ' ', 'cervical cancer', '']
+Argintex
+	Developer of therapeutics like small molecule inhibitors of arginase.The company’s arginase also leads to the production of ornithine which increases polyamine, stimulating cell division, and contributing to hyperplasia and fibrosis.
+	['', 'molecule inhibitor', ' ', 'pulmonary treatment', ' ', 'vascular disorder', ' ', 'arginase enzyme', '']
+LifeMasters Supported SelfCare
+	Provider of health promotion and disease management programs and services. The company offers programs for individuals with diabetes, congestive heart failure, coronary artery disease, chronic obstructive pulmonary disease, hypertension and asthma, cancer, metabolic syndrome and musculo-skeletal pain. It also provides programs for depression and lifestyle changes, such as smoking cessation and weight loss.
+	['', 'weight loss', ' ', 'health promotion', ' ', 'disease management', ' ', 'heart failure', ' ', 'coronary artery management', ' ', 'smoking cessation', '']
+Intellikine
+	Developer of small molecule drugs that target signal transduction networks for the treatment of cancer, inflammation, and autoimmune disorders. The company\'s products include INK128, an orally-available TORC1/2 inhibitor for the treatment of solid tumor malignancies; INK1197, a small molecule dual PI3K selective inhibitor for patients with immune-mediated inflammatory diseases, such as rheumatoid arthritis and asthma; and PI3K selective inhibitors for the treatment of hematologic malignancies and solid tumors.
+	['', 'small molecule drug', ' ', 'cancer drug', ' ', 'drug for autoimmune disorder', ' ', 'treatment of solid tumor malignancie', '']
+Corvas
+	Manufacturer and developer of therapeutic agents for the prevention and treatment of cardiovascular and inflammatory diseases. The company also undertakes cancer research programs.
+	['biotherapeutics ', 'cardiovascular disease', ' ', 'drug candidate', '']
+Corventis
+	Developer of medical technologies for curing cardiovascular diseases. The company\'s core product is a non-invasive monitor designed for measing different aspects of the heart’s function.
+	['', 'medical technology', ' cardiovascular healthcare']
+Vantia
+	Developer of small molecule drugs. The company develops drugs for the treatment of nocturia, dysmenorrhoea, respiratory disorders, inflammation, oncological and fibrotic diseases.
+	['', 'drug development', ' ', 'nocturia treatment', ' ', 'fibrotic disease treatment', '']
+Chronogen
+	Developer of small-molecule drugs to treat oxidative stress and lipid disorders in age-related diseases. The company develops human therapeutics to treat age-dependent diseases, with an initial focus on cardiovascular disorders and cancer.
+	['', 'small-molecule drugs', ' ', 'human therapeutics', ' ', 'pharmaceutical industry', '']
+Diaxonhit
+	Developer of RNA-based diagnostic tests. The company is engaged in developing RNA-based diagnostic tests and small molecule therapeutics for the treatment of Alzheimer\'s disease (AD) and cancer. Its Genome Wide SpliceArray (GWSA) platform is a patented microarray design that incorporates a specific probe configuration, enabling monitoring of RNA splice variants in humans, mice and rats.
+	['', 'diagnostic test', ' ', 'small molecule', ' ', 'RNA splice', '']
+Xanthus Pharmaceuticals
+	Developer of small-molecule therapeutics for the treatment of cancer and autoimmune disorders.
+	['', 'cancer treatment', ' ', 'small-molecule therapeutic', ' ', 'autoimmune disorder', '']
+Boston Heart Diagnostics
+	Provider of cardiovascular disease management services. The company provides cholesterol balance test and Boston Heart Navigator. It also conducts studies for the pharma industry and health care research organizations to support drug and therapy trials.
+	['', 'cardiovascular disease management', ' ', 'cholesterol balance test', ' ', 'healthcare research', ' ', 'cardiovascular disease', '']
+Neuromed Pharmaceuticals
+	Provider of small molecule drugs for the Biopharmaceutical industry. The company develops drugs targeting neuronal calcium channels to treat neurological disorders with the initial emphasis on chronic pain anxiety and stroke.
+	['therapy ', 'drug developer', ' calcium']
+HemaQuest Pharmaceuticals
+	Developer of small molecule therapeutics. The company develops small molecule therapeutics based on its short chain fatty acid derivative (SCFAD) technologies to treat anemia and other blood disorders.
+	['', 'blood disorder treatment', ' ', 'anemia treatment', ' ', 'small molecule therapeutic', '']
+Galileo Pharmaceuticals
+	Developer of small molecule therapeutics. The company specializes in the discovery of compounds that moderate the effects of oxidative stress and energetic perturbations on living biological systems.
+	['', 'small molecule therapeutics', ' ', 'metabolic diseases', ' oxidative ', 'metabolic stress', '']
+Aderis Pharmaceuticals
+	Developer of therapeutics focused on cardiovascular, renal and neurological diseases. The company develops novel small-molecule, receptor-specific therapeutics for the treatment of central nervous system, cardiovascular and renal diseases. The company focuses on drug candidates that act selectively to either block (antagonists) or increase (agonists) the activity of certain proteins, such as adenosine or dopamine, to produce the desired therapeutic effect while minimizing side effects. Small molecules generally offer the dosing flexibility required for patients to easily take the drug as prescribed (commonly referred to as patient compliance), have a broader array of dosage forms, lend themselves to easier formulation and have greater potential for absorption and utilization by the body.
+	['', 'Cardiovascular therapeutics', ' ', 'renal therapeutics', ' ', 'neurological disease', ' ', 'cardiovascular disease', ' ', 'renal disease', '']
+Gensia Pharmaceuticals
+	Developer of drugs to treat cardiovascular diseases. The company\'s drug research programmes involve technology based on purine-pyrimidine metabolism, which have application in the treatment of cardiovascular, cerebrovascular and neurological diseases.
+	['', 'cardiovascular diseases', ' ', 'purine-pyrimidine metabolism', '']
+Serodus
+	Developer of pharmaceuticals for treatment of diseases in the heart and blood vessels. The company focuses on new therapeutic products for the treatment of cardiovascular diseases with large unmet clinical needs.
+	['', 'cardiovascular diseases', ' ', 'blood vessels', ' ', 'therapeutic products', '']
+ZOLL LIFEBRIDGE
+	Supplier of life support systems for the acute medical care in the area of cardiovascular diseases. The company develops heart-lung machine that allows doctors to substitute the patient’s cardiovascular system and save them from death in cardiogenic shock.
+	['', 'life support system', ' ', 'heart-lung machine', ' ', 'cardiovascular system', ' ', 'medical care', '']
+BG Medicine
+	Developer of novel cardiovascular diagnostic tests. The company\'s product pipeline includes BGM Galectin-3, a diagnostic test for heart failure that measures galectin-3 levels in blood plasma or serum. It also offers TNF alpha blockers comprising Enbrel, Remicade and Humira, which are treatments indicated for autoimmune diseases, such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and Crohn’s disease.
+	['', 'diagnostic test', ' ', 'heart failure', ' ', 'cardiovascular test', ' ', 'lipid disorder', '']
+Ardea Biosciences
+	Developer of small-molecule therapeutics. The company provides therapeutics for the treatment of gout, cancer and human immunodeficiency virus (HIV)..
+	['', 'small molecule therapeutic', ' ', 'disease treatment', ' ', 'gout treatment', ' ', 'cancer drug', ' ', 'cancer treatment', ' ', 'HIV drug', ' ', 'HIV treatment', '']
+Signase
+	Developer of small molecule inhibitors of a critical cell pathway for the treatment of a variety of solid tumors.
+	['', 'molecule inhibitor', ' ', 'solid tumor treatment', ' ', 'critical cell pathway', '']
+AngioScore
+	Developer of tools for endovascular therapy. The company develops angioplasty catheters for use in the treatment of cardiovascular and vascular disease.
+	['', 'endovascular tool', ' ', 'cardiovascular disease treatment', ' catheter ', 'endovascular therapy', '']
+Intercept Pharmaceuticals
+	Developer of small molecule drugs for the treatment of chronic liver and metabolic diseases. The company develops therapeutics to treat orphan and more prevalent liver diseases in bile acid chemistry.
+	['', 'molecule drug', ' ', 'chronic liver treatment', ' ', 'metabolic disease treatment', '']
+Kinaxo Biotechnologies
+	Developer of spectrum-specific kinase inhibitors. The company operates as a service company specializing in chemical proteomics methods to support the development of small molecule drugs. The company spun out of the Max Planck Institute of Biochemistry.
+	['', 'kinase inhibitors', 'inhibitors', 'chemical proteomics', ' ', 'molecule drugs', '']
+Angio B
+	Developer and provider of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders. The company engages in research and development of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders.
+	['', 'cardiovascular disease', ' ', 'peripheral ischemic disorder', ' ', 'development of drug', '']
+Ansaris
+	Provider of small molecule drug discovery equipment and technology. The company has developed a proprietary platform technology which combines a torsion-space algorithm for building dynamic protein models with silico fragment-based libraries and computational chemists to design therapeutics that solves contemporary small molecule drug discovery challenges.
+	['', 'mall molecule drug discovery', ' ', 'platform technology', '']
+Conatus Pharmaceuticals
+	Provider of human therapeutics to treat liver diseases. The company offers CTS-1027, an oral, small molecule and matrix metalloproteinase inhibitor for the treatment of liver disease.
+	['', 'human therapeutic', ' ', 'liver disease', ' ', 'drug discoverer', '']
+KeyNeurotek Pharmaceuticals
+	Provider of bio pharmaceutical products. The company provides for development and marketing of small molecule drugs for the treatment of neuronal and autoimmune diseases.
+	['', 'bio pharmaceutical product', ' ', 'molecule drug', ' ', 'autoimmune disease', '']
+Oculon
+	Developer of products for the diagnosis and treatment of cataracts based on phase-separation technology.. The company develops small molecule pharmaceuticals to treat conditions other than cataract that involve protein aggregation, such as the formation of protein condensates in certain blood, neurological and connective tissue disorders.
+	['', 'diagnosis treatment', ' ', 'small molecule', ' ', 'phase separation technology', ' ', 'protein condensates', ' ', 'tissue disorder', '']
+Omthera Pharmaceuticals
+	Developer of therapies for the treatment of lipid disorders. The company is developing therapies focused on dyslipidemia, a lipid disorder resulting in elevated triglycerides and increased risk of cardiovascular disease.
+	['triglyceride ', 'pharmaceutical therapy', ' ', 'lipid disorder', ' ', 'cardiovascular risk', ' ', 'heart disease', '']
+Artesian Therapeutics
+	Developer of small molecule therapeutics for the treatment of cardiovascular diseases. The company provides small molecule drugs for congestive heart failure.
+	['', 'cardiovascular disease treatment', ' ', 'small molecule therapeutic', ' ', 'congestive heart failure', '']
+Adamas Pharmaceuticals
+	Developer of small molecule advantaged therapeutics to treat neurological and infectious diseases. The company also develops novel extended release and combination products for symptomatic treatment of dementia.
+	['', 'small molecule', ' ', 'advantaged therapeutic', ' ', 'neurological disease', ' ', 'symptomatic treatment', ' dementia']

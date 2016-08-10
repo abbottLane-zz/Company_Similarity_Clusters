@@ -1,24 +1,9 @@
-Affinity Payments
-	Provider of payment platform. The company provides electronic payment services to merchants and partners.
-	['', 'payment platform', ' ', 'electronic payment', ' ', 'online payment', '']
-Beijing Tong Technology Development
-	Provider of electronic payment applications and services. The company supplies payment cards for the public transportation system in China.
-	['', 'virtual payment', ' micro-payment ', 'payment services', '']
-Starfish Holdings
-	Operator of a personalized marketing and payments platform for retailers. The company provides its payment platform for use by grocery chains, drug chains and big box retailers, as well as neighborhood merchants and restaurants.
-	['', 'payment service', ' ', 'payment platform', ' ', 'online transaction', '']
-Clareon
-	Provider of electronic payment platform for businesses. The company develops PayMode platform that enables businesses to send and receive electronic payments, along with detailed remittance information, to and from suppliers and customers.
-	['', 'electronic payment', ' ', 'online transaction', ' ', 'electronic business payment', ' ', 'payment software', '']
-Absolute Commerce
-	Developer of an electronic payment tool. The company provides a way to integrate organization’s payment systems with supplier catalogs.
-	['', 'electronic payment', ' ', 'electronic procurement', ' ', 'enterprise resource management', ' ', 'supplier enablement', ' ', 'price auditing', '']
-Generated Systems Technologies
-	Provider of e-banking software products for banks and financial institutions. The company provides e-banking software and offers electronic payment softwares designed to address payment needs of corporations and correspondent banks.
-	['', 'financial institution', ' ', 'software product', ' ', 'electronic payment', ' ', 'e-banking', '']
-99Bill
-	Provider of independent third-party payment services in China. The company offers electronic payment services to enterprises and individuals. It also supports payment via international cards, such as VISA and MasterCard; and services domestic and international bank cards.
-	['', 'third party payment', ' ', 'electronic payment', ' ', 'electronic fund transfer', '']
-AnswerQi
-	Operator of an online platform for technology related questions and answers. The company provides technical support, online collaboration toolset and a safe payment platform to get urgent technology related answers.
-	['Q&A ', 'technology related Q&A', ' ', 'technical support', ' ', 'safe payment platform', '']
+TapCommerce
+	Provider of mobile-retargeting services. The company provides a software platform to help brands engage and convert their mobile audiences, to increase customer-lifetime value.
+	['', 'mobile shopping application', ' ', 'mobile marketing', ' ', 'mobile commerce', '']
+ShopSavvy
+	Developer of mobile shopping comparison application. The company develops a mobile application that allows consumers to scan UPC, EAN or QR barcodes to obtain in-store price comparisons and inventory information spanning local and online retailers.
+	['', 'mobile shopping', ' ', 'shopping comparison', ' ', 'barcode scanner', ' ', 'mobile commerce', '']
+Swarm
+	Developer of a mobile application for retailers. The company\'s application enables brick and mortar retailers to engage with in store shoppers and provides shopper interaction analytics.
+	['', 'retailer mobile-application', ' ', 'mobile shopping', ' ', 'price comparison', ' ', 'customer engagement', ' ', 'customer analytic', '']

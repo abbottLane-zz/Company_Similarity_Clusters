@@ -1,15 +1,18 @@
-Metal Supermarkets
-	Supplier of small quantity metals.  The company supplies such metals as: alloy bar, aluminum, cold rolled steel, stainless, brass and copper.  The company was founded and ins headquartered in Canada, but also franchises out smaller branches in the UK and US.
-	['', 'Alloy Bar', '\\r\\n', 'Aluminum', '\\r\\n', 'Cold Rolled Steel', '\\r\\n', 'Hot Rolled Steel', '\\r\\n', 'Stainless', '\\r\\n', 'Brass', '\\r\\n', 'Copper', '\\r\\n', 'Tool Steel', '']
-Industrial Tooling & Fabrication
-	Supplier of heavy-gauge steel components and assemblies. The company offers tool and die and machining services. Its products are used in the construction and agriculture industries.
-	['steel ', 'heavy-gauge', ' ', 'machining service', ' ', 'industrial machinery', ' metalwork']
-Columbia Pacific Aluminum
-	Provider of aluminum-casting services. The company operates an aluminum-extrusion operation, with plants in  Modesto, Watsonville and City of Industry in the U.S. state of California.
-	['', 'metal casting', ' ', 'aluminum extrusion', ' ', 'aluminum casting', '']
-Remi Claeys Aluminium
-	Producer of semi-finished aluminum products. The company produces high-frequency welded tubes made of aluminum that are used for various purposes such as gardening tools, cycle frames, furniture, and telescopic handles. The company also produces precision welded tools which are used in radiators and air-conditioners.
-	['', 'aluminum products', ' ', 'aluminum frames', ' ', 'welded tools', ' ', 'aluminum tools', '']
-ALUmonte Technologiefortschritt in Aluminium
-	Operator of aluminum melting plants. The company processes its alloys and aluminum scrap through an oxidation and salt-free melting process that removes miscellaneous impurities.
-	['', 'oxidation-free remelting', ' ', 'miscellaneous impurity', ' ', 'aluminum-melting plant', ' ', 'clean aluminum', ' metallurgy']
+Corvascular
+	Provider of technology for minimally invasive cardiac surgery. The company is the developer of the Transarrest platform, which enables surgeons to temporarily stop a patient’s heart in order to place sutures on the coronary arteries.
+	['', 'cardiac surgery', ' ', 'surgical devices', ' ', 'surgery technology', ' ', 'heart surgery', ' ', 'coronary arteries', '']
+Cardica
+	Manufacturer of automated anastomotic systems. The Company is commercializing and developing the MicroCutter XCHANGE 30 based on its proprietary staple-on-a-strip technology intended for use by thoracic, pediatric, bariatric, colorectal and general surgeons. The MicroCutter XCHANGE 30, which is currently commercially-available, is a cartridge based microcutter device with a 5 millimeter shaft diameter and a 30 millimeter staple line currently approved for use in the United States for specified indications of use, and in the European Union, or EU, for a broader range of specified indications of use.
+	['', 'automated anastomotic system', ' ', 'bypass surgery', ' ', 'surgery equipment', '']
+C2Cure
+	Manufacturer of cameras used for diagnosis and surgery purposes. The company develops disposable miniature viewing and operational devices for an array of heatlhcare markets, including diagnostic, endoscopic, imaging, and surgical.
+	['', 'operational device', ' ', 'cardiac surgery', ' ', 'miniature device', ' ', 'surgery camera', ' ', 'surgical device', '']
+SurgiQuest
+	Provider of technology services for minimally invasive surgery. The company offers AirSeal, a technology that creates an air curtain that maintains an insufflated and airtight environment and has application in laparoscopic and laparoscopic assisted surgery. It focuses in bariatric, colo-rectal, general, gynecological and urologic surgery.
+	['', 'technology service', ' ', 'minimally invasive surgery', ' ', 'laparoscopic assisted surgery', '']
+Cardio Life Research
+	Provider of cardiac surgery devices. The company designs and develops self-guided endoscopic aortic clamping systems, self adjusting atrial retractors and self suturing puncture devices, for heart valve surgery.
+	['', 'heart valve surgery', ' ', 'cardiac surgery devices', ' ', 'aortic clamping systems', ' ', 'atrial retractors', ' ', 'puncture devices', ' ', 'surgical devices', '']
+AngioGuard
+	Developer of embolic containment technology. The company has developed containment technology designed to protect the heart and brain from embolic particles potentially dislodged during interventional medical procedures.
+	['', 'embolic containment technology', ' ', 'heart surgery', ' ', 'embolic particle protection', '']

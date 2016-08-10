@@ -1,33 +1,15 @@
-Indeed
-	Provider of an online job searching portal. The company acts as an external source of hiring and an employer review site.
-	['', 'online search engine', ' ', 'job searching portal', ' ', 'hiring source', ' ', 'employer review site', '']
-Money Workout
-	Operator of a mortgage and insurance price comparison website. The company purchases and generates mortgage enquiries that it matches with the available mortgage products in the market. It also offers related advisory services for consumers, lead generators and lenders.
-	['', 'insurance price', ' ', 'mortgage business', ' ', 'price comparison', '']
-Extrabux
-	Operator of a comparison shopping website. The company enables consumers to compare prices,find coupons, and earn cash back on their online purchases.
-	['', 'price comparison', ' ', 'cash back', ' coupons']
-Attenex
-	Developer of software applications for document-intensive processes in the legal profession. The company’s products and services include Attenex Patterns Suite, which enables identification of relevant content for litigation, investigations and regulatory response projects and Snapshot Review that harnesses the visual discovery and content analysis capabilities of Attenex Patterns software.
-	['', 'software application', ' ', 'legal process software', ' ', 'snapshot Review', '']
-NetSila
-	Provider of an online website for Arabian food recipes. The company provides a platform and mobile application for users to share and review recipes. It also provides information about cuisines and restaurants in Arab and European cities.
-	['', 'share recipes', ' ', 'review recipes', ' ', 'Arabian food recipies', ' ', 'food portal', ' ', 'mobile app', '']
-ShareBloc
-	Provider of an online enterprise vendor comparison platform. The company provides enterprise consumers with an online platform to rate, review, ask and answer questions about their vendors. It also works closely with the vendor community to reach their customers.
-	['', 'vendor comparison platform', ' ', 'vendor rating', ' ', 'online portal', '']
-Cemmerce
-	Operator of an online commerce platform. The company helps publishers and content creators generate new revenue streams from existing and future online content by automatically convert product references into live commerce links. It’s platform also provides access to real time price comparison data, abandonment rates and conversion rates.
-	['', 'Affiliate Marketing', ' ', 'Automated affiliate marketing', ' ', 'Affiliate link', ' ', 'Content monetization', '']
-Qype
-	Provider of a consumer review website for goods and services in Europe. The company offers the review service in nine languages and more than 160,000 cities and towns worldwide. The service is available online and through a mobile application.
-	['', 'consumer review', ' ', 'review website', ' ', 'internet software', '']
-Deal Pilot
-	Provider of comparison shopping services trough an online website. The company provides search engines for obtaining online price comparison shopping information via a global computer network and enabling consumers to make purchases of goods and services from others on a global computer network.
-	['', 'comparison shopping', ' ', 'search engines', ' ', 'computer network', ' ', 'price comparison', ' ', 'online price', '']
-MyETone
-	Provider of a product review and price comparison portal. The company provides a platform to review products and services and compare their prices.
-	['', 'price comparison', ' ', 'product review', ' ', 'review portal', '']
-CompareNet
-	Provider of an Internet-based comparative shopping service. The company provides comparisons for items such as automobiles, motorcycles, sporting goods and software. The company also offers reviews, staff product picks, discussion links and a classified section.
-	['', 'consumer awareness', ' ', 'price comparison', ' ', 'product review', '']
+Microposite
+	Manufacturer of siding for buildings. The company offers siding and outside seal products and boards for the building industry. The company sells its products through dealers, building material suppliers and building product distributors
+	['', 'sealing products', ' ', 'building materials', ' ', 'construction materials', '']
+Paneltech International Holdings
+	Manufacturer of green building materials. The company manufactures solid surfaces, wood panel overlays and saturated media solutions.
+	['', 'building materials', ' ', 'solid surfaces', ' ', 'wood panel', ' manufacturer']
+Fertile Earth
+	Manufacturer of commercial grade fustigation systems and formula plant foods for the green industry. The company offers its products to homeowners and home builders, business owners, turf professionals, commercial growers and agriculture markets through landscape professionals and their suppliers.
+	['', 'fustigation system', ' ', 'fertilizer delivery', ' ', 'building products', ' ', 'plant food', '']
+Kyoob Space
+	Provider of modular buildings and portable accommodation. The company offers turnkey package for small and large projects alike and has developed a strong customer base in a variety of sectors including schools, prisons, hospitals, commercial project offices and the construction sector.
+	['', 'portable accommodation', ' ', 'modular building', ' ', 'site installation', '']
+Omniyat
+	Provider of construction, real estate and property building services. The company provides construction and building services for commercial and residential buildings and properties in Dubai.
+	['', 'construction service', ' ', 'property development', ' ', 'building service', '']

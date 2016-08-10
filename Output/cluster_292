@@ -1,21 +1,24 @@
-Lebanon Plastics
-	Manufacturer of molded plastic products. The company engages in machine production and manufacturing of integrated plastic injection molded products.
-	['', 'plastic products', ' ', 'molded products', ' ', 'plastic injection', '']
-Sogemap
-	Producer of plastic products.
-	['', 'plastic product', ' ', 'raw material', ' ', 'plastic manufacturing', '']
-AJ Precision Components
-	Provider of plastic product moulding services. The company specializes in providing injection moulding, pad printing, potting, project management, two-shot moulding, ultrasonic welding and injection blow moulding services for the pharmaceutical, packaging, aerospace and automotive industries.
-	['', 'contract manufacturing', ' ', 'blow moulding', ' ', 'moulding machines', '']
-V.L.T.
-	Manufacturer of molded fiber cartons. The company produces egg cartons and egg trays for markets in the Baltic states.
-	['', 'molded fiber', ' ', 'packaging product', ' ', 'egg carton', '']
-Noknoker
-	Provider of consumer-facing loyalty platform and a merchant-facing marketing machine. The company offers customer loyalty digital and plastic cards that enable customers to earn rewards each time they buy from retail stores.
-	['', 'plastic card', ' ', 'marketing machine', ' ', 'online platform software', '']
-Innoplast
-	Provider of plastic products. The company specializes in manufacturing and processing injection molding.
-	['', 'plastic products', ' ', 'injection moldings', ' plastic']
-RSP Tooling
-	Developer of tooling machines that use patented rapid solidification process technology. The company develops production and prototype tooling for forging, die casting and plastic injection applications.
-	['', 'rapid solidification process technology', ' ', 'industrial products', '']
+Efficere Technologies
+	Developer of software for electronic systems. The company manufactures and markets signal integrity devices. The company\'s products include interconnect hardware or bridges that ensure that electrical signals sent between faster and faster chips retain their strength to run the latest gadgets, including digital television sets, at top speeds. The company also provides cables, connectors, circuit boards and adapter cards.
+	['', 'signal integrity devices', ' ', 'application software', ' ', 'interconnect hardware', '']
+Nicanti
+	Developer of printed electronics. The company develops the printed electronics used for authentication and tracking by printing hidden information with electronic inks on various materials.
+	['', 'electronic ink', ' ', 'printed electronic', ' ', 'commercial products', '']
+Finesample Group
+	Manufacturer of printed circuit boards. The company operates two trading companies Circast Electronics and Cirtron Systems, which involves in manufacture and servicing of printed circuit boards respectively.
+	['', 'printed circuit boards', ' ', 'circuit boards', ' circuit']
+Beamind
+	Developer and manufacturer of electrical test equipment for printed circuit boards (PCBs). The company is the developer of a laser direct testing (LDT) process.
+	['', 'printed circuit boards', ' ', 'laser direct testing', ' optics']
+Ormecon
+	Developer of nanoscale conductive polymers. The company develops products based on conductive polymers and nano dispersion, with a portfolio of products used in industries such as the automotive sector, for printed circuit boards, OLEDs, electroluminescence lamps and photovoltaic/solar cells.
+	['', 'conductive polymers', ' ', 'nano dispersion', ' ', 'circuit board', '']
+DesignAdvance Systems
+	Developer of electronic design automation services for printed circuit boards. The company allows designers reduce board layout and placement time which enables bi directional communication.
+	['', 'electronic design', ' ', 'circuit board', ' ', 'board layout', '']
+RAD Electronics
+	Provider of outsourced electronics manufacturing services. The company manufactures complex printed circuit boards, custom and molded cable assemblies and over-molded embedded electronics.
+	['', 'circuit board', ' ', 'molded cable', ' ', 'circuit board', ' ', 'electronics cable', '']
+MIDAS Vision Systems
+	Developer of automated optical inspection systems. The company offers automated optical inspection systems for yield management in the production of multilayer co-fired ceramic (MLC) substrates and high-density flexible printed circuit boards (FPCs).
+	['', 'inspection system', ' ', 'optical system', ' ', 'automated system', ' ', 'yield management', ' ', 'printed circuit board', '']

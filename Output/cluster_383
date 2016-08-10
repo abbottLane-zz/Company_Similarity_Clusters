@@ -1,12 +1,21 @@
-Zenter
-	Provider of software for creating online slide presentations. The company enable users to make online slide shows.
-	['', 'slide presentation', ' ', 'presentation software', ' ', 'presentation application', '']
-Crystal Canyon Interactive
-	Developer of visual design, content presentation and dynamic technologies. The company provides CD-ROM based applications and presentations to serve their clients.
-	['', 'video production', ' ', 'CD/DVD authoring', ' ', 'content presentation', ' ', 'web solutions', '']
-Meridian Data
-	Developer of CD ROM publishing tools. The company provides network software and servers for storing and accessing CD ROM information.
-	['', 'network software', ' ', 'CD ROM publishing tools', ' ', 'CD management tools', '']
-McKinley Group
-	Provider of services related to publishing navigational contents on the Internet. The company\'s online internet guide, previews and rates sites that assist users in conducting more targeted searches. McKinley\'s directories are published on its Internet web site and in print or CD-ROM.
-	['', 'online internet guide', ' ', 'online search', ' ', 'navigational content', '']
+Quolaw
+	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
+	['', 'law practice', ' ', 'law practice management', ' lawyer']
+Alteer Corporation
+	Provider of healthcare technology and services. The company provides services on healthcare technology, focused on integrated practice management and electronic medical records that includes research and development, data center, IT, finance, human resources, legal and administration.
+	['', 'electronic medical records', ' ', 'healthcare technology', '']
+AviaHealth
+	Provider of a web-based practice management tool designed specifically for ob/gyns. The company\'s online platform provides patient information and education, including information customized to a woman\'s own needs and internet linkages to facilitate patient\'s interaction with the doctor for routine matters.
+	['', 'practice management tool', ' ', 'internet linkages', ' ', 'patient interaction', ' ', 'online platform', '']
+Clinicare
+	Operator of a healthcare IT company. The company engages in the development and marketing of computerized information services for medical group practices. The company offers electronic medical records (EMR), practice management applications (PMA) that unites billing and scheduling and internet applications such as, web-secure, domain hosting, software enhancement and support services.
+	['', 'electronic medical records', ' EMR ', 'computerized information service', ' ', 'practice management applications', ' PMA']
+US Physicians
+	Operator of a physician practice management (PPM) company. The company is a manager of specialist practices engaged in providing disease management services for cancer patients.
+	['', 'medical practices', ' ', 'ancillary services', ' cancer ', 'disease management', '']
+Wolf Medical Systems
+	Provider of electronic medical records for physician offices and medical clinics. The company offers cloud-based technology that  provides patient information over wireless and wireline networks. The company\'s practice management solutions include wolf billing, scheduler and workflow.
+	['', 'electronic medical records', ' ', 'patient information', ' ', 'wireless and wireline networks', ' ', 'wolf billing', '']
+Datamedic
+	Developer of computer-based patient record and physician practice management systems. The company\'s products and services are used in private practice, physician practice management, management service and hospital network settings for ensuring efficient point-of-care capture and retrieval of healthcare information in order to improve the quality and profitability of their medical practices.
+	['', 'practice management', ' physician ', 'medical practice', '']

@@ -1,24 +1,18 @@
-MitralSolutions
-	Developer of implantable devices that repair heart valve abnormalities.  The company develops implantable devices for cardiac valve repair. The company offers an adjustable surgical device that custom fits to each patient’s anatomy and can be tuned under beating heart conditions to eliminate valve leakage.
-	['', 'implantable devices', ' ', 'heart valve', ' ', 'cardiac valve', ' ', 'adjustable surgical device', '']
-Kalila Medical
-	Developer of cardiac catheter technologies. The company provides a platform of specialized delivery and access catheters that can be leveraged across multiple endovascular applications, including atrial fibrillation ablation, mitral valve repair, ASD/PFO closure, left atrial appendage closure, transseptal puncture, and LV lead placement.
-	['', 'steerable sheath', ' catheter ', 'cardiac catheter', '']
-Agamit Medical
-	Developer of devices for patients suffering from mitral regurgitation. The company\'s devices mechanically modify the Mitral valve geometry in order to cause it to function without the regurgitation.
-	['', 'mitral valve', ' ', 'valve regurgitation', ' ', 'valve geometry', '']
-Evalve
-	Developer of devices that repair cardiac valves. The company provides a non-surgical mitral valve repair system consisting of a steerable guide catheter, a clip delivery system, and an implant device that is used by interventional cardiologists to reduce mitral regurgitation.
-	['', 'cardiac valve', ' ', 'cardiac treatment', ' ', 'catheter guide', ' ', 'implant device', ' ', 'heart treatment', '']
-NanoStim
-	Developer of a miniaturized, leadless cardiac pacemaker for the healthcare industry. The company\'s leadless cardiac pacemaker is configured for implantation in electrical contact with a cardiac chamber and configured for leadless pacing.
-	['', 'leadless cardiac pacemaker', ' ', 'healthcare device', ' ', 'medical device development', '']
-Tendyne Holdings
-	Developer of medical device for the treatment of mitral regurgitation. The company engages in the development and commercialization of medical devices for transcatheter mitral valve replacement, repair and targeting mitral regurgitation.
-	['catheter ', 'mitral valve', ' regurgitation']
-BMDSys Production
-	Developer of cardiac diagnostic imaging systems. The company uses magnetic field imaging system in medical diagnosis. It also helps to identify persons with a risk for sudden cardiac problem by cardiac electrophysiology.
-	['', 'cardiac diagnostic imaging', ' ', 'cardiac electrophysiology', ' ', 'medical diagnosis', ' ', 'cardiac diagnosis', ' cardiac']
-Reflow
-	Developer of interventional cardiac devices. The company provides cardiac devices to treat cronic total occlusions.
-	['cardiac cronic treat']
+Basis100
+	Provides business solutions to the mortgage lending community. The company’s lines of business included lending solutions for consumer credit, mortgage origination and processing, data warehousing and analytics solutions for automated property valuations, property data-warehousing, data products and analytics support, and capital markets solutions for fixed income trading.
+	['', 'financial services', '']
+Aster Data Systems
+	Provider of parallel processing databases for data warehousing and analytics. The company provides analytics, data loading performance, data growth, query performance, administration, scaling solutions, self-management, analytics center, analytic data pipeline discovery, educational, sales engineering, consulting, support, training services.
+	['', 'data warehousing', ' ', 'analytics solution', ' ', 'sales engineering', ' ', 'data growth', ' ', 'data warehouse services', '']
+Relevance Technologies
+	Provider of enterprise content management software. The company offers decision support solutions and also provides workers with answers.
+	['intelligence decision ', 'information resources', '']
+DCF Technologies
+	Provider of services for eliminating data retrieval bottlenecks. The company offers software services to access data accumulating in organizational and internet portal databases. It also provides SafePeak, which acts as a distributed proxy cache between application servers and database servers to accelerate data access.
+	['', 'data access', ' ', 'performance management', ' ', 'portal database', '']
+Itemfield
+	Provider of data transformation software for mission-critical enterprise applications.The company offers ContentMaster that provides visual data extraction, mapping and transformation tools. The company also produces solutions, such as business-to-business order transaction processing, patient record consolidation and electronic bill presentment and payment. It serves clients in telecommunications, financial services and health care industries.
+	['', 'data transformation', ' ', 'visual data extraction', ' ', 'electronic bill presentment', '']
+Prodea
+	Provider of data warehousing, decision support and application development software. The company\'s product helps in accessing and transforming raw data into useable, relevant information that can be shared throughout an enterprise.
+	['', 'data transformation', ' ', 'data access', ' ', 'decision support', ' ', 'data warehousing', ' ', 'application development software', '']

@@ -1,21 +1,24 @@
-Ashby BioSystems
-	Developer of a platform technology based on a method for manufacturing porous silicone rubber. The company also engages in the development of cellular support material for applications ranging from themanufacture of vaccines to vascular skin grafts and liver-assisted devices.
-	['', 'cell culture', ' ', 'tissue engineering', ' ', 'cell culture', ' ', 'porous silicone rubber', '']
-Aqua Pro Technologies
-	Developer of advanced microbial feed additives for aquatic organisms. The company develops probiotic additives for aquatic organisms including different fish species for enhancement of their immune response.
-	['', 'microbial feed', ' ', 'probiotic additives', ' ', 'feed additives', ' ', 'feed products', '']
-LevGum
-	Provider of rubber de-vulcanization services. The company develops rubber de-vulcanization technology and is engaged in the re-cycling of rubber.
-	['', 'rubber de-vulcanization', ' ', 'rubber recycling', ' ', 'environmental services', '']
+e-Xstream engineering
+	Provider of software and engineering services. The company develops a non-linear multi-scale modelling software platform DIGIMAT and also offers its consultancy service for multi-scale modelling of materials and composite structures. The company was spun out of Université catholique de Louvain.
+	['', 'modelling software', ' ', 'engineering service', ' ', 'composite materials', '']
+Bego (Mechanical Engineering)
+	Operator of a mechanical engineering company. The company is engaged in industrial mechanics and metalworking.
+	['metalworking ', 'industrial mechanics', ' ', 'mechanical engineering', '']
+Amazon Robotics
+	Developer of mobile material handling solutions for the storage, movement and sortation of products. The company\'s mobile fulfillment system include ItemFetch for picking items OrderFetch, a sortation system for routing orders to the dock door and CaseFetch, which delivers pallets to workers for case picking or forward replenishment.
+	['', 'material handling', ' ', 'mobile material handling', ' ', 'sortation system', '']
+Mycologix
+	Provider of a biological treatment process for biofuels. The company uses a combination of microbial treatment and engineering to degrade woody material on an industrial scale, to be fermented into fuels such as ethanol.
+	['', 'wood decay mechanisms', ' biomass bioenergy biofuel']
+Paxford
+	Provider of composite material engineering services.
+	['', 'material engineering', ' ', 'engineering service', ' ', 'composite material', '']
+Prepreg-SKM
+	Manufacturer of products from carbon and mineral-fiber composites. The company is a manufacturer of prepregs, a semi-finished composite material that can be turned into monolithic articles of complex forms that require minimal tooling. The company\'s products are used in aviation and space, automobile manufacturing and ship building, construction, oil and gas production, pipeline transport, medicine and wind power.
+	['', 'carbon fiber', ' ', 'polymer composite material', ' ', 'nanofilled prepreg', ' ', 'automobile manufacturing', ' ', 'ship building', ' ', 'gas production', '']
 Unicom
 	Manufacturer of modifiers for asphalt concrete mixtures for road construction. The company produces composite material "Unirem" for road paving using nanostructured rubber powder to modify an asphalt-bitumen mixture.
 	['', 'composite material', ' ', 'rubber powder', ' ', 'asphalt concrete mixture', '']
-Delta Plant Technologies
-	Developer of natural rubber. The company develops agronomics and processing technologies for production of an alternative source of natural rubber derived from a plant native to central Asia called the Russian Dandelion. The production process also yields a feed stream which can be converted into ethanol.
-	['', 'natural rubber', ' ethanol rubber tire']
-Hawkeye Renewables (Ethanol Plants)
-	Producer of ethanol with plants in Iowa Falls and Fairbank, Iowa. The company\'s plants are specialized in ethanol and dried distiller grains.
-	['', 'ethanol plant', ' ', 'renewable resource', ' refinery']
-Phoenix Bio-Industries (Ethanol Plant)
-	Operator of a dry mill ethanol plant. The company manufactures ethanol for chemicals, paints & coatings industries.
-	['ethanol ', 'dry mill', ' ', 'paints & coatings', '']
+UroTec
+	Provider of tissue-engineering services for the treatment of urologic disease. The company focuses on treatment of urethral stricture, ureteral strictures, ureteral anomalies and hypospadia.
+	['', 'urologic disease', ' ', 'urethral stricture', ' hypospadia ', 'tissue engineering', '']

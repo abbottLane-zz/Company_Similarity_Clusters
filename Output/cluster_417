@@ -1,9 +1,45 @@
-A World of Tile
-	Owner and operator of a chain of retail tile and stone stores. The company\'s stores offer stone, ceramic, and porcelain tile products, as well as installation seminars.
-	['tile stone ceramic porcelain florring retail store']
-Guandong Dongpeng Ceramics Co.
-	Manufacturer of porcelain, ceramic tiles and sanitary ware. The company provides glazed and unglazed porcelain and marble tiles.
-	['', 'porcelain tiles', ' ', 'floor tiles', ' ', 'house decoration', '']
-CUARZOS GRANULADOS
-	Provider of stone shaping, finishing and transportation. The company specializes in the cutting of stone for both urban and commercial uses such as counter tops and displays.
-	['', 'stone cutting', ' ', 'stone shaping', ' ', 'material transportation', ' ', 'mining', ' ', 'quarry', '']
+Mine
+	Provider of an ownership directory that connects people and the items they buy to create personalized networks of product discovery. The company enables its users to create, control, update and share information on their purchases.
+	['', 'product discovery', ' ', 'purchase information', ' ', 'information sharing', ' ', 'product search', ' ', 'product directory', '']
+Groxis
+	Developer of visual search technology and graphical information interface solutions. The company develops and markets Grokker, a Web-based enterprise search management platform that leverages federated content access and visualization for enterprises, universities, content publishers, libraries, and other research-intensive organizations.
+	['', 'visual search', ' ', 'search management', ' ', 'graphical information', '']
+Vivisimo
+	Provider of enterprise search software solutions to OEM and reseller markets. The companies search solutions are used on corporate and governmental Web sites, enterprise intranets and departments, and in government intelligence agencies.
+	['', 'search software', ' ', 'reseller market', ' ', 'search solution', ' ', 'information management', ' ', 'security management', ' ', 'navigation software', '']
+Eurekster
+	Provider of social search software services and technologies. The company\'s search portal and widget harness the knowledge and behavior of online communities to improve the search experience and creating online assets for Web publishers, infopreneurs and advertising inventory for marketers.
+	['', 'social search software', ' ', 'online community', ' ', 'customized search', '']
+Accelerator Sciences
+	Provider of a search platform for entire suite of science resources. The company offers a search gateway which includes research & development results, project descriptions and accomplishments.
+	['', 'search platform', ' ', 'search gateway', ' ', 'science information', '']
+Vizibility
+	Developer of SearchMe (TM) button for Google which instantly returns the search results. The company provides one click people search services for career professionals. It also offers PreSearch Wizard, a process to design and manage custom search result on Google and generate personal SearchMe button.
+	['', 'web service', ' ', 'custom search', ' ', 'people search', ' ', 'online identity management', '']
+GrandCentral
+	Provider of phone management services. The company developed a service that allows users to use one phone number for all of their phones.
+	['', 'online service', ' ', 'online search service', '']
+Kabukiman
+	Provider of online information about restaurants. The company allows users to search for names, places, type of cuisine and look for a suitable restaurant in Germany.
+	['', 'restaurant information', ' ', 'search function', ' ', 'online search', '']
+Peryskop.pl
+	Provider of an online search engine. The company provides semantic search engine for products and product\'s reviews in Polish and English.
+	['', 'online search', ' ', 'online product search', ' ', 'semantic search engine', '']
+Fluidinfo
+	Provider of online information storage and search platform. The company enables content owners to publish product information through a writable application programmer interface (API) with permissions and developers to create applications that make data social.
+	['', 'information storage', ' ', 'online search', ' ', 'social data', '']
+411
+	Provider of an online search engine in Canada. The company provides search platform for user to locate whatever contact he whats to get in Canada.
+	['', 'online search engine', ' ', 'search platform', ' ', 'database platform', '']
+Evi Technologies
+	Provider of voice recognition application. The company also develops internet answer engine where users can access the information from the database of facts.
+	['', 'search engine', ' ', 'online search', ' ', 'search technology', ' ', 'voice recognition application', '']
+CoFoundersLab
+	Provider of an online Co-Founder matching site. The company helps entrepreneurs launch new businesses.
+	['', 'co-founder search', ' ', 'entrepreneur search', ' ', 'online entrepreneur hunt', ' ', 'social content', '']
+Plasmyd
+	Creator of an online community for researchers. The company provides a platform for peer review and discussion of research papers.
+	['', 'search engine', ' ', 'scientific search', ' ', 'papers online', '']
+TalentSpring
+	Provider of software as a service-based automated candidate sourcing services and solutions for recruiters and human resources professionals in the recruiter industry. The company enables recruiters and hiring managers to find resumes for passive and active candidates on social networking sites, job boards, and corporate application tracking systems utilizing semantic-search technology and a revolutionary resume-ranking algorithm.
+	['', 'resume search engine', ' ', 'candidate sourcing service', ' ', 'recruitment solutionl', '']

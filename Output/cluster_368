@@ -1,24 +1,18 @@
-DATAllegro
-	Provider of data warehouse appliances.
-	['', 'data warehouse', ' ', 'warehouse appliance', '']
-Omniture
-	Provider of online business optimization software. The company hosts and delivers Omniture Online Marketing Suite, as an on-demand solution, as well as an on-premise solution that consists of Open Business Analytics Platform and integrated set of optimization applications for online analytics, channel analytics, visitor acquisition and conversion.
-	['software data warehouse information']
-Electron
-	Provider of database hosting services. The company provides technology platforms to improve the performance of enterprise applications, data warehouses and cloud computing infrastructures.
-	['', 'hosting service', ' ', 'advanced software technology', ' ', 'enterprise application', ' ', 'data warehouse', '']
-InfiniDB
-	Provider of analytic database software for information processing applications. The company provides data warehouse storage engine for analytical data, analytical workloads and analytical data volumes. It also offers support services for the implementation of data warehouse.
-	['', 'analytic database software', ' ', 'storage engine', ' warehousing']
-Maximal
-	Provider of business intelligence services that enable organizations to discover the knowledge hidden in their data warehouses, gaining competitive edge.
-	['knowledge ', 'business intelligence', ' ', 'data warehouse', '']
-Prism Solutions
-	Designer, developer and marketer of data warehouse management software solutions in United States. The company also provides database management solutions to its customers.
-	['', 'data warehouse', ' ', 'database solution', ' DBMS']
-nQuire Software
-	Provider of the internet-based search and analytic platform for structured information. The company server accesses the data warehouses and intelligently federates information from multiple systems and data sources including data warehouses, data marts, operational, transactional and XML-based sources.
-	['', 'analytic platform', ' ', 'server access', ' ', 'data warehouse', ' ', 'data mart', ' ', 'xml source', '']
-SenSage
-	Provider of enterprise event data warehouse technology for security, compliance, call detail records data retention, data retrieval and systems management. The company offers enterprise security analytics software that provides a log management platform, for event collection, retention and analysis to automate compliance reporting, investigation and security decision support processes.
-	['', 'data warehouse', ' ', 'log management platform', ' ', 'data management architecture', ' ', 'log management', ' ', 'system management', ' ', 'security process', ' ', 'compliance reporting', '']
+Sevenval
+	Provider of mobile and multi-channel marketing technology. The company provides its FIT Technology platform, which enables users to arrange existing Web content and to enrich it with new content, depending on the usage scenario and device, without having to change the business logic.
+	['', 'cloud software', ' ', 'mobile internet', ' ', 'web technology', ' ', 'multi channel web', '']
+UFIS
+	Provider of airport information technology. The company provides integrated information for single, multi-terminal and multi-airport operations for the global aviation community. The company was spun out of Kongsberg Airport System.
+	['', 'airport information', ' ', 'integrated services', ' operations']
+Diffusion
+	Provider of multi-channel information delivery technology. The company develops intranet and extranet software for the targeted distribution of business critical information through different media.
+	['', 'intranet software', ' ', 'extranet software', ' ', 'multi-channel information', ' ', 'application software', '']
+Interweave Software
+	Developer of information delivery products. The company\'s products allow information technology organizations to deploy intranet and extranet-based Web information systems across virtual enterprises.
+	['', 'virtual enterprises', ' ', 'Interweave Modeler', ' ', 'database administrators', '']
+Feed Management Systems
+	Provider of software solutions that links critical information between commercial feed manufacturers and their suppliers and customers. The company aims to help feed manufacturers attract and retain customers by providing the information infrastructure required to operate effectively in the dynamic and complex feed manufacturing environment.
+	['', 'feed manufacturer', ' ', 'commercial feed', ' ', 'information software', ' ', 'business software', '']
+Talent Plug
+	Developer of software for recruitment professionals. The company offers software to support multi-channel talent acquisition processes.
+	['', 'talent acquisition software', ' ', 'recruitment software', ' ', 'job search', ' ', 'Job Posting', '']

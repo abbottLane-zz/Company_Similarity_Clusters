@@ -1,12 +1,9 @@
 Navitas Cancer Rehabilitation Centers of America
 	Provider of personalized integrated cancer rehabilitation services to cancer patients.
 	['', 'physical therapy', ' ', 'occupational therapy', ' ', 'prescriptive exercise', ' ', 'psycho-social counseling', ' ', 'nutritional counseling', ' ', 'lymphedema therapy', ' acupuncture']
-Kanisa Pharmaceuticals
-	Provider of oncology focused pharmaceutical services. The company is focused on developing new treatments for cancer with novel testing formats to stratify patients and predict likely responders to therapy.
-	['', 'cancer treatment', ' ', 'pharmaceutical service', ' ', 'diagnosis service', '']
-Velocity Medical Solutions
-	Developer of imaging software to improve cancer treatment. The company offers a software which could improve the planning of radiation therapy for patients and develop new cancer therapies. It builds oncology PACS applicable to the research, clinical, and drug discovery markets.
-	['', 'cancer treatment', ' ', 'imaging system', ' ', 'radiation therapy', ' ', 'cancer therapy', '']
-Raysearch Laboratories
-	Developer of software for cancer radiation therapy. The company\'s products are used to enhance the efficiency of radiation therapy by optimizing the radiation dose for each cancer patient.
-	['', 'cancer radiation', ' ', 'software development', ' ', 'radiation therapy', '']
+Rehab Associates
+	Provider of physical and occupational therapy services in owned and managed free-standing clinics and hospital departments. The company operates 37 points of service throughout the states of Alabama, Colorado, Georgia, Illinois and Missouri.
+	['', 'therapy service', ' ', 'free-standing clinics', ' ', 'occupational therapy', ' ', 'managed free-standing', '']
+Unwind Me
+	Provider of massage therapy services. The company provides massage and wellness services to the customers at their own convenience.
+	['', 'massage therapy', ' ', 'wellness service', ' Massage']

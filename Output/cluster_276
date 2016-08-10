@@ -1,54 +1,15 @@
-SocialStudio
-	Developer of a mobile application. The company\'s application enables users to creates collaborative videos by compiling multiple videos into a single clip.
-	['', 'video builder application', ' ', 'collaborative video', ' ', 'video making application', ' ', 'video platform', '']
-Directr
-	Provider of a mobile application for creating videos. The company\'s application provides users with the ability to create movies on their phones.
-	['', 'video application', ' ', 'movie creation', ' ', 'video editing', ' ', 'mobile video', '']
-Hantro
-	Provider of mobile video technology. The company provides hardware and software based MPEG4, H.263, H.264 and VC-1 video software specifically tailored for handheld devices. The company\'s product portfolio also includes video applications for video capturing, playback, messaging, streaming and telephony.
-	['', 'mobile video technology', ' MPEG4 ', 'video software', '']
-Klip
-	Developer of a mobile application. The company\'s application allows users to share videos with others.
-	['', 'mobile video streaming', ' ', 'mobile video sharing', ' ', 'mobile video editing', ' ', 'mobile video platform', '']
-Streamweaver
-	Developer of multi-angle mobile video application. It allows users to record videos together with their friends. The videos can then be combined to show multiple angles simultaneously in a single split-screen video.
-	['', 'mobile video application', ' ', 'multi angle video', ' ', 'split screen synchronicity', '']
-Inlet Technologies
-	Provider of encoding solutions. The company\'s products include Armada, a transcoding and encoding workflow system that eliminates the stove-pipes and manual steps; Spinnaker, a broadcast quality streaming solution; Fathom, an encoding platform for VC-1, Windows media, AVC, and flash files; and Semaphore, an automated quality control program for digital encoding. It provides its solutions for professional streaming, adaptive streaming, video-on-demand, IPTV, video on the Web, mobile video, reviewing dailies and rushes, broadband television, corporate communications and training, distance learning, and security and surveillance.
-	['', 'encoding solution', ' ', 'encoding workflow system', ' ', 'encoding platform', '']
-Urbantag
-	Provider of a community to share and recommend places to people. The company\'s application allows users to build lists and then share them with friends, either online or on iPhone, they can then create their own lists or provide input to your own, giving recommendations for where to go or where not to go.
-	['', 'local discovery', ' ', 'place recommendation', ' ', 'place sharing', ' ', 'map network', '']
-RipCode
-	Provider of realtime transcoding software for video clips and streaming. The company supports live mobile video or video on-demand transcoding for mobile and user generated content applications. It enables video to be dynamically transcoded and served to a customer on any screen size as they request it, giving viewers an expansion of content choices while reducing an operator’s server hardware, storage and energy use.
-	['transcode IPTV ', 'video on-demand', '']
-Juice Wireless
-	Developer of mobile marketing programs. The company operates JuiceCaster, a mobile and online social media community that allows users to connect with friends, as well as post and share photos and videos from mobile phones.
-	['', 'mobile marketing program', ' ', 'social media community', ' ', 'mobile media', ' ', 'mobile photo sharing', '']
-HopStop.com
-	Developer of a mobile application for pedestrian-friendly directions and information. The company is the creator of a mobile application that provides door-to-door transit, walking, biking, taxi and hourly car-rental directions in more than 300 cities. It is available for mobile phones and tablets.
-	['', 'driving software', ' ', 'driving application', ' ', 'location based software', ' ', 'subway directions', '']
-Ortiva Wireless
-	Provider of video optimization software for mobile network operators (MNOs) and managed service providers (MSPs). The company offers mVOG, a mobile video optimization gateway that provides a mobile streaming solution for MNOs and MSPs; and iVOG, a video optimization platform designed for wireless operators to enhance the overall network efficiency and reduce bandwidth consumption.
-	['', 'video software', ' ', 'mobile operator', ' ', 'service provider', ' ', 'video optimization', '']
-ROAM Data
-	Developer of mobile application for tracking financial transactions. The company deliver real-time information and transactions to mobile professionals on their own mobile phones.
-	['', 'commerce gateway', ' ', 'mobile application', ' ', 'payment processor', '']
-TrustGo Mobile
-	Developer of free mobile security application. The company\'s application provides virus protection to find and eradicate applications that can compromise user\'s personal data and privacy. It allows mobile device users to search, monitor, detect and prevent harmful applications and protect mobile devices.
-	['', 'mobile security application', ' ', 'virus protection', ' ', 'personal data privacy', ' ', 'mobile device protection', ' ', 'melware detection', '']
-SimpleHoney
-	Provider of a mobile application. The company offers its users with an application to make their wish list of the places and things they wish for and  provide shopping packages accordingly.
-	['', 'wish list', ' ', 'mobile product', ' ', 'mobile shooping application', '']
-Tiny Pictures
-	Operator of a mobile media-sharing site called Radar. The company\'s services help users to share mobile photos and videos to its site through e-mail and mobile messaging. It develops applications that enable users to share videos and images to others across mobile networks and social networking platforms.
-	['', 'mobile photo', ' ', 'media sharing', ' ', 'photo sharing', ' ', 'mobile video', ' ', 'mobile messaging', ' ', 'video sharing', ' ', 'social network', '']
-Rockpack
-	Provider of a video-curation application. The company is the developer of a mobile application for video downloads, curating video content from around the Web and enabling users to create their own channels for receiving it.
-	['', 'video curation application', ' ', 'video platform', ' ', 'curate video', ' ', 'share collection', '']
-Vuico
-	Provider of data connectivity for mobile users. The company provides wireless email and mobility solutions for personal and corporate use.
-	['', 'wireless software', ' ', 'data connectivity', ' ', 'mobile video', ' ', 'mobile entertainment', '']
-LittleCast
-	Provider of an eCommerce platform for video producers and their audiences. The company allows its users to sell their videos directly to audiences on Facebook and mobile devices using mobile applications and web platform.
-	['', 'eCommerce platform', ' ', 'video distribution', ' ', 'mobile video sale', '']
+Eventioz
+	Provider of online ticket sales and services. The company offers an online ticket platform for clients to promote and market events.
+	['', 'event marketing', ' ', 'event promotion', ' ', 'ticket sales', ' ', 'event ticketing', ' ', 'ticket services', ' ', 'ticket marketing', ' tickets']
+redBus
+	Provider of an online bus ticketing service. The company enables users to book bus tickets through phone, home delivery, physical outlets or even SMS.
+	['', 'online bus ticket', ' ', 'booking service', ' ', 'online ticketing', '']
+Eventjoy
+	Provider of an online event organizing platform. The company\'s platform allows organizers to use self-service platform to create social mobile applications, handle ticketing/registration, power activity walls and design an event website.
+	['', 'event organizing platform', '  ticketing ', 'event website', '']
+Going
+	Operator of a website to know and share about various events. The company provides a place to share events, such as parties, concerts, and happy hours; to join a group or chat with or find people with similar interests; to tag photos; to post and promote events; to track and print guestlists; sell tickets; and to email the list.
+	['', 'online event sharing', ' ', 'online social network', ' ', 'event networking', '']
+MogoTix
+	Provider of a mobile ticketing service for events. The company\'s services are used to send event tickets to attendees\' cell phones through text messages for parties, fundraisers and conferences.
+	['', 'mobile ticketing service', ' ', 'event website', ' ', 'mobile QR code', ' ', 'event hosting', ' ', 'ticket distribution', '']

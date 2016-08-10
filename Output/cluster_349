@@ -1,18 +1,18 @@
-EpiWorks
-	Manufacturer of specially treated gallium arsenide and indium phosphide wafers. The company\'s wafers are used to make computer chips and ends up being components in cell phones and in medical and industrial lasers.
-	['', 'IT services', '']
-CyOptics
-	Developer of Indium Phosphide (InP) optical chips and components for integration into access, metro and long-haul communications systems. The company\'s products include planar lightwave circuits (PLCs) for optical networks in telecommunications and defense applications.
-	['', 'laser detector', ' ', 'planar lightwave circuit', ' ', 'optical chip', ' ', 'lightwave circuit', ' ', 'optical component', ' ', 'optical product', '']
-ANDevices
-	Provider of photonic devices. The company provides photonic devices for FTTH, ROADM and long-haul communication markets. The company\'s products are based on a planar lightwave circuit platform which is ideal for integration of multiple optical functions on a single chip.
-	['', 'photonic devices', ' FTTH ', 'Planar Lightwave Circuit', ' chip']
-Micro Managed Photons
-	Developer of integrated photonic circuits for optical networking applications. The company provides a technology which integrates the concept of photonic band gap and surface plasmon polaritons to control flow of light on an optical chip.
-	['', 'photonic circuit', ' ', 'optical networking', ' ', 'plasmon polariton', ' ', 'optical chip', '']
-Photonyx
-	Manufacturer of optical chip boards. The company develops tunable diffraction grating technology which can be used in optical telecom components and projection displays.
-	['', 'optical chip', ' ', 'tunable diffraction grating technology', ' ', 'optical telecom', ' chip']
-Xtera Communications
-	Developer of optical, internet protocol performance, and service solutions to terrestrial and sub-sea global service providers. The company’s products include NU-WAVE ES, a scalable optical line system; Nu-Wave CXR system, an OADM transport system to converge metropolitan, regional, long haul and ultra long haul systems into a homogeneous network.
-	['', 'IP performance', ' ', 'optical line', ' ', 'homogeneous network', ' ', 'ip service', '']
+EraGen BioSciences
+	Developer and manufacturer of molecular reagent products and software for research and clinical testing markets. The company offers molecular diagnostic assays for the early detection and monitoring of cancer, genetic, and infectious diseases, as well as for genetic-based conditions. It serves clinical laboratories and medical researchers.
+	['biotechnology ', 'clinical diagnostic', ' ', 'molecular diagnostic', ' ', 'clinical testing', '']
+Genaco
+	Developer of molecular diagnostic technology and products. The company\'s main products include commercial kits for prenatal screening and diagnosis of common genetic diseases.
+	['', 'molecular diagnostic technology', ' ', 'prenatal screening', ' ', 'genetic diseases', '']
+Biex
+	Developer of maternity management products. The company diagnostic tests to identify the potential for premature deliveries in pregnant women.
+	['maternity ', 'diagnostic test', ' ', 'hormone estriol', '']
+Rubikon
+	Developer of molecular technologies. The company develops molecular technologies for the treatment and prevention of common cancers combined with new methods for the individualization of tumor therapies.
+	['', 'molecular technologies', ' ', 'therapeutic services', '']
+Adnavance Technologies
+	Developer of diagnostic technology. The company provides direct-detection molecular diagnostic tests. The tests are designed to decentralize the worldwide molecular testing market by enabling hospitals and smaller independent laboratories to conduct their own testing.
+	['', 'molecular diagnostic', ' ', 'medical application', ' ', 'diagnostic test', '']
+NovioGendix
+	Provider of molecular diagnostics and services to physicians, clinics, and hospitals. The company offers service to conduct test for prostate cancer and developing molecular diagnostic assays for uro-oncological practices and cancer treatment.
+	['', 'molecular diagnostic', ' ', 'laboratory service', ' ', 'kidney cancer', ' ', 'uro-oncological disease', '']

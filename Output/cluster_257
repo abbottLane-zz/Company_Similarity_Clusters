@@ -1,39 +1,48 @@
-Transwarp Networks
-	Provider of storage products. The company focuses on manufacturing switching, CPU, memory products, high-performance switches, microprocessors and significant storage-related intellectual property.
-	['', 'storage products', ' ', 'storage IT', ' ', 'memory products', ' ', 'intellectual property', ' switches microprocessors']
-XLNT Designs
-	Manufacturer of a complete line of LAN switches. The company provides custom design and the intellectual property products for LAN companies.
-	['', 'LAN switch', ' ', 'intellectual property product', '']
-YDreams
-	Developer of a patent-pending technology. The company develops full-scale interactive environments, products and intellectual property combining technology and design.
-	['', 'patent-pending technology', ' ', 'intellectual property', ' ', 'full-scale interactive environments', '']
-Combio
-	Developer of novel synthesis and screening technologies. The company focuses in discovery and optimization of drug candidates against therapeutically important protease and protease reagents and protease characterization. It is based on proprietary bead-based lead optimization tools and chemical scaffolds for novel protease inhibitors. In addition, it has in-house in vitro pharmacology, medicinal chemistry, computational chemistry and intellectual property rights management.
-	['healthcare ', 'drug discovery', ' biochemical ', 'pharmaceutical preparations', ' ', 'screening technologies', '']
-Information Holdings
-	Provider of information products and services to scientific, technical, medical, intellectual property and IT learning markets. The company provides databases, information products and complementary services through Intellectual Property Group, which includes MicroPatent(R), Master Data Center(TM), Liquent-IDRAC and LPS Group.
-	['', 'information provider', ' ', 'database organizer', ' ', 'information technology', '']
-Walker Digital
-	Developer of intellectual property. The company\'s mission is to use the tools of the digital age to create business systems that unlock value for consumers and businesses. It has started several operating companies to commercialize their inventions in e-commerce, gaming, publishing, retailing, education and other industries.
-	['', 'intellectual property', ' ', 'financial software', ' ', 'commercial services', '']
-EmbElectronIP
-	Provider of intellectual and industrial property for electronic embedded systems. The company provides royalty-free intellectual property licenses and serve all sectors that incorporate electronics in their products.
-	['', 'intellectual property', ' ', 'industrial property', ' ', 'property right', '']
-Vincera
-	Provider of end-to-end user activity management services. The company offers user activity intelligence, license management and intellectual property protection technologies that are applicable to applications on web, software and content-based applications.
-	['', 'management solutions', ' ', 'user activity intelligence', '']
-IDENT Technology
-	Provider of intellectual property and semiconductor products. The company\'s products enable proximity sensing and real-time 3D gesture recognition for the consumer electronics industry, including mobile devices, gaming and other input devices.
-	['', 'intellectual property', ' ', 'semiconductor products', '']
-Ulive
-	Commercialization of intellectual property rights. The company engages in the identification, protection, maintenance and commercialization of intellectual property rights owned and created by the University of Liverpool.
-	['rights ', 'intellectual property', ' commercialization']
-Cooke Pharma
-	Developer of formulations for the treatment of atherosclerosis. The company owns and develops the intellectual property rights to use arginine for vascular disease.
-	['atherosclerosis arginine ', 'vascular disease', '']
-Fusion IP
-	Provider of funding to Universities for developing intellectual property. The company is a venture capitalist that provides short, medium and long term investments to Universities for developing intellectual property and in return get a share in earnings of such intellectual property rights.
-	['', 'intellectual property', ' ', 'venture capitalist', ' ', 'long term investment', '']
-Vringo (Mobile Technology Business)
-	The unit is engaged application business.
-	['intellectual property ', 'application business', '']
+Biocistronix
+	Provider of drug discovery and medical research and development services. The company also engages in development of latest diagnostic techniques for various ailments.
+	['', 'medicine discovery', ' ', 'medical research', ' ', 'diagnostic techniques', '']
+Lincoln Technologies
+	Operator of a software development and consulting company focused on support of the pharmaceutical industry drug development process. The company provides systems and services related to applications in clinical development, pharmacovigilance, electronic data submission, and regulatory review to industry sponsors, and to FDA and other public health agencies.
+	['', 'software development', ' ', 'safety data mining', ' ', 'database cleaning', '']
+Rofous Software
+	Provider of product engineering and content engineering services. The company offers enterprise application solutions, training and staffing services, application development services, custom software development, enterprise solutions, supply chain management solutions and customer relationship management solutions.
+	['', 'enterprise solutions', ' ', 'management solutions', ' ', 'custom software development', '']
+Coverity
+	Provider of source code analysis tools for identifying software defects in the software development life cycle. The company’s products includes a prevent static analyzer, a static analysis tool that creates a visualization of software, including an architecture map, call graph visualization and a dependency structure matrix.
+	['', 'source code', ' ', 'analysis tool', ' ', 'software defect', ' ', 'security vulnerability', ' ', 'software development', '']
+InitMe
+	Provider of software development services. The computer offers adaptive software development, computer repair, collaborative software development and agile software development services.
+	['', 'development services', ' ', 'technology companies', ' ', 'computer programing', '']
+AIXUV
+	Provider of XUV and EUV exposure technologies. The company develops and produces compact, user friendly EUV radiation sources for laboratory applications as well as customer-specific EUV systems. It offers research and development services and components with respect to the use of short-wave radiation. The company was spun out of RWTH Aachen University.
+	['XUV EUV ', 'metrology systems', ' lamps Reflectometry']
+Ubiq
+	Operator of a marketing and sales organization. The company is specialized in software development, licensing and distribution for original equipment manufacturers (OEMs), large accounts and retail markets.
+	['', 'original equipment manufacturer', ' OEM ', 'electronic software distribution', ' CRM']
+Game Minion
+	Provider of cross-platform cloud services for the mobile-development industry. The company offers diifferent software-development kits, including multi-player gaming, push notifications, analytics, cloud storage, leaderboards, achievements, content delivery and social sharing.
+	['SDK ', 'software development kit', ' ', 'application development', ' ', 'mobile development', '']
+EdgeTrade
+	Provider of agency only brokerage and software development services. The company also provides services to improve client\'s trading performance, increase productivity, lower explicit and implicit trading costs and maintain anonymity in the markets.
+	['', 'software development', ' ', 'trading performance', ' ', 'productivity increment', '']
+Akimbi Systems
+	Developer of infrastructure management services for software development and test organizations. The company offers complex configuration capture-and-restore system, a software development and test infrastructure, which allows software developers and quality assurance engineers to suspend and capture to a shared storage library.
+	['', 'infrastructure management service', ' ', 'software development', ' ', 'test infrastructure', '']
+Netmania
+	Developer of software and hardware services for industries. The company develops software and hardware for Internet service providers (ISPs), cable operators, education and health sectors, enterprise organizations and small and medium sized enterprises. It offers software development services which includes product development, data migration and online systems.
+	['', 'software development service', ' ', 'online system', ' ', 'industrial supply', ' ', 'data migration', ' ', 'development service', '']
+Identum
+	Provider of software development services. The company offers an email encryption software tool, which allows original equipment manufacturer to tailor the email privacy capabilities.
+	['', 'software development', ' ', 'email encryption', ' ', 'email privacy', '']
+Catapulse
+	Developer of a hosted development service (HDS) for internet software development. The company\'s HDS was a collaborative development platform that included hosted development tools, Web-based collaboration services, and infrastructure for the creation and reuse of intellectual property.
+	['', 'internet software development', ' ', 'hosted development service', ' ', 'web-based collaboration', ' ', 'collaborative development platform', '']
+Sprockets
+	Developer of collaborative software for the marketing and advertising industries. The company provides online project and deadline management for businesses.
+	['', 'collaborative software', ' ', 'advertising agency', ' ', 'software developer', '']
+Integrated Chipware
+	Developer of software development tools and operating systems. The company provides products that allow teams to manage requirements for products and projects throughout the development lifecycle at an enterprise level.
+	['', 'software development tool', ' ', 'operating system', ' ', 'manage projects', '']
+Hive Media
+	Provider of media development services. The company offers media development services, creation of graphic designs, illustrations, concept art and technology consulting.
+	['', 'media development service', ' ', 'graphic design', ' ', 'concept art', '']

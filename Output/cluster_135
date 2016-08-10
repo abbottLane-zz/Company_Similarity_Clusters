@@ -1,27 +1,21 @@
-Class Connect
-	Provider of lesson crowd-sourcing tool for teachers. The company provides an online platform which enables teachers to find, build and share lesson plans.
-	['', 'crowd-sourcing tool', ' ', 'educational services', ' ', 'educational and Training', '']
-Brainglass
-	Provider of educational mobile applications. The company\'s language learning applications combine the concepts of audiobook, e book, dictionary and exercises into one engaging learning environment on a user\'s mobile phone.
-	['', 'learning application', ' ', 'learning environment', ' ', 'mobile education', '']
-Retention Education
-	Provider of a learning environment for workers, parents, families and communities. The company builds language, workforce, parenting and life skills. It offers various education programs, including family literacy program and English and Spanish language learning. It serves foodservice, hospitality and construction industries.
-	['', 'learning environment', ' ', 'parenting skill', ' ', 'construction industry', ' ', 'education solution', '']
-LingleOnline
-	Operator of an online educational platform. The company provides an online learning platform which allows English language teachers and learners to generate learning materials from news articles.
-	['', 'English language learning', ' ', 'lesson plan', ' ', 'language processing', '']
-Bab.La
-	Provider of multilingual language portal. The company provides dictionaries for more than 20 languages, a language forum, vocabulary lessons, language games, quizzes, verb conjugations, phrase books for university, business or travel and an internship platform among other products.
-	['translation ', 'language portal', ' ', 'language learning platform', ' ', 'language translation service', '']
-YongoPal
-	Provider of an online platform for training English language. The company develops application that enables text based interactions between different people around the world and enhances cultural experience.
-	['', 'english training', ' ', 'cultural exchanges', ' ', 'mobile app', '']
-Straight Up English
-	Provider of an English language learning software-as-a-service company. The company applies linguistic and education research based methodologies, advanced pitch line technology for feedback and self-correction, and consumer-oriented interface. It develops both web and mobile applications.
-	['', 'mobile application', ' ', 'english language learning software', ' ', 'educational research', ' ', 'linguistic research', '']
-e-Corp English
-	Provider of English language training for companies. The company specializes in teaching corporate English to professionals and large companies.
-	['', 'language training', ' ', 'english training', ' ', 'employee training', '']
-Colloquis
-	Producer of self-service tools that enable to answer customer questions with a natural language processing technology. The company provides interactive agent technology and conversational online business solutions.
-	['', 'language processing', ' ', 'conversational online', ' ', 'agent technology', ' ', 'messaging platform', '']
+kwiry
+	Provider of a text message reminder service. The company works by allowing users to text message the number 59479 (k-w-i-r-y) with anything they may want to remember later.
+	['', 'reminder service', ' ', 'text message reminder', ' ', 'online reminder service', '']
+Uppidy
+	Provider of mobile application services. The company\'s application lets users save, search and share their sms and text messages, backup, search and view their messages in real time.
+	['', 'mobile application', ' ', 'message sharing', ' ', 'texting application', ' ', 'message viewing application', '']
+Department of Behavior and Logic
+	Provider of mobile applications in HTML5. Th company\'s application is used to turn Facebook fan pages into mobile apps.
+	['', 'mobile application', ' ', 'HTML5 application', ' ', 'application development tool', '']
+Storyz
+	Developer of a mobile and web-based application. The company develops a story sharing platform that allow users to create and share stories with pictures, text messages and other content on their smartphones.
+	['', 'web based', ' ', 'story sharing', ' ', 'text message', '']
+TruantToday
+	Provider of communication platform between parents and school. The company provides a Web service that sends real time text and email messages to parents when students are absent.
+	['', 'email message', ' ', 'text message', ' ', 'online message', ' ', 'parental guidance', ' ', 'absent notification', '']
+Sendmail
+	Provider of a message processing platform consisting of appliances, applications and services. The company provides appliance-based products, applications, and services that allow enterprises and government agencies to architect and deploy secure mail and message infrastructures.
+	['', 'message processing platform', ' ', 'message infrastructure', ' ', 'message inspection', ' ', 'mobile device', '']
+Mblox (Premium SMS Business)
+	Provider of SMS services. The company provides mobile payment services in the U.S., U.K., Ireland and Australia.
+	['', 'Premium SMS', ' message ', 'SMS messages', ' ', 'paid text message', ' ', 'text message', '']

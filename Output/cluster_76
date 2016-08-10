@@ -1,57 +1,15 @@
-BambooTori
-	Operator of a restaurant chain. The company provides Japanese food and serves all-natural chicken, beef, pork and vegetable skewers.
-	['Kushiyaki YAKITORI teriyaki grill meat ', 'skewered meats', ' char']
-MLRGB Restauration
-	Provider of steam cooked food products. The company operates as a restaurant serving steamed food products for health conscious customers.
-	['', 'steam cooked food', ' ', 'healthy food', ' ', 'steamed food', ' ', 'organic wine', ' ', 'restaurant operator', '']
-Visys
-	Developer and marketer of automated visual inspection services, based on laser technology. The company provides digital automated sorting services to the global food and non-food processing industry.
-	['', 'visual inspection', ' ', 'laser technology', ' ', 'food processing', '']
-Heidi\'s Gourmet Desserts
-	Manufacturer and distributor of frozen desserts to retail and food service outlets. The company produces New York and California style cheesecakes, gourmet layer cakes, homestyle and specialty desserts.
-	['', 'frozen food', ' cheesecake ', 'layer cake', '']
-Distributions Marc Boivin
-	Supplier of meat products. The company distributes meat products for supermarkets.
-	['', 'meat products', ' ', 'meat supplier', ' sausage beef salami']
-Home Bistro Foods
-	Provider of gourmet food. The company specializes in vacuum-sealed and flash-frozen meals prepared by chefs and sold through its catalog and its e-commerce site. It offers soups, appetizers, meals, and desserts, including beef, pork, lamb/veal/bison, poultry, and seafood.
-	['', 'gourmet food', ' ', 'frozen food', ' ', 'sealed food', '']
-Outinens Potatis
-	Provider of potato products. The company provides pre-cooked and related potato products that are grown with minimal pesticide usage.
-	['potatoes ', 'clean food', ' ', 'potato production', '']
-LoveYourLarder
-	Operator of an online food market. The company operates an online marketplace where the customers can discover artisan food and drink items from across the UK and buy directly from the people who make it.
-	['', 'artisan food', ' ', 'online marketplace', '']
-Besunyen Holdings Company
-	Provider of therapeutic tea products in China. The company is engaged in the development, production, sales and marketing of therapeutic tea and other health food products.
-	['', 'brand awareness', ' ', 'food product', ' ', 'laxative products', '']
-Technic\'Europ
-	Producer of food equipment. The company designs and develops general purpose machinery for food the manufacturing sector.
-	['', 'food equipment', ' ', 'food production', ' ', 'general purpose machinery', '']
-foodieSquare
-	Operator of an online-subscription service for artisan food. The company provides its clients with weekly food boxes showcasing the products of small, high-quality food manufacturers, with special subscriptions for everything from wine to main courses, cheese, meat and sweets.
-	['', 'independent food producer', ' ', 'artisan food', ' ', 'online food subscription', ' ', 'weekly food box', ' ', 'main course', ' ', 'food manufacturer', '']
-ALIA 2
-	Manufacturer of compound feeds for cattle, pigs and poultry.
-	['', 'cattle feeds', ' ', 'pigs feed', ' ', 'poultry food', ' ', 'animal food', '']
-Food Quality Sensor International
-	Developer of real-time and interactive food freshness measurement devices. The company provides food processing, grocery distribution, food service, regulatory, defense and consumer retail markets.
-	['', 'real time device', ' ', 'food freshness device', ' ', 'consumer retail market', ' ', 'food freshness measurement', '']
-FoodieQuest
-	Provider of a food photography and restaurant search application. The company offers an online software that integrates with existing social platforms and creates a competitive game centered around smartphone food photos and direct competition between users.
-	['', 'food photography', ' ', 'platform software', '']
-Housebites
-	Provider of prepared meals at door-step. The company delivers meals cooked by experienced local chefs within specified time. It offers various types of food including  Indian, French, Italian, Thai, Japanese and Chinese.
-	['', 'prepared meals', ' ', 'Cooked meals', ' ', 'home food', '']
-Munch On Me
-	Provider of a food discovery portal that connects people with food in local communities.
-	['', 'food discovery portal', ' ', 'social network', ' ', 'local food', '']
-Pacific Grain and Foods
-	Provider of dry foods and animal feeds. The company supplies edible beans, rice, grains and spices to the food services industry.
-	['', 'organic products', ' ', 'dry food', ' spices']
-Scioko
-	Operator of a fast food company in China. The company operates fast food chains providing simple and authentic food.
-	['', 'authentic food', ' ', 'packed food', ' ', 'portuguese pastel', '']
-Foodoro
-	Provider of an online platform to sell food products. The company allows merchants to sell artisanal food products through their website.
-	['', 'artisanal food', ' ', 'food product', ' ', 'gourmet food', '']
+Connectiva Systems
+	Developer of revenue management software products. The company provides revenue and risk management software that allows telecom operators to get more performance and productivity from their existing infrastructure.
+	['', 'credit risk', ' ', 'fraud management', ' ', 'revenue assurance', '']
+Sightward
+	Developer and Supplier of predictive software that helps marketing professionals maximize revenue. The company also offers insights and recommendations that give their customers additional knowledge about their own clientele.
+	['', 'predictive software', ' revenue']
+PriceMatch
+	Provider of a revenue management platform for hotels. The company develops econometric algorithms forecasting demand and feeding price recommendations to hoteliers, helping them adjust room prices to demand and thus trying to increase revenue.
+	['', 'dynamic pricing', ' ', 'yield management', ' ', 'revenue management', '']
+Orcale MarketPrice
+	Provider of business management software products. The company offers revenue and price management solutions. The company was formerly known as Revenue Technologies.
+	['', 'Business solutions', ' ', 'Revenue Solution', ' ', 'Price solution', '']
+Azure Solutions
+	Provider of end-to-end revenue-assurance product portfolio for networks. The company provides revenue-assurance solutions for mobile operators and cable television companies.
+	['', 'fraud management', ' ', 'data integrity', ' ', 'consulting service', ' ', 'assurance services', '']

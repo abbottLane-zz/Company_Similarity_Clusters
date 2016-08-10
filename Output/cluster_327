@@ -1,12 +1,45 @@
-YaData
-	Provider of analytical software for marketers to micro-segment consumers. The company provides an automated business intelligence tool for self-discovery of customer micro-segments.
-	['', 'analytical software', ' ', 'micro-segment consumers', ' ', 'automated technology', ' ', 'self-discovery', ' ', 'business intelligence tool', '']
-PlymoVent
-	Supplier of products, systems and services for the extraction and filtration of polluted indoor air. The company provide services that remove welding and cutting fumes, grinding dust and oil mist in the metalworking industry.
-	['filtration extraction ', 'pollution filtration', ' ', 'extration services', '']
-fluXXion
-	Manufacturer of micro filtration membrane products. The company offers filter stack sub assemblies, an integrated dynamic cross flow pulsing system for bulk micro filtration applications and small wafer membrane segments for analytical test applications.
-	['', 'micro filtration', ' ', 'industrial supply', ' filter']
-Intelligene
-	Developer of ribozyme based technology in clinical diagnostics. The company provides instruments to support in-process monitoring, quality control, micro-filtration and ultra-filtration systems.
-	['', 'therapeutic application', ' ', 'pharmaceutical application', ' ', 'healthcare service', '']
+Gyros
+	Developer of automated micro-immunoassays for therapeutic protein development. The company develops a microfluidics technology for processing and analysis of proteins and blood samples.
+	['', 'automate immunoassays', ' ', 'therapeutic protein development', ' ', 'medical device', '']
+Xsira Pharmaceuticals
+	Developer of drugs that regulate G protein-coupled receptors. The Company produces patented platform technology for deorphanization and drug discovery of G protein-coupled receptors using a single universal fluorescent assay.
+	['', 'healthcare services', '']
+BioMicro Systems
+	Developer of biological research products for the life sciences community. The company’s products include microarray hybridization instruments that automate the fluid processing of concentrated microarray samples; mixer hybridization chambers for processing multiple microarray samples on a single slide; and wash systems to automate post-hybridization protocols. It also offers labeling-based applications and kits for FISH, arrayCGH, microRNA microarrays, gene expression microarrays, and protein arrays.
+	['', 'biological research product', ' ', 'microarray hybridization instrument', ' ', 'microarray sample', ' ', 'protein array', '']
+Neugenesis
+	Developer of technology for the discovery, improvement and production of complex proteins especially heteromeric proteins. The company develops platforms that help in the discovery and production of complex proteins for biopharmaceutical industries.
+	['biotherapeutics ', 'veterinary vaccines', ' ', 'bio therapeutics', ' enzyme protein']
+Cytomyx Holdings
+	Operator of a life-sciences holding company. The company, through its subsidiaries, develops gene- and protein-based tools to support pharmaceutical companies and researchers in the development of drugs. The company also provides outsourced pharmaceutical research and development, human biology research products and services, and diagnostic products, as well as distributing third parties’ products.
+	['', 'pharmaceutical company', ' ', 'protein tools', ' ', 'human biology', '']
+Plant Genetic Systems
+	Developer of genetically engineered plants. The company is a biotech company lacated in Ghent, Belgium. The was the first (in 1985) to develop genetically engineered (tobacco) plants with insect tolerance by expressing genes encoding for insecticidal proteins from Bacillus thuringiensis (Bt).
+	['', 'genetic engineering', ' ', 'plants', ' ', 'insecticidal protein', '']
+Epitome Biosystems
+	Developer of technology to measure protein biomarkers and intracellular infrastruture. The company has developed a system using antibody microarrays to provide   measurement of protein biomarkers and intracellular signalling pathways.
+	['', 'protein measurement', ' ', 'phosphorylation measurement', ' ', 'biological system', ' ', 'drug discovery', '']
+Covalys
+	Developer of tools for protein research. The company provides protein-labeling products. The company\'s products help researchers in academic institutions, pharmaceutical and biotech companies to improve the efficiency of research into proteins and their function.
+	['', 'protein research', ' ', 'protein labeling', ' ', 'drug discovery', '']
+Akubio
+	Provider of acoustic detection systems for real time analysis of bio-molecular behavior. The company develops acoustic biosensor instrument products for use in protein research and drug development.
+	['', 'drug discovery', ' ', 'acoustic biosensor', ' ', 'biomolecular interactions', ' ', 'detection technology', ' ', 'protein interactions', '']
+Borean Pharma
+	Developer of pharmaceutical protein products. The compan develops a protein technology platform that helps to identify and produce molecular binders based on naturally occurring human proteins.
+	['', 'molecular binders', ' ', 'healthcare services', '']
+Proteopure
+	Provider of protein isolation for proteomic results. The company provides a universal method for isolating proteins. It also uses a protein capture technology and can specifically separate out proteins from various contaminants, including salts, nucleic acids and detergents.
+	['', 'protein isolation solution', ' ', 'proteomic result', ' ', 'nucleic acid', '']
+Pieris
+	Developer of proprietary anticalin technology. The company\'s product Anticalin, is derived from human lipocalins, rationally engineered to solve for the pharmacological and pharmaceutical limitations of both protein- and non-protein-based drug platforms.
+	['', 'protein therapeutic', ' ', 'anticalin technology', ' ', 'drug platform', '']
+neXyte
+	Operator of a research oriented biotech start-up company. The company develops native-like human proteins in a novel patented protein production system for pharmaceutical and biotech markets.
+	['', 'human proteins', ' ', 'protein production', ' ', 'native-like human proteins', '']
+Axovan
+	Operator of a biopharmaceutical research company. The company is involved in the discovery of drugs linked to G protein-coupled receptors.
+	['post-genomic ', 'human genome', ' G-protein GPCRs']
+Biovation
+	Provider of pharmaceutical research services. The company provides antibody and protein engineering technologies.
+	['', 'pharmaceutical research', ' ', 'healthcare service', ' ', 'antibody engineering technology', '  ', 'protein engineering technology', '']

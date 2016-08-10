@@ -1,24 +1,12 @@
-Twice
-	Provider of online marketplace for secondhand clothing. The company provides an e-commerce site browsable by category, with items that are evaluated by professional buyers and professionally photographed.
-	['', 'clothing marketplace', ' ', 'used clothing', ' ', 'concierge style', ' secondhand']
-MyBrands
-	Provider of an e-commerce clothing outlet. The company provides clothing for both men and women and offers a variety of designer brands. It also sells shoes and accessories.
-	['', 'designer clothing', ' ', 'e commerce', ' ', 'mobile shopping', '']
-Polska Grupa Odzieżowa
-	Operator in the clothing trade industry. The company focuses on connecting to and taking over companies in financial difficulty operating in the clothing trade.
-	['', 'clothing trade', ' ', 'apparel company financing', ' ', 'investment opportunity', '']
-Chlorophylle
-	Operator of an online clothing store. The company provides an e-commerce platform which offers clothing products and accessories for users.
-	['', 'recycled materials', ' ', 'organic cotton', ' ', 'clothing industry', '']
-Bizpora
-	Operator of an online platform for travelers. The company provides an e-commerce platform for travelers to interact with each other about upcoming trips.
-	['', 'online traveling platform', ' ', 'business networking', ' ', 'travel network', '']
-FXI Technologies
-	Operator of a hardware and software platform. The company manufactures screen connected companion devices for advanced content. It also has developed a product cotton candy which can be used as companion device with smartphones, tablets and notebook.
-	['', 'companion devices', ' content ', 'cotton candy', ' notebook']
-Harlequín Nature Graphics
-	Manufacturer of cotton fabrics. The company also prints graphics and wildlife animations on cotton fabrics such as t-shirts and sweatshirts.
-	['cotton ', 'print graphics', ' t-shirts']
-Smithfield Case
-	Provider of online clothing service for men. The company creates an online platform which allows the customer to create a profile that includes style, brand, preferences, sizes and then personal stylist develops a set of looks and sizes.
-	['', 'online clothing', ' ', 'online platform', ' style']
+Indisys
+	Developer of Natural Language and Intelligent Conversation service. The company provides natural language and dialog management system that enables functional, social and emotional virtual intelligence, context awareness and flexible, human like conversational abilities. It also provides fully integrated social media and chat offerings.
+	['', 'natural language service', ' ', 'dialog management system', ' ', 'emotional virtual intelligence', ' ', 'context awareness', ' ', 'integrated social media', ' ', 'live chat', '']
+Firefly Network
+	Developer of an intelligent agent technology for the Internet. The company offers the tools enable businesses to create additional advertising and transaction revenues by helping companies to better understand and serve each consumer based on their individual tastes and preferences.
+	['', 'intelligent agent technology', ' ', 'electronic marketplace', ' ', 'transaction revenue', '']
+Expound
+	Provider of software application to let companies conduct conversations with their customers, employees, partners and suppliers. The company provides a language processing engine capable of integrating into existing sensor and information technology products to disseminate crisis management data to enhance the ability of communication via transforming existing commercial applications (CRM, ERP and Knowledge Stores) into interactive customer self-service applications.
+	['', 'software solutions', ' ', 'commercial application', ' ', 'communication software', '']
+Colloquis
+	Producer of self-service tools that enable to answer customer questions with a natural language processing technology. The company provides interactive agent technology and conversational online business solutions.
+	['', 'language processing', ' ', 'conversational online', ' ', 'agent technology', ' ', 'messaging platform', '']

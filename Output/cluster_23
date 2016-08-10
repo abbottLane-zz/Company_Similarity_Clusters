@@ -1,9 +1,15 @@
-hi5
-	Provider of social networking site. The company provides platform for the people to stay connected with each other, share content and information. It also provide gaming platform to play online game.
-	['', 'online chat', ' ', 'online game', ' ', 'online community', ' ', 'advertised game', '']
-VideoJax
-	Provider of video games on the web. The company offers play games with video clips and trivia questions in the areas of movie, television, music and sports, as well as featured games.
-	['', 'video game', ' ', 'online game', ' ', 'online trivia', ' ', 'game sharing', '']
-SaveUp
-	Developer of reward program for personal savings. The company offers an online rewards program for users to save money and pay their debt while earning credits to play for prizes.
-	['', 'online game', ' ', 'online reward', ' ', 'debt payment', '']
+NewRiver
+	Provider of innovative technology solutions that simplify investor disclosure, transparency and cost savings to the delivery of fund data and investor communications. The company pioneered the first electronic prospectus, and guarantee its data to be "compliance grade" which allows customers to reduce risk, lower compliance costs and increase revenues.
+	['compliance ', 'summary prospectus', ' ', 'share class analysis', '']
+Cove Financial Group
+	Provider of a mortgage-alternative program for residential consumers. The company offers a program for would-be home buyers who have money for a down payment, but do not qualify for a mortgage. The company also provides a digital-marketing platform designed to assess what financial products are needed by would-be home buyers, and utilizes multi-channel advertising delivery with audience analysis to develop a network of partners with services focused on this financial demographic.
+	['', 'mortgage finance', ' homebuyer ', 'mortgage service', ' ', 'digital marketing platform', ' ', 'multi-channel advertising', '']
+Mavent
+	Provider of an automated regulatory compliance solutions. The company offers Mavent Expert System, a knowledge-based system to enhance regulatory risk management for residential mortgage businesses; and automated compliance engines that analyze mortgage loan data for compliance with consumer protection laws and institutionally mandated compliance policies.
+	['', 'regulatory compliance', ' ', 'knowledge based system', ' ', 'mortgage business', ' ', 'mortgage loan data', ' ', 'consumer protection law', ' ', 'compliance engine', '']
+SignaCert
+	Provider of partner-based information technology (IT) compliance solutions for organizations and government agencies in the United States. The company’s products detect, assess and provide the notifications of compliance issues; provide the whitelist measurements of commercially available and open source software. Its products enable IT organizations to prove compliance with standards and regulations.
+	['', 'partner based IT', ' ', 'software whitelist measurement', ' ', 'standard compliance', ' ', 'compliance notification', ' ', 'prove compliance', ' ', 'regulation compliance', '']
+LoanTek
+	Provider of a pricing engine platform for mortgage companies. The company provides an online platform which connects mortgage consumers with loan officers.
+	['', 'bank rate', ' auto-quoting ', 'email campaigns', ' ', 'marketing tools', '']

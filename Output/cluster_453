@@ -1,18 +1,36 @@
-Lore
-	Provider of a cloud-hosted education service for instructors to manage courses and engage their students. The company offers tools for gradebook, file management, communication and calendaring with social networking features that enable students to communicate with each other.
-	['', 'online education', ' ', 'education platform', ' ', 'online course', ' ', 'course management', ' ', 'file management', '']
-Cloudup
-	Provider of an online education platform that provides classrooms with collaborative real-time tools, interactive communities, shared content, educational applications, and classroom management solutions. The company also provides administrative tools to manage students, classes, and teachers through a permissions system.
-	['', 'education platform', ' ', 'interactive community', ' ', 'educational application', ' ', 'classroom solution', ' ', 'administrative tool', '']
-Guroo
-	Provider of an online education platform. The company provides online and offline learning resources including videos to engage students in the learning tasks.
-	['', 'online education platform', ' ', 'education platform', ' ', 'online learning resource', '']
-Knowledge Management Systems
-	Provider of communication services for the educational sector. The company engages in promotion of British Universities and advises students in selecting the right course and Universities.
-	['', 'communication service', ' ', 'British Universities', ' ', 'right course', '']
-myWealth.com
-	Provider of control over investors portfolios by mastering the fundamentals of key markets. The company provides finance courses, investing courses and online investment classes. Its courses cover essentials of currency, stock and ETF trading, as well as portfolio management.
-	['', 'investor portfolio', ' ', 'online finance course', ' ', 'online investing course', '']
-Instructure
-	Provider of a cloud-based learning management system. The company offers tools for instructors and students that are designed to integrate drag-and-drop file uploaders, HTML 5 video, automatic speech-to-text conversion applications, as well as Web 2.0 tools and social media platforms. It also provides an index of online courses.
-	['', 'learning management system', ' ', 'education technology', ' ', 'education software', '']
+Point Cloud
+	Provider of interactive 3D imaging for e-commerce companies. The company developed Zap 3D, a software technology which automatically transforms standard video into interactive 3D images that viewers can manipulate and control using low bandwidth.
+	['', '3D imaging', ' bandwidth ', 'standard video', '']
+UpNext
+	Provider of mobile 3D map applications. The company\'s applications enable users to explore and discover cities, as well as glide around their cities virtually.
+	['', '3D map application', ' ', 'mobile 3D map', ' ', '3D navigation', ' ', 'map app', ' ', '3D map', ' ', '3D service', ' ', 'map service', ' mapping']
+NextEngine
+	Provider of desktop 3D scanners. The company offers ScanStudio Core, a scanning and modeling software that enables to make 3d scans and assemble digital models.
+	['ScanStudio ', '3D scanners', ' desktop']
+Reholz
+	Manufacturer of three-dimensionally deformable veneer for moldings and coatings. The company offers products for the medical technology and electronics industries.
+	['veneer ', '3D veneer', ' ', 'deformable veneer', '']
+Seemage
+	Provider of application management and support services for automotive and aerospace industries. The company develops PowerPoint 3D software that enables consultants to view, explore, measure and annotate 3D CAD models for businesses.
+	['', 'application management', ' ', 'poerpoint 3D', ' ', 'support services', '']
+Okyz
+	Developer of 3D collaboration and publishing tools. The company has developed a secure 3D-based collaboration software which allows organizations to exchange real 3D models instead of emailing, faxing and publishing static 2D images.
+	['', 'publishing tools', ' ', '3D collaboration', ' ', 'collaboration software', ' ', '3D technology', ' ', '3D models', '']
+Cloud Cliques
+	Developer of web and retail technologies. The company has developed a fashion technology which allows users to virtually try on clothes in real time on their 3D digital clone and see how items will fit, look and move their exact body both in the retail space and online.
+	['', 'retail technology', ' ', 'web technology', ' ', 'fashion technology', ' ', 'digital clone', ' 3D']
+SensABLE Technologies
+	Developer of 3D touch-enabled (force feedback) solutions. The company offers force-feedback haptic devices and touch-enabled 3D modeling software solutions. Its solutions can be used for product design, digital content creation and fine arts, commercial software development, and academic and commercial research.
+	['', '3D touch device', ' ', 'force feedback', ' ', '3D modeling', '']
+InPart Design
+	Developer of strategic sourcing software and content services for the industrial marketplace. The company provides web-based enterprise software and three-dimensional (3D) computer-aided design (CAD) model libraries of standard mechanical components to improve product development cycles and reduce component expenses for manufacturing companies.
+	['', '3D geometry', ' ', '3D models', ' ', 'technical specification', '']
+earthmine
+	Provider of 3D street level imaging services. The company provides tools for collecting, processing, managing and hosting 3D street level imagery as well as developer tools for creating and distributing applications.
+	['', '3D mapping', ' ', '3D imaging', ' ', '3D mobile mapping', ' ', 'cloud based hosting', '']
+NewSight
+	Developer of 3D technologies and displays. The company creates digital narrowcast networks that deliver interactive and measurable customized advertising channels outside the house. It develops 3D displays based on flat panel displays, providing a spatial impression for a plurality of observers. The company also offers small screen displays for cell phones, navigation systems and military applications.
+	['', '3D technology', ' ', '3D displays', ' ', 'flat panel displays', ' ', 'digital narrowcast networks', ' ', '3D monitors', ' ', 'scanning technology', ' ', 'LCD monitors', ' monitors']
+Timeless Cities
+	Provider of 3D media services.
+	['', '3D media', ' ', '3D display', ' ', '3D television', ' ', 'commercial services', '']

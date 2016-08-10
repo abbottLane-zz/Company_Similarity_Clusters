@@ -1,12 +1,18 @@
-IBeatYou
-	Provider of online contest and competition Website. The Website enables users to compete using video, photo and text.
-	['', 'online contest', ' ', 'online competition', ' ', 'online video competition', ' ', 'photo competition', '']
-Formspring
-	Operator of a website that allows its users to set up a profile page, from which anyone can ask them questions. The company gives their members a platform to express their point of view and personality through engaging conversations and interact with friends and followers.
-	['', 'online forum', ' ', 'profile page', ' ', 'online sharing', '']
-Anchovi Labs
-	Developer of software to help people organize, browse and share their personal photo collection. The company provides software for automatically tagging and organizing images and video based on visual content.
-	['', 'online photo collection', ' ', 'online video content', ' ', 'visual content', '']
-Rawporter
-	Provider of online raw video and photos. The company provides photos and videos that are shared online.
-	['', 'online video', ' ', 'online sharing', ' ', 'online photo', '']
+InteCardia
+	Provider of cardiac-imaging services and equipment to cardiologists. The company provides disease- and practice-management services focused on cardiology and cardiovascular medicine.
+	['', 'cardiac imaging', ' cardiology ', 'cardiovascular medicine', '']
+Medfield Diagnostics
+	Manufacturer of diagnostic instrumentation. The company offers microwave technology based equipment to facilitate the diagnosis of stroke. Its products include Strokefinder R10 for doctors in the field of stroke diagnosis and Strokefinder MD100, a diagnostic instrument for use in emergency rooms and ambulances to diagnose the type of stroke.
+	['', 'microwave technology', ' ', 'diagnostic equipment', ' ', 'stroke diagnosis', '']
+NanoStim
+	Developer of a miniaturized, leadless cardiac pacemaker for the healthcare industry. The company\'s leadless cardiac pacemaker is configured for implantation in electrical contact with a cardiac chamber and configured for leadless pacing.
+	['', 'leadless cardiac pacemaker', ' ', 'healthcare device', ' ', 'medical device development', '']
+BMDSys Production
+	Developer of cardiac diagnostic imaging systems. The company uses magnetic field imaging system in medical diagnosis. It also helps to identify persons with a risk for sudden cardiac problem by cardiac electrophysiology.
+	['', 'cardiac diagnostic imaging', ' ', 'cardiac electrophysiology', ' ', 'medical diagnosis', ' ', 'cardiac diagnosis', ' cardiac']
+Reflow
+	Developer of interventional cardiac devices. The company provides cardiac devices to treat cronic total occlusions.
+	['cardiac cronic treat']
+BioSig Technologies
+	Developer of clinical technology for diagnoses and treatments of abnormal heart rhythms. The company provides electrophysiologists to make crucial clinical decisions in real time by providing information unobtainable with any other equipment presently in the electrophysiology laboratory.
+	['', 'abnormal heart', ' ', 'electrophysiology', ' ', 'electrophysiology laboratory', '']

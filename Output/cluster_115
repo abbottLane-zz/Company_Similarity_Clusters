@@ -1,24 +1,18 @@
-CIMLINC
-	Developer of custom and multimedia work instruction software for the manufacturing industry. The company provides Product Lifecycle Management (PLM), Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM) solutions for the manufacturing industry.
-	['', 'multimedia software', ' ', 'Software Publishers', ' ', 'Prepackaged Software', '']
-Bego (Mechanical Engineering)
-	Operator of a mechanical engineering company. The company is engaged in industrial mechanics and metalworking.
-	['metalworking ', 'industrial mechanics', ' ', 'mechanical engineering', '']
-Index Technology
-	Developer of computer software. The company develops and provides computer-aided software and services.
-	['', 'computer aided software', ' ', 'computer engineer', ' ', 'operating system', '']
-Structural Dynamics Research
-	Provider of enterprise product development solutions with a suite of mechanical design automation software and product data management software. The company provides mechanical computer-aided engineering (MCAE) software and engineering services which help manufacturers optimize product development early in the design process.
-	['', 'automation software', ' ', 'data management software', ' MCAE ', 'mechanical computer-aided engineering', '']
-InPart Design
-	Developer of strategic sourcing software and content services for the industrial marketplace. The company provides web-based enterprise software and three-dimensional (3D) computer-aided design (CAD) model libraries of standard mechanical components to improve product development cycles and reduce component expenses for manufacturing companies.
-	['', '3D geometry', ' ', '3D models', ' ', 'technical specification', '']
-Adra Systems
-	Developer of computer-aided designing software used for industrial and mechanical processes. The company engages in providing software-aided mechanical casting and industrial processing services.
-	['', 'CAD software', ' ', 'computer-aided design', ' ', 'mechanical designing', '']
-Aspect Development
-	Operator of a software, data content and services company. The company provides component and supplier management (CSM) technology to manufacturers. The company\'s applications and supplier-information databases are focused on improving the product-development cycle. Its CSM technology targets the design and procurement processes of the manufacturing enterprise, providing design engineers and procurement personnel the ability to rapidly search, compare and select optimal designs, components and suppliers.
-	['', 'enterprise solution', ' CSM ', 'supplier database', ' ', 'data content', '']
-Mission Controls Automation
-	Provider of automation and process engineering services. The company designs, fabricates, installs and maintains automation, robotic controls, manufacturing systems, processing operations and consulting, for industrial plants and batch processing facilities.
-	['', 'Automation software', ' ', 'process engineering', ' ', 'robotic controls', '']
+Cytion
+	Developer of drug screening technology. The company has developed drug screening technology for the functional analysis of ion channel proteins.
+	['', 'drug screening technology', ' ', 'ion channel protein', ' ', 'drug development', '']
+Superbly
+	Developer of a psychometric screening tool. The company offers a software that enables organizations to screen and hire potential candidates.
+	['', 'screening tool', ' ', 'psychometric analysis', ' filter ', 'candidate screening', ' ', 'psychometric tool', '']
+Z-Tech
+	Developer of cancer screening technology. The company has developed a a system that detects changes in electrical charges that occur when normal tissue undergoes malignant changes. The first use of this technology has been in the development of a medical device for the detection of breast cancer in a screening environment.
+	['', 'monitoring equipment', ' ', 'medical diagnostic', ' malignant']
+Ancile Pharmaceuticals
+	Developer of botanical drugs. The company has a multi-drug portfolio, which includes ANPH 101, an investigational drug with indications for sleep maintenance disorders.
+	['', 'botanical drug', ' ', 'chronic disease', ' ', 'prescription botanical drug', '']
+CodeEval
+	Provider of a technical screening platform for the auto evaluation of programming challenges. The company enables employers to identify promising candidates from a crowd of applicants by creating challenges and viewing their live coding submissions and helps freelancers/developers to sharpen their skills by competing with their peers.
+	['', 'hacker platform', ' ', 'recruit developer', ' ', 'technical screening', '']
+Activiomics
+	Developer of biomarker technology. The company has developed a suite of label-free mass spectrometry technologies enabling it to identify and quantify, directly from clinical samples, proteins and phosphoproteins that correlate with the progression of disease and/or the administration of drugs. The company is applying its technologies to the establishment of a pipeline of biomarker assets comprising the identified proteins and phosphoproteins along with their companion diagnostic antibody reagents. The company also partners with the pharmaceutical and biotechnology industry to provide drug profiling and drug mode of action information.
+	['', 'drug biomarkers', ' ', 'proprietory technology', ' oncology']

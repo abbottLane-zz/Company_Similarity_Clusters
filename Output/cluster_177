@@ -1,6 +1,24 @@
-MIGENIX
-	Developer of drugs to treat or prevent infectious, degenerative and metabolic diseases. The company is committed to advancing therapy, improving health, and enriching life by developing and commercializing drugs for the prevention and treatment of major medical diseases and certain conditions with unmet medical need.
-	['', 'commercial drug', ' ', 'disease control', ' ', 'metabolic diseases', ' infection']
-Ipsen Bioinnovation
-	Provider of  biologics platform generating a pipeline of Targeted Secretion Inhibitors (TSIs) to treat diseases where secretion is the major driver, including pain, endocrine conditions and cancer. The company genetically engineers bacterial toxins to develop novel drugs that inhibit abnormal cell secretion, a key component of many diseases. The company is focused on the treatment of neurological, inflammatory and endocrine diseases.
-	['', 'genetical engineering', ' ', 'abnormal cell secretion', ' ', 'Developer of drug', '']
+Niiki Pharma
+	Provider of cancer treatments directed at novel cellular targets and related companion diagnostics. The company specializes in oncology.
+	['cancer oncology ', 'novel cellular target', '']
+Targovax
+	Operator of an oncology bio-pharmaceutical company. The company develops therapeutic vaccine for pancreatic cancer.
+	['', 'pancreatic cancer', ' ', 'therapeutic vaccine', ' ', 'oncology bio-pharmaceutical', '']
+Vioquest Pharmaceuticals
+	Provider of therapeutic services for oncology. The company develops and commercializes late preclinical and early clinical stage therapies for oncology, viral and autoimmune disorders.
+	['', 'oncology treatment', ' ', 'cancer therapy', ' ', 'cancer relief', '']
+OxEpi
+	Developer of new therapies for oncology and metabolic disease. The company uses a medicinal chemistry approach for the discovery and development of new antagonists of a major new class of enzymatic targets involved in epigenetic regulation.
+	['epigenetics ', 'genetic code', ' mutations']
+Proacta
+	Developer of oncology drugs. The company provides cancer-related products which targets the physiological attributes of solid tumors through normal metabolic processes.
+	['', 'oncology drug', ' ', 'cancer drug', ' ', 'solid tumour drug', '']
+Cytheris
+	Developer of therapies for immune modulation. The company offers drugs focused for lymphopenic patients. The company\'s product helps to enhance the immune system of cancer and chronic viral patients.
+	['', 'immune modulation', ' oncology']
+MGI Pharma Biologics
+	Developer of oncology and antiviral products for large unmet markets.
+	['', 'oncology product', ' ', 'medical therapy', ' ', 'pharmaceutical product', '']
+RedPath Integrated Pathology
+	Provider of support services for oncology cases. The company operates as a reference laboratory and serves pathologists, clinicians and patients. It offers PathFinderTG, a testing platform for resolving diagnoses from the original pathology specimen.
+	['', 'oncology case', ' ', 'reference laboratory', ' ', 'diagnostic platform', '']

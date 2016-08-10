@@ -1,33 +1,9 @@
-Satoris
-	Provider of molecular diagnostics product meant for the test of Alzheimer\'s disease. The company uses molecular biology and bioinformatics to develop test and treatment meant for Alzheimer\'s disease.
-	['', 'medical supplies', ' ', 'drug discovery', '']
-Civitas Therapeutics
-	Developer of respiratory drug delivery therapies. The company has developed a program in Parkinson’s disease that leverages the ARCUS respiratory delivery platform. CVT-301, Civita\'s other lead program, is being developed for the treatment of debilitating and unpredictable motor fluctuations associated with Parkinson’s disease.
-	['biopharmaceutical ', 'pulmonary delivery therapy', ' ', 'pulmonary technology', ' ', 'Parkinson’s disease', ' ', 'respiratory drug delivery', ' ', 'respiratory therapy', ' ', 'pulmonary therapy', '']
-Genetics Institute
-	Developer of pharmaceutical products. The firm developed pharmaceuticals based on leading edge functional genomics technologies and proprietary disease models to treat a wide variety of human disease conditions.
-	['biopharmaceuticals']
-Link Medicine
-	Operator of a privately held biotechnology company advancing novel approaches for the treatment of neurodegenerative diseases. The company is developing treatments for multiple diseases, including Alzheimer’s, Parkinson’s, Huntington’s, and Amyotrophic Lateral Sclerosis (ALS). It targets a common feature of the disorders - the buildup in nerve cells of incorrectly folded, aggregated and ultimately neurotoxic proteins.
-	['', 'neurodegenerative disease', ' Alzheimer’s Parkinson’s, Huntington’s ', 'Amyotrophic Lateral Sclerosis', ' ALS']
-Zyentia
-	Operator of a biotechnology company focused on treatment of protein-folding disorders. The company researches the molecular determinants underlying protein misfolding, aggregation and deposition in the tissue. The company applies its research to development of therapies for a variety of protein-misfolding disorders, including Type 2 Diabetes, Alzheimer\'s disease and Parkinson disease.
-	['', 'molecular determinants', ' ', 'protein misfolding', ' aggregation tissue']
-superDimension
-	Developer of minimally-invasive pulmonology devices that enable the diagnosis and potentially the treatment of distal lung disease. The company\'s products enable physicians to access peripheral lung lesions and mediastinal lymph nodes, provides tools to trace distal locations in the lungs and facilitates physicians with a reconstruction of the bronchial airways of the lungs.
-	['pulmonology ', 'distal lung disease', ' ', 'lung disease', ' lung']
-Ceregene
-	Developer of treatments for neurodegenerative disorders. The company is a biotechnology enterprise ocused on the treatment of major neurodegenerative disorders using the delivery of nervous system growth factors. Its clinical programs include CERE-110, an AAV2-based vector expressing nerve growth factor, for the treatment of Alzheimer’s disease; and CERE-120, in trials as a treatment for  Parkinson’s disease. The company also has two treatments - CERE-135 and CERE-140 - in preclinical development for amyotrophic lateral sclerosis (ALS or Lou Gehrig’s disease) and ocular diseases, respectively.
-	['', 'neurotrophic growth treatment', ' ', 'translational medicine', ' ', 'neurodegenerative disorder', ' biopharmaceutical']
-Galantos Pharma
-	Developer of novel drugs for the treatment of Alzheimer‘s Disease and other neurodegenerative diseases. The company is developing Memogain, a derivative  of the plant alkaloid galantamine, for symptomatic and disease-modifying treatment of Alzheimer‘s dementia (AD).
-	['', 'novel drugs', ' ', 'neurodegenerative diseases', 'cholinergic', 'brain enzymes', ' ', 'Alzheimer‘s Disease', '']
-Rinat Neuroscience
-	Developer of protein-based therapeutics for the treatment of diseases and disorders of the nervous system. The company is developing neuroscience-based protein therapeutics for pain, Alzheimer\'s disease, obesity and diabetes, and neuropathies. It is also developing novel disease modifying therapies that modulate the function, as well as prevent and reverse the damage to key populations of neurons specifically affected in particular disease states.
-	['', 'protein therapeutic', ' ', 'Alzheimer disease', ' ', 'nervous system', ' ', 'biotech community', '']
-Cambridge Cognition
-	Developer of cognitive testing software. The company also conducts computer-based cognitive tests used in academic research, pharmaceutical clinical trials and early detection screening for conditions such as Alzheimer\'s and depression.
-	['', 'pharmaceutical clinical trials', ' ', 'cognitive tests', ' ', "Alzheimer\\'s disease", ' touchscreen ', 'healthcare technologies', '']
-Apollo BioPharmaceutics
-	Developer of drugs that protect brain cells from damage caused by disease, injury and aging. The company\'s target applications include the treatment of Alzheimer\'s disease, Parkinson\'s disease, brain damage resulting from stroke and other age-related diseases and conditions.
-	['biotechnology ', 'life science', ' ', "Alzheimer\\'s disease", ' ', "Parkinson\\'s disease", '']
+Innocent Drinks
+	Manufacturer and marketer of fruit smoothies and vegetable entrees. The company provides a line of branded health-food products that include juice smoothies, waters, juice and low-calorie noodle-vegetable pots.
+	['', 'natural drink', ' ', 'fruit juice', ' smoothie']
+Northland Cranberries (Branded Juice Business)
+	Developer of branded cranberry beverages. The company is the owner of juice brands such as northland, treesweet and awake.
+	['fruit juice cranberry']
+IZZE Beverage
+	Manufacturer and marketer of fruit juice beverages. The company also provides apparel, accessories and glassware to the consumers through its online store.
+	['', 'online store', ' ', 'soft drinks', ' ', 'fruit juice', '']

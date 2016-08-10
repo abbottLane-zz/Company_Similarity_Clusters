@@ -1,9 +1,27 @@
-Raycer Graphics
-	Operator of a semiconductor company for visual computing. The company develops 3D graphics technology, cards and chips for workstations and personal computers. It also designs 3D graphics acceleration hardware.
-	['', 'semiconductor company', ' ', 'visual computing', ' ', '3D graphics technology', ' workstations']
-Hybrid Graphics
-	Developer of embedded 2D and 3D graphics software for handheld devices. The company develops graphics technology software for consumer devices which enables high-quality 2D and 3D graphics in devices such as mobile phones.
-	['', 'graphics software', ' ', 'graphics design', ' ', 'graphics software solutions', ' ', 'graphics solutions', ' ', 'graphics technology', ' ', 'graphics technology solutions', '']
-Geomerics
-	Developer and provider of graphics technology to customers in the games and entertainment industries. The company\'s product, Enlighten, is used to monitor lightening in real-time gaming.
-	['', 'graphics technology', ' ', 'computer game', ' ', 'entertainment industry', '']
+Frog AGV Systems
+	Developer of navigation hardware and software products. The company develops, produces and sells guidance and control systems for freely moving, electronically controlled vehicles.
+	['', 'navigation software', ' ', 'navigation hardware', ' ', 'guidance and control  systems', ' ', 'electronically controlled vehicles', ' ', 'automated guided vehicle systems', ' AGV navigation']
+Hemosphere
+	Developer of vascular access devices for patients. The company offers hemodialysis reliable outflow vascular access device, an implanted subcutaneous graft with an outflow component that bypasses central venous stenosis that allows for repeated access to the circulation for hemodialysis.
+	['', 'vascular access device', ' hemodialysis ', 'kidney disease', ' ', 'vein damage', '']
+Summit Access
+	Developer of interventional radiology device. The company develops radiology devices to streamline the Seldinger technique for vascular access.
+	['', 'radiology device', ' ', 'Seldinger technique', ' ', 'vascular access', '']
+NanoVasc
+	Operator of a medical device company. The company designs and manufactures bio mimetic materials that are non-thrombogenic, durable and demonstrate long-term patency. The company uses an electrospinning process to manufacture scaffolds in a multitude of shapes and sizes, and then application-specific modifications are applied to the scaffolds surface in order to achieve desired results. These specific modifications are designed to optimize the devices outcome based on its delivery location. The company\'s first product is a synthetic vascular graft for hemodialysis access.
+	['', 'biomimetic material', ' ', 'electrospinning process', ' scaffold ', 'synthetic vascular graft', ' ', 'hemodialysis access', '']
+Access Closure
+	Manufacturer of vascular closure devices. The company\'s products include Mynx delivery system, a vascular closure device that seals the arteriotomy using a water-soluble and extravascular sealant, which expands in the tissue tract by absorbing blood and subcutaneous fluids.
+	['', 'vascular closure', ' ', 'diagnostic procedure', ' ', 'tissue tract', ' ', 'subcutaneous fluid', ' ', 'medical device company', ' vascular']
+EndoTex Interventional Systems
+	Developer of interventional vascular therapeutic solutions. The company focuses on developing less invasive solution to treat carotid artery disease.
+	['', 'vascular therapy', ' ', 'carotid artery treatment', '']
+VasoNova
+	Developer of vascular navigation systems for healthcare providers and clinicians. The company provides VasoNova Vascular Positioning System, an algorithm-based vascular navigation and measurement system for the optimal placement of vascular access devices.
+	['', 'vascular navigation', ' ', 'electrocardiogram technology', '']
+EndoProtech
+	Developer of therapies for organ transplantation and invasive cardiovascular surgery. The company\'s technology helps in delivery and long term display of bio-therapeutics on the surface of vascular endothelium which enables close monitoring and protection of vascular surfaces.
+	['', 'organ transplantation', ' ', 'cardiovascular surgery', ' ', 'vascular surfaces', ' bio-therapeutics']
+r4 Vascular
+	Manufacturer of vascular access products. The company\'s products help clinicians access patient vasculature and maintain access for delivering chemotherapy, blood products, antibiotics, drugs or nutrition.
+	['', 'patient vasculature', ' ', 'blood products', ' ', 'interventional radiologists', ' ', 'vascular access products', ' drugs']

@@ -1,27 +1,12 @@
-EmployInsight
-	Provider of a web based platform for measuring, evaluating and quantifying employees. The company\'s platform assist in developing methods for acquiring, assessing and planning human resources in the workplace.
-	['', 'human capital software', ' ', 'platform software', ' ', 'workplace assistance', '']
-Esterel Technologies
-	Provider of systems and software solutions for aerospace, defense, rail transportation and nuclear industries. The company’s products enable system and software engineers to graphically design, verify and generate systems and software applications. The company offers SCADE Suite for control application development. The company also offers SCADE LifeCycle that is used for critical application lifecycle management. The company also provides product training, methodology preparation, project support, application software optimization, certification support, installation and troubleshooting services.
-	['', 'scade lifecycle', ' ', 'web based solution', ' ', 'development cycle', ' ', 'automation software', ' ', 'software application', ' ', 'network management', '']
-Humanthology
-	Developer of a social platform for sharing stories on meaningful topics. The company offers a platform where people share their opinions, perspectives and experiences related to certain topics.
-	['', 'online software', ' ', 'sharing stories', ' ', 'platform software', '']
-Seaside Software
-	Designer and manufacturer of corporate messaging and intranet applications for the corporate market. The company offers integrated software and hardware products.
-	['', 'enterprise applications', ' ', 'corporate messaging applications', ' ', 'platform software', '']
-CoderBuddy
-	Owner and operator of a platform for software development. The company offers services related to the web based development, testing and deployment of software applications to the cloud.
-	['', 'software development', ' ', 'software platform', ' ', 'software deployment', '']
-Heroku
-	Operator of an online platform for software development. The company enables the users to share, collaborate, import and export, and generate the code.
-	['', 'online platform', ' ', 'software development', ' ', 'data manipulation', '']
-Jaczone
-	Creator of a software-development platform. The company is the developer of the WayPointer, a technology platform enabling software modeling and testing, as well as document handling & generation. The platform also can be used to support ERP implementation or contracting processes.
-	['', 'software organization', ' ', 'software development', '']
-ITA Inverse Theory & Applications
-	Developer of software specializing in interactive, workstation-based approaches to the processing of geophysical data. The company offers geophysical software, systems, processing, and research worldwide.
-	['', 'geophysical data', ' ', 'software development', '']
-Kalistick
-	Developer of quality management tool. The company provides its user with a quality management tool to implement best practices from various software development communities into a capability Maturity Model Integration (CMMI) process.
-	['', 'test optimization', ' ', 'agile testing', ' ', 'testing platform', ' ', 'software testing', '']
+Yardbarker
+	Operator of a sports website. The company allows sports fans, bloggers, and professional athletes to read and discuss sports articles, view sports photos and videos, debate and interact with each other. It also operates an online store that offers women\'s, kid\'s, men\'s, and organic T-shirts; and baby one-pieces, accessories, and gift cards.
+	['', 'sports website', ' ', 'online sports media', ' ', 'online sports entertainment', ' ', 'online sports article', '']
+Fanbase Media
+	Provider of an online almanac of athletes. The company provides an online database of college and professional athletes.
+	['', 'athlete data', ' almanac ', 'online database', ' ', 'professional athletes', '']
+Racing-Live
+	Operator of a motor sports website. The company\'s website covers live updates, news, and information of formula 1, rally, moto GP and superbike, off road rallies, sports-cars and kart racing.
+	['motor ', 'formula 1', ' ', 'moto GP', ' rally ', 'kart racing', '']
+Bleacher Report
+	Provider of an open source sports network and community publishing site for amateur sports writers. The company allows sports fans to share insights and opinions, news and photos as well as write articles. It also provides advertising opportunities, including run-of-site and targeted campaigns.
+	['', 'sports network', ' ', 'community publishing', ' ', 'sports publishing', ' ', 'sports media', ' ', 'digital publishing', ' ', 'sports website', ' ', 'sports news', '']

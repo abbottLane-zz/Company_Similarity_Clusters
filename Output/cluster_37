@@ -1,21 +1,33 @@
-WebPutty
-	Developer of e-business, internet and mobile application products. The company offers a platform for the composition and dynamic execution of server-based web applications that enables businesses to change and extend their business systems in a secure and controlled way.
-	['', 'server software', ' ', 'server-based applications', ' ', 'mobile application software', '']
-Nukona
-	Provider of mobile application management technologies. The company\' application center is an end-to-end mobile information management and security service, enabling enterprises to secure, deploy and manage native and web applications and content on corporate-owned and personal devices.
-	['', 'mobile application management', ' ', 'mobile information management', ' ', 'web applications', '']
-New Moon Systems
-	Provider of non-internet mobile software services. The company\'s services enables enterprises and service providers to centrally deliver and manage their software assets across hundreds and thousands of user desktops. The company\'s iQ application management platform is used to intelligently deploy and manage Windows applications across private and public networks.
-	['windows ', 'software platform', ' ', 'IQ application', '']
-ReallyLateBooking
-	Provider of a mobile application for last minute hotel bookings. The company\'s mobile application enables users to make reservations at hotels on the same day at a discounted deal.
-	['', 'hotel bookings', ' ', 'discounted deal', ' ', 'last minute bookings', ' ', 'smartphone applications', '']
-AppCarousel Direct
-	Provider of an application management platform for connected devices. The company provides a management platform for cars and fleets, smartphones, smart screens, tablets, and other connected devices to distribute, update, control and manage any kind of downloadable software or digital asset.
-	['', 'mobile content', ' ', 'digital content distribution', ' ', 'connected device', ' ', 'application management platform', '']
-WorkLight
-	Developer of HTML5, hybrid and native applications for smartphones and tablets with industry-standard technologies and tools. The company provides flexible mobile IDE, next-generation mobile middleware, end-to-end security and integrated management and analytics.
-	['HTML5 smartphone tablet ', 'mobile IDE', ' ', 'integrated development environment', ' ', 'mobile middleware', ' MEAP ', 'mobile enterprise application platform', '']
-iMedeon
-	Provider of wireless web applications for mobile workforce management. The company\'s software suite is designed to optimize scheduling, routing and facilitate the dispatching and management of mobile workforces.
-	['', 'wireless web applications', ' ', 'web-enabled', '']
+SpearCast
+	Developer of web data extraction and data aggregation tools. The company offers a technology that is capable of automatically locating, extracting, merging and converting hundreds of millions of data points across various online sources and creating a standardized business profile which includes address and customer reviews, online ad spend and online visibility on search engines and all relevant sites.
+	['', 'data aggregation', ' ', 'web data', ' ', 'data extraction', '']
+Scope e-Knowledge Center
+	Provider of remote knowledge services. The company offers master data management services, including domain expertise, customer data integration, assisted automation software and workflow process.
+	['', 'remote knowledge', ' ', 'master data management', ' ', 'automation software', '']
+Exeros
+	Operator of a data relationship discovery and management company. The company offers solutions for data integration projects, including data migration, sensitive data governance, master data management, and ETL migration.
+	['', 'data relationship discovery', ' ', 'data integration', ' ', 'data migration', '']
+Initiate Systems
+	Provider of master data management software services for organizations. The company offers customer data integration and enterprise master person index software to financial service providers, information exchange, hospitality, manufacturing and retail industries.
+	['', 'data management', ' ', 'financial service', ' ', 'healthcare provider', ' ', 'retail industry', ' ', 'delivery network', '']
+Alpharel
+	Developer of data-management systems.The company develops multi-terabyte engineering-data systems.
+	['', 'data management', ' ', 'engineering data', ' multi-terabyte']
+Softek
+	Provider of vendor-independent data migration software. The company enables to see, move and recover data, with full customer choice, regardless of server platform or storage vendor. It offers a family of host-based enterprise data migration software, utilizing synchronous, asynchronous and point-in-time copy replication technologies.
+	['', 'data migration', ' ', 'non disruptive data', ' ', 'data replication', ' ', 'disaster recovery software', '']
+Cyrye
+	Provider of commercial solutions. The company provides Drupal migration services, Growing Venture Solutions (GVS), and Drupal security services.
+	['', 'commercial solution', ' ', 'Drupal migration service', ' ', 'Growing Venture Solution', '']
+DataCenter Technologies
+	Provider of data management software that helps to migrate and protect data. The company\'s solution enables customers to clasify data, simulate data management operations and copy or move data between storage tiers.
+	['', 'data management software', ' ', 'protect data', ' operations']
+Evident Software
+	Operator of a data relationship discovery and management company. The company offers services for data integration projects, including data migration, sensitive data governance, master data management and ETL migration.
+	['', 'data migration', ' ', 'data relationship discovery', ' ', 'data lineage', '']
+Purisma
+	Provider of solutions- driven data management platform and software for enterprises. The company provides online customer registry system that connects enterprise applications, databases and external data sources.
+	['', 'data integration software', ' ', 'data management platform', '']
+ClearWater Data
+	Provider of services addressing the challenges of dealing with massive data flow volumes. The company provides a data-centric architecture enabling the ingestion of billions of daily transactions.
+	['', 'software development', ' ', 'data flow management', ' ', 'data-centric architecture', '']

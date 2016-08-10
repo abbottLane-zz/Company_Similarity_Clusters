@@ -1,18 +1,66 @@
-Visionix
-	Manufacturer and distributor of equipment used by opthalmologists and opticians for eye surgeries.
-	['', 'opthalmologic equipment', ' ', 'surgical equipment', ' ', 'healthcare equipment', '']
-Support Technologies
-	Manufacturer of automatic computer test equipment for use by firms designing, servicing and manufacturing electronic-based products. The company\'s products consisted of ROM emulator and diagnostic tester.
-	['', 'computer equipment', ' ', 'electronic products', ' ', 'test equipment', '']
-Mork Process
-	Creator of equipment for the pharmaceutical industry. The company designs and builds customized Clean-In-Place, Sterilize-In-Place, and Clean-Out-of-Place systems for use within the pharmaceutical industry.
-	['', 'modulized cleaning', ' ', 'sterilization equipment', ' ', 'cleaning equipment', ' ', 'baking oven', ' ', 'spiral freezer', ' ', 'docking station', '']
-Standard Diagnostics
-	Manufacturer and distributor of diagnostics reagents. The company manufactures diagnostics healthcare equipment includes rapid test kits, urine analyzing systems, enzyme-linked immunosorbent assay (ELISA) kits and medicine materials.
-	['']
-Sonesta
-	Manufacturer of medical equipment for healthcare professionals. The company develops and manufactures medical-examination chairs and tables for urodynamic studies as well as physician practices within urology and gynecology.
-	['acupuncture esthetic tables ', 'examination equipment', '']
-TurbiSense
-	Provider of in-line real time turbidity measurement equipment for the pharmaceutical industry and related applications. The company\'s equipment assists in accurately measuring liquids with air bubbles.
-	['pharmaceutical ', 'turbidity measurement', ' robot']
+Discovery Engine
+	Developer of an internet search engine. The company offers an interaction model of search engine that also can also compile information from multiple sources.
+	['', 'search engine', ' ', 'internet search engine', ' SEO']
+Newton Propulsion Technology
+	Developer of hybrid propulsion technology based engine. The company\'s product is a hybrid of the gas turbine and of the volumetric internal combustion engine, which can be used in all types of heavy vehicles, sailing craft, aircraft and power stations.
+	['', 'hybrid propulsion technology', ' ', 'hybrid engine', ' ', 'industrial supply', ' ', 'volumetric engine', ' ', 'heavy vehicles engine', '']
+Feedster
+	Provider of Internet search, targeted media and advertising delivery services. The company offers information to consumers and internet sites.
+	['', 'Internet search', ' ', 'targeted media', ' ', 'advertising delivery', '']
+Infrasearch
+	Provider of person to person information sharing services. The company provides distributed, peer to peer search engine and networking technology.
+	['', 'peer search engine', ' ', 'person information sharing', ' ', 'information sharing service', ' ', 'peer networking technology', '']
+Hurra Communications
+	Provider of integrated online marketing services. The company provides products and services on the subjects of search engine and dialogue marketing. The services provided by the company include search engine advertising, search engine optimization, conversation optimization, web analytics, performance display advertising and Facebook advertising.
+	['', 'search engine advertising', ' ', 'conversation optimization', ' ', 'web analytics', ' ', 'performance display advertising', ' ', 'integrated online marketing', ' ', 'online marketing', '']
+LVL7 Systems
+	Provider of software solutions to modern businesses. The company offers web design and development, Internet marketing, content management, search engine optimization, domain hosting, and e-commerce solutions.
+	['software application ', 'web design', ' marketing Internet ', 'search engine', ' domain hosting ', 'e-commerce', '']
+Wondir
+	Operator of a live question and answer engine that connects people with questions to people with answers. The company provides a combination of live human answers and broad metasearch of the web.
+	['', 'instant messaging', ' ', 'search engine', ' ', 'question forum', '']
+Goby Technologies
+	Operator of an online activity search engine and a mobile app that provides personalized activity recommendations. It offers information on various topics, such as hiking, beaches, parks, museums, restaurants, live music, family fun, outdoor recreation, offbeat activities, historic sites, bed and breakfasts, golf, and sports and games.
+	['', 'search engine', ' ', 'activity search engine', ' ', 'vertical search', '  ', 'recommendation engine', '']
+Cue
+	Provider of search engine that runs through the cloud data. The company\'s search engine turns the accounts an individual depends on, like email, contacts and calendar, into a snapshot of the day. It also enhances existing calendar by automatically connecting events to related phone numbers, people and addresses.
+	['', 'cloud data', ' ', 'search engine', ' ', 'connecting event', '']
+Searchdaimon
+	Provider of an open-enterprise search engine for corporate data and websites. The company provides a plug-and-play technology to search for knowledge and information from the Internet, documents, e-mails, attachments, customer-relationship systems and other content sources.
+	['', 'enterprise search', ' ', 'corporate search', ' SME']
+Spotsetter
+	Provider of a social search engine that offers personalized recommendations for places to go. The company\'s platform uses a ranking algorithm that leverages each user’s content across different social networking sites.
+	['', 'search engine', ' ', 'user content', ' ', 'search recommendation', '']
+PeerPong
+	Provider of a social search solution that allows users to ask questions and find information from people in their network through instant messaging and email.
+	['', 'social search solution', ' ', 'search solution', ' ', 'search engine service', '']
+Goshme Solucoes Para a Internet
+	Developer and provider of search engine. The company assists users by providing a list of all search engines and databases appropriate to the query, ranked by relevance, divided by categories and sub-categories, and with a brief description about each search engine.
+	['', 'search engine', ' databases ', 'Web Search', '']
+Yandex
+	Operator of an Internet search engine in Russia. The company offers access to a range of information available online; email and personalized services, including email, photo, Website, and blog-hosting services; maps and location-based services comprising map service, road traffic congestion monitoring, maps of metro systems, panoramic photo images of streets and towns, and user-generated map services; and downloadable applications and services for mobile and digital platforms and devices.
+	['', 'internet search', ' ', 'search engine', ' ', 'web search', ' ', 'online information', ' ', 'email service', ' ', 'blog hosting', ' ', 'online map', ' ', 'mobile application', '']
+HyWire
+	Provider of search engine services for forwarding, classification, billing and security applications. The company develops IP-core & hardware solutions for improving networking equipment performance.
+	['', 'routing equipment', ' ', 'search engine service', ' ', 'security application', '']
+Milewise
+	Provider of a search engine for frequent fliers. The company\'s search engine is designed for fliers that helps to pay for using cash, airline miles and credit card points. It tracks all rewards in one place.
+	['', 'traveling reward program', ' ', 'frequent fliers', ' ', 'traveling reward', '']
+JustSpotted
+	Provider of real time search engine. The company\'s search engine aggregates and organizes content being shared on the internet. It offers search options on entertainment, technology, sports, world and business, science, gaming, politics and lifestyle topics.
+	['', 'realtime search engine', ' ', 'internet content', ' ', 'entertainment search option', '']
+ClickMotive
+	Provider of an online platform for website design, video making, dynamic search and mobile websites. The company creates interactive marketing software for the automotive industry. The company\'s product, Fusion, includes dealer websites, auto group websites, regional websites, OEM websites, mobile websites, search engine marketing (SEM) programs, search engine optimization (SEO) expertise, video marketing, lead delivery, admin tools, content management, reporting analytics, customization and support.
+	['', 'website design', ' ', 'search engine programs', ' ', 'auto group websites', ' ', 'mobile websites', ' ', 'search engine marketing', ' ', 'search engine optimization', '']
+Zoomf
+	Provider of a residential property sales and letting search engine. The company also offers consumers local market intelligence and information on local amenities in their area of choice, via map and listings.
+	['', 'residential property', ' ', 'market intelligence', ' ', 'search engine', '']
+Dwellable
+	Operator of mobile based vacation rental search engine. The company provides a mobile application for users to find rental accommodation for their vacation trips.
+	['', 'search engine', ' ', 'rental place', ' accommodation']
+Delver
+	Developer of a social search engine to help users to find content, media and people within their network.
+	['', 'social search engine', ' ', 'social network search', ' ', 'people search', '']
+TicketStumbler
+	Operator of a secondary ticket market search engine and comparison website. The company allows users to find seats for events and compare the prices offered by online ticket retailers.
+	['', 'ticket search engine', ' ', 'ticket comparison', ' ', 'online ticket', ' ', 'ticket market', '']

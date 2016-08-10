@@ -1,24 +1,12 @@
-Construcciones Tecnicas De Radioterapia
-	Provider of healthcare construction and engineering services. The company specializes in the construction and installation of radiotherapy facilities and radiation-protection areas.
-	['', 'construction services', ' radiotherapy']
-LEDUC
-	Operator of a construction company. The company specializes in wood framing for stairs and industrial structures.
-	['', 'construction company', ' ', 'wood framing', ' ', 'traditional frames', ' ', 'industrial structures', ' ', 'joinery and partitions', '']
-Warrior Group
-	Operator of a permanent modular construction company. The company provides construction services for projects such as military barracks, retail establishments, classrooms and medical buildings.
-	['', 'modular construction', ' ', 'construction company', ' ', 'medical building', '']
-Gete Construction
-	Provider of home construction services. The company specializes in the sale of standard single-family homes for customers.
-	['', 'home construction', ' ', 'home builder', ' homes ', 'construction project', '']
-Ederena Concept
-	Provider of electronic designs. The company engages in the field of industrial mechanics.
-	['', 'electronic designs', ' ', 'mechanical designs', ' ', 'consulting solution', ' ', 'construction and engineering', '']
-Lo.Ve.Mat
-	Distributor of construction materials for roofing, structural work, concrete plant and carpentry department. The company offers expert advice and management of orders to its customers.
-	['', 'construction materials', ' ', 'structural work', ' ', 'concrete plant', ' carpentry']
-Kyoob Space
-	Provider of modular buildings and portable accommodation. The company offers turnkey package for small and large projects alike and has developed a strong customer base in a variety of sectors including schools, prisons, hospitals, commercial project offices and the construction sector.
-	['', 'portable accommodation', ' ', 'modular building', ' ', 'site installation', '']
-Omniyat
-	Provider of construction, real estate and property building services. The company provides construction and building services for commercial and residential buildings and properties in Dubai.
-	['', 'construction service', ' ', 'property development', ' ', 'building service', '']
+Presence Networks
+	Provider of secure instant messaging services. The company also provides voice telephony services.
+	['', 'added services', ' ', 'communication tools', ' ', 'business class', '']
+SoloMio
+	Provider of integrated subscriber call management services for mobile, fixed line and broadband service providers. The company primarily focuses on providing call completion, mobility and convergence services. The company also provides a network-based software which integrates with existing mobile and fixed line network infrastructure and messaging platforms, managing voice and data sessions.
+	['', 'call management', ' ', 'call completion', ' ', 'data interaction', ' ', 'call monitoring', ' ', 'call capture', '']
+Net4Call
+	Provider of Parlay/OSA service delivery components for the telecommunications industry.  The company provides network independent value added voice, data communication and multimedia products and services for existing and next generation telecom networks fot fixed, IP and wireless.
+	['OSA parlay VOIP ', 'telecommunication components', ' ', 'data communication', ' ', 'telecom networks', '']
+Guangzhou 3G Information Technology
+	Operator of a value-added telecom and information service company. The company provides both voice and data connection to the major telecom operators covering both mobile and fixed-line networks.
+	['', 'instant messaging services', ' community-oriented ', 'IVR service', ' ', 'telecom services', '']

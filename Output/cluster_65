@@ -1,30 +1,24 @@
-Maptuit
-	Provider of navigation solutions to the transportation industry in the United States. The company specializes in providing location information Web services for consumer, tracking, and traffic markets.
-	['', 'navigation solution', ' ', 'location information', ' ', 'transportation optimization solution', ' ', 'geofencing technology', ' ', 'direction application', ' ', 'online traffic application', '']
-DecisionView
-	Developer of web-based clinical optimization solutions for the life sciences industry in the United States and internationally. The company provides StudyOptimizer, a Web-based application designed for pharmaceutical companies, which allows clinical trial managers to plan, track, diagnose, and correct enrollment plans via a single centralized Web-based application that captures and aggregates clinical trial patient enrollment data from across the organization.
-	['', 'clinical optimization solution', ' ', 'clinical performance application', ' ', 'clinical performance optimization', '']
-Abakus
-	Developer and provider of a Web-based electronic patient-record system. The company\'s products supports physiotherapists in clinical reasoning and decisions, and objectifying and registering physiotherapy outcome measures in cooperation with the patient or their representative.
-	['clinical ', 'patient record system', ' ', 'electronic records', ' SaaS']
-1747
-	Provider of web enabled systems to conduct clinical trials directly with participants. The company\'s product aims to clarify participant’s eligibility, aggregates their informed consent, and enrolls them for clinical trials using the internet.
-	['', 'clinical trial', ' ', 'web enabled system', ' ', 'direct-to-participant', ' ', 'enrolment systems', '']
-Terracotta
-	Developer of software products for enterprise application scalability, availability, and performance optimization. The company’s products include Enterprise Ehcache, a solution for optimizing enterprise application scale and performance.
-	['', 'software product', ' ', 'java application', ' ', 'java scalability', ' ', 'performance optimization', '']
-Swiss Pharma Contract
-	Provider of clinical research services to the pharmaceutical, biotechnology, and medical-device industries. The company offers a variety of clinical pharmacology services ranging from first testing in man to post-marketing studies.
-	['', 'clinical research', ' ', 'clinical pharmacology', ' pharmaceutical']
-Phase Forward
-	Provider of  integrated clinical research suite of enterprise-level software products, services, and hosted services worldwide. The company\'s services are used in clinical trial and drug safety monitoring applications in the pharmaceutical, biotechnology and medical device companies; and academic institutions, governmental regulatory agencies, contract research organizations and other entities engaged in clinical trial and drug safety monitoring activities.
-	['', 'data capture', ' ', 'clinical research suite', ' ', 'clinical data management', '']
-Abaton.com
-	Developer of Internet-based clinical applications for use by clinicians in ambulatory settings. The company provides clinical information, medical decision-making support, access to test results, order management and prescription-writing capability– opening electronic lines of communication to streamline functions and augment clinical workflow.
-	['', 'clinical application', ' ', 'information management service', ' workflow']
-Citizen1
-	Provider of research and development services for pharmaceutical and biotechnology industries. The company offers clinical trials and drug development information. It provides TrialTrove, which delivers ongoing clinical trials information; SiteTrove, which tracks and maintains detailed profiles; TrialScape, which provides graphical representation of clinical trial timelines; and CustomAnalytics for design and implementation of planned trials.
-	['', 'pharmaceutical research', ' ', 'clinical trials information', ' ', 'drug development information', ' ', 'biotechnology research', '']
-R5 Pharmaceuticals
-	Developer of medicines and clinical trial materials. The company develops and manufactures medicines and materials for phase 1 and phase 2 clinical trials.
-	['', 'pharmaceutical dosage', ' ', 'drug discovery', ' ', 'drug manufacturer', '']
+Teamplate
+	Developer and provider of business process workflow for Microsoft environments. The company\'s technology automates business processes such as customer service, human resources, capital requisitions and expense controls.
+	['', 'business process', ' ', 'capital requisitions', ' ', 'customer services', '']
+IBM Daksh Business Process Services
+	Provider of business process outsourcing services. The company offers a range of customer care services including voice, email response, real-time chat, knowledge management, eCRM architecture and other value added services to Fortune 500 companies.
+	['BPO ', 'business process outsourcing', ' ', 'customer care', ' ', 'voice process', '']
+SteelTrace
+	Developer of business process and requirement tools. The company develops tools that increase the accuracy between customer requirements and system delivery.
+	['', 'software solution', ' ', 'management solution', ' ', 'system analyst capture', '']
+Clickmarks
+	Provider of technology solutions for development of e-business applications and web services. The company provides end-to-end solutions for enterprises and wireless carriers seeking instant aggregation, personalization and mobilization of content, business processes and applications like workflow automation, portal integration, mobilization, and decision support solutions.
+	['', 'e-business applications', ' portlets ', 'integration technology', ' ', 'workflow automation', ' ', 'portal integration', ' ', 'web services', '']
+Brovada Technologies
+	Provider of a software for business process integration. The company provides a software specializing in business process integration, system conversions, legacy system integration and agent connectivity.
+	['', 'business service', ' ', 'business process integration', ' ', 'system conversion', '']
+Viacore
+	Provider of business process integration services. The company allows customers to use the internet to automate and manage such routine tasks with contractors as planning, forecasting and inventory management.
+	['', 'business process integration', ' ', 'task automation', ' ', 'inventory management', '']
+Borland Software
+	Provider of open application life-cycle management solutions. The company is focused in helping IT organizations transform software delivery into a managed, efficient and predictable business process.
+	['', 'business process', ' ', 'open application', ' ', 'Lifecycle Management solution', '']
+Formscape Group
+	Provider of a document process automation software. The company\'s products ensure effective enterprise information delivery via eBusiness document presentation, access and exchange among customers, suppliers and employees. Their software includes the usage of XML, data transformation and process integration to automate the business processes.
+	['', 'process automation', ' ', 'business process', ' ', 'data process', ' ', 'inbound imaging', ' ', 'outbound communication', '']

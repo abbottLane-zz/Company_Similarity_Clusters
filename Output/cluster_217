@@ -1,30 +1,21 @@
-Intek Technologies
-	Developer of a desktop multimedia conferencing software. The company designs software development tools and programs for server applications development.
-	['', 'system management', ' ', 'server applications', ' ', 'desktop multimedia conferencing', ' multimedia']
-Calista Technologies
-	Provider of desktop computing technology services. The company offers Calista Virtual Desktop, a platform that virtualizes the Windows desktop supporting the Windows XP and Windows Vista platforms.
-	['', 'desktop virtualization solution', ' ', 'Virtual Desktop', ' ', 'desktop supporting', '']
-NextEngine
-	Provider of desktop 3D scanners. The company offers ScanStudio Core, a scanning and modeling software that enables to make 3d scans and assemble digital models.
-	['ScanStudio ', '3D scanners', ' desktop']
-Producteev
-	Provider of a platform for task management applications. The company provides applications for individuals and teams connected to Mac, Windows Desktop, Web, iPhone, Android and instant messenger.
-	['', 'task management', ' ', 'team communication', ' ', 'team management', ' ', 'individual network', '']
-WebShaka
-	Developer of a Web desktop platform. The company is the creator of YouOS, a platform replicating a desktop environment on a Web page. The platform allows users to login and save their work from multiple computers, to centralize all their Web services and files in one place, and to share files and apps with others. The platform operates on Javascript.
-	['', 'manage files', ' ', 'development tools', ' ', 'desktop platform', ' ', 'desktop environment', '']
-EPiCON
-	Developer of software platforms that enable application service providers (ASPs) and enterprises to manage the life-cycle of desktop applications and application components from a central server on the Internet. The company\'s products include a software platform, which enables enterprises, and information technology departments to target applications to users based on central policies; deploy applications and application components to Windows personal computers (PCs) without overloading the network; and install applications and components automatically on PCs, without intervention from the PC users.
-	['', 'software platform', ' ', 'desktop application', ' ', 'application component', '']
-The Learning Company
-	Operator of a software development and sales company.The company operates as a publisher for consumer desktop publishing titles. Its flagship desktop publishing products are The Print Shop and PrintMaster. It operates a retail website offering its own software titles as well as others.
-	['', 'convenient software', ' ', 'project templates', ' ', 'consumer products', '']
-Prolyte Group
-	Provider of aluminum supporting systems for the entertainment and exhibition industry. The company manufactures modular aluminium supporting systems (trussing) used for constructing stages and mounting light fixtures, scenery and speakers. The company also produces mobile stages and rigging material.
-	['trussing ', 'aluminium supporting', ' ', 'mobile stage', '']
-GreenBytes
-	Developer of virtual desktop visualization. The company delivers patented desktop virtualization that maximize the effective performance and capacity of existing infrastructure.
-	['', 'desktop virtualization', ' ', 'virtual desktop', ' desktop']
-FSlogic
-	Developer of methods for managing files and applications on Windows PCs. The companies products enhance the value of Windows-based computer solutions in single and multi user open access environments. It empower the user\'s experience and reduce total cost of ownership for the customer by decreasing system maintenance and administrative complexity.
-	['', 'managing file', ' ', 'computer solution', ' ', 'system maintenance', ' ', 'administrative complexity', '']
+OSspray
+	Developer of dental products.  The company develops products that utilize air polishing technologies for the cleaning, desensitizing and whitening of teeth in the dental industry.
+	['dental ', 'dentistry', ' ', 'air polishing', '']
+Toothpick
+	Provider of an online platform to book dentists appointments. The company provides a dentist finder platform where dentist can show their available appointments and patients can easily book in and become a new patient at their practice.
+	['', 'online appointment', ' ', 'online dentist', ' ', 'online appointment platform', ' ', 'dental platform', ' dentist ', 'online dental appointment', '']
+Small Smiles Dental Centers
+	Provider of dental care services. The company provides dental care services for children.
+	['', 'dental care', ' ', 'dental health', ' ', 'dental center', ' ', 'dental office', '']
+Exopro
+	Operator of a medical device company. The company engages in providing dental implant products and related accessories for the Brazilian dental industry.
+	['intra-oral maxillofacial ', 'dental implant', ' osseointegratio']
+DenX Advanced Dental Systems
+	Provider of dental teaching and practicing technologies to dental surgeons and dental schools worldwide to enhance the quality of clinical care and equip dental educators with pre-clinical teaching equipment. The company also manufactures and markets the DentSim simulator, which is presently located in over 25 dental schools around the world to help teach dental students professional skills.
+	['', 'clinical care', ' ', 'dental teaching', ' ', 'DentSim simulator', '']
+VitraBio
+	Manufacturer of healthcare chemical components. The company manufactures porous glass carriers with applications in dental fillings, separation techniques for life sciences and biomedical devices.
+	['', 'porous glass carrier', ' ', 'separation technique', ' ', 'biomedical device', '']
+Azenic
+	Developer of disposable dental products. The company designs and manufactures single use dental tools that can be used in lieu of standard metallic equipment.
+	['', 'dental product', ' dental ', 'dental device', ' ', 'disposable device', '']

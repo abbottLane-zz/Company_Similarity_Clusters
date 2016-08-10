@@ -1,54 +1,18 @@
-Piano media
-	Provider of payment services to the media publishing industry. The company enables publishers to monetize web content without fear of losing either website advertising revenue or audience share.
-	['', 'payment service', ' ', 'web content', ' ', 'paid content', '']
-Up & Net
-	Provider of e-payment services to e-merchants. The company creates private e-payment programs. The company provides e-gift card programs which are accepted by e-merchants. E-giftcards are re-materialized for distribution in convenience store.
-	['', 'e-payment', ' ', 'e-giftcard', ' ', 'e-commerce', '']
-Paymo
-	Provider of mobile payments network for online merchants. The company allows consumers to buy online and pay with their mobile phone.
-	['', 'online payment network', ' ', 'mobile payment', ' ', 'payment software', '']
-Billpoint
-	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
-	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
-Balanced
-	Provider of a payment system for marketplaces. The company allows marketplaces to charge cards, escrow funds and collect their marketplace fees.
-	['', 'payment system', ' ', 'online payment', ' ', 'escrow fund', ' ', 'marketplace fee', '']
-BVfon Telecommunications
-	Provider of telecommunication and payment applications for detention facilities. The company offers an information technology and communication system for handling and monitoring prisoners telephone conversations and retail shop payment system.
-	['', 'telecommunication network', ' ', 'payment application', ' ', 'detention facility', '']
-Get Lower
-	Provider of loans, personal credit, banking, real estate, insurance and utility services. The company offers loan products, which include home loans, auto loans and personal loans, personal credit products, including credit cards, credit reports and debt management and banking services, such as checking accounts, saving accounts and bill pay services.
-	['', 'loan product', ' ', 'personal credit', ' ', 'internet banking', ' ', 'online payment', '']
-Square
-	Provider of online payment services. The company provides online payment services to enable merchants to accept credit cards anywhere, using a card reader that plugs into a phone or iPad.
-	['', 'payment service', ' ', 'mobile payment device', ' ', 'digital payment', ' ', 'credit card payment', ' ', 'credit card reader', '']
-NextCard
-	Provider of online credit card business targeting the consumer market. The company uses the Internet to acquire customers and provide immediate approval to qualified applicants.
-	['', 'online credit card', ' ', 'credit approval', ' ', 'internet marketing', '']
-Beeminder
-	Provider of an online goal-setting tool. The company provides a free platform for users to set personal goals and to track their progress to attain them. The consequence of not staying on track is the user now has to commit to a small payment for the service.
-	['', 'goal setting', ' ', 'personal health', ' ', 'goal tracking', '']
-CreditScorer
-	Developer of technology for studying payment behavior of clients. The company\'s technology enables credit professionals to improve their credit granting and collections performance. The company creates and implements risk scoring models for the credit and financial services industries.
-	['', 'credit payment', ' ', 'credit granting', ' ', 'payment behavior', ' ', 'finance technology', ' ', 'credit benchmarking', ' ', 'credit payment software', ' ', 'finance software', ' credit']
-Tipjoy
-	Operator of a social payment engine. The company allows merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another on their payment engine.
-	['', 'social payment', ' ', 'digital content', ' ', 'payment engine', '']
-DineroMail
-	Provider of e-payment services to international merchants. The company operates as an online payment platform which helps companies to collect payments from online and offline sales. It offers different local payment methods like cash payment, credit cards, bank transfer and also e-wallet.
-	['e-payment ', 'payment platform', ' ', 'transaction software', '']
-Wallaby Financial
-	Developer of a cloud based digital wallet for mobile and web based payments. The company develops technology and software that offers rewards and cash back to users on credit card purchases.
-	['', 'network provider', ' ', 'route transaction', ' ', 'payment card', ' ', 'digital wallet', ' ', 'web based payment', '']
-Bill Me Later
-	Provider of payment and marketing technology services to multichannel retailers. The company offers PayCapture, a set of credit tools; and Bill Me Later that enables customers to pay for purchases without providing credit card information.
-	['', 'marketing technology', ' ', 'multichannel retailer', ' ', 'credit tool', ' ', 'payment technology', ' paycapture ', 'credit card payment', '']
-First USA Partners
-	Issuer of affinity credit cards for alumni associations and other nonprofit groups. The company serves as exclusive sales and business development arm of First USA Bank.
-	['', 'credit cards', '']
-Works
-	Provider of commercial credit card management and optimization technology.The company provides a Web-based platform that connects payment-management automation with the global Visa payment network.
-	['', 'credit card management', ' ', 'credit card service', ' ', 'electronic payment', ' ', 'payment policy', '']
-Allcharge
-	Provider of e-payment services. The company is a global Internet payment-service provider offering merchants and content owners e-payment, billing and processing technologies and services.
-	['', 'digital content', ' ', 'electronic network', ' ', 'internet payment system', ' e-wallet']
+Oxford BioMedica
+	Developer of gene-based medicines and therapeutic vaccines. The company\'s technology platform includes a gene delivery system for the treatment of the diseases of the central nervous system and the eye and a tumor antigen for anti-cancer therapy.
+	['', 'gene-based medicines', ' ', 'therapeutic vaccines', ' ', 'gene delivery system', ' ', 'tumor antigen', ' ', 'anti-cancer therapy', '']
+Diatos
+	Operator of a bio-pharmaceutical company that develops anti-cancer therapies based on cellular-delivery and drug-targeting technologies. The company engages in the  research, development and marketing of anti-cancer chemotherapeutic drugs.
+	['', 'chemotherapeutic drugs', ' ', 'human therapies', ' bio-pharmaceutical ', 'anti-cancer therapies', '']
+ACT Biotech
+	Developer of cancer drugs. The company is focused on the development and commercialization of targeted oral and cancer drugs.
+	['', 'oral cancer', ' ', 'cancer treatment', '']
+JSK Therapeutics
+	Developer of novel anti-cancer drugs using an approved compound to inhibit the growth of cancer cells. The company\'s business is based on two types of drugs, the first class of drug, has been tested in animal systems and the second class of drugs is not as developed as a cancer drug but is more versatile with wider range of cancers.
+	['', 'cancer therapy', '']
+Pathway Therapeutics
+	Developer of therapeutics against human diseases. The company offers PI3 kinase, an enzyme identified as active in cancer tumor development.
+	['', 'drug development', ' ', 'cancer treatment', ' ', 'lifesciences and oncology', '']
+ZGene
+	Provider of gene therapeutics for the treatment of cancer diseases. The company develops treatments for several cancer forms with an enzyme based gene suicide system that increase the activation of anti-cancer drugs in tumour cells with faster cell death.
+	['', 'cancer treatment', ' ', 'gene suicide', ' ', 'anti-cancer drugs', '']

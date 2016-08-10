@@ -1,21 +1,12 @@
-InteCardia
-	Provider of cardiac-imaging services and equipment to cardiologists. The company provides disease- and practice-management services focused on cardiology and cardiovascular medicine.
-	['', 'cardiac imaging', ' cardiology ', 'cardiovascular medicine', '']
-Quolaw
-	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
-	['', 'law practice', ' ', 'law practice management', ' lawyer']
-AviaHealth
-	Provider of a web-based practice management tool designed specifically for ob/gyns. The company\'s online platform provides patient information and education, including information customized to a woman\'s own needs and internet linkages to facilitate patient\'s interaction with the doctor for routine matters.
-	['', 'practice management tool', ' ', 'internet linkages', ' ', 'patient interaction', ' ', 'online platform', '']
-Clinicare
-	Operator of a healthcare IT company. The company engages in the development and marketing of computerized information services for medical group practices. The company offers electronic medical records (EMR), practice management applications (PMA) that unites billing and scheduling and internet applications such as, web-secure, domain hosting, software enhancement and support services.
-	['', 'electronic medical records', ' EMR ', 'computerized information service', ' ', 'practice management applications', ' PMA']
-US Physicians
-	Operator of a physician practice management (PPM) company. The company is a manager of specialist practices engaged in providing disease management services for cancer patients.
-	['', 'medical practices', ' ', 'ancillary services', ' cancer ', 'disease management', '']
-Wolf Medical Systems
-	Provider of electronic medical records for physician offices and medical clinics. The company offers cloud-based technology that  provides patient information over wireless and wireline networks. The company\'s practice management solutions include wolf billing, scheduler and workflow.
-	['', 'electronic medical records', ' ', 'patient information', ' ', 'wireless and wireline networks', ' ', 'wolf billing', '']
-Datamedic
-	Developer of computer-based patient record and physician practice management systems. The company\'s products and services are used in private practice, physician practice management, management service and hospital network settings for ensuring efficient point-of-care capture and retrieval of healthcare information in order to improve the quality and profitability of their medical practices.
-	['', 'practice management', ' physician ', 'medical practice', '']
+Bluestreak Technology
+	Provider of video services for connected devices. The company provides software and video services for connected devices including set-top boxes, smart TVs, smartphones, and tablets to content owners, device manufacturers, and network operators.
+	['', 'video enable service', ' ', 'media application', ' ', 'electronic component', '']
+Canesta
+	Provider of electronic perception technology. The company’s technology enables electronic devices, including video games, computers, industrial and medical electronics devices, automobiles or other vehicles, and factory automation equipment to perceive and react to objects or individuals in real time.
+	['', 'electronic perception', ' robotics ', 'security application', '']
+AppCarousel Direct
+	Provider of an application management platform for connected devices. The company provides a management platform for cars and fleets, smartphones, smart screens, tablets, and other connected devices to distribute, update, control and manage any kind of downloadable software or digital asset.
+	['', 'mobile content', ' ', 'digital content distribution', ' ', 'connected device', ' ', 'application management platform', '']
+Sequans Communications
+	Operator of a 4G chipmaker. The company is a provider of single-mode LTE chipset products to wireless device manufacturers worldwide. It  offers two LTE product lines: StreamrichLTE, optimized for feature-rich mobile computing and home/portable router devices; and StreamliteLTE, optimized for M2M devices and other connected devices for the Internet of Things.
+	['', 'chip maker', ' ', 'technology platform', ' telecommunication']

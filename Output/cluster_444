@@ -1,12 +1,15 @@
-Tactilize
-	Provider of an online blogging platform. The company develops self-publishing service for Apple’s iPad and iPad mini tablets.
-	['', 'online blog', ' ', 'blogging platform', ' ', 'iPad blog', ' ', 'blog publishing', '']
-Cucumbertown
-	Developer of an online recipe publishing platform. The company provides a social platform for chefs, food bloggers and home cooks to connect, share ideas and food secrets.
-	['', 'recipe sharing', ' ', 'online cookbook', ' ', 'recipe blogging platform', ' ', 'digital publishing', ' recipe']
-Kochzauber Food
-	Provider of food and recipe delivery services. The company offers food recipes online and also delivers all needed ingredients at the customer\'s doorstep.
-	['', 'consumer products', ' ', 'recipe delivery services', '']
-mor.sl
-	Provider of web recipes over the internet. The company serves as a recipe recommendation application that provides personalized recipe suggestions and recommendations to users.
-	['', 'grocery delivery platform', ' ', 'recipe suggestion', ' cooking']
+Wintegra
+	Provider of access processing semiconductors and software for telecommunication infrastructure solutions. The company\'s products include access processors; reference boards for software development; and Data Path Software. It offers network processors and production grade software solutions for communication applications, such as DSL; PON; 2G, 3G, and LTE wireless infrastructure; carrier Ethernet; and WiMAX.
+	['semiconductor ', 'integrated network processor', ' ', 'access processor', ' ', 'mobile network gear', ' ', 'mobile backhaul', '']
+Elixent
+	Provider of reconfigurable arithmetic processors. The company offers reconfigurable semiconductor which helps chips to change its functions even when in use. The company also offers silicon devices and supporting software
+	['', 'arithmetic processors', 'chip', 'reconfigurable semiconductor', '']
+Comcerto
+	Communications processor business of Mindspeed Technologies, Inc. This business provides a series of multicore, ARM®-based embedded processors and associated software, a talented team and Tier One customers spanning the globe.
+	['', 'connectivity product', ' ', 'communication processor', ' ', 'associated software', '']
+Chameleon Systems
+	Provider of reconfigurable communications processors. The company offers reconfigurable communications processors for wireless infrastructure equipment manufacturers. The company\'s products include a reconfigurable processing (RCP) platform for the internet and a digital signal processing (DSP) platform.
+	['', 'communication processor', ' semiconductor']
+Teja
+	Operator of network processor software development platform. The company has a development platform product for multiple embedded processors in fixed architectures or multiple soft cores in reconfigurable silicon.
+	['', 'network processor', ' ', 'reconfigurable silicon', ' architecture']

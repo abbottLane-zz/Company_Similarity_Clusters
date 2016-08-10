@@ -1,15 +1,18 @@
-Weilos
-	Provider of mobile based social platform to help users lose weight through accountability. The company\'s platform matches users with coaches who have won their own weight battles, and who can supply personalized input to help them reach their weight-loss goals.
-	['', 'social weight loss', ' ', 'Learn Program', ' coaching']
-Zafgen
-	Developer of biopharmaceutical treatments for severe obesity. The company develops obesity therapeutics for use in the treatment of obesity and associated co morbidities.
-	['', 'obesity therapeutic', ' ', 'biological foundation', ' ', 'metabolic disorder', ' ', 'vascular targeting', ' obesity ', 'weight loss', ' ', 'obesity treatment', '']
-CAVU Medical
-	Developer of restrictive device for treatment of obesity. The company has developed an assembly and method for automatically controlling pressure for a gastric band.
-	['', 'obesity treatment', ' ', 'gastric band control', ' ', 'weight loss', '']
-Vibrynt
-	Developer of a technology for morbid obesity. The company is the developer of an investigational device designed to assist with weight loss by limiting food consumption.
-	['obesity ', 'weight loss', ' ', 'investigational device', ' ', 'treat obesity', '']
-EndoMetabolic Solutions
-	Developer of proprietary medical device. The company is the developer of a device for treating obesity.
-	['', 'obesity treatment', ' ', 'weight loss', '']
+ClimateMinder
+	Provider of wireless climate monitoring and control systems for agriculture. The company offers products that growers can use to increase quality, improve yield per acre, reduce water and nutrient costs, operate remotely, increase profits and achieve sustainability.
+	['agriculture ', 'climate monitoring', '']
+Telemic
+	Provider of wireless based remote sensing technologies for lighting and other applications. The company offers remote monitoring and control systems for street lights.
+	['', 'remote sensing', ' ', 'remote monitoring', ' ', 'street light', ' ', 'power conservations', '']
+Combrio
+	Provider of remote product services (RPS) software to managed services, enterprise information technology and industrial automation organizations to monitor and manage remote devices. The company’s products include Virtual Service Infrastructure software solution (VSI), an RPS ecosystem that provides the service delivery solutions for service providers, remote device monitoring and management solutions for service organizations and the service control solutions for enterprises.
+	['', 'remote product services', ' ', 'managed services', ' ', 'enterprise information technology', ' ', 'industrial automation', ' ', 'remote devices', '']
+Ping Communications
+	Provider of broadband gateways, VoIP adapters, fiber equipments and remote monitoring and management systems. The company develops electronic items that combines the functionality of the broadband modem and wireless router.
+	['', 'broadband gateways', ' ', 'fiber equipment', ' ', 'electronic item', ' ', 'wireless router', ' ', 'remote monitoring', '']
+SmartThings
+	Provider of a platform that enables customers to install connected devices and control them through a single mobile application. The company provides a kit that allows everyday objects, such as light switches and door locks, to be controlled through a smartphone application.
+	['', 'connected product platform', ' ', 'connect product', ' ', 'wireless control', ' ', 'wireless monitoring', ' ', 'online monitoring', ' ', 'online control', ' ', 'remote control', ' ', 'remote operation', ' ', 'remote monitoring', ' ', 'smart home', '']
+NetSolve
+	Provider of enterprise data networking services. The company offers services for managing remote network and complex IT infrastructures with remote management technology. It also helps in monitoring and management of IP communications networks, security software and devices, WANs and LANs and also offers a secure web-based portal to give customers and partners real-time visibility of their IT infrastructure.
+	['', 'IT infrastructure', ' ', 'remote network', ' ', 'software infrastructure', ' monitoring firewall']

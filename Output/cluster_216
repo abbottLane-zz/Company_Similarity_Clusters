@@ -1,39 +1,30 @@
-Virtustream
-	Provider of cloud services and infrastructure services. The company provides cloud services, such as guaranteed resources and capacity on demand, secured private, hybrid clouds, custom management portal, network services, multi-tiered solutions, workload management and departmental level billing.
-	['', 'strategic planning', ' ', 'cloud consultant', ' ', 'hybrid cloud', '']
-dotFX
-	Provider of technology to develop, deploy, run, and manage client and desktop software over the Internet. The company\'s proprietary technology provides support for developing, deploying and managing applications for cloud and client.
-	['', 'cloud software', ' ', 'proprietary technology', ' ', 'desktop software', '']
-CloudLink Technologies
-	Provider of cloud security and management services. The company provides a software security appliance that combines cloud infrastructure security and manageability with cloud performance monitoring.
-	['', 'cloud computing software', ' ', 'data loss protection', ' ', 'ethernet software product', ' ', 'cloud security', ' ', 'cloud management', ' ', 'cloud software', '']
-Parascale
-	Developer of cloud software for servers. The company also provides video-on-demand, document archive, online backup and video surveillance solutions.
-	['', 'cloud software', ' ', 'server software', ' ', 'online backup', ' ', 'video surveillance', '']
-Auxo
-	Provider of cloud based software for various business support functions. The company offers white-label cloud service that can be used by its users to outsource and market their business.
-	['', 'cloud solution', ' ', 'data storage', ' ', 'IT operation', ' ', 'business support function', '']
-SecureInfo
-	Provider of cyberspace security. The company provides a cloud-based, online-security platform for government, cloud technology companies and critical-infrastructure industries. Its services  includes cloud security, continuous monitoring and maintaining compliance with the Federal Information Security Management Act.
-	['', 'FISMA preparedness assessment', ' ', 'information assurance', ' ', 'accreditation service', ' ', 'threat management', '']
-OpenTrust
-	Provider of software and cloud security services. The company provides software products to governments, financial institutions, enterprises and citizens for managing digital identities and securing electronic transactions and documents. It provides digital identity such as corporate, citizen, object and cert identity, digital signature and digital transaction for secure exchange of documents and transactions with complete traceability.
-	['', 'security software', ' ', 'digital identity', ' ', 'digital signature', ' ', 'cloud security', '']
-Sansa Security
-	Developer of embedded security services for mobile, storage, automotive, networking, office automation and industrial markets. The company offers a software stack that runs on the device and provides required information from either a sansa cloud service or the clients own cloud service.
-	['', 'embedded security', ' ', 'office automation', ' ', 'cloud service', '']
-Neohapsis (Acquired by KSR)
-	Provider of mobile and cloud security services. The company work with global enterprises to address their constantly evolving information security and compliance challenges.
-	['', 'cloud services', ' ', 'business products and services', '']
-Hubspan
-	Provider of B2B cloud integration service worldwide. The company offers B2B cloud integration platforms to streamline and automate critical business processes, share information across systems and organizations and reduce manual intervention and cut costs. It also provides cloud integration platforms that help companies to exchange electronic documents and real-time messages with partners, customers and suppliers.
-	['', 'cloud integration', ' ', 'electronic document', ' ', 'electronic invoice', ' ', 'business intelligence tool', '']
-ShieldArc
-	Developer of a security platform that monitors cloud applications. The company\'s platform enables enterprises to protect their cloud asset without impacting end-user experience in without involving IT operations. The platform also provides tools for real-time monitoring and remediation.
-	['', 'security platform', ' ', 'cloud application', ' ', 'public platform', '']
-Appcore
-	Provider of local cloud infrastructure for Enterprise Private Clouds and Service Provider Public Clouds. The company provides a converged platform of architecture, automation, administration and appstore designed to be roll-in ready, accelerating the deployment and automating the operations of cloud environments. It simplifies the complexity of cloud technology for data centers, telcos, software vendors and enterprises.
-	['', 'cloud infrastructure', ' ', 'enterprise private Cloud', ' ', 'service provider cloud', ' ', 'cloud computing', '']
-Cloudsmith
-	Provider of services to create and share software from a global cloud of components. The company offers a web service that defines stacks (dependencies) from a cloud of shared packages, extended to include private components. It also allows the users to share and install these stacks wherever they want directly from the cloud.
-	['', 'shared package', ' ', 'software sharing service', ' ', 'web service', '']
+ZDworks
+	Developer of smartphone development applications. The company engages in the development of smart phone applications for Android devices and iPhones.
+	['', 'mobile platform', ' ', 'cellular phone', ' ', 'phone application', '']
+Strata8 Networks
+	Provider of cellular services on a licensed spectrum. The company provides services to the enterprises to use and manage cellular services within local coverage areas using carrier-class technology.
+	['', 'wireless network', ' ', 'cellular service', ' ', 'carrier-class technology', '']
+Appex Cellular
+	Provider of products and services for cellular industry. The company provides cellular telephone systems and services.
+	['', 'cellular industry', ' ', 'telephone system', ' cellular']
+Panomics
+	Provider of a suite of assay products for various low to mid-plex genetic, protein, and cellular analysis applications worldwide. The company focuses on delivering solutions for Parallel Quantitative Biology, a contextual, systems-level measurement of genes, proteins, and their cellular functions.
+	['', 'cellular analysis', ' ', 'cellular function', ' ', 'gene expression', ' ', 'cell signalling', ' ', 'drug discovery', '']
+ULSD
+	Researcher of oral biology as well as olecular, cellular and craniofacial biology with faculty members. The company\'s main objective is to enhance the speed to market the oral developments within the UofL School of Dentistry.
+	['', 'cellular biology', ' ', 'dental hygiene', ' ', 'oral development', '']
+Junxion
+	Provider of managed 3G wireless cellular router solutions for enterprise and government customers in the United States. The company\'s Junxion Box wireless WAN routers provide computing devices, such as laptops, desktops, handhelds, POS systems, ATM machines, and remote security cameras with access to data services from wireless carriers. Its Junxion Platform firmware includes the drivers and tools to connect with wireless PC card modems, as well as supports wireless carrier networks and PC card modems; and the cellular data service technologies from wireless carriers. It offers Field Commander remote management for customers to monitor, configure, and update fleets of Junxion Boxes or single units in the field; and Junxion Complete, a solution program for virtual installations in the United States. It offers Junxion Firmware for GPS location information, Verizon PC Card modem, firmware updating, DNS over ride, broadband cellular networks. It offers its products for data connection redundancy, landline replacement, M2M/telemetry, portable networks, remote security, landline fail-over, mobile fail-over, public transit/security, private transit, public/private transit, and fleet vehicles applications.
+	['', 'cellular router solution', ' ', 'land line replacement', ' ', 'portable network', ' telemetry']
+Groove Biopharma
+	Developer of therapeutics to affect cellular processes involving microRNAs. The company’s technology addresses nucleotide therapeutic drug discovery via modulation of cellular miRNA. Its technology platform presents potential for treating various diseases, including cancers, infectious disease, and metabolic disorders.
+	['', 'nucleotide therapy', ' ', 'biotechnology service', ' ', 'microRNA therapeutic', ' ', 'medical services', '']
+Pancel
+	Operator of early stage cellular therapy company. The company develops technology to genetically engineer pancreatic cell lines for the eventual cure of diabetes.
+	['', 'cellular therapy', ' pancreatic diabetes']
+Comsys Communication & Signal Processing
+	Provider of digital baseband solutions for cellular networks. The company intelligent baseband processing solutions enable silicon vendors, handset manufacturers, laptop producers, cellular modules developers and base stations manufacturers to significantly market and create a new horizon for voice and data over cellular applications.
+	['', 'cellular network', ' ', 'digital baseband service', ' ', 'intelligent baseband processing', '']
+Telecom*USA
+	Distributor of cellular phones. The company provides cellular modems, wireless Internet and other communications products. It also offers rate plans with which you can service these products.
+	['', 'cellular phone', ' ', 'cellular modem', ' ', 'communications product', '']

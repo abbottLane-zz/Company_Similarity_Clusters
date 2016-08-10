@@ -1,24 +1,27 @@
-Frontlineshop
-	Provider of an online retail store for streetwear. The company offers clothing, shoes and accessories on the internet through its online store. It also offers merchandise of different brands.
-	['', 'street wear', ' ', 'brand bandwidth', ' ', 'online retail store', '']
-Sunglass Hut
-	Retailer of sunglasses. The company offer consumers branded products along with outstanding customer service, being located throughout the United States, Canada, the Caribbean, Europe, Australia, New Zealand, Hong Kong, Singapore, Middle East, South Africa and also through its online store.
-	['sun-wear sunglass sun-shades shade']
-iGet.it
-	Operator of an online private buying club of exclusive products. The company provides opportunity to members to buy exclusive products for a limited period of time.
-	['', 'online buying', ' ', 'online retail store', ' ', 'electronic commerce', '']
-Private Outlet
-	Operator of an online store. The company focuses on private sales of fashion items including clothing and accessories. The company offers fashion, athletics, beauty, interior decoration as well as small appliances to customers.
-	['', 'online store', ' ', 'small appliances', '']
-Build A Bear Workshop
-	Provider of a storefront workshop where customers create their own teddy bear. The Company provides various types of animals to be stuffed; clothing, shoes and accessories for the stuffed animals and other appropriate toy and accessory items.
-	['', 'storefront workshop', ' ', 'teddy bear', ' ', 'stuffed animal', ' ', 'accessory item', '']
-Start Here
-	Operator of an online shopping platform. The company provides an online retail store for Australian consumers.
-	['', 'online retail store', ' ', 'shopping platform', ' ', 'daily deals', '']
-LiL\' Things
-	Provider of children specialty retail chain. The company provides retail store services for infant\'s and children\'s toys, apparel, furniture, and accessories.
-	['', 'children retail', ' ', 'specialty retail', ' ', 'retail store', ' ', 'retail services', '']
-AbsolutelyNew
-	Operator of an consumer goods company that launches new products from inventors into stores, catalogs, online retail stores and television shopping channels. The company engages in identifying, licensing, manufacturing, and selling inventions.
-	['', 'online retail store', ' ', 'television shopping channel', ' ', 'selling invention', ' ', 'television shopping', '']
+Adept Cloud
+	Provider of cloud-based file-sharing and collaboration services. The company is the provider of a cloud-managed, private collaboration service, designed to enable security, control and privacy for enterprise communications on multiple devices.
+	['', 'cloud-managed service', ' ', 'collaboration service', ' ', 'internal collaboration', ' ', 'collaboration software', ' ', 'file sharing', ' ', 'file-sharing', '']
+Octopz
+	Provider of online collaboration services to professionals in both Small/Medium Business and Enterprise markets. The company provides its services through on-demand  software platform.
+	['', 'on demand  software', ' ', 'online collaboration', ' ', 'professional collaboration service', '']
+Found Software
+	Provider of a file-sharing and collaboration platform. The company allows users to search for, find and discover their files, documents and data across devices and cloud services.
+	['', 'file sharing', ' ', 'data search', ' ', 'file discovery', ' ', 'data collaboration', '']
+Moji
+	Provider of visual version control for designers. The company offers a version control and collaboration platform for a community of like-minded designers that encourages people to share their art.
+	['', 'version control', ' ', 'style sharing', ' ', 'designer project', ' ', 'collaboration tool', '']
+Hojoki
+	Provider of a cloud based applications to solve the problem of information fragmentation. The company supports individuals in tracking application and connects task management and communication with the productivity application.
+	['', 'productivity tool', ' ', 'information fragmentation', ' ', 'collaboration service', '']
+Thinkature
+	Developer of an online collaboration platform for small groups. The company offers a web-based white-board platform that allows users to chat and draw diagrams on a shared whiteboard.
+	['', 'collaboration platform', ' white-board workspace']
+Dispatch
+	Provider of cloud based data management services. The company provides cloud-based file sharing services. It also offers group email addresses for the projects.
+	['', 'cloud sharing movement', ' ', 'cloud sharing management', ' ', 'cloud file sharing', ' ', 'file sharing', '']
+LiveLOOK
+	Provider of cloud based customer collaboration tools. The company has developed a sales and customer service tool that allows company agents to instantly view a customer\'s screen and provides instant screen sharing sessions for online presentations and collaboration.
+	['', 'collaboration tool', ' ', 'customer service tool', ' ', 'screen sharing platform', '']
+Luidia
+	Provider of portable interactive technology for classroom and meeting room collaboration. The company is the creator of eBeam interactive technology, a plug-and-play platform designed to make nearly any surface interactive and which can record writing and drawings made on traditional whiteboards.
+	['', 'white board', ' ', 'collaboration software', ' whiteboard']

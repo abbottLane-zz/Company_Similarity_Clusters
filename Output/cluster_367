@@ -1,18 +1,12 @@
-Eridon
-	Provider of a complete platform for embedded system design. The company offers embedded system technology on modular self-integrating uCards to assemble a working hardware platform, operating systems, drivers and development tools.
-	['', 'embedded system design', ' ', 'operating system', ' ', 'computer peripherals', '']
-Triscend
-	Provider of configurable system-on-chip devices and microcontrollers. The company\'s software enable user to create embedded systems for communication, consumer and industrial applications.
-	['', 'embedded system', ' ', 'industrial application', ' ', 'configurable microcontroller', ' ', 'communications software', ' ', 'software applications', '']
-InterObject
-	Developer of embedded software, mobile and multimedia streaming products. The company provides a variety of outsourced development services, as well as customized software solutions and ready-made building blocks for communications and multimedia applications.
-	['', 'mobile multimedia', ' ', 'multimedia streaming', ' ', 'IT software', '']
-MontaVista Software
-	Provides Linux tools to the embedded software market. The company’s products include Market Specific Distributions (MSDs) for MontaVista Linux 6, which provides support for industrial automation, automotive, Android, portable multimedia devices, and multicore networking applications, and DevRocket, an Eclipse-based integrated development environment for embedded Linux platform and application development.
-	['', 'operating systems', ' ', 'embedded software', '']
-Kenati Technologies
-	Provider of Linux-based embedded software for networking appliances for the delivery of data and voice over wired and wireless broadband networks. The company develops device software for the home networking market. Its products include components from device drivers, to operating systems, to management interfaces.
-	['', 'embedded software', ' ', 'linux software', ' ', 'networking appliance', ' ', 'wireless broadband', ' ', 'management interface', '']
-Linuxstart.com
-	Operator of an online Linux community. The company provides Linux related information services.
-	['', 'Linux community', ' ', 'information services', ' Linux ', 'e-commerce site', '']
+Adocia
+	Provider of insulin therapy and treatments for diabetic foot ulcers. The company is specialized in the development of medicines from already approved therapeutic proteins, and is actively engaged in formulation of a fast-acting human insulin and diabetic foot-ulcer healing product.
+	['', 'insulin therapy', ' diabetic']
+Shire Regenerative Medicine
+	Developer of cell-based therapies. It develops Dermagraft, which received a premarket approval from the U.S. food and drug administration. Dermagraft is a regenerative bio-engineered skin substitute that assists in restoring damaged tissue and is indicated for the treatment of certain types of diabetic foot ulcers (DFU).
+	['', 'cell based therapy', ' ', 'skin substitute', ' ', 'skin replacement product', '']
+Cebix
+	Developer of chronic replacement therapy. The company\'s chronic replacement therapy is based on human pro insulin C-peptide for the treatment of diabetic neuropathy and retinopathy.
+	['', 'replacement therapy', ' ', 'diabetic neuropathy', ' ', 'c-peptide', ' ', 'diabetes treatment', '']
+Medingo
+	Developer of miniature devices and technologies for people living with diabetes. The company offers Solo Insulin Patch Pump System, a miniature insulin dispensing patch that allows users to personalize and guide patch for insulin needs.
+	['', 'diabetes treatment', ' ', 'insulin need', ' ', 'insulin delivery', '']

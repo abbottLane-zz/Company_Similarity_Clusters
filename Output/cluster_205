@@ -1,39 +1,33 @@
-Arctic Silicon Devices
-	Developer and seller of data converters. The company develops application specific mixed mode signal processing chips, modules, subsystems, integrated circuits, low power ADCs and AFEs.
-	['modules subsystems microwave IC']
-RF Magic
-	Operator of a fabless semiconductor company. The company is a developer of broadband radio frequency systems-on-a-chip. The company applies RF integrated circuit (IC) design, broadband RF systems, and digital communications systems expertise to the development of a diversified portfolio of patented RFIC technologies.
-	['', 'radio frequency', ' ', 'broadband radio', ' RFIC ', 'system on a chip', '']
-AccelChip
-	Provider of algorithmic synthesis solutions for digital signal processing (DSP) design. The company develops and markets design tools, integrated verification flows, and parametric intellectual property toolkits that automate the development and implementation of DSP algorithms in field programmable gate-arrays and application-specific integrated circuits
-	['', 'algorithmic synthesis solution', ' ', 'digital signal processing design', ' ', 'markets design tool', '']
-Spirea
-	Developer of fabless semi-conductor. The company develops low-cost, integrated and low power radio products for the wireless local and personal area network markets, using CMOS design techniques for radio, mixed-signal and digital designs.
-	['', 'fable semi conductor', ' ', 'personal area network', ' CMOS ', 'digital design', '']
-Toumaz Technology
-	Developer of radio frequency, analogue and mixed-signal semiconductors. The company focuses on development of low power devices for mobile and wireless systems. The company was spun out of Imperial College.
-	['', 'semiconductors production', ' ', 'low power device', ' ', 'wireless systems', ' ', 'radio frequency', '']
-Signal Innovations Group
-	Developer of decision systems for various sensor and data types for government customers and industry partners in national security, public safety and commercial surveillance sectors. The company offers a processing, exploitation and dissemination software suite for airborne intelligence, surveillance and reconnaissance that is deployed by analysts and war fighters on size, weight and power constrained platforms and a recognition software suite to offer a combination of detection, classification and identification techniques, as well as to collect sensor data, including radars, sonar, images and videos on onboard manned and unmanned vehicles to find and recognize air, ground and undersea military targets.
-	['', 'processing software', ' ', 'dissemination software suite', ' ', "\\'recognition software suite", ' ', 'applied defense research', ' ', 'radar signal processing', ' ', 'surveillance software', '']
-Dynamic Hearing
-	Provider of digital signal processing software. The company offers digital amplifier for the hearing aid and personal communications industries. The company was spun out of Cooperative Research Centre for Cochlear Implant and Hearing Aid Innovation.
-	['', 'signal processing', ' ', 'digital signal', ' ', 'digital amplifier', '']
-SnapTrack
-	Developer of wireless position location technology to determine the position of cell phones, pagers and other hand-held devices. The company develops chips with GPS signal processing ability which is built into handsets to track their locations.
-	['', 'global positioning system', ' ', 'wireless position location', ' ', 'signal processing chips', '']
-Quorum Systems
-	Developer of radio frequency transceivers for mobile handset devices. The company provides transceivers for multi-band GSM, GPRS, EDGE, and HSDPA applications, as well as to support TD-SCDMA and GSM-EDGE operations.
-	['', 'radio frequency transceiver', ' ', 'mobile transceiver', ' ', 'semiconductor device', '']
-Fresco Microchip
-	Developer of fabless semiconductor. The company develops radio frequency, mixed-signal and digital signal processing integrated circuits for the consumer electronics market.
-	['', 'integrated circuit', ' ', 'digital signal processing', ' ', 'radio frequency processing', '']
-Equator Technologies
-	Manufacturer of digital signal processing (DSP) compression techniques. The company offers iMMediaTools(R) software development toolkit, media libraries and reference platforms to customers globally. They also provide video-centric system-on-a-chip (SoC) processors which are available for digital media, digital video communications and video security and surveillance applications.
-	['', 'digital signal processing', ' ', 'surveillance application', ' ', 'video centric', '  ', 'video security', ' ', 'digital media', '']
-Chameleon Systems
-	Provider of reconfigurable communications processors. The company offers reconfigurable communications processors for wireless infrastructure equipment manufacturers. The company\'s products include a reconfigurable processing (RCP) platform for the internet and a digital signal processing (DSP) platform.
-	['', 'communication processor', ' semiconductor']
-RapidBlue Solutions
-	Provider of retail data and offline shopper analytics. The company uses radio frequency technology to collect shopper movement information and then transforms the anonymous data into information and insights that retailers can use to manage the marketing, merchandising and operations of their businesses.
-	['', 'retail data', ' ', 'radio frequency', ' ', 'shopper movement', '']
+Tonic Software
+	Innovator of web application management software for companies that rely on the Internet to conduct business. The company’s software performs root cause analysis. Its software product enables users to measure and monitor performance, verify content and functional integrity, load test, and detect problems.
+	['', 'web application', ' ', 'management software', ' ', 'monitor performance', ' ', 'functional integrity', ' ', 'load test', ' ', 'detect problem', '']
+Procite
+	Provider of information reference management software. The company has developed a software which give users flexibility to manage special collections and create unlimited work-forms.
+	['', 'management software', '']
+Concord Data Systems
+	Manufacturer of telecommunication equipment. The company designs and sells broadband and carrierband modems, network management tools to the telecommunication industries.
+	['', 'telecommunication equipment', ' modem ', 'network management', '']
+Codima Technologies
+	Developer of software tools for organizations. The company enables users to view, maintain and store data on network inventory. It also helps organizations to reduce costs, save time and manage their infrastructure network. It sells network management tools.
+	['', 'software tools', ' ', 'network management tools', ' ', 'VoIP management', ' ', 'IT assets', '']
+FASTech Integration
+	Developer of factory automation software. The company develops execution systems, cell control and equipment interface software for semiconductor manufacturing facilities.
+	['', 'automation software', ' ', 'equipment interface software', ' ', 'Workflow Software', '']
+Mission Critical
+	Developer of system management software. The company develops and markets enterprise level system management software.
+	['', 'system software', ' ', 'Business software', '']
+Roving Planet
+	Provider of network access control and management solutions for enterprise networks. The company provides its client a secure network environment to manage and control its users, endpoints, connections and sessions.
+	['', 'networking software', ' ', 'network management', ' ', 'wireless service provider', '']
+MAXM Systems
+	Developer of management software. The company develops network management software and is based in McLean, Virginia.
+	['', 'enterprise automation software', ' ', 'network management', '']
+Grantium
+	Provider of the grants management software platform for government agencies and granting organizations. The company provides the software that helps in off-the-shelf end-to-end enterprise grants management between organization.
+	['', 'grant management software', ' ', 'automate grant', ' ', 'virtual world', '']
+6 Wunderkinder
+	Provider of a business task management software with online synchronization. The company provides an interface to track everything from grocery shopping to long-term travel plans.
+	['', 'task management software', ' ', 'online synchronization', ' ', 'productivity software', '']
+Visual Networks
+	Provider of network and application performance management solutions. The company’s products increase application and network availability, optimize the use of bandwidth and reduce operating costs across traditional and new IP-based infrastructures.
+	['VoIP ', 'Broadband IP solution', ' ', 'Private IP solution', ' ', 'Network management', '']

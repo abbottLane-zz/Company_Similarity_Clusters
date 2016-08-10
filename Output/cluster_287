@@ -1,27 +1,48 @@
-Biocistronix
-	Provider of drug discovery and medical research and development services. The company also engages in development of latest diagnostic techniques for various ailments.
-	['', 'medicine discovery', ' ', 'medical research', ' ', 'diagnostic techniques', '']
-Discovery Partners International
-	Provider of technologies and services to pharmaceutical and biotech companies. The company\'s services assist worldwide pharmaceutical and biotechnology companies in the design, development and production of assays of disease molecules to accelerate their drug discovery activities.
-	['', 'drug discovery', ' ', 'pharmaceutical healthcare', ' ', 'disease molecule', ' ', 'drug discovery', '']
-Trega Biosciences
-	Developer of products designed to assist pharmaceutical and biotechnology companies in the identification of drug candidates. The company conducts an internal drug discovery program in the areas of obesity, diabetes and syndrome X, a syndrome associated with obesity and diabetes, involving the human body\'s resistance to insulin.
-	['', 'drug discovery', ' ', 'drug discovery program', ' ', 'obesity treatment', ' ', 'diabetes treatment', '']
-Elitra Phramaceuticals
-	Developer of next generation antimicrobial drugs that target essential gene products of pathogenic organisms. The company employs its functional genomics technologies to identify essential gene drug targets in clinically relevant bacterial and fungal pathogens.
-	['', 'antimicrobial drug', ' ', 'drug discovery', ' ', 'pathogenic organism', '']
-C4X Discovery Holdings
-	Developer of pharmaceutical services and drug discovery. The company used a NMR-based technique to determined 3D molecular structures with high accuracy. It is focused on the design and development of medicines and partnering with the pharmaceutical sector to generate better, safer products.
-	['', 'design and development', ' ', 'pharmaceutical sector', ' ', 'pharmaceutical drug discovery', '']
-Santaris Pharma
-	Developer of ribonucleic acid (RNA) targeted therapies. The company\'s Locked Nucleic Acid (LNA) Drug Platform and Drug Discovery Engine  is designed to deliver single-stranded Locked Nucleic Acid (LNA) based drug candidates across an array of disease states, including  cancer, cardiovascular disease, infectious and inflammatory diseases and rare genetic disorders.
-	['', 'nucleic acid', ' ', 'drug discovery engine', ' ', 'ribonucleic acid', '']
-Ansaris
-	Provider of small molecule drug discovery equipment and technology. The company has developed a proprietary platform technology which combines a torsion-space algorithm for building dynamic protein models with silico fragment-based libraries and computational chemists to design therapeutics that solves contemporary small molecule drug discovery challenges.
-	['', 'mall molecule drug discovery', ' ', 'platform technology', '']
-Activiomics
-	Developer of biomarker technology. The company has developed a suite of label-free mass spectrometry technologies enabling it to identify and quantify, directly from clinical samples, proteins and phosphoproteins that correlate with the progression of disease and/or the administration of drugs. The company is applying its technologies to the establishment of a pipeline of biomarker assets comprising the identified proteins and phosphoproteins along with their companion diagnostic antibody reagents. The company also partners with the pharmaceutical and biotechnology industry to provide drug profiling and drug mode of action information.
-	['', 'drug biomarkers', ' ', 'proprietory technology', ' oncology']
-Ascendis Pharma
-	Developer of pro-drug technology for endocrinology, cardiovascular and central nervous system disorders. The company develops a prodrug technology, TransCon, which conjugates the drug compound to a carrier molecule in a reversible fashion. It also provides transient conjugation technology, long-acting prodrugs of proteins, peptides and small molecules.
-	['', 'drug-technology', ' ', 'conjugation technology', ' ', 'drug compound', ' ', 'carrier molecule', ' prodrug']
+Cedar Point Communications
+	Provider of integrated voice over Internet protocol and multimedia switching technologies for the service provider and enterprise telecommunication industries. The company\'s products include SAFARI C3, a media switching system, which delivers Internet protocol multimedia subsystem (IMS) capabilities that support the anticipated migration to IMS architecture for converged networks; and SAFARI eMG, a media gateway that delivers flexibility. It also also provides training, customer, and solution services. Cedar Point Communications serves information technology departments and network operators, cable operators and telecommunications carriers, and enterprise customers and educational institutions.
+	['', 'voice over Internet protocol', ' ', 'switching technology', ' ', 'switching system', '']
+Zhone Technologies
+	Designer, developer and manufacturer of telecommunications equipment. The company provides international clients in the single line multi-service (SLMS) architecture business the ability to provide voice and video over internet protocol (VoIP).
+	['', 'telecommunications equipment', ' ', 'single line multi-service', ' ', 'voice over internet protocol', '']
+Tiscali Telecom
+	Provider of internet services. The company provides broadband and narrow band internet services in France.
+	['', 'internet service', ' ', 'broadband service', ' ', 'narrow band internet', '']
+Orchestream
+	Provider of service activation and performance management software to global telecommunications network operators. The company\'s product, Orchestream Service Activator, enables managers of large scale Internet protocol and broadband networks to automate the configuration tasks associated with network management and service activation.
+	['', 'performance management', ' ', 'global telecommunication', ' ', 'internet protocol', ' ', 'broadband network', '']
+Redstone Communications
+	Developer of networking equipments and market service provider solutions that address the scalability, performance, reliability and quality of service issues associated with the transformation of the public Internet. The company\'s products include edge routers, which enable internet service providers to support multiple services.
+	['', 'networking equipments', ' ', 'internet service providers', ' ', 'edge routers', '']
+MetraTech
+	Provider of web based services for billing, customer self care and partner management. The company\'s applications include mobile virtual network operator, internet protocol television, conferencing and collaboration, voice over Internet protocol, Internet service provider, messaging, utility computing and airports.
+	['', 'online billing', ' ', 'partner management', ' ', 'business collaboration', '']
+Telovations
+	Provider of voice over Internet protocol communications services. The company\'s services feature applications, such as hosted phone systems, remote office, fax to email, find me or follow me, branch office networking, unified messaging, conference calls and collaboration, disaster redirect, email and broadband Internet, Microsoft integration toolbar, auto-attendant options, receptionist console and messages on hold.
+	['', 'Internet protocol communication', ' ', 'hosted phone system', ' ', 'branch office networking', ' ', 'disaster redirect', ' ', 'remote office', ' ', 'conference calls', ' ', 'broadband Internet service', '']
+MaxComm Technologies
+	Developer of in-home LAN products, based on DSL-related technology. The company provides broadband internet technology that brings data and multiple voice lines to consumers.
+	['telecommunications ', 'Internet technology', '']
+ConteXtream
+	Operator of a software-defined-networking (SDN) company. The company is a provider of carrier-grade network visualization technology. Deployed by Tier-1 operators, the company\'s Carrier-SDN elastically connects subscribers to services and enables carriers to leverage standard server hardware and hypervisors to virtualize functions and services, while replacing purpose-built proprietary systems.
+	['', 'routing service', ' ', 'internet protocol', ' ', 'internet broadband', '']
+CarrierChoice
+	Provider of procurement services for digital communications. The company works with enterprise clients in sourcing and buying data, Internet, hosting and voice services, using proprietary technology reinforced through vendor-neutral support.
+	['', 'Internet services', ' ', 'telecommunications services', ' ', 'data services', '']
+Clarent
+	Provider of networked internet telephony services for long distance phone calling service providers. The company enables service providers to deliver simultaneous transmission of voice, fax and data over internet protocol network.
+	['VoIP ', 'communication service', ' ', 'internet telephony', '']
+Northchurch Communications
+	Developer of a service router for the creation of customized internet protocol services. The company provides next-generation edge access platforms for delivering IP-based services.
+	['', 'internet protocol', ' ', 'service router', ' ', 'networking service', '']
+Nissi Media
+	Provider of an internet telecommunication platform. The company provides an integrated and scalable platform to telecommunications carriers, internet service providers and other telecommunication service providers which enables them to provide their users a wide range functions.
+	['', 'internet telecommunication', ' ', 'integrated platform', ' ', 'internet service', '']
+CopperCom
+	Provider of switching solutions for independent operating companies, competitive local exchange carriers and Internet service providers. The company makes software-based switches or softswitches and other products that enable advanced services such as voice over Internet Protocol (VoIP).
+	['', 'switching solution', ' ', 'internet service providers', ' ', 'software-based switches', ' softswitches ', 'voice over internet protocol', '']
+Allot Communications
+	Provider of broadband-optimization services. The company provides Internet protocol (IP) service optimization for wireless and mobile broadband carriers, cable-service providers and enterprises.
+	['', 'broadband service', ' ', 'internet protocol service', ' ', 'optimization services', ' ', 'information technology services', '']
+TradingCom
+	Operator and provider of telecommunications and internet services. The company providers telecommunications networking and Internet Protocol carrier platform.
+	['', 'internet protocol', ' ', 'bandwidth service', ' ', 'internet service', '']

@@ -1,15 +1,9 @@
-Metara
-	Designer and manufacturer of metrology equipment for the semiconductor industry. The company manufactures chemical metrology tools for semiconductor industry used in monitoring and controlling chemical processes.
-	['', 'metrology equipment', ' ', 'chemical tools', ' semiconductor ', 'manufacturing equipment', '']
-Boxer Cross
-	Provider of metrology tools for the semiconductor industry. The company develops and manufactures fully automated metrology systems, providing in-line monitoring of parameters affecting the electrical performance.
-	['', 'metrology system', ' ', 'monitoring system', ' ', 'electrical measurement data', '']
-Imago Scientific Instrument
-	Manufacturer of near-fab metrology equipment for the semiconductors. The company offers research instruments for the university, governmental organization, and private company laboratories in the materials, geology, astrophysics, semiconductors, and life sciences.
-	['', 'Atom Probe Tomography', ' ', 'microelectronic device', ' ', 'Nanolytical equipment', ' ', '3-dimensional imaging application', ' ', 'metrology equipment', ' ', 'atom probe', '']
-AngstroVision
-	Developer of a new nano-imaging device which targets characterization and metrology applications in the materials and information technology markets. The company provides a device that creates 3-D images with resolutions in the range of several nanometers that can be acquired at high speeds in a wide range of environments.
-	['nano-imaging 3D metrology']
-Sensys Instruments
-	Provider of integrated metrology applications. The company offers compact metrology system and cd-i, small foot print system for optical cd applications.
-	['metrology']
+Concurrent Thinking
+	Provider of computing systems and software. The company is involved in designing and implementation of large-scale computing infrastructures and software including cluster integration and monitoring software and services.
+	['', 'High Performance Computing', ' ', 'cluster management', 'supercomputing', 'Data Centre', '']
+Linux NetworX
+	Provider of Linux-based high performance computing (HPC) solutions. The company also provides technical services, such as batch scheduling implementations, application optimization, security implementations, and application configuration and tuning.
+	['', 'batch scheduling', ' ', 'application optimization', ' ', 'application configuration', ' ', 'high performance computing', '']
+OctigaBay Systems
+	Manufacturer of computing architecture for simulation and modeling applications. The company develops high performance computing (HPC) system designed around its direct connected processor architecture, an approach to parallel processing that directly links together processors, alleviating memory contention and interconnect bottlenecks found in cluster systems.
+	['', 'computing architecture', ' ', 'modeling application', ' ', 'simulation application', '']

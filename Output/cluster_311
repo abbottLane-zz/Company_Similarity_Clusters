@@ -1,24 +1,21 @@
-Petbrosia
-	Online retailer of customized pet food. The company uses veterinarian and nutritionist designed algorithms to determine the unique nutritional needs of customers\' dogs and cats, and provides products tailored to activity levels and specific health issues.
-	['', 'pet food', ' ', 'pet nutritionist', ' ', 'diet chart', ' ', 'online pet nutrition', '']
-Snaptracs
-	Developer of pet GPS tracking systems for pet owners. The company offers a GPS pet tracking device that uses GPS and wireless technology to locate and track the activities of pets from desktops or mobile devices.
-	['', 'GPS tracking system', ' ', 'wireless technology', ' ', 'pet tracker', '']
-Volunteers in Health Care
-	Provider of web-based medication assistance resource centers. The company provides a current and comprehensive database of patient assistance programs for managing medication.
-	['', 'medication assistance', ' ', 'healthcare service', ' ', 'pharmaceutical access', '']
-FamilyPet
-	Provider of marketing services for the pet industry. The company operates websites that offer information about services and merchandise for dogs, cats and other breeds to pet-owners.
-	['', 'pet market', ' pet ', 'pet industry', '']
-PetStuff
-	Operator of pet food stores. The company operates a pet supply superstores in the Eastern United States.
-	['', 'pet food', ' ', 'pet care', ' ', 'supply chain', '']
-Securus
-	Developer of pet tracking devices in the United States. The company offers global positioning system (GPS) pet locators that bundle GPS technology with the recovery assistance.
-	['', 'global positioning system', ' ', 'pet tracking device', ' ', 'pet locator', ' ', 'recovery assistance', '']
-Allpets.com
-	Provider of an online pet magazine and encyclopedia. The company provides valuable information, education and pet products to the consumer and business markets.
-	['', 'pet magazine', ' ', 'pet encyclopedia', ' ', 'pet product', ' ', 'pet information', '']
-IPET Holdings
-	Provider of products and services for the pets. The company offers pet accessories and supplies to the consumers over internet.
-	['', 'pet products', ' ', 'pet accessories', ' ', 'consumer products', '']
+AccuDraft
+	Provider of business document automation services and online document production software. The company offers DocsEngine Portal, a contract lifecycle management system that transforms contracts into a set of business rules and publishes them to an online portal where various authorized users can create contracts by answering a series of questions.
+	['', 'document automation', ' ', 'document production', ' ', 'contract lifecycle management', ' ', 'pension document', '']
+GTESS
+	Provider of healthcare claims processing service. The company\'s custom solutions edit and clean claims by automating specific, time and cost-intensive processes.
+	['automation ', 'healthcare claims', '']
+Synchris
+	Provider of bid lifecycle management software for government contractors. The company provides virtual workspace software that integrates communication, collaboration, document management and workflow features into a unified application that integrates with the Microsoft desktop.
+	['', 'bid lifecycle management software', ' ', 'virtual workspace software', ' ', 'document management', ' ', 'task order management', '']
+Anodyne Health
+	Provider of revenue cycle management software for healthcare providers. The company provides business intelligence software and outsourced billing services to large provider groups and hospital-based physician practices.
+	['', 'revenue cycle management', ' ', 'revenue cycle', ' ', 'revenue management software', ' ', 'hospital billing', '']
+Third Millennium Healthcare Systems
+	Provider of revenue cycle management software. The company provides automate rejected or denied claims management, document imaging, claims tracking, workflow, document management, reporting and secondary claims processing.
+	['', 'revenue cycle management', ' ', 'denied claim', ' ', 'document imaging', ' ', 'Productivity Software', '']
+Laserdata
+	Developer of a optical storage software. The company develops and markets document imaging and optical storage software for personal computer local area networks.
+	['optical ', 'document imaging', ' storage']
+GHN Online
+	Developer of a revenue cycle management platform and clearinghouse focusing on the healthcare industry. The company serves the enterprise-class clientele through their intuitive web-based claims management solution during every stage of the electronic billing process.
+	['', 'revenue cycle management', ' ', 'transaction processing', ' ', 'claims processing', '']

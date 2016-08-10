@@ -1,36 +1,24 @@
-Swoopt
-	Provider of a mobile platform for Fantasy Sports. The company provides fantasy sports gaming and tournament software for the mobile phone.
-	['', 'fantasy sport', ' ', 'game platform', ' ', 'mobile game platform', '']
-ShareGrove
-	Provider of an online conversations platform. The company\'s platform allows its users to select friends from Facebook (and other networks) and to engage them in real time, or over time, through a single Web interface.
-	['', 'online conversations platform', ' ', 'friend selection platform', ' ', 'web interface', '']
-AppArchitect
-	Developer and operator of an online platform for creating mobile applications. The company provides a browser based platform which allows users to build, test and publish applications into respective application stores to reach their customers.
-	['', 'platform software', ' ', 'application store', ' ', 'publish application', '']
-Bettermeans
-	Provider of technology platform enabling founders to build companies collaboratively. The company provides a web platform where people can start and run projects in an open and democratic way.
-	['', 'web platform', ' ', 'project management', '']
-Nurien Software
-	Developer and operator of social networking and online gaming services. The company provides casual games which enables users to express their individual  identities by offering user-created 3D objects and avatars that  interact and network amongst each other via virtual worlds and the web.
-	['', 'interactive avatars', ' ', 'casual gaming', ' ', 'online gaming platform', '']
-GirlGamer
-	Provider of a social network and video game lifestyle platform for female gamers. The company features news, reviews, profiles, forums and more, focused on creating a  space for both gamers and the industry.
-	['', 'social network', ' ', 'online gaming platform', '']
-Paf New Business
-	Provider of internet gaming services. The company provides an online wagering platform for wagering via the internet, digital television and wireless media.
-	['', 'wagering platform', ' ', 'wireless gaming', ' lottery']
-FlexHire
-	Operator of an online recruitment platform. The company provides an online candidate management system for recruiting employees.
-	['', 'candidate management', ' ', 'recruitment platform', ' ', 'screen applicants', '']
-ICE Entertainment
-	Operator of an online gaming platform. The company focuses on developing MMORPG game for the China and Asia markets.
-	['', 'online game', ' MMORPG ', 'casual games', ' ', 'game developers', '']
-YOUbeQB
-	Operator of an online multi-gaming platform. The company offers Fantasy PlayBook, a fantasy football game that enables players to take control of teams.
-	['', 'playcaller games', ' ', 'online gaming platform', '']
-Gamepot
-	Provider of an online gaming platform. The company provides online games through its web platform and mobile applications.
-	['', 'gaming platform', ' ', 'web game', ' ', 'platform software', '']
-Hipster
-	Provider of a web platform for answering questions and queries of users. The company provides social networking services.
-	['', 'web platform', ' ', 'answer provider', ' ', 'query blog', '']
+Gazoontite
+	Provider of household products. The company provides products that help reduce asthma problems, allergies and respiratory problems. The company\'s products include anti-allergen and hypoallergenic bedding, air purifiers, vacuum cleaners, bath and beauty products, toys, dust control products, odor control products and asthma management products.
+	['', 'household products', ' hypoallergenic ', 'cleaning product', '']
+Rolsen Electronics
+	Manufacturer of household electronics in Russia. The company provides a range of consumer products, including television sets, DVD players, DVD recorders, plasma panels and LCD TV sets, home video systems, air conditioners and washing machines.
+	['', 'electronic appliances', ' ', 'production cycle', ' ', 'consumer product', '']
+Stylea-mdd
+	Designer and retailer of high-end consumer products. The company designs and markets a range of consumer products, including tableware, home decor, cooking accessories, bed and bath linens,  travel bags & accessories, and beauty products.
+	['', 'fashion products', ' ', 'fashionable accessories', ' ', 'household goods', '']
+TRB International
+	Manufacturer of men\'s luxury swimwear, accessories and resort wear. The company designs and distributes high end swimwear and accessories.
+	['swimwear ', 'pants and shorts', ' cap']
+Coyuchi
+	Retailer of home textiles. The company designs and markets products made from certified organic cotton, including bedding, bath linens, pajamas and robes and baby items. The company also has added linen and cashmere items to its collection. The company sells its products online, as well as from two storefronts.
+	['bedding ', 'bath linens', ' ', 'baby items', ' cotton cashmere linen organic']
+Clarus (acquired)
+	Provider of B2B procurement software and trading services. The company develops, manufactures and distributes a broad range of products including carabiners, protection devices, belay and rappel equipment, helmets, ropes, ice-climbing gear, backcountry gear, technical backpacks, high-end day packs, tents, trekking poles, gloves, skis, ski bindings and ski boots.
+	['', 'outdoor equipment', ' ', 'lifestyle products', ' helmets']
+Madras Concept
+	Provider of sanitary ware and decorative products. The company provides textiles for the table art and objects for decorating the house.
+	['', 'table covers', ' ', 'geometric designs', ' ', 'sanitary product', ' ', 'home decor', '']
+WebMediaGroup
+	Owner and operator of social commerce websites in France. The company operates multiple websites geared toward women consumers, with content ranging from home appliances, gardening and decor to an online marketplace for handcrafted objects and a female-focused classified platform.
+	['', 'specialist furniture', ' ', 'homemade products', ' ', 'household goods', '']

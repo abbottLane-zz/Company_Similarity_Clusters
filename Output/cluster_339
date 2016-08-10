@@ -1,24 +1,18 @@
-Red Brick Systems
-	Provider of relational database software. The company relational database software for data warehousing.
-	['', 'relational database software', ' ', 'data warehousing', ' ', 'database software', '']
-Small Demons
-	Developer of online aggregation service. The company has built a discovery platform based on the data gathered from various books, which helps to unlock all sorts of information from inside books thus making movies, music, food, travel and beyond discoverable and consumable.
-	['', 'social platform software', ' ', 'database software', '']
-Approach Software Corporation
-	Developer of relational database software. The company is developer of end-user relational database applications for the Windows environment.
-	['', 'database software', ' ', 'database application', '']
-Ansa Software
-	Provider of a database management program. The company is the developer of Paradox, a ground-up relational database software product for personal computers.
-	['', 'database management', ' ', 'information system', ' ', 'data software', '']
-DataFlux
-	Developer of innovative database software products. The company The company develops database software products designed to significantly improve the accuracy and usability of an organization\'s data. The company provides state of the art data quality products and services for organizations ranging from financial institutions and telecommunications companies to universities and governmental agencies.
-	['', 'database software products', ' ', 'data quality', '']
-Maxim I/T
-	Provider of a software product named FindView. The company\'s product provides users a single gateway to access desired information required to make well-informed business decisions.
-	['', 'database software', ' ', 'findview', '']
-Application Security
-	Provider of database security application. The company develops security software for relational databases and big data stores that helps businesses and government agencies uncover critical configuration mistakes, access control issues, missing patches, or any toxic combination of settings that could lead to denial-of-service attacks, unauthorized data modification and data breaches.
-	['', 'database security', ' ', 'compliance solution', ' ', 'vulnerability management', ' ', 'threat management', ' ', 'audit management', ' ', 'database integration', ' ', 'database discovery', '']
-Wakoopa
-	Provider of online software services. The company develops multi-device passive metering technology which collects behavioural data from research participants. Its technology tracks what websites are visited, what advertisements are seen or what applications are used.
-	['', 'database software', ' ', 'behavioural data', ' ', 'technology tracks', '']
+Rogue Resolutions
+	Provider of equipment and services to the researchers and clinicians in the neurology sector. The company provides integrated services to the neuroscience sector for the purpose of neuromodulation, neurofeedback and brain imaging.
+	['neurology ', 'brain imaging', ' neurofeedback']
+Edge Therapeutics
+	Provider of therapeutic products for acute, fatal and debilitating medical conditions. The company develops implantable technology for direct delivery of therapeutic compounds to the site of brain injury.
+	['', 'healthcare service', ' ', 'biotechnology service', ' ', 'hospital product', '']
+CTF Systems
+	Provider of cortex magnetoencephalography (MEG) systems. The company focuses on functional brain mapping, epilepsy localization, diagnostics in stroke recovery and fetal neurological assessment.
+	['', 'magnetoencephalography system', ' ', 'brain mapping', ' diagnostic']
+SAGE Therapeutics
+	Operator of a biopharmaceutical company developing novel medicines to treat central nervous system (CNS) diseases. The company offers medicines to patients with schizophrenia, major depressive disorder, pain and traumatic brain injury conditions, for multiple sclerosis, autism and anesthesia.
+	['', 'central nervous system', ' ', 'traumatic brain injury', ' ', 'depressive disorder', '']
+Intelect Medical
+	Developer of deep brain stimulation (DBS) therapies and technology for patients suffering with disabilities from stroke and traumatic brain injury. The company focuses on developing an implantable neuromodulation system for stroke and traumatic brain injury recovery.
+	['', 'deep brain stimulation', ' ', 'brain injury treatment', ' ', 'neuromodulation system', '']
+Neurolutions
+	Provider of devices, based on Brain Computer Interface (BCI) technology. The company focuses on restoring function to patients who are disabled as a result of neurological injury.
+	['', 'computer interface technology', ' ', 'neurological injury', ' ', 'neurological treatment', ' ', 'mobility device', '']

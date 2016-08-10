@@ -1,39 +1,48 @@
-VCON Video Conferencing
-	Provider of video-conferencing systems and products. The company offers standards-based systems and infrastructure, which are operated over a variety of networks. The company sells internationally through a global distribution network to business enterprises, government agencies, financial institutions, broadcasters, universities and colleges, distance learning companies, health-care organizations, and satellite companies.
-	['', 'videoconferencing products', '  videoconferencing']
-SiteScape
-	Provider of Web-based business collaboration software and services. The company provides integrated Web based team collaboration and conferencing solutions for communication and program management of teams in business, government, and military organizations. Its solutions include calendar and meeting management, knowledge networks, partner management, program management, HR management, grants management, continuity of operations, bond offer management, and telework.
-	['', 'business collaboration', ' ', 'conferencing solution', ' ', 'program management', ' ', 'meeting management', ' ', 'knowledge network', ' ', 'partner management', '']
-Octopz
-	Provider of online collaboration services to professionals in both Small/Medium Business and Enterprise markets. The company provides its services through on-demand  software platform.
-	['', 'on demand  software', ' ', 'online collaboration', ' ', 'professional collaboration service', '']
-MetraTech
-	Provider of web based services for billing, customer self care and partner management. The company\'s applications include mobile virtual network operator, internet protocol television, conferencing and collaboration, voice over Internet protocol, Internet service provider, messaging, utility computing and airports.
-	['', 'online billing', ' ', 'partner management', ' ', 'business collaboration', '']
-SightSpeed
-	Provider of internet video communications services for businesses and consumers. The company offers Internet video chat and voice calling services for friends and families, as well as video conferencing solutions for businesses.
-	['', 'internet video communication', ' ', 'internet voice calling', ' ', 'video conferencing', '']
-Moji
-	Provider of visual version control for designers. The company offers a version control and collaboration platform for a community of like-minded designers that encourages people to share their art.
-	['', 'version control', ' ', 'style sharing', ' ', 'designer project', ' ', 'collaboration tool', '']
-Webdialogs
-	Provider of voice and web conferencing solutions. The company provides facilities for organizing  online meetings. The company facilitates voice, video and Web conferencing, data collaboration, and Web callback solutions.
-	['', 'video conferencing', '']
-Quindi
-	Developer of collaboration software allowing professionals and organizations to capture spoken information for easy recall and sharing.
-	['', 'collaboration software', ' ', 'project management', ' ', 'product development', ' ', 'information sharing', '']
-Thinkature
-	Developer of an online collaboration platform for small groups. The company offers a web-based white-board platform that allows users to chat and draw diagrams on a shared whiteboard.
-	['', 'collaboration platform', ' white-board workspace']
-Proximity (Vermont)
-	Provider of video conferencing services and public video room rentals. The company also provides audio conferencing and Web conferencing services. The company serves businesses, state and federal government agencies, non-profit organizations, executive search firms, consultants, lawyers, accountants, and HR professionals.
-	['', 'conferencing services', '']
-Luidia
-	Provider of portable interactive technology for classroom and meeting room collaboration. The company is the creator of eBeam interactive technology, a plug-and-play platform designed to make nearly any surface interactive and which can record writing and drawings made on traditional whiteboards.
-	['', 'white board', ' ', 'collaboration software', ' whiteboard']
-Kluster
-	Developer of project collaboration tool. The company provides a technology platform that allows users to collaborate on idea generation, development and execution.
-	['', 'project collaboration tools', ' ', 'technology platform', '']
-Marratech
-	Developer of collaboration and communication software. The company offers e-meeting, video conferencing and collaboration software.
-	['', 'video conferencing', ' ', 'voice over Internet', ' ', 'collaboration tool', '']
+SaltCheck
+	Developer of a technology to monitor salt intake for the control of hypertension and congestive heart failure. The company develops the technology for self-monitoring by people used in doctor offices, clinics and for home use worldwide.
+	['', 'salt intake', ' monitor  hypertension ', 'congestive heart failure', ' ', 'urine spot test', '']
+CircuLite
+	Developer of miniature blood pumps for the long-term treatment of chronic heart failure. The company provides synergy pocket circulatory assist device, which is designed to rest a failing heart by supplementing its natural function.
+	['', 'blood pump', ' ', 'miniature pump', ' ', 'heart failure', ' ', 'Circulatory assist device', '']
+MitralSolutions
+	Developer of implantable devices that repair heart valve abnormalities.  The company develops implantable devices for cardiac valve repair. The company offers an adjustable surgical device that custom fits to each patient’s anatomy and can be tuned under beating heart conditions to eliminate valve leakage.
+	['', 'implantable devices', ' ', 'heart valve', ' ', 'cardiac valve', ' ', 'adjustable surgical device', '']
+CardioOptics
+	Developer of catheter-based systems for minimally invasive treatment for heart failure and various cardiovascular diseases. The company offers sinus access system that allows physicians to see through flowing blood, and look directly at heart and blood vessel anatomy and tissue; and implant biventricular pacemaker leads to treat heart failure. Its system includes the a forward-viewing infrared steerable catheter; and image acquisition console, a digital touch-screen control monitor, which includes a camera pod containing an infrared camera that sends siteseekir images from catheter tip to the monitor.
+	['', 'minimally invasive treatment', ' ', 'heart failure treatment', ' ', 'cardiovascular disease treatment', ' ', 'sinus access system', ' ', 'biventricular pacemaker', ' ', 'infrared steerable catheter', ' ', 'image acquisition console', ' pacemaker catheter']
+Cornovus Pharmaceuticals
+	Developer of methods to treat cardiac hypertrophy and heart failure. The company develops a technology that helps to delay the onset of heart failure after a heart attack or injury.
+	['', 'cardiac attack', ' ', 'cardiac hypertrophy', ' ', 'heart failure', ' ', 'heart injury', '']
+Agamit Medical
+	Developer of devices for patients suffering from mitral regurgitation. The company\'s devices mechanically modify the Mitral valve geometry in order to cause it to function without the regurgitation.
+	['', 'mitral valve', ' ', 'valve regurgitation', ' ', 'valve geometry', '']
+Evalve
+	Developer of devices that repair cardiac valves. The company provides a non-surgical mitral valve repair system consisting of a steerable guide catheter, a clip delivery system, and an implant device that is used by interventional cardiologists to reduce mitral regurgitation.
+	['', 'cardiac valve', ' ', 'cardiac treatment', ' ', 'catheter guide', ' ', 'implant device', ' ', 'heart treatment', '']
+Viacor
+	Developer of catheter-based techniques for the treatment of heart valve disease contributing to congestive heart failure. The company develops percutaneous therapies for cardiac valve repair; and a minimally invasive cardiac valve repair system to treat congestive heart failure patients afflicted with mitral regurgitation or leaky mitral valves.
+	['', 'heart treatment', ' ', 'heart valve disease', ' ', 'heart failure', ' ', 'percutaneous therapy', '']
+3F Therapeutics
+	Developer, manufacturer, and marketer of cardiovascular devices for patients with unmet clinical needs in the United States. The company\'s products include Aortic Bioprosthesis, a biological replacement aortic heart valve to maintain flow characteristics after implant. It\'s products under development includes Invasive and Transapical Aortic heart replacement technology, including Enable Aortic Heart Valve, Entrata Aortic Valve system, and Endurance Valve System to reduce surgical cross-clamp and cardio-pulmonary bypass time, utilization for congestive heart failure in patients with right heart failure symptoms, and to replicate the natural mitral apparatus.
+	['', 'cardiovascular device', ' ', 'aortic heart valve', ' ', 'heart failure', ' ', 'cardio pulmonary bypass', ' ', 'heart implantation', '']
+Tendyne Holdings
+	Developer of medical device for the treatment of mitral regurgitation. The company engages in the development and commercialization of medical devices for transcatheter mitral valve replacement, repair and targeting mitral regurgitation.
+	['catheter ', 'mitral valve', ' regurgitation']
+Ample Medical
+	Manufacturer of endovascular medical devices for repairing heart valves. The company develops medical devices that treat vascular heart diseases and congestive heart failures. Its first product, the PS3 System, targets percutaneous repair of mitral valve regurgitation associated with congestive heart failure (CHF).
+	['', 'healthcare services', '']
+Berlin Heart
+	Developer, producer and marketer of innovative devices for mechanically supporting the heart. The company offers INCOR, the implantable axial pump.
+	['', 'innovative device', ' ', 'implantable axial pump', ' ', 'heart support', ' ', 'heart device', ' ', 'heart surgery', ' heart']
+Endocardial Solutions
+	Developer and manufacturer of diagnostic and therapeutic tools used to treat atrial fibrillation. The company develops products for diagnostic mapping of complex arrhythmias (abnormally rapid heartbeats caused by irregular electrical activity in the heart), the integrated system provides a 3D graphical display of the heart\'s electrical activity.
+	['', 'therapeutic device', ' ', 'diagnostic equipment', ' ', 'atrial fibrillation', ' arrhythmias ', 'heart disease', '']
+Corthera
+	Developer of therapies for illnesses in the acute care setting. The company\'s product Relaxin, which is developed from a naturally occurring polypeptide hormone, is used to treat acute decompensated heart failure.
+	['therapy treatment illness ', 'care setting', '']
+Cardiola
+	Developer of therapeutic systems to treat heart failure. The company offers a treatment system for heart failure treatment in patient settings and hospital based treatment regimens.
+	['', 'treatment system', ' ', 'therapeutic system', ' ', 'heart failure treatment', '']
+CardioPolymers
+	Developer of an implantable device for treating congestive heart failure. The company provides biocompatible polymer implant therapies to handle chronic heart failure, mitral valve regurgitation, and post-operative atrial fibrillation.
+	['', 'biocompatible polymer implant', ' ', 'medical device', ' ', 'heart problem', '']

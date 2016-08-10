@@ -1,36 +1,6 @@
-Carefx
-	Provider of information technology solutions to the healthcare organizations in North America and Europe. The company offers Fusionfx suite of interoperable workflow and analytics solutions that streamlines clinical and business workflow, as well as connects care providers to the information they need; and business intelligence dashboards to support accountability and transparency of operations.
-	['', 'information technology', ' fxCollaboration']
-Chip Xonio Online
-	Provider information technology services. The company specializes in consumer technologies and also operates computer portal Chip Online.
-	['', 'information technology', ' ', 'computer portal', '  ', 'Chip Online', ' telecommunications']
-Proservia
-	Provider of information technology services. The company offers operational maintenance services, architecture and integration services, information system governance services and training services.
-	['', 'operational maintenance', ' architecture prototyping']
-Digia
-	Provider of information and communication technology services. The company is specializing in integrated information and communications technology services, smartphone and mobile research and development and telecom products.
-	['', 'communication technology service', ' ', 'integrated information', ' ', 'mobile research and development', '']
-Active Reasoning
-	Provider of information technology controls automation software for information technology policy enforcement. The company’s solution collects data from the information technology infrastructure and change management system for validation, as well as detects and reconciles authorized changes, and uncovers the unauthorized changes and out-of-compliance activities that put the infrastructure at risk.
-	['', 'automation software', ' ', 'policy enforcement', ' ', 'change management', ' ', 'compliance activity', '']
-NOCpulse
-	Designer of internet infrastruture to provide networking services and technology management solutions to online businesses. The company is building the Internet Operational Support Service, that allows customers to gain control over their Internet infrastructure while retaining the strategic knowledge needed to grow.
-	['', 'internet infrastructure', ' ', 'networking service', ' ', 'technology management', '']
-ScriptLogic
-	Provider of network administration software for Microsoft Windows-based networks. The company offers active directory, application, desktop, incident, server, SQL server, and vulnerability management solutions. It also provides Patch Authority Ultimate, an enterprise-class patch management solution; and Desktop Authority, a desktop lifecycle management solution. In addition, the company offers Security Explorer, a graphical solution for real-time management of access controls and security on workstations across the enterprise.
-	['', 'network administration software', ' ', 'patch management solution', ' ', 'desktop lifecycle management', '']
-SevenSpace
-	Provider of outsourced information technology management services.
-	['', 'technology management service', ' ', 'software tool', ' ', 'infrastructure management', '']
-ePIT
-	Provider of technology for regulated, unregulated and B2B exchanges. The company developed an internet exchange infrastructure for equities, futures, options and cash commodities.
-	['', 'next generation', ' ', 'internet market', ' ', 'information technology', '']
-CenterBeam
-	Provider of information technology services. The company offers mid sized businesses with enterprise class  information technology management, services and support.
-	['', 'infrastructure management', ' ', 'patch management', ' ', 'software distribution', ' ', 'server management', '']
-Network Solutions (Bangalore)
-	Provider of information technology (IT) infrastructure solutions, software and services for enterprise customers. The company offers NOC Inside, an IT Infrastructure management service for managing end to end IT infrastructure and Desktop Manager, a web based application that allows system administrators to auto discover, monitor and report software and hardware inventory.
-	['', 'information technology', ' ', 'infrastructure solution', ' ', 'web based application', '']
-SoHaTec
-	Provider of information technology services to local government entities. The company\'s software platform is tailored to country-specific requirements for its clients, which include Germany and Ukraine.
-	['', 'government information technology', ' ', 'local government', ' ', 'software platform', '']
+E-Sponder
+	Provider of software solutions for managing emergency situations. The company\'s web-based software is designed to help agencies collaborate, share data, send alerts, geograpically track events and adhere to NIMS/ICS guidelines.
+	['', 'alert module', ' ', 'software solutions', ' ', 'microsoft platform', ' ', 'web-based software', '']
+New River Innovation
+	Provider of taxation software solutions. The company uses its post-filing tax technology and engages in development of web-based software solutions.
+	['tax ', 'software solution', ' ', 'taxation software', '']

@@ -1,15 +1,24 @@
-Mervin Fine Wines
-	Importer and distributor of wines in China. The company is an importer of approximately 200 labels, which it sells through established distribution channels.
-	['', 'alcoholic beverages', ' ', 'hard drinks', ' ', 'fine wines', '']
-Santiago and Beverage Trade Lemos
-	Owner and operator of a beer club. The company also publishes a magazine covering articles on the brewery industry. This apart, the company also mails a kit containing a selection of four bottles of beer to its customers. The company also operates as a beer retailer through an online platform.
-	['', 'internet retail', ' ', 'clubs and resorts', ' ', 'beer retailer', '']
-Etablissements Leveau
-	Producer of alcoholic beverages. The company produces Abbey of Alder, a beer.
-	['', 'alcoholic beverage', ' beer ', 'alcohol drink', '']
-Moa Group
-	Producer and distributor of beverages. The company produces beer, wines and cocktails, employing methode traditionnelle brewing techniques.
-	['', 'beer and wine', ' ', 'cocktail drink', ' ', 'boutique brewer', ' ', 'brewing technique', ' ', 'beer market', ' ', 'alcoholic beverage', '']
-Synergy Beverages
-	Manufacturer of cocktail mixers.
-	['', 'cocktail mixer', ' ', 'beverage production', ' ', 'beverage seller', '']
+Questek
+	Manufacturer of excimer lasers. The company develops, manufactures and markets excimer lasers.
+	['', 'excimer lasers', ' lasers ', 'excimer laser technology', '']
+DeMaria ElectroOptics Systems
+	Manufacturer of CO2 lasers, far infrared laser and laser systems. The company designs and manufactures carbon-dioxide lasers used in materials processing, electronics packaging and research applications.
+	['', 'infrared laser', ' ', 'carbon dioxide laser', ' laser ', 'laser systems', ' ', 'remote sensing', ' ', 'ladar application', '']
+XRL
+	Manufacturer of semiconductor memory devices. The company developes dynamic random access memories (DRAMs) and laser based products.
+	['', 'semiconductor memory', ' ', 'memory device', ' ', 'laser based product', '']
+Ekips Technologies
+	Manufacturer of lasers and laser-based systems. The company develops and markets tunable mid-infrared lasers and laser systems made for molecular spectroscopy applications.
+	['', 'mid-infrared laser', ' ', 'diagnostic equipment', ' ', 'molecular spectroscopy', '']
+SPI Lasers
+	Designer and manufacturer of fiber lasers for the industrial, aerospace, analytical, sensing and communications markets. The company offers fiber lasers & laser arrays, high-power optical amplifiers and filters.
+	['', 'fiber Bragg gratings', ' ', 'fiber laser', ' ', 'optical component', ' ', 'laser array', '']
+Laser Power Optics
+	Manufacturer of high-performance lasers and laser optics for industrial, medical and military applications. The company\'s optics products are sold to laser system OEMs and end users as original and replacement components in high power CO2 and other lasers.
+	['laser ', 'optic products', ' OEM ', 'CO2 laser', ' ', 'carbon dioxide lasers', '']
+Bruker
+	Developer of scientific instruments and research systems. The company designs and manufactures life science and field analytical systems for chemical, biological, radiological, nuclear and explosives or CBRNE, detection in various industries and government applications. Its technology platforms include magnetic resonance technologies, mass spectrometry technologies, gas chromatography technologies, X-ray technologies, spark-optical emission spectroscopy, atomic force microscopy, stylus and optical metrology technology and infrared and Raman molecular spectroscopy technologies.
+	['']
+Ometric
+	Provider of spectroscopy technology. The company uses its patented Mutivariate Optical Computing platform to perform spectroscopy at the speed of light, providing real-time, in-line process control and final product testing to a variety of industries, including pharmaceuticals, chemicals, agriculture, food and beverage, pet nutrition, environmental, plastics, oil and gas, and multiple cleantech applications.
+	['', 'manufacturing process', ' ', 'application-specific', ' ', 'manufacturing information', ' spectroscopy']

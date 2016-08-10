@@ -1,6 +1,27 @@
-Salsnes Filter
-	Developer of filters to remove particles from municipal waste and industrial process water. The company\'s technology is used to secure good quality of incoming water, recycling water, or to improve utilization of raw materials in industries such as food-processing, maritime and fish farming.
-	['', 'particles removal', ' filters ', 'municiple waste', '']
-Ecowat
-	Provider and developer of water purification technologies and products. The company applies gas hydrate crystallization as a method to purify industrial waste water. It also provides water recycling services.
-	['', 'water recycling service', ' ', 'water purification', ' ', 'gas hydrate crystallization', '']
+Clinsoft Corporation
+	Provider of clinical research systems. The company\'s technology enabled companies to streamline business processes, while ensuring the highest data quality.
+	['', 'database management', ' ', 'events tracking', ' ', 'clinical application', '']
+Fluxus
+	Designer of internet applications. The company provides website hosting and monitoring including database management, operation, application sharing and security management services.
+	['', 'web hosting', ' ', 'internet application', ' ', 'database management', ' ', 'monitoring services', ' ', 'security services', '']
+intelligent views
+	Provider of database management software. The company provides a software to manage vast heterogeneous databases and joins related pieces of information to discover hitherto unrevealed and unrelated knowledge.
+	['', 'data mining', ' ', 'heterogeneous platform', ' knowledge']
+ObjectRocket
+	Provider of a cloud Database as a Service based on MongoDB database. The company provides open source-based MongoDB system that help users to manage big data.
+	['', 'cloud database', ' ', 'database management system', ' ', 'MongoDB database', '']
+Ansa Software
+	Provider of a database management program. The company is the developer of Paradox, a ground-up relational database software product for personal computers.
+	['', 'database management', ' ', 'information system', ' ', 'data software', '']
+Membase
+	Provider of elastic NoSQL database technologies. The company offers Membase Server, a distributed key-value database for the data management needs of interactive Web applications, which employs a non-relational data model and allows the data tier to scale out the Web application logic tier by adding various commodity servers; and Memcached, a distributed data caching technology that transparently caches data in front of its key-value database.
+	['', 'database technology', ' ', 'database management', ' ', 'database application', '']
+Dabble DB
+	Developer of database applications. The company let users build multiple database applications from a single database or spreadsheet.
+	['', 'database application', ' spreadsheet ', 'database chart', ' ', 'database maps', '']
+Application Security
+	Provider of database security application. The company develops security software for relational databases and big data stores that helps businesses and government agencies uncover critical configuration mistakes, access control issues, missing patches, or any toxic combination of settings that could lead to denial-of-service attacks, unauthorized data modification and data breaches.
+	['', 'database security', ' ', 'compliance solution', ' ', 'vulnerability management', ' ', 'threat management', ' ', 'audit management', ' ', 'database integration', ' ', 'database discovery', '']
+Clustra Systems
+	Developer of database systems. The company provides clustering technology that allows apps to failover and provide high degrees of uptime.
+	['', 'database system', ' ', 'clustering technology', ' failover']

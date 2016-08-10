@@ -1,9 +1,6 @@
-Exopro
-	Operator of a medical device company. The company engages in providing dental implant products and related accessories for the Brazilian dental industry.
-	['intra-oral maxillofacial ', 'dental implant', ' osseointegratio']
-C5 Medical Werks
-	Manufacturer of ceramic components. The company sells it to medical device original equipment manufacturers in the United States and internationally. Its product lines include ceramic-on-ceramic hip replacement implants, ceramic spinal implants, ceramic dental implants, and other custom implant components.
-	['', 'therapeutic devices', ' ', 'knee replacement device', ' ', 'dental implant', '']
-POP Medical Solutions
-	Operator of a medical device company. The company engages in providing a device which is used in pelvic organ prolapse repairing.
-	['', 'pelvic organ', ' ', 'pelvic floor muscles', ' ', 'internal organs', ' urinary']
+Amadesa
+	Provider of website multivariate testing and customer targeting solutions to improve online conversions and engagement. The company’s solutions contain various application modules for A/B and multivariate testing, segment testing, automated personal testing, product recommendations, forms and shopping cart optimization and personalization.
+	['', 'customer targeting solution', ' ', 'segment testing', ' ', 'software-as-a-service', '']
+Maxymiser
+	Provider of multivariate testing and personalization. The company provides online business to turn every interaction into an experience with its cloud-based testing, personalization and cross channel optimization. It combines online testing and automated personalization into a single platform to help marketers to launch campaigns.
+	['', 'B2B Service', ' ', 'testing and personalization', ' ', 'customer experience optimization', '']

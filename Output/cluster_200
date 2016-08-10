@@ -1,24 +1,24 @@
-Point Cloud
-	Provider of interactive 3D imaging for e-commerce companies. The company developed Zap 3D, a software technology which automatically transforms standard video into interactive 3D images that viewers can manipulate and control using low bandwidth.
-	['', '3D imaging', ' bandwidth ', 'standard video', '']
-UpNext
-	Provider of mobile 3D map applications. The company\'s applications enable users to explore and discover cities, as well as glide around their cities virtually.
-	['', '3D map application', ' ', 'mobile 3D map', ' ', '3D navigation', ' ', 'map app', ' ', '3D map', ' ', '3D service', ' ', 'map service', ' mapping']
-Seemage
-	Provider of application management and support services for automotive and aerospace industries. The company develops PowerPoint 3D software that enables consultants to view, explore, measure and annotate 3D CAD models for businesses.
-	['', 'application management', ' ', 'poerpoint 3D', ' ', 'support services', '']
-Okyz
-	Developer of 3D collaboration and publishing tools. The company has developed a secure 3D-based collaboration software which allows organizations to exchange real 3D models instead of emailing, faxing and publishing static 2D images.
-	['', 'publishing tools', ' ', '3D collaboration', ' ', 'collaboration software', ' ', '3D technology', ' ', '3D models', '']
-Bionatics
-	Provider of 3D software services for decision making in territory management. The company operates a software editor which allows 3D modeling and visualization of large urban or rural landscapes. The company\'s products target the 3D needs in planning and land management and military training simulation.
-	['', 'software editor', ' ', 'decision making', ' ', 'military training', ' ', 'territory management', '']
-Peekspy
-	Provider of 3d view technology into sports and concert venues.
-	['', '3dimensional technology', ' ', 'multicolored map', ' ', '3dimensional web environment', '']
-Eyetronics
-	Provider of 3D scanning services and systems. The company offers three-dimensional scanning of the human face, body and objects mainly for applications in the computer games industry, film industry, garment industry and medical applications. The company has spun out from the University of Leuven.
-	['', 'scanning services', ' ', 'scanning systems', ' ', '3D scanning', '']
-earthmine
-	Provider of 3D street level imaging services. The company provides tools for collecting, processing, managing and hosting 3D street level imagery as well as developer tools for creating and distributing applications.
-	['', '3D mapping', ' ', '3D imaging', ' ', '3D mobile mapping', ' ', 'cloud based hosting', '']
+Mesophotonics
+	Developer of photonic crystal technology for optical devices. The company provides technology in the fields of lasers, miniature optics, telecommunications and computing. It offers surface enhanced raman spectroscopy (SERS) for development of trace level molecular analysis applications. The company was spun out of University of Southampton.
+	['photonic crystal ', 'Surface Enhanced Raman Spectroscopy', ' SERS']
+LuxN
+	Developer multi-service, optical access network platforms. The company provides end-to-end optical networking products for metropolitan service providers therby enabling delivery of high bandwidth video, data, storage and voice services.
+	['', 'optical networking', ' ', 'optical access', ' ', 'network platforms', ' ', 'data delivery', '']
+CyOptics
+	Developer of Indium Phosphide (InP) optical chips and components for integration into access, metro and long-haul communications systems. The company\'s products include planar lightwave circuits (PLCs) for optical networks in telecommunications and defense applications.
+	['', 'laser detector', ' ', 'planar lightwave circuit', ' ', 'optical chip', ' ', 'lightwave circuit', ' ', 'optical component', ' ', 'optical product', '']
+ANDevices
+	Provider of photonic devices. The company provides photonic devices for FTTH, ROADM and long-haul communication markets. The company\'s products are based on a planar lightwave circuit platform which is ideal for integration of multiple optical functions on a single chip.
+	['', 'photonic devices', ' FTTH ', 'Planar Lightwave Circuit', ' chip']
+Qtera
+	Developer of photonic transport systems for IP based and long distance carriers. The company\'s systems provide a low cost bandwidth possible by eliminating the need for opto-electronic regeneration in ultra- high-capacity backbones.
+	['', 'photonic transport system', ' ', 'photonic networking', ' ', 'low cost bandwidth', '']
+Micro Managed Photons
+	Developer of integrated photonic circuits for optical networking applications. The company provides a technology which integrates the concept of photonic band gap and surface plasmon polaritons to control flow of light on an optical chip.
+	['', 'photonic circuit', ' ', 'optical networking', ' ', 'plasmon polariton', ' ', 'optical chip', '']
+VIR
+	Developer of a surface plasmon resonance technology. The company’s technology consists of a patented sensor chip and a separated optical transducer with a digital interface.
+	['', 'industrial supply', ' ', 'sensor chip', ' ', 'optical transducer', '']
+Photonyx
+	Manufacturer of optical chip boards. The company develops tunable diffraction grating technology which can be used in optical telecom components and projection displays.
+	['', 'optical chip', ' ', 'tunable diffraction grating technology', ' ', 'optical telecom', ' chip']

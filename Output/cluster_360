@@ -1,9 +1,45 @@
-CyMed
-	Provider of medical transcription and document management services. The company offers workflow management services which enables a department\'s workflow with  hand-helds, bar coding, electronic signature, HIPAA compliant access protocols, audit trails, voice capture systems and transcription software.
-	['', 'medical transcription', ' ', 'workflow management', ' ', 'quality control', '']
-Probity Medical Transcription
-	Provider of clinical documentation services and integrated technologies to healthcare providers. It provides electronic medical transcription and document management services to the health care industry.
-	['', 'clinical documentation', ' ', 'healthcare integrated technology', ' ', 'electronic medical transcription', ' ', 'document management', '']
-Heartland Information Services
-	Provider of medical transcription services to hospitals and health care systems. The company offers full-service transcription and technical capacity to work with any healthcare information system.
-	['', 'medical transcription', ' ', 'health care', ' ', 'information system', '']
+Optimax Systems
+	Provider of optical materials to make aspheres, cylinders, spheres. The company manufactures prototype optical components for aerospace, display technologies and solar applications.
+	['cylinderical optics axicon wedges']
+NewPort Communications
+	Developer of high-performance optical communications chips. The Company\'s devices are based on a proprietary design technology called Current-Controlled CMOS (C3MOS(TM)).
+	['', 'optical communication', ' ', 'communication chip', ' ', 'proprietary design technology', '']
+Internet Photonics
+	Provider of optical Ethernet transport and switching products for telecom service providers. The company is a supplier of carrier-grade optical Ethernet products.
+	['', 'switching product', ' ', 'network product', ' ', 'optical Ethernet transport', ' ', 'networking device', '']
+Crosslayer Networks
+	Developer of communication network products and components. The company develops scalable silicon that brings quality service capabilities to next generation switches and routers. The company\'s combined packet-processor and switch fabric architecture accommodates emerging technologies as 10-gigabit Ethernet and MPLS which allows system vendors to create products at low power and price.
+	['', 'communication network products', ' silicon ', 'switches and routers', ' ', 'switch fabric architechture', ' packet-processor']
+Koyj Company
+	Manufacturer and seller of composite optical materials in South Korea. The company offers optical components, chemical applications, optical films, thermal extrusion processing, and polymer material developments.
+	['']
+RuggedCom
+	Manufacturer of rugged communications networking products. The company provides rugged communications networking services designed for mission-critical applications in harsh environments such as those found in electrical power substations and "Smart Grids", intelligent transportation systems, industrial process control and military applications.
+	['', 'rugged communication network', ' ', 'ethernet switch', ' ', 'network router', ' ', 'wireless device', '']
+Xtellus
+	Developer of  passive optical components using liquid crystal technology. The company combines manufacturing liquid crystal and fiberoptic technologies to create components and modules for reconfigurable optical networks.
+	['', 'optical component', ' ', 'fiberoptic technology', ' ', 'liquid crystal technology', ' wavelength']
+FlexLight Networks
+	Developer of a suite of optical access products. The company offers products with applications for the gigabit passive optical networking (GPON) market.
+	['', 'optical access', ' ', 'video services', ' ethernet']
+Chorum Technologies
+	Developer of optical technology. The company evaluates and develops optical applications for various industries. Through its subsidiary, the company also is a provider of specialized liquid crystal displays and glass for multiple markets.
+	['', 'optical switching', ' ', 'communication equipments', ' ', 'fiberoptic products', '']
+Infinera
+	Provider of optical networking computer chips. The company’s DTN System is carrier-class, which means that it complies with applicable Telcordia and equivalent major international standards for central office-based network elements. Its DTN System supports a broad range of optical service interfaces, including Ethernet (Gigabit Ethernet and 10 GbE) and separate synchronous optical network/synchronous digital hierarchy. Infinera Line System 2 Infinera DTN Systems are built upon and connected to one another using an optical line system.
+	['', 'computer chip', ' optics interface ', 'line system', '']
+Applied Optoelectronics
+	Developer and manufacturer of analog and digital lasers for fiberoptic networking. The company designs, develops and manufactures optical semiconductor devices, packaged optical components, optical subsystems, laser transmitters and fiberoptic transceivers.
+	['', 'fiberoptic network', ' ', 'optical semiconductor', ' transceiver']
+MMC Networks
+	Manufacturer of network processors and switch fabrics. The company’s products include EPIF, XPIF, and GPIF Packet Processors; nPX5400 Gigabit Ethernet switching engine; ATMS 2000 ATM switching engine; and PS 1000 Fast Ethernet switching engine.
+	['', 'network processor', ' ', 'packet processor', ' ', 'switching engine', ' ', 'manufacturing company', '']
+Allayer Communications
+	Developer of optical networking communications chips. The company manufactures silicon solutions for the global network and designs flexible and scalable ICs for optical and ethernet switching applications.
+	['', 'optical components', ' ', 'ethernet switch', '']
+Atrica
+	Manufacturer of optical component technology with the Ethernet networking protocol to bring computer network capabilities to metropolitan area telecommunications networks. The company also provides Ethernet Internet access, Ethernet transparent LAN, T1 private line, Ethernet private line, and Ethernet private network services.
+	['technology communication Ethernet networking telecommunication ', 'ethernet equipment', ' ', 'telecommunication service', ' ', 'communication system', '']
+Caliopa
+	Developer of optical transceivers for the data and telecommunication markets. The company is a spin-off of the Photonics Research Group of Ghent University and imec.
+	['', 'optical transceivers', ' ', 'silicon photonics', ' ', 'telecommunication markets', ' ', 'connectivity products', '']

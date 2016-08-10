@@ -1,9 +1,9 @@
-Enzymotec
-	Developer and manufacturer of nutritional ingredients and medical foods. The company develops clinically validated products including bio-functional, lipid-based compounds addressing supplementation for nutritional deficiencies and the management of medical disorders and diseases.
-	['', 'nutritional ingredients', ' ', 'medical foods', ' ', 'lipid compounds', ' ', 'optimal development', ' disorder']
-Lipid Technologies Provider
-	Developer of lipid carriers. The company develops, produces and commercializes lipid-based ingredients and formulations for functional food products and skin care.
-	['lipids ', 'lipid formulations', ' ', 'lipid ingredients', '']
-Omthera Pharmaceuticals
-	Developer of therapies for the treatment of lipid disorders. The company is developing therapies focused on dyslipidemia, a lipid disorder resulting in elevated triglycerides and increased risk of cardiovascular disease.
-	['triglyceride ', 'pharmaceutical therapy', ' ', 'lipid disorder', ' ', 'cardiovascular risk', ' ', 'heart disease', '']
+GOVECS
+	Manufacturer of electric vehicles for transportation. The company is dedicated to the development, production and marketing of electric vehicles including zero-emission scooter models.
+	['', 'electric vehicle', ' ', 'electric scooter', ' scooter ', 'zero-emission vehicle', '']
+Sealegs
+	Manufacturer of amphibious marine craft. The company designs, manufactures and sells amphibious marine vehicles for recreational as well as professional use, including models built on military specifications.
+	['amphibious marine ', 'recreational boating', ' ', 'rescue missions', '']
+Vectrix Corporation
+	Developer and seller of two-wheeled electric vehicles (EVs). The company designs and sells zero-emission scooters with applications for riders in urban, campus and neighborhood environments. The company sells its products in the European and U.S. markets.
+	['', ' electric vehicles', ' scooter EV']

@@ -1,18 +1,36 @@
-Reverb Technologies
-	Operator of an online dictionary website. The company operates a dictionary which offers information on words, as well as allows users to place their opinions about words.
-	['', 'online dictionary', ' ', 'social content', ' ', 'dictionary website', '']
-YellowDog Media
-	Provider of an online shopping website. The company offers an online marketplace which uses social networks to connect buyers and sellers.
-	['', 'online shopping website', ' ', 'social buying', ' ', 'online retail', ' ', 'seller buyer network', '']
-Junglee.com
-	Provider of shopping information over the internet. The company creates giant databases of highly targeted content that instantly link buyers and sellers, thus creating giant new online markets.
-	['', 'online shopping', ' ', 'E Commerce', ' ', 'B 2 C', '']
-Oferton Liveshopping
-	Operator of live shopping website. The company offers sale in various product categories like electronics, leisure and fashion at slashed prices on a particular day. It is an alternative to the traditional online shops and the private sales sites where the customer can benefit from highly discounted products for a period of 24 hours or until stock is depleted.
-	['', 'live shopping', ' ', 'discounted price', ' ', 'shopping website', '']
-BuyPlayWin
-	Provider of an online tournament marketplace. The company combines online shopping with tournament games.
-	['', 'online marketplace', ' ', 'tournament marketplace', ' ', 'online shopping', '']
-nMotion Technologies
-	Provider of an online marketing service. The company provides a marketplace for individual digital out-of-home networks to sell ad space on their screen networks and connect with interested advertisers.
-	['', 'IT Services', '']
+Elastix
+	Provider of technology that lowers the power used by digital integrated circuits. The company offers elastic clocks that helps in reducing on-chip power consumption.
+	['', 'elastic clocks', ' ', 'elastic voltage scaling', ' on-chip ', 'power consumption', '']
+WaferScale Integration
+	Manufacturer of field-programmable peripheral integrated circuits. The company produces non-volatile PROM and EPROM memory products for electronic systems in telecommunications, data processing, military, automotive, and industrial markets for a variety of applications such as disk drive controllers, modems, engine management computers, engineering workstations, and video graphics.
+	['', 'integrated circuits', ' ', 'memory products', ' PROM EPROM ', 'data processing', ' modems']
+System General
+	Manufacturer of semiconductors and analog and digital circuits. The company also designs ICs used in AC/DC power IC products.
+	['', 'integrated circuits', ' ', 'power circuits', ' ', 'digital circuits', ' ', 'semiconductors and resistors', '']
+Intel Corporation
+	Developer and manufacturer of microprocessors and other semiconductor components. The company develops integrated digital technology products, mainly integrated circuits, for industries such as computing and communications.
+	['', 'integrated digital technology', ' ', 'semiconductor component', ' ', 'technology platform', '']
+Seattle Silicon
+	Supplier of application specific integrated circuits, semiconductor and ASIC design software. The company offers large system houses and process-independent compiler systems.
+	['', 'integrated circuits', ' ASIC software']
+Tharas Systems
+	Developer of verification appliances. The company\'s appliances are used for shortening the verification cycle of integrated circuits and electronic systems.
+	['', 'verification applications', ' ', 'integrated circuits', ' ', 'electronic systems', '']
+Cubic Wafer
+	Developer of integrated circuits. The company offers hybrid integrated circuits and multi-functional 3D integrated circuits. The company also designs and manufactures its own optical connection products for data links and optical communication applications.
+	['', 'integrated circuits', ' ', 'hybrid integrated circuits', ' ', '3D integrated circuits', ' ', 'optical communication', '']
+Quickturn Design Systems
+	Provider of system level verification solutions for the design of integrated circuits and electronic systems. The company\'s products are used by developers of high-performance computing, multimedia, graphics and communication systems.
+	['', 'computing systems', ' ', 'communication systems', ' ', 'electronic systems', '']
+Integrated Circuit Solution
+	Designer and manufacturer of complementary metal-oxide-semiconductor integrated circuits. The company provides performance integrated circuits including memory products and logic products.
+	['', 'compact flash memory', ' ', 'application IC', ' ', 'commercial product', '']
+Capella Microsystems
+	Designer of integrated circuits primarily optical electronic products. The company manufactures integrated circuits which are used in telecommunications, mobile phones, smartphones, handheld devices, digital cameras, laptops, desktop computers, LED backlighting, office automation equipment, household electrical appliance and automotive electronics.
+	['', 'optical electronic products', ' ', 'integrated circuits', ' ', 'IC designer', '']
+Xemics
+	Provider of integrated circuits for short range wireless connectivity. The company offers semiconductor for process control, personal area networks, home and building automation networks and other automotive systems. The company was spun out of Swiss Center for Electronics and Microtechnology.
+	['', 'integrated circuits', ' radiofrequency ', 'digital IC', '']
+PhaseLink
+	Manufacturer of technology for timing source and signal conditioning timing source integrated circuits. The company also markets analog frequency multipliers, triangular modulation SST, bi-directional I/O, programmable clock chip, programmable clocks and a range of IC product lines in the industry.
+	['', 'integrated circuit', ' IC Multipliers Modulator']

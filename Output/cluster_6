@@ -1,27 +1,63 @@
-Quality Care Solutions
-	Developer of platform software products for the healthcare industry. The company provides healthcare claims administration platforms and consumer-directed health and claims platforms with integrated medical management functions for healthcare payers.
-	['', 'healthcare claim', ' ', 'medical bill', ' ', 'healthcare organization', '']
-Alteer Corporation
-	Provider of healthcare technology and services. The company provides services on healthcare technology, focused on integrated practice management and electronic medical records that includes research and development, data center, IT, finance, human resources, legal and administration.
-	['', 'electronic medical records', ' ', 'healthcare technology', '']
-GTESS
-	Provider of healthcare claims processing service. The company\'s custom solutions edit and clean claims by automating specific, time and cost-intensive processes.
-	['automation ', 'healthcare claims', '']
-PassportMD
-	Provider of consumer-directed healthcare and personal health records (PHR) industry. The company helps individuals keep track of all facets of their family’s health and wellness including personal health records and documentation, doctor communication, pharmacy and expenses.
-	['', 'health industry', ' ', 'healthcare record', ' ', 'doctor communication', ' ', 'health record', '']
-Beijing Neusoft Viewhigh Technology
-	Provider of software products and services for healthcare industry. The company develops applications in healthcare business management including business planning and control for healthcare organizations, hospital operation and management, government supervision and financial management.
-	['']
-CyberPlus
-	Provider of controlled medical terminology applications to the healthcare providers. The company provides its users an internet based knowledge management tool to improve the healthcare operations for providers, pharmaceutical concerns and internet healthcare content providers.
-	['', 'medical terminology', ' ', 'healthcare industry', ' ', 'internet healthcare', '']
-IPC Medical
-	Provider of healthcare products and healthcare services. The company provides alternate site health care space for homecare and clinics outside the hospital environment.
-	['', 'healthcare product', ' ', 'healthcare service', ' ', 'health care space', '']
-ikaSystems
-	Provider of cloud-based software for business automation and process services for the healthcare market. The company provides an enterprise-level platform to support healthcare payers\' commercial and Medicare requirements through the automation of sales, marketing, regulatory compliance, claims administration and customer service procedures.
-	['', 'healthcare payer', ' ', 'claims administration', ' ', 'process automation', '']
-Agility Healthcare Solutions
-	Provider of an automated workflow and resource management solutions to the healthcare industry.
-	['', 'resource management', ' ', 'management software', ' ', 'healthcare industry', '']
+Ignition Mobile
+	Promoter of mobile applications. The company provides a platform offering exclusive deals for free applications. Users can download a button to reserve offers for apps, and have 24 hours to act on the deal. The platform is a promotion channel for app developers.
+	['', 'paid application', ' ', 'developer interest', ' royalty']
+PowerInbox
+	Developer of e-mail application platform. The company enables users to run applications from inside their e-mail messages. Its open app platform enables developers to create apps that run on e-mail using HTML5.
+	['', 'email application', ' ', 'create application', ' ', 'open platform', ' ', 'application platform', '']
+WebPutty
+	Developer of e-business, internet and mobile application products. The company offers a platform for the composition and dynamic execution of server-based web applications that enables businesses to change and extend their business systems in a secure and controlled way.
+	['', 'server software', ' ', 'server-based applications', ' ', 'mobile application software', '']
+AppFog
+	Provider of a web based application platform. The company provides a platform as a service that allows to deploy, manage and scale applications written in all languages, with all frameworks, across public, private and hybrid clouds.
+	['', 'web application deployment', ' ', 'application scaling', ' ', 'workload portability', '']
+rPath
+	Developer of a technology for virtualizing software applications, and managing the lifecycle of virtual appliances and application images. The company\'s products include rBuilder,\nrPath Lifecycle Management Platform. It also offers rBuilder Online and the Cloud Catalog for EC2 and rPath X6.
+	['', 'virtualizing software application', ' ', 'virtual appliance', ' ', 'application image', ' ', 'Lifecycle Management', ' ', 'Cloud Catalog', '']
+RingCentral
+	Provider of cloud-based communication technology. The company develops communications systems focused on distributed and mobile workforces, by providing business-class voice, fax and text with one phone system, which can be integrated with other cloud technologies, such as Salesforce, Dropbox and Google.
+	['', 'virtual phone', ' ', 'cloud computing', ' ', 'application integration', ' ', 'internet fax', '']
+Cypher Genomics
+	Provider of cloud-based genomic analytic services. The company develops a proprietary ranking algorithm that is more effective at disease variant identification compared to other methodologies.
+	['', 'genomic analysis', ' ', 'proprietary ranking algorithm', ' genomics']
+New Moon Systems
+	Provider of non-internet mobile software services. The company\'s services enables enterprises and service providers to centrally deliver and manage their software assets across hundreds and thousands of user desktops. The company\'s iQ application management platform is used to intelligently deploy and manage Windows applications across private and public networks.
+	['windows ', 'software platform', ' ', 'IQ application', '']
+Auxo
+	Provider of cloud based software for various business support functions. The company offers white-label cloud service that can be used by its users to outsource and market their business.
+	['', 'cloud solution', ' ', 'data storage', ' ', 'IT operation', ' ', 'business support function', '']
+FeedHenry
+	Provider of a cloud-based mobile application platform. The company’s software enables application developers to build, deploy and manage mobile applications. The software can be deployed to different cloud and platform as a service environments.
+	['', 'application developer', ' ', 'cloud based service', ' ', 'cloud-based application', '']
+LayerVault
+	Developer of a cloud based application that manages revisions, store files and help designers to collaborate around designs. The company\'s application allow designers to store, back up and track designs as they go through revisions and allows them to deliver their work to collaborators and clients.
+	['', 'design tracking', ' ', 'file storage', ' ', 'cloud data', ' ', 'visual search function', ' ', 'design collaboration', '']
+Trestle
+	Provider of a set of cloud based mobile application that allows mobile applications to store and manipulate data. The company provides chain server as well as the custom node JS service for creating custom mobile application.
+	['', 'custom mobile application', ' ', 'chain server', ' ', 'custom node', '']
+Openera
+	Provider of mobile application services. The company provides an application that help users to find any file or attachment in two taps and automatically saves email attachments to cloud services like Dropbox, Google Drive, Box and Salesforce.
+	['', 'mobile application service', ' ', 'email attachment', ' ', 'cloud service', '']
+Via Response Technologies
+	Provider of cloud-based classroom tools. The company\'s platform leverages mobile smart devices, tablets and enables student-teacher interaction through the cloud.
+	['', 'teaching software', ' ', 'cloud software', ' ', 'interaction platform', '']
+Nixter
+	Operator of an online cloud based platform for nightclubs and promoters. The company\'s platform lets party seekers find upcoming nightlife events in their city, buy tickets, see the guest list or get VIP accommodations.
+	['', 'cloud application', ' ', 'nightlife application', ' ', 'party chart', '']
+Infochimps
+	Provider of data indexing platform. The company develops a cloud based software used for implementing data infrastructure.
+	['', 'data indexing', ' ', 'cloud based software', ' ', 'data infrastructure', '']
+Scringo
+	Developer of applications for mobile application developers and their users. The company offers set of features and tools to help mobile application developers to manage and customize their applications, connect with their users and listen to their feedback.
+	['', 'software developer kit', ' swipe ', 'discovery tool', ' ', 'user retention', '']
+Librato
+	Provider of a cloud-based monitoring platform for development and operations teams. The company\'s platform monitors the metrics and events important to their application deployments, while leaving metrics storage, analysis, annotation and alerts as an easy-to-deploy service that can scale with their operation.
+	['', 'monitoring software', ' ', 'resource management', ' ', 'infrastructure software', '']
+ShieldArc
+	Developer of a security platform that monitors cloud applications. The company\'s platform enables enterprises to protect their cloud asset without impacting end-user experience in without involving IT operations. The platform also provides tools for real-time monitoring and remediation.
+	['', 'security platform', ' ', 'cloud application', ' ', 'public platform', '']
+Matchbox
+	Developer of custom-built enterprise iPad application that streamlines the university admissions process. The company develops a cloud based application that simplifies the admissions review process.
+	['', 'admission process application', ' ', 'admission review process', ' ', 'admission process streamlining', ' ', 'Educational Software', '']
+DevZuz
+	Developer of delivery platforms that link enterprise businesses to application developers.
+	['', 'delivery platform', ' ', 'enterprise business', ' ', 'application developer', '']

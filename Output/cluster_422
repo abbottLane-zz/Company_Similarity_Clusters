@@ -1,27 +1,93 @@
-Questek
-	Manufacturer of excimer lasers. The company develops, manufactures and markets excimer lasers.
-	['', 'excimer lasers', ' lasers ', 'excimer laser technology', '']
-DeMaria ElectroOptics Systems
-	Manufacturer of CO2 lasers, far infrared laser and laser systems. The company designs and manufactures carbon-dioxide lasers used in materials processing, electronics packaging and research applications.
-	['', 'infrared laser', ' ', 'carbon dioxide laser', ' laser ', 'laser systems', ' ', 'remote sensing', ' ', 'ladar application', '']
-Photop Technologies
-	Manufacturer of crystal materials, optics, microchip lasers and optoelectronic modules.
-	['', 'crystal material', ' ', 'optics instrument', ' ', 'optoelectronic module', ' photonics']
-Ekips Technologies
-	Manufacturer of lasers and laser-based systems. The company develops and markets tunable mid-infrared lasers and laser systems made for molecular spectroscopy applications.
-	['', 'mid-infrared laser', ' ', 'diagnostic equipment', ' ', 'molecular spectroscopy', '']
-SPI Lasers
-	Designer and manufacturer of fiber lasers for the industrial, aerospace, analytical, sensing and communications markets. The company offers fiber lasers & laser arrays, high-power optical amplifiers and filters.
-	['', 'fiber Bragg gratings', ' ', 'fiber laser', ' ', 'optical component', ' ', 'laser array', '']
-Laser Power Optics
-	Manufacturer of high-performance lasers and laser optics for industrial, medical and military applications. The company\'s optics products are sold to laser system OEMs and end users as original and replacement components in high power CO2 and other lasers.
-	['laser ', 'optic products', ' OEM ', 'CO2 laser', ' ', 'carbon dioxide lasers', '']
-Oxford NanoScience
-	Manufacturer of 3-dimensional atom probes. The company\'s laser atom probe offers high resolution sample data acquisition together with comprehensive data analysis for a range of low and high resistivity materials.The atom probe is a point projection microscope capable of resolving the chemical identity and position of individual atoms in 3D with atomic resolution in the z direction and sub-nanometer lateral resolution.
-	['', '3-dimensional atom probe', ' ', 'laser atom probe', ' ', 'point projection microscope', ' ', '3D Atom Probe analysis system', '']
-Intense
-	Provider of single and multimode monolithic laser array products and high power laser diodes. The company  provides foundry services, including front-end wafer processing, back-end assembly line, engineering support and product development support services and laser diode, optics, electronics and package design services.
-	['', 'laser diodes', ' ', 'electrical equipments', ' ', 'laser equipments', '']
-Lumics
-	Manufacturer of semiconductor diode laser for medical and industrial applications. The company manufactures semiconductors and diode lasers from 750 nm to 1960 nm in industry standard packages such as 14-pin butterfly, 8-pin miniDIL and 2-pin TO220 as well as a series of compact fiber coupled laser modules with output powers up to 900 W.
-	['', 'diode laser', ' ', 'laser module', ' ', 'fiber coupled diode', ' ', 'industrial application', ' ', 'chip technology', '']
+Wunderloop
+	Provider of an integrated targeting services to target specific demographics online. The company offers wunderloop custom solution, a multi tasking and online marketing application; and wunderloop connect, an open marketplace for targeted online advertising that unites advertisement displays and open advertising inventory. It offers its solutions for advertisers, corporate sites, agencies, publishers, and online shops.
+	['', 'demographics online', ' ', 'custom solution', ' ', 'online marketing', ' ', 'online advertising', ' ', 'online shop', ' ', 'open marketplace', '']
+AppRedeem
+	Provider of a promotion and advertising platform for mobile applications discovery, branding and monetization. The company offers rewards and incentives both for installing and taking action on promoted applications.
+	['', 'branding and monetization', ' ', 'rewards and incentives', ' ', 'gift cards', '']
+Fivia
+	Provider of automated inventory, order and billing management software designed originally for online advertising. The company’s software product manages the workflow of major sell-side advertising publishers to maximize the value of their digital advertising inventory.
+	['', 'automated inventory', ' ', 'billing management software', ' ', 'online advertising', '']
+Beijing MobileWoo Information Technology
+	Provider of PIM related services to mobile users. The company offers iSMS, iDialer, FreeMMSViewer, iDecompress and FreeLunarClt.
+	['PIM ', 'mobile users', ' FreeMMSViewer']
+Right Media
+	Provider of digital advertising exchange for online advertising. The company provides an auction-based platform for advertisers, publishers, ad networks and technology providers to trade digital media. It also provides customer support, instructor-led training and e-learning and documentation services.
+	['', 'online advertising', ' ', 'digital media trading', ' ', 'advertising exchange platform', '']
+Dispop
+	Developer of an online advertising-design platform. The company operates a crowdsourced platform that enables advertisers to run advertising-design contests, relying on a crowdsourced network to choose the best designs for their campaigns.
+	['', 'crowd source', ' ', 'advertisement source', ' ', 'advertising design', ' ', 'banner advertising', '']
+Authenticlick
+	Operator of a web analytics company. The company specializes in web traffic intelligence services for online advertising optimization. It provides pay-per-click advertising audit and fraud detection technology and offers various services like identifying, verifying, documenting, scoring low quality click activity and helping to secure equitable refunds and credits.
+	['', 'campaign services', ' ', 'web analytic', ' ', 'ROI optimization', '']
+Shopa
+	Developer of a social advertising platform. The company provides a social marketplace for its users to provide personalized shopping feeds towards targeted social offers.
+	['', 'social advertising platform', ' ', 'social marketplace', ' ', 'online advertising platform', '']
+Shopcastr
+	Provider of an online and mobile platform for independent local retailers and shoppers. The company provides a web based platform where fashion and lifestyle retailers create online stores to feature their products.
+	['', 'consumer service', ' ', 'mobile platform', ' ', 'local retailers', '']
+Boo-box
+	Provider of social media advertising services. The company provides various advertising services and allows the bloggers to monetize their blogs to earn money.
+	['', 'media service', ' ', 'advertising system', ' ', 'business servcies', '']
+ShopLocal
+	Provider of multi-channel shopping and advertising services. The company offers a suite of solutions that connect advertisers and consumers online and in-store. Its solutions include an interactive and rich media banner ad that automatically delivers the clients locally versioned offers across the Web; a localization engine that distributes versioned local promotions and deals across various mediums; and an online circular advertising service that converts locally versioned ads into an online circular that shopper can view on their site.
+	['', 'multi-channel shopping', ' ', 'advertising service', ' ', 'online in-store', ' ', 'rich media banner', ' ', 'localization engine', ' ', 'online circular advertising', '']
+AdScale
+	Provider of a marketplace for online advertising in Germany. The company offers traditional display advertising and special forms of advertising via video advertising and text ads to advertisers and website owners. The company also offers publishers and marketers a tool for controlling inventory use.
+	['', 'online advertising', ' ', 'online marketplace', ' ', 'video advertising', '']
+Namo Media
+	Provider of a mobile advertising platform. The company offers online advertising services for mobile applications.
+	['', 'mobile platform', ' ', 'application system', ' ', 'advertising service', '']
+Blue Noodle
+	Provider of advertising services for the online casual gaming industry. The company, through its NeoARM technology suite and NeoAds advertising network, provides advertising supported video gaming.
+	['', 'advertising service', ' ', 'game advertising', ' ', 'game portal', '']
+JS Campus Connect
+	Provider of a web based platform for college students. The company enables students to buy, sell and trade new and used textbooks and use online advertising for campus club events. It also enables student members to post their resume and search for jobs through open employment opportunities.
+	['', 'online advertising', ' ', 'web based platform', ' ', 'building communities', '']
+NebuAd
+	Provider of online advertising solutions. The company’s behavioral advertising solutions help advertisers, publishers, and service providers.
+	['', 'online media', ' ', 'advertising solution', ' ', 'behavioral advertising', ' ', 'behavioral targeting', '']
+Intertisement
+	Provider of advertising services to businesses and individuals. The company engages in the research and development of 3D augmented reality services and markets the same to the customers to be used as a visual advertisement platform.
+	['', '3D augmented reality services', ' ', 'media services', ' ', 'advertising services', '']
+Pharmacy TV Networks
+	Provider of advertising platform for pharmaceutical companies. The company provides online media and advertising platform for medical and pharmaceutical companies.
+	['', 'online media', ' ', 'online advertising', '']
+MobileDevHQ
+	Provider of a search engine and discovery platform for mobile applications and developers. The company offers a directory of mobile application developers, including their current portfolio of published applications and the category(ies) of projects they specialize in.
+	['', 'discovery platform', ' ', 'application store optimization', ' ', 'competitive intelligence', '']
+Medialets
+	Developer of media advertising and an analytics platform for mobile applications. The company\'s platform enables mobile application developers to measure their audience and monetize their applications through advertising.
+	['', 'media advertising', ' ', 'analytic platform', ' ', 'user activity', ' ', 'advertisement performance', ' ', 'advertising monetization', '']
+Rare Crowds
+	Provider of an advertising platform. The company provides an online platform to manage advertisement campaigns for organizations.
+	['', 'open source advertising', ' ', 'advertising platform', ' ', 'advertisement campaigns', '']
+QuickCliqs
+	Provider of a mobile platform that enables the users to connect with friends without having to go online. The company has developed a mobile platform from which users can invite their contacts to form groups for specific events, from there, they can ask questions, vote on answers and plan the event as a group, all while daily deals from Groupon and the like are pumped in as the event evolves.
+	['', 'mobile platform', ' ', 'planning event', ' ', 'offline social media', '']
+Zave Networks
+	Operator of an incentive platform that links online and mobile incentive placement with in-store redemption. The company offers Zavers, an incentive network that replaces paper coupons and instead digitally links consumers, manufacturers, and retailers. Its solution gives product marketers a data environment around their incentives and online advertising.
+	['', 'incentive platform', ' ', 'incentive network', ' ', 'mobile incentive placement', '']
+IdeaCast
+	Provider of custom video content and advertising services. The company provides digital out-of-home television advertising services.
+	['', 'video content', ' ', 'out-of-home', ' ', 'cable provider', '']
+Flashbase
+	Operator of an online advertising and marketing firm. The Company focused on empowering consumers and small business users by providing them with a hosted enterprise-level database application over the internet and marketing tools allow marketers to launch targeted, permission-based email campaigns and track the results.
+	['', 'online advertising', ' ', 'database application', '']
+InstantQ
+	Provider of an advertising platform for restaurants. The company allows restaurants to promote their services online.
+	['', 'advertising platform', ' ', 'restaurant promotions', ' ', 'online services', '']
+Enthuse
+	Provider of mobile focused platform for sports franchises. The company offers an online platform that gives fans the ability to connect with their sports teams via their mobile devices.
+	['', 'mobile device', ' ', 'sport platform', ' ', 'online connection', '']
+Maxifier
+	Provider of a software platform for online advertising. The company provides a marketing platform that generates revenues from advertising campaigns.
+	['', 'internet software', ' ', 'advertising inventory', ' ', 'premium inventory', '']
+Bling Nation
+	Provider of a mobile platform that connected businesses and customers through social rewards.
+	['', 'e-payment', '']
+Kontera
+	Provider of an in text advertising and information. The company provides ContentLink, an in text advertising service that identifies contextually relevant keywords on a publishers web page, as well as matches them to relevant advertisements and information. It offers intext pay per click and web site advertising service.
+	['', 'text advertising software', ' ', 'text engine', ' semantic']
+Inaura
+	Provider of mobile computing platform. The company\'s platform helps in simplifying the delivery of applications and services to end-users across the distributed enterprise and also enables an enterprise to deploy web services and provide safe and secure mobility of enterprise resources to the end users.
+	['', 'mobile computing platform', ' ', 'application delivery', ' ', 'distributed enterprise', '']

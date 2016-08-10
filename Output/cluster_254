@@ -1,9 +1,27 @@
-Intellifit
-	Developer of consumer measurement technologies for apparel industry.
-	['', 'consumer measurement', ' apparel']
-El Secreto del Mar
-	Manufacturer of youth sportswear. The company is a manufacturer of sporting apparel and accessories under the brand name El Nino.
-	['', 'sport apparel', ' ', 'apparel and accessory', ' ', 'apparel manufacturing', '']
-Quincy Apparel
-	Designer of woman apparel. The company combines bespoke and ready-to-wear by rethinking traditional clothing sizes allowing women to shop by bust, body shape and height.
-	['', 'professional apparel', ' ', 'online clothing', ' ', 'online apparel', ' ', "women\\'s apparel", ' ', 'professional wear', '']
+BioLucent
+	Operator of women\'s health company, involved in the early detection and treatment of breast cancer. The company manufactures and markets the MammoPad breast cushion, a radiolucent foam cushion that breast centers use to provide women with a mammogram.
+	['', 'breast cancer', ' ', 'MammoPad breast cushion', ' ', 'radiolucent cushion', '']
+Rasiris
+	Developer of photodynamic therapy (PDT) and the treatments of breast cancer and age-related macular degeneration. The company received financial support from Pacific Horizon Ventures to validate the proof of concept in an animal model.
+	['', 'macular degeneration', ' ', 'breast cancer', ' ', 'photodynamic therapy', '']
+RGene Therapeutics
+	Developer of gene therapy and other nucleic acid-based drugs. The company intends to develop and commercialize gene therapies for in-vivo approaches to ovarian and breast cancer, an ex-vivo anti-sense treatment for chronic myelogenous leukemia and other applications of its gene and nucleic acid delivery systems.
+	['', 'gene therapy', ' ', 'nucleic acid', ' ', 'breast cancer', ' ', 'chronic myelogenous leukemia', '']
+Orthotopix
+	Developer of modelling products for cancer research. The company is a provider of cell, tissue and animal models modelling the prevention and treatment of breast cancer and prostate cancer, urodynamical models of urethral function and a cell line-based safety model of the endometrium. The company provided its products and services to drug-development companies.
+	['', 'drug development', ' ', 'healthcare service', ' ', 'tissue modeling', '']
+Endocyte
+	Developer of receptor-targeted therapeutics for the treatment of cancer and autoimmune diseases. The company provides EC17, a folate-targeted hapten therapy drug to treat metastatic renal and ovarian cancer; EC145, a folate-targeted chemotherapeutic conjugate to treat various tumors, including cancers of the breast, lung, and blood; EC0225, a targeted chemotherapy drug.
+	['', 'cancer treatment', ' ', 'autoimmune disease', ' ', 'ovarian cancer', ' ', 'breast cancer', '']
+Seragon Pharmaceuticals
+	Developer of orally active selective estrogen receptor degraders (SERDs) that represent a treatment for metastatic breast cancer. The company is developing breast cancer pharmaceuticals based on the selective estrogen receptor degraders platform, including its lead drug candidate, ARN-810, under evaluation for ER+ breast cancer.
+	['', 'breast cancer', ' ', 'estrogen receptor degrader', ' metastatic']
+Encapsule Medical
+	Operator of a medical device company. The company focuses on the development of disposable, non-invasive, breast biopsy devices. Its products include Flash, Halo and Phantom.
+	['', 'breast cancer', ' biopsy ', 'breast biopsy', '']
+Suomen Terveystutkimus
+	Provider of breast-cancer screening products and services. The company develops products and performs mammography screenings along with other clinical tests, to detect and treat breast cancer.
+	['', 'breast cancer', ' ', 'mammography screening', ' ', 'cancer treatment', '']
+Windy Hill Medical
+	Developer of medical devices to reduce the risk of developing breast cancer in high risk patients. The company intends to develop intraductal therapy for the prevention of breast cancer.
+	['', 'breast cancer', '']

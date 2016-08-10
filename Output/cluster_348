@@ -1,12 +1,9 @@
-Dogpatch Labs
-	Provider of work space and consultancy services for startups. The company provides desk space, bandwidth and lunch services to aspiring entrepreneurs for their startups.
-	['', 'work space', ' ', 'desk space', ' ', 'lunch services', ' entrepreneurs']
-Yana Group
-	Provider of office space rental services. The company also invests in Israeli start-ups and provides electrical and mechanical system installation services.
-	['', 'office space rental services', ' ', 'installation services', ' ', 'investment and finance', '']
-Giac Elec
-	Provider of electrical installation services.
-	['', 'electric wiring', ' ', 'electric installation', ' ', 'electrical services', ' ', 'electrical installation services', '']
-OSS Mozambique
-	Provider of warehousing spaces. The company rents warehouses for mining, agricultural and construction industries.
-	['', 'office space', ' ', 'warehousing spaces', ' ', 'business park', '']
+ZeitNet
+	Provider of high-quality, low-cost solutions for connecting workgroups and servers to high-performance ATM networks. The company brings a line of software products, including its Z-ATM Stack software, that allows ATM-connected clients to communicate over both ATM networks and existing LANs. The software, interoperable with other ATM products, consists of ATM Forum- compliant software modules for Internet Protocol (IP) over ATM, LAN Emulation (LANE), Interim Local Management Interface (ILMI), Signaling and ATM Adaptation Layer (AAL).
+	['', 'vital link', ' ', 'ATM adapter', ' ', 'circuit boards', ' switches ', 'traffic accounting', '']
+Vertex Networks
+	Developer of ASIC focusing on LAN switching market. The Company focuses on providing high performance, cost-effective Third- Generation solutions for the emerging LAN and ATM switching market.
+	['', 'hardware components', ' communication ', 'system architecture', ' chipset ', 'network market', '']
+FORE Systems
+	Supplier of networking solutions based on intelligent infrastructure. The company designs, manufacturers and sells product design to handle the networked applications. The company is a supplier of ATM, computer network switches as well as the developer of network switches.
+	['', 'Asynchronous Transfer Mode', ' ', 'computer network switches', ' ', 'high performance networking systems', ' ', 'enterprise applications', '']

@@ -1,24 +1,24 @@
-CardSpring
-	Provider of Application Programming Interface (API). The company\'s API lets developers add new capabilities to credit and debit cards by programming the payment network to link online applications to specific payment events.
-	['', 'Application Programming Interface', ' ', 'payment network program', ' ', 'online payment application', '']
-Pebbles
-	Developer of motion gesture technology. The company develops hardware and software to enable 3D gesture interaction with computers, communications and consumer electronics devices.
-	['', 'gesture interface', ' ', 'human machine interface', ' optics']
-Indisys
-	Developer of Natural Language and Intelligent Conversation service. The company provides natural language and dialog management system that enables functional, social and emotional virtual intelligence, context awareness and flexible, human like conversational abilities. It also provides fully integrated social media and chat offerings.
-	['', 'natural language service', ' ', 'dialog management system', ' ', 'emotional virtual intelligence', ' ', 'context awareness', ' ', 'integrated social media', ' ', 'live chat', '']
-RelateIQ
-	Provider of a professional relationship management platform. The company’s platform automatically captures communications data pulled from mail systems, smartphone calls, calendars and social networks.
-	['', 'application programming interface', ' ', 'personal correspondence management', ' ', 'business management', ' ', 'customer data analysis', '']
-Orchestrate
-	Provider of an application programming interface service. The company provides an application programming interface (API), that eliminates the need to deploy databases while building new applications or adding new features to existing applications.
-	['', 'cloud agnostic', ' ', 'application programming', ' ', 'interface application', ' ', 'API service', '']
-ReportGrid
-	Provider of an advanced analytics engine for multi-structured data. The company provides an application programming interface (API) that makes it easy for SaaS vendors and technology platforms to give their customers deep analytics and insightful reporting.
-	['', 'analytic engine', ' ', 'multi-structured data', ' ', 'application programming interface', '']
-Wit.AI
-	Developer of an application programming interface-based natural language platform. The company has created a voice interface that makes it easy for developers to build applications and devices that you can talk to. It learns human language from every interaction and leverages the community.
-	['', 'application programming interface', ' ', 'natural language platform', ' ', 'voice interface', '']
-Navify
-	Provider of interface for viewing Wikipedia with videos, images, and comments. The company is built on Wikipedia’s platform.
-	['', 'social content', ' ', 'video and images', ' ', 'user interface', '']
+Anobii Ltd.
+	Developer of an online reading community. The company provides a wide range of books for online readers.
+	['e-book ', 'online reading community', ' ', 'online book', '']
+Readmill
+	Provider of an online reading platform. The company enables users to read, share and highlight the information of books.
+	['', 'online community', ' ', 'online book', ' ', 'book information', '']
+Tastemakers
+	Provider of social network for books lovers. The company allows its users, including authors, publishers and readers to build a virtual bookshelf, see what the users’ friends reading and discover and learn from other people with similar reading tastes. It also enables its users to socially interact around the books, influence peers by rating and discussing books online, participate in online book groups to further explore literature and interact with and learn from authors.
+	['', 'social network', ' ', 'online book', ' ', 'virtual bookshelf', ' ', 'reading taste', '']
+AbeBooks
+	Provider of an online marketplace for books. The company offers collections of new as well as used and out-of-print books on the Internet. It provides book sellers with a venue for their products.
+	['', 'online marketplace', ' ', 'out-of-print', ' ', 'Internet Retail', ' ', 'book sales', '']
+Librify
+	Operator of a social reading website. The company provides a platform for purchasing e-books, collecting them and creating communities of other readers with whom to share them.
+	['', 'social reading platform', ' ', 'online library', ' e-book']
+IZEOS
+	Operator of an online platform for the nursing community. The company operates a website that provides information and resources for nurses, nursing students and applicants to nursing assistance.
+	['', 'online nursing resources', ' ', 'nursing books', ' ', 'online courses', ' ', 'studying materials', ' ', 'nursing website', '']
+Global Projects
+	Developer of online projects based on qualitative platforms. The company is the creator of Mapia, a map directory for the Kiev business community.
+	['', 'online projects', ' ', 'internet services', '']
+Swapit
+	Developer of an online swapping & trading community for young people. The company offers members to earn virtual currency swapits for every item they swap and they can also earn swapits from responsible brands and organizations for activities such as visiting websites, product purchase, completing research surveys and eating healthy food at school.
+	['', 'trading community', ' ', 'virtual currency', ' ', 'online swapping', '']

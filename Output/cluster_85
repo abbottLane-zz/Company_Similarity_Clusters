@@ -1,27 +1,6 @@
-FDN Communications
-	Provider of enterprise communications solutions. The company\'s services include conference calling, data security and backup, internet access, phone service, spam filters, voicemail, and web hosting. The company serves both small and large businesses.
-	['', 'conference call', ' backup ', 'data security', '']
-Benebit Networks
-	Provider of a security software. The company develops security software for real time protection of information in the real world, security audits, penetration testing, programmer education programs, security consulting and data classification.
-	['prevention ', 'information leakage', ' ', 'data theft', '']
-MagniFire Websystems
-	Provider of comprehensive web infrastructure security solutions. The company develops products that enables businesses to protect their most critical data, applications and customer relationships with a low total cost of ownership.
-	['']
-Guardium
-	Developer of database security software. The company develops software for preventing information leaks from the data center and ensuring the integrity of enterprise data.
-	['', 'database security', ' ', 'enterprise data integration', ' ', 'information security', '']
-CoSoSys
-	Developer of network endpoint security and portable storage device enhancement solutions. The company also provides portable USB security software solutions that offer flash drive encryption, data synchronization, Outlook synchronization, and biometric data security.
-	['', 'network security', ' ', 'software solution', ' ', 'biometric data', ' ', 'data security', '']
-EdgeSeven
-	Provider of information security that delivers situational awareness capabilities to organizations.
-	['', 'situational awareness', ' ', 'secured content', ' ', 'secured data', ' ', 'security services', '']
-Queplix
-	Developer of information access solutions for retail, manufacturing, telecommunications, energy, software, and healthcare sectors. The company offers QueCloud, which enables customers to extract structured data, business logics, and security access controls, as well as publish cloud-ready J2EE applications to private or public cloud infrastructures; Virtual Data Manager platform that enables users to migrate data from one application to another; and QueSearch for information access and productivity in areas, such as customer care, legal e-discovery, channel partner tools, and Web self-service, as well as Application Software Blades that enable Virtual Data Manager platform to connect to various source applications and data.
-	['', 'information access', ' ', 'data extraction', ' ', 'business logic', ' ', 'data security', ' ', 'data manager', ' ', 'virtual data', ' ', 'cloud infrastructure', '']
-Demarc Security
-	Provider of threat-security software. The company provides a platform enabling enterprises to centrally monitor & manage their networks and receive real-time security threat updates.
-	['firewall ', 'internet security', ' ', 'threat protection', '']
-Securewave
-	Provider of security software and digital data-security services. The company develops security products that enable banks and other organizations to manage, monitor and maintain control over applications and devices on their corporate networks, and to prevent cases of data threats.
-	['', 'network security', ' ', 'digital data security', ' ', 'data threat', ' ', 'software security', '']
+Famgro
+	Provider of an indoor farming platform. The company provides a farming system equipped with a hydroponic growing system and an automatic harvesting system, that helps to grow produce in urban areas without use of pesticides.
+	['', 'indoor farming', ' ', 'farming system', ' harvesting farming']
+Salsnes Filter
+	Developer of filters to remove particles from municipal waste and industrial process water. The company\'s technology is used to secure good quality of incoming water, recycling water, or to improve utilization of raw materials in industries such as food-processing, maritime and fish farming.
+	['', 'particles removal', ' filters ', 'municiple waste', '']

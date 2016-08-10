@@ -1,18 +1,9 @@
-Comarch
-	Provider of IT products for operational and business processes. The company provides CRM and business intelligence software to small and medium-sized enterprises sector.
-	['', 'banking and insurance', ' ', 'solutions and services', ' profitability']
-STP Depannage
-	Provider of repairing services for small and medium sized companies and households. The company offers various services including maintenance, tiling, plumbing, electricity.
-	['tiling plumbing ', 'repairing services', '']
-API Outsourcing
-	Provider of finance and accounting outsourcing solutions.
-	['', 'finance outsourcing', ' ', 'accounting outsourcing', ' ', 'outsourcing solution', '']
-Houdini
-	Provider of a cloud-based workforce platform. The company provides digital outsourcing platform that allows businesses to outsource repetitive tasks to workers over the web and improve quality of work.
-	['', 'cloud computing', ' ', 'workforce platform', ' ', 'outsourcing platform', '']
-Intility
-	Provider of IT outsourcing services. The company offers various services such as internet access, networks and servers to small and medium sized enterprises.
-	['', 'IT outsourcing', ' ', 'IT platform', ' ', 'enterprise cloud solution', '']
-Xtempus
-	Provider of outsourcing services. The company provides wireless carriers of outsourcing services for wireless messaging, including transport, signalling system no. 7 (SS7) interconnection, billing, clearing and management, through a pan-European internet protocol platform.
-	['', 'outsourcing service', ' ', 'billing service', ' ', 'clearing service', '']
+Genosis
+	Developer of home use diagnostic devices to assess fertility in couples of childbearing age. The company\'s product- Fertell, is available over the counter in the UK and the US and provides couples with the tools required to assess their fertility in the privacy of their homes.
+	['', 'Fertility test', ' ', 'vitro diagnostic', ' ', 'reproductive disorder', '']
+Photopharmica
+	Developer of photosensitizer products for medical use. The company provides photodynamic therapy (PDT) which involves the use of a light source of a specific wavelength to activate a photosensitive drug which can kill diseased tissues or infectious organisms. Its products are used for the treatment of microbial disease in wounds and open surgery.
+	['', 'light sensitive drugs', ' photosensitisers ', 'Infectious Disease', '']
+AdvanDx
+	Provider of molecular diagnostic tests for identification of pathogens that cause critical infections in hospitalized patients. The company provides its products to medical centers, reference labs, government institutions and community hospitals. Its products are available through a network of sales force in United States, as well as through distributors.
+	['', 'vitro diagnostic kit', ' ', 'infectious disease diagnosis', ' ', 'infection treatment', ' ', 'diagnostic kit', ' ', 'infectious disease', ' ', 'diagnostic test', '']

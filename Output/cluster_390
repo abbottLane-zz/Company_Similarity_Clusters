@@ -1,12 +1,18 @@
-PeakStream
-	Provider of software application development platform for the computing market.The company also provides Workstation, which allows software developers to program processors, such as multi-core CPUs and graphics processor units directly on desktops. It offers technical support, training, and educational services
-	['', 'computing market', ' ', 'multi-core CPU', ' ', 'parallel processing', '']
-mimoOn
-	Developer of LTE software for mobile devices and wireless infrastructure. The company offers physical layer and protocol stack for small cells and terminals, advanced scheduler for small cells, self-organizing network support and IP development in the areas of advanced PHY algorithms on multi-core SDR platforms. It provides complete porting, optimization and verification service, as well as a roadmap to future 3GPP releases.
-	['', 'mobile device', ' ', 'wireless infrastructure', ' ', 'LTE software', '']
-TransCella
-	Developer of technology for utilization of multi core processors.
-	['', 'multi core processor', ' ', 'faster application', ' ', 'processor utilization', '']
-Comcerto
-	Communications processor business of Mindspeed Technologies, Inc. This business provides a series of multicore, ARM®-based embedded processors and associated software, a talented team and Tier One customers spanning the globe.
-	['', 'connectivity product', ' ', 'communication processor', ' ', 'associated software', '']
+PIA-Engineering
+	Manufacturer of moving and lifting appliances. The company designs and delivers rolling, moving, sliding and lifting appliances required as per customer specifications.
+	['', 'sliding appliances', ' ', 'lifting appliances', ' ', 'rolling appliances', ' ', 'engineering services', ' ', 'rolling devices', '']
+Redline Networks
+	Manufacturer of network appliances. The company\'s family of E|X application front end network appliances, deployed at corporate data centers, and T|X Web I/O processors, used by Web sites, are designed to control and customize any HTTP-based environment while reducing infrastructure cost and complexity.
+	['', 'enterprise data', ' ', 'network ready', ' ', 'internet infrastructure', '']
+Prolexic Technologies
+	Provider of a distributed denial of service (DDoS) protection platform. The company\'s platform absorbs large and complex distributed denial of service (DDoS) attacks. It also protects and restores Internet-facing infrastructures for global enterprises and government agencies.
+	['', 'network protection', ' ', 'business protection', ' ', 'protection platform', ' ', 'distributed denial of service', '']
+V-Secure Technologies
+	Provider of vigilant network intrusion prevention technologies. The company provides adaptive, self-learning IPS network appliances that delivers protection against a wide range of network attacks, including denial of service (DoS), distributed denial of service (DDoS), worm propagation, pre-attack probes and many others.
+	['', 'network intrusion', ' ', 'prevention technologies', ' ', 'network appliances', '']
+Riverhead Networks
+	Developer of security technology to protect against cyber threats. The company provides technology that help to prevent distributed denial-of-service attacks and other security threats in corporate, enterprise and service provider networks.
+	['', 'cyber threats', ' ', 'Distributed Denial of Service', ' ', 'protocol compliance', ' ', 'security threats', '']
+IntruVert Networks
+	Provider of network-based intrusion prevention software. The company\'s intrusion detection system sensor appliances include IntruShield 4000 and the IntruShield 2600, which provide the performance and functionality required to protect networks. It\'s management system, IntruShield Security Management, manages IntruShield sensor appliance deployments for enterprise networks.
+	['', 'intrusion prevention', ' ', 'security management', ' ', 'intrusion detection', ' ', 'network protection', ' ', 'sensor appliance deployment', '']

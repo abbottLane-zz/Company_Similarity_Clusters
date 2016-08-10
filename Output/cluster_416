@@ -1,18 +1,15 @@
-Amiato
-	Provider of an immediate A/B testing tool. The company enables users to point their data and to analyze the data.
-	['', 'data analysis', ' ', 'computer architecture', ' ', 'database management', '']
-Indicee
-	Provider of a platform that helps business users to organize, analyze and share business data in an online community. The company operates an online application that allows users to merge data from various business systems, reports and spreadsheets, as well as analyze and share that data with co-workers, colleagues and customers in an online environment.
-	['', 'business sharing', ' ', 'data analysis', ' ', 'data sharing', ' ', 'data merge', '']
-StatsMix
-	Provider of web-based custom dashboards for aggregating business metrics. The company facilitates users to view, monitor and measure social media, analytics, metrics from various services.
-	['', 'customized dashboard', ' ', 'business metric', ' ', 'measure metric', ' ', 'data gathering', ' ', 'data aggregating', ' ', 'data analysis', '']
-LearnSprout
-	Provider of an online platform for educational data and application management. The company provides an integration platform to developers developing applications for educational institution.
-	['', 'data analysis', ' ', 'student information', ' ', 'data security', '']
-Knowrtl
-	Provider of a platform that allows end users to share data, models, scenarios and experiences in computational environments. The company provides an infrastructural platform that helps in computational environments that range from private laptops and PDAs to shared high-performance compute clouds.
-	['', 'infrastructure platform', ' ', 'data sharing', ' ', 'cloud computation', '']
-Datahero
-	Provider of a platform that helps users to analyze, visualize and understand data. The company offers data analysis tools for users to import internal data, store it in a spreadsheet format, link multiple sources and create data dashboards to track various types of information.
-	['', 'data analysis tool', ' ', 'database platform', ' ', 'data dashboard', '']
+Portaga
+	Provider of an online tool for booking business travel. The company also provides business travel booking and management platform in partnership with air, car and hotel companies, as well as with software-as-a-service and other web distribution partners.
+	['', 'travel services', ' ', 'online business', ' ', 'hotel booking', '']
+Hotwire
+	Provider of discount travel services. The company offers deep discounts from its travel suppliers to help travelers book unsold airline seats, hotel rooms, and rental cars.
+	['discount ', 'rental car', ' ', 'hotel rooms', ' airline ', 'discount airfare', ' ', 'discount travel', '']
+Fly.pl
+	Provider of online travel services. The company is the provider of a Polish-language booking site for international flights and travel packages.
+	['', 'travel services', ' ', 'holiday packages', ' ', 'airline tickets', ' ', 'online travel', ' ', 'booking site', ' ', 'international travel', '']
+G2 SwitchWorks
+	Provider of travel distribution solutions for travel suppliers and agents in the United States. The company offers products for ticket fare search, ticket booking, and automated exchange and refunds.
+	['', 'travel distribution', ' ', 'travel supplier', ' ', 'ticket booking', '']
+Chang Xiang Hangzhou Network Technology Co.
+	Provider of travel management services to businesses. The company operates a site that provides travel services including travel management and travel credit for firms, non-profit entities and governments. It also provides hotel and air ticket booking services for enterprises.
+	['', 'travel management', ' ', 'travel services', ' ', 'travel credit', ' ', 'ticket booking', '']

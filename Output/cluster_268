@@ -1,33 +1,21 @@
-B2
-	Provider of broadband services. The company provides Ethernet services, IP-telephony, Video-on-Demand and television services
-	['', 'broadband services', ' ', 'network technology', ' ', 'internet connection', '']
-Winbox Technologies
-	Provider of connected TV technology for original equipment manufacturers (OEs) and service providers. The company\'s hardware and software products are designed to speed the process of developing IPTV receivers, video-on-demand systems (VOD), hard disk video recorders (PVR / DVR), connected TVs and set-top boxes. The company also works to connect OEMs with Asian manufacturers.
-	['', 'television service', ' ', 'internet protocol television', ' ', 'video on demand', ' ', 'Entertainment Software', '']
-Widevine Technologies
-	Developer of encryption and key-management software systems which enable secure video services on broadband networks. The company offers Cypher, a downloadable conditional access and digital rights management solution, which secures linear broadcast, video on demand, file downloads, and streamed media; and Mensor, a theft deterrent and consumer identification solution that enables content owners, content aggregators, and service providers to track and identify where, when, and to what devices multimedia content is distributed.
-	['', 'encryption software', ' ', 'video security', ' ', 'broadband network', ' ', 'digital right', ' ', 'linear broadcast', '']
-Anevia
-	Provider of video on demand software. The company offers application suites for broadcasters and telecom operators. It also offers a suite of components and applications to build-up video service infrastructures.
-	['', 'television service', ' ', 'online video streaming', ' ', 'telecom operator', '']
-Bluestreak Technology
-	Provider of video services for connected devices. The company provides software and video services for connected devices including set-top boxes, smart TVs, smartphones, and tablets to content owners, device manufacturers, and network operators.
-	['', 'video enable service', ' ', 'media application', ' ', 'electronic component', '']
-NetCentrex
-	Developer of networking products and network-based applications for business communications, customer interactions and broadband residential communications. The company offers network-based software enabling IP-based voice-video-data and FMC (fixed-mobile convergence) solutions for service providers; and software-based converged voice-video-data-over-IP solutions. It develops network (NGN) voice and video solutions that enable telecom operators and service providers to deliver voice-video-data and fixed-mobile converged services for the consumer and enterprise markets.
-	['', 'broadband communication', ' ', 'network product', ' ', 'mobile converge service', '']
-Myrio
-	Provider of software, content management and integration services for internet protocol based video services. The company enables telecommunications providers to offer digital TV, video-on-demand, interactive TV services,  communications and internet services to their customers.
-	['', 'IP video', ' ', 'broadband service provider', ' ', 'video on demand', '']
-Flimmer
-	Developer of a platform for viewers to watch movie trailers. The company\'s platform allows viewers to watch the latest trailer from Cinema, DVD & Blu-Ray and Video On Demand and reward them for their attention with movie tickets or DVD/Video on Demand Coupons.
-	['', 'watch film trailer', ' ', 'photography platform', ' ', 'video on-demand', '']
-On Demand Group
-	Provider of video on demand services to television brands.
-	['', 'video service', ' ', 'television service', ' ', 'digital media service', '']
-Prescreen
-	Provider of social discovery video-on-demand platform designed to promote and showcase premium content. The company provides a daily movie service that presents films to a community of movie lovers.
-	['', 'video-on-demand', ' ', 'premium content', ' ', 'premium movie', ' ', 'daily movie service', '']
-Ridgeway Systems and Software
-	Provider of multi-boundary solutions for end-to-end IP video and voice communications. The company\'s software products, IPFreedom, securely traverse network firewalls and NATs (Network Address Translation) enabling the next generation of IP connectivity-ubiquitous IP video and voice between any and all IP endpoints.
-	['firewall ', 'IP connectivity', ' telecommunications']
+Attenex
+	Developer of software applications for document-intensive processes in the legal profession. The company’s products and services include Attenex Patterns Suite, which enables identification of relevant content for litigation, investigations and regulatory response projects and Snapshot Review that harnesses the visual discovery and content analysis capabilities of Attenex Patterns software.
+	['', 'software application', ' ', 'legal process software', ' ', 'snapshot Review', '']
+TrialGraphix
+	Provider of litigation consulting services. The company provides discovery, trial and jury consulting and courtroom presentation services in the United States. It provides services to trial attorneys, law firms and corporate counsel.
+	['', 'litigation consulting', ' ', 'legal service', ' ', 'courtroom presentation', '']
+Pangea3
+	Provider of legal process outsourcing services. The company offers corporate legal outsourcing services, such as contract drafting and revision, contract management and abstraction, compliance and risk management, and troubled asset relief program; and e-discovery and litigation support services. It also provides legal research, business, and competitive intelligence services, which include conducting and analyzing research in the areas of federal, state, and international case laws; federal, state, and municipal regulatory codes and legislative history; and multi-jurisdictional surveys.
+	['', 'legal process outsourcing service', ' ', 'legal research', ' ', 'legal service', ' ', 'patent litigation service', '']
+FindLaw
+	Provider of legal resources. The company provides legal information for lawyers, businesses, students and individuals. The company provides online videos, lawyer directory and other internet advertising services.
+	['', 'legal information', ' lawyers']
+JusticeLink
+	Providers of technology enabled services for courts, attorneys, clients and other interested parties in the legal community through their website. The company provides  legal system for filing legal documents digitally with the court system.
+	['', 'legal community', ' attorneys ', 'court system', ' website']
+Datacert
+	Developer of e-billing products to law firms. The company offers Passport, a platform for uniting legal systems; Advanced Invoice Management System, a legal spend management system; and Corporate Legal Desktop, an integrated matter and legal spend management solution. It also offers consulting and hosting services.
+	['', 'advanced invoice management', ' ', 'corporate legal desktop', ' ', 'management solution', ' ', 'hosting service', ' ', 'consulting service', '']
+RealPractice
+	Provider of legal technology products and services for attorneys and law firms. The company’s products include RealDealDocs, which provides attorneys, researchers, and legal professionals with access to executed legal agreements and documents drafted by lawyers at America’s law firms and corporations.
+	['', 'legal technology product', ' ', 'document drafting', ' ', 'legal agreement', '']

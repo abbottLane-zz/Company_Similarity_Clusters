@@ -1,9 +1,21 @@
-GeneMachines
-	Provider of solutions for the automation and instrumentation needs of the genomics community. The company develops and provides automated solutions, collaborating with researchers to determine and address instrumentation needs and challenges.
-	['DNA']
-Applecroft Care Homes
-	Provider of old age care facility. The company hosts 75 bed residential care home for the elderly care in Kent.
-	['', 'old age care', ' ', 'residential care home', ' ', 'healthcare service', '']
-Direct Health
-	Provider of domiciliary and home-care services. The company supplies care workers into homes for those with special and geriatric needs.
-	['', 'managed care', ' ', 'trained workers', ' ', 'medical needs', '']
+Yotta Networks
+	Provider of connectivity products. The company offered advanced elements for all-optical networks.
+	['', 'Fiber Optic', ' ', 'optical network', ' ', 'Telecommunication industry', '']
+Kailight Photonics
+	Developer of optical modules for the global telecommunications industry. The company’s components make it possible to upgrade the quality of signals at various points and to correct various distortions created in the signal. This extends the broadcasting range, expands bandwidth and improves signal quality in a given range.
+	['', 'optical module', ' ', 'fiber-optic infrastructure', ' ', 'bandwidth expansion', ' ', 'optical communication', '']
+Tellium
+	Provider of core optical switches. The company\' optical switches are installed in the core of telecommunications networks to manage the flow of optical signals, which are beams of light carrying voice, video, and data traffic, transmitted over fiber-optic cables.
+	['', 'optical switch', ' ', 'optical signal', ' ', 'fiber-optic cable', '']
+NanoOpto
+	Manufacturer of integrated modular nano-optic components for optical systems and networks. The company\'s products include IR cut filters, nano-optic isolators, deep ultraviolet polarizers, polarizing beam splitters/combiners, optical isolators, microlens arrays, and WDM filters, as well as waveplates, retarders, and trim retarders. It\'s services include conformal optical coatings by atomic layer deposition, precision coatings by e-beam deposition, precision dicing, and optical design and engineering.
+	['', 'nano-optic component', ' ', 'IR cut filter', ' ', 'deep ultraviolet polarizer', ' ', 'conformal optical coating', '']
+Ofidium
+	Developer of OFDM technologies. The company provides 100 Gigabits per second optical optical OFDM technologies which delivers increased bandwidth and reduced costs for telecommunications networks.
+	['', 'OFDM technology', ' ', 'communications infrastructure', ' ', 'communications network', ' ', 'optical fiber', '']
+4industries
+	Developer of fiber optic elements for measurements and sensor applications. The company manufactures and sells speed optical analyzer system which is used in manufacturing processes to detect complex material and manufacturing defects without interrupting production.
+	['', 'optic element', ' ', 'speed optical', ' ', 'optical analyzer system', '']
+Optix Networks
+	Developer of VSLI (very large scale integration) components used in optical switches and broadband networks equipment. The company serves the optical communications market.
+	['', 'scale Integration', ' ', 'optical backbones', ' ', 'information technology ', '']

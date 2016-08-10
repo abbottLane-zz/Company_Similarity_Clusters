@@ -1,15 +1,12 @@
-HL-Planartechnik
-	Manufacturer of thin-film metallization processes for the production of sensors. The company manufactures and sells components and subsystems using micro structures on ceramic, glass and silicon chips.
-	['', 'photographic equipment', ' ', 'magnetic fields', ' ', 'thin-film metallization', ' circuit']
-Resonex
-	Manufacturer of magnetic resonance imaging devices. The company manufactures and sells magnetic resonance imaging devices.
-	['', 'magnetic resonance', ' ', 'imaging devices', '']
-Lewis Pennicott Design
-	Manufacturer of kitchenware. The company manufactures and sells chopping devices for kitchens.
-	['kitchenware ', 'chopping device', ' ', 'chopping board', '']
-Eagle Vision Pharmaceutical
-	Developer of cardiovascular imaging agent. The company develops a non-radioactive imaging agent that enhance the power of magnetic resonance imaging to revolutionize the diagnosis and management of heart disease, liver disease, and cancer.
-	['', 'Magnetic resonance imaging', ' ', 'cardiac function', ' ', 'cardiac perfusion', '']
-Bruker
-	Developer of scientific instruments and research systems. The company designs and manufactures life science and field analytical systems for chemical, biological, radiological, nuclear and explosives or CBRNE, detection in various industries and government applications. Its technology platforms include magnetic resonance technologies, mass spectrometry technologies, gas chromatography technologies, X-ray technologies, spark-optical emission spectroscopy, atomic force microscopy, stylus and optical metrology technology and infrared and Raman molecular spectroscopy technologies.
-	['']
+SiCortex
+	Manufacturer of computers, computing systems, compiler suites, and personal development systems. The company also offers desk side, departmental, and data center packages. It serves universities, academic institutions, research laboratories, and government agencies in the United States.
+	['', 'computing system', ' ', 'compiler suite', ' ', 'development system', '']
+Electro Energy
+	Provider of proprietary battery technologies and associated systems.The Company is engaged in the development of energy storage technology, products and related systems through contract research and development for the United States Government and its agencies.
+	['', 'proprietary battery', ' ', 'energy storage technology', ' ', 'bipolar batteries', ' ', 'consumer products', '']
+Energy Cache
+	Developer of grid-scale energy storage technology. The company is developing a mechanical battery which captures the energy of rolling gravel to generate electricity, in the manner that the water-powered movement of rotors generates power in a hydro dam.
+	['', 'power technology', ' ', 'mechanical battery', ' ', 'alternative energy', ' gravel']
+Firefly International Energy
+	Developer of lead-acid battery technologies. The company develops carbon and graphite foam-based battery technologies for commercial and military use.
+	['', 'lead acid battery', ' ', 'environment friendly technology', ' ', 'alternative energy', ' ', 'Microcell technology', '']

@@ -1,15 +1,45 @@
-Ocean Films
-	Provider of financial services to the film industry. The company primarily engages in the production of films and documentaries.
-	['', 'movie producer', ' ', 'film producer', ' ', 'film production', ' ', 'movie production', ' documentary']
-Grupo Continental Producciones
-	Operator of television programs and cinemas. The company produces audiovisual and digital contents for TV films, advertisements and programs.
-	['', 'television production', ' advertisement ', 'TV show', '']
-Skyline Entertainment
-	Owner and operator of a television production house. The company produces fiction and non-fiction programmes.
-	['', 'television production', ' ', 'production house', ' ', 'cinema films', ' ', 'TV series', '']
-Ibisa Televisión
-	Operator of a media production house. The company is a creator of TV docudramas and documentaries. It oversees all phases of film production, from concept to script, shooting, post production and broadcasting.
-	['', 'television series', ' documentaries ', 'production and distribution', '']
-Infinia es
-	Provider of production and post-production services for the advertising, film and television markets.The company offers the industry sets, mobile post-production facilities and everything needed for the purpose of the production of any event or TV spot.
-	['', 'production services', ' ', 'post-production services', ' ', 'sets and facilities', ' ', 'film and television market', '']
+Agile Energy
+	Developer of utility-scale renewable power generating projects. The Company manages and performs all development activities required to bring its projects from conception through completion, including siting, environmental permitting, securing transmission, contract negotiations and arranging project financing.
+	['', 'renewable power', ' ', 'project financing', ' ', 'electric power', ' ', 'power project development', ' ', 'renewable energy', '']
+Covanta Holding
+	Manufacturer of infrastructure for the conversion of waste to energy, as well as other waste disposal and renewable energy production businesses. The company provides communities with an environmentally sound solution to their solid waste disposal needs by using that municipal solid waste to generate clean and renewable energy.
+	['', 'Renewable energy', ' ', 'waste to energy', '', 'clean energy', '', 'Eco-friendly electricity', '']
+Pelamis Wave Power
+	Manufacturer of systems to generate renewable electricity from ocean waves. The company offers wave energy converter, a semi-submerged and articulated structure composed of cylindrical sections linked by hinged joints. It also assists project developers and electricity generators in developing, constructing, and operating power projects.
+	['', 'renewable electricity', ' ', 'ocean wave', ' ', 'wave energy converter', ' ', 'articulated structure', ' ', 'hinged joint', ' ', 'power project', '']
+Weyland
+	Producer of renewable energy. The company provides a technology that helps in producing bio ethanol from agricultural wastes and forestry residues.
+	['', 'energy production', '']
+Nidecon Technologies
+	Designer and manufacturer of power-quality filtering technology for renewable energy and motor drives. The company creates its products based on a proprietary inductive design concept enabling it to reduce filter sizes. In addition, its products utilize integrated liquid cooling and forced-air cooling technologies.
+	['', 'filtering products', ' ', 'inductive components', ' ', 'motor products', ' ', 'energy products', ' filters']
+Gen110
+	Provider of alternative way for heavy energy users to purchase residential power. The company provides customers with generators for no installation or upgradation fees, then customers pay for the electricity at a guaranteed rate.
+	['', 'residential power', ' ', 'energy user', ' ', 'utility rate', ' ', 'distributed energy', '']
+Bionersis
+	Operator of renewable energy services. The company engaged in conception, financing, installation, and the operation of landfill biogas units. It also helps in reduction of greenhouse gases effects.
+	['', 'renewable energy', ' ', 'landfill biogas', ' greenhouse']
+SOGEM
+	Developer of wind energy power parks. The company develops alternate source of energy using wind power.
+	['', 'renewable energy', ' ', 'wind power', '']
+Vigor Renewables
+	Developer of renewable-power facilities in the U.K. The company works with property holders and commercial enterprises to develop and operate sustainable energy projects, including those utilizing solar and wind power.
+	['', 'renewable energy equipment', ' ', 'power generation projects', '']
+Grupo Guascor
+	Provider of energy solutions based on renewable energy. The company develops and manufactures technologies to harness energy from renewable sources such as wind, solar, bio-energy and hydel power. The company focuses on production of cells, modules and other components, offering turnkey market as well as the promotion, operation and maintenance of residential and industrial energy facilities.
+	['', 'energy solutions', ' ', 'bio-energy', ' ', 'renewable energy', ' ', 'photovoltaic systems', ' ', 'turnkey projects', '']
+Episol
+	Developer of solar thermal products for production renewable energy. The company offers installation services and other thermal products for generation of electricity in an ecological way.
+	['', 'solar collectors', ' ', 'energy consumption', ' ', 'renewable energy source', ' ', 'solar photovoltaic', ' ', 'wind energy', '']
+Skystream Markets
+	Provider of platform for the renewable energy and environmental markets. The company\'s markets is focused on creating price discovery, concentrating liquidity and improving trade execution quality.
+	['', 'renewable energy', ' ', 'quality improvement', ' ', 'liquidity concentration', '']
+Ventus Energy
+	Developer of wind farms to produce energy. The company is currently in the process of planning and developing 25 sites in Ontario, Quebec, New Brunswick, Nova Scotia and Newfoundland with the potential for over 5,000 Megawatts of power.
+	['', 'produce energy', ' ', 'wind farm', ' ', 'alternative energy', '']
+Sun Catalytix
+	Developer of technology for use in energy storage and renewable fuels. The company generates renewable energy supply from sunlight and water. It develops new earth abundant materials for energy conversion processes.
+	['', 'energy storage technology', ' ', 'renewable fuel', ' ', 'renewable energy', '']
+Hydrovolts
+	Provider of hydropower technology. The company produces hydrokinetic turbines for renewable energy generation.
+	['', 'hydropower technology', ' ', 'renewable energy generation', ' ', 'hydrokinetic turbine', ' hydropower']

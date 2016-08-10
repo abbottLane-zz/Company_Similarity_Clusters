@@ -1,18 +1,12 @@
-Corella Electric Wire & Cable
-	Manufacturer and supplier of telecommunication and electrical cables. The company is in the miscellaneous fabricated wire products industry and a Hispanic-owned manufacturing firm based in Phoenix.
-	['', 'Wire Product', ' ', 'fiberoptic product', ' ', 'Electrical Equipment', ' ', 'telecommunication cable', ' ', 'Cable wire', '']
-Enclotek Ready Panels
-	Manufacturer of electrical equipment. The company manufactures control panel boards.
-	['', 'electrical equipment', ' ', 'industrial products', '']
-Dover
-	Manufacturer of industrial equipment and components. The company designs, manufactures and sells a wide range of industrial products for the waste handling, bulk transport, automotive, commercial food service, machine, fluid handling, petroleum, chemical and electronics industries.
-	['', 'refrigeration equipment', ' ', 'food equipment', ' compressors pupmps']
-Falcon Detection Technologies
-	Provider of housewares equipments. The company manufactures electric housewares and household fans.
-	['', 'houseware equipment', ' ', 'electrical equipment', ' ', 'household fan', '']
-Elcom Technologies
-	Manufacturer of dielectric resonance oscillators. The company designs, develops, manufactures and markets RF and microwave modules and sub-systems for commercial and defense applications.
-	['', 'electrical equipment', ' ', 'dielectric resonance oscillator', ' ', 'radio frequency modules', '']
-Paneltech International Holdings
-	Manufacturer of green building materials. The company manufactures solid surfaces, wood panel overlays and saturated media solutions.
-	['', 'building materials', ' ', 'solid surfaces', ' ', 'wood panel', ' manufacturer']
+iSpeak
+	Provider of translation and localization services. The company offers document, website and email translation services to clients. It serves all corporate, NGO, government entities.
+	['Ecommerce translation translator']
+SDL
+	Provider of language translation services.
+	['']
+Amazon Machine Translation R&D Group
+	Provider of automated language translation and localization software to global enterprises. The company provides enterprise grade machine translation (MT) services.
+	['', 'language translation', ' ', 'machine translation', ' ', 'translation software', '']
+Bab.La
+	Provider of multilingual language portal. The company provides dictionaries for more than 20 languages, a language forum, vocabulary lessons, language games, quizzes, verb conjugations, phrase books for university, business or travel and an internship platform among other products.
+	['translation ', 'language portal', ' ', 'language learning platform', ' ', 'language translation service', '']

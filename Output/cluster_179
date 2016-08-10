@@ -1,12 +1,27 @@
-Holmenkol
-	Supplier of paraffin wax and fluorinated materials to the outdoor sporting industry. The company specializes in chemical surfaces in sports and sells ski waxes, cleaning and maintenance products to all renowned ski manufacturer.
-	['', 'paraffin wax', ' ', 'fluorinated materials', ' ', 'ski waxes', ' ', 'chemical surfaces', ' wax']
-Natural Cleaners Colorado
-	The company provides dry and wet cleaning services. The company provide cleaning services by using CO2 and GreenEarth cleaning technologies.
-	['', 'dry cleaning', ' ', 'wet cleaning', ' ', 'cleaning technology', '']
-Ocean Entretien Services
-	Provider of cleaning services for business premises. The company offers services such as cleaning spaces, glass surfaces, roof treatment as well as maintenance of gardens and parks. It also consults maintenance specialists for buildings, offices and commercial premises.
-	['', 'cleaning service', ' ', 'glass surface', ' ', 'roof treatment', '']
-Sage Electrochromics
-	Manufacturer and seller of insulating glass units and control systems to window and skylight manufacturers. The company also provides windows, skylights, and curtain walls for commercial and institutional buildings. It offers its products to owner-occupied office spaces, museums, libraries, art galleries, health care facilities, religious facilities, aviation facilities, high-tech or image buildings, and atriums and overhead daylight openings.
-	['', 'insulated glass', ' ', 'curtain walls', ' skylight ', 'overhead daylight', '']
+Compass Quality Insight
+	Developer of a software quality assurance platform. The company\'s testing product, Compass Profiler, provides testers with analytics to prioritize testing effort by identifying exactly what has changed in a web application, how it might interact with other parts of the software, and the location of potential testing gaps that may allow bugs to slip through.
+	['', 'internet application', ' ', 'infrastructure software tool', ' ', 'web application', ' ', 'testing application', ' ', 'quality software', ' ', 'testing software', ' ', 'quality testing', '']
+Qronus Interactive Israel
+	Provider of automated system testing software products. The company provides automated system testing tools for complex software and hardware configurations with embedded processors. It engages in the research, development, manufacturing and marketing of automated software quality products for non-standard platforms, embedded systems and real time computer systems. The company was spun out of Mercury Interactive.
+	['', 'software testing', ' ', 'testing tools', ' ', 'testing solution', '']
+Sogeti
+	Provider of technology and software testing services. The company provides software control testing, applications management, infrastructure management, high technology engineering/global engineering, business intelligence and analytics, mobile/Omni-channel, security and cloud services.
+	['', 'software testing', ' ', 'software control testing', ' ', 'application management', '']
+RelQ Software
+	Provider of softrware testing services. The company offers real-time and embedded applications testing, including mission critical software testing, for clients looking to deploy applications across the enterprise.
+	['', 'functional testing', ' ', 'competitive advantage', ' ', 'business applications', '']
+Neumath
+	Developer of mathematical software for control solutions. The company provides semiconductor applications for industries such as engineering, biomedical and pharmaceutical arenas for a range of problem solutions and uses advanced mathematical techniques including neural network technology to control semiconductor fabrication equipment.
+	['', 'mathematical software', ' semiconductor biomedical pharmaceutical']
+Corio
+	Provider of enterprise applications from software vendors such as Oracle, Siebel, and SAP. The company\'s product Applications on Demand 2005, offers a suite of applications management, infrastructure, and professional services. The application management services include providing computers, data center facilities, and networks to support software applications. It also includes customer support; application, security, and infrastructure management; data center; and network management solutions.
+	['', 'enterprise application', ' ', 'application management', ' ', 'resource management', ' ', 'infrastructure management', '']
+Tektagen
+	Provider of quality control testing and consulting services to the biotechnology and pharmaceutical industries. The company provides biosafety and bioanalytical testing services.
+	['', 'quality control', ' ', 'bioanalytical testing services', ' biotechnology']
+Kalistick
+	Developer of quality management tool. The company provides its user with a quality management tool to implement best practices from various software development communities into a capability Maturity Model Integration (CMMI) process.
+	['', 'test optimization', ' ', 'agile testing', ' ', 'testing platform', ' ', 'software testing', '']
+Replay Solutions
+	Developer of software technologies to record and reproduce bugs in applications and servers. The company offers ReplayDIRECTOR, an application that records inputs and events affecting software while it is running, and provides the ability to replay what happened for finding and fixing bugs in the development, test, and production environments; and ReplayDIRECTOR for Java EE, which is a software tool to help Java application teams to develop and manage their applications. It serves financial services organizations, manufacturing companies, SAAS providers, and gaming companies.
+	['', 'bug fixing', ' ', 'server monitoring', ' ', 'server security', ' ', 'java application', ' ', 'application testing', ' ', 'software testing', ' ', 'application management', '']

@@ -1,6 +1,27 @@
-OKWave
-	Operator of a question-answering website. The company provides a platform for users to solve their queries and discuss about their problems.
-	['', 'Q&A community', ' ', 'Q&A forum', ' ', 'discuss answers', ' queries']
-Librify
-	Operator of a social reading website. The company provides a platform for purchasing e-books, collecting them and creating communities of other readers with whom to share them.
-	['', 'social reading platform', ' ', 'online library', ' e-book']
+Xaar
+	Developer of ink jet technologies.
+	['']
+Satori Labs
+	Provider of digital pen-and-paper solutions for healthcare forms automation. The company fuses digital pen and paper, PDA, and wireless technologies with Satori Labs\' high performance forms automation software to create the next generation of connected information management products for the mobile professional.
+	['', 'healthcare software', ' ', 'digital services', ' ', 'digital data', ' ', 'automation software', '']
+XMS Penvision
+	Provider of a digital pen and paper platform. The company develops technology that allows users to write with ink based digital pens on ordinary paper and transfer the documents and strokes from the pen via some kind of digital device such as mobile phones, PDA\'s or PC\'s.
+	['', 'digital pen', ' ', 'digital paper', ' ', 'automation software', ' ', 'digital platform', ' ', 'digital writhing', '']
+Slate Corporation
+	Developer of application software for pen computers. The company developed application and utility software for pen-based computers such as GO Lombard, GO Hyde, GridPad, Grid Convertible and Momenta. The applications developed contained products like At-Hand spreadsheet.
+	['', 'application software', ' ', 'pen computers', ' ', 'utility software', '']
+New Index
+	Developer of electronic whiteboard technology. The company is the creator of an interactive electronic whiteboard, which can be created instantaneously on any surface. The equipment includes a pen with a small camera chip, which presenters can use to virtually write and draw on the screen, or directly on any wall, with electronic "ink" supported by the projector. The company\'s technology utilizes pattern recognition and identification of special optical patterns made by the pen.
+	['', 'AV industries', ' ', 'electronic whiteboards', ' ', 'optical pen', ' whiteboards ', 'audio and video', '']
+Kirtas Technologies
+	Provider of digital scanning services. The company has developed a digital imaging technology that automates the scanning of bound documents. The company also provides BookScan editor software for individual and batch processing of page capture and indexing.
+	['', 'digital scanning', ' ', 'imaging technology', ' ', 'bound documents', ' ', 'BookScan editor', ' indexing ', 'batch processing', '']
+Tab Products
+	Provider of document-management services and products for businesses. The company provides software as well as physical office storage systems to enable businesses to manage their digital and paper documents. The company also provides services for converting paper documents to digital format, as well as document purging and outsourcing file-room management.
+	['', 'information management', ' ', 'record management system', ' ', 'labeling software', ' ', 'mobile shelving', '']
+iWitness
+	Provider of Digital Business Records Management software. The company offers a secure electronic system to capture, authenticate, manage and preserve electronic business records, including email and e-commerce transactions. It also allows users to keep a digital paper trail, intended to replace actual paper trails.
+	['', 'electronic system', ' ', 'electronic business record', ' ', 'digital paper trail', '']
+Architel
+	Provider of archiving for paper and digital documents. The company offers data base filing and paper document management services.
+	['archiving ', 'digital documents', ' filing']

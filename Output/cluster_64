@@ -1,39 +1,18 @@
-Samba Sensors
-	Manufacturer of pressure-measuring system based on fiber optics and micromechanics. The company\'s pressure sensors are used for medical applications, such as measurement of respiratory pressure, counter pressure, pressure in the urinary tract, blood pressure and intracranial pressure.
-	['', 'pressure-measuring system', ' ', 'fiber optics', ' micromechanics']
-ErgoNex Pharma
-	Developer of drug for Pulmonary Arterial Hypertension treatment and other treatments. The company develops the drug for treatment of diseases like high blood pressure, heart problems.
-	['', 'blood vessel', ' ', 'high blood pressure', ' ', 'drug development', '']
-InterCure
-	Provider of a medical device called RESPeRATE. The company\'s product helps in reducing blood pressure. RESPeRATE is a non drug treatment device.
-	['', 'blood pressure', ' ', 'bp device', ' ', 'medical device', ' ', 'blood pressure device', '']
-Accord Biosciences
-	Developer of practical sensor systems to measure nitric oxide and its carriers in blood for clinical and research applications. The company utilizes its proprietary membrane, sensing and stabilization technologies to release nitric oxide from blood’s natural reserve in plasma and reproducibly detect it with practical, cost-effective sensing systems. Nitric oxide serves critical bodily functions, including proper blood vessel function and protection against infections, thereby servings as a powerful platform molecule for Accord\'s diagnostic and research product pipelines.
-	['', 'sensor system', ' ', 'blood plasma', ' ', 'blood vessel', ' ', 'pulmonary arterial hypertension', ' ', 'nitric oxide', '']
-Luminous Medical
-	Developer of an automated glucose measurement system for tight glycemic control in the intensive care units, operating rooms and intermediate care units. The company enables automatic sampling of blood, measures glucose and other analytes spectroscopically and returns the unchanged blood to the patient through its measurement system.
-	['', 'glucose measurement system', ' ', 'glycemic control', ' ', 'automatic blood sampling', ' ', 'healthcare service', '']
-Imperative Health
-	Provider of technology services for personalized weight management. The company is focused on providing ground-breaking health management technology services to address high-risk health conditions, including diabetes, high blood pressure, obesity and raised cholesterol.
-	['', 'weight management', ' ', 'health management technology', ' ', 'behavioural change system', ' ', 'technology platform', '']
-Sense
-	Developer of devices for cardiovascular diagnostics. The company\'s technologies creates new possibilities for measurements of blood pressure.
-	['cardiovascular ', 'blood pressure', '']
-Aires Pharmaceuticals
-	Developer of therapies for pulmonary vascular disorders. The company develops therapies to treat pulmonary vascular disorders such as pulmonary arterial hypertension and pulmonary hypertension due to heart failure.
-	['', 'pulmonary disorder', ' ', 'bacterial pulmonary', ' ', 'cystic fibrosis', '']
-Vita 34 International
-	Provider of storage of cord blood for future therapeutic purposes. The company is engaged in the collection, preparation and storage of children umbilical cord blood.
-	['', 'cord blood', ' ', 'therapeutic purposes', ' unbilical storage ', 'blood bank', ' ', 'stem cell', ' ', 'umbilical core blood', ' blood']
-Salient Interventions
-	Developer of drug for neurologic diseases. The company develops products focused on early treatment of neurologic diseases and reversal of neurologic deficits.
-	['neurologic ', 'neurologic deficits.', '']
-Bellerophon Therapeutics
-	Provider of clinical biotherapeutics services. The company is focused on developing products for critical care combining novel drugs and devices in the treatment of cardiopulmonary and cardiac diseases.
-	['', 'critical care product', ' ', 'clinical biotherapeutic', ' ', 'cardiopulmonary disease', ' ', 'investigational device', ' ', 'drug-device therapy', ' ', 'pulmonary arterial hypertension', '']
-BRAINco Biopharma
-	Developer of personalized treatments for nervous system diseases. The company develops new diagnostic tools and treatments against nervous system diseases optimizing individual drug treatment response, increasing remission rates and decreasing relapses rates.
-	['', 'nervous system', ' ', 'antiepileptic treatment', ' diazepam phenitoin']
-BMEYE
-	Developer and manufacturer of cardiovascular monitoring devices. The company offers products and technologies to measure blood pressure and cardiac output. It has two products approved for sale in the U.S. and Europe from the platform Nexfin, for the cardiology market, and ccNexfin, for the anesthesia and critical care markets.
-	['', 'cardiovascular monitoring device', ' ', 'hemodynamic monitoring', ' ', 'blood pressure', ' ', 'cardiac output', '']
+1-Page
+	Provider of corporate software as a service and consumer Internet proposal platform. The company enables its users to systematically create, solicit, distribute and negotiate one page proposals between individuals and companies from anywhere around world.
+	['', 'IT services', ' ', 'corporate software', ' ', 'internet proposal platform', '']
+Seaside Software
+	Designer and manufacturer of corporate messaging and intranet applications for the corporate market. The company offers integrated software and hardware products.
+	['', 'enterprise applications', ' ', 'corporate messaging applications', ' ', 'platform software', '']
+Intelligent Markets
+	Provider of comprehensive order management software and services to broker dealers. The company offers ALTA, an order management system, which offers services in multiple asset classes, including convertible bonds, corporate bonds, OTC equities and derivatives.
+	['broker ', 'corporate bond', ' ', 'convertible bond', '']
+RedHawk Communications
+	Provider of corporate ethics, compliance training and communications services. The company\'s services include code of conduct assessments, writing and design; online ethics learning modules; supporting ethics communication awareness tools and programs; worldwide translation and localization capabilities; instructor-led ethics training and other services focused on corporate ethics, compliance and creating ethical culture.
+	['', 'corporate ethic', ' ', 'compliance training', ' ', 'communications service', '']
+AS-Groupe
+	Provider of corporate performance management software. The company offers corporate planning, controlling, reporting, and services to various organizations.
+	['', 'corporate software', ' ', 'corporate planning', ' ', 'software services', '']
+Dynamic Change
+	Developer of web-based performance management software tool. The company provides regulatory compliance, corporate governance, risk and performance management services to the healthcare market.
+	['', 'compliance software', ' ', 'performance management software', ' ', 'corporate governance', '']

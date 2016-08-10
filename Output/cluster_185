@@ -1,45 +1,24 @@
-Haystack Labs
-	Developer of computer intrusion detection software. The company develops a large database of known attacks and misuses thus protecting web users against dangerous connections.
-	['', 'software company', ' ', 'cyber security', ' ', 'monitoring software', '']
-Malcovery Security
-	Developer of a cloud based actionable cyber security intelligence services. The company develops and delivers cloud based actionable cyber security intelligence and forensic analysis through software and services for corporations and government organizations to target cyber criminals and their activities.
-	['', 'cyber security', ' ', 'intelligence service', ' ', 'forensic analysis', '']
-Micro Technologies
-	Developer of transformational security devices. The company provides security products, including vehicle security systems, fleet monitoring systems, bike security systems among others.
-	['', 'vehicle security system', ' ', 'fleet monitoring system', ' ', 'security system', '']
-WholeSecurity
-	Provider of cyber- security software for prevention, mitigation and detection of malicious threats. The company provides protection against eavesdropping, electronic theft and other types of cyber crimes.
-	['', 'cyber crime', ' ', 'cyber security', ' ', 'electronic theft', '']
-Consul Risk Management International
-	Provider of compliance and security audit software. The company provides software that helps to track the clients , report and investigate non-compliant behavior, such as unauthorized activity by information technology administrators or other users.
-	['', 'security audit', ' compliance ', 'security management', '']
-Cortex Vision Systems
-	Provider of automated video surveillance products. The company offers various security systems for industrial, commercial, governmental and high-end residential applications.
-	['surveillance ', 'smart camera', ' ', 'security systems', '']
-Infosec
-	Provider of products and services for cyber-security. The company offers various services including security management consulting, secure technology consulting, development and operation of security systems and managed security services.
-	['cyber-security ', 'security management', ' ', 'security systems', '']
-Senforce Technologies
-	Provider of endpoint security solutions to the endpoint security enforcement market.
-	['', 'personal firewall', ' ', 'endpoint security', ' ', 'security solution', '']
-Layer 7 Technologies
-	Provider of security and management products. The company provides application programming interface for security and management products. It is a tool for managing and securing application programming interfaces (APIs).
-	['', 'service oriented', ' ', 'web security', ' ', 'cloud oriented', ' ', 'application management product', '']
-Network Chemistry
-	Provider of wireless security. The company provides RFprotect Mobile, a portable analysis product that enables network designers and security personnel to design, analyze and secure wireless networks.
-	['', 'Wireless Security', '']
-Cyvera
-	Provider of cyber defense to stop zero-day attacks. The company\'s flagship product, the Cyvera TRAPS (Targeted Remote Attack Prevention System) prevents yet-to-be-identified cyber threats uniquely by obstructing the path upon which the attack is being launched and not enabling the attackers to utilize their toolboxes.
-	['', 'cyber attack', ' ', 'Advanced Persistent Threat', ' ', 'cyber defense', ' ', 'cyber security', ' ', 'zero-day attack', '']
-iSIGHT Partners
-	Provider of cyber security risk-management services. The company provides cyber threat tracking and security services for corporates as well as government enterprises.
-	['', 'global network security', ' ', 'intelligence service', ' ', 'intelligence products', ' ', 'intelligence service', ' ', 'intelligence product', ' ', 'security analysis', ' ', 'cyber security', ' ', 'cyber threat', '']
-Watchfire
-	Provides online risk management, security and compliance testing software.
-	['', 'risk management', ' ', 'security testing', ' ', 'compliance testing', ' ', 'online risk', ' ', 'online security', '']
-Morta Security
-	Provider of a cybersecurity platform. The company develops technology to counter advanced cybersecurity threats to large enterprises.
-	['', 'cyber security platform', ' ', 'cyber security', ' ', 'cyber threat', ' ', 'cyber defense', '']
-3Com
-	Provider of secure, converged voice and data networking solutions that enable customers to manage voice, video, and data in a secure network environment. The company\'s products and services include security systems, such as intrusion prevention systems, network access control systems, and firewalls; Internet protocol (IP) telephony that includes IP telephony platforms, convergence application suite, and IP phones; and networking infrastructure products comprising local area network (LAN) switches, routers and gateways, mobility and wireless LAN, network and security management. In addition, the company offers a range of professional services, such as assessment and design, project management, training and certifications, installation, and integration services.
-	['', 'computer communications equipments', ' ', 'secure network', ' ', 'intrusion prevention systems', ' installations']
+Base-2 Capital
+	Provider of an algorithmic electronic trading. The company offers state of the art trading systems that utilize advanced trading algorithms statistical analysis to make markets in domestic equity and equity derivatives. It uses intelligent algorithms and automation to simultaneously provide liquidity and manage risk across multiple products and exchanges.
+	['', 'algorithmic electronic trading', ' ', 'intelligent algorithm', ' ', 'risk management', ' ', 'equity derivative', '']
+Currensee
+	Operator of a forex trading social network for retail forex traders in the United States and internationally. The company enables like-minded traders to connect and collaborate with each other and share ideas, insights and data based on the actual trading activity of the community. It allows members to access real-time trade and position information and leverage a set of social analytics.
+	['', 'forex trading', ' ', 'social network', ' ', 'trading community', ' ', 'real time trade', '']
+Beacon Capital Strategies
+	Provider of an electronic trading platform for execution of mortgage and asset backed fixed income instruments. The company offers Trade Discovery, an electronic trading platform and a bid list application for creating, launching and monitoring multiple BWICs.
+	['', 'electronic trading', ' ', 'trading platform', ' ', 'fixed income instrument', '']
+Tbricks
+	Provider of technology to proprietary trading professionals. The company provides efﬁcient tools for executing automated trading strategies on the ﬁnancial markets. The company also offers professional services including training, strategy design and implementation advice with existing system.
+	['', 'proprietary trading professional', ' training ', 'strategy design', ' ', 'effcient tool', '']
+Gain Capital Holdings
+	Provider of online foreign exchange trading services. The company services fund managers, commodity trading advisers, and professional traders. It also operates forex.com, an online foreign exchange for individual investors that offers trading tools, lower account minimums, and extensive education resources.
+	['', 'foreign exchange', ' forex trading ', 'foreign exchange trading', '']
+Bondcube
+	Operator of a fixed-income trading platform. The company offers a platform for trading in fixed income sector of bonds while allowing traders to filter and search for the bond liquidity, as well as specific trades that match their requirements
+	['income ', 'electronic trading', ' ', 'trade online', '']
+Master Capital Group
+	Provider of financial products and services. The company is a financial firm specializing in online trading and brokerage services. The company enables self-traders, introducing brokers and institutional clients to trade foreign exchange, CFDs, futures, options and fixed income through globally tested platforms. The company does business under the proprietary brand FXCM MENA.
+	['', 'online trading', ' brokerage ', 'self traders', '']
+BuysideFX
+	Provider of a foreign exchange trading platform aimed at the institutional money manager market. The company is a developer of trade-optimization software designed to help buy-side firms improve pre-trade processes, reduce risk and make side-by-side analyses of dealers using key criteria, or measuring them against benchmarks and market averages.
+	['', 'currency conversion', ' ', 'foreign exchange market', ' ', 'foreign exchange trading', ' ', 'FX', ' ', 'trading', ' ', 'currency trading', '']

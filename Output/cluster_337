@@ -1,60 +1,21 @@
-CreativeHub
-	Designer and Developer of websites and Builder of mobile and social media applications for entrepreneurial companies. The company works with businesses in a variety of industries, including advertising, technology, entertainment, financial services, communications, media, consumer products, real estate, apparel and retail.
-	['', 'Marketing and Advertising', ' communication entrepreneurial']
-AdGent Digital
-	Provider of audiences via proprietary display, social media and tablet advertising platforms for publishers. The company works in the auto, financial, telco, travel and entertainment sectors to place media on publisher sites across the globe.
-	['', 'Online media', ' ', 'proprietary display', ' ', 'Tablet Advertising', '']
-The Niche Project
-	Provider of platform for social media management. The company provides tools to manage, monetize and analyze social media accounts and activity.
-	['', 'social content', ' ', 'analyze social media', ' ', 'professional portfolio', '']
-Opposing Views
-	Operator of a social media website. The company provides information on various issues like global warming and religion.
-	['', 'social media website', ' ', 'expert answer', ' ', 'experts debate', ' ', 'online news', '']
-Swaylo
-	Provider of social analytics for things posted, shared and liked on social media networks. The company provides detailed analysis of social graphs, which allow users to track, sway over time and see how it compares to that of friends, family, acquaintances and the general public.
-	['', 'social analytics', ' ', 'social media', '']
-Paperlit
-	Provider of an online publishing platform for newspaper, magazine and catalog applications. The company enables publishers and advertisers to publish their newspapers, magazines and catalogs to mobile phones and web browsers. It serves small, medium and large publishers and advertisers.
-	['', 'publishing platform', ' ', 'mobile content publishing', ' ', 'online publishing', '']
-ITmedia
-	Operator of an online IT publishing platform. The company provides various information about IT industries, consumer electronics, music, personal computing, and business administrations in Japan.
-	['', 'web advertising', ' ', 'media management', ' ', 'program guide site', '']
-Dinamundo
-	Provider of a social check in service that rewards users who check in to other people with jokes and comedy.
-	['', 'social content', ' ', 'information application', '']
-Atomic Dog Publishing
-	Publisher of hybrid media textbooks for college courses. The company focuses on social sciences and business text books publishing. It publishes college textbooks in various areas, including management, psychology, marketing, research methods and political science.
-	['', 'hybrid media', ' ', 'online publisher', ' ', 'college course', ' ', 'business text book', ' ', 'text publishing', '']
-Demand Media
-	Provider of digital media and domain services to advertisers. The company helps advertisers to find ways to engage with their customers and enables publishers to expand their online presence.
-	['', 'online article', ' ', 'online video', ' ', 'social media', ' ', 'online media', ' ', 'web media', ' website']
-LoadnVote
-	Provider of visual media competition on the internet. The company invites visitors of all ages and interests to compete in head-to-head contests by uploading videos, pictures and other media to gain exposure and win prizes.
-	['', 'social content', ' ', 'visual media', ' ', 'media competition', ' ', 'voting site', '']
-Webjam
-	Provider of social publishing tools that allows individuals, organizations and corporations to create, aggregate and share content online. The company offers web-publishing, social networking, blogging, privacy management, community management and other features for local communities, interest groups, charities, fan clubs and families.
-	['', 'social publishing', ' ', 'web-publishing', ' ', 'social networking platform', '']
-Modusly
-	Provider of tools for extracting social media content. The company operates as a technology consulting firm specializing in web analytics, business intelligence and social media that analyzes and structures information from online sources in real time.
-	['', 'software services', '']
-GroSocial
-	Creator of social media marketing software that helps enterprises and SMBs expand their brands and find new customers through leading social media sites, including Facebook and Twitter. The company\'s products have helped thousands of businesses worldwide easily and affordably increase their social media presence and influence through effective, customized and targeted online branding, community creation, public relations and other touchpoints focused on converting audience engagement into revenue.
-	['', 'social media presence', ' ', 'community creation', ' ', 'online branding', ' ', 'public relation', '']
-NewsPin
-	Provider of a social media publishing platform. The company produces newsfeeds on various topics for users and allows them to share them on social media websites to increase social media presence.
-	['', 'online publishing', ' ', 'social media publishing', ' ', 'social content', '']
-Oneforty
-	Developer of social media management platform, SocialBase and the web’s extensive listing of social media tools. The company develops an online clearinghouse of applications related to Twitter.
-	['', 'media management', ' ', 'media tool', ' ', 'social media', ' ', 'online clearinghouse', '']
-SponsorHub
-	Provider of a social media measurement tool. The company provides enterprise-grade software tools to help brands measure their most important sports and entertainment campaigns.
-	['sponsorship ', 'social-media measurement tool', ' ', 'enterprise-grade software', '']
-RemoTV
-	Provider of a personal media publishing platform. The company\'s REMOTV Streaming Server and REMOTV Channels allows people to stream, share and publish their personal media to the web.
-	['', 'personal media channel', ' ', 'streaming platform', ' ', 'media share', ' ', 'streaming server', '']
-Chief Technology Advisors
-	Creator of social media application enabling users to share opinions, enhanced by mood indicators. The company is the creator of a mobile application that enables users to tag an emotion with each post, by selecting a representative mood color for the tag. The application allows Facebook and Twitter integrations.
-	['', 'social media application', ' emotion ', 'share opinions', '']
-Memolane
-	Provider of digital platform collecting and connecting thoughts, pictures, messages and music. The company helps people archive and explore social network activity across different platforms.
-	['', 'social data aggregation', ' ', 'social data collection', ' ', 'social media content', '']
+Yepler
+	Creator of an online social desktop community. The company\'s platform enables users to organize files, links,videos, friends and groups by tagging and rating them locally and globally. The platform allows users to write comments or chat about any link or file on their computer. Through the platform, a document can instantly serve as a communication channel between two users.
+	['', 'desktop software', ' ', 'communication channel', ' ', 'document tagging', '']
+Calista Technologies
+	Provider of desktop computing technology services. The company offers Calista Virtual Desktop, a platform that virtualizes the Windows desktop supporting the Windows XP and Windows Vista platforms.
+	['', 'desktop virtualization solution', ' ', 'Virtual Desktop', ' ', 'desktop supporting', '']
+Producteev
+	Provider of a platform for task management applications. The company provides applications for individuals and teams connected to Mac, Windows Desktop, Web, iPhone, Android and instant messenger.
+	['', 'task management', ' ', 'team communication', ' ', 'team management', ' ', 'individual network', '']
+WebShaka
+	Developer of a Web desktop platform. The company is the creator of YouOS, a platform replicating a desktop environment on a Web page. The platform allows users to login and save their work from multiple computers, to centralize all their Web services and files in one place, and to share files and apps with others. The platform operates on Javascript.
+	['', 'manage files', ' ', 'development tools', ' ', 'desktop platform', ' ', 'desktop environment', '']
+EPiCON
+	Developer of software platforms that enable application service providers (ASPs) and enterprises to manage the life-cycle of desktop applications and application components from a central server on the Internet. The company\'s products include a software platform, which enables enterprises, and information technology departments to target applications to users based on central policies; deploy applications and application components to Windows personal computers (PCs) without overloading the network; and install applications and components automatically on PCs, without intervention from the PC users.
+	['', 'software platform', ' ', 'desktop application', ' ', 'application component', '']
+The Learning Company
+	Operator of a software development and sales company.The company operates as a publisher for consumer desktop publishing titles. Its flagship desktop publishing products are The Print Shop and PrintMaster. It operates a retail website offering its own software titles as well as others.
+	['', 'convenient software', ' ', 'project templates', ' ', 'consumer products', '']
+GreenBytes
+	Developer of virtual desktop visualization. The company delivers patented desktop virtualization that maximize the effective performance and capacity of existing infrastructure.
+	['', 'desktop virtualization', ' ', 'virtual desktop', ' desktop']

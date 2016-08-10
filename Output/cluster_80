@@ -1,12 +1,30 @@
-LuxN
-	Developer multi-service, optical access network platforms. The company provides end-to-end optical networking products for metropolitan service providers therby enabling delivery of high bandwidth video, data, storage and voice services.
-	['', 'optical networking', ' ', 'optical access', ' ', 'network platforms', ' ', 'data delivery', '']
-Novera Optics
-	Developer of optical access solutions to overcome the bandwidth bottlenecks in copper-based last mile networks. The company\'s λ-PON™ optical solutions, based on advanced wavelength-locked WDM-PON (wavelength division multiplexed passive optical network) technology, enable equipment vendors and service providers to address multiple markets with a single product.
-	['', 'fiber optic', ' ', 'optical access', ' ', 'Remote Terminals', '']
-NetEdge Systems
-	Designer and manufacturer of multi-service Automated Teller Machine (ATM) access concentrators. The company designs and develops multi-service access concentrators for ATMs which enables service providers to provide public data, voice, and video services.
-	['', 'automated teller machine', ' ', 'access concentrator', ' ', 'computer system', '']
-FlexLight Networks
-	Developer of a suite of optical access products. The company offers products with applications for the gigabit passive optical networking (GPON) market.
-	['', 'optical access', ' ', 'video services', ' ethernet']
+Virtustream
+	Provider of cloud services and infrastructure services. The company provides cloud services, such as guaranteed resources and capacity on demand, secured private, hybrid clouds, custom management portal, network services, multi-tiered solutions, workload management and departmental level billing.
+	['', 'strategic planning', ' ', 'cloud consultant', ' ', 'hybrid cloud', '']
+PlanforCloud
+	Developer of free cloud forecasting software. The company\'s software allows companies to model various cloud architectures and usage patterns to budget for their cloud costs. The software figures out what servers, storage, database and data transfers are needed for cloud deployment, so that companies can forecast their cloud service needs and costs.
+	['', 'cloud forecasting software', ' ', 'cloud architecture', ' ', 'cloud deployment', '']
+ManageIQ
+	Provider of enterprise cloud management and automation software. The company provides an automation software that enables organizations to deploy, manage and optimize private clouds, virtualized infrastructures and virtual desktops. It delivers unified monitoring, management and automation through a single pane of glass across enterprise clouds and globally distributed data centers.
+	['', 'enterprise cloud management', ' ', 'automation software', ' ', 'virtualized infrastructure', ' ', 'virtual desktop', ' ', 'unified monitoring', '']
+CloudLink Technologies
+	Provider of cloud security and management services. The company provides a software security appliance that combines cloud infrastructure security and manageability with cloud performance monitoring.
+	['', 'cloud computing software', ' ', 'data loss protection', ' ', 'ethernet software product', ' ', 'cloud security', ' ', 'cloud management', ' ', 'cloud software', '']
+Porticor
+	Provider of cloud data security software. The company provides a software which enables companies to safeguard their data, comply with regulatory standards and streamline operations. The company also offers "Virtual Private Data", which combines data encryption with homomorphic1 split-key management for safeguarding data in public, private and hybrid cloud environments.
+	['', 'cloud computing', ' ', 'cloud data encryption', ' ', 'homomorphic split-key encryption', '']
+Knowrtl
+	Provider of a platform that allows end users to share data, models, scenarios and experiences in computational environments. The company provides an infrastructural platform that helps in computational environments that range from private laptops and PDAs to shared high-performance compute clouds.
+	['', 'infrastructure platform', ' ', 'data sharing', ' ', 'cloud computation', '']
+HammerKit
+	Operator of a cloud technology company. The company offers an online toolset to allow creation and deployment of web applications that cater to business, marketing and communications needs. It focuses on the PR and marketing industry.
+	['', 'cloud technology', ' ', 'PR industry', ' ', 'Cloud Software', ' ', 'digital production', ' ', 'web designing', '']
+Appcore
+	Provider of local cloud infrastructure for Enterprise Private Clouds and Service Provider Public Clouds. The company provides a converged platform of architecture, automation, administration and appstore designed to be roll-in ready, accelerating the deployment and automating the operations of cloud environments. It simplifies the complexity of cloud technology for data centers, telcos, software vendors and enterprises.
+	['', 'cloud infrastructure', ' ', 'enterprise private Cloud', ' ', 'service provider cloud', ' ', 'cloud computing', '']
+EnStratus Networks
+	Provider of cloud management and governance solutions. The company offers enStratus, a cloud infrastructure management solution for deploying and managing enterprise-class applications in public, private, and hybrid clouds.
+	['', 'cloud management', ' ', 'governance solution', ' ', 'cloud infrastructure', '']
+Cloudsmith
+	Provider of services to create and share software from a global cloud of components. The company offers a web service that defines stacks (dependencies) from a cloud of shared packages, extended to include private components. It also allows the users to share and install these stacks wherever they want directly from the cloud.
+	['', 'shared package', ' ', 'software sharing service', ' ', 'web service', '']

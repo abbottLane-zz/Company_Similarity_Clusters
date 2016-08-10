@@ -1,12 +1,36 @@
-Ubiqi Health
-	Provider of online tools for migraine management. The company provides online and mobile application tools to the millions of people suffering from chronic conditions.
-	['', 'online tool', ' ', 'remedies to chronic conditions', ' ', 'application tool', '']
-Greenergetic
-	Provider of online tools for configuring photovoltaic systems at home. The company offers online information about financing, insurance and maintenance of photovoltaic systems.
-	['', 'photovoltaic system', ' ', 'online tools', ' ', 'online information', '']
-Physicians Data Network
-	Provider of web-enabled on-line management tool. The company develops online tools that allows healthcare providers to monitor Medicare fraud and abuse regulatory compliance, measure productivity and manage revenue.
-	['', 'online tools', ' ', 'management tool', ' ', 'web-enabled tool', ' ', 'fraud security', '  web-enabled']
-Angstro
-	Provider of online business news articles. The company offers online information discovering and sharing services.
-	['', 'online information', ' ', 'business news', ' ', 'service sharing', '']
+Arctic Silicon Devices
+	Developer and seller of data converters. The company develops application specific mixed mode signal processing chips, modules, subsystems, integrated circuits, low power ADCs and AFEs.
+	['modules subsystems microwave IC']
+RF Magic
+	Operator of a fabless semiconductor company. The company is a developer of broadband radio frequency systems-on-a-chip. The company applies RF integrated circuit (IC) design, broadband RF systems, and digital communications systems expertise to the development of a diversified portfolio of patented RFIC technologies.
+	['', 'radio frequency', ' ', 'broadband radio', ' RFIC ', 'system on a chip', '']
+AccelChip
+	Provider of algorithmic synthesis solutions for digital signal processing (DSP) design. The company develops and markets design tools, integrated verification flows, and parametric intellectual property toolkits that automate the development and implementation of DSP algorithms in field programmable gate-arrays and application-specific integrated circuits
+	['', 'algorithmic synthesis solution', ' ', 'digital signal processing design', ' ', 'markets design tool', '']
+Spirea
+	Developer of fabless semi-conductor. The company develops low-cost, integrated and low power radio products for the wireless local and personal area network markets, using CMOS design techniques for radio, mixed-signal and digital designs.
+	['', 'fable semi conductor', ' ', 'personal area network', ' CMOS ', 'digital design', '']
+Toumaz Technology
+	Developer of radio frequency, analogue and mixed-signal semiconductors. The company focuses on development of low power devices for mobile and wireless systems. The company was spun out of Imperial College.
+	['', 'semiconductors production', ' ', 'low power device', ' ', 'wireless systems', ' ', 'radio frequency', '']
+Dynamic Hearing
+	Provider of digital signal processing software. The company offers digital amplifier for the hearing aid and personal communications industries. The company was spun out of Cooperative Research Centre for Cochlear Implant and Hearing Aid Innovation.
+	['', 'signal processing', ' ', 'digital signal', ' ', 'digital amplifier', '']
+SnapTrack
+	Developer of wireless position location technology to determine the position of cell phones, pagers and other hand-held devices. The company develops chips with GPS signal processing ability which is built into handsets to track their locations.
+	['', 'global positioning system', ' ', 'wireless position location', ' ', 'signal processing chips', '']
+Oplus Technologies
+	Provider of video processing products and technologies for digital television and digital displays. The company designs, develops and markets integrated circuit and software solutions for flat panel plasma and LCD TVs, projection systems, LCD multi-function monitors and emerging digital display applications.
+	['', 'video processing', ' ', 'electronics devices', ' ', 'LCD TV', '']
+Sierra Technologies
+	Designer and manufacturer of radio-frequency products and systems for military and civilian applications. The company is a defense contractor based in Buffalo, New York.
+	['', 'radio-frequency products', ' ', 'military products', ' ', 'defense products', '']
+Chipcon Group
+	Provider of wireless and Zigbee-compliance RF transceivers. The company manufactures fabless semiconductor that provides standard radio frequency integrated circuits.
+	['', 'fabless semiconductor', ' ', 'integrated circuit', ' transceiver']
+Fresco Microchip
+	Developer of fabless semiconductor. The company develops radio frequency, mixed-signal and digital signal processing integrated circuits for the consumer electronics market.
+	['', 'integrated circuit', ' ', 'digital signal processing', ' ', 'radio frequency processing', '']
+Equator Technologies
+	Manufacturer of digital signal processing (DSP) compression techniques. The company offers iMMediaTools(R) software development toolkit, media libraries and reference platforms to customers globally. They also provide video-centric system-on-a-chip (SoC) processors which are available for digital media, digital video communications and video security and surveillance applications.
+	['', 'digital signal processing', ' ', 'surveillance application', ' ', 'video centric', '  ', 'video security', ' ', 'digital media', '']

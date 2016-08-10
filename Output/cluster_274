@@ -1,39 +1,45 @@
-Mediastay
-	Provider of an online advertising platform focusing on online games. The company provides a monetization platform that is used by 12 internally published games as well as third party games on the web or Facebook.
-	['', 'social games', ' ', 'published games', ' ', 'monetization', '']
-Headlock
-	Developer of online games. The company develops online games and application software. It offers infrastructure provider for online game publishers.
-	['', 'online games', ' gundam ', 'console games', '']
-Neowiz Games
-	Developer and publisher of online games. The company offers diverse games of various genres, from sport to web board games in South Korea.
-	['', 'online diverse games', ' ', 'game developer', ' ', 'gaming portal', '']
-Art of Crime
-	Developer of riddle based online games for children. The company develops interactive games based on criminal cases for children and their families. Crimeville its newest game launched is a multiplatform, interactive detective riddles for the 6-12 demographic.
-	['', 'online games', ' ', 'interactive games', ' riddles']
-Owlient
-	Publisher of online games. The company develops web games which also enables interaction between players.
-	['', 'online games', '']
-Riot Games
-	Developer and publisher of an online games. The company offers multiplayer online battle arena and online games for consoles and the computers.
-	['', 'online game', ' ', 'online title', ' ', 'web-based game', '']
-The B Equal Company
-	Developer of DVD games. The company helps to strengthen the bonds between children and parents by creating games that make learning a fun, interactive family event.
-	['', 'DVD games', ' ', 'family event', ' ', 'educative games', ' fun']
-Oscar Mike Games
-	Provider of handheld games for multiple platforms. The company also creates and designs mobile based games.
-	['', 'handheld game', ' ', 'multiple platforms', ' ', 'mobile based games', '']
-fatfoogoo
-	Provider of e-commerce services for online games. The company helps in monetization of online games and virtual worlds via micro-transactions. Their plug and play system supports publisher-to-player and player-to-player transactions, virtual currencies and traditional subscription models.
-	['', 'e-commerce service', ' ', 'virtual currency', ' ', 'subscription model', ' ', 'micro-transactions', '']
-IMI Exchange
-	Operator of massively multiplayer online games. The company provides buying and selling sites for players of massively multiplayer online games.
-	['virtual currency ', 'online games', '']
-Games Workshop
-	Manufacturer of games. The company manufactures metal figures and games and engages in the distribution of these products.
-	['', 'games manufacturer', ' ', 'metal figures', ' distribution']
-ChessPark
-	Provider of online chess community. The company covers how to manage friends list, play games, and participate in chat rooms. It serves audience of casual, club, and professional players.
-	['', 'online chess', ' ', 'chess community', ' ', 'chess tournament', '']
-Enigma Software Productions
-	Developer of real-time strategy games. The company provides games of different genres across multiple platforms.
-	['', 'IP Incubation', ' ', 'online games', ' ', 'Development and Porting', '']
+Visionix
+	Manufacturer and distributor of equipment used by opthalmologists and opticians for eye surgeries.
+	['', 'opthalmologic equipment', ' ', 'surgical equipment', ' ', 'healthcare equipment', '']
+Support Technologies
+	Manufacturer of automatic computer test equipment for use by firms designing, servicing and manufacturing electronic-based products. The company\'s products consisted of ROM emulator and diagnostic tester.
+	['', 'computer equipment', ' ', 'electronic products', ' ', 'test equipment', '']
+Cadant
+	Supplier of carrier-class cable modem termination systems. The company focuses on designing networking products that are targeted towards cable, wireless cable and satellite-based data networks that connect to the internet and the world wide web.
+	['', 'cable modem termination systems', ' ', 'networking products', '']
+Basil Corporation
+	Manufacturer of specialized equipment for the laboratory and scientific markets. The company makes laboratory washing equipment and devices.
+	['', 'laboratory equipment', ' ', 'scientific devices', ' ', 'medical equipment', '']
+Zenverge
+	Provider of semiconductors for digital media products. The company is developer of content networking ICs built around the patented TransAll technology, a core requirement for next generation video services gateways.
+	['', 'digital media', ' ', 'integrated circuit', ' ', 'video networking', ' ', 'networking equipment', ' ', 'desktop media', '']
+Nortel Networks
+	Manufacturer of networking products. The company is a manufacturer of equipment for telecommunications and data networking.
+	['', 'networking equipment', '  ', 'data networking equipment', ' ', 'cable operators', '']
+IntenseDebate
+	Developer of commenting systems for blogs and other web platforms. The company offers networking system to blog readers to link their profiles, make friends and syndicate their comments.
+	['', 'commenting system', ' ', 'web platform', ' ', 'networking system', '']
+SwitchOn Networks
+	Provider of semiconductor and software components to the Content and Policy-based networking. The company\'s products enable next generation network equipment, including web and content switches, CMTS, DSLAM, enterprise routers, edge routers, bandwidth managers, VPNs, Firewalls and Intrusion detection systems.
+	['', 'semiconductor and software component', ' ', 'wirespeed packet classification', ' ', 'networking solution', ' ', 'networking device', ' ', 'semiconductor component', ' ', 'semiconductor networking solution', ' ', 'networking equipment', ' ', 'packet content processor', '']
+RouteLambda
+	Provider of an optical networking equipment. The company provides outsourced assembly of standardized optical networking equipment and broad base communication equipment in Japan.
+	['', 'optical networking', ' ', 'communication equipment', ' ', 'outsourced assembly', '']
+Loran International Technologies
+	Operator of a data networking company. The company is a system integrator of high speed networks.
+	['', 'data networking', ' ', 'system integrator', ' ', 'internet network', '']
+Gascoigne Melotte Holding
+	Manufacturer of equipment for the dairy industry. The company offers milking machines and other dairy automation products.
+	['', 'milk harvesting equipment', ' ', 'agricultural machinery', ' ', 'dairy automation', '']
+Kiyon
+	Provider of mesh networking products for wireless broadband networks. The company offers autonomic mesh networking technology that allows it to interface with higher-level protocols.
+	['', 'mesh network', ' ', 'networking products', ' ', 'networking technologies', '']
+Positron Access Solutions
+	Developer and manufacturer of telecommunications equipment for critical service applications. The company design, manufactures and markets networking and broadband management equipment to information technology and telecommunication industries. Its platform enables broadband connectivity and system networking services.
+	['', 'telecommunications equipment', ' ', 'critical service', ' ', 'broadband management', ' ', 'broadband connectivity', ' ', 'networking service', '']
+Vitalink Communications
+	Manufacturer of data networking products. The company sells routers and other networking products. Its systems are used to build computer networks.
+	['router']
+Vivace Networks
+	Manufacturer of multi-protocol label switching networking products. The company provides optical service creation platforms for service providers for the next generation public data network.
+	['', 'networking equipment', ' switches multi-protocol']

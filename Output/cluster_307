@@ -1,15 +1,18 @@
-Gazoontite
-	Provider of household products. The company provides products that help reduce asthma problems, allergies and respiratory problems. The company\'s products include anti-allergen and hypoallergenic bedding, air purifiers, vacuum cleaners, bath and beauty products, toys, dust control products, odor control products and asthma management products.
-	['', 'household products', ' hypoallergenic ', 'cleaning product', '']
-BeautyCom
-	Provider of a platform which offers its customers beauty products & helps them to discover the products of different brands before buying. The company offers its subscribers a beauty magazine, JolieMag and are invited to the parties, JoliApéros.
-	['', 'beauty product', ' ', 'online product shopping', ' ', 'beauty magazine', '']
-Total Beauty Media
-	Operator of a website that publishes a catalog of beauty products online for women. The company’s portal provides information about face, makeup, hair, and body products, such as anti-aging, foundations, mascaras, moisturizers, shampoos, sunless lotions, and conditioners. It also hosts events for fashion and beauty brands.
-	['', 'beauty product', ' ', 'product review', ' ', 'online beauty portal', ' ', 'beauty product catalogue', ' ', 'fashion brand', '']
-105 LOOKS
-	Provider of a beauty-product website. The company offers a video-centric website that contains information related to fashion.
-	['', 'beauty product', ' ', 'fashion information', ' ', 'beauty content', '']
-MyNines
-	Aggregator of private-sales websites. The company provides a platform that aggregates limited-time deals on discounted sample products, enabling customers to visit just one site for multiple retailers. The company offers shopping opportunities in men\'s and women\'s fashion, jewelry and accessories, beauty, wines, travel and sports gear.
-	['', 'sample sales', ' ', 'sample search', ' ', 'online product', ' cloth']
+Formspring
+	Operator of a website that allows its users to set up a profile page, from which anyone can ask them questions. The company gives their members a platform to express their point of view and personality through engaging conversations and interact with friends and followers.
+	['', 'online forum', ' ', 'profile page', ' ', 'online sharing', '']
+Get Satisfaction
+	Provider of online discussion, part FAQ and part social network for products and services. The company\'s products and services include satisfaction beta release, iphone, pownce on the web, twitter on the web, and classic messenger.
+	['', 'online discussion', ' ', 'voice messenger', ' ', 'customer support forum', ' ', 'discussion forum', '']
+CrowdHall
+	Provider of audience moderated town halls. The company provides an online platform that enables participants to question and share ideas with guests who range from celebrities and politicians to technology experts and fitness personalities.
+	['', 'online forum', ' ', 'discussion group', ' ', 'guest host', '']
+ThirdVoice
+	Provider of service that allows inline discussion forums for private, group or public interaction. The company provides technology that allows people to create inline notes that can be shared publicly, within a group or kept private. The company\'s service allows users to freely and openly express ideas at points of references anywhere in a web page.
+	['discussion forum ', 'social platform', '']
+Ning
+	Provider of an online platform to create social networks for organizers, activists, and influencers. The company offers services for branding and visual design, member profile, moderation and privacy, invite and share, RSS feeds, photos and videos, chat, group creation, discussion forum, blogging, and events.
+	['', 'community platform', ' ', 'branding design', ' ', 'discussion forum', '']
+Lefora
+	Provider of a platform that allows members to create public and private forums and add videos and photos. The company allows members to create animal, automotive, business and professional, computer and Internet, culture and community.
+	['', 'public forum', ' ', 'private forum', ' ', 'web discussion', ' ', 'online forum', '']

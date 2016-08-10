@@ -1,18 +1,21 @@
-Regiohelden
-	Provider of online marketing services. The company helps local advertisers with search engine marketing software to reach their online audience, convert prospects to actual clients and measure the results of campaigns.
-	['', 'local online advertising', ' ', 'marketing and advertising', ' ', 'local advertising', '']
-MiNeeds
-	Provider of an online marketplace for local services. The company provides a website enabling users to post service requests and receive bids from local professional service providers, such as photographers, contractors or dentists.
-	['', 'productivity software', ' ', 'local professionals', ' ', 'data strategy', '']
-Trada
-	Provider of pay per click advertising marketplace and crowdsourced search engine marketing services. The company has developed a pay per click marketplace that allows agencies and in-house advertisers to leverage the skills, who in turn earn risk free money by generating clicks and conversions for advertisers.
-	['', 'online advertising', ' ', 'advertising marketplace', ' ', 'online marketing', ' ', 'crowdsource marketing', '']
-Pulpo Media
-	Provider of technology enabled marketing services. The company works with leading online advertisers to help them dynamically localize and tailor their offerings for their diverse target markets.
-	['', 'marketing service', ' ', 'online advertisement', ' ', 'diverse market', '']
-Gydget
-	Provider of a social marketing platform. The company helps music groups, teams, non-profits and other organizations reach their audiences.
-	['', 'social marketing', ' ', 'online advertising', ' ', 'marketing widget', '']
-Flashbase
-	Operator of an online advertising and marketing firm. The Company focused on empowering consumers and small business users by providing them with a hosted enterprise-level database application over the internet and marketing tools allow marketers to launch targeted, permission-based email campaigns and track the results.
-	['', 'online advertising', ' ', 'database application', '']
+Ballard Power Systems
+	Ballard Power Systems Inc was incorporated in the State of Canada on November 12, 2008. It is a clean energy growth company. The company is engaged in proton exchange membrane (PEM) fuel cell development and commercialization. The Company\'s main business is the design, development, manufacture, sale and service of fuel cell products for a variety of applications, focusing on motive power (material handling and buses) and stationary power (back-up power, supplemental power, and distributed generation). A fuel cell is an environmentally clean electrochemical device that combines hydrogen fuel with oxygen (from the air) to produce electricity. Ballard fuel cell products feature high fuel efficiency, low operating temperature, low noise and vibration, compact size, quick response to changes in electrical demand, modular design and environmental cleanliness. The Company has four principal subsidiaries and affiliates: Ballard Fuel Cell Systems Inc., an Oregon corporation that develops methanol-fueled clean energy backup power systems; Dantherm Power A/S ("Dantherm Power"), a Denmark-based corporation jointly owned with Dantherm A/S that develops hydrogen-fueled clean energy backup power systems; BDF IP Holdings Ltd. ("IP Holdings"), a Canadian corporation that holds intellectual property assets; and Ballard Material Products Inc., a Delaware corporation that formerly developed and manufactured carbon fiber products for use in the automotive and fuel cell markets, and which now focuses on the development of fuel processing components and systems for use in fuel cell applications.
+	['', 'fuel cells', '']
+Lysanda
+	Developer of advanced telematics and infomatics technology to the automotive sector. The company develops driver-analysis and driver identification technologies utilized by OEM automotive manufacturers, fleet operators and insurance companies. The company is the creator of the Eco-Log, a plug-and-play device designed to reduce vehicle-fleet running costs by providing data of fuel consumption and wastage.
+	['', 'fuel emission', ' ', 'fuel consumption', ' ', 'fuel wastage', ' pollution ', 'fleet operator', ' OEM']
+Sensorbit Systems
+	Developer of vapor-sensing technology. The company is developing and commercializing a technology capable of detecting trace amounts of complex chemical vapors within seconds. The company plans to utilize this technology for sensor integration into cell phones and other portable devices, as well as the construction of small portable self-contained units in forms such as badges, buttons, and tags
+	['chip ', 'chemical vapour', ' ', 'vapor sensing', ' ', 'sensor-on-chip', '']
+Pemeas
+	Supplier of key components and subsystems to the fuel-cell industry. The company has two divisions. The Celtec division of Pemeas is focused on the development and commercialization of high temperature membranes and MEAs. The E-TEK division of Pemeas is developing precious-metal catalysts and electrode technology.
+	['', 'fuel cell', ' ', 'high temperature membranes', ' ', 'electrode technology', ' ', 'metal catalyst technology', '']
+Protonex Technology
+	Developer and manufacturer of intelligent power management and portable fuel cell products for military and commercial markets. The company provides mission-critical equipment to make military more energy efficient and operationally flexible.
+	['', 'energy service', ' ', 'fuel cell product', ' ', 'power system', '']
+UltraCell
+	Developer and seller of integrated fuel cell systems. The company provides portable power source for computing, communications and sensing devices.
+	['', 'fuel cell', ' ', 'portable power', ' ', 'sensing device', '']
+PolyFuel
+	Developer of micro fuel cells using direct methanol fuel cell technologies.
+	['', 'micro fuel cell', ' ', 'fuel cell technology', ' ', 'methanol fuel', ' ', 'hybrid power', '']

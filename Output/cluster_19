@@ -1,6 +1,15 @@
-Amerigroup
-	Provider of managed healthcare services. The company focuses on serving people who receive healthcare benefits through publicly sponsored programs, including Medicaid, Children\'s Health Insurance Program, Medicaid expansion programs, and Medicare Advantage.
-	['', 'managed healthcare', ' ', 'healthcare benefits', ' ', 'health programs', '']
-Healthcor
-	Owner and operator of commercial real estate, lease employees and provider of managed healthcare to it\'s participants. The company owned and operated the Michigan HMO known as Great Lakes Health Plan, Great Lake Health Services, First Care Health Plan and F.C. Real Estate. The company was acquired by United Health Group in February, 2004.
-	['', 'managed care', ' ', 'managed healthcare', ' ', 'real estate services', '']
+StrataGent Life Sciences
+	Developer of painless and non-invasive versions of therapies. The company offers large and small therapeutic molecules without a device penetrating into or through the skin.
+	['', 'drug therapy', ' ', 'painless therapy', ' ', 'non-evasive therapy', ' ', 'drug delivery', '']
+InnoPharma
+	Developer of complex generic and innovative specialty pharmaceutical/bio-pharmaceutical products in injectable and ophthalmic dosage forms. The company has a broad portfolio of products under development, with formulations including, suspension, lyophilized, emulsions, liposomes, micelles and lipid complexes.
+	['', 'medical product', ' ', 'drug development', ' ', 'bio pharmaceutical product', ' ', 'medical drug research', ' ', 'sterile injectable product', ' ', 'sterile products', ' injectable ophthalmic']
+On Demand Therapeutics
+	Developer of a drug-delivery implant to treat retinal diseases. The company creates relationships with pharmaceutical and medical-device companies to develop ophthalmic products based on the device.
+	['', 'retinal disease treatment', ' ', 'ophthalmic therapy', ' ', 'drug delivery', '']
+Salient Interventions
+	Developer of drug for neurologic diseases. The company develops products focused on early treatment of neurologic diseases and reversal of neurologic deficits.
+	['neurologic ', 'neurologic deficits.', '']
+Pixium Vision
+	Developer of technology to treat blindness. The company is the developer of IRIS retinal implant system, designed to replace the function of photoreceptors in the retina which are damaged by retinal dystrophy and macular degeneration.
+	['', 'retinal dystrophy', ' ', 'data processing', ' electrode ', 'retina blindness', ' ', 'retinal implant', '']

@@ -1,36 +1,27 @@
-Gyros
-	Developer of automated micro-immunoassays for therapeutic protein development. The company develops a microfluidics technology for processing and analysis of proteins and blood samples.
-	['', 'automate immunoassays', ' ', 'therapeutic protein development', ' ', 'medical device', '']
-BioMicro Systems
-	Developer of biological research products for the life sciences community. The company’s products include microarray hybridization instruments that automate the fluid processing of concentrated microarray samples; mixer hybridization chambers for processing multiple microarray samples on a single slide; and wash systems to automate post-hybridization protocols. It also offers labeling-based applications and kits for FISH, arrayCGH, microRNA microarrays, gene expression microarrays, and protein arrays.
-	['', 'biological research product', ' ', 'microarray hybridization instrument', ' ', 'microarray sample', ' ', 'protein array', '']
-Cytomyx Holdings
-	Operator of a life-sciences holding company. The company, through its subsidiaries, develops gene- and protein-based tools to support pharmaceutical companies and researchers in the development of drugs. The company also provides outsourced pharmaceutical research and development, human biology research products and services, and diagnostic products, as well as distributing third parties’ products.
-	['', 'pharmaceutical company', ' ', 'protein tools', ' ', 'human biology', '']
-Pronota
-	Developer of protein biomarker diagnostics platform. The company provides diagnostics for early detection of life-threatening conditions and unmet medical needs that includes pre-eclampsia, cardio-renal syndrome, ovarian cancer and sepsis.
-	['biomaker ', 'diagnostic platform', ' protein']
-Plant Genetic Systems
-	Developer of genetically engineered plants. The company is a biotech company lacated in Ghent, Belgium. The was the first (in 1985) to develop genetically engineered (tobacco) plants with insect tolerance by expressing genes encoding for insecticidal proteins from Bacillus thuringiensis (Bt).
-	['', 'genetic engineering', ' ', 'plants', ' ', 'insecticidal protein', '']
-Epitome Biosystems
-	Developer of technology to measure protein biomarkers and intracellular infrastruture. The company has developed a system using antibody microarrays to provide   measurement of protein biomarkers and intracellular signalling pathways.
-	['', 'protein measurement', ' ', 'phosphorylation measurement', ' ', 'biological system', ' ', 'drug discovery', '']
-Covalys
-	Developer of tools for protein research. The company provides protein-labeling products. The company\'s products help researchers in academic institutions, pharmaceutical and biotech companies to improve the efficiency of research into proteins and their function.
-	['', 'protein research', ' ', 'protein labeling', ' ', 'drug discovery', '']
-Akubio
-	Provider of acoustic detection systems for real time analysis of bio-molecular behavior. The company develops acoustic biosensor instrument products for use in protein research and drug development.
-	['', 'drug discovery', ' ', 'acoustic biosensor', ' ', 'biomolecular interactions', ' ', 'detection technology', ' ', 'protein interactions', '']
-Borean Pharma
-	Developer of pharmaceutical protein products. The compan develops a protein technology platform that helps to identify and produce molecular binders based on naturally occurring human proteins.
-	['', 'molecular binders', ' ', 'healthcare services', '']
-Proteopure
-	Provider of protein isolation for proteomic results. The company provides a universal method for isolating proteins. It also uses a protein capture technology and can specifically separate out proteins from various contaminants, including salts, nucleic acids and detergents.
-	['', 'protein isolation solution', ' ', 'proteomic result', ' ', 'nucleic acid', '']
-Pieris
-	Developer of proprietary anticalin technology. The company\'s product Anticalin, is derived from human lipocalins, rationally engineered to solve for the pharmacological and pharmaceutical limitations of both protein- and non-protein-based drug platforms.
-	['', 'protein therapeutic', ' ', 'anticalin technology', ' ', 'drug platform', '']
-neXyte
-	Operator of a research oriented biotech start-up company. The company develops native-like human proteins in a novel patented protein production system for pharmaceutical and biotech markets.
-	['', 'human proteins', ' ', 'protein production', ' ', 'native-like human proteins', '']
+Presstracking
+	Provider of a business intelligence tool for companies, institutions and professionals in communication. The company\'s tool provides the department responsible for the implementation of the actions to be gathering, compiling and analyzing diverse sources.
+	['', 'business intelligence tool', ' ', 'information gathering', ' ', 'data source analysis', ' ', 'data extraction', '']
+Seruba
+	Provider of a multilingual software. The company provides a software for computer-supported networks including internet, intranets and data warehouses.
+	['multilingual lexicosaurus ', 'data warehouses', '']
+Celequest
+	Provider of operational business intelligence solutions to enterprises. The company provides LAVA, a business intelligence solution that enables companies to provide up-to-the-time-minute business information to operational workers and empowers decision makers to spot emerging trends. It offers its solution as an appliance and as software-as-a-service.
+	['', 'operational business intelligence', ' ', 'financial performance management', ' ', 'inventory monitoring', ' ', 'risk mitigation', '']
+Perceptive Pixel
+	developer of multi-touch display interfaces and screens. The company\'s products are used in applications, such as information visualization and exploration, digital content creation and storyboarding and ideation, as well as geo-spatial, command and control. It serves markets, including medical imaging, broadcast, defense, energy exploration, business intelligence, geo-intelligence, industrial design, finance, museum exhibition and entertainment.
+	['', 'business intelligence', ' ', 'industrial design', ' ', 'geo intelligence', ' ', 'museum exhibition', ' ', 'industrial design', '']
+QueryObject Systems
+	Developer and provider of business intelligence software solutions that enable business managers to make strategic decisions, leveraging existing corporate data. The company delivers its products to a variety of industries, including telecommunications, healthcare, and financial services.
+	['datamarts economy digital']
+Sharp Analytics
+	Provider of business intelligence technology. The company is the developer of a proprietary marketing dashboard technology, SharpView, designed to provide Fortune 500 marketers and their agencies offline-to-online campaign insights. The company\'s platform uses embedded optimization and modeling to identify key insights within data and to integrate campaign results from disparate systems, analyzing the information against pre-defined campaign goals.
+	['', 'business intelligence', ' ', 'marketing dashboard', '']
+Maximal
+	Provider of business intelligence services that enable organizations to discover the knowledge hidden in their data warehouses, gaining competitive edge.
+	['knowledge ', 'business intelligence', ' ', 'data warehouse', '']
+Crystal Decisions
+	Provider of a business intelligence software. The company provides business intelligence software and services that enable the use and management of information within and among organizations.
+	['', 'software platform', ' ', 'software service', ' ', 'business service', '']
+nQuire Software
+	Provider of the internet-based search and analytic platform for structured information. The company server accesses the data warehouses and intelligently federates information from multiple systems and data sources including data warehouses, data marts, operational, transactional and XML-based sources.
+	['', 'analytic platform', ' ', 'server access', ' ', 'data warehouse', ' ', 'data mart', ' ', 'xml source', '']

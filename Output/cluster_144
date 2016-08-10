@@ -1,27 +1,21 @@
-McAfee Wireless Security
-	Provider of Wi-Fi security tools for wireless networks. The company\'s products include wireless security, wireless guard, wifiscan and WPA software.
-	['', 'Wi-Fi security', ' ', 'wireless guard', ' ', 'wireless security', '']
-ProVision Communications
-	Provider of digital wireless technology. The company designs, develops and licenses wireless, multi-room technologies for high definition TV. It serves consumer electronics manufacturers and multinational OEMs (original equipment manufacturers).
-	['', 'high definition television', ' ', 'consumer electronic', ' ', 'wireless networking', '']
-Connection Services
-	Provider of Wi-Fi Services. The company provides enabling technology to the wireless service businesses of major telecommunications companies.
-	['', 'Wi-Fi Services', ' ', 'wireless service', ' telecommunications']
-Antcor
-	Provider of Wi-Fi software products and services. The company provides LTE simulation and emulation products and services to the broadband wireless access market. Its product IkarusOS is a network operating system for broadband wireless networking devices which integrates wireless and networking functions.
-	['', 'wireless connection', ' ', 'broadband service', ' ', 'wireless networking', '']
-Aether Partners
-	Provider of funds for early stage investments. The company offers financial support in wireless infrastructure, optical switching, wireless networking and other cutting edge communications and technology companies.
-	['funds ', 'wireless infrastructure', ' communications']
-LANergy
-	Provider of networking technologies. The company engages in development of various communication technologies including broadband and wireless networking systems.
-	['', 'networking technology', ' ', 'broadband technology', ' ', 'wireless networking', '']
-Technology Brothers
-	Provider of wireless and networking solutions. The company provides enterprise wise wireless telecommunications carriers.
-	['', 'telecommunication carriers', ' ', 'wireless telecommunications', '']
-Sequans Communications
-	Operator of a 4G chipmaker. The company is a provider of single-mode LTE chipset products to wireless device manufacturers worldwide. It  offers two LTE product lines: StreamrichLTE, optimized for feature-rich mobile computing and home/portable router devices; and StreamliteLTE, optimized for M2M devices and other connected devices for the Internet of Things.
-	['', 'chip maker', ' ', 'technology platform', ' telecommunication']
-ipUnplugged
-	Developer of wireless networking products. The company develops networking products for network service providers and system integrators, that includes mobile service routers, client software and mobile service management applications, that integrate mobile networks such as GPRS and wireless LANs.
-	['', 'wireless networking', ' ', 'system integrator', ' ', 'mobile VPN', '']
+Mountain Network Solutions
+	Provider of mainframe storage services. The company also provides hosting, storage and disaster recovery services.
+	['', 'disaster recovery', ' ', 'mainframe storage', ' hosting']
+Cemaphore Systems
+	Developer of e-mail continuity and content management solutions for the Microsoft Exchange. The company\'s products include MailShadow, an enterprise email continuity and disaster recovery solution that protects Microsoft Exchange systems at the transaction level by replicating selected mailboxes from various exchange servers to disaster recovery exchange servers; and MailShadow 2.2 that delivers management automation solutions.
+	['', 'content management', ' ', 'disaster recovery', ' ', 'management automation', '']
+SteelEye Technology
+	Provider of cost-effective enterprise IT reliability solutions for business continuity. The company\'s application failover, data replication, and disaster recovery software products are easy to deploy and operate, and enable enterprises of all sizes to ensure availability of business-critical applications, servers and data.
+	['', 'Business Continuity', ' ', 'High Availability', ' ', 'Data Replication', ' ', 'Linux High Availability', '']
+PERFORMANCE Technologies.
+	Provider of products and services such as virtualization. The company provides services for virtualization, data center computing & storage, disaster recovery & business continuity, information security and information technology systems and services management.
+	['', 'data center computing', ' ', 'disaster recovery', ' ', 'information security', '']
+Teneros
+	Provider of application continuity appliances for disaster recovery. The company’s Velocity series offers email application and data continuity in local high availability and remote disaster recovery models that support applications in various environments. It also offers Social Sentry that enables companies to monitor employee public activity on social networks.
+	['', 'application continuity', ' ', 'disaster recovery', ' ', 'data comtinuity', ' ', 'social sentry', '']
+DataGardens
+	Provider of disaster recovery software systems. The company provides infrastructure services including virtual machine migration, virtual machine provisioning, fail over and fail back, backup and recovery across geographically distributed sites.
+	['', 'disaster recovery', ' virtualization ', 'data center migration', '']
+AppAssure Software
+	Developer of backup, disaster protection and recovery software applications for Microsoft Exchange and BlackBerry environments. The company offers Virtual Recovery Accelerator, a disaster recovery solution that enables organizations to protect messaging environment workloads; Recovery Accelerator, which enables organizations to accelerate the recoveries of messaging environments and Replay agents that provide protection for Windows application servers. It also provides Data Store Manager, a software package for browsing, recovering, searching, exporting and analyzing e-mail and mailbox content directly from various unmounted Microsoft Exchange data stores; Exchange Observer, a tool that monitors and reports the health and status of exchange servers and data stores and DocRetriever for SharePoint, which provides multiple document, item, site, sub-site and folder restores without requiring a SharePoint recovery farm.
+	['', 'recovery software', ' ', 'disaster protection', ' ', 'backup application', ' ', 'data storage', ' ', 'server monitor', '']

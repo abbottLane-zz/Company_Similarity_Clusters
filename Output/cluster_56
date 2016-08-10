@@ -1,24 +1,9 @@
-Íshestar
-	Provider of horseback tours in Iceland.  The company is an operator of equestrian-tourism services in Iceland, providing traditional Icelandic horses, riding and dining facilities for riders, and promoting its services through an online booking site.
-	['', 'horse', ' ', 'hiking', ' ', 'riding', ' ', 'online booking', '']
-Snowbon
-	Provider of an online booking platform for ski and related activities. The company provides a system to book ski lift tickets, skiing equipment and also provides information regarding the hotels and climate.
-	['', 'online booking platform', ' ', 'ski lift ticket', ' ', 'skiing equipment', '']
-Easy Market
-	Developer of online booking systems for travel agencies specializing in tour packages, special offers, last minute and low cost flights.
-	['', 'booking system', ' ', 'tour package', ' ', 'low cost flight', ' ', 'computerised reservation', '']
-redBus
-	Provider of an online bus ticketing service. The company enables users to book bus tickets through phone, home delivery, physical outlets or even SMS.
-	['', 'online bus ticket', ' ', 'booking service', ' ', 'online ticketing', '']
-G2 SwitchWorks
-	Provider of travel distribution solutions for travel suppliers and agents in the United States. The company offers products for ticket fare search, ticket booking, and automated exchange and refunds.
-	['', 'travel distribution', ' ', 'travel supplier', ' ', 'ticket booking', '']
-Gigit
-	Provider of a platform to book well-known and upcoming bands for private shows. The company helps its artists get exposure to labels, with representatives of multiple studios attending at least one early Gigit event to scout an upcoming band.
-	['', 'private show', ' ', 'show booking platform', ' ', 'entertainment platform', '']
-Chang Xiang Hangzhou Network Technology Co.
-	Provider of travel management services to businesses. The company operates a site that provides travel services including travel management and travel credit for firms, non-profit entities and governments. It also provides hotel and air ticket booking services for enterprises.
-	['', 'travel management', ' ', 'travel services', ' ', 'travel credit', ' ', 'ticket booking', '']
-PortugalRes
-	Operator of an online booking platform. The company also distributes products to travel agencies and tour operators worldwide.
-	['', 'ticket booking', ' ', 'travel product', ' ', 'online travel platform', '']
+Targanta Therapeutics
+	Developer of innovative antibiotics to treat serious infections in the hospital and other institutional settings. The company develops antibiotics for the treatment of serious gram-positive bacterial infections, including complicated skin and skin structure infections.
+	['biopharmaceutical ', 'skin infection', ' ', 'bone infection', ' antibiotic']
+Promic
+	Developer of antibacterial drugs. The company focuses on discovery of drugs needed to treat hospital-acquired and community-associated infections.
+	['antibiotic infection antibacterial cheminformatics']
+Ansata Therapeutics
+	Operator of a biopharmaceutical company focused on dermatologic treatments. The company develops peptide-based topical antibiotics for skin issues.
+	['', 'peptide-based', ' ', 'antibiotic product', ' ', 'topical medication', ' ', 'skin infection', ' ', 'pharmaceutical product', '']

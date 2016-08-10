@@ -1,21 +1,6 @@
-ACT Biotech
-	Developer of cancer drugs. The company is focused on the development and commercialization of targeted oral and cancer drugs.
-	['', 'oral cancer', ' ', 'cancer treatment', '']
-ULSD
-	Researcher of oral biology as well as olecular, cellular and craniofacial biology with faculty members. The company\'s main objective is to enhance the speed to market the oral developments within the UofL School of Dentistry.
-	['', 'cellular biology', ' ', 'dental hygiene', ' ', 'oral development', '']
-JSK Therapeutics
-	Developer of novel anti-cancer drugs using an approved compound to inhibit the growth of cancer cells. The company\'s business is based on two types of drugs, the first class of drug, has been tested in animal systems and the second class of drugs is not as developed as a cancer drug but is more versatile with wider range of cancers.
-	['', 'cancer therapy', '']
-Apalexo Biotechnologie
-	Operator of a biopharmaceutical company focused on cancer treatment. The company is focused on development of a treatment to eradicate residual tumor cells following conventional cancer therapies.
-	['immunotherapeutics cellular']
-KuDOS Pharmaceuticals
-	Developer of oncology drugs. The company develops drugs for combination with chemo- and radiotherapy, based on expertise in DNA repair mechanisms for treatment of cancer.
-	['', 'cancer treatment', ' ', 'drug discovery', ' ', 'drug delivery', '']
-Anesta
-	Developer of pharmaceutical products for oral transmucosal drug administration. The Company\'s products are based on its proprietary oral transmucosal system (OTS) for drug delivery.
-	['', 'oral transmucosal system', ' ', 'pharmaceutical product', ' ', 'oral transmucosal drug', '']
-ZGene
-	Provider of gene therapeutics for the treatment of cancer diseases. The company develops treatments for several cancer forms with an enzyme based gene suicide system that increase the activation of anti-cancer drugs in tumour cells with faster cell death.
-	['', 'cancer treatment', ' ', 'gene suicide', ' ', 'anti-cancer drugs', '']
+XTeam Training
+	Developer of virtual training technologies. The company offers virtual training games and simulation for organizational development.
+	['', 'online training', ' ', 'virtual training', ' ', '3D gaming', ' simulation']
+Skillboost Project
+	Provider of an e-learning platform for young soccer players. The company offers an online training system for sports and also features moves and dribbles from different angles through 3D visualization on web and smartphones.
+	['soccer ', 'e-learning platform', ' ', 'online sports training', ' ', 'sport training', '']

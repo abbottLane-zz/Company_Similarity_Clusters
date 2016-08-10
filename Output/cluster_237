@@ -1,21 +1,30 @@
-Buysight
-	Provider of search engine marketing platform for display advertising. The company provides services for both brand and performance advertisers and has developed an online display advertising network called ShopperConnecta for online e-commerce shopping market.
-	['', 'brand advertising', ' ', 'marketing platform', ' ', 'display advertising', '']
-MyBuys
-	Provider of cross-channel personalization for brands and retailers. The company offers web recommendations and personalized alerts. It builds profiles based on individual shopper\'s behavior and then uses a patented portfolio of algorithms and real-time optimization to deliver recommendations. It offers its recommendations to users through email and RSS alerts.
-	['', 'predictive display advertising', ' ', 'cross channel marketing', ' ', 'personalized alert', ' recommendation']
-Dapper
-	Provider of an advertising technology platform for creating dynamic display advertisements. The company provides a platform built on machine learning, intent exploration, sophisticated matching algorithms and real-time automated optimization which delivers dynamically assembled, intent-driven display ads that drive increased relevance and performance.
-	['', 'advertising technology platform', ' ', 'display adverts', ' ', 'display advertising', ' ', 'advertisement platform', ' ', 'web applications', ' ', 'semantic web', '']
-ReTargeter
-	Provider of an online display advertising platform. The company offers services for brand awareness and conversions by showing banner advertisements to the audience to a site after they leave. It enables brands to focus their advertisements on everyone who has engaged with them online, whether through the Web, e-mail, mobile devices or social media.
-	['', 'display advertising', ' ', 'brand awareness', ' ', 'banner advertisements', '']
-Adapt Media
-	Provider of wireless outdoor advertising solutions. The comapny specializes in display and communications technologies. It\'s product AdRunner, provides targeted location and time sensitive advertising. Its solutions enable advertisers to deliver real-time geo-targeted outdoor advertising.
-	['', 'wireless outdoor advertising', ' ', 'communication technology', ' ', 'display technology', ' ', 'time sensitive advertising', '']
-DirectRevenue
-	Provider of search, content, and software for advertisers and marketers. The company provides technology solutions that enable marketers to deliver highly targeted contextual advertisements. DirectRevenue delivers its contextual advertising services through partnerships with online media brokers.
-	['', 'advertisers', ' ', 'contextual advertisements', '']
-TellApart
-	Developer of online marketing applications for ecommerce retailers. The company uses personalized retargeting technology to create banner advertisements and offers a platform that helps users to collect and organize cloud based customer data.
-	['', 'display advertising', ' ', 'personalized banner', ' ', 'banner advertisement', '']
+XtremIO
+	Developer of solid-state drive data storage systems. The company develops platform that will help shared storage environments with performance improvements, utilization of IT resources and a low capital investment. XtremIO’s solutions are designed to deliver performance in Enterprise storage environments, while addressing existing storage device limitations and data network connectivity challenges.
+	['', 'solid state drive', ' ', 'data storage system', ' ', 'enterprise storage', ' ', 'data network', ' ', 'enterprise solutions', ' ', 'data storage', '']
+EqualLogic
+	Provider of data storage solutions. The company’s products include PS Series Architecture for consolidated networked storage in a self-managing iSCSI storage area network; enterprise data services for storage virtualization, server management and protection integration, and data protection and recovery; PS6000 and PS4000 Series iSCSI storage area network arrays for data storage consolidation; and PS storage stack that enables users to configure storage pools or tiers to optimize performance and capacity according to application-specific demands.
+	['', 'data storage', ' database virtualization recovery']
+Viathan
+	Developer of technology that helps companies manage data. The company\'s storage virtualization software provides data management platforms for use by companies and e-commerce vendors alike.
+	['', 'internet application', ' ', 'data storage', ' ', 'database management', '']
+Zettapoint
+	Provider of database optimization software solutions. The company classifies structured data based on actual usage and importance to the organization.It also provides with data storage platforms, as well as optimize business intelligence processes.
+	['', 'database optimization', ' ', 'software solution', ' ', 'data storage platform', ' ', 'business intelligence process', '']
+Align Technology
+	Manufacturer of invisalign system for treating malocclusion or the misalignment of teeth. The company’s products include Invisalign Full for the treatment of a range of malocclusions. It corrects malocclusion using a series of clear, nearly invisible, removable appliances that gently move teeth to a desired final position.
+	['', 'invisalign system', ' malocclusion ', 'misalignment of teeth', '']
+FTAPI Software
+	Provider of software for the secure transmission and storage of data. The company\'s data space allows location-independent and share access to files and replace FTP server through a data exchange option.
+	['', 'data transmission', ' ', 'data storage', ' ', 'file sharing', ' ', 'data exchange', '']
+Connected Data
+	Developer of social storage appliances. The company provides products enabling consumers, professionals and small businesses to securely group, share and protect data.
+	['', 'social storage appliance', ' ', 'data protection', ' ', 'data sharing', '']
+Silicon Graphics
+	Developer of servers and data storage systems. The company develops, markets and sells a broad line of servers and data storage systems, as well as differentiating software.
+	['', 'Data Analytic', ' ', 'Data Center Technology', ' ', 'HPC Software', '']
+Link_A_Media Devices
+	Manufacturer of custom system-on-chip (SoC) solutions for peripheral data storage devices. The company’s SoC solutions integrate the read/write channel, disk controller functions, microprocessor and memories and servo processing for HDD application on a single chip.
+	['', 'data recovery', ' ', 'system on chip', ' ', 'data storage device', '']
+4Blox
+	Provider of a family of software components used to expand CPU processing capacity in internet small computer systems interface (iSCSI) storage area networks. The company offers 4Mezzo suite, a product line of software accelerators to reduce host CPU processing overhead associated with iSCSI in standalone and virtual machines; 4Mezzo Plus Target, an iSCSI target add-on for commodity operating systems, which incorporates 4Blox acceleration techniques; and 4Mezzo Plus Initiator, an iSCSI initiator add-on for commodity operating systems, which incorporates 4Blox acceleration techniques for small to medium sized businesses. It’s software is also available for standalone OSes or iSCSI storage area network solutions from original equipment manufacturers, value added resellers, value added distributors, and independent software vendors.
+	['', 'software accelerator', ' ', 'server visualization', ' ', 'system integrator', ' ', 'commodity operating system', '']

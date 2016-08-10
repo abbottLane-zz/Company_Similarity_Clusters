@@ -19,7 +19,6 @@ class CompanyRecommender:
         self.__initialize_clusters()
 
     def __initialize_clusters(self):
-        print("Initializing clusters, this takes a few seconds ...")
         # Load the data
         self.companies, self.descriptions, self.company_idx_map = load_data(self.data_dir, has_header=True)
 
@@ -31,6 +30,7 @@ class CompanyRecommender:
         print("n_samples: %d, n_features: %d" % X.shape)
 
         # Initialize K-means algorithm preferences
+        print("Initializing clusters, this takes a few seconds ...")
         self.km = KMeans(n_clusters=self.k, init='k-means++', max_iter=100, n_init=1, verbose=False)
 
         # Use k-means to generate clusters

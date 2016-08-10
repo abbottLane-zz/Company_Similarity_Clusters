@@ -1,24 +1,27 @@
-Styletread
-	Online retailer of shoes in Australia. The company is a multi-brand retailer of shoes for men, women and children. Its products include fashion footwear, dress shoes, athletic footwear and boots.
-	['', 'online shoe store', ' ', 'athletic footwear', ' ', 'formal shoes', ' ', 'fashion footwear', '']
-TRB International
-	Manufacturer of men\'s luxury swimwear, accessories and resort wear. The company designs and distributes high end swimwear and accessories.
-	['swimwear ', 'pants and shorts', ' cap']
-Massivkonzept
-	Online retailer of custom furniture, including shelving, cabinets, tables and seating systems. The company provides home furnishings that can be customized to users’ specific measurements, colors and wood qualities. The company also operates a flagship store in Hamburg, Germany.
-	['', 'home furnishings', ' ', 'custom furniture', ' ', 'online retailer', ' ecommerce ', 'wood products', '']
-M2M Fashion
-	Retailer of customized clothing and accessories. The company through its website sells men\'s personalized garments through an online self-surveying process.
-	['', 'fashion accessories', ' ', 'personalized garments', ' ', 'customized clothing', ' ', 'self-surveying process', '']
-Vipventa
-	Provider of an e-commerce platform for fashion and luxury products. The company is a Spain-based retailer of apparel and accessories for men, women and children.
-	['', 'e-commerce', ' kinga ', 'disney pictures', '']
-Mon Showroom
-	Retailer of fashions for men, women and children. The company is an online retailer of French-inspired clothing and accessories.
-	['', 'fashion retail store', ' ', 'ready to wear', ' ', 'women trend', '']
-Jackalope Labs
-	Operator of a fashion-retail site with curated, home-try-on selections. The company operates an electronic commerce site for men and women utilizing its own label, sending customers curated garment collections to try on at home and charging them for the garments they opt to keep.
-	['', 'luxury clothing', ' ', "men\\'s apparel", ' ', "women\\'s apparel", ' ', 'internet retail', ' ', 'fashion retail', '']
-Meemi
-	Provider of luxury fashion for men and women. The company operates a website that offers various types of clothes, shoes, bags, accessories and designer wears.
-	['', 'luxury fashion', ' ', "women\\'s clothing", ' ', 'designer wear', '']
+ConforMIS
+	Manufacturer of surgical devices for the treatment of early, moderate and late stage osteoarthritis of the knee. The company designs devices that conform to a patient\'s anatomy to achieve minimally invasive surgery and maximal sparing of bone. It also develops articular repair systems capable of re establishing normal articular alignment and shape in patients with osteoarthritis.
+	['', 'knee osteoarthritis', ' ', 'bone sparing', ' ', 'bone surgery', ' ', 'articular alignment', ' ', 'knee surgery', ' ', 'knee replacement', ' ', 'knee implant', ' ', 'orthopedic implant', ' ', 'implant design', '']
+LRS Ortho
+	Developer of bone drilling device. The company develops computer-aided guiding device for accurate, effective aiming in bone drilling and cutting procedures.
+	['', 'bone device', ' ', 'bone drilling', ' ', 'medical device', '']
+Lunar
+	Developer of  bone disease diagnostic systems. The company develops, manufactures and markets bone densitometers and other related medical equipments and products for the treatment of osteoporosis and other metabolic bone diseases that causes excessive bone loss due to aging.
+	['', 'bone diseases', ' osteoporosis ', 'bone densitometers', ' ', 'bone loss', ' ', 'metabolic bone disease', '']
+Harvest Technologies Corp
+	Provider of bone marrow aspirate concentrate (BMAC) systems to treat vascular, orthopedic and cardiovascular diseases. The company offers SmartJet applicator kits that deliver platelet concentrate and thrombin to the surgical site. It helps in improving patient outcomes by enhancing the body\'s normal healing process using adult stem cells and growth factors.
+	['BMAC ', 'stem cells', ' ', 'bone marrow aspirate concentrate', '']
+Exogen ( Ultrasound Bone Healing System )
+	Developer of medical devices for the non-invasive treatment of bone injury and disease. The company focuses on the biophysical modulation and treatment of musculoskeletal injuries and disease.
+	['', 'medical devices', ' ', 'non invasive treatment', ' ', 'bone injury', ' ', 'biophysical modulation', ' ', 'musculoskeletal injuries', '']
+Enobia Pharma
+	Developer of therapies to treat genetic bone disorders for which there are no approved treatments. The company’s products are used for the treatment of hypophosphatasia (HPP).
+	['', 'enzyme replacement', ' hypophosphatasia ', 'bone disorder', ' biotechnology ', 'bone mineralization', ' ', 'bone disease', '']
+Azelon Pharmaceuticals
+	Developer of formulations for the treatment of osteoporosis. The company develops ZT-034, a nasal spray formulation of teriparatide that offers an alternate for patients at high risk of fracture.
+	['', 'osteoporosis treatment', ' ', 'nasal spray', ' teriparatide ', 'nasal spray formulation', '']
+Resoimplant
+	Provider of orthopedic devices. The company develops, manufactures and markets double shell expansion systems for secure fixation of tendons, ligaments and bone fragments in orthopaedic, trauma and sports medicine applications.
+	['', 'resorbable fixations', ' ', 'arthroscopic refixation', ' ', 'healthcare devices', '']
+PRADAMA
+	Developer of drugs for bone diseases and disorders.
+	['', 'bone disease', ' ', 'bone disorder', ' ', 'bone drugs', '']

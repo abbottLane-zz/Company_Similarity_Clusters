@@ -1,24 +1,36 @@
-Metreo
-	Provider of pricing optimization software. The company provides pricing optimization software that enables manufacturers and distributors to maximize profits from the sales of their goods and services.
-	['', 'pricing optimization', ' ', 'profit maximization', ' finance']
-Bargain Network
-	Provider of relevant product pricing information. The company provides its members with day to day reasonable and affordable pricing information on significant purchases such as homes, vehicles and consumer products.
-	['', 'product price', ' affordable ', 'pricing information', '']
-CrowdSavings.com
-	Provider of an e-commerce marketplace offering consumers discounted products and services from local businesses and online retailers. The company provides customer acquisition campaigns to local merchants through email, social networking and affiliate partners.
-	['', 'online retail', ' ', 'customer acquisition campaign', ' ', 'customer base enlargement', '']
-Synapse Group
-	Provider of proprietary customer acquisition and management services for publishers of consumer magazines. The company provides services to publishers in driving magazine circulation and increasing the value of magazine customer relationships.
-	['', 'consumer magazine', ' ', 'customer acquisition', ' ', 'affinity marketing', '']
-WizBill
-	Provider of an expert system for the telecommunication industry. The company offers a platform for billing and addresses issues such as customer acquisition, customer retention and pricing optimization leading to improved customer satisfaction.
-	['', 'saving advisory', ' ', 'customer acquisition', ' ', 'pricing optimization', '']
-ActivityStream.io
-	Operator of an online store. The company provides an online platform which connects e-commerce retailers with customers.
-	['', 'customer activity', ' ', 'purchase decisions', ' ', 'customer satisfaction', '']
-Listening Company
-	Provider of outsourced customer communication services. The company specializes in telemarketing solutions which includes managing customer interaction ranging from customer acquisition to retention, renewal and growth, including advice and services.
-	['', 'telemarketing solutions', ' ', 'outsourced customer communication services', ' ', 'BPO services', ' ', 'managing customer interaction', '']
-Licensario
-	Developer of a technology that helps independent software vendors and SaaS businesses build flexible pricing models and sell their products. The company also manages the end-user rights management, gives detailed analytics and insights, integrates with the business customer relation management.
-	['', 'pricing models', ' ', 'software developer', '']
+Data Marketplace
+	Operator of an online marketplace for data. The company provides a platform linking people seeking data with those who specialize in collecting, cleaning and analyzing data. Users place a request, and providers upload it to the site, provide descriptive metadata and set a price for it. The stored metadata is used to help consumers find relevant data through traditional search engines and when browsing the marketplace.
+	['', 'online marketplace', ' ', 'payment processing', ' ', 'file conversion', ' whitelabel ', 'branded storefront', '']
+RP Holdings
+	Provider of mortgage default services. The company offers non-legal administrative, accounting, technology and information, data and document collection, transmission and processing services to law firms.
+	['', 'mortgage default services', ' ', 'processing services', '']
+PropertyBridge
+	Developer of electronic payment processing solutions for the real estate management industry. The company provides payment types such as credit and debit card, automated clearing house, check scanning, cash payment and lockbox.
+	['', 'electronic payment', ' ', 'payment processing', ' ', 'real estate management', ' ', 'automated clearing', ' ', 'payments platform', '']
+Jware Technologies
+	Provider of online payment and card processing services. The company engages in providing an electronic payment transaction processing software for the retail, banking and telecommunication sectors.
+	['', 'electronic payment', ' ', 'transaction processing', ' ', 'card processing', '']
+Dynamic Payment Ventures
+	Provider of payment processing services.
+	['', 'payment', ' ', 'processing services', '']
+Fine Trade
+	Provider of e-commerce trading services with payment options. The company provides shopping and sales service of national and international goods and handles service transactions for businesses.
+	['', 'trading services', ' ', 'payment options', '']
+Verus Financial Management
+	Provider of payment processing services to small and medium sized businesses. The company is a merchant services business specializing in credit card and cheque processing for small and medium-sized businesses (”SMEs”).
+	['', 'merchant services', ' ', 'credit card processing', ' payroll ', 'payment processing services', '']
+Pay by Touch
+	Provider of end to end payment processing solutions. The company offers fingerprint identification technologies.
+	['payment fingerprint biometric']
+Braspag
+	Provider of payment processing services for e-commerce and call centers in Latin America. The company integrates all payment methods and consolidates the technical, financial and operational processes.
+	['', 'payment processing', ' ', 'payment methods', ' e-commerce']
+Prefer Network
+	Provider of strategic marketing and list processing services. The company offers a cooperative catalog database which provides organizations with consumer purchasing behavior data.
+	['', 'consumer purchasing data', ' ', 'list processing', ' ', 'collaborative database', ' ', 'transactional data', '']
+Harbor Payments
+	Provider of enterprise invoice, billing, and payments management solutions for the enterprises. The company offers Payment Harbor, a Web-based payment processing platform, which provides centralized concurrent management of various disbursement activities and payment systems; Invoice Harbor that streamlines the process of invoice receipt, handling, presentment, and payment processing; and Billing Harbor, which provides electronic bill presentment and payment solution that allows clients to view and pay their bills online, schedule recurring or automatic payments, and receive their billing data.
+	['', 'bill management', ' ', 'invoice billing', ' ', 'payment solution', '']
+Thriva
+	Provider of online event registration and payment processing software.
+	['', 'event management', ' ', 'event registration', ' ', 'payment processing', '']

@@ -1,36 +1,51 @@
-The Marionette Collective
-	Provider of a framework to build server orchestration or parallel job execution systems. The company offers a number of agents to manage packages, services and other common components.
-	['', 'middle ware system', ' ', 'authentication model', ' ', 'meta data', '']
-Toostep Consultancy
-	Developer of an online platform that enables recruiters to promote jobs on social networking sites and search engines. The company operates an online portal that allows users to ask experts questions, debate with each other and gives recruiters the ability to post jobs through search engines and social media.
-	['', 'job search', ' ', 'recruitment portal', ' recruiters']
-Metirato
-	Operator of a social recruiting media. The company provides tools that helps job seekers to upload their profile and employers can find the candidates that match their profile best.
-	['', 'social recruiting media', ' ', 'job search', ' ', 'recruitment services', '']
-ubalo
-	Provider on an online platform for numerical computing. The company provides interactive demos with the power of a full computer running in the user\'s browser.
-	['', 'online platform', ' ', 'numerical computing', ' ', 'interactive demo', '']
-Joblocal
-	Provider of an online platform for staffing and recruiting services. The company provides a mobile and smart phone application that aggregates local and regional job listings in Germany. The product functions as a marketing and human resources tool for employers, in addition to an information source for job seekers.
-	['', 'business services', ' ', 'recruiting service', ' ', 'staffing and recruiting', '']
-InfoJobs Spain
-	Developer of an online job platform. The company provides a digital platform that offers employment information services in Spain.
-	['', 'online job platform', ' ', 'job portal', ' ', 'employment services', '']
-GroupTalent
-	Provider of a hiring platform that brings together talent and employers. The company aims to connect job-seekers and employers with each other’s preferences creating a relevant hiring experience.
-	['', 'hiring marketplace', ' ', 'job matching', ' ', 'software project hiring', ' ', 'software marketplace', ' recruiting']
-itzBig
-	Operator of an interactive job search website. The company provides an interactive job search website that matches employers and candidates in real-time.
-	['', 'online job search', ' ', 'online recruitment', ' ', 'interactive job search', '']
-Talent Plug
-	Developer of software for recruitment professionals. The company offers software to support multi-channel talent acquisition processes.
-	['', 'talent acquisition software', ' ', 'recruitment software', ' ', 'job search', ' ', 'Job Posting', '']
-Connectifier
-	Provider of a platform which connects recruiters to candidates. The company gives recruiters a complete view of prospective job candidates and a way to connect with those candidates.
-	['', 'connecting candidates', ' ', 'online platform', ' ', 'recruitment support', '']
-Collegefeed
-	Developer of a social platform for students and employers. The platform offers a Facebook-like news feed where students can access tuition help, job opportunities, interview-preparation help and access to alumni and mentors. It connects employers with students as they progress through school as opposed to forcing decisions through short interviews, career fairs and campus visits.
-	['', 'job opportunity', ' ', 'job seeking platform', ' ', 'digital platform', '']
-Snaptalent
-	Operator of a job advertisement network. The company\'s network detect the IP addresses of website visitors and attempt to identify whether they work for a particular company or attend a particular university.
-	['', 'job advertisement', ' ', 'IP address detection', ' ', 'job information', ' job']
+CreativeHub
+	Designer and Developer of websites and Builder of mobile and social media applications for entrepreneurial companies. The company works with businesses in a variety of industries, including advertising, technology, entertainment, financial services, communications, media, consumer products, real estate, apparel and retail.
+	['', 'Marketing and Advertising', ' communication entrepreneurial']
+Mortgage.com
+	Operator of an online mortgage platform. The company offers an online platform that provides mortgage services for the residential real estate industry.
+	['']
+Domusclick
+	Provider of an online real estate portal. The company operates an online portal focused on real estate allowing members to upload information regarding intent of sale or purchase of property. The website acts as a platform between buyers and sellers of property helping them to close on a deal.
+	['', 'real estate platform', ' ', 'online real estate platform', ' ', 'property sale', ' ', 'property purchase', '']
+Ascotfirst.com
+	Owner and operator of an online property portal. The company offers the facility to apply for online quotes, mortgages, conveyancing or removals.
+	['', 'online portal', ' ', 'property portal', ' ', 'real estate website', '']
+Cartavi
+	Provider of cloud based document sharing platform. The company\'s platform allows everyone involved in a real estate transaction to securely manage and share documents from any computer, tablet or smartphone.
+	['', 'document sharing', ' ', 'real estate document', ' ', 'real estate transaction', ' ', 'mobile real estate', '']
+Healthcor
+	Owner and operator of commercial real estate, lease employees and provider of managed healthcare to it\'s participants. The company owned and operated the Michigan HMO known as Great Lakes Health Plan, Great Lake Health Services, First Care Health Plan and F.C. Real Estate. The company was acquired by United Health Group in February, 2004.
+	['', 'managed care', ' ', 'managed healthcare', ' ', 'real estate services', '']
+American Boarding
+	Provider of real estate services. The company offers real estate properties and rental housing products and services.
+	['', 'rental housing', ' ', 'rental property', ' ', 'property development', '']
+Martemyanovo
+	Owner and operator of residential real estate properties. The company trades and leases real estate properties in Mexico.
+	['', 'residential properties', ' lease rent']
+Trulia
+	Provider of a real estate search engine. The company offers information on search sales statistics, real estate price trends and real estate market activities. It allows users to find homes for sale, as well as provides advertising products for real estate professionals.
+	['', 'real estate market', ' ', 'search engine portal', ' ', 'real estate listing', ' ', 'online listing', '']
+Ethimmo
+	Provider of social housing services. The company caters to the real estate industry and offers housing facilities for families and single people with limited financial possibilities.
+	['', 'social economy', ' ', 'moderate rent', ' ', 'disadvantaged people', ' houses']
+Cityfeet.com
+	Provider of online commercial real estate information. The company offers commercial real estate products and services catering to the national and local needs of the commercial real estate industry.
+	['', 'real estate products', ' ', 'real estate services', ' ', 'commercial real estate', '']
+Dichanphone
+	Developer of pre-installed real estate related mobile phone software applications. The company develops a joint distribution and financial channels used as marketing platform for real estate agency, real estate developers, financial institutions.
+	['', 'mobile phone software', ' ', 'joint distribution', ' ', 'financial channels', '']
+Enviro Global
+	Provider of real estate-related and marketing information databases. The company develops advanced data compilation, transformation and delivery technology designed to transform and distribute substantial amounts of information from disparate sources. They provide information through Internet licensing agreements and under long-term service contracts to multiple listing services, realtor associations, and other information companies located primarily in the eastern United States.
+	['', 'data compilation', ' ', 'marketing information', '']
+Sciences-U Groupe
+	Provider of professional training courses in France. The company provides vocational training in multiple sectors, including graphics & design, management & human resources, data processing, communications, marketing, tourism, accounting, real estate, insurance, Web design and notary. The company operates facilities in Lille, Paris and Lyon.
+	['marketing ', 'professional training', ' communication']
+Skire
+	Provider of cloud-based solutions for managing capital projects, facilities and real estate. The company offers Unifier, an integrated solution suite developed on a collaborative Web-based platform that optimizes and integrates critical business processes, data and documents in the organization. The company\'s solution comprises Real Estate Management solution for portfolio, transaction and lease management and Integrated Workplace Management System, which provides the visibility and tools that support strategic decisions from initial planning, through project execution or creation of the asset and into the ongoing operations, maintenance and real estate management. The company also provides consulting and training services.
+	['', 'internet softwares', ' ', 'real estate management solutions', ' ', 'programmed softwares', ' ', 'real estate services', '']
+Searchandise Commerce
+	Provider of e-commerce and search solutions for product manufacturers and retailers. The company provides HitList, a service designed to help retailers monetize previously untapped online real estate by integrating manufacturer bids into the rendering of how products are presented, as well as represents an opportunity for manufactures to leverage cost per click bidding to elevate position and boost visibility across a network of retail sites.
+	['e-commerce ', 'data collection', ' ', 'clickshare analysis', ' ', 'retail network', ' ', 'in-store merchandising', '']
+Yoko Toshikaihatsu
+	Provides real estate services. The company is shifting its business emphasis from property sales to property management in a process of business restructuring. It is engaged in the investment planning, development and sale of apartments. It is also involved in brokerage and leasing of real estate properties.
+	['', 'investment planning', ' ', 'real estate service', ' ', 'property development', ' ', 'business restructuring', '']

@@ -1,57 +1,18 @@
-BlackLocus
-	Provider of a cloud-based platform for online retailers that provide recommendations on pricing, inventory management and marketing. The company provides platform that recommends actionable items, enables implementation of recommendations.
-	['', 'pricing tool', ' ', 'online retailer', ' ', 'actionable item', ' ', 'pricing recommendation', '']
-Ignition Mobile
-	Promoter of mobile applications. The company provides a platform offering exclusive deals for free applications. Users can download a button to reserve offers for apps, and have 24 hours to act on the deal. The platform is a promotion channel for app developers.
-	['', 'paid application', ' ', 'developer interest', ' royalty']
-EGS Group
-	Provider of cloud-based services to automate back office processes. The company offers outsourced and cloud-based back office automation services including corporate procurement, invoice processing, e-sourcing and accounts receivable.
-	['', 'back office', ' e-invoicing procurement ', 'sales order', ' ', 'invoice processing', '']
-AppFog
-	Provider of a web based application platform. The company provides a platform as a service that allows to deploy, manage and scale applications written in all languages, with all frameworks, across public, private and hybrid clouds.
-	['', 'web application deployment', ' ', 'application scaling', ' ', 'workload portability', '']
-Digital H2O
-	Provider of water management services. The company develops a cloud-based platform for the management of water in oil and gas operations.
-	['', 'cloud-based software', ' ', 'supply chain', ' ', 'oilfield water', '']
-Cypher Genomics
-	Provider of cloud-based genomic analytic services. The company develops a proprietary ranking algorithm that is more effective at disease variant identification compared to other methodologies.
-	['', 'genomic analysis', ' ', 'proprietary ranking algorithm', ' genomics']
-Cloudtop
-	Provider of a software-application connection service. The company provides a software platform that enables users to connect, store and process any file from anywhere on the Internet. Users can connect their apps to more than a dozen online services, in 2 lines of code, and the software handles uploading of the files, delivering a short URL to store and to read from.
-	['', 'mobile app', ' ', 'cloud service', ' ', 'mobile tool', ' ', 'sync multiple services', '']
-Macheen
-	Provider of cloud service for connected devices. The company provides cloud-based platform supports to new business models for device makers, retailers, cloud service providers and network operators.
-	['', 'cloud service provider', ' ', 'cloud service', ' ', 'cloud service platform', ' ', 'connected device', ' ', 'device platform', ' ', 'cloud based platform', ' ', 'device service', '']
-FeedHenry
-	Provider of a cloud-based mobile application platform. The company’s software enables application developers to build, deploy and manage mobile applications. The software can be deployed to different cloud and platform as a service environments.
-	['', 'application developer', ' ', 'cloud based service', ' ', 'cloud-based application', '']
-LayerVault
-	Developer of a cloud based application that manages revisions, store files and help designers to collaborate around designs. The company\'s application allow designers to store, back up and track designs as they go through revisions and allows them to deliver their work to collaborators and clients.
-	['', 'design tracking', ' ', 'file storage', ' ', 'cloud data', ' ', 'visual search function', ' ', 'design collaboration', '']
-Trestle
-	Provider of a set of cloud based mobile application that allows mobile applications to store and manipulate data. The company provides chain server as well as the custom node JS service for creating custom mobile application.
-	['', 'custom mobile application', ' ', 'chain server', ' ', 'custom node', '']
-Openera
-	Provider of mobile application services. The company provides an application that help users to find any file or attachment in two taps and automatically saves email attachments to cloud services like Dropbox, Google Drive, Box and Salesforce.
-	['', 'mobile application service', ' ', 'email attachment', ' ', 'cloud service', '']
-Nixter
-	Operator of an online cloud based platform for nightclubs and promoters. The company\'s platform lets party seekers find upcoming nightlife events in their city, buy tickets, see the guest list or get VIP accommodations.
-	['', 'cloud application', ' ', 'nightlife application', ' ', 'party chart', '']
-Infochimps
-	Provider of data indexing platform. The company develops a cloud based software used for implementing data infrastructure.
-	['', 'data indexing', ' ', 'cloud based software', ' ', 'data infrastructure', '']
-Scringo
-	Developer of applications for mobile application developers and their users. The company offers set of features and tools to help mobile application developers to manage and customize their applications, connect with their users and listen to their feedback.
-	['', 'software developer kit', ' swipe ', 'discovery tool', ' ', 'user retention', '']
-Librato
-	Provider of a cloud-based monitoring platform for development and operations teams. The company\'s platform monitors the metrics and events important to their application deployments, while leaving metrics storage, analysis, annotation and alerts as an easy-to-deploy service that can scale with their operation.
-	['', 'monitoring software', ' ', 'resource management', ' ', 'infrastructure software', '']
-Jibe Mobile
-	Provider of cloud-based communication services. The company provides open technology platform that provides an open end-to-end technology platform enabling carriers to rapidly launch and commercially scale the most innovative IP communication services to mobile consumers.
-	['', 'communication service', ' ', 'cloud communication', ' ', 'telephony platform', '']
-Matchbox
-	Developer of custom-built enterprise iPad application that streamlines the university admissions process. The company develops a cloud based application that simplifies the admissions review process.
-	['', 'admission process application', ' ', 'admission review process', ' ', 'admission process streamlining', ' ', 'Educational Software', '']
-DevZuz
-	Developer of delivery platforms that link enterprise businesses to application developers.
-	['', 'delivery platform', ' ', 'enterprise business', ' ', 'application developer', '']
+Tablus
+	Provider of content loss prevention solutions that locate, monitor, and protect sensitive enterprise information across their networks and desktops from loss or misuse.
+	['', 'content loss prevention', ' information network ', 'sensitive information', '']
+Reconnex
+	Developer of appliance-based data loss prevention system. The company provides system that helps an organization to protect all information assets on its network against known and emerging threats.
+	['', 'data loss prevention', ' ', 'data protection', ' ', 'information security', ' ', 'enterprise security', '']
+SafeCentral
+	Developer of security software applications and technologies for data loss prevention. The company offers software solutions and services for web browsing that provide security against identity theft by locking out desktop malware and establishing web connections. Its technology block key-loggers, screen-scrapers, and other malware agents; ensure a connection to the actual site; and provide protection for seamless integration into user’s existing browsing habits.
+	['', 'security software application', ' ', 'data loss prevention', ' ', 'data security', '']
+Green Border Technologies
+	Provider of malware prevention, mobile PC safety, unauthorized downloads prevention, patching and data confidentiality solutions. The company also offers protection on corruption, theft and invasion of business data systems, as well as engages in the protection of enterprises from internet threats that are picked up by compulsively-clicking users and mobile PCs.
+	['', 'patching technology', ' ', 'data confidentiality', ' ', 'data system invasion', ' ', 'data system theft', ' ', 'internet threat protection', ' ', 'DMZ technology', ' ', 'malware prevention', ' ', 'mobile PC safety', '']
+Vericept
+	Provider of enterprise risk management solutions. The company develops fraud and identity theft solution designed to help companies safeguard valued customer data, including social security numbers, credit card information and other personal information, from internal and external threats.
+	['', 'data loss prevention', ' DLP ', 'enterprise risk management', ' ', 'data security', ' ', 'fraud solution', ' theft fraud']
+Code Green Networks
+	Provider of data-loss prevention and content-security technology for enterprises. The company offers a platform that provides enterprises with content monitoring and data loss protection from insider threats and accidental misuse.
+	['', 'data loss prevention', ' ', 'content security', ' ', 'accidental misuse', ' ', 'enterprise solution', '']

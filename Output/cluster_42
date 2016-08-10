@@ -1,21 +1,24 @@
-Quanticel Pharmaceuticals
-	Developer of medicines for the treatment of cancer and other life-threatening diseases. The company provides a platform for single-cell genomic analysis of human cancer.
-	['', 'therapeutic treatment', ' ', 'medicine development', ' ', 'disease treatment', '']
-TaiMed Biologics
-	Developer of biotechnology prevention and treatment solutions for viral infectious diseases that are causing serious harm to human health. Products in research include Tamiphosphor, a neuraminidase inhibitor for the treatment of influenza, and Ibalizumab, an HIV prophylactic drug.
-	['influenza HIV']
-Aderis Pharmaceuticals
-	Developer of therapeutics focused on cardiovascular, renal and neurological diseases. The company develops novel small-molecule, receptor-specific therapeutics for the treatment of central nervous system, cardiovascular and renal diseases. The company focuses on drug candidates that act selectively to either block (antagonists) or increase (agonists) the activity of certain proteins, such as adenosine or dopamine, to produce the desired therapeutic effect while minimizing side effects. Small molecules generally offer the dosing flexibility required for patients to easily take the drug as prescribed (commonly referred to as patient compliance), have a broader array of dosage forms, lend themselves to easier formulation and have greater potential for absorption and utilization by the body.
-	['', 'Cardiovascular therapeutics', ' ', 'renal therapeutics', ' ', 'neurological disease', ' ', 'cardiovascular disease', ' ', 'renal disease', '']
-Ardea Biosciences
-	Developer of small-molecule therapeutics. The company provides therapeutics for the treatment of gout, cancer and human immunodeficiency virus (HIV)..
-	['', 'small molecule therapeutic', ' ', 'disease treatment', ' ', 'gout treatment', ' ', 'cancer drug', ' ', 'cancer treatment', ' ', 'HIV drug', ' ', 'HIV treatment', '']
-Tobira Therapeutics (acquired 2015)
-	Developer of antiviral compounds for treating HIV infection. The company develops TBR-652 and TBR-220 antagonists for the treatment of HIV/AIDS, hepatitis and other associated infectious conditions.
-	['', 'antiviral compound', ' ', 'HIV treatment', ' ', 'hepatitis treatment', '']
-ViroChem Pharma
-	Developer and producer of the drugs and pharmaceutical products for viral disease. The company manufacture, develop and produce the medicine products for viral infection, Hepatitis C (HCV) and human immunodeficiency virus (HIV).
-	['', 'pharmaceutical product', ' ', 'drug research', ' ', 'human immunodeficiency virus', '']
-Phoenix Bioscience
-	Provider of MEMS-based technologies for diagnostic applications. The company focuses on developing affordable treatments for immune dysfunctions. The company\'s product drug PBS119 is used for treating HIV virus.
-	['', 'diagnostic applications', ' ', 'drug PBS119', ' HIV virus']
+IHM Services
+	Provider of an analytics software for hospitals and healthcare institutions. The company focuses on transforming hospital data into clinical intelligence to help hospitals and healthcare enterprises fully automate the reporting systems, improve performance for other programs and produce predictable medical outcomes.
+	['', 'analytic software', ' ', 'hospital data', ' ', 'clinical intelligence', '']
+Cartagenia
+	Provider of software and services for clinical genetics and molecular pathology labs. The company provides a software platform for variant assessment and reporting of clinical genomics data from next-generation sequencing and microarrays. The platform also enables technicians, lab directors and clinicians to visualize, assess and report clinical genetics data in the context of patient information.
+	['', 'healthcare Software', ' ', 'genetic interpretation', ' ', 'database system', '']
+Florida Healthcare Analytics
+	Developer of healthcare software. The company provides healthcare-analytics software. It is a mobile application platform designed to improve the patient experience during a clinical trial.
+	['', 'healthcare analytics', ' ', 'analytics software', ' ', 'healthcare software', '']
+PatientStream
+	Provider of an electronic patient tracking system for hospitals. The company provides a cloud-based healthcare operations decision support and communication automation technologies for patients and hospital staff.
+	['', 'electronic whiteboard', ' ', 'multilingual whiteboard', ' ', 'healthcare operations', ' ', 'patient tracking', ' ', 'healthcare system', '']
+InStream
+	Developer of workflow software for healthcare offices. The company develops software products that coordinate the movement of documents and other information between managed healthcare providers and their staffs.
+	['', 'managed healthcare', ' ', 'workflow software', ' ', 'data transfer software', ' ', 'behavioral healthcare', '']
+Accelerated Orthopedic Technologies
+	Provider of proprietary tools for obtaining, shaping and implanting cartilage grafts.
+	['', 'proprietary tool', ' ', 'cartilage graft', ' ', 'cartilage defect', ' ', 'healthcare software', '']
+Insta Health Solutions
+	Provider of the technology platform for healthcare sector. The company provides hospital management system for clinical, financial and operational management of process within the organization. It also provides the EMR (electronic medical record) platform.
+	['', 'hospital management', ' ', 'clinical technology', ' ', 'Healthcare System', '']
+Airseed
+	Developer of a platform providing consumer data-focused tools, analytics and intelligence. The company has created a software platform that for developers provides rich intelligence and analytics on consumer users of the product. For consumers, the company provides a mobile application that automatically finds upcoming flights and enables simple flight checkins. The application also enables users to share travel itineraries with friends and family.
+	['', 'developer platform', ' ', 'consumer data', ' ', 'software platform', '']

@@ -1,21 +1,9 @@
-ENSIS Management
-	Investor in small and medium sized companies. The company invests in life sciences and technology sectors.
-	['technology', 'life sciences', '']
-VitraBio
-	Manufacturer of healthcare chemical components. The company manufactures porous glass carriers with applications in dental fillings, separation techniques for life sciences and biomedical devices.
-	['', 'porous glass carrier', ' ', 'separation technique', ' ', 'biomedical device', '']
-Magellan Biosciences (ESA Life Sciences Tools business)
-	ESA Life Sciences Tools business. The business unit is the ESA Life Sciences Tools unit of Magellan Biosciences Inc. and engages in manufacturing of automated systems for biomedical research and clinical diagnostics.
-	['', 'advanced instrument', ' ', 'automated system', ' ', 'biomedical research', '']
-Meikle Automation
-	Provider of the systems integrate platform for manufacturing of components in the organization. The company provides conceptualizes, designs, manufactures, markets and supports custom equipment systems for use in the assembly, test and overall manufacturing of components in the automotive, life sciences, photonics and electronics industries.
-	['', 'system integrate platform', ' ', 'design service', ' ', 'virtual world', ' assembly']
-Molecular Machines & Industries
-	Developer and provider of microscope-based, micro-manipulation software and other technologies for the life sciences, material sciences, and healthcare sectors. The company specializes in single cell handling, laser micro dissection and optical tweezers for a wide range of clinical and research-based applications.
-	['', 'optical tweezers', ' ', 'single cell handling', ' laser ', 'microdissection', '']
-Anteo Diagnostics
-	Operator of a biotechnology company. The company develops and commercializes specialized surfaces used in life sciences and the research and development of surfaces for specific binding of proteins.
-	['', 'specific binding', ' Mix&Go ', 'life sciences', '']
-Thrombovision
-	Developer of biomedical diagnostics products. The company develops biomedical diagnostics products that are used for preventing heart attacks, strokes and stent occulsions. The company also provides biomedical research and development services.
-	['', 'biomedical diagnostics product', ' ', 'stent occulsions', ' ', 'development service', ' ', 'biomedical research', '']
+Theralogix
+	Provider of health benefits of certain nutrients to their patients. The company develop nutritional supplements which they could recommend to their patients.
+	['', 'nutritional supplement', ' ', 'health care', ' ', 'reproductive health', '']
+NXXI
+	Manufacturer of products for the nutritional-supplement industry. The company uses patented technology to produce chromium-, selenium- and zinc-based supplements for a variety of nutritional needs, including heart health, glucose metabolism and weight management.
+	['', 'nutritional supplement', ' ', 'weight management', ' ', 'cardiac health', ' metabolism chromium selenium zinc']
+Imperative Health
+	Provider of technology services for personalized weight management. The company is focused on providing ground-breaking health management technology services to address high-risk health conditions, including diabetes, high blood pressure, obesity and raised cholesterol.
+	['', 'weight management', ' ', 'health management technology', ' ', 'behavioural change system', ' ', 'technology platform', '']

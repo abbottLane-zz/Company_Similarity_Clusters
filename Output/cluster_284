@@ -1,21 +1,30 @@
-Macrae Food Group
-	Manufacturer and seller of ready to eat seafood. The company provides a variety of chilled sea food products ranging from shellfish to fresh and smoked fish along with marinaded products. It also provides sea food processing services.
-	['', 'seafood products', ' ', 'marinaded products', ' ', 'smoked fish', ' ', 'food processing', '']
-Aquarionaute
-	Breeder of ornamental fish. The company breeds, markets and sells ornamental fishes for aquariums.
-	['', 'ornamental fish', ' ', 'fish breeding', ' fish ', 'exotic fish', '']
-Gascomer
-	Operator of a seafood processing company. The company processes, markets and sells seafood such as fish, crustaceans and molluscs .
-	['seafood ', 'seafood processing', ' ', 'seafood marketing', '']
-Micro Analytical Systems
-	Provider of sea food products. The company provides information regarding fish origin, fishing method and maximum mercury levels for each species.
-	['seafood ', 'fishing method', ' ', 'sea food product', '']
-ELABORADOS GALLEGOS
-	Wholesale distributor of fresh, frozen and canned fish. The company operates a processing facility, offering products made from cod, Greenland halibut, eel, river cobbler and ling cod to the European market.
-	['', 'frozen fish', ' ', 'fresh fish', ' ', 'cold storage', ' ', 'fish marketing', '']
-Channel Fisheries
-	Provider of fish and seafood. The company also supplies seafoods in the export markets in continental Europe, the Middle East and the US.
-	['seafood ', 'fish products', ' ', 'export fish', '']
-Reimes Rekefabrikk
-	Operator of a seafood-processing enterprise. The company processes and exports shrimp, fish, snails and other seafood.
-	['', 'seafood distributor', ' ', 'fresh seafood', '']
+SironaHealth
+	Provider of healthcare communication technology and service. The company developed the IntelliView system using proprietary software that runs on industry standards operating platforms.
+	['', 'communication technology', ' ', 'healthcare communication', ' ', 'proprietary software', ' ', 'industry standard', ' ', 'operating platform', '']
+Solaiemes
+	Developer of communication technology for mobility and unified communications. The company provides infrastructure to help carriers and service providers to enrich the communication experience with their base of customers beyond the person to person case.
+	['', 'telco border', ' ', 'mobile cloud', ' ', 'rich communication', ' ', 'unified communication', '']
+InstantService
+	Provider of live chat services. The company offers various customer communication technologies for online businesses and contact centers including an integrated suite of live chat, email management, knowledge base, web site analytics and lead capture software application.
+	['', 'live chat', ' ', 'customer communication', ' ', 'communication technologies', '']
+Followap
+	Provider of instant messaging and interconnect solutions. The company enables operators to provide real-time communication by messaging products.
+	['', 'instant messaging', ' real-time convergence']
+Vocera Communications
+	Provider of mobile communication services to healthcare and non-healthcare markets. The company offers voice communication services, secure messaging applications and care transition services.
+	['', 'communication service', ' ', 'software platform', ' ', 'hospital communication software', ' ', 'secure messaging application', ' ', 'care transition', '']
+Postini
+	Provider of on-demand communications security, compliance, and productivity solutions for email, instant messaging (IM), and the Web in North America and Europe. The company offers e-mail system administration applications and software for redirecting e-mail to wireless devices.
+	['', 'communication security', ' ', 'productivity solution', ' ', 'reporting solution', ' ', 'professional service', '']
+Natural Messaging
+	Provider of commercial applications for instant messaging. The company also provides ubiquitous message-driven application services.
+	['', 'commercial application', ' ', 'instant messaging', ' ', 'ubiquitous message application', '']
+Banter
+	Provider of communication technologies. The company provides technology designed to interpret unstructured text communication, like e mail, web form submissions, instant messaging and service inquiries.
+	['', 'communication technology', ' ', 'text communication', ' ', 'instant messaging', '']
+Ubique
+	Operator of a software company. The company provides software products such as instant messaging and collaboration for multimedia communication.
+	['', 'instant messaging', ' ', 'multimedia communication', ' ', 'virtual places', '']
+Odigo
+	Provider of instant messaging and presence management services to wireless carriers and service providers. The company also provides related services, including private-label IM client development, IM service hosting and installation.
+	['', 'instant messaging', ' ', 'wireless carrier', ' ', 'service hosting', ' ', 'client development', '']

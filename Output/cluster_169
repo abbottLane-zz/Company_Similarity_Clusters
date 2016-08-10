@@ -1,9 +1,27 @@
-Arcadia Biosciences
-	Developer of agricultural technologies and products. The company develops and commercializes agriculture-based technologies that create value for growers and consumers while benefiting the environment and enhancing human health. It offers nitrogen use efficient crops, water use efficient crops, salt tolerant plants and GLA safflower oil.
-	['', 'agricultural technology', ' ', 'agricultural product', ' salt ', 'water efficient crop', '']
-Arcs Systemes
-	Producer of pool covers. The company engages in the manufacturing of pool covers.
-	['', 'pool covers', ' pool ', 'swimming pool covers', '']
-Watertronix
-	Provider of water-treatment system for swimming pools. The company has developed a technology using salt electrolysis chlorine generation to provide odor-free water treatment. The treatment system is scalable for swimming pools in competitive, municipal, hotel and residential settings.
-	['', 'pool water', ' ', 'water-treatment system', ' ', 'swimming pools', '']
+Open Monoclonal Technology
+	Developer of human monoclonal antibody platforms. The company develops human therapeutic antibodies based on transgenic rats for pharmaceutical companies.
+	['', 'human monoclonal', ' ', 'antibody platform', ' ', 'transgenic rat', '']
+Centocor
+	Developer of monoclonal antibody technology. The company develops monoclonal antibody-based products for cardiovascular and autoimmune diseases, cancer and inflammation.
+	['', 'monoclonal antibody technology', ' ', 'autoimmune disease', ' biopharmaceutical']
+Genoway
+	Developer of genetically modified rat and mouse models for use in in vivo target validation and drug development. The company offers scientific consulting to enhance the reliability of the client\'s in vivo studies. It provides services or generation of transgenic mice, conditional and constitutive knockout mice, knockin mice and humanized mice.
+	['', 'transgenic mice', ' ', 'in vivo', ' ', 'mouse model', ' ', 'genetically modified', ' ', 'knockout mice', '']
+Merrimack Pharmaceuticals
+	Provider of commercialize medicines paired with companion diagnostics for the treatment of serious diseases, with an initial focus on cancer. The company develops MM-093, a human alpha-fetoprotein for the treatment of patients with rheumatoid arthritis and psoriasis and MM-121, a human monoclonal antibody and therapeutic to block signaling of the ErbB3 receptor.
+	['', 'commercial medicine', ' ', 'diagnostic treatment', ' cancer']
+Domantis
+	Developer of antibody molecules for therapy. It offers dual targeting human domain antibodies, which are used against cytokine targets for inflammatory diseases, tumour antigens present on the same tumour cells, and tumour growth/angiogenic factors for solid tumours; human domain antibodies with tailored serum half-life that are customized to achieve the desired therapeutic effect; human domain antibodies for diverse therapeutic targets, which are suited to inhibit receptor targets; and injectable and non-injectable human domain antibodies that treat diseases of the lung, as well as disorders of the gastro-intestinal tract.
+	['', 'antibody therapeutic', ' ', 'domain antibody', ' ', 'antibody molecules', ' ', 'antibody molecules for therapy', ' ', 'dual targeting human domain antibodies', ' ', 'human domain antibodies', ' ', 'disease therapy', ' ', 'tumor therapy', ' ', 'disease therapy', '']
+Automated Cell
+	Developer of antibody therapeutic antibodies for the treatment of oncology and immune disease. The company is focused on the development of monoclonal antibody therapeutics for the treatment of cancer.
+	['', 'antibody therapeutic', ' ', 'therapeutic treatment', ' ', 'oncology disease', ' ', 'immune disease', ' ', 'monoclonal antibody', '']
+Applied Genomics
+	Developer of targeted genomics-based diagnostic and therapeutic antibodies for the treatment of human cancer. The company\'s products include Mammostrat which is an immunohistochemistry breast cancer prognostic test, Mammotax which is a single antibody immunohistochemistry test, Pulmotype is a five antibody immunohistochemistry aid for the classification of non-small cell lung cancer and Pulmostrat is a seven antibody prognostic immunohistochemistry test.
+	['', 'human cancer', ' ', 'therapeutic antibodies', ' ', 'diagnostic devices', '']
+GITR
+	Developer of oncological therapies. The company is developing TRX518, a humanized monoclonal antibody that is reactive with the glucocorticoid-induced tumor necrosis factor receptor (GITR), for the treatment of cancer.
+	['', 'chemotherapeutic treatment', ' ', 'tumor markers', ' ', 'T cell', '']
+Immunologix
+	Developer of antibody-based therapeutics. The company provides methods for producing human monoclonal antibodies against any target including bacterial and viral antigens, as well as tumor antigens, and human autoantigens. Its technology allows for the conversion of naïve B-cells (from a tonsillectomy or whole blood collection) to fully mature human B-cells producing the human antibody of interest.
+	['', 'antibody therapeutic', ' ', 'human monoclonal', ' ', 'therapeutic device', '']

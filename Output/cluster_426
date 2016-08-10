@@ -1,15 +1,57 @@
-Nevada County Wine Guild
-	Provider of wines. The company provides spirits and beers under private label and national brands. It provides certified organic and sulfite-free wine.
-	['', 'organic wine', ' ', 'sulfite-free wine', ' spirit wine beer']
-Indie Vinos
-	Developer of a mobile application for wine tasting. The company connects small wineries with wine drinkers via mobile and web-based social marketplace and provide them with social selling and customer relationship management tools.
-	['', 'consumer service', ' ', 'consumer product', ' ', 'wine tasting', '']
-Wine Preserva
-	Developer of device to preserve the quality of wine. The company offers Wine Shield, an in-bottle floating lid that is a barrier to oxidation. The product is designed for consumers who open bottles but don\'t consume the contents immediately, and for restaurants and bars that sell bottled wine by the glass.
-	['preservation wine']
-Tasting Room
-	Provider of wine tasting service. The company allows consumer to taste the wine before purchasing it, by supplying a sample sized bottles.
-	['', 'wine tasting', ' ', 'sample sized bottle', ' ', 'wine acquistion', '']
-FirstCrush
-	Provider of personalized wine subscription service.
-	['', 'wine subscription', ' ', 'personalized subscription', ' ', 'wine purchase', ' ', 'consumer products', '']
+LeftHand Networks
+	Provider of flexible IP-SAN network storage solutions. The company also offers evaluation software, such as SAN/iQ software and virtual SAN appliance, which aggregate disparate resources into a single, larger storage system. It offers iSCSI SANs that are composed of multiple storage nodes, pooled together into a single storage system; integrated storage systems; and virtual storage systems.
+	['', 'storage solution', ' ', 'san application', ' ', 'virtual application', ' ', 'storage system', ' ', 'storage node', ' ', 'virtual storage system', '']
+Matrix Semiconductor
+	Developer of three-dimensional integrated circuits (IC). The company is a provider of flash-memory storage solutions for digital content, including memory cards,  solid-state drives, USB storage devices, media software, embedded storage and music and video players.
+	['', 'integrated circuit', ' ', 'flash device', ' ', 'digital content', '']
+All Stor Storage
+	Provider of self storage space services. The company is a provider of self storage services which acquires self storage properties both in the form of institutional portfolios and individual properties.
+	['', 'self storage property', ' ', 'secured storage space', ' ', 'property rental service', ' ', 'storage space', '']
+Cirtas Systems
+	Provider of cloud-storage technology. The company is the creator of technology to make cloud storage work like onsite enterprise storage arrays. The company\'s product, the Cirtas Bluejet Cloud Storage Controller, is designed to simplify storage management and to reduce data-storage total cost of ownership, while addressing  challenges associated with data backup and disaster recovery for mid-size to large enterprises.
+	['', 'cloud storage', ' ', 'storage management', ' ', 'data storage', ' ', 'application software', '']
+StorageApps
+	Provider of all-encompassing solutions, applications and appliances for storage-based network services. The company\'s appliances and applications enable customers to connect virtually any type of storage devices with any servers over any connection type.
+	['storage ', 'live data', ' ', 'data mirroring', '']
+BioStorage Technologies
+	Provider of sample-management services for the bioscience sector.The company manages the complete life cycle of samples, using a team of global sample experts, temperature-controlled storage facilities and a real-time, Web-based sample intelligence and tracking system. It operates biostorage facilities in the U.S. state of Indiana and Frankfurt, Germany.
+	['', 'sample management', ' ', 'cold storage', ' ', 'lab equipment', '']
+Tricord Systems
+	Developer of server appliances. The company develops and markets a wide range of server appliances for content-intensive applications.
+	['', 'server appliances', ' ', 'storage appliance', ' content-intensive ', 'data storage', '']
+VeloBit
+	Developer of software that delivers an order-of-magnitude improvement in storage price-performance. The company\'s allows customers to deploy Solid State Disk (SSD) without changing their applications or primary storage, thus preserving their existing investments in data protection and storage management.
+	['', 'storage management', ' ', 'solid state drive', ' ', 'data protection', ' ', 'solid state disk', '']
+Candelis
+	Developer of network attached storage technologies. The company designs and develops network-attached storage appliances for computer networks and operating systems.
+	['', 'network attached storage', 'NAS', 'network storage filer', ' ', 'network storage', '']
+Djangos.com
+	Seller of new and used CDs, DVDs and VHS via internet.
+	['', 'compact disc', ' ', 'optical disc storage', ' ', 'Digital Versatile Disc', '']
+Tonian Systems
+	Developer of storage software. The company focuses on the misalignment that occurs within enterprises while combining virtualization technology and traditional storage.
+	['', 'storage software', ' ', 'enterprise storage', ' ', 'virtualization storage', '']
+Virident Systems
+	Provider of server side flash storage for the enterprise that delivers consistent performance to data intensive applications. The company\'s services enable enterprises to tackle performance intensive enterprise applications with enterprise flash storage and Solid State Disks (SSD) for database.
+	['', 'cloud computing', ' ', 'storage service', ' ', 'data centric technology', ' ', 'flash storage', '']
+ByCast
+	Provider of storage virtualization software for large-scale digital archives and storage clouds. The company provides storage software designed to manage petabyte-scale, globally distributed repositories of images, video and records for enterprises and service providers.
+	['', 'business continuity', ' ', 'digital archives', ' ', 'fixed content', '']
+ShareFile
+	Provider of software solutions that help businesses exchange files. The company offers an online file storage solution that allows users to create a custom-branded password-protected area where users exchange business files with clients
+	['', 'software solution', ' ', 'businesses exchange file', ' ', 'online file storage', ' storage']
+Newisys
+	Developer of server and storage technology for original equipment manufacturers. The company offers storage expansion product platforms, storage application platforms, integrated RAID server/storage application product platforms, JBOD expansion enclosures, and racks.
+	['', 'server technology', ' ', 'storage technology', ' ', 'equipment manufacturing', ' ', 'storage expansion', '']
+Nvelo
+	Developer of storage software to address the input output bottleneck in computing systems. The company\'s product Dataplex, a cache software solution used by PC OEMs and SSD vendors to deliver SSD-level performance from HDD-based systems for a fraction of the cost of an SSD-only system.
+	['', 'storage system', ' ', 'hard drive', ' ', 'hybrid drive', ' ', 'computing management', '']
+Virsto Software
+	Developer of virtual storage solutions for virtual servers and datacenters. The company offers Virsto One, a hypervisor-based storage virtualization software solution that enables users to virtualize storage-intensive workloads, maximize the consolidation of server and storage hardware and reduce storage management.
+	['', 'data storage', ' ', 'virtual storage', ' ', 'virtual server', ' ', 'storage virtualization', ' ', 'server consolidation', ' ', 'storage management', ' ', 'storage hardware', '']
+Qlayer
+	Provider of datacenter, combining server, networking and storage infrastructure virtualization software. The company offers solutions for virtual datacenter automation, storage and volume management and also provides virtual disks to servers and to external consumers.
+	['', 'virtual disk', ' datacenter virtualization']
+NetCell
+	Developer of host adapter storage acceleration silicon devices for the ATA and SATA host bus adapter, server, PC, workstation and embedded storage markets.
+	['', 'silicon device', ' ', 'storage market', ' workstation']

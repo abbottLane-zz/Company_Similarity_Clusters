@@ -1,18 +1,18 @@
-Corventis
-	Developer of medical technologies for curing cardiovascular diseases. The company\'s core product is a non-invasive monitor designed for measing different aspects of the heart’s function.
-	['', 'medical technology', ' cardiovascular healthcare']
-Terumo
-	Manufactures & supplies medical tools & equipment
-	['']
-ZOLL LIFEBRIDGE
-	Supplier of life support systems for the acute medical care in the area of cardiovascular diseases. The company develops heart-lung machine that allows doctors to substitute the patient’s cardiovascular system and save them from death in cardiogenic shock.
-	['', 'life support system', ' ', 'heart-lung machine', ' ', 'cardiovascular system', ' ', 'medical care', '']
-AiMedics
-	Operator of a medical device company. The company develops HypoMon system, a non-invasive alarm system that identifies sleep-time hypoglycaemia in children and young adults.
-	['HypoMon ', 'non-invasive', ' hypoglycaemia']
-CytoPherx
-	Developer of cytopheresis systems for addressing inflammation-based diseases and conditions. The company focuses on acute renal failure, end-stage renal disease, and acute inflammation induced by cardio pulmonary bypass surgery. It develops products based on the configurations of commercially available hollow fiber dialysis filters that are used in a proprietary manner to sequester and deactivate leukocytes in the patient\'s blood system.
-	['', 'inflammation-based diseases', ' ', 'cardio pulmonary bypass surgery', ' ', 'Therapeutic Device', '']
-Drops
-	Operator of a medical device company. The company supplies medical products for the treatment of renal function.
-	['', 'medical care', ' ', 'renal perfusion', ' ', 'nuclear medicine', '']
+Silicon Biosystems
+	Provider of technology to study single cells for culture or molecular analysis. The company is the developer of DEPArray technology, enabling researchers to study rare cells and to determine the biological significance of subpopulations of cells within a sample. It also focuses on facilitating advances in personalized medicine by enabling the isolation, recovery and analysis of individual, viable rare cells.
+	['heterogeneity ', 'cell-biology', ' ', 'rare cell', ' ', 'biological significance', ' ', 'single cell', ' ', 'molecular analysis', '']
+Nabriva Therapeutics
+	Provider of pharmaceutical research and development services. The company focuses on antibiotic classes, such as pleuromutilins designed for oral and topical application and injectable broad-spectrum anti-MRSA cephalosporins.
+	['', 'pharmaceutical research', ' ', 'antibiotic classe', ' ', 'pleuromutilin antibiotic', '']
+Clickpass
+	Provider of an openID and authentication gateway that simplifies openID integration and use. The company provides single-sign-on services to enter into various Websites by using a single password. It operates a website that enables its users to create OpenID, which is used as a single password to enter into various Websites.
+	['', 'authentication gateway', ' ', 'authentication gateway', ' ', 'commercial services', '']
+Cellular Research
+	Operator of a biotechnology research and development company. The company focuses on life science research by enabling investigation of single cells and limited samples.
+	['', 'molecular indexing', ' ', 'single cell', ' ', 'biotechnology research', '']
+Molecular Machines & Industries
+	Developer and provider of microscope-based, micro-manipulation software and other technologies for the life sciences, material sciences, and healthcare sectors. The company specializes in single cell handling, laser micro dissection and optical tweezers for a wide range of clinical and research-based applications.
+	['', 'optical tweezers', ' ', 'single cell handling', ' laser ', 'microdissection', '']
+Anteo Diagnostics
+	Operator of a biotechnology company. The company develops and commercializes specialized surfaces used in life sciences and the research and development of surfaces for specific binding of proteins.
+	['', 'specific binding', ' Mix&Go ', 'life sciences', '']

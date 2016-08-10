@@ -1,21 +1,96 @@
-My Goodness
-	Producer of sports recovery food, muscle nutrition and milkshake drinks. The company produces sports recovery food and drinks, protein shakes and muscle nutrition products. It offers its sports recovery food to energize, rebuild and hydrate athletes.
-	['', 'milkshake drink', ' ', 'muscle nutrition', ' ', 'recovery food', ' sport']
-Rise Labs
-	Provider of personal diet coaching services. The company provides a mobile platform that connects users with expert nutrition coaches who helps them in achieving their fitness goal.
-	['', 'health and fitness', ' ', 'diet coaching', ' ', 'nutrition class', '']
-Everlast Sports Nutrition
-	Provider of sports nutrition supplements for male and female athletes. The company offers energy shots, energy bars, beverages, protein shakes, vitamin supplements, sports multivitamins and nutrition, protein bars, protein powder, weight gainer capsules, natural fiber supplements and organic vitamins for sport personalities.
-	['', 'energy shots', ' ', 'energy bars', ' ', 'nutrition supplements', ' ', 'protein shakes', ' ', 'vitamin supplements', '']
-FitKit
-	Provider of personal nutrition. The company provides personal nutrition on subscription.
-	['', 'healthcare industry', ' ', 'nutritional capsule', ' ', 'lifestyle quiz', '']
-Vitaflo
-	Provider of clinical nutritional products. The company develops specialized clinical nutrition products for metabolic disorders, nutrition support and specific health conditions such as kidney disease. The company sells its products online as well as through mail order.
-	['', 'clinical nutritional product', ' ', 'nutritional product', ' ', 'metabolic disorder', '']
-DietTV.com
-	Provider of a social network built around healthy living and dieting. The site helps you find an exercise and diet plan that works for you, provides tracking of meals, water and exercise and connects you with exercise and nutrition professionals and other dieters.
-	['', 'social network', ' ', 'healthy living', ' dieting exercise ', 'diet plan', ' nutrition']
-Provita
-	Retailer of health & wellness products. The company sells health, beauty and sports-nutrition products in Europe.
-	['', 'sports nutrition', ' ', 'health and beauty', ' nutrition']
+SHYM Technology
+	Provider of plug-in security and trust management solutions for critical business applications. SHYM\'s MailShym solutions accelerate the adoption of secure e-mail as the cornerstone for Internet transactions. It combines plug-in security integration products and a cutting edge trust management platform.
+	['', 'trust management solution', ' ', 'internet transaction', ' ', 'security integration', ' ', 'security integration', '']
+Malcovery Security
+	Developer of a cloud based actionable cyber security intelligence services. The company develops and delivers cloud based actionable cyber security intelligence and forensic analysis through software and services for corporations and government organizations to target cyber criminals and their activities.
+	['', 'cyber security', ' ', 'intelligence service', ' ', 'forensic analysis', '']
+Micro Technologies
+	Developer of transformational security devices. The company provides security products, including vehicle security systems, fleet monitoring systems, bike security systems among others.
+	['', 'vehicle security system', ' ', 'fleet monitoring system', ' ', 'security system', '']
+Innovative American Technologies
+	Manufacturer of advanced radiological sensor systems, alternative energy systems, mocro and nano sensor systems applied to homeland security and commercial applications. The company offers a variety of radiation detection systems for cargo inspection incuding mobile systems and digital radiation portal monitors  and has partnered with Cargotec Port Security to provide radiation detection equipment for crane based systems.
+	['', 'security services', ' ', 'nano technology', ' ', 'radiological sensor systems', ' ', 'neutron detector system', '']
+Secumatic
+	Developer of automatic door sensors. The company is a supplier of detection systems for entrance (automatic doors), temperature (non-contact devices for industrial settings), and care applications (nursing settings and hospitals).
+	['', 'detection system', ' ', 'door sensor', ' ', 'sliding door', ' ', 'security door', ' ', 'security access', '']
+WholeSecurity
+	Provider of cyber- security software for prevention, mitigation and detection of malicious threats. The company provides protection against eavesdropping, electronic theft and other types of cyber crimes.
+	['', 'cyber crime', ' ', 'cyber security', ' ', 'electronic theft', '']
+Consul Risk Management International
+	Provider of compliance and security audit software. The company provides software that helps to track the clients , report and investigate non-compliant behavior, such as unauthorized activity by information technology administrators or other users.
+	['', 'security audit', ' compliance ', 'security management', '']
+Anchulsu laboratory
+	Provider of security services. The company provides security product, security consulting, security control and security ASP for various computer crime prevention and guidance activity.
+	['', 'security services', ' ', 'security consulting', ' ', 'computer crime prevention', '']
+iPolicy Networks
+	Operator of an integrated network security product. The company offers intrusion prevention firewall appliance; and iPolicy Security Manager, a security management system to service providers, enterprises, financial services firms, education institutions, and government agencies.
+	['', 'network security product', ' ', 'firewall appliance', ' ', 'security management system', '']
+Cortex Vision Systems
+	Provider of automated video surveillance products. The company offers various security systems for industrial, commercial, governmental and high-end residential applications.
+	['surveillance ', 'smart camera', ' ', 'security systems', '']
+LocoMobi
+	Provider of software and hardware for security services. The company provides software and hardware for the parking, security and the transportation markets.
+	['', 'security service', ' ', 'transportation market', ' ', 'security software', '']
+Reasoning
+	Provider of software inspection services. The company offers discovery mapping analytics and automated software inspection services to help measure the reliability and security of a client\'s software and also helps in reducing code defects and security vulnerabilities.
+	['', 'security services', ' ', 'software inspection', '']
+SecureInfo
+	Provider of cyberspace security. The company provides a cloud-based, online-security platform for government, cloud technology companies and critical-infrastructure industries. Its services  includes cloud security, continuous monitoring and maintaining compliance with the Federal Information Security Management Act.
+	['', 'FISMA preparedness assessment', ' ', 'information assurance', ' ', 'accreditation service', ' ', 'threat management', '']
+Infosec
+	Provider of products and services for cyber-security. The company offers various services including security management consulting, secure technology consulting, development and operation of security systems and managed security services.
+	['cyber-security ', 'security management', ' ', 'security systems', '']
+AEP Networks
+	Developer of security and communications technologies to governments, enterprises and carriers in the United Kingdom and internationally. The company\'s products include Series A Secure Application Access, which is available as hardware or virtual appliance that enables secure web browser access to a range of business applications, Series E IPSec VPN Encryptor, an independently assured encryptor that protects IP traffic across networks, Series K Hardware Security Module, a hardware security module designed to generate, store and protect cryptographic keys for mission critical applications that demand maximum security and Series V Managing, a heterogeneous network that is used by armies and other agencies that require fast, reliable and secure deployable communications.
+	['', 'security application', ' ', 'communication technology', ' ', 'IP traffic', ' ', 'hardware appliance', '']
+Pedestal Software
+	Provider of security management services. The company offers security software used by companies in the financial services, insurance, health care and government sectors.
+	['', 'management solution', ' ', 'security solution', ' ', 'security software', ' ', 'financial service', '']
+Senforce Technologies
+	Provider of endpoint security solutions to the endpoint security enforcement market.
+	['', 'personal firewall', ' ', 'endpoint security', ' ', 'security solution', '']
+Nitrosecurity
+	Developer of security information and compliance management solutions that protect business information and infrastructure. The company offers products, including NitroView Enterprise Security Manager, NitroView LogCaster, and NitroGuard.
+	['', 'security information', ' ', 'business infrastructure', ' ', 'compliance management', ' ', 'analytical tool', ' ', 'data collection', ' ', 'event management', '']
+EdenWall Technologies
+	Developer of IPS firewall and VPN security services. The company also offers training seminars and maintenance services, professional services, such as account management, security project design and implementation.
+	['', 'IPS firewall', ' ', 'security services', ' ', 'account management', '']
+Reliant Protective Services
+	Provider of professional protective services. The company provides protection services which includes residential security, corporate security, loss prevention, executive body guard, executive transportation, armed security, rapid response team, private investigation to children, homes and businesses.
+	['', 'residential security', ' ', 'corporate security', ' ', 'loss prevention', ' ', 'armed security', '']
+Neohapsis (Acquired by KSR)
+	Provider of mobile and cloud security services. The company work with global enterprises to address their constantly evolving information security and compliance challenges.
+	['', 'cloud services', ' ', 'business products and services', '']
+Trinity Security
+	Supplier of security, fire and communications technologies for commercial, institutional and governmental facilities.
+	['fire security technology']
+Karotek Systemer
+	Provider of security systems for retail and cash handling and desktop security systems. The company specializes in the production of ballistic protection systems for vehicles and passenger cars. It also provides protection against anti-personnel, anti-tank blast mines and security systems for armored cash and bullion vans to prevent loss.
+	['', 'cash handling', ' ', 'armor security', ' ', 'specialist vehicle', ' ', 'desktop security system', ' ', 'defense system', ' ', 'modular system', ' ', 'security service', ' ', 'security glass', '']
+CipherMax
+	Provider of an enterprise-class storage security solution for securing information assets and achieving compliance with government regulations. The company offers a storage security system for tapes that provides line-speed encryption processing and centralized security administration solutions for legacy.
+	['', 'storage security solution', ' ', 'government regulation', ' ', 'storage security system', ' ', 'centralized security', ' ', 'encryption processing', '']
+Mi5
+	Operator of a Web security gateway. The company provides Webgate security appliances that protect organizations against Web-based threats, including malicious URLs, spyware, crimeware, botnets, and viruses.
+	['', 'Web security gateway', ' ', 'Webgate security appliance', ' ', 'security application', '']
+Cbana Laboratories
+	Developer of microfluidic and microanalytical devices for both government and private entities. The company offers miniaturized sensors for homeland security, medical diagnostics, and micro fuel cells.
+	['', 'home land security', ' ', 'portable security', ' ', 'healthcare security', ' ', 'micro analytical device', '']
+Cyvera
+	Provider of cyber defense to stop zero-day attacks. The company\'s flagship product, the Cyvera TRAPS (Targeted Remote Attack Prevention System) prevents yet-to-be-identified cyber threats uniquely by obstructing the path upon which the attack is being launched and not enabling the attackers to utilize their toolboxes.
+	['', 'cyber attack', ' ', 'Advanced Persistent Threat', ' ', 'cyber defense', ' ', 'cyber security', ' ', 'zero-day attack', '']
+Blackspider Technologies
+	Provider of managed e-mail security solutions. The company\'s security solutions delivers e-mail content filtering services to organizations, enabling them to block the spam and e-mail borne computer viruses before they enter company networks.
+	['', 'e-mail security solutions', ' ', 'e-mail content filtering services', ' ', 'blocking viruses and spams', ' ', 'web security', ' ', 'managed security services', '']
+iSIGHT Partners
+	Provider of cyber security risk-management services. The company provides cyber threat tracking and security services for corporates as well as government enterprises.
+	['', 'global network security', ' ', 'intelligence service', ' ', 'intelligence products', ' ', 'intelligence service', ' ', 'intelligence product', ' ', 'security analysis', ' ', 'cyber security', ' ', 'cyber threat', '']
+NetOctave
+	Developer of Internet security solutions that provide high-performance, turnkey system security. The company designs security processors and accelerator boards that protect high-speed network communications. It builds security processors and security accelerator boards and cards for the SSL, IPsec and IP Storage markets.
+	['', 'internet services', ' ', 'Monitoring & Security', ' ', 'Network Security', '']
+Morta Security
+	Provider of a cybersecurity platform. The company develops technology to counter advanced cybersecurity threats to large enterprises.
+	['', 'cyber security platform', ' ', 'cyber security', ' ', 'cyber threat', ' ', 'cyber defense', '']
+Redspin
+	Provider of information security assessments, risk management and compliance services. The company specializes in IT and web application security assessments, HIPAA security risk analysis, penetration testing and mobile device security assessments.
+	['', 'information security', ' ', 'information security assessments', ' ', 'penetration testing', ' ', 'security audits', '']

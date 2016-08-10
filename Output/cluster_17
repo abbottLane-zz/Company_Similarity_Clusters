@@ -1,39 +1,27 @@
-Elastix
-	Provider of technology that lowers the power used by digital integrated circuits. The company offers elastic clocks that helps in reducing on-chip power consumption.
-	['', 'elastic clocks', ' ', 'elastic voltage scaling', ' on-chip ', 'power consumption', '']
-AudioAsics
-	Developer of low-power audio technologies. The company designs microphone and audio signal conditioning ASICs for consumer and communications products like MP3 players, cell phones and PDAs. It also designs audio ASICs, including analog-to-analog and analog-to-digital pre-amplifiers for microphones, receivers, converters and speaker drivers.
-	['ASIC amplifier microphone']
-System General
-	Manufacturer of semiconductors and analog and digital circuits. The company also designs ICs used in AC/DC power IC products.
-	['', 'integrated circuits', ' ', 'power circuits', ' ', 'digital circuits', ' ', 'semiconductors and resistors', '']
-Exclara
-	Developer of digital power management platforms for solid state lighting solutions. The company offers small LED driver solutions for volume LED applications.
-	['', 'digital power management', ' ', 'lighting solution', ' ', 'led driver', ' ', 'led application', '']
-Touchstone Semiconductor (Analog IC Products)
-	Designer and manufacturer of high-performance analog integrated circuits. The company provides high-performance, low-power analog IC products for power management services.
-	['low-power analog-to-digital ', 'power management IC', '']
-Dresden Silicon
-	Designer of micro processor chips with low power consumption. The company designs and manufactures chips with low power consumption based on a novel signal processor architecture and integrated hardware and software development environments using rapid design methodology.
-	['', 'low power CPU', ' CPU ', 'central processing unit', ' semiconductor']
-Micropolis
-	Manufacturer of high capacity/performance disk drives. The company provides high capacity mini floppy disk drives and 8" Winchester drives.
-	['', 'disk drives', '']
-Benchmarq
-	Provider of power-sensitive and portable electronic systems. The company provides integrated IC and module solutions that address problems in managing battery-operated, low-power, and power-sensitive equipment.
-	['ic battery']
-Touchstone Semiconductor
-	Designer and manufacturer of high-performance analog integrated circuits. The company creates high-performance analog integrated circuit (IC) services that solve critical issues for electronics companies.
-	['', 'analog integrated circuit', ' ', 'specification identical', ' ', 'integrated circuit', '']
-PhaseLink
-	Manufacturer of technology for timing source and signal conditioning timing source integrated circuits. The company also markets analog frequency multipliers, triangular modulation SST, bi-directional I/O, programmable clock chip, programmable clocks and a range of IC product lines in the industry.
-	['', 'integrated circuit', ' IC Multipliers Modulator']
-Symwave
-	Developer of analog/mixed-signal connectivity solutions in the United States and internationally. The company offers physical layer, low power analog front end cores, integrated circuits (ICs), and semiconductor system solutions to distribute video, sound, photos, and data in the home, automobile, office, and factory; and USB hubs, card readers and mass storage devices, input/output, Ethernet and embedded networking devices, and in-vehicle networks.
-	['', 'analog signal connectivity', ' ', 'semiconductor system solution', ' ', 'embedded networking', '']
-ISOPur Fluid Technologies
-	Developer of high-performance fluid purification systems. The company provides purification systems for hydraulic and lubricating oil used in high-performance, mission-critical industrial machinery.
-	['', 'purifies oil', ' ', 'fluid purity', ' ', 'filter cartridges', ' additives']
-Antrim Design Systems
-	Provider of comprehensive software solution. The company offers software solution for automating the design of high performance analog.
-	['', 'intellectual property', ' circuit ', 'design tools', '']
+Salient Pharmaceuticals
+	Developer of drugs for the treatment of multiple inflammatory gastrointestinal conditions. The company develops a proprietary compound intended for use in treating severe diarrhea associated with chemotherapy, chronic conditions, infectious diseases and other drug therapies.
+	['', 'drug compound', ' ', 'gastrointestinal disease', ' ', 'radiation therapy', ' ', 'gastrointestinal treatment', '']
+Rose Pharma
+	Developer of therapies for irritable bowel syndrome (IBS) and functional dyspepsia (FD). The company is focused on novel treatments for IBS and FD, with a platform technology that is based on a glucagon-like peptide (GLP-1).
+	['', 'irritable bowel syndrome', ' ', 'functional dyspepsia', ' ', 'peptide hormones', ' ', 'gastrointestinal diseases', '']
+Movetis
+	Developer of drugs for the treatment of diseases in the gastrointestinal (GI) area. The company\'s products address GI disorders, such as severe chronic constipation, ascites, paediatric reflux, as well as severe forms of GI motility disorders, including refractory gastro-oesophageal reflux disease. Its lead product, Resolor, is used for the symptomatic treatment of chronic constipation in women.
+	['', 'gastrointestinal treatment', ' ', 'GI disorder', ' ', 'paediatric reflux', ' ascite gastrointestinal  constipation ', 'paediatric reflux', ' ', 'GI motility', ' ', 'refractory gastro-oesophageal reflux', '']
+Ritter Pharmaceuticals
+	Provider of therapeutic treatments for gastrointestinal diseases and conditions. The company provides technology based upon colonic adaptation to treat gastrointestinal diseases with an initial focus on lactose intolerance.
+	['', 'therapeutic treatment', ' ', 'gastrointestinal disease treatment', ' ', 'therapeutic treatment technology', '']
+Vecta
+	Developer of drugs for gastrointestinal diseases. The company is a research and development based pharmaceutical company which develops and commercializes products for gastrointestinal diseases.
+	['', 'gastrointestinal disease', ' ', 'pharmaceutical research', ' ', 'intestine disease', '']
+Verus Pharmaceuticals
+	Provider of solutions for the treatment of asthma, allergies, and related diseases and conditions. The company also offers Twinject, an epinephrine auto-injector for anaphylaxis. It is differentiated by its pediatric orientation and its strong financial position and experienced management team, which allows the company to capitalize on an extensive network to build its product portfolio and pursue complementary transactions.
+	['', 'asthma treatment', ' asthma allergies ', 'epi pen', ' epi-pen epipen ', 'epinephrine auto injector', ' ', 'allergy treatment', '']
+CellMed
+	Developer of a biological drug delivery system for therapeutic treatment. The company\'s core product is CellMed UHVBiopolymer, which is used as a material to encapsulate cells and tissue. The company\'s products are marketed as CellBeads, which are micro-implants that produces therapeutic molecules to treat diseases like hypoparathyroidism, diabetes, oncology and neurodegeneration.
+	['', 'therapeutic treatment', ' CellBeads ', 'micro-implants', ' ', 'therapeutic molecules', '']
+GeneGrafts
+	Provider of therapeutic products. The company manufactures therapeutic products to treat cardiac arrhythmia, Parkinson\'s disease and epilepsy.
+	['', 'therapeutic product', ' ', 'cardiac arrhythmia treatment', ' ', 'epilepsy treatment', '']
+Prometheus Laboratories
+	Developer of diagnostic and therapeutic products. The company developing and commercializing novel pharmaceutical and diagnostic products to help physicians individualize patient care. It markets and promotes Entocort EC, a glucocorticosteroid, which is indicated for the induction and maintenance of clinical remission in mild to moderate active Crohn\'s disease involving the ileum and/or the ascending colon. It has an agreement to acquire rights to LOTRONEX tablets, which is used in female patients with diarrhea-predominant irritable bowel syndrome; and an agreement to develop and commercialize COLAL-PRED, a development-stage product for the treatment of gastrointestinal diseases or other applications.
+	['', 'therapeutic product', ' ', 'diagnostic testing service', ' ', 'inflammatory disease treatment', '']

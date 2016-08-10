@@ -1,33 +1,12 @@
-Smart Button Associates
-	Provider of a web-based marketing platform. The company engages in rewarding and retaining their customers and patrons as well as manages successful loyalty or rewards programs.
-	['', 'marketing platform', ' ', 'reward programs', ' loyalty']
-SmartReply
-	Provider of voice and mobile messaging solutions to retailers and retail brands in the United States and Canada. The company delivers solutions for loyalty, credit, and promotional marketing, as well as hosts Webinars and seminars. It also offers mobile marketing, text messaging, and email marketing solutions.
-	['', 'marketing program', ' ', 'telephone marketing', ' ', 'email marketing', ' ', 'marketing solution', '']
-Mobile Commons
-	Provider of a platform to create and manage mobile marketing campaigns. The company provides tools to reach people on mobile phones. It provides web based tools that provide functionalities like integrating mobile messaging into campaign strategy and website.
-	['', 'mobile marketing', ' ', 'mobile messaging', ' ', 'web based platform', '']
-Heysan
-	Provider of mobile social messaging and community services. The company provides mobile Web based service use MSN, AIM, ICQ, Yahoo and GTalk accounts in mobile phones.
-	['', 'mobile messaging', ' ', 'social messaging', ' ', 'mobile web service', '']
-ECAL
-	Provider of online calender marketing platform. The company provides an online calendar marketing platform. It offers web-base time and event management platform.
-	['', 'online marketing', ' ', 'calender marketing platform', ' ', 'web base time management platform', '']
-Kickanotch mobile
-	Provider of mobile marketing services and technology solutions. The company’s solutions include mobile applications, code marketing and mobile barcodes, text marketing, mobile video marketing, and mobile Web design.
-	['', 'mobile marketing', ' ', 'mobile advertising', ' ', 'text marketing', ' ', 'PUSH notification', '']
-ZipDial Mobile Solutions
-	Provider of mobile marketing services. The company provides consumer intelligence platform that drives services such as couponing, friend referrals, on-pack activations.
-	['', 'mobile marketing', ' ', 'mobile marketing', ' ', 'consumer intelligence platform', '']
-Impact Mobile
-	Developer of a mobile marketing platform. The company provides a platform which provide marketing services and carrier grade messaging infrastructure which allow clients to reach mobile subscribers using short messaging service, multimedia messaging service and mobile web.
-	['', 'mobile marketing', ' ', 'marketing platform', ' ', 'mobile web', '']
-Citizen Logistics
-	Developer of mobile-collaboration software. The company provides a platform enabling users to collaborate with others via SMS, IM, e-mail or Twitter. The platform contains map tools as well as tools for organizing teams by locations, interests and skills.
-	['', 'web service', ' ', 'mobile device', ' ', 'online community platform', '']
-Tedemis
-	Developer of personalized mobile marketing service. The company develops personalized mobile phones with integrated service portals.
-	['', 'personalized mobile marketing', ' ', 'service portal', ' ', 'marketing service', ' ', 'business software', '']
-eVector
-	Developer of an online messaging platform. The company develops a multiple access messaging platform that offers stock prices and other content services for mobile devices.
-	['', 'messaging platform', ' ', 'mobile commerce', ' ', 'digital messaging platform', '']
+StopTheHacker
+	Provider of website security. The company provides SaaS services to web hosters, website owners, administrators and web designers to help them protect, detect and recover from malware attacks.
+	['', 'website security', ' ', 'web hoster', ' ', 'malware attack', ' ', 'malware security', '']
+ThreatGRID
+	Operator of an online malware threat intelligence platform. The company enables organizations to identify and analyze malicious software on their infrastructure.
+	['', 'malware threat', ' intelligence malicious']
+Armorize Technologies
+	Provider of a cloud-based anti-malware products. The company develops next generation technologies that protect businesses from attacks such as Advanced Persistent Threats, targeted email attacks, malicious documents, malvertising, Web malware and website intrusions.
+	['', 'web security', ' ', 'web scanning', ' ', 'web malware monitoring', '']
+FatSkunk
+	Provider of anti virus technology for mobile malware detection. The company offers a new software technology for mobile malware detection that uses physics, instead of conventional heuristics or signatures.
+	['', 'mobile malware', ' ', 'anti virus', ' ', 'virus detection', ' ', 'malware detection', ' ', 'virus scan', ' ', 'software technology', '']

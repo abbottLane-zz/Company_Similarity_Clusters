@@ -1,18 +1,12 @@
-Capsant Neurotechnologies
-	Provider of a technology platform based on organotypic slice cultures. The company focuses on solving problems in the discovery of novel targets and drugs for central nervous system disorders such as stroke, trauma, epilepsy, Parkinson\'s and Alzheimer\'s.
-	['', 'drug evaluation', ' ', 'organotypic slice culture', ' ', 'nervous system disorder', '']
-Intracellular Therapies
-	Developer of drugs for the treatment of diseases and disorders of the Central Nervous System (CNS). The company develops compounds to treat neuropsychiatric and neurological diseases. It also develops a state of the art technology platform for generating a unique molecular signature for drug compounds.
-	['', 'neuropsychiatric disease treatment', ' ', 'neurological disease treatment', ' ', 'drug compound', ' ', 'drug development', '']
-Cyrenaic Pharmaceuticals
-	Developer of drugs for schizophrenia and bipolar disorder. The company is focused on the development of CYR-101, an innovative antipsychotic for the treatment of schizophrenia.
-	['', 'schizophrenia treatment drug', ' ', 'bipolar disorder treatment', ' ', 'drug development', '']
-Xytis
-	Developer of central nervous system (CNS) drug candidates. The company is assembling a pipeline of innovative compounds with validated mechanisms of action, addressing major unmet clinical needs in CNS fields such as Schizophrenia, Traumatic Brain Injury, Depression, Anxiety, or Insomnia. It has two clinical stage compounds in development and operates from the USA, UK and Switzerland.
-	['', 'central nervous system', ' ', 'nervous system disorder', ' ', 'cognition enhancement', ' ', 'schizophrenia treatment', '']
-Sention
-	Developer of drugs to treat memory impairment and other central nervous system disorders. The company develops lead compounds using its specialized genomics and behavioral models to treat other major central nervous system disorders.
-	['memory ', 'nervous disorder', ' ', 'specialized genomics', ' ', 'behavioral model', ' nerve']
-Axonia Medical
-	Developer of tissue-engineered medical products for peripheral & central nervous system injury. The company produces living, functional tissue-engineered nerve grafts in the lab that can replace and repair damaged parts of the nervous system. It has developed technique for production of axons (instead of stem cells), the long thin parts of nerve cells that carry signals to distant target cells. Its regenerative treatments use neurons from patients or cadavers to grow long, integrated tracks of axons in the lab and then implants this tissue into the body, which then enables or accelerates the body’s natural repair system.
-	['', 'regenerative treatment', ' ', 'axon production', ' ', 'nervous tissue regeneration', ' ', 'nervous system injury', ' ', 'medical product', '']
+GoInstant
+	Developer of shared web-browsing tool. The company\'s unique co-browsing tool allows two or more people to surf the web at the same time with no downloads, plugins or installs. It helps to share a web experience in real- time.
+	['', 'shared web browsing', ' plugin ', 'web experience', ' ', 'browsing tool', ' ', 'web browsing', '']
+Exalead
+	Provider of a search software for business and the web. The company provides a unified search technology platform for desktop, intranet or web search which provides users with a single access point to information, regardless of format or location.
+	['data-center ', 'information access platform', ' scalability']
+WiseNut
+	Provider of search engine and Web-browsing services. The company is the developer of a crawler-based search engine and database of indexed Web pages.
+	['', 'search engine technology', ' ', 'web browsing', ' ', 'internet search', '']
+BigSwerve
+	Operator of a search aggregator for blog comments, which are often omitted in blog searches and roundups. The company\'s crawler aggregates comments, allowing users to follow the comments for a given person and discover new content by seeing where other people are engaged.
+	['', 'search aggregator', ' ', 'blog comment', ' crawler ', 'web crawler', ' ', 'comment aggregator', ' ', 'blog crawler', ' ', 'web spider', ' ', 'blog spider', '']

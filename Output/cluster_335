@@ -1,9 +1,27 @@
-BarRx Medical
-	Developer of non-surgical and endoscopic treatment solutions for Barrett\'s esophagus. The company offers an ablation system that uses a balloon-based electrode to ablate Barrett tissue circumferentially within the esophagus and removes the diseased cells.
-	['', 'endoscopic treatment', ' ', 'ablation system', ' ', 'Barrett tissue circumferentially', ' ', 'electrode system', '']
-EndoNav
-	Developer of endoscopic technologies. The company focuses on developing colonoscopic technologies for performing endoscopic procedures.
-	['endoscopic colonoscopy ', 'endoscopic procedures', '']
-Endonetics
-	Developer of endoscopic devices for gastrointestinal disorders. The company develops minimally invasive devices for diagnosis and treatment of gastrointestinal disorders.
-	['', 'gastrointestinal reflux', ' ', 'healthcare service', ' ', 'endoscopic technologies', '']
+Tutum
+	Developer of a cloud computing service platform. The company provides a cloud service focused on deploying and managing containers in any environment, whether the cloud or on-premises.
+	['', 'cloud computing', ' ', 'automate management', ' ', 'docker container', '']
+dotFX
+	Provider of technology to develop, deploy, run, and manage client and desktop software over the Internet. The company\'s proprietary technology provides support for developing, deploying and managing applications for cloud and client.
+	['', 'cloud software', ' ', 'proprietary technology', ' ', 'desktop software', '']
+Gravitant
+	Provider of cloud computing services. The company develops software designed to enable the deployment of virtual data centers and business applications by aggregating services from infrastructure-as-a-service providers.
+	['', 'cloud computing', ' ', 'virtual data center', ' ', 'cloud brokerage', ' ', 'cloud marketplace', ' ', 'predictive analytic', '']
+Macheen
+	Provider of cloud service for connected devices. The company provides cloud-based platform supports to new business models for device makers, retailers, cloud service providers and network operators.
+	['', 'cloud service provider', ' ', 'cloud service', ' ', 'cloud service platform', ' ', 'connected device', ' ', 'device platform', ' ', 'cloud based platform', ' ', 'device service', '']
+TerraSky
+	Provider of cloud computing and system integration services. The company provides SkyVisualEditor, a tool for screen development that is used to simplify the salesforce screen and a platform for data collaboration called SkyOnDemand.
+	['', 'cloud computing platform', ' ', 'system integration services', ' ', 'data collaboration platform', '']
+Sansa Security
+	Developer of embedded security services for mobile, storage, automotive, networking, office automation and industrial markets. The company offers a software stack that runs on the device and provides required information from either a sansa cloud service or the clients own cloud service.
+	['', 'embedded security', ' ', 'office automation', ' ', 'cloud service', '']
+Elastra
+	Provider of software for designing, deploying, and managing application systems in public and private cloud computing environments. The company offers Elastic Computing, a database and application infrastructure solution.
+	['', 'application infrastructure', ' ', 'cloud computing', ' ', 'Cloud Server', ' ', 'cloud environment', '']
+Seanodes
+	Provider of data storage services. The company converts unused internal disks and Direct Attached Storage (DAS) into Shared Internal Storage (SIS). The company also provides cloud computing and high performance computing services.
+	['', 'computer hardware', ' ', 'cloud computing', ' ', 'shared internal storage', ' ', 'high performance computing', '']
+Hubspan
+	Provider of B2B cloud integration service worldwide. The company offers B2B cloud integration platforms to streamline and automate critical business processes, share information across systems and organizations and reduce manual intervention and cut costs. It also provides cloud integration platforms that help companies to exchange electronic documents and real-time messages with partners, customers and suppliers.
+	['', 'cloud integration', ' ', 'electronic document', ' ', 'electronic invoice', ' ', 'business intelligence tool', '']

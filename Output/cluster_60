@@ -1,18 +1,66 @@
-Adept Cloud
-	Provider of cloud-based file-sharing and collaboration services. The company is the provider of a cloud-managed, private collaboration service, designed to enable security, control and privacy for enterprise communications on multiple devices.
-	['', 'cloud-managed service', ' ', 'collaboration service', ' ', 'internal collaboration', ' ', 'collaboration software', ' ', 'file sharing', ' ', 'file-sharing', '']
-SugarSync
-	Provider of cloud file sharing, online Backup & file sync service. The company provides services such as data sync, file sharing and online backup system through its business software for busy professionals and digitally-connected consumers.
-	['', 'business service', ' ', 'online backup', ' ', 'folder sharing', '']
-Found Software
-	Provider of a file-sharing and collaboration platform. The company allows users to search for, find and discover their files, documents and data across devices and cloud services.
-	['', 'file sharing', ' ', 'data search', ' ', 'file discovery', ' ', 'data collaboration', '']
-Lasso Logic
-	Provider of data protection software. The company\'s product CDP includes local and off site backup, file sharing, recovery features and administration for desktops, mobile PCs and servers.
-	['', 'data protection software', ' ', 'file sharing platform', ' ', 'data recovery', '']
-HipChat
-	Provider of internal communication and messaging services. The company provides messaging services designed for businesses, law firms, student groups and non-profits organizations. Its services include internal communication with chat rooms and file sharing and sending and receiving messages through SMS on various phones, desktop, Web browser, i-Phone and androids.
-	['', 'messaging service', ' ', 'file sharing', ' ', 'chat room', ' ', 'data sharing', ' messaging SMS']
-Dispatch
-	Provider of cloud based data management services. The company provides cloud-based file sharing services. It also offers group email addresses for the projects.
-	['', 'cloud sharing movement', ' ', 'cloud sharing management', ' ', 'cloud file sharing', ' ', 'file sharing', '']
+Bedo Technologies
+	Provider of LBS application and service. The company\'s product enables users to take real-time location-based information and display it in context of a consumer’s online social network.
+	['', 'location based services', ' ', 'LBS application software', ' ', 'online social network', '']
+Echoecho Media
+	Developer of a location-based mobile application for finding friends. The company offers an open API, cross-platform, carrier agnostic location sharing system which helsp users in searching for friends and suggesting meeting places.
+	['', 'application developer', ' ', 'friend tracking', ' ', 'social content', '']
+KitLocate
+	Developer of location based applications. The company offers developers and brands a standard for user engagement and services, based on real-time location and enhanced user profiles.
+	['', 'intelligence platform', ' ', 'real-time location', ' ', 'consumer location', '']
+Loxi
+	Developer of online and mobile applications. The company designs and develops applications for the fields of location based services and digital couponing.
+	['', 'location based services', ' ', 'digital couponing', ' ', 'online applications', '']
+Plazes
+	Provider of web based geo-social navigation services. The company helps its members publish and share their current location with friends so that they can locate one another, connect digital and real-world identities and can coordinate with friends, family and business contacts from their very location.
+	['', 'location services', ' ', 'geo tagging', ' ', 'positioning services', ' ', 'commercial services', '']
+MeNetwork
+	Developer of location-based mobile marketing software for businesses and consumers. The company allows local merchants to deliver targeted content, offers, loyalty programs and promotions directly to consumers mobile devices based on the location-based services.
+	['', 'advertisement and promotion', ' ', 'marketing software', ' ', 'targeted marketing', '']
+Incomparable Things
+	Developer of a mobile application for sharing adventure experiences. The company provides a mobile social platform for people to collect and share stories of their adventure, by weaving all the media generated while they are having their adventure - including photos, location data and tweets - into a single narrative.
+	['', 'B2C service', ' ', 'media service', ' ', 'mobile social platform', '']
+Whereonearth
+	Developer of localization technologies. The company offers online location-based services, that enables users to search for local goods and services without entering a zip code or post code.
+	['', 'localization technology', ' ', ' location-based services', ' ', ' location-based app', ' geocoding']
+NomadIQ
+	Provider of location based applications services for handheld devices. The company offers a wireless service that enables subscribers to access and navigate the Internet, send and receive email messages, and conduct e-commerce transactions over handheld mobile devices.
+	['', 'location based application', ' ', 'site information', ' ', 'application development', '']
+Handster
+	Provider of white label platform for smart phone users. The company offers a scalable, highly flexible white-label application store solution for mobile operators, handset manufacturers and distributors.
+	['', 'application software', ' smartphones ', 'mobile entertainment', '']
+Tomfoolery
+	Developer of mobile application software.  The company provides mobile software to consumers and businesses across a wide array of sectors.
+	['', 'mobile software', ' ', 'consumer quality', ' ', 'enterprise application', '']
+HopStop.com
+	Developer of a mobile application for pedestrian-friendly directions and information. The company is the creator of a mobile application that provides door-to-door transit, walking, biking, taxi and hourly car-rental directions in more than 300 cities. It is available for mobile phones and tablets.
+	['', 'driving software', ' ', 'driving application', ' ', 'location based software', ' ', 'subway directions', '']
+Tagzania Services
+	Provider of geo-location services. The company, based in Spain, provides geo-location services and maps on the internet.
+	['', 'consumer service', ' ', 'geo-location services', ' ', 'location information', '']
+Penteye Technologies
+	Developer of location tracking technologies. The company offers a real-time software which offers tracking and location-based services at airport and amusement parks.
+	['', 'location-based services', ' ', 'location engine', ' ', 'alerting module', '']
+The Last Guide Company
+	Provider of the mobile and social media software. The company provides application software for mobile, social media and location based services.
+	['', 'entertainment application software', ' ', 'mobile entertainment', ' ', 'location based service', '']
+Nokia gate5
+	Developer of location based information technology on mobile devices. The company provides a platform for mapping, route planning, content management and personal navigation. Its products include smart2go, a client side global map and search application for GPS-equipped mobile handsets and OEM navigation software for PNDs and PDAs.
+	['', 'location based', ' ', 'information technology', ' ', 'navigation software', '']
+Fanvibe
+	Provider of sports social hub and application software. The company provide game updates to the sport fans wherever they are engaged and gives fans deals on tickets, merchandise, and more.
+	['', 'application software', ' ', 'iphone application', ' ', 'sport application', '']
+Hyperpublic
+	Developer of an open database and platform of people, places, deals and events tied to a specific location. Anyone can add objects to the database and developers are able to build applications on top of the data. The data includes recent check-ins, daily deal aggregations and reviews.
+	['', 'geo local platform', ' ', 'location application', ' ', 'location database', ' ', 'location-based search', ' ', 'location-based', '']
+Impulcity
+	Developer of a mobile application that helps users to find local concerts and events in the city. The company\'s application alerts users to nearby events, based on their preferences, and provides a social network for sending out invites and sharing real-time content and photos.
+	['', 'personalized guide', ' ', 'location based event', ' ', 'mobile device', ' finder']
+M-Spatial
+	Provider of route guidance technologies to improve the usability of location-based services for mobile phones. The company specializes in the application of spatial intelligence within mobile portals and their associated content services.
+	['', 'route guidance', ' ', 'location-based services', ' ', 'spatial platform', ' ', 'spatial intelligence', '']
+Compass Engine
+	Developer of location based games. The company\'s product Bounty Island, an application for iOS devices like iPhone, iPad and iPod Touch, uses the player\'s physical location in the real world to generate the game\'s tropical island environment.
+	['', 'recreational software', ' ', 'location based application', ' ', 'geolocation platform', '']
+Meridian Apps
+	Provider of assistance that helps location-based businesses engage with their visitors. The company offers its services to retail outlets, hotels, hospitals, subways, airports and museums to use their platform to build and maintain mobile apps that take advantage of GPS and other location-aware technologies.
+	['', 'location-aware technology', ' ', 'mobile app', ' ', 'content management system', '']

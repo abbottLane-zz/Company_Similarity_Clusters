@@ -1,24 +1,69 @@
-United Orthopedic Group
-	Manufacturer of non invasive orthopedic rehabilitation products. The company also offers complimentary services designed for clinical effectiveness and patient satisfaction.
-	['', 'orthopedic product', '  ', 'rehabilitation product', '  ', 'clinical service', '']
-NovoSource
-	Manufacturer of orthopedic implants and instruments. The company manufactures and supplies private label orthopedic implants to a variety of healthcare providers, for joint replacement and reconstruction for knees and hips.
-	['', 'orthopedic implant', ' ', 'joint replacement', ' ', 'healthcare provider', '']
-B1 Medical
-	Manufacturer of medical devices for the orthopedics market. The company develops and markets products such as soft tissue monitoring, fracture fixation, IM nail alignment, tissue repair and small joint prosthesis products for trauma fixation in orthopedic fields.
-	['', 'orthopedics market', ' ', 'soft tissue monitoring', ' ', 'fracture fixation', ' orthopedic']
-Cartificial
-	Operator of an orthopedic medical devices company. The company develops artificial cartilage for prosthetic hips. The company\'s product, Cartificial Hip helps in replacing prostheses with the potential of being inserted during day care surgery.
-	['', 'orthopedic company', ' ', 'artificial cartilage', ' ', 'medical devices', ' ', 'surgical devices', ' ', 'surgical implants', '']
-Resoimplant
-	Provider of orthopedic devices. The company develops, manufactures and markets double shell expansion systems for secure fixation of tendons, ligaments and bone fragments in orthopaedic, trauma and sports medicine applications.
-	['', 'resorbable fixations', ' ', 'arthroscopic refixation', ' ', 'healthcare devices', '']
-VasoLux MicroSystems
-	Developer of optically based diagnostic devices for surgical and diagnostic procedures. The company\'s diagnostic imaging system helps surgeons to identify later-stage osteoarthritis patients.
-	['', 'Optical diagnostic device', ' ', 'imaging system', ' ', 'medical device', '']
-OrthoScan
-	Provider of orthopedic imaging devices. The company produces medical devices that are used in the imaging of extremities in orthopedic surgery and for digital diagnostic imaging in the office.
-	['', 'orthopedic imaging', ' ', 'orthopedic surgery', ' ', 'orthopedic device', '']
-Origin Medsystems
-	Developer and manufacturer of specialized endosurgery devices and instruments for orthopedic and general surgery. The company\'s first product, the Cement Extraction System is used for replacement of artificial hips.
-	['', 'artificial hip', ' ', 'surgical device', ' endosurgery']
+eQuilibrium Solutions
+	Developer of energy management software.
+	['', 'energy management', ' ', 'energy software', '']
+BuildingIQ
+	Provider of an energy management software. The company\'s software platform forecasts energy demand and automatically adjusts a building’s HVAC settings to optimize energy use.
+	['', 'energy management', '  ', 'building energy management', ' ', 'energy efficiency', '']
+Orecon
+	Producer of wave energy devices. The company specializes in providing water column technologies for wave energy applications
+	['', 'wave energy', ' ', 'water column', ' ', 'marine environment', ' ', 'wave energy conversion applications', ' ', 'multi resonant chambers ', '']
+JouleX
+	Provider of energy management systems for data centers and enterprise networks. The company\'s main product is JouleX Energy Manager, a solution that monitors, analyzes and manages the energy usage of network-connected devices and systems in the enterprise network, data center and related facilities. Its software solution monitors, analyzes and manages PCs, servers, VoIP phones and devices, printers, network switching devices, IP power switches, and HVAC systems.
+	['', 'energy management', ' ', 'sustainable energy', ' ', 'energy usage reduction', '']
+P21
+	Providers of autonomous energy supply and energy-efficient solutions, with the aim of replacing diesel generators with zero-emission products. The company provides services in energy efficiency and monitoring, solutions for supplying electricity to off-grid applications such as monitoring stations, telecommunications facilities or self-sufficient houses; and providing education and research programs for fuel-cell and solar-hydrogen technology.
+	['energy-management ', 'energy consumption', ' ', 'hydrogen fuel cell system', ' ', 'climate reading', ' ', 'CO2 balance', '']
+Alektrona
+	Provider of hardware and software services for advanced metering infrastructure, demand side management and other energy-related applications. The company specializes in unifying open-standards products within energy management systems, enabling smart grid companies to better serve their customers energy needs
+	['', 'broadband energy management', ' ', 'hardware solution', ' ', 'software solution', ' ', 'advanced metering infrastructure', ' ', 'energy management device', ' ', 'demand side management', ' ', 'energy-related application', ' ', 'energy network appliance', ' ', 'advanced metering system', '']
+Enersciences Holdings
+	Developer of energy products and services for the energy industry. The company develops energy technologies like drilling, fracturing and gas-to-liquid processing to help customers in their operations in the energy industry, while maintaining safety and environmental integrity.
+	['', 'energy products', ' ', 'energy technologies', ' ', 'environment integrity', '']
+Adura Technologies
+	Provider of wireless lighting and energy management systems. The company provides lighting control service for new and retrofitted commercial buildings.
+	['', 'lighting management', ' ', 'energy management', ' ', 'lighting control', ' ', 'energy saving', '']
+Enermetrix
+	Provider of real- time transaction - processing environment in which utilities, traders and marketers, service companies, commercial and industrial users buy and sell energy. The company provide internet commerce system that allows energy consumers, energy suppliers and utilities to share information.
+	['', 'online energy trading', ' ', 'energy markets', ' ', 'energy sellers', ' ', 'energy buyers', ' ', 'energy software solutions', '']
+Navita Systems
+	Provider of decision-support technology for transaction and risk management in the energy market. The company has developed a software product offering an overview of the opportunities and risks in energy trading, as well as decision-support systems for physical and financial trading in the energy sector.
+	['', 'decision support systems', ' ', 'risk management', ' ', 'energy trading', '']
+Datapult
+	Provider of enterprise energy management (EEM) services. The company provide web-based applications that are used to collect and analyze energy usage information, monitor power quality, engage in load management, conduct rate modeling and tariff comparisons, and dispatch distributed generation capabilities.
+	['', 'enterprise management', ' ', 'web based application', ' ', 'power quality', ' ', 'load management', ' ', 'rate modeling', ' ', 'tariff comparison', '']
+FieldView Solutions
+	Provider of facilities managers and IT personnel that handle data centers with real time branch circuit and environmental monitoring, circuit alarm notification, and cabinet asset management for small and large data centers. The company’s enterprise-ready platform optimizes space and energy usage in data center environments, as well as enhances security features, access, and permissions. It serves financial, insurance, co-location, and pharmaceutical companies.
+	['', 'enterprise software', ' ', 'energy management', ' ', 'risk mitigation', ' ', 'paltform optimization', ' ', 'space optimization', '']
+Fat Spaniel Technologies
+	Provider of monitoring and reporting services for the renewable energy industry. The company also provides lifecycle management services. It offers Fat Spaniel Insight Manager, a Web portal for building, sharing and running energy data applications.
+	['', 'monitoring service', ' ', 'lifecycle management', ' ', 'energy data application', ' ', 'systems monitoring', '']
+Imperium Renewables
+	Producer of biodiesel from feedstock oils and glycerin, a by-product of biodiesel. The company operates BQ-9000®-certified biodiesel facilities in the United States.
+	['biodiesel ', 'clean energy', ' ', 'green energy', ' ', 'waste management', ' ', 'sustainable fuel', '']
+Fellon-McCord & Associates
+	Provider of energy management, dispatch and consulting services to clients in the industrial and commercial sectors. The company provides a variety of services that include energy audits, energy RFPs, utility negotiations, natural gas bypass studies, energy sourcing, risk and demand management, cost-benefit analysis and program development.
+	['', 'energy management', ' ', 'consulting services', ' ', 'management consulting', '']
+Enerwise Global Technologies
+	Provider of enterprise energy management solutions as a Web-based hosted software suite for commercial, institutional, and industrial customers to reduce energy consumption. The company also provides demand response, energy analysis, load management, distributed generation, utility allocation, and report generation and energy analytical services.
+	['', 'energy management solution', ' ', 'enterprise solution', ' ', 'hosted software', ' ', 'energy analysis', ' ', 'load management', ' ', 'utility allocation', '']
+Airxchange
+	Manufacturer of energy recovery ventilation products and components. The company offers energy recovery ventilators, integrated packages, air handler options, wall mounts and packaged units. The company also provides field replacement services.
+	['', 'energy recovery', ' ', 'energy recovery ventilation', ' ', 'recovery ventilator', ' ', 'air handler', ' ', 'wall mount', '']
+Nest Labs
+	Provider of learning thermostat focused on reducing home-energy consumption. The company\'s technology Learning Thermostat learns human behaviors and preferences, automatically adjusting the temperature so you can stay comfortable while saving energy and money.
+	['', 'household heating', ' ', 'cooling bill', ' ', 'energy saving', ' thermostat ', 'energy bill', ' ', 'energy management', ' ', 'temperature control', ' ', 'household heater', ' heater ', 'smart home', '']
+ENEA
+	Supplier of energy in Poland. The company engages in electricity generation, distribution and trading and offers energy for home and business.
+	['', 'energy supply', ' ', 'electricity generation', ' ', 'electricity distribution', '']
+Greenbox Technology
+	Provider of Web-based energy management solutions for the utilities and residential energy customers. The company\'s platform enables its customers to track, compare, and manage energy usage, as well as engages them in energy efficiency, demand response, alternative and renewable energy, and carbon reduction activities.
+	['', 'energy management', ' ', 'energy utility', ' ', 'energy usage', ' ', 'energy efficiency', ' ', 'carbon reduction', '']
+Yitran Communications
+	Provider of powerline communication (PLC) technology for command and control applications. The company\'s technology is used in applications including energy management and demand response, automated meter reading/management (AMM/AMR), home/building automation, switching and lighting, white good appliances, HVAC control, remote meter reading and street light control. It also designs, develops and markets PLC integrated circuits.
+	['', 'communication technology', ' ', 'energy management', ' ', 'integrated circuit', '']
+SFG Technologies
+	Provider of software systems and solutions focusing on revenue cycle services for municipalities and power utilities. The company\'s utility management system integrated software consists of various modules, such as customer service, requests for service, service orders, credit collections and deposits, billing and rate management, payment processing and meter reading and consumption.
+	['', 'software solutions', '', 'service orders', '', 'meter reading software', '', 'energy software', '']
+Triacta Power Technologies
+	Developer of energy management systems. The company develops energy systems which enables firms to reduce energy consumption and energy costs.
+	['', 'energy management system', ' ', 'smart submetering', ' ', 'electrical sub metering', '']

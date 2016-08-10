@@ -1,24 +1,30 @@
-Epocal
-	Provider of biochips and micro-fabrication of solid-state diagnostic devices. The company is implementing an entire blood diagnostic system in FlexCard™ technology, a card format similar to the smart card used in conventional check and telephone cards.
-	['', 'monitoring devices', ' ', 'diagnostic devices', '']
-Microgenics Holding
-	Manufacturer and seller of diagnostic reagents. The company offers CEDIA immunoassays, DRI products, including liquid and ready to use reagents, MAS control products for serum chemistry.
-	['reagents ', 'diagnostic reagents', ' immunoassays']
-Silicon Biosystems
-	Provider of technology to study single cells for culture or molecular analysis. The company is the developer of DEPArray technology, enabling researchers to study rare cells and to determine the biological significance of subpopulations of cells within a sample. It also focuses on facilitating advances in personalized medicine by enabling the isolation, recovery and analysis of individual, viable rare cells.
-	['heterogeneity ', 'cell-biology', ' ', 'rare cell', ' ', 'biological significance', ' ', 'single cell', ' ', 'molecular analysis', '']
-Homestead Clinical
-	Developer of diagnostic and prognostic tools. The company was founded to commercialize a suite of technologies developed at the Institute for Systems Biology (ISB) that have broad utility in the development of novel diagnostic tools.
-	['', 'diagnostic tool', ' ', 'prognostic tool', ' ', 'novel diagnostic tool', '']
-Boule Diagnostics
-	Boule Diagnostics AB is engaged in developing, manufacturing, and marketing hematology measurement systems. The company offers blood analysis systems, plastic micro capillaries, as well as support and consulting services for human and veterinary markets.
-	['hematology ', 'blood disease', ' ', 'blood analysis', ' ', 'blood diagnostic', '']
-miacom Diagnostics
-	Developer of diagnostic kits. The company provides a diagnostic technology that uses biofluorescence to scan for bacteria and other disease-causing pathogens. The kits can be used to evaluate blood and sputum.
-	['', 'diagnostic kits', ' ', 'channel pipette', ' ', 'hybridization chamber', ' hotplate fluorescence']
-NanoMR
-	Manufacturer of blood diagnostic devices. The company has developed a system for rapid isolation of rare cells from complex matrices at levels of one cell per milliliter or lower.
-	['', 'blood diagnostic', ' ', 'bloodstream infection', ' ', 'molecular diagnostic', '']
-Oxford Immunotec Global
-	Manufacturer and marketer of T Cell based diagnostic test products and services for the laboratories and clinicians. The company\'s product is the \'T-SPOT.TB\' test, the new cellular blood test for the detection of active and latent tuberculosis infection.
-	['', 'blood test', ' ', 'tuberculosis infection', ' ', 'blood sample', ' ', 'tuberculosis diagnosis', '']
+Quanticel Pharmaceuticals
+	Developer of medicines for the treatment of cancer and other life-threatening diseases. The company provides a platform for single-cell genomic analysis of human cancer.
+	['', 'therapeutic treatment', ' ', 'medicine development', ' ', 'disease treatment', '']
+Pathway Therapeutics (Anticancer Drug)
+	Anticancer Drug molecules and its backup compounds in San Francisco. The drug molecules and its backup compounds are used as an inhibitor to slow down the growth of cancer cells and solid tumors.
+	['', 'oncology', ' ', 'life sciences', ' ', 'treatment of tumors', ' ', 'cancer inhibitor', '']
+Sagres Discovery
+	Provider of oncogene discovery, individualized cancer profiling, drug target validation and therapeutic development.
+	['', 'oncogene discovery', ' ', 'drug target validation', ' ', 'drug therapeutic', ' ', 'cancer profiling', '']
+FASgen
+	Developer of therapeutic drugs. The company designed and synthesized many compounds that selectively inhibit fatty acid biosynthesis. It offers cancer, infectious diseases, multiple drug resistant and latent tuberculosis and obesity and diabetes therapeutics.
+	['', 'therapeutic drugs', ' ', 'diabetes tool', ' ', 'latent tuberculosis', '']
+Genemedicine
+	Developer of bio-pharmaceutical products. The company designs gene medicines to produce sustained levels of therapeutic proteins within the body. The company develops therapeutic products for both acute and chronic use and to be administered to patients through conventional means such as intramuscular or intravenous injection, or inhalation.
+	['biopharmaceutical genes']
+Ester Neurosciences
+	Developer of therapeutic products for the treatment of neurological disorders. The company provides novel therapeutic products for the treatment of neurological disorders such as myasthenia gravis, alzheimer disease, multiple sclerosis and acute stress reactions.
+	['', 'therapeutic product', ' ', 'neurological disorder', ' ', 'disease treatment', '']
+Nereus Pharmaceuticals
+	Developer of therapeutic drugs for the treatment of cancer. The company is engaged in discovery and development of therapeutic medicines and drugs which are used in the treatment of tumors, cancer, colon, prostate and other inflammatory diseases.
+	['', 'marine microbiology technology', '  therapeutic ', 'development of therapeutic', ' ', 'treatment of oncology', '']
+Interomex Biopharmaceuticals
+	Developer of proteomic drugs. The company is engaged in the discovery and commercialization of novel targets and drugs in the proteomics area, for the treatment of viral, cancer and autoimmune diseases.
+	['proteomics autoimmune']
+Aposense
+	Developer of diagnostic and therapeutic drugs. The company develops diagnostic and therapeutic drugs to identify and cure cells undergoing apoptosis.
+	['', 'molecular imaging', ' apoptosis ', 'therapeutic drugs', '']
+Adnexus Therapeutics
+	Developer of Adnectins biologics/medicines in the United States. The company\'s product candidates include Angiocept/CT-322, an anti-angiogenesis agent for treating cancer that blocks the VEGFR-2 pathway; and other Adnectin therapies for the treatment of oncology, immunology, and cardiovascular diseases.
+	['', 'drug discovey', ' ', 'anti-angiogenesis agent', ' ', 'treatment of oncology', '']

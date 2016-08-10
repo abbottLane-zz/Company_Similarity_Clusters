@@ -1,30 +1,33 @@
-Grenslandhallen
-	Provider of event management services. The company offers spaces and accommodation for events such as concerts, theatrical productions, fairs and exhibitions.
-	['', 'event management', ' ', 'concert shows', ' ', 'live shows', ' ', 'event faculties', '']
-Eventioz
-	Provider of online ticket sales and services. The company offers an online ticket platform for clients to promote and market events.
-	['', 'event marketing', ' ', 'event promotion', ' ', 'ticket sales', ' ', 'event ticketing', ' ', 'ticket services', ' ', 'ticket marketing', ' tickets']
-Asure Software (WebEvent Solution and Book of Business)
-	Provider of event calender and scheduler software. The company integrates event calendar software and a scheduler into a single enterprise wide web based event management software system, providing one view into all of event information.
-	['', 'event calendar software', ' ', 'event management software', '']
-Eventjoy
-	Provider of an online event organizing platform. The company\'s platform allows organizers to use self-service platform to create social mobile applications, handle ticketing/registration, power activity walls and design an event website.
-	['', 'event organizing platform', '  ticketing ', 'event website', '']
-nTAG Interactive
-	Provider of event data management solutions for the meetings and event industry. The company offers nTAG, an event data management system that facilitates business networking, makes presentations, automates lead capture, enabling exhibitors and sponsors to collect information, supports real-time event management, allowing meeting planners to closely monitor activities, and instantly send messages to staff and meeting participants and provides reporting and ROI analysis to compare results against objectives to determine whether the meeting was worth the investment. It also offers event sponsorship services, as well as pre-event planning, on-site execution and post-event follow up services.
-	['', 'data management solution', ' ', 'business networking', ' ', 'ROI analysis', '']
-SpeakerGram
-	Developer of online platform to connect public speaker. The company makes it easier for speakers and event organizers to connect and provide a single dashboard to manage requests and engagements.
-	['event management speaker organiser']
-PreEnroll
-	Provider of online registration services.
-	['', 'online registration', ' ', 'registration service', '  ', 'registration software', '']
-B-there
-	Provider of online event management and consolidation solutions. The company offers Internet registration, housing and transportation management solution for the meeting and trade show industries.
-	['', 'event management', ' ', 'Internet registration', ' ', 'transportation management', '']
-Thriva
-	Provider of online event registration and payment processing software.
-	['', 'event management', ' ', 'event registration', ' ', 'payment processing', '']
-MogoTix
-	Provider of a mobile ticketing service for events. The company\'s services are used to send event tickets to attendees\' cell phones through text messages for parties, fundraisers and conferences.
-	['', 'mobile ticketing service', ' ', 'event website', ' ', 'mobile QR code', ' ', 'event hosting', ' ', 'ticket distribution', '']
+Maptuit
+	Provider of navigation solutions to the transportation industry in the United States. The company specializes in providing location information Web services for consumer, tracking, and traffic markets.
+	['', 'navigation solution', ' ', 'location information', ' ', 'transportation optimization solution', ' ', 'geofencing technology', ' ', 'direction application', ' ', 'online traffic application', '']
+Phobos Corporation
+	Developer of internet security and enterprise switching products. The company engages in the design, development and sale of Internet traffic management solutions.
+	['', 'Internet traffic management', ' ', 'Web hosting', '']
+Enjoyor Technology Group
+	Provider of urban intelligent turnkey services. The company provides intelligent techniques, products and application services for industry users of urban traffic, digital treatment and intelligent architecture.
+	['', 'turnkey service', ' ', 'urban traffic', ' ', 'commercial service', '']
+Azanda Network Devices
+	Operator of a communications semiconductor company. The company develops semiconductors for use in next-generation optical and metro-area networks and multi-service traffic management solutions for routers and switches.
+	['optical ', 'traffic management', ' routers']
+Inteliquent
+	Provider of tandem interconnection services principally to carriers, including wireless, wireline, cable and broadband telephony companies. The company\'s services help carriers to exchange local and long distance traffic between their networks without using an ILEC tandem or establishing direct connections. It manages network capacity between its tandem switches and customers’ switches, which results in network quality and reduced call blocking.
+	['', 'tandem interconnection', ' ', 'wireless telephone', ' ', 'broadband telephony', ' ', 'call traffic', ' ', 'network traffic', ' ', 'ILEC tandem', ' ', 'direct connection', ' ', 'network capacity', ' ', 'tandem switch', ' ', 'call  blocking', '']
+Sandvine
+	Provider of network policy control services focused on protecting and improving the quality of experience on the internet. The company offers software that help cable, fixed wireless and mobile operators better understand network traffic, manage network congestion, create new services and revenues, mitigate traffic that is malicious or undesirable to subscribers, deliver multimedia services and increase subscriber satisfaction.
+	['', 'network software', ' ', 'control services', '']
+Anagran
+	Producer of network flow management products. The company offers FR-1000, an intelligent flow manager and Layer 3 product platform that features fast flow, intelligent flow discard, and behavioral traffic control technologies for video-dominated rich media network traffic to transport video and rich quad-play traffic. It offers its solutions for universities and colleges, service providers, cable networks, and distributed storage, as well as for video distribution, conferencing, and HD telepresence industries.
+	['', 'network flow management', ' ', 'IP traffic manager', ' ', 'P2P management', ' ', 'IP video', ' ', 'flow management', ' ', 'data application', ' ', 'Computer Communications Equipment', ' ', 'Customer Premises Equipment IP Router', ' ', 'Internet Proxy Router', '']
+Cymphonix
+	Provider of products that control Internet browsing and application activities. The company provides Network Revealer that helps in real time traffic reporting, application classification, and detailed user activities and Network Composer, a smart gateway appliance that helps organizations to understand at a glance who is abusing network resources and with what applications.
+	['', 'browsing', ' ', 'Network Composer', ' ', 'real time traffic', '']
+CyberIQ Systems
+	Provider of website management services. The company uses its expertise in Internet traffic and content management along with acceleration technology to make websites and web applications faster and more reliable.
+	['', 'website management', ' ', 'internet traffic', ' ', 'web application', '']
+Green Way Systems
+	Provider of traffic guidance systems.  The company uses GPS technology and proprietary detectors that can alter traffic signals for emergency vehicles and alter traffic signs to accurately display hazards and traffic information.
+	['traffic ', 'traffic guidance', ' ', 'traffic detector', ' ', 'traffic technology', '']
+Apptitude
+	Developer of a embedded internet traffic analysis platform. The company provides a wire speed application recognition technology that provides fully granular, real time application visibility on enterprise networks.
+	['', 'internet traffic', ' ', 'analysis platform', ' ', 'enterprise network', '']

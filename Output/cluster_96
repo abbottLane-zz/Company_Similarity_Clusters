@@ -1,15 +1,36 @@
-MKT Print
-	Provider of printing services. The company also engages in book binding services.
-	['', 'printing services', ' ', 'binding services', ' ', 'publishing services', ' ', 'press services', '']
-Graffiti
-	Provider of media services in the form of external marking and the digital printing. The company provides media printing services which is eco-friendly in nature.
-	['', 'external marking', ' ', 'digital printing', ' ', 'media printing', '']
-In2 Printing Solutions
-	Provider of digital printing. The company provides various types of digital printing services to its customers.
-	['', 'digital printing', ' ', 'custom print', ' ', 'custom printing', '']
-Shira Computers
-	Provider of web based workflow management software for pre-press and digital printing industries. The company offers vendor independent designs for prepress, printing and publishing firms worldwide.
-	['', 'workflow management software', ' ', 'digital printing', ' ', 'pre press', '']
-Indocs
-	Provider of an application service provider for the printing and publishing industries. The company enables marketing staff, designers, and print houses to edit, manage, and produce graphically-enhanced documents online.
-	['', 'application service provider', ' ', 'online documentation', ' publishing']
+Integrated Energy Services
+	Provider of commercial and industrial heating, ventilation and air conditioning systems. The company also installs, renovates and do maintenance services of commercial and industrial products.
+	['', 'B2B Services', ' ', 'commercial products', '']
+Revolymer
+	Developer of polymers for consumer products. The firm designs, develops and formulates polymers for consumer products within the FMCG markets.
+	['', 'consumer products', ' ', 'FMCG market', ' polymers']
+Enclotek Ready Panels
+	Manufacturer of electrical equipment. The company manufactures control panel boards.
+	['', 'electrical equipment', ' ', 'industrial products', '']
+JPS Groupe
+	Provider and seller of goods and equipment to industries. The company focuses on selling and renting products for industrial and construction purposes.
+	['leasing trading ', 'building trade', '']
+Youth Fair
+	Provider of undisclosed products and services.
+	['', 'industrial products', ' ', 'industrial services', ' ', 'consumer products', ' ', 'consumer services', '']
+Groupe J.L. Leclerc
+	Manufacturer and designer of industrial products for power and transportation industries. The company serves the markets for energy and transport. It has developed its own equipment designed for the maintenance and installation of electric lines.
+	['', 'industrial products', ' ', 'power and transportation', ' ', 'electric lines', ' ', 'equipment design', '']
+Cyber-Rain
+	Manufacturer of wireless sprinkler control systems for homeowners, property managers, building owners and landscape contractors. The company serves residential and commercial markets. Its sprinkler control systems work through personal computers to automatically adjust the amount of watering based on weather and seasonal conditions.
+	['', 'B2B services', ' ', 'consumer products', ' ', 'commercial markets', '']
+Safety Technology
+	Supplier of safety training and equipment for work at heights. The company offers a variety of safety courses for working onshore and offshore, including RenewableUK and GWO accredited Work at height and rescue.
+	['', 'consumer services', ' ', 'safety programs', ' ', 'safety equipments', ' harness ', 'fall arrest', ' connectors boots']
+Blue Flame Data
+	Developer of consumer preference analysis software. The company provides an online, real-time measurement of consumer market preferences. It provides a web application with a game-like interface that collects information about the consumer\'s likes and dislikes on a variety of products and services.
+	['', 'consumer preference', ' ', 'preference analysis', ' ', 'data aggregation', ' ', 'realtime data', '']
+Organis
+	Creator of natural insect repellents. The company is the developer of a platform of insect-repellent products derived from the edible turmeric plant. The active ingredients form the basis of a family of products for the agricultural, industrial, hospitality, urban ad home environments.
+	['', 'organic insecticides', ' ', 'bio-pesticides', ' ', 'insect-repellents', ' insecticides']
+connectBlue
+	Provider of bluetooth services for industrial and commercial applications. The company offers industrial-grade short range radio modules supporting popular Classic Bluetooth, Bluetooth low energy and Wi-Fi standards.
+	['', 'bluetooth service', ' ', 'industrial application', ' ', 'wireless communication', '']
+Hanza
+	Manufacturer of industrial products. The company provides mechanical, electronics, cable harnesses and final assembly products for industrial uses.
+	['', 'industrial product', ' ', 'assembly product', ' ', 'cable harness', '']

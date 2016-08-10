@@ -1,48 +1,39 @@
-Ixi Mobile
-	Developer of data centric wireless mobile devices and services for mass market users. The company provides end-to-end software and hardware reference designs which it claims creates a new category of mobile devices.
-	['', 'communication server', ' ', 'wireless communication service', ' ', 'mobile device', ' ', 'data centric', '']
-Naratte
-	Developer of wireless technology. The company develops Zoosh, a technology that provides benefits of near-field communication based on ultrasonic technology, utilizing the speakers of mobile devices.
-	['', 'wireless technology', ' ', 'ultrasonic technology', ' zoosh']
-Veebeam
-	Developer of wireless technologies and products. The company provides software products for video streaming and designs hardware systems for consumer electronic device for the wireless streaming of HD audio or video content from laptop to television.
-	['', 'wireless applications', ' ', 'video streaming software', ' ', 'wireless protocol software', '']
-SKY MobileMedia
-	Provider of application and platform software for wireless handset industry. The company provides multimedia technologies put into use in the iPhone OS which provides access to audio and video capabilities of the devices working on the OS. It provides softwares such as SKY-MAP, SKY-MMF, SKY-IMS, SKY-SYNC and SKY-VM which supports all wireless handset systems to operate.
-	['', 'multimedia technologies', ' ', 'platform software', ' ', ' iPhone', ' ', 'wireless handset', ' OS']
-Voyager Systems
-	Provider of secure data transmission services and wireless applications. The company\'s \'s flagship product, Voyager Query(TM), provides law enforcement personnel access to information in the course of field operations, quickly and securely, via a high-speed handheld device communicating over any wireless network.
-	['', 'data transmission service', ' ', 'wireless application', ' ', 'enterprise applications software', '']
-KidoZen
-	Developer of an enterprise mobility platform delivered completely as a service. The company offers a web-based software that helps companies to develop and manage wireless applications that integrate with existing business software programs.
-	['', 'enterprise mobility', ' ', 'wireless application manager', ' ', 'business software program', '']
-W5 Networks
-	Developer of wireless systems for the retail industry. The offers electronic shelf label (ESL) systems for displaying price information on retail shelves.
-	['', 'wireless system', ' ', 'electronic shelf label', ' ', 'wireless application', ' wifi ', 'wireless solution', '']
-KB Labs
-	Developer of facebook applications. The company develops Facebook applications and widgets.
-	['', 'facebook application', ' ', 'application development', '']
-2Roam
-	Provider of a Wireless Web Application Service. The company\'s solution is targeted at Web site businesses. The company provide Web site businesses with the products and services they require to extend their brand and revenue models to wireless users with functionality, usability and control.
-	['', 'wireless web application', ' ', 'wireless solution', ' ', 'web application service', '']
-Modesat Communications
-	Developer of point-to-point modem technology. The company offers modem technology products for wireless and wired communication applications.
-	['', 'modem technology', ' ', 'wired communication application', ' ', 'wireless communication application', '']
-CoTraveller
-	Developer of wireless applications. The company develops and implements end-to-end wireless applications.
-	['', 'wireless application', ' ', 'wireless technology application', ' ', 'application platform', '']
-Sentica
-	Provider and developer of wireless convergence solutions. The company provides universal application enabling infrastructure for mobile devices enabling communication between any application and any wireless device.
-	['', 'wireless convergence solutions', ' ', 'mobile device', '']
-Affarsstrategerna Think Tech Technologies
-	Provider of technical resource outsourcing management and consultancy services to the wireless industry. The company offers various services including business acceleration for companies entering the Asian market and helps in web strategy, web design, wireless strategy and project management.
-	['', 'wireless applications', ' ', 'high tech', ' ', 'tech consultant', '']
-Red-M Group
-	Developer of wireless infrastructures for mission-critical applications. The company\'s wireless services are mainly used for airspace management through its approach called Total Airspace Management (TAM).
-	['', 'airspace management', ' ', 'wireless services', ' ', 'wireless infrastructure', '']
-Staccato Communications
-	Provider of ultra-wideband wireless technology for communication applications. The company is a fabless semiconductor company.
-	['', 'wireless technology', ' ', 'communication application', ' ', 'Internet protocol connectivity', '']
-4DK Technologies
-	Developer of interoperability services for wireless networks and devices. The company provides wireless technology products, professional and strategy services to telecom operators and infrastructure vendors.
-	['', 'interoperability service', ' ', 'wireless network', ' ', 'wireless device', '']
+SocialEngine
+	Provider of an online community that rewards members for posting great content. The company provides customizable online communities.
+	['', 'customize online community', ' ', 'social media management', ' ', 'community management', '']
+SodaHead
+	Developer of an opinion-based discussion platform and provider of polling technology for media companies. The company operates an opinion-based discussion community where users can create profiles, interact with other members. It also includes slide shows, original content and message boards.
+	['', 'public opinion platform', ' ', 'polling service', ' ', 'online community', '']
+Gladiator Entertainment
+	Provider of theatrical acts on stories based on gladiators. The company offers entertainment to tourists by displaying battles based on gladiator stories in an authentic arena.
+	['', 'theatrical acts', ' theatrical acts gladiator']
+Camelot Care
+	Provider of foster care and community based services. The company is a six state provider of foster care and community based services in Illinois, Indiana, Tennessee, Nebraska, Ohio and Florida.
+	['']
+SingShot Media
+	Provider of online singing community that lets you choose from thousands of songs, record your own versions, and share them with the world.
+	['', 'online singing community', ' ', 'singing community', ' ', 'karaoke community', ' ', 'karaoke singing', '']
+Urbantag
+	Provider of a community to share and recommend places to people. The company\'s application allows users to build lists and then share them with friends, either online or on iPhone, they can then create their own lists or provide input to your own, giving recommendations for where to go or where not to go.
+	['', 'local discovery', ' ', 'place recommendation', ' ', 'place sharing', ' ', 'map network', '']
+FanLib
+	Operator of online community for the entertainment fans. The company\'s online storytelling platform enables its members to create stories and scripts based on television shows, books, movies, video games, and other works.
+	['', 'fan community', ' ', 'entertainment community', ' ', 'storytelling platform', '']
+Platinnetz
+	Provider of an online community and marketing channel for people 40 and older in Germany. The company provides a social platform enabling members to create profiles and connect with others sharing the same interests. The platform also functions as a marketing channel for advertisers focused on the demographic.
+	['', 'online community', ' ', 'over 40', '']
+Affinity Labs
+	Provider of online professional community for people. The company offers networks for careers such as law enforcement, healthcare, education, government and technology.
+	['', 'online community', ' ', 'professional community', ' ', 'educational community', '']
+TLContact
+	Provider of a web page service to help healthcare providers deliver better care to their patients and their families by supporting their emotional and spiritual needs. The company has formed an online community where visitors come together to share the challenges, hopes and triumphs of anyone facing a life-changing health event.
+	['', 'online community', ' ', 'web page service', '']
+Sharewise
+	Provider of an online finance community. The company\'s website acts as a share community for users seeking for in-depth information regarding stocks. The company\'s website also acts as a forum for users to share predictions and recommendations.
+	['', 'online community', ' ', 'financial service community', ' ', 'share community', ' ', 'stock information', '']
+ChessPark
+	Provider of online chess community. The company covers how to manage friends list, play games, and participate in chat rooms. It serves audience of casual, club, and professional players.
+	['', 'online chess', ' ', 'chess community', ' ', 'chess tournament', '']
+VoteIt
+	Provider of online group decisions. The company provides real-time consensus-generator that uses community interaction and polling methodologies to move groups quickly and right into action.
+	['', 'online group decision', ' ', 'polling methodology', ' ', 'information service', ' ', 'community interaction', '']

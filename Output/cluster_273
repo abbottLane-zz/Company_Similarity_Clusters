@@ -1,18 +1,33 @@
-ConXus Communications
-	Provider of wireless communication devices. The company offers narrow-band personal communications network services including paging, cellular, voice mail and other services.
-	['', 'wireless communication', ' paging ', 'voice mail', '']
-Outbox
-	Provider of an online service that digitizes postal mail and makes it available online and on mobile devices. The company collects and manages postal mail on users\' behalf, discarding junk mail and enabling users to organize, prioritize or unsubscribe on any piece of mail.
-	['', 'mail interception', ' email ', 'post office', ' ', 'digital mailbox', ' ', 'snail mail', ' ', 'digital mail', ' mailbox']
-Hotmail
-	Provider of Web-based e-mail services. The company electronic mail being accessible via the internet enables Hotmail users to conduct e-mail correspondence from anywhere.
-	['', 'e-mail services', ' web']
-Postini
-	Provider of on-demand communications security, compliance, and productivity solutions for email, instant messaging (IM), and the Web in North America and Europe. The company offers e-mail system administration applications and software for redirecting e-mail to wireless devices.
-	['', 'communication security', ' ', 'productivity solution', ' ', 'reporting solution', ' ', 'professional service', '']
-Blackspider Technologies
-	Provider of managed e-mail security solutions. The company\'s security solutions delivers e-mail content filtering services to organizations, enabling them to block the spam and e-mail borne computer viruses before they enter company networks.
-	['', 'e-mail security solutions', ' ', 'e-mail content filtering services', ' ', 'blocking viruses and spams', ' ', 'web security', ' ', 'managed security services', '']
-PTS Messaging
-	Provider of Internet call waiting and voice mail services. The company\'s services includes caller ID, personal greetings, call screening, call answer, call forwarding, voice mail and e-mail or phone-message retrieval.
-	['', 'voicemail', ' ', 'call screening', ' ', 'software services', '']
+MetricsHub
+	Provider of cloud application monitoring platform. The company\'s platform keeps web applications up and running.
+	['', 'cloud monitoring platform', ' ', 'application monitoring', ' ', 'cloud Monitoring', '']
+Gecko Health Innovations
+	Provider of an asthma monitoring device. The company\'s device provides reminders and increases disease awareness among its users to better manage their asthma.
+	['', 'monitoring program', ' ', 'monitoring platform', ' ', 'asthma tool', ' ', 'monitoring device', '']
+SepSensor
+	Manufacturer of sensing technologies for monitoring stratification in tanks primarily in the food services industry. The company provides grease interceptor monitoring system which remotely monitors the condition of internal or external grease traps.
+	['', 'grease interceptor monitoring', ' ', 'tank stratification monitoring', ' ', 'sensing technology', '']
+ShockWatch (Equipment Monitoring Division)
+	Manufacturer of damage prevention products. The company develops equipment monitoring products to prevent damage.
+	['', 'damage prevention product', ' ', 'monitoring equipment', ' ', 'prevention equipment', '']
+Pipette
+	Provider of a health monitoring platform. The company provides mobile application which provides easy reports of patient for analyzing health condition.
+	['', 'monitoring device', ' ', 'healthcare application', ' ', 'monitoring equipment', '']
+NodeFly Systems
+	Provider of infrastructure and application monitoring service. The company allows users to add, remove and monitor servers with the click of a mouse.
+	['', 'application monitoring', ' ', 'infrastructure monitoring', ' ', 'workload management', ' ', 'application server', ' ', 'application management', '']
+NetOps
+	Developer of software products for testing, infrastructure health monitoring and fault detection. The company develops predictive analysis software for DSL and cable modem service providers.
+	['', 'software products', ' ', 'infrastructure health monitoring', ' ', 'fault detection', ' ', 'cable modem service providers', ' testing']
+ThorpeGlen
+	Provider of electronic surveillance services. The company provides monitoring and tracking systems, data extraction and analytical services for law enforcement agencies.
+	['', 'proactive monitoring', ' ', 'data extraction', ' ', 'homeland security', ' ', 'organized crime', ' faruds']
+Rovsing Dynamics
+	Developer of industrial monitoring systems. The company is the developer of monitoring technology designed to provide insight into machinery health and predictive maintenance information for oil and gas, maritime and power- generation industries.
+	['', 'condition monitoring', ' machinery']
+StoreVision
+	Developer of POS monitoring systems. The company designs and develops software which combines live POS data with live CCTV video allowing auditors to create evidence based reports of process errors and fraudulent activity.
+	['', 'evidence based reports', ' ', 'monitoring systems', ' ', 'error processing', '']
+SenseCore
+	Provider of health-monitoring devices. The company is a provider of wearable, biomedical monitors that measure a variety of physiological functions and can be linked remotely. The devices have applications for athletes as well as healthcare providers.
+	['', 'monitoring device', ' ', 'physiological monitoring', ' ', 'remote monitoring', ' ', 'biomedical device', '']

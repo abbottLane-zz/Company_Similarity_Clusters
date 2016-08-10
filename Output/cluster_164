@@ -1,18 +1,18 @@
-One2Like
-	Provider of social dating service. The company provides a platform that brings people together to communicate with others or simply want to meet new people.
-	['', 'dating service', ' ', 'dating platform', '']
-Eons.com
-	Operator of an online community enabling people to stay in touch with friends.
-	['', 'social networking', ' ', 'baby boomer marketing', ' ', 'online dating', ' ', 'ad network', '']
-Woo Media
-	Operator of online dating website. The company\'s website allows to meet people online based on one\'s interests.
-	['', 'online dating', ' ', 'social networking', '']
-Spoondate
-	Provider of a dating website for food-loving people. The company lets users share their tastes, talk about them, and meet others with similar taste profiles.
-	['food taste similar ', 'online dating', '']
-OkCupid
-	Provider of an online dating service and social-networking website. The company uses an algorithm-based system to evaluate user questionnaires and suggest compatible connections. The company was acquired by Match.com in February 2011.
-	['', 'online dating', ', ', 'social networking', ', ', 'dating website', '']
-Nerve.com
-	Provider of online dating platform. The company offers online dating and social content. It provides online community for original, award-winning stories, features and photography, as well as discerning coverage of the films, television, books and music.
-	['', 'social content', ' ', 'dating destination', ' coverage']
+SmartRM
+	Developer of encryption software that allows users to protect and share digital content, such as documents, audio and video files. The company operates an open-source, interoperable DRM platform based on the MPEG-21 standard. The company\'s software prevents unauthorized printing, copying and sharing, sets time limits on file use, tracks file users and helps keep control of files even after they are sent.
+	['', 'encryption software', ' ', 'digital contents', ' ', 'unauthorized printing', ' tracking']
+Pure Digital Technologies
+	Developer of digital imaging solutions for the mass market. The company offers one-time-use digital cameras and video camcorders, as well as point and shoot camcorders.
+	['', 'flip video', ' ', 'digital camcorder', ' ', 'digital camera', ' ', 'video camcorder', ' ', 'flip camera', ' ', 'digital imaging', '']
+OnRequest Images
+	Provider of custom imagery. The company creates original photography using its global network of professional photographers, providing corporations and creative agencies with images shot to their specifications at rights-managed stock prices. The company\'s Custom Stock libraries are designed to give enterprises the ability to build their brands with brand-aligned imagery for marketing use.The company also provides custom production capabilities to customers for an end-to-end commissioned  service.
+	['', 'stock photography', ' ', 'photography services', ' ', 'marketing products', '']
+OfferIQ
+	Provider of online digital coupons.
+	['', 'digital coupon', ' ', 'online digital coupon', ' ', 'customer reward redemption solution', '']
+Fotiva
+	Provider of software and information that hepls consumers to use digital cameras. Through the company\'s software users can manage and share their digital photographs online.
+	['', 'digital photography', ' ', 'photography software', ' ', 'photo sharing', ' ', 'online photo', '']
+Fotocommunity
+	Provider of an online platform for uploading and sharing photographs. The company\'s website serves as an online community for both amateurs and professional photographers to showcase their photographs.
+	['photography ', 'upload photos', ' ', 'photography exhibition', '']

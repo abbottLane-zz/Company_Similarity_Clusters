@@ -1,45 +1,33 @@
-SCT Spinal Cord Therapeutics
-	Developer of therapy for acute and chronic spinal cord injuries. The company focuses on the treatment of nervous system injuries. The company provides therapy that allows the regeneration of injured nerves following their natural nerve tract, thus enabling the recovery of sensory and motor function.
-	['', 'chronic disease', ' ', 'spinal diseases', ' nerves ', 'sensory function', '']
-Spine-Tech
-	Manufacturer of spinal implants and surgical instruments. The company is a provider of less invasive spinal implants. The company\'s products are used to surgically treat patients suffering from chronic, disabling pain caused by degenerative conditions of the spine.
-	['', 'spinal implant', ' ', 'spinal surgery', ' ', 'spine surgery', '']
-AirXpanders
-	Developer of technology for tissue expansion after reconstructive surgery. The company\'s technology primarily enables patients to initiate implant expansion by a wireless remote control unit that activates a small gas reservoir within the implant to release a predetermined volume after the reconstruction surgery.
-	['', 'tissue expansion', ' ', 'reconstructive surgery', ' ', 'implant expansion', '']
-Corvascular
-	Provider of technology for minimally invasive cardiac surgery. The company is the developer of the Transarrest platform, which enables surgeons to temporarily stop a patient’s heart in order to place sutures on the coronary arteries.
-	['', 'cardiac surgery', ' ', 'surgical devices', ' ', 'surgery technology', ' ', 'heart surgery', ' ', 'coronary arteries', '']
-CoAlign Innovations
-	Developer of a less invasive and more anatomically correct spinal fusion. The company develops a low-profile interbody implant system called AccuLIF system that hydraulically expand and lock to enable accurate fit and placement for a range of lumber spinal fusion procedures.
-	['anatomically ', 'spinal fusion', ' ', 'less invasive', '']
-SurgRx
-	Provider of tissue sealing and hemostasis systems for laparoscopic and open surgery. The company makes radio frequency-controlled tissue sealing device. It develops a proprietary nanotechnology designed to control the delivery of electrosurgical energy in vessel sealing instruments. Its product grasps, dissects, seals, and transects tissues; and provides a seal of vessels encountered during laparoscopic and open surgery.
-	['', 'open surgery', ' ', 'tissue sealing', ' ', 'hemostasis systems', ' ', 'laproscopic surgery', ' ', 'electrosurgical energy', ' ', 'vessel sealing', ' ', 'tissue transection', '']
-Aline Aesthetics (Aline Hyaluronic Acid Thread Technology)
-	Solid state, cross-linked hyaluronic acid. Hyaluronic acid in thread form that is attached to a needle to be used as a dermal filler for cosmetic and cancer reconstructive surgeries.
-	['', 'hyaluronic acid', ' ', 'dermal filler', ' ', 'cosmetic surgery', ' ', 'cancer reconstructive surgery', '']
-Cardica
-	Manufacturer of automated anastomotic systems. The Company is commercializing and developing the MicroCutter XCHANGE 30 based on its proprietary staple-on-a-strip technology intended for use by thoracic, pediatric, bariatric, colorectal and general surgeons. The MicroCutter XCHANGE 30, which is currently commercially-available, is a cartridge based microcutter device with a 5 millimeter shaft diameter and a 30 millimeter staple line currently approved for use in the United States for specified indications of use, and in the European Union, or EU, for a broader range of specified indications of use.
-	['', 'automated anastomotic system', ' ', 'bypass surgery', ' ', 'surgery equipment', '']
-C2Cure
-	Manufacturer of cameras used for diagnosis and surgery purposes. The company develops disposable miniature viewing and operational devices for an array of heatlhcare markets, including diagnostic, endoscopic, imaging, and surgical.
-	['', 'operational device', ' ', 'cardiac surgery', ' ', 'miniature device', ' ', 'surgery camera', ' ', 'surgical device', '']
-SurgiQuest
-	Provider of technology services for minimally invasive surgery. The company offers AirSeal, a technology that creates an air curtain that maintains an insufflated and airtight environment and has application in laparoscopic and laparoscopic assisted surgery. It focuses in bariatric, colo-rectal, general, gynecological and urologic surgery.
-	['', 'technology service', ' ', 'minimally invasive surgery', ' ', 'laparoscopic assisted surgery', '']
-LDR Holding
-	Developer of implantable spine systems and instrumentation. The company\'s spinal surgery services include cervical and lumbar artificial disc systems, pedicle screw systems, cervical cages, synthetic bone substitutes and implant systems.
-	['', 'implantable system', ' ', 'spinal surgery', ' ', 'spinal instrument', '']
-Precimed
-	Developer of surgical equipments. The company designs, develops, manufactures and supplies critical devices used in hip, trauma, knee and spine surgery.
-	['', 'surgical equipment', ' ', 'hip surgery', ' ', 'Knee Extraction Set', '']
-Spinal Concepts
-	Provider of devices for neck and back surgery. The company delivers implants used in the treatment of spinal disorders, diseases and injuries.
-	['', 'neck surgery', ' ', 'back surgery', ' ', 'lower back surgery', ' ', 'spinal disorders', ' ', 'surgical devices', '']
-Cardio Life Research
-	Provider of cardiac surgery devices. The company designs and develops self-guided endoscopic aortic clamping systems, self adjusting atrial retractors and self suturing puncture devices, for heart valve surgery.
-	['', 'heart valve surgery', ' ', 'cardiac surgery devices', ' ', 'aortic clamping systems', ' ', 'atrial retractors', ' ', 'puncture devices', ' ', 'surgical devices', '']
-Vexim
-	Developer of titanium implants for the treatment of vertebral fractures. The company\'s product SpineJack helps to repair a deformed or fractured vertebra and restoring the anatomy of the spinal column.
-	['', 'titanium implants', ' ', 'surgical cements', ' ', 'vertebral fractures', ' spinal']
+Efficient Networks
+	Developer of high-speed customer premises equipment (CPE) that employs digital subscriber line (DSL) technology. The company\'s products enable applications as high-speed Internet access, secure access to computer networks from remote locations, telecommuting, and extensions of corporate networks to branch offices.
+	['', 'high-speed internet', ' ', 'digital subscriber line', ' telecommuting']
+Nomadix
+	Provider of network devices for nomadic computing and public Internet access. The company offers the Nomadix Service Engine (NSE), which allows venues to deploy high-speed Internet access offering. The company\'s NSE also addresses the key issues of customer acquisition, provisioning, security, and revenue generation faced by public access service operators (PASO), system integrators, venue owners, service providers, hotspot owners, and end users when deploying fixed line and WiFi public access networks.
+	['', 'high speed internet', ' ', 'public internet', ' ', 'network device', '']
+Avilinks
+	Developer of software and technology for the distribution of multimedia services via ADSL and VDSL on the existing telephone network. The company\'s product, AVIcenia, is a multimedia switch which can be installed in a building’s technical control room, on a campus, in the heart of a city or in an operator’s central office. It enables its users to have have access to a variety of services such as video on demand, high-speed internet, television and videoconferencing.
+	['', 'multimedia services', ' ', 'telephone network', ' ', 'multimedia switch', ' ', 'high-speed internet', '']
+Jensen Devices
+	Developer of high discharge tube technology (GDT). The company specializes in creating discharge tubes for ignition circuits for headlamps in the automotive industry and over-voltage protectors for industrial and telecommunications companies.
+	['', 'automotive tech', ' ', 'high voltage', ' ', 'voltage protectors', ' ', 'headlamps', '']
+Telogy Networks
+	Developer of asymmetric digital subscriber line semiconductors. The company\'s golden gateway software enables its customers to develop connected products that send real-time voice, fax and data over packet networks.
+	['', 'Asymmetric Digital Subscriber Line', ' semiconductors']
+New Edge Networks
+	Provider of internet access through digital subscriber line (DSL) technology. The company provides DSL connection internet service to residences and businesses in small cities and semi-rural communities, as well as services such as wide area networks, virtual private networks and frame relay.
+	['', 'digital subscriber line', ' ', 'internet service', '']
+Big Bear Networks
+	Developer of interface solutions for networks that operate at 10 Gb/s and higher rates. The company delivers a range of high-speed devices for optical/electrical interface.
+	['', 'electrical interface', ' ', 'high-speed device', ' ', 'network interface', ' “optical network”']
+Enzymatix
+	Developer of applications of high purity enzymes. The company develops enymes for pharmaceutical industries.
+	['enzymes ', 'lipase enzymes', '']
+Ikanos Communications
+	Provider of semiconductors and software for interactive broadband. The company develops high performance semiconductor and software products that enable network equipment manufacturers and service providers to deliver broadband to the digital home.
+	['', 'semiconductor manufacturing', ' ', 'interactive broadband', ' ', 'broadband software', ' ', 'fabless semiconductor', ' ', 'digital subscriber line', '']
+HarvardNet
+	Provider of broadband communication and content hosting services. The company\'s services include Web hosting and collocation services, business-class digital subscriber line (DSL) service and broadband virtual private network (VPN) solutions.
+	['broadband VPN DSL']
+LiquidLight
+	Developer of intelligent optical networking technology that spans from the core to the edge of the optical network. The company offers robust set of revenue enhancing services, such as high-speed internet access, streaming video and guaranteed performance for hosted applications, to the OSP\'s business customers that sit at the edge of the optical network.
+	['', 'optical networking', ' ', 'high-speed internet', ' ', 'video streaming', '']

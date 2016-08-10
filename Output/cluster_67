@@ -1,18 +1,57 @@
-Ion Surgical Technologies
-	Developer of medical alternatives to surgical implants. The company is focused on providing surgeons with reproducible alternatives to implants for soft-tissue fixation, through a product line that uses the patient\'s own bone and sutures to maximize healing surfaces, minimize surgical time and provide post-oeprative MRI compatibility.
-	['', 'soft tissue fixation', ' injury ', 'transosseous method', ' ', 'minimize surgical time', '']
-Atlantis Components
-	Developer of designs and machine titanium abutments that allow any dentist to restore implants using crown-and-bridge techniques. The company\'s designs are based on extensive dental research, analysis and clinical input.
-	['', 'abutment design', ' ', 'restore implant', ' ', 'match natural tooth', '']
-Adocia
-	Provider of insulin therapy and treatments for diabetic foot ulcers. The company is specialized in the development of medicines from already approved therapeutic proteins, and is actively engaged in formulation of a fast-acting human insulin and diabetic foot-ulcer healing product.
-	['', 'insulin therapy', ' diabetic']
-Degradable Solutions
-	Manufacturer of degradable medical implants. The company develops and produces bone fixation implants which degrade in the body after fulfilling their function.
-	['', 'medical implants', ' ', 'degradable medical implants', ' ', 'bone fixation implants', '']
-Small Bone Innovations (Ankle Replacement System & Other Assets)
-	The company provides ankle replacement system. The unit offers a portfolio of products and technologies to treat trauma and diseases in the small bones & joints.
-	['ankle ', 'replacement system', ' ', 'surgical device', '']
-Memometal Technologies
-	Manufacturer of implants for hand and foot. The company designs and markets surgical implants using shape memory alloys for orthopedic surgery of the foot, ankle, hand and wrist.
-	['', 'surgical implants', ' orthopedic arthrodesis ankle']
+Metasonic
+	Provider of software for subject oriented business process management. The company\'s core product Metasonic Suite provides a platform for dynamic process applications, which focuses on the communication or interaction among different participants of  business and helps in addressing different aspects of a company\'s organizational culture.
+	['', 'business process management', ' ', 'business communications', ' ', 'process automization', '']
+Cordys Holding
+	Developer of business process management (BPM) software. The company is the creator of the Cordys Business Operations Platform, which enables users to design, execute, monitor, change and optimize business operations.
+	['BPM ', 'service-oriented architecture', ' ', 'composite application', '']
+Sandlot
+	Provider of subscription management software and services for publishing industry. The company\'s product EclipseNet, manages order fulfillment processes within the virtual enterprise. The company provides a in-house and hosted services for management of recurring order transactions, integrated order process management, order fulfillment and customer service.
+	['', 'application software', ' e-business ', 'subscription solutions', '']
+MagniFire Websystems
+	Provider of comprehensive web infrastructure security solutions. The company develops products that enables businesses to protect their most critical data, applications and customer relationships with a low total cost of ownership.
+	['']
+Zoom Information Systems
+	Developer of transportation software and systems solutions for city, county and state governments, DOTs and the traveling public. The company\'s web-based assessment tools and software enables companies to collect and process information from people, public infrastructure and vehicles on the road in real time.
+	['', 'transportation software', ' ', 'process information', ' ', 'systems solutions', ' ', 'assessment tools', ' web-enabled']
+Entigo
+	Provider of a warranty program management software. The company provides a collaborative system that simplifies business process and integrates with warranty chain partners. It provides B2B, sell and service-side and e-commerce services.
+	['', 'warranty program', ' ', 'warranty management', ' warranty']
+Devex Tecnologia e Sistemas
+	Provider of mine-management software services. The company engages in providing automation services for open-pit and underground mines.
+	['', 'mine management', ' ', 'mining operations', ' mines']
+Metastorm
+	Provider of enterprise architecture, business process modeling and analysis, and business process management software.
+	['', 'business process modeling', ' ', 'enterprise modeling', ' ', 'process improvement', ' ', 'business process management', '']
+Exigen Properties
+	Provider of business process management software. The company engages in the development of software for business process automation to lower the total cost of operations for financial services, insurance, communications and other service businesses.
+	['', 'financial software', ' ', 'process management software', '']
+Ravenflow
+	Provider of business requirements definition software. The company product helps business analysts to visualize and validate requirements, build team consensus, and produce specifications of business process workflows, business use cases, and business application needs. It also provides training and professional services. It serves finance, banking, insurance, government, telecommunications, technology, healthcare, and education sectors, as well as independent software vendors and systems integrators.
+	['', 'business requirements definition', ' ', 'requirement gathering', ' ', 'requirements management interface', '']
+Lombardi Software
+	Provider of business process management (BPM) software that helps companies monitor business activities. The company\'s software also includes applications for modifying business rules and routing notifications and workflows.
+	['', 'online platform', '']
+ikaSystems
+	Provider of cloud-based software for business automation and process services for the healthcare market. The company provides an enterprise-level platform to support healthcare payers\' commercial and Medicare requirements through the automation of sales, marketing, regulatory compliance, claims administration and customer service procedures.
+	['', 'healthcare payer', ' ', 'claims administration', ' ', 'process automation', '']
+ICCM Solutions
+	Developer of an enterprise management software. The company provides global client base with process applications and tailored services for IT service management, HR shared services and intelligent BPM.
+	['', 'service management', ' BPM ', 'business process management', ' ', 'tailored services', ' ', 'enterprise management', '']
+ProActivity
+	Developer of a business process and data flow mapping tool. The company develops software for mapping data processes in organizations, facilitating the transfer of businesses to the web.
+	['', 'process mapping', ' ', 'data mapping', ' ', 'business process management', '']
+PureEdge Solutions
+	Provider of business process management software and services. The company provides a business process automation framework to create electronic forms-based processes. The company serves department of defense, securities and exchange commissions.
+	['', 'business process management software', ' ', 'electronic forms-based processes', ' securities ', 'exchange commissions', '']
+Ten Rivers Technologies
+	Provider of contract performance management software solutions to business process outsourcing and business services companies.
+	['', 'Contract Performance Management', ' ', 'software solutions', ' ', 'business process outsourcing', '']
+Mission Controls Automation
+	Provider of automation and process engineering services. The company designs, fabricates, installs and maintains automation, robotic controls, manufacturing systems, processing operations and consulting, for industrial plants and batch processing facilities.
+	['', 'Automation software', ' ', 'process engineering', ' ', 'robotic controls', '']
+Clear Technology
+	Provider of task and process automation services.
+	['', 'process automation', ' ', 'task automation', '']
+Image Technology
+	Developer of business process management software. The company develops enterprise content management software that allows companies to automate business-oriented processes by creating, executing and optimizing business processes.
+	['', 'business processes', ' ', 'management system', ' ', 'web services', ' ', 'inductive statistics', '']

@@ -1,36 +1,36 @@
-Mitek Surgical Products
-	Provider of surgical and medical instruments. The company provides bone anchors and minimally invasive surgical tools for orthopedic surgery.
-	['', 'medical instrument', ' ', 'surgical tool', ' ', 'bone anchor', '']
-Bio-Gate
-	Provider of silver technology to endow materials and products with antimicrobial properties. The company provides protection for the surfaces of medical implants and instruments against bacterial contamination.
-	['', 'silver technology', ' ', 'silver plating', ' ', 'silver coating', ' antimicrobial ', 'Surgical Device', '']
-L.G. Med
-	Developer of a passive non invasive extravasation patch detector. The company\'s device identifies the rate at which intravenous medication is delivered to patients and will alert medical professional with an alarm and stop the flow of medication should there be an error.
-	['', 'intravenous site', ' ', 'non invasive', ' ', 'non invasive', '']
-NeuroLife Noninvasive Solutions
-	Provider of noninvasive devices to monitor brain pressure. The company offers surgical and medical instruments and apparatus to treat head injured patients at risk for brain damage and death.
-	['head ', 'brain pressure', ' ', 'noninvasive solution', ' ', 'intracranial pressure', '']
-Visiometrics
-	Developer and manufacturer of medical instruments. The company develops and manufactures instruments to measure, diagnose and study of the visual capacities.
-	['', 'medical instrument', ' ', 'visual capacity', ' diagnose']
-EndoTex Interventional Systems
-	Developer of interventional vascular therapeutic solutions. The company focuses on developing less invasive solution to treat carotid artery disease.
-	['', 'vascular therapy', ' ', 'carotid artery treatment', '']
-MedNova
-	Manufacturer of surgical and medical instruments and apparatus. The company provides less-invasive surgical products for endovascular procedures.
-	['', 'peripheral vascular disease', ' ', 'less invasive surgery', ' ', 'medical device', '']
-ActiViews
-	Developer and manufacturer of high-tech medical and surgical devices. The company develops a guiding system for interventional radiology procedures, mainly for biopsy diagnosis.
-	['', 'surgical navigation', ' ', 'diagnostic percutaneous biopsies', ' ', 'biopsy', '']
-Ovalum Vascular
-	Developer and provider of medical devices and systems for chronic and acute total occlusions in the coronary and peripheral arteries. The company develops CiTop Guidewire system that provides exclusive access to minimally invasive treatments.
-	['', 'surgical device', ' ', 'total occlusion', ' ', 'coronary and peripheral artery', '']
-IBI Israel Biomedical Innovations
-	Developer of surgical products and medical devices. The company develops devices fastens a thin net beneath the organs in a woman’s pelvic area, which have collapsed because of age or childbirth.
-	['', 'surgical products', ' ', 'tissue fixation', ' ', 'women organs', '']
-Microsurge
-	Designer, developer and manufacturer of surgical instrumentation for use in minimally invasive surgery. The Company is currently developing families of surgical instrumentation for use in minimally invasive abdominal procedures, referred to as laparoscopy, and minimally invasive thoracic procedures, referred to as thoracoscopy.
-	['instrument invasive procedure']
-Fusion Medical Technologies
-	Manufacturer of surgical hemostatic sealant products. The company develops collagen gel-based products which are used to control bleeding during surgeries. The company\'s lead product FloSeal matrix, is a combination of collagen-derived particles and topical thrombin. It controls surgical bleeding and works well on wet, actively bleeding tissue.
-	['', 'surgical products', ' ', 'collagen particles', ' ', 'surgical bleeding', '']
+Foodik.ru
+	Provider of an online food ordering service in Russia. The company provides convenience to customers and new degree of automation to restaurants.
+	['restaurants ', 'food joints', ' automation']
+Five Guys Restaurants (8 sites )
+	Portfolio of 8 restaurants. The restaurants are located across central California including Elk Grove, Fresno, Lodi, Natomas, Roseville, Stockton, Tracy and West Sacramento.
+	['burger ', 'junk food', ' ', 'restaurant service', '']
+Sqipp
+	Developer of a location based mobile ordering application from restaurants. The company enables restaurants to integrate a mobile ordering platform that makes orders and restaurant operations while allowing users to order and pay at participating restaurants using a smartphone.
+	['', 'ordering application', ' ', 'participating restaurant', ' ', 'mobile ordering platform', '']
+NetSila
+	Provider of an online website for Arabian food recipes. The company provides a platform and mobile application for users to share and review recipes. It also provides information about cuisines and restaurants in Arab and European cities.
+	['', 'share recipes', ' ', 'review recipes', ' ', 'Arabian food recipies', ' ', 'food portal', ' ', 'mobile app', '']
+Skipola
+	Developer of white-labeled application for restaurants. The company develops application that has contact information, menus and includes ways to order food through the application.
+	['', 'white-labeled apps', ' ', 'restaurant information', ' ', 'food ordering', '']
+ClickDelivery
+	Provider of an online food delivery service. The company serves as distribution platform for online restaurant food and enables delivery through web and mobile applications.
+	['', 'online food delivery', ' ', 'food delivery', ' ', 'restaurant food', '']
+Just Eat
+	Provider of an online food-ordering platform. The company operates a global online and mobile marketplace for restaurant take-out food. It also provides services in 13 countries around the world, with more than 40,000 takeaway restaurants in its network.
+	['', 'online order', ' ', 'order processing', ' foodservice ', 'takeaway ordering', ' ', 'food delivery', '']
+Yemeksepeti.com
+	Provider of an online food ordering and delivery portal in Turkey. The company provides a platform enabling users to order food from their favorite restaurant through the Internet and have it delivered. The company\'s platform provides an aggregated list of the restaurants from which users can choose to place an order.
+	['', 'online food ordering', ' ', 'food delivery portal', ' ', 'online food delivery', ' ', 'food delivery', '']
+Jgzam
+	Provider of an online food delivery platform. The company allows its users to discover new restaurants in their city, order food and even see what their friends are ordering from different restaurants. The website also allows restaurants to to accept orders from customers.
+	['', 'food delivery', ' ', 'food order', ' ', 'online food ordering', ' ', 'food delivery platform', ' ', 'online delivery', ' ', 'online ordering', '']
+Shutl
+	Operator of an online shopping delivery platform. The company connects retailers with local courier companies by enabling immediate delivery of online purchases.
+	['', 'same-day delivery', ' ', 'expedited delivery', ' ', 'same-hour delivery', ' delivery']
+Mangia Technologies
+	Provider of a platform for sports fans. The company enables people to order food and merchandise using mobile phones.
+	['', 'food order', ' ', 'sports fan', ' ', 'ticket booking', '']
+Lasso.it
+	Provider of an online service offering delivery of spirits. The company offers on-demand delivery of artisan wine, beer, spirits, soda and specialty foods including cheese, sweets and meat platters from local merchants and gourmet food shops.
+	['', 'food delivery', ' ', 'wine delivery', ' ', 'online alcohol', '']

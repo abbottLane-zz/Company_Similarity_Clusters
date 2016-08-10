@@ -1,21 +1,18 @@
-Stylemarks
-	Provider of mobile marketplace for vintage fashion and design products. The company provides a website enabling young and upcoming designers to showcase fashion, furniture, artwork, bags and gadgets to the German market.
-	['', 'mobile marketplace', ' ', 'vintage fashion', ' ', 'design products', '']
-Ter Stal Textiles
-	Operator of a fashion chain. The company designs its own products and then outsources production to manufacturers.
-	['', 'fashion chain', ' ', 'clothing outsourcing', ' ', 'private label', '']
-StyleZen
-	Provider of a online fashion shopping assistant. The company provides a platform that generates personalized fashion feeds to subscribers through their Pinterest accounts, utilizing their pre-set fashion preferences.
-	['', 'IT services', ' ', 'fashion store', ' ', 'social content', '']
-Styledon.com
-	Operator of a fashion networking site. The company operates a fashion and lifestyle website combining content, community and commerce. It offers insider editorials, designer profiles, curated content and also allows users to connect and share information with each other.
-	['', 'fashion networking', ' ', 'lifestyle website', ' ', 'fashion portal', ' ', 'fashion site', '']
-BeauCoo Technologies
-	Provider of social fashion network platform. The company provides a mobile platform for women to connect, share and discover fashion with other women of similar bodies sizes, shapes and styles.
-	['', 'social fashion network', ' ', 'woman online community', ' ', 'online portal', '']
-Chick Approved
-	Provider of an online fashion community that enable users to share and receive instant feedback on personal style.
-	['', 'online fashion community', ' ', 'exploration engine', ' ', 'share outfit', '']
-Seek & Adore
-	Operator of an online boutique for artists and designers. The company provides an e-commerce platform for designers and customers who are looking to discover and buy things such as homewares, jewellery, fashion accessories and gifts.
-	['', 'fashion accessories', ' ', 'handmade gifts', ' homewares']
+Virtual Computer
+	Provider of a platform of PC life cycle management. The company offers NxTop, a client-side virtualization and management server platform, which uses virtualization technology to isolate and manage the main components of a PC independently, including the hardware, operating system, applications and user data.
+	['', 'desktop management', ' ', 'laptop management', ' ', 'operating system', '']
+Wakesoft
+	Provider of application architecture solutions. The company’s Wakesoft Architecture Server allows users to build enterprise-level Java, XML and Web Services applications.
+	['', 'Architecture Server', ' ', 'architecture solutions', ' Java  XML']
+XenSource
+	Developer of enterprise grade virtualization solutions. The company offers Xen 3.0, an open source hyper visor virtualization technology that provides features required for servers deployed in enterprise; Xen Optimiser, a multi-server virtualization infrastructure software management solution; and Xen Support, a subscription-based support for Xen and XenOptimizer. It also provides value-added enterprise solutions, including enterprise grade virtualization infrastructure solutions.
+	['virtualization ', 'software mangement', ' ', 'server utilization', '']
+Immidio
+	Developer of virtualization technologies in the Microsoft Windows environment. The company provides end-users with a personalized and dynamic Windows desktop that is adapted to their situation based on aspects like role, device and location.
+	['workspace virtualization ', 'enterprise application', ' ', 'virtualization technology', '']
+Protie
+	Provider of information technology enabled services. The company provides outsourcing, hosting and architecture services primarily to Finnish corporations.
+	['', 'network services', ' hosting virtualization']
+3Leaf Systems
+	Provider of virtualization technology for enterprise data centers. The company provides architecture that delivers system level virtualization to enable mainframe-class capabilities for commodity servers.
+	['', 'virtualization architecture', ' ', 'server virtualization', ' ', 'system level virtualization', '']

@@ -1,21 +1,66 @@
-General Telephone and Electronics
-	Operator of an independent telephone company. The company provides telecommunications products, telephone operations and electrical products.
-	['', 'wiring devices', ' ', 'electronic devices', ' wiring']
-Trus Plus Systems
-	Provider of agricultural and nursery products. The company is engaged in the production of nursery products, nursery stock, shrubbery, bulbs, fruit stock, sod and other agricultural products.
-	['', 'nursery products', ' ', 'nursery stock', ' shrubbery ', 'fruit stock', ' nursery bulbs']
-KIDS GARDEN
-	Operator of independent nursery. The company is in stealth mode.
-	['nursery']
-Deborah Centre
-	Operator of an independent nursery. The company provides educational assistance which includes child catering and childminding.
-	['nursery ', 'independent nursery', ' ', 'educational service', ' childminding ', "kid\\'s nursery", '']
-India Parenting
-	Operator of a B2C portal with a focus on parenting. The company provides quality content covering the entire gamut of parenting.
-	['', 'raising children', ' ', 'cultural heritage', ' ', 'nursery rhymes', ' ', 'consumer service', '']
-Randwal Instruments
-	The company was in stealth mode.
-	['']
-Cynergen
-	The company is currently operating in stealth mode.
-	['commodity excess power']
+Quay Technologies
+	Provider of environment friendly UV disinfection system for water and wastewater applications. The company’s purification technology uses microwave ultraviolet technology to energize low-pressure, high-output bulbs for municipal or industrial water and wastewater disinfection.
+	['', 'disinfection system', ' ', 'wastewater application', ' ', 'purification technology', ' ', 'environment friendly', '']
+Blue Water Ventures
+	Operator as the surveying and excavating the treasures. The company\'s business is to search for and recover historical cultural artifacts, intrinsically valuable cargo and treasure from shipwrecks, primarily in shallow water.
+	['treasure survey excavat']
+Alkaline Water Company
+	Provider of alkaline water where minerals are infused in the water, along with a 8.4 pH level. The company provides alkaline water through a consumer oriented bulk delivery system aimed at removing expensive small bottles from the distribution supply chain.
+	['', 'alkaline water', ' ', 'mineral water', ' ', 'consumer product', '']
+Digital H2O
+	Provider of water management services. The company develops a cloud-based platform for the management of water in oil and gas operations.
+	['', 'cloud-based software', ' ', 'supply chain', ' ', 'oilfield water', '']
+inge watertechnologies
+	Provider of ultra-filtration technology for water treatment. The company offers a membrane process used to treat drinking water, process water, wastewater and sea water.
+	['filtration ', 'water filtration', ' ', 'water filter', '']
+Acuity/Sparkle
+	Provider of waste management and disposal services. The company also provides drinking water treatment, wastewater treatment and industrial water recovery services.
+	['', 'water treatment services', ' ', 'waste-water management', ' ', 'environment conservation', '']
+Pressure Products
+	Manufacturer of an add on accessory water pack. The company offers pressurized hydration packs that gives access to pressurized water that users do not have to suck from the pack to drink or use it for other purpose.
+	['', 'add on accessory', ' accessory ', 'hydration pack', ' ', 'pressurized water', '']
+Penn Process Technologies
+	Manufacturer of metering and process pumps. The company provides water treatment equipments.
+	['', 'water pumps', ' ', 'water treatment', ' ', 'volume pumps', '']
+GB Environmental
+	Manufacturer of UV air and water treatment equipment.
+	['', 'water treatment equipment', ' ', 'UV air monitoring equipment', ' ', 'water cleansing equipment', '']
+Serrot International
+	Provider of plastic linings fabricator which serves the metals refining, plating and water/waste water treatment industries. The company provides liner that prevent the flow of leachate off the site and control the migration of methane from the landfill.
+	['waste water treatment fabricator methane']
+Spiralcat
+	Provider of water and biofuel renewable services. The company recovers water and biofuel using harvesting systems that transform waste into valuable energy and water resources.
+	['biofuel ', 'soil fertility', ' ', 'usable resources', '']
+BluMetric Environmental
+	Designer of onsite wastewater treatment systems for domestic and industrial sites. The company offers products that focus on environmental problems relating to water treatment, re-use, and wastewater technology.
+	['', 'environmental services', '']
+Clean Filtration Technologies
+	Developer of water treatment technology. The company produces the CFT Turboclone hydroclone system, a patented water filtration device designed to efficiently reduce total suspended solids from difficult-to-filter water.
+	['', 'water treatment', ' ', 'water filtration device', ' ', 'suspended solid filtration', '']
+AccuWater
+	Developer of resource conservation technologies specializing in internet based irrigation system. The company develops software and services for optimizing landscape irrigation using landscape modeling and weather forecast.
+	['', 'Conservation Technologies', ' ', 'Internet Based Irrigation', ' ', 'Water Conservation', ' ', 'Landscape Irrigation', ' Agriculture']
+WaterClean
+	Developer of diaphragmatic process for water purification and surface disinfection. The company offers drinking water and plant surface disinfectants which are used to eliminate germs, pesticides, mycobacteria, biofilms, microorganisms, fungus and yeasts.
+	['', 'drinking water', ' ', 'membrane electrolysis', ' ', 'water purification', ' ', 'surface disinfection', '']
+Thermoenergy
+	Provider of technologies for wastewater recovery and clean energy production. The company is engaged in the commercialization of patented proprietary municipal and industrial wastewater treatment and power generation technologies.
+	['', 'wastewater recovery', ' ', 'clean energy productio', ' ', 'wastewater treatment', '']
+Ocean Breeze Waterpark
+	Operator of a water park company. The company offers amenities that includes rides and attractions, watershed programs and children areas. The company also offers gallon wave pool and a children\'s water playground.
+	['', 'water park', ' slides ', 'watershed programs', ' ', 'water playground', '']
+Bio Pure Technology
+	Provider of wastewater treatment, and chemical process technologies. The company’s products include hybrid membrane technology system that provides a solution for the treatment of industrial water and wastewater streams; chemically stable nanofiltration membranes for the chemical process industry; and well water treatment systems. It serves pharmaceuticals and agrochemicals, mining, landfill, chemicals, food and beverage, drinking water, water re-use and desalination, and fermentation industries
+	['', 'waste water treatment', ' ', 'chemical process technology', ' ', 'water treatment solution', '']
+Milston
+	Provider of slurry treatment technologies. The company manufactures and markets various technology products including slurry separators for the agriculture, biogas, food processing industries for the treatment of other slurries and waste water.
+	['', 'slurry treatment', ' ', 'slurry separator', ' ', 'environmental technology', ' ', 'waste water', '']
+Medesa Technology
+	Developer of desalination technology. The company is the creator of a proprietary water-treatment technology aimed at production of smaller capacities (100 to 500 cubic meters of driking water per diem. The company\'s treatment units are small enough to be transportable by container, ship, lorry and helicopter, and are designed to be grid-independent.
+	['', 'water treatment', ' desalination ', 'water filtration', ' ', 'desalination equipment', '']
+Ecowat
+	Provider and developer of water purification technologies and products. The company applies gas hydrate crystallization as a method to purify industrial waste water. It also provides water recycling services.
+	['', 'water recycling service', ' ', 'water purification', ' ', 'gas hydrate crystallization', '']
+Watertronix
+	Provider of water-treatment system for swimming pools. The company has developed a technology using salt electrolysis chlorine generation to provide odor-free water treatment. The treatment system is scalable for swimming pools in competitive, municipal, hotel and residential settings.
+	['', 'pool water', ' ', 'water-treatment system', ' ', 'swimming pools', '']

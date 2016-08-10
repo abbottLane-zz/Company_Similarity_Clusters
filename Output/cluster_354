@@ -1,36 +1,21 @@
-ShowBiz Data
-	Provider of a B2B portal for the global entertainment industry. The company provides detailed information about the film industry by capturing domestic and international box office news.
-	['', 'media information', ' ', 'BRB portal', ' ', 'box office', '']
-Elite Daily
-	Provider of online portal to receive information and original content on subjects created by their peers. The company provides and updates about music, health and beauty, dating, celebrities, travel destinations and culture.
-	['', 'online news', ' ', 'online information portal', ' ', 'cultural news website', '']
-Chakpak Media
-	Provider of an information on Indian cinema. The company offers information on movies, film personalities, wallpapers, videos, news, discussion forums and quizzes.
-	['', 'Indian cinema', ' ', 'movies information', ' ', 'movie personality', ' discussion']
-UFIS
-	Provider of airport information technology. The company provides integrated information for single, multi-terminal and multi-airport operations for the global aviation community. The company was spun out of Kongsberg Airport System.
-	['', 'airport information', ' ', 'integrated services', ' operations']
-Outside.In
-	Provider of a data and technology platform that develops, organizes, and distributes hyperlocal news online. The company monitors news, blogs, and discussions on the Web and maps it to offline locations for the discovery and sharing of hyperlocal news and information.
-	['', 'news distribution', ' ', 'technology platform', '']
-Westside Today
-	Publisher and distributor of monthly community news magazines to the upscale communities. They offer information pertaining to celebrities, politics, society, environment and everyday news.
-	['', 'community news', ' ', 'celebrity news', ' ', 'publishing news', ' ', 'monthly news', ' ', 'political news', '']
-Medcast Networks
-	Provider of Internet-based medical news and information services. The company provides breaking medical news, education and other information electronically every morning to physicians throughout the United States.
-	['', 'medical news', ' ', 'medical education', ' ', 'electronic medical news', '']
-Silicon Media Group
-	Provider of news and information for information technology industry. The company also provides personalized and real-time news and information for IT professionals.
-	['', 'online news', ' ', 'information technology', ' ', 'IT news', '']
-ZebraMobile
-	Provider of online news platform. The company provides an application enabling mobile access to personalized news content, advertising and other online content.
-	['', 'news platform', ' ', 'online news', '']
-Hollywood Interactive Group
-	Provider of Web content and entertainment features for women. The company provides celebrity and entertainment news and casual games, as well as fashion and community information.
-	['', 'celebrity web destination', ' ', 'celebrity news', ' ', 'multiplatform content', '']
-Individual.com
-	Provider of individually customized news and information that is delivered to business people over the internet. The company collects articles from various news services, sorts them by company and topic and sends a daily news email to each user.
-	['', 'news service', ' ', 'online news', '']
-Revere Digital
-	Provider of online media services. The company offers news, reviews, events and analysis from journalists in technology and media.
-	['', 'media service', ' ', 'technology news', ' ', 'media content', '']
+National Medical Solutions
+	Provider of clinical, managerial, technical, educational and market services to the hospital partners. The company\'s services include multi-system history and physical assessment, debridement, cleansing, and dressing changes. The company also provides various therapies/services, including hyperbaric oxygen therapy, compression therapy, infection control, coordination of home health and extended care.
+	['', 'managed care', ' ', 'hyperbaric oxygen therapy', ' ', 'dressing changes', '']
+OakTree Health Plan
+	Provider of managed care services. The company operates an health maintenance organization for Medicaid members.
+	['', 'health maintenance organization', ' HMO ', 'managed care', '']
+Presidium Holdings
+	Provider of managed care and administrative services for worker\'s compensation. The company provides complete set of claims management and managed care services that allow self-insured, mid-sized companies to manage their workers\' compensation.
+	['', 'administrative services', ' ', "worker\\'s compensation", ' ', 'claim management', '']
+Novalis
+	Provider of outsourced management services for provider sponsored managed care networks. The company provides administrative, management and computing services to physician networks and managed care companies.
+	['', 'management service', ' ', 'care network', ' ', 'physician network', '']
+Direct Health
+	Provider of domiciliary and home-care services. The company supplies care workers into homes for those with special and geriatric needs.
+	['', 'managed care', ' ', 'trained workers', ' ', 'medical needs', '']
+Ygle
+	Provider of installation and routine maintenance of building utility systems. The company provides design, installation and maintenance services for the office, retail, industrial and other special purpose buildings that require complex HVAC engineering services.
+	['', 'maintenance of building utility systems', ' ', 'construction and engineering', ' ', 'installation and maintenance', '']
+Vivra Specialty Partners
+	Provides physician network and disease management services. The company operates as a managed care services in various specialties, including asthma and allergy, cardiology, urology, neurology, diabetes, orthopedics, dialysis/nephrology, ENT, and OB/GYN.
+	['', 'multispeciality clinic', ' ', 'healthcare services', '']

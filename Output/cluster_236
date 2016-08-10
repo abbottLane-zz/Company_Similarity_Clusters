@@ -1,18 +1,21 @@
-Headway Technologies
-	Manufacturer and supplier of  magnetoresistive heads to the disk drive industry. The company develops magnet resistive recording heads for the disk storage industry.
-	['storing ', 'magnet resistive', ' drive disk']
-Benchmark Storage Innovations
-	Developer of tape and storage automation devices. The company\'s products are based on DLT™tape technology and it delivers its products and services through various channels and strategic partners.
-	['', 'storage automation', ' ', 'DLT tape technology', ' ', 'automation devices', ' ', 'tape storage', ' ', 'electronic parts', ' ', 'computer hardware', '']
-Alditech
-	Manufacturer of silicon-based heads for multimedia tape recordings. The company\'s products had applications for the reproduction sector as well as data storage and digital videos.
-	['', 'tape recording', ' ', 'tape drive', ' ', 'digital video', ' components']
-Archive (Storage (IT))
-	Manufacturer of streaming tape drives. The company\'s products are used as backup storage devices to protect against the loss of data in the event of drive malfunction or user error, as well as for archival storage, data interchange and software loading.
-	['', 'tape drive', ' ', 'computer storage', ' ', 'archive storage', ' minicomputer archive ', 'storage device', ' tape']
-Amcodyne
-	Provider of disk drives and other computer storage devices.
-	['', 'disk drive', ' ', 'computer storage', ' ', 'storage device', '']
-Bus-Tech
-	Provider of VTL (virtual tape library) products that utilizes open systems disk storage to store and retrieve mainframe tape data. The company provides connectivity products for the data center to equipment manufacturers.
-	['adapter bandwidth ', 'Virtual Tape Library', ' ', 'disk storage', '']
+CardSpring
+	Provider of Application Programming Interface (API). The company\'s API lets developers add new capabilities to credit and debit cards by programming the payment network to link online applications to specific payment events.
+	['', 'Application Programming Interface', ' ', 'payment network program', ' ', 'online payment application', '']
+Orchestrate
+	Provider of an application programming interface service. The company provides an application programming interface (API), that eliminates the need to deploy databases while building new applications or adding new features to existing applications.
+	['', 'cloud agnostic', ' ', 'application programming', ' ', 'interface application', ' ', 'API service', '']
+ReportGrid
+	Provider of an advanced analytics engine for multi-structured data. The company provides an application programming interface (API) that makes it easy for SaaS vendors and technology platforms to give their customers deep analytics and insightful reporting.
+	['', 'analytic engine', ' ', 'multi-structured data', ' ', 'application programming interface', '']
+Layer 7 Technologies
+	Provider of security and management products. The company provides application programming interface for security and management products. It is a tool for managing and securing application programming interfaces (APIs).
+	['', 'service oriented', ' ', 'web security', ' ', 'cloud oriented', ' ', 'application management product', '']
+Wit.AI
+	Developer of an application programming interface-based natural language platform. The company has created a voice interface that makes it easy for developers to build applications and devices that you can talk to. It learns human language from every interaction and leverages the community.
+	['', 'application programming interface', ' ', 'natural language platform', ' ', 'voice interface', '']
+Get Scaffold
+	Provider of an identity and reputation system for the web. The company provides APIs (Application Programming Interface) for businesses to verify their users.
+	['identity reputation API']
+Omnimark Technlogies
+	Developer and distributor of load and application management.
+	['', 'load management', ' ', 'application management', '']

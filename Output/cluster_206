@@ -1,9 +1,27 @@
-CTP Hydrogen
-	Developer of a fuel reformer. The company\'s reformer generates pure hydrogen from conventional liquid fuels, including ethanol, gasoline, diesel and JP8.
-	['', 'fuel reformer', ' ', 'gaseous hydrogen distribution', ' ', 'gaseous hydrogen', ' ', 'hydrogen distribution infrastructure', '']
-Mesofuel
-	Developer of hydrogen generators to convert fuels into hydrogen for fuel cell sales in portable and stationary applications. The company\'s technology uses proprietary fuel processors and nano-scale filtering of hydrogen to create a novel compact product that generates hydrogen in an environmentally friendly manner.
-	['', 'hydrogen generators', ' ', 'desulphurization technologies', ' fuel']
-H2Gen
-	Manufacturer of low-cost and small-scale hydrogen generators. The company provides these hydrogen generation machines to target the the emerging fuel cell vehicle and distributed fuel cell power generation markets.
-	['generator ', 'steam methane', ' ', 'purification plant', ' hydrogen']
+Monroe Motor Speedway
+	Operator of auto race track in New Orleans. The company provides a paved race track, grandstands and support facilities and services for auto-racing events, including NASCAR. The track features a 3.75-mile long oval course.
+	['', 'auto racing', ' motorsports racing']
+Radiant Medical
+	Developer of endovascular temperature therapy products. The company offers its products to advance the treatment of patients with acute ischemic or inflammatory medical conditions, such as heart attack, radiocontrast nephropathy, stroke, and cardiac arrest.
+	['', 'endovascular temperature therapy', ' ', 'medical care product', ' ', 'acute ischemic treatment', '']
+American Transitional Hospitals
+	Provider of long-term specialty transitional care. The company provides transitional care facilities for subacute patients.
+	['', 'transitional care', ' ', 'specialty care', ' ', 'subacute patients', '']
+Hospital Management Associates
+	Operator of acute-care medical hospitals in the U.S. The company partners with mid-size communities and local hospital leaders, physicians and caregivers throughout the United States to operate leading community hospitals and health systems.
+	['Healthcare ', 'Hospital Operation', ' ', 'Healthcare Quality', '  acute-care']
+Daverci
+	Provider of electronic medication management systems. The company\'s system provides long-term care facilities and institutional pharmacies that supplies them.
+	['medication tracking ', 'design support', '']
+fiberSpace
+	Designer and manufacturer of stabilized laser products. The company\'s product enables absolute accuracy, tunability and long-term wavelength stability for dense wavelength division multiplexing applications.
+	['', 'long term wavelength', ' ', 'wavelength division', ' laser']
+VHA Long Term Care
+	Provider of long-term health care facilities.
+	['']
+Sage Electrochromics
+	Manufacturer and seller of insulating glass units and control systems to window and skylight manufacturers. The company also provides windows, skylights, and curtain walls for commercial and institutional buildings. It offers its products to owner-occupied office spaces, museums, libraries, art galleries, health care facilities, religious facilities, aviation facilities, high-tech or image buildings, and atriums and overhead daylight openings.
+	['', 'insulated glass', ' ', 'curtain walls', ' skylight ', 'overhead daylight', '']
+Mariner Health
+	Provider of sub-acute medical services. The company provides long-term health care services offering assistance through nursing facilities and long-term acute care hospitals which includes daily living, therapy and rehabilitation.
+	['', 'medical services', ' ', 'long-term health care', ' ', 'daily living', ' therapy']

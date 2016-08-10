@@ -1,27 +1,18 @@
-Kerensen Consulting
-	Provider of business consulting services. The company provides management consulting, business solutions, and technology services to manage the business challenges and technological complexity.
-	['', 'cloud technology', ' ', 'cloud consulting', ' ', 'cloud computing', '']
-e2e
-	Provider of IT consulting services.The company is a technology consulting firm specializing in software architecture, program management, process improvement and assessment services.
-	['', 'technology consulting', ' ', 'program management', ' ', 'software architecture', ' ', 'process improvement', ' ', 'IT consulting', '']
-Collabera
-	Provider of information technology services. The company offers consulting services, such as business intelligence and data management, IT planning, infrastructure consulting, project and portfolio management, professional staffing and architecture and application practice and application services.
-	['', 'business intelligence', ' ', 'portfolio management', ' ', 'professional staffing', '']
-Aegis Media Europe
-	Provider of research tools and client support services. The company offers business consulting based on the research data.
-	['', 'research tool', ' ', 'client support', ' ', 'business consulting', '']
-Quantiq Technology
-	Provider of business consulting services. The company offers various business and technology services mainly to mid-sized companies and larger enterprises throughout the Americas, EMEA and Asia Pacific.
-	['', 'business consultancy', ' ', 'business consulting service', ' ', 'Business Management Consulting', '']
-Team Trade
-	Provider of business consulting and information technology services. The company is engaged in providing consultancy and software integrated services for the financial services industry.
-	['', 'integrated software', ' ', 'infrastructure software', ' ', 'administration software', ' ', 'system integration', '']
-HammerKit
-	Operator of a cloud technology company. The company offers an online toolset to allow creation and deployment of web applications that cater to business, marketing and communications needs. It focuses on the PR and marketing industry.
-	['', 'cloud technology', ' ', 'PR industry', ' ', 'Cloud Software', ' ', 'digital production', ' ', 'web designing', '']
-Haley Systems
-	Provider of a software for business rules management systems. The company provides cycle times associated with automating business rules, such as policies, procedures, regulations and logic. It also offers consulting, training, and support services.
-	['', 'business rules management', ' ', 'cycle time', ' ', 'business rule', ' consulting ', 'rule based application', ' ', 'automating business rule', '']
-BroadReach Partners
-	Provider of business development consulting services. The company provides business development consulting services like sales pipeline development, prospect nurturing and conversion, and field marketing integration to businesses to improve their efficiency.
-	['', 'sales development', ' ', 'revenue improvement', ' ', 'financial consultancy service', '']
+Grenslandhallen
+	Provider of event management services. The company offers spaces and accommodation for events such as concerts, theatrical productions, fairs and exhibitions.
+	['', 'event management', ' ', 'concert shows', ' ', 'live shows', ' ', 'event faculties', '']
+Logistics.com
+	Provider of logistics planning and execution software to shippers and carriers. The company links players in the logistics and adjacent industries on a standard communication and application integration platform, Logistics Event Management Architecture. It offers OptiManage, which is a transportation management software, as well as OptiBid, which is a procurement software for shippers.
+	['', 'procurement software', ' ', 'transportation management software', ' ', 'application integration platform', '']
+nTAG Interactive
+	Provider of event data management solutions for the meetings and event industry. The company offers nTAG, an event data management system that facilitates business networking, makes presentations, automates lead capture, enabling exhibitors and sponsors to collect information, supports real-time event management, allowing meeting planners to closely monitor activities, and instantly send messages to staff and meeting participants and provides reporting and ROI analysis to compare results against objectives to determine whether the meeting was worth the investment. It also offers event sponsorship services, as well as pre-event planning, on-site execution and post-event follow up services.
+	['', 'data management solution', ' ', 'business networking', ' ', 'ROI analysis', '']
+SpeakerGram
+	Developer of online platform to connect public speaker. The company makes it easier for speakers and event organizers to connect and provide a single dashboard to manage requests and engagements.
+	['event management speaker organiser']
+PreEnroll
+	Provider of online registration services.
+	['', 'online registration', ' ', 'registration service', '  ', 'registration software', '']
+B-there
+	Provider of online event management and consolidation solutions. The company offers Internet registration, housing and transportation management solution for the meeting and trade show industries.
+	['', 'event management', ' ', 'Internet registration', ' ', 'transportation management', '']

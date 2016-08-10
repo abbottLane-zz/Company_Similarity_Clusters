@@ -1,9 +1,15 @@
-ultraBridge
-	Provider of a technology service to the long term care industry. The company provides its clients with a management service to their data and business reporting needs using outsourcing.
-	['', 'technology service', ' ', 'care industry', ' ', 'management service', '']
-Target 250
-	Provider of performance based outbound sales services to technology and communications companies. The company offers services including appointment setting, account setting profiling, channel enablement, prospecting workshops and data services to technology firms.
-	['', 'outbound sales service', ' ', 'technology service', ' ', 'data service', '']
-SuiteLinq
-	Provider of integrated communication, on demand entertainment and business productivity services. The company provides integrated content, connectivity, and commerce technology services to the hospitality industry worldwide.
-	['', 'communication service', ' ', 'technology service', ' ', 'business productivity service', '']
+DecisionView
+	Developer of web-based clinical optimization solutions for the life sciences industry in the United States and internationally. The company provides StudyOptimizer, a Web-based application designed for pharmaceutical companies, which allows clinical trial managers to plan, track, diagnose, and correct enrollment plans via a single centralized Web-based application that captures and aggregates clinical trial patient enrollment data from across the organization.
+	['', 'clinical optimization solution', ' ', 'clinical performance application', ' ', 'clinical performance optimization', '']
+Abakus
+	Developer and provider of a Web-based electronic patient-record system. The company\'s products supports physiotherapists in clinical reasoning and decisions, and objectifying and registering physiotherapy outcome measures in cooperation with the patient or their representative.
+	['clinical ', 'patient record system', ' ', 'electronic records', ' SaaS']
+Swiss Pharma Contract
+	Provider of clinical research services to the pharmaceutical, biotechnology, and medical-device industries. The company offers a variety of clinical pharmacology services ranging from first testing in man to post-marketing studies.
+	['', 'clinical research', ' ', 'clinical pharmacology', ' pharmaceutical']
+Phase Forward
+	Provider of  integrated clinical research suite of enterprise-level software products, services, and hosted services worldwide. The company\'s services are used in clinical trial and drug safety monitoring applications in the pharmaceutical, biotechnology and medical device companies; and academic institutions, governmental regulatory agencies, contract research organizations and other entities engaged in clinical trial and drug safety monitoring activities.
+	['', 'data capture', ' ', 'clinical research suite', ' ', 'clinical data management', '']
+Abaton.com
+	Developer of Internet-based clinical applications for use by clinicians in ambulatory settings. The company provides clinical information, medical decision-making support, access to test results, order management and prescription-writing capability– opening electronic lines of communication to streamline functions and augment clinical workflow.
+	['', 'clinical application', ' ', 'information management service', ' workflow']

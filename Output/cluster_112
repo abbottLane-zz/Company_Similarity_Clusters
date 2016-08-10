@@ -1,48 +1,21 @@
-SNAPin Software
-	Provider of device-centric customer care and diagnostic software products. The company’s handset-based SelfService product suite repairs critical device and network settings, such as those required for roaming, messaging, or data networking.
-	['software wireless communication network ', 'mobile phone', ' cellular telecommunication roaming repair']
-Mahi Networks
-	Supplier of optical networking equipment. The company supplies multi-service metro packet switching, TDM grooming and reconfigurable optical transport systems to service provider customers.
-	['', 'optical equipment', ' ', 'networking equipment', ' ', 'metro packet switching', '']
-Cisco Systems
-	Designer, manufacturer and seller of Internet Protocol (IP) based networking technologies to its clients. The company offers various products and services including networking software, routers, video, wireless, security, voice and unified communication, telepresence, collaboration, webex, data center, virtualization and unified computing systems.
-	['', 'information technology', ' ', 'networking technology', ' ', 'networking software', '']
-RuggedCom
-	Manufacturer of rugged communications networking products. The company provides rugged communications networking services designed for mission-critical applications in harsh environments such as those found in electrical power substations and "Smart Grids", intelligent transportation systems, industrial process control and military applications.
-	['', 'rugged communication network', ' ', 'ethernet switch', ' ', 'network router', ' ', 'wireless device', '']
-Zenverge
-	Provider of semiconductors for digital media products. The company is developer of content networking ICs built around the patented TransAll technology, a core requirement for next generation video services gateways.
-	['', 'digital media', ' ', 'integrated circuit', ' ', 'video networking', ' ', 'networking equipment', ' ', 'desktop media', '']
-Nortel Networks
-	Manufacturer of networking products. The company is a manufacturer of equipment for telecommunications and data networking.
-	['', 'networking equipment', '  ', 'data networking equipment', ' ', 'cable operators', '']
-SwitchOn Networks
-	Provider of semiconductor and software components to the Content and Policy-based networking. The company\'s products enable next generation network equipment, including web and content switches, CMTS, DSLAM, enterprise routers, edge routers, bandwidth managers, VPNs, Firewalls and Intrusion detection systems.
-	['', 'semiconductor and software component', ' ', 'wirespeed packet classification', ' ', 'networking solution', ' ', 'networking device', ' ', 'semiconductor component', ' ', 'semiconductor networking solution', ' ', 'networking equipment', ' ', 'packet content processor', '']
-RouteLambda
-	Provider of an optical networking equipment. The company provides outsourced assembly of standardized optical networking equipment and broad base communication equipment in Japan.
-	['', 'optical networking', ' ', 'communication equipment', ' ', 'outsourced assembly', '']
-Loran International Technologies
-	Operator of a data networking company. The company is a system integrator of high speed networks.
-	['', 'data networking', ' ', 'system integrator', ' ', 'internet network', '']
-CebaTech
-	Provider of technology to the networking and storage markets. The company develops hardware-acceleration technology designed to boost protocol execution performance in embedded systems.
-	['', 'communication protocol', ' ', 'Silicon chip', ' ', 'networking application', '']
-Gascoigne Melotte Holding
-	Manufacturer of equipment for the dairy industry. The company offers milking machines and other dairy automation products.
-	['', 'milk harvesting equipment', ' ', 'agricultural machinery', ' ', 'dairy automation', '']
-Kiyon
-	Provider of mesh networking products for wireless broadband networks. The company offers autonomic mesh networking technology that allows it to interface with higher-level protocols.
-	['', 'mesh network', ' ', 'networking products', ' ', 'networking technologies', '']
-Advanced Computer Communications
-	Developer and manufacturer of wide area inter-networking products for interconnection and management of distributed computer networks. The company also provides bandwidth technologies and offers various routers.
-	['routers ', 'inter-networking', ' interconnection bandwidth']
-Positron Access Solutions
-	Developer and manufacturer of telecommunications equipment for critical service applications. The company design, manufactures and markets networking and broadband management equipment to information technology and telecommunication industries. Its platform enables broadband connectivity and system networking services.
-	['', 'telecommunications equipment', ' ', 'critical service', ' ', 'broadband management', ' ', 'broadband connectivity', ' ', 'networking service', '']
-Vitalink Communications
-	Manufacturer of data networking products. The company sells routers and other networking products. Its systems are used to build computer networks.
-	['router']
-Vivace Networks
-	Manufacturer of multi-protocol label switching networking products. The company provides optical service creation platforms for service providers for the next generation public data network.
-	['', 'networking equipment', ' switches multi-protocol']
+Íshestar
+	Provider of horseback tours in Iceland.  The company is an operator of equestrian-tourism services in Iceland, providing traditional Icelandic horses, riding and dining facilities for riders, and promoting its services through an online booking site.
+	['', 'horse', ' ', 'hiking', ' ', 'riding', ' ', 'online booking', '']
+Snowbon
+	Provider of an online booking platform for ski and related activities. The company provides a system to book ski lift tickets, skiing equipment and also provides information regarding the hotels and climate.
+	['', 'online booking platform', ' ', 'ski lift ticket', ' ', 'skiing equipment', '']
+Travelmenu
+	Operator of an online travel agency. The company operates as a hotel booking engine and provides online retail of travel products, including hotels, flights and package holidays.
+	['', 'online travel agency', ' ', 'hotel booking', ' ', 'package tour', '']
+Tuniu.com
+	Provider of online travel services for travelers departing from the Chinese cities Beijing, Shanghai, Guangzhou and Shenzen. The company provides online booking and information services for airlines, hotels, car rentals, vacation and tour package deals.
+	['', 'travel management', ' ', 'online booking', ' reservation ', 'travel service', ' ', 'online travel', ' ', 'vacation package', '']
+Easy Market
+	Developer of online booking systems for travel agencies specializing in tour packages, special offers, last minute and low cost flights.
+	['', 'booking system', ' ', 'tour package', ' ', 'low cost flight', ' ', 'computerised reservation', '']
+Gigit
+	Provider of a platform to book well-known and upcoming bands for private shows. The company helps its artists get exposure to labels, with representatives of multiple studios attending at least one early Gigit event to scout an upcoming band.
+	['', 'private show', ' ', 'show booking platform', ' ', 'entertainment platform', '']
+PortugalRes
+	Operator of an online booking platform. The company also distributes products to travel agencies and tour operators worldwide.
+	['', 'ticket booking', ' ', 'travel product', ' ', 'online travel platform', '']

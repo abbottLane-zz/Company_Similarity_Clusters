@@ -1,30 +1,54 @@
-Basil Corporation
-	Manufacturer of specialized equipment for the laboratory and scientific markets. The company makes laboratory washing equipment and devices.
-	['', 'laboratory equipment', ' ', 'scientific devices', ' ', 'medical equipment', '']
-CSM Instruments
-	Provider of laboratory instruments. The company develops, produces and sells laboratory instruments for the characterization of mechanical properties on material surfaces at the micro and nano scales.
-	['', 'laboratory instrument', ' ', 'industrial product', ' ', 'commercial product', '']
-Service Vortex
-	Developer of software products designed to improve a manufacturer\'s ability to support its products in the field. The company develops software products, both custom and standard, that help make service operations efficient. The company focuses on the medical device, medical equipment and laboratory equipment markets.
-	['', 'software product', ' ', 'service operation', ' ', 'laboratory equipment market', ' ', 'electronic parts catalogues', '']
-Advanced Technologies Center
-	Developer and manufacturer of scanning probe microscopes and its software. The company\'s products are used for the study of surface morphology and local properties, Internet laboratory and Internet practical studies on nanoscopy, scientific research and development in nanotechnology, scanning probe microscopy measurements and composition of bibliography reports.
-	['', 'scanning probe microscope', ' nanoscopy ', 'scientific research', ' nanotechnology']
-Hedson Technologies International
-	Provider of washing, drying and handling equipment. The company engages in the manufacture of gun cleaning devices, wheel washers and infrared curing equipment in the automotive after market sector.
-	['', 'handling equipment', ' ', 'gun cleaning device', ' ', 'wheel washer', '']
-AMSCO Scientific
-	Developer of scientific capital equipment. The company specializes in industrial and laboratory sterilizers, laboratory glassware and animal care washing equipment, absolute barrier isolators and sterility assurance products and supplies.
-	['', 'medical equipment', ' ', 'barrier isolator', ' ', 'pharmaceutical production', '']
-BioSig Technologies
-	Developer of clinical technology for diagnoses and treatments of abnormal heart rhythms. The company provides electrophysiologists to make crucial clinical decisions in real time by providing information unobtainable with any other equipment presently in the electrophysiology laboratory.
-	['', 'abnormal heart', ' ', 'electrophysiology', ' ', 'electrophysiology laboratory', '']
-AlchiMedics
-	Developer of electro-grafting technology for implantable biomedical applications. The company develops technology that is used for the fast healing post drug eluting stent implantation.
-	['', 'electro grafting', ' ', 'implantable equipment', ' ', 'medical equipment', '']
-Augusta-Heckenrose
-	Manufacturer of specialized saws. The company designs and sells specialized saws for different uses. The company primarily produces handheld saws such as hand saws, bow saws, gardening saws, builder\'s saws, hack saws and fret saws.
-	['equipment ', 'saw manufacturer', ' ', 'specialized saws', '']
-Kinetek Systems
-	Manufacturer of hollow-fiber bioreactors for cell culture and liquid-separations systems. The company\'s products are designed for laboratory- and developmental-scale production of biotechnology products and pharmaceuticals, as well as having applications for research and development.
-	['', 'fiber bioreactors', ' ', 'cell culture', ' ', 'liquid separations systems', ' ', 'laboratory production', ' bioreactors ', 'pharmaceutical production', '']
+Top Ten Media
+	Provider of media content on entertainment topics from the Web. The company draws information from blogs, podcasts, video, and media.
+	['', 'media content', ' ', 'entertainment content', '']
+Circular
+	Provider of user preference based online content. The company offers an infinitely scrolling feed of content to users, based on people they follow and topics that they are interested in.
+	['', 'online content', ' ', 'infinitely scrolling', ' ', 'preferred content', '']
+Red Swoosh
+	Provider of P2P network technologies designed to alleviate bandwidth bills for Websites. Its products include Predelivery, which delivers video, video games, and files to users as a background delivery.
+	['', 'bandwidth bill', ' ', 'content delivery', ' ', 'media management', ' ', 'retrieve metadata', '']
+BitGravity
+	Provider of a high-speed content delivery network. The company provides a content delivery network to supply on demand high-definition video and live streaming. It also accelerate Web sites, serve better performing videos and reliably stream events and 24/7 broadcasts online in high-definition.
+	['streaming ', 'high-speed content', ' ', 'high-definition video', ' broadcast']
+XOsphere
+	Developer of mobile content management applications. The company\'s products enables marketers to develop and deploy rich media content to mobile devices. The company\'s services include consulting, conceptual planning, development, deployment, hosting, reporting/analytics, integration and billing and end-user management.
+	['', 'content management', ' ', 'mobile content management applications', ' ', 'rich media content', '']
+Adzilla
+	Developer of network based media delivery products. The company offers online content management and distribution system, which is designed to work within existing service provider networks.
+	['', 'media delivery product', ' ', 'online content', '']
+enScaler
+	Provider of middleware services to enterprises to deliver streaming content. The company provides licensed platforms and applications to service providers, content owners and enterprises to provision and manage streaming media services and applications.
+	['', 'middleware services', ' ', 'licensed platforms and applications', ' ', 'streaming content', ' ', 'streaming media services', ' ', 'content owners', '']
+StreamTheWorld
+	Provider of media streaming technology platform for radio and television broadcasters. The company\'s streaming delivery network and media streaming technology allows broadcasters to develop custom features and record online revenues.
+	['', 'media stream', ' ', 'streaming platform', ' ', 'streaming delivery network', '']
+Forside Co.
+	Developer of content provision and copyright management businesses. The company, through its relationships with wireless carriers, distributes various e-books.
+	['', 'content provision', ' ', 'copyright management', ' ', 'online content', '']
+ChinaCache International Holdings
+	Provider of content delivery network and cloud computing services. The company offers storage and delivery of internet-based applications and interactive content to internet enterprises and multi-national corporations.
+	['', 'content delivery', ' ', 'interactive content', ' ', 'cloud storage', '']
+Intellistream
+	Provider of a video content-delivery platform. The company provides a technology platform enabling delivery of interactive, streaming applications through any available 2G, 3G or 4G mobile network.
+	['', 'video content', ' ', 'content delivery', ' ', 'video streaming', '']
+MyCube
+	Operator of a social network that allows individuals and organizations to store and share their information, updates and content with others. The company offers organization, publishing, communication and management tools for all individual brands and content producers that let users own and protect their digital assets, thereby transferring control to the user allowing the content to be monetized.
+	['', 'management tool', ' ', 'share content', ' ', 'content producers', '']
+EdgeCast Networks
+	Provider of media content delivery services. The company provides content delivery network space, helping companies to deliver static content like video, music, games and live streaming.
+	['', 'media content delivery', ' ', 'content delivery network', ' ', 'content management', '']
+Netli
+	Provider of application delivery network services. The company provides network infrastructure as a service, on-demand optimizing application and content delivery while shifting bandwidth, computing and storage requirements.
+	['', 'application delivery network', ' ', 'network infrastructure', ' ', 'content delivery', '']
+InStranet
+	Provider of multi-channel knowledge applications for automating content and knowledge delivery for servicing and sales initiatives, and for contact centers, field sales, and Web self-care. The company also offers Contact Centers In-Line Application, which enables the organization of the content and knowledge into context-sensitive and customer-specific categories; and Content Application Foundation that provides toolkit for content management, personalization, search, application integration, and user management.
+	['', 'knowledge delivery', ' ', 'content management', ' ', 'application integration', '']
+Tasmania Networks Systems
+	Developer of network caching software technology. The company\'s technology accelerates content delivery and network performance by localizing traffic patterns.
+	['', 'network caching', ' ', 'content networking', ' ', 'content delivery', ' ', 'network performance', '']
+Collections Labs
+	Provider of Mac application that helps users to manage media content like Facebook and Instagram photos, Tweets and videos, alongside other cloud-based things like Google Docs. The company\'s product also allows a user to toggle between Dropbox and Google Drive content and the more traditional Finder material like Word docs and other native applications.
+	['', 'mac application', ' ', 'media content', ' ', 'traditional Finder', ' ', 'native application', '']
+Chasm.io
+	Provider of an online content marketing network. The company has developed a content matching system that analyzes personal interest graphs, categories of influence and network behaviors that allows content producers to present their content to only those influencers who are most likely to consume and share it.
+	['', 'social networking', ' ', 'startup assistance', ' ', 'startup guidance', '']

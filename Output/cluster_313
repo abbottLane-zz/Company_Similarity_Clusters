@@ -1,15 +1,9 @@
-Apneon
-	Developer of healthcare devices for treating obstructive sleep apnea. The company develops products which diagnose and repair the upper airway and restore patients’ health and quality of life.
-	['', 'healthcare devices', ' ', 'obstructive sleep apnea', ' ', 'diagnose and repair the upper airway', '']
-Sleep Solutions
-	Developer of medical devices focused on obstructive sleep apnea. The company provides testing of sleep-disordered breathing and treatment of obstructive sleep apnea.
-	['', 'obstructive sleep apnea', ' ', 'sleep disorder', ' ', 'sleep-disordered breathing', '']
-WideMed
-	Developer of a web based sleep diagnostic software. The company offers Morpheus, a computer aided sleep scoring system that is used in laboratories and hospitals.
-	['', 'web based', ' ', 'sleep diagnostic', ' scoring']
-Medotech
-	Developer of customized devices that analyse biometric signals and convert these into contingent stimulation. The company offers GrindCare devices that measure the activity of the temporalis muscle during sleep through an electrode placed on the temple and then reduces the grinding while patients sleep.
-	['', 'joint disorders', ' ', 'unhealthy reflexes', ' ', 'healthcare devices', '']
-Laboratoires Narval
-	Developer and manufacturer of equipment to treat, diagnose and manage disorders of breathing during sleep. The company manufactures oral appliances for the treatment of sleep disordered breathing and sells its products principally in France.
-	['', 'breathing disorder', ' ', 'oral appliance', ' ', 'sleep breathing cure', ' ', 'diagnostic equipment', '']
+Advanced Technologies Center
+	Developer and manufacturer of scanning probe microscopes and its software. The company\'s products are used for the study of surface morphology and local properties, Internet laboratory and Internet practical studies on nanoscopy, scientific research and development in nanotechnology, scanning probe microscopy measurements and composition of bibliography reports.
+	['', 'scanning probe microscope', ' nanoscopy ', 'scientific research', ' nanotechnology']
+Imago Scientific Instrument
+	Manufacturer of near-fab metrology equipment for the semiconductors. The company offers research instruments for the university, governmental organization, and private company laboratories in the materials, geology, astrophysics, semiconductors, and life sciences.
+	['', 'Atom Probe Tomography', ' ', 'microelectronic device', ' ', 'Nanolytical equipment', ' ', '3-dimensional imaging application', ' ', 'metrology equipment', ' ', 'atom probe', '']
+Oxford NanoScience
+	Manufacturer of 3-dimensional atom probes. The company\'s laser atom probe offers high resolution sample data acquisition together with comprehensive data analysis for a range of low and high resistivity materials.The atom probe is a point projection microscope capable of resolving the chemical identity and position of individual atoms in 3D with atomic resolution in the z direction and sub-nanometer lateral resolution.
+	['', '3-dimensional atom probe', ' ', 'laser atom probe', ' ', 'point projection microscope', ' ', '3D Atom Probe analysis system', '']

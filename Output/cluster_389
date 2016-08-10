@@ -1,15 +1,12 @@
-CEB Merchandise Brokers
-	Wholesaler of custom apparel and promotional items. The company specializes in brand design, screen printing, embroidery and imprinted promotional products.
-	['', 'custom apparel', ' ', 'brand design', ' merchandise']
-Custom Solutions USA
-	Provider of brand merchandise programs. The company offers branded product, ecommerce and marketing services. Its solutions include Company Store Merchandise Programs, Special Order Merchandise, Events and Promotions Premium programs, Service Award Programs, Award Incentives, and Custom Web design.
-	['', 'brand merchandise', ' ecommerce ', 'promotional distribution', ' ', 'merchandise store', '']
-FanHero
-	Creator and seller of branded merchandise for online celebrities with a fan base. The company provides a platform for the users to sell their merchandise to their fans.
-	['', 'branded merchandise', ' ', 'custom merchandise', '']
-FastLogo
-	Provider of embroidered and imprinted logo merchandise. The company emblazons corporate logos on hats and golf shirts.
-	['logo ', 'corporate logo', ' merchandise ', 'imprinted logo', '']
-Boundless Network
-	Owner and operator of a promotional products distribution company. The company distributes technology-enabled branded merchandise for businesses. Its branded merchandise includes apparel with logos, writing instruments, awards, and trade show giveaways.
-	['', 'promotional product', ' ', 'promotional distribution', ' ', 'branded merchandise', ' ', 'business merchandise', '']
+Sleep Solutions
+	Developer of medical devices focused on obstructive sleep apnea. The company provides testing of sleep-disordered breathing and treatment of obstructive sleep apnea.
+	['', 'obstructive sleep apnea', ' ', 'sleep disorder', ' ', 'sleep-disordered breathing', '']
+WideMed
+	Developer of a web based sleep diagnostic software. The company offers Morpheus, a computer aided sleep scoring system that is used in laboratories and hospitals.
+	['', 'web based', ' ', 'sleep diagnostic', ' scoring']
+Medotech
+	Developer of customized devices that analyse biometric signals and convert these into contingent stimulation. The company offers GrindCare devices that measure the activity of the temporalis muscle during sleep through an electrode placed on the temple and then reduces the grinding while patients sleep.
+	['', 'joint disorders', ' ', 'unhealthy reflexes', ' ', 'healthcare devices', '']
+Laboratoires Narval
+	Developer and manufacturer of equipment to treat, diagnose and manage disorders of breathing during sleep. The company manufactures oral appliances for the treatment of sleep disordered breathing and sells its products principally in France.
+	['', 'breathing disorder', ' ', 'oral appliance', ' ', 'sleep breathing cure', ' ', 'diagnostic equipment', '']

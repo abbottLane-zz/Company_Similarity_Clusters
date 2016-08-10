@@ -1,12 +1,36 @@
-Amplidata
-	Provider of a cloud-based service provider offering scale-out technology for storage providers. The company offers, AmpliStor an object-based software defined storage system for enterprise, private cloud and hyper scale public cloud implementations.
-	['', 'storage infrastructure', ' ', 'storage technology', ' ', 'storage system', '']
-Streem
-	Provider of a cloud based hard drive that offers storage space. The company has developed a proprietary de duplication and compression technology to be able to provide storage facility.
-	['', 'storage space', ' ', 'hard drive', ' ', 'compression technology', ' ', 'cloud storage service', '']
-ByCast
-	Provider of storage virtualization software for large-scale digital archives and storage clouds. The company provides storage software designed to manage petabyte-scale, globally distributed repositories of images, video and records for enterprises and service providers.
-	['', 'business continuity', ' ', 'digital archives', ' ', 'fixed content', '']
-Newisys
-	Developer of server and storage technology for original equipment manufacturers. The company offers storage expansion product platforms, storage application platforms, integrated RAID server/storage application product platforms, JBOD expansion enclosures, and racks.
-	['', 'server technology', ' ', 'storage technology', ' ', 'equipment manufacturing', ' ', 'storage expansion', '']
+Translarity
+	Manufacturer of semiconductor testing equipment. The company develops semiconductor testing technology and uses lasers to create signal pathways for electronics industry. It also provides wafer contact tools for test and burn-in and serves semiconductor manufacturers.
+	['', 'semiconductor testing', ' ', 'test equipment', ' ', 'electronic industry', ' ', 'signal pathway', ' ', 'wafer contractor', ' ', 'tester interface', ' ', 'test platform', '']
+Allegro Manufacturing
+	Provider of a semiconductor front-end equipment foundry. The company provides outsourcing and manufacturing services to semiconductor equipment makers world-wide.
+	['', 'manufacturing solution', ' ', 'equipment manufacturers', ' ', 'semiconductor equipment', '']
+Torrex Equipment
+	Developer of semiconductor manufacturing equipments. The company has developed a technology for front-end thermal film depositions that helps semiconductor manufacturers to build leading edge chips. It develops atomic layer deposition and low pressure chemical vapor deposition systems for the semiconductor industries.
+	['', 'semiconductor equipment', ' ', 'photographic equipment', ' ', 'photocopying equipment', ' Electronics']
+Oramir
+	Developer of laser technology for the semiconductor industry. The company specializes in cleaning technologies for semiconductor wafers.
+	['', 'semiconductor equipment', ' ', 'laser chips', ' ', 'laser technology', '']
+Orbot Instruments
+	Manufacturer of a semiconductor inspection equipment. The company provides automated optical inspection for semiconductor industry.
+	['', 'semiconductor inspection equipment', ' ', 'automated optical inspection', ' semiconductor']
+Xponent Photonics
+	Provider of semiconductor processing technology. The company\'s product Surface Mount Photonics ("SMP"), include a range of triplexers and diplexers for single-fiber applications including point-to-point and bidirectional RF systems.
+	['', 'semiconductor processing technology', ' ', 'surface mount photonic', ' semiconductor']
+TwinStar Systems
+	Manufacturer of semiconductor equipment. The company typically manufactures semiconductor for Wafer inspection.
+	['', 'wafer inspection', ' ', 'semiconductor equipment', '']
+3i Systems Corporation
+	Developer of process inspection technologies for the TFT-LCD industry in the Asia Pacific. The company offers optical-based automatic inspection equipment and supporting software for TFT-LCD manufacturing fabs to detect process defects, monitor process variations, and develop applications to extract and analyze the deficiencies in the fab manufacture process. It also provides stand-along and in-line defect inspection equipment for TFT-LCD and other FPD manufacturers in Korea, Taiwan, Japan, and China.
+	['', 'process inspection', ' ', 'optical based inspection', ' ', 'thin film transistor', ' ', 'fab manufacture', ' ', 'TFT defect inspection', '']
+Enuclia Semiconductor
+	Developer of semiconductors for display electronics such as flat panel televisions.
+	['', 'semiconductor', ' ', 'visual semiconductor', ' ', 'screen semiconductor', ' ', 'TV semiconductor', ' ', 'television semiconductor', '']
+Semiconductor Manufacturing International
+	Semiconductor Manufacturing International Corp was established as an exempt company incorporated under the laws of the Cayman Islands on April 3, 2000. The Company, together with its subsidiaries, is engaged in the computer-aided design, manufacturing, testing, packaging, and trading of integrated circuits and other semiconductor services. The Company operates wafer fabrication facilities in China, including facilities at Beijing, Shanghai, Tianjin and Shenzhen, with an aggregate capacity of up to 247,500 8-inch wafer equivalents per month. It provides integrated circuit (IC) foundry and technology services at 0.35-micron to 28-nanometer. Currently, the Company has 300mm wafer fabrication facility (fab) and a 200mm mega-fab in Shanghai, a 300mm mega-fab and a second majority owned 300mm fab under development for advance nodes in Beijing, a 200mm fab in Tianjin, and a 200mm fab in Shenzhen. It also has customer service and marketing offices in the U.S., Europe, Japan, and Taiwan, and a representative office in Hong Kong. Its fabrication processes uses many raw materials, primarily silicon wafers, chemicals, gases, and various types of precious and other metals. It manufactures silicon wafers based on proprietary designs provided by its customers or third party designers. Its customers include IDMs, fabless semiconductor companies and systems companies. Its competitors are other pure-play foundries such as TSMC, UMC and Global Foundries. The Company is subject to substantial regulation by the Chinese government.
+	['', 'integrated circuit', ' ', 'wafer fabrication', ' ', 'integrated device', ' fabless']
+Nawotech
+	Supplier of semiconductor equipment for the competitive photomask repair market. The company also supplies nano technology for semiconductor manufacturing and electron-beam based nano-structuring tools.
+	['', 'semiconductor equipment', ' ', 'nano technology', ' ', 'nano structuring tool', '']
+SEZ Semiconductor
+	Provider of wet-etching and wafer-handling equipments.
+	['etching ', 'wafer-handling', ' handle']

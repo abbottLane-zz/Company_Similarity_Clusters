@@ -1,9 +1,24 @@
-TTS Pharma
-	Developer of a personalized nicotine patch for smokers. The company has created a companion diagnostic blood test product that provides users with a tailored dose of nicotine via patch technology.
-	['', 'nicotine patch', ' ', 'diagnostic product', ' ', 'patch technology', ' patch']
-Medingo
-	Developer of miniature devices and technologies for people living with diabetes. The company offers Solo Insulin Patch Pump System, a miniature insulin dispensing patch that allows users to personalize and guide patch for insulin needs.
-	['', 'diabetes treatment', ' ', 'insulin need', ' ', 'insulin delivery', '']
-e-Nicotine Technology
-	Developer of electronic nicotine (eNT) products. The company is developing a nicotine product that produces a condensation aerosol of nicotine using a proprietary thermal drug-delivery technology. The eNT platform is designed to produce the appropriate dose of  nicotine particles for deep lung delivery, to reduce cravings and to avoid the carcinogens associated with cigarette smoke.
-	['', 'health care', ' ', 'electronic nicotine', ' ', 'nicotine product', '']
+Eutraco Logistics
+	Provider of transportation services. The company provides warehousing, logistics and delivery services.
+	['', 'delivery service', ' ', 'transportation service', ' ', 'business products', '']
+AirAsia X
+	Provider of airline services. The company provides passenger and cargo air transportation services.
+	['']
+Arrow Shuttle
+	Provider of airline services. The company provides its services to the aviation industry.
+	['', 'aviation industry', ' airline flight']
+Star Flyer
+	Provider of air transportation services in Japan. The company provides frequent shuttle services between key Japanese cities for business travelers.
+	['JetBlue airline ', 'air transport', '']
+ConveyEx
+	Developer of systems for transportation of goods for the air industry. The company offers various products for different types of airports and aircraft including loading systems, flight containers and automatic unloading machines.
+	['logistic ', 'air transport', ' ', 'flight container', '']
+Kystlink
+	Operator of ferry shipping services. The company schedules cargo traffic between Langesund and Hirtshals, and between Langesund and Strømstad.
+	['', 'ferry shipping', ' ferry shipping cargo']
+T-link di Navigazione
+	Operator of a navigation company. The company provider maritime transportation services for goods and civil.
+	['', 'maritime transportation', ' ', 'reservation and catering', ' commercial']
+E-Factor Adventure Tourism
+	Operator of a hot air ballooning company. The company has six hot-air balloons and operates out of Jaipur, Ranthambore and Udaipur in Rajasthan between September and March.
+	['', 'adventure tourism', ' ', 'hot air balloon', ' ', 'leisure service', ' ', 'consumer service', '']

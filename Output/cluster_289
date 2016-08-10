@@ -1,6 +1,33 @@
-Groupe J.L. Leclerc
-	Manufacturer and designer of industrial products for power and transportation industries. The company serves the markets for energy and transport. It has developed its own equipment designed for the maintenance and installation of electric lines.
-	['', 'industrial products', ' ', 'power and transportation', ' ', 'electric lines', ' ', 'equipment design', '']
-Hanza
-	Manufacturer of industrial products. The company provides mechanical, electronics, cable harnesses and final assembly products for industrial uses.
-	['', 'industrial product', ' ', 'assembly product', ' ', 'cable harness', '']
+Frozen Codebase
+	Developer of gaming software. The company provides 3 dimensional video games for both download and store based markets.
+	['', 'gaming software', ' ', '3D games', ' ', 'store-based markets', '']
+Sennari
+	Provider of mobile application development and gaming solutions for carriers and handset makers. The company\'s products include PrizePlay, a gaming system that offers a mobile gaming experience featuring automated player registration, pay-per-play, and tournament gaming, as well as prize catalogs and redemption; and mobIN, an ad-funded, lifestyle loyalty network that transforms handsets into currency devices.
+	['', 'mobile application development', ' ', 'gaming system', ' ', 'mobile gaming', '']
+Mütli
+	Provider of game servers. The company provides hosting services for multi-player games.
+	['', 'game server', ' ', 'multi-player games', ' ', 'hosting services', '']
+Oculus VR
+	Provider of online gaming related services. The company offers virtual reality hardware, software and services for online gaming. The company\'s flagship product is Oculus Rift, a virtual reality headset that creates a stereoscopic 3D experience.
+	['', 'video game', ' ', 'virtual reality', ' ', 'gaming headset', '']
+JGame
+	Operator of an online gaming site. The company engages in providing online game services in Japan.
+	['', 'online gaming', ' ', 'gaming site', ' ', 'entertainment services', '']
+C Sports Ventures
+	Developer of a gaming application. The company provides users with online arcade and multi player games.
+	['', 'online sports', ' ', 'gaming application', ' ', 'online gaming', '']
+Turf
+	Provider of gaming application. The company provides a platform where the game is et in the real world where users hang out with friends, amass gold coins, and acquire goods and properties in a battle to tame surroundings. The company provides the users to spend coins earned to purchase virtual versions of the property, then enhance it with upgrades to increase its value, collecting more coins when others visit.
+	['', 'gaming application', '']
+Greentube Internet Entertainment Solutions
+	Developer and producer of gaming applications for electronic media. The company provides gaming, entertainment and gambling products for large and small B2B customers holding a valid gaming license in jurisdictions all over the world.
+	['', 'slot game', ' core gambling']
+Gaikai
+	Provider of online gaming service. The company\'s cloud-based gaming technology allows users to play major PC and console games.
+	['', 'online gaming', ' ', 'gaming technology', ' ', 'gaming network', ' ', 'game application', ' ', 'cloud based gaming', '']
+Discovery Bay Games
+	Provider of iOS accessories and supporting applications. The company develops content for tablet play experiences.
+	['', 'iOS accessory', ' ', 'multi player game', ' ', 'gaming application', ' ', 'game accessory', ' ', 'tablet accessory', ' ', 'iPad accessory', '']
+C3L3B Digital
+	Developer of gaming software. The company develops massively multi-player online (MMO) games.
+	['MMO ', 'online game', '']

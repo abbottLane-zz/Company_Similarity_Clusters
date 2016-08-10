@@ -1,15 +1,12 @@
-Evotec International
-	Manufacturer of biopharmaceutical products. The company develops therapies for metabolic disorders based on model organisms and stem cell expertise.
-	['biomarker ', 'metabolic disorders', ' ', 'biopharmaceuticals services', '']
-Maxia Pharmaceuticals
-	Provider of non-dermatological applications of a patented library of compounds. The company focuses on small molecule drugs that target major diseases such as cancer and metabolic disorders.
-	['', 'molecule drugs', ' ', 'metabolic disorders', ' ', 'cervical cancer', '']
-Biophytis
-	Developer of drugs for metabolic disorders and age-related diseases. The company develops nutraceuticals and drug candidates derived from active natural substances.
-	['nutraceutical ', 'food supplement', ' ', 'metabolic disorder', ' ', 'drug candidate', '']
-Neuromed Pharmaceuticals
-	Provider of small molecule drugs for the Biopharmaceutical industry. The company develops drugs targeting neuronal calcium channels to treat neurological disorders with the initial emphasis on chronic pain anxiety and stroke.
-	['therapy ', 'drug developer', ' calcium']
-Kinaxo Biotechnologies
-	Developer of spectrum-specific kinase inhibitors. The company operates as a service company specializing in chemical proteomics methods to support the development of small molecule drugs. The company spun out of the Max Planck Institute of Biochemistry.
-	['', 'kinase inhibitors', 'inhibitors', 'chemical proteomics', ' ', 'molecule drugs', '']
+AWR Corporation
+	Developer of electronic design automation software in the United States. The company offers Microwave Office design suite, which encompasses various tools for IC, PCB, and module design, including linear circuit simulators, non-linear circuit simulators, electromagnetic (EM) analysis tools, integrated schematic and layout, and parametric cell libraries with built-in design-rule check; Visual System Simulator, a software for the design of communications systems; Analog Office design suite, a design system that is architected from the ground up for analog and radio-frequency integrated circuit designs; and Signal Integrity design software that is for integrated co-chip/package/module designs as it addresses the cross-domain signal integrity issues.
+	['', 'electronic design', ' ', 'automation software', ' ', 'analog design', '']
+Ciranova
+	Provider of electronic design automation software. The company focuses on building interoperable tools for custom chip designers to create new and/or migrate legacy analog IP and help engineers integrate complex RF, analog and mixed-signal content into nanometer-scale silicon with higher density and speed.
+	['', 'electronic design', ' automation ', 'chip designer', '']
+Infiniscale
+	Operator of an electronic design automation (EDA) company. The company develops a proprietary modeling engine and optimization software, and has created a software suite to address emerging design for yield (DFY) challenges related to analog, mixed-signal and RF designs.
+	['', 'Statistical analyses', ' ', 'behavioral modeling', ' ', 'design optimization', ' ', 'variation-aware design', ' ', 'modeling software', ' EDA RF']
+LLUSTRE Design
+	Provider of a website that enables its members to discover designs for their homes. The company’s website features limited edition pieces and crafted designs via its online design events.
+	['', 'home design', ' ', 'crafted design', ' ', 'online design', '']

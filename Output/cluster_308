@@ -1,42 +1,6 @@
-ProClarity
-	Provider of business intelligence software and solutions. The company offers an analytic application platform that allows companies to build custom analytic applications. Its software and solutions are used for decision support, data mining, balanced scorecards, and reporting from multiple data sources.
-	['', 'business intelligence software', ' ', 'analytic application platform', ' ', 'data mining', '']
-Stellr
-	Provider of data analytics platform. The company develops a suite of software as a service (SaaS) analytics technologies.
-	['', 'data analytic', ' ', 'analytic technology', ' ', 'cloud based portal', ' ', 'data analytic portal', '']
-Zettics
-	Provider of mobile analytic and measurement applications. The company offers a monitoring and analytics tool that enables real-time visibility and analytic across web, video and messaging applications.
-	['', 'data analytic', ' ', 'measurement application', ' ', 'analytics tool', '']
-Cataphora
-	Developer of data mining technologies. The company develops software technologies for finding patterns and anomalies in digital communications.
-	['analytics investigation ', 'behavioral modeling', '']
-Cetas Software
-	Developer of cloud-based business analytics service. The company provides real-time analytics that help business users gain insights and visibility into their customer/audience behavior.
-	['', 'cloud computing', ' ', 'business analytic service', ' ', 'real-time analytic', ' ', 'customer behavior', ' ', 'audience behavior', '']
-Spotfire
-	Provider of interactive, visual data analytics applications and services. The company\'s analytic application, offers an interactive, visual approach to data analysis that empowers individuals to see trends, patterns, outliers and unanticipated relationships in data.
-	['', 'data analysis', ' ', 'visual data analytics', ' ', 'analytics application', '']
-MarketYze
-	Provider of an e-commerce market intelligence data to online retailers. The company offers a cloud-based platform that tracks and analyzes product prices across competitors to provide retailers with the pricing data and analytics.
-	['', 'market intelligence', ' ', 'online retailers', ' ', 'pricing data', '']
-Metanautix
-	Provider of big data analytics software. The company builds big data analytics systems for large enterprises.
-	['', 'Big data', ' ', 'analytic service', ' ', 'data analystics system', '']
-RightsCube
-	Provider of a data and analytics platform for publishers. The company provides actionable insights, data and feedback to the book publishers about their market, customers and retail partners. It also provides a standardized source for all of the world\'s film and TV rights information.
-	['', 'analytics platform', ' ', 'data platform', ' ', 'publishers platform', ' ', 'retailer auditing', ' ', 'film rights information', '']
-RapidEngines
-	Provider of online platform for application analytics and baseline anomaly detection. The company enables to tag users application data to monitor and baseline the metrics, as well as provides customers with tools to create or configure plugins and creates analytic dashboards.
-	['', 'online platform', ' ', 'baseline anomaly detection', ' ', 'configure plugin', ' ', 'analytic dashboard', '']
-Katkar Flink
-	Provider of a platform that provides online sale information to customers. The company provides data analytics to help online shoppers discover deals.
-	['', 'retailing service', ' ', 'online sale information', ' ', 'data analytics', '']
-Signal Data
-	Provider of proprietary retail analytic software platform. The company offers analytic, operational data and mapping analysis to assess the quality of U.S.-based retailers locations on a comprehensive and updated basis.
-	['', 'analytic software platform', ' ', 'mapping analysis', ' ', 'analytic platform', ' ', 'data analytic software', '']
-Bigfoot Interactive
-	Developer and provider of marketing analytic tools. The company provides market data, market analytic and strategy, social campaign and email plans as marketing tools.
-	['']
-GraphDive
-	Provider of a data analytic and personalization platform. The company provides online businesses with integrated social data from platforms such as Facebook to deliver insights into their users\' top interests and key demographic data- age, education, income and relationship status.
-	['', 'social data', ' ', 'e-commerce service', ' ', 'e-commerce content', ' API ', 'social API', ' ', 'data analysis', '']
+Enfocus
+	Developer of portable document format software. The company specializes in the development of tools to control the quality of PDF files for print and to automate workflow processes in the graphic arts industry.
+	['format ', 'PDF files', ' ', 'graphic arts', '']
+Bluebeam Software
+	Developer of software for paperless workflows that leverages the PDF format. The company provides a platform for desktop and tablet users to create, view, markup, and edit PDF files. The company provides Bluebeam PDF Revu Standard Edition, a PDF solution for use in MS Office, Windows, and tablet PCs; Bluebeam PDF Revu CAD Edition, a professional PDF solution for use in AutoCAD, SolidWorks, and Windows; Bluebeam Conversion Server, a server-based software solution for companies to centrally control PDF creation from source files; and Studio, a solution for digitally collaborating on PDF drawings and documents in real-time.
+	['', 'collaboration software', ' pdf ', 'pdf format', '']

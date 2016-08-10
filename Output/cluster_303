@@ -1,24 +1,27 @@
-Concurrent Thinking
-	Provider of computing systems and software. The company is involved in designing and implementation of large-scale computing infrastructures and software including cluster integration and monitoring software and services.
-	['', 'High Performance Computing', ' ', 'cluster management', 'supercomputing', 'Data Centre', '']
-Levanta
-	Provider of linux systems management, systems provisioning and software deployment to address management challenges at the operating system level, delivering dramatically faster and more flexible systems management and provisioning.
-	['', 'address management', ' ', 'systems management', ' ', 'technology investment', '']
-Cloud.com
-	Provider of open source software solutions for enterprises and service providers. The company offers an open source software solution that accelerates the deployment, management, and configuration of multi-tier and multi-tenant infrastructure cloud services. The company also provides subscription services, which include technical support, training courses, and knowledge base access, as well as security updates, patches, and bug fixes.
-	['', 'open source', ' ', 'software solution', ' ', 'cloud service', ' ', 'bug fixing', ' ', 'security update', ' ', 'technical support', '']
-AdBrite
-	Provider of an advertisement exchange platform. The company helps advertisers and publishers for selection and control by providing site-level transparency, display and video capabilities and an open platform for data providers and real-time bidders.
-	['', 'Internet advertisement', ' ', 'open source platform', ' ', 'web marketing', ' ', 'advertisement exchange', ' ', 'advertisement network', '']
-Securent
-	Provider of entitlement management solutions. The company’s Entitlement Management Solution (EMS), is an XACML-based solution, which allows organizations to administer, enforce, review, and audit fine-grained access policies across heterogeneous application and information technology environments distributed in the enterprise with centralized management and visibility.
-	['', 'entitlement management solution', ' ', 'content management', ' ', 'software solution', ' ', 'digital rights management', '']
-Mandriva
-	Provider of enterprise free software products and solutions to the professional market. The company develops and distributes Linux globally. The company also provides server products and open source I.T infrastructure management solutions.
-	['Linux ', 'Open Source', ' freeware']
-Qlusters
-	Developer of linux-based enterprise cluster management software. The company provides open-source systems management solution for software provisioning and managing virtual environments.
-	['', 'cluster management software', ' ', 'open-source system', ' ', 'data center technology', '']
-SourceLabs (Certain Assets)
-	Provider of support and management tools for Linux and open source software. The company offers a software platform designed to manage petabytes of information across large geographic locations.
-	['', 'Linux support tool', ' ', 'linux management tool', ' ', 'open source software', ' ', 'information management', '']
+Agouron Pharmaceuticals
+	Developer of therapeutic products to treat cancer and AIDS. The company engages in the discovery, development and commercialization of drugs for treatment of cancer, viral diseases and diseases of the eye.
+	['biomedical pharmacology immunogenetics']
+ImmunoTheragnostics Incorporated
+	Developer of therapeutic and prognostic equipments. The company engages in research, development and commercialization of exosome-based clinical diagnostic arrays for women\'s health as well as for cardiovascular diseases and cancer.
+	['', 'prognostic equipment', ' ', 'diagnostic assays', ' ', 'cancer prevention', ' ', 'response monitoring', '']
+Arcxis Biotechnologies
+	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
+	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
+Allergene
+	Developer of products for diseases relating to immune system dysfunction. The company provides treatment of diseases that affect the immune system, ranging from allergies to AIDS.
+	['nontoxic alternative modification']
+Okapi Sciences
+	Developer of drugs to treat viral infections for both pets and livestock. The company engages itself in the research, development, promotion and marketing of anti-viral drugs for veterinary applications.
+	['', 'viral infection', ' livestock ', 'veterinary application', '']
+Twinstrand Therapeutics
+	Operator of biopharmaceutical company. The company engages in the discovery, development and commercialization of biological drugs for the treatment of life threatening diseases.
+	['', 'biological drugs', ' cancer']
+Nucleonics
+	Provider of biotechnology services. The company is engaged in the development of novel RNA interference-based therapeutics for viral and other diseases.
+	['', 'therapeutic products', ' ', 'biotechnology services', ' ', 'viral diseases', '']
+Cantab Pharmaceuticals
+	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
+	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
+Xcyte Therapies
+	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
+	['', 'drug discovery', '']

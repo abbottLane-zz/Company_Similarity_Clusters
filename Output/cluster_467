@@ -1,21 +1,12 @@
-My New Financial Advisor
-	Operator of an online wealth management company. The company focuses on portfolio analysis, growing nation-wide network of financial advisers and institutional passive money management.
-	['', 'online wealth management', ' ', 'portfolio analysis', ' ', 'money management', '']
-New Resource Bank
-	Provider of banking products and services to small to middle-size businesses. The company products include checking accounts, savings accounts, money market accounts and certificates of deposit, as well as attorney client trust accounts and solar certificates of deposit.
-	['', 'banking products', ' ', 'checking accounts', ' ', 'savings account', ' ', 'financial returns', '']
-FICS Group
-	Provider of an internet based application for the financial services industry. The company provides java-based corporate electronic banking and central bank reporting software.
-	['', 'smart card development', ' ', 'online transaction', ' ', 'fund transfer', '']
-Xiring
-	Provider of security services for remote transactions. The company offers software embedded terminals, smart card readers and electronic signature in banking, healthcare and transportation markets. The company also provides services for banks to authenticate online customers and secure remote banking activities.
-	['', 'remote transactions', ' banking ', 'transportation markets', '']
-Magnet Communications
-	Provider of online banking for visionary financial institutions. The company provides retail and commercial Internet banking, electronic bill payment and presentment, e-commerce portal technology, wireless channel delivery, advanced targeted marketing, website development and maintenance, as well as online and call center lending services.
-	['', 'online banking', ' e-commerce ', 'call center', ' ', 'virtual banking software products', '']
-Access National Bank
-	Provides banking and financial services to emerging businesses. The company offers business banking services, including deposit products, such as checking, savings and treasury management, lending products that include loans and lines of credit and treasury management services.
-	['', 'financial service', ' ', 'treasury management service', ' ', 'business banking service', '']
-Carolina Alliance Bank
-	Operator of a bank. The company caters in the financial industry and provides business and personal banking products and services as well as wealth management services.
-	['', 'online banking', ' ', 'commercial services', ' ', 'banking business', '']
+Applied Spine Technologies
+	Developer of spine stabilization systems. The company develops Stabilimax Dynamic Spine Stabilization System, a posterior dynamic stabilization device to support an injured or degenerated spine without eliminating motion.
+	['', 'spine stabilization system', ' ', 'stabilization device', ' ', 'degenerated spine', ' ', 'eliminating motion', '']
+Spinelab
+	Developer of a pedicle screw based posterior motion preservation system for thoracolumbar spine. The company develops second generation pedicle screw-based Dynamic Stabilization Systems as well as distributes Elaspine.
+	['spine ', 'preservation system', ' ', 'posterior motion', '']
+Globus Medical
+	Manufacturer of spinal implants and spine surgery products. The company\'s products include anterior cervical plating, occipito-cervico-thoracic stabilization, thoracolumbar stabilization, posterior stabilization, anterior staple, reduction screw, lateral thoracolumbar, anterior lumbar plate, minimal access retractor and interspinous spacer systems.
+	['', 'surgery device', ' ', 'spinal implant', ' ', 'spine injury', ' ', 'posterior stabilization', ' ', 'lateral thoracolumbar', '']
+Exos (United States)
+	Developer of thermoformable external musculoskeletal stabilization systems. The company offers short thumb spica, extended short thumb spica, long thumb spica, short arm fracture brace and thumb spica fracture brace.
+	['', 'thumb spica', ' ', 'stabilization systems', ' musculoskeletal']
