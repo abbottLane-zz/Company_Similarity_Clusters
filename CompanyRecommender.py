@@ -19,6 +19,7 @@ class CompanyRecommender:
         self.__initialize_clusters()
 
     def __initialize_clusters(self):
+        print("Initializing clusters, this takes a few seconds ...")
         # Load the data
         self.companies, self.descriptions, self.company_idx_map = load_data(self.data_dir, has_header=True)
 
