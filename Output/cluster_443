@@ -1,57 +1,30 @@
-Gazoontite
-	Provider of household products. The company provides products that help reduce asthma problems, allergies and respiratory problems. The company\'s products include anti-allergen and hypoallergenic bedding, air purifiers, vacuum cleaners, bath and beauty products, toys, dust control products, odor control products and asthma management products.
-	['', 'household products', ' hypoallergenic ', 'cleaning product', '']
-Support Technologies
-	Manufacturer of automatic computer test equipment for use by firms designing, servicing and manufacturing electronic-based products. The company\'s products consisted of ROM emulator and diagnostic tester.
-	['', 'computer equipment', ' ', 'electronic products', ' ', 'test equipment', '']
-Amsco International
-	Manufacturer and supplier of sterilization products. The company manufactures sterilization systems, surgical tables and lights, and related infections prevention products and services for the healthcare and scientific markets.
-	['', 'sterilization product', ' ', 'health care industry', ' ', 'technology platform', '']
-Genetics Institute
-	Developer of pharmaceutical products. The firm developed pharmaceuticals based on leading edge functional genomics technologies and proprietary disease models to treat a wide variety of human disease conditions.
-	['biopharmaceuticals']
-Educational Holdings
-	Provider of educational products. The company\'s products are designed to provide and promote science and math education as well as reading literacy for children in PreK through 3rd grade.
-	['', 'educational products', ' math ', 'reading literacy', '']
-Ilypsa
-	Developer of renal care pharmaceutical products. The company develops non-absorbed polymeric phosphate and potassium binder compounds to treat chronic kidney diseases.
-	['', 'renal care', ' ', 'kidney disease treatment', ' ', 'healthcare industry', '']
-Reliant Pharmaceuticals
-	Developer of cardiovascular therapies. The company acquires and develops branded pharmaceutical products, as well as potential pharmaceutical products in mid- to late-stage clinical development for drug delivery technologies and formulation advancements.
-	['cardiovascular ', 'cardiovascular therapies', '']
-Collplant
-	Produces recombinant human collagen from tobacco plants. The company produces sells collagen-based products in medical devices, cosmetics and pharmaceutical products.
-	['', 'medical device', ' ', 'collagen pharmaceutical product', ' cosmetic']
-Outinens Potatis
-	Provider of potato products. The company provides pre-cooked and related potato products that are grown with minimal pesticide usage.
-	['potatoes ', 'clean food', ' ', 'potato production', '']
-InnoPharma
-	Developer of complex generic and innovative specialty pharmaceutical/bio-pharmaceutical products in injectable and ophthalmic dosage forms. The company has a broad portfolio of products under development, with formulations including, suspension, lyophilized, emulsions, liposomes, micelles and lipid complexes.
-	['', 'medical product', ' ', 'drug development', ' ', 'bio pharmaceutical product', ' ', 'medical drug research', ' ', 'sterile injectable product', ' ', 'sterile products', ' injectable ophthalmic']
-Nortel Networks
-	Manufacturer of networking products. The company is a manufacturer of equipment for telecommunications and data networking.
-	['', 'networking equipment', '  ', 'data networking equipment', ' ', 'cable operators', '']
-Scandinavian BioPharma
-	Developer of pharmaceutical  products such as vaccines and immunoglobulins. The company mainly focuses on development of a new oral traveler’s diarrhea vaccine. The company is currently developing a pharmaceutical  product for the treatment of mild to moderate psoriasis.
-	['vaccines immunoglobins ', 'diarrhea vaccine', '']
-Pentland Systems
-	Provider of signal acquisition technology and products. The company offers analog input/output, sigma delta, synchro and resolver modules which are complemented by digital input/output and relay products to form a comprehensive range of system ready, COTS, I/O products. The company also provides analog-acquisition and reconstruction products for sonar, radar, signal intelligence and software-defined radio applications in the aerospace and defense markets.
-	['', 'sonar product', ' ', 'signal intelligence', ' ', 'analog signal', ' ', 'radar product', ' ', 'embedded computing', ' ', 'digital input/output', ' ', 'relay product', '']
-Takumi Technology
-	Provider of design for manufacturability (DFM) products. The company engages in designing products that a easy to manufacture. The company also provides mask detection and automated full chip semiconductors.
-	['', 'design for manufacturing', ' ', 'semiconductor devices', ' ', 'electronic products', '']
-C M & D Pharma
-	Manufacturer of pharmaceutical products. The company\'s pharma products are fostrap, recoclix, eviendep, ossulin and silsos.
-	['', 'pharmaceutical product', ' ', 'healthcare market', '']
-ViroChem Pharma
-	Developer and producer of the drugs and pharmaceutical products for viral disease. The company manufacture, develop and produce the medicine products for viral infection, Hepatitis C (HCV) and human immunodeficiency virus (HIV).
-	['', 'pharmaceutical product', ' ', 'drug research', ' ', 'human immunodeficiency virus', '']
-Proteon Networks
-	Provider of internet access and LAN products. The company markets the products of OpenROUTE Networks.
-	['', 'internet access', ' ', 'LAN products', '']
-eDEV
-	Developer of drug. The company operates as a structured finance portfolio company developing an approved drug for three additional follow-on indications in collaboration with a pharmaceutical partner. eDev is a special purpose vehicle that has entered into an R&D project financing relationship with an undisclosed pharma company to finance multiple Phase 3 clinical trials for additional indications of an already-approved drug.
-	['', 'Drug Developer', ' ', 'Finance Portfolio', '']
-Hanza
-	Manufacturer of industrial products. The company provides mechanical, electronics, cable harnesses and final assembly products for industrial uses.
-	['', 'industrial product', ' ', 'assembly product', ' ', 'cable harness', '']
+Portaga
+	Provider of an online tool for booking business travel. The company also provides business travel booking and management platform in partnership with air, car and hotel companies, as well as with software-as-a-service and other web distribution partners.
+	['', 'travel services', ' ', 'online business', ' ', 'hotel booking', '']
+OnTrade Networks
+	Provider of a business-to-business lead and deal-generation platform for the travel industry. The company operates as an online marketplace, matching buyer deal requests with its database of hospitality-industry suppliers. The company\'s function is to streamline hotel relationships with buyers.
+	['', 'hotel booking', ' ', 'travel booking', ' ', 'leisure online', '']
+SideTour
+	Provider of an online marketplace to book and host local activities. The company provides a curated list of activities, tours and other memorable things to do from pre-screened hosts, which is then marketed to to out-of-town visitors or local consumers wanting to know their city better. The company\'s service is available in select cities in the U.S.
+	['', 'community marketplace', ' ', 'online booking service', ' ', 'hotel booking', ' ', 'peer-to-peer marketplace', ' ', 'curated activities', ' ', 'social marketplace', '']
+Zostel
+	Operator of chain of hostels and low-budget hotels. The company operates a branded chain of backpacker\'s hostels called zostel and offers low-budget hotel accommodations through their booking service Zo Rooms.
+	['', 'accommodation facility', ' ', 'booking service', ' hostel']
+Premier VCT (Dartford)
+	Owner and operator of a hotel. The company owns 12 bedrooms hotel in Dartford.
+	['', 'travel & leisure', ' ', '12 bedrooms', ' ', 'Holiday Inn', '']
+Rocket Travel
+	Provider of a hotel-booking website offering free airline miles as a booking incentive. The company offers an airline-mile stockpiling program, for users making multiple bookings.
+	['', 'hotel booking site', ' ', 'booking hotel room', ' ', 'free vacation', ' ', 'online vacation', ' ', 'hotel booking', ' ', 'frequent flier program', '']
+Active Hotels
+	Operator of an online hotel reservation company. The company operates an online hotel reservation website that links 2,000 smaller and medium-sized hotels in the UK. It creates mutually beneficial partnerships between hoteliers and distribution partners thereby lowering the hotel rates.
+	['', 'hotel booking', ' ', 'online booking', ' ', 'travel and tourism', '']
+FastBooking
+	Provider of online booking and electronic marketing services for the hospitality industry. The company designs and develops hotel websites, online marketing programs, Internet-enabled direct hotel website bookings, online marketing for hotel websites, consumer portals and integration with third-party consumer booking websites.
+	['', 'electronic marketing', ' ', 'internet ticket booking', ' ', 'website development service', ' ', 'marketing program', '']
+Leisurehunt.com
+	Provider of online hotel booking services to the general public and small businesses. The company has positioned itself as a B2B provider of online accommodation services.
+	['', 'online hotel booking', ' holiday ', 'resort booking', ' travel ', 'holiday package', ' ', 'travel booking', '']
+Vamo Labs
+	Provider of online travel planning. The company offers a website enabling users to book a full vacation or business trip online.
+	['', 'online hotel reservation', ' ', 'travel and tourism', ' ', 'flight booking', '']

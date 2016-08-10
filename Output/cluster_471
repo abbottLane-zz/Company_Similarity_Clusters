@@ -1,21 +1,39 @@
-Net.Genesis
-	Provider of software and services that empower companies to understand, optimize and accelerate their online businesses. The company\'s flagship product, net.Analysis, is a Web site analysis solution, offering analytical power, reporting, scalability and enterprise support.
-	['', 'online business', ' ', 'enterprise support', ' ', 'website analysis', '']
-Activplant
-	Provider of performance management application software services. The company provides software tools, analytics and reports to manufacturers, as well as integrates data with existing business systems and applications, such as statistical process control, quality measurement, enterprise resource planning, reporting packages, Web browsers and wireless pagers.
-	['', 'management application', ' ', 'software tool', ' ', 'statistical process control', ' ', 'quality measurement', ' ', 'wireless pager', '']
-OutlookSoft
-	Provider of performance management solution. The company\'s flagship solution, OutlookSoft 5, provides a single performance management platform for strategic planning, budgeting, forecasting, statutory consolidation, reporting, analysis, predictive analytics, scorecarding, and dashboards. It also delivers related consulting, training, implementation, and ongoing product/client support services.
-	['', 'performance management solution', ' ', 'flagship solution', ' ', 'performance management platform', '']
-2Catalyze
-	Provider of social performance management platform. The company offers personal feedback, decision support, customer engagement, rapid peer reviews, team feedback, quick pulse, integration, consulting, live support, analytics, configuration tools and team activation services. It serves employees, consultants, managers, executives and educators, as well as teams, companies and academic/non-profits.
-	['', 'performance management', ' ', 'employee feedback', ' ', 'employee review', ' ', 'employee benchmarking', '']
-Cartesis
-	Provider of Business Performance Management (BPM) software. The company provides solutions in the field of financial consolidation and reporting, planning, budgeting and forecasting, management reporting and analysis and comprehensive business performance management.
-	['', 'business software', ' ', 'financial software', ' ', 'information delivery', ' ', 'performance management', '']
-Exony
-	Provider of customer interaction performance management and optimization to enterprises and service providers internationally. The company offers VIM Performance, an integrated platform to drive productivity across various aspects of virtualized customer contact. It’s VIM Performance includes VIM Analytics, a single platform for day-to-day self-serve operational reporting and OLAP-based analytics to measure contact center performance, VIM Performance Management, which offers a closed loop performance management and process automation capability, VIM Resource Management, an application that allows business users to enhance the VCC’s performance without third-party training or assistance, VIM Service Management, which allows supervisors to change specific agent resources, VIM Mediator, which delivers deeper insight into business data by bringing together fact data from various data sources to enable sophisticated analytical reporting and VIM Virtualization Framework, which brings together distributed operations, management, infrastructure components and resource layers to provide scalability, security and collaboration required by distributed contact operations. It also provides insight, implementation, knowledge and support services.
-	['', 'performance management', ' ', 'customer interaction', ' ', 'customer performance optimization', '']
-AS-Groupe
-	Provider of corporate performance management software. The company offers corporate planning, controlling, reporting, and services to various organizations.
-	['', 'corporate software', ' ', 'corporate planning', ' ', 'software services', '']
+Interland
+	Provider of web hosting services to small and medium sized businesses. The company provides web hosting, application hosting and other web-based business solutions.
+	['', 'web hosting', ' ', 'application hosting', ' ', 'electronic commerce', '']
+Bigstep.com
+	Provider of hosting services for business and e-commerce Web sites. The company offers Web site design and promotion, marketing and reporting, e-commerce and customer support services, as well as communication tools.
+	['', 'hosting service', ' ', 'website design', ' ', 'customer support service', '']
+Multipath Networks
+	Provider of wireless network services. The company provides services which include high-speed fixed wireless internet, network design, network administration, web site development, web hosting and tower construction.
+	['', 'fixed wireless internet', ' ', 'network administration', ' ', 'web hosting', '']
+Fluxus
+	Designer of internet applications. The company provides website hosting and monitoring including database management, operation, application sharing and security management services.
+	['', 'web hosting', ' ', 'internet application', ' ', 'database management', ' ', 'monitoring services', ' ', 'security services', '']
+Agiliti
+	Provider of information technology services. The company offers services that helps companies reduce costs, reduce risks and improve the reliability of their systems, networks and applications. It helps enterprises of all sizes achieve better IT performance through a modular suite of outsourced hosting and IT services.
+	['', 'rentable software applications', ' ', 'hosting services', ' ', 'internet connection', ' ', 'enterprise hosting', '']
+Extensity
+	Provider of financial and operational solutions. The company operates in two segments, Enterprise Application Systems and Industry Specific Applications. It also resells computer hardware and software, and provides various professional services, including application hosting, consulting, implementation services, and training.
+	['', 'enterprise application systems', ' ', 'application hosting', ' ', 'IT implementation', '']
+Gravatar
+	Provides hosting and web serving for 80x80 avatars.
+	['Avatar ', 'content management system', ' ', 'blog software', ' ', 'web serving', '']
+WebPartner
+	Provider of web based services to online stores. The company\'s software enables business managers to monitor and benchmark the performance of their online stores. It also sells its application services to small to mid-sized businesses.
+	['']
+NetPodium
+	Provider of software and services for hosting live, interactive Web events. The company\'s technology and event hosting service helped companies to involve global audiences in sales training, product launches, press conferences, technical briefings and customer seminars.
+	['', 'web hosting', ' ', 'sales training', ' ', 'product launch', '']
+GeoCities
+	Provider of a web hosting service. The site allowes users to select a "city" in which to place their web pages and the "cities" are named after real cities or regions according to their content.
+	['', 'web hosting service', ' ', 'web directory', ' ', 'internet archive', '']
+HarvardNet
+	Provider of broadband communication and content hosting services. The company\'s services include Web hosting and collocation services, business-class digital subscriber line (DSL) service and broadband virtual private network (VPN) solutions.
+	['broadband VPN DSL']
+Protie
+	Provider of information technology enabled services. The company provides outsourcing, hosting and architecture services primarily to Finnish corporations.
+	['', 'network services', ' hosting virtualization']
+TuVox
+	Provider of on demand speech and interactive voice response hosting applications. The company also offers on demand hosting, managed, design center, development and CTI integration, support and maintenance, and training services.
+	['', 'demand speech', ' ', 'interactive voice application', ' ', 'voice response hosting', ' ', 'voice hosting application', '']

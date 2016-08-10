@@ -1,30 +1,12 @@
-Indeed
-	Provider of an online job searching portal. The company acts as an external source of hiring and an employer review site.
-	['', 'online search engine', ' ', 'job searching portal', ' ', 'hiring source', ' ', 'employer review site', '']
-Metirato
-	Operator of a social recruiting media. The company provides tools that helps job seekers to upload their profile and employers can find the candidates that match their profile best.
-	['', 'social recruiting media', ' ', 'job search', ' ', 'recruitment services', '']
-Joblocal
-	Provider of an online platform for staffing and recruiting services. The company provides a mobile and smart phone application that aggregates local and regional job listings in Germany. The product functions as a marketing and human resources tool for employers, in addition to an information source for job seekers.
-	['', 'business services', ' ', 'recruiting service', ' ', 'staffing and recruiting', '']
-CodeEval
-	Provider of a technical screening platform for the auto evaluation of programming challenges. The company enables employers to identify promising candidates from a crowd of applicants by creating challenges and viewing their live coding submissions and helps freelancers/developers to sharpen their skills by competing with their peers.
-	['', 'hacker platform', ' ', 'recruit developer', ' ', 'technical screening', '']
-GroupTalent
-	Provider of a hiring platform that brings together talent and employers. The company aims to connect job-seekers and employers with each other’s preferences creating a relevant hiring experience.
-	['', 'hiring marketplace', ' ', 'job matching', ' ', 'software project hiring', ' ', 'software marketplace', ' recruiting']
-JobFlash
-	Provider of hiring solutions for hourly and managerial employees. The company offers IVR technology and candidate scheduling services for restaurants, window cleaners, manufacturers, hotels, casinos, retail stores, and hospitality.
-	['', 'hiring solution', ' ', 'managerial employee', ' ', 'ivr technology', ' ', 'employee service', ' ', 'candidate service', '']
-itzBig
-	Operator of an interactive job search website. The company provides an interactive job search website that matches employers and candidates in real-time.
-	['', 'online job search', ' ', 'online recruitment', ' ', 'interactive job search', '']
-Work For Pie
-	Developer of software for the visualization of programmer skills. The company allows software developers and other technically oriented talent to create a showcase of their relevant skills, real work product and quantifiable experience.
-	['', 'quantifiable talent', '  ', 'pie representation', ' technically oriented talent']
-ZIV COMMUNICATIONS DIMAT
-	Developer and manufacturer of communication equipment for the electrical and switching equipment for private networks. The company aims to implement communication networks and operations to the electricity sector.
-	['', 'communication equipment', ' ', 'switching equipment', ' ', 'electricity sector', ' ', 'private network', '']
-TalentSpring
-	Provider of software as a service-based automated candidate sourcing services and solutions for recruiters and human resources professionals in the recruiter industry. The company enables recruiters and hiring managers to find resumes for passive and active candidates on social networking sites, job boards, and corporate application tracking systems utilizing semantic-search technology and a revolutionary resume-ranking algorithm.
-	['', 'resume search engine', ' ', 'candidate sourcing service', ' ', 'recruitment solutionl', '']
+iSpeak
+	Provider of translation and localization services. The company offers document, website and email translation services to clients. It serves all corporate, NGO, government entities.
+	['Ecommerce translation translator']
+SDL
+	Provider of language translation services.
+	['']
+Amazon Machine Translation R&D Group
+	Provider of automated language translation and localization software to global enterprises. The company provides enterprise grade machine translation (MT) services.
+	['', 'language translation', ' ', 'machine translation', ' ', 'translation software', '']
+RedHawk Communications
+	Provider of corporate ethics, compliance training and communications services. The company\'s services include code of conduct assessments, writing and design; online ethics learning modules; supporting ethics communication awareness tools and programs; worldwide translation and localization capabilities; instructor-led ethics training and other services focused on corporate ethics, compliance and creating ethical culture.
+	['', 'corporate ethic', ' ', 'compliance training', ' ', 'communications service', '']

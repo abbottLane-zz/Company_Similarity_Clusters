@@ -1,18 +1,9 @@
-NanoVasc
-	Operator of a medical device company. The company designs and manufactures bio mimetic materials that are non-thrombogenic, durable and demonstrate long-term patency. The company uses an electrospinning process to manufacture scaffolds in a multitude of shapes and sizes, and then application-specific modifications are applied to the scaffolds surface in order to achieve desired results. These specific modifications are designed to optimize the devices outcome based on its delivery location. The company\'s first product is a synthetic vascular graft for hemodialysis access.
-	['', 'biomimetic material', ' ', 'electrospinning process', ' scaffold ', 'synthetic vascular graft', ' ', 'hemodialysis access', '']
-L.G. Med
-	Developer of a passive non invasive extravasation patch detector. The company\'s device identifies the rate at which intravenous medication is delivered to patients and will alert medical professional with an alarm and stop the flow of medication should there be an error.
-	['', 'intravenous site', ' ', 'non invasive', ' ', 'non invasive', '']
-AiMedics
-	Operator of a medical device company. The company develops HypoMon system, a non-invasive alarm system that identifies sleep-time hypoglycaemia in children and young adults.
-	['HypoMon ', 'non-invasive', ' hypoglycaemia']
-Biometrix
-	Operator of a medical device company. The company provides medical devices for intensive care, surgery and interventional cardiology.
-	['', 'critical care products', ' ', 'thoracic catheters', ' ', 'urology products', ' ', 'ophthalmic surgery drapes', ' cardiology']
-Exogen ( Ultrasound Bone Healing System )
-	Developer of medical devices for the non-invasive treatment of bone injury and disease. The company focuses on the biophysical modulation and treatment of musculoskeletal injuries and disease.
-	['', 'medical devices', ' ', 'non invasive treatment', ' ', 'bone injury', ' ', 'biophysical modulation', ' ', 'musculoskeletal injuries', '']
-Encapsule Medical
-	Operator of a medical device company. The company focuses on the development of disposable, non-invasive, breast biopsy devices. Its products include Flash, Halo and Phantom.
-	['', 'breast cancer', ' biopsy ', 'breast biopsy', '']
+ClipSync
+	Developer of an interactive social TV platform. The company’s platform allows users to repurpose existing content for social consumption, drive viral traffic to social applications, and serve interactive advertisements for traditional and group consumption through its hosted and managed solution. Its platform also allows publishers to leverage their content and viewers by providing social applications with advertising.
+	['', 'TV platform', ' ', 'social consumption', ' ', 'social application', ' ', 'interactive advertisement', ' ', 'managed solution', '']
+One did it
+	Provider of online information relating to sustainable consumption. The company provides a ecological backpack calculator, which consumers can use to calculate the amount of natural resources they consume.
+	['', 'sustainable consumption', ' ', 'natural resource consumption', ' ecological']
+Formative Labs
+	Provider of social applications connected to real world actions. The company provides information to consumers on energy consumption habits.
+	['', 'social application', ' ', 'energy consumption', ' ', 'social behavior', '']

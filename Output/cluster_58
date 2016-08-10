@@ -1,27 +1,33 @@
-Target 250
-	Provider of performance based outbound sales services to technology and communications companies. The company offers services including appointment setting, account setting profiling, channel enablement, prospecting workshops and data services to technology firms.
-	['', 'outbound sales service', ' ', 'technology service', ' ', 'data service', '']
-Wireless Info Tech
-	Provider of testing and compliance certification services. The company offers global field testing services, such as voice call services in mixed and marginal signal areas; data services; and CDG3 services, including system acquisition, SMS, calling features, handoff, and DTMF tests. It also provides manufacturing and production software and applications testing and development services; wireless reference design services, including form factor and production ready services; and product testing services.
-	['', 'testing and compliance certification service', ' ', 'global field testing service', ' ', 'applications testing', ' ', 'manufacturing and production software', ' ', 'wireless reference design service', ' ', 'product testing service', '']
-Sogeti
-	Provider of technology and software testing services. The company provides software control testing, applications management, infrastructure management, high technology engineering/global engineering, business intelligence and analytics, mobile/Omni-channel, security and cloud services.
-	['', 'software testing', ' ', 'software control testing', ' ', 'application management', '']
-RelQ Software
-	Provider of softrware testing services. The company offers real-time and embedded applications testing, including mission critical software testing, for clients looking to deploy applications across the enterprise.
-	['', 'functional testing', ' ', 'competitive advantage', ' ', 'business applications', '']
-Tektagen
-	Provider of quality control testing and consulting services to the biotechnology and pharmaceutical industries. The company provides biosafety and bioanalytical testing services.
-	['', 'quality control', ' ', 'bioanalytical testing services', ' biotechnology']
-SciCor
-	Provider of laboratory testing services. The company provides laboratory testing services and related data processing support to the US pharmaceutical industry. Its research data was used to prepare clinical submissions to the Food & Drug Administration (FDA) for approval to market new drugs.
-	['', 'laboratory testing service', ' ', 'drug testing', ' ', 'drug invention', '']
-Content Critical
-	Provider of content management, transaction processing and custom middleware technologies. The company provides compliance messaging and reporting solutions, such as composition and rendering solutions for institutions that require distribution of compliance documents. It also provides professional services, such as programming and development, Web development, graphic design and prepress; production services, including digital print, wide format output, mailing and fulfillment, commercial print and binding and finishing; and online support and client services.
-	['', 'compliance messaging', ' ', 'graphic design', ' ', 'digital printing', '']
-RedPath Integrated Pathology
-	Provider of support services for oncology cases. The company operates as a reference laboratory and serves pathologists, clinicians and patients. It offers PathFinderTG, a testing platform for resolving diagnoses from the original pathology specimen.
-	['', 'oncology case', ' ', 'reference laboratory', ' ', 'diagnostic platform', '']
-Catapult Genetics
-	Developer and provider of a Deoxyribonucleic Acid (DNA) testing services. The company provides commercializes livestock Deoxyribonucleic Acid (DNA) tests to improve meat production and quality to increase production efficiency both on-farm and in the value chain for global livestock and aquaculture industries.
-	['', 'genetic testing', ' ', 'livestock testing', ' ', 'commercial breeder', '']
+GoInstant
+	Developer of shared web-browsing tool. The company\'s unique co-browsing tool allows two or more people to surf the web at the same time with no downloads, plugins or installs. It helps to share a web experience in real- time.
+	['', 'shared web browsing', ' plugin ', 'web experience', ' ', 'browsing tool', ' ', 'web browsing', '']
+Hunch
+	Operator of a decision-making site that customizes decision results for the user.
+	['', 'decision making', ' ', 'customized web browsing', ' ', 'machine learning', ' ', 'browser learning', ' ', 'browser recommendations', ' ', 'custom browsing', ' ', 'personal recommendations', '']
+Groxis
+	Developer of visual search technology and graphical information interface solutions. The company develops and markets Grokker, a Web-based enterprise search management platform that leverages federated content access and visualization for enterprises, universities, content publishers, libraries, and other research-intensive organizations.
+	['', 'visual search', ' ', 'search management', ' ', 'graphical information', '']
+Vivisimo
+	Provider of enterprise search software solutions to OEM and reseller markets. The companies search solutions are used on corporate and governmental Web sites, enterprise intranets and departments, and in government intelligence agencies.
+	['', 'search software', ' ', 'reseller market', ' ', 'search solution', ' ', 'information management', ' ', 'security management', ' ', 'navigation software', '']
+Eurekster
+	Provider of social search software services and technologies. The company\'s search portal and widget harness the knowledge and behavior of online communities to improve the search experience and creating online assets for Web publishers, infopreneurs and advertising inventory for marketers.
+	['', 'social search software', ' ', 'online community', ' ', 'customized search', '']
+Accelerator Sciences
+	Provider of a search platform for entire suite of science resources. The company offers a search gateway which includes research & development results, project descriptions and accomplishments.
+	['', 'search platform', ' ', 'search gateway', ' ', 'science information', '']
+Exalead
+	Provider of a search software for business and the web. The company provides a unified search technology platform for desktop, intranet or web search which provides users with a single access point to information, regardless of format or location.
+	['data-center ', 'information access platform', ' scalability']
+WiseNut
+	Provider of search engine and Web-browsing services. The company is the developer of a crawler-based search engine and database of indexed Web pages.
+	['', 'search engine technology', ' ', 'web browsing', ' ', 'internet search', '']
+Guruji.com
+	Operator of a crawler-based search engine that identifies Web content for Indian launches and language search. The company\'s search engine is available for PCs and mobile devices and covers a variety of topics, including news, entertainment, travel, astrology, literature, business, and education.
+	['', 'search engine', '']
+Pages Software
+	Provider of web development technologies. The company\'s technology is used in corporate brochure Web sites, online commercial applications, website launching and submission of search engines.
+	['', 'web development', ' ', 'website hosting', ' ', 'search engine', '']
+BigSwerve
+	Operator of a search aggregator for blog comments, which are often omitted in blog searches and roundups. The company\'s crawler aggregates comments, allowing users to follow the comments for a given person and discover new content by seeing where other people are engaged.
+	['', 'search aggregator', ' ', 'blog comment', ' crawler ', 'web crawler', ' ', 'comment aggregator', ' ', 'blog crawler', ' ', 'web spider', ' ', 'blog spider', '']

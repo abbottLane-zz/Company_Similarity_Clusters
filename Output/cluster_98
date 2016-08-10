@@ -1,48 +1,36 @@
-HL-Planartechnik
-	Manufacturer of thin-film metallization processes for the production of sensors. The company manufactures and sells components and subsystems using micro structures on ceramic, glass and silicon chips.
-	['', 'photographic equipment', ' ', 'magnetic fields', ' ', 'thin-film metallization', ' circuit']
-Resonex
-	Manufacturer of magnetic resonance imaging devices. The company manufactures and sells magnetic resonance imaging devices.
-	['', 'magnetic resonance', ' ', 'imaging devices', '']
-Khimaira
-	Supplier of bus seats. The company also manufactures motor vehicle seats, boat seats, special seats as well as upholstery components.
-	['', 'bus seats', ' ', 'boat seats', ' upholstery']
-Medical Device Alliance
-	Manufacturer of orthopaedic healthcare products. The company manufactures and markets devices for body fat removal through liposuction.
-	['arthroscopic orthopaedic']
-Innovasive Devices
-	Manufacturer of surgical devices and instrumentation. The company manufactures devices for sports medicine surgeries, which facilitate the repair of soft tissue injuries in the knees and shoulders.
-	['', 'sports medicine', ' ', 'soft tissue repair', ' ', 'surgical repair', '']
-Enclotek Ready Panels
-	Manufacturer of electrical equipment. The company manufactures control panel boards.
-	['', 'electrical equipment', ' ', 'industrial products', '']
-Dover
-	Manufacturer of industrial equipment and components. The company designs, manufactures and sells a wide range of industrial products for the waste handling, bulk transport, automotive, commercial food service, machine, fluid handling, petroleum, chemical and electronics industries.
-	['', 'refrigeration equipment', ' ', 'food equipment', ' compressors pupmps']
-Équipe Communications
-	Manufacturer of core network switching equipment. The company designs, manufactures and sells markets asynchronous transfer mode and multiprotocol label switching products for the optical network market.
-	['', 'core switch', ' ', 'optical network', ' switching ', 'core network', ' ', 'ATM switches', ' ', 'MPLS switches', '']
-Avalon Photonics
-	Manufacturer of vertical cavity surface emitting lasers (VCSELs). The company manufactures VCSELs for the datacom, sensing and measurement markets. The company also manufactures optical sub-assemblies that are core components in fiberoptic links.
-	['lasers ', 'optical subassemblies', ' ', 'vertical cavity surface emitting lasers', '']
-Lewis Pennicott Design
-	Manufacturer of kitchenware. The company manufactures and sells chopping devices for kitchens.
-	['kitchenware ', 'chopping device', ' ', 'chopping board', '']
-Dino Lift
-	Manufacturer and seller of aerial work platforms. The company manufactures lifts that allows workers to work above ground safely and are sold to more than 40 countries around the world.
-	['', 'lift manufacturing', ' elevator ', 'aerial work platform', '']
-Sealegs
-	Manufacturer of amphibious marine craft. The company designs, manufactures and sells amphibious marine vehicles for recreational as well as professional use, including models built on military specifications.
-	['amphibious marine ', 'recreational boating', ' ', 'rescue missions', '']
-ENTrigue Surgical
-	Manufacturer of medical devices and instrumentation for the surgical treatment. The company manufactures articulating instruments, septal staplers, MTM middle turbinate Medializer and absorbable polymers.
-	['', 'articulating instrument', ' ', 'middle turbinate medializer', ' ', 'absorbable polymer', ' ', 'surgical treatment', '']
-Maison Du Chene
-	Manufacture of kitchen and bathroom from oak wood. The company manufactures and markets wooden kitchens, cupboards, bathrooms and inside doors.
-	['', 'oak wood products', '']
-Accutronics (Electronics)
-	Manufacturer of batteries. The company designs, manufactures and sells batteries for high-performance portable and handheld electronic devices  in the medical and healthcare, defense and security and industrial electronic markets.
-	['', 'power products', ' batteries charger ', 'battery design', '']
-MCNEX Company
-	Manufacturer and developer camera module for mobile phones and automobiles. The company manufactures and sells camera modules, wireless charger products, medical cameras, network cameras and home automation products.
-	['']
+The Marionette Collective
+	Provider of a framework to build server orchestration or parallel job execution systems. The company offers a number of agents to manage packages, services and other common components.
+	['', 'middle ware system', ' ', 'authentication model', ' ', 'meta data', '']
+Toostep Consultancy
+	Developer of an online platform that enables recruiters to promote jobs on social networking sites and search engines. The company operates an online portal that allows users to ask experts questions, debate with each other and gives recruiters the ability to post jobs through search engines and social media.
+	['', 'job search', ' ', 'recruitment portal', ' recruiters']
+Metirato
+	Operator of a social recruiting media. The company provides tools that helps job seekers to upload their profile and employers can find the candidates that match their profile best.
+	['', 'social recruiting media', ' ', 'job search', ' ', 'recruitment services', '']
+ubalo
+	Provider on an online platform for numerical computing. The company provides interactive demos with the power of a full computer running in the user\'s browser.
+	['', 'online platform', ' ', 'numerical computing', ' ', 'interactive demo', '']
+Joblocal
+	Provider of an online platform for staffing and recruiting services. The company provides a mobile and smart phone application that aggregates local and regional job listings in Germany. The product functions as a marketing and human resources tool for employers, in addition to an information source for job seekers.
+	['', 'business services', ' ', 'recruiting service', ' ', 'staffing and recruiting', '']
+InfoJobs Spain
+	Developer of an online job platform. The company provides a digital platform that offers employment information services in Spain.
+	['', 'online job platform', ' ', 'job portal', ' ', 'employment services', '']
+GroupTalent
+	Provider of a hiring platform that brings together talent and employers. The company aims to connect job-seekers and employers with each other’s preferences creating a relevant hiring experience.
+	['', 'hiring marketplace', ' ', 'job matching', ' ', 'software project hiring', ' ', 'software marketplace', ' recruiting']
+itzBig
+	Operator of an interactive job search website. The company provides an interactive job search website that matches employers and candidates in real-time.
+	['', 'online job search', ' ', 'online recruitment', ' ', 'interactive job search', '']
+Talent Plug
+	Developer of software for recruitment professionals. The company offers software to support multi-channel talent acquisition processes.
+	['', 'talent acquisition software', ' ', 'recruitment software', ' ', 'job search', ' ', 'Job Posting', '']
+Connectifier
+	Provider of a platform which connects recruiters to candidates. The company gives recruiters a complete view of prospective job candidates and a way to connect with those candidates.
+	['', 'connecting candidates', ' ', 'online platform', ' ', 'recruitment support', '']
+Collegefeed
+	Developer of a social platform for students and employers. The platform offers a Facebook-like news feed where students can access tuition help, job opportunities, interview-preparation help and access to alumni and mentors. It connects employers with students as they progress through school as opposed to forcing decisions through short interviews, career fairs and campus visits.
+	['', 'job opportunity', ' ', 'job seeking platform', ' ', 'digital platform', '']
+Snaptalent
+	Operator of a job advertisement network. The company\'s network detect the IP addresses of website visitors and attempt to identify whether they work for a particular company or attend a particular university.
+	['', 'job advertisement', ' ', 'IP address detection', ' ', 'job information', ' job']

@@ -1,42 +1,24 @@
-Frontera Films
-	Operator of a film studio. The company produces independent feature films in a range of genres, then turns the finished product over to a film distributor for domestic and international release.
-	['', 'film making', ' ', 'independent films', '']
-TheMarker TV
-	Provider of TV broadcasting services.
-	['', 'broadcasting services', ' ', 'television and media', '']
-ClubCom
-	Provider of television broadcasting services to the health club and gymnasium sector. The company specializes in providing customized audio or video entertainment and proprietary advertising programs to commercial health clubs.
-	['', 'television broadcasting', ' ', 'customized audio', ' ', 'video entertainment', '']
-MoreTV Broadcasting
-	Provider of television broadcasting services. The company operates a 24-hour media service program information and personalized television recommendations via the internet and satellite broadcasting.
-	['', 'television broadcasting', ' ', 'media service', ' ', 'satellite broadcasting', '']
-Beamly
-	Developer of a social television platform. The company has designed and developed a interactive software application which synchronizes mobile devices such as iPads, smartphones and laptops with regular main-screen television sets to deliver an augmented television experience.
-	['', 'connectivity application', ' ', 'interactive software', ' ', 'synchronizing device', ' ', 'television show', ' ', 'advertisement platform', '']
-Ad Valem Technologies
-	Provider of data storage and broadcasting services. The company specializes in the broadcasting and management of audiovisual content via its fiber optics distribution software targeting on TV networks, production companies, internet service providers and rights managers.
-	['', 'data storage', ' ', 'distribution software', ' ', 'production house', '']
-Veo Television
-	Provider of television broadcasting services in Spain.
-	['', 'broadcasting services', ' ', 'television broadcasting', ' ', 'TV broadcasting services', '']
-Grupo Continental Producciones
-	Operator of television programs and cinemas. The company produces audiovisual and digital contents for TV films, advertisements and programs.
-	['', 'television production', ' advertisement ', 'TV show', '']
-Electro Energy
-	Provider of proprietary battery technologies and associated systems.The Company is engaged in the development of energy storage technology, products and related systems through contract research and development for the United States Government and its agencies.
-	['', 'proprietary battery', ' ', 'energy storage technology', ' ', 'bipolar batteries', ' ', 'consumer products', '']
-Lingk & Sturzebecher
-	Manufacturer of lightweight hydraulic cylinders consisting of carbon fiber-reinforced plastics. The company is engaged in the development of composite materials for use in pressurized hydraulic applications in aerospace, mobile and industrial markets.
-	['', 'hydraulic cylinder', ' ', 'carbon fiber reinforced plastics', ' actuator']
-Besunyen Holdings Company
-	Provider of therapeutic tea products in China. The company is engaged in the development, production, sales and marketing of therapeutic tea and other health food products.
-	['', 'brand awareness', ' ', 'food product', ' ', 'laxative products', '']
-Fox Entertainment Group
-	Provider of film entertainment and television broadcasting services. The Company is engaged in the development, production and worldwide distribution of feature films and television programs.
-	['', 'television broadcasting service', ' ', 'film entertainment', ' ', 'television program', '']
-Nucleonics
-	Provider of biotechnology services. The company is engaged in the development of novel RNA interference-based therapeutics for viral and other diseases.
-	['', 'therapeutic products', ' ', 'biotechnology services', ' ', 'viral diseases', '']
-Telcast Media Group
-	Provider of television broadcasting and marketing services. The company operates a television production studio and serves broadcasters in Germany and internationally.
-	['', 'production studio', ' ', 'television distribution', ' 3D']
+Optimax Systems
+	Provider of optical materials to make aspheres, cylinders, spheres. The company manufactures prototype optical components for aerospace, display technologies and solar applications.
+	['cylinderical optics axicon wedges']
+Optiva
+	Developer of self-assembling nanomaterials. The company is engaged in developing and manufacturing self-assembling nanomaterials for use in a wide range of optical, electro-optical and semiconductor applications.
+	['nano-material ', 'self-assembling nanomaterials', ' ', 'electro-optical applications', ' ', 'optical applications', ' ', 'crystal films', ' ', 'semiconductor applications', ' nanomaterials']
+Xtellus
+	Developer of  passive optical components using liquid crystal technology. The company combines manufacturing liquid crystal and fiberoptic technologies to create components and modules for reconfigurable optical networks.
+	['', 'optical component', ' ', 'fiberoptic technology', ' ', 'liquid crystal technology', ' wavelength']
+Avalon Photonics
+	Manufacturer of vertical cavity surface emitting lasers (VCSELs). The company manufactures VCSELs for the datacom, sensing and measurement markets. The company also manufactures optical sub-assemblies that are core components in fiberoptic links.
+	['lasers ', 'optical subassemblies', ' ', 'vertical cavity surface emitting lasers', '']
+Chorum Technologies
+	Developer of optical technology. The company evaluates and develops optical applications for various industries. Through its subsidiary, the company also is a provider of specialized liquid crystal displays and glass for multiple markets.
+	['', 'optical switching', ' ', 'communication equipments', ' ', 'fiberoptic products', '']
+Corona Optical Systems
+	Developer and manufacturer of optoelectronic component and subsystems for carrier class equipment. The company develops parallel optical modules for switching and routing equipment.
+	['', 'optoelectronic component', ' ', 'optical modules', ' fiberoptic']
+Applied Optoelectronics
+	Developer and manufacturer of analog and digital lasers for fiberoptic networking. The company designs, develops and manufactures optical semiconductor devices, packaged optical components, optical subsystems, laser transmitters and fiberoptic transceivers.
+	['', 'fiberoptic network', ' ', 'optical semiconductor', ' transceiver']
+Caliopa
+	Developer of optical transceivers for the data and telecommunication markets. The company is a spin-off of the Photonics Research Group of Ghent University and imec.
+	['', 'optical transceivers', ' ', 'silicon photonics', ' ', 'telecommunication markets', ' ', 'connectivity products', '']

@@ -1,45 +1,21 @@
-Elite Daily
-	Provider of online portal to receive information and original content on subjects created by their peers. The company provides and updates about music, health and beauty, dating, celebrities, travel destinations and culture.
-	['', 'online news', ' ', 'online information portal', ' ', 'cultural news website', '']
-Freshsounds
-	Provider of an online music portal. The company offers an online platform that enables users to search, listen and download music.
-	['', 'online music portal', ' ', 'online music', ' ', 'music download', ' ', 'music search', '']
-Loopport
-	Provider of an online music sample library. The company provides a library of every genre of computer based music to musicians, producers and DJ\'s.
-	['', 'online music', ' ', 'music library', '']
-Ascotfirst.com
-	Owner and operator of an online property portal. The company offers the facility to apply for online quotes, mortgages, conveyancing or removals.
-	['', 'online portal', ' ', 'property portal', ' ', 'real estate website', '']
-Whereonearth
-	Developer of localization technologies. The company offers online location-based services, that enables users to search for local goods and services without entering a zip code or post code.
-	['', 'localization technology', ' ', ' location-based services', ' ', ' location-based app', ' geocoding']
-Eventioz
-	Provider of online ticket sales and services. The company offers an online ticket platform for clients to promote and market events.
-	['', 'event marketing', ' ', 'event promotion', ' ', 'ticket sales', ' ', 'event ticketing', ' ', 'ticket services', ' ', 'ticket marketing', ' tickets']
-Burufly
-	Provider of an online travel portal. The company offers an online platform that enables users to search for places to travel in Indonesia and book hotels and flights.
-	['', 'travel site', ' ', 'travel portal', ' ', 'tour packages', '']
-K-Mobile
-	Provider of an online portal. The company provides an online portal to its customer to download ringtones and games via short messages (SMS).
-	['', 'online portal', ' ', 'download ringtone', ' ', 'download game', '']
-QOBUZ
-	Provider of an online music services platform. The company provides streaming music and offers a growing online catalogue featuring more than ten million tracks, including all the majors and leading independent record labels.
-	['', 'music services', ' ', 'music tracks', ' records']
-Sellbox
-	Provider of an ecommerce platform. The company offers an online platform that enables designers, musicians, writers, developers to sell their videos, music albums, ebooks, games and other digital goods.
-	['', 'ecommerce platform', ' ', 'digital product', ' ebook']
-Mtime.com
-	Operator of an online entertainment portal. The company offers a Chinese-language platform for streaming of international movies.
-	['', 'online entertainment', ' streaming']
-BedandBreakfast.com
-	Operator of an online bed and breakfast directory and reservation network. The company also offers gift cards for bed and breakfast travel online. It enables its users to search and make reservations for bed and breakfast home stays, country inns, urban bed and breakfasts, guest houses, lodges, cabins, historic hotels, small resorts, guest ranches, farmhouse accommodations, and working farm and ranch vacations located in the United States, Canada, and internationally.
-	['', 'bed and breakfast directory', ' ', 'bed and breakfast travel online', ' ', 'bed and breakfast home stay', ' ', 'online reservation', ' ', 'travel agency', '']
-La La Media
-	Operator of an online music store.
-	['', 'online music', ' ', 'music store', '']
-Nerve.com
-	Provider of online dating platform. The company offers online dating and social content. It provides online community for original, award-winning stories, features and photography, as well as discerning coverage of the films, television, books and music.
-	['', 'social content', ' ', 'dating destination', ' coverage']
-Imeem
-	Provider of online music, videos and photos. The company operates as an online community for musicians, directors, photographers and groups.
-	['', 'Internet software', ' music video photo']
+Ashby BioSystems
+	Developer of a platform technology based on a method for manufacturing porous silicone rubber. The company also engages in the development of cellular support material for applications ranging from themanufacture of vaccines to vascular skin grafts and liver-assisted devices.
+	['', 'cell culture', ' ', 'tissue engineering', ' ', 'cell culture', ' ', 'porous silicone rubber', '']
+Aqua Pro Technologies
+	Developer of advanced microbial feed additives for aquatic organisms. The company develops probiotic additives for aquatic organisms including different fish species for enhancement of their immune response.
+	['', 'microbial feed', ' ', 'probiotic additives', ' ', 'feed additives', ' ', 'feed products', '']
+LevGum
+	Provider of rubber de-vulcanization services. The company develops rubber de-vulcanization technology and is engaged in the re-cycling of rubber.
+	['', 'rubber de-vulcanization', ' ', 'rubber recycling', ' ', 'environmental services', '']
+Unicom
+	Manufacturer of modifiers for asphalt concrete mixtures for road construction. The company produces composite material "Unirem" for road paving using nanostructured rubber powder to modify an asphalt-bitumen mixture.
+	['', 'composite material', ' ', 'rubber powder', ' ', 'asphalt concrete mixture', '']
+Delta Plant Technologies
+	Developer of natural rubber. The company develops agronomics and processing technologies for production of an alternative source of natural rubber derived from a plant native to central Asia called the Russian Dandelion. The production process also yields a feed stream which can be converted into ethanol.
+	['', 'natural rubber', ' ethanol rubber tire']
+Hawkeye Renewables (Ethanol Plants)
+	Producer of ethanol with plants in Iowa Falls and Fairbank, Iowa. The company\'s plants are specialized in ethanol and dried distiller grains.
+	['', 'ethanol plant', ' ', 'renewable resource', ' refinery']
+Phoenix Bio-Industries (Ethanol Plant)
+	Operator of a dry mill ethanol plant. The company manufactures ethanol for chemicals, paints & coatings industries.
+	['ethanol ', 'dry mill', ' ', 'paints & coatings', '']

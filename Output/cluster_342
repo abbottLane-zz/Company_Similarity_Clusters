@@ -1,30 +1,6 @@
-PhotoRocket
-	Provider of photo sharing services. The company enables photo sharing between family, friends, coworkers and other groups.
-	['', 'photo sharing', ' ', 'social network', '']
-Face.com
-	Provider of facial recognition software for social networks. The company offers Photo Finder, an application to discover photos of users and friends that are untagged and Photo Tagger, which groups faces in an album, enables bulk-tagging of friends and enables photo sharing.
-	['', 'photo tagging', ' ', 'face recognition', ' ', 'photo sharing', '']
-GroupMe
-	Owner and operator of a group messaging, conference call, and location and photo sharing network.
-	['', 'texting platform', ' ', 'cellphone application', ' ', 'blackberry application', ' ', 'sharing software', '']
-Familiar
-	Provider of private photo sharing service. The company enables friends and families to privately share photos directly to each other.
-	['', 'photo sharing', ' ', 'private photo access', ' ', 'picture sharing', '']
-Blurtt
-	Provider of a web based platform that conveys expressions, thoughts and feelings in a creative way. The company provides a mobile application that helps one to create and share a visual statement to express oneself. The company also offers photo-upload service, permitting users to send printed postcards of said photos to friends via mail.
-	['app expression ', 'mobile application', '']
-FaceTags
-	Provider of facial recognition system. The company provides facial recognition to turn faces in photos and videos into qualified leads and compliance tracking. The company uses facial recognition  for advanced customer segmentation and lead scoring.
-	['', 'facial recognition', ' ', 'lead generation', '']
-Photoflow
-	Provider of an online application offering event-based photo sharing services. The company provides event-based photo sharing services that aggregates content from multiple users as well as images from photo booths stationed at different venues.
-	['', 'event photography', ' ', 'social event photography', ' ', 'photo sharing service', ' ', 'event-based', ' ', 'photo booths', '']
-PhotoTLC
-	Provider of digital photo products. The company\'s digital photo products include photo restorations and photo gifts. The company also provides laser engraved photo crystals and licensed products featuring disney characters and sports themes.
-	['', 'personalized photo', ' ', 'digital photo', ' ', 'photo crystal', ' photo ', 'photo restorations', '']
-Path
-	Provider of a social photo sharing application and service. The company’s platform enables group messaging, sharing photos and graphics, which can be imported to social networks.
-	['', 'photo sharing application', ' ', 'photo sharing service', ' ', 'mobile social network', '']
-Imagekind
-	Provider of hybrid art, photo-sharing service and a print-on-demand service. The company allows artists to upload and sell framed prints of their pieces and also allows users to purchase one-off prints of their own images. It gives consumers options to purchase poster art from over 50,000 domestic and international artists.
-	['', 'photo sharing service', ' ', 'hybrid art', ' ', 'off print image', '']
+Arbutus Biopharma
+	Provider of ribonucleic acid (RNA) interference therapeutics and lipid nanoparticle delivery technology to pharmaceutical partners. The company focuses on the development of internal product candidates that include apolipoprotein B (ApoB) SNALP for the treatment of high cholesterol and polo-like kinase 1 (PLK1) SNALP for the treatment of cancer.
+	['', 'RNA interference therapeutics', ' ', 'lipid drug delivery', ' ', 'high cholesterol treatment', ' ', 'therapeutic device', '']
+Tacere Therapeutics
+	Developer of therapeutics for the treatment of serious infectious diseases such as Hepatitis C (HCV). The company utilizes gene silencing technology called DNA-directed RNA interference (ddRNAi).
+	['', 'Hepatitis C', ' ', 'RNAi therapeutic', ' ', 'RNA interference drug', '']

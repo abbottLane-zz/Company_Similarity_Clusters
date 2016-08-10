@@ -1,36 +1,15 @@
-MLRGB Restauration
-	Provider of steam cooked food products. The company operates as a restaurant serving steamed food products for health conscious customers.
-	['', 'steam cooked food', ' ', 'healthy food', ' ', 'steamed food', ' ', 'organic wine', ' ', 'restaurant operator', '']
-Innocent Drinks
-	Manufacturer and marketer of fruit smoothies and vegetable entrees. The company provides a line of branded health-food products that include juice smoothies, waters, juice and low-calorie noodle-vegetable pots.
-	['', 'natural drink', ' ', 'fruit juice', ' smoothie']
-Taggle Internet Ventures
-	Operator of online group buying platform. The company enables consumers to buy products and services from businesses ranging from food and beverage, wellness, beauty and sports products to travel and entertainment services. The company also allows merchants to sell products in bulk volume.
-	['', 'buying platform', ' ', 'entertainment service', ' ', 'online retail', '']
-Kaiku Corporación Alimentaria
-	Producer of healthy dairy food products. The company engages in production and distribution of healthy dairy products some of which are even suitable for the lactose intolerant. The company\'s products include ready to serve varieties such as desserts, cheeses, milk shakes, milk, yoghourts and lactose free products.
-	['dessert ', 'dairy production', ' ', 'dairy products', ' cheese ', 'ready to serve products', '']
-TouristEye
-	Provider of platform for trip planner. The company allows to plan trip on the website and view all the information and maps offline on mobile device.
-	['', 'trip planner', ' ', 'trip allowance', ' ', 'holiday planning', ' ', 'trip planning', ' ', 'travel communication', '']
-Dujardin Foods
-	Provider of frozen vegetarian food products. The company engages in the production and marketing of frozen vegetables, fruits, herbs and other vegetable-based ready meals.
-	['', 'frozen vegetable', ' ', 'ready meal', ' ', 'frozen fruit', '']
-Tipjoy
-	Operator of a social payment engine. The company allows merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another on their payment engine.
-	['', 'social payment', ' ', 'digital content', ' ', 'payment engine', '']
-Wisemarkit
-	Provider of  an online social marketplace that enables the users to launch their own virtual boutiques. The company allows the user to search through millions of different products, share it across the network by marking them in a virtual customizable shop, which gives the freedom to the users to sell however and whatever they want to sell and earn commission by sell of the products.
-	['', 'online marketplace', ' ', 'virtual boutiques', '']
-eÓtica
-	Provider of an e-commerce platform to sell optical products online. The company sells contact lenses, sunglasses, prescription glasses, frames and accessories.
-	['', 'optical products', ' ', 'sunglasses', ' ', 'contact lenses', ' ', 'online optical store', '']
-Lipid Technologies Provider
-	Developer of lipid carriers. The company develops, produces and commercializes lipid-based ingredients and formulations for functional food products and skin care.
-	['lipids ', 'lipid formulations', ' ', 'lipid ingredients', '']
-Excara
-	Operator of a content and commerce services company. The company provides tools and services customized specifically to meet the needs of manufacturers\' sell-side and buy-side internet strategies. The company\'s sell-side solutions allow manufacturers to present and sell their products online, as well as manage their online supply chain.
-	['', 'online content', ' ', "manufacturers\\' software", ' ', 'commerce service', '']
-Foodoro
-	Provider of an online platform to sell food products. The company allows merchants to sell artisanal food products through their website.
-	['', 'artisanal food', ' ', 'food product', ' ', 'gourmet food', '']
+ChipScale
+	Provider of wafer level packaging. The company provides Micro SMT packaging technology. The company refines and develops the SMT technology. The company\'s services include prototype packaging developments and licensing.
+	['packaging ', 'wafer level packaging', ' ', 'Micro SMT packaging', '']
+Kalvopakkaus
+	Manufacturer of plastic packaging products. The company is a supplier of plastic bags, flexible packaging and laminated films to customers. It also prints packaging.
+	['', 'plastic products', ' ', 'rubber products', ' ', 'laminated films', '']
+Novus Packaging
+	Manufacturer of extrusion-coated and laminated packaging materials serving the food, pharmaceutical and industrial markets. The company provides packaging materials including Sugar pouches/sticks/packs, Stand-up pouches, Candy wrappers, Coffee pouches, Bread bag Lidding stock, Deli wrap, Cake plates and Bakery Pouches.
+	['coated ', ' commercial bags', ' ', 'juice liner', ' lamination pouch']
+IQ Textiles Group
+	Manufacturer of synthetic fiber products. The company focuses on development of technical coated and laminated textiles. The company\'s products includes protection covers and tarpaulins, military applications, equestrian products and ducting textiles. The company\'s fabrics are used for corporate and workwear, tent fabrics, sportswear, protective workwear and outdoor apparel such as golf, hunting, shooting and fishing.
+	['', 'laminated textiles', ' fabric ', 'synthetic products', '']
+Microfluid
+	Provider of Infra Red sensor technology. The company develops product for measuring dampening within the graphic industry and measuring polymer films when converting packaging materials.
+	['equipment ', 'fluid layer', ' ', 'measuring equipment', '']

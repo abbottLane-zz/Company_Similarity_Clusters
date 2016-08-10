@@ -1,45 +1,18 @@
-ProfitLine
-	Provider of telecom expense and mobility management services.
-	['', 'telecom expense', ' ', 'mobility management', ' ', 'expense management', '']
-Agiliti
-	Provider of information technology services. The company offers services that helps companies reduce costs, reduce risks and improve the reliability of their systems, networks and applications. It helps enterprises of all sizes achieve better IT performance through a modular suite of outsourced hosting and IT services.
-	['', 'rentable software applications', ' ', 'hosting services', ' ', 'internet connection', ' ', 'enterprise hosting', '']
-Interweave Software
-	Developer of information delivery products. The company\'s products allow information technology organizations to deploy intranet and extranet-based Web information systems across virtual enterprises.
-	['', 'virtual enterprises', ' ', 'Interweave Modeler', ' ', 'database administrators', '']
-NOCpulse
-	Designer of internet infrastruture to provide networking services and technology management solutions to online businesses. The company is building the Internet Operational Support Service, that allows customers to gain control over their Internet infrastructure while retaining the strategic knowledge needed to grow.
-	['', 'internet infrastructure', ' ', 'networking service', ' ', 'technology management', '']
-Mirror42
-	Provider of information technology performance management services. The company provides a platform for customers to collect information from multiple IT management applications, analyze key performance indicators and metric trends.
-	['', 'performance management', ' ', 'performance indicator', ' ', 'metric trend', '']
-End2End
-	Provider of outsourced mobile data services. The company provides outsourced mobile data services on behalf of mobile network operators.
-	['', 'mobile data', ' ', 'mobile networks', ' connectivity']
-Network24 Communications
-	Provider of outsourced webcasting e-services. The company provides Internet broadcasting application services for enterprises, Internet content providers, and value-added partners.
-	['', 'webcasting e-services', ' ', 'internet broadcasting', ' oursourcing ', 'online events', ' application']
-TechSmart.com
-	Provider of asset management services for office-technology marketplace. The company recovers technology assets for major leasing companies, banks, manufacturers, retail chains and e-tailers who do not have the capability to audit, refurbish, clean, distribute or remarket the product on their own.
-	['management acquisition recovery']
-SevenSpace
-	Provider of outsourced information technology management services.
-	['', 'technology management service', ' ', 'software tool', ' ', 'infrastructure management', '']
-Listening Company
-	Provider of outsourced customer communication services. The company specializes in telemarketing solutions which includes managing customer interaction ranging from customer acquisition to retention, renewal and growth, including advice and services.
-	['', 'telemarketing solutions', ' ', 'outsourced customer communication services', ' ', 'BPO services', ' ', 'managing customer interaction', '']
-Novalis
-	Provider of outsourced management services for provider sponsored managed care networks. The company provides administrative, management and computing services to physician networks and managed care companies.
-	['', 'management service', ' ', 'care network', ' ', 'physician network', '']
-RealLife HR
-	Provider of outsourced benefits management automation services. The company provides a suite of Web-applications and professional services that facilitate employee benefits communication, enrollment and ongoing administration.
-	['', 'benefit management', ' ', 'outsourcing automation management', ' ', 'employee enrollment management', ' ', 'benefits management', ' ', 'employee benefits', '']
-Accretive Commerce
-	Provider of outsourced operations solutions to the companies engaged in one-to-one direct commerce. The company offers ecommerce, customer care, life-cycle of marketing, customer acquisition, returns management and fulfillment and logistics solutions. It also provides professional services, technology integration, custom business process solutions and lean six sigma strategies as well as marketing, Web design and product imaging, direct response/infomercials and direct mail support and order management.
-	['', 'operation outsourcing', ' ', 'customer care', ' ', 'six sigma strategy', ' ', 'returns management', ' ', 'life-cycle marketing', '']
-Everyone.net
-	Provider of outsourced email solutions for individuals and companies. The company offers custom email services for everyone from Internet Service Providers, web hosts and web sites to businesses, organizations and individuals.
-	['', 'email hosting', ' SaaS ', 'email backup', ' ', 'outsourced email solutions', '']
-Oxford Archdigital
-	Provider of information management services to museums, archaeologists, local authorities and other heritage bodies. The company provides information which includes images, spatial data, web pages, electronic documents and structured text.
-	['', 'information management', ' ', 'heritage bodies', ' archaeologists']
+New River Technologies
+	Developer of web-based programs. The company operates RiverTrend.com, a Web-based technology platform and a distribution channel that brings together wholesalers and vendors in specific vertical markets, as well as helps financial institutions, such as banks and credit unions to aggregate demand for items, including office products or collector coins.
+	['', 'Web based program', ' ', 'Web based technology platform', ' ', 'software development', ' ', 'eprocurement', '']
+Information Development Consultants
+	Developer of a fund accounting software for government and not-for-profit organizations. The company\'s web based products can be tailored to fit specific needs of IT, finance and elected officials. The company provides system integration services, application software products, training and advisement specially for local governments and agencies.
+	['', 'accounting software', ' ', 'web based products', '']
+Appeering
+	Provider of a web-based tool-set that helps professional users discover and manage the most important, industry-specific social media conversations as they develop. The company is developing a web-based application to instantly enable users to listen to and join important conversations among leaders in various industries.
+	['', 'IT Services', ' ', 'web-based toolset', ' ', 'information services', '']
+CorePROFIT Solutions
+	Provider of profitability information services for banks and credit unions. The company provides information to make profitable decisions about e-commerce transactions, channels and migration strategies. The company\'s services include analysis-cost development, hosted profitability and profit-wise costing applications.
+	['profitability ', 'costing services', ' ', 'credit unions', ' banks ', 'cost development', '']
+DRUMS
+	Provider of web-based intelligent selling systems. The company develops Internet based products that target specific sales processes.
+	['', 'web based system', ' ', 'intelligent selling system', ' ', 'internet product', '']
+Oddpost
+	Developer of web-based communications applications that look and feel like desktop programs. The company is also building products focused on the emergence and acceptance of the open RSS standard as a means of publishing online content.
+	['', 'communication application', ' ', 'online publishing content', ' ', 'web-based email', ' ', 'news service', '']

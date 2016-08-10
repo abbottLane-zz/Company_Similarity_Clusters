@@ -3,7 +3,7 @@ from CompanyRecommender import CompanyRecommender
 
 def main():
     # set some variables
-    k = 500  # I'm using K-means to generate clusters. Define the number of clusters here
+    k = 700  # I'm using K-means to generate clusters. Define the number of clusters here
     data_dir = "Data/company_descs_5k.csv"  # the directory where the provided input file lives
 
     # Initialize build CompanyRecommender object

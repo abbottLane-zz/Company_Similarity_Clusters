@@ -1,6 +1,5 @@
 import csv
 import operator
-
 from CompanyDoc import CompanyDoc
 from scipy import spatial
 
@@ -15,9 +14,10 @@ def load_data(file_path, has_header):
         company_idx = 0
         for row in reader:
             if has_header and row_count != 0:  # Skip the header
+                cleaned_keywords = row[2].replace("\"", " ")
                 company = CompanyDoc(row[0], row[1], row[2].split("\""))
                 companies.append(company)
-                descriptions.append(row[1])
+                descriptions.append(row[1] + " " + cleaned_keywords) # descriptions include the keywords as well, they could be useful features
                 company_idx_map[row[0]] = company_idx
                 company_idx += 1
             row_count += 1

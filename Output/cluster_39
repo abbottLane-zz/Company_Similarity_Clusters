@@ -1,18 +1,30 @@
-Xsira Pharmaceuticals
-	Developer of drugs that regulate G protein-coupled receptors. The Company produces patented platform technology for deorphanization and drug discovery of G protein-coupled receptors using a single universal fluorescent assay.
-	['', 'healthcare services', '']
-Eidogen
-	Developer of computational drug discovery platforms. The company offers Target Informatics Platform, structural proteomics enterprise software.
-	['', 'drug discovery', ' ', 'enterprise software', ' ', 'drug toxicity', '']
-Ansaris
-	Provider of small molecule drug discovery equipment and technology. The company has developed a proprietary platform technology which combines a torsion-space algorithm for building dynamic protein models with silico fragment-based libraries and computational chemists to design therapeutics that solves contemporary small molecule drug discovery challenges.
-	['', 'mall molecule drug discovery', ' ', 'platform technology', '']
-Novamass Analytical
-	Provider of contract-research services. The company offers comprehensive services and platforms for drug discovery, functional food ingredients testing, REACH chemical-safety assessment and related life-science areas. Specific services offered include discovery biology and proteomics, biomarker discovery, in vivo disease models, especially Type I/II diabetes, oncology and cardiology; in vitro permeation, transport and assay design; pharmacokinetics & bioanalytics; in silico, in vitro and in vivo toxicology & safety pharmacology. The company operates on a global scale, with clients in Europe, Asia and the U.S.
-	['', 'research company', ' pharmaceuticals ', 'in-vitro drug metabolism', ' ', 'drug discovery', '']
-Oculon
-	Developer of products for the diagnosis and treatment of cataracts based on phase-separation technology.. The company develops small molecule pharmaceuticals to treat conditions other than cataract that involve protein aggregation, such as the formation of protein condensates in certain blood, neurological and connective tissue disorders.
-	['', 'diagnosis treatment', ' ', 'small molecule', ' ', 'phase separation technology', ' ', 'protein condensates', ' ', 'tissue disorder', '']
-AFx
-	Provider of microwave surgical cardiac ablation technology. The company has developed a proprietary technology that allows surgeons to apply microwave energy to the surface of the heart.
-	['', 'cardiac ablation technology', ' ', 'microwave energy', ' ', 'heart surface', '']
+CrystalVoice
+	Provider of quality-of service-software for VoIP solutions.
+	['', 'clear voice communication', ' ', 'clear voice', ' ', 'voice communication', '']
+CuaQea
+	Provider of a voice micro-blog/social network enabling users to record and share voice messages with their friends and others. The company\'s technology enables users to talk into their mobile handsets and create their own channel podcasts for sharing.
+	['', 'micro blog', ' blogging ', 'voice social network', ' ', 'voice micro-blog', '']
+Lightspeed International
+	Provider of voice signalling translation technology. The company develops software that assists in managing voice transmission over data networks.
+	['', 'voice signalling', ' ', 'voice transmission', ' ', 'communication software', '']
+AdelaVoice
+	Developer of voice-enabled applications for mobile phones, Facebook and the Web. The company offers various applications which helps the users to save money, respond to the offers on the radio through their voice and access to text messaging, Facebook and Twitter using their voice.
+	['', 'voice enabled application', ' ', 'voice-enabled product', ' ', 'commercial services', '']
+Hallo
+	Developer of a social voice application. The company offers a software which enables users to record and share voice messages.
+	['', 'mobile app', ' ', 'social voice app', ' ', 'voice messages', ' ', 'voice chats', '']
+Clarity Technologies
+	Provider of software and services for improving the audio quality and performance of voice-based communications systems and products.
+	['', 'audio quality', ' ', 'voice communication', ' ', 'voice product', '']
+Communicado
+	Provider of solutions for managing converged voice/data communication networks that carry real-time person-to-person business communications.The company\'s solutions include VXTracker, which integrates the management of converged voice and data networks to enterprise standards; and Streamline.
+	['', 'real time communication', ' ', 'converged voice', ' ', 'VXTracker', '']
+Intelepeer (Voice Peering Business)
+	Provider of direct IP connections to global service providers. The company is a provider of carrier-class voice-peering infrastructure, designed to deliver transmission of voice and related rich-media services to users\' wireline or wireless device of choice.
+	['', 'voice transmission', ' ', 'rich media', ' VoIP']
+Sonus Networks
+	Provider of voice infrastructure products for the new public network. The company provides hardware and software that enable customers to deploy an integrated, packet-based network carrying both voice and data traffic.
+	['', 'network services', ' ', 'voice infrastructure product', ' ', 'public network', ' ', 'voice traffic', '']
+KonTEM
+	Developer of a phase contrast system for electron transmission. The company develops an phase contrast system for transmission of electron microscopes.
+	['', 'phase contrast', ' ', 'system transmission', ' ', 'transmission electron microscopy', ' ', 'ultra-thin', '  sensor']

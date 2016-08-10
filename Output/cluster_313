@@ -1,21 +1,15 @@
-Clinsoft Corporation
-	Provider of clinical research systems. The company\'s technology enabled companies to streamline business processes, while ensuring the highest data quality.
-	['', 'database management', ' ', 'events tracking', ' ', 'clinical application', '']
-Imanext
-	Operator of a contract  research organization. The company operates in the field of functional imaging and provides insights on the non-clinical and clinical applications for drug development to the pharmaceutical and biotechnology industries.
-	['', 'functional imaging', ' research ', 'molecular imaging', ' ', 'nonclinical imaging', ' ', 'clinical imaging service', '']
-1747
-	Provider of web enabled systems to conduct clinical trials directly with participants. The company\'s product aims to clarify participant’s eligibility, aggregates their informed consent, and enrolls them for clinical trials using the internet.
-	['', 'clinical trial', ' ', 'web enabled system', ' ', 'direct-to-participant', ' ', 'enrolment systems', '']
-Swiss Pharma Contract
-	Provider of clinical research services to the pharmaceutical, biotechnology, and medical-device industries. The company offers a variety of clinical pharmacology services ranging from first testing in man to post-marketing studies.
-	['', 'clinical research', ' ', 'clinical pharmacology', ' pharmaceutical']
-IBAH
-	Provider of complete range of development services to the pharmaceutical, biotechnology, and medical device industries. The company\'s services are designed to help clients accelerate products from discovery through development more efficiently and cost- effectively.
-	['', 'development services', ' ', 'medical device', '']
-Phase Forward
-	Provider of  integrated clinical research suite of enterprise-level software products, services, and hosted services worldwide. The company\'s services are used in clinical trial and drug safety monitoring applications in the pharmaceutical, biotechnology and medical device companies; and academic institutions, governmental regulatory agencies, contract research organizations and other entities engaged in clinical trial and drug safety monitoring activities.
-	['', 'data capture', ' ', 'clinical research suite', ' ', 'clinical data management', '']
-Citizen1
-	Provider of research and development services for pharmaceutical and biotechnology industries. The company offers clinical trials and drug development information. It provides TrialTrove, which delivers ongoing clinical trials information; SiteTrove, which tracks and maintains detailed profiles; TrialScape, which provides graphical representation of clinical trial timelines; and CustomAnalytics for design and implementation of planned trials.
-	['', 'pharmaceutical research', ' ', 'clinical trials information', ' ', 'drug development information', ' ', 'biotechnology research', '']
+Apneon
+	Developer of healthcare devices for treating obstructive sleep apnea. The company develops products which diagnose and repair the upper airway and restore patients’ health and quality of life.
+	['', 'healthcare devices', ' ', 'obstructive sleep apnea', ' ', 'diagnose and repair the upper airway', '']
+Sleep Solutions
+	Developer of medical devices focused on obstructive sleep apnea. The company provides testing of sleep-disordered breathing and treatment of obstructive sleep apnea.
+	['', 'obstructive sleep apnea', ' ', 'sleep disorder', ' ', 'sleep-disordered breathing', '']
+WideMed
+	Developer of a web based sleep diagnostic software. The company offers Morpheus, a computer aided sleep scoring system that is used in laboratories and hospitals.
+	['', 'web based', ' ', 'sleep diagnostic', ' scoring']
+Medotech
+	Developer of customized devices that analyse biometric signals and convert these into contingent stimulation. The company offers GrindCare devices that measure the activity of the temporalis muscle during sleep through an electrode placed on the temple and then reduces the grinding while patients sleep.
+	['', 'joint disorders', ' ', 'unhealthy reflexes', ' ', 'healthcare devices', '']
+Laboratoires Narval
+	Developer and manufacturer of equipment to treat, diagnose and manage disorders of breathing during sleep. The company manufactures oral appliances for the treatment of sleep disordered breathing and sells its products principally in France.
+	['', 'breathing disorder', ' ', 'oral appliance', ' ', 'sleep breathing cure', ' ', 'diagnostic equipment', '']

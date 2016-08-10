@@ -1,33 +1,24 @@
-AdBrite (Certain Intellectual Property Assets)
-	Provider of advertising services. The company has video, data management and optimization technology, which is integrated into its various products aimed at performance-driven digital marketers.
-	['', 'advertisement service', ' ', 'digital data management', ' ', 'intellectual property', ' ', 'data management', ' data']
-YuMe
-	Provider of digital-video advertising services. The company provides digital advertising, using its proprietary software that is embedded across a wide variety of Internet-connected screens, enabling brands to unify their audiences with a single advertising campaign. The company\'s software also collects data on advertising campaigns, content context and audience, to enable decisions on best branding outcomes.
-	['', 'brand advertising technology', ' ', 'digital video technology', ' ', 'advertising campaign', '']
-TargetCast Networks
-	Operator of a digital advertising company that provides venue operators to create and post their own and custom designed promotional messages directly on television sets. The company gives every affiliate restaurant the ability to create customized marketing messages for their store and their customers. It promotes featured products and introduces new products.
-	['', 'digital advertising', ' advertising ', 'venue operator', ' ', 'customized ad', ' ', 'television ad', ' ', 'customized marketing', ' ', 'marketing message', ' ', 'marketing campaign', ' ', 'product promotion', ' ', 'sales increase', '']
-PropelAd
-	Provider of digital advertising services. The company makes advertising products on facebook and provides marketing automation and value added services to facebook advertisers.
-	['', 'digital advertising', ' ', 'marketing automation', ' ', 'value added service', '']
-Cove Financial Group
-	Provider of a mortgage-alternative program for residential consumers. The company offers a program for would-be home buyers who have money for a down payment, but do not qualify for a mortgage. The company also provides a digital-marketing platform designed to assess what financial products are needed by would-be home buyers, and utilizes multi-channel advertising delivery with audience analysis to develop a network of partners with services focused on this financial demographic.
-	['', 'mortgage finance', ' homebuyer ', 'mortgage service', ' ', 'digital marketing platform', ' ', 'multi-channel advertising', '']
-OnRequest Images
-	Provider of custom imagery. The company creates original photography using its global network of professional photographers, providing corporations and creative agencies with images shot to their specifications at rights-managed stock prices. The company\'s Custom Stock libraries are designed to give enterprises the ability to build their brands with brand-aligned imagery for marketing use.The company also provides custom production capabilities to customers for an end-to-end commissioned  service.
-	['', 'stock photography', ' ', 'photography services', ' ', 'marketing products', '']
-Internet Broadcasting System
-	Provider of scalable internet publishing technology. The company is a provider of multiple services and products, including a SaaS-based digital publishing platform, original and syndicated content, and a digital advertising agency that provides full life-cycle advertising and sales operations. The company has had a long-term focus on serving local television companies.
-	['', 'digital publishing', '  webtrend ', 'digital agency', ' ', 'syndicated content', '']
-Chromatide
-	Provider of custom purification services. The company provides outsourced purification services to the pharmaceutical, biotech, agrochemical and fine chemical industries. It also offers custom peptide synthesis services.
-	['', 'custom purification service', ' ', 'purification service', ' ', 'peptide synthesis service', ' ', 'Commercial Service', '']
-IdeaCast
-	Provider of custom video content and advertising services. The company provides digital out-of-home television advertising services.
-	['', 'video content', ' ', 'out-of-home', ' ', 'cable provider', '']
-LSF Network
-	Provider of online performance marketing and advertising services. The company offers strategic planning services, including information capture, research media, competitive analysis, segmentation strategy, ROI calculations, and reach and frequency measuring; and creative services for banners, landing pages, email, community Websites, node pages, interactive videos, online promotions, viral marketing, and promotion capture forms.
-	['', 'online performance marketing', ' ', 'strategic planning', ' ', 'segmentation strategy', ' ', 'IT services', '']
-Channel M
-	Provider of content and advertising for out-of-home video. The company produces video content that engages and entertains each demographic specific to its retail and lifestyle venues. It designs in-store and online campaigns, on-air promotions, mobile campaigns, and celebrity tie-ins.
-	['', 'online campaign', ' ', 'mobile campaign', ' ', 'content provider', ' ', 'advertising provider', '']
+Communication Services
+	Operator of a wireless network service provider. The company provides communication infrastructure for cellular, private radio, and other wireless customers.
+	['', 'wireless network', ' ', 'communication infrastructure', ' ', 'wireless service peovider', '']
+PureWave Networks
+	Developer of adaptive beamforming 4G base station equipment. The company\'s s services include Quantum 1000, a carrier-grade and outdoor compliant base station that provides macro base station performance in a compact package based on a software defined radio architecture; and PureView, a carrier-grade network management system that controls and monitors various quantum base stations, as well as facilitates network operations with automatic discovery of network topology, operations and inventory views.
+	['', 'base station equipment', ' ', 'outdoor compliant station', ' ', 'Wireless Infrastructure', ' ', 'Base Station', ' ', 'wireless router', ' router']
+Alvarion (Cellular Mobile Business)
+	Developer of core wireless network equipment.
+	['', 'wireless network equipment', ' ', 'network equipment', '']
+Altobridge
+	Developer of a wireless network service. The company develops wireless network services that reduce network operating costs in the delivering of mobile voice, mobile broadband and big data services.
+	['', 'mobile communication', ' ', 'local connectivity', ' ', 'split architecture', ' ', 'remote community market', ' ', 'satellite bandwidth', '']
+Nexabit Networks
+	Designer and manufacturer of switch/router equipment for carrier and service provider networks. The company\'s product enables service providers to offer real-time services and accommodate the bandwidth demands.
+	['', 'electronic equipment', ' ', 'router equipment', ' ', 'service provider networks', ' ', 'network equipment', '']
+Xyplex
+	Developer and marketer of distributed network processing equipment. The company offers communications processors for local-area networks (LANs) and wide-area networks (WANs) integrating Digital Equipment systems with systems from other manufacturers to increase the overall system performance.
+	['LAN WAN ', 'network processing equipment', '']
+FlowWise Networks
+	Provider of performance-enhancing equipment for computer networks. The company is the provider of high-performance router-acceleration products that are self-configuring. The company\'s products are designed to enhance the performance of networks, with little to no disruption of service.
+	['', 'telephony platform', ' ', 'network equipment', ' router']
+Millennial Net
+	Provider of commercial and industrial wireless sensor networking software. The company provides a device that performs wireless network management tasks.
+	['', 'industrial wireless sensor', ' ', 'wireless network management', ' ', 'networking software', '']

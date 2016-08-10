@@ -1,30 +1,24 @@
-BioLucent
-	Operator of women\'s health company, involved in the early detection and treatment of breast cancer. The company manufactures and markets the MammoPad breast cushion, a radiolucent foam cushion that breast centers use to provide women with a mammogram.
-	['', 'breast cancer', ' ', 'MammoPad breast cushion', ' ', 'radiolucent cushion', '']
-NewRiver
-	Provider of innovative technology solutions that simplify investor disclosure, transparency and cost savings to the delivery of fund data and investor communications. The company pioneered the first electronic prospectus, and guarantee its data to be "compliance grade" which allows customers to reduce risk, lower compliance costs and increase revenues.
-	['compliance ', 'summary prospectus', ' ', 'share class analysis', '']
-Z-Tech
-	Developer of cancer screening technology. The company has developed a a system that detects changes in electrical charges that occur when normal tissue undergoes malignant changes. The first use of this technology has been in the development of a medical device for the detection of breast cancer in a screening environment.
-	['', 'monitoring equipment', ' ', 'medical diagnostic', ' malignant']
-RGene Therapeutics
-	Developer of gene therapy and other nucleic acid-based drugs. The company intends to develop and commercialize gene therapies for in-vivo approaches to ovarian and breast cancer, an ex-vivo anti-sense treatment for chronic myelogenous leukemia and other applications of its gene and nucleic acid delivery systems.
-	['', 'gene therapy', ' ', 'nucleic acid', ' ', 'breast cancer', ' ', 'chronic myelogenous leukemia', '']
-Orthotopix
-	Developer of modelling products for cancer research. The company is a provider of cell, tissue and animal models modelling the prevention and treatment of breast cancer and prostate cancer, urodynamical models of urethral function and a cell line-based safety model of the endometrium. The company provided its products and services to drug-development companies.
-	['', 'drug development', ' ', 'healthcare service', ' ', 'tissue modeling', '']
-Seragon Pharmaceuticals
-	Developer of orally active selective estrogen receptor degraders (SERDs) that represent a treatment for metastatic breast cancer. The company is developing breast cancer pharmaceuticals based on the selective estrogen receptor degraders platform, including its lead drug candidate, ARN-810, under evaluation for ER+ breast cancer.
-	['', 'breast cancer', ' ', 'estrogen receptor degrader', ' metastatic']
-Semler Scientific
-	Provider of medical risk-assessment services. The company\'s mission is to develop, manufacture and market patented products that identify the risk profile of medical patients to allow healthcare providers to capture full reimbursement potential for their services.
-	['', 'risk assessment', ' ', 'risk analysis', ' ', 'medical assessment', ' ', 'risk profile', '']
-Suomen Terveystutkimus
-	Provider of breast-cancer screening products and services. The company develops products and performs mammography screenings along with other clinical tests, to detect and treat breast cancer.
-	['', 'breast cancer', ' ', 'mammography screening', ' ', 'cancer treatment', '']
-NaniRx Therapeutics
-	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
-	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
-Windy Hill Medical
-	Developer of medical devices to reduce the risk of developing breast cancer in high risk patients. The company intends to develop intraductal therapy for the prevention of breast cancer.
-	['', 'breast cancer', '']
+Angela Bruderer
+	Provider of an online retail platform. The company through its website markets and sells consumer products which mainly include home textiles, bed linen, underwear and accessories.
+	['', 'e-commerce platform', ' ', 'online goods purchase', ' ', 'online services', '']
+MallStreet
+	Provider of an online retail portal. The company offers portable electronics, home equipment, things for garden, computers, cosmetics, fitness products, children’s goods and others.
+	['', 'internet retail', ' ', 'portable electronic', ' ', 'household equipment', '']
+24h00
+	Provider of an online retail marketing platform. The company provides branded marketing services to retail clients through its e-commerce website, which provides a changing topography of consumer discounts.
+	['', 'online retail', ' ', 'discounted rates', ' ', 'shopping online', ' ', 'branded products', '']
+Cloud Cliques
+	Developer of web and retail technologies. The company has developed a fashion technology which allows users to virtually try on clothes in real time on their 3D digital clone and see how items will fit, look and move their exact body both in the retail space and online.
+	['', 'retail technology', ' ', 'web technology', ' ', 'fashion technology', ' ', 'digital clone', ' 3D']
+Firesale.com
+	Provider of marketplace for liquidating excess inventory. The company provides services for computer liquidators and name brand computer hardware products.
+	['', 'online retail', '']
+Yardsale
+	Provider of an online retail platform. The company offers a platform that enables users to list items for sale and then sell their products on other local marketplaces.
+	['', 'local marketplace', ' ', 'online retail platform', ' ', 'online selling platform', '']
+Manufacturer\'s Resource Network
+	Provider of online selling services for manufacturers. The company is a network of business-to-business Internet retail sites and forms sales strategy for each site according to the specialty market of its products.
+	['', 'online selling', ' e-commerce']
+Reasoning Global eApplications
+	Provider of software for retail operations. The company offers a platform which allows retailers to sell products either on the internet or via mobile phone.
+	['', 'digital commerce solution', ' ', 'online sales', ' ', 'omni-channel', '']

@@ -1,18 +1,24 @@
-Raycer Graphics
-	Operator of a semiconductor company for visual computing. The company develops 3D graphics technology, cards and chips for workstations and personal computers. It also designs 3D graphics acceleration hardware.
-	['', 'semiconductor company', ' ', 'visual computing', ' ', '3D graphics technology', ' workstations']
-MaxComm Technologies
-	Developer of in-home LAN products, based on DSL-related technology. The company provides broadband internet technology that brings data and multiple voice lines to consumers.
-	['telecommunications ', 'Internet technology', '']
-Hybrid Graphics
-	Developer of embedded 2D and 3D graphics software for handheld devices. The company develops graphics technology software for consumer devices which enables high-quality 2D and 3D graphics in devices such as mobile phones.
-	['', 'graphics software', ' ', 'graphics design', ' ', 'graphics software solutions', ' ', 'graphics solutions', ' ', 'graphics technology', ' ', 'graphics technology solutions', '']
-3Dfx Interactive
-	Developer of graphics chips, graphics boards, software, and related technology that enables an interactive and realistic 3D experience across multiple hardware platforms.
-	['', 'real time 3D', ' ', '3D image', ' ', 'graphic board', ' ', 'graphic chip', '']
-AccelGraphics
-	Developer of 3D graphics cards for the CAD, animation and simulation markets. The company provides and markets 3-dimensional graphics cards and other subsystem products for the professional Windows NT and Windows 95 markets.
-	['3D 3-D ', '3 Dimensional', ' ', 'graphics card', ' CAD graphics']
-Microsoft Visio
-	Developer of visualization and diagramming software. The company is the creator of a diagramming and vector graphics application, which connects data to graphics and can be used in business applications. Microsoft acquired the company in January 2007, retaining the Seattle-based business as a division of its company and utilizing its software with its own product offerings.
-	['', 'diagramming application software', ' ', 'visualization software', ' ', 'graphics software', ' ', 'business software', '']
+Netviewer
+	Vendor of desktop sharing service, web conferencing. The company is known for providing software which gives Internet users a live view of a partner\'s screen so that text, spread sheets, graphics and other documents can be jointly discussed and edited.
+	['', 'desktop sharing', ' ', 'web conferencing', ' ', 'online meeting', ' ', 'web collaboration', '']
+Soruka
+	Operator of a web portal which provides web site monitoring and tracking services. The company offers a variety of information categories that users can keep tabs on and share like-interests with groups of users via Twitter, sms and email.
+	['', 'content management', ' ', 'web sharing', ' ', 'tracking services', '']
+Dimdim
+	Developer of web conferencing solutions. The company also provides content sharing and management; web page and desktop sharing; documents and slides sharing; web collaboration; broadcasting; and chatting services. The company’s products include Dimdim Pro and Dimdim Enterprise.
+	['', 'web conferencing', ' ', 'content sharing', ' ', 'content management', '']
+Imidio
+	Developer of internet communication software for audio and Web conferencing. The company offers products such as Instant Collaborators that enables teleconferencing, Web conferencing, instant messaging, data sharing, and application sharing.
+	['', 'communication software', ' ', 'web conferencing', ' ', 'instant messaging', ' ', 'data sharing', ' ', 'application sharing', '']
+Ibrii
+	Provider of technology enabling online note-sharing between users. The company\'s software enables clients to clip an object from any Web page, as well as mixing videos, text or photos from different pages into a single digital note that can be shared with other users leveraged from social-networking platforms. The primary sharing platforms are Facebook,Twitter and Google Buzz.
+	['', 'notes sharing', ' ', 'content sharing', ' ', 'online content', ' permalink ', 'online notes', '']
+Sonexis
+	Provider of an in house audio conferencing bridge with integrated Web conferencing, which enables businesses to run audio conferencing in-house.
+	['', 'audio conferencing', ' ', 'integrated Web conferencing', ' ', 'in house conferencing', '']
+Hipbone
+	Provider of real-time web interaction services for online sales and support. The company\'s products enable support center personnel to simultaneously view the same image of a Web page with prospects and customers while communicating with them using VoIP.
+	['', 'web interaction service', ' ', 'web page sharing', ' ', 'online purchasing', '']
+Socialinfinity
+	Developer of web and mobile page builder for small business owners. The company develops software to launch brands through blogging, e-commerce, Facebook page integration and other features.
+	['']

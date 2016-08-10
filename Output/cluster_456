@@ -1,12 +1,15 @@
-Virtual Computer
-	Provider of a platform of PC life cycle management. The company offers NxTop, a client-side virtualization and management server platform, which uses virtualization technology to isolate and manage the main components of a PC independently, including the hardware, operating system, applications and user data.
-	['', 'desktop management', ' ', 'laptop management', ' ', 'operating system', '']
-Realtime Technology
-	Provider of three dimensional visualization technology. The company provides a technology platform enabling its clients to explore novel approaches toward real-time digital experience across all of a product\'s life cycle, from design and development to marketing and sales applications.
-	['', 'dimensional visualization', ' ', 'three dimensional realtime', ' visualization']
-ConteXtream
-	Operator of a software-defined-networking (SDN) company. The company is a provider of carrier-grade network visualization technology. Deployed by Tier-1 operators, the company\'s Carrier-SDN elastically connects subscribers to services and enables carriers to leverage standard server hardware and hypervisors to virtualize functions and services, while replacing purpose-built proprietary systems.
-	['', 'routing service', ' ', 'internet protocol', ' ', 'internet broadband', '']
-Neocleus
-	Developer of endpoint visualization technology for enterprise IT departments. The company offers NeoSphere, an extensible client virtualization platform that ties existing PC management systems with advanced visualization technology.
-	['', 'visualization technology', ' ', 'client visualization platform', ' ', 'enterprise information', '']
+Alveolus
+	Developer of non-vascular interventional stent technology. The company designs, develops and manufactures non-vascular interventional stent technology for hospitals, physicians, and patients which creates an artificial pathway, support structure and opening for hollow lumen organs that are closed or obstructed due to cancerous lesions or benign disease. The company also offers pulmonary, gastrointestinal and ancillary products for interventional pulmonologists, gastroeterologists and interventional radiologists for use in the lungs, esophagus, enteral and biliary areas.
+	['', 'interventional stent technology', ' ', 'surgery devices', ' ', 'Diagnostic device', '  ', 'ancillary products', '']
+Nova Science
+	Developer of medical devices for the interventional cardiology and radiology markets. The company\'s main areas of work are device designing, development and testing in clinical trial and regulatory process management.
+	['', 'interventional cardiology', ' radiology ', 'clinical trial', '']
+NeoRad
+	Developer of medical products in the filed of radiology. The company develops, manufactures and sells instruments and devices, mainly in the field of radiology and interventional procedures.
+	['', 'interventional procedures', ' ', 'non-vascular interventions', ' ', 'interventional oncology', ' radiology']
+IDev Technologies
+	Developer of medical devices for interventional radiology, gastroenterology, vascular surgery and cardiology surgery. The company focuses on the development of products for endovascular and interventional applications.
+	['gastroenterology ', 'cardiology surgery', ' ', 'interventional application', '']
+Biometrix
+	Operator of a medical device company. The company provides medical devices for intensive care, surgery and interventional cardiology.
+	['', 'critical care products', ' ', 'thoracic catheters', ' ', 'urology products', ' ', 'ophthalmic surgery drapes', ' cardiology']

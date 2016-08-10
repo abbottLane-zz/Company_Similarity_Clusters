@@ -1,12 +1,15 @@
-Garage Sallaberry
-	Provider of automobile repair services. The company engages in the maintenance, repair and servicing of automobiles. The company also provides towing services for cars in the event of a breakdown.
-	['', 'repair services', ' ', 'breakdown services', ' ', 'towing services', ' garage']
-Servicios de Ingeniería y Tecnologías de Diseño
-	Provider of engineering services and technology design. The company provides services to the aerospace industry.
-	['', 'electrical system', ' ', 'aerospace industry', ' ', 'engineering service', '']
-Requisite Technology
-	Provider of software for data, e-commerce and channel management. The company provides a platform designed to enable companies to manage information about any type of item, including finished goods for resale, direct materials used in manufacturing, and indirect materials used in maintenance, repair & overhaul (MRO) operations. The software also enables companies to create, collect, align, and enhance data to provide one uniform version of information, regardless of their catalog needs. The platform\'s  patented search capabilities allow users to search aggregated information to find relevant results and have access to item details and images.
-	['', 'channel management', ' ', 'unusable data', ' ', 'integrated business', '']
-Aeronamic
-	Provider of products and services to the aerospace industry. The company offers airflow valves, air turbine starters, centrifugal load compressors, cooling turbines and re-circulation fans among other products. It also offers maintenance, repair and overhaul services.
-	['', 'aircraft components', ' ', 'aerospace industry', ' ', 'airflow valves', ' ', 'air turbine starters', '']
+Ontoprise
+	Provider of industry-proven semanticweb infrastructure technologies and products. The company\'s products are used to support dynamic semantic information integration and information management processes at the enterprise level.
+	['', 'semanticweb infrastructure', ' ', 'information integration', ' ', 'information management', '']
+Akada
+	Provider of information management system for educational organizations. The company offers products for schools, high schools and colleges.
+	['', 'information processing', ' ', 'information management system', ' ', 'document management', '']
+Digital Campaigns
+	Provider of information management and IP-enabled solutions for political, non-profit and special interest groups. The company offers database-driven information management solutions for campaign management and fundraising management. The company also provides strategic advisory services to the customers in getting advantage out of new digital technologies.
+	['ASP', 'information management', ' ', 'digital technologies', 'real-time ePhone', 'telephone-based campaign', '']
+Mercury Communications Group
+	Provider of fundraising technology. The company provides fundraising technology for organizations to manage fundraising campaigns and raise money online. The company offers solutions for digital brand management, marketing, and revenue, such as content management, social media optimization, fan relationship management, fundraising, engagement marketing, ecommerce engines and data reports and analytics.
+	['', 'online money', ' fundraiser ecommerce']
+Oxford Archdigital
+	Provider of information management services to museums, archaeologists, local authorities and other heritage bodies. The company provides information which includes images, spatial data, web pages, electronic documents and structured text.
+	['', 'information management', ' ', 'heritage bodies', ' archaeologists']

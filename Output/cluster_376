@@ -1,24 +1,60 @@
-Absorbent Technologies
-	Developer of a super-absorbent seed coating technology for enhancing plant growth. The company develops and manufactures starch-based superabsorbent products that help crop producers enhance performance and durability, improve produce quality and marketability, improve plant growth consistency, increase yields and reduce input costs.
-	['agriculture ', 'super-absorbent seeds', ' ', 'crop producers', '']
-Picosecond Pulse Labs
-	Designer and manufacturer of electronic pulse, pattern generators and broadband components. The company\'s product includes products include amplifiers, attenuators, baluns, bias tees and comb generators.
-	['electronic pulse ', 'broadband components', ' ', 'comb generators', '']
-Scaled Recognition
-	Developer of software for mobile devices that recognizes handwritten images. The company has developed handwriting-recognition technology that works with any image, including scanned paper, and which generates the best results from mobile photos, enabling smartphones to become powerful input devices. The company sells its recognition technology in multiple markets, including document management, mobile development and device input.
-	['', 'handwriting recognition', ' ', 'character recognition', ' whiteboard ', 'device input', '']
-New Index
-	Developer of electronic whiteboard technology. The company is the creator of an interactive electronic whiteboard, which can be created instantaneously on any surface. The equipment includes a pen with a small camera chip, which presenters can use to virtually write and draw on the screen, or directly on any wall, with electronic "ink" supported by the projector. The company\'s technology utilizes pattern recognition and identification of special optical patterns made by the pen.
-	['', 'AV industries', ' ', 'electronic whiteboards', ' ', 'optical pen', ' whiteboards ', 'audio and video', '']
-Adaptive Solutions
-	Manufacturer of pattern recognition computing products. The company develops and manufactures image processing and recognition products and neurocomputing products.
-	['', 'neurocomputing product', ' ', 'image processing', ' ', 'computing products', '']
-Gerdes
-	Manufacturer of telecommunications products. The company develops, manufactures and markets telecommunications products including controller card and server controllers.
-	['', 'telecommunication product', ' ', 'telecommunication service provider', ' ', 'server controller', '']
-OmniPerception
-	Provider of technology for the recognition of objects and people of customer applications. The company offers supplier of computer vision capabilities, facial biometrics and image processing.
-	['', 'face recognition', ' ', 'computer vision', ' ', 'facial biometric', ' ', 'object recognition', '']
-Orbeus
-	Provider of a computer visual recognition engine. The company offers a software that enables computers to perform face detection and recognition, logo and product recognition, optical character recognition and scene understanding.
-	['', 'visual recognition', ' ', 'face detection', ' ', 'face recognition', ' ', 'optical character recognition', ' ', 'cloud image analysis', '']
+No Wires Needed
+	Developer of wireless technologies. The company manufactures wireless products designed to enable high-speed wireless Internet access.
+	['', 'wireless LAN', ' ', 'wireless products', ' ', 'media access control', ' MAC ', 'wireless internet', '']
+Telaxis Communications
+	Developer of broadband and wireless access equipments. The company develops and supplies high-speed or broadband, wireless access equipment used by network service providers to deliver integrated voice, video and data services to business and residential subscribers.
+	['', 'wireless equipments', ' ', 'wireless communication equipments', ' ', 'connectivity equipments', ' electronics']
+AirPrime
+	Provider of high-speed, code division multiple access wireless data and voice products to the original equipment manufacturer market. The company focuses on providing the optimal current and next-generation wireless access products for use in handheld devices, notebook PCs and internet appliances.
+	['', 'wireless access solutions', ' ', 'wireless access products', ' ', 'wireless data', ' ', 'voice modules', '']
+DBS Communications
+	Provider of prepaid wireless services nationally. The company uses its proprietary technology platform to create distinctive prepaid products across wireless carrier networks and handset technologies. The company creates products for a defined distribution channel and works with its business partners to enable wireless programs for select distribution channels and market segments.
+	['', 'mobile virtual network operators', ' ', 'wireless communication', '']
+RF Solutions
+	Developer of transceiver products for the broadband wireless access market. The company offers initial standard product design that focused on broadband wireless access.
+	['', 'wireless service provider', ' ', 'broadband services', '']
+InnoCOMM Wireless
+	Developer and manufacturer of fabless semicondutor. The company manufacturer fabless semicondutor and develops highly integrated wireless products.
+	['', 'fabless semicondutor', ' ', 'wireless product', ' power']
+Orthogon Systems
+	Provider of wireless Ethernet bridges and carrier-grade point-to-point broadband wireless systems. The company serves the corporate, government, healthcare, Internet service providers, and education markets in the United States, Europe, and Asia Pacific regions.
+	['ethernet ', 'wireless system', ' ', 'point to point', ' ', 'broadband wireless', '']
+IceFyre Semiconductor
+	Manufacturer and designer of integrated circuits for wireless communications. The company provides wireless LAN products.
+	['', 'wireless communications', ' ', 'wireless management', ' ', 'wifi chips', ' ', 'wlan', ' ', 'semiconductor', ' ', 'circuit designs', '']
+Morphics Technology
+	Provider of programmable signal processor semiconductors and software solutions for use in wireless infrastructure and terminals. The company supplies off-the-shelf wireless signal processors (WSPs) which enables broadband service using 3G wireless network.
+	['', 'signal processor', ' ', 'software solutions', ' ', '3G wireless network', ' ', 'broadband service', '']
+Nanoradio
+	Manufacturer of wireless semiconductor products for cellular handset and consumer electronics market. The company provides diagnostic tools and software development kits to design embedded applications. It\'s products are used in portable audio, stereo devices, handheld computing devices, wireless phones and mobile gaming platforms.
+	['', 'wireless solutions', ' ', 'cellular handsets', ' ', 'software development kits', ' ', 'portable audio', ' ', 'mobile gaming platforms', ' ', 'electronics market', '']
+VT Silicon
+	Manufacturer of multi-band radio frequency integrated circuit solutions for the mobile wireless broadband market. The company’s linearization technologies enable original equipment manufacturers, original design manufacturers, and reference design houses to manufacture broadband modules and transceivers.
+	['', 'integrated circuit solution', ' ', 'broadband module', ' ', 'wireless broadband', ' ', 'linearization technology', '']
+MetroFi
+	Designer of Wi-Fi Internet networks and wireless broadband services. The company partners with city governments, local business advertisers, Internet service providers and other companies to deliver wireless broadband service to the communities in which it operates.
+	['', 'Wi-Fi internet', ' ', 'broadband service', ' ', 'wireless broadband service', '']
+Inteliquent
+	Provider of tandem interconnection services principally to carriers, including wireless, wireline, cable and broadband telephony companies. The company\'s services help carriers to exchange local and long distance traffic between their networks without using an ILEC tandem or establishing direct connections. It manages network capacity between its tandem switches and customers’ switches, which results in network quality and reduced call blocking.
+	['', 'tandem interconnection', ' ', 'wireless telephone', ' ', 'broadband telephony', ' ', 'call traffic', ' ', 'network traffic', ' ', 'ILEC tandem', ' ', 'direct connection', ' ', 'network capacity', ' ', 'tandem switch', ' ', 'call  blocking', '']
+Junxion
+	Provider of managed 3G wireless cellular router solutions for enterprise and government customers in the United States. The company\'s Junxion Box wireless WAN routers provide computing devices, such as laptops, desktops, handhelds, POS systems, ATM machines, and remote security cameras with access to data services from wireless carriers. Its Junxion Platform firmware includes the drivers and tools to connect with wireless PC card modems, as well as supports wireless carrier networks and PC card modems; and the cellular data service technologies from wireless carriers. It offers Field Commander remote management for customers to monitor, configure, and update fleets of Junxion Boxes or single units in the field; and Junxion Complete, a solution program for virtual installations in the United States. It offers Junxion Firmware for GPS location information, Verizon PC Card modem, firmware updating, DNS over ride, broadband cellular networks. It offers its products for data connection redundancy, landline replacement, M2M/telemetry, portable networks, remote security, landline fail-over, mobile fail-over, public transit/security, private transit, public/private transit, and fleet vehicles applications.
+	['', 'cellular router solution', ' ', 'land line replacement', ' ', 'portable network', ' telemetry']
+Radionet
+	Provider of products and technology for large-scale outdoor wireless networks. The company develops solutions for citywide Wireless Hotzones and community networks, mobile broadband solutions for industrial applications such as ports and mines, and link solutions for wireless backhaul and building-to-building links.
+	['', 'broadband networks', ' ', 'Power Utilities', ' broadcasts city-wide']
+Pocket Communications Northeast
+	Provider of flat rate, unlimited wireless voice and data services. The company offers a flat rate service which allows customers to place and receive unlimited wireless calls within a\nlocal service area for a flat monthly fee.
+	['', 'wireless telecommunication', ' ', 'data service', ' ', 'wireless network', '']
+BOB
+	Provider of wireless broadband services. The company offers internet services, business continuity plans, MPLS, point-to-point connections, online data backup, and data storage services to businesses.
+	['', 'wireless broadband service', ' ', 'online data backup', ' ', 'internet service', ' ', 'data center service', '']
+Go Networks
+	Provider of broadband wireless access services for indoor and outdoor deployments. The company offers micro cellular Wi-Fi sector base stations, Pico cellular Wi-Fi base stations, wireless media gateways, wireless network controllers and network management systems. It also has a research and development center in Israel.
+	['', 'broadband wireless access', ' ', 'wireless network controller', ' ', 'network management system', '']
+Handspring
+	Provider of handheld computing devices, which include organizers; and integrated, handheld wireless devices, known as communicators or smartphones. The company\'s products include the Treo wireless communicators and Treo 90 organizer, the Visor expandable handheld computers, and client and server software for fast web access from handheld devices and mobile phones.
+	['', 'computing device', ' ', 'hand device', ' ', 'wireless device', '']
+Advanced Radio Cells
+	Manufacturer of wireless broadband access products.
+	['', 'wireless broadband', ' ', 'wireless access', ' ', 'wireless product', '']

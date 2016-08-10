@@ -1,36 +1,18 @@
-Periness
-	Operator of a biotechnology company focusing on addressing the problem of male infertility. The company’s product is a systemic protein-based drug for treatment of male sub-fertility.
-	['', 'reproductive technology', ' idiopathic biopharmaceutical']
-ZetaRx Biosciences
-	Operator of biotechnology company. The company engages in the development of therapies for cancer and other diseases using genetically engineered lymphocites.
-	['', 'cancer therapies', ' lymphocites genetically']
-SemBioSys Genetics
-	Developer of biotechnology solutions. The company focuses in the development stage of agricultural biotechnology that utilizes plant seed based oilbody and genetic expression technology platforms to develop high value proteins and oils and drug candidates in oil seed producing plant species.
-	['', 'pharmaceuticals and biotechnology', ' ', 'agricultural biotechnology', ' ', 'life sciences', '']
-Genizon BioSciences
-	Operator of a biotechnology company. The company discovers genes and biomarkers in common diseases using genome wide association studies (GWAS), leveraging its technology platform and access to patients.
-	['', 'genome studies', ' ', 'common diseases', ' biomarkers']
-Epitome Biosystems
-	Developer of technology to measure protein biomarkers and intracellular infrastruture. The company has developed a system using antibody microarrays to provide   measurement of protein biomarkers and intracellular signalling pathways.
-	['', 'protein measurement', ' ', 'phosphorylation measurement', ' ', 'biological system', ' ', 'drug discovery', '']
-Spectra Biomedical
-	Operator of a biotechnology company focused on neurological conditions. The company provides research into the genetic basis of certain neurological conditions, including migraine headaches.
-	['', 'biotech company', ' migraine ', 'genetic research', ' ', 'neurological condition', '']
-Syntherix
-	Operator of a biotechnology company. The company focuses in the invention of third generation cancer biomarkers using proteomics.
-	['cancer biomarkers proteomics']
-AnalytiCon Discovery
-	Operator of a biotechnology firm that involves in drug discovery. The company maintains a library of purified natural products and semi-synthetic compounds derived from natural products.
-	['', 'semi-synthetic compounds', ' ', 'natural product', ' ', 'small molecules', ' ', 'cosmetics industries', '']
-Cellular Research
-	Operator of a biotechnology research and development company. The company focuses on life science research by enabling investigation of single cells and limited samples.
-	['', 'molecular indexing', ' ', 'single cell', ' ', 'biotechnology research', '']
-The African Food Company
-	Cultivator of organic bananas. The company focuses on providing organic bananas, aiming to generate solid financial returns in combination with delivering great social and environmental benefits.
-	['plantation ', 'organic food', ' banana']
-Virxsys
-	Provider of a biotechnology company. The company provides technology for the development of gene and vaccine therapies for the treatment of HIV, cancer and genetic diseases.
-	['', 'vaccine therapy', ' ', 'genetic disease', ' ', 'biotechnology company', '']
-Anteo Diagnostics
-	Operator of a biotechnology company. The company develops and commercializes specialized surfaces used in life sciences and the research and development of surfaces for specific binding of proteins.
-	['', 'specific binding', ' Mix&Go ', 'life sciences', '']
+Quay Technologies
+	Provider of environment friendly UV disinfection system for water and wastewater applications. The company’s purification technology uses microwave ultraviolet technology to energize low-pressure, high-output bulbs for municipal or industrial water and wastewater disinfection.
+	['', 'disinfection system', ' ', 'wastewater application', ' ', 'purification technology', ' ', 'environment friendly', '']
+BluMetric Environmental
+	Designer of onsite wastewater treatment systems for domestic and industrial sites. The company offers products that focus on environmental problems relating to water treatment, re-use, and wastewater technology.
+	['', 'environmental services', '']
+Thermoenergy
+	Provider of technologies for wastewater recovery and clean energy production. The company is engaged in the commercialization of patented proprietary municipal and industrial wastewater treatment and power generation technologies.
+	['', 'wastewater recovery', ' ', 'clean energy productio', ' ', 'wastewater treatment', '']
+Pentadyne Power
+	Manufacturer of flywheel clean energy storage systems for energy recycling applications. The company\'s power system engineering features a high-speed composite flywheel, fully-active magnetic bearings and an integrated vacuum system. This combination provides significant advantages including reliability, operating costs and footprint. The Pentadyne flywheel system delivers 120 kW of instant, precise electrical power for up to 20 seconds.
+	['', 'storage system', ' ', 'clean energy', ' clean-tech ', 'energy recycling application', '']
+Range Fuels
+	Producer of cellulosic ethanol. The company\'s clean energy technology uses biomass for the production of ethanol.
+	['', 'cellulosic ethanol', ' ', 'ethanol production', ' ', 'clean energy', ' ', 'biomass conversion', '']
+BioFuelBox
+	Provider of a process that treats the lipid content of municipal wastewater and municipal FOG. The company also serves fuel distributors and blenders, and high-volume fuel users.
+	['', 'municipal wastewater', ' ', 'algae paste', ' ', 'waste fat', ' ', 'air flotation waste', '']

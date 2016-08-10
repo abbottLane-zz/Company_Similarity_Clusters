@@ -1,21 +1,27 @@
-Styletread
-	Online retailer of shoes in Australia. The company is a multi-brand retailer of shoes for men, women and children. Its products include fashion footwear, dress shoes, athletic footwear and boots.
-	['', 'online shoe store', ' ', 'athletic footwear', ' ', 'formal shoes', ' ', 'fashion footwear', '']
-Deal Mates
-	Operator of an online shopping mall in Malaysia. The company as an online flash sales website which offers clothing, handbags, jewelry, watches, shoes and accessories.
-	['', 'shopping mall', ' handbags watches']
-Visual Meta
-	Operator of online shopping portals. The company offers shoes, fashion, bags, jewelry and furniture through its websites.
-	['', 'pet supplies', ' spirits ', 'shopping portals', '']
-NearbyNow
-	Provider of on line services to retailers and shopping centers that allow consumers to search local store inventory using the Internet or mobile phones. The company offers information on baby products, such as car seats, clothes, furniture, highchairs and feedings, shoes, slings and carriers, and strollers; bathroom furniture, blankets, comforters, mirrors, pillows, rugs, shower curtains, toilet accessories, and towels; maternity products, including clothing and personal care; and clothing and accessories, including athletic and workout products, belts, blazers and sport coats, dresses, handbags and wallets, hoodies and sweatshirts, jeans, lingerie, outerwear, pants, petites, shirts and tops, shorts, skirts, sleepwear, socks and hosiery, suits, sweaters, swimwear, ties, and underwear products.
-	['', 'on-line marketing service', ' ', 'local store inventory', ' ', 'on line retail shop', ' ', 'on-line local market shopping', ' ', 'mobile shopping application', ' ', 'local store inventory information', ' ', 'scan local market product', ' ', 'nearby store information', ' ', 'local shopping center information', '']
-Milk and Honey Shoes
-	Operator of a women’s footwear brand. The company allows women to design their own footwear online from the various designs offered that includes platform pumps, stilettos, pumps, flats, oxford heels, oxford flats, wedges, platform wedges, wedges, boots, moto boots, booties, ankle boots, platform sandals, sandals and flat sandals.
-	['', 'women’s footwear', ' stilettos sandal']
-Monnierfreres
-	Provider of retail website for women\'s luxury items. The company provides products such as glasses, handbags, jewels, scarves, gloves, hats and leather-branded accessories.
-	['', 'online retail', ' ', 'luxury accessory', ' ', 'web platform', ' ', 'branded product', '']
-6pm.com
-	Provider of an online outlet for discount shoes, clothing, bags, and accessories. The company sells shoes, sandals, boots, slippers, clearance clothing, handbags, backpacks, travel bags, briefcases, watches, sunglasses, jewelry, hats, scarves, gloves, socks, belts, wallets, and electronics.
-	['', 'clothing bag', ' watch scarf glove electronic briefcase wallet']
+iSend
+	Provider of bill payment and money-transfer services. The company enables customers to pay utility and wireless phone bills through a network of retailers in the United States. It also processes transactions in Mexico, Brazil, Guatemala, Honduras and El Salvador, as well as satellite and mortgage payments in Mexico, Brazil and Guatemala.
+	['', 'bills payment', ' ', 'money transfer', ' ', 'mortgage payment', '']
+Simple Finance Technology
+	Provider of banking services through Web and mobile applications. The company works in partnership with financial institutions that hold the actual deposits. It also offers deposit, money transfer and online bill payment services.
+	['', 'online banking', ' ', 'money transfer', ' ', 'bill payment', ' deposit ', 'debit card', ' ', 'consumer banking', ' ', 'saving account', '']
+RapidMoney
+	Provider of online financial services. The company provides an online platform for multiple transfer services, including money, bank wire, international and Western Union. The company also is a provider of consumer-loan services.
+	['', 'consumer finance', ' ', 'money transfer', ' lending']
+3V Transaction Services
+	Provider of stored value accounts and standard and contactless payment cards. The company also provides mobile payments and money transfer services at a product and platform level to corporate clients internationally.
+	['', 'stored value account', ' ', 'contactless payment card', ' ', 'standard payment card', ' ', 'money transfer', '']
+Venmo
+	Provider of text messaging-based digital wallet payment system. The company is a social payments platform that makes it easy for friends to exchange money using their phones.
+	['', 'bill payment', ' ', 'text messaging', '']
+Wipit
+	Provider of mobile payments and financial services. The company enables underbanked consumers to use cash for payments on their mobile phone with an integrated prepaid card. It also provides financial services such as international money transfer, mobile check deposit, bill payment and prepaid wireless replenishment.
+	['', 'mobile payment', ' ', 'wireless telecom', ' ', 'prepaid stored value', '']
+Trivnet
+	Provider of mobile payment and mobile commerce services. The company enables payment and commercial services offered by operators and service providers, allowing a rapid rollout of profitable offerings with a minimal investment.
+	['', 'mobile financial service', ' ', 'mobile payment', ' ', 'mobile commerce', ' ', 'mobile money transfer', '']
+mChek India Payment Systems
+	Provider of mobile payment services. The company offers mobile banking and payment services. It offers a hosted service for mobile money transfer and secure payments using credit cards, debit cards, bank accounts and stored-value wallets.
+	['', 'mobile payment', ' ', 'mobile banking', ' ', 'mobile money transfer', ' ', 'secure payment', ' ', 'stored value wallet', '']
+WildCard Systems
+	Provider of electronic host based stored-value cards, virtual stored-value accounts, and internet payment products and services. The company develops software that creates and stores financial services information, similar to the technology that is used for prepaid phone cards, which stores information on available phone minutes and then registers a debit as the card is used.
+	['', 'electronic host', ' ', 'stored-value accounts', ' ', 'financial services', '']

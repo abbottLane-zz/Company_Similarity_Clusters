@@ -1,18 +1,36 @@
-Whale Communications
-	Provider of access products, including secure sockets layer virtual private networks, and Web application firewalls, as well as application security, and endpoint security offerings. The company\'s solutions provide remote access, content inspection, and granular access control. It enables businesses to protect corporate applications and data when accessed remotely by mobile workers, partners, and customers.
-	['', 'socket layer', ' ', 'virtual private network', ' ', 'web application', ' ', 'content inspection', '']
-MagniFire Websystems
-	Provider of comprehensive web infrastructure security solutions. The company develops products that enables businesses to protect their most critical data, applications and customer relationships with a low total cost of ownership.
-	['']
-Queplix
-	Developer of information access solutions for retail, manufacturing, telecommunications, energy, software, and healthcare sectors. The company offers QueCloud, which enables customers to extract structured data, business logics, and security access controls, as well as publish cloud-ready J2EE applications to private or public cloud infrastructures; Virtual Data Manager platform that enables users to migrate data from one application to another; and QueSearch for information access and productivity in areas, such as customer care, legal e-discovery, channel partner tools, and Web self-service, as well as Application Software Blades that enable Virtual Data Manager platform to connect to various source applications and data.
-	['', 'information access', ' ', 'data extraction', ' ', 'business logic', ' ', 'data security', ' ', 'data manager', ' ', 'virtual data', ' ', 'cloud infrastructure', '']
-Descant
-	Provider of tools to quantify and benchmark the performance of companies using financial and market metrics. The company creates web application that makes it easy for businesses to manage and access financing and credit from a position of strength.
-	['', 'performance benchmarking', ' ', 'financial analysis', ' ', 'performance measurement tool', '']
-GoRemote Internet Communications
-	Provider of secure remote access solutions, enabling customers to achieve network security, while reducing capital and operating expenses associated with their mobile and remote workforces. The company provides a portfolio of managed remote access solutions for mobile office, teleworker/home offices, and branch office/retail environments.
-	['broadband ', 'network security', ' ', 'access solutions', ' ', 'mobile office', '']
-Aventail
-	Provider of secure sockets layer virtual private network remote access technology. The company provides secure sockets layer virtual private networks (SSL VPN) appliances.
-	['', 'virtual private network', ' ', 'secure socker layer', ' ', 'remote access', '']
+Foodik.ru
+	Provider of an online food ordering service in Russia. The company provides convenience to customers and new degree of automation to restaurants.
+	['restaurants ', 'food joints', ' automation']
+Five Guys Restaurants (8 sites )
+	Portfolio of 8 restaurants. The restaurants are located across central California including Elk Grove, Fresno, Lodi, Natomas, Roseville, Stockton, Tracy and West Sacramento.
+	['burger ', 'junk food', ' ', 'restaurant service', '']
+Pollo Rey
+	Chain of Mexican food restaurants. The company provides dishes like Gourmet Burritos,  Roasted Chicken, Fish Tacos, Quesadillas, Fresh Salads, Stuffed Potatoes and Vegetarian Food.
+	['Quesadillas']
+Sqipp
+	Developer of a location based mobile ordering application from restaurants. The company enables restaurants to integrate a mobile ordering platform that makes orders and restaurant operations while allowing users to order and pay at participating restaurants using a smartphone.
+	['', 'ordering application', ' ', 'participating restaurant', ' ', 'mobile ordering platform', '']
+HealthyOut
+	Provider of an online nutrition and restaurant guide. The company develops a mobile application which aggregates food items from online ordering sites and provides consumers with an interface to enter dietary requirements, find appropriate dishes and purchase them.
+	['', 'restaurant guide', ' ', 'online services', ' ', 'online nutrition', '']
+Skipola
+	Developer of white-labeled application for restaurants. The company develops application that has contact information, menus and includes ways to order food through the application.
+	['', 'white-labeled apps', ' ', 'restaurant information', ' ', 'food ordering', '']
+ClickDelivery
+	Provider of an online food delivery service. The company serves as distribution platform for online restaurant food and enables delivery through web and mobile applications.
+	['', 'online food delivery', ' ', 'food delivery', ' ', 'restaurant food', '']
+Just Eat
+	Provider of an online food-ordering platform. The company operates a global online and mobile marketplace for restaurant take-out food. It also provides services in 13 countries around the world, with more than 40,000 takeaway restaurants in its network.
+	['', 'online order', ' ', 'order processing', ' foodservice ', 'takeaway ordering', ' ', 'food delivery', '']
+Yemeksepeti.com
+	Provider of an online food ordering and delivery portal in Turkey. The company provides a platform enabling users to order food from their favorite restaurant through the Internet and have it delivered. The company\'s platform provides an aggregated list of the restaurants from which users can choose to place an order.
+	['', 'online food ordering', ' ', 'food delivery portal', ' ', 'online food delivery', ' ', 'food delivery', '']
+Jgzam
+	Provider of an online food delivery platform. The company allows its users to discover new restaurants in their city, order food and even see what their friends are ordering from different restaurants. The website also allows restaurants to to accept orders from customers.
+	['', 'food delivery', ' ', 'food order', ' ', 'online food ordering', ' ', 'food delivery platform', ' ', 'online delivery', ' ', 'online ordering', '']
+Ride On Express
+	Provider of food-delivery services in Japan. The company operates multiple B2C food-delivery services, including Silver Plate, Kettle Tiger and Fine Dine (a Web media partner for restaurants seeking online-ordering and delivery services.) The company also operates a framing service for children\'s artwork as an additional business venture.
+	['', 'food delivery', ' ', 'children artwork', ' ', 'online framing', ' ', 'delivery chains', '']
+Lasso.it
+	Provider of an online service offering delivery of spirits. The company offers on-demand delivery of artisan wine, beer, spirits, soda and specialty foods including cheese, sweets and meat platters from local merchants and gourmet food shops.
+	['', 'food delivery', ' ', 'wine delivery', ' ', 'online alcohol', '']

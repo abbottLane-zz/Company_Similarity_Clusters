@@ -1,18 +1,9 @@
-Zostel
-	Operator of chain of hostels and low-budget hotels. The company operates a branded chain of backpacker\'s hostels called zostel and offers low-budget hotel accommodations through their booking service Zo Rooms.
-	['', 'accommodation facility', ' ', 'booking service', ' hostel']
-Premier VCT (Dartford)
-	Owner and operator of a hotel. The company owns 12 bedrooms hotel in Dartford.
-	['', 'travel & leisure', ' ', '12 bedrooms', ' ', 'Holiday Inn', '']
-Rocket Travel
-	Provider of a hotel-booking website offering free airline miles as a booking incentive. The company offers an airline-mile stockpiling program, for users making multiple bookings.
-	['', 'hotel booking site', ' ', 'booking hotel room', ' ', 'free vacation', ' ', 'online vacation', ' ', 'hotel booking', ' ', 'frequent flier program', '']
-Active Hotels
-	Operator of an online hotel reservation company. The company operates an online hotel reservation website that links 2,000 smaller and medium-sized hotels in the UK. It creates mutually beneficial partnerships between hoteliers and distribution partners thereby lowering the hotel rates.
-	['', 'hotel booking', ' ', 'online booking', ' ', 'travel and tourism', '']
-FastBooking
-	Provider of online booking and electronic marketing services for the hospitality industry. The company designs and develops hotel websites, online marketing programs, Internet-enabled direct hotel website bookings, online marketing for hotel websites, consumer portals and integration with third-party consumer booking websites.
-	['', 'electronic marketing', ' ', 'internet ticket booking', ' ', 'website development service', ' ', 'marketing program', '']
-Leisurehunt.com
-	Provider of online hotel booking services to the general public and small businesses. The company has positioned itself as a B2B provider of online accommodation services.
-	['', 'online hotel booking', ' holiday ', 'resort booking', ' travel ', 'holiday package', ' ', 'travel booking', '']
+Cyrba
+	Manufacturer of whirlpool components. The company offers control systems, heaters, regulating valves, pop ups, light therapy, level sensors, air pumps and water pumps.
+	['', 'control systems', ' valves ', 'air pumps', '']
+Intrexon
+	Developer of biotherapeutic control systems. The company\'s technology involves the use of DNA as the natural control modality for the delivery, targeting, activation, regulation and location of biological therapeutics.
+	['', 'biotherapeutic control system', ' ', 'synthetic biology', ' ', 'biotechnology', ' ', 'DNA control systems', '']
+Aeronamic
+	Provider of products and services to the aerospace industry. The company offers airflow valves, air turbine starters, centrifugal load compressors, cooling turbines and re-circulation fans among other products. It also offers maintenance, repair and overhaul services.
+	['', 'aircraft components', ' ', 'aerospace industry', ' ', 'airflow valves', ' ', 'air turbine starters', '']

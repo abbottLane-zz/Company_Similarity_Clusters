@@ -1,36 +1,18 @@
-Yardbarker
-	Operator of a sports website. The company allows sports fans, bloggers, and professional athletes to read and discuss sports articles, view sports photos and videos, debate and interact with each other. It also operates an online store that offers women\'s, kid\'s, men\'s, and organic T-shirts; and baby one-pieces, accessories, and gift cards.
-	['', 'sports website', ' ', 'online sports media', ' ', 'online sports entertainment', ' ', 'online sports article', '']
-Shawei.com
-	Provider of an online platform for sports fans. The company offers web portal for chinese sports.
-	['', 'online sport platform', ' ', 'web portal', ' ', 'sport portal', '']
-Sports Technology (fantasy games)
-	Developer of fantasy games and user-generated content tools for sports brands. The company creates web technologies that allow fans to share their passion for sports. The company\'s main focus is to create innovative products and features targeting fantasy sports, sports fans and other online communities.
-	['', 'sports news', ' ', 'aggregated news', ' ', 'publishing tool', ' voting applications']
-Racing-Live
-	Operator of a motor sports website. The company\'s website covers live updates, news, and information of formula 1, rally, moto GP and superbike, off road rallies, sports-cars and kart racing.
-	['motor ', 'formula 1', ' ', 'moto GP', ' rally ', 'kart racing', '']
-Swoopt
-	Provider of a mobile platform for Fantasy Sports. The company provides fantasy sports gaming and tournament software for the mobile phone.
-	['', 'fantasy sport', ' ', 'game platform', ' ', 'mobile game platform', '']
-Bleacher Report
-	Provider of an open source sports network and community publishing site for amateur sports writers. The company allows sports fans to share insights and opinions, news and photos as well as write articles. It also provides advertising opportunities, including run-of-site and targeted campaigns.
-	['', 'sports network', ' ', 'community publishing', ' ', 'sports publishing', ' ', 'sports media', ' ', 'digital publishing', ' ', 'sports website', ' ', 'sports news', '']
-Skillboost Project
-	Provider of an e-learning platform for young soccer players. The company offers an online training system for sports and also features moves and dribbles from different angles through 3D visualization on web and smartphones.
-	['soccer ', 'e-learning platform', ' ', 'online sports training', ' ', 'sport training', '']
-MaxPreps
-	Publisher of online high school sports news and information. The company provides information related to baseball, basketball, football, G basketball, volleyball and other sports. It also offers information on team rankings on the national level, including statistics and the latest scoreboards.
-	['', 'high school sport', ' ', 'sports information', ' ', 'sports statistics', ' ', 'sports news', ' ', 'sports publishing', ' ', 'sports stats', ' ', 'sports rankings', ' ', 'sports reporting', '']
-PicksPal
-	Provider of online games, information, and entertainment for the sports fans. The company offers downloadable fantasy sports games, including football, basketball, baseball, golf, boxing, cycling, motor sport, and soccer; information in the fields of professional sports, fantasy sports players, and teams; commentary and articles about professional and fantasy sports; text and numeric wireless messaging, and on-line trading services; and on-line chat rooms and electronic bulletin boards for the transmission of messages among users.
-	['', 'professional sport', ' ', 'bulletin board', ' ', 'numeric wireless message', ' ', 'online game', '']
-YOUbeQB
-	Operator of an online multi-gaming platform. The company offers Fantasy PlayBook, a fantasy football game that enables players to take control of teams.
-	['', 'playcaller games', ' ', 'online gaming platform', '']
-Atomic Moguls
-	Provider of entertainment and sports fantasy applications for social-networking sites. The company provides fantasy games and sports content on social networks.
-	['', 'entertainment software', ' ', 'networking sites', ' ', 'fantasy application', '']
-ChessPark
-	Provider of online chess community. The company covers how to manage friends list, play games, and participate in chat rooms. It serves audience of casual, club, and professional players.
-	['', 'online chess', ' ', 'chess community', ' ', 'chess tournament', '']
+Seattle Silicon
+	Supplier of application specific integrated circuits, semiconductor and ASIC design software. The company offers large system houses and process-independent compiler systems.
+	['', 'integrated circuits', ' ASIC software']
+Cubic Wafer
+	Developer of integrated circuits. The company offers hybrid integrated circuits and multi-functional 3D integrated circuits. The company also designs and manufactures its own optical connection products for data links and optical communication applications.
+	['', 'integrated circuits', ' ', 'hybrid integrated circuits', ' ', '3D integrated circuits', ' ', 'optical communication', '']
+Integrated Circuit Solution
+	Designer and manufacturer of complementary metal-oxide-semiconductor integrated circuits. The company provides performance integrated circuits including memory products and logic products.
+	['', 'compact flash memory', ' ', 'application IC', ' ', 'commercial product', '']
+Capella Microsystems
+	Designer of integrated circuits primarily optical electronic products. The company manufactures integrated circuits which are used in telecommunications, mobile phones, smartphones, handheld devices, digital cameras, laptops, desktop computers, LED backlighting, office automation equipment, household electrical appliance and automotive electronics.
+	['', 'optical electronic products', ' ', 'integrated circuits', ' ', 'IC designer', '']
+Xemics
+	Provider of integrated circuits for short range wireless connectivity. The company offers semiconductor for process control, personal area networks, home and building automation networks and other automotive systems. The company was spun out of Swiss Center for Electronics and Microtechnology.
+	['', 'integrated circuits', ' radiofrequency ', 'digital IC', '']
+Decorati
+	Provider of an online source for interior decoration. The company also enables consumers to find a designer through its database of interior designer portfolios, as well as its interior designer matching service.
+	['', 'interior decoration', ' ', 'interior designer portfolio', ' ', 'interior designer matching service', '']

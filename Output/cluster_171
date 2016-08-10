@@ -1,57 +1,15 @@
-Sepro Telecom International
-	Developer and provider of rating and billing software. The company develops rating and billing software for telecommunications and electronic commerce industries.
-	['', 'billing software', ' ', 'electronic commerce', ' rating']
-Danyl
-	Manufacturer of electronic data collection which input to computerized accounting systems. The company also produces self-service electronic transaction systems with magnetic stripe cards.
-	['', 'electronic data collection', ' ', 'electronic transaction', ' ', 'magnetic stripe card', '']
-CheckFree
-	Provider of electronic commerce services. The company provides electronic billing and electronic statement creation, delivery, payment services and also offers electronic commerce, software and investment services.
-	['', 'e-billing', ' ', 'e-commerce', '']
-NetBuy
-	Provider of e-commerce purchasing services. The company provides services for OEMs, contract manufacturers and electronic manufacturing services whose real-time requirements for electronic components typically include small order, shortage and quick-turn manufacturing.
-	['', 'electronic components', ' ', 'purchasing service', ' ', 'contract manufacturers', ' ', 'online purchasing', ' ', 'internet retail', '']
-Alpha Mos
-	Manufacturer and developer of electronic sensing instruments for analyzing the chemical and sensory properties of products. The company\'s electronic noses measure volatile organic compounds (VOC) and odors, electronic tongues analyze the taste of products, vision analyzers evaluate the color and shape and Gas chromatographs analyze the chemical composition of products and coupled with the odor analysis module, can further qualify odor-related compounds.
-	['', 'electronic sensing instrument', ' ', 'electronic nose', ' ', 'electronic equipment', '']
-TeleKnowledge Group
-	Provider of e-commerce services offering customer care and electronic billing. The company provides content commerce platform for fee based services such as customer service and billing applications.
-	['', 'revenue growth', ' billing ', 'electronic billing', '']
-Atrenta
-	Provider of realization services for the semiconductor and electronic systems industries. The company designs and develops a system on chip that pinpoints structural, coding and consistency problems in register transfer language (RTL) and enables users to fine tune testability during RTL creation.
-	['', 'electronic system', ' ', 'electronic equipment', ' ', 'register transfer language', '']
-ShopIgniter
-	Provider of electronic commerce software services. The company\'s social performance marketing platform enables digital marketing leaders to reach and convert their social mobile consumers.
-	['', 'internet retail', ' ', 'electronic commerce', ' ', 'software service', '']
-Profile Systems
-	Developer of product data and supply chain management solutions for business-to-business electronic commerce. The company also offers extensive consulting services, including product data cleanup, supplier enablement/assessment, inventory consulting and overall electronic commerce and supply chain scoping projects.
-	['e-business ', 'supply chain management', ' SCM']
-ShopLocket
-	Provider of electronic commerce platform. The company allows users to create single-item storefronts they can embed on any website.
-	['', 'electronic commerce', ' ', 'link sharing', ' ', 'video embedding', ' ', 'online sale', ' ', 'ecommerce platform', '']
-Fiserv
-	Provider of information management and electronic commerce systems and services. The company\'s services include transaction processing, electronic bill payment and presentment, business process outsourcing, document distribution services and software development.
-	['', 'information management', ' ', 'electronic commerce systems', ' ', 'transaction processing', '']
-PartMiner Worldwide (CAPS Business)
-	Supplier of electronic components for the electronics industry.
-	['', 'electronic component', ' ', 'electronic tool', ' ', 'electronic component database', ' ', 'equipment manufacturer', '']
-Securant Technologies
-	Developer of software solutions that provide a solid, integrated security infrastructure for electronic commerce. The company\'s software enables companies to easily manage a cohesive security policy required when deploying secure electronic commerce applications on the Web or across an Enterprise.
-	['eBusiness ', 'security software', ' ', 'electronic commerce', '']
-Trivnet
-	Provider of mobile payment and mobile commerce services. The company enables payment and commercial services offered by operators and service providers, allowing a rapid rollout of profitable offerings with a minimal investment.
-	['', 'mobile financial service', ' ', 'mobile payment', ' ', 'mobile commerce', ' ', 'mobile money transfer', '']
-ThorpeGlen
-	Provider of electronic surveillance services. The company provides monitoring and tracking systems, data extraction and analytical services for law enforcement agencies.
-	['', 'proactive monitoring', ' ', 'data extraction', ' ', 'homeland security', ' ', 'organized crime', ' faruds']
-EC Cubed
-	Provider of the application components for the business-to-business electronic commerce marketplace. The company provides the cross-application components platform that allow organizations to build electronic-commerce applications.
-	['', 'electronic commerce', ' ', 'cross-application', ' ', 'electronic commerce', '']
-Printechnologics
-	Developer of electronic printed functionalities for the printing industry. The company offers an invisible electronic data tag that transforms paper, cardboard, plastics, films and labels into digital content and enables direct link between online and offline communications.
-	['', 'electronic printer', ' ', 'digital content', ' printer']
-AudeSi Technologies
-	Developer and marketer of smart card based terminals that facilitate electronic commerce in the home and at unattended point of sale sites. The company\'s business strategy is to specify, design and develop its products for license to large scale manufacturing and marketing organizations.
-	['', 'point of sale', ' ', 'electronic commerce', '']
-Tradecom Soluções Empresariais de Comércio Electrónico
-	Provider of electronic commerce services. The company offers an platform for business-to-business electronic commerce services to enterprises in Portugal.
-	['', 'B2b services', ' ', 'electronic commerce', ' ', 'business-to-business e-commerce', '']
+Xanto Technologies
+	Provider of wireless based devices for multimedia data exchange and security storage. The company developes innovative pocket wireless based storage devices that allow data exchange without the mediation of a personal computer.
+	['', 'wireless devices', ' ', 'security storage', ' ', 'multimedia data exchange', ' ', 'wireless based devices', '']
+FTAPI Software
+	Provider of software for the secure transmission and storage of data. The company\'s data space allows location-independent and share access to files and replace FTP server through a data exchange option.
+	['', 'data transmission', ' ', 'data storage', ' ', 'file sharing', ' ', 'data exchange', '']
+CyberSynchs
+	Provider of data synchronization services. The company\'s products provide data backup, data transmission and video streaming over the internet across independent devices and operating systems.
+	['', 'data synchronization', ' ', 'video streaming', ' ', 'wireless synchronization', ' ', 'digital content', ' ', 'data transmission', '']
+ENQIO Holding
+	Provider of software for in-depth analyses of company data. The company allows management to calculate risks in a timely fashion and make informed, corporate decisions. It is primarily focused on the telecom, financial, public and media sectors.
+	['', 'data analyses', ' ', 'decision making', ' ', 'risk calculation', '']
+ShareFile
+	Provider of software solutions that help businesses exchange files. The company offers an online file storage solution that allows users to create a custom-branded password-protected area where users exchange business files with clients
+	['', 'software solution', ' ', 'businesses exchange file', ' ', 'online file storage', ' storage']

@@ -1,54 +1,24 @@
-Agouron Pharmaceuticals
-	Developer of therapeutic products to treat cancer and AIDS. The company engages in the discovery, development and commercialization of drugs for treatment of cancer, viral diseases and diseases of the eye.
-	['biomedical pharmacology immunogenetics']
-Karyopharm Therapeutics
-	Developer of drugs for the treatment of cancer, inflammation and diseases related to cell proliferation. The company focuses on discovery and development of novel first-in-class drugs directed against nuclear transport targets for the treatment of cancer and other major diseases.
-	['', 'cancer treatment', ' ', 'inflammation drug', ' ', 'cell proliferation', '']
-Quanticel Pharmaceuticals
-	Developer of medicines for the treatment of cancer and other life-threatening diseases. The company provides a platform for single-cell genomic analysis of human cancer.
-	['', 'therapeutic treatment', ' ', 'medicine development', ' ', 'disease treatment', '']
-Niiki Pharma
-	Provider of cancer treatments directed at novel cellular targets and related companion diagnostics. The company specializes in oncology.
-	['cancer oncology ', 'novel cellular target', '']
-Promic
-	Developer of antibacterial drugs. The company focuses on discovery of drugs needed to treat hospital-acquired and community-associated infections.
-	['antibiotic infection antibacterial cheminformatics']
-Matrix Therapeutics
-	Developer of drugs for the treatment of cancer and inflammatory diseases. The company\'s product TO2 is a natural non-opioid compound combining anesthetic and analgesic activity, but without causing respiratory depression or lowering blood pressure. The company is a spin out from The University of Manchester.
-	['', 'inflammatory diseases', ' ', 'cancer drugs', ' ', 'non-opioid compound', ' ', 'drug research', '']
-Paradigm Therapeutics
-	Developer of drugs combining model genetics and bioinformatics. The company provides target identification and validation services based on gene knock out technology and in vivo pharmacology. The company has developed a drug discovery pipeline comprising targets and late stage pre-clinical projects in pain, CNS disorders, hormone dependent diseases such as prostate and breast cancer and metabolic diseases such as diabetes, hyperlipidemias, obesity and osteoporosis.
-	['', 'hormone dependent diseases', ' bioinformatics ', 'model genetics', ' ', 'validation services', '']
-Arbutus Biopharma
-	Provider of ribonucleic acid (RNA) interference therapeutics and lipid nanoparticle delivery technology to pharmaceutical partners. The company focuses on the development of internal product candidates that include apolipoprotein B (ApoB) SNALP for the treatment of high cholesterol and polo-like kinase 1 (PLK1) SNALP for the treatment of cancer.
-	['', 'RNA interference therapeutics', ' ', 'lipid drug delivery', ' ', 'high cholesterol treatment', ' ', 'therapeutic device', '']
-Jennerex Biotherapeutics
-	Developer of oncolytic products for cancer. The company\'s products include JX-594, an engineered oncolytic virus that selectively targets and destroys cancer cells, JX-929 that targets the epidermal growth factor receptor and ras signal transduction pathways and JX-963, which is engineered from a strain of vaccinia virus.
-	['', 'cancer treatment', ' ', 'oncolytic product development', ' ', 'vaccinia virus', ' ', 'epidermal growth', '']
-IOmet Pharma
-	Developer of drugs in the preclinical area of the drug discovery process. The company focuses on the development of innovative medicines for the treatment of cancer, with particular emphasis on the fields of cancer immunotherapy and cancer metabolism.
-	['', 'drug discovery', ' ', 'nervous system disorder', ' ', 'oncology therapeutic', '']
-Conforma Therapeutics
-	Developer of drugs for the treatment of cancer. The company develops drugs that induce tumor cells to degrade the proteins that promote cancer growth. It offers the HSP90 product, CNF1010 which is used for the treatment of cancer.
-	['', 'cancer treatment', ' ', 'tumor cell', ' ', 'cancer growth', '']
-Scancell
-	Developer of biopharmaceutical products. The company engages in the discovery and development of novel monoclonal antibodies and vaccines for the treatment of cancer and infectious diseases based on its ImmunoBody and Moditope platforms.
-	['', 'biopharmaceutical product', ' ', 'monoclonal antibodies', ' ', 'infectious diseases', '']
-Nereus Pharmaceuticals
-	Developer of therapeutic drugs for the treatment of cancer. The company is engaged in discovery and development of therapeutic medicines and drugs which are used in the treatment of tumors, cancer, colon, prostate and other inflammatory diseases.
-	['', 'marine microbiology technology', '  therapeutic ', 'development of therapeutic', ' ', 'treatment of oncology', '']
-Bellerophon Therapeutics
-	Provider of clinical biotherapeutics services. The company is focused on developing products for critical care combining novel drugs and devices in the treatment of cardiopulmonary and cardiac diseases.
-	['', 'critical care product', ' ', 'clinical biotherapeutic', ' ', 'cardiopulmonary disease', ' ', 'investigational device', ' ', 'drug-device therapy', ' ', 'pulmonary arterial hypertension', '']
-Ipsen Bioinnovation
-	Provider of  biologics platform generating a pipeline of Targeted Secretion Inhibitors (TSIs) to treat diseases where secretion is the major driver, including pain, endocrine conditions and cancer. The company genetically engineers bacterial toxins to develop novel drugs that inhibit abnormal cell secretion, a key component of many diseases. The company is focused on the treatment of neurological, inflammatory and endocrine diseases.
-	['', 'genetical engineering', ' ', 'abnormal cell secretion', ' ', 'Developer of drug', '']
-Xcellsyz
-	Developer of drugs for the treatment of diabetes and obesity. The company is using human cell-based systems biology to discover new drugs to treat metabolic diseases such as diabetes and obesity.
-	['', 'obesity treatment', ' ', 'cell-based systems biology', ' ', 'metabolic diseases', '']
-Ionis Pharmaceuticals
-	Provider of antisense drug discovery and development exploiting a novel drug discovery platform it created to generate a pipeline of first-in-class drugs. The company\'s provides a direct route from genomics to drugs. The company discovers and conducts early development of new drugs and, at the key clinical value inflection points, outlicense the drugs to its partners.
-	['', 'antisense drug', ' ', 'drug delivery', '']
-Cell Genesys
-	Developer of novel biological therapeutic products for patients with cancer.The company pursues three cancer product platforms -- GVAX(R) cancer vaccines, oncolytic virus therapies and in vivo cancer gene therapies. The company provides clinical trials of GVAX(R) vaccines are under way in prostate cancer, lung cancer, pancreatic cancer, leukemia and myeloma.
-	['', 'therapeutic products', ' ', 'cancer treatment', '']
+DATAllegro
+	Provider of data warehouse appliances.
+	['', 'data warehouse', ' ', 'warehouse appliance', '']
+Omniture
+	Provider of online business optimization software. The company hosts and delivers Omniture Online Marketing Suite, as an on-demand solution, as well as an on-premise solution that consists of Open Business Analytics Platform and integrated set of optimization applications for online analytics, channel analytics, visitor acquisition and conversion.
+	['software data warehouse information']
+Electron
+	Provider of database hosting services. The company provides technology platforms to improve the performance of enterprise applications, data warehouses and cloud computing infrastructures.
+	['', 'hosting service', ' ', 'advanced software technology', ' ', 'enterprise application', ' ', 'data warehouse', '']
+InfiniDB
+	Provider of analytic database software for information processing applications. The company provides data warehouse storage engine for analytical data, analytical workloads and analytical data volumes. It also offers support services for the implementation of data warehouse.
+	['', 'analytic database software', ' ', 'storage engine', ' warehousing']
+Maximal
+	Provider of business intelligence services that enable organizations to discover the knowledge hidden in their data warehouses, gaining competitive edge.
+	['knowledge ', 'business intelligence', ' ', 'data warehouse', '']
+Prism Solutions
+	Designer, developer and marketer of data warehouse management software solutions in United States. The company also provides database management solutions to its customers.
+	['', 'data warehouse', ' ', 'database solution', ' DBMS']
+nQuire Software
+	Provider of the internet-based search and analytic platform for structured information. The company server accesses the data warehouses and intelligently federates information from multiple systems and data sources including data warehouses, data marts, operational, transactional and XML-based sources.
+	['', 'analytic platform', ' ', 'server access', ' ', 'data warehouse', ' ', 'data mart', ' ', 'xml source', '']
+SenSage
+	Provider of enterprise event data warehouse technology for security, compliance, call detail records data retention, data retrieval and systems management. The company offers enterprise security analytics software that provides a log management platform, for event collection, retention and analysis to automate compliance reporting, investigation and security decision support processes.
+	['', 'data warehouse', ' ', 'log management platform', ' ', 'data management architecture', ' ', 'log management', ' ', 'system management', ' ', 'security process', ' ', 'compliance reporting', '']

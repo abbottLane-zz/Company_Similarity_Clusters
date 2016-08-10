@@ -1,42 +1,27 @@
-CrystalVoice
-	Provider of quality-of service-software for VoIP solutions.
-	['', 'clear voice communication', ' ', 'clear voice', ' ', 'voice communication', '']
-Combrio
-	Provider of remote product services (RPS) software to managed services, enterprise information technology and industrial automation organizations to monitor and manage remote devices. The company’s products include Virtual Service Infrastructure software solution (VSI), an RPS ecosystem that provides the service delivery solutions for service providers, remote device monitoring and management solutions for service organizations and the service control solutions for enterprises.
-	['', 'remote product services', ' ', 'managed services', ' ', 'enterprise information technology', ' ', 'industrial automation', ' ', 'remote devices', '']
-BrowserCam
-	Provider of screen capture and remote access services for Web developers and QA engineers. The company provides screen capture service that captures and displays in up to three PDA formats. It provides remote access service for testing mouseovers, javascript, forms, dynamic layouts, cascading style sheets and other platform dependent functionality. It also provides private virtual work spaces.
-	['', 'remote access', ' ', 'screen capture service', ' ', 'virtual work space', ' ', 'testing mouseover', ' javascript ', 'email capture', '']
-OakNet Publishing
-	Provider of newsletter mailing service and ezine ad agency.
-	['', 'newsletter mailing', ' ', 'mailing service', ' ', 'ad agency', '']
-EPiCON
-	Developer of software platforms that enable application service providers (ASPs) and enterprises to manage the life-cycle of desktop applications and application components from a central server on the Internet. The company\'s products include a software platform, which enables enterprises, and information technology departments to target applications to users based on central policies; deploy applications and application components to Windows personal computers (PCs) without overloading the network; and install applications and components automatically on PCs, without intervention from the PC users.
-	['', 'software platform', ' ', 'desktop application', ' ', 'application component', '']
-B-hive Networks
-	Provider of virtual environment management solutions. The company offers B-hive Conductor, a software solution, which delivers service level control in virtualized IT environments. It’s software solution also provides visibility into the multi-tier applications, such as end-user transaction response time, virtual machine utilization, and cross-virtual machine dependencies to the virtual infrastructure groups, as well as determines baseline performance and usage of various business services and issues service level reports. It also plans and implements virtualization projects ranging from installation to capacity planning to performance improvement, as well as offers service delivery assessment services.
-	['', 'environment management', ' ', 'service level control', ' ', 'virtual machine utilization', ' ', 'cross virtual machine', '']
-Mobilespan
-	Provider of remote access platform for personal devices. The company provides Bring Your Own Device (BYOD) technology that enables a company’s workforce to work from anywhere, on any device, while remaining integrated with existing management systems and fully compliant with data governance standards.
-	['', 'data governance', ' ', 'remote access', ' ', 'personal device', ' ', 'mobile device', '']
-NativeMinds
-	Provider of Virtual Representatives or vRepsTM, which offers self-service solutions for Web customers. The company\'s software and services are used by organizations to answer product and service inquiries.
-	['vRepsTM ', 'Virtual Representatives', ' ', 'self-service solutions', ' ', 'application software', '']
-NTRglobal
-	Provider of remote access technology and services for information technology (IT) service management and external customer support applications worldwide.
-	['', 'remote access technology', ' ', 'customer support application', ' ', 'service management', '']
-JDS Uniphase
-	Viavi Solutions Inc was incorporated in California in 1979 and reincorporated in Delaware in 1993 as JDS Uniphase Corp (CA). The Company changed its name from JDS Uniphase Corp (CA) to Viavi Solutions Inc. The Company is a provider of network and service enablement solutions and optical products for telecommunications service providers, wireless operators, cable operators, network-equipment manufacturers and enterprises. Its segments include Network Enablement, Service Enablement, Communications and Commercial Optical Products and Optical Security and Performance Products. The Network Enablement segment provides an integrated portfolio of testing solutions that access the network to perform build-out and maintenance tasks. These solutions include instruments, software and services to design, build, turn-up, certify, troubleshoot and optimize networks. The Service Enablement segment provides embedded systems and enterprise performance management solutions that supply global service providers, enterprises and cloud operators visibility into network, service and application data. The Communications and Commercial Optical Products segment addresses end markets including data communications (Datacom) and telecommunications (Telecom) networking and commercial lasers (Lasers) for manufacturing, inspection and life-sciences applications. The Optical Security and Performance Products segment leverages its core optical coating technologies and volume manufacturing capability to design, manufacture, and sell products targeting anti-counterfeiting, consumer and industrial, government, healthcare and other markets. The Company markets its products to telecommunications and cable service providers, NEMs, original equipment manufacturers (OEMs), enterprises, governmental organizations, distributors and strategic partners. Its competitors include Giesecke & Devrient, Agilent Technologies, Inc., Anritsu Corporation, Exfo Inc., Ixia, NetScout Systems, Inc.
-	['', '', 'optical communications', ' laser']
-Wisor Telecom
-	Provider of e-sourcing solutions for communications services. The company\'s products control service inventory, help in auditing, reconciliation of vendor/supplier invoices, manage vendor performance, facilitate on-time service delivery and manage service rules.
-	['', 'communication services', ' ', 'service management', '']
-Operax
-	Provider of products for dynamic service and bandwidth control. The company offers dynamic resource and admission control product for single service deployments.
-	['', 'bandwidth management', ' ', 'internet protocol network', ' ', 'Connectivity Product', '']
-Avenda Systems
-	Provider of network access solutions for user and endpoint authentication and posture assessment. The company offers trust and identity policy solutions for enterprises and government organizations internationally. It also provides a proactive resource management solution that secures networks and organizations from threats before the user gains access.
-	['', 'network access', ' ', 'endpoint authentication', ' ', 'posture assessment', ' ', 'identity policy', ' ', 'management solution', '']
-NetSolve
-	Provider of enterprise data networking services. The company offers services for managing remote network and complex IT infrastructures with remote management technology. It also helps in monitoring and management of IP communications networks, security software and devices, WANs and LANs and also offers a secure web-based portal to give customers and partners real-time visibility of their IT infrastructure.
-	['', 'IT infrastructure', ' ', 'remote network', ' ', 'software infrastructure', ' monitoring firewall']
+Frozen Codebase
+	Developer of gaming software. The company provides 3 dimensional video games for both download and store based markets.
+	['', 'gaming software', ' ', '3D games', ' ', 'store-based markets', '']
+Mütli
+	Provider of game servers. The company provides hosting services for multi-player games.
+	['', 'game server', ' ', 'multi-player games', ' ', 'hosting services', '']
+JGame
+	Operator of an online gaming site. The company engages in providing online game services in Japan.
+	['', 'online gaming', ' ', 'gaming site', ' ', 'entertainment services', '']
+C Sports Ventures
+	Developer of a gaming application. The company provides users with online arcade and multi player games.
+	['', 'online sports', ' ', 'gaming application', ' ', 'online gaming', '']
+Turf
+	Provider of gaming application. The company provides a platform where the game is et in the real world where users hang out with friends, amass gold coins, and acquire goods and properties in a battle to tame surroundings. The company provides the users to spend coins earned to purchase virtual versions of the property, then enhance it with upgrades to increase its value, collecting more coins when others visit.
+	['', 'gaming application', '']
+Greentube Internet Entertainment Solutions
+	Developer and producer of gaming applications for electronic media. The company provides gaming, entertainment and gambling products for large and small B2B customers holding a valid gaming license in jurisdictions all over the world.
+	['', 'slot game', ' core gambling']
+Gaikai
+	Provider of online gaming service. The company\'s cloud-based gaming technology allows users to play major PC and console games.
+	['', 'online gaming', ' ', 'gaming technology', ' ', 'gaming network', ' ', 'game application', ' ', 'cloud based gaming', '']
+Discovery Bay Games
+	Provider of iOS accessories and supporting applications. The company develops content for tablet play experiences.
+	['', 'iOS accessory', ' ', 'multi player game', ' ', 'gaming application', ' ', 'game accessory', ' ', 'tablet accessory', ' ', 'iPad accessory', '']
+C3L3B Digital
+	Developer of gaming software. The company develops massively multi-player online (MMO) games.
+	['MMO ', 'online game', '']

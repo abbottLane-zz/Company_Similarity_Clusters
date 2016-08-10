@@ -1,27 +1,9 @@
-Amerigroup
-	Provider of managed healthcare services. The company focuses on serving people who receive healthcare benefits through publicly sponsored programs, including Medicaid, Children\'s Health Insurance Program, Medicaid expansion programs, and Medicare Advantage.
-	['', 'managed healthcare', ' ', 'healthcare benefits', ' ', 'health programs', '']
-Delos WomensHealth
-	Provider of healthcare services to women.
-	['', 'gynocology', ' ', 'Obstetrics', '']
-Rehab Associates
-	Provider of physical and occupational therapy services in owned and managed free-standing clinics and hospital departments. The company operates 37 points of service throughout the states of Alabama, Colorado, Georgia, Illinois and Missouri.
-	['', 'therapy service', ' ', 'free-standing clinics', ' ', 'occupational therapy', ' ', 'managed free-standing', '']
-Dogpatch Labs
-	Provider of work space and consultancy services for startups. The company provides desk space, bandwidth and lunch services to aspiring entrepreneurs for their startups.
-	['', 'work space', ' ', 'desk space', ' ', 'lunch services', ' entrepreneurs']
-Circle Health
-	Provider of healthcare services. The company operates hospitals, outpatient clinics and community services throughout the U.K., including Bath, Reading, Nottingham, Hinchingbrooke and Stratford-upon-Avon. Its services include various surgical treatments, rheumatology, diabetes & endocrinology, gynecology, orthopedics, laser treatments and physiotherapy.
-	['', 'healthcare services', ' ', 'clinical services', '']
-IPC Medical
-	Provider of healthcare products and healthcare services. The company provides alternate site health care space for homecare and clinics outside the hospital environment.
-	['', 'healthcare product', ' ', 'healthcare service', ' ', 'health care space', '']
-Healthcare Data Solutions
-	Provider of healthcare data services. The company allows users to license the data they need and send it to communication destination.
-	['', 'healthcare data', ' ', 'healthcare information', ' ', 'healthcare provider postal', '']
-Centennial Healthcare
-	Provider of healthcare services for elderly and post-acute patients. The company provides basic and specialty healthcare services. The company\'s basic services include skilled nursing and support, housekeeping, laundry, dietary, recreational and social services.
-	['', 'post-acute patients', ' nursing laundry dietary ', 'recreational services', '']
-Nextime Solutions
-	Provider of software services for businesses. The company provides heavy-duty off-the-shelf-appointment system, which is used in many sectors, such as health care, regulatory actions, as well as the financial sector.
-	['', 'software service', ' ', 'business software', ' ', 'information management', '']
+CodeEval
+	Provider of a technical screening platform for the auto evaluation of programming challenges. The company enables employers to identify promising candidates from a crowd of applicants by creating challenges and viewing their live coding submissions and helps freelancers/developers to sharpen their skills by competing with their peers.
+	['', 'hacker platform', ' ', 'recruit developer', ' ', 'technical screening', '']
+Tedopres International
+	Provider of content management services and software for technical documentation. The company by means of systematic text analysis, efficient visualization, technical illustration and applied information management supports clients in managing all aspects of their information process. The company specializes in controlled authoring, technical translations, technical illustrations and software development.
+	['', 'content management', ' ', 'technical documentation', ' ', 'technical translations', '']
+Elmicron
+	Manufacturer and developer of micro-mechanical components for technical applications. The company offers precision electro-forming and engineering specialized for micro-technological applications.
+	['micromechanical engineering ', 'technical applications', '']

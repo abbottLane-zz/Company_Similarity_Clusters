@@ -1,12 +1,24 @@
-Distributions Marc Boivin
-	Supplier of meat products. The company distributes meat products for supermarkets.
-	['', 'meat products', ' ', 'meat supplier', ' sausage beef salami']
-Snowbon
-	Provider of an online booking platform for ski and related activities. The company provides a system to book ski lift tickets, skiing equipment and also provides information regarding the hotels and climate.
-	['', 'online booking platform', ' ', 'ski lift ticket', ' ', 'skiing equipment', '']
-Easy Market
-	Developer of online booking systems for travel agencies specializing in tour packages, special offers, last minute and low cost flights.
-	['', 'booking system', ' ', 'tour package', ' ', 'low cost flight', ' ', 'computerised reservation', '']
-PortugalRes
-	Operator of an online booking platform. The company also distributes products to travel agencies and tour operators worldwide.
-	['', 'ticket booking', ' ', 'travel product', ' ', 'online travel platform', '']
+Vidus
+	Provider of field service automation solutions.
+	['', 'field automation', ' ', 'field automation service', ' ', 'field service solution', '']
+inCode Consulting
+	Provider of business strategy and technology consulting to telecommunications companies, handset and infrastructure vendors, and enterprises. The company offers business case analysis, hardware and software requirements, system integration, program management, and support services. It also provides customized mobile solutions for fleet, field service, field sales, supply chain, radio-frequency identification, WLAN and other enterprise wireless and mobility areas.
+	['', 'telecom advisor', ' ', 'strategy consultant', ' ', 'industry consultant', ' ', 'telecom consultant', ' ', 'technology consulting', '']
+Spacient Technologies
+	Provider of enterprise technology and mobile computing solutions for the utilities and telecommunications industries with a focus on mobile GIS and field service automation. The company delivers software and professional services that enable organizations to improve operational efficiency, asset management and customer service.
+	['', 'web application', ' ', 'mobile application', ' ', 'field computing solutions', ' GIS GPS ', 'Global Positioning System', '']
+FieldMaster Solutions
+	Developer of service automation solutions that combines Internet-based service management and dispatch system. The company develops mobile field service management and productivity software for small businesses and provides work order management and field technician productivity tools.
+	['', 'field service', ' ', 'productivity software', ' ', 'customer service', ' ', 'work order management', '']
+Vaillant Stadium Limits
+	Developer of equipment for tracing boundaries. The company has designed and developed a system of tapes, reels and clips to create and maintain boundaries of a sports field.
+	['tapes reels clips ', 'tracing boundaries', '']
+Enigmatec
+	Provider of automation solutions for physical and virtual resource management. The company offers Execution Management System, an automation solution to implement run book automation solutions that describe the process of cataloguing, codifying, testing, and automating the manual, scripted, and ad hoc procedures used to manage information technology (IT) environments.
+	['resource management automation ', 'user interface', '']
+ForHealth Technologies
+	Provider of automation technology for intravenous drug preparation.
+	['', 'automation technology', ' ', 'intravenous drug', ' ', 'robotic system', '']
+SG5 Innovation
+	Provider of a enterprise marketing automation service. The company offers GoSource technology, which provides private and secure online workspace to a buyer, a group of buyer and preferred suppliers
+	['', 'automation service', ' ', 'online workspace', ' ', 'information technology', '']

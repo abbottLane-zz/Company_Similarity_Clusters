@@ -1,27 +1,42 @@
-ClipSync
-	Developer of an interactive social TV platform. The company’s platform allows users to repurpose existing content for social consumption, drive viral traffic to social applications, and serve interactive advertisements for traditional and group consumption through its hosted and managed solution. Its platform also allows publishers to leverage their content and viewers by providing social applications with advertising.
-	['', 'TV platform', ' ', 'social consumption', ' ', 'social application', ' ', 'interactive advertisement', ' ', 'managed solution', '']
-Gumhouse
-	Provider of social stream video shopping network. The company network uses Facebook to personalize users shopping experience.
-	['', 'video shopping', ' ', 'online shopping', ' ', 'shopping network', '']
-Shopa
-	Developer of a social advertising platform. The company provides a social marketplace for its users to provide personalized shopping feeds towards targeted social offers.
-	['', 'social advertising platform', ' ', 'social marketplace', ' ', 'online advertising platform', '']
-Spotsetter
-	Provider of a social search engine that offers personalized recommendations for places to go. The company\'s platform uses a ranking algorithm that leverages each user’s content across different social networking sites.
-	['', 'search engine', ' ', 'user content', ' ', 'search recommendation', '']
-Tribe Studios
-	Developer of a gamified social interaction software. The company provides a social virtual world where every character of the drama is played by a real person.
-	['', 'computer game', ' ', 'social interaction', ' drama']
-Tradyo
-	Provider of a social marketplace. The company provides an online, interactive version of classified advertising. The platform provides location-based searches for items, real-time alerts, integrates with social networks and instant communication abilities. The platform is available on the Web and through a mobile application, and serves consumers in the U.S. and Canada.
-	['', 'social marketplace', ' ', 'local buying', ' ', 'local selling', '']
-ALIA 2
-	Manufacturer of compound feeds for cattle, pigs and poultry.
-	['', 'cattle feeds', ' ', 'pigs feed', ' ', 'poultry food', ' ', 'animal food', '']
-Scool Sp. z oo
-	Developer of a social platform enabling former classmates in Romania to connect. The company provides a social website as well as a marketing channel for advertisers.
-	['', 'social website', ' classmates']
-FAD IO
-	Provider of social network platform. The company provides social network for products and shopping that helps users find better products through community curation, users get ratings, ideas and insights for product purchases from real people.
-	['', 'social network platform', ' community ', 'community curation', ' ratings shopping']
+GasSecure
+	Developer of gas-detection technology. The company develops, market and sells wireless optic gas detectors for industrial applications. Its specialty is in low-power gas detection and safe wireless communication. Its products have applications to the oil & gas industry, as well as other industrial sectors.
+	['', 'wireless sensor', ' ', 'gas detector', ' ', 'industrial application', '']
+Viking Intervention Technology
+	Developer of technology for the oil & gas industry. The company is the creator of patented technology for the intervention of oil & gas wells, including pressure-control equipment.
+	['', 'oil well maintenance', ' ', 'gas well maintenance', ' ', 'commercial services', ' ', 'well intervention', ' ', 'oil well intervention', ' ', 'pressure control equipments', '']
+Saltire Group International
+	Operator of an offshore company in the oil and gas sector. The company engages itself in exploration, trading and development opportunities in the solid minerals and oil and gas sectors.
+	['offshore ', 'oil sector', ' ', 'gas sector', '']
+Tubel Technologies
+	Provider of technology for oil and gas industry\'s Exploration and Production (E&P) business. The company provides downhole two-way, wireless sensor systems for coiled tubing stimulation and permanent or retrofit reservoir monitoring, as well as downhole power generator and fiber optic pressure sensor system for downhole permanent monitoring.
+	['', 'gas industry', ' ', 'exploration business', ' ', 'wireless casing collar', '']
+Stingray Geophysical
+	Provider of Permanent Reservoir Monitoring (PRM) solutions to the global oil and gas industry. The company\'s product us used by oil and gas companies in monitoring the movement, levels, pressure and mapping of oil and gas in reservoirs.
+	['', 'oil mapping', ' ', 'oil drilling', ' ', 'gas mapping', ' reservoir ', 'reservoir monitoring solutions', '']
+Engineered nanoProducts
+	Producer of nano structured functional coatings for metals, plastics and other materials. The company\'s products and services are divided into two basic technology fields, coating technology and oil and gas technology.
+	['nanotechnology semiconductors ', 'functional coatings', '']
+Presens
+	Developer of pressure-sensor devices. The company develops temperature and flow-measurement products for the aerospace, automotive and subsea oil and gas industries. The products are designed for high-pressure measurements and severe environments.
+	['sensors ', 'pressure sensor services', ' ', 'temperature measurement', ' ', 'monitoring and control systems', '']
+AGM
+	Developer of 3-D geological interpretation software. The company offers Recon, a 3-D geological interpretation software that helps in real-time geological workflows. It serves oil and gas companies.
+	['', 'geological interpretation software', ' ', 'oil company', ' ', 'gas company', ' ', 'software application', '']
+Prepreg-SKM
+	Manufacturer of products from carbon and mineral-fiber composites. The company is a manufacturer of prepregs, a semi-finished composite material that can be turned into monolithic articles of complex forms that require minimal tooling. The company\'s products are used in aviation and space, automobile manufacturing and ship building, construction, oil and gas production, pipeline transport, medicine and wind power.
+	['', 'carbon fiber', ' ', 'polymer composite material', ' ', 'nanofilled prepreg', ' ', 'automobile manufacturing', ' ', 'ship building', ' ', 'gas production', '']
+Nowcasting International
+	Provider of weather forecasting and data systems especially metocean systems for the offshore industry. The company delivers weather information provided by partner companies to customers using its Nowcast Pro technology. It provides detailed, integrated short-range information which can be updated every hour. Its customers include ferry operators, navies, coastguards, offshore oil and gas operators, shipping companies and individual boat owners.
+	['', 'weather information', ' ', 'weather forecasting', ' weather']
+MTEM
+	Provider of electromagnetic mapping services for onshore and offshore oil and gas reservoirs. The company develops electromagnetic services which produces resistivity profiles to identify hydrocarbons. The company was spun out of University of Edinburgh.
+	['', 'electromagnetic mapping', ' ', 'identify hydrocarbons', ' hydrocarbons']
+Downhole Injection Systems
+	Provider of a platform that engages in installing small diameter coiled tubing into flowing oil and gas wells. The company\'s products and services enable oil and gas producers to inject chemicals downhole to enhance production rates, as well as treat corrosion, scale and paraffin in flowing wells.
+	['', 'coiled tube installation', ' ', 'gas well', ' ', 'paraffin treatment', ' ', 'gas producer', '']
+Asoyia
+	Producer of soybeans and soybean oil. The company serves food processors, institutional food management and restaurant chains.
+	['', 'soybean oil production', ' ', 'soybean production', ' ', 'low linolenic oil', '']
+OmniWare
+	Provider of software for the oil and gas industry. The company allows telcos to deploy and maintain billing systems for a variety of services.
+	['', 'billing systems', ' ', 'oil and gas', ' ', 'maintain billing', '']

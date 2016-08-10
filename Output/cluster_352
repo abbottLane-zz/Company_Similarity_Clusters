@@ -1,27 +1,15 @@
-Epocal
-	Provider of biochips and micro-fabrication of solid-state diagnostic devices. The company is implementing an entire blood diagnostic system in FlexCard™ technology, a card format similar to the smart card used in conventional check and telephone cards.
-	['', 'monitoring devices', ' ', 'diagnostic devices', '']
-SensiVida Medical Technologies
-	Developer and provider of minimally invasive diagnostic devices and technologies. The company develops and provides digital diagnostic devices with microsystems-based technology that automates bio-sensing and data acquisition. The Company\'s optical-digital platform technology addresses allergy testing, pain-free automated glucose monitoring, blood coagulation testing, TB testing and cholesterol monitoring.
-	['', 'minimally invasive', ' ', 'microsystems-based technology', ' ', 'bio-sensing', '']
-Venture Alliance
-	Provider of seed capital and start-up executive management to commercialize technologies developed at national laboratories and other research institutions. The company has provided investments for the development of medical diagnostic devices, predictive maintenance hardware/software, restaurant software and electroless nickel plating technology.
-	['', 'seed capital', ' ', 'start-up finance', ' ', 'commercialize technology', ' investment']
-Genosis
-	Developer of home use diagnostic devices to assess fertility in couples of childbearing age. The company\'s product- Fertell, is available over the counter in the UK and the US and provides couples with the tools required to assess their fertility in the privacy of their homes.
-	['', 'Fertility test', ' ', 'vitro diagnostic', ' ', 'reproductive disorder', '']
-Amira Medical
-	Manufacturer of medical testing devices. The company\'s equipment is designed to facilitate testing of blood glucose levels for people with diabetes.
-	['', 'medical testing', ' ', 'blood glucose', ' diabetes']
-Alsensa
-	Developer of products for allergy diagnosis. The company engages in design, research, development and manufacture of allergy testing products for the healthcare markets. It offers a AQT allergy testing device that is used for allergy diagnostics and management.
-	['', 'allergy diagnosis', ' ', 'prick test', ' allergy']
-VasoLux MicroSystems
-	Developer of optically based diagnostic devices for surgical and diagnostic procedures. The company\'s diagnostic imaging system helps surgeons to identify later-stage osteoarthritis patients.
-	['', 'Optical diagnostic device', ' ', 'imaging system', ' ', 'medical device', '']
-NanoMR
-	Manufacturer of blood diagnostic devices. The company has developed a system for rapid isolation of rare cells from complex matrices at levels of one cell per milliliter or lower.
-	['', 'blood diagnostic', ' ', 'bloodstream infection', ' ', 'molecular diagnostic', '']
-Farallon Medical
-	Developer of technology for monitoring oral anti-coagulant medications. The company is focused on developing and commercializing prothrombin time (PT) testing devices that can be used at home, as an alternative to conventional devices that are used in clinical settings. The focus is on more frequent PT testing, for a faster response in dose management and less need for venipuncture.
-	['', 'monitoring device', ' ', 'anti coagulant', '']
+Evotec International
+	Manufacturer of biopharmaceutical products. The company develops therapies for metabolic disorders based on model organisms and stem cell expertise.
+	['biomarker ', 'metabolic disorders', ' ', 'biopharmaceuticals services', '']
+Maxia Pharmaceuticals
+	Provider of non-dermatological applications of a patented library of compounds. The company focuses on small molecule drugs that target major diseases such as cancer and metabolic disorders.
+	['', 'molecule drugs', ' ', 'metabolic disorders', ' ', 'cervical cancer', '']
+Biophytis
+	Developer of drugs for metabolic disorders and age-related diseases. The company develops nutraceuticals and drug candidates derived from active natural substances.
+	['nutraceutical ', 'food supplement', ' ', 'metabolic disorder', ' ', 'drug candidate', '']
+Neuromed Pharmaceuticals
+	Provider of small molecule drugs for the Biopharmaceutical industry. The company develops drugs targeting neuronal calcium channels to treat neurological disorders with the initial emphasis on chronic pain anxiety and stroke.
+	['therapy ', 'drug developer', ' calcium']
+Kinaxo Biotechnologies
+	Developer of spectrum-specific kinase inhibitors. The company operates as a service company specializing in chemical proteomics methods to support the development of small molecule drugs. The company spun out of the Max Planck Institute of Biochemistry.
+	['', 'kinase inhibitors', 'inhibitors', 'chemical proteomics', ' ', 'molecule drugs', '']

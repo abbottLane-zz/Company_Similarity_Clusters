@@ -1,39 +1,12 @@
-Cloudy
-	Provider of mobile social decisioning platform. The company\'s online social platform allows users to ask questions and find answers to their questions from friends.
-	['', 'social decisioning platform', ' ', 'online portal', '']
-Friend.ly
-	Provider of social Questions and Answers site that makes self expression fun, easy, and meaningful. The company helps you share your true self by asking fun, easy and sometimes poignant questions with the goal of creating a more perfect online profile.
-	['', 'social question', ' ', 'online profile', ' ', 'self expression', '']
-Formspring
-	Operator of a website that allows its users to set up a profile page, from which anyone can ask them questions. The company gives their members a platform to express their point of view and personality through engaging conversations and interact with friends and followers.
-	['', 'online forum', ' ', 'profile page', ' ', 'online sharing', '']
-Toostep Consultancy
-	Developer of an online platform that enables recruiters to promote jobs on social networking sites and search engines. The company operates an online portal that allows users to ask experts questions, debate with each other and gives recruiters the ability to post jobs through search engines and social media.
-	['', 'job search', ' ', 'recruitment portal', ' recruiters']
-Wondir
-	Operator of a live question and answer engine that connects people with questions to people with answers. The company provides a combination of live human answers and broad metasearch of the web.
-	['', 'instant messaging', ' ', 'search engine', ' ', 'question forum', '']
-PeerPong
-	Provider of a social search solution that allows users to ask questions and find information from people in their network through instant messaging and email.
-	['', 'social search solution', ' ', 'search solution', ' ', 'search engine service', '']
-ShareBloc
-	Provider of an online enterprise vendor comparison platform. The company provides enterprise consumers with an online platform to rate, review, ask and answer questions about their vendors. It also works closely with the vendor community to reach their customers.
-	['', 'vendor comparison platform', ' ', 'vendor rating', ' ', 'online portal', '']
-Pop Tip
-	Developer of real time social feedback tool. The company develop brands, publishers and people analyze crowd conversation by making social data actionable. It also has its own dashboard that lets brands ask questions that are posted directly to Twitter. There is a front-end dashboard that can be seen by all followers to track the results of a poll they’ve participated in, while there’s a back-end dashboard catered to the brands, who can watch the answers come in real time.
-	['', 'publisher conversation', ' ', 'social data', ' ', 'crowd conversation', '']
-QuickCliqs
-	Provider of a mobile platform that enables the users to connect with friends without having to go online. The company has developed a mobile platform from which users can invite their contacts to form groups for specific events, from there, they can ask questions, vote on answers and plan the event as a group, all while daily deals from Groupon and the like are pumped in as the event evolves.
-	['', 'mobile platform', ' ', 'planning event', ' ', 'offline social media', '']
-HealthSouk
-	Developer of an online health care network. The company provides its users with access to health care providers offering treatments and procedures. It provides a platform where patients can ask questions, receive answers, search for procedures and directly purchase procedures while comparing price and quality in an easy to understand manner.
-	['', 'health care provider', ' ', 'online treatment', '  ', 'health care network', '']
-Bling Nation
-	Provider of a mobile platform that connected businesses and customers through social rewards.
-	['', 'e-payment', '']
-AnswerQi
-	Operator of an online platform for technology related questions and answers. The company provides technical support, online collaboration toolset and a safe payment platform to get urgent technology related answers.
-	['Q&A ', 'technology related Q&A', ' ', 'technical support', ' ', 'safe payment platform', '']
-MomAssembly
-	Provider of parenting and female-focused online courses. The company also offers parenting wiki with questions and answers from expert and peer contributors.
-	['', 'newborn care', ' ', 'online education', ' ', 'parenting lesson', ' ', 'infant development', '']
+Cardonet
+	Provider of master data management and product information management solutions for manufacturers and distributors in various industries. The company offers Synergy, a suite of enterprise software for the creation, management, synchronization and distribution of electronic product information inside companies and between trading partners.
+	['', 'data management', ' ', 'enterprise software', '']
+Trigo Technologies
+	Developer of product information management for global manufacturers, distributors and retailers. The company offers supplier-focused software platforms that automate and integrate supplier business processes to enable manufacturers and distributors manage multiple online sales channels.
+	['', 'business process', ' ', 'product information management', ' ', 'global distributor', ' ', 'global manufacturer', '']
+Requisite Technology
+	Provider of software for data, e-commerce and channel management. The company provides a platform designed to enable companies to manage information about any type of item, including finished goods for resale, direct materials used in manufacturing, and indirect materials used in maintenance, repair & overhaul (MRO) operations. The software also enables companies to create, collect, align, and enhance data to provide one uniform version of information, regardless of their catalog needs. The platform\'s  patented search capabilities allow users to search aggregated information to find relevant results and have access to item details and images.
+	['', 'channel management', ' ', 'unusable data', ' ', 'integrated business', '']
+Cedron Holding
+	Developer of manufacturer-focused software for managing product information. The company provides a platform for designed to reduce the cost of managing product information throughout the supply chain. The company\'s platform enables manufacturers to dea with multiple data specifications, multiple languages, multiple country requirements and multi-channel publishing.
+	['', 'data management', ' ', 'product data', ' ', 'information management', '']

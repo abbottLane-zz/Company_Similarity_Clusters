@@ -1,15 +1,27 @@
-Home Bistro Foods
-	Provider of gourmet food. The company specializes in vacuum-sealed and flash-frozen meals prepared by chefs and sold through its catalog and its e-commerce site. It offers soups, appetizers, meals, and desserts, including beef, pork, lamb/veal/bison, poultry, and seafood.
-	['', 'gourmet food', ' ', 'frozen food', ' ', 'sealed food', '']
-Gascomer
-	Operator of a seafood processing company. The company processes, markets and sells seafood such as fish, crustaceans and molluscs .
-	['seafood ', 'seafood processing', ' ', 'seafood marketing', '']
-Equitalk
-	Provider of low cost, paperless, telephone service. The company\'s processes are automated, the customers are e-mailed their bill and they can pay by direct debit. The company offers IDA and CPS voice services, broadband and teleconferencing.
-	['paperless ', 'telephone service', ' bill']
-Channel Fisheries
-	Provider of fish and seafood. The company also supplies seafoods in the export markets in continental Europe, the Middle East and the US.
-	['seafood ', 'fish products', ' ', 'export fish', '']
-Reimes Rekefabrikk
-	Operator of a seafood-processing enterprise. The company processes and exports shrimp, fish, snails and other seafood.
-	['', 'seafood distributor', ' ', 'fresh seafood', '']
+EmployInsight
+	Provider of a web based platform for measuring, evaluating and quantifying employees. The company\'s platform assist in developing methods for acquiring, assessing and planning human resources in the workplace.
+	['', 'human capital software', ' ', 'platform software', ' ', 'workplace assistance', '']
+Esterel Technologies
+	Provider of systems and software solutions for aerospace, defense, rail transportation and nuclear industries. The company’s products enable system and software engineers to graphically design, verify and generate systems and software applications. The company offers SCADE Suite for control application development. The company also offers SCADE LifeCycle that is used for critical application lifecycle management. The company also provides product training, methodology preparation, project support, application software optimization, certification support, installation and troubleshooting services.
+	['', 'scade lifecycle', ' ', 'web based solution', ' ', 'development cycle', ' ', 'automation software', ' ', 'software application', ' ', 'network management', '']
+Humanthology
+	Developer of a social platform for sharing stories on meaningful topics. The company offers a platform where people share their opinions, perspectives and experiences related to certain topics.
+	['', 'online software', ' ', 'sharing stories', ' ', 'platform software', '']
+Seaside Software
+	Designer and manufacturer of corporate messaging and intranet applications for the corporate market. The company offers integrated software and hardware products.
+	['', 'enterprise applications', ' ', 'corporate messaging applications', ' ', 'platform software', '']
+CoderBuddy
+	Owner and operator of a platform for software development. The company offers services related to the web based development, testing and deployment of software applications to the cloud.
+	['', 'software development', ' ', 'software platform', ' ', 'software deployment', '']
+Heroku
+	Operator of an online platform for software development. The company enables the users to share, collaborate, import and export, and generate the code.
+	['', 'online platform', ' ', 'software development', ' ', 'data manipulation', '']
+Jaczone
+	Creator of a software-development platform. The company is the developer of the WayPointer, a technology platform enabling software modeling and testing, as well as document handling & generation. The platform also can be used to support ERP implementation or contracting processes.
+	['', 'software organization', ' ', 'software development', '']
+ITA Inverse Theory & Applications
+	Developer of software specializing in interactive, workstation-based approaches to the processing of geophysical data. The company offers geophysical software, systems, processing, and research worldwide.
+	['', 'geophysical data', ' ', 'software development', '']
+Kalistick
+	Developer of quality management tool. The company provides its user with a quality management tool to implement best practices from various software development communities into a capability Maturity Model Integration (CMMI) process.
+	['', 'test optimization', ' ', 'agile testing', ' ', 'testing platform', ' ', 'software testing', '']

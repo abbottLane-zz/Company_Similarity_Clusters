@@ -1,21 +1,18 @@
-Flytteportalen
-	Provider of online address change service. The company also offers a mov- related trade portal where users can get an overview of available services. The company also enables customers to address notification to suppliers and partners and update them with the company\'s new address, billing address, office address and shipping address.
-	['address ', 'address notification', ' ', 'advertising service', ' ', 'information service', '']
-Sipcall.com
-	Developer of innovative Session Initiation Protocol (SIP) based services. The company\'s products include Hipsip, a SIP service for mobile phone users in the United States and internationally.
-	['', 'Session initiation service', ' ', 'broadband connection', ' ', 'personalized phone number', ' ', 'telephone network', '']
-Vox.io
-	Provider of chat and video calls from browser. The company\'s technology import contacts with phone numbers from Google contacts and Linkedin for communication.
-	['', 'video calling', ' ', 'online chatting', ' ', 'online calling', ' ', 'browser calling', '']
-Seeker Wireless
-	Developer of mobile phone geolocation and zone detection technologies. The company provides zone based charging with low network impact for GSM, 2G and 3G networks and also provides SeekerZone that helps zone status detection, reporting to the handsets and signals through USSD, SMS and GPRS.
-	['geolocation ', 'zone detection', ' GSM GPRS 3G']
-Mingly
-	Provider of a web service that brings email and social networks together. The company offers an online service, which aggregates contacts from Gmail, Facebook, LinkedIn, and Twitter into a searchable merged address book.
-	['', 'contact management', ' ', 'relationship management', ' ', 'social networking application', '']
-FusionOne
-	Provider of mobile phone backup services in the United States and internationally. The company\'s products include MightyBackup that enables users to store, manage, and transfer mobile phone content, such as contacts, photos, messages, memories, and purchased content; and Network Address Book, which helps users to organize and manage their various address books through a single interface, and share their contacts across their different address books and social networks. The company also provides Social Address Book services that aggregate mobile, messaging, Internet, and social communications into a contact-centric view to access friends\' activities.
-	['', 'mobile phone backup service', ' ', 'mobile content portability', ' ', 'Handset Transfer solution', ' ', 'Social Address Book service', '']
-Vlingo
-	Provider of speech recognition software that delivers a voice interface for mobile applications. The company software translates voice into text and enables users with various applications, such as email, text messaging, Web search, dialing, address book, and launching applications.
-	['', 'speech recognition software', ' ', 'voice interface', ' ', 'voice translation', '']
+Yantra
+	Provider of distributed order management and supply chain fulfillment solutions for retail, distribution, logistics, and manufacturing industries. The company focuses on distributed order management, supply collaboration, inventory synchronization, reverse logistics, logistics management, networked warehouse management, and delivery and service scheduling. It also provides consulting and support services. It offers Yantra 7x products, a comprehensive group of software applications, which enable organizations to manage their fulfillment processes across customers, operations, suppliers, and partners.
+	['', 'distributed order management', ' ', 'supply chain fulfillment solution', ' ', 'distributed order management', ' ', 'inventory synchronization', '']
+Sandlot
+	Provider of subscription management software and services for publishing industry. The company\'s product EclipseNet, manages order fulfillment processes within the virtual enterprise. The company provides a in-house and hosted services for management of recurring order transactions, integrated order process management, order fulfillment and customer service.
+	['', 'application software', ' e-business ', 'subscription solutions', '']
+Equitant
+	Provider of working capital management solutions to large enterprises. The company\'s order-to-cash management services provides order management, credit analysis and approval, invoice and billing, cash collections, dispute resolution, cash application and financial reporting and analysis services to companies.
+	['', 'working capital management solutions', ' order-to-cash ', 'order management', ' ', 'credit analysis and approval', ' ', 'financial reporting and analysis', ' ', 'cash collections', '']
+Intelligent Markets
+	Provider of comprehensive order management software and services to broker dealers. The company offers ALTA, an order management system, which offers services in multiple asset classes, including convertible bonds, corporate bonds, OTC equities and derivatives.
+	['broker ', 'corporate bond', ' ', 'convertible bond', '']
+LogneX
+	Provider of an online inventory management system. The company\'s software, MoySklad offers a new browser-based inventory management service for small and medium sized businesses that provides freedom of location and cost alternative to uphold daily communication, documentation and accounting.
+	['', 'inventory management', ' warehouse documentation']
+Lettuce
+	Developer of order management system for small and medium sized businesses. The company develops management system with a mobile sales application enabling user\'s business to capture, track and process orders anywhere in real time.
+	['', 'order management system', ' ', 'mobile sales application', ' ', 'order capturing', ' ', 'order tracking', ' ', 'order processing', ' ', 'inventory management', ' ', 'order processing', '']

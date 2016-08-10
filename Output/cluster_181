@@ -1,24 +1,18 @@
-Great Wall Semiconductor
-	Manufacturer of semiconductor products. The company focuses on providing a wide range of proprietary devices such as ciclon and power semiconductors.
-	['', 'semiconductor devices', ' ', 'ciclon semiconductor device', ' ', 'power semiconductor device', '']
-SemEquip
-	Developer of cluster ion implantation sub-systems and ion source materials for the manufacturing of logic and memory chips. The company manufactures and develops technical ceramic products, ceramic powders and components for defense, industrial, automotive and commercial applications.
-	['', 'memory chips', ' ', 'ceramic products', ' ', 'industrial application', '']
-Tripath Technology
-	Provider of semiconductor products and services. The company provides digital power processing provisions for a variety of applications in the computer, consumer audio and communications markets.
-	['', 'audio amplifiers', ' ', 'integrated circuit', ' ', 'automotive audio', '']
-Quality Semiconductor
-	Developer of semiconductor products. The company offers logic as well as networking and logic-intensive specialty memory semiconductor products. The company focuses on systems manufacturers principally in the networking, personal computer and workstation markets.
-	['', 'semiconductor products', '']
-iKoa Corporation
-	Provider of semiconductor products for consumer mobile devices in the mobile communications, entertainment, and personal computer markets. The company involves in developing disruptive semiconductor array technology.
-	['', 'semiconductor product', ' ', 'mobile device', ' ', 'mobile communication', ' ', 'semiconductor array technology', '']
-Lightspeed Logic
-	Developer of mask reconfigurable intellectual property. The company provides digital logic implementation technology that provides time-to-market, yield, manufacturability, and development expense advantages over cell implementation. Its products are used in integrated device manufacturers and fabless semiconductor companies, such as imaging, video, audio, display control, wireless, networking, and automotive markets.
-	['', 'intellectual property', ' ', 'cell implementation', ' ', 'fabless semiconductor', ' ', 'automotive market', '']
-Vitalink Communications
-	Manufacturer of data networking products. The company sells routers and other networking products. Its systems are used to build computer networks.
-	['router']
-FOI
-	Developer of equipment for the semiconductor industry. The company designs and manufactures machinery used to fabricate semiconductor products, including etching systems and surface oxynitridation systems.
-	['', 'light etching', ' oxynitridation ', 'semiconductor devices', '']
+Paratek Pharmaceuticals
+	Developer of products to treat infectious diseases. The company develops antibiotic and anti-infective products for blocking bacterial resistance. Its drug compounds include MK-2764/PTK 0796, a clinical stage tetracycline-derived antibiotic agent for the treatment of bacterial infections, including infections caused by resistant strains, such as MRSA.
+	['', 'infectious disease', ' ', 'inflammatory disease', ' ', 'anti-infective product', '']
+Lumativa
+	Developer of anti-infectives for women’s health. The company engages in the development and marketing of new drugs to combat infections for women’s health, addressing areas of high unmet medical need.
+	['FemiFect ', 'anti-infective', ' gynaecologists']
+BioRelix
+	Developer of anti-infective drug treatments. The company is focused on building a portfolio of anti-infective products based on novel patented RNA targets, termed riboswitches. The company is developing its products to counter increasingly antibiotic-resistant bacterial pathogens.
+	['', 'anti-biotic drug', ' ', 'infectious disease', ' ', 'therapeutic agent', ' ', 'bacterial infection', '']
+NT Pharma
+	Manufacturer of pharmaceuticals and vaccines. The company provides promotion and sales services primarily for drugs manufactured by global pharmaceutical manufacturers, focusing on anti-infective and CNS products.
+	['vaccines ', 'drug developer', ' ', 'anti-infective', ' ', 'CNS products', '']
+Cumbre Pharmaceuticals
+	Developer of anti-infective products for the treatment of serious and life-threatening infections, particularly those caused by antibiotic resistant pathogens. The company discovers, develops and markets anti-infective products and antibacterial drug and multifunctional anti-infective drugs that target multiple inhibitory pathways.
+	['', 'healthcare products', ' ', 'anti-infective products', ' ', 'antibacterial drug', '']
+Optimer Pharmaceuticals
+	Developer of anti-infective products. The company develops antibacterial drug for the treatment of Clostridium difficile-associated diarrhea (CDAD). It develops products that treat gastrointestinal infections and related diseases.
+	['', 'anti infective product', ' ', 'infectious disease', ' ', 'stomach infection', ' ', 'gastrointestinal treatment', '']

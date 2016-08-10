@@ -1,69 +1,42 @@
-Andigilog
-	Provider of thermal management technology. The company develops sensor interface integrated circuits, temperature sensors, system controllers and brushless DC fan motor controllers. It provides fabless analog and mixed-signal IC.
-	['', 'thermal management', ' ', 'sensor interface circuit', ' ', 'temperature sensor', ' ', 'motor controller', ' ', 'fabless analog', '']
-Arctic Silicon Devices
-	Developer and seller of data converters. The company develops application specific mixed mode signal processing chips, modules, subsystems, integrated circuits, low power ADCs and AFEs.
-	['modules subsystems microwave IC']
-Maxim Integrated Products
-	Designer, manufacturer and seller of analog and mixed-signal semiconductor products. The company markets a range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a number of geographically diverse customers.
-	['', 'Mixed signal semiconductor', ' ', 'integrated circuits', '']
-Kailight Photonics
-	Developer of optical modules for the global telecommunications industry. The company’s components make it possible to upgrade the quality of signals at various points and to correct various distortions created in the signal. This extends the broadcasting range, expands bandwidth and improves signal quality in a given range.
-	['', 'optical module', ' ', 'fiber-optic infrastructure', ' ', 'bandwidth expansion', ' ', 'optical communication', '']
-Nevion
-	Provider of routing, signal processing and optical transmission equipment for broadcasters. The company operates a large media network covering entities like AT&T, Arqiva, BBC, BT, CCTV, EBU, TDF, Telefonica, Telenor and NASA.
-	['', 'optical transmission', ' routing ', 'media network', '']
-AccelChip
-	Provider of algorithmic synthesis solutions for digital signal processing (DSP) design. The company develops and markets design tools, integrated verification flows, and parametric intellectual property toolkits that automate the development and implementation of DSP algorithms in field programmable gate-arrays and application-specific integrated circuits
-	['', 'algorithmic synthesis solution', ' ', 'digital signal processing design', ' ', 'markets design tool', '']
-Neolinear
-	Developer of software for analog or mixed-signal silicon design. The company provides mixed-signal chips with integrated analog and digital circuitry for communications applications.
-	['', 'mixed signal silicon design', ' ', 'digital circuitry', ' ', 'communication application', '']
-Spirea
-	Developer of fabless semi-conductor. The company develops low-cost, integrated and low power radio products for the wireless local and personal area network markets, using CMOS design techniques for radio, mixed-signal and digital designs.
-	['', 'fable semi conductor', ' ', 'personal area network', ' CMOS ', 'digital design', '']
-AAC Technologies
-	Manufacturer of miniature acoustic and non acoustic components. The company is the manufacturer of micro component total equipments for communications and consumer electronics market.
-	['', 'acoustic component', ' ', 'micro component', ' ', 'consumer electronic', '']
-Global Communication Devices
-	Developer of fabless RF and mixed-signal ICs (integrated circuits) and RF and mixed-signal intellectual property (IP) cores for use in wireless and broadband networking. The company provides full-custom design, joint development, design consultation and manufacturing and testing services.
-	['', 'mixed signal IC', ' ', 'mixed signal intellectual property', ' ', 'joint development', ' ', 'design consultation', '']
-Nanoradio
-	Manufacturer of wireless semiconductor products for cellular handset and consumer electronics market. The company provides diagnostic tools and software development kits to design embedded applications. It\'s products are used in portable audio, stereo devices, handheld computing devices, wireless phones and mobile gaming platforms.
-	['', 'wireless solutions', ' ', 'cellular handsets', ' ', 'software development kits', ' ', 'portable audio', ' ', 'mobile gaming platforms', ' ', 'electronics market', '']
-Toumaz Technology
-	Developer of radio frequency, analogue and mixed-signal semiconductors. The company focuses on development of low power devices for mobile and wireless systems. The company was spun out of Imperial College.
-	['', 'semiconductors production', ' ', 'low power device', ' ', 'wireless systems', ' ', 'radio frequency', '']
-SnapTrack
-	Developer of wireless position location technology to determine the position of cell phones, pagers and other hand-held devices. The company develops chips with GPS signal processing ability which is built into handsets to track their locations.
-	['', 'global positioning system', ' ', 'wireless position location', ' ', 'signal processing chips', '']
-LifeSpex
-	Provider of accurate, rapid, and cost-effective products for the early detection of cancer. The company develops its new products by combining advanced biophotonic and state-of-the-art signal processing technologies.
-	['', 'cancer detection', '']
-Chipcon Group
-	Provider of wireless and Zigbee-compliance RF transceivers. The company manufactures fabless semiconductor that provides standard radio frequency integrated circuits.
-	['', 'fabless semiconductor', ' ', 'integrated circuit', ' transceiver']
-Pantec
-	Developer of mini motors.  The company develops software-controlled, piezo ceramic-based mini motors for the consumer electronics and automotive sectors.
-	['motor ', 'ceramic motor', ' ', 'software controlled motor', ' ', 'mini motor', ' piezo']
-Planet ATE
-	Supplier of fabless semiconductor for the manufacturers of automatic test equipment. The company manufactures "System on a Chip" (SoC) integrated circuits that combine all analog functions required to construct digital channel, DUT Power supply, PMU and VI.
-	['', 'Digital Channel', ' ', 'DUT Power Supply', ' PMU VI Semiconductor chips']
-Symwave
-	Developer of analog/mixed-signal connectivity solutions in the United States and internationally. The company offers physical layer, low power analog front end cores, integrated circuits (ICs), and semiconductor system solutions to distribute video, sound, photos, and data in the home, automobile, office, and factory; and USB hubs, card readers and mass storage devices, input/output, Ethernet and embedded networking devices, and in-vehicle networks.
-	['', 'analog signal connectivity', ' ', 'semiconductor system solution', ' ', 'embedded networking', '']
-Fresco Microchip
-	Developer of fabless semiconductor. The company develops radio frequency, mixed-signal and digital signal processing integrated circuits for the consumer electronics market.
-	['', 'integrated circuit', ' ', 'digital signal processing', ' ', 'radio frequency processing', '']
-Tropian
-	Developer of fabless semiconductors for wireless devices. The company develops complex, wireless communications technology, including multi-mode radio transceiver products for the cellular handset market.
-	['', 'wireless communication', ' ', 'fabless semiconductor', ' ', 'wireless devices', '']
-SliceX
-	Designer, developer and supplier of analog and mixed signal integrated circuits. The company develops ICs for consumer, communications infrastructure, video imaging, industrial equipment, automotive and medical applications.
-	['', 'analog integrated circuit', ' ', 'mixed signal IC', ' ', 'video imaging', ' ', 'communication infrastructure', ' ', 'power analog signal', '']
-Chameleon Systems
-	Provider of reconfigurable communications processors. The company offers reconfigurable communications processors for wireless infrastructure equipment manufacturers. The company\'s products include a reconfigurable processing (RCP) platform for the internet and a digital signal processing (DSP) platform.
-	['', 'communication processor', ' semiconductor']
-Accel Semiconductor
-	Developer and provider of analog and mixed signal Integrated Chips (IC). The company\'s product lines include consumer wireless communication chips and consumer electronics chips using deep submicron (0.18um or smaller) complementary metal-oxide semiconductor (CMOS) or BiCMOS technologies.
-	['', 'wireless communication chip', ' ', 'electronic chip', ' ', 'analog wireless communication', '']
+Sinclair Meadows
+	Provider of residential houses and apartments. The company has seventeen home-sites along with restaurants and shopping facilities.
+	['', 'residential service', ' ', 'housing development', ' ', 'shopping facility', '']
+Stylehive
+	Operator of an online style club for women. The company operates a global social shopping community for discovering and sharing the products, the stores that sell them, and the people that find them.
+	['', 'online style club', ' ', 'social shopping community', ' ', 'social shopping', '']
+Capigami
+	Provider of shopping list applications for phones. The company provides an application called Out of Milk which helps its users to manage their shopping, kitchen and other tasks.
+	['', 'other software', ' ', 'mobile software', ' ', 'shopping list', '']
+Gumhouse
+	Provider of social stream video shopping network. The company network uses Facebook to personalize users shopping experience.
+	['', 'video shopping', ' ', 'online shopping', ' ', 'shopping network', '']
+CAVI
+	Provider of an online in-video purchase option. The company enables content-owners and publishers to integrate as an e-commerce shop into the online videos, without disturbing the experience of the user.
+	['synergies ', 'in-video shopping', ' ', 'commercial service', ' ', 'e-commerce integration', '']
+eTree Marketing
+	Internet retailer of computer and digital products.
+	['', 'online shopping', ' ', 'internet shopping', ' ', 'digital product', '']
+Deal United
+	Provider of online marketing network. The company provides rewards programs, such as Pay by Shopping, an online payment method that allows end customers to pay for their desired digital and virtual product by purchasing a coupon or product at one of its shopping partners.
+	['', 'online networking', ' ', 'reward programs', ' ', 'pay by shopping', '']
+Raging Mobile
+	Provider of proprietary technology that enhances the use of mobile phones and social networks in the consumer’s shopping experience to retailers. The company filed as a Statement & Designation By Foreign Corporation on Friday, July 30, 2010 in the state of California and is currently active.
+	['', 'consumer shopping', ' ', 'proprietary technology', '']
+ADKU
+	Provider of e-commerce big data solutions. The company provides a service that attempts to optimize a person’s shopping experience by providing product suggestions.
+	['', 'data solution', ' ', 'personal shopping', '']
+Boolistic
+	Developer of a search tool software. The company provides users with access to on-line resources, including communications tools, shopping services, personalized content and branded programming.
+	['shopping ', 'search tool', ' resources']
+Habu
+	Developer of software plug-in for organizing shopping lists and sharing through social media. The company\'s product is a "Gumhoo" button that plugs into shopping sites, a button that allows users to request feedback from their social network.
+	['', 'online shopping', ' ', 'social platform software', ' ', 'shopping lists', '']
+Kingmaker
+	Provider of an online video shopping network. The company provides consumers with the information they need to learn practical skills and make educated purchases.
+	['e-commerce ', 'video shopping', ' ', 'video commerce', '']
+Cuesol
+	Provider of multi-channel, loyalty-based shopping solutions for consumers conducting business in the store, on the Web and over wireless devices. The company also provides design, project management, implementation and marketing consulting services.
+	['', 'interactive shopping', ' ', 'online shopping', ' ', 'project management', ' ', 'data staging', '']
+FAD IO
+	Provider of social network platform. The company provides social network for products and shopping that helps users find better products through community curation, users get ratings, ideas and insights for product purchases from real people.
+	['', 'social network platform', ' community ', 'community curation', ' ratings shopping']

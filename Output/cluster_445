@@ -1,15 +1,27 @@
-Nelson House
-	Operator of a mental rehabilitation hospital. The company offers care and treatment to male patients aged between 18 and 65.
-	['', 'rehabilitation hospital', ' ', 'mental health', ' ', 'male patients', '']
-Schick Shadel Hospital
-	Operator of an addiction treatment hospital. The company provides alcohol, drug, oxycontin, methamphetamine, marijuana, cocaine treatment programs, as well as offers dietary services.
-	['', 'addiction treatment', ' ', 'alcohol treatment program', ' ', 'drug treatment', ' ', 'dietary service', '']
-DrugAbuse Sciences
-	Developer of novel therapies for alcohol and drug abusers. The company develops and commercializes novel therapies for the treatment of alcohol and drug addictions.
-	['', 'treatment for alcoholic', ' ', 'drug based treatment', ' ', 'pharmaceutical service', '']
-Eco-Solids International
-	Developer of technologies for organic residue treatment. The company develops and commercializes technologies for waste treatment with a particular focus on treatment of sewage sludge to improve their stability and decrease pathogen content.
-	['', 'waste treatment', ' ', 'sewage sludges', ' pathogen ', 'environmental processing technology', '']
-Cardiola
-	Developer of therapeutic systems to treat heart failure. The company offers a treatment system for heart failure treatment in patient settings and hospital based treatment regimens.
-	['', 'treatment system', ' ', 'therapeutic system', ' ', 'heart failure treatment', '']
+Navia Systems
+	Developer of probabilistic computers. The company\'s product  include Veritable, which solves data interpretation and prediction problems in human health, policy, marketing and finance.
+	['', 'computer hardware', ' Veritable ', 'probabilistic computers', '']
+SiCortex
+	Manufacturer of computers, computing systems, compiler suites, and personal development systems. The company also offers desk side, departmental, and data center packages. It serves universities, academic institutions, research laboratories, and government agencies in the United States.
+	['', 'computing system', ' ', 'compiler suite', ' ', 'development system', '']
+Pyramid Technology
+	Manufacturer of virtual memory super mini-computers. The company manufactures 32-bit virtual memory super mini-computer for sale to engineering, scientific and military applications.
+	['', 'mini computers', ' ', 'super mini computers', ' ', 'computer manufacturers', ' computer']
+PineBrook Imaging Technology
+	Manufacturer of computers and electronics. The company primarily manufactures computers, electronics, semiconductors and microchips.
+	['', 'electronics manufacturer', ' ', 'computer manufacturer', ' ', 'manufacturer of semiconductors and microchips', ' ', 'electronic products', '']
+Power Computing
+	Manufacturer of Apple Macintosh-compatible computers. The company focuses on delivering Wintel-based systems.
+	['', 'personal computers', '']
+Slate Corporation
+	Developer of application software for pen computers. The company developed application and utility software for pen-based computers such as GO Lombard, GO Hyde, GridPad, Grid Convertible and Momenta. The applications developed contained products like At-Hand spreadsheet.
+	['', 'application software', ' ', 'pen computers', ' ', 'utility software', '']
+Cinet
+	Manufacturer of computers. The company provides computers in Norway and Finland.
+	['']
+ADI Engineering
+	Manufacturer of commercial off the shelf and embedded single board computers. The company provides reference platforms, platform derivatives and full custom embedded computers to OEMs in the military, industrial, networking and communications, avionics, medical, wireless infrastructure, and digital signage markets.
+	['', 'computer hardware', ' ', 'product manufacturing', ' ', 'product development', '']
+Wristop Technologies
+	Provider of wireless medical wrist computers. The company designs, develops and produces wrist electronics products including computers and watches and serves the sports, health-care and fitness brands.
+	['', 'wrist computer', ' ', 'wrist electronics', ' ', 'sports watch', ' electronics']

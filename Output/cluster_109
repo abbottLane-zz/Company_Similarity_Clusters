@@ -1,24 +1,33 @@
-Blue Box Group
-	Provider of cloud hosting and managed services. The company provides a managed and automated application infrastructure that enables customers to focus their energy on building and improving their web applications.
-	['', 'cloud hosting service', ' ', 'application infrastructure', ' ', 'web application', '']
-MetricsHub
-	Provider of cloud application monitoring platform. The company\'s platform keeps web applications up and running.
-	['', 'cloud monitoring platform', ' ', 'application monitoring', ' ', 'cloud Monitoring', '']
-CouchCommerce
-	Provider of a platform to create shopping applications for online retailers. The company\'s cloud-based platform is designed to be a turnkey solution for generating online shop Web applications for tablets, smartphones and smart TVs. Shop data is sourced via pre-integration into shop systems or extensions to be installed in existing open source shop systems.
-	['', 'online shops', ' ', 'web application', ' ', 'Saas platform', '']
-Pattern Insight (Log Insight)
-	Provider of cloud log analytic platform. The company provides a data management and search platform.
-	['', 'log analysis platform', ' ', 'data management', ' ', 'data search', ' ', 'cloud log analysis', ' ', 'big data', '']
-NodeFly Systems
-	Provider of infrastructure and application monitoring service. The company allows users to add, remove and monitor servers with the click of a mouse.
-	['', 'application monitoring', ' ', 'infrastructure monitoring', ' ', 'workload management', ' ', 'application server', ' ', 'application management', '']
-Lindexa
-	Provider of a web-oriented platform. The company offers an online monitoring platform that collects, analyzes and displays the information posted on the internet.
-	['', 'web-oriented platform', ' ', 'monitoring tool', ' ', 'digital marketing tool', ' ', 'social media marketing', '']
-Librato
-	Provider of a cloud-based monitoring platform for development and operations teams. The company\'s platform monitors the metrics and events important to their application deployments, while leaving metrics storage, analysis, annotation and alerts as an easy-to-deploy service that can scale with their operation.
-	['', 'monitoring software', ' ', 'resource management', ' ', 'infrastructure software', '']
-ShieldArc
-	Developer of a security platform that monitors cloud applications. The company\'s platform enables enterprises to protect their cloud asset without impacting end-user experience in without involving IT operations. The platform also provides tools for real-time monitoring and remediation.
-	['', 'security platform', ' ', 'cloud application', ' ', 'public platform', '']
+Frepar Networks
+	Developer of internet application software. The company also manufactures IT devices and provides content distribution services.
+	['', 'content distribution', ' ', 'internet application', ' ', 'internet application software', '']
+Enjoyor Technology Group
+	Provider of urban intelligent turnkey services. The company provides intelligent techniques, products and application services for industry users of urban traffic, digital treatment and intelligent architecture.
+	['', 'turnkey service', ' ', 'urban traffic', ' ', 'commercial service', '']
+Network24 Communications
+	Provider of outsourced webcasting e-services. The company provides Internet broadcasting application services for enterprises, Internet content providers, and value-added partners.
+	['', 'webcasting e-services', ' ', 'internet broadcasting', ' oursourcing ', 'online events', ' application']
+Charitableway
+	Operator of a Website that enables users to donate online to charities. The company specializes in bridging the connection between the business and nonprofit communities by providing application services.
+	['', 'online donation platform', ' ', 'charity platform', ' ', 'application services', '']
+N Cash
+	Developer of Internet-content distribution technology for e-commerce. The company offers BillCrux, a software providing charging capabilities for purchasing products and using services on the Internet.
+	['']
+VerticalOne
+	Provider of internet content personalization services for consumers. The company has built the information infrastructure that will empower Internet destination sites to offer their online customers a single point-of-access to a wide variety of personal content and account information including reward programs, communications, investments, bank statements, and other bills or personal accounts.
+	['', 'e-mail accounts configuration', ' ', 'internet content personalization', ' ', 'internet based services', ' ', 'internet portals', ' investment']
+Clupedia
+	Provider of internet content and service provider. The company\'s solution helps user to rate web contents and helps in building encyclopedia of clues from crowds.
+	['opinion rumors ', 'meta web', '']
+Thap
+	Provider of internet application services. The company works with private and public employers to improve their health and disability management programs.
+	['attendance public']
+mobileo
+	Provider of content distribution services. The company offers an application for content distribution and location based services.
+	['', 'mobile app', ' ', 'content distribution', ' ', 'location based services', ' LBS']
+Adero
+	Provider of internet content and application services.  The company provides global content distribution services designed for web-based businesses
+	['', 'application services', ' ', 'content distribution services', ' ', 'internet content', '']
+AOL
+	Creator of web based content and digital advertisement. The company offers content created by journalists, artists, musicians, politicians, writers and bloggers.
+	['', 'web service', ' ', 'walled garden', ' ', 'internet service provider', ' ', 'niche content', '']

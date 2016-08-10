@@ -1,30 +1,6 @@
-fiveby tv
-	Provider of online videos based on user preference. The company scours the internet for the best videos, and hand-delivers the ones people want to watch.
-	['', 'online video search', ' ', 'free video', ' movie']
-CastTV
-	Operator of a website that helps people to watch videos through the Web. The company\'s website lets users find all their favorite online videos, from TV shows to movies to the latest celebrity, sports, news, and viral videos.
-	['', 'online video', ' ', 'original video', ' ', 'watch video', ' ', 'video website', ' ', 'video clip', ' ', 'social video sharing', ' ', 'community video', ' ', 'video blog', ' ', 'video entertainment', '']
-Omnisio
-	Provider of online videos. The company enables user to annotate videos, combine clips, and synchronize slideshare presentations to videos.
-	['', 'video annotation', ' ', 'video sharing', ' ', 'video blogging', '']
-Userfarm
-	Operator of a video crowdsourcing platform. The company creates promo videos, corporate films and creative advertisements through its network of video makers.
-	['', 'entertainment software', ' ', 'crowdsourcing platform', ' ', 'creative advertisement', '']
-IFILM
-	Operator of online streaming media network on the Internet. The company distributes videos online, featuring programs that comprise animations and cartoons, comedy, movie clips, music videos, short films, TV clips, video game trailers, spike shows and action sports as well as a collection of viral videos from Hollywood studios, amateur filmmakers and user-generated content.
-	['', 'online streaming', ' ', 'movie information', ' ', 'entertainment media', ' ', 'music videos', '']
-LoadnVote
-	Provider of visual media competition on the internet. The company invites visitors of all ages and interests to compete in head-to-head contests by uploading videos, pictures and other media to gain exposure and win prizes.
-	['', 'social content', ' ', 'visual media', ' ', 'media competition', ' ', 'voting site', '']
-RipCode
-	Provider of realtime transcoding software for video clips and streaming. The company supports live mobile video or video on-demand transcoding for mobile and user generated content applications. It enables video to be dynamically transcoded and served to a customer on any screen size as they request it, giving viewers an expansion of content choices while reducing an operator’s server hardware, storage and energy use.
-	['transcode IPTV ', 'video on-demand', '']
-PageWise
-	Operator of a website that serves how-to videos and articles online. The website is a video portal for how-to information and the largest provider of "made for the internet" video content. Its content was created through the company\'s proprietary process wherein filmmakers select specific how-to topics and produce videos on that subject matter.
-	['article, video, ', 'how to video', ' ', 'video portal', '']
-ZEFR
-	Provider of content rights management to movie studios on YouTube. The company allows its users to search, find, watch, discuss and share movie clips from movies. It also offers a website that offers a collection of movie clips on YouTube.
-	['', 'social marketing', ' ', 'rights management', ' ', 'video solution', ' ', 'online video platform', '']
-Indoor Direct
-	Provider of media network for the fast food and casual dining markets. The company produces theBITE, a national in-store television show that delivers short clips of sports, music, entertainment and lifestyle content to users and helps in marketing for the restaurants and dining.
-	['', 'casual dining market', ' ', 'restaurant network', ' ', 'out-of-home media', ' ', 'media network', '']
+VoiceGenie Technologies
+	Provider of Interactive Voice Response (IVR) software platform. The company\'s platform provides open standards infrastructure for supporting next-generation speech-enabled contact centers.
+	['', 'interactive voice response', ' ', 'open communication service', ' telecommunication']
+Logictree
+	Provider of interactive voice response (IVR) services for the transit and 511 markets. The company provides a platform for a multi-modal communications environment that delivers location-based real-time information via various channels, including voice, Web, short message service, social networks, Email and mobile applications for public agencies.
+	['', 'interactive voice response', ' ', 'multi modal communication', ' ', 'short message service', ' ', 'social network', '']

@@ -1,36 +1,21 @@
-Questek
-	Manufacturer of excimer lasers. The company develops, manufactures and markets excimer lasers.
-	['', 'excimer lasers', ' lasers ', 'excimer laser technology', '']
-BioArray Solutions
-	Developer of a technology for rapid biomolecular analysis that combines microparticle chemistry, semiconductor physics and image analysis. The company\'s BeadChip products and systems for molecular immunohematology are used in pre-transfusion characterization of recipients and donors of blood transfusions in hospitals and donor centers.
-	['', 'biomolecular analysis', ' ', 'pre-transfusion characterization', ' ', 'blood transfusions', ' ', 'image analysis', ' developer']
-DeMaria ElectroOptics Systems
-	Manufacturer of CO2 lasers, far infrared laser and laser systems. The company designs and manufactures carbon-dioxide lasers used in materials processing, electronics packaging and research applications.
-	['', 'infrared laser', ' ', 'carbon dioxide laser', ' laser ', 'laser systems', ' ', 'remote sensing', ' ', 'ladar application', '']
-Klastech Karpushko Laser Technology
-	Designer and manufacturer of solid state single frequency lasers. The company manufactures diode pumped solid state (DPSS) lasers and its products include core models of lasers in green and blue spectrum range.
-	['lasers ', 'diode pumped solid state', ' spectrum']
-Powerlase
-	Developer and manufacturer of high power lasers for industrial materials processing. The company designs and manufactures nanosecond Q-switched Diode Pumped Solid State lasers developed for industrial applications primarily for use in the materials processing and microelectronics markets.
-	['', 'high power lasers', ' ', 'industrial materials processing', ' ', 'material processing', ' ', 'industrial application', ' microelectronics']
-XRL
-	Manufacturer of semiconductor memory devices. The company developes dynamic random access memories (DRAMs) and laser based products.
-	['', 'semiconductor memory', ' ', 'memory device', ' ', 'laser based product', '']
-Connector Optics
-	Producer of vertical cavity surface emitting lasers and photo-detectors. The company\'s product is based on advanced technology for growing semiconductor heterostructures with molecular beam epitaxy, which ensures ultralow internal optical loss in the produced epitaxial wafers.
-	['', 'photo detector', ' laser ', 'semiconductor heterostructure', ' ', 'optical component', '']
-Ekips Technologies
-	Manufacturer of lasers and laser-based systems. The company develops and markets tunable mid-infrared lasers and laser systems made for molecular spectroscopy applications.
-	['', 'mid-infrared laser', ' ', 'diagnostic equipment', ' ', 'molecular spectroscopy', '']
-SPI Lasers
-	Designer and manufacturer of fiber lasers for the industrial, aerospace, analytical, sensing and communications markets. The company offers fiber lasers & laser arrays, high-power optical amplifiers and filters.
-	['', 'fiber Bragg gratings', ' ', 'fiber laser', ' ', 'optical component', ' ', 'laser array', '']
-Laser Power Optics
-	Manufacturer of high-performance lasers and laser optics for industrial, medical and military applications. The company\'s optics products are sold to laser system OEMs and end users as original and replacement components in high power CO2 and other lasers.
-	['laser ', 'optic products', ' OEM ', 'CO2 laser', ' ', 'carbon dioxide lasers', '']
-Altitun
-	Manufacturer of tunable lasers and transmitters that enable flexible provisioning of affordable bandwidth. The company develops commercially available tunable semi-conductor laser for the telecommunications industry.
-	['transmitter ', 'tunable laser', ' ', 'switching laser', ' ', 'optical packet switching', ' ', 'semiconductor laser', '']
-Lumics
-	Manufacturer of semiconductor diode laser for medical and industrial applications. The company manufactures semiconductors and diode lasers from 750 nm to 1960 nm in industry standard packages such as 14-pin butterfly, 8-pin miniDIL and 2-pin TO220 as well as a series of compact fiber coupled laser modules with output powers up to 900 W.
-	['', 'diode laser', ' ', 'laser module', ' ', 'fiber coupled diode', ' ', 'industrial application', ' ', 'chip technology', '']
+Echoecho Media
+	Developer of a location-based mobile application for finding friends. The company offers an open API, cross-platform, carrier agnostic location sharing system which helsp users in searching for friends and suggesting meeting places.
+	['', 'application developer', ' ', 'friend tracking', ' ', 'social content', '']
+KitLocate
+	Developer of location based applications. The company offers developers and brands a standard for user engagement and services, based on real-time location and enhanced user profiles.
+	['', 'intelligence platform', ' ', 'real-time location', ' ', 'consumer location', '']
+Plazes
+	Provider of web based geo-social navigation services. The company helps its members publish and share their current location with friends so that they can locate one another, connect digital and real-world identities and can coordinate with friends, family and business contacts from their very location.
+	['', 'location services', ' ', 'geo tagging', ' ', 'positioning services', ' ', 'commercial services', '']
+Tagzania Services
+	Provider of geo-location services. The company, based in Spain, provides geo-location services and maps on the internet.
+	['', 'consumer service', ' ', 'geo-location services', ' ', 'location information', '']
+Mapflow
+	Provider of location-aware software to the insurance, transport and location services markets. The company also provides services including focus on insurance, SaaS delivery, data management and customer relationships.
+	['', 'enterprise location', ' ', 'broker management', ' ', 'location service', ' ', 'information management', '']
+Scoville
+	Provider of location-based recommendation engine. The company discovers at least one place every week and shares them on their website.
+	['', 'Recommendation engine', ' ', 'discovery platform', ' location']
+Hyperpublic
+	Developer of an open database and platform of people, places, deals and events tied to a specific location. Anyone can add objects to the database and developers are able to build applications on top of the data. The data includes recent check-ins, daily deal aggregations and reviews.
+	['', 'geo local platform', ' ', 'location application', ' ', 'location database', ' ', 'location-based search', ' ', 'location-based', '']

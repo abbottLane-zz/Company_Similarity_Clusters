@@ -1,33 +1,111 @@
-Octagen
-	Operator of biopharmaceutical company. The company develops drugs for hemophilia, other genetic disorders and variations of recombinant B domain to avoid inactivation by flying below the radar screen of the immune system.
-	['', 'genetic disorder', ' hemophilia ', 'blood clotting', ' therapies']
-Tissue Repair Company
-	Operator of biopharmaceutical company with a clinical-stage focus on products that promote tissue repair. The company\'s scientific expertise is based on gene therapy, growth factor biology, tissue regeneration and product development.
-	['', 'tissue repair', ' ', 'tissue regeneration', ' ', 'gene therapy', '']
-Alkermes
-	Operator of a biopharmaceutical company. The company develops products based on drug-delivery technologies to enhance therapeutic outcomes in major diseases.
-	['', 'drug delivery technology', ' schizophrenia ', 'therapeutic outcomes', '']
-Neorphys
-	Operator of a biopharmaceutical company focusing on visceral pain management. The company discovered analgesic drug candidate with low side effects, especially on gastrointestinal transit, respiratory depression and addiction.
-	['', 'healhcare service', ' ', 'pharmaceutical service', ' ', 'analgesic drug', ' ', 'visceral pain management', '']
-Flex Pharma
-	Operator of a biopharmaceutical company. The company develops clinically proven products and treatments for muscle cramps and spasms.
-	['', 'muscle cramp', ' spasm ', 'neuromuscular disorder', ' program']
-Sterix
-	Operator of a biopharmaceutical company. The company specializes in the research and development of a new generation of steroid-based therapeutic products for use in oncology and metabolism or endocrine-related diseases, including cancer treatments, women\'s health, diabetes and hormone-associated diseases.
-	['steroid metabolism endocrine']
-Avidimer Therapeutics
-	Developer of targeted therapeutics to treat cancer and other diseases. It is a biopharmaceutical company that focuses on the advance use of its proprietary nano-scale therapeutic platform for the treatment of certain cancers through clinical trials.
-	['', 'cancer treatment', ' ', 'clinical trials', ' ', 'therapeutic platform', '']
-Twinstrand Therapeutics
-	Operator of biopharmaceutical company. The company engages in the discovery, development and commercialization of biological drugs for the treatment of life threatening diseases.
-	['', 'biological drugs', ' cancer']
-Setagon
-	Developer of metallic nanoporous surface modification technology. The company also develops drug delivery technologies for the intravascular treatment of cardiovascular, peripheral vascular and neurovascular diseases.
-	['', 'nanoporous modification technology', ' ', 'drug delivery technology', ' ', 'nanoporous metal coating', '']
-Ansata Therapeutics
-	Operator of a biopharmaceutical company focused on dermatologic treatments. The company develops peptide-based topical antibiotics for skin issues.
-	['', 'peptide-based', ' ', 'antibiotic product', ' ', 'topical medication', ' ', 'skin infection', ' ', 'pharmaceutical product', '']
-Axovan
-	Operator of a biopharmaceutical research company. The company is involved in the discovery of drugs linked to G protein-coupled receptors.
-	['post-genomic ', 'human genome', ' G-protein GPCRs']
+Cloudy
+	Provider of mobile social decisioning platform. The company\'s online social platform allows users to ask questions and find answers to their questions from friends.
+	['', 'social decisioning platform', ' ', 'online portal', '']
+StackLead
+	Provider of automated sales research. The company provides financial business intelligence for developing sales leads. The company\'s platform pulls together data from multiple sources across the Web, including social media profiles that can be used for introductions and building connections.
+	['', 'data analytical service', ' algorithm ', 'public source', '']
+Brightkite (acquired 2009)
+	Provider of location-based social networking website. The company provides a locaiton-based social platform that fosters relationships between potential strangers who happen to be in the same physical space.
+	['', 'location based', ' ', 'online community', '']
+GoPop
+	Provider of a mobile application for visual conversation. The company provides a social media platform enabling users to have conversations with photos, videos and animations.
+	['', 'interactive media', ' ', 'audiovisual medium', ' ', 'media platform', '']
+HowDo
+	Provider of a knowledge-based social platform. The company\'s platform allows users to upload and share short sound and image chapters designed to share knowledge on a specific topic.
+	['', 'image chapters', ' ', 'knowledge-based social platform', ' sound clips']
+Creative Design Solutions
+	Provider of a platform for interior designing consultation. The company\'s platform allows its users to get services from interior designer with fine arts background.
+	['', 'online designing', ' ', 'online interior consultation', ' ', 'online interior decoration', '']
+Betterfly
+	Provider of a live video learning marketplace. The company\'s platform connects individuals with teachers, instructors and experts to help users learn a new skill or improve on something they already know.
+	['', 'self-improvement', ' ', 'online lessons', ' ', 'video chat', ' lessons ', 'online tutoring', '']
+Luvocracy
+	Creator of an online marketplace and social platform. The company is the creator of a platform enabling users to purchase merchandise that has been recommended through social media, via pins, posts, tweets and shares. The platform’s shopping assistant enables product purchases and users can thank the social-media recommender, who earns rewards for helping. Users also earn rewards when other people buy what they recommend.
+	['', 'social marketplace', ' ', 'recommended product', ' ', 'electronic commerce platform', '']
+CoTweet
+	Provider of a platform that helps companies reach and engage customers by using Twitter. The company provides CoTweet 3.0, an enterprise edition product that features Facebook integration, public status updates monitoring, and conversations publishing and moderating on fan pages. It allows multiple people to communicate through corporate Twitter accounts.
+	['', 'marketing service', ' ', 'social platform', ' ', 'collaboration platform', ' ', 'business collaboration platform', '']
+Vouchfor!
+	Provider of a social referral marketing platform. The company\'s platform allows businesses to build local reward programs through a word-of-mouth marketing technique. The company\'s platform allows its users to earn reward on each referral they make.
+	['', 'B2B Services', '']
+Engagement Labs
+	Developer of computer software. The company operates in the sector of social media business applications in Canada and France. It offers corporations an integrated social media platform that enables issue management, employee engagement, e-learning and open-innovation with internal and external stakeholders.
+	['']
+Roboinvest
+	Provider of a social investing platform. The company\'s platform allows users to follow and copy other traders in real-time.
+	['', 'social investing platform', ' ', 'social trading', ' ', 'automatic investing', ' ', 'social investing', '']
+Incomparable Things
+	Developer of a mobile application for sharing adventure experiences. The company provides a mobile social platform for people to collect and share stories of their adventure, by weaving all the media generated while they are having their adventure - including photos, location data and tweets - into a single narrative.
+	['', 'B2C service', ' ', 'media service', ' ', 'mobile social platform', '']
+Sulia
+	Provider of a subject based social network. The company provide live streams of messages about cities and countries, sports, entertainment, health, business and political issues, hobbies, pastimes and passions.
+	['', 'live stream', ' ', 'social network platform', ' ', 'online political issue', '']
+OhMyGov
+	Provider of a media and public affairs consultancy. The company assist governments and political leaders to communicate via social media.
+	['', 'public affair consultancy', ' ', 'media consultancy', ' ', 'social media platform', '']
+Gnip
+	Provider of an on-demand messaging platform for integrating social and business data. The company\'s platform enables to access, filter and integrate the Web\'s data that companies use as the basis for providing compelling business and social applications. It also provides push API service that enables the companies to identify opportunities to move inefficient and repetitive API and Website traffic to a more efficient push based approach.
+	['', 'messaging platform', ' ', 'consumer application', ' ', 'social media integration', '']
+HealthRally
+	Provider of online platform that uses social motivation and positive financial incentives to inspire people to achieve their health and wellness goals.
+	['', 'online platform', ' ', 'social motivation', ' ', 'social support', '']
+Beijing Feixiangren Information Technology
+	Provider of online classified advertisement platform. The company provides a location-based advertising platform, with sections devoted to housing, jobs, personals, for sale, services, tickets, pets and discussion forums.
+	['', 'local portal', ' ', 'locational information', ' ', 'social content', '']
+A Space Apart
+	Provider of location based social media platform. The company\'s platform connects users with local businesses.
+	['', 'social media platform', ' ', 'online business platform', ' ', 'social platform', '']
+AlphaBoost
+	Provider of consulting services to social advertisers. The company enables social advertisers to make decisions about where to spend their media dollars and how to communicate with their fans, followers and other owned audiences.
+	['', 'social advertiser consultation', ' ', 'communication channel', ' ', 'advertisement platform', '']
+Guanxi (China)
+	Developer and provider of a location-based social discovery platform. The company develops a social platform that helps users discover new connections and maintain meaningful relationships, whether business or personal, with people they have commonalities with.
+	['']
+Connectipity
+	Operator of a global collaboration platform for solving professional challenges. The company develops a digital platform that connects users with the right skilled people for immediate needs.
+	['', 'global collaboration', ' ', 'professional challenges', ' ', 'work spaces', ' ', 'management tool', '']
+Honestly Now
+	Provider of a web and mobile social media platform.
+	['', 'social media', ' ', 'web platform', ' ', 'mobile interface', ' ', 'social game', ' ', 'Q & A platform', '']
+LoSo
+	Provider of location-based social media application. The company\'s platform delivers real-time advertisements, local deals and user loyalty reward “geo-checkins” through smart-phones and facebook applications.
+	['', 'social media app', ' ', 'location software', ' ', 'smart phone application', '']
+Exponaute
+	Operator of an online platform for information and services on exhibitions in Paris, France, Belgium and Switzerland. The company offers news about exhibitions and museums, photos and video previews, and direct access to purchase tickets and catalogs. Visitors also can register through social media, choose their favorite museums, and create calendars of exhibitions.
+	['exhibitions ', 'information service', ' ', 'social platform software', ' ', 'online patform', '']
+Mulu
+	Provider of a social media platform that combines shopping with charity. The company provides a platform that enables e-commerce retailers to sponsor key words of online content with advertising links, allowing users to purchase the items they are reading about.
+	['', 'social media platform', ' ', 'charitable platform', ' ', 'online advertisement platform', ' ', 'shopping platform', '']
+The Last Guide Company
+	Provider of the mobile and social media software. The company provides application software for mobile, social media and location based services.
+	['', 'entertainment application software', ' ', 'mobile entertainment', ' ', 'location based service', '']
+SpotLikes
+	Provider of a local business review platform. The company provides a social-local platform for listing, referring and discovering trusted local businesses.
+	['', 'business review', ' ', 'business listing', ' ', 'information service', '']
+Kontagent
+	Provider of a hosted and on demand viral analytics platform for social network application developers. The company\'s social analytics and marketing automation platform enables casual game publishers and game developers to engineer viral growth and gain an understanding of the demographics of their user base.
+	['', 'data pattern visualization', ' ', 'analytic platform', ' ', 'social graph', ' ', 'retention tracking', ' ', 'revenue tracking', ' ', 'application monitoring', '']
+Visibli
+	Provider of Web based technology to promote products. The company\'s engagement bar gives companies a tool to extend their reach, while providing consumers with content, promotions and e-commerce opportunities to sell their products and services.
+	['', 'social Marketing platform', ' ', 'analytics platform', ' ', 'social media engagement', '']
+ShoZu
+	Provider of mobile social media services. The company\'s platform allows users to share pictures, video and text using their mobile phone.
+	['', 'social media platform', ' ', 'online social network', ' ', 'social media service', '']
+LoanTek
+	Provider of a pricing engine platform for mortgage companies. The company provides an online platform which connects mortgage consumers with loan officers.
+	['', 'bank rate', ' auto-quoting ', 'email campaigns', ' ', 'marketing tools', '']
+Circlefive
+	Developer of social media platform that allows direct-to-home sales and service companies to \'check in\' at customers’ homes and encourage testimonials from customers as well as referrals. The company allow customers to have more influence with these come-and-go businesses, to promote the good ones and warn others of the bad ones.
+	['', 'information services', '']
+SportsCrunch
+	Developer of web-based social media platform. The company\'s website bringing athletes, coaches, and fans together.
+	['', 'web media platform', ' ', 'social media platform', ' ', 'athlete social platform', '']
+StudentSN
+	Provider of social media platform for Turkish-speaking students. The platform allows students to set up a profile and network with other users.
+	['', 'social media platform', ' ', 'student network', ' ', 'student networking', '']
+SocialStock
+	Provider of a social platform that awards users "shares" for their activities on social media. The company provides a platform that leverages users\' Facebook, Foursquare and Twitter interactions to determine their "social credit score."
+	['', 'stock market', ' ', 'market place', ' ', 'online stock', '']
+SonicLiving
+	Provider of a social platform that connects users to music concerts and events  based on their social media preferences. The company connects events and people all around the Internet, taking into account context, taste, social graph activity and event type.
+	['', 'consumer service', ' ', 'music concerts', ' ', 'social media preferences', '']

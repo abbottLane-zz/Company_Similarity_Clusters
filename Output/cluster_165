@@ -1,30 +1,24 @@
-Bright View Technologies
-	Developer of microstructure-based optical films. The company offers LCD backlight films; light management film product line for solid state lighting; contrast enhancing products for PDP and OLED applications; and GIGASCREEN product line for front and rear projection applications.
-	['', 'optical film', ' ', 'microstructure-based optical film', ' ', 'LCD backlight film', ' ', 'light management film', ' ', 'solid state lighting', '']
-TraceDetect
-	Provider of new chemical and optical sensors. The company provides research and commercialization of new chemical and optical sensors through reductions in electrode size. The company presently focuses on commercialization of automated trace metals measurements instrumentation, using stripping voltammetry and the Nano-Band electrode.
-	['electrode ', 'optical sensor', ' metal']
-Optimax Systems
-	Provider of optical materials to make aspheres, cylinders, spheres. The company manufactures prototype optical components for aerospace, display technologies and solar applications.
-	['cylinderical optics axicon wedges']
-Optiva
-	Developer of self-assembling nanomaterials. The company is engaged in developing and manufacturing self-assembling nanomaterials for use in a wide range of optical, electro-optical and semiconductor applications.
-	['nano-material ', 'self-assembling nanomaterials', ' ', 'electro-optical applications', ' ', 'optical applications', ' ', 'crystal films', ' ', 'semiconductor applications', ' nanomaterials']
-Arryx
-	Developer of holographic optical trapping (HOT) technology for optically controlled measurement and manipulation in nanotechnology, biotechnology, physical and material sciences, and basic research industries. The company offers stand-alone and turnkey solutions for holo-tweezers, as well as kit-based packages for the implementation of holographic optical trapping.
-	['', 'optical trapping technology', ' ', 'blood processing application', ' ', 'therapeutic research', ' ', 'nanotechnology application', ' ', 'optical telecommunication', ' ', 'reconfigurable biochip', '']
-Theta Optics
-	Provider of optical products. The company operates shops that sell optical glasses and other optical consumer products.
-	['', 'optical shops', ' ', 'optical products', ' eyeglass spectacles']
-Koyj Company
-	Manufacturer and seller of composite optical materials in South Korea. The company offers optical components, chemical applications, optical films, thermal extrusion processing, and polymer material developments.
-	['']
-Imagination Fx
-	Operator of a special effects studio. The company also provides products such as movie production cameras, optical printing cameras, animation cameras, telecine and film scanning machines, optical printers and projectors for screening films.
-	['', 'special effects studio', ' ', 'special effects', ' ', 'optical printing cameras', ' ', 'animation cameras', ' ', 'film scanning machines', ' electronics']
-Optix Networks
-	Developer of VSLI (very large scale integration) components used in optical switches and broadband networks equipment. The company serves the optical communications market.
-	['', 'scale Integration', ' ', 'optical backbones', ' ', 'information technology ', '']
-Fiberxon
-	Manufacturer of optical link interfaces for optical communication systems. The company offers telecommunication/data products, optical network products, and optical components, which comprise transceivers and sub-assemblies. Its products enable various applications of optical communication systems, such as metropolitan area network and access network.
-	['', 'optical link interface', ' ', 'optical communication system', ' ', 'optical network product', '']
+HAPTO Biotech
+	Developer of fibrin derived platform technologies. The company offers Fibrin Micro Beads for stem cell recovery and Haptides for cell attachment to fibrin. It\'s technology is used in the field of tissue engineering for the repair and replacement of skin and bone.
+	['fibrin ', 'tissue engineering', ' ', 'synthetic peptide', ' ', 'skin regeneration', '']
+CellTran
+	Developer of cell therapy products to aid in wound healing. The company using autologous skin cells treats difficult to heal wounds. Its products Myskin and Myskin Clinic help to heal wounds and provide dedicated treatment for chronic, complex or non-healing wounds.
+	['', 'Skin treatment', ' ', 'healing wounds', ' ', 'cultured human keratinocytes', ' ', 'integrated wound care dressing', ' ', 'wound healing', '']
+NovoGI
+	Provider of medical devices for GI disease management. The company\'s clinically proven nitinol technology works with the biological forces of the healing process which enables dynamic compression anastomosis of varying tissue thicknesses for natural healing for various patients undergoing colorectal resection procedures.
+	['', 'GI disease management', ' ', 'nitinol technology', ' ', 'colorectal surgery', ' ', 'surgical devices', '']
+ProCyte
+	Developer and manufacture of wound care, haircare and skin health products. The firm initially focused on the research and development of copper peptides specifically for wound healing.
+	['', 'Wound healing agents', ' ', 'skin care', '']
+Biofisica
+	Developer of medical devices that trigger the healing process in wounds that fail to heal on their own. The company develops solutions in the tissue engineering market to address chronic wound healing. It provides POSiFECT, a medical device that is used to heal wounds naturally.
+	['', 'medical device developer', ' ', 'wound healing process', ' ', 'tissue engineering', ' ', 'chronic wound healing', '']
+Neocutis
+	Developer of technology platform to understand the scarless wound healing. The company provides innovative topical preparations for dermatological and gynaecological affections as well as high-end cosmeceutical skincare products. Its platform has multiple applications in wound healing, dermatology and skin care. It is also developing a program of cellular therapy for the treatment of severe burns.
+	['', 'scarless wound healing', ' dermatology ', 'cellular therapy', '']
+UroTec
+	Provider of tissue-engineering services for the treatment of urologic disease. The company focuses on treatment of urethral stricture, ureteral strictures, ureteral anomalies and hypospadia.
+	['', 'urologic disease', ' ', 'urethral stricture', ' hypospadia ', 'tissue engineering', '']
+Polyheal
+	Developer of wound healing products for chronic wounds. The company wound healing products provides a sterile disposable suspension for topical application in the treatment of chronic wounds such as skin ulcers, burns, trauma and post-surgery wounds.
+	['', 'wound healing product', ' ', 'sterile disposable suspension', ' ', 'chronic wound', '']

@@ -1,18 +1,21 @@
-DATAllegro
-	Provider of data warehouse appliances.
-	['', 'data warehouse', ' ', 'warehouse appliance', '']
-InfiniDB
-	Provider of analytic database software for information processing applications. The company provides data warehouse storage engine for analytical data, analytical workloads and analytical data volumes. It also offers support services for the implementation of data warehouse.
-	['', 'analytic database software', ' ', 'storage engine', ' warehousing']
-living-e
-	Provider of a data-base supported web content management system. The company\'s products serve as tools for the administration and update of information for internet applications and their derivatives.
-	['', 'web content', ' CMS ', 'internet applications', '']
-Prism Solutions
-	Designer, developer and marketer of data warehouse management software solutions in United States. The company also provides database management solutions to its customers.
-	['', 'data warehouse', ' ', 'database solution', ' DBMS']
-Maximum Data Solutions
-	Provider of data collection and warehouse management technology solutions. The company operates as an independent software vendor of automated data collection hardware and software for companies that utilize the Microsoft Dynamics GP ERP packages. Its software products include InTouch Distribution, a module which connects, collects, and controls various aspects of Microsoft Dynamics GP receiving, order fulfillment, and inventory control functions; and InTouch Manufacturing, a solution developed for the purpose of acquiring and entering information about the inventory and processes.
-	['', 'warehouse management technology', ' ', 'data collection', ' ', 'inventory information entering', '']
-SenSage
-	Provider of enterprise event data warehouse technology for security, compliance, call detail records data retention, data retrieval and systems management. The company offers enterprise security analytics software that provides a log management platform, for event collection, retention and analysis to automate compliance reporting, investigation and security decision support processes.
-	['', 'data warehouse', ' ', 'log management platform', ' ', 'data management architecture', ' ', 'log management', ' ', 'system management', ' ', 'security process', ' ', 'compliance reporting', '']
+Buysight
+	Provider of search engine marketing platform for display advertising. The company provides services for both brand and performance advertisers and has developed an online display advertising network called ShopperConnecta for online e-commerce shopping market.
+	['', 'brand advertising', ' ', 'marketing platform', ' ', 'display advertising', '']
+MyBuys
+	Provider of cross-channel personalization for brands and retailers. The company offers web recommendations and personalized alerts. It builds profiles based on individual shopper\'s behavior and then uses a patented portfolio of algorithms and real-time optimization to deliver recommendations. It offers its recommendations to users through email and RSS alerts.
+	['', 'predictive display advertising', ' ', 'cross channel marketing', ' ', 'personalized alert', ' recommendation']
+Dapper
+	Provider of an advertising technology platform for creating dynamic display advertisements. The company provides a platform built on machine learning, intent exploration, sophisticated matching algorithms and real-time automated optimization which delivers dynamically assembled, intent-driven display ads that drive increased relevance and performance.
+	['', 'advertising technology platform', ' ', 'display adverts', ' ', 'display advertising', ' ', 'advertisement platform', ' ', 'web applications', ' ', 'semantic web', '']
+ReTargeter
+	Provider of an online display advertising platform. The company offers services for brand awareness and conversions by showing banner advertisements to the audience to a site after they leave. It enables brands to focus their advertisements on everyone who has engaged with them online, whether through the Web, e-mail, mobile devices or social media.
+	['', 'display advertising', ' ', 'brand awareness', ' ', 'banner advertisements', '']
+Adapt Media
+	Provider of wireless outdoor advertising solutions. The comapny specializes in display and communications technologies. It\'s product AdRunner, provides targeted location and time sensitive advertising. Its solutions enable advertisers to deliver real-time geo-targeted outdoor advertising.
+	['', 'wireless outdoor advertising', ' ', 'communication technology', ' ', 'display technology', ' ', 'time sensitive advertising', '']
+DirectRevenue
+	Provider of search, content, and software for advertisers and marketers. The company provides technology solutions that enable marketers to deliver highly targeted contextual advertisements. DirectRevenue delivers its contextual advertising services through partnerships with online media brokers.
+	['', 'advertisers', ' ', 'contextual advertisements', '']
+TellApart
+	Developer of online marketing applications for ecommerce retailers. The company uses personalized retargeting technology to create banner advertisements and offers a platform that helps users to collect and organize cloud based customer data.
+	['', 'display advertising', ' ', 'personalized banner', ' ', 'banner advertisement', '']

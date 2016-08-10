@@ -1,18 +1,12 @@
-Covagen
-	Operator of a biopharmaceutical company focused on therapies for inflammatory diseases and cancer. The company provides a proprietary platform that genetically fuses Fynomer binding proteins to antibodies, resulting in therapeutics with novel modes of action. The company’s first clinical drug candidate is designed for treatment of rheumatoid arthritis, psoriatic arthritis and other inflammatory diseases.
-	['', 'inflammation binder', ' ', 'protein therapy', ' ', 'clinical drug', '']
-Link Medicine
-	Operator of a privately held biotechnology company advancing novel approaches for the treatment of neurodegenerative diseases. The company is developing treatments for multiple diseases, including Alzheimer’s, Parkinson’s, Huntington’s, and Amyotrophic Lateral Sclerosis (ALS). It targets a common feature of the disorders - the buildup in nerve cells of incorrectly folded, aggregated and ultimately neurotoxic proteins.
-	['', 'neurodegenerative disease', ' Alzheimer’s Parkinson’s, Huntington’s ', 'Amyotrophic Lateral Sclerosis', ' ALS']
-Radiant Medical
-	Developer of endovascular temperature therapy products. The company offers its products to advance the treatment of patients with acute ischemic or inflammatory medical conditions, such as heart attack, radiocontrast nephropathy, stroke, and cardiac arrest.
-	['', 'endovascular temperature therapy', ' ', 'medical care product', ' ', 'acute ischemic treatment', '']
-Intracellular Therapies
-	Developer of drugs for the treatment of diseases and disorders of the Central Nervous System (CNS). The company develops compounds to treat neuropsychiatric and neurological diseases. It also develops a state of the art technology platform for generating a unique molecular signature for drug compounds.
-	['', 'neuropsychiatric disease treatment', ' ', 'neurological disease treatment', ' ', 'drug compound', ' ', 'drug development', '']
-StormBio
-	Developer of therapy for influenza and other inflammatory diseases. The company is developing a new class of therapeutics designed to target only an over-reaction of the inflammatory process, without shutting down the body\'s immune response.
-	['', 'influenza', ' ', 'inflammation treatment', ' ', 'pandemic', ' ', 'biopharm', '']
-Centaur Pharmaceuticals
-	Developer of novel class of small molecule pharmaceutical compounds for the treatment of neurodegenerative and inflammatory diseases. The company develops such compounds to treat inflammatory diseases such as acute stroke, dementia, rheumatoid arthritis, myocardial ischemia and Parkinson’s disease.
-	['', 'molecule pharmaceutical compound', ' ', 'pharmaceutical products', '']
+LuxN
+	Developer multi-service, optical access network platforms. The company provides end-to-end optical networking products for metropolitan service providers therby enabling delivery of high bandwidth video, data, storage and voice services.
+	['', 'optical networking', ' ', 'optical access', ' ', 'network platforms', ' ', 'data delivery', '']
+Novera Optics
+	Developer of optical access solutions to overcome the bandwidth bottlenecks in copper-based last mile networks. The company\'s λ-PON™ optical solutions, based on advanced wavelength-locked WDM-PON (wavelength division multiplexed passive optical network) technology, enable equipment vendors and service providers to address multiple markets with a single product.
+	['', 'fiber optic', ' ', 'optical access', ' ', 'Remote Terminals', '']
+NetEdge Systems
+	Designer and manufacturer of multi-service Automated Teller Machine (ATM) access concentrators. The company designs and develops multi-service access concentrators for ATMs which enables service providers to provide public data, voice, and video services.
+	['', 'automated teller machine', ' ', 'access concentrator', ' ', 'computer system', '']
+FlexLight Networks
+	Developer of a suite of optical access products. The company offers products with applications for the gigabit passive optical networking (GPON) market.
+	['', 'optical access', ' ', 'video services', ' ethernet']

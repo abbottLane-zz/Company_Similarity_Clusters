@@ -1,27 +1,24 @@
-Precision Beam
-	Provider of laser cutting services. The company provides laser cutting and welding services in United Kingdom.
-	['', 'laser cutting', ' ', 'welding service', ' laser']
-Tomi-Steel
-	Manufacturer of industrial pipes. The company\'s products include pipe racks, prefabricated pipes, pressure vessels, pump modules and also offers cutting, bending pipes and welding service.
-	['', 'industrial pipes', ' ', 'prefabricated pipes', ' ', 'welding services', '']
-Agility Communications
-	Provider of laser solutions for the optical network. The company focuses on offering tunable transponder and tunable laser solutions for carriers and system providers.
-	['', 'laser solution', ' ', 'optical network', ' ', 'tunable transponder', ' ', 'tunable laser', '']
-PlymoVent
-	Supplier of products, systems and services for the extraction and filtration of polluted indoor air. The company provide services that remove welding and cutting fumes, grinding dust and oil mist in the metalworking industry.
-	['filtration extraction ', 'pollution filtration', ' ', 'extration services', '']
-Konepaja Ceiko
-	Provider of contract manufacturing services and steel components. The company also has its own products such as tanks, pressure vessels, and water treatment systems. The company does a number of services including machining, plasma cutting, TIG and MIG/MAG welding, plate cutting, edging and mangling, painting and shot blasting, heat treatment and 3D measurement.
-	['', 'steel components', ' ', 'contract manufacturing', ' ', 'machining', ' ', 'plate cutting', ' ', 'manufacturing services', '']
-FlowerTech
-	Manufacturer of flower cutting instrument. The company also assist flower grower, distributor and retailer with flower cutting technique.
-	['', 'flower cutter', ' ', 'cutting instrument', ' ', 'home furnishing', ' ', 'flower cutting technique', '']
-Intense
-	Provider of single and multimode monolithic laser array products and high power laser diodes. The company  provides foundry services, including front-end wafer processing, back-end assembly line, engineering support and product development support services and laser diode, optics, electronics and package design services.
-	['', 'laser diodes', ' ', 'electrical equipments', ' ', 'laser equipments', '']
-20/10 Perfect Vision
-	Developer of femtosecond and excimer laser technologies for refractive and cataract surgeons. The company’s products include excimer workstations for laser surgery, femtosecond workstations, diagnostic workstations and ZYOPTIX XP, a microkeratome system that allows surgeons to perform stromal and epithelial flaps.
-	['', 'laser surgery', ' ', 'diagnostic workstations', ' ', 'microkeratome system', ' ', 'epithelial flaps', ' cataract']
-CUARZOS GRANULADOS
-	Provider of stone shaping, finishing and transportation. The company specializes in the cutting of stone for both urban and commercial uses such as counter tops and displays.
-	['', 'stone cutting', ' ', 'stone shaping', ' ', 'material transportation', ' ', 'mining', ' ', 'quarry', '']
+Diatos
+	Operator of a bio-pharmaceutical company that develops anti-cancer therapies based on cellular-delivery and drug-targeting technologies. The company engages in the  research, development and marketing of anti-cancer chemotherapeutic drugs.
+	['', 'chemotherapeutic drugs', ' ', 'human therapies', ' bio-pharmaceutical ', 'anti-cancer therapies', '']
+Targovax
+	Operator of an oncology bio-pharmaceutical company. The company develops therapeutic vaccine for pancreatic cancer.
+	['', 'pancreatic cancer', ' ', 'therapeutic vaccine', ' ', 'oncology bio-pharmaceutical', '']
+BruCells
+	Developer of therapeutic cellular vaccines. The company produces vaccines based on dendritic cells. It also develops cytokines of a clinical nature used in the preparation of cancer vaccines.
+	['vaccine ', 'cancer vaccine', ' ', 'cellular vaccine', ' ', 'therapeutic vaccine', '']
+InnoPharma
+	Developer of complex generic and innovative specialty pharmaceutical/bio-pharmaceutical products in injectable and ophthalmic dosage forms. The company has a broad portfolio of products under development, with formulations including, suspension, lyophilized, emulsions, liposomes, micelles and lipid complexes.
+	['', 'medical product', ' ', 'drug development', ' ', 'bio pharmaceutical product', ' ', 'medical drug research', ' ', 'sterile injectable product', ' ', 'sterile products', ' injectable ophthalmic']
+Genemedicine
+	Developer of bio-pharmaceutical products. The company designs gene medicines to produce sustained levels of therapeutic proteins within the body. The company develops therapeutic products for both acute and chronic use and to be administered to patients through conventional means such as intramuscular or intravenous injection, or inhalation.
+	['biopharmaceutical genes']
+Scandinavian BioPharma
+	Developer of pharmaceutical  products such as vaccines and immunoglobulins. The company mainly focuses on development of a new oral traveler’s diarrhea vaccine. The company is currently developing a pharmaceutical  product for the treatment of mild to moderate psoriasis.
+	['vaccines immunoglobins ', 'diarrhea vaccine', '']
+MGI Pharma Biologics
+	Developer of oncology and antiviral products for large unmet markets.
+	['', 'oncology product', ' ', 'medical therapy', ' ', 'pharmaceutical product', '']
+Pancel
+	Operator of early stage cellular therapy company. The company develops technology to genetically engineer pancreatic cell lines for the eventual cure of diabetes.
+	['', 'cellular therapy', ' pancreatic diabetes']

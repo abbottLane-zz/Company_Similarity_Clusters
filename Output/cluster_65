@@ -1,36 +1,30 @@
-Mediastay
-	Provider of an online advertising platform focusing on online games. The company provides a monetization platform that is used by 12 internally published games as well as third party games on the web or Facebook.
-	['', 'social games', ' ', 'published games', ' ', 'monetization', '']
-Tribal Nova
-	Developer of parent friendly virtual worlds and educational games for children. The company develops and markets educational online services and games for kids that stimulate preschoolers\' learning and curiosity.
-	['', 'virtual world', ' ', 'educational game', ' ', 'educational online service', ' ', 'social gaming', '']
-Com2uS
-	Developer of mobile games. The company specializes in titles like Heroes War, Tiny Pop and Tiny Farm.
-	['', 'mobile game', ' ', 'game developer', ' ', 'mobile entertainment service', '']
-Ayalogic
-	Developer of communication software for games. The company offers Qmunicate, a software solution that consolidates communications into one flow, as well as manages communications across personal computers, PBX-based telephones, and mobile phones; Green-Ear C++/Windows SDK, which helps to add voice enabling network functionality to custom engine games; and Green-Ear C++/Mac SDK, which helps users to voice enabling network functionality to Mac games.
-	['', 'communication software', ' ', 'mobile phone', ' ', 'network function', ' ', 'custom engine game', ' ', 'mac game', '']
-Art of Crime
-	Developer of riddle based online games for children. The company develops interactive games based on criminal cases for children and their families. Crimeville its newest game launched is a multiplatform, interactive detective riddles for the 6-12 demographic.
-	['', 'online games', ' ', 'interactive games', ' riddles']
-Infogami
-	Provider of a wiki application framework. The company\'s wiki platform is used to support the internet archive\'s open library project and the web.py web framework.
-	['', 'internet archive', ' ', 'wiki application', ' ', 'open library', ' ', 'platform application', ' ', 'web application', '']
-The B Equal Company
-	Developer of DVD games. The company helps to strengthen the bonds between children and parents by creating games that make learning a fun, interactive family event.
-	['', 'DVD games', ' ', 'family event', ' ', 'educative games', ' fun']
-Gamepot
-	Provider of an online gaming platform. The company provides online games through its web platform and mobile applications.
-	['', 'gaming platform', ' ', 'web game', ' ', 'platform software', '']
-Vollee
-	Provider of PC and console-quality games on 3G mobile devices with a development & porting process. Their hosted software platform is designed to enable intelligent adaptation and real-time delivery of commercial games.
-	['', 'video gaming', ' ', 'porting process', ' ', 'intelligent adaptation', '']
-Games Workshop
-	Manufacturer of games. The company manufactures metal figures and games and engages in the distribution of these products.
-	['', 'games manufacturer', ' ', 'metal figures', ' distribution']
-Enigma Software Productions
-	Developer of real-time strategy games. The company provides games of different genres across multiple platforms.
-	['', 'IP Incubation', ' ', 'online games', ' ', 'Development and Porting', '']
-R-coms
-	Creator of custom web communication products. The company works with clients to create products for the Web, including games, websites or social-discovery applications, focusing on the client’s target audience.
-	['', 'location based', ' ', 'dating application', ' ', 'web communication product', '']
+Maptuit
+	Provider of navigation solutions to the transportation industry in the United States. The company specializes in providing location information Web services for consumer, tracking, and traffic markets.
+	['', 'navigation solution', ' ', 'location information', ' ', 'transportation optimization solution', ' ', 'geofencing technology', ' ', 'direction application', ' ', 'online traffic application', '']
+DecisionView
+	Developer of web-based clinical optimization solutions for the life sciences industry in the United States and internationally. The company provides StudyOptimizer, a Web-based application designed for pharmaceutical companies, which allows clinical trial managers to plan, track, diagnose, and correct enrollment plans via a single centralized Web-based application that captures and aggregates clinical trial patient enrollment data from across the organization.
+	['', 'clinical optimization solution', ' ', 'clinical performance application', ' ', 'clinical performance optimization', '']
+Abakus
+	Developer and provider of a Web-based electronic patient-record system. The company\'s products supports physiotherapists in clinical reasoning and decisions, and objectifying and registering physiotherapy outcome measures in cooperation with the patient or their representative.
+	['clinical ', 'patient record system', ' ', 'electronic records', ' SaaS']
+1747
+	Provider of web enabled systems to conduct clinical trials directly with participants. The company\'s product aims to clarify participant’s eligibility, aggregates their informed consent, and enrolls them for clinical trials using the internet.
+	['', 'clinical trial', ' ', 'web enabled system', ' ', 'direct-to-participant', ' ', 'enrolment systems', '']
+Terracotta
+	Developer of software products for enterprise application scalability, availability, and performance optimization. The company’s products include Enterprise Ehcache, a solution for optimizing enterprise application scale and performance.
+	['', 'software product', ' ', 'java application', ' ', 'java scalability', ' ', 'performance optimization', '']
+Swiss Pharma Contract
+	Provider of clinical research services to the pharmaceutical, biotechnology, and medical-device industries. The company offers a variety of clinical pharmacology services ranging from first testing in man to post-marketing studies.
+	['', 'clinical research', ' ', 'clinical pharmacology', ' pharmaceutical']
+Phase Forward
+	Provider of  integrated clinical research suite of enterprise-level software products, services, and hosted services worldwide. The company\'s services are used in clinical trial and drug safety monitoring applications in the pharmaceutical, biotechnology and medical device companies; and academic institutions, governmental regulatory agencies, contract research organizations and other entities engaged in clinical trial and drug safety monitoring activities.
+	['', 'data capture', ' ', 'clinical research suite', ' ', 'clinical data management', '']
+Abaton.com
+	Developer of Internet-based clinical applications for use by clinicians in ambulatory settings. The company provides clinical information, medical decision-making support, access to test results, order management and prescription-writing capability– opening electronic lines of communication to streamline functions and augment clinical workflow.
+	['', 'clinical application', ' ', 'information management service', ' workflow']
+Citizen1
+	Provider of research and development services for pharmaceutical and biotechnology industries. The company offers clinical trials and drug development information. It provides TrialTrove, which delivers ongoing clinical trials information; SiteTrove, which tracks and maintains detailed profiles; TrialScape, which provides graphical representation of clinical trial timelines; and CustomAnalytics for design and implementation of planned trials.
+	['', 'pharmaceutical research', ' ', 'clinical trials information', ' ', 'drug development information', ' ', 'biotechnology research', '']
+R5 Pharmaceuticals
+	Developer of medicines and clinical trial materials. The company develops and manufactures medicines and materials for phase 1 and phase 2 clinical trials.
+	['', 'pharmaceutical dosage', ' ', 'drug discovery', ' ', 'drug manufacturer', '']

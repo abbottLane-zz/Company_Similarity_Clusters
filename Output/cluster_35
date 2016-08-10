@@ -1,24 +1,18 @@
-SmartRM
-	Developer of encryption software that allows users to protect and share digital content, such as documents, audio and video files. The company operates an open-source, interoperable DRM platform based on the MPEG-21 standard. The company\'s software prevents unauthorized printing, copying and sharing, sets time limits on file use, tracks file users and helps keep control of files even after they are sent.
-	['', 'encryption software', ' ', 'digital contents', ' ', 'unauthorized printing', ' tracking']
-Yepler
-	Creator of an online social desktop community. The company\'s platform enables users to organize files, links,videos, friends and groups by tagging and rating them locally and globally. The platform allows users to write comments or chat about any link or file on their computer. Through the platform, a document can instantly serve as a communication channel between two users.
-	['', 'desktop software', ' ', 'communication channel', ' ', 'document tagging', '']
-Kippt
-	Provider of social and collaborative bookmarking site. The company enables its users to organize links into lists, collect bookmarks and clips add comments and share content.
-	['', 'bookmarking site', ' ', 'content sharing platform', ' ', 'social site', '']
-WebShaka
-	Developer of a Web desktop platform. The company is the creator of YouOS, a platform replicating a desktop environment on a Web page. The platform allows users to login and save their work from multiple computers, to centralize all their Web services and files in one place, and to share files and apps with others. The platform operates on Javascript.
-	['', 'manage files', ' ', 'development tools', ' ', 'desktop platform', ' ', 'desktop environment', '']
-Thinkature
-	Developer of an online collaboration platform for small groups. The company offers a web-based white-board platform that allows users to chat and draw diagrams on a shared whiteboard.
-	['', 'collaboration platform', ' white-board workspace']
-ShareFile
-	Provider of software solutions that help businesses exchange files. The company offers an online file storage solution that allows users to create a custom-branded password-protected area where users exchange business files with clients
-	['', 'software solution', ' ', 'businesses exchange file', ' ', 'online file storage', ' storage']
-BigSwerve
-	Operator of a search aggregator for blog comments, which are often omitted in blog searches and roundups. The company\'s crawler aggregates comments, allowing users to follow the comments for a given person and discover new content by seeing where other people are engaged.
-	['', 'search aggregator', ' ', 'blog comment', ' crawler ', 'web crawler', ' ', 'comment aggregator', ' ', 'blog crawler', ' ', 'web spider', ' ', 'blog spider', '']
-Lefora
-	Provider of a platform that allows members to create public and private forums and add videos and photos. The company allows members to create animal, automotive, business and professional, computer and Internet, culture and community.
-	['', 'public forum', ' ', 'private forum', ' ', 'web discussion', ' ', 'online forum', '']
+eShip-4u
+	Provider of value added hardware and software services for the logistics and courier service industry. The company provides a system of automatic delivery machines (ADMs), interconnected over a web-based IP network, that serve for the pick-up and drop-off of packages that were ordered from various sources.
+	['', 'software service', ' ', 'courier service', ' ', 'automatic delivery machine', '']
+Eutraco Logistics
+	Provider of transportation services. The company provides warehousing, logistics and delivery services.
+	['', 'delivery service', ' ', 'transportation service', ' ', 'business products', '']
+Net4Call
+	Provider of Parlay/OSA service delivery components for the telecommunications industry.  The company provides network independent value added voice, data communication and multimedia products and services for existing and next generation telecom networks fot fixed, IP and wireless.
+	['OSA parlay VOIP ', 'telecommunication components', ' ', 'data communication', ' ', 'telecom networks', '']
+9Cookies
+	Developer of an internet based system for restaurants and delivery services. The company provides a tablet based platform with tools for taking orders, accepting card payments, scheduling employees, printing receipts and creating custom notes for the kitchen.
+	['', 'restaurant service', ' ', 'delivery service', ' ', 'tablet based platform', '']
+VocalData
+	Developer of service delivery soft switches and service platforms. The company enables communications carriers to deliver telephony and communications services on next generation networks (NGNs).
+	['', 'service delivery', ' ', 'service platform', ' ', 'communication service', '']
+Wisor Telecom
+	Provider of e-sourcing solutions for communications services. The company\'s products control service inventory, help in auditing, reconciliation of vendor/supplier invoices, manage vendor performance, facilitate on-time service delivery and manage service rules.
+	['', 'communication services', ' ', 'service management', '']

@@ -1,36 +1,9 @@
-Kanisa Pharmaceuticals
-	Provider of oncology focused pharmaceutical services. The company is focused on developing new treatments for cancer with novel testing formats to stratify patients and predict likely responders to therapy.
-	['', 'cancer treatment', ' ', 'pharmaceutical service', ' ', 'diagnosis service', '']
-ACT Biotech
-	Developer of cancer drugs. The company is focused on the development and commercialization of targeted oral and cancer drugs.
-	['', 'oral cancer', ' ', 'cancer treatment', '']
-JSK Therapeutics
-	Developer of novel anti-cancer drugs using an approved compound to inhibit the growth of cancer cells. The company\'s business is based on two types of drugs, the first class of drug, has been tested in animal systems and the second class of drugs is not as developed as a cancer drug but is more versatile with wider range of cancers.
-	['', 'cancer therapy', '']
-Lotus Pharmaceuticals
-	A pharmaceutical company, focused on developing, manufacturing and distributing drugs in the People\'s Republic of China.
-	['']
-Cyrenaic Pharmaceuticals
-	Developer of drugs for schizophrenia and bipolar disorder. The company is focused on the development of CYR-101, an innovative antipsychotic for the treatment of schizophrenia.
-	['', 'schizophrenia treatment drug', ' ', 'bipolar disorder treatment', ' ', 'drug development', '']
-Apalexo Biotechnologie
-	Operator of a biopharmaceutical company focused on cancer treatment. The company is focused on development of a treatment to eradicate residual tumor cells following conventional cancer therapies.
-	['immunotherapeutics cellular']
-Proacta
-	Developer of oncology drugs. The company provides cancer-related products which targets the physiological attributes of solid tumors through normal metabolic processes.
-	['', 'oncology drug', ' ', 'cancer drug', ' ', 'solid tumour drug', '']
-Pemeas
-	Supplier of key components and subsystems to the fuel-cell industry. The company has two divisions. The Celtec division of Pemeas is focused on the development and commercialization of high temperature membranes and MEAs. The E-TEK division of Pemeas is developing precious-metal catalysts and electrode technology.
-	['', 'fuel cell', ' ', 'high temperature membranes', ' ', 'electrode technology', ' ', 'metal catalyst technology', '']
-Interomex Biopharmaceuticals
-	Developer of proteomic drugs. The company is engaged in the discovery and commercialization of novel targets and drugs in the proteomics area, for the treatment of viral, cancer and autoimmune diseases.
-	['proteomics autoimmune']
-Algeta
-	Developer of novel targeted therapies for patients with cancer, based on its alpha-pharmaceutical platform. The company is focused to extend and improve cancer patient\'s lives by developing targeted therapies to fulfill unmet medical needs. It\'s lead product Alpharadin is used for treatment for cancer patients with bone metastases. They are also developing thorium targeted conjugates which are based on conjugating the alpha-emitter thorium-227 to tumor-targeting molecules.
-	['', 'cancer drug', ' ', 'targeted therapy', ' ', 'bone metastase', '']
-ZGene
-	Provider of gene therapeutics for the treatment of cancer diseases. The company develops treatments for several cancer forms with an enzyme based gene suicide system that increase the activation of anti-cancer drugs in tumour cells with faster cell death.
-	['', 'cancer treatment', ' ', 'gene suicide', ' ', 'anti-cancer drugs', '']
-Cardoz
-	Developer of pharmaceutical products in the field of cardiovascular inflammation. The company is focused on the development of drugs for inflammatory vascular conditions, such as abdominal aortic aneurysm and atherosclerosis.
-	['', 'pharmaceutical products', ' ', 'cardiac equipment', ' pacemakers']
+Laboratorio de Ensayos ICIM LAB
+	Provider of laboratory and test certification services. The company provides research and consulting services for calibration and adjustment of instruments and equipments.
+	['calibration ', 'research and consulting', ' ', 'quality testing', '']
+Tektagen
+	Provider of quality control testing and consulting services to the biotechnology and pharmaceutical industries. The company provides biosafety and bioanalytical testing services.
+	['', 'quality control', ' ', 'bioanalytical testing services', ' biotechnology']
+SciCor
+	Provider of laboratory testing services. The company provides laboratory testing services and related data processing support to the US pharmaceutical industry. Its research data was used to prepare clinical submissions to the Food & Drug Administration (FDA) for approval to market new drugs.
+	['', 'laboratory testing service', ' ', 'drug testing', ' ', 'drug invention', '']

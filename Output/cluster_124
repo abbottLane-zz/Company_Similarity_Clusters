@@ -1,30 +1,60 @@
-Lookcraft
-	Retailer of curated men\'s apparel and accessories. The company provides men with clothing and accessories suggestions based on the preferences that are selected through the company\'s website, which it then sells as a package to the customer.
-	['', 'discovery commerce', ' curated ', 'mens apparel', '']
-Koodos
-	Retailer of apparel and accessories. The company specializes in selling online excess inventory and end of season stock for various brands.
-	['', 'stock clearance sale', ' ', 'online shop', ' ', 'discount fashion store', '']
-TRB International
-	Manufacturer of men\'s luxury swimwear, accessories and resort wear. The company designs and distributes high end swimwear and accessories.
-	['swimwear ', 'pants and shorts', ' cap']
-Tie Society
-	Provider of an online rental service for neck-wear and menswear accessories. The company offers a monthly subscription service where the members can choose and rent a number of ties every month.
-	['', 'necktie rental', ' menswear ', 'rental service', '']
-M2M Fashion
-	Retailer of customized clothing and accessories. The company through its website sells men\'s personalized garments through an online self-surveying process.
-	['', 'fashion accessories', ' ', 'personalized garments', ' ', 'customized clothing', ' ', 'self-surveying process', '']
-El Secreto del Mar
-	Manufacturer of youth sportswear. The company is a manufacturer of sporting apparel and accessories under the brand name El Nino.
-	['', 'sport apparel', ' ', 'apparel and accessory', ' ', 'apparel manufacturing', '']
-Vipventa
-	Provider of an e-commerce platform for fashion and luxury products. The company is a Spain-based retailer of apparel and accessories for men, women and children.
-	['', 'e-commerce', ' kinga ', 'disney pictures', '']
-MyNines
-	Aggregator of private-sales websites. The company provides a platform that aggregates limited-time deals on discounted sample products, enabling customers to visit just one site for multiple retailers. The company offers shopping opportunities in men\'s and women\'s fashion, jewelry and accessories, beauty, wines, travel and sports gear.
-	['', 'sample sales', ' ', 'sample search', ' ', 'online product', ' cloth']
-Mon Showroom
-	Retailer of fashions for men, women and children. The company is an online retailer of French-inspired clothing and accessories.
-	['', 'fashion retail store', ' ', 'ready to wear', ' ', 'women trend', '']
-Jackalope Labs
-	Operator of a fashion-retail site with curated, home-try-on selections. The company operates an electronic commerce site for men and women utilizing its own label, sending customers curated garment collections to try on at home and charging them for the garments they opt to keep.
-	['', 'luxury clothing', ' ', "men\\'s apparel", ' ', "women\\'s apparel", ' ', 'internet retail', ' ', 'fashion retail', '']
+Pharmacopeia
+	Developer of novel small molecule therapeutics to address significant medical needs. The company has a portfolio of clinical and preclinical candidates under development internally or with partners including nine clinical compounds in Phase 2 or Phase 1 development addressing hypertension, diabetic nephropathy, muscle wasting, inflammation and respiratory disease.
+	['', 'small molecule', ' hypertension ', 'diabetic nephropathy', '']
+Argintex
+	Developer of therapeutics like small molecule inhibitors of arginase.The company’s arginase also leads to the production of ornithine which increases polyamine, stimulating cell division, and contributing to hyperplasia and fibrosis.
+	['', 'molecule inhibitor', ' ', 'pulmonary treatment', ' ', 'vascular disorder', ' ', 'arginase enzyme', '']
+Intellikine
+	Developer of small molecule drugs that target signal transduction networks for the treatment of cancer, inflammation, and autoimmune disorders. The company\'s products include INK128, an orally-available TORC1/2 inhibitor for the treatment of solid tumor malignancies; INK1197, a small molecule dual PI3K selective inhibitor for patients with immune-mediated inflammatory diseases, such as rheumatoid arthritis and asthma; and PI3K selective inhibitors for the treatment of hematologic malignancies and solid tumors.
+	['', 'small molecule drug', ' ', 'cancer drug', ' ', 'drug for autoimmune disorder', ' ', 'treatment of solid tumor malignancie', '']
+Vantia
+	Developer of small molecule drugs. The company develops drugs for the treatment of nocturia, dysmenorrhoea, respiratory disorders, inflammation, oncological and fibrotic diseases.
+	['', 'drug development', ' ', 'nocturia treatment', ' ', 'fibrotic disease treatment', '']
+Chronogen
+	Developer of small-molecule drugs to treat oxidative stress and lipid disorders in age-related diseases. The company develops human therapeutics to treat age-dependent diseases, with an initial focus on cardiovascular disorders and cancer.
+	['', 'small-molecule drugs', ' ', 'human therapeutics', ' ', 'pharmaceutical industry', '']
+Diaxonhit
+	Developer of RNA-based diagnostic tests. The company is engaged in developing RNA-based diagnostic tests and small molecule therapeutics for the treatment of Alzheimer\'s disease (AD) and cancer. Its Genome Wide SpliceArray (GWSA) platform is a patented microarray design that incorporates a specific probe configuration, enabling monitoring of RNA splice variants in humans, mice and rats.
+	['', 'diagnostic test', ' ', 'small molecule', ' ', 'RNA splice', '']
+Xanthus Pharmaceuticals
+	Developer of small-molecule therapeutics for the treatment of cancer and autoimmune disorders.
+	['', 'cancer treatment', ' ', 'small-molecule therapeutic', ' ', 'autoimmune disorder', '']
+Vioquest Pharmaceuticals
+	Provider of therapeutic services for oncology. The company develops and commercializes late preclinical and early clinical stage therapies for oncology, viral and autoimmune disorders.
+	['', 'oncology treatment', ' ', 'cancer therapy', ' ', 'cancer relief', '']
+HemaQuest Pharmaceuticals
+	Developer of small molecule therapeutics. The company develops small molecule therapeutics based on its short chain fatty acid derivative (SCFAD) technologies to treat anemia and other blood disorders.
+	['', 'blood disorder treatment', ' ', 'anemia treatment', ' ', 'small molecule therapeutic', '']
+Galileo Pharmaceuticals
+	Developer of small molecule therapeutics. The company specializes in the discovery of compounds that moderate the effects of oxidative stress and energetic perturbations on living biological systems.
+	['', 'small molecule therapeutics', ' ', 'metabolic diseases', ' oxidative ', 'metabolic stress', '']
+Signase
+	Developer of small molecule inhibitors of a critical cell pathway for the treatment of a variety of solid tumors.
+	['', 'molecule inhibitor', ' ', 'solid tumor treatment', ' ', 'critical cell pathway', '']
+Intercept Pharmaceuticals
+	Developer of small molecule drugs for the treatment of chronic liver and metabolic diseases. The company develops therapeutics to treat orphan and more prevalent liver diseases in bile acid chemistry.
+	['', 'molecule drug', ' ', 'chronic liver treatment', ' ', 'metabolic disease treatment', '']
+Endocyte
+	Developer of receptor-targeted therapeutics for the treatment of cancer and autoimmune diseases. The company provides EC17, a folate-targeted hapten therapy drug to treat metastatic renal and ovarian cancer; EC145, a folate-targeted chemotherapeutic conjugate to treat various tumors, including cancers of the breast, lung, and blood; EC0225, a targeted chemotherapy drug.
+	['', 'cancer treatment', ' ', 'autoimmune disease', ' ', 'ovarian cancer', ' ', 'breast cancer', '']
+Interomex Biopharmaceuticals
+	Developer of proteomic drugs. The company is engaged in the discovery and commercialization of novel targets and drugs in the proteomics area, for the treatment of viral, cancer and autoimmune diseases.
+	['proteomics autoimmune']
+Avidex
+	Operator of a biotechnology company focused on the development of therapeutics for cancer and autoimmune diseases. The company develops small molecule modulators of T cell function and protein therapeutics based on T cell receptors. The technology enables the company to develop treatments for cancer, inflammation, autoimmune diseases and allergies.
+	['', 'T cell', ' mTCR ', 'autoimmune disease', ' ', 'cancer therapy', '']
+Ziopharm
+	Developer of drug candidates for cancer treatments. The company operates with the strategy of in-licensing proprietary drug-candidate families with prior ""related-molecule" efficacy in human cancer that could be efficiently and effectively developed and commercialized.
+	['', 'cancer therapeutics', ' ', 'molecule therapeutic', ' ', 'healthcare service', '']
+NaniRx Therapeutics
+	Developer of Precision Immune-Stimulants for the treatment of breast cancer and on Precision Tolerogens for the treatment of autoimmune disorders.
+	['', 'drug development', ' ', 'autoimmune disorder', ' ', 'cancer treatment', '']
+Oculon
+	Developer of products for the diagnosis and treatment of cataracts based on phase-separation technology.. The company develops small molecule pharmaceuticals to treat conditions other than cataract that involve protein aggregation, such as the formation of protein condensates in certain blood, neurological and connective tissue disorders.
+	['', 'diagnosis treatment', ' ', 'small molecule', ' ', 'phase separation technology', ' ', 'protein condensates', ' ', 'tissue disorder', '']
+Artesian Therapeutics
+	Developer of small molecule therapeutics for the treatment of cardiovascular diseases. The company provides small molecule drugs for congestive heart failure.
+	['', 'cardiovascular disease treatment', ' ', 'small molecule therapeutic', ' ', 'congestive heart failure', '']
+Adamas Pharmaceuticals
+	Developer of small molecule advantaged therapeutics to treat neurological and infectious diseases. The company also develops novel extended release and combination products for symptomatic treatment of dementia.
+	['', 'small molecule', ' ', 'advantaged therapeutic', ' ', 'neurological disease', ' ', 'symptomatic treatment', ' dementia']

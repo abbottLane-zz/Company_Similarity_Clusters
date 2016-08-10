@@ -1,39 +1,15 @@
-HAPTO Biotech
-	Developer of fibrin derived platform technologies. The company offers Fibrin Micro Beads for stem cell recovery and Haptides for cell attachment to fibrin. It\'s technology is used in the field of tissue engineering for the repair and replacement of skin and bone.
-	['fibrin ', 'tissue engineering', ' ', 'synthetic peptide', ' ', 'skin regeneration', '']
-Evotec International
-	Manufacturer of biopharmaceutical products. The company develops therapies for metabolic disorders based on model organisms and stem cell expertise.
-	['biomarker ', 'metabolic disorders', ' ', 'biopharmaceuticals services', '']
-Chromos Molecular Systems
-	Developer of artificial chromosome technology for use in biopharmaceutical production. The company focuses on the development of proprietary artiﬁcial chromosome expression system technology that is used to engineer production quality cell lines to manufacture biopharmaceutical products, including monoclonal antibodies and the development of human therapeutic products.
-	['', 'artificial chromosome technology', ' cell ', 'biopharmaceutical products', '']
-Cyntellect
-	Manufacturer of work stations used by biotechs for cell analysis, purification, and processing. The company\'s products support key applications to advance life science research, biopharmaceutical production, stem cell research and drug discovery.
-	['', 'cell analysis', ' ', 'life science', ' ', 'stem cell research', ' ', 'drug discovery', ' ', 'biopharmaceutical', '']
-Cellumen
-	Provider of cell-based drug discovery, early safety assessment, and discovery toxicology products and solutions for the biopharmaceutical researchers to create various efficacious, safe, and patient-targeted drugs.
-	['', 'patent targeted drug', ' ', 'drug discovery', ' ', 'discovery toxicology product', ' ', 'early safety assessment', '']
-Millipore
-	Provider of life science products and services. The company provides innovative products and services that help academic, biotechnology and pharmaceutical customers advance their research, development and production.
-	['', 'life science tool', ' ', 'pharmaceutical customer', ' ', 'life science products', ' ', 'healthcare device', '']
-TiGenix
-	Provider of treatments for damaged and osteoarthritic joints. The company\'s product focuses on cartilage repair in the knee as well as on the adult stem cell therapy.
-	['', 'cell therapy', ' ', 'cartilage repair', ' ', 'adult stem cell', '']
-Akubio
-	Provider of acoustic detection systems for real time analysis of bio-molecular behavior. The company develops acoustic biosensor instrument products for use in protein research and drug development.
-	['', 'drug discovery', ' ', 'acoustic biosensor', ' ', 'biomolecular interactions', ' ', 'detection technology', ' ', 'protein interactions', '']
-ReproCELL
-	Developer of stem cell technologies. The company is engaged in the research and development of regenerative medicine, stem cell assay and culture reagents for cancer treatment.
-	['']
-International Stem Cell
-	Developer of therapeutic and research products. The company develops stem cell technology called parthenogenesis for use in the treatment of several diseases including diabetes, liver disease, corneal disease and retinal disease through cell transplant therapy.
-	['', 'therapeutic products', ' ', 'research products', ' ', 'stem cell technology', '']
-Avacta Group
-	Developer of chemical and biological detection technology. The company provides technologies, consumables and reagents for the life science markets, from drug discovery to diagnostics. It is engaged in the research, development, production and delivery of instrumentation and services for the biopharmaceutical drug development and clinical diagnostics markets using biophysical technology.
-	['', 'protein formulation', ' ', 'protein characterization', ' ', 'stability testing', '']
-Kinetek Systems
-	Manufacturer of hollow-fiber bioreactors for cell culture and liquid-separations systems. The company\'s products are designed for laboratory- and developmental-scale production of biotechnology products and pharmaceuticals, as well as having applications for research and development.
-	['', 'fiber bioreactors', ' ', 'cell culture', ' ', 'liquid separations systems', ' ', 'laboratory production', ' bioreactors ', 'pharmaceutical production', '']
-California Stem Cell
-	Manufacturer of high-purity human cells for therapeutic development and clinical application. The company offers stem cell media, such as serum-free media for propagation of human embryonic stem cell, serum-free media for propagation of human myoblasts, serum-free media formulation to propagate hESC for laboratory research purposes.
-	['', 'human cell population', ' ', 'human motor neuron', ' ', 'stem cell', '']
+Eleksen
+	Developer of touch sensitive interactive textiles. The company develops and licenses interactive textiles for electronics interface design. The company’s core technology, ElekTex, is a electro-conductive fabric touch pad used for the creation of flexible and rugged fabric touch screen interfaces.
+	['', 'interactive textiles', ' ', 'touch sensitive textiles', ' ', 'electronics interface design', ' ', 'touch sensitive fabric', ' ', 'screen interfaces', ' ', 'electronic controls', ' interfaces']
+Atrua Technologies
+	Developer of intelligent touch controls for the mobile device industry.The company provides a variety of touch-control products that can sense a user’s touch, confirm a user’s identity through fingerprint biometrics and convert touch motions and gestures into control input.
+	['biometric ', 'security access', ' ', 'mobile phone technology', '']
+WinfoMedia
+	Provider of electronic display products for out-of-home advertising. The company\'s products consist of a regular LCD screen combined with touch-free sensor for user accessibility.
+	['touchscreen ', 'touch-free sensor', ' ', 'multichannel system', '']
+VendScreen
+	Developer of touch screen devices for vending machines. The company provides a vending machine retrofit device to combine cashless payments and nutrition label disclosure in a single device.
+	['', 'touch screen device', ' ', 'vending machine upgrade', ' wireless']
+Fidelica Microsystems
+	Developer of fingerprint imaging and authentication technology. The company develops biometric technology for electronic security, access and transaction control.
+	['', 'fingerprint image', ' ', 'biometrics technology', ' ', 'electronic security', ' ', 'smart card', ' ', 'fingerprint sensor', '']

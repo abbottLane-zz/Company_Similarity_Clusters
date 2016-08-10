@@ -1,30 +1,18 @@
-Sabio Labs
-	Developer of software tools for analogue-circuit designers. The company provides a platform where designers are can create analog designs. The company works with several semiconductor companies.
-	['', 'software tools', ' ', 'analogue-circuit designers', ' ', 'design platform', '']
-ImpactXoft
-	Provider of software for product development. The company offers software support services and its suite enables industrial designers, product engineers, mold and tooling designers, and tool manufacturers to work together.
-	['', 'product development', '']
-Superbly
-	Developer of a psychometric screening tool. The company offers a software that enables organizations to screen and hire potential candidates.
-	['', 'screening tool', ' ', 'psychometric analysis', ' filter ', 'candidate screening', ' ', 'psychometric tool', '']
-Esterel Technologies
-	Provider of systems and software solutions for aerospace, defense, rail transportation and nuclear industries. The company’s products enable system and software engineers to graphically design, verify and generate systems and software applications. The company offers SCADE Suite for control application development. The company also offers SCADE LifeCycle that is used for critical application lifecycle management. The company also provides product training, methodology preparation, project support, application software optimization, certification support, installation and troubleshooting services.
-	['', 'scade lifecycle', ' ', 'web based solution', ' ', 'development cycle', ' ', 'automation software', ' ', 'software application', ' ', 'network management', '']
-Moji
-	Provider of visual version control for designers. The company offers a version control and collaboration platform for a community of like-minded designers that encourages people to share their art.
-	['', 'version control', ' ', 'style sharing', ' ', 'designer project', ' ', 'collaboration tool', '']
-SoftConnex Technologies
-	Provider of Universal Serial Bus (USB) host software. The company’s flagship product, USBLink Host, takes a modular approach to providing USB connectivity, thereby affording system engineers maximum flexibility with their product designs. Its software solution offers broad platform support and a complete library of USB device class modules.
-	['', 'host software', ' ', 'flagship product', ' ', 'usb link', ' ', 'usb connectivity', ' ', 'product design', ' ', 'broad platform', '']
-LayerVault
-	Developer of a cloud based application that manages revisions, store files and help designers to collaborate around designs. The company\'s application allow designers to store, back up and track designs as they go through revisions and allows them to deliver their work to collaborators and clients.
-	['', 'design tracking', ' ', 'file storage', ' ', 'cloud data', ' ', 'visual search function', ' ', 'design collaboration', '']
-Maxim I/T
-	Provider of a software product named FindView. The company\'s product provides users a single gateway to access desired information required to make well-informed business decisions.
-	['', 'database software', ' ', 'findview', '']
-Talent Plug
-	Developer of software for recruitment professionals. The company offers software to support multi-channel talent acquisition processes.
-	['', 'talent acquisition software', ' ', 'recruitment software', ' ', 'job search', ' ', 'Job Posting', '']
-PolySpace Technologies
-	Provider of exhaustive code analysis for the presence or absence of runtime errors. The company offers a software product which performs automatic verification of a programs source code and detection of runtime errors.
-	['', 'code analysis', ' ', 'run time error', ' ', 'embedded system', '']
+BioScan Technologies
+	Developer of imaging technology for use in interventional vascular applications. The company is the developer of LightWire guidewires, a technology  based on the company\'s optical-ultrasonic platform, and used for the diagnosis and treatment of cardiovascular disease.
+	['ultrasonic cardiovascular optical-ultrasonic']
+Corvas
+	Manufacturer and developer of therapeutic agents for the prevention and treatment of cardiovascular and inflammatory diseases. The company also undertakes cancer research programs.
+	['biotherapeutics ', 'cardiovascular disease', ' ', 'drug candidate', '']
+Boston Heart Diagnostics
+	Provider of cardiovascular disease management services. The company provides cholesterol balance test and Boston Heart Navigator. It also conducts studies for the pharma industry and health care research organizations to support drug and therapy trials.
+	['', 'cardiovascular disease management', ' ', 'cholesterol balance test', ' ', 'healthcare research', ' ', 'cardiovascular disease', '']
+Gensia Pharmaceuticals
+	Developer of drugs to treat cardiovascular diseases. The company\'s drug research programmes involve technology based on purine-pyrimidine metabolism, which have application in the treatment of cardiovascular, cerebrovascular and neurological diseases.
+	['', 'cardiovascular diseases', ' ', 'purine-pyrimidine metabolism', '']
+Flexible Stenting Solutions
+	Developer of third-generation flexible peripheral arterial and biliary stents. The company develops stents on a proprietary design platform.
+	['', 'peripheral arterial', ' ', 'biliary stent', ' ', 'superficial femoral', ' ', 'medical equipment', '']
+Angio B
+	Developer and provider of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders. The company engages in research and development of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders.
+	['', 'cardiovascular disease', ' ', 'peripheral ischemic disorder', ' ', 'development of drug', '']

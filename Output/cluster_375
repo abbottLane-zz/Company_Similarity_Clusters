@@ -1,15 +1,15 @@
-BioMachines
-	Provider of environmental monitoring software. The company provides sensor applications for the atmosphere, soil, plants, animals and water. It also provides environmental research.
-	['', 'Agriculture development', ' ', 'environmental research', ' ', 'data acquisition', ' soil']
-Lively (Wireless Monitoring Technology)
-	Developer of a wireless monitoring technology for senior citizens. The company has developed a safety watch and sensors for monitoring pill dispensers, appliances and other everyday items. The system shares sensor data through its home health platform for older adults, enabling family members and other caregivers to get alerts.
-	['', 'remote sensor', ' ', 'remote monitoring', ' ', 'family networking', ' ', 'family communication platform', ' ', 'photo sharing', ' ', 'family message sharing', '']
-Signal Innovations Group
-	Developer of decision systems for various sensor and data types for government customers and industry partners in national security, public safety and commercial surveillance sectors. The company offers a processing, exploitation and dissemination software suite for airborne intelligence, surveillance and reconnaissance that is deployed by analysts and war fighters on size, weight and power constrained platforms and a recognition software suite to offer a combination of detection, classification and identification techniques, as well as to collect sensor data, including radars, sonar, images and videos on onboard manned and unmanned vehicles to find and recognize air, ground and undersea military targets.
-	['', 'processing software', ' ', 'dissemination software suite', ' ', "\\'recognition software suite", ' ', 'applied defense research', ' ', 'radar signal processing', ' ', 'surveillance software', '']
-Baselabs
-	Developer of software for prototyping of driving assistance systems. The company provides the infrastructure to collect, record and replay sensor data and allows complex sensor data fusion applications.
-	['', 'driver assistance system', ' ', 'software tool', ' ', 'navigation software', '']
-Replay Solutions
-	Developer of software technologies to record and reproduce bugs in applications and servers. The company offers ReplayDIRECTOR, an application that records inputs and events affecting software while it is running, and provides the ability to replay what happened for finding and fixing bugs in the development, test, and production environments; and ReplayDIRECTOR for Java EE, which is a software tool to help Java application teams to develop and manage their applications. It serves financial services organizations, manufacturing companies, SAAS providers, and gaming companies.
-	['', 'bug fixing', ' ', 'server monitoring', ' ', 'server security', ' ', 'java application', ' ', 'application testing', ' ', 'software testing', ' ', 'application management', '']
+Netgame Factory
+	Provider of systems to play games and lotteries using mobile phones and telephones. The company offers systems and services that handles transactions in an automated and secure way. It also develops licenses and operates mobile gaming products for lotteries and gaming companies.
+	['', 'mobile games', ' ', 'mobile lottery technology', ' ', 'mobile lottery', ' ', 'mobile telephony', ' ', 'mobile gaming solutions', '']
+Sennari
+	Provider of mobile application development and gaming solutions for carriers and handset makers. The company\'s products include PrizePlay, a gaming system that offers a mobile gaming experience featuring automated player registration, pay-per-play, and tournament gaming, as well as prize catalogs and redemption; and mobIN, an ad-funded, lifestyle loyalty network that transforms handsets into currency devices.
+	['', 'mobile application development', ' ', 'gaming system', ' ', 'mobile gaming', '']
+Reaxion
+	Publisher and developer of mobile communication and entertainment solutions. The company also develops community platform tools and multiplayer mobile games.
+	['', 'communication solutions', ' ', 'entertainment solutions', ' ', 'mobile operators', ' ', 'gaming software', '']
+Yvolver
+	Developer of a consumer-engagement platform for the gaming sector. The company develops a platform to increase retention, engagement and monetization for mobile game developers through loyalty techniques and predictive analytics.
+	['', 'player engagement', ' ', 'user retention', ' ', 'mobile monetization', ' ', 'predictive analytics', ' ', 'mobile gaming', '']
+Mobenga
+	Provider of mobile media products focused on betting and gaming. The company is an enabler specialized in taking betting and gaming companies\' business to the mobile channel, while retaining brand values.
+	['', 'sports betting', ' ', 'mobile betting', ' ', 'mobile channel', '']

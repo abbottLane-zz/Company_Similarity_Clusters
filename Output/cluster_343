@@ -1,33 +1,24 @@
-ishoni Networks
-	Developer of broadband communication gateway technology. The company develops highly integrated Broadband Gateway Engines for OEMs to provide easy voice and Internet service over a single broadband connection to residential and small business customers. Its platform enhance technologies such as xDSL, cable modems, voice over IP, home networking over phone lines (using HomePNA specifications) and wireless technologies, to provide shared Internet access throughout the small business or home.
-	['', 'broadband communication', ' ', 'broadband technology', ' ', 'broadband gateway', ' ', 'gateway engine', ' ', 'broadband connection', ' ', 'cable modem', ' ', 'home networking', ' ', 'wireless technology', '']
-SercoNet
-	Developer of Ethernet backbone networking services. The company provides home networking services that enables customers to easily interconnect PC\'s, telephone and entertainment equipment in every room over a single home network.
-	['', 'ethernet networking service', ' ', 'home networking service', ' ', 'broadband service', '']
-Netgem
-	Netgem provides connected home entertainment solutions to multiservice operators. Its nCloud software platform and hardware products provide technologies and solutions from digital payTV, internet, home networking and computing domains.
-	['set-top-box ', 'IPTV', ' ', 'broadband package', ' ', 'telecom operator', ' ', 'internet TV', '']
-Core Networks
-	Provider of a suite of applications for the broadband industry. The company offers provisioning, network assurance and home networking services for the cable industry.
-	['', 'broadband applications', ' ', 'network assurance', ' modem']
-Stargus
-	Provider of network and service analysis, and control solutions for cable broadband networks. The company offers CableEdge product suite that provides bandwidth management, network optimization, and service assurance to broadband operators.
-	['', 'network anaylsis', ' ', 'service analysis', ' ', 'bandwidth management', ' ', 'network optimization', ' ', 'service assurance', '']
-Fertile Earth
-	Manufacturer of commercial grade fustigation systems and formula plant foods for the green industry. The company offers its products to homeowners and home builders, business owners, turf professionals, commercial growers and agriculture markets through landscape professionals and their suppliers.
-	['', 'fustigation system', ' ', 'fertilizer delivery', ' ', 'building products', ' ', 'plant food', '']
-Gascoigne Melotte Holding
-	Manufacturer of equipment for the dairy industry. The company offers milking machines and other dairy automation products.
-	['', 'milk harvesting equipment', ' ', 'agricultural machinery', ' ', 'dairy automation', '']
-Kanisa
-	Provider of customer service applications. The company provides a suite of applications to support analysts, experts, users and empower customers with knowledge directly on the website.
-	['', 'customer service', ' ', 'empower customer', ' knowledge']
-Togetherville
-	Provider of online networking services. The company focuses on providing kids with safe, socially-connected, child-focused community where they can engage with age-appropriate eduction, expression and entertainment applications.
-	['', 'online networking', ' ', 'entertainment application', ' ', 'child-focused community', '']
-Emperative
-	Provider of on-demand multi-vendor network and service provisioning products for access and optical, DSL, cable, and wireless networks. The company\'s products include ProvEn Optical that delivers end-to-end circuits and services over multi-vendor access, core, and long-haul networks, as well as supports SONET, dense wavelength-division multiplexing, Ethernet, and IP; ProvEn Cable for end-to-end self-provisioning and auto-provisioning of cable modem services; ProvEn CMX with integrated dynamic host control protocol capability for cable-centric IP address management; ProvEn DSL, which lets end-users self-provision broadband services and allocate bandwidth on demand in DSL environments; and ProvEn Wireless that delivers integrated provisioning within wireless environments with self-provisioning and bandwidth on demand.
-	['', 'multi vendor network', ' ', 'service provisioning product', ' ', 'network device management', '']
-Positron Access Solutions
-	Developer and manufacturer of telecommunications equipment for critical service applications. The company design, manufactures and markets networking and broadband management equipment to information technology and telecommunication industries. Its platform enables broadband connectivity and system networking services.
-	['', 'telecommunications equipment', ' ', 'critical service', ' ', 'broadband management', ' ', 'broadband connectivity', ' ', 'networking service', '']
+LCL Logistix
+	Provider of logistics and supply-chain solutions. The company provides integrated, end-to-end shipping logistics services to customers around the globe. They utilize business-owned assets like Container Freight Stations, trucks, other equipment and warehouses to accomplish this.
+	['', 'shipping logistics', ' ', 'supply chain logistics', ' ', 'integrated shipping', ' ', 'end-to-end logistics', '']
+Speedchain Networks
+	Provider of supply chain event management and global e-logistics services. The company through its web-native framework increases cross-enterprise collaboration and information sharing.
+	['', 'supply chain', ' ', 'event management', ' e-logistics']
+Pickup Services
+	Developer of software for the parcel-delivery industry across France. The company provides a software platform and interactive map  that outlines a network of business-to-customer relay points, field services logistics, relay points for parcels after failed home deliveries and reverse logistics.
+	['', 'relay points', ' ', 'parcel VPC', ' ', 'logistics management', '']
+Castleton Technology
+	Provider of IT infrastructure, data centres and smart building services. The company provides end-to-end telecommunications and IT services for business organizations.
+	['', 'business infrastructure', ' ', 'IT infrastructure', ' ', 'data centres', '']
+Datell
+	Provider of information integration services. The company supplies MES (manufacturing execution systems) and software for logistics for the solid bulk industry (solid bulk software) and the packaging industry (packaging logistics).
+	['', 'manufacturing execution systems', ' ', 'solid bulk software', ' ', 'logistics software', ' ', 'efficiency software', '']
+iLink Global
+	Provider of eLogistics application services. The company provides shipment pricing and logistics services for e-commerce companies and online shoppers.
+	['', 'eLogistics application', ' ', 'e-commerce companies', ' ', 'shipment pricing', ' ', 'logistics services', '']
+Kystlink
+	Operator of ferry shipping services. The company schedules cargo traffic between Langesund and Hirtshals, and between Langesund and Strømstad.
+	['', 'ferry shipping', ' ferry shipping cargo']
+Dispatching
+	Operator of a promotional logistics company. The company also offers its clients various field support with services like storage, handling and distribution. It also offers promotional services including brand development, sales promotion and market research.
+	['warehouse ', 'promotional logistics', ' ', 'brand development', '']

@@ -1,30 +1,45 @@
-Qualcomm MEMS Technologies
-	Developer of iMoD technology for mobile products. The company offers iMoD technology, which is based on a Micro-Electro-Mechanical-Systems structure combined with thin film optics, is a display technology that delivers display images with lower power consumption. It develops its iMoD technology for applications, such as wireless phones, global positioning system units, and industrial devices. It offers its products through online, as well as bookstores in South Korea.
-	['', 'mobile product', ' ', 'power consumption', ' ', 'mechanical system', ' ', 'industrial device', '']
-Dresden Silicon
-	Designer of micro processor chips with low power consumption. The company designs and manufactures chips with low power consumption based on a novel signal processor architecture and integrated hardware and software development environments using rapid design methodology.
-	['', 'low power CPU', ' CPU ', 'central processing unit', ' semiconductor']
-Qualcomm Atheros
-	Developer of semiconductor system for wireless and other network communications products. The company\'s products include services for wireless local area network (WLAN), mobile WLAN, Ethernet, bluetooth, global positioning system (GPS) and powerline communications. It offers reference designs used in designing networking cards and routers, broadband gateways, mobile devices and handsets.
-	['', 'semiconductor system', ' ', 'network communications product', ' ', 'wireless networking product', ' semiconductor']
-Qubulus
-	Provider of platform for indoor positioning systems. The company provides a positioning platform for smartphones where GPS doesn\'t work. The company serves airports, malls, retail chains, property owners, and developers.
-	['', 'indoor positioning system', '  ', 'positioning platform', '   navigation']
-U-blox
-	Provider of positioning and wireless semiconductors for the consumer, industrial and automotive markets. The company\'s services enable people, devices and machines to locate and communicate their exact position.
-	['', 'wireless semiconductor', ' chips modules']
-Securus
-	Developer of pet tracking devices in the United States. The company offers global positioning system (GPS) pet locators that bundle GPS technology with the recovery assistance.
-	['', 'global positioning system', ' ', 'pet tracking device', ' ', 'pet locator', ' ', 'recovery assistance', '']
-CellGuide
-	Manufacturer of Global Positioning System (GPS) chips. The company develops Global Positioning System (GPS) chips for mobile devices. It distributes cloud-based positioning while delivering low power consumption for mobility and applications.
-	['', 'global positioning system', ' ', 'cloud-based positioning', ' ', 'mobile chip', ' ', 'Application Specific Semiconductor', '']
-Navx
-	Provider of a platform for geo-localized content. The company\'s technology helps to visualize points of interests, traces and personal data. It connects GPS with the internet and allows customers to generate their content, share and upload it onto their GPS devices and social communities.
-	['', 'global positioning system', ' ', 'geo-localized content', ' ', 'social community', '']
-Ubida Solutions
-	Provider of dial-in auto rickshaw service. The company offers a mobile application that enables users to book global positioning system tracked auto-rickshaws across India.
-	['']
-Vivace Semiconductor
-	Developer of media processing chips for the needs of consumer market segments. The company provides chips which supports a range of video and audio standards.
-	['', 'media processing chip', ' ', 'video audio chip', ' ', 'media semiconductor', '']
+Wavefront Technologies
+	Producer of computer graphics & animation software. The company designs software for graphic designing and animation.
+	['', 'multimedia software', '']
+SurgeryEdu
+	Developer of a mobile application which provides brief 3D interactive procedure animation. The company helps healthcare professionals to educate patients about medical procedures using 3D interactive animations through tablet based mobile applications.
+	['', 'education application', ' animation ', 'doctor-patient communication', ' ', 'medical device', '']
+DYGRA FILMS
+	Producer of 3D animated movies. The company offers graphic design, digital, animation and production services.
+	['', '3D animation studio', ' ', '3D graphic design', ' ', '3d movie production', ' ', 'movie animation', ' ', 'movies', '']
+Dscovered
+	Developer of a genetic algorithm for design. The company develops a genetic algorithm for design that simplifies creative processes. It also helps match clients with graphic designers who share their taste and style.
+	['', 'graphic design', ' ', 'genetic algorithm', ' ', 'designing platform', '']
+SensABLE Technologies
+	Developer of 3D touch-enabled (force feedback) solutions. The company offers force-feedback haptic devices and touch-enabled 3D modeling software solutions. Its solutions can be used for product design, digital content creation and fine arts, commercial software development, and academic and commercial research.
+	['', '3D touch device', ' ', 'force feedback', ' ', '3D modeling', '']
+3Dfx Interactive
+	Developer of graphics chips, graphics boards, software, and related technology that enables an interactive and realistic 3D experience across multiple hardware platforms.
+	['', 'real time 3D', ' ', '3D image', ' ', 'graphic board', ' ', 'graphic chip', '']
+Digital Media Professionals
+	Provider of 3D graphic services for embedded systems. The company provides 3D graphic services for the consumer electronics space such as cell phones, car navigation and mobile games.
+	['', '3D graphic services', ' ', 'car navigation', ' ', 'mobile games', '']
+BumpTop
+	Developer of 3D desktop software. The company\'s interface uses 3D presentation and physics-based animations. It allows users to interact by pushing, pulling and piling documents.
+	['', '3D presentation', ' ', 'desktop application', ' ', 'physical animation', '']
+Fourth Wall Studios
+	Producer of movies and television series. The company also engages in the development and marketing of content for movies and television shows.
+	['', 'movie production', ' ', 'content management', ' ', 'marketing and development', '']
+Imagination Fx
+	Operator of a special effects studio. The company also provides products such as movie production cameras, optical printing cameras, animation cameras, telecine and film scanning machines, optical printers and projectors for screening films.
+	['', 'special effects studio', ' ', 'special effects', ' ', 'optical printing cameras', ' ', 'animation cameras', ' ', 'film scanning machines', ' electronics']
+Wanda Cinema Line
+	Operator of a movie theater chain. The company had a total of 1,616 screens, including 94 IMAX screens, in 182 cinema complexes in 100 cities in China.
+	['', 'movie services', ' ', 'movie theater', ' ', 'entertainment service', '']
+AccelGraphics
+	Developer of 3D graphics cards for the CAD, animation and simulation markets. The company provides and markets 3-dimensional graphics cards and other subsystem products for the professional Windows NT and Windows 95 markets.
+	['3D 3-D ', '3 Dimensional', ' ', 'graphics card', ' CAD graphics']
+Habit Industries
+	Provider of an application for creating online animations. The company provides backgrounds in animation and offers services for new media promotions, video games, graphic design, and film production.
+	['', 'online animation', ' ', 'animation background', ' ', 'graphic design', '']
+Content Critical
+	Provider of content management, transaction processing and custom middleware technologies. The company provides compliance messaging and reporting solutions, such as composition and rendering solutions for institutions that require distribution of compliance documents. It also provides professional services, such as programming and development, Web development, graphic design and prepress; production services, including digital print, wide format output, mailing and fulfillment, commercial print and binding and finishing; and online support and client services.
+	['', 'compliance messaging', ' ', 'graphic design', ' ', 'digital printing', '']
+Timeless Cities
+	Provider of 3D media services.
+	['', '3D media', ' ', '3D display', ' ', '3D television', ' ', 'commercial services', '']

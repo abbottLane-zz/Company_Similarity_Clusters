@@ -1,39 +1,48 @@
-ErgoNex Pharma
-	Developer of drug for Pulmonary Arterial Hypertension treatment and other treatments. The company develops the drug for treatment of diseases like high blood pressure, heart problems.
-	['', 'blood vessel', ' ', 'high blood pressure', ' ', 'drug development', '']
-Salient Pharmaceuticals
-	Developer of drugs for the treatment of multiple inflammatory gastrointestinal conditions. The company develops a proprietary compound intended for use in treating severe diarrhea associated with chemotherapy, chronic conditions, infectious diseases and other drug therapies.
-	['', 'drug compound', ' ', 'gastrointestinal disease', ' ', 'radiation therapy', ' ', 'gastrointestinal treatment', '']
-Cytochroma
-	Developer of products to treat and prevent the clinical consequences of vitamin D insufficiency and Secondary Hyperparathyroidism (SHPT) associated with (Chronic Kidney Disease) CKD. The company develops vitamin D therapies which are designed to safely and effectively treat patients with stage 3, 4 or 5 Chronic Kidney Disease.
-	['', 'vitamin D insufficiency', ' ', 'kidney disease', ' ', 'vitamin D therapy', ' ', 'elevated serum phosphorus', '']
-Zafgen
-	Developer of biopharmaceutical treatments for severe obesity. The company develops obesity therapeutics for use in the treatment of obesity and associated co morbidities.
-	['', 'obesity therapeutic', ' ', 'biological foundation', ' ', 'metabolic disorder', ' ', 'vascular targeting', ' obesity ', 'weight loss', ' ', 'obesity treatment', '']
-TurnTide
-	Developer of anti-spam technologies. The company manufactures anti-spam routers that provide perimeter-based e-mail security. Its products entail software as well as hardware.
-	['', 'anti-spam router', ' ', 'anti-spam', ' ', 'spam control', ' spamming']
-Ritter Pharmaceuticals
-	Provider of therapeutic treatments for gastrointestinal diseases and conditions. The company provides technology based upon colonic adaptation to treat gastrointestinal diseases with an initial focus on lactose intolerance.
-	['', 'therapeutic treatment', ' ', 'gastrointestinal disease treatment', ' ', 'therapeutic treatment technology', '']
-BioRelix
-	Developer of anti-infective drug treatments. The company is focused on building a portfolio of anti-infective products based on novel patented RNA targets, termed riboswitches. The company is developing its products to counter increasingly antibiotic-resistant bacterial pathogens.
-	['', 'anti-biotic drug', ' ', 'infectious disease', ' ', 'therapeutic agent', ' ', 'bacterial infection', '']
-NT Pharma
-	Manufacturer of pharmaceuticals and vaccines. The company provides promotion and sales services primarily for drugs manufactured by global pharmaceutical manufacturers, focusing on anti-infective and CNS products.
-	['vaccines ', 'drug developer', ' ', 'anti-infective', ' ', 'CNS products', '']
-Claria
-	Developer of anti-virus software. The company developed adwares, spywares and  personalized search technology for its users.
-	['spyware ', 'personalized search', ' ', 'anti-virus software', '']
-Cumbre Pharmaceuticals
-	Developer of anti-infective products for the treatment of serious and life-threatening infections, particularly those caused by antibiotic resistant pathogens. The company discovers, develops and markets anti-infective products and antibacterial drug and multifunctional anti-infective drugs that target multiple inhibitory pathways.
-	['', 'healthcare products', ' ', 'anti-infective products', ' ', 'antibacterial drug', '']
-Optimer Pharmaceuticals
-	Developer of anti-infective products. The company develops antibacterial drug for the treatment of Clostridium difficile-associated diarrhea (CDAD). It develops products that treat gastrointestinal infections and related diseases.
-	['', 'anti infective product', ' ', 'infectious disease', ' ', 'stomach infection', ' ', 'gastrointestinal treatment', '']
-Salient Interventions
-	Developer of drug for neurologic diseases. The company develops products focused on early treatment of neurologic diseases and reversal of neurologic deficits.
-	['neurologic ', 'neurologic deficits.', '']
-BRAINco Biopharma
-	Developer of personalized treatments for nervous system diseases. The company develops new diagnostic tools and treatments against nervous system diseases optimizing individual drug treatment response, increasing remission rates and decreasing relapses rates.
-	['', 'nervous system', ' ', 'antiepileptic treatment', ' diazepam phenitoin']
+Zattikka
+	Developer of online and mobile social network games and mobile applications. The company develops and operates internet games development and mobile publishing business.
+	['', 'social network game', ' ', 'direct consumer website', ' ', 'browser based game', ' ', 'gaming application', '']
+Jolt Online Gaming
+	Developer and publisher of free to play browser and social games. The company develops and publishes online games on website and social network sites.
+	['', 'online game', ' ', 'browser game', ' ', 'social network game', '']
+Jambool
+	Provider of a virtual economy platform. The company offers a payment API that provides way to enable micropayments in an online game or social network application.
+	['', 'virtual economy platform', ' ', 'social network application', ' ', 'virtual economy analytic', ' ', 'virtual currency', '']
+PlaySpan
+	Provider of monetization solutions for online games, virtual worlds, and social networks. The company designs and develops virtual goods commerce and micro-payment platform for game publishers and developers.
+	['', 'micropayment platform', ' ', 'micro-transaction platform', ' ', 'monetization solution', ' ', 'online game subscription', ' ', 'monetizing application', ' ', 'payment fraud prevention solution', ' ', 'alternate payment solution', ' ', 'pre-paid game card', ' ', 'social network payment solution', '']
+Health Month
+	Provider of social game around improving health habits. The company offers a game that allows users to improve their health habits by identifying their unhealthy eating habits and providing strategies for changing them.
+	['', 'social game', ' ', 'health habit', ' ', 'behavior change', '']
+Ze Frank Games
+	Developer of online social game. The company designs online social games and provides Star.me a platform that helps fans to participate in the form of missions, games, custom rewards and fun.
+	['', 'social game', ' ', 'online game', ' ', 'social network gaming', '']
+GamerDNA
+	Operator of an online gaming web site. The company\'s website enables to publish gaming accomplishments, connect with other players, reunite with old friends, and find players based on servers, as well as share favorite news, videos, and trailers.
+	['', 'online game', ' ', 'game network', ' ', 'game social networking', '']
+Conker
+	Provider of management software for games companies. The company helps in optimizing game revenue using predictive behavioral analytics.
+	['', 'Player Experience Management', ' ', 'game revenue', ' ', 'predictive behavioral analytics', ' players ', 'online game', '']
+Play140
+	Provider of text-based social games which can be played via Twitter, SMS texting and instant messaging.
+	['', 'social game', ' ', 'text game', ' ', 'online game', ' ', 'mobile game', '']
+Rumble Entertainment
+	Developer and publisher of multi-platform online games. The company provides free online games that are available across a variety of browsers, mobile devices and social networks. Its first offering is the interactive game "KingsRoad."
+	['', 'interactive game', ' ', 'free mobile game', ' ', 'browser based game', '']
+Archify
+	Provider of personal archiving services. The company integrates in the browsers and stores social history in the cloud.
+	['', 'internet software', ' ', 'social history storage', ' ', 'browser integration', '']
+Tista Games
+	Developer of episodic games for gamer market. The company provides free to play, social games with a storyline and frictionless play.
+	['', 'episodic game', ' ', 'social game', ' ', 'storyline game', ' ', 'frictionless game play', '']
+Vivity Labs
+	Operator of an online platform featuring fun and engaging games. The company develops gaming tools across multiple platforms, including mobile, web and social networks which help users to enhance and round-out brain skills in an entertaining fashion.
+	['', 'online game', ' ', 'fitness game', ' ', 'brain fitness', '']
+GuppyWorks
+	Developer of online free to play social games. The company is best known for its social game GuppyLife, geared at teenage girls with the intention of the game helping them develop their social skills.  The game is also purposed to give young girls a safe online haven where they can take on and explore different roles in a 3D world.
+	['', 'IT services', ' ', 'entertainment services', '']
+Namaste Entertainment
+	Provider of a platform for computer game developers. The company develops lets game developers add emotions and complex behaviors to game characters. It works alongside game studios to integrate a toolset into online games like MMORPGs.
+	['', 'game application', ' ', 'role playing game', ' ', 'tablet game', '']
+Wwg Worldwide Games
+	Publisher of browser games for game developers and content provider for media companies. The company\'s products are browser games like Rage of Storms, Desert Blitz, Nemexia, Kiez King and Pirates of Tortuga 2.
+	['', 'browser game', ' ', 'game developer', ' ', 'online gaming', '']

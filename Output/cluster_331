@@ -1,39 +1,18 @@
-Sim Skin
-	Manufacturer of medical surgery training tool. The company manufactures surgical training model useful in surgical training.
-	['', 'surgical training tool', ' ', 'surgical training model', ' ', 'medical device', '']
-CDFX
-	Provider of services for the print supply chain. The company offers services for producing and delivering print, optical, direct and promotional products for direct marketers. It also offers virtual warehouse software that helps clients to streamline processes.
-	['', 'optical media', ' ', 'inventory management', ' ', 'print supply chain', ' ', 'project management system', '']
-XTeam Training
-	Developer of virtual training technologies. The company offers virtual training games and simulation for organizational development.
-	['', 'online training', ' ', 'virtual training', ' ', '3D gaming', ' simulation']
-Top Aces Consulting
-	Provider of airborne combat training services. The company provides airborne services, such as close air support training, anti shipping profile, airborne adversary support and aerial target towing.
-	['', 'airborne combat training', ' ', 'combat training service', ' ', 'airborne adversary support', ' ', 'aerial target towing', ' ', 'Training Service', '']
-Expand Networks
-	Provider of wide area network optimization and application accelerators to enterprises and public sector clients. The company offers a virtual WAN accelerator appliance, a central management software for accelerators and an accelerator operating system.
-	['', 'wide area network optimization', ' ', 'application accelerators', ' ', 'management software', '']
-Tbricks
-	Provider of technology to proprietary trading professionals. The company provides efﬁcient tools for executing automated trading strategies on the ﬁnancial markets. The company also offers professional services including training, strategy design and implementation advice with existing system.
-	['', 'proprietary trading professional', ' training ', 'strategy design', ' ', 'effcient tool', '']
-Bestformation
-	Provider of e-learning services for corporate management training. The company operates an online platform providing corporate training programs in management and human resources.
-	['', 'management training', ' ', 'corporate management', ' ', 'HR training', ' ', 'e-learning', ' ', 'e-learning services', '']
-Clavister
-	Provider of web based security and unified threat management software for physical and virtualized environments. The company offers virtual series network security products for virtual and cloud based security that include virtual private server, virtual private cloud, virtualized co location and hosted data center.
-	['', 'unified threat management', ' ', 'virtual network security', ' ', 'IP-based security', ' ', 'internet protocol', ' ', 'cloud services', ' ', 'security software', '']
-Metaversum
-	Developer of a virtual world and related online community. The company is the creator of Twinity, an online, mirror world peopled by users\' avatars and featuring to-scale models of the real world\'s major cities, including Berlin, Singapore and London. The platform also offers an advertising channel through virtual shops, branded presences, in-world ad campaigns, product placements and sponsored events.
-	['', '3D online world', ' ', 'create personal avatar', ' chat']
-GreenBytes
-	Developer of virtual desktop visualization. The company delivers patented desktop virtualization that maximize the effective performance and capacity of existing infrastructure.
-	['', 'desktop virtualization', ' ', 'virtual desktop', ' desktop']
-Prewise Group
-	Provider of b-to-b digital training services in Finland. The company provides digital training and communication services for business change implementation, sales and customer support, process implementation and professional skills development.
-	['', 'process implementation', ' assessments ', 'orientation training', '']
-TheraSim
-	Provider of a virtual patient simulation platform. The company provides virtual patient simulation platform for the assessment, training and education of healthcare workers.
-	['', 'virtual patient', ' ', 'simulation platform', ' ', 'healthcare platform', '']
-Golden Capital Network
-	Operator of a non-profit networking, training and consulting company. The company’s services include venture capital conference series, venture communities economic development franchise, regional and cross-regional entrepreneurship training and development programs, V3 regional and cross-regional entrepreneur program, investor networking and showcasing, entrepreneur coaching and mentoring, public policy leadership and advising and early stage company showcasing.
-	['', 'non profit', ' ', 'consultation services', ' ', 'cross regional entrepreneurship training', ' ', 'training services', '']
+Solid Information Technology
+	Provider of proprietary database products. The company also provides various consulting services, which include technical assessment, proof of concept and database and application migration services.
+	['', 'database products', ' ', 'business consulting', ' ', 'application migration service', '']
+ObjectRocket
+	Provider of a cloud Database as a Service based on MongoDB database. The company provides open source-based MongoDB system that help users to manage big data.
+	['', 'cloud database', ' ', 'database management system', ' ', 'MongoDB database', '']
+Membase
+	Provider of elastic NoSQL database technologies. The company offers Membase Server, a distributed key-value database for the data management needs of interactive Web applications, which employs a non-relational data model and allows the data tier to scale out the Web application logic tier by adding various commodity servers; and Memcached, a distributed data caching technology that transparently caches data in front of its key-value database.
+	['', 'database technology', ' ', 'database management', ' ', 'database application', '']
+TopTier Software
+	Provider of enterprise information portals and products that unify information residing throughout an organization\'s computing systems. The company provides software platform that integrates corporate data residing in a company and its business partners enterprise applications, databases, text documents, web sites and other data sources and allows end users to directly access, navigate and manipulate this data through a corporate portal which serves as a common user interface for the company.
+	['', 'enterprise database', ' ', 'portal software', ' ', 'ebusiness portals', ' database']
+Dabble DB
+	Developer of database applications. The company let users build multiple database applications from a single database or spreadsheet.
+	['', 'database application', ' spreadsheet ', 'database chart', ' ', 'database maps', '']
+Clustra Systems
+	Developer of database systems. The company provides clustering technology that allows apps to failover and provide high degrees of uptime.
+	['', 'database system', ' ', 'clustering technology', ' failover']

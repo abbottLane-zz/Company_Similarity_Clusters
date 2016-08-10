@@ -1,9 +1,9 @@
-DocMorris
-	Provider of an online drugstore. The company operates an online pharmacy store serving the German market.
-	['', 'online drugstore', ' ', 'drug distribution', ' ', 'drug sales', ' ', 'online drugs', ' ', 'online pharmaceutical', ' ', 'pharmaceutical sales', ' pharmacy']
-PlanetRx
-	Provider of online drugstore fulfillment. The website is an online drugstore where customers can find all the usual prescription products in their drugstore and order online.
-	['', 'online drugstore', ' ', 'online drugstore', ' ', 'online store', '']
-York Pharma
-	Provider of prescription products. The company company is engaged in developing, marketing and supplying prescription products to pharmaceutical wholesalers, hospitals and general practitioners within the field of dermatology.
-	['', 'dermatological products', ' ', 'prescription products', ' supplier ', 'product development', '']
+Xino-Media
+	Operator of an online platform for lottery games. The company offers state lottery games and other services through Millionenchance.de.
+	['lottery gambling ', 'gaming platform', '']
+Tipp24
+	Owner of lottery companies in the U.K. and Spain. The company, through its subsidiaries, enables participation in lottery-based games via the Internet.
+	['', 'online gambling', ' ', 'lottery service', '']
+Neoplex
+	Developer of electronic lottery. The company develops, manufactures and markets electronic lottery based on organic electronics. It also developed the next generation of scratch card (instant lottery ticket), a patent pending new game product.
+	['', 'electronic lottery', ' ', 'organic electronic', ' ', 'scratch card', ' ', 'instant lottery ticket', ' ', 'game product', ' ', 'electronic equipment', '']

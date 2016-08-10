@@ -1,24 +1,42 @@
-SeeCommerce
-	Provider of supply chain performance management and improvement application. The company enables business managers and trading partners to manage and improve business performance across complex supply chains.
-	['', 'supply chain management', ' ', 'web centric application', ' ', 'internet centric application', '']
-Logi-D
-	Provider of supply chain automation services to hospitals and healthcare institutions in North America. The company provides a platform for automation of medical supplies in hospitals and thereby reducing logistics costs.
-	['', 'software developer', ' ', 'automation services', ' ', 'medical supplies', ' ', 'healthcare institutions', '']
-Speedchain Networks
-	Provider of supply chain event management and global e-logistics services. The company through its web-native framework increases cross-enterprise collaboration and information sharing.
-	['', 'supply chain', ' ', 'event management', ' e-logistics']
-Mercari Technologies
-	Provider of supply-chain management and e-fulfillment software company. The company\'s merchandising solutions bringing retailers and manufacturers closer to their customers by integrating consumer behavior data with merchandise planning, supply chain optimization, category management and financial analysis.
-	['', 'business software', ' ', 'supply-chain management', ' e-fulfillment']
-CarParts Technologies
-	Provider of open, business automation and distribution channels for the automotive aftermarket supply chain. The CPT eCommerce platform enables online trading, integration and collaboration between distribution channels, buyers, suppliers and commerce service providers. The company\'s systems are used by aftermarket outlets including manufacturers, program groups, warehouse distributors, tire and service chains and independent installers in all 50 U.S. states and Canada.
-	['', 'business automation', ' ', 'distribution channel', ' ', 'supply chain management', '']
-Valdero
-	Provider of supply chain performance management and analytical collaboration software applications. The company provides inventory visibility and order fulfillment software applications.
-	['', 'supply chain performance', ' ', 'order fulfillment software', ' ', 'supply chain analytic', ' ', 'supply chain software', ' ', 'supply chain', '']
-Cedron Holding
-	Developer of manufacturer-focused software for managing product information. The company provides a platform for designed to reduce the cost of managing product information throughout the supply chain. The company\'s platform enables manufacturers to dea with multiple data specifications, multiple languages, multiple country requirements and multi-channel publishing.
-	['', 'data management', ' ', 'product data', ' ', 'information management', '']
-InGrid Solutions
-	Provider of software for residential heating, ventilation and air conditioning contractors. The company streamlines day-to-day business processes of construction trade contractors, allowing them to digitize records, report on business performance and improve customer service through cloud software.
-	['', 'residential heating', ' ', 'business processes', ' ', 'cloud software', ' ', 'record digitalization', '']
+EyeLock
+	Provider of identity management technology. The company provides identity authentication-focused systems for border control, logical access, global access control and other identity-management sectors.
+	['', 'iris biometric', ' ', 'security system', ' ', 'identity management', '']
+Trusted Network Technologies
+	Provider of authentication, access control and misuse prevention software. The company develops identity-based network control and audit products.
+	['', 'misuse prevention software', ' ', 'access control', ' ', 'identity based network', '']
+LifeLock
+	Provider of identity theft protection services, filed a registration statement with the US Securities and Exchange Commission. The company provides various serices that protect its users’ identity and personal information, as well as prevent users’ identity from being stolen.
+	['', 'identity theft', ' ', 'identity protection', ' ', 'security software', '']
+Symplified
+	Provider of identity infrastructure for the on demand market. The company provides KeyChain, which provides pre-integrated secure single sign-on for software-as-a-service (SaaS) and enterprise applications; Access, an identity and access management product for SaaS and Web applications; and Identity Cloud, which enables users to deploy identity infrastructure.
+	['', 'identity infrastructure', ' ', 'access management', ' ', 'SaaS', '']
+PassMark Security
+	Developer of authentication systems for online banking. The company\'s authentication platform is focused on automated Two-Factor Two-Way Authentication(TM). They offers complete front-to-back system that exceeds FFIEC guidelines with its real-time risk-based analytics, layered security, shared fraud data network, multi-model decision engine, and automated supplemental authentication.
+	['authentication ', 'layered security', ' ', 'automated supplemental authentication', '']
+Vumber
+	Provider of anyphone, anytime, anywhere phone number that keeps users identity private. The company offers a number from any area code users want, to be linked to their home, cell, or work phone.
+	['', 'phone number', ' ', 'private identity', ' ', 'number connection', '']
+ID Analytics
+	Provider of identity risk and fraud management services in the United States. The company offers ID Score–Risk, which delivers on-demand identity intelligence across various points of customer contact, including online, call centers, mail and in-store interactions, ID Score–Action, which calculates an identity risk score, ID Score–Revenue that enables customer management decisions, ID Analytics for Compliance, a regulatory compliance solution that uses on-demand identity intelligence to support business processes and ID Analytics for Data Defense, which detects organized misuse of personal information due to lost hard drives, stolen laptops or illicit behavior by internal or external parties.
+	['', 'fraud management', ' ', 'on demand identity', ' ', 'identity risk score', ' ', 'identity intelligence', ' ', 'identity fraud', ' ', 'identity protection', ' ', 'regulatory compliance', ' ', 'customer management decisions', '']
+Applied Identity
+	Provider of identity aware netowrk security solutions. Also a provider of audit and compliance, asset protection, network level user and group separation and identity virtualization solutions.
+	['', 'identity network solution', ' ', 'security solution', ' ', 'identity store', ' ', 'network enforcement solution', '']
+Systems Research and Developement
+	Developer of a new approach to identity and risk management. SRD’s identity recognition and relationship awareness solutions provided critical information infrastructure to support both government organizations and private companies in effectively managing operational risk and security risk while protecting personal privacy.
+	['']
+GeoMetrix
+	Provider of biometric identity management solutions. The company provides solutions to access control for corporate facilities. The company also offers biometric cameras that acquires facial biometrics in 3D formats which is widely designed for commercial, defense, Government, gaming and video surveillance.
+	['', 'biometric cameras', ' ', 'employee tracking', ' ', 'identification management', ' ', 'video surveillance', '']
+Get Scaffold
+	Provider of an identity and reputation system for the web. The company provides APIs (Application Programming Interface) for businesses to verify their users.
+	['identity reputation API']
+Validity Sensors
+	Provider of authentication sensors technology. The company offers password replacement, identity verification, centralized management for corporate network security and secure wireless transactions for the protection of portable data and physical access control.
+	['', 'biometric sensor', ' ', 'fingerprint authentication', ' ', 'network security', ' ', 'fingerprint sensor', ' identification ', 'access control', '']
+Lumidigm
+	Developer of identification technology based on optical skin tissue measurements. The company provides biometric identity management for civil identification (ID), point-of-sale, time and attendance, physical and logical access and portable electronic device applications.
+	['', 'identification biometric', ' ', 'fingerprint sensor identification', '  ', 'civil identification', ' ', 'verification optical', '']
+Avenda Systems
+	Provider of network access solutions for user and endpoint authentication and posture assessment. The company offers trust and identity policy solutions for enterprises and government organizations internationally. It also provides a proactive resource management solution that secures networks and organizations from threats before the user gains access.
+	['', 'network access', ' ', 'endpoint authentication', ' ', 'posture assessment', ' ', 'identity policy', ' ', 'management solution', '']

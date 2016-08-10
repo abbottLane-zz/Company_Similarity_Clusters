@@ -1,18 +1,12 @@
-Weyland
-	Producer of renewable energy. The company provides a technology that helps in producing bio ethanol from agricultural wastes and forestry residues.
-	['', 'energy production', '']
-Mycologix
-	Provider of a biological treatment process for biofuels. The company uses a combination of microbial treatment and engineering to degrade woody material on an industrial scale, to be fermented into fuels such as ethanol.
-	['', 'wood decay mechanisms', ' biomass bioenergy biofuel']
-Bio Architecture Lab
-	Developer of a technology that enables the production of ethanol from kelp sugars. The company develops an application of synthetic biology and enzyme design for the development of biofuels and renewable chemicals from aqua farmed native macro algae.
-	['', 'ethanol production', ' ', 'synthetic biology', ' ', 'enzyme design', ' biofuel ', 'renewable chemical', ' ', 'native macro algae', '']
-Hawkeye Renewables (Ethanol Plants)
-	Producer of ethanol with plants in Iowa Falls and Fairbank, Iowa. The company\'s plants are specialized in ethanol and dried distiller grains.
-	['', 'ethanol plant', ' ', 'renewable resource', ' refinery']
-Phoenix Bio-Industries (Ethanol Plant)
-	Operator of a dry mill ethanol plant. The company manufactures ethanol for chemicals, paints & coatings industries.
-	['ethanol ', 'dry mill', ' ', 'paints & coatings', '']
-Range Fuels
-	Producer of cellulosic ethanol. The company\'s clean energy technology uses biomass for the production of ethanol.
-	['', 'cellulosic ethanol', ' ', 'ethanol production', ' ', 'clean energy', ' ', 'biomass conversion', '']
+Ample Medical
+	Manufacturer of endovascular medical devices for repairing heart valves. The company develops medical devices that treat vascular heart diseases and congestive heart failures. Its first product, the PS3 System, targets percutaneous repair of mitral valve regurgitation associated with congestive heart failure (CHF).
+	['', 'healthcare services', '']
+Berlin Heart
+	Developer, producer and marketer of innovative devices for mechanically supporting the heart. The company offers INCOR, the implantable axial pump.
+	['', 'innovative device', ' ', 'implantable axial pump', ' ', 'heart support', ' ', 'heart device', ' ', 'heart surgery', ' heart']
+Endocardial Solutions
+	Developer and manufacturer of diagnostic and therapeutic tools used to treat atrial fibrillation. The company develops products for diagnostic mapping of complex arrhythmias (abnormally rapid heartbeats caused by irregular electrical activity in the heart), the integrated system provides a 3D graphical display of the heart\'s electrical activity.
+	['', 'therapeutic device', ' ', 'diagnostic equipment', ' ', 'atrial fibrillation', ' arrhythmias ', 'heart disease', '']
+CardioPolymers
+	Developer of an implantable device for treating congestive heart failure. The company provides biocompatible polymer implant therapies to handle chronic heart failure, mitral valve regurgitation, and post-operative atrial fibrillation.
+	['', 'biocompatible polymer implant', ' ', 'medical device', ' ', 'heart problem', '']

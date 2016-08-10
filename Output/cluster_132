@@ -1,45 +1,24 @@
-Arcxis Biotechnologies
-	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
-	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
-FASgen
-	Developer of therapeutic drugs. The company designed and synthesized many compounds that selectively inhibit fatty acid biosynthesis. It offers cancer, infectious diseases, multiple drug resistant and latent tuberculosis and obesity and diabetes therapeutics.
-	['', 'therapeutic drugs', ' ', 'diabetes tool', ' ', 'latent tuberculosis', '']
-Movetis
-	Developer of drugs for the treatment of diseases in the gastrointestinal (GI) area. The company\'s products address GI disorders, such as severe chronic constipation, ascites, paediatric reflux, as well as severe forms of GI motility disorders, including refractory gastro-oesophageal reflux disease. Its lead product, Resolor, is used for the symptomatic treatment of chronic constipation in women.
-	['', 'gastrointestinal treatment', ' ', 'GI disorder', ' ', 'paediatric reflux', ' ascite gastrointestinal  constipation ', 'paediatric reflux', ' ', 'GI motility', ' ', 'refractory gastro-oesophageal reflux', '']
-TaiMed Biologics
-	Developer of biotechnology prevention and treatment solutions for viral infectious diseases that are causing serious harm to human health. Products in research include Tamiphosphor, a neuraminidase inhibitor for the treatment of influenza, and Ibalizumab, an HIV prophylactic drug.
-	['influenza HIV']
-Arana Therapeutics
-	Provider of biotechnology services. The company is focused on the development of antibody and peptide products for the treatment of inflammatory diseases and cancer.
-	['', 'inflammatory diseases', ' ', 'peptide products', ' ', 'research services', '']
-Penederm
-	Developer of products for the treatment of dermatologic disorders based on its topical delivery technology. The company\'s products are Mentax cream for the treatment of fungal infections of the skin such as athlete\'s foot, ringworm and groin fungus and Avita cream for the treatment of acne.
-	['', 'dermatologic disorders', ' Mentax ', 'fungal infections', ' ringworm ', 'anti fungus cream', ' acne']
-Ester Neurosciences
-	Developer of therapeutic products for the treatment of neurological disorders. The company provides novel therapeutic products for the treatment of neurological disorders such as myasthenia gravis, alzheimer disease, multiple sclerosis and acute stress reactions.
-	['', 'therapeutic product', ' ', 'neurological disorder', ' ', 'disease treatment', '']
-Intersect ENT
-	Developer of medical devices focused on the treatment of chronic sinusitis. The company\'s technology provides treatment for patients\' condition in which sinuses become swollen and inflamed, leading to difficulty breathing, facial pain or headache and reduced sense of smell and taste.
-	['', 'bioabsorbable drug', ' ', 'heart failure', ' ', 'chronic sinusitis', ' ', 'difficulty breathing', ' ', 'facial pain', '']
-Oxxon Therapeutics
-	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
-	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
-Cytoguide
-	Developer of combined drugs that target receptors on cells in pathological tissues. The company offers drugs that are aimed to improve the treatment of onocyte and macrophage-related diseases including autoimmune disease, leukemia and other infectious diseases.
-	['', 'combined drugs', ' pathological ', 'autoimmune disease', '  leukemia']
-IQ Therapeutics
-	Developer of human antibodies for the prevention and treatment of infectious diseases. The company provides research and development services and also offers technology as a service for third parties.
-	['', 'human antibodies', ' ', 'infectious diseases', ' ', 'anthrax infections', '']
-Lee\'s Pharmaceutical Holdings
-	Provider of pharmaceuticals for drug development and clinical development. The company specializes in cardiovascular and infectious diseases, dermatology, oncology, gynecology, ophthalmology and others.
-	['', 'infectious diseases', ' dermatology']
-Cantab Pharmaceuticals
-	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
-	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
-Tacere Therapeutics
-	Developer of therapeutics for the treatment of serious infectious diseases such as Hepatitis C (HCV). The company utilizes gene silencing technology called DNA-directed RNA interference (ddRNAi).
-	['', 'Hepatitis C', ' ', 'RNAi therapeutic', ' ', 'RNA interference drug', '']
-Xcyte Therapies
-	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
-	['', 'drug discovery', '']
+EmSense
+	Developer of physiological and brainwave measurement technology. The company’s quantitative metrics provides insights that facilitate the creation and optimization of advertising, packaging, media content, online marketing, and the live in-store and virtual store shopping experiences. It also provides expertise and advancements in emotion tracking, cognitive neuroscience, analytics, and market research through its EmBand and now EmBand 24, a wireless non-invasive EEG neuroscience technology. In addition, the company combines neurometrics with stationary and mobile eye tracking.
+	['', 'brainwave measurement technology', ' ', 'emotion tracking', ' ', 'mobile eye tracking', '']
+GazeHawk
+	Provider of eye tracking services using ordinary Webcams. The company offers an eye tracking technology that allows Web designers and publishers to see how visitors view their Webpage, advertisement or image.
+	['', 'eye tracking service', ' ', 'ordinary webcam', ' ', 'eye tracking technology', ' ', 'web designer', '']
+Oculex Pharmaceuticals
+	Developer of proprietary and generic drugs to treat eye diseases. The company\'s proprietary intraocular drug delivery platform technology is a biodegradable drug delivery technology that permits drugs to be delivered within the eye for the treatment of major eye diseases. It focuses on the development of products for diseases and conditions that occur in the back of the eye, such as diabetic macular edema and age-related macular degeneration.
+	['', 'eye disease', ' ', 'drug delivery', ' ', 'eye disease treatment', '']
+Applied Genetic Technologies
+	Developer of therapeutics for patients with rare lung and eye diseases. The company employs gene therapy to replace broken genes with normally functioning genes. Diseases targeted include Achromatopsia, age-related macular degeneration, Alpha-1 antitrypsin deficiency, Leber congenital amaurosis and X-linked retinoschisis.
+	['', 'non pathogenic virus', ' ', 'retinal disease', ' ', 'retinal degeneration', ' ', 'adeno associated virus', ' achromatopsia ', 'vision loss', '']
+Aciex
+	Developer of an ophthalmic therapeutics treatment. The company focuses on developing products to treat an ocular eye diseases.
+	['', 'eye disease', ' ', 'eye treatment', ' ', 'ophthalmic therapeutic', '']
+OphthoCare
+	Developer and manufacturer of eyeglasses used for treating Amblyopia. The company uses liquid crystal technology and miniature electronics to develop eyeglasses.
+	['', 'corrective eyeglasses', ' ', 'eye treatment', ' ', 'eye-care', ' ', 'caring for the eyes', ' eyeglasses']
+Loveyewear
+	Operator of an e-commerce platform for selling eye-wear. The company offers branded glasses and sunglasses in Sweden.
+	['eye-wear eyewear glasses sunglass ', 'online eyewear store', '']
+Aldeyra Therapeutics
+	Developer of drugs for treating retinal diseases. The company develops treatments for the dry form of age-related macular degeneration, an eye disease that leads to blindness.
+	['', 'retinal disease treatment', ' ', 'eye treatment', ' ', 'macular degeneration treatment', ' ', 'skin disease', ' ', 'eye disease', '']

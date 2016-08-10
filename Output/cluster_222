@@ -1,18 +1,30 @@
-Matan Digital Printers
-	Manufacturer of professional digital printers. The company designs and manufactures printing equipment for three major printing segments: super-wide format, traffic signage and labels, decals and license-plate printing.
-	['', 'digital printer', ' ', 'printing equipment', ' ', 'sign printing', '']
-DigePrint
-	Developer of digital printing technology. The company designs and manufactures digital print processors for the retail and photofinishing markets.
-	['', 'printing technology', ' ', 'digital printing', ' ', 'print processor', '']
-LFH Illuminating Brands
-	Provider of printing and design management services. The company creates designs for the ad-campaigns for various brands.
-	['', 'printing and design', ' ', 'conceptual designing', ' ', 'brand promotion', '']
-Softek
-	Provider of vendor-independent data migration software. The company enables to see, move and recover data, with full customer choice, regardless of server platform or storage vendor. It offers a family of host-based enterprise data migration software, utilizing synchronous, asynchronous and point-in-time copy replication technologies.
-	['', 'data migration', ' ', 'non disruptive data', ' ', 'data replication', ' ', 'disaster recovery software', '']
-Shira Computers
-	Provider of web based workflow management software for pre-press and digital printing industries. The company offers vendor independent designs for prepress, printing and publishing firms worldwide.
-	['', 'workflow management software', ' ', 'digital printing', ' ', 'pre press', '']
-Indocs
-	Provider of an application service provider for the printing and publishing industries. The company enables marketing staff, designers, and print houses to edit, manage, and produce graphically-enhanced documents online.
-	['', 'application service provider', ' ', 'online documentation', ' publishing']
+PreCision Dermatology
+	Developer of dermatological products. The company\'s DELEVO Foam Technology, a drug delivery platform that provides levels of proven active ingredients to the skin with fewer side effects and improvement of the natural skin barrier.
+	['', 'dermatological product', ' ', 'skincare product', ' ', 'skin treatment', '']
+ISW Group
+	Developer of topical dermatological products. The company\'s product focuses on a medical condition known as \'razor bumps,\' \'shaving bumps,\' or \'ingrown hairs\' where the irritation is caused by an inflammatory reaction in response to a foreign body being embedded into the skin.
+	['', 'dermatological products', ' skin papules']
+Shire Regenerative Medicine
+	Developer of cell-based therapies. It develops Dermagraft, which received a premarket approval from the U.S. food and drug administration. Dermagraft is a regenerative bio-engineered skin substitute that assists in restoring damaged tissue and is indicated for the treatment of certain types of diabetic foot ulcers (DFU).
+	['', 'cell based therapy', ' ', 'skin substitute', ' ', 'skin replacement product', '']
+Valocor Therapeutics
+	Developer of therapies to treat dermatological diseases. The company focuses on moderate to severe acne, acne and oily skin, atopic dermatitis, and viltiligo areas.
+	['dermatology ', 'skin treatment', ' ', 'skin therapy', ' ', 'acne treatment', ' ', 'atopic dermatistis', ' ', 'oily skin treatment', '']
+Shaser Bioscience
+	Developer of aesthetic dermatological technology for home use devices. The company develops technology for the treatment of various skin ailments, acne and blemishes and spider veins.
+	['', 'dermatological technology', ' ', 'skin treatment', ' ', 'skin care', '']
+CleveX
+	Provider of skin biopsy and wound care management products. The company provides ExiClip, a surgical device that eliminates the surgery and suture approach used by medical professionals to remove skin lesions, and improves patient outcomes.
+	['', 'skin biopsy', ' ', 'cosmetic surgery', ' ', 'surgical devices', ' ', 'skin lesion', '']
+DermaGen
+	Developer of antimicrobial peptides directed against skin microbes. The company develops peptides which exert potent antimicrobial effects and are derived from endogenous human proteins, such as those of the complement system, as well as several other skin and blood-derived proteins.
+	['peptides ', 'antimicrobial peptides', ' ', 'peptide-based products', '']
+Organis
+	Creator of natural insect repellents. The company is the developer of a platform of insect-repellent products derived from the edible turmeric plant. The active ingredients form the basis of a family of products for the agricultural, industrial, hospitality, urban ad home environments.
+	['', 'organic insecticides', ' ', 'bio-pesticides', ' ', 'insect-repellents', ' insecticides']
+Aclaris Therapeutics
+	Developer of topical dermatological therapies. The company is a specialty pharmaceutical company with a mission to develop topically applied therapy directed towards the removal of seborrheic keratosis and other verrucoid lesions of the skin.
+	['dermatology ', 'dermatological therapy', ' ', 'topical treatment', ' ', 'skin lesion', '']
+Ansata Therapeutics
+	Operator of a biopharmaceutical company focused on dermatologic treatments. The company develops peptide-based topical antibiotics for skin issues.
+	['', 'peptide-based', ' ', 'antibiotic product', ' ', 'topical medication', ' ', 'skin infection', ' ', 'pharmaceutical product', '']

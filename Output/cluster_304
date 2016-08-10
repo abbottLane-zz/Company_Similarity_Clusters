@@ -1,33 +1,9 @@
-Mahi Networks
-	Supplier of optical networking equipment. The company supplies multi-service metro packet switching, TDM grooming and reconfigurable optical transport systems to service provider customers.
-	['', 'optical equipment', ' ', 'networking equipment', ' ', 'metro packet switching', '']
-Phobos Corporation
-	Developer of internet security and enterprise switching products. The company engages in the design, development and sale of Internet traffic management solutions.
-	['', 'Internet traffic management', ' ', 'Web hosting', '']
-Crosslayer Networks
-	Developer of communication network products and components. The company develops scalable silicon that brings quality service capabilities to next generation switches and routers. The company\'s combined packet-processor and switch fabric architecture accommodates emerging technologies as 10-gigabit Ethernet and MPLS which allows system vendors to create products at low power and price.
-	['', 'communication network products', ' silicon ', 'switches and routers', ' ', 'switch fabric architechture', ' packet-processor']
-Enigma Semiconductor
-	Operator of a semiconductor company. The company provides semiconductors for switching systems for network and storage. It also provides line card and backplane systems up to 6.25G link speed and up to 1x40G line card speeds.
-	['', 'chassis equipment', ' ', 'crossbar switches', ' ', 'fabric managers', ' chipset']
-XLight Photonics
-	Manufacturer of tunable transponders. The company develops and commercializes next-generation optical switching fabrics for multi-terabit routers.
-	['', 'scalable solution', ' ', 'network congestion', ' ', 'information technology', '']
-Jungul Communication
-	Operator of communications agency specializing in the design and development of websites. The company develops logos, graphic charters and specific interactive tools for the creation of website.
-	['', 'communication agency', ' ', 'website development', ' ', 'graphic charters', ' ', 'interactive tools', ' website']
-Azanda Network Devices
-	Operator of a communications semiconductor company. The company develops semiconductors for use in next-generation optical and metro-area networks and multi-service traffic management solutions for routers and switches.
-	['optical ', 'traffic management', ' routers']
-SwitchOn Networks
-	Provider of semiconductor and software components to the Content and Policy-based networking. The company\'s products enable next generation network equipment, including web and content switches, CMTS, DSLAM, enterprise routers, edge routers, bandwidth managers, VPNs, Firewalls and Intrusion detection systems.
-	['', 'semiconductor and software component', ' ', 'wirespeed packet classification', ' ', 'networking solution', ' ', 'networking device', ' ', 'semiconductor component', ' ', 'semiconductor networking solution', ' ', 'networking equipment', ' ', 'packet content processor', '']
-Wilinx
-	Operator of a semiconductor company providing single-chip CMOS services covering the entire UWB bandwidth from 3 to 10 GHz. The company enables a wimedia based universal and robust wireless connectivity with enhanced range and data-rate for wireless personal area networks.
-	['', 'CMOS services', ' ', 'wireless connectivilty', ' ', 'personal area network', ' bandwidth ', 'semiconductor company', '']
-Kystlink
-	Operator of ferry shipping services. The company schedules cargo traffic between Langesund and Hirtshals, and between Langesund and Strømstad.
-	['', 'ferry shipping', ' ferry shipping cargo']
-VocalData
-	Developer of service delivery soft switches and service platforms. The company enables communications carriers to deliver telephony and communications services on next generation networks (NGNs).
-	['', 'service delivery', ' ', 'service platform', ' ', 'communication service', '']
+Class Data Systems
+	Developer of software used for bandwidth management. The company\'s clientele includes organizations using the Internet, Intranets and other dedicated networks.
+	['', 'software development', ' ', 'internet management', ' ', 'bandwidth control and management', '']
+ChanneLogics
+	Operator of software development company. The company designs bandwidth software for cable networks. The company provides solutions to cable service providers that enable them to optimize their systems by increasing the use of the total bandwidth.
+	['', 'bandwidth management software', ' ', 'cable network', ' real-time']
+Operax
+	Provider of products for dynamic service and bandwidth control. The company offers dynamic resource and admission control product for single service deployments.
+	['', 'bandwidth management', ' ', 'internet protocol network', ' ', 'Connectivity Product', '']

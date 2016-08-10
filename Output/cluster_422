@@ -1,21 +1,27 @@
-Savene (European Assets)
-	Provider of detoxifying agents. The company specializes in providing dexrazoxane to prevent the effect of anthracyclines.
-	['dexrazoxane anthracyclines chemotherapy ', 'catalytic cycle', '']
-Maptuit
-	Provider of navigation solutions to the transportation industry in the United States. The company specializes in providing location information Web services for consumer, tracking, and traffic markets.
-	['', 'navigation solution', ' ', 'location information', ' ', 'transportation optimization solution', ' ', 'geofencing technology', ' ', 'direction application', ' ', 'online traffic application', '']
-Readia
-	Developer of educational hand-held device. The company provides learning tool that provides demonstrable educational value in reading, writing, spelling and math.
-	['literacy ', 'education service', ' ', 'handheld device', '']
-InnoDesk
-	Developer of workspace products for home offices and student consumer markets. The company specializes in providing hand-held and battery-operated home office supply products. The company\'s products includes staplers, blades, shredders, letter openers and pencil sharpeners.
-	['', 'workspace products', ' ', 'consumer markets', ' ', 'business tools', ' battery staplers blades ', 'letter openers', '']
-WinfoMedia
-	Provider of electronic display products for out-of-home advertising. The company\'s products consist of a regular LCD screen combined with touch-free sensor for user accessibility.
-	['touchscreen ', 'touch-free sensor', ' ', 'multichannel system', '']
-Cozart
-	Developer of hand-held device using saliva samples for drugs of abuse testing. The company was a supplier to the home office for police, prison and customs and excise applications.
-	['', 'hand-held device', ' ', 'abuse testing', ' ', 'drug testing', '']
-Ubiquisys
-	Developer of communications devices for mobile operators and consumers. The company provides a small plug-and-play device that plugs into home or office broadband connections and provides 3G coverage in the home and office. It also offers convergence software to the wireless-wireline convergence technology market.
-	['', 'communication device', ' ', 'broadband connection', ' ', 'convergence software', ' femtocell']
+Questek
+	Manufacturer of excimer lasers. The company develops, manufactures and markets excimer lasers.
+	['', 'excimer lasers', ' lasers ', 'excimer laser technology', '']
+DeMaria ElectroOptics Systems
+	Manufacturer of CO2 lasers, far infrared laser and laser systems. The company designs and manufactures carbon-dioxide lasers used in materials processing, electronics packaging and research applications.
+	['', 'infrared laser', ' ', 'carbon dioxide laser', ' laser ', 'laser systems', ' ', 'remote sensing', ' ', 'ladar application', '']
+Photop Technologies
+	Manufacturer of crystal materials, optics, microchip lasers and optoelectronic modules.
+	['', 'crystal material', ' ', 'optics instrument', ' ', 'optoelectronic module', ' photonics']
+Ekips Technologies
+	Manufacturer of lasers and laser-based systems. The company develops and markets tunable mid-infrared lasers and laser systems made for molecular spectroscopy applications.
+	['', 'mid-infrared laser', ' ', 'diagnostic equipment', ' ', 'molecular spectroscopy', '']
+SPI Lasers
+	Designer and manufacturer of fiber lasers for the industrial, aerospace, analytical, sensing and communications markets. The company offers fiber lasers & laser arrays, high-power optical amplifiers and filters.
+	['', 'fiber Bragg gratings', ' ', 'fiber laser', ' ', 'optical component', ' ', 'laser array', '']
+Laser Power Optics
+	Manufacturer of high-performance lasers and laser optics for industrial, medical and military applications. The company\'s optics products are sold to laser system OEMs and end users as original and replacement components in high power CO2 and other lasers.
+	['laser ', 'optic products', ' OEM ', 'CO2 laser', ' ', 'carbon dioxide lasers', '']
+Oxford NanoScience
+	Manufacturer of 3-dimensional atom probes. The company\'s laser atom probe offers high resolution sample data acquisition together with comprehensive data analysis for a range of low and high resistivity materials.The atom probe is a point projection microscope capable of resolving the chemical identity and position of individual atoms in 3D with atomic resolution in the z direction and sub-nanometer lateral resolution.
+	['', '3-dimensional atom probe', ' ', 'laser atom probe', ' ', 'point projection microscope', ' ', '3D Atom Probe analysis system', '']
+Intense
+	Provider of single and multimode monolithic laser array products and high power laser diodes. The company  provides foundry services, including front-end wafer processing, back-end assembly line, engineering support and product development support services and laser diode, optics, electronics and package design services.
+	['', 'laser diodes', ' ', 'electrical equipments', ' ', 'laser equipments', '']
+Lumics
+	Manufacturer of semiconductor diode laser for medical and industrial applications. The company manufactures semiconductors and diode lasers from 750 nm to 1960 nm in industry standard packages such as 14-pin butterfly, 8-pin miniDIL and 2-pin TO220 as well as a series of compact fiber coupled laser modules with output powers up to 900 W.
+	['', 'diode laser', ' ', 'laser module', ' ', 'fiber coupled diode', ' ', 'industrial application', ' ', 'chip technology', '']

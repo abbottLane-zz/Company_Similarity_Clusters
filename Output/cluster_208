@@ -1,45 +1,21 @@
-Solar Industries
-	Manufacturer and marketer of solar-power components. The company pursued a growth and buy-and-build strategy along the value chain for solar-module production and marketing. The company operated multiple production facilities for solar modules.
-	['photovoltaic ', 'photovoltaic cell', ' ', 'photovoltaic products', '']
-Usolie-Sibirsky Silicon
-	Manufacturer of polycrystalline silicon. The company is the manufacturer of a silicon product used as a basic semiconductor material in microelectronics, electric power and solar energy. The company operates manufacturing plants to produce materials for the further development of Russian microelectronics for solar-power generation.
-	['', 'manufacturing plant', ' ', 'polycrystalline silicon', ' ', 'silicon plant', ' semiconductor']
-EpiWorks
-	Manufacturer of specially treated gallium arsenide and indium phosphide wafers. The company\'s wafers are used to make computer chips and ends up being components in cell phones and in medical and industrial lasers.
-	['', 'IT services', '']
-Sunrise Global Solar Energy
-	Manufacturer of photovoltaic cells. The company engages in the design, manufacture and distribution of photovoltaic cells and solar energy products. It also offers monocrystalline and multicrystalline solar cells.
-	['photovoltaic ', 'solar cells', ' monocrystalline plant']
-Innotech Solar
-	Provider of technology to classify and upgrade non-prime c-Si solar cells within the solar industry. The company uses laser-based process, to maximize electricity production by optimizing various types of solar cells.
-	['', 'solar cell', ' ', 'electricity production', ' ', 'non prime cell', '']
-Engensa
-	Provider of residential solar systems in the U.K. The company works with homeowners to design, finance, install and maintain solar-energy systems to match a range of budgets.
-	['', 'solar panel system', ' ', 'alternative energy', ' ', 'residential solar system', '']
-JEN Holdings
-	Provider of an electrical energy in local area. The company provides the facility of production, supply and sale of electric power and steam for local user like industries and electric power suppliers by utilizing Eco-friendly and renewable electricity sources.
-	['', 'electrical energy', ' ', 'renewable electricity', ' ', 'electric power', '']
-Skyline Solar
-	Manufacturer of high gain solar arrays for commercial, industrial, government and utility markets. The company offers HGS structural and reflective racking components. It develops a solar energy system that uses metal reflectors to concentrate the sunlight onto silicon solar cells for electricity production.
-	['', 'solar energy', ' ', 'solar array', ' ', 'high gain solar', ' ', 'HGS array', ' ', 'reflective racking', ' ', 'silicon cell', ' ', 'metal reflector', ' ', 'electricity production', ' ', 'solar silicon', ' ', 'HGS panel', ' ', 'solar electricity', '']
-Trony Solar
-	Producer of thin-film solar energy modules. The company is an amorphous silicon thin film solar cell manufacturer and service provider in China.
-	['', 'solar energy module', ' ', 'solar cell', ' ', 'silicon thin film', '']
-GCL Silicon Technology Holdings
-	Supplier of polysilicon and wafers to companies operating in the solar industry. The company manufactures polysilicon, the primary raw material used in the production of solar cells and modules for the generation of electric power from solar energy.
-	['', 'solar industry', ' polysilicon wafers']
-Surfect Technologies
-	Manufacturer of semiconductor equipment. The company provides metallization, interconnect and module process for solar cell, light emitting device (LED) and power management applications. It also develops and commercializes patented automated electroplating deposition tools, which apply single metal or multi-metal stacks on solar cells and modules through single chamber electroplating process.
-	['']
-Nanoconduction
-	Provider of products based on carbon nanotube technology optimized for IC chips, LEDs  and Solar Cells. The company develops nano-based electronic cooling Technology.
-	['nanotechnology ', 'nanoconduction technology', ' semiconductors']
-Voltaix
-	Provider of materials for semiconductor chips and solar cells. The company provides electronic chemicals and gases used in semiconductor manufacturing processes. It also provides supply of deposition precursors for production of photovoltaic cells.
-	['', 'electronic chemical', ' ', 'deposition precursor', ' ', 'photovoltaic cell', ' ', 'semiconductor', '']
-PURE Energies
-	Provider of rooftop solar energy systems. The company advises homeowners on residential solar systems and home conservation products to help them save money.
-	['', 'power grid', ' ', 'energy generation', ' ', 'rooftop solar energy', ' ', 'web-based customer acquisition', '']
-ArrayPower
-	Provider of power technologies for the solar industry. The company\'s technology helps to improve capital returns, maximize system performance and simplify system installation and operation, to the benefit of both manufacturers and system owners.
-	['', 'solar power', ' ', 'solar power technology', ' ', 'solar performance', ' ', 'solar installation', ' ', 'solar operation', ' ', 'solar grid parity', ' ', 'solar module', ' ', 'inverter less solar', '']
+Newton Propulsion Technology
+	Developer of hybrid propulsion technology based engine. The company\'s product is a hybrid of the gas turbine and of the volumetric internal combustion engine, which can be used in all types of heavy vehicles, sailing craft, aircraft and power stations.
+	['', 'hybrid propulsion technology', ' ', 'hybrid engine', ' ', 'industrial supply', ' ', 'volumetric engine', ' ', 'heavy vehicles engine', '']
+HCCI Technology
+	Developer of combustion engines. The company manufactures combustion engines which are suitable under constant load.
+	['', 'b2b services', '']
+Jiveman Motors
+	Manufacturer of motors for power generation. The company offers internal combustion engines.
+	['', 'power generation', ' ', 'combustion engine', ' ', 'motor engine', '']
+Enginion
+	Provider of technology in the field of steam-operated, compact cogeneration systems. The company offers SteamCell, a low-emission, combined heat and power generation system using external combustion based on a Caloric Porous Structure Cell (CPS Cell) technology. CPS Cell technology utilizes a thermo-chemical combustion process, which drives an electronically controlled, oil-free steam engine. The company supplies SteamCell core systems to original equipment manufacturers who integrate them into their products.
+	['', 'cogeneration systems', ' combustion ', 'thermo-chemical', ' ', 'steam engine', '']
+Hansen Supercharger
+	Developer of variable intake compression ratio technology. The company designs superchargers to boost the performance of a stock 5 to 20 horsepower 4-cycle engine. The company helps to enhance the power of automotive diesel engines.
+	['supercharger ', 'compression ratio technology', ' engines horsepower']
+Pantec
+	Developer of mini motors.  The company develops software-controlled, piezo ceramic-based mini motors for the consumer electronics and automotive sectors.
+	['motor ', 'ceramic motor', ' ', 'software controlled motor', ' ', 'mini motor', ' piezo']
+NxtGen Emission Controls
+	Manufacturer of syngas systems for diesel and engine combustion optimization. The company offers syngas diesel particulate filter (DPF), a diesel emission control system for medium-duty and light-duty on-road vehicles; syngas lean NOx trap (LNT), a diesel emissions control system; and syngas DPF + LNT, an integrated solution to reduce particulate matter and NOx emissions using syngas as the regenerating agent. It also provides syngas generator evaluation unit for researchers, government laboratories, powertrain, energy, and fuel cell technology developers; syngas lean combustion for gasoline automobile manufacturers to reduce greenhouse gas emissions; and Non-Catalytic Syngas Generator Primer that enables diesel engine after treatment and gasoline engine combustion optimization systems.
+	['', 'diesel emission control system', ' ', 'engine combustion optimization', ' ', 'diesel particulate filter', '']

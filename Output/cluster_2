@@ -1,21 +1,33 @@
-MoboTap
-	Developer of a browser technology for mobile devices. The company is a mobile technology developer which has created Dolphin Browser, a web browser created for andriod, iOS phone and tablet users.
-	['', 'browser technology', ' ', 'mobile technology', ' ', 'web browser', '']
-Evertale
-	Developer of mobile applications. The company provides an application that automatically logs user\'s activities through mobile devices and creates a scrapbook.
-	['', 'user activity', ' ', 'scrapbook application', ' ', 'social application', '']
-MCC
-	Provider of mobile products and services in the Netherlands. The company is a retailer of mobile devices, including smart phones, tablets, navigation devices and accessories, and sells service descriptions for their use.
-	['', 'wireless communications', ' ', 'mobile devices', ' ', 'wireless services', '']
-Openera
-	Provider of mobile application services. The company provides an application that help users to find any file or attachment in two taps and automatically saves email attachments to cloud services like Dropbox, Google Drive, Box and Salesforce.
-	['', 'mobile application service', ' ', 'email attachment', ' ', 'cloud service', '']
-RallyCause
-	Provider of mobile commerce services by connecting affinity groups to local businesses. The company provides an application which allows people to enroll for a cause and when they shop at participating businesses in the cause, they claim an instant rebate with their smart phones, which enables them to contribute savings to one of the causes featured in the app.
-	['', 'mobile commerce', ' ', 'fund raising', '']
-JustChalo
-	Provider of a mobile technology focused on US restaurant industry. The company provides an application for reservations to be made on mobile devices for diners.
-	['', 'mobile technology', ' ', 'restaurant mobile payment', ' ', 'restaurant iphone application', '']
-PrimaTable
-	Provider of a platform to help restaurants to manage their scarce table resources. The company develops last-minute perishable inventory demand forecasting and pricing tools for the restaurant industry.
-	['', 'resource management', ' ', 'inventory demand forecasting', ' ', 'perishable inventory', ' ', 'pricing tool', ' ', 'restaurant pricing tool', '']
+Pulsent
+	Developer of video compression algorithms, technologies and products. The company offers algorithms, software and hardware technologies for storage and delivery of digital video.
+	['', 'online video', ' ', 'hardware technologies', ' ', 'digital video', ' ', 'technology services', ' ', 'online portal', '']
+Talk Talk TV Store
+	Provider of video streaming services. The company offers action, animation, comedy, crime, documentary, drama, family, fantasy, horror, indie, music, romance, sci-fi, seasonal, sport, thriller, war, western movies, shows and quizzes.
+	['', 'digital video', ' ', 'feature film', ' ', 'television series', '']
+LSI (Consumer Products Group)
+	Manufacturer of semiconductors, software and systems for digital video applications. The company offered silicon solutions for the compression, transmission, and decompression of digital video content to and throughout the home.
+	['', 'digital video', ' semiconductor ', 'microprocessor chip', ' ', 'VLSI circuit', ' ', 'video compression', ' ', 'image processing chip', ' ', 'image compression', '']
+iCompression
+	Provider of real-time video and audio compression and communications technology to the consumer, computer, and internet markets. The company\'s current products include system-on-a-chip solutions for products such as digital video recorders, set-top boxes, PC TV peripherals, and video over IP.
+	['', 'digital video recorder', ' ', 'set top box', ' ', 'video compression', ' ', 'audio compression', '']
+Unified Nexsys
+	Manufacturer of software and hardware technologies for education and military markets. The company\'s configuration service provides situational awareness, access and control across different user platforms and devices. Its technology also develops applications requiring collaboration, connectivity and complex data acquisition and management.
+	['', 'hardware technology', ' ', 'software technology', ' ', 'situational awareness', ' ', 'Wide Area Network', '']
+MediCapture
+	Manufacturer and designer of advanced digital video recorders. The company provides USB flash drives, footswitches and network adapters.
+	['footswitches ', 'video recorders', ' adapters']
+Samplify Systems
+	Provider of compression algorithms for high speed sampled data systems. The company offers analog-to-digital converter ICs for applications in ultrasound front-ends, 4G wireless base stations, automated test equipment, and RADAR/SONAR receivers; and Samplify\'s Prism, a compression and decompression engine that solves I/O and storage bottlenecks in embedded systems. It also provides Samplify for Windows, a compression analysis tool that displays input and output file sizes and other relevant compression results, including compression ratio, dynamic range, noise floor and distortion levels, and a rate-distortion curve.
+	['', 'compression algorithm', ' ', 'sampled data system', ' ', 'compression analysis tool', ' ', 'analog to digital converter', '']
+V-bits
+	Provider of standards-based digital video processing systems for cable television service providers. The company develops video multiplex/demultiplex products for operators and service providers within the cable, satellite and broadcasting industries. The company\'s core technologies include real-time rate processing and manipulation of compressed digital video signals.
+	['multiplexer ', 'digital video', ' demultiplex ', 'digital video signals', ' ', 'Digital Signal Processing', ' DSP']
+InSoft
+	Provider of collaborative multimedia software and development tools. The company also develops and sells collaborative computing, desktop conferencing and distributed digital video applications. The company\'s products are based on its open software architecture and digital video everywhere, which enables transparent digital convergence.
+	['', 'digital video applications', ' ', 'digital convergence', ' ', 'multimedia software', '']
+Big Blue Software
+	Provider of software for object tracking and video compression. The company provides data conversion, cloud computing and migration technology software services.
+	['', 'object tracking', ' ', 'video compression', ' ', 'data conversion', ' ', 'migration technology', '']
+Digital Origin
+	Developer of digital video products. The company specializes in designing and marketing computer-based tools for content creators in the publishing, video, and multimedia markets for still capture, motion capture, non-linear editing and post-production.
+	['', 'Multimedia peripherals', ' ', 'digital video', ' ', 'graphics card', '']

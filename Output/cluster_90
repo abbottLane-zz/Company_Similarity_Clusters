@@ -1,24 +1,18 @@
-Ixi Mobile
-	Developer of data centric wireless mobile devices and services for mass market users. The company provides end-to-end software and hardware reference designs which it claims creates a new category of mobile devices.
-	['', 'communication server', ' ', 'wireless communication service', ' ', 'mobile device', ' ', 'data centric', '']
-Pulse Technologies
-	Provider of home and building automation softwares. The company provides a software platform that can be adapted from home automation to smart cities, from smart metering to intelligent appliances, and from stand-alone devices to cloud-connected services. The company also offers hardware-reference designs to clients wanting to incorporate the company’s technology into their own products.
-	['', 'vertical market', ' ', 'software service', '']
-13th Lab
-	Developer of next generation computer vision platform for mobile devices. The company is developing three dimensional Tracking and Mapping (SLAM) implementation process to consumer devices through Ball Invasion.
-	['', 'mobile computer vision', ' ', 'three dimensional tracking', ' ', 'three dimensional mapping', '']
-Zamba
-	Provider of wireless mobile data communication services. The company provides mobile data communication software products and various services including professional services, systems integration, training, and end-to-end mobile network system support for organizations in the transportation, field service, sales or order entry and utility markets..
-	['', 'information system', ' ', 'data communication', ' ', 'mobile data', '']
-Sense
-	Developer of devices for cardiovascular diagnostics. The company\'s technologies creates new possibilities for measurements of blood pressure.
-	['cardiovascular ', 'blood pressure', '']
-WorkLight
-	Developer of HTML5, hybrid and native applications for smartphones and tablets with industry-standard technologies and tools. The company provides flexible mobile IDE, next-generation mobile middleware, end-to-end security and integrated management and analytics.
-	['HTML5 smartphone tablet ', 'mobile IDE', ' ', 'integrated development environment', ' ', 'mobile middleware', ' MEAP ', 'mobile enterprise application platform', '']
-DN2K
-	Developer of a software-based system that can remotely monitor, display and control important assets. The company provides a software that aggregates business data into a single graphically-rich visualization that is displayed on mobile devices.
-	['', 'remote monitoring', '  ', 'critical asset management', ' ', 'Software-as-a-Service', ' ', 'mobile device', '']
-ClearWater Data
-	Provider of services addressing the challenges of dealing with massive data flow volumes. The company provides a data-centric architecture enabling the ingestion of billions of daily transactions.
-	['', 'software development', ' ', 'data flow management', ' ', 'data-centric architecture', '']
+Hearing Science
+	Provider of hearing health care and audiologist services. The company\'s services include marketing, public relations, managed care contracting, recruiting and training, accounting services, facility management and enhanced information systems. The company also conducts hearing tests and provides patients with hearing aids.
+	['', 'hearing health', ' ', 'audiologist services', ' ', 'diagnostic devices', ' ', 'check-up clinics', ' ', 'facility management', ' audiology']
+Nacre
+	Developer of a patented technology for intelligent hearing systems. The company develops electronic and passive in ear hearing protection with natural speech and radio communications.
+	['', 'hearing system', ' ', 'hearing protection', ' ', 'natural speech', ' ', 'radio communication', '']
+Auris Medical
+	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
+	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
+Fryers Walk VCT
+	Provider of nursing home services for people with learning and hearing disabilities in Thetford. The company operates a 34 bedroom home to provide home care services for people with learning and hearing disabilities.
+	['', 'home care', ' ', 'nursing home', ' ', 'hearing disability', '']
+AVR Communications
+	Developer of hearing technologies. The company designs, manufactures and sells hearing aids for improving the auditory and verbal communication skills of hearing impaired children and adults.
+	['', 'hearing aids', ' ', 'hearing impairment', ' ', 'hearing technologies', '']
+William Demant Holding
+	Manufacturer of hearing devices. The company develops and sells products and equipment designed to aid people with hearing loss in their individual communication.
+	['', 'hearing aid', ' ', 'Hearing Implants', ' ', 'Diagnostic Instruments', '']

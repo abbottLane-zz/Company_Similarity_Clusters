@@ -1,45 +1,33 @@
-Rolsen Electronics
-	Manufacturer of household electronics in Russia. The company provides a range of consumer products, including television sets, DVD players, DVD recorders, plasma panels and LCD TV sets, home video systems, air conditioners and washing machines.
-	['', 'electronic appliances', ' ', 'production cycle', ' ', 'consumer product', '']
-Parade Technologies
-	Provider of digital integrated display and display interface solutions, and processing products. The company\'s products can be applied to a broad array of applications in personal computer and consumer electronics devices such as digital TV, DVD, and set-top box.
-	['semiconductor ', 'set top box', ' display ', 'monitor panel', ' ', 'display port', '']
-VitalStream
-	Provider of products and services that enable the digital broadcast of audio and video content and other communications via the Internet. The company\'s mix of services and technology enable businesses to leverage the global reach of the Internet to distribute their media content to targeted audiences worldwide.
-	['', 'audio streaming', ' ', 'video streaming', ' ', 'media hosting', ' ', 'consulting services', '']
-Universal Electronics
-	Designer and developer of solutions that enable consumers to control entertainment devices, digital media, and home systems. The company sells and licenses wireless control products through distributors and retailers under the "One For All" brand name. The company\'s offerings include Universal Code Library, Macro Keys, Upgrade ability, IR Blaster, Extensible Multimedia Protocol and RF Technology.
-	['', 'entertainment device', ' ', 'Universal Code Library', ' ', 'electronic services', ' ', 'consumer durables', '']
-AudioFeast
-	Provider of MP3 players with a web-based broadcast network of digital audio programming. The company provides software that allows users to browse through different channels.
-	['', 'radio channels', ' ', 'audio content', ' ', 'MP3 players', ' ', 'digital audio programming', ' audio ', 'broadcast network', '']
-CE Interactive
-	Provider of digital products and services to consumer electronics retailers, manufacturers, service providers, and consumers. The company\'s solutions include Wirewize Web application, a virtual installer and home entertainment management system that helps to set up, operate, manage, maintain, and enhance home entertainment technology.
-	['', 'digital product', ' ', 'wirewize web', '']
-UpdateLogic
-	Provider of a device management system for consumer electronics manufacturers to control and maintain internet connected digital home products. The company offers a software update service, which allows television manufacturers and cable operators to deliver software patches to consumer’s digital television receiver devices.
-	['', 'device management', ' ', 'consumer electronic manufacturer', ' ', 'electronic device', ' ', 'cable transmission', ' ', 'storage device', '']
-Phorus
-	Developer of digital audio systems which connected wirelessly with automobiles.
-	['', 'audio system', ' ', 'digital audio', ' ', 'wireless technology', '']
-Sonic Blue
-	Provider of  products for the Internet, digital media, entertainment, and consumer electronics markets. The company\'s technology portfolio included Rio digital audio players, ReplayTV personal television technology and software solutions, Go-Video integrated DVD, VCRs and Dual-Deck VCRs, and digital home theater systems.
-	['', 'Consumer Electronics', ' ', 'digital audio player', ' ', 'home theater system', ' ', 'electronics equipment', '']
-HIGH-DEF Technology
-	Provider of integrated entertainment services for building and home automation. The company\'s products enables users to control all entertainment electronics and home automations easily with a single system.
-	['', 'integrated entertainment', ' ', 'home automation', ' ', 'multiroom audio', '']
-GridNetworks
-	Provider of managed Internet television service. The company provides GridCasting service that enables media and entertainment companies, television networks, movie distributors, Web portals and content companies to provide downloads on the Internet.
-	['', 'Internet television', ' ', 'Grid Casting', ' ', 'television network', ' ', 'content company', '']
-ClaroVision
-	Provider of living room entertainment and infotainment technologies. The company offers a software platform for consumer electronics, and other service and network operators and serves the television, multimedia and hospitality industries.
-	['', 'entertainment technologies', ' infotainment ', 'consumer electronics', '']
-VizionWare
-	Developer of digital inter connect cables and adapters. The company offers high definition multimedia interface (HDMI) digital interconnects, fiber optic HDMI interconnects, digital visual interface (DVI) digital interconnects, HDMI-to-DVI digital interconnects, switcher and digital audio synchronizers, integrator-friendly accessory products, HDMI and DVI swivel adapters, HDMI connector locking mounts, and heavy duty cable pull through socks. It serves home theater, commercial, original equipment manufacturer and consumer markets.
-	['', 'inter connect cable', ' adapter ', 'high definition multimedia interface', '']
-Margi Systems
-	Provider of multimedia products for mobile systems. The company develops products in the areas of video capture, TV capture, video conferencing, DVD decoding, DVD authoring, personal video headsets and display adapters.
-	['', 'multimedia product', ' ', 'video capture', ' ', 'personal video headset', ' ', 'sound peripherals', ' ', 'electronic parts', '']
-SpinetiX
-	Designer of digital signage products. The company manufactures digital signage products and offers media players with built-in software technologies that turns any digital display into an autonomous and networked device.
-	['', 'digital signage', ' ', 'media player', ' ', 'digital display', '']
+Tripod Energy
+	Developer of energy projects that provide solar power to local communities and large energy buyers. The company is a special situation investment vehicle for solar projects which engages in all stages from solar project development to power plant completion.
+	['', 'solar project investment', ' ', 'investment vehicle', ' ', 'solar power investor', '']
+Tioga Energy
+	Provider of solar power purchasing services. The company owns, operates and maintains solar photovoltaic energy systems through power purchase agreements. It offers solar electric system assessment, designing, engineering, installation, maintaining and equipment monitoring services. It also provides certification services.
+	['', 'solar power', ' ', 'power purchase', ' ', 'solar photovoltaic', ' ', 'clean energy', ' photovoltaic ', 'solar electric', ' ', 'solar certification', '']
+Industrial Solar
+	Manufacturer of heating and cooling devices that utilizes solar power. The company offers solar Fresnel collector systems and other solar cooling and air-conditioning technologies. Its products are used to generate solar process heat, cooling, water treatment and polygeneration. The company was spun out of Fraunhofer Institute for Solar Energy Systems.
+	['', 'heating product', ' ', 'cooling technology', ' ', 'solar power', '']
+GreenVolts
+	Developer of concentrating photovoltaic (CPV) technology. The company also supplies solar power to the utilities companies.
+	['', 'concentrating potovoltaic', ' ', 'solar energy', ' ', 'solar power', ' ', 'green technology', ' ', 'clean technology', '']
+Engensa
+	Provider of residential solar systems in the U.K. The company works with homeowners to design, finance, install and maintain solar-energy systems to match a range of budgets.
+	['', 'solar panel system', ' ', 'alternative energy', ' ', 'residential solar system', '']
+GCL Silicon Technology Holdings
+	Supplier of polysilicon and wafers to companies operating in the solar industry. The company manufactures polysilicon, the primary raw material used in the production of solar cells and modules for the generation of electric power from solar energy.
+	['', 'solar industry', ' polysilicon wafers']
+Mercury Solar Systems
+	Provider of commercial and residential solar-energy systems. The company is a designer and installer of solar-energy systems in the Eastern U.S. Its services include turnkey engineering, procurement and construction.
+	['', 'solar energy system', ' ', 'solar system installation', ' ', 'solar system design', '']
+XeroCoat
+	Manufacturer and designer of anti-reflective coatings for solar energy systems. The coatings are applicable across all solar technologies and for all solar panel systems.
+	['', 'solar energy', ' ', 'anti-reflective coatings', ' ', 'solar technologies', '']
+PowerLight
+	Designer of solar power systems for commercial, public sector and residential customers. The company provides solar roof tiles and angled solar panels, as well as roof, ground and elevated-parking solar power systems.
+	['', 'solar power system', ' ', 'solar roof tile', ' ', 'solar panel', '']
+PURE Energies
+	Provider of rooftop solar energy systems. The company advises homeowners on residential solar systems and home conservation products to help them save money.
+	['', 'power grid', ' ', 'energy generation', ' ', 'rooftop solar energy', ' ', 'web-based customer acquisition', '']
+ArrayPower
+	Provider of power technologies for the solar industry. The company\'s technology helps to improve capital returns, maximize system performance and simplify system installation and operation, to the benefit of both manufacturers and system owners.
+	['', 'solar power', ' ', 'solar power technology', ' ', 'solar performance', ' ', 'solar installation', ' ', 'solar operation', ' ', 'solar grid parity', ' ', 'solar module', ' ', 'inverter less solar', '']

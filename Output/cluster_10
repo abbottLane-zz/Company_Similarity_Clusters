@@ -1,6 +1,15 @@
-CrowdSavings.com
-	Provider of an e-commerce marketplace offering consumers discounted products and services from local businesses and online retailers. The company provides customer acquisition campaigns to local merchants through email, social networking and affiliate partners.
-	['', 'online retail', ' ', 'customer acquisition campaign', ' ', 'customer base enlargement', '']
-Lasso.it
-	Provider of an online service offering delivery of spirits. The company offers on-demand delivery of artisan wine, beer, spirits, soda and specialty foods including cheese, sweets and meat platters from local merchants and gourmet food shops.
-	['', 'food delivery', ' ', 'wine delivery', ' ', 'online alcohol', '']
+DynamicOps
+	Provider of virtual infrastructure and lifecycle management software solutions. The company offers Virtual Resource Manager, an information technology service automation software. The company also provides DynamicOps Cloud Automation Center, a platform for defining and automating the delivery and management of on-demand IT services on a shared multi-tenant private or public cloud infrastructure. It also provides server provisioning, desktop provisioning, and lab management solutions
+	['', 'virtual infrastructure', ' ', 'lifecycle management software', ' ', 'server provisioning', '']
+Peminic
+	Developer of healthcare IT workflow and process management software. The company offers integrated software solutions for patient safety and quality, patient relations, risk management, and legal services. Its solutions include incident manager, root cause analysis manager, patient relations manager, peer review manager, claims manager, legal matter manager, employee health manager, contract manager, compliance manager, infection control manager, performance improvement manager, and quality outcomes manager, as well as patient safety organization solutions.
+	['', 'IT workflow', ' ', 'process management software', ' ', 'integrated software solution', ' ', 'cause analysis manager', ' ', 'healthcare solution', '']
+rPath
+	Developer of a technology for virtualizing software applications, and managing the lifecycle of virtual appliances and application images. The company\'s products include rBuilder,\nrPath Lifecycle Management Platform. It also offers rBuilder Online and the Cloud Catalog for EC2 and rPath X6.
+	['', 'virtualizing software application', ' ', 'virtual appliance', ' ', 'application image', ' ', 'Lifecycle Management', ' ', 'Cloud Catalog', '']
+Synchris
+	Provider of bid lifecycle management software for government contractors. The company provides virtual workspace software that integrates communication, collaboration, document management and workflow features into a unified application that integrates with the Microsoft desktop.
+	['', 'bid lifecycle management software', ' ', 'virtual workspace software', ' ', 'document management', ' ', 'task order management', '']
+B-hive Networks
+	Provider of virtual environment management solutions. The company offers B-hive Conductor, a software solution, which delivers service level control in virtualized IT environments. It’s software solution also provides visibility into the multi-tier applications, such as end-user transaction response time, virtual machine utilization, and cross-virtual machine dependencies to the virtual infrastructure groups, as well as determines baseline performance and usage of various business services and issues service level reports. It also plans and implements virtualization projects ranging from installation to capacity planning to performance improvement, as well as offers service delivery assessment services.
+	['', 'environment management', ' ', 'service level control', ' ', 'virtual machine utilization', ' ', 'cross virtual machine', '']

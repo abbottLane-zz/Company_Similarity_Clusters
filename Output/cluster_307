@@ -1,51 +1,15 @@
-Osiris Therapeutics
-	Provider of medical facilities in the inflammatory, autoimmune, orthopedic and cardiovascular areas. The company\'s stem cell products have significant therapeutic potential because of their ability to regulate inflammation, promote tissue regeneration and prevent pathological scar formation.
-	['', 'stem cell', ' ', 'medical facilities', ' ', 'therapeutic devices', '']
-LeukoSite
-	Developer of therapeutics based upon the biology of leukocytes with potential applications in cancer, inflammatory, autoimmune and viral diseases. The company\'s technology and expertise in leukocyte biology facilitate the discovery and development of proprietary drugs that destroy or block the disease-causing actions of leukocytes.
-	['', 'drug discovery', ' ', 'leukocyte', '']
-Peptor
-	Developer of products to treat autoimmune diseases. The company develops small cyclical analogues of peptide loop drugs to treat cancer, bacterial and fungal infections, autoimmune diseases, multiple sclerosis and other disorders.
-	['', 'autoimmune product', ' ', 'protein treatment', ' ', 'healthcare service', '']
-Adenosine Therapeutics
-	Developer of novel pharmaceutical products that target adenosine receptor subtypes. The company develops drugs for the treatment of asthma, diabetes, Parkinsonís disease, cancer, ophthalmic disease and inflammatory indications such as sepsis, heart attack, ischemia-reperfusion injury, sickle cell crisis, vascular injury, arthritis, spinal cord injury, COPD and inflammatory bowel disease.
-	['adenosine asthma diabetes ', 'adenosine receptor', ' ischemia-reperfusion']
-Aerocrine
-	Creator of a device to monitor inflammatory airway diseases. The company provides a device to monitor exhaled nitric oxide (NO) from patients with inflammatory airway diseases such as asthma to assess the levels of their ailment and predict exacerbations.
-	['', 'medical technology', ' ', 'treatment product', ' ', 'inflammatory airway disease', '']
-Topigen Pharmaceuticals
-	Developer of asthma and chronic obstructive pulmonary disorder therapeutics. The company\'s lead product, TPI-ASM8, is an inhaled combination of antisense oligonucleotides targeting key cytokines involved in asthmatic airway inflammation, and is in Phase II clinical trials. The company is also developing an antisense product against phosphodiesterase isoforms for the treatment of chronic obstructive pulmonary disorder therapeutics.
-	['', 'asthma therapeutics', ' ', 'chronic obstructive pulmonary disorder', ' ', 'antisense', '']
-IDEC Pharmaceuticals
-	Developer of products for the treatment of cancer and autoimmune diseases. The company was founded with the intent of developing and commercializing monoclonal antibodies. The company looks to find patient specific approaches in treating non-Hodgkin\'s lymphoma.
-	['', 'cancer and autoimmune disease', ' ', 'treating lymphoma', ' ', 'patient specific', ' ', 'monoclonal antibody', '']
-SuppreMol
-	Developer of therapeutics for the treatment of autoimmune diseases and allergic diseases. The company is focused on development of soluble Fc-gamma receptors (FcyRs), which are recombinant autologous therapeutic proteins with a specific immunoregulatory potential.
-	['', 'therapeutic device', ' ', 'autoimmune disease', ' ', 'therapeutic protein', '']
-Epigenesis
-	Developer of inhaled respiratory medicines for the treatment of asthma and chronic obstructive pulmonary disease (COPD). The company develops EPI-12323, a once daily, small molecule, inhaled non-glucocorticoid steroid that targets the inflammatory and airway obstruction cascade in the irritated lung.
-	['', 'respiratory medicine', ' ', 'asthma treatment', ' ', 'obstructive pulmonary disease', ' ', 'respiratory treatment', ' inhaler']
-BG Medicine
-	Developer of novel cardiovascular diagnostic tests. The company\'s product pipeline includes BGM Galectin-3, a diagnostic test for heart failure that measures galectin-3 levels in blood plasma or serum. It also offers TNF alpha blockers comprising Enbrel, Remicade and Humira, which are treatments indicated for autoimmune diseases, such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and Crohn’s disease.
-	['', 'diagnostic test', ' ', 'heart failure', ' ', 'cardiovascular test', ' ', 'lipid disorder', '']
-Affimed Therapeutics
-	Developer of unique TandAb antibody therapeutics for cancer and inflammatory diseases. The company offers anticancer drug candidates, including AFM13, a bispecific and tetravalent human antibody to treat Hodgkin Lymphoma, AFM11 and AFM15 for the treatment of Non-Hodgkin Lymphoma and autoimmune diseases.
-	['', 'inflammatory diseases', ' antibody Lymphoma']
-Palau Pharma
-	Provider of biopharmaceutical products. The company specializes in the discovery and development of new products for treating inflammatory and autoimmune diseases.
-	['bio-pharmaceutical ', 'inflammatory disease', ' ', 'autoimmune disease', '']
-Viral Logic Systems Technology
-	Developer of novel therapeutics for the treatment of inflammatory and autoimmune disorders. The company\'s product is used for the treatment of rheumatoid arthritis, Crohn\'s disease, multiple sclerosis, lupus nephritis, mixed cryoglobulinemia, Wegener\'s granulomatosis and diabetes.
-	['', 'novel therapeutic', ' ', 'inflammatory disorder', ' ', 'autoimmune disorder', ' ', 'rheumatoid arthritis', ' ', 'multiple sclerosis', ' ', 'lupus nephritis', ' ', 'mixed cryoglobulinemia', '']
-Actimis Pharmaceuticals
-	Developer of small molecule therapeutics for respiratory, inflammatory and autoimmune diseases. The company offers its therapeutics for autoimmune diseases, such as asthma, chronic obstructive pulmonary disease (COPD), inflammatory dermatoses, inflammatory bowel disease and rheumatoid arthritis.
-	['', 'autoimmune disease treatment', ' ', 'inflammatory disease treatment', ' ', 'rheumatoid arthritis treatment', '']
-Immunex
-	Provider of biopharmaceutical drug discovery. The company is focused on immune-system research, in the disciplines of immunology, cytokine biology, vascular biology, antibody-based therapeutics and small-molecule research. It works to develop new therapeutics for rheumatoid arthritis, asthma and other inflammatory diseases, as well as cancer and cardiovascular diseases.
-	['', 'antibody therapeutics', ' ', 'vascular science', ' ', 'rheumatoid arthritis', ' asthma ', 'cardiovascular therapy', '']
-Cornerstone Therapeutics
-	Developer and distributor of products for respiratory, inflammatory and critical care diseases. The company focuses on the discovery, development and commercialization of products designed to treat asthma and critical care diseases through the regulation of the body’s inflammatory response.
-	['', 'critical care disease', ' ', 'body inflammatory', ' ', 'chronic disease', ' ', 'respiratory disease', '']
-Allostera Pharma
-	The company also developes allosteramers for inflammation and autoimmune diseases. The company\'s lead products target the insulin-like growth factor-1 receptor (IGF-1R)for cancer.
-	['', 'inflammation disease', ' ', 'autoimmune disease', '']
+Gazoontite
+	Provider of household products. The company provides products that help reduce asthma problems, allergies and respiratory problems. The company\'s products include anti-allergen and hypoallergenic bedding, air purifiers, vacuum cleaners, bath and beauty products, toys, dust control products, odor control products and asthma management products.
+	['', 'household products', ' hypoallergenic ', 'cleaning product', '']
+BeautyCom
+	Provider of a platform which offers its customers beauty products & helps them to discover the products of different brands before buying. The company offers its subscribers a beauty magazine, JolieMag and are invited to the parties, JoliApéros.
+	['', 'beauty product', ' ', 'online product shopping', ' ', 'beauty magazine', '']
+Total Beauty Media
+	Operator of a website that publishes a catalog of beauty products online for women. The company’s portal provides information about face, makeup, hair, and body products, such as anti-aging, foundations, mascaras, moisturizers, shampoos, sunless lotions, and conditioners. It also hosts events for fashion and beauty brands.
+	['', 'beauty product', ' ', 'product review', ' ', 'online beauty portal', ' ', 'beauty product catalogue', ' ', 'fashion brand', '']
+105 LOOKS
+	Provider of a beauty-product website. The company offers a video-centric website that contains information related to fashion.
+	['', 'beauty product', ' ', 'fashion information', ' ', 'beauty content', '']
+MyNines
+	Aggregator of private-sales websites. The company provides a platform that aggregates limited-time deals on discounted sample products, enabling customers to visit just one site for multiple retailers. The company offers shopping opportunities in men\'s and women\'s fashion, jewelry and accessories, beauty, wines, travel and sports gear.
+	['', 'sample sales', ' ', 'sample search', ' ', 'online product', ' cloth']

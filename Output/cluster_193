@@ -1,45 +1,15 @@
-LCL Logistix
-	Provider of logistics and supply-chain solutions. The company provides integrated, end-to-end shipping logistics services to customers around the globe. They utilize business-owned assets like Container Freight Stations, trucks, other equipment and warehouses to accomplish this.
-	['', 'shipping logistics', ' ', 'supply chain logistics', ' ', 'integrated shipping', ' ', 'end-to-end logistics', '']
-Microposite
-	Manufacturer of siding for buildings. The company offers siding and outside seal products and boards for the building industry. The company sells its products through dealers, building material suppliers and building product distributors
-	['', 'sealing products', ' ', 'building materials', ' ', 'construction materials', '']
-LuxN
-	Developer multi-service, optical access network platforms. The company provides end-to-end optical networking products for metropolitan service providers therby enabling delivery of high bandwidth video, data, storage and voice services.
-	['', 'optical networking', ' ', 'optical access', ' ', 'network platforms', ' ', 'data delivery', '']
-Instytut Rozwoju Reklamy
-	Provider of marketing services. The company operates as a full service advertising agency developing internet media campaigns and interactive advertisements for business organizations.
-	['', 'interactive advertisement', ' ', 'internet media campaigns', ' ', 'media campaigns', '']
-Clickmarks
-	Provider of technology solutions for development of e-business applications and web services. The company provides end-to-end solutions for enterprises and wireless carriers seeking instant aggregation, personalization and mobilization of content, business processes and applications like workflow automation, portal integration, mobilization, and decision support solutions.
-	['', 'e-business applications', ' portlets ', 'integration technology', ' ', 'workflow automation', ' ', 'portal integration', ' ', 'web services', '']
-Q1 Carrier
-	Developer and distributor of telecommunications services. The company specializes in customized applications for businesses seeking to optimize internal processes and operational cost structures.
-	['', 'telecommunication service', ' ', 'customized application', ' ', 'value added service', '']
-Castleton Technology
-	Provider of IT infrastructure, data centres and smart building services. The company provides end-to-end telecommunications and IT services for business organizations.
-	['', 'business infrastructure', ' ', 'IT infrastructure', ' ', 'data centres', '']
-Grantium
-	Provider of the grants management software platform for government agencies and granting organizations. The company provides the software that helps in off-the-shelf end-to-end enterprise grants management between organization.
-	['', 'grant management software', ' ', 'automate grant', ' ', 'virtual world', '']
-AD PathLabs
-	Provider of infrastructure and technical services to the anatomic pathology community.
-	['', 'anatomic pathology', ' ', 'pathology infrastructure', ' ', 'pathology technology', '']
-CoTraveller
-	Developer of wireless applications. The company develops and implements end-to-end wireless applications.
-	['', 'wireless application', ' ', 'wireless technology application', ' ', 'application platform', '']
-Impulse Telecom
-	Provider of telecommunications services. The company provides local and long distance phone services and flat rate long-distance services.
-	['', 'telecommunications services', '']
-TransNet International
-	Provider of telecommunication reselling services. The company purchases telecommunications services from another telecommunications service provider and then resells, uses as a component part of or integrates the purchased services into a mobile telecommunications service.
-	['', 'telecom reseller', ' telecommunication ', 'retail outlet', '']
-Branded Payment Solutions
-	Provider of transaction processing services. The company provides a back-end transaction processing platform for retailers in Europe.
-	['', 'transaction processing', ' ', 'retail integration', ' ', 'prepaid transaction', '']
-Omniyat
-	Provider of construction, real estate and property building services. The company provides construction and building services for commercial and residential buildings and properties in Dubai.
-	['', 'construction service', ' ', 'property development', ' ', 'building service', '']
-Network Solutions (Bangalore)
-	Provider of information technology (IT) infrastructure solutions, software and services for enterprise customers. The company offers NOC Inside, an IT Infrastructure management service for managing end to end IT infrastructure and Desktop Manager, a web based application that allows system administrators to auto discover, monitor and report software and hardware inventory.
-	['', 'information technology', ' ', 'infrastructure solution', ' ', 'web based application', '']
+Metal Supermarkets
+	Supplier of small quantity metals.  The company supplies such metals as: alloy bar, aluminum, cold rolled steel, stainless, brass and copper.  The company was founded and ins headquartered in Canada, but also franchises out smaller branches in the UK and US.
+	['', 'Alloy Bar', '\\r\\n', 'Aluminum', '\\r\\n', 'Cold Rolled Steel', '\\r\\n', 'Hot Rolled Steel', '\\r\\n', 'Stainless', '\\r\\n', 'Brass', '\\r\\n', 'Copper', '\\r\\n', 'Tool Steel', '']
+Industrial Tooling & Fabrication
+	Supplier of heavy-gauge steel components and assemblies. The company offers tool and die and machining services. Its products are used in the construction and agriculture industries.
+	['steel ', 'heavy-gauge', ' ', 'machining service', ' ', 'industrial machinery', ' metalwork']
+Columbia Pacific Aluminum
+	Provider of aluminum-casting services. The company operates an aluminum-extrusion operation, with plants in  Modesto, Watsonville and City of Industry in the U.S. state of California.
+	['', 'metal casting', ' ', 'aluminum extrusion', ' ', 'aluminum casting', '']
+Remi Claeys Aluminium
+	Producer of semi-finished aluminum products. The company produces high-frequency welded tubes made of aluminum that are used for various purposes such as gardening tools, cycle frames, furniture, and telescopic handles. The company also produces precision welded tools which are used in radiators and air-conditioners.
+	['', 'aluminum products', ' ', 'aluminum frames', ' ', 'welded tools', ' ', 'aluminum tools', '']
+ALUmonte Technologiefortschritt in Aluminium
+	Operator of aluminum melting plants. The company processes its alloys and aluminum scrap through an oxidation and salt-free melting process that removes miscellaneous impurities.
+	['', 'oxidation-free remelting', ' ', 'miscellaneous impurity', ' ', 'aluminum-melting plant', ' ', 'clean aluminum', ' metallurgy']

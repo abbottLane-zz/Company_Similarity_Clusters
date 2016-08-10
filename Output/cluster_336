@@ -1,12 +1,24 @@
-Pantresse
-	Manufacturer of hair care products. The company produces and sells shampoos, conditioners, hair sprays and related products mainly throughout the US and Mexico.
-	['', 'hair care', ' shampoo conditioner']
-Cambridge Bioclinical
-	Developer of treatments for common skin and hair disorders. The company develops therapies for hair loss, psoriasis, acne, eczema and other dermatological disorders. It is generating new technologies based on work done at the University of Cambridge. It has an assay for hair growth stimulants and is investigating new compounds for the treatment of male-pattern baldness.
-	['', 'hair therapy', ' ', 'skin therapy', ' ', 'hair disorder', ' ', 'hair growth', ' ', 'growth stimulant', ' baldness haircare skincare']
-Auris Medical
-	Developer of therapies for the treatment of inner ear disorders. The company focuses on the development of treatments for acute inner ear tinnitus (AM-101) and for acute inner ear hearing loss (AM-111) by way of intratympanic injection with biocompatible gel formulations.
-	['', 'ear treatment', ' ', 'inner ear disorder', ' ', 'ear tinnitus', ' ', 'hearing loss', '']
-Valocor Therapeutics
-	Developer of therapies to treat dermatological diseases. The company focuses on moderate to severe acne, acne and oily skin, atopic dermatitis, and viltiligo areas.
-	['dermatology ', 'skin treatment', ' ', 'skin therapy', ' ', 'acne treatment', ' ', 'atopic dermatistis', ' ', 'oily skin treatment', '']
+Callipso
+	Provider of Voice over Internet Protocol (VoIP) services through its private fiber-optic network. The company offers wholesale origination and termination services, as well as flat-rate long-distance services. It also offers a back office monitoring system that allows clients to track and monitor call traffic through a Web-based interface and computer applications that provide users with teleconferencing, call monitoring and real-time billing services.
+	['', 'internet protocol', ' ', 'fiber optic network', ' ', 'termination service', ' ', 'call monitoring', '']
+Photonics Applications
+	Manufacturer of fiber-optic transmission technology for cable and wireless communications networks. The company also provide design, development and consulting services in fiber-optic transmission technology systems.
+	['', 'fiber-optic transmission', ' ', 'wireless communication', ' technology']
+Global Metro Networks
+	Provider of building and fiber optic communications networks in metropolitan commerce centers in the United States and internationally. The company\'s bandwidth communications infrastructure connects various telecommunication-intensive locations, such as local switching offices, carrier points-of-presence, ISPs, commercial buildings and high technology office parks.
+	['', 'fiber optic communication', ' ', 'fiber optic cable', ' ', 'fiber optic network', '']
+Xtend Networks
+	Provider of hybrid fiber-coaxial network system that helps expand the existing bandwidth by up to 3 GHz.
+	['', 'fiber-coaxial systems', ' ', 'network systems', ' ', 'band-width', '']
+Omnia Communications
+	Manufacturer of integrated voice and data access multiplexers. The company transport solutions to deliver data efficiently over fiber optic networks.
+	['', 'access multiplexers', ' ', 'integrated voice', ' ', 'fiber optic', ' network']
+FTTH Communications
+	Provider of facilities-based fiber optic network. The company provides video, telephone and ultra high-speed internet services to residential customers.
+	['', 'fiber optic network', ' ', 'facility network', ' ', 'optic network', '']
+Positron Fiber Systems
+	Manufacturer of telecommunication equipments. The company develops fiber-optic multiplexers for the telecommunication industry.
+	['', 'fiber-optic multiplexers', ' ', 'broadband access', ' ', 'telecommunication carriers', '']
+FASMA Technologies
+	Developer of a single-laser system for data transfer sector. The company has developed a single-laser system that compresses a large amount of computer data into one fiber optic with the help of multiple colors.
+	['', 'data transfer', ' ', 'single laser system', ' ', 'data compression', ' ', 'fiber optic', '']

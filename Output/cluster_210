@@ -1,33 +1,60 @@
-WedSnap
-	Developer of Web applications to wedding consultants and Website developers. The company offers tools that allow wedding consultants and Website developers to engage with brides.
-	['', 'web application', ' ', 'wedding consultant', ' ', 'website developer', '']
-WebPutty
-	Developer of e-business, internet and mobile application products. The company offers a platform for the composition and dynamic execution of server-based web applications that enables businesses to change and extend their business systems in a secure and controlled way.
-	['', 'server software', ' ', 'server-based applications', ' ', 'mobile application software', '']
-Quisic
-	Provider of products and services which helps businesses train employees. The company engages in designing and developing online products to help professionals and businesses train their employees.
-	['e-learning ', 'training tools', ' ', 'employee training', ' ', 'educational programs', ' ', 'educational software', ' ', 'educational tools', '']
-TradeSync
-	Provider of services to automate B2B processes within and across companies. The company provides mobile application and Software as a service, which don\'t replace their existing business software systems but extend their functionalities to connect to those of customers or vendors.
-	['', 'Electronic Invoice Management', ' ', 'internet commerce', ' ', 'social productivity', ' ', 'accounting service', '']
-Felix
-	Provider of pay per call ad service. The company provides service that helps businesses synchronize their listings across the Web.
-	['', 'pay per call', ' ', 'synchronized business listing', ' ', 'web business listing', '']
-Enroute
-	Developer of of parcel-shipping management software. The company makes a web-based software platform that helps businesses choose the cheapest and fastest delivery service—international, national or regional carriers to ship their packages.
-	['', 'parcel-shipping management', ' ', 'logistic software', ' ', 'software platform', ' ', 'package delivery software', '']
-Perceptual Networks
-	Developer of social mobile and web applications. The company is a developer of social mobile and web applications which helps users to connect with their community, friends, co-workers and life partner.
-	['', 'consumer web application', ' ', 'people finding platform', ' ', 'people search', '']
-280 North
-	Developer of web applications. The company provides web browser to create presentations, source project that allows users to deliver desktop-class applications on the web.
-	['', 'web application', ' ', 'web browser', ' ', 'desktop application', '']
-Flowtown
-	Developer of web applications which helps businesses to connect customers.
-	['', 'social discovery', ' ', 'social media marketing', '']
-Oddpost
-	Developer of web-based communications applications that look and feel like desktop programs. The company is also building products focused on the emergence and acceptance of the open RSS standard as a means of publishing online content.
-	['', 'communication application', ' ', 'online publishing content', ' ', 'web-based email', ' ', 'news service', '']
-FireTower.app
-	Developer of web applications. The company provides a platform that allows developers to find javascript errors in their websites.
-	['', 'web application', ' ', 'javascript error search', ' ', 'online application platform', '']
+Advanced DX
+	Provider of testing equipment and personnel for diagnosis of clinical conditions including diabetic retinopathy, neuropathies and peripheral vascular disease. The company gives primary care physicians the ability to diagnose these conditions so they can keep patients in house and generate revenue from diagnostic procedures.
+	['', 'testing equipment', ' ', 'testing personnel', ' ', 'primary care', '']
+Amadesa
+	Provider of website multivariate testing and customer targeting solutions to improve online conversions and engagement. The company’s solutions contain various application modules for A/B and multivariate testing, segment testing, automated personal testing, product recommendations, forms and shopping cart optimization and personalization.
+	['', 'customer targeting solution', ' ', 'segment testing', ' ', 'software-as-a-service', '']
+Compass Quality Insight
+	Developer of a software quality assurance platform. The company\'s testing product, Compass Profiler, provides testers with analytics to prioritize testing effort by identifying exactly what has changed in a web application, how it might interact with other parts of the software, and the location of potential testing gaps that may allow bugs to slip through.
+	['', 'internet application', ' ', 'infrastructure software tool', ' ', 'web application', ' ', 'testing application', ' ', 'quality software', ' ', 'testing software', ' ', 'quality testing', '']
+Qronus Interactive Israel
+	Provider of automated system testing software products. The company provides automated system testing tools for complex software and hardware configurations with embedded processors. It engages in the research, development, manufacturing and marketing of automated software quality products for non-standard platforms, embedded systems and real time computer systems. The company was spun out of Mercury Interactive.
+	['', 'software testing', ' ', 'testing tools', ' ', 'testing solution', '']
+Appurify
+	Provider of performance-optimization testing for mobile applications. The company’s platform enables software developers to test their applications on iOS and Android devices under real user conditions. It also provides debugging and optimization tools, actionable test outputs, scriptless tests and framework tests.
+	['', 'optimization platform', ' ', 'testing platform', ' ', 'debugging application', '']
+Wireless Info Tech
+	Provider of testing and compliance certification services. The company offers global field testing services, such as voice call services in mixed and marginal signal areas; data services; and CDG3 services, including system acquisition, SMS, calling features, handoff, and DTMF tests. It also provides manufacturing and production software and applications testing and development services; wireless reference design services, including form factor and production ready services; and product testing services.
+	['', 'testing and compliance certification service', ' ', 'global field testing service', ' ', 'applications testing', ' ', 'manufacturing and production software', ' ', 'wireless reference design service', ' ', 'product testing service', '']
+Marine Cybernetics
+	Provider of independent hardware-in-the-loop testing of control systems on ships and offshore installations. The company provides thrust capacity analysis for various weather conditions, thrust failures, thrust locations and thrust vendors.
+	['', 'hardware testing', ' ', 'offshore installation', ' ', 'control system', '']
+Evertale
+	Developer of mobile applications. The company provides an application that automatically logs user\'s activities through mobile devices and creates a scrapbook.
+	['', 'user activity', ' ', 'scrapbook application', ' ', 'social application', '']
+Sogeti
+	Provider of technology and software testing services. The company provides software control testing, applications management, infrastructure management, high technology engineering/global engineering, business intelligence and analytics, mobile/Omni-channel, security and cloud services.
+	['', 'software testing', ' ', 'software control testing', ' ', 'application management', '']
+Amira Medical
+	Manufacturer of medical testing devices. The company\'s equipment is designed to facilitate testing of blood glucose levels for people with diabetes.
+	['', 'medical testing', ' ', 'blood glucose', ' diabetes']
+RotaryView
+	Developer of mobile applications for e-commerce websites. The company enables the users to shoot, upload and post high quality 360 degree views in under five minutes using RotaryView\'s free mobile app or any digital camera, compared to purchasing expensive industry equipment.
+	['', 'mobile apps', ' ', 'software support services', '']
+RelQ Software
+	Provider of softrware testing services. The company offers real-time and embedded applications testing, including mission critical software testing, for clients looking to deploy applications across the enterprise.
+	['', 'functional testing', ' ', 'competitive advantage', ' ', 'business applications', '']
+Alminder
+	Developer of mobile based applications. The company is focused on developing an intelligent mobile calendar application for iPhones and other iOS devices.
+	['', 'contextual calendar', ' ', 'smart calendar', ' ', 'time management', '']
+Maxymiser
+	Provider of multivariate testing and personalization. The company provides online business to turn every interaction into an experience with its cloud-based testing, personalization and cross channel optimization. It combines online testing and automated personalization into a single platform to help marketers to launch campaigns.
+	['', 'B2B Service', ' ', 'testing and personalization', ' ', 'customer experience optimization', '']
+Cozart
+	Developer of hand-held device using saliva samples for drugs of abuse testing. The company was a supplier to the home office for police, prison and customs and excise applications.
+	['', 'hand-held device', ' ', 'abuse testing', ' ', 'drug testing', '']
+Mu Dynamics
+	Provider of proactive service assurance services for service providers, cable and network operators, government agencies and network product vendors to eliminate service downtime. The company offers Service Analyzer, an analyzer and service assurance platform that embodies a process to identify weaknesses in various IP-based applications or networks and generates remediation information to assist in resolving the discovered issues and verifying the efficacy of proposed fixes through an on-board regression database.
+	['', 'testing application', ' ', 'security testing', ' ', 'inspection system', ' ', 'cloud application testing', '']
+BLGG Group
+	Developer of agribusiness testing products. The company specializes in testing, sampling, and consulting services focusing on fertilizing, crop residue, soil health, and nutritional levels. The company focuses on a micro level analysis, analyzing mineral content of the soil.
+	['', 'crop testing', ', ', 'agriculture testing', ', ', 'soil health', ', ', 'crops', '']
+Splitforce
+	Developer of mobile testing applications. The company provides A/B testing for mobile applications and games.
+	['', 'mobile analytics', ' ', 'A/B testing', ' ', 'mobile testing application', '']
+Catapult Genetics
+	Developer and provider of a Deoxyribonucleic Acid (DNA) testing services. The company provides commercializes livestock Deoxyribonucleic Acid (DNA) tests to improve meat production and quality to increase production efficiency both on-farm and in the value chain for global livestock and aquaculture industries.
+	['', 'genetic testing', ' ', 'livestock testing', ' ', 'commercial breeder', '']
+Replay Solutions
+	Developer of software technologies to record and reproduce bugs in applications and servers. The company offers ReplayDIRECTOR, an application that records inputs and events affecting software while it is running, and provides the ability to replay what happened for finding and fixing bugs in the development, test, and production environments; and ReplayDIRECTOR for Java EE, which is a software tool to help Java application teams to develop and manage their applications. It serves financial services organizations, manufacturing companies, SAAS providers, and gaming companies.
+	['', 'bug fixing', ' ', 'server monitoring', ' ', 'server security', ' ', 'java application', ' ', 'application testing', ' ', 'software testing', ' ', 'application management', '']

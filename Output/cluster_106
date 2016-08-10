@@ -1,39 +1,12 @@
-Prepay Technologies
-	Designer of stored-value card solutions. The company provides clients with integrated portfolio of prepaid services. The company\'s solution includes prepaid debit cards, retail gift cards, corporate incentive cards, prepaid payroll cards, insurance claim cards etc.
-	['', 'debit cards', ' ', 'prepaid services', ' ', 'stored-value card solutions', '']
-dedendo
-	Provider of online access to pharmacy shops and medical stores. The company offers its customers direct access to their local pharmacy online.
-	['', 'online medicine purchase', ' ', 'local pharmacy', ' ', 'internet retail', '']
-Vivaro
-	Seller of prepaid phone cards. The company sells through proprietary VoIP network and a direct-to-store retail distribution channel.
-	['', 'phone card', ' prepaid VoIP']
-RapidMoney
-	Provider of online financial services. The company provides an online platform for multiple transfer services, including money, bank wire, international and Western Union. The company also is a provider of consumer-loan services.
-	['', 'consumer finance', ' ', 'money transfer', ' lending']
-DBS Communications
-	Provider of prepaid wireless services nationally. The company uses its proprietary technology platform to create distinctive prepaid products across wireless carrier networks and handset technologies. The company creates products for a defined distribution channel and works with its business partners to enable wireless programs for select distribution channels and market segments.
-	['', 'mobile virtual network operators', ' ', 'wireless communication', '']
-Wipit
-	Provider of mobile payments and financial services. The company enables underbanked consumers to use cash for payments on their mobile phone with an integrated prepaid card. It also provides financial services such as international money transfer, mobile check deposit, bill payment and prepaid wireless replenishment.
-	['', 'mobile payment', ' ', 'wireless telecom', ' ', 'prepaid stored value', '']
-Synaptic Systems
-	Provider of software services for financial advisers. The company provides detailed information across the total marketplace of financial products. It\'s fund clarity enables users to research and select products on internet.
-	['', 'financial advisers', ' ', 'financial services', ' ', 'Product Manager', ' ', 'software solution', ' ', 'fund clarity', '']
-LibertadCard
-	Provider of prepaid debit and remit cards for immigrants living and working in the United States. The company offers 24/7 Card which provides worldwide network of products and benefits such as reloadable debit cards, access to global remittance capabilities and make purchases online and at retail outlets.
-	['', 'prepaid debit', ' ', 'remit cards', ' ', 'reloadable debit cards', '']
-Green Dot
-	Provider of prepaid financial services. The company offers consumers financial products and services through retailer locations including Walmart, Walgreens, CVS/pharmacy. It offers general purpose re-loadable prepaid debit cards, and cash loading and transfer services.
-	['', 'money management solution', ' ', 'prepaid debit card', ' ', 'prepaid reload network', ' ', 'online shopping card', ' ', 'express bill Pay card', ' ', 'funds transfer network', ' ', 'real-time transaction', ' ', 'reloadable debit card', ' ', 'third-party payment', ' ', 'cash reloading network', '']
-Achieve Financial Services
-	Provider of marketing service for prepaid debit cards. The company markets and distributes general purpose reloadable (GPR) Visa debit cards that can be used for making purchases, direct deposits and paying bills online.
-	['', 'prepaid debit card', ' ', 'debit card marketing', ' ', 'financial service', '']
-Invesmart
-	Provider of retirement financial services. The company provides selection of independent investments and advice products with internet technology. The company enables employers and employees to invest so that they can retire right.
-	['', 'retirement financial services', ' ', 'independent investment', '  internet']
-SmartFlex
-	Provider of debit card programs and services. The company provides different kinds of financial services which involves the use of debit cards to customers.
-	['', 'debit card', ' ', 'financial services', '']
-WildCard Systems
-	Provider of electronic host based stored-value cards, virtual stored-value accounts, and internet payment products and services. The company develops software that creates and stores financial services information, similar to the technology that is used for prepaid phone cards, which stores information on available phone minutes and then registers a debit as the card is used.
-	['', 'electronic host', ' ', 'stored-value accounts', ' ', 'financial services', '']
+Roche NimbleGen
+	Manufacturer and marketer of a proprietary suite of microarrays, related products and services for DNA sequencing. The company is focused on research activities and manufacturing target-enrichment probe pools for DNA sequencing. The company\'s Maskless Array Synthesis (MAS) technology permits the company to develop and manufacture custom high density, highly reproducible DNA arrays, which improve the quality and data yield of DNA chips.
+	['', 'DNA chip', ' ', 'DNA array', ' ', 'reproducible DNA', ' microarray ', 'DNA sequencing', '']
+Ion Torrent Systems
+	Developer of a DNA sequencing system. The company\'s system enables a direct connection between chemical and digital information.
+	['', 'sequencing technology', ' ', 'digital information', ' ', 'DNA replication', '']
+Intelligent Bio-Systems
+	Developer of DNA sequencing systems.
+	['', 'DNA sequencing', ' ', 'sequencing system', ' ', 'genome sequencing', '']
+GenEncap
+	Developer of DNA sequencing technology. The company provides DNA sequence information to life scientists, clinicians and individuals based on a proprietary and parallel implementation of Sanger sequencing.
+	['sequencing ', 'sanger sequencing', ' ', 'sequencing technology', '']

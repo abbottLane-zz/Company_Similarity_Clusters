@@ -1,27 +1,18 @@
-Xaar
-	Developer of ink jet technologies.
-	['']
-Röntec
-	Developer of devices for X-ray elemental and structural analysis. The company offers x-ray spectrometers used for electron probe microanalysis. It also supplies spectrometer modules for ED-XRF, PIXE, XRD and other nuclear applications.
-	['X-ray Xray spectrometer ', 'electron beam microanalysis', '']
-Oxford Imaging Detectors
-	Developer of scientific imaging detectors. The company offers products for studying structures and processes at the atomic level. It offers instruments for electron microscopy, x-ray and machine vision.
-	['', 'imaging detectors', ' ', 'electron microscopy', ' x-ray']
-Ofidium
-	Developer of OFDM technologies. The company provides 100 Gigabits per second optical optical OFDM technologies which delivers increased bandwidth and reduced costs for telecommunications networks.
-	['', 'OFDM technology', ' ', 'communications infrastructure', ' ', 'communications network', ' ', 'optical fiber', '']
-SpectraFluidics
-	Provider of solutions for the field detection of trace levels of chemicals, explosives, illicit drugs, biomarkers, and other low volatility compounds at parts-per-trillion concentration levels. The company offers microfluidic chips for ultra trace sensitivity and molecular specificity of vapor-phase analytes. Its product applications include transportation security, breath diagnostics, drugs and narcotics detection, food safety and freshness, and explosives detection.
-	['', 'microfluidic chip', ' ', 'transportation security', ' ', 'breath diagnostic', ' ', 'drugs and narcotics detection', '']
-Bruker
-	Developer of scientific instruments and research systems. The company designs and manufactures life science and field analytical systems for chemical, biological, radiological, nuclear and explosives or CBRNE, detection in various industries and government applications. Its technology platforms include magnetic resonance technologies, mass spectrometry technologies, gas chromatography technologies, X-ray technologies, spark-optical emission spectroscopy, atomic force microscopy, stylus and optical metrology technology and infrared and Raman molecular spectroscopy technologies.
-	['']
-Archimedes Technology Group
-	Developer of systems for plasma ion separation. The company offers products which includes plasma mass filter and related technologies. The company tests new technologies that can speed weapons waste cleanup and opens new non-chemical approaches to commercial spent fuel reprocessing. It serves medical, semiconductor, and nuclear power industries.
-	['', 'plasma ion', ' ', 'plasma mass filter', ' ', 'waste cleanup', ' ', 'nuclear waste', '  ', 'fuel reprocessing', '']
-Mitam Biological Control
-	Developer of technologies for biological control of ticks. The company has a strategic partnership with a global player in the animal healthcare market and its product Metick is designed for the biological control of ticks.
-	['', 'animal healthcare', ' ', 'biological control', ' livestock']
-Activiomics
-	Developer of biomarker technology. The company has developed a suite of label-free mass spectrometry technologies enabling it to identify and quantify, directly from clinical samples, proteins and phosphoproteins that correlate with the progression of disease and/or the administration of drugs. The company is applying its technologies to the establishment of a pipeline of biomarker assets comprising the identified proteins and phosphoproteins along with their companion diagnostic antibody reagents. The company also partners with the pharmaceutical and biotechnology industry to provide drug profiling and drug mode of action information.
-	['', 'drug biomarkers', ' ', 'proprietory technology', ' oncology']
+Westwave Communications
+	Developer of software solutions. The company develops software solutions that enable Local Exchange Carriers (LECs), hardware vendors, and Independent Software Vendors (ISVs) to implement converged services quickly, at the lowest-cost entry point in the network, and with minimal operational impact. The company provides carriers with a smooth migration path and an adaptive, responsive network that speeds time to market and improves the bottom line.
+	['', 'electronic switches', ' ', 'telecommunications network solutions', ' ', 'hardware vendors', ' ', 'virtual switching technology', '\\n', 'media gateway', ' ', 'media servers', '']
+Threshold Networks
+	Provider of internet-enabled applications to enterprises and service providers. The company\'s products provide enterprises with enhanced network and application performance and improve bandwidth efficiencies by associating acceleration and security policies between the network and the applications.
+	['', 'internet enabled application', ' ', 'network applications', ' ', 'internet based applications', ' ', 'network management service', ' ', 'network management', '']
+Electronics Corporation of Israel Telecom
+	Provider of network management systems and lifecycle services. The company offers network solutions to other service providers, energy, transportation government and defense sectors. They provide Optimized Multi-Layer Transport platform, carrier class transport platforms, carrier Ethernet network and bandwidth management.
+	['', 'network solutions', ' ', 'network management', '']
+Extant
+	Provider of carrier transport, OSS interconnect, and clearinghouse solutions to integrated communications providers.
+	['', 'carrier transport', ' ', 'clearing house solution', ' ', 'operational system support', '']
+Visual Networks
+	Provider of network and application performance management solutions. The company’s products increase application and network availability, optimize the use of bandwidth and reduce operating costs across traditional and new IP-based infrastructures.
+	['VoIP ', 'Broadband IP solution', ' ', 'Private IP solution', ' ', 'Network management', '']
+SilverStorm Technologies
+	Provider of interconnect solutions for clustered computing. The company designs, manufactures and services a family of networking hardware and software products that improve cluster performance and scalability.
+	['', 'Clustered computing', ' ', 'network hardware', '  ', 'connectivity software solutions', ' ', 'Network solutions', '']

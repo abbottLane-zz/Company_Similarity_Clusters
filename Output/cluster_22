@@ -1,48 +1,42 @@
-Metreo
-	Provider of pricing optimization software. The company provides pricing optimization software that enables manufacturers and distributors to maximize profits from the sales of their goods and services.
-	['', 'pricing optimization', ' ', 'profit maximization', ' finance']
-QuiQom Systems
-	Provider of high-speed broadband services. The company develops technology that allows individual units to use the existing central antenna system in multifamily houses to obtain high-performance broadband and internet protocol televison.
-	['', 'high-speed broadband', ' ', 'central antenna system', ' ', 'broadband modem', '']
-B2
-	Provider of broadband services. The company provides Ethernet services, IP-telephony, Video-on-Demand and television services
-	['', 'broadband services', ' ', 'network technology', ' ', 'internet connection', '']
-Techgenia
-	Developer of Internet protocol (IP) devices. The company produces and markets appliances designed to help companies accelerate the implementation of IP services and to obtain a quicker return on investment.
-	['', 'IT technologies', ' ', 'skilled consultancy', ' ', 'IT services', '']
-Orchestream
-	Provider of service activation and performance management software to global telecommunications network operators. The company\'s product, Orchestream Service Activator, enables managers of large scale Internet protocol and broadband networks to automate the configuration tasks associated with network management and service activation.
-	['', 'performance management', ' ', 'global telecommunication', ' ', 'internet protocol', ' ', 'broadband network', '']
-mimoOn
-	Developer of LTE software for mobile devices and wireless infrastructure. The company offers physical layer and protocol stack for small cells and terminals, advanced scheduler for small cells, self-organizing network support and IP development in the areas of advanced PHY algorithms on multi-core SDR platforms. It provides complete porting, optimization and verification service, as well as a roadmap to future 3GPP releases.
-	['', 'mobile device', ' ', 'wireless infrastructure', ' ', 'LTE software', '']
-Flarion Technologies
-	Developer of orthogonal frequency division multiplex access (OFDMA) technology and FLASH-OFDM technology for mobile broadband Internet protocol (IP) services. The company makes radio-frequency base stations (RadioRouter) that enable mobile wireless carriers to offer high-speed data services to subscribers. It also licenses the FLASH-OFDM technology to facilitate the design of FLASH-OFDM enabled networks and computing devices, such as notebook PCs, handheld PCs, personal digital assistants, web tablets, and handsets.
-	['', 'broadband service', ' ', 'radio frequency station', ' ', 'FLASH-OFDM technology', ' ', 'wireless telecommunication product', '']
-Ping Communications
-	Provider of broadband gateways, VoIP adapters, fiber equipments and remote monitoring and management systems. The company develops electronic items that combines the functionality of the broadband modem and wireless router.
-	['', 'broadband gateways', ' ', 'fiber equipment', ' ', 'electronic item', ' ', 'wireless router', ' ', 'remote monitoring', '']
-ChanneLogics
-	Operator of software development company. The company designs bandwidth software for cable networks. The company provides solutions to cable service providers that enable them to optimize their systems by increasing the use of the total bandwidth.
-	['', 'bandwidth management software', ' ', 'cable network', ' real-time']
-Ortiva Wireless
-	Provider of video optimization software for mobile network operators (MNOs) and managed service providers (MSPs). The company offers mVOG, a mobile video optimization gateway that provides a mobile streaming solution for MNOs and MSPs; and iVOG, a video optimization platform designed for wireless operators to enhance the overall network efficiency and reduce bandwidth consumption.
-	['', 'video software', ' ', 'mobile operator', ' ', 'service provider', ' ', 'video optimization', '']
-Inteliquent
-	Provider of tandem interconnection services principally to carriers, including wireless, wireline, cable and broadband telephony companies. The company\'s services help carriers to exchange local and long distance traffic between their networks without using an ILEC tandem or establishing direct connections. It manages network capacity between its tandem switches and customers’ switches, which results in network quality and reduced call blocking.
-	['', 'tandem interconnection', ' ', 'wireless telephone', ' ', 'broadband telephony', ' ', 'call traffic', ' ', 'network traffic', ' ', 'ILEC tandem', ' ', 'direct connection', ' ', 'network capacity', ' ', 'tandem switch', ' ', 'call  blocking', '']
-Advanced Digital Internet
-	Provider of broadband internet access and internet protocol services. The company provides internet access service to apartment buildings, cooperatives and condominiums. Their focus is on residents of buildings with multiple dwelling units (MDUs).
-	['', 'broadband internet', ' ', 'internet access service', ' ', 'inter protocols', '']
-EXFO Service Assurance
-	Provider of open and extensible converged service assurance solutions for the service providers and enterprises of voice, video, data, and mobile services. The company also provides customization, design, installation, configuration, integration, operations, and educational services. It serves carriers, cable MSOs, managed service providers, large enterprises, and mobile operators.
-	['', 'mobile service', ' ', 'education service', ' ', 'management software', ' ', 'video content', '']
-Allot Communications
-	Provider of broadband-optimization services. The company provides Internet protocol (IP) service optimization for wireless and mobile broadband carriers, cable-service providers and enterprises.
-	['', 'broadband service', ' ', 'internet protocol service', ' ', 'optimization services', ' ', 'information technology services', '']
-Bitboys
-	Developer of graphics hardware Internet Protocol (IP) services for various wireless and embedded devices. The company provides managed services, cloud computing services, telecom consultation and digital marketing services.
-	['', 'graphics processor', ' ', 'mobile gaming', ' ', 'embedded device', '']
-Irish Broadband Internet Services
-	Provider of broadband internet access services in Ireland.
-	['', 'broadband access', ' bandwidth ', 'internet connectivity', '']
+Google DeepMind
+	Developer of artificial intelligence technologies. The company combines machine learning and systems neuroscience to build general-purpose learning algorithms. It\'s first commercial applications are in simulations, e-commerce and games.
+	['', 'artificial intelligence', ' ', 'machine learning', ' ', 'systems neuroscience', ' ', 'learning algorithm', '']
+Amrahp
+	Developer and manufacturer of instruments for analysis and quality control of particles based on the technology of neural networks and artificial intelligence. The company\'s product suite contains two automatic vision systems, BeadCheck 830 and MicroCheck.
+	['', 'artificial intelligence', ' ', 'image analysis', ' vision instruments']
+Pertinence
+	Provider of predictive, rules-based data-mining solutions. The company provides Enterprise Manufacturing Intelligence (EMI) software solutions and analytical solutions that enable manufacturers, operators, and maintenance organizations to meet their business goals while addressing inherent industry challenges and realizing unprecedented ROI.
+	['data ', 'enterprise manufacturing', ' ', 'artificial intelligence', ' ', 'analytical solution', '']
+GeoIQ
+	Provider of software tools for mapping caches of publicly available data tagged for use with geospatial information systems (GIS) technologies. The company provides location intelligence software.
+	['', 'mapping cache software', ' ', 'information systems', ' ', 'location intelligence software', '']
+BlueSpace Software
+	Provider of cross domain applications and electronic messaging. The company serves the defense and intelligence communities by enabling the widespread adoption of multi-level security applications to help achieve US information dominance.
+	['', 'cross domain application', ' ', 'defense services', ' ', 'electronic messaging', ' ', 'security applications', '']
+Armagent
+	Developer of a software platform for artificial intelligence. The company provides real-time interactive environments for training, education and simulation of complex situations. Its software tools are used for simulation of physics, game development and rendering real-time graphics.
+	['', 'Real-time simulation', ' ', 'Dynamic Path-finding', ' ', 'artificial intelligence', ' graphics']
+Perceptive Pixel
+	developer of multi-touch display interfaces and screens. The company\'s products are used in applications, such as information visualization and exploration, digital content creation and storyboarding and ideation, as well as geo-spatial, command and control. It serves markets, including medical imaging, broadcast, defense, energy exploration, business intelligence, geo-intelligence, industrial design, finance, museum exhibition and entertainment.
+	['', 'business intelligence', ' ', 'industrial design', ' ', 'geo intelligence', ' ', 'museum exhibition', ' ', 'industrial design', '']
+Kynogon
+	Developer of intelligence software for interactive applications. The company provides its services to various industries including gaming, defense and security, industrial, simulation and education.
+	['', 'Artificial Intelligence solutions', ' ', 'Artificial Intelligence software', ' Kynapse ', 'gaming software', ' ', 'defense software', '']
+QueryObject Systems
+	Developer and provider of business intelligence software solutions that enable business managers to make strategic decisions, leveraging existing corporate data. The company delivers its products to a variety of industries, including telecommunications, healthcare, and financial services.
+	['datamarts economy digital']
+Cognitive Match
+	Developer of software services that match individuals with content online and personalize their experience. The company provides relevant content on every impression, across computers, Mobile and Tablet platforms resulting in increased response to digital campaigns.
+	['', 'software solution', ' ', 'online content', ' ', 'artificial intelligence software', ' ', 'semantic technology', '']
+BetterFit Technologies
+	Developer of an artificial intelligence platform for personalized medicine to users. The company is committed to facilitating data-driven healthcare decisions for patients and providers.
+	['', 'artificial intelligence platform', ' ', 'personalized medicine', ' ', 'medical consultancy', '  ', 'prescription consultation', ' ', 'medication database', ' ', 'prescription database', ' ', 'prescription use', ' ', 'patient data', '']
+Predictive Edge
+	Provider of online retail technology services. The company\'s software platform makes product pricing easy and different to online retailers by applying advanced data mining and artificial intelligence techniques to large bodies of data.
+	['', 'data mining', ' ', 'social platform software', ' ', 'artificial intelligence technique', '']
+Open Channel Software
+	Publisher of software solutions from academic and research institutions. The company focuses on the need for a new mechanism to efficiently publish software from the university while allowing for the commercialization of the most promising programs. The company developed the idea of a separating the publishing entity from the commercialization process by creating a non-profit organization (Open Channel Foundation) devoted to publication and community building.
+	['', 'aerodynamics applications', ' ', 'artificial intelligence', ' ', 'economics applications', '']
+Spool
+	Provider of articles and videos to computer, tablet, and phone. The company\'s artificial intelligence and computer vision engine grabs articles, records video, and saves images.
+	['', 'artificial intelligence', ' ', 'computer engine', ' ', 'mobile device', ' ', 'content platform', ' ', 'video content', '']

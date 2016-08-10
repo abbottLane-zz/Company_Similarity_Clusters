@@ -1,30 +1,15 @@
-Money Workout
-	Operator of a mortgage and insurance price comparison website. The company purchases and generates mortgage enquiries that it matches with the available mortgage products in the market. It also offers related advisory services for consumers, lead generators and lenders.
-	['', 'insurance price', ' ', 'mortgage business', ' ', 'price comparison', '']
-Energy Response
-	Provider of advisory services that facilitates the buying and selling of energy. The company provides strategic advice relating to market development and reform, market access, transmission, distribution and retail issues, regulation issues, competition policy, governance arrangements, legislative and institutional arrangements and user participation issues.
-	['', 'electricity market', ' ', 'price risk management', ' ', 'network support', ' ', 'electricity distribution', '']
-The SLTN Group
-	Provider of consulting and advisory services for implementation, management and migration of issues in profit and non-profit organizations. The company along with its four divisions provides software and hardware solutions for eServer hardware platforms, financial advisors and software vendors for consolidation, virtualization, designing infrastructure for managed cloud services.
-	['BPO eServer ', 'advisory services', ' ', 'cloud services', '']
-HelloWallet
-	Provider of online financial advisory services. The company helps workers to manage their overall household finances by finding the money to boost their contributions to retirement savings and reduce debt.
-	['', 'financial advice', ' ', 'financial guidance', ' ', 'personal finance management', ' ', 'household finance', ' ', 'retirement saving', '']
-Digital Campaigns
-	Provider of information management and IP-enabled solutions for political, non-profit and special interest groups. The company offers database-driven information management solutions for campaign management and fundraising management. The company also provides strategic advisory services to the customers in getting advantage out of new digital technologies.
-	['ASP', 'information management', ' ', 'digital technologies', 'real-time ePhone', 'telephone-based campaign', '']
-Mygola
-	Provider of online trip advisory services. The company provides a travel planning service that helps users to create custom trip plans in minutes.
-	['', 'service platform', ' ', 'social travel', ' ', 'online travel planning', ' ', 'custom trip', '']
-Venture Farm
-	Provider of finance and advisory services. The company provides direct investments and execution assistance to entrepreneurs and early stage companies.
-	['', 'managed capital', ' ', 'advisory services', ' ', 'growth funding', '']
-Club Parafarmacia Online
-	Operator of an online store that provides para-pharmaceutical products. The company engages in providing cosmetics and healthcare product online. It also provides medical advisory services to its customers.
-	['', 'para-pharmaceutical product', ' ', 'medical advisory services', ' ', 'medical advice', ' ', 'cosmetic products', '']
-GoIndustry Dovebid
-	Provider of asset management Services. The company offers auction and valuation services relating to industrial equipment.
-	['', 'asset management', ' auction ', 'industrial equipment', ' valuation']
-USBX Advisory Services
-	Provider of investment advisory services to businesses. The company provides merger & acquisition advisory services, valuation services, institutional private placement and related strategic advisory services.
-	['', 'investment advisory', ' ', 'financial advisory', ' ', 'strategic advisory service', '']
+Ocean Films
+	Provider of financial services to the film industry. The company primarily engages in the production of films and documentaries.
+	['', 'movie producer', ' ', 'film producer', ' ', 'film production', ' ', 'movie production', ' documentary']
+Grupo Continental Producciones
+	Operator of television programs and cinemas. The company produces audiovisual and digital contents for TV films, advertisements and programs.
+	['', 'television production', ' advertisement ', 'TV show', '']
+Skyline Entertainment
+	Owner and operator of a television production house. The company produces fiction and non-fiction programmes.
+	['', 'television production', ' ', 'production house', ' ', 'cinema films', ' ', 'TV series', '']
+Ibisa Televisión
+	Operator of a media production house. The company is a creator of TV docudramas and documentaries. It oversees all phases of film production, from concept to script, shooting, post production and broadcasting.
+	['', 'television series', ' documentaries ', 'production and distribution', '']
+Infinia es
+	Provider of production and post-production services for the advertising, film and television markets.The company offers the industry sets, mobile post-production facilities and everything needed for the purpose of the production of any event or TV spot.
+	['', 'production services', ' ', 'post-production services', ' ', 'sets and facilities', ' ', 'film and television market', '']

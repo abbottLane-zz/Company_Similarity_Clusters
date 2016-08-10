@@ -1,39 +1,24 @@
-facilityboss
-	Developer of software for building owners and operators. The company develops various process optimizing applications for various industries including web based room or desk management and reservation, tracking software for the pharma industry, data capture application for business continuity management used in the financial sector. The company was spun out of Fraunhofer Institut SIT.
-	['', 'managing spaces', ' ', 'digital building', ' ', 'building space', ' ', 'space management', ' ', 'resource optimization', '']
-CipherActive
-	Developer of a software for video coding. The company develops and markets accelerated standard encryption systems enabling wide usage of cryptography in resource constrained environments.
-	['', 'video coding', ' accelerated ', 'standard encryption', '']
-Diffusion
-	Provider of multi-channel information delivery technology. The company develops intranet and extranet software for the targeted distribution of business critical information through different media.
-	['', 'intranet software', ' ', 'extranet software', ' ', 'multi-channel information', ' ', 'application software', '']
-VividLogic
-	Provider of Home Entertainment Software for HDTV and HD STB. The company\'s comprehensive software infrastructure and applications for HDTV cover the basic ATSC software stack, Cable Card software and the next generation OCAP software and related OCHD 2.0 software.
-	['', 'home entertainment', ' ', 'high definition TV', ' ', 'set top box', '']
-Yobble
-	Developer of a hybrid hardware/software technology for iPhone. The company is a mobile motion sensing platform for applications that need regular touch interfaces.
-	['', 'music game', ' ', 'motion control', ' ', 'air guitar', ' ', 'mobile motion', ' ', 'consumer electronic', '']
-Remedy Corporation
-	Developer of a software system and technology. The company develops a action request system and various applications software.
-	['', 'software system', ' ', 'request system', ' ', 'communication software', '']
-McCormack & Dodge
-	Provider of financial software. The company develops mainframe applications software.
-	['', 'mainframe application', ' ', 'mainframe software', ' ', 'financial platform', '']
-MindWeavers
-	Developer of software products to help people overcome dyslexia. The company develops and sells software-based products to optimize an individuals innate abilities relating to sensory and motor skills. The company spun out from the University of Oxford.
-	['', 'brain simulation', ' ', 'brain exercises', ' ', 'sensory skills', ' ', 'motor skills', ' ', 'computer games', ' ', 'language learning', ' ', 'software products', '']
-Pure Software
-	Developer of Software tool. The company provides software quality improvement products.
-	['', 'software tool', ' ', 'quality improvement', ' product']
-Dblur technology
-	Developer of software lens technology.The company develops software solutions mainly for camera manufacturers. The company also mobile phone camera vendors solution for the design of miniature cameras at lower cost.
-	['cellular digital medical camera']
-PushLife
-	Developer of software for the BlackBerry and Android Smartphones.
-	['', 'mobile software', ' ', 'blackberry software', ' ', 'android software', '']
-Sensinode
-	Developer of software technology for the Internet of things (IoT). The company develops commercial 6LoWPAN and related IPv6 technologies which enable physical sensing, tracking and identification with enterprise systems and the Internet. Its NanoStack, NanoRouter and NanoService software leads to low-power networks in wireless health, building automation, asset management and other applications.
-	['', 'wireless embedded system', ' ', 'embedded system', ' ', 'Wireless embedded', ' ', 'physical sensing', ' ', 'asset tracking', ' ', 'enterprise system', ' ', 'smart grid', ' ', 'internet of things', '']
-Explore Technologies
-	Manufacturer of interactive, talking globe known as Odyssey. The company is the maker of a globe which calculates latitude and longitude through a software technology called NearTouch. The globe is marketed as an educational product for children.
-	['', 'educational toy', ' ', 'learning toy', ' ', 'interactive products', ' globe']
+FreeDecision
+	Provider of web based credit decisions to shoppers, merchants, and financial institutions. The company\'s Instant Financing Solution allows customers, either consumers or small businesses, to apply for loans or other financing and receive an approval or rejection on-the-spot.
+	['', 'credit decisions', ' ', 'financing solutions', ' ', 'financing approval', ' Finance']
+High Mark Credit Information Services
+	Provider of credit risk information services. The company enables financial institutions to take credit decisions, deter concurrent borrowers and spot defaulters.
+	['', 'credit risk', ' ', 'credit decision', ' ', 'financial institution', '']
+Hangi Kredi
+	Operator of a credit portal where users can search and compare all credit products of banks and credit institutions and send online applications to them. The company offers an independent and impartial platform that brings together the creditors and borrowers. The company provides credit rates of banks and credit institutions, required conditions for such credits and an online application service to such credits on free of charge basis.
+	['', 'credit portal', ' ', 'credit institutions', ' borrowers creditors ', 'credit rates', '']
+CATS Software
+	Developer of specialist risk management software for financial institutions. The firm is a supplier of client/server software products for financial risk management. The products of the company are C-ATALYST and CARMA. C-ATALYST is integrated application of software products and tools used for financial risk management and CARMA is an application used for market and credit risk management.
+	['', 'financial software', '']
+LiveCapital
+	Provider of online small business financing. The company offers DecisionExpress product, which creates benefit through automating credit or lease decision processes and integrates workflow.
+	['', 'online financing', ' ', 'credit management', ' ', 'automatic credit', '']
+NetEconomy
+	Provider of enterprise risk management and anti-money laundering technologies. The company provides real-time technology products for enterprise risk monitoring, automating financial crime prevention and detection for financial institutions and telecom businesses worldwide.
+	['', 'risk monitoring', ' ', 'fraud solutions', ' ', 'anti-money laundering', ' ', 'enterprise risk monitoring', '']
+Gensar Holdings
+	Provider of electronic data capture and authorization services for financial institutions and sales agents. The company provides a processor of credit card transactions for retailers and other merchants.
+	['', 'data capture', ' ', 'authorization services', ' ', 'financial institutions', '']
+DPG Holdings
+	Provider of eco-friendly information and products over internet. The company is a provider of corporate credit information with value-added services such as credit ratings, bankruptcy probability analysis and alarm systems via the internet.
+	['', 'bankruptcy probability', ' ', 'information service', ' ', 'credit ratings', ' ', 'corporate credit information', '']

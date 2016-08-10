@@ -1,66 +1,18 @@
-Comarch
-	Provider of IT products for operational and business processes. The company provides CRM and business intelligence software to small and medium-sized enterprises sector.
-	['', 'banking and insurance', ' ', 'solutions and services', ' profitability']
-StackLead
-	Provider of automated sales research. The company provides financial business intelligence for developing sales leads. The company\'s platform pulls together data from multiple sources across the Web, including social media profiles that can be used for introductions and building connections.
-	['', 'data analytical service', ' algorithm ', 'public source', '']
-ProClarity
-	Provider of business intelligence software and solutions. The company offers an analytic application platform that allows companies to build custom analytic applications. Its software and solutions are used for decision support, data mining, balanced scorecards, and reporting from multiple data sources.
-	['', 'business intelligence software', ' ', 'analytic application platform', ' ', 'data mining', '']
-GeoIQ
-	Provider of software tools for mapping caches of publicly available data tagged for use with geospatial information systems (GIS) technologies. The company provides location intelligence software.
-	['', 'mapping cache software', ' ', 'information systems', ' ', 'location intelligence software', '']
-Opscape
-	Developer of business intelligence software. The company offers data visualization software that enables user to convert large data into visual representation.
-	['', 'key performance indicators', ' ', 'data visualization', ' ', 'data patterns', ' ', 'visualization software', '']
-Kentor
-	Provider of information technological consultancy services. The company provides computer system integration services and software products for application management, billing, business development, business intelligence, customer relationship management and quality assurance.
-	['', 'system integration', ' ', 'software development', ' ', 'it consultancy', '']
-Presstracking
-	Provider of a business intelligence tool for companies, institutions and professionals in communication. The company\'s tool provides the department responsible for the implementation of the actions to be gathering, compiling and analyzing diverse sources.
-	['', 'business intelligence tool', ' ', 'information gathering', ' ', 'data source analysis', ' ', 'data extraction', '']
-Aubay
-	Provider of information technology and business intelligence services. The company provides services to share and return information over multiple channels such as the Internet, call centers, SMS, as well as client server, departmental systems or more specialized areas such as Desktop Publishing. The company also provide services on infrastructure systems and networks to ensure the definition of architectures, systems administration, project integration and monitoring of operations.
-	['', 'business intelligence service', ' ', 'information management', ' ', 'multiple channel', ' ', 'departmental system', ' ', 'system administration', '']
-YaData
-	Provider of analytical software for marketers to micro-segment consumers. The company provides an automated business intelligence tool for self-discovery of customer micro-segments.
-	['', 'analytical software', ' ', 'micro-segment consumers', ' ', 'automated technology', ' ', 'self-discovery', ' ', 'business intelligence tool', '']
-YellowBrix
-	Provider of syndicated news content for portals and intranets. The company offers content analytics solutions that provide insight into market and business intelligence on companies, people, products, topics, brands.
-	['', 'syndicated news', ' ', 'news content analytic', ' ', 'content infrastructure service', '']
-Celequest
-	Provider of operational business intelligence solutions to enterprises. The company provides LAVA, a business intelligence solution that enables companies to provide up-to-the-time-minute business information to operational workers and empowers decision makers to spot emerging trends. It offers its solution as an appliance and as software-as-a-service.
-	['', 'operational business intelligence', ' ', 'financial performance management', ' ', 'inventory monitoring', ' ', 'risk mitigation', '']
-Perceptive Pixel
-	developer of multi-touch display interfaces and screens. The company\'s products are used in applications, such as information visualization and exploration, digital content creation and storyboarding and ideation, as well as geo-spatial, command and control. It serves markets, including medical imaging, broadcast, defense, energy exploration, business intelligence, geo-intelligence, industrial design, finance, museum exhibition and entertainment.
-	['', 'business intelligence', ' ', 'industrial design', ' ', 'geo intelligence', ' ', 'museum exhibition', ' ', 'industrial design', '']
-Kynogon
-	Developer of intelligence software for interactive applications. The company provides its services to various industries including gaming, defense and security, industrial, simulation and education.
-	['', 'Artificial Intelligence solutions', ' ', 'Artificial Intelligence software', ' Kynapse ', 'gaming software', ' ', 'defense software', '']
-Anodyne Health
-	Provider of revenue cycle management software for healthcare providers. The company provides business intelligence software and outsourced billing services to large provider groups and hospital-based physician practices.
-	['', 'revenue cycle management', ' ', 'revenue cycle', ' ', 'revenue management software', ' ', 'hospital billing', '']
-QueryObject Systems
-	Developer and provider of business intelligence software solutions that enable business managers to make strategic decisions, leveraging existing corporate data. The company delivers its products to a variety of industries, including telecommunications, healthcare, and financial services.
-	['datamarts economy digital']
-Spikes Cavell & Co
-	Provider of business intelligence, online tools and analytical insight to decision makers in the public sectors and higher education institutions. The company\'s supply management, payment recovery and advanced analytics experts deliver a range of data driven professional services to its customers.
-	['', 'online database', ' ', 'data analytic', ' ', 'decision making', '']
-Sharp Analytics
-	Provider of business intelligence technology. The company is the developer of a proprietary marketing dashboard technology, SharpView, designed to provide Fortune 500 marketers and their agencies offline-to-online campaign insights. The company\'s platform uses embedded optimization and modeling to identify key insights within data and to integrate campaign results from disparate systems, analyzing the information against pre-defined campaign goals.
-	['', 'business intelligence', ' ', 'marketing dashboard', '']
-Maximal
-	Provider of business intelligence services that enable organizations to discover the knowledge hidden in their data warehouses, gaining competitive edge.
-	['knowledge ', 'business intelligence', ' ', 'data warehouse', '']
-Balanced Insight
-	Provider of business intelligence and information management software and services. The company develops an enterprise software platform that assists customers in establishing a cost-effective platform for delivering enterprise business intelligence and performance management services.
-	['', 'cost effective platform', ' ', 'project budgets', ' ', 'performance management', '']
-LucidEra
-	Developer of business intelligence software solutions for sales management. The company offers LucidEra Enterprise, which integrates sales, marketing, and financial data, as well as tracks pipeline performances; LucidEra for Salesforce.com, which is used to accelerate sales cycles; and LucidEra for Oracle Applications, a reporting and analysis application for Oracle E-Business Suite Order Management. It also provides LucidEra Lead Insight, an on-demand application that contains prebuilt metrics focused on quality and performance of marketing leads.
-	['', 'business intelligence', ' ', 'order management', ' ', 'sales management', '']
-GOCO Company
-	Provider of management information systems. The company offers management information, knowledge management and e-learning services for government enterprises.
-	['', 'e-government solution', ' ', 'knowledge management', ' ', 'e-learning services', ' ', 'management information systems', ' MIS']
-Crystal Decisions
-	Provider of a business intelligence software. The company provides business intelligence software and services that enable the use and management of information within and among organizations.
-	['', 'software platform', ' ', 'software service', ' ', 'business service', '']
+Adept Cloud
+	Provider of cloud-based file-sharing and collaboration services. The company is the provider of a cloud-managed, private collaboration service, designed to enable security, control and privacy for enterprise communications on multiple devices.
+	['', 'cloud-managed service', ' ', 'collaboration service', ' ', 'internal collaboration', ' ', 'collaboration software', ' ', 'file sharing', ' ', 'file-sharing', '']
+SugarSync
+	Provider of cloud file sharing, online Backup & file sync service. The company provides services such as data sync, file sharing and online backup system through its business software for busy professionals and digitally-connected consumers.
+	['', 'business service', ' ', 'online backup', ' ', 'folder sharing', '']
+Found Software
+	Provider of a file-sharing and collaboration platform. The company allows users to search for, find and discover their files, documents and data across devices and cloud services.
+	['', 'file sharing', ' ', 'data search', ' ', 'file discovery', ' ', 'data collaboration', '']
+Lasso Logic
+	Provider of data protection software. The company\'s product CDP includes local and off site backup, file sharing, recovery features and administration for desktops, mobile PCs and servers.
+	['', 'data protection software', ' ', 'file sharing platform', ' ', 'data recovery', '']
+HipChat
+	Provider of internal communication and messaging services. The company provides messaging services designed for businesses, law firms, student groups and non-profits organizations. Its services include internal communication with chat rooms and file sharing and sending and receiving messages through SMS on various phones, desktop, Web browser, i-Phone and androids.
+	['', 'messaging service', ' ', 'file sharing', ' ', 'chat room', ' ', 'data sharing', ' messaging SMS']
+Dispatch
+	Provider of cloud based data management services. The company provides cloud-based file sharing services. It also offers group email addresses for the projects.
+	['', 'cloud sharing movement', ' ', 'cloud sharing management', ' ', 'cloud file sharing', ' ', 'file sharing', '']

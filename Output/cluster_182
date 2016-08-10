@@ -1,36 +1,39 @@
-NowMedia
-	Provider of an online platform for live video streaming of events. The company engages in developing an integrated broadcast media network in order to build location-centric mobile communities with live interactive content.
-	['', 'online platform', ' ', 'live video streaming', ' ', 'broadcast media network', ' ', '3G phones', ' ', 'mobile communities', ' ', 'live interactive content', '']
-Ahortech
-	Provider of automatic traffic control services. The company also provides a wireless live video streaming transmission system for public and business sectors.
-	['', 'automatic traffic control', ' ', 'video streaming', ' ', 'transmission system', '']
-Last Second Tickets
-	Provider of online ticket selling services. The company provides services that help promoters to target mobile phone users with unsold tickets for UK live events, working directly with promoters, producers and venues to secure substantial discounts and prizes, for events, gigs, festivals, clubs, theater, comedy, cinema and sports.
-	['promoter ', 'ticket selling service', ' ', 'live event', '']
-Floobs
-	Developer of a live video streaming platform. The company supports live video streaming from web cameras and digital video cameras.
-	['', 'video streaming', ' ', 'live events', ' ', 'online sharing', '']
-CFDT
-	Organizer of live music events. The company organizes and promotes concerts and festivals in the U.K. and Europe.
-	['', 'dance festival', ' ', 'music event', ' ', 'music competition', ' ', 'live concert', ' ', 'pop music', '']
-Lively
-	Provider of a mobile platform that allows music fans to download live recordings. The company\'s platform bring artists and fans together by capturing the live performance and encouraging people to live in the moment.
-	['', 'video recording', ' ', 'live performance recording', ' ', 'music platform', ' ', 'live performance', '']
-Challi Productions
-	Provider of promotional services for live events. The company provides promotional services for the music and entertainment sectors.
-	['', 'live music', ' ', 'entertainment businesses', ' ', 'promotional service', '']
-NetPodium
-	Provider of software and services for hosting live, interactive Web events. The company\'s technology and event hosting service helped companies to involve global audiences in sales training, product launches, press conferences, technical briefings and customer seminars.
-	['', 'web hosting', ' ', 'sales training', ' ', 'product launch', '']
-Awdio
-	Provider of free listening and live audio streams from best clubs around the world. The company offers music from sources, artists, and special events. The company plans to launch a paid service offering demand listening and securities in a better encoding quality
-	['', 'audio streams', ' ', 'free listening', ' ', 'encoding quality', ' clubs']
-Chatfish
-	Provider of technology and services for online interactive events. The company also provides infrastructure and marketing needed to power live, interactive events on the internet.
-	['', 'online interactive events', ' ', 'internet software', '']
-StoreVision
-	Developer of POS monitoring systems. The company designs and develops software which combines live POS data with live CCTV video allowing auditors to create evidence based reports of process errors and fraudulent activity.
-	['', 'evidence based reports', ' ', 'monitoring systems', ' ', 'error processing', '']
-Hot Potato Media
-	Provider of chat applications for live events.
-	['', 'chat application', ' ', 'live event', '']
+SaltCheck
+	Developer of a technology to monitor salt intake for the control of hypertension and congestive heart failure. The company develops the technology for self-monitoring by people used in doctor offices, clinics and for home use worldwide.
+	['', 'salt intake', ' monitor  hypertension ', 'congestive heart failure', ' ', 'urine spot test', '']
+CircuLite
+	Developer of miniature blood pumps for the long-term treatment of chronic heart failure. The company provides synergy pocket circulatory assist device, which is designed to rest a failing heart by supplementing its natural function.
+	['', 'blood pump', ' ', 'miniature pump', ' ', 'heart failure', ' ', 'Circulatory assist device', '']
+InflammaGen
+	Developer of treatment, assay and lavage to treat and diagnose multiple organ dysfunction syndrome (MODS), formally known as multi-organ failure.
+	['', 'dysfunction syndrome', ' ', 'surgical devices', ' ', 'multi-organ failure', ' ', 'inflammatory mediator', '']
+CardioOptics
+	Developer of catheter-based systems for minimally invasive treatment for heart failure and various cardiovascular diseases. The company offers sinus access system that allows physicians to see through flowing blood, and look directly at heart and blood vessel anatomy and tissue; and implant biventricular pacemaker leads to treat heart failure. Its system includes the a forward-viewing infrared steerable catheter; and image acquisition console, a digital touch-screen control monitor, which includes a camera pod containing an infrared camera that sends siteseekir images from catheter tip to the monitor.
+	['', 'minimally invasive treatment', ' ', 'heart failure treatment', ' ', 'cardiovascular disease treatment', ' ', 'sinus access system', ' ', 'biventricular pacemaker', ' ', 'infrared steerable catheter', ' ', 'image acquisition console', ' pacemaker catheter']
+Cornovus Pharmaceuticals
+	Developer of methods to treat cardiac hypertrophy and heart failure. The company develops a technology that helps to delay the onset of heart failure after a heart attack or injury.
+	['', 'cardiac attack', ' ', 'cardiac hypertrophy', ' ', 'heart failure', ' ', 'heart injury', '']
+LifeMasters Supported SelfCare
+	Provider of health promotion and disease management programs and services. The company offers programs for individuals with diabetes, congestive heart failure, coronary artery disease, chronic obstructive pulmonary disease, hypertension and asthma, cancer, metabolic syndrome and musculo-skeletal pain. It also provides programs for depression and lifestyle changes, such as smoking cessation and weight loss.
+	['', 'weight loss', ' ', 'health promotion', ' ', 'disease management', ' ', 'heart failure', ' ', 'coronary artery management', ' ', 'smoking cessation', '']
+Viacor
+	Developer of catheter-based techniques for the treatment of heart valve disease contributing to congestive heart failure. The company develops percutaneous therapies for cardiac valve repair; and a minimally invasive cardiac valve repair system to treat congestive heart failure patients afflicted with mitral regurgitation or leaky mitral valves.
+	['', 'heart treatment', ' ', 'heart valve disease', ' ', 'heart failure', ' ', 'percutaneous therapy', '']
+BG Medicine
+	Developer of novel cardiovascular diagnostic tests. The company\'s product pipeline includes BGM Galectin-3, a diagnostic test for heart failure that measures galectin-3 levels in blood plasma or serum. It also offers TNF alpha blockers comprising Enbrel, Remicade and Humira, which are treatments indicated for autoimmune diseases, such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and Crohn’s disease.
+	['', 'diagnostic test', ' ', 'heart failure', ' ', 'cardiovascular test', ' ', 'lipid disorder', '']
+Asahi Kasei Pharma America
+	Provider of critical-care and hospital-based therapeutics to patients, treating physicians, and payors in the United States and internationally. The company offers ART-123, a novel, recombinant, and soluble thrombomodulin for the treatment of disseminated intravascular coagulation in sepsis.
+	['biopharmaceutical ', 'critical care', ' ', 'hospital based therapeutic', ' ', 'disseminated intravascular coagulation', ' hematolog ', 'blood clotting', ' ', 'deep vein thrombosis', '']
+AngioGuard
+	Developer of embolic containment technology. The company has developed containment technology designed to protect the heart and brain from embolic particles potentially dislodged during interventional medical procedures.
+	['', 'embolic containment technology', ' ', 'heart surgery', ' ', 'embolic particle protection', '']
+Entellus Medical
+	Developer of balloon-dilation technologies to treat sinusitis. The company offers XprESS multi-sinus dilation tool, which offers ENT physicians a tool to trans-nasally treat the frontal, sphenoid or maxillary sinuses in either a doctor’s office or operating room.
+	['', 'sinus treatment', ' healthcare ', 'sinus dilation', ' sinusitis ', 'therapeutic solution', '']
+Corthera
+	Developer of therapies for illnesses in the acute care setting. The company\'s product Relaxin, which is developed from a naturally occurring polypeptide hormone, is used to treat acute decompensated heart failure.
+	['therapy treatment illness ', 'care setting', '']
+Cardiola
+	Developer of therapeutic systems to treat heart failure. The company offers a treatment system for heart failure treatment in patient settings and hospital based treatment regimens.
+	['', 'treatment system', ' ', 'therapeutic system', ' ', 'heart failure treatment', '']

@@ -1,21 +1,18 @@
-Mesophotonics
-	Developer of photonic crystal technology for optical devices. The company provides technology in the fields of lasers, miniature optics, telecommunications and computing. It offers surface enhanced raman spectroscopy (SERS) for development of trace level molecular analysis applications. The company was spun out of University of Southampton.
-	['photonic crystal ', 'Surface Enhanced Raman Spectroscopy', ' SERS']
-Cambridge Silicon Radio (Mobile Business)
-	Developer of mobile chip and handset. The company provides technology for handset connectivity.
-	['', 'mobile chip', ' ', 'handset connectivity', ' handset']
-FlexLight Networks
-	Developer of a suite of optical access products. The company offers products with applications for the gigabit passive optical networking (GPON) market.
-	['', 'optical access', ' ', 'video services', ' ethernet']
-Micro Managed Photons
-	Developer of integrated photonic circuits for optical networking applications. The company provides a technology which integrates the concept of photonic band gap and surface plasmon polaritons to control flow of light on an optical chip.
-	['', 'photonic circuit', ' ', 'optical networking', ' ', 'plasmon polariton', ' ', 'optical chip', '']
-RouteLambda
-	Provider of an optical networking equipment. The company provides outsourced assembly of standardized optical networking equipment and broad base communication equipment in Japan.
-	['', 'optical networking', ' ', 'communication equipment', ' ', 'outsourced assembly', '']
-VIR
-	Developer of a surface plasmon resonance technology. The company’s technology consists of a patented sensor chip and a separated optical transducer with a digital interface.
-	['', 'industrial supply', ' ', 'sensor chip', ' ', 'optical transducer', '']
-Photonyx
-	Manufacturer of optical chip boards. The company develops tunable diffraction grating technology which can be used in optical telecom components and projection displays.
-	['', 'optical chip', ' ', 'tunable diffraction grating technology', ' ', 'optical telecom', ' chip']
+Fiomi Diagnostics
+	Manufacturer and marketer of diagnostic test kits. The company also develops a panel of point-of-care cardiac marker assays.
+	['', 'diagnostic substance', ' ', 'Invitro diagnostic substance', ' ', 'diagnostic testing', ' ', 'cardiac marker assays', '']
+Biex
+	Developer of maternity management products. The company diagnostic tests to identify the potential for premature deliveries in pregnant women.
+	['maternity ', 'diagnostic test', ' ', 'hormone estriol', '']
+Genosis
+	Developer of home use diagnostic devices to assess fertility in couples of childbearing age. The company\'s product- Fertell, is available over the counter in the UK and the US and provides couples with the tools required to assess their fertility in the privacy of their homes.
+	['', 'Fertility test', ' ', 'vitro diagnostic', ' ', 'reproductive disorder', '']
+GeneOhm Sciences
+	Developer of nucleic acid-based diagnostic services. The company offers methicillin-resistant Staphylococcus aureus (MRSA) Assay, an in vitro diagnostic test for the direct detection of MRSA from a nasal specimen; StrepB Assay, an in vitro diagnostic test for the detection of Group B Streptococcus in pregnant women at the time of delivery or at any other stage of their pregnancy and Lysis Kit for the lysis of cells and spores from various sample types.
+	['', 'microbiology specimen processing', ' ', 'molecular diagnostic', ' ', 'MRSA Assay', '']
+Signature Genomic Laboratories
+	Provider of molecular cytogenetic diagnostic services. The company offers diagnostic services, including pediatric and adult testing, and prenatal services, as well as FISH analysis of clinically relevant loci. The company also provides prenatal diagnosis services, interpretation with genome microarrays, and G-banded karyotype analysis services.
+	['', 'diagnostic service', ' ', 'cytogenetic diagnostic service', ' ', 'adult testing', ' ', 'pediatric testing', ' ', 'prenatal service', ' ', 'prenatal diagnosis', ' ', 'genome microarray', '']
+AdvanDx
+	Provider of molecular diagnostic tests for identification of pathogens that cause critical infections in hospitalized patients. The company provides its products to medical centers, reference labs, government institutions and community hospitals. Its products are available through a network of sales force in United States, as well as through distributors.
+	['', 'vitro diagnostic kit', ' ', 'infectious disease diagnosis', ' ', 'infection treatment', ' ', 'diagnostic kit', ' ', 'infectious disease', ' ', 'diagnostic test', '']

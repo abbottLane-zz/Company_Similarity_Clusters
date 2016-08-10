@@ -1,15 +1,12 @@
-Smart Button Associates
-	Provider of a web-based marketing platform. The company engages in rewarding and retaining their customers and patrons as well as manages successful loyalty or rewards programs.
-	['', 'marketing platform', ' ', 'reward programs', ' loyalty']
-ECAL
-	Provider of online calender marketing platform. The company provides an online calendar marketing platform. It offers web-base time and event management platform.
-	['', 'online marketing', ' ', 'calender marketing platform', ' ', 'web base time management platform', '']
-rPath
-	Developer of a technology for virtualizing software applications, and managing the lifecycle of virtual appliances and application images. The company\'s products include rBuilder,\nrPath Lifecycle Management Platform. It also offers rBuilder Online and the Cloud Catalog for EC2 and rPath X6.
-	['', 'virtualizing software application', ' ', 'virtual appliance', ' ', 'application image', ' ', 'Lifecycle Management', ' ', 'Cloud Catalog', '']
-Asure Software (WebEvent Solution and Book of Business)
-	Provider of event calender and scheduler software. The company integrates event calendar software and a scheduler into a single enterprise wide web based event management software system, providing one view into all of event information.
-	['', 'event calendar software', ' ', 'event management software', '']
-InfoJobs Spain
-	Developer of an online job platform. The company provides a digital platform that offers employment information services in Spain.
-	['', 'online job platform', ' ', 'job portal', ' ', 'employment services', '']
+Amplidata
+	Provider of a cloud-based service provider offering scale-out technology for storage providers. The company offers, AmpliStor an object-based software defined storage system for enterprise, private cloud and hyper scale public cloud implementations.
+	['', 'storage infrastructure', ' ', 'storage technology', ' ', 'storage system', '']
+Streem
+	Provider of a cloud based hard drive that offers storage space. The company has developed a proprietary de duplication and compression technology to be able to provide storage facility.
+	['', 'storage space', ' ', 'hard drive', ' ', 'compression technology', ' ', 'cloud storage service', '']
+ByCast
+	Provider of storage virtualization software for large-scale digital archives and storage clouds. The company provides storage software designed to manage petabyte-scale, globally distributed repositories of images, video and records for enterprises and service providers.
+	['', 'business continuity', ' ', 'digital archives', ' ', 'fixed content', '']
+Newisys
+	Developer of server and storage technology for original equipment manufacturers. The company offers storage expansion product platforms, storage application platforms, integrated RAID server/storage application product platforms, JBOD expansion enclosures, and racks.
+	['', 'server technology', ' ', 'storage technology', ' ', 'equipment manufacturing', ' ', 'storage expansion', '']

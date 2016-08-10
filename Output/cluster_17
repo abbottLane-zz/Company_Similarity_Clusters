@@ -1,21 +1,39 @@
-Turboprop
-	Creator of a mobile-application development platform. The company operates an online platform enabling users to create mobile applications with a drag-and-drop experience. The company provides ready-made templates, as well as tools to build applications from scratch.
-	['', 'mobile application development', ' ', 'application template', ' ', 'ready-made template', '']
-Ultra Fog
-	Developer of a high-pressure sprinkler system for firefighting purposes. The company is the creator of a sprinkler system that generates a water mist, rather than conventional droplets. The company\'s technology has applications for marine and land fire protection, and can be customized for specific users.
-	['firefighting ', 'sprinkler system', ' sprinkler ', 'fire protection', '']
-Enterproid
-	Provider of an application enabling smartphone users to switch between work and personal use on their devices. The company offers Divide, a BYOD application  enabling users to transform their smartphones into enterprise-ready mobile devices. The platform offers multiple profile support, productivity applications and personal and IT cloud management.
-	['', 'cloud management', ' ', 'enterprise security', ' ', 'secure mobile platform', ' ', 'enterprise mobility', '']
-Global Projects
-	Developer of online projects based on qualitative platforms. The company is the creator of Mapia, a map directory for the Kiev business community.
-	['', 'online projects', ' ', 'internet services', '']
-Cupple
-	Provider of private sharing mobile application designed for two people in a relationship. The company users can quickly exchange private content such as photos and messages with each other and tag the places they have been, or plan to visit.
-	['', 'private sharing', ' ', 'sharing mobile application', ' ', 'photo sharing', ' ', 'messaging platform', '']
-Chief Technology Advisors
-	Creator of social media application enabling users to share opinions, enhanced by mood indicators. The company is the creator of a mobile application that enables users to tag an emotion with each post, by selecting a representative mood color for the tag. The application allows Facebook and Twitter integrations.
-	['', 'social media application', ' emotion ', 'share opinions', '']
-Butter Systems
-	Provider of digital menu for restaurants. The company is the creator of a mobile application enabling customers to place their orders at the table from a tablet.
-	['', 'digital menu system', ' ', 'online service', ' ', 'restaurant menu', '']
+Elastix
+	Provider of technology that lowers the power used by digital integrated circuits. The company offers elastic clocks that helps in reducing on-chip power consumption.
+	['', 'elastic clocks', ' ', 'elastic voltage scaling', ' on-chip ', 'power consumption', '']
+AudioAsics
+	Developer of low-power audio technologies. The company designs microphone and audio signal conditioning ASICs for consumer and communications products like MP3 players, cell phones and PDAs. It also designs audio ASICs, including analog-to-analog and analog-to-digital pre-amplifiers for microphones, receivers, converters and speaker drivers.
+	['ASIC amplifier microphone']
+System General
+	Manufacturer of semiconductors and analog and digital circuits. The company also designs ICs used in AC/DC power IC products.
+	['', 'integrated circuits', ' ', 'power circuits', ' ', 'digital circuits', ' ', 'semiconductors and resistors', '']
+Exclara
+	Developer of digital power management platforms for solid state lighting solutions. The company offers small LED driver solutions for volume LED applications.
+	['', 'digital power management', ' ', 'lighting solution', ' ', 'led driver', ' ', 'led application', '']
+Touchstone Semiconductor (Analog IC Products)
+	Designer and manufacturer of high-performance analog integrated circuits. The company provides high-performance, low-power analog IC products for power management services.
+	['low-power analog-to-digital ', 'power management IC', '']
+Dresden Silicon
+	Designer of micro processor chips with low power consumption. The company designs and manufactures chips with low power consumption based on a novel signal processor architecture and integrated hardware and software development environments using rapid design methodology.
+	['', 'low power CPU', ' CPU ', 'central processing unit', ' semiconductor']
+Micropolis
+	Manufacturer of high capacity/performance disk drives. The company provides high capacity mini floppy disk drives and 8" Winchester drives.
+	['', 'disk drives', '']
+Benchmarq
+	Provider of power-sensitive and portable electronic systems. The company provides integrated IC and module solutions that address problems in managing battery-operated, low-power, and power-sensitive equipment.
+	['ic battery']
+Touchstone Semiconductor
+	Designer and manufacturer of high-performance analog integrated circuits. The company creates high-performance analog integrated circuit (IC) services that solve critical issues for electronics companies.
+	['', 'analog integrated circuit', ' ', 'specification identical', ' ', 'integrated circuit', '']
+PhaseLink
+	Manufacturer of technology for timing source and signal conditioning timing source integrated circuits. The company also markets analog frequency multipliers, triangular modulation SST, bi-directional I/O, programmable clock chip, programmable clocks and a range of IC product lines in the industry.
+	['', 'integrated circuit', ' IC Multipliers Modulator']
+Symwave
+	Developer of analog/mixed-signal connectivity solutions in the United States and internationally. The company offers physical layer, low power analog front end cores, integrated circuits (ICs), and semiconductor system solutions to distribute video, sound, photos, and data in the home, automobile, office, and factory; and USB hubs, card readers and mass storage devices, input/output, Ethernet and embedded networking devices, and in-vehicle networks.
+	['', 'analog signal connectivity', ' ', 'semiconductor system solution', ' ', 'embedded networking', '']
+ISOPur Fluid Technologies
+	Developer of high-performance fluid purification systems. The company provides purification systems for hydraulic and lubricating oil used in high-performance, mission-critical industrial machinery.
+	['', 'purifies oil', ' ', 'fluid purity', ' ', 'filter cartridges', ' additives']
+Antrim Design Systems
+	Provider of comprehensive software solution. The company offers software solution for automating the design of high performance analog.
+	['', 'intellectual property', ' circuit ', 'design tools', '']

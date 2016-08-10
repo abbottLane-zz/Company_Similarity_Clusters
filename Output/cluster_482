@@ -1,30 +1,27 @@
-Paragon Wireless
-	Operator of online mobile store. The company offers mobile phones and mobile accessories, including mobile phone cases, chargers, headsets and memory cards.
-	['', 'mobile accessories', ' ', 'online mobile shop', ' ', 'mobile games', '']
-PhoneAndPhone
-	Provider of online retail. The company sells a range of mobile phones with or without subscription and mobile accessories.
-	['', 'online retail', ' ', 'online services', ' ', 'online purchase', '']
-MobilGiganten
-	Operator of an online store for mobile phones. The company provides ecommerce retail and distribution services for mobile phones and accessories, and also offers other mobile services.
-	['', 'mobile phone', ' ', 'mobile accessories', ' ', 'mobile retailer', '']
-Firefly Mobile
-	Developer and seller of mobile phones and accessories. The company also provides airtime services and offers accessories such as wall chargers, universal serial bus cables, stereo headsets, batteries and car chargers for teenagers.
-	['', 'mobile phones', ' ', 'airtime services', '']
-Qype
-	Provider of a consumer review website for goods and services in Europe. The company offers the review service in nine languages and more than 160,000 cities and towns worldwide. The service is available online and through a mobile application.
-	['', 'consumer review', ' ', 'review website', ' ', 'internet software', '']
-Coveroo
-	Producer of custom cell phone covers and cases. The company develops back cover on the mobile phones, MP3 players, or gaming devices with custom artwork or text.
-	['', 'cell phone cover', ' ', 'device art', ' ', 'customized phone-cover', ' ', 'cover personalization', ' ', 'custom art-work', '']
-VuCast Media
-	Developer of technology to create private wireless data broadcasting networks over unused licensed RF spectrum in existing frequencies. The company offers mobile device technology to wirelessly broadcast rich media content to e-readers, media players and mobile phones; digital display services to simultaneously deliver images, audio and video to home, office and retail picture frames, monitors and outdoor displays.
-	['', 'wireless data broadcasting', ' ', 'broadcasting network', ' ', 'content management', ' ', 'disaster management', '']
-Dmailer
-	Provider of portable back up and synchronization software services for a mobile devices. The company provides backup services to mobile device including USB flash drives, memory cards, external hard disk drives, mp3 players, embedded phone memory, SIM cards and flash based memory cards for mobile phones.
-	['', 'backup service', ' ', 'portable storage device', ' backup ', 'data backup software', '']
-Iqua
-	Developer of wireless accessories for mobile communications market. The company develops handsfree headsets and other mobile accessories for personal, active or professional use.
-	['', 'wireless accessory', ' ', 'handsfree device', ' headset']
-FlipSwap
-	Provider of mobile phone trade-in and recycling services. The company engages in the online trade of cell phones and recycles unusable phones in the United States.
-	['', 'mobile phone trade', ' ', 'online phone trading', ' ', 'unusable phone recycling', ' ', 'electronics recycling', ' ', 'electronic buy back', ' ', 'phone trade', ' ', 'wireless device', ' ', 'wireless phone reuse', ' ', 'cellphone recycling', '']
+DOCLIX
+	Developer of pay-per-click advertising network. The company offers an online platform that delivers text advertisements within a controlled environment of quality content sites for advertisers as well as allows content publishers to customize the presentation of advertisements on their sites and to create new advertisement placements on under-monetized sections of each page or site.
+	['', 'advertising network', ' ', 'online platform', ' ', 'quality content', ' ', 'text advertisement', '']
+SercoNet
+	Developer of Ethernet backbone networking services. The company provides home networking services that enables customers to easily interconnect PC\'s, telephone and entertainment equipment in every room over a single home network.
+	['', 'ethernet networking service', ' ', 'home networking service', ' ', 'broadband service', '']
+true[x] media
+	Operator of an online advertising network. The company connects people with brands to earn charitable donations using their social media properties. It enables members to complete and share branded activities to earn points, which translate into positive social impact via micro-donations.
+	['', 'online advertising network', ' ', 'marketing platform', ' ', 'premium content', '']
+SecuroNet
+	Provider of software and networking services. The company enables public and private subscribers to join forces with each other via a suite of collaboration tools and share content from a city-wide network of security cameras to improve emergency response effectiveness via emergency video notification.
+	['', 'software services', ' ', 'networking services', ' ', 'video networking', '']
+Giant Realm
+	Operator of an online publishing platform. The company provides a vertical advertising network targeting the male 18-34 demographic.
+	['', 'online publishing platform', ' ', 'media hosting', ' ', 'internet advertising', ' ', 'vertical advertising network', '']
+Sportgenic
+	Owner and operator of a men\'s vertical sports Web advertising network that connects advertisers with sports enthusiasts. The company offers a software-driven media planning tool that enables marketers to plan, build, buy, and manage integrated campaigns across various media types.
+	['', "men\\'s sport", ' ', 'sport advertising', ' ', 'advertising network', ' ', 'media planning', ' ', 'marketing campaign', ' ', 'sport marketing', '']
+IntenseDebate
+	Developer of commenting systems for blogs and other web platforms. The company offers networking system to blog readers to link their profiles, make friends and syndicate their comments.
+	['', 'commenting system', ' ', 'web platform', ' ', 'networking system', '']
+Webnext
+	Operator of an online publisher and advertising network. The company offers networking services to publishers and advertising industry.
+	['', 'advertising network', ' ', 'networking service', ' ', 'publisher web', '']
+Pheedo
+	Operator of an advertising network and ad-delivery platform. The company provides tools that enable individuals, organizations and corporations to promote, analyze and optimize advertising in their weblogs and syndicated content feeds.
+	['', 'advertising network', ' ', 'ad-delivery', ' weblogs']

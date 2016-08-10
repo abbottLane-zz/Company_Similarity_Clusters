@@ -1,6 +1,24 @@
-UAV Holdings
-	Distributor of home entertainment products. The company acquires cquires domestic home entertainment, video, and audio rights from studios, independent producers and record labels, and manufactures, packages and sells DVDs, VHS cassettes and audio CDs of its licensed content to retailers in the U.S. UAV focuses on children’s and family content and prices its products at budget “impulse buy” price points.
-	['', 'distribution network', ' ', 'digital versatile disc', ' network']
-Passionato
-	Provider of an online classical music platform. The company retails an array of merchandise and recordings for classical music consumers, including audio CDs, recordings, DVDs, boxed sets of recordings and ancillary merchandise such as T-shirts.
-	['', 'online music', ' ', 'classical music', ' ', 'music download', '']
+CardSpring
+	Provider of Application Programming Interface (API). The company\'s API lets developers add new capabilities to credit and debit cards by programming the payment network to link online applications to specific payment events.
+	['', 'Application Programming Interface', ' ', 'payment network program', ' ', 'online payment application', '']
+Pebbles
+	Developer of motion gesture technology. The company develops hardware and software to enable 3D gesture interaction with computers, communications and consumer electronics devices.
+	['', 'gesture interface', ' ', 'human machine interface', ' optics']
+Indisys
+	Developer of Natural Language and Intelligent Conversation service. The company provides natural language and dialog management system that enables functional, social and emotional virtual intelligence, context awareness and flexible, human like conversational abilities. It also provides fully integrated social media and chat offerings.
+	['', 'natural language service', ' ', 'dialog management system', ' ', 'emotional virtual intelligence', ' ', 'context awareness', ' ', 'integrated social media', ' ', 'live chat', '']
+RelateIQ
+	Provider of a professional relationship management platform. The company’s platform automatically captures communications data pulled from mail systems, smartphone calls, calendars and social networks.
+	['', 'application programming interface', ' ', 'personal correspondence management', ' ', 'business management', ' ', 'customer data analysis', '']
+Orchestrate
+	Provider of an application programming interface service. The company provides an application programming interface (API), that eliminates the need to deploy databases while building new applications or adding new features to existing applications.
+	['', 'cloud agnostic', ' ', 'application programming', ' ', 'interface application', ' ', 'API service', '']
+ReportGrid
+	Provider of an advanced analytics engine for multi-structured data. The company provides an application programming interface (API) that makes it easy for SaaS vendors and technology platforms to give their customers deep analytics and insightful reporting.
+	['', 'analytic engine', ' ', 'multi-structured data', ' ', 'application programming interface', '']
+Wit.AI
+	Developer of an application programming interface-based natural language platform. The company has created a voice interface that makes it easy for developers to build applications and devices that you can talk to. It learns human language from every interaction and leverages the community.
+	['', 'application programming interface', ' ', 'natural language platform', ' ', 'voice interface', '']
+Navify
+	Provider of interface for viewing Wikipedia with videos, images, and comments. The company is built on Wikipedia’s platform.
+	['', 'social content', ' ', 'video and images', ' ', 'user interface', '']

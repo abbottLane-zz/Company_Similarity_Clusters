@@ -1,27 +1,24 @@
-Ignition Mobile
-	Promoter of mobile applications. The company provides a platform offering exclusive deals for free applications. Users can download a button to reserve offers for apps, and have 24 hours to act on the deal. The platform is a promotion channel for app developers.
-	['', 'paid application', ' ', 'developer interest', ' royalty']
-LeagueLink
-	Provider of web based league administration tools for the sports market. The company\'s product consists of software tools designed for league administrators and community tools for league participants.
-	['', 'league administration', ' ', 'sports market', ' ', 'league participants', ' ', 'community tools', ' ', 'software tools', '']
-Atego
-	Provider of software tools and professional services. The company helps organizations engineer systems and software.
-	['', 'software tool', ' ', 'application development tool', ' ', 'system engineering', '']
-Geneva Bioinformatics
-	Developer of software and database for life science researchers. The company acts as an representative for the licensing to commercial institutions of the proteomics databases and software tools which are developed and maintained by the Swiss Institute of Bioinformatics (SIB). It commercialises proteomic databases and bioinformatic tools.
-	['', 'life science research', ' ', 'proteomic database', ' ', 'bioinformatic tool', '']
-Flashline
-	Developer of asset management software for managing information technology and software assets. The company provides enterprise software reuse solutions that facilitate the rapid development of software systems for business.
-	['', 'software reuse solution', ' ', 'enterprise software', ' ', 'business management software', '']
-UXFlip
-	Developer of software tools for mobile application development. Its products allow developers to communicate in-app with their users, and create a platform for direct UI management.
-	['', 'app development', ' ', 'mobile application development', '']
-ClickSlide
-	Provider of app development software tools. The company offers app development software tools for developers allowing them to better integrate their apps.
-	['']
-Prodea
-	Provider of data warehousing, decision support and application development software. The company\'s product helps in accessing and transforming raw data into useable, relevant information that can be shared throughout an enterprise.
-	['', 'data transformation', ' ', 'data access', ' ', 'decision support', ' ', 'data warehousing', ' ', 'application development software', '']
-BugSense
-	Provider of software to assess mobile-application performance. The company\'s software analyzes metrics each month across multiple platforms, generating performance reports designed to help developers identify issues and create better app customer experiences.
-	['', 'quality standard', ' ', 'performance report', ' ', 'application performance', '']
+The Vantra Group
+	Provider of comprehensive internet brokerage infrastructure services. The company\'s technology links investors, brokers, clearing firms and back offices. The company enables financial institutions to get to market in the area of online investments.
+	['“brokerage software” “trading management” “transaction processing” investors ', 'financial institutions', '']
+Firefly Network
+	Developer of an intelligent agent technology for the Internet. The company offers the tools enable businesses to create additional advertising and transaction revenues by helping companies to better understand and serve each consumer based on their individual tastes and preferences.
+	['', 'intelligent agent technology', ' ', 'electronic marketplace', ' ', 'transaction revenue', '']
+DeNovis
+	Provider of transaction processing and information management solutions for the health insurance and health care benefits administration industry.The company\'s flagship software product eHD™ serves as the core administrative platform for health plans and is designed to deliver the sophistication necessary to meet both existing and emerging needs of commercial, Medicare and Medicaid healthcare benefits administrators.
+	['', 'transaction processing', '']
+Notiva
+	Provider of solutions needed for transaction and financial settlement by purchasers and suppliers. The company provides cash transaction management solutions for manufacturers and retailers.
+	['', 'e- finance', ' ', 'financial transactions', ' ', 'invoicing payment', ' ', 'trade settlements', '']
+Jware Technologies
+	Provider of online payment and card processing services. The company engages in providing an electronic payment transaction processing software for the retail, banking and telecommunication sectors.
+	['', 'electronic payment', ' ', 'transaction processing', ' ', 'card processing', '']
+Fiserv
+	Provider of information management and electronic commerce systems and services. The company\'s services include transaction processing, electronic bill payment and presentment, business process outsourcing, document distribution services and software development.
+	['', 'information management', ' ', 'electronic commerce systems', ' ', 'transaction processing', '']
+Informix Software
+	Provider of database management systems. The company\'s services are channelized for data warehousing, e-business applications and transaction processing. The company s provide retail, financial services, government, healthcare, manufacturing, media and publishing and telecommunications markets.
+	['', 'date warehousing', ' ', 'financial services', '']
+Branded Payment Solutions
+	Provider of transaction processing services. The company provides a back-end transaction processing platform for retailers in Europe.
+	['', 'transaction processing', ' ', 'retail integration', ' ', 'prepaid transaction', '']

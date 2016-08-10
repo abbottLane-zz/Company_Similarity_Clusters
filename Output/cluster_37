@@ -1,48 +1,21 @@
-Portes Patio Résiver
-	Manufacturer of polyvinyl chloride doors. The company produces polyvinyl chloride doors and windows in Canada.
-	['', 'polyvinyl chloride door', ' ', 'polyvinyl chloride window', ' ', 'sliding window', ' ', 'Home Furnishing', '']
-Heidi\'s Gourmet Desserts
-	Manufacturer and distributor of frozen desserts to retail and food service outlets. The company produces New York and California style cheesecakes, gourmet layer cakes, homestyle and specialty desserts.
-	['', 'frozen food', ' cheesecake ', 'layer cake', '']
-Santiago and Beverage Trade Lemos
-	Owner and operator of a beer club. The company also publishes a magazine covering articles on the brewery industry. This apart, the company also mails a kit containing a selection of four bottles of beer to its customers. The company also operates as a beer retailer through an online platform.
-	['', 'internet retail', ' ', 'clubs and resorts', ' ', 'beer retailer', '']
-Etablissements Leveau
-	Producer of alcoholic beverages. The company produces Abbey of Alder, a beer.
-	['', 'alcoholic beverage', ' beer ', 'alcohol drink', '']
-Pixel Qi
-	Developer and producer of laptop screens. The company offers epaper diagonal screens for netbooks and ebook readers.
-	['', 'laptop screen', ' ', 'epaper diagonal screen', ' ', 'computer part', '']
-Moa Group
-	Producer and distributor of beverages. The company produces beer, wines and cocktails, employing methode traditionnelle brewing techniques.
-	['', 'beer and wine', ' ', 'cocktail drink', ' ', 'boutique brewer', ' ', 'brewing technique', ' ', 'beer market', ' ', 'alcoholic beverage', '']
-Xcalia
-	Provider of intermediation software to create dynamic transactional composite applications. The company produces dynamic integration software that makes it easier for companies to build composite applications in service-oriented architectures, while reusing information resources and reducing operating costs.
-	['', 'intermediation software', ' ', 'dynamic transactional', ' ', 'composite applications', ' ', 'integration software', '']
-JetPrep
-	Manufacturer and developer of flushing device to assist clinicians in endoscopy procedures. The company produces flushing devices for washing mucosal tissue in the gastrointestinal tract.
-	['', 'flushing device', ' ', 'surgical device', ' endoscopy ', 'mucosal tissue', '']
-Marila Balírny
-	Producer of coffee and coffee products. The company owns a coffee roasting plant and production facility near Prague, Czech Republic. Along with its coffee and cappuccino, the company produces a wide assortment of sponge cakes, wafers and gingerbread.
-	['coffee cappuccino ', 'sponge cakes', ' wafers gingerbread']
-Northland Cranberries (Branded Juice Business)
-	Developer of branded cranberry beverages. The company is the owner of juice brands such as northland, treesweet and awake.
-	['fruit juice cranberry']
-Prolyte Group
-	Provider of aluminum supporting systems for the entertainment and exhibition industry. The company manufactures modular aluminium supporting systems (trussing) used for constructing stages and mounting light fixtures, scenery and speakers. The company also produces mobile stages and rigging material.
-	['trussing ', 'aluminium supporting', ' ', 'mobile stage', '']
-Revolve Technologies
-	Producer of of magnetic bearing systems for the industrial rotating equipment market. The company produces and supplies magnetic bearing systems, dry gas seal systems and rotating equipment services to manufacturers and users of all kinds of rotating equipment.
-	['', 'magnetic bearing', ' ', 'dry gas seal', ' ', 'rotating equipment', ' ', 'bearing system', ' ', 'machinery parts', ' ', 'machine tool', '']
-Adina For Life
-	Producer of beverages in the United States. The company’s products include juice coolers, coffee and tea drinks, ingredients, and drink recipes.
-	['', 'manufacturing company', ' ', 'juice cooler', ' ', 'tea and coffee', '']
-Windmill
-	Supplier of consumer flour, cornmeal, and baking mixes. The company also produces economy frozen pizza.
-	['', 'consumer flour', ' cornmeal ', 'baking mixes', ' ', 'frozen pizza', '']
-Remi Claeys Aluminium
-	Producer of semi-finished aluminum products. The company produces high-frequency welded tubes made of aluminum that are used for various purposes such as gardening tools, cycle frames, furniture, and telescopic handles. The company also produces precision welded tools which are used in radiators and air-conditioners.
-	['', 'aluminum products', ' ', 'aluminum frames', ' ', 'welded tools', ' ', 'aluminum tools', '']
-IZZE Beverage
-	Manufacturer and marketer of fruit juice beverages. The company also provides apparel, accessories and glassware to the consumers through its online store.
-	['', 'online store', ' ', 'soft drinks', ' ', 'fruit juice', '']
+WebPutty
+	Developer of e-business, internet and mobile application products. The company offers a platform for the composition and dynamic execution of server-based web applications that enables businesses to change and extend their business systems in a secure and controlled way.
+	['', 'server software', ' ', 'server-based applications', ' ', 'mobile application software', '']
+Nukona
+	Provider of mobile application management technologies. The company\' application center is an end-to-end mobile information management and security service, enabling enterprises to secure, deploy and manage native and web applications and content on corporate-owned and personal devices.
+	['', 'mobile application management', ' ', 'mobile information management', ' ', 'web applications', '']
+New Moon Systems
+	Provider of non-internet mobile software services. The company\'s services enables enterprises and service providers to centrally deliver and manage their software assets across hundreds and thousands of user desktops. The company\'s iQ application management platform is used to intelligently deploy and manage Windows applications across private and public networks.
+	['windows ', 'software platform', ' ', 'IQ application', '']
+ReallyLateBooking
+	Provider of a mobile application for last minute hotel bookings. The company\'s mobile application enables users to make reservations at hotels on the same day at a discounted deal.
+	['', 'hotel bookings', ' ', 'discounted deal', ' ', 'last minute bookings', ' ', 'smartphone applications', '']
+AppCarousel Direct
+	Provider of an application management platform for connected devices. The company provides a management platform for cars and fleets, smartphones, smart screens, tablets, and other connected devices to distribute, update, control and manage any kind of downloadable software or digital asset.
+	['', 'mobile content', ' ', 'digital content distribution', ' ', 'connected device', ' ', 'application management platform', '']
+WorkLight
+	Developer of HTML5, hybrid and native applications for smartphones and tablets with industry-standard technologies and tools. The company provides flexible mobile IDE, next-generation mobile middleware, end-to-end security and integrated management and analytics.
+	['HTML5 smartphone tablet ', 'mobile IDE', ' ', 'integrated development environment', ' ', 'mobile middleware', ' MEAP ', 'mobile enterprise application platform', '']
+iMedeon
+	Provider of wireless web applications for mobile workforce management. The company\'s software suite is designed to optimize scheduling, routing and facilitate the dispatching and management of mobile workforces.
+	['', 'wireless web applications', ' ', 'web-enabled', '']

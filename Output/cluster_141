@@ -1,21 +1,48 @@
-Circle of Moms
-	Provider of a community website platform for mothers. The company enables mothers to connect with friends, talk about their kids and join topical communities.
-	['', 'social networking', ' ', 'parenting site', ' ', 'motherhood community', '']
-MotoSport
-	Distributor of off-road motorcycle and all-terrain vehicle parts and equipment. The company offers bars and controls, body components, brakes, drive components, engine components, exhausts, graphics, suspension, tires, wheels, and intake components. It also distributes gear, boots, helmets, goggles, hydration packs, protective gear, gear bags, men’s casual clothing, women’s casual clothing, clearance gear, kid’s gear, pants, jerseys, gloves, and pajamas, as well as sells miscellaneous items, such as DVDs, sunglasses, tools, ramps and stands, chemicals, and original equipment manufacturer parts.
-	['', 'vehicle part', ' ', 'vehicle equipment', ' ', 'engine component', ' ', 'bike rider accessory', ' ', 'retailer of motorcycle', ' ', 'ATV part', ' ', 'sports apparel', ' ', 'off road vehicle', ' ', 'all terrain vehicle', '']
-Compring
-	Provider of a smart search platform for the flash sales and daily deals industry. The company\'s website displays offers on various products and alerts its customers about new deals as they are published online.
-	['', 'discount voucher', ' ', 'product deal', ' ', 'online deal', ' discount ', 'notification email', '']
-Breastfeeding.com
-	Provider of support and information on breastfeeding for first-time moms. The company operates an online community of mothers and birth related medical professionals for support and advice. It also provides information and support on various child health and growth issues ranging from child care and safety to potty training and teething.
-	['', 'online community', ' ', 'medical professional', ' ', 'child care', ' ', 'child health', '']
-Trus Plus Systems
-	Provider of agricultural and nursery products. The company is engaged in the production of nursery products, nursery stock, shrubbery, bulbs, fruit stock, sod and other agricultural products.
-	['', 'nursery products', ' ', 'nursery stock', ' shrubbery ', 'fruit stock', ' nursery bulbs']
-Casabu
-	Operator of an online flash sales site. The company focuses on maternity and child products including clothing, toys, nursery equipment, maternity gear and treats for mothers.
-	['', 'online flash sales', ' ', 'online site', ' ', 'online store', ' ', 'children’s brand', '']
-Clarus (acquired)
-	Provider of B2B procurement software and trading services. The company develops, manufactures and distributes a broad range of products including carabiners, protection devices, belay and rappel equipment, helmets, ropes, ice-climbing gear, backcountry gear, technical backpacks, high-end day packs, tents, trekking poles, gloves, skis, ski bindings and ski boots.
-	['', 'outdoor equipment', ' ', 'lifestyle products', ' helmets']
+Ultranat
+	Provider of technologies for the treatment of power plant waste ash. The company\'s technology enables ash from biomass fuel power plants to be processed into valuable  end-of-waste products, like fertilizers and animal feed.
+	['', 'Waste treatment', ' ', 'processing ash', ' ', 'biomass fuel power plants', '']
+Power Innovations International
+	Provider of services for power management, power storage and green energy technologies for power generation and re-generation. The company also offers consulting and customization of original equipment manufacturer development accessories.
+	['', 'power management', ' ', 'power generation', ' ', 'power storage', '']
+Greenvironment
+	Developer of micro-turbine technology.The company offers CHP plants in a power range of 30 kWel to 1 MWel with low maintenance requirements and low emissions.
+	['', 'turbine technology', ', ', 'power plant', ', ', 'biogas', '']
+NuScale Power
+	Designer of electric light water reactor nuclear power plants for nuclear power generation applications in government and commercial sectors in the United States. The company offers single-unit systems and multi-module facilities.
+	['', 'small modular reactor', ' ', 'nuclear power plant', ' ', 'energy service', '']
+Savonia Power
+	Operator of power plants for combined heat and electricity production. The company specializes in power generation module for combined heat and power production in power plants. It also provides power plant maintenance and service.
+	['', 'power plant', ' ', 'power generation', ' ', 'heat production', ' ', 'power generation module', '']
+Konarka Technologies
+	Developer of specialized photovoltaic materials used to convert light to energy. The company develops and advances nano-enabled polymer photovoltaic materials for commercial, industrial, government, and consumer applications. It provides standard products to serve portable power needs; and custom solutions, such as roll up chargers, personal accessories, and fold up chargers.
+	['', 'photovoltaic material', ' ', 'energy production', ' ', 'light conversion', ' ', 'polymer photovoltaic', ' ', 'portable power', ' ', 'power generation', ' ', 'roll up charger', ' ', 'fold up charger', ' ', 'solar energy', '']
+Jurong Aromatics
+	Operator of integrated aromatics plants. The company operates aromatic chemical production plant and produces transportation fuels in Singapore.
+	['aromatics ', 'transportation fuels', ' ', 'petrochemical plant', '']
+IQwind
+	Developer of gearbox technology for wind turbine applications. The company develops and commercializes a variable speed turbine which increases power generation efficiency and drive train reliability through reduction of loads.
+	['', 'gearbox technology', ' ', 'power generation', ' ', 'variable speed turbine', '']
+Ausra
+	Developer of utility-scale solar thermal power. The company offers Compact Linear Fresnel Reflector, a solar collector and steam generation system. Its zero-carbon power plants generate electricity at current market prices for fossil-fired power without the emissions caused by burning fuels.
+	['reflector thermal ', 'steam generation', ' electric fossil carbon power']
+PulseWave RF
+	Provider of semiconductor components for wireless power amplifiers. The company offers Class M Power technology, a digital multi-carrier power amplifier module that simplifies the design for transmitters and provides the scalability required for various power level configurations, including fail-soft operation.
+	['', 'semiconductor component', ' ', 'wireless power amplifier', ' ', 'amplifier module', ' ', 'digital multi carrier', '']
+Offerum
+	Operator of a collective buying group that features events and local leisure activities with significant discounts. The company offers attractive deals on recreational activities to its users.
+	['', 'internet retail', ' ', 'collective buying power', ' ', 'affordable discount', ' ', 'purchasing power', '']
+Avexus
+	Provider of software solutions for the lifecycle management of complex assets. The company provides focused solutions for MRO organizations that serve the Aerospace, Power Generation, Rail and Maritime Industries, with the Impresa enterprise software as the cornerstone of the Avexus Product Solution Suite.
+	['', 'life cycle management', ' ', 'power generation', ' aerospace']
+Solucel
+	Developer of plant-derived pharmaceuticals. The company offers small molecules, such as secondary metabolites from plants for pharmaceutical applications.
+	['', 'plant-derived pharmaceutical', ' ', 'plant biotechnology', ' microbial fermentation']
+Calypto Design Systems
+	Provider of power optimization and functional verification software services. The company offers PowerPro CG that reads in an RTL design and evaluates circuit behavior in various clock cycles to identify sequential clock gating enable conditions; PowerPro MG, an automated memory power optimization service that reduces dynamic and leakage memory power; and PowerPro-filer, a Linux utility that calculates clock-gating efficiency, as well as the percentage of registers clock gated in a RTL design block.
+	['circuit ', 'functional verification', ' ', 'electronic system', '']
+Advanced Power Projects
+	Provider of power by focusing on natural gas power generation. The company develops new power plants to reduce power costs for industrial customers, as well as provides technologies to facilitate the economic deployment of wind, solar, and biomass plants.
+	['', 'power generation', ' ', 'natural gas', ' ', 'biomass plants', '']
+HF2
+	Developer of a photovoltaic power plant. The company sells energy to the market and is also entitled to the Italian GSE feed-in tariff system. The develops photovoltaic power plant that is used to reduce CO2 emissions.
+	['', 'renewable energy', ' ', 'photovoltaic power', '']

@@ -1,48 +1,21 @@
-Vidus
-	Provider of field service automation solutions.
-	['', 'field automation', ' ', 'field automation service', ' ', 'field service solution', '']
-Pertinence
-	Provider of predictive, rules-based data-mining solutions. The company provides Enterprise Manufacturing Intelligence (EMI) software solutions and analytical solutions that enable manufacturers, operators, and maintenance organizations to meet their business goals while addressing inherent industry challenges and realizing unprecedented ROI.
-	['data ', 'enterprise manufacturing', ' ', 'artificial intelligence', ' ', 'analytical solution', '']
-Amazon Robotics
-	Developer of mobile material handling solutions for the storage, movement and sortation of products. The company\'s mobile fulfillment system include ItemFetch for picking items OrderFetch, a sortation system for routing orders to the dock door and CaseFetch, which delivers pallets to workers for case picking or forward replenishment.
-	['', 'material handling', ' ', 'mobile material handling', ' ', 'sortation system', '']
-FieldMaster Solutions
-	Developer of service automation solutions that combines Internet-based service management and dispatch system. The company develops mobile field service management and productivity software for small businesses and provides work order management and field technician productivity tools.
-	['', 'field service', ' ', 'productivity software', ' ', 'customer service', ' ', 'work order management', '']
-Basis100
-	Provides business solutions to the mortgage lending community. The company’s lines of business included lending solutions for consumer credit, mortgage origination and processing, data warehousing and analytics solutions for automated property valuations, property data-warehousing, data products and analytics support, and capital markets solutions for fixed income trading.
-	['', 'financial services', '']
-Ecutel Systems
-	Provider of networking and enterprise mobility solutions. The company specializes in developing software solutions for secure, mobile access and mobile enterprise management. Its products include Viatores mobile VPN, and infrastructure command and control. It serves government, public safety, healthcare, education, and enterprise customers.
-	['mobile network software networking']
-Jive Software
-	Jive Software Inc provides communication and collaboration solutions for business. The Company sell its products through a direct sales force, both domestically and internationally.
-	['', 'social business software', ' ', 'social software', ' ', 'business software', '']
-Thinque Systems
-	Provider of mobile enterprise applications for sales force automation and field force automation. The company develops and markets wireless, mobile electronic customer relationship management and field force automation software services.
-	['', 'mobile enterprise', ' ', 'sales force automation', ' ', 'field force automation', '']
-Enigmatec
-	Provider of automation solutions for physical and virtual resource management. The company offers Execution Management System, an automation solution to implement run book automation solutions that describe the process of cataloguing, codifying, testing, and automating the manual, scripted, and ad hoc procedures used to manage information technology (IT) environments.
-	['resource management automation ', 'user interface', '']
-Aligo
-	Developer of mobile software solutions. The company offers a suite of mobile business solutions designed to provide mobile workers with access to applications and data from any location and from any device. Its applications solutions range from mobile email to highly complex field force automation solutions.
-	['', 'mobile software', ' ', 'software solution', ' ', 'automation solution', ' ', 'mobile business', '']
-MobileIron
-	Provider of a mobile IT platform to secure and manage mobile applications, documents and devices. The company’s cloud-based software enables end-users to access their applications and data anywhere on the device of their choice, as well as providing access security.
-	['', 'application management', ' ', 'document management', ' ', 'mobile device', ' ', 'mobile platform', '']
-ASPEED Software
-	Provider of application acceleration and optimization solutions. The company provides solutions for accelerating applications for multi-core, multi-CPU, cluster and grid configurations.
-	['', 'risk management application', ' ', 'application acceleration', ' ', 'application optimization', '']
-Green Border Technologies
-	Provider of malware prevention, mobile PC safety, unauthorized downloads prevention, patching and data confidentiality solutions. The company also offers protection on corruption, theft and invasion of business data systems, as well as engages in the protection of enterprises from internet threats that are picked up by compulsively-clicking users and mobile PCs.
-	['', 'patching technology', ' ', 'data confidentiality', ' ', 'data system invasion', ' ', 'data system theft', ' ', 'internet threat protection', ' ', 'DMZ technology', ' ', 'malware prevention', ' ', 'mobile PC safety', '']
-iMedeon
-	Provider of wireless web applications for mobile workforce management. The company\'s software suite is designed to optimize scheduling, routing and facilitate the dispatching and management of mobile workforces.
-	['', 'wireless web applications', ' ', 'web-enabled', '']
-Newspage
-	Developer of worldwide mobile applications. The company\'s products include services like enterprise services, sales force automation services, field force management system for organizations, delivery of retail merchandising, pickup and delivery of consignments, field service and logistics.
-	['', 'web application', ' ', 'consumer good', ' ', 'enterprise service', ' ', 'retail merchandising', '']
-Spatial Wireless
-	Developer of software-based networking solutions for mobile networks. The company provides software based and multi standard distributed mobile switching solutions.
-	['', 'network solution', ' ', 'mobile network', ' ', 'mobile switching', ' ', 'network switching', ' ', 'networking software', '']
+Microposite
+	Manufacturer of siding for buildings. The company offers siding and outside seal products and boards for the building industry. The company sells its products through dealers, building material suppliers and building product distributors
+	['', 'sealing products', ' ', 'building materials', ' ', 'construction materials', '']
+Performance Materials
+	Provider of CFRT products and services to the recreational, protective, medical, electronics, construction, aerospace, automotive and other markets. The company develops and manufactures standard and custom thermoplastic composite sheet materials and components to customer specifications. It produces moulded parts and components from thermoplastic composite materials for a wide range of applications.
+	['', 'plastic raw-materials', ' Thermoplastic ', 'Fiber Reinforced Thermoplastic', ' ', 'composite materials', ' ', 'Synthetic Resins', ' ', 'Plastic Materials', '']
+Keratec
+	Producer of of keratin proteins, lipids and new biopolymers from New Zealand wool using exclusive proprietary green extraction and reconstitution processes. The company also supplies natural cosmetic ingredient to  the personal care industry. The company develops nutritional supplements and medical and industrial materials.
+	['', 'wool', ' ', 'Keratin protein', ' ', 'synthetic materials', ' ', 'synthetic polymer', ' ', 'skin', ' ', 'hair', '']
+Tri Chemical Laboratories
+	Manufacturer of semiconductor materials. The company engages in developing semiconductor materials such as optical fiber, etching gases and special reagents.
+	['cylinders ', 'luminescence materials', ' gases ', 'glass ampoules', '']
+Lingk & Sturzebecher
+	Manufacturer of lightweight hydraulic cylinders consisting of carbon fiber-reinforced plastics. The company is engaged in the development of composite materials for use in pressurized hydraulic applications in aerospace, mobile and industrial markets.
+	['', 'hydraulic cylinder', ' ', 'carbon fiber reinforced plastics', ' actuator']
+Excera Materials Group
+	Manufacturer of ceramic and metal composite materials and products. The company offers onmex material which is used in various applications such as ballistic armor, molten metal and abrasive materials handling, vehicle braking systems, tool and die products.
+	['', 'ceramic products', ' ', 'metal composite materials', ' ', 'onmex materials', ' ', 'ceramic materials', '']
+CircleSmartCard
+	Developer of thermoplastic material smart card bodies and data carriers. The company\'s products include chipcoins, magnetic strip and microprocessor cards. It serves computer chip holders.
+	['thermoplastic ', 'magnetic strip', ' microprocessor ', 'smart cards', '']

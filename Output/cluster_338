@@ -1,24 +1,36 @@
-ARC International (Peripheral Connectivity Business)
-	Supplier of peripheral connectivity solutions.
-	['', 'connectivity solution', '']
-Atrionix
-	Developer of catheter-based system for the treatment of atrial fibrillation. The company has developed several patented medical devices which will eliminate the need for surgical intervention in the treatment of atrial fibrillation. It provides a permanent cure for AF patients.
-	['', 'catheter-based system', ' ', 'atrial fibrillation', ' ', 'medical devices', '']
-Small Bone Innovations (Ankle Replacement System & Other Assets)
-	The company provides ankle replacement system. The unit offers a portfolio of products and technologies to treat trauma and diseases in the small bones & joints.
-	['ankle ', 'replacement system', ' ', 'surgical device', '']
-OmniSonics Medical Technologies
-	Developer of medical devices used in the treatment of vascular occlusive diseases. The company offers OmniWave Endovascular System, which is a catheter-based thrombectomy device that uses transverse ultrasound technology to remove thrombus and improve the dispersion of physician specified fluids in the peripheral vasculature.
-	['', 'vascular occlusive treatment', ' ', 'thrombectomy device', ' ', 'ultrasound technology', '']
-Atheromed
-	Provider of catheter based medical devices for the treatment of peripheral artery disease (PAD). The system is designed to treat vessel diameters from the small vessels at the ankle up to the larger vessels located above the knee.
-	['', 'peripheral arterial disease', ' ', 'atherectomy device', ' ', 'catheter based device', ' peripheral']
-Lemaitre Vascular
-	Provider of innovative devices for the treatment of peripheral vascular disease. The company\'s products include EndoFit Thoracic Stent Graft used for the repair of thoracic aortic aneurysm and dissection, UniFit Abdominal Stent Graft for abdominal aortic aneurysm, VascuTape Radiopaque Tape for the improvement of endovascular procedures, and AnastoClip Vessel Closure System for the attachment of blood vessels, primarily for dialysis access. It\'s product portfolio also comprises of LeMaitre Balloon Catheters for the removal of blood clots, occlusion, and facilitation of blood flow, Reddick Cholangiogram Catheter for the introduction of dye into the cystic duct, and OptiLock Implantable Port, a central venous infusion of drugs and nutrients.
-	['']
-Vard Brevik Holding
-	Operator of a shipbuilding company. The company constructs offshore and specialized vessels used in the offshore oil and gas exploration, production and oil services industries. It develops vessels such as LNG-powered ferries, naval and coast guard vessels, fishing vessels and non-offshore related icebreakers.
-	['shipbuilder vessels ', 'oil and gas exploration', ' ', 'LNG-powered ferries', ' ', 'fishing vessels', '']
-MicroVention
-	Developer of catheter-based technologies for the endovascular treatment of peripheral and cerebral vascular diseases. The company offers HydroCoil Embolic System, an endovascular embolization device combining platinum microcoil technology for the treatment of fistula and peripheral vascular aneurysms; and MicroPlex Coil System, which is an embolization device that include framing, helical filling, and finishing coils for use in various types of aneurysm morphologies.
-	['', 'catheter based technology', ' ', 'cerebral vascular treatment', ' ', 'healthcare service', ' ', 'endovascular treatment', ' ', 'endovascular embolization device', '']
+Orchestream
+	Provider of service activation and performance management software to global telecommunications network operators. The company\'s product, Orchestream Service Activator, enables managers of large scale Internet protocol and broadband networks to automate the configuration tasks associated with network management and service activation.
+	['', 'performance management', ' ', 'global telecommunication', ' ', 'internet protocol', ' ', 'broadband network', '']
+Mirror42
+	Provider of information technology performance management services. The company provides a platform for customers to collect information from multiple IT management applications, analyze key performance indicators and metric trends.
+	['', 'performance management', ' ', 'performance indicator', ' ', 'metric trend', '']
+OutlookSoft
+	Provider of performance management solution. The company\'s flagship solution, OutlookSoft 5, provides a single performance management platform for strategic planning, budgeting, forecasting, statutory consolidation, reporting, analysis, predictive analytics, scorecarding, and dashboards. It also delivers related consulting, training, implementation, and ongoing product/client support services.
+	['', 'performance management solution', ' ', 'flagship solution', ' ', 'performance management platform', '']
+Cartesis
+	Provider of Business Performance Management (BPM) software. The company provides solutions in the field of financial consolidation and reporting, planning, budgeting and forecasting, management reporting and analysis and comprehensive business performance management.
+	['', 'business software', ' ', 'financial software', ' ', 'information delivery', ' ', 'performance management', '']
+Descant
+	Provider of tools to quantify and benchmark the performance of companies using financial and market metrics. The company creates web application that makes it easy for businesses to manage and access financing and credit from a position of strength.
+	['', 'performance benchmarking', ' ', 'financial analysis', ' ', 'performance measurement tool', '']
+Workiva
+	Provider of a cloud based software for external financial reporting to meet SEC reporting requirements. The company provides a software that streamlines the manual process to draft and file Securities Exchange Commission (SEC) reports including XBRL reporting process. It integrates word processing and spreadsheet functionality, EDGAR HTML conversion and XBRL mapping and tagging into a fully-integrated, end-to-end solution that helps SEC reporting teams meet reporting requirements for a range of regulatory filings.
+	['', 'financial reporting', ' ', 'regulatory filing mapping', ' ', 'cloud software', '']
+WorkSimple
+	Provider of on demand enterprise messaging platform. The company provides an online goal communication and performance management solution that helps small and medium businesses to create an engaging and collaborative work environment. Its goal management platform for employees includes real-time goal management, 360-degree performance reviews, real-time commitment management, recognition, informal learning, workgroups, and employee profiles.
+	['', 'messaging platform', ' ', 'online goal communication', ' ', 'performance management', ' ', 'management solution', ' ', 'management platform', ' ', 'employee profile', '']
+Exony
+	Provider of customer interaction performance management and optimization to enterprises and service providers internationally. The company offers VIM Performance, an integrated platform to drive productivity across various aspects of virtualized customer contact. It’s VIM Performance includes VIM Analytics, a single platform for day-to-day self-serve operational reporting and OLAP-based analytics to measure contact center performance, VIM Performance Management, which offers a closed loop performance management and process automation capability, VIM Resource Management, an application that allows business users to enhance the VCC’s performance without third-party training or assistance, VIM Service Management, which allows supervisors to change specific agent resources, VIM Mediator, which delivers deeper insight into business data by bringing together fact data from various data sources to enable sophisticated analytical reporting and VIM Virtualization Framework, which brings together distributed operations, management, infrastructure components and resource layers to provide scalability, security and collaboration required by distributed contact operations. It also provides insight, implementation, knowledge and support services.
+	['', 'performance management', ' ', 'customer interaction', ' ', 'customer performance optimization', '']
+AS-Groupe
+	Provider of corporate performance management software. The company offers corporate planning, controlling, reporting, and services to various organizations.
+	['', 'corporate software', ' ', 'corporate planning', ' ', 'software services', '']
+NetQoS
+	Developer of network performance management software and services for application delivery across IT networks. The company\'s products include NetQoS Performance Center, SuperAgent, ReporterAnalyzer, NetVoyant, Allocate, and GigaStor, which help IT organizations optimize their network infrastructure to deliver services to end users.
+	['', 'network performance management', ' ', 'Information Technology', ' ', 'delivery management solution', '']
+Ten Rivers Technologies
+	Provider of contract performance management software solutions to business process outsourcing and business services companies.
+	['', 'Contract Performance Management', ' ', 'software solutions', ' ', 'business process outsourcing', '']
+Opsmatic
+	Provider of tools for professional operations. The company\'s technology helps professionals to complete their tasks in a strategic manner thus keeping performance, deployments and downtime under check.
+	['', 'professional operation', ' ', 'workflow software', ' ', 'performance management', '']

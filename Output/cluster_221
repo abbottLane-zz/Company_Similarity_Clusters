@@ -1,39 +1,24 @@
-Quality Care Solutions
-	Developer of platform software products for the healthcare industry. The company provides healthcare claims administration platforms and consumer-directed health and claims platforms with integrated medical management functions for healthcare payers.
-	['', 'healthcare claim', ' ', 'medical bill', ' ', 'healthcare organization', '']
-Bioapter
-	Manufacturer of biosensors for the healthcare industry. The company\'s product portfolio includes in situ bio-sensing equipment, aptamers and other DNA sequence identification devices.
-	['biosensor ', 'biotechnological equipment', ' aptamers']
-Florida Healthcare Analytics
-	Developer of healthcare software. The company provides healthcare-analytics software. It is a mobile application platform designed to improve the patient experience during a clinical trial.
-	['', 'healthcare analytics', ' ', 'analytics software', ' ', 'healthcare software', '']
-GTESS
-	Provider of healthcare claims processing service. The company\'s custom solutions edit and clean claims by automating specific, time and cost-intensive processes.
-	['automation ', 'healthcare claims', '']
-NanoStim
-	Developer of a miniaturized, leadless cardiac pacemaker for the healthcare industry. The company\'s leadless cardiac pacemaker is configured for implantation in electrical contact with a cardiac chamber and configured for leadless pacing.
-	['', 'leadless cardiac pacemaker', ' ', 'healthcare device', ' ', 'medical device development', '']
-DocVue
-	Developer of cloud-based consumer engagement software products. The company offers an online technology platform for the consumer healthcare industry that enables patients to interact with their doctors.
-	['', 'consumer engagement', ' ', 'consumer healthcare', ' ', 'healthcare consumers', ' ', 'doctor-patient relationship', '']
-Third Millennium Healthcare Systems
-	Provider of revenue cycle management software. The company provides automate rejected or denied claims management, document imaging, claims tracking, workflow, document management, reporting and secondary claims processing.
-	['', 'revenue cycle management', ' ', 'denied claim', ' ', 'document imaging', ' ', 'Productivity Software', '']
-PassportMD
-	Provider of consumer-directed healthcare and personal health records (PHR) industry. The company helps individuals keep track of all facets of their family’s health and wellness including personal health records and documentation, doctor communication, pharmacy and expenses.
-	['', 'health industry', ' ', 'healthcare record', ' ', 'doctor communication', ' ', 'health record', '']
-Beijing Neusoft Viewhigh Technology
-	Provider of software products and services for healthcare industry. The company develops applications in healthcare business management including business planning and control for healthcare organizations, hospital operation and management, government supervision and financial management.
-	['']
-GHN Online
-	Developer of a revenue cycle management platform and clearinghouse focusing on the healthcare industry. The company serves the enterprise-class clientele through their intuitive web-based claims management solution during every stage of the electronic billing process.
-	['', 'revenue cycle management', ' ', 'transaction processing', ' ', 'claims processing', '']
-ikaSystems
-	Provider of cloud-based software for business automation and process services for the healthcare market. The company provides an enterprise-level platform to support healthcare payers\' commercial and Medicare requirements through the automation of sales, marketing, regulatory compliance, claims administration and customer service procedures.
-	['', 'healthcare payer', ' ', 'claims administration', ' ', 'process automation', '']
-Agility Healthcare Solutions
-	Provider of an automated workflow and resource management solutions to the healthcare industry.
-	['', 'resource management', ' ', 'management software', ' ', 'healthcare industry', '']
-ChemTrak
-	Provider of medical information to healthcare industry professionals. The company designs and presents interactive, informational, video and animated graphic presentations for the medical industry.
-	['', 'medical information', ' ', 'medical suppliers', ' ', 'medical industry', ' ', 'medical presentations', ' ', 'multimedia presentations', '']
+Epocal
+	Provider of biochips and micro-fabrication of solid-state diagnostic devices. The company is implementing an entire blood diagnostic system in FlexCard™ technology, a card format similar to the smart card used in conventional check and telephone cards.
+	['', 'monitoring devices', ' ', 'diagnostic devices', '']
+Microgenics Holding
+	Manufacturer and seller of diagnostic reagents. The company offers CEDIA immunoassays, DRI products, including liquid and ready to use reagents, MAS control products for serum chemistry.
+	['reagents ', 'diagnostic reagents', ' immunoassays']
+Silicon Biosystems
+	Provider of technology to study single cells for culture or molecular analysis. The company is the developer of DEPArray technology, enabling researchers to study rare cells and to determine the biological significance of subpopulations of cells within a sample. It also focuses on facilitating advances in personalized medicine by enabling the isolation, recovery and analysis of individual, viable rare cells.
+	['heterogeneity ', 'cell-biology', ' ', 'rare cell', ' ', 'biological significance', ' ', 'single cell', ' ', 'molecular analysis', '']
+Homestead Clinical
+	Developer of diagnostic and prognostic tools. The company was founded to commercialize a suite of technologies developed at the Institute for Systems Biology (ISB) that have broad utility in the development of novel diagnostic tools.
+	['', 'diagnostic tool', ' ', 'prognostic tool', ' ', 'novel diagnostic tool', '']
+Boule Diagnostics
+	Boule Diagnostics AB is engaged in developing, manufacturing, and marketing hematology measurement systems. The company offers blood analysis systems, plastic micro capillaries, as well as support and consulting services for human and veterinary markets.
+	['hematology ', 'blood disease', ' ', 'blood analysis', ' ', 'blood diagnostic', '']
+miacom Diagnostics
+	Developer of diagnostic kits. The company provides a diagnostic technology that uses biofluorescence to scan for bacteria and other disease-causing pathogens. The kits can be used to evaluate blood and sputum.
+	['', 'diagnostic kits', ' ', 'channel pipette', ' ', 'hybridization chamber', ' hotplate fluorescence']
+NanoMR
+	Manufacturer of blood diagnostic devices. The company has developed a system for rapid isolation of rare cells from complex matrices at levels of one cell per milliliter or lower.
+	['', 'blood diagnostic', ' ', 'bloodstream infection', ' ', 'molecular diagnostic', '']
+Oxford Immunotec Global
+	Manufacturer and marketer of T Cell based diagnostic test products and services for the laboratories and clinicians. The company\'s product is the \'T-SPOT.TB\' test, the new cellular blood test for the detection of active and latent tuberculosis infection.
+	['', 'blood test', ' ', 'tuberculosis infection', ' ', 'blood sample', ' ', 'tuberculosis diagnosis', '']

@@ -1,42 +1,57 @@
-BioScan Technologies
-	Developer of imaging technology for use in interventional vascular applications. The company is the developer of LightWire guidewires, a technology  based on the company\'s optical-ultrasonic platform, and used for the diagnosis and treatment of cardiovascular disease.
-	['ultrasonic cardiovascular optical-ultrasonic']
-Map Pharmaceuticals
-	Developer of novel inhalation therapies for respiratory and systemic diseases. The company develops innovative drug that focuses on providing better treatments for patients with neurological diseases.
-	['', 'novel inhalation', ' ', 'neurological diseases', ' ', 'bio pharma drug', '']
-Corvas
-	Manufacturer and developer of therapeutic agents for the prevention and treatment of cardiovascular and inflammatory diseases. The company also undertakes cancer research programs.
-	['biotherapeutics ', 'cardiovascular disease', ' ', 'drug candidate', '']
-Encore Pharmaceuticals
-	Developer of drugs for clinical applications in the pharmaceutical and nutritional fields. The company\'s products enables treatment and prevention of cancer, neurologic and cardiovascular diseases.
-	['', 'drug development', ' ', 'proprietary products', ' ', 'bio-pharmaceutical research', ' ', 'clinical applications', '']
-Gensia Pharmaceuticals
-	Developer of drugs to treat cardiovascular diseases. The company\'s drug research programmes involve technology based on purine-pyrimidine metabolism, which have application in the treatment of cardiovascular, cerebrovascular and neurological diseases.
-	['', 'cardiovascular diseases', ' ', 'purine-pyrimidine metabolism', '']
-Serodus
-	Developer of pharmaceuticals for treatment of diseases in the heart and blood vessels. The company focuses on new therapeutic products for the treatment of cardiovascular diseases with large unmet clinical needs.
-	['', 'cardiovascular diseases', ' ', 'blood vessels', ' ', 'therapeutic products', '']
-Vecta
-	Developer of drugs for gastrointestinal diseases. The company is a research and development based pharmaceutical company which develops and commercializes products for gastrointestinal diseases.
-	['', 'gastrointestinal disease', ' ', 'pharmaceutical research', ' ', 'intestine disease', '']
-ZOLL LIFEBRIDGE
-	Supplier of life support systems for the acute medical care in the area of cardiovascular diseases. The company develops heart-lung machine that allows doctors to substitute the patient’s cardiovascular system and save them from death in cardiogenic shock.
-	['', 'life support system', ' ', 'heart-lung machine', ' ', 'cardiovascular system', ' ', 'medical care', '']
-Sequel Pharmaceuticals
-	Developer of novel and clinical-stage drug candidates to treat cardiovascular diseases. The company\'s lead product K201 (JTV-519) has the potential to treat A-Fib, which can cause shortness of breath, chest pain, and blood clot, often leading to a stroke.
-	['cardiovascular ', 'novel drug', '']
-Harvest Technologies Corp
-	Provider of bone marrow aspirate concentrate (BMAC) systems to treat vascular, orthopedic and cardiovascular diseases. The company offers SmartJet applicator kits that deliver platelet concentrate and thrombin to the surgical site. It helps in improving patient outcomes by enhancing the body\'s normal healing process using adult stem cells and growth factors.
-	['BMAC ', 'stem cells', ' ', 'bone marrow aspirate concentrate', '']
-Angio B
-	Developer and provider of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders. The company engages in research and development of drugs concentrating on treatment of cardiovascular diseases and peripheral ischemic disorders.
-	['', 'cardiovascular disease', ' ', 'peripheral ischemic disorder', ' ', 'development of drug', '']
-MIGENIX
-	Developer of drugs to treat or prevent infectious, degenerative and metabolic diseases. The company is committed to advancing therapy, improving health, and enriching life by developing and commercializing drugs for the prevention and treatment of major medical diseases and certain conditions with unmet medical need.
-	['', 'commercial drug', ' ', 'disease control', ' ', 'metabolic diseases', ' infection']
-Catalyst Pharmaceutical Partners
-	Developer of a pharmaceutical company. The company focuses on in-licensing, developing and commercializing prescription drugs to treat rare (orphan) neuromuscular and neurological diseases, including Lambert-Eaton Myasthenic Syndrome (LEMS), infantile spasms and Tourette\'s disorder.
-	['in-licensing ', 'prescription drugs', ' spasms']
-Adnexus Therapeutics
-	Developer of Adnectins biologics/medicines in the United States. The company\'s product candidates include Angiocept/CT-322, an anti-angiogenesis agent for treating cancer that blocks the VEGFR-2 pathway; and other Adnectin therapies for the treatment of oncology, immunology, and cardiovascular diseases.
-	['', 'drug discovey', ' ', 'anti-angiogenesis agent', ' ', 'treatment of oncology', '']
+AWR Corporation
+	Developer of electronic design automation software in the United States. The company offers Microwave Office design suite, which encompasses various tools for IC, PCB, and module design, including linear circuit simulators, non-linear circuit simulators, electromagnetic (EM) analysis tools, integrated schematic and layout, and parametric cell libraries with built-in design-rule check; Visual System Simulator, a software for the design of communications systems; Analog Office design suite, a design system that is architected from the ground up for analog and radio-frequency integrated circuit designs; and Signal Integrity design software that is for integrated co-chip/package/module designs as it addresses the cross-domain signal integrity issues.
+	['', 'electronic design', ' ', 'automation software', ' ', 'analog design', '']
+Ciranova
+	Provider of electronic design automation software. The company focuses on building interoperable tools for custom chip designers to create new and/or migrate legacy analog IP and help engineers integrate complex RF, analog and mixed-signal content into nanometer-scale silicon with higher density and speed.
+	['', 'electronic design', ' automation ', 'chip designer', '']
+Valid Logic
+	Manufacturer of computer-aided design equipment. The company also develops integrated electronic design automation software.
+	['', 'electronic design automation', ' ', 'electronic design software', '']
+FASTech Integration
+	Developer of factory automation software. The company develops execution systems, cell control and equipment interface software for semiconductor manufacturing facilities.
+	['', 'automation software', ' ', 'equipment interface software', ' ', 'Workflow Software', '']
+VaST Systems Technology
+	Provider of tools and models for embedded system design automation. The company provides ESL engineering tools and models to companies involved in the engineering and manufacture of high-performance, real-time electronic systems integrating significant hardware, software and other technology components.
+	['', 'architectural analysis', ' ', 'virtual system prototyping', ' ', 'wireless technology', ' ', 'systems design', ' ', 'software development', '']
+Infiniscale
+	Operator of an electronic design automation (EDA) company. The company develops a proprietary modeling engine and optimization software, and has created a software suite to address emerging design for yield (DFY) challenges related to analog, mixed-signal and RF designs.
+	['', 'Statistical analyses', ' ', 'behavioral modeling', ' ', 'design optimization', ' ', 'variation-aware design', ' ', 'modeling software', ' EDA RF']
+GrabCAD
+	Provider of cross-platform computer aided design library and engineering community. The company\'s platform allows engineers to share and host files and communicate.
+	['', 'engineering service', ' ', 'computer aided design', ' ', 'technical drawing', ' ', 'design model library', ' ', 'engineering community', '']
+Biosym Technologies
+	Developer of spectrum of molecular modeling software products for the biopharmaceutical, polymer and catalysis technology sectors. The company markets for Computer Aided Molecular Design.
+	['', 'molecular design', ' ', 'computer aided', '']
+DesignAdvance Systems
+	Developer of electronic design automation services for printed circuit boards. The company allows designers reduce board layout and placement time which enables bi directional communication.
+	['', 'electronic design', ' ', 'circuit board', ' ', 'board layout', '']
+Celestry
+	Provider of physical design products. The company offers software and services to electronic and semiconductor companies that are involved with the design of chips.
+	['chips electrinc semiconductor']
+SteLar Tools
+	Developer of software applications for the electronic design automation industry. The company provides graphical and intelligent textual design creation and analysis environment for large, complex HDL designs. The company\'s technology enables designers and verification engineers to reach RTL Closure by offering them the ability to explore, navigate, analyze, document and create a design using their current design methodology and tools.
+	['', 'Software Applications', ' ', 'Electronic Design', ' ', 'Automation Industry', ' ', 'HDL Design', '']
+Takumi Technology
+	Provider of design for manufacturability (DFM) products. The company engages in designing products that a easy to manufacture. The company also provides mask detection and automated full chip semiconductors.
+	['', 'design for manufacturing', ' ', 'semiconductor devices', ' ', 'electronic products', '']
+ViewLogic Systems
+	Developer of electronic design automation software. The company designs, develops and markets electronic design automation software for field-programmable gate array (FPGA) printed circuit boards and systems designs.
+	['', 'electronic design automation', ' ', 'automation software', ' ', 'gate array software', '']
+CoFluent Design
+	Provider of electronic system level design tools for modelling and simulating systems. The company offers an integrated electronic system-level modeling and simulation environment that operates as a graphical modeler for capturing the system\'s behavior and execution platform.
+	['', 'simulating system', ' ', 'electronic system', ' ', 'graphical modeler', ' simulation']
+PlanPlatform
+	Developer of software that provides engineers with two-dimensional and three-dimensional software drafting tools. The company develops SaaS technologies that enable users to edit two dimensional and three dimensional Computer Aided Design and geospatial data from every internet enabled machine.
+	['', 'software drafting tool', ' ', 'computer aided design', ' ', 'geospaial data', '']
+Synchronicity
+	Developer of software to improve the integrated circuit design process. The company provides services for semiconductor, embedded software and system developers on design management and collaboration solutions for managing and distributing very large-scale electronic designs across multiple sites.
+	['', 'circuit design', ' ', 'design management', ' ', 'collaboration solutions', ' ', 'electronic designs', ' semiconductor ', 'system developers', ' ', 'embedded software', '']
+Ponte Solutions
+	Developer of model-based software products and design-for-manufacturing solutions that analyze, predict and reduce the impact of process variability during the manufacture and design of semiconductors.
+	['', 'semiconductor software', ' ', 'manufacturability solution', ' ', 'design automation', ' ', 'IC design', '']
+0-In Design Automation
+	Operator of an assertion-based verification company. The company develops and supports electronic design automation tools and functional verification products that help clients to verify multi-million gate application-specific integrated circuit and system-on-chip designs. Its system also automates the engineered methodologies.
+	['', 'assertion-based verification', ' ', 'electronic design automation', '']
+Satellier
+	Provider of workshare solutions to the global AEC industry. The company provides workshare services such as Building Information Modeling (BIM), Design Support, Engineering/MEP, Design Management Services, and computer aided drafting support to architectural, engineering, and MEP disciplines.
+	['', 'design support', ' ', 'design management', ' ', 'project documentation', ' ', 'building information modeling', '']

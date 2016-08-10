@@ -1,27 +1,18 @@
-Cloudmetrx
-	Developer of real-time risk-return management technologies. The company provides real-time, cloud-based, mobile financial analytic services in the areas of portfolio management, risk analysis, and trading for asset management professionals.
-	['', 'risk return management', ' ', 'financial analytic', ' fin-tech ', 'financial software', '']
-Decision Dynamics
-	Developer and supplier of project controls and real time operations reporting software solutions for project management decisions. The company\'s project cost management solution provides real-time cost capture, validation, approvals and reporting, asset management and analytics.
-	['', 'project controls', ' ', 'project management decisions', ' ', 'cost management solution', ' ', 'real time operations', ' ', 'data capture', ' ', 'business analytics solutions', '']
-Strongroom Solutions
-	Provider of accounts payable and payment automation services for midsize companies. The company offers a software-as-a service platform, which enables real-time, secure invoice management and approvals for association managers and board members.
-	['', 'automation services', ' ', 'payment automation', ' ', 'invoice management', '']
-ScriptLogic
-	Provider of network administration software for Microsoft Windows-based networks. The company offers active directory, application, desktop, incident, server, SQL server, and vulnerability management solutions. It also provides Patch Authority Ultimate, an enterprise-class patch management solution; and Desktop Authority, a desktop lifecycle management solution. In addition, the company offers Security Explorer, a graphical solution for real-time management of access controls and security on workstations across the enterprise.
-	['', 'network administration software', ' ', 'patch management solution', ' ', 'desktop lifecycle management', '']
-BioSig Technologies
-	Developer of clinical technology for diagnoses and treatments of abnormal heart rhythms. The company provides electrophysiologists to make crucial clinical decisions in real time by providing information unobtainable with any other equipment presently in the electrophysiology laboratory.
-	['', 'abnormal heart', ' ', 'electrophysiology', ' ', 'electrophysiology laboratory', '']
-Workiva
-	Provider of a cloud based software for external financial reporting to meet SEC reporting requirements. The company provides a software that streamlines the manual process to draft and file Securities Exchange Commission (SEC) reports including XBRL reporting process. It integrates word processing and spreadsheet functionality, EDGAR HTML conversion and XBRL mapping and tagging into a fully-integrated, end-to-end solution that helps SEC reporting teams meet reporting requirements for a range of regulatory filings.
-	['', 'financial reporting', ' ', 'regulatory filing mapping', ' ', 'cloud software', '']
-WorkSimple
-	Provider of on demand enterprise messaging platform. The company provides an online goal communication and performance management solution that helps small and medium businesses to create an engaging and collaborative work environment. Its goal management platform for employees includes real-time goal management, 360-degree performance reviews, real-time commitment management, recognition, informal learning, workgroups, and employee profiles.
-	['', 'messaging platform', ' ', 'online goal communication', ' ', 'performance management', ' ', 'management solution', ' ', 'management platform', ' ', 'employee profile', '']
-WebSpective Software
-	Developer of management performance software solutions for large websites. The company provides internet commerce and content sites with web resource management systems designed to run e-business in real-time.
-	['', 'internet commerce', ' e-business']
-VoteIt
-	Provider of online group decisions. The company provides real-time consensus-generator that uses community interaction and polling methodologies to move groups quickly and right into action.
-	['', 'online group decision', ' ', 'polling methodology', ' ', 'information service', ' ', 'community interaction', '']
+Chromos Molecular Systems
+	Developer of artificial chromosome technology for use in biopharmaceutical production. The company focuses on the development of proprietary artiﬁcial chromosome expression system technology that is used to engineer production quality cell lines to manufacture biopharmaceutical products, including monoclonal antibodies and the development of human therapeutic products.
+	['', 'artificial chromosome technology', ' cell ', 'biopharmaceutical products', '']
+LeukoSite
+	Developer of therapeutics based upon the biology of leukocytes with potential applications in cancer, inflammatory, autoimmune and viral diseases. The company\'s technology and expertise in leukocyte biology facilitate the discovery and development of proprietary drugs that destroy or block the disease-causing actions of leukocytes.
+	['', 'drug discovery', ' ', 'leukocyte', '']
+OxEpi
+	Developer of new therapies for oncology and metabolic disease. The company uses a medicinal chemistry approach for the discovery and development of new antagonists of a major new class of enzymatic targets involved in epigenetic regulation.
+	['epigenetics ', 'genetic code', ' mutations']
+Palau Pharma
+	Provider of biopharmaceutical products. The company specializes in the discovery and development of new products for treating inflammatory and autoimmune diseases.
+	['bio-pharmaceutical ', 'inflammatory disease', ' ', 'autoimmune disease', '']
+KeyNeurotek Pharmaceuticals
+	Provider of bio pharmaceutical products. The company provides for development and marketing of small molecule drugs for the treatment of neuronal and autoimmune diseases.
+	['', 'bio pharmaceutical product', ' ', 'molecule drug', ' ', 'autoimmune disease', '']
+Allostera Pharma
+	The company also developes allosteramers for inflammation and autoimmune diseases. The company\'s lead products target the insulin-like growth factor-1 receptor (IGF-1R)for cancer.
+	['', 'inflammation disease', ' ', 'autoimmune disease', '']

@@ -1,18 +1,6 @@
-Koor Industries
-	Investor of companies in agrochemicals, finance, telecommunications and asset management sectors. The company actively invests in agrochemicals through Makhteshim Agan Industries, in finance through Credit Suisse, in telecommunications and technology through its holdings in Microwave Networks, in asset management through Epsilon Investment House and in venture capital through Koor Corporate Venture Capital.
-	['', 'holding company', ' ', 'investing company', '']
-Smartfundit
-	Provider of financial products to technology buyers and sellers. The company provides asset finance, technology finance, venture capital finance, enterprise finance, public sector finance and online registration services.
-	['', 'financial product', ' ', 'asset finance', ' ', 'venture capital finance', '']
-Seaside Software
-	Designer and manufacturer of corporate messaging and intranet applications for the corporate market. The company offers integrated software and hardware products.
-	['', 'enterprise applications', ' ', 'corporate messaging applications', ' ', 'platform software', '']
-Sinia
-	Provider of application that transforms internet-enabled cellular phones into secure connections to the Internet and corporate intranet. The company provides enterprise services that give users secure mobile access to corporate information. It’s users can manage corporate email, calendar, contact lists and other server-based information on any Web enabled device.
-	['', 'enterprise service', ' ', 'mobile internet connection', ' ', 'mobile application', '']
-Sharewise
-	Provider of an online finance community. The company\'s website acts as a share community for users seeking for in-depth information regarding stocks. The company\'s website also acts as a forum for users to share predictions and recommendations.
-	['', 'online community', ' ', 'financial service community', ' ', 'share community', ' ', 'stock information', '']
-S&P Capital IQ
-	Provider of information and technology services to the investment banking and corporate finance community. The company develops software analytics and tool sets for the corporate finance professional.
-	['', 'investment banking', ' ', 'corporate finance', ' ', 'software analytic', '']
+Khimaira
+	Supplier of bus seats. The company also manufactures motor vehicle seats, boat seats, special seats as well as upholstery components.
+	['', 'bus seats', ' ', 'boat seats', ' upholstery']
+Hotwire
+	Provider of discount travel services. The company offers deep discounts from its travel suppliers to help travelers book unsold airline seats, hotel rooms, and rental cars.
+	['discount ', 'rental car', ' ', 'hotel rooms', ' airline ', 'discount airfare', ' ', 'discount travel', '']

@@ -1,48 +1,24 @@
-David Holmes BMW
-	Dealer of automobiles. The company sells Bayerische Motoren Werke (BMW) and Mini Cooper cars.
-	['', 'car dealer', ' ', 'car servicing', ' ', 'car showroom', ' ', 'Consumer Product', '']
-Cardpool
-	Provider of a marketplace for customers to buy, sell, swap and trade gift cards. The company provides cards under various categories, including automotive and travel, books and entertainment, clothing, electronics, health and beauty, home furnishings, jewelry, office supplies, restaurants, supermarkets and sporting goods.
-	['', 'gift card', ' ', 'giftcard trading', ' ', 'unwanted giftcard', '']
-Wal-Mart.com
-	Owner and operator of an online retail business. The company is a global online seller of consumer products such as electronics, office products, books, furniture and outdoor equipment.
-	['', 'party supplies', ' ', 'video games', ' ', 'gift cards', '']
-Massivkonzept
-	Online retailer of custom furniture, including shelving, cabinets, tables and seating systems. The company provides home furnishings that can be customized to users’ specific measurements, colors and wood qualities. The company also operates a flagship store in Hamburg, Germany.
-	['', 'home furnishings', ' ', 'custom furniture', ' ', 'online retailer', ' ecommerce ', 'wood products', '']
-Gérard de Gilly
-	Provider of office supplies. The company provides office stationery, supplies, equipment and furniture.
-	['', 'office supply', ' ', 'office stationery', ' ', 'equipment and furniture', '']
-Actional
-	Provider of service-oriented architecture management and security solutions. The company\'s Control Brokers give market-facing e-business environments direct control of business services contained in back-office, front-office and marketplace applications.
-	['', 'architecture management', ' ', 'service management', ' ', 'security solution', ' ', 'business control', ' ', 'eBusiness environment', '']
-INTERTREND
-	Provider of furniture-manufacturing services. The company manufactures office furniture and kitchen units.
-	['', 'office furniture', ' ', 'kitchen unit', ' ', 'furniture seller', '']
-Combinet
-	Developer of professional-office products which provide small offices and residential users with easy access to remotely located information using telephone lines based on ISDN technology. ISDN is anadvanced telecommunication service capable of moving information faster than standard telephone service.
-	['', 'enterprise software', ' telecommuter ', 'speedy remote access', '']
-Welcome office
-	Online retailer of office products. The company sells office supplies, school supplies and office furniture through its website.
-	['', 'office supplies', ' mail-order ', 'office products', '']
-Derivatives Portfolio Management
-	Provider of hedge funds administrative services. The company provides back office and middle office services for managers of alternative assets, including hedge fund managers, proprietary traders and commodity pool operators.
-	['', 'hedge funds', ' ', 'proprietary traders', ' ', 'alternative assets', '']
-Dixon Ticonderoga
-	Manufacturer and seller of writing instruments, art materials, and office products. The company offers writing and drawing pencils, pens, art materials, felt tip markers, industrial markers, lumber crayons, and correction materials, as well as wax crayons, chalks, dry and liquid tempera, and water colors under various brands, including Ticonderoga, Prang, and Dixon. It distributes its products through wholesale, commercial, and retail stationers, as well as through school supply houses, industrial supply houses, blueprint and reproduction supply firms, and art material distributors and retailers.
-	['']
-CBS France
-	Supplier of furniture and office equipment. The company offers various products for local authorities which include signage and road equipments, waste collection products, games, outdoor and school furniture and other supplies for communities.
-	['', 'office supplies', ' ', 'office furniture', ' ', 'outdoor furniture', '']
-Sweetch (valet service)
-	Provider of an on-demand valet service for people in San Francisco. The company provides a way for office goers to order a valet through a mobile application, enabling the user to drop the car off in front of office and then request it whenever he is ready to leave.
-	['', 'valet service', ' parking ', 'valet parking', '']
-Entellus Medical
-	Developer of balloon-dilation technologies to treat sinusitis. The company offers XprESS multi-sinus dilation tool, which offers ENT physicians a tool to trans-nasally treat the frontal, sphenoid or maxillary sinuses in either a doctor’s office or operating room.
-	['', 'sinus treatment', ' healthcare ', 'sinus dilation', ' sinusitis ', 'therapeutic solution', '']
-Eye\'At Groupe
-	Retailer of healthcare products. The company through its subsidiary is an online retailer of parapharmacy products and contact lenses.
-	['', 'contact lenses', ' ', 'health products', ' ', 'consumer health', '']
-DPM Mellon
-	Provider of hedge fund administration, back and middle office outsourcing, and risk administration services.
-	['', 'hedge fund', ' administration']
+Affinity Payments
+	Provider of payment platform. The company provides electronic payment services to merchants and partners.
+	['', 'payment platform', ' ', 'electronic payment', ' ', 'online payment', '']
+Beijing Tong Technology Development
+	Provider of electronic payment applications and services. The company supplies payment cards for the public transportation system in China.
+	['', 'virtual payment', ' micro-payment ', 'payment services', '']
+Starfish Holdings
+	Operator of a personalized marketing and payments platform for retailers. The company provides its payment platform for use by grocery chains, drug chains and big box retailers, as well as neighborhood merchants and restaurants.
+	['', 'payment service', ' ', 'payment platform', ' ', 'online transaction', '']
+Clareon
+	Provider of electronic payment platform for businesses. The company develops PayMode platform that enables businesses to send and receive electronic payments, along with detailed remittance information, to and from suppliers and customers.
+	['', 'electronic payment', ' ', 'online transaction', ' ', 'electronic business payment', ' ', 'payment software', '']
+Absolute Commerce
+	Developer of an electronic payment tool. The company provides a way to integrate organization’s payment systems with supplier catalogs.
+	['', 'electronic payment', ' ', 'electronic procurement', ' ', 'enterprise resource management', ' ', 'supplier enablement', ' ', 'price auditing', '']
+Generated Systems Technologies
+	Provider of e-banking software products for banks and financial institutions. The company provides e-banking software and offers electronic payment softwares designed to address payment needs of corporations and correspondent banks.
+	['', 'financial institution', ' ', 'software product', ' ', 'electronic payment', ' ', 'e-banking', '']
+99Bill
+	Provider of independent third-party payment services in China. The company offers electronic payment services to enterprises and individuals. It also supports payment via international cards, such as VISA and MasterCard; and services domestic and international bank cards.
+	['', 'third party payment', ' ', 'electronic payment', ' ', 'electronic fund transfer', '']
+AnswerQi
+	Operator of an online platform for technology related questions and answers. The company provides technical support, online collaboration toolset and a safe payment platform to get urgent technology related answers.
+	['Q&A ', 'technology related Q&A', ' ', 'technical support', ' ', 'safe payment platform', '']

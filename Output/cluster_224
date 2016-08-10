@@ -1,27 +1,12 @@
-Geneart
-	Manufacturer of integrated system solutions for DNA engineering and processing. The company provides software and a robotics platform enabling DNA synthesis for the fermentation of recombinant proteins, combinatorial biology and vaccines.
-	['DNA ', 'synthetic genes', ' fermentation ', 'biotechnology tools', '']
-Roche NimbleGen
-	Manufacturer and marketer of a proprietary suite of microarrays, related products and services for DNA sequencing. The company is focused on research activities and manufacturing target-enrichment probe pools for DNA sequencing. The company\'s Maskless Array Synthesis (MAS) technology permits the company to develop and manufacture custom high density, highly reproducible DNA arrays, which improve the quality and data yield of DNA chips.
-	['', 'DNA chip', ' ', 'DNA array', ' ', 'reproducible DNA', ' microarray ', 'DNA sequencing', '']
-AlphaHelix Molecular Diagnostics
-	Developer of DNA chips for process analysis. The company uses its DNA chips for mutation detection of genes, gene marking in cancer and the development of new drugs.
-	['', 'mutation detection', ' ', 'gene marking', ' ', 'DNA chips', ' DNA']
-Ion Torrent Systems
-	Developer of a DNA sequencing system. The company\'s system enables a direct connection between chemical and digital information.
-	['', 'sequencing technology', ' ', 'digital information', ' ', 'DNA replication', '']
-Intelligent Bio-Systems
-	Developer of DNA sequencing systems.
-	['', 'DNA sequencing', ' ', 'sequencing system', ' ', 'genome sequencing', '']
-GenEncap
-	Developer of DNA sequencing technology. The company provides DNA sequence information to life scientists, clinicians and individuals based on a proprietary and parallel implementation of Sanger sequencing.
-	['sequencing ', 'sanger sequencing', ' ', 'sequencing technology', '']
-TwoF
-	Developer of technology for genetic analysis assays. The company\'s technology platform Supramolecular NanoStamping is used for the production of DNA microarrays.
-	['DNA microarrays ', 'DNA chip', '']
-Performance Genomics
-	Developer of deoxyribonucleic acid (DNA) sequence based predictive algorithms. The company develops and commercializes deoxyribonucleic acid that control reproductive performance in mammals. It also develops genomics tests to predict how long livestock will stay fertile, which farmers can use for selective breeding.
-	['', 'livestock breeding', ' ', 'increase fertility', ' genome']
-Mosaic Technologies
-	Developer of DNA-based diagnostic products for the blood and plasma-screening, clinical testing research markets. The company develops Acrydite reagent and several associated chemistries for linking DNA probes to solid phases, such as beads, microtiter plates and slides-both glass and plastic. The company\'s product line, EZ-RAY, is a specialty coated glass microscope slide designed for the fabrication of DNA microarrays and also include kits, which contain coated printed slides and control reagents used to verify and calibrate array fabrication procedures.
-	['', 'DNA amplification', ' ', 'microscope slide', ' microarrays ', 'control reagents', ' ', 'fabrication procedures', '']
+Roving Planet
+	Provider of network access control and management solutions for enterprise networks. The company provides its client a secure network environment to manage and control its users, endpoints, connections and sessions.
+	['', 'networking software', ' ', 'network management', ' ', 'wireless service provider', '']
+BroadHop
+	Provider of policy control and service management. The company provides policy control services to telecom service providers to make control, monetize and personalize any service, regardless of whether the network has new or legacy components, in-network or third-party services, wired or wireless access technologies.
+	['', 'network control', ' ', 'network management', ' ', 'network policy management', '']
+Sandvine
+	Provider of network policy control services focused on protecting and improving the quality of experience on the internet. The company offers software that help cable, fixed wireless and mobile operators better understand network traffic, manage network congestion, create new services and revenues, mitigate traffic that is malicious or undesirable to subscribers, deliver multimedia services and increase subscriber satisfaction.
+	['', 'network software', ' ', 'control services', '']
+TAZZ Networks
+	Developer of policy control software for broadband service providers. The company is helping service providers and telephone carriers to build TDM, Frame, ATM and IP networks .
+	['', 'Policy control software', ' ', ' broadband service providers', '  TDM']

@@ -1,42 +1,18 @@
-Affinity Payments
-	Provider of payment platform. The company provides electronic payment services to merchants and partners.
-	['', 'payment platform', ' ', 'electronic payment', ' ', 'online payment', '']
-Piano media
-	Provider of payment services to the media publishing industry. The company enables publishers to monetize web content without fear of losing either website advertising revenue or audience share.
-	['', 'payment service', ' ', 'web content', ' ', 'paid content', '']
-Up & Net
-	Provider of e-payment services to e-merchants. The company creates private e-payment programs. The company provides e-gift card programs which are accepted by e-merchants. E-giftcards are re-materialized for distribution in convenience store.
-	['', 'e-payment', ' ', 'e-giftcard', ' ', 'e-commerce', '']
-Beijing Tong Technology Development
-	Provider of electronic payment applications and services. The company supplies payment cards for the public transportation system in China.
-	['', 'virtual payment', ' micro-payment ', 'payment services', '']
-Billpoint
-	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
-	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
-Starfish Holdings
-	Operator of a personalized marketing and payments platform for retailers. The company provides its payment platform for use by grocery chains, drug chains and big box retailers, as well as neighborhood merchants and restaurants.
-	['', 'payment service', ' ', 'payment platform', ' ', 'online transaction', '']
-Balanced
-	Provider of a payment system for marketplaces. The company allows marketplaces to charge cards, escrow funds and collect their marketplace fees.
-	['', 'payment system', ' ', 'online payment', ' ', 'escrow fund', ' ', 'marketplace fee', '']
-Tempo Payments
-	Provider of payment technology for debit card related technologies. The company offers Tempo Debit, a solution that enables ACH-based decoupled debit programs for issuers.
-	['', 'payment technology', ' ', 'debit program', ' ', 'transaction processing', ' ', 'decoupled debit card', '']
-Clareon
-	Provider of electronic payment platform for businesses. The company develops PayMode platform that enables businesses to send and receive electronic payments, along with detailed remittance information, to and from suppliers and customers.
-	['', 'electronic payment', ' ', 'online transaction', ' ', 'electronic business payment', ' ', 'payment software', '']
-PropertyBridge
-	Developer of electronic payment processing solutions for the real estate management industry. The company provides payment types such as credit and debit card, automated clearing house, check scanning, cash payment and lockbox.
-	['', 'electronic payment', ' ', 'payment processing', ' ', 'real estate management', ' ', 'automated clearing', ' ', 'payments platform', '']
-Absolute Commerce
-	Developer of an electronic payment tool. The company provides a way to integrate organization’s payment systems with supplier catalogs.
-	['', 'electronic payment', ' ', 'electronic procurement', ' ', 'enterprise resource management', ' ', 'supplier enablement', ' ', 'price auditing', '']
-Works
-	Provider of commercial credit card management and optimization technology.The company provides a Web-based platform that connects payment-management automation with the global Visa payment network.
-	['', 'credit card management', ' ', 'credit card service', ' ', 'electronic payment', ' ', 'payment policy', '']
-Allcharge
-	Provider of e-payment services. The company is a global Internet payment-service provider offering merchants and content owners e-payment, billing and processing technologies and services.
-	['', 'digital content', ' ', 'electronic network', ' ', 'internet payment system', ' e-wallet']
-99Bill
-	Provider of independent third-party payment services in China. The company offers electronic payment services to enterprises and individuals. It also supports payment via international cards, such as VISA and MasterCard; and services domestic and international bank cards.
-	['', 'third party payment', ' ', 'electronic payment', ' ', 'electronic fund transfer', '']
+A-Tech Solution
+	Manufacturer of injection mold and stamping die products for the exterior and interior of automobiles and consumer electric parts. The company\'s products include precision press die, large size press die, precision gear mold, automobile components, OA components and lead frame components.
+	['', 'injection mold', ' ', 'precision gear mold', ' ', 'stamping die products', ' ', 'automobile components', '']
+XtremeAir
+	Producer and designer of aerobatics aircraft. The company designs, produces and distributes aircraft. It also involves in composite parts design, prototyping and production.
+	['', 'aircraft manufacturer', ' airplane ', 'airplane designer', '']
+Duke Corporation
+	Manufacturer of machined parts for the automotive and electrical industries. The company is engaged in the manufacture and sale of precision assemblies, systems, machined parts to the automotive and electrical industries.
+	['', 'machine part', ' ', 'precision assembly', ' ', 'electrical industry', '']
+Spintech
+	Developer of composite parts with complex shapes and trapped features that easily integrate into current manufacturing processes. The company develops technologies and tooling services for composite manufacturing and structural repairs in defense and consumer market.
+	['', 'composite part development', " \\'composite manufacturing", ' ', 'industrial supply', ' defense']
+CFN Precision
+	Developer of small to medium-sized precision metal, plastic and composite parts. The company develops metal, plastic and composite parts to the Aerospace, Military, Medical, Electronic and Industrial manufacturing sectors.
+	['', 'precision machined component', ' ', 'precision metal part', ' ', 'plastic component', ' ', 'composite part', '']
+Tsang Yow Industrial Co.
+	Manufacturer and exporter of powertrain components. The company manufactures and exports a range of metal-based components and assemblies for power train system. It provides automatic transmission hard parts, manual transmission parts, off highway machinery parts and torque converter parts.
+	['', 'train system', ' powertrain ', 'metal-based', '']

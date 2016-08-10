@@ -1,27 +1,27 @@
-RouterShare
-	The company provides technology which connects people to the internet anywhere around the world. The company create a network of Prepaid Wi-Fi Internet Access points.
-	['', 'people connection', ' ', 'access point network', ' ', 'online networking', '']
-Orthogon Systems
-	Provider of wireless Ethernet bridges and carrier-grade point-to-point broadband wireless systems. The company serves the corporate, government, healthcare, Internet service providers, and education markets in the United States, Europe, and Asia Pacific regions.
-	['ethernet ', 'wireless system', ' ', 'point to point', ' ', 'broadband wireless', '']
-Gogo
-	Provider of in-flight wireless internet services. The company is developing broadband services for both private and commercial aviation.
-	['', 'flight entertainment', ' ', 'internet service', ' ', 'wireless service', '']
-Intermetro Communications
-	Provider of voice and data communication services.The company operates VoIP switching equipment and network facilities that are utilized to provide its services to major US and international telecommunications carriers, wireless companies, broadband phone companies and, pre-paid calling card providers. It offers its services through a direct sales force, agents, and retail distribution partners, including general merchandise and discount retail chains.
-	['', 'data communication', ' ', 'wireless telecommunications', ' ', 'Carrier Services', '']
-MetroFi
-	Designer of Wi-Fi Internet networks and wireless broadband services. The company partners with city governments, local business advertisers, Internet service providers and other companies to deliver wireless broadband service to the communities in which it operates.
-	['', 'Wi-Fi internet', ' ', 'broadband service', ' ', 'wireless broadband service', '']
-Fullrate
-	Provider of broadband services. The company\'s products include internet connections with bandwidth ranging from 2 to 20 Mbit per second, and include fixed telephony in a single broadband service. The company offers its products and services using ADSL2plus technology.
-	['', 'broadband services', ' ', 'internet connections', '']
-BOB
-	Provider of wireless broadband services. The company offers internet services, business continuity plans, MPLS, point-to-point connections, online data backup, and data storage services to businesses.
-	['', 'wireless broadband service', ' ', 'online data backup', ' ', 'internet service', ' ', 'data center service', '']
-Kiyon
-	Provider of mesh networking products for wireless broadband networks. The company offers autonomic mesh networking technology that allows it to interface with higher-level protocols.
-	['', 'mesh network', ' ', 'networking products', ' ', 'networking technologies', '']
-Advanced Radio Cells
-	Manufacturer of wireless broadband access products.
-	['', 'wireless broadband', ' ', 'wireless access', ' ', 'wireless product', '']
+SmartRM
+	Developer of encryption software that allows users to protect and share digital content, such as documents, audio and video files. The company operates an open-source, interoperable DRM platform based on the MPEG-21 standard. The company\'s software prevents unauthorized printing, copying and sharing, sets time limits on file use, tracks file users and helps keep control of files even after they are sent.
+	['', 'encryption software', ' ', 'digital contents', ' ', 'unauthorized printing', ' tracking']
+Raster Graphics
+	Developer and manufacturer of large format digital color printing systems. The company is engaged in the development, manufacture and marketing of high performance and large format digital color printing systems, and in the sale of related consumables and software for the on-demand large format digital printer market.
+	['', 'digital color printing', ' ', 'printing system', ' ', 'electrostatic technology', ' ', 'inkjet technology', ' ', 'digital printer', '']
+Matan Digital Printers
+	Manufacturer of professional digital printers. The company designs and manufactures printing equipment for three major printing segments: super-wide format, traffic signage and labels, decals and license-plate printing.
+	['', 'digital printer', ' ', 'printing equipment', ' ', 'sign printing', '']
+IF-Com
+	Developer and manufacturer generic interface products for thermal printers. The company\'s products improve the total output of the printing system, especially printing systems operating within graphic printing.
+	['', 'generic interface product', ' ', 'thermal printer', ' graphic']
+DigePrint
+	Developer of digital printing technology. The company designs and manufactures digital print processors for the retail and photofinishing markets.
+	['', 'printing technology', ' ', 'digital printing', ' ', 'print processor', '']
+Impika
+	Designer, manufacturer and marketer of production inkjet printing technology. The company offers a portfolio of aqueous (water-based) inkjet presses based on proprietary technology. Its product lines include iPrint, a range of continuous feed production printers that print at speeds as fast as 375 meters per minute and iPress, a range of graphic communications digital presses with resolutions of up to 2400 x 1200 dpi.
+	['', 'inkjet printing', ' ', 'inkjet press', ' ', 'package printing', ' ', 'print media', '']
+LFH Illuminating Brands
+	Provider of printing and design management services. The company creates designs for the ad-campaigns for various brands.
+	['', 'printing and design', ' ', 'conceptual designing', ' ', 'brand promotion', '']
+York Mailing
+	Provider of retail flyers, media inserts and leaflets. The company produces A5 and A4 leaflets and broadsheets, stitches A4 catalogues, folds A4 leaflets through its printing presses. It also provides printing services to final distribution of its products to serve the high street retail market sector.
+	['', 'retail flyer', ' leaflet broadsheet ', 'media insert', ' ', 'A5 sheet', ' flyer']
+Bellamax
+	Developer of automated digital images enhancement software services.The company provides photo editing and web and printing optimization softwares such as UpShot, Pro and Gold. It caters to printing labs, photography studios and kiosks. It has strategic alliances with Adobe Systems, Digibug Express, Epson America, PhotoAccess, Photolightning and Sony Electronics.
+	['', 'image enhancement', ' ', 'photo editing', ' ', 'printing optimization', '']

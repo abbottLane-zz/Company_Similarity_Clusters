@@ -1,21 +1,63 @@
-StratiCELL
-	Developer of in vitro regulatory toxicology and test methods. The company assists cosmetic, pharmaceutical, chemical and food industries in evaluating the safety and efficacy of their compounds by means of in vitro models and methods.
-	['', 'healthcare services', ' ', 'laboratory services', '']
-Biex
-	Developer of maternity management products. The company diagnostic tests to identify the potential for premature deliveries in pregnant women.
-	['maternity ', 'diagnostic test', ' ', 'hormone estriol', '']
-GeneOhm Sciences
-	Developer of nucleic acid-based diagnostic services. The company offers methicillin-resistant Staphylococcus aureus (MRSA) Assay, an in vitro diagnostic test for the direct detection of MRSA from a nasal specimen; StrepB Assay, an in vitro diagnostic test for the detection of Group B Streptococcus in pregnant women at the time of delivery or at any other stage of their pregnancy and Lysis Kit for the lysis of cells and spores from various sample types.
-	['', 'microbiology specimen processing', ' ', 'molecular diagnostic', ' ', 'MRSA Assay', '']
-Pinnacle Pharmaceuticals
-	Developer of therapeutics for pain management, urology, antibiotics and oncology space by leveraging its supramolecular chemistry platform and drug formulation technology. The company also develops synergistic compounds for current antibiotic regimes to treat patients suffering from infections refractory to the current gold-standard and therapeutics for various infectious disease indications, including methicillin resistant staphylococcus aureus and vancomycin resistant enterococci.
-	['', 'pain management', ' ', 'oncology space', ' ', 'supramolecular chemistry platform', ' ', 'drug formulation technology', ' ', 'synergistic compound', ' ', 'antibiotic regime', '']
-BabyCenter
-	Provider of pregnancy and parenting information online. The company provides advice on various issues, such as getting pregnant, pregnancy, babies, toddlers, preschoolers and big kids. It also provides various tools, such as pregnancy/baby calendar, baby name finder, due date calculator, pregnancy weight gain estimator, product recall finder, packing list for hospital or birth center, average fetal length and weight, birth clubs and pregnancy food diary.
-	['', 'parenting information', ' ', 'pregnancy information', ' ', 'pregnancy calendar', ' ', 'pregnancy food diary', '']
-Arpida
-	Developer of antimicrobial drugs for the treatment of infectious diseases. The company’s lead product is intravenous iclaprim, an antibiotic product that targets severe infections requiring hospital treatment, including those caused by methicillin-resistant Staphylococcus aureus.
-	['', 'antimicrobial drugs', ' antibiotic ', 'methicillin-resistant', ' ', 'staphylococcus aureus', '']
-Great Basin
-	Developer of point-of-care molecular diagnostic technology for healthcare professionals. The company offers molecular diagnostics platform for detection of nucleic acid and protein analytes in diagnostic testing platform. It also provides diagnostic tests for methicillin resistant staphylococcus aureus, group B streptococcus and human papilloma virus.
-	['', 'molecular diagnostic', ' ', 'diagnostic platform', ' ', 'diagnostic testing', '']
+fiveby tv
+	Provider of online videos based on user preference. The company scours the internet for the best videos, and hand-delivers the ones people want to watch.
+	['', 'online video search', ' ', 'free video', ' movie']
+Mutewatch
+	Designer and manufacturer of touchscreen wrist watches. The company is the developer of a watch with a hidden touchscreen that actives with a tap of the finger of a flip of the wrist. Its watches functions include clock, alarm and timer, with a vibrating alert.
+	['watch ', 'wrist watch', ' alarm ', 'touchscreen watch', '']
+CastTV
+	Operator of a website that helps people to watch videos through the Web. The company\'s website lets users find all their favorite online videos, from TV shows to movies to the latest celebrity, sports, news, and viral videos.
+	['', 'online video', ' ', 'original video', ' ', 'watch video', ' ', 'video website', ' ', 'video clip', ' ', 'social video sharing', ' ', 'community video', ' ', 'video blog', ' ', 'video entertainment', '']
+Clipbook
+	Seller of video clips which can be used without licensing restrictions. The company sells video clips in high definition, with a wide range of topics in order to meet customer needs at a price lower than current production costs, with a single price for format and royalty-free license.
+	['', 'Visual content', ' ', 'video clip', ' ', 'high definition video', '']
+Moki.TV
+	Operator of an online video directory. The company provides an e-commerce platform for the television and film industries.
+	['', 'TV guide', ' movies ', 'video directory', '']
+Viddyou
+	Provider of custom-built video service that allows users to archive and express their life in short-form videos.
+	['', 'video publishing', ' ', 'video sharing', ' ', 'video hosting solution', ' ', 'videoblogging', '']
+Omnisio
+	Provider of online videos. The company enables user to annotate videos, combine clips, and synchronize slideshare presentations to videos.
+	['', 'video annotation', ' ', 'video sharing', ' ', 'video blogging', '']
+Dave Networks
+	Provider of integrated video distribution and social community platforms. The company utilizes the latest matrix distribution technology to deliver music, video and other information assets to consumer, corporate and commercial customers.
+	['', 'social community platforms', ' ', 'media platform', ' ', 'integrated video', '']
+IFILM
+	Operator of online streaming media network on the Internet. The company distributes videos online, featuring programs that comprise animations and cartoons, comedy, movie clips, music videos, short films, TV clips, video game trailers, spike shows and action sports as well as a collection of viral videos from Hollywood studios, amateur filmmakers and user-generated content.
+	['', 'online streaming', ' ', 'movie information', ' ', 'entertainment media', ' ', 'music videos', '']
+ReTel Technologies
+	Provider of video surveillance analysis for stores and restaurants. The company uses security camera feeds to deliver metrics and data such as table cleanliness, service times and employee activities.
+	['', 'video auditing', ' ', 'raw surveillance video', ' ', 'interactive report', '']
+VTEL Products
+	Manufacturer of video telecommunications equipment. The company\'s products facilitate staff meetings, training, job interviews, client presentations and legal depositions through videoconferencing.
+	['', 'telecommunication equipment', ' ', 'videoconferencing', ' video ', 'video based technologies', '']
+PageWise
+	Operator of a website that serves how-to videos and articles online. The website is a video portal for how-to information and the largest provider of "made for the internet" video content. Its content was created through the company\'s proprietary process wherein filmmakers select specific how-to topics and produce videos on that subject matter.
+	['article, video, ', 'how to video', ' ', 'video portal', '']
+ZEFR
+	Provider of content rights management to movie studios on YouTube. The company allows its users to search, find, watch, discuss and share movie clips from movies. It also offers a website that offers a collection of movie clips on YouTube.
+	['', 'social marketing', ' ', 'rights management', ' ', 'video solution', ' ', 'online video platform', '']
+Kewego
+	Provider of business solutions for managing, broadcasting and monetizing videos on Internet, Intranet, mobiles and screen networks. The company provides IP-based, multi-screen video asset management solutions for managing, broadcasting and monetizing videos on PCs, mobile phones, iPads, connected TVs, gaming consoles and other Internet-connected devices. It also provides a Web portal solution that consists of a video portal with personalized player that enables its clients to integrate a Web portal to their Websites.
+	['', 'video broadcasting', ' ', 'video monetizing', ' ', 'video portal', ' ', 'video asset management', ' ', 'online video', '']
+Videostrip
+	Provider of an online video advertising network. The company provides an online video platform that allows users to create and publish video sites and banners in the Netherlands.
+	['', 'video advertising', ' ', 'video publishing', ' ', 'online video', ' ', 'video platform', '']
+Intransa
+	Provider of appliance platform products. The company offers appliances and products for video surveillance, industrial video, access control, video analytics and other physical security needs.
+	['', 'video surveillance', '']
+LiveRail
+	Provider of online video advertising services. The company’s suite enables video campaign management, advertisement unit support, campaign reporting, advertisement optimizing, video sample integration and video distribution and monitoring services. It provides advertisement source optimization, syndication reporting and share accounting services.
+	['', 'online video advertising', ' ', 'online advertising service', ' ', 'video campaign management', ' ', 'monitoring service', '']
+Virtual Labs
+	Developer of a conversational video platform. The company allows people to broadcast video structured as conversations, offering the personal form of social interaction on the web. It allows people to get advice from experts, interact with their favorite celebrity or organization and communicate with friends and family.
+	['', 'video platform', ' ', 'conversational video', ' ', 'video broadcast', ' ', 'social interaction', ' ', 'online video', ' ', 'online communication', '']
+Gotuit Media
+	Provider of metadata technology for optimizing the value of video libraries for professional content publishers. The company offers VideoMarker Pro, a metadata authoring application for publishers to package and present their broadband video libraries; and VideoMixer, which allows publishers to give their audience the ability to remix videos and produce new video experiences from manipulating the video metadata.
+	['', 'metadata technology', ' ', 'video metadata', ' videomixer videomaker  ', 'video manipulation', ' ', 'video library', ' ', 'video remix', '']
+Lance Entertainment
+	Distributor of online and offline videos, focusing on crime drama and murder mystery genres. The company acquires, positions, packages and releases on DVD previously produced films and mini-series.
+	['', 'online video', ' ', 'offline video', ' ', 'crime drama', ' ', 'murder mystery genre', ' ', 'produced film', '']
+Margi Systems
+	Provider of multimedia products for mobile systems. The company develops products in the areas of video capture, TV capture, video conferencing, DVD decoding, DVD authoring, personal video headsets and display adapters.
+	['', 'multimedia product', ' ', 'video capture', ' ', 'personal video headset', ' ', 'sound peripherals', ' ', 'electronic parts', '']

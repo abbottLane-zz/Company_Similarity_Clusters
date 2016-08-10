@@ -1,18 +1,12 @@
-ENSIS Management
-	Investor in small and medium sized companies. The company invests in life sciences and technology sectors.
-	['technology', 'life sciences', '']
-STP Depannage
-	Provider of repairing services for small and medium sized companies and households. The company offers various services including maintenance, tiling, plumbing, electricity.
-	['tiling plumbing ', 'repairing services', '']
-Vanion
-	Provider of integrated voice and data communications services to business and residential customers. The company offers services that range from dial-Up internet access to DSL and from dedicated internet access to voice services.
-	['', 'data communications services', ' ', 'dial-Up internet access', '']
-Intility
-	Provider of IT outsourcing services. The company offers various services such as internet access, networks and servers to small and medium sized enterprises.
-	['', 'IT outsourcing', ' ', 'IT platform', ' ', 'enterprise cloud solution', '']
-The Outsourcing Institute
-	Provider of outsourcing services. The company tracks and forecasts the evolution of outsourcing while providing services and programs to assist buyers and sellers of outsourcing services.
-	['', 'BPOmarketing', ' promotions ', 'relationship management', '']
-Xtempus
-	Provider of outsourcing services. The company provides wireless carriers of outsourcing services for wireless messaging, including transport, signalling system no. 7 (SS7) interconnection, billing, clearing and management, through a pan-European internet protocol platform.
-	['', 'outsourcing service', ' ', 'billing service', ' ', 'clearing service', '']
+Picasa
+	Provider of image organizer and image viewer or organizing and editing digital photos.
+	['', 'image organizer', ' ', 'image viewer', ' ', 'digital photo editing', ' ', 'photo editing', ' ', 'digital photos', ' ', 'multimedia organization', ' ', 'online images', ' multimedia']
+Aquafadas
+	Provider of French digital software. The company develops software for digital publishing to tablets and smartphones and creative software for photo and video editing.
+	['', 'digital publishing', ' ', 'digital comic', ' ', 'french digital software', ' ', 'creative software', ' ', 'video editing', '']
+Iconology
+	Developer of technological infrastructure for digital comic books. The company provides weekly list of new releases in a format that allows viewing of issues individually, displaying cover arts, credits, descriptions, prices and page counts. It offers a digital Pull List system, which allows collectors to maintain their collections online, print out those lists and provide them to their local retailer, as well as allows visitors of the site to see what comics people are reading and expose them to items they wouldn\'t normally purchase.
+	['', 'digital comic book', ' ', 'digital book', ' ', 'comic library', '']
+Clipik
+	Provider of video-editing platform. The company provides a platform with an interface that enables interaction between content-generating users and editors who help them edit their videos and images into workable productions.
+	['', 'photo editing', ' ', 'video editing', ' ', 'picture editing', '']

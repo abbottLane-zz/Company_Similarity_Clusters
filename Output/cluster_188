@@ -1,21 +1,30 @@
-ClimateMinder
-	Provider of wireless climate monitoring and control systems for agriculture. The company offers products that growers can use to increase quality, improve yield per acre, reduce water and nutrient costs, operate remotely, increase profits and achieve sustainability.
-	['agriculture ', 'climate monitoring', '']
-Telemic
-	Provider of wireless based remote sensing technologies for lighting and other applications. The company offers remote monitoring and control systems for street lights.
-	['', 'remote sensing', ' ', 'remote monitoring', ' ', 'street light', ' ', 'power conservations', '']
-Integrated Energy Services
-	Provider of commercial and industrial heating, ventilation and air conditioning systems. The company also installs, renovates and do maintenance services of commercial and industrial products.
-	['', 'B2B Services', ' ', 'commercial products', '']
-Vensafe
-	Developer of automated sales services for theft traded goods in retail. The company\'s products streamline store operations, reduce shrinkage and theft and helps reduce capital tied up in a number of high value.
-	['', 'theft product', ' ', 'theft security', ' ', 'selling automation', ' retail']
-Spinwave Systems
-	Developer of wireless sensor networks and sensing products. The company\'s products are used to reduce and simplify monitoring and control of commercial and industrial buildings.
-	['sensors ', 'wireless transceivers', ' ', 'mesh repeaters', '']
-Millennial Net
-	Provider of commercial and industrial wireless sensor networking software. The company provides a device that performs wireless network management tasks.
-	['', 'industrial wireless sensor', ' ', 'wireless network management', ' ', 'networking software', '']
-S5 Wireless
-	Developer of wireless communication and tracking system. The company also developed terrestrial-based technologies that enable highly accurate, low-cost and power-efficient wireless tracking, monitoring and control services.
-	['', 'wireless communication', '']
+Grenslandhallen
+	Provider of event management services. The company offers spaces and accommodation for events such as concerts, theatrical productions, fairs and exhibitions.
+	['', 'event management', ' ', 'concert shows', ' ', 'live shows', ' ', 'event faculties', '']
+Eventioz
+	Provider of online ticket sales and services. The company offers an online ticket platform for clients to promote and market events.
+	['', 'event marketing', ' ', 'event promotion', ' ', 'ticket sales', ' ', 'event ticketing', ' ', 'ticket services', ' ', 'ticket marketing', ' tickets']
+Asure Software (WebEvent Solution and Book of Business)
+	Provider of event calender and scheduler software. The company integrates event calendar software and a scheduler into a single enterprise wide web based event management software system, providing one view into all of event information.
+	['', 'event calendar software', ' ', 'event management software', '']
+Eventjoy
+	Provider of an online event organizing platform. The company\'s platform allows organizers to use self-service platform to create social mobile applications, handle ticketing/registration, power activity walls and design an event website.
+	['', 'event organizing platform', '  ticketing ', 'event website', '']
+nTAG Interactive
+	Provider of event data management solutions for the meetings and event industry. The company offers nTAG, an event data management system that facilitates business networking, makes presentations, automates lead capture, enabling exhibitors and sponsors to collect information, supports real-time event management, allowing meeting planners to closely monitor activities, and instantly send messages to staff and meeting participants and provides reporting and ROI analysis to compare results against objectives to determine whether the meeting was worth the investment. It also offers event sponsorship services, as well as pre-event planning, on-site execution and post-event follow up services.
+	['', 'data management solution', ' ', 'business networking', ' ', 'ROI analysis', '']
+SpeakerGram
+	Developer of online platform to connect public speaker. The company makes it easier for speakers and event organizers to connect and provide a single dashboard to manage requests and engagements.
+	['event management speaker organiser']
+PreEnroll
+	Provider of online registration services.
+	['', 'online registration', ' ', 'registration service', '  ', 'registration software', '']
+B-there
+	Provider of online event management and consolidation solutions. The company offers Internet registration, housing and transportation management solution for the meeting and trade show industries.
+	['', 'event management', ' ', 'Internet registration', ' ', 'transportation management', '']
+Thriva
+	Provider of online event registration and payment processing software.
+	['', 'event management', ' ', 'event registration', ' ', 'payment processing', '']
+MogoTix
+	Provider of a mobile ticketing service for events. The company\'s services are used to send event tickets to attendees\' cell phones through text messages for parties, fundraisers and conferences.
+	['', 'mobile ticketing service', ' ', 'event website', ' ', 'mobile QR code', ' ', 'event hosting', ' ', 'ticket distribution', '']

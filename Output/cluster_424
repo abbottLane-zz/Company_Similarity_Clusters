@@ -1,48 +1,66 @@
-Introspeckt
-	Operator of an online social music platform. The company\'s platform helps people to communicate by using music as a message and with the help of this platform users can send music as a reminder or gift over a message.
-	['', 'online music platform', ' ', 'music network', ' ', 'virtual product', '']
-PlusFourSix
-	Developer of cloud based music services. The company provides end-to-end services to the users including licensing music from labels and collecting societies, complete streaming and mp3 bundled music platform with multiple storefronts such as desktop browser, mobile browsers and various application.
-	['streaming ', 'music service', ' ', 'cloud technology', '']
-Melody Management
-	Provider of technology services to manage music careers. The company offers a central music management console, including Melody Music Desk and Melody Card, a pay system for distributed music business. Its professional music management tools helps artists to create consistent Web presence and load music, photos, video, and news that keep their fans informed.
-	['', 'technology service', ' ', 'music career', ' ', 'central music management', ' ', 'music business', '']
-Last.fm
-	Provider of music recommendation service. The company provides social music network that connects people with music.
-	['', 'music recommendation', ' ', 'social music network', ' ', 'online music', '']
-PROnoise
-	Provider of an online platform for musicians. The company organises music competitions for the music lovers.
-	['', 'online musical platform', ' ', 'musical battle', ' ', 'online entertainment', '']
-AG Entertainment
-	Provider of a platform which allows its users to make their music and playlists accessible to other computers and devices. The company\'s platform helps its users to find people who have similar musical tastes and follow what music they are listening to.
-	['', 'music sharing platform', ' ', 'music lover search', ' ', 'entertainment platform', '']
-Melodeo
-	Provider of mobile podcasting solutions. The company delivers music and other media via mobile phones and Web. It provides wireless customers with music, comedy, news, sports, and entertainment programs, including radio shows.
-	['', 'mobile podcasting', ' ', 'mobile media', ' ', 'radio show', ' ', 'delivers music', '']
-Beyond Oblivion
-	Provider of access to music library where content owners are paid per-play.The company’s first go-to-market product is Boinc. Boinc is a magnetic and social music service that distributes a vast legal music library from a cloud (supplied by majors, independents, and artists the world over), and embeds the right to download and PLAY IT ALL within devices like PCs, tablets, autos and smartphones.
-	['', 'music library', ' ', 'content owner', ' ', 'social music service', '']
-SellaBand
-	Developer of an online crowd funding platform for music artists. The company operates an website that allows artists to raise money from their music fans all over the world in order to record a professional album.
-	['', 'crowd funding', ' ', 'music platform', ' ', 'music artists', '']
-Songza Media
-	Provider of a curated music streaming platform. The company offers free streaming music platlists curated by DJs, musicians, music critics and musicologists.
-	['', 'music search engine', ' ', 'internet radio', ' ', 'music search', ' ', 'music playlist', ' ', 'mood music', '']
-Soundtracker
-	Provider of music streaming service that blends internet radio, social networking and location-awareness. The company provides an application and website that allows users to connect their mobile devices to the social and geographic aspects of music discovery.
-	['', 'music streaming', ' ', 'internet radio', ' ', 'location awareness', ' ', 'geosocial internet radio', ' ', 'music discovery', '']
-Anywhere.FM
-	Provider of music player service and engages in uploading of music collection, playing it on the Web music player and discovering music. It holds licenses for the public performances of the music streamed through the Web site.
-	['', 'uploading music', ' ', 'music streaming', ' ', 'Web music player', ' ', 'discovering music', '']
-Graywhale Entertainment Exchange
-	Provider of music related accessories. The company provides portable electronic products such as music cassettes, video games and compact discs to music lovers.
-	['', 'music accessories', ' ', 'portable electronics', ' cassettes ', 'video games', ' ', 'compact discs', '']
-UAB MTV Networks Baltic
-	Broadcaster of video music channel in the Baltic States. The company broadcasts the MTV music channels, serving households in Lithuania, Latvia and Estonia.
-	['broadcaster ', 'television channels', ' MTV']
-TuneCore
-	Distributor of online digital music, film and video. The company offers music delivery and distribution services to online stores. It also provides mastering, t-shirts, ad placements, billboard musician’s guide, billboard talent and touring directory, posters, stickers, music copyrights, trending reports and professional mixing services.
-	['', 'digital music', ' ', 'online video', ' ', 'music delivery', ' ', 'professional mixing', '']
-Memolane
-	Provider of digital platform collecting and connecting thoughts, pictures, messages and music. The company helps people archive and explore social network activity across different platforms.
-	['', 'social data aggregation', ' ', 'social data collection', ' ', 'social media content', '']
+Aspective
+	Provider of e-commerce and WAP-based mobile applications and services for customer relationship management, business intelligence, data management and field service management. The company also provides managed and support services, which include application support, support desk, infrastructure, monitoring and outsourcing services.
+	['', 'field service management', ' ', 'mobile application service', ' ', 'application support', ' ', 'outsourcing service', '']
+Watch Hill Partners (CRM Program)
+	Provider of electronic customer relationship management and technical service offerings. The company is a management business consulting firm with a full line of business. The company provides customer relationship management consulting to help clients with that help of a regional team that stays on a project throughout the implementation lifecycle.
+	['', 'customer relationship management', '']
+Interactive Advisory Software
+	Provider of wealth management software-as-a-service (SaaS) solution for financial advisors and wealth managers. The company offers services like financial planning, portfolio management, customer relationship management, back-office services/reconciliation, rebalancing and trading, client portal and reporting services.
+	['', 'Wealth Management Software', ' ', 'Portfolio Management', ' ', 'Financial Planning', ' ', 'Customer Relationship Management', ' ', 'Back Office Services', ' ', 'Client Portals', '']
+BenefitPoint
+	Provider and developer of hosted integrated employee benefits infrastructure applications. The company also develops customer relationship management and procurement software platform. It offers its services and solutions to brokers, consultants, carriers, and general agents.
+	['', 'infrastructure application', ' ', 'relationship management', ' ', 'software platform', ' ', 'communication portal', '']
+Predictive Systems
+	Provider of network consulting services. the company provides network infrastructure and security consulting services focused on helping global enterprises and service providers harness the power of network technology.
+	['', 'information technology service', ' ', 'network consulting', ' ', 'design and security', '']
+Kentor
+	Provider of information technological consultancy services. The company provides computer system integration services and software products for application management, billing, business development, business intelligence, customer relationship management and quality assurance.
+	['', 'system integration', ' ', 'software development', ' ', 'it consultancy', '']
+Lexington Software Associates
+	Provider of technology and service solutions for software development and delivery environments. The company provides software consulting services including systems programming, website designing and high level consulting.
+	['', 'service solutions', ' ', 'systems management', ' ', 'website designing', '']
+PlugMeIn
+	Provider of management consulting services. The company offers a Web technology which provides online leads to sales teams. Its product gives full access to contacts directly from any website, including company directories and social media sites.
+	['', 'web technology', ' ', 'management consulting', '']
+CRM Company Group
+	Provider of management consulting services. The company engages in providing digital communication services for advertisements, sales promotion and public relations.
+	['', 'management consultation', ' ', 'advertising campaigns', ' ', 'communication media', '']
+Data Distilleries
+	Provider of customer relationship management services. The company uses data-mining technology to build models to predict customer behavior, as well as providing real-time analytics for business intelligence.
+	['', 'customer relationship management', ' ', 'customer behaviour', ' ', 'customer interaction', '']
+Mobile Cohesion
+	Provider of partner relationship management services. The company provides its consulting services in Ireland.
+	['', 'relationship management', ' ', 'consulting service', ' ', 'management consultant', '']
+Ideaca Knowledge Services
+	Provider of management consulting, advisory, implementation and support services. The company offers enterprise resource planning (ERP) solutions implementation, business intelligence, portals and collaboration, cloud computing, custom development and integration, customer relationship management (CRM) solutions implementation, application infrastructure and support services.
+	['', 'enterprise resource planning', ' ', 'portals and collaboration', ' ', 'customer relationship management', ' ', 'application infrastructure', '']
+RealLife HR
+	Provider of outsourced benefits management automation services. The company provides a suite of Web-applications and professional services that facilitate employee benefits communication, enrollment and ongoing administration.
+	['', 'benefit management', ' ', 'outsourcing automation management', ' ', 'employee enrollment management', ' ', 'benefits management', ' ', 'employee benefits', '']
+Servista
+	Provider of management networking and outsourcing services. The company provides network management, outsourcing, consulting services and customer relationship management.
+	['', 'network management', ' ', 'consulting service', ' ', 'customer relationship management', '']
+Cypress Golf Solutions
+	Developer of customer relationship management software for the golf industry. The company offers marketing tools that give golf courses the ability to market products and services directly to their customers.
+	['', 'customer relationship management', ' ', 'golf industry', ' ', 'marketing tools', '']
+Commence
+	Provider of customer relationship management software for small to mid-size enterprises. The company offers various software technologies for the front office business processes, and specializes in cloud-based customer relationship management and business process automation software.
+	['', 'customer relationship management', ' ', 'front office', ' ', 'business process automation', '']
+Fidelio Software
+	Operator of a software company. The company provides management support to the hospitality industry in the form of software, hardware and consulting services.
+	['', 'software solution', ' ', 'consulting service', ' ', 'management support', '']
+The Outsourcing Institute
+	Provider of outsourcing services. The company tracks and forecasts the evolution of outsourcing while providing services and programs to assist buyers and sellers of outsourcing services.
+	['', 'BPOmarketing', ' promotions ', 'relationship management', '']
+Tectura North America
+	Provider of business consulting services. The company offers training programs for Microsoft Dynamics AX that supports multiple languages and currencies for sustained relevance across geographies; Microsoft Dynamics GP for financial and operational functionality; Microsoft Dynamics NAV that delivers industry-specific functionality along with multi-language and multi-site capabilities; Microsoft Dynamics SL for professional and field services and construction management organizations and Microsoft Dynamics CRM, a customer relationship management service.
+	['', 'business consulting service', ' ', 'business technology service', ' ', 'enterprise resource planning', '']
+Connected
+	Provider of a website that manages personal relationships.
+	['', 'contact management', ' ', 'social integration', ' ', 'relationship management', '']
+Integrated Systems Consulting Group
+	Provider of information and consulting services. The company provides software applications development and systems and network management consulting services. It also provides client-server architecture, graphical user interface-based applications, object-oriented and relational databases and cross-platform applications integration.
+	['', 'information enabled service', ' ', 'client-server architecture', ' ', 'network management', '']
+Epiphany.com
+	Developer of for software for customer relationship management. The company provides integrated set of software tools for analysis of customer data and marketing campaign management.
+	['', 'customer relationship management', ' ', 'customer data analysis', ' ', 'marketing campaign management', '']

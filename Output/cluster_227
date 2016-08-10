@@ -1,21 +1,24 @@
-Evomote
-	Provider of content discovery services. The company develops an online platform that helps in offering content discovery and recommendation services.
-	['', 'content discovery services', ' ', 'content platform', ' ', 'recommendation services', '']
-Loomia
-	Provider of content recommendation services.
-	['', 'content recommendation', ' ', 'recommendation service', '']
-Circular
-	Provider of user preference based online content. The company offers an infinitely scrolling feed of content to users, based on people they follow and topics that they are interested in.
-	['', 'online content', ' ', 'infinitely scrolling', ' ', 'preferred content', '']
-Orchest
-	Provider of financial services technology. The company is the developer of a platform enabling users to access a consolidated view of their personal financial information from multiple institutions.
-	['', 'financial services', ' ', 'financial statement', '']
-Minekey
-	Provider of online content discovery and recommendation services. The company offers a social platform enabling users to share and recommend their online discoveries.
-	['', 'content discovery', ' ', 'recommendation service', ' ', 'online recommendation', '']
-Chasm.io
-	Provider of an online content marketing network. The company has developed a content matching system that analyzes personal interest graphs, categories of influence and network behaviors that allows content producers to present their content to only those influencers who are most likely to consume and share it.
-	['', 'social networking', ' ', 'startup assistance', ' ', 'startup guidance', '']
-Chick Approved
-	Provider of an online fashion community that enable users to share and receive instant feedback on personal style.
-	['', 'online fashion community', ' ', 'exploration engine', ' ', 'share outfit', '']
+BioLucent
+	Operator of women\'s health company, involved in the early detection and treatment of breast cancer. The company manufactures and markets the MammoPad breast cushion, a radiolucent foam cushion that breast centers use to provide women with a mammogram.
+	['', 'breast cancer', ' ', 'MammoPad breast cushion', ' ', 'radiolucent cushion', '']
+VuCOMP
+	Developer of computer-aided detection systems for automatic analysis of medical images. The company help physicians to find disease at earlier stages. Its CAD system assists radiologists by automatically identifying areas of a mammogram that are consistent with breast cancer.
+	['', 'computer aided detection', ' ', 'medical images', ' ', 'breast cancer', '']
+Endoart
+	Developer of of telemetrically-controlled or remote controlled implants. The company also offers breast implant options for reconstructive and aesthetic breast surgery, and minimally invasive devices for obesity intervention treatment.
+	['', 'breast implant', ' ', 'invasive devices', ' ', 'intervention treatment', ' ', 'healthcare devices', ' ', 'obesity control technology', '']
+Seragon Pharmaceuticals
+	Developer of orally active selective estrogen receptor degraders (SERDs) that represent a treatment for metastatic breast cancer. The company is developing breast cancer pharmaceuticals based on the selective estrogen receptor degraders platform, including its lead drug candidate, ARN-810, under evaluation for ER+ breast cancer.
+	['', 'breast cancer', ' ', 'estrogen receptor degrader', ' metastatic']
+Encapsule Medical
+	Operator of a medical device company. The company focuses on the development of disposable, non-invasive, breast biopsy devices. Its products include Flash, Halo and Phantom.
+	['', 'breast cancer', ' biopsy ', 'breast biopsy', '']
+Suomen Terveystutkimus
+	Provider of breast-cancer screening products and services. The company develops products and performs mammography screenings along with other clinical tests, to detect and treat breast cancer.
+	['', 'breast cancer', ' ', 'mammography screening', ' ', 'cancer treatment', '']
+Artemis Medical
+	Developer of medical device systems for the surgical and interventional treatment of breast and other cancers.
+	['', 'surgical treatment', ' ', 'interventional treatment', ' ', 'breast cancer', '']
+Windy Hill Medical
+	Developer of medical devices to reduce the risk of developing breast cancer in high risk patients. The company intends to develop intraductal therapy for the prevention of breast cancer.
+	['', 'breast cancer', '']

@@ -1,27 +1,24 @@
-Roomtag
-	Developer of a space management software. The company provides a web-based space management software that enables facility and office managers to track people, space and assets.
-	['', 'space management', ' ', 'office software', ' ', 'facility management', '']
-eQuilibrium Solutions
-	Developer of energy management software.
-	['', 'energy management', ' ', 'energy software', '']
-BuildingIQ
-	Provider of an energy management software. The company\'s software platform forecasts energy demand and automatically adjusts a building’s HVAC settings to optimize energy use.
-	['', 'energy management', '  ', 'building energy management', ' ', 'energy efficiency', '']
-Procite
-	Provider of information reference management software. The company has developed a software which give users flexibility to manage special collections and create unlimited work-forms.
-	['', 'management software', '']
-intelligent views
-	Provider of database management software. The company provides a software to manage vast heterogeneous databases and joins related pieces of information to discover hitherto unrevealed and unrelated knowledge.
-	['', 'data mining', ' ', 'heterogeneous platform', ' knowledge']
-Mission Critical
-	Developer of system management software. The company develops and markets enterprise level system management software.
-	['', 'system software', ' ', 'Business software', '']
-MAXM Systems
-	Developer of management software. The company develops network management software and is based in McLean, Virginia.
-	['', 'enterprise automation software', ' ', 'network management', '']
-Datapult
-	Provider of enterprise energy management (EEM) services. The company provide web-based applications that are used to collect and analyze energy usage information, monitor power quality, engage in load management, conduct rate modeling and tariff comparisons, and dispatch distributed generation capabilities.
-	['', 'enterprise management', ' ', 'web based application', ' ', 'power quality', ' ', 'load management', ' ', 'rate modeling', ' ', 'tariff comparison', '']
-Mortice Kern Systems
-	Developer of configuration management software. The company provides configuration management software which can be integrated in late design cycle.
-	['', 'configuration management software', ' ', 'late design cycle', ' ', 'Application Software', '']
+Sinewave Energy Technologies
+	Developer of power-modulation systems. The company researches and develops sinewave power-control products based on its patented, ultra-high-speed power-switching technology. The company\'s products include digital sinewave lighting dimmers for high intensity discharge (HID) and fluorescent lighting.
+	['', 'light dimmer', ' ', 'power modulation', ' ESD HID ', 'lighting products', '']
+Gnodal
+	Developer of a technology that improves performance and power in data centers. The company\'s technology aims to significantly reduce power usage and running costs.
+	['', 'systems design', ' ', 'data technology', ' ', 'data centre', '']
+Gecko Alliance
+	Manufacturer of electronic controls. The company offers systems, controls, pumps, audio, accessories and bath products.
+	['', 'temperature setting', ' ', 'electronic button', ' pump']
+Inverpower Controls
+	Manufacturer of power electronics modules and advanced high-speed digital controls. The company manufactures products for use in industrial power supply, power conversion and power quality systems.
+	['', 'electronic module', ' power']
+Nokian Capacitors
+	Manufacturer of power system components and capacitors. The company manufactures equipment and systems for reactive power compensation and harmonic filtering.
+	['capacitors ', 'system component', ' filtering']
+Planet ATE
+	Supplier of fabless semiconductor for the manufacturers of automatic test equipment. The company manufactures "System on a Chip" (SoC) integrated circuits that combine all analog functions required to construct digital channel, DUT Power supply, PMU and VI.
+	['', 'Digital Channel', ' ', 'DUT Power Supply', ' PMU VI Semiconductor chips']
+Photonic Power Systems
+	Provider of power over optical fiber. The company provides EMI and RFI immune electrical power to remote locations with no electrical wire. The company’s products include photovoltaic power converters and modules, optically powered data links and high power optical data systems, which are used in  medical, electric power, sensor and wireless markets.
+	['', 'optical fiber', ' ', 'photovoltaic power', ' sensor']
+Ideal Power
+	Developer of power converters. The company develops and manufactures disruptive electronic power converters. It also offers electronic power converters for renewable energy generation, electrical energy efficiency, smart power grids and electric vehicles. The company also provides photovoltaic inverters and battery converters for grid storage and electrified vehicle fast charging infrastructure, such as peak demand reduction in commercial and industrial markets, utility load shifting, buffering EV fast chargers and bi-directional EV DC chargers. In addition, it offers hybrid power conversion systems and power switches.
+	['', 'PV Inverters', ' ', 'Battery Converters', ' ', '3-Port Hybrid Converters', ' ', 'Bi-polar', ' inverters']

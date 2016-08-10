@@ -1,21 +1,15 @@
-LuciaWind
-	Operator and owner of wind farms. The company engages in the production of electric power generation through wind energy.
-	['', 'wind farms', ' electricity']
-SOGEM
-	Developer of wind energy power parks. The company develops alternate source of energy using wind power.
-	['', 'renewable energy', ' ', 'wind power', '']
-Vigor Renewables
-	Developer of renewable-power facilities in the U.K. The company works with property holders and commercial enterprises to develop and operate sustainable energy projects, including those utilizing solar and wind power.
-	['', 'renewable energy equipment', ' ', 'power generation projects', '']
-Windspire Energy
-	Provider of renewable wind power appliances to residential, business, and government customers. The company produces Windspire, a plug-n-produce wind power appliance that helps in harnessing power from the wind. It uses vertical turbine technology to harness wind energy.
-	['', 'alternative energy', ' ', 'clean tech', ' ', 'turbine technology', '']
-Ventus Energy
-	Developer of wind farms to produce energy. The company is currently in the process of planning and developing 25 sites in Ontario, Quebec, New Brunswick, Nova Scotia and Newfoundland with the potential for over 5,000 Megawatts of power.
-	['', 'produce energy', ' ', 'wind farm', ' ', 'alternative energy', '']
-Advanced Power Projects
-	Provider of power by focusing on natural gas power generation. The company develops new power plants to reduce power costs for industrial customers, as well as provides technologies to facilitate the economic deployment of wind, solar, and biomass plants.
-	['', 'power generation', ' ', 'natural gas', ' ', 'biomass plants', '']
-HF2
-	Developer of a photovoltaic power plant. The company sells energy to the market and is also entitled to the Italian GSE feed-in tariff system. The develops photovoltaic power plant that is used to reduce CO2 emissions.
-	['', 'renewable energy', ' ', 'photovoltaic power', '']
+Encampment Minerals
+	Explorer of natural resources. The company is engaged in the exploration of copper, nickel, and platinum in northern Minnesota.
+	['Exploring', 'natural resources', ' ', 'metal copper', '']
+NYX
+	Provider of oil and natural gas. The company specializes in the exploration and development of fossil fuel reserves.
+	['', 'oil and natural gas exploration', ' ', 'fossil fuel reserves', '']
+Tilford Pinson Exploration
+	Explorer and developer of oil and gas. The company develops coal-bed methane gas and hydrocarbon reserves utilizing horizontal drilling technology and 3-D seismic imaging to explore for hydrocarbon reserves.
+	['', 'methane gas', ' ', 'hydrocarbon reserves', ' ', 'drilling technology', '']
+Gulf Coast LNG Partners
+	Developer of liquefied natural gas receiving, storage and re-gasification facility. The company\'s core project is Calhoun LNG, a liquefied natural gas (LNG) receiving, storage and regasification terminal.
+	['', 'natural gas storage', ' ', 'regasification terminal', ' liquefied']
+Cortus Energy
+	Producer of non-fossil fuel products. The company has developed a gasification process called WoodRoll, to produce synthetic gas with a high heat value from bio fuels.
+	['', 'gasification technology', ' ', 'non-fossil fuel', ' ', 'synthetic gas', ' ', 'high heat value gas', ' ', 'energy production', '']

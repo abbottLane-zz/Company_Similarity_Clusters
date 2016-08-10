@@ -1,27 +1,21 @@
-Mozy
-	Provider of online backup system for Windows and Mac users. The company provides service to up data continuously, manually or schedule updates.
-	['', 'online backup', ' ', 'manual backup', ' ', 'backup storage space', ' ', 'remote backup', '']
-Parascale
-	Developer of cloud software for servers. The company also provides video-on-demand, document archive, online backup and video surveillance solutions.
-	['', 'cloud software', ' ', 'server software', ' ', 'online backup', ' ', 'video surveillance', '']
-BackupAgent
-	Developer of online backup recovery software. The company\'s software enables its clients to offer a backup service to their customers, as well as enables its clients to make backups over the internet in their backup servers.
-	['', 'backup recovery', ' ', 'backup service', ' ', 'online backup', '']
-ReTel Technologies
-	Provider of video surveillance analysis for stores and restaurants. The company uses security camera feeds to deliver metrics and data such as table cleanliness, service times and employee activities.
-	['', 'video auditing', ' ', 'raw surveillance video', ' ', 'interactive report', '']
-Flimmer
-	Developer of a platform for viewers to watch movie trailers. The company\'s platform allows viewers to watch the latest trailer from Cinema, DVD & Blu-Ray and Video On Demand and reward them for their attention with movie tickets or DVD/Video on Demand Coupons.
-	['', 'watch film trailer', ' ', 'photography platform', ' ', 'video on-demand', '']
-NextIO
-	Developer of chips for computer servers. The company offers protocol agnostic solution, which supports server I/O technologies, including Ethernet, fiber channel, InfiniBand, iSCSI and SAS.
-	['', 'computer chip', ' ', 'computer server', ' ', 'agnostic solution', ' ', 'protocol agnostic', ' ', 'I/O technology', '']
-Intransa
-	Provider of appliance platform products. The company offers appliances and products for video surveillance, industrial video, access control, video analytics and other physical security needs.
-	['', 'video surveillance', '']
-GeoMetrix
-	Provider of biometric identity management solutions. The company provides solutions to access control for corporate facilities. The company also offers biometric cameras that acquires facial biometrics in 3D formats which is widely designed for commercial, defense, Government, gaming and video surveillance.
-	['', 'biometric cameras', ' ', 'employee tracking', ' ', 'identification management', ' ', 'video surveillance', '']
-Prescreen
-	Provider of social discovery video-on-demand platform designed to promote and showcase premium content. The company provides a daily movie service that presents films to a community of movie lovers.
-	['', 'video-on-demand', ' ', 'premium content', ' ', 'premium movie', ' ', 'daily movie service', '']
+Readia
+	Developer of educational hand-held device. The company provides learning tool that provides demonstrable educational value in reading, writing, spelling and math.
+	['literacy ', 'education service', ' ', 'handheld device', '']
+Educational Holdings
+	Provider of educational products. The company\'s products are designed to provide and promote science and math education as well as reading literacy for children in PreK through 3rd grade.
+	['', 'educational products', ' math ', 'reading literacy', '']
+Tribal Nova
+	Developer of parent friendly virtual worlds and educational games for children. The company develops and markets educational online services and games for kids that stimulate preschoolers\' learning and curiosity.
+	['', 'virtual world', ' ', 'educational game', ' ', 'educational online service', ' ', 'social gaming', '']
+MindWeavers
+	Developer of software products to help people overcome dyslexia. The company develops and sells software-based products to optimize an individuals innate abilities relating to sensory and motor skills. The company spun out from the University of Oxford.
+	['', 'brain simulation', ' ', 'brain exercises', ' ', 'sensory skills', ' ', 'motor skills', ' ', 'computer games', ' ', 'language learning', ' ', 'software products', '']
+Red Mapache
+	Developer of an educational application for mobile phones. The company offers educational applications and games that help children improve their reading comprehension skills.
+	['', 'educational games', ' ', 'comprehension skills', ' ', 'reading skills', '']
+Work For Pie
+	Developer of software for the visualization of programmer skills. The company allows software developers and other technically oriented talent to create a showcase of their relevant skills, real work product and quantifiable experience.
+	['', 'quantifiable talent', '  ', 'pie representation', ' technically oriented talent']
+Kabongo
+	Developer of online educational games that help kids to learn to read in a variety of disciplines.
+	['', 'educational game', ' ', 'online education', ' ', 'educational product', ' ', 'skill development', '']

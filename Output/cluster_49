@@ -1,15 +1,33 @@
-SocialStudio
-	Developer of a mobile application. The company\'s application enables users to creates collaborative videos by compiling multiple videos into a single clip.
-	['', 'video builder application', ' ', 'collaborative video', ' ', 'video making application', ' ', 'video platform', '']
-ReallyLateBooking
-	Provider of a mobile application for last minute hotel bookings. The company\'s mobile application enables users to make reservations at hotels on the same day at a discounted deal.
-	['', 'hotel bookings', ' ', 'discounted deal', ' ', 'last minute bookings', ' ', 'smartphone applications', '']
-Collective.li
-	Developer of a multimedia social platform. The company offers a mobile application which enables users to uploaded images, videos and share in the form of a digital magazine.
-	['', 'digital magazine', ' ', 'share photos', ' ', 'share videos', '']
-Swarm
-	Developer of a mobile application for retailers. The company\'s application enables brick and mortar retailers to engage with in store shoppers and provides shopper interaction analytics.
-	['', 'retailer mobile-application', ' ', 'mobile shopping', ' ', 'price comparison', ' ', 'customer engagement', ' ', 'customer analytic', '']
-Atlanpix
-	Operator of an instant messaging application for smartphones. The company offers an mobile application which enables users to meet people, send text messages, images, videos and audio messages.
-	['', 'instant messaging', ' ', 'text messages', ' ', 'audio message', '']
+AdBrite (Certain Intellectual Property Assets)
+	Provider of advertising services. The company has video, data management and optimization technology, which is integrated into its various products aimed at performance-driven digital marketers.
+	['', 'advertisement service', ' ', 'digital data management', ' ', 'intellectual property', ' ', 'data management', ' data']
+LogLogic
+	Developer of log data management and security event management solutions for the business operations of enterprises and mid-market companies in the United States and internationally. The company’s LX-ST and MX appliances enable customers to log data from firewalls, routers, servers, applications, operating systems, and devices to be automatically collected, stored, reported, and alerted for compliance, risk mitigation, security, performance management, virtualization, and user monitoring. Its solutions also include LogLogic MX Virtual that provides enterprise-grade IT data collection, search, and storage solutions, as well as customizable alerts and reports covering identity and access management, user activity, network changes, security, business continuity, and IT performance; Enterprise Virtual Appliance, a software-based appliance that delivers on-demand and scheduled network reports for cloud deployments and virtualized data centers; and LogLogic Compliance Manager, which provides users with an executive view into an enterprise\'s compliance posture. It also provides customer support, consultation, implementation, training, and integration services. Its open log management and database activity monitoring solutions provide tools for customers to monitor activities that occur in networks, applications, databases, and servers. It serves telecommunications, technology, pharmaceutical, retail, petroleum, commercial banks, aerospace and defense, insurance, and healthcare companies.
+	['', 'log data management', ' ', 'security event management', ' ', 'risk mitigation', ' ', 'performance management', ' ', 'data collection', ' ', 'storage solution', ' ', 'activity monitoring', '']
+Human Inference
+	Provider of data management services. The company provides data management services for customer databases. It offers human inference to address data life cycle and also provides customer data services.
+	['', 'data management', ' ', 'human inference', ' ', 'customer database', '']
+Pattern Insight (Log Insight)
+	Provider of cloud log analytic platform. The company provides a data management and search platform.
+	['', 'log analysis platform', ' ', 'data management', ' ', 'data search', ' ', 'cloud log analysis', ' ', 'big data', '']
+Ready Business System
+	Provider of computer data management services. The company provides information system management services and design & integration of web and e-commerce software for businesses.
+	['', 'data management service', ' ', 'information system management', ' ', 'web integration', ' ', 'e-commerce software', '']
+NextPage
+	Provider of technological services to businesses to track and manage documents. The company provides services for tracking documents across e-mail, hard drives and servers.
+	['', 'information retrieval', ' ', 'data gathering', ' ', 'data management', '']
+DCF Technologies
+	Provider of services for eliminating data retrieval bottlenecks. The company offers software services to access data accumulating in organizational and internet portal databases. It also provides SafePeak, which acts as a distributed proxy cache between application servers and database servers to accelerate data access.
+	['', 'data access', ' ', 'performance management', ' ', 'portal database', '']
+DataCenter Technologies
+	Provider of data management software that helps to migrate and protect data. The company\'s solution enables customers to clasify data, simulate data management operations and copy or move data between storage tiers.
+	['', 'data management software', ' ', 'protect data', ' operations']
+Purisma
+	Provider of solutions- driven data management platform and software for enterprises. The company provides online customer registry system that connects enterprise applications, databases and external data sources.
+	['', 'data integration software', ' ', 'data management platform', '']
+Memeo
+	Provider of data-management services. The company’s cloud-based software enables users to access files, protect and restore data and send large files securely. The product has applications for commercial and home-based users and can be used on mobile devices.
+	['', 'database management', ' ', 'data retrieval', ' ', 'restore data', '']
+Singly
+	Provider of an open source personal data and application platform. The company\'s platform integrates third-party services in both web and mobile applications. It offers methods to speed up the process of writing code to authenticate users via third-party services and other data from various social networks and other services.
+	['', 'social data', ' ', 'data management', ' ', 'data transfer', '']

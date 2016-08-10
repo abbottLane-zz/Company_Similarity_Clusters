@@ -1,33 +1,33 @@
-Advanced DX
-	Provider of testing equipment and personnel for diagnosis of clinical conditions including diabetic retinopathy, neuropathies and peripheral vascular disease. The company gives primary care physicians the ability to diagnose these conditions so they can keep patients in house and generate revenue from diagnostic procedures.
-	['', 'testing equipment', ' ', 'testing personnel', ' ', 'primary care', '']
-AviaHealth
-	Provider of a web-based practice management tool designed specifically for ob/gyns. The company\'s online platform provides patient information and education, including information customized to a woman\'s own needs and internet linkages to facilitate patient\'s interaction with the doctor for routine matters.
-	['', 'practice management tool', ' ', 'internet linkages', ' ', 'patient interaction', ' ', 'online platform', '']
-OREX
-	Supplier of x-ray machines. The company provides computerized radiography products which enable medical practitioners to acquire patient\'s digital x-ray images anywhere.
-	['', 'x-ray machine', ' ', 'computerized radiography', ' ', 'digital x-ray image', ' ', 'Diagnostic Equipment', '']
-Homestead Clinical
-	Developer of diagnostic and prognostic tools. The company was founded to commercialize a suite of technologies developed at the Institute for Systems Biology (ISB) that have broad utility in the development of novel diagnostic tools.
-	['', 'diagnostic tool', ' ', 'prognostic tool', ' ', 'novel diagnostic tool', '']
-Digital Healthcare
-	Provider of healthcare information technology. The company provides image management and storage solutions for the Ophthalmology sector with core competencies in clinical information and patient care management.
-	['', 'ophthalmology', ' ', 'healthcare technology', '']
-Cancer Genetics
-	Developer of personalized medicines for cancer diagnostics as well as treatments that are tailored to the specific genetic profile of the individual. The company provides cancer patient management to diagnose, monitor and inform treatment of cancer.
-	['', 'cancer diagnostic', ' ', 'cancer treatment', ' ', 'cancer patient management', '']
-BetterFit Technologies
-	Developer of an artificial intelligence platform for personalized medicine to users. The company is committed to facilitating data-driven healthcare decisions for patients and providers.
-	['', 'artificial intelligence platform', ' ', 'personalized medicine', ' ', 'medical consultancy', '  ', 'prescription consultation', ' ', 'medication database', ' ', 'prescription database', ' ', 'prescription use', ' ', 'patient data', '']
-Awenydd Diagnostics
-	Provider of personalised medicine to German doctors. The company offers a drug interaction program combining metabolic genotyping which enables physicians to prescribe personalised medicine for their patients.
-	['', 'personalised medicine', ' ', 'metabolic genotyping', ' ', 'medicine prescription', ' medication']
-Abaton.com
-	Developer of Internet-based clinical applications for use by clinicians in ambulatory settings. The company provides clinical information, medical decision-making support, access to test results, order management and prescription-writing capability– opening electronic lines of communication to streamline functions and augment clinical workflow.
-	['', 'clinical application', ' ', 'information management service', ' workflow']
-Catalyst Oncology
-	Provider of information solutions that enable personalized medicine approaches to cancer patient management. The company provides clinical information to physicians, with an emphasis on proprietary testing and also provides diagnostic and prognostic information for individual patients, allowing physicians to create treatment plans that are tailored for each patient\'s needs.
-	['', 'medicinal information', ' cancer ', 'patient management', '']
-Prometheus Laboratories
-	Developer of diagnostic and therapeutic products. The company developing and commercializing novel pharmaceutical and diagnostic products to help physicians individualize patient care. It markets and promotes Entocort EC, a glucocorticosteroid, which is indicated for the induction and maintenance of clinical remission in mild to moderate active Crohn\'s disease involving the ileum and/or the ascending colon. It has an agreement to acquire rights to LOTRONEX tablets, which is used in female patients with diarrhea-predominant irritable bowel syndrome; and an agreement to develop and commercialize COLAL-PRED, a development-stage product for the treatment of gastrointestinal diseases or other applications.
-	['', 'therapeutic product', ' ', 'diagnostic testing service', ' ', 'inflammatory disease treatment', '']
+Avtre
+	Developer and supplier of back-up software for data and related services. The company offers customized data backup to individuals and small and medium-sized businesses. The company\'s product, Lockbee,, is a software that monitors and automatically creates backup data on new and changing directories and files.
+	['', 'online backup', ' directories broadband ', 'back-up software', '']
+Pathway Therapeutics (Anticancer Drug)
+	Anticancer Drug molecules and its backup compounds in San Francisco. The drug molecules and its backup compounds are used as an inhibitor to slow down the growth of cancer cells and solid tumors.
+	['', 'oncology', ' ', 'life sciences', ' ', 'treatment of tumors', ' ', 'cancer inhibitor', '']
+Mobiliti
+	Developer of software for virtual networking, data backup and file synchronization for desktops and laptops.
+	['', 'virtual networking', ' ', 'data backup', ' ', 'technology solution', '']
+Mozy
+	Provider of online backup system for Windows and Mac users. The company provides service to up data continuously, manually or schedule updates.
+	['', 'online backup', ' ', 'manual backup', ' ', 'backup storage space', ' ', 'remote backup', '']
+TweetBackup
+	Provider of a Twitter backup service. The company offers an online Twitter backup tool and stores Twitter data online.
+	['', 'Twitter back up', ' ', 'Twitter data', ' ', 'Twitter tool', '']
+SwapDrive
+	Provider of Web-based operating software for online data backup and storage. The company’s services allow customers to remotely backup, store, and access critical information. Its Web-based system delivers technology, user interface, and security for wizard-based installation, automatic backups, data recovery, Web access, file management and service access through the Internet.
+	['', 'data backup', ' ', 'data storage', ' ', 'data recovery', '']
+BackupAgent
+	Developer of online backup recovery software. The company\'s software enables its clients to offer a backup service to their customers, as well as enables its clients to make backups over the internet in their backup servers.
+	['', 'backup recovery', ' ', 'backup service', ' ', 'online backup', '']
+Backupify
+	Provider of online data backup services. The company\'s service enable users to protect their pictures, videos, documents and blog posts.
+	['', 'online data backup', '  ', 'information management', ' ', 'backup service', '']
+Connected Backup
+	Provider of an automated computer backup service.  The company offers a remote, automated backup of computers that allows a user to recover files from any location.
+	['', 'data storage', ' ', 'data backup', ' ', 'computer backup', '']
+Dmailer
+	Provider of portable back up and synchronization software services for a mobile devices. The company provides backup services to mobile device including USB flash drives, memory cards, external hard disk drives, mp3 players, embedded phone memory, SIM cards and flash based memory cards for mobile phones.
+	['', 'backup service', ' ', 'portable storage device', ' backup ', 'data backup software', '']
+DirectPointe
+	Provider of information technology (IT) outsourcing and managed services for customers in the United States. The company offers desktop management, server, network, print, cloud computing, desktop virtualization, information technology helpdesk support, hosted exchange, monitoring, asset management and automated backup services.
+	['', 'information technology service', ' ', 'desktop management', ' ', 'automated backup service', '']

@@ -1,21 +1,9 @@
-Nevada County Wine Guild
-	Provider of wines. The company provides spirits and beers under private label and national brands. It provides certified organic and sulfite-free wine.
-	['', 'organic wine', ' ', 'sulfite-free wine', ' spirit wine beer']
-Indie Vinos
-	Developer of a mobile application for wine tasting. The company connects small wineries with wine drinkers via mobile and web-based social marketplace and provide them with social selling and customer relationship management tools.
-	['', 'consumer service', ' ', 'consumer product', ' ', 'wine tasting', '']
-BioStorage Technologies
-	Provider of sample-management services for the bioscience sector.The company manages the complete life cycle of samples, using a team of global sample experts, temperature-controlled storage facilities and a real-time, Web-based sample intelligence and tracking system. It operates biostorage facilities in the U.S. state of Indiana and Frankfurt, Germany.
-	['', 'sample management', ' ', 'cold storage', ' ', 'lab equipment', '']
-Vinetrade
-	Provider of an online platform for building and managing wine portfolios. The company operates a website which allows people to trade directly with other investors and collectors of wines.
-	['', 'online trading', ' ', 'online wine trading', ' ', 'wine collectors', ' ', 'online trading platform', '']
-Wine Preserva
-	Developer of device to preserve the quality of wine. The company offers Wine Shield, an in-bottle floating lid that is a barrier to oxidation. The product is designed for consumers who open bottles but don\'t consume the contents immediately, and for restaurants and bars that sell bottled wine by the glass.
-	['preservation wine']
-Tasting Room
-	Provider of wine tasting service. The company allows consumer to taste the wine before purchasing it, by supplying a sample sized bottles.
-	['', 'wine tasting', ' ', 'sample sized bottle', ' ', 'wine acquistion', '']
-FirstCrush
-	Provider of personalized wine subscription service.
-	['', 'wine subscription', ' ', 'personalized subscription', ' ', 'wine purchase', ' ', 'consumer products', '']
+CyMed
+	Provider of medical transcription and document management services. The company offers workflow management services which enables a department\'s workflow with  hand-helds, bar coding, electronic signature, HIPAA compliant access protocols, audit trails, voice capture systems and transcription software.
+	['', 'medical transcription', ' ', 'workflow management', ' ', 'quality control', '']
+Probity Medical Transcription
+	Provider of clinical documentation services and integrated technologies to healthcare providers. It provides electronic medical transcription and document management services to the health care industry.
+	['', 'clinical documentation', ' ', 'healthcare integrated technology', ' ', 'electronic medical transcription', ' ', 'document management', '']
+Heartland Information Services
+	Provider of medical transcription services to hospitals and health care systems. The company offers full-service transcription and technical capacity to work with any healthcare information system.
+	['', 'medical transcription', ' ', 'health care', ' ', 'information system', '']

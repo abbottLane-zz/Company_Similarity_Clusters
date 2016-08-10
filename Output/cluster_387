@@ -1,18 +1,48 @@
-Dianping.com
-	Provider of an online local platform for business search, user generated reviews, detailed business information, featured discounts, group buying and other merchant services. The company operates a website that covers a full spectrum of local business content and reviews from restaurants, boutiques, entertainment, leisure and lifestyle services. The company also provides a one-stop targeted marketing solution for small and medium-sized businesses using electronic coupons, online advertising and group buying.
-	['', 'one stop marketing', ' ', 'internet portal', '']
-Blue Water Ventures
-	Operator as the surveying and excavating the treasures. The company\'s business is to search for and recover historical cultural artifacts, intrinsically valuable cargo and treasure from shipwrecks, primarily in shallow water.
-	['treasure survey excavat']
-Dealised
-	Operator of an online group-buying platform. The company offers a group-buying technology for media and telecommunication firms, publishers and retailers.
-	['', 'group buying', ' ', 'daily deals', ' ', 'payment gateway', '']
-ecMarkets
-	Provider of online purchasing provisions, strategic sourcing and supplier relationship management (SRM) tools to the industrial, food service and food distribution sectors. The company offers group buying programs, as well as procurement software for dairy, grocery, consumer product and convenience store industries.
-	['', 'online purchasing solutions', ' ', 'food service', ' ', 'procurement software', ' ', 'store industries', '']
-RentWiki
-	Developer of peer review and recommendation website. The company provides rental search with user-generated content, neighborhood reviews and the ability for renters and locals to talk to each other as well as pros and cons about various areas.
-	['', 'reviewed rental site', ' ', 'recommendation website', ' ', 'rental search', ' ', 'user generated content', '']
-Offerum
-	Operator of a collective buying group that features events and local leisure activities with significant discounts. The company offers attractive deals on recreational activities to its users.
-	['', 'internet retail', ' ', 'collective buying power', ' ', 'affordable discount', ' ', 'purchasing power', '']
+Garage Sallaberry
+	Provider of automobile repair services. The company engages in the maintenance, repair and servicing of automobiles. The company also provides towing services for cars in the event of a breakdown.
+	['', 'repair services', ' ', 'breakdown services', ' ', 'towing services', ' garage']
+Ygsoft
+	Operator of a computer software development and consultancy company. The company develops and sells computer software with provision of software consultancy services and computer software system integration.
+	['', 'computer software', ' ', 'hardware system', ' ', 'software system integration', '']
+Lincoln Technologies
+	Operator of a software development and consulting company focused on support of the pharmaceutical industry drug development process. The company provides systems and services related to applications in clinical development, pharmacovigilance, electronic data submission, and regulatory review to industry sponsors, and to FDA and other public health agencies.
+	['', 'software development', ' ', 'safety data mining', ' ', 'database cleaning', '']
+Active Modules
+	Provider software development solutions. The company provides open source Web Content Management System for ASP.NET.
+	['', 'software development solution', ' ', 'software development', ' ', 'Web Content Management', '']
+InitMe
+	Provider of software development services. The computer offers adaptive software development, computer repair, collaborative software development and agile software development services.
+	['', 'development services', ' ', 'technology companies', ' ', 'computer programing', '']
+Probe
+	Provider of e-learning software. The company provides e-learning software to national and international clients. It also offers various services like strategic management consulting, outsourcing and software development.
+	['', 'e-learning software', ' ', 'educational software', ' ', 'application software', ' ', 'software development', ' ', 'strategic management consulting', '']
+Game Minion
+	Provider of cross-platform cloud services for the mobile-development industry. The company offers diifferent software-development kits, including multi-player gaming, push notifications, analytics, cloud storage, leaderboards, achievements, content delivery and social sharing.
+	['SDK ', 'software development kit', ' ', 'application development', ' ', 'mobile development', '']
+Sasken Communications
+	Provider of research and development consultancy, wireless software products and software services that helps businesses across the communications value chain accelerate product development life cycles. The company works with network OEMs, semiconductor vendors, terminal device OEMs and operators.
+	['', 'development consulting', ' ', 'wireless software', ' ', 'semiconductor vendors', ' ', 'communications value chain', '']
+EdgeTrade
+	Provider of agency only brokerage and software development services. The company also provides services to improve client\'s trading performance, increase productivity, lower explicit and implicit trading costs and maintain anonymity in the markets.
+	['', 'software development', ' ', 'trading performance', ' ', 'productivity increment', '']
+Akimbi Systems
+	Developer of infrastructure management services for software development and test organizations. The company offers complex configuration capture-and-restore system, a software development and test infrastructure, which allows software developers and quality assurance engineers to suspend and capture to a shared storage library.
+	['', 'infrastructure management service', ' ', 'software development', ' ', 'test infrastructure', '']
+Netmania
+	Developer of software and hardware services for industries. The company develops software and hardware for Internet service providers (ISPs), cable operators, education and health sectors, enterprise organizations and small and medium sized enterprises. It offers software development services which includes product development, data migration and online systems.
+	['', 'software development service', ' ', 'online system', ' ', 'industrial supply', ' ', 'data migration', ' ', 'development service', '']
+Identum
+	Provider of software development services. The company offers an email encryption software tool, which allows original equipment manufacturer to tailor the email privacy capabilities.
+	['', 'software development', ' ', 'email encryption', ' ', 'email privacy', '']
+Catapulse
+	Developer of a hosted development service (HDS) for internet software development. The company\'s HDS was a collaborative development platform that included hosted development tools, Web-based collaboration services, and infrastructure for the creation and reuse of intellectual property.
+	['', 'internet software development', ' ', 'hosted development service', ' ', 'web-based collaboration', ' ', 'collaborative development platform', '']
+Integrated Chipware
+	Developer of software development tools and operating systems. The company provides products that allow teams to manage requirements for products and projects throughout the development lifecycle at an enterprise level.
+	['', 'software development tool', ' ', 'operating system', ' ', 'manage projects', '']
+Hive Media
+	Provider of media development services. The company offers media development services, creation of graphic designs, illustrations, concept art and technology consulting.
+	['', 'media development service', ' ', 'graphic design', ' ', 'concept art', '']
+Teja
+	Operator of network processor software development platform. The company has a development platform product for multiple embedded processors in fixed architectures or multiple soft cores in reconfigurable silicon.
+	['', 'network processor', ' ', 'reconfigurable silicon', ' architecture']

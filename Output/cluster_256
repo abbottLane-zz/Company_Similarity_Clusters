@@ -1,15 +1,33 @@
-Brand New Brands
-	Developer of food and beverage products. The company makes food and drink products that provide health benefits beyond basic nutrition. It is developing a prenatal nutrition bar that includes calcium, folic acid and omega fatty acids.
-	['', 'health product', ' ', 'beverage product', ' ', 'nutrition research', ' ', 'functional food', '']
-JRG Software
-	Provider of build-to-consumption production scheduling software for the consumer packaged goods industry. The company provides planning and scheduling applications as a managed service over the internet for food, beverage and consumer goods companies.
-	['', 'production scheduling software', ' ', 'Factory Scheduler', ' ', 'Performance Manager', ' ', 'Application Software', '']
-Aline Aesthetics (Aline Hyaluronic Acid Thread Technology)
-	Solid state, cross-linked hyaluronic acid. Hyaluronic acid in thread form that is attached to a needle to be used as a dermal filler for cosmetic and cancer reconstructive surgeries.
-	['', 'hyaluronic acid', ' ', 'dermal filler', ' ', 'cosmetic surgery', ' ', 'cancer reconstructive surgery', '']
-Origin Foods
-	Developer of food ingredients. The company develops processes to enrich food with health-promoting omega-3 fatty acids.
-	['', 'food ingredients', ' ', 'omega-3 fatty acids', ' ', 'fatty acids', ' nutrition']
-Provita
-	Retailer of health & wellness products. The company sells health, beauty and sports-nutrition products in Europe.
-	['', 'sports nutrition', ' ', 'health and beauty', ' nutrition']
+eShare Technologies
+	Provider of real-time customer and interactive communication services for e-commerce and online communities. The company\'s technologies include web-based customer service and support, customer self-service, live conferencing and events, distance learning, community chat, threaded discussion forums and custom integration tools. It also supplies application software and services to businesses, consumers and community sites.
+	['', 'Interactive Marketing', ' ', 'live chat', ' e-commerce']
+Last Second Tickets
+	Provider of online ticket selling services. The company provides services that help promoters to target mobile phone users with unsold tickets for UK live events, working directly with promoters, producers and venues to secure substantial discounts and prizes, for events, gigs, festivals, clubs, theater, comedy, cinema and sports.
+	['promoter ', 'ticket selling service', ' ', 'live event', '']
+InstantService
+	Provider of live chat services. The company offers various customer communication technologies for online businesses and contact centers including an integrated suite of live chat, email management, knowledge base, web site analytics and lead capture software application.
+	['', 'live chat', ' ', 'customer communication', ' ', 'communication technologies', '']
+Lively
+	Provider of a mobile platform that allows music fans to download live recordings. The company\'s platform bring artists and fans together by capturing the live performance and encouraging people to live in the moment.
+	['', 'video recording', ' ', 'live performance recording', ' ', 'music platform', ' ', 'live performance', '']
+Vox.io
+	Provider of chat and video calls from browser. The company\'s technology import contacts with phone numbers from Google contacts and Linkedin for communication.
+	['', 'video calling', ' ', 'online chatting', ' ', 'online calling', ' ', 'browser calling', '']
+Challi Productions
+	Provider of promotional services for live events. The company provides promotional services for the music and entertainment sectors.
+	['', 'live music', ' ', 'entertainment businesses', ' ', 'promotional service', '']
+Going
+	Operator of a website to know and share about various events. The company provides a place to share events, such as parties, concerts, and happy hours; to join a group or chat with or find people with similar interests; to tag photos; to post and promote events; to track and print guestlists; sell tickets; and to email the list.
+	['', 'online event sharing', ' ', 'online social network', ' ', 'event networking', '']
+Chatfish
+	Provider of technology and services for online interactive events. The company also provides infrastructure and marketing needed to power live, interactive events on the internet.
+	['', 'online interactive events', ' ', 'internet software', '']
+FantasyBook
+	Developer of sports applications for social networks. The company offers live drafts, free live scoring, and mobile access for football games; and salary cap baseball game to the casual fan.
+	['', 'sport application', ' ', 'live scoring', ' ', 'football mobile access', ' ', 'internet application', '']
+Hot Potato Media
+	Provider of chat applications for live events.
+	['', 'chat application', ' ', 'live event', '']
+Look.io
+	Developer of mobile engagement tools. The company is a provider of overlay live chat support with visual feedback into mobile applications that allows customer service agents to view and support mobile users in real-time.
+	['feedback ', 'real time', ' chat']

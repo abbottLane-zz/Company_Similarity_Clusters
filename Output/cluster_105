@@ -1,30 +1,21 @@
-MitralSolutions
-	Developer of implantable devices that repair heart valve abnormalities.  The company develops implantable devices for cardiac valve repair. The company offers an adjustable surgical device that custom fits to each patient’s anatomy and can be tuned under beating heart conditions to eliminate valve leakage.
-	['', 'implantable devices', ' ', 'heart valve', ' ', 'cardiac valve', ' ', 'adjustable surgical device', '']
-Cornovus Pharmaceuticals
-	Developer of methods to treat cardiac hypertrophy and heart failure. The company develops a technology that helps to delay the onset of heart failure after a heart attack or injury.
-	['', 'cardiac attack', ' ', 'cardiac hypertrophy', ' ', 'heart failure', ' ', 'heart injury', '']
-Viacor
-	Developer of catheter-based techniques for the treatment of heart valve disease contributing to congestive heart failure. The company develops percutaneous therapies for cardiac valve repair; and a minimally invasive cardiac valve repair system to treat congestive heart failure patients afflicted with mitral regurgitation or leaky mitral valves.
-	['', 'heart treatment', ' ', 'heart valve disease', ' ', 'heart failure', ' ', 'percutaneous therapy', '']
-3F Therapeutics
-	Developer, manufacturer, and marketer of cardiovascular devices for patients with unmet clinical needs in the United States. The company\'s products include Aortic Bioprosthesis, a biological replacement aortic heart valve to maintain flow characteristics after implant. It\'s products under development includes Invasive and Transapical Aortic heart replacement technology, including Enable Aortic Heart Valve, Entrata Aortic Valve system, and Endurance Valve System to reduce surgical cross-clamp and cardio-pulmonary bypass time, utilization for congestive heart failure in patients with right heart failure symptoms, and to replicate the natural mitral apparatus.
-	['', 'cardiovascular device', ' ', 'aortic heart valve', ' ', 'heart failure', ' ', 'cardio pulmonary bypass', ' ', 'heart implantation', '']
-Ample Medical
-	Manufacturer of endovascular medical devices for repairing heart valves. The company develops medical devices that treat vascular heart diseases and congestive heart failures. Its first product, the PS3 System, targets percutaneous repair of mitral valve regurgitation associated with congestive heart failure (CHF).
-	['', 'healthcare services', '']
-Berlin Heart
-	Developer, producer and marketer of innovative devices for mechanically supporting the heart. The company offers INCOR, the implantable axial pump.
-	['', 'innovative device', ' ', 'implantable axial pump', ' ', 'heart support', ' ', 'heart device', ' ', 'heart surgery', ' heart']
-Sadra Medical
-	Developer of therapies for the treatment of aortic valve disease. The company offers transcatheter aortic valve replacement systems. It also provides Lotus valve, a bovine tissue tri-leaflet bioprosthetic aortic valve supported by a nitinol stent structure; and Lotus delivery catheter, a delivery system for guidance and placement of the Lotus valve.
-	['', 'aortic valve treatment', ' ', 'aortic valve replacement system', '']
-Cardio Life Research
-	Provider of cardiac surgery devices. The company designs and develops self-guided endoscopic aortic clamping systems, self adjusting atrial retractors and self suturing puncture devices, for heart valve surgery.
-	['', 'heart valve surgery', ' ', 'cardiac surgery devices', ' ', 'aortic clamping systems', ' ', 'atrial retractors', ' ', 'puncture devices', ' ', 'surgical devices', '']
-Vexim
-	Developer of titanium implants for the treatment of vertebral fractures. The company\'s product SpineJack helps to repair a deformed or fractured vertebra and restoring the anatomy of the spinal column.
-	['', 'titanium implants', ' ', 'surgical cements', ' ', 'vertebral fractures', ' spinal']
-CardioPolymers
-	Developer of an implantable device for treating congestive heart failure. The company provides biocompatible polymer implant therapies to handle chronic heart failure, mitral valve regurgitation, and post-operative atrial fibrillation.
-	['', 'biocompatible polymer implant', ' ', 'medical device', ' ', 'heart problem', '']
+ACT Biotech
+	Developer of cancer drugs. The company is focused on the development and commercialization of targeted oral and cancer drugs.
+	['', 'oral cancer', ' ', 'cancer treatment', '']
+ULSD
+	Researcher of oral biology as well as olecular, cellular and craniofacial biology with faculty members. The company\'s main objective is to enhance the speed to market the oral developments within the UofL School of Dentistry.
+	['', 'cellular biology', ' ', 'dental hygiene', ' ', 'oral development', '']
+JSK Therapeutics
+	Developer of novel anti-cancer drugs using an approved compound to inhibit the growth of cancer cells. The company\'s business is based on two types of drugs, the first class of drug, has been tested in animal systems and the second class of drugs is not as developed as a cancer drug but is more versatile with wider range of cancers.
+	['', 'cancer therapy', '']
+Apalexo Biotechnologie
+	Operator of a biopharmaceutical company focused on cancer treatment. The company is focused on development of a treatment to eradicate residual tumor cells following conventional cancer therapies.
+	['immunotherapeutics cellular']
+KuDOS Pharmaceuticals
+	Developer of oncology drugs. The company develops drugs for combination with chemo- and radiotherapy, based on expertise in DNA repair mechanisms for treatment of cancer.
+	['', 'cancer treatment', ' ', 'drug discovery', ' ', 'drug delivery', '']
+Anesta
+	Developer of pharmaceutical products for oral transmucosal drug administration. The Company\'s products are based on its proprietary oral transmucosal system (OTS) for drug delivery.
+	['', 'oral transmucosal system', ' ', 'pharmaceutical product', ' ', 'oral transmucosal drug', '']
+ZGene
+	Provider of gene therapeutics for the treatment of cancer diseases. The company develops treatments for several cancer forms with an enzyme based gene suicide system that increase the activation of anti-cancer drugs in tumour cells with faster cell death.
+	['', 'cancer treatment', ' ', 'gene suicide', ' ', 'anti-cancer drugs', '']

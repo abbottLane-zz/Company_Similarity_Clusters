@@ -1,45 +1,81 @@
-Virtustream
-	Provider of cloud services and infrastructure services. The company provides cloud services, such as guaranteed resources and capacity on demand, secured private, hybrid clouds, custom management portal, network services, multi-tiered solutions, workload management and departmental level billing.
-	['', 'strategic planning', ' ', 'cloud consultant', ' ', 'hybrid cloud', '']
-PlanforCloud
-	Developer of free cloud forecasting software. The company\'s software allows companies to model various cloud architectures and usage patterns to budget for their cloud costs. The software figures out what servers, storage, database and data transfers are needed for cloud deployment, so that companies can forecast their cloud service needs and costs.
-	['', 'cloud forecasting software', ' ', 'cloud architecture', ' ', 'cloud deployment', '']
-CloudLink Technologies
-	Provider of cloud security and management services. The company provides a software security appliance that combines cloud infrastructure security and manageability with cloud performance monitoring.
-	['', 'cloud computing software', ' ', 'data loss protection', ' ', 'ethernet software product', ' ', 'cloud security', ' ', 'cloud management', ' ', 'cloud software', '']
-Change Dynamics
-	Provider of software provisions for change management. The company provides software provisions within the IT Infrastructure environment, enabling cost-effective compliance with Sarbanes-Oxley 404 as well as conformity to ITIL guidelines.
-	['', 'information technology', ' ', 'lifecycle management', ' ', 'implementation services', '']
-SecureInfo
-	Provider of cyberspace security. The company provides a cloud-based, online-security platform for government, cloud technology companies and critical-infrastructure industries. Its services  includes cloud security, continuous monitoring and maintaining compliance with the Federal Information Security Management Act.
-	['', 'FISMA preparedness assessment', ' ', 'information assurance', ' ', 'accreditation service', ' ', 'threat management', '']
-Virtuata
-	Developer of new technology for security software. The company provides innovative capabilities for securing virtual machine level information in data centers and cloud environments.
-	['', 'security software', ' ', 'data center security', ' ', 'information security', '']
-Pedestal Software
-	Provider of security management services. The company offers security software used by companies in the financial services, insurance, health care and government sectors.
-	['', 'management solution', ' ', 'security solution', ' ', 'security software', ' ', 'financial service', '']
-Porticor
-	Provider of cloud data security software. The company provides a software which enables companies to safeguard their data, comply with regulatory standards and streamline operations. The company also offers "Virtual Private Data", which combines data encryption with homomorphic1 split-key management for safeguarding data in public, private and hybrid cloud environments.
-	['', 'cloud computing', ' ', 'cloud data encryption', ' ', 'homomorphic split-key encryption', '']
-Sansa Security
-	Developer of embedded security services for mobile, storage, automotive, networking, office automation and industrial markets. The company offers a software stack that runs on the device and provides required information from either a sansa cloud service or the clients own cloud service.
-	['', 'embedded security', ' ', 'office automation', ' ', 'cloud service', '']
-Neohapsis (Acquired by KSR)
-	Provider of mobile and cloud security services. The company work with global enterprises to address their constantly evolving information security and compliance challenges.
-	['', 'cloud services', ' ', 'business products and services', '']
-Secure.me
-	Developer of a security technology for social networks and mobile applications. The company\'s security cloud service helps users keep sensitive information private, take control over the applications they use and helps in reducing oversharing of information.
-	['', 'security technology', ' ', 'privacy protection', ' ', 'online security', ' ', 'information security', '']
-Hubspan
-	Provider of B2B cloud integration service worldwide. The company offers B2B cloud integration platforms to streamline and automate critical business processes, share information across systems and organizations and reduce manual intervention and cut costs. It also provides cloud integration platforms that help companies to exchange electronic documents and real-time messages with partners, customers and suppliers.
-	['', 'cloud integration', ' ', 'electronic document', ' ', 'electronic invoice', ' ', 'business intelligence tool', '']
-Appcore
-	Provider of local cloud infrastructure for Enterprise Private Clouds and Service Provider Public Clouds. The company provides a converged platform of architecture, automation, administration and appstore designed to be roll-in ready, accelerating the deployment and automating the operations of cloud environments. It simplifies the complexity of cloud technology for data centers, telcos, software vendors and enterprises.
-	['', 'cloud infrastructure', ' ', 'enterprise private Cloud', ' ', 'service provider cloud', ' ', 'cloud computing', '']
-CloudSwitch
-	Provider of cloud management software for enterprises. The company focuses on cloud computing.
-	['', 'cloud management software', ' ', 'cloud computing', '']
-Cloudsmith
-	Provider of services to create and share software from a global cloud of components. The company offers a web service that defines stacks (dependencies) from a cloud of shared packages, extended to include private components. It also allows the users to share and install these stacks wherever they want directly from the cloud.
-	['', 'shared package', ' ', 'software sharing service', ' ', 'web service', '']
+Allerez
+	Provider of web-based information, real-time and disparate data sources. The company integrates disparate data sources in real-time, providing user-centric reporting and analytics.
+	['', 'web based information', ' ', 'real time data', ' ', 'disparate data source', ' ', 'centric reporting', ' ', 'reporting analytic', '']
+AirVend
+	Developer and provider of a touchscreen device and software for vending-machine operators. The company develops an interactive touchscreen device and software that displays nutritional information, provides cashless options, and sends real-time data and alerts wirelessly. The company also provides a mobile software product that sends real-time market data, enabling vendors to adjust product offerings.
+	['touchscreen ', 'vending machine', ' ', 'nutritional information', '']
+Efficient Market Services
+	Provider of store-specific information services to supermarket retailers, consumer packaged goods manufacturers, distributors and brokers. The company\'s software-based services transform basic product movement data into demand data with the integration of store-level consumer activity.
+	['', 'store-specific solutions', ' ', 'software-based solutions', ' ', 'demand data', ' ', 'integration of store-level consumer activity', ' supermarket']
+Comenta TV
+	Operator of a real time social television guide for Latin America and Brazil. The company operates an online social platform which hosts real time television shows in Latin America and Brazil.
+	['', 'real time', ' ', 'television show', ' ', 'television guide', '']
+Insightera
+	Operator of a real-time B2B personalization platform. The company provides machine learning algorithms and software that helps marketers to capitalize on their existing assets by personalizing onsite experience.
+	['', 'personalization software', ' ', 'customer acquisition', ' ', 'marketing platform', '']
+Flotype
+	Developer of real-time messaging technology. The company builds  developer-friendly technologies focused on ease-of-use and simplicity. It licenses its enterprise-grade middleware, Bridge, to customers ranging from social web and software enterprises to financial and fleet management groups. Other offerings include NowJS, a free, open-source framework, for developers seeking real-time interactivity on Node.js and JavaScript browsers; and NowCluster for companies seeking scalability for NowJS applications.
+	['', 'real time messaging', ' ', 'real time communication', ' ', 'enterprise grade communication', '']
+Koality
+	Provider of a continuous integration platform that parallelizes test suites, prevents broken builds and works behind firewall. The company\'s platform automatically parallelizes test suite across available virtual machines, manages parallelization and which eliminates nondeterministic test results.
+	['', 'integration platform', ' ', 'manage parallelization', ' ', 'development tool', '']
+Decision Team - Software
+	Developer and distributor of data-mining tools for workflow in the oil industry. The company is the provider of intelligent reservoir surveillance software called DECIDE!, which captures, analyzes and transforms historical and real-time production data into actionable operational decisions.
+	['', 'data mining', ' ', 'E&P sector', ' ', 'oil industry', ' ', 'real-time data', '']
+RUN
+	Provider of a real time advertising management platform. The company provides an advertising software platform which enbles users to advertise across multiple channels, including mobile, tablet, desktop and television.
+	['', 'real-time bidding', ' ', 'audience targeting', ' ', 'programmatic advertising technology', '']
+Listiki
+	Provider of an online real-time data services. The company creates and shares collaborative lists. It offers lists of favorite stuff, groceries shopping, games and songs.
+	['groceries ', 'favorite stuff', ' collaborative']
+Net Effect Systems
+	Provider of services to the e-commerce market. The company provides solution that enables real-time, text-based conversations between e-businesses and their customers.
+	['text-based chat real-time']
+Striva
+	Provider of data integration services. The company offers detail, infrastructure software, which combines native database access with agent-based technology platforms.
+	['', 'data integration service', ' ', 'infrastructure software', ' ', 'native database access', ' ', 'technology platform', '']
+Shepherd Intelligent Systems
+	Provider of real-time fleet management software services. The company offers a suite of software tools that provide real-time vehicle locations, predicted arrival times and route management analyses by using real-time GPS data to passengers and managers of public transportation and municipal systems.
+	['', 'fleet management', ' ', 'software solution', ' ', 'route management', ' ', 'municipal system', '']
+Nuvon
+	Provider of medical devices for real-time event monitoring, notification and management. The company is engaged in device data mastery and patient care data integration solution that manages thousands of device connections across multiple locations with a single system controller.
+	['', 'real-time event monitoring', ' ', 'patient care', ' ', 'medical device integration', '']
+HStreaming
+	Provides of services and consulting for real time data streaming and processing. The company\'s technology delivers performance to companies, academia and governments with data and low-latency requirements.
+	['', 'data streaming', ' ', 'data processing', ' ', 'online data', '']
+Pop Tip
+	Developer of real time social feedback tool. The company develop brands, publishers and people analyze crowd conversation by making social data actionable. It also has its own dashboard that lets brands ask questions that are posted directly to Twitter. There is a front-end dashboard that can be seen by all followers to track the results of a poll they’ve participated in, while there’s a back-end dashboard catered to the brands, who can watch the answers come in real time.
+	['', 'publisher conversation', ' ', 'social data', ' ', 'crowd conversation', '']
+Coderloop
+	Provider of real-time coding assessment platform.
+	['', 'automated code evaluation', ' ', 'real time coding', ' ', 'puzzle solving', ' ', 'coder community', '']
+Pintail Technologies
+	Developer of real-time adaptive test technology for semiconductor manufacturing companies. The company offers SwifTest, an on-line adaptive test modules that run directly on the automated test equipment (ATE), and capture and analyze data in real-time; and TestScape, an optional database system, which accepts data in real-time from SwifTest and supports various data management applications.
+	['', 'adaptive test technology', ' ', 'online adaptive test', ' ', 'database system', ' ', 'data management application', '']
+Wohin.de
+	Provider of an online platform for data integration of social events through social networks. The company provides information for various social events, including  theater, concerts and sports.
+	['', 'onoline platform', ' ', 'data integration', ' ', 'social events', '']
+Kontexto
+	Developer of software and services that acquire, analyze and visualize streaming real time data. The company offers publish-flow services that allow digital executives, editors, Web producers and analysts to monitor content viewing trends on their own Websites and content publishing trends on various public Websites and tag-cert, a cookie auditing and monitoring service for corporate, government, e-commerce and media organizations, which helps users to avoid various legal hazards introduced by a changing regulatory environment.
+	['', 'streaming real data', ' ', 'cookie auditing', ' ', 'news monitoring', ' ', 'real time data', '']
+Neovest
+	Developer of proactive intelligent technology solutions. The company provides technology that allows buy and sell-side communities to leverage an integrated suite of pre-trade analytics and order entry functionality to achieve best execution within today’s fast-paced and fragmented electronic markets. The company provides products and technologies that enable fast and efficient delivery of market data from multiple sources and drive real-time data analysis and decision support.
+	['', 'software technology', ' ', 'broker-neutral financial technology', '']
+Cymphonix
+	Provider of products that control Internet browsing and application activities. The company provides Network Revealer that helps in real time traffic reporting, application classification, and detailed user activities and Network Composer, a smart gateway appliance that helps organizations to understand at a glance who is abusing network resources and with what applications.
+	['', 'browsing', ' ', 'Network Composer', ' ', 'real time traffic', '']
+Rosslyn Analytics
+	Provider of on-demand spend analytics platform for providing real-time access to the enterprise-wide spend data. The company\'s cloud-based platform enables organizations to build, deploy and run on-demand comparative analysis.
+	['', 'spend analytics platform', ' ', 'comparative analysis', ' ', 'spend data analysis', ' ', 'data integration', '']
+Ripfire
+	Developer of integration software. The company integrates search, personalization, categorization and marketing analytics into a single, real-time data for e-commerce and content sites.
+	['', 'integration software', ' ', 'marketing analytics', ' ', 'web analytics', '']
+ParStream
+	Developer of real-time database technology. The company\'s platform helps companies generate timely, actionable insights from IoT data by providing new and differentiated ways to analyze streaming and historical data.
+	['', 'graphic processing unit', ' ', 'hybrid network architecture', ' ', 'web analytics', ' ', 'real time', '']
+Acta Technology
+	Provider of a real-time data integration software platform. The company provides batch and real-time data integration platform for the extraction, transformation, and loading (ETL) segment.
+	['', 'data integration platform', ' real-time']
+Knowmadic
+	Provider of enterprise and business-to-business integration software. The company\'s product line includes Knowmadic Integration Suite, Knowmadic WebActivity (TM) software and data integration software.
+	['', 'business integration software', ' ', 'data integration software', ' ', 'data aggregation', '']

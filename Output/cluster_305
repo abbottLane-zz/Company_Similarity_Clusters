@@ -1,24 +1,39 @@
-OKWave
-	Operator of a question-answering website. The company provides a platform for users to solve their queries and discuss about their problems.
-	['', 'Q&A community', ' ', 'Q&A forum', ' ', 'discuss answers', ' queries']
-Discern Communications
-	Developer of automated self-service question answering software for call centers.
-	['', 'self service question', ' ', 'automated self service', ' ', 'answering software', ' ', 'computer telephony', '']
-Speechcycle
-	Provider of call center automation services and speech self-service applications to resolve technical support problems over the telephone. The company also provides LevelOne DSL Agent, which is designed to solve problems for the clients with DSL services.
-	['', 'call center automation', ' ', 'self sservice application', ' ', 'technical support', ' ', 'DSL service', ' ', 'video agent', ' ', 'television service', '']
-StudyPlaces
-	Provider of global education portals in India. The company follows a vision of being the complete solution for all education search related queries for studies in India and abroad.
-	['', 'education portal', ' ', 'education source', ' ', 'global university', ' ', 'online search', '']
-eCircles.com
-	Operator of an online community for groups of friends and families. The company provides a platform where people can communicate, develop ideas, exchange information, coordinates activities, solve problems and share experiences.
-	['', 'online community', ' ', 'social community', ' ', 'social platform', '']
-Audax Health Solutions
-	Provider of personalized heath management support system. The company provides a platform to users to develop a personalized lifestyle plans, connect and compete with others, track progress towards goals and earn rewards with the objective of adopting a healthier lifestyle.
-	['', 'management information', ' ', 'healthcare information', ' ', 'information integration', ' ', 'community building', '']
-Hipster
-	Provider of a web platform for answering questions and queries of users. The company provides social networking services.
-	['', 'web platform', ' ', 'answer provider', ' ', 'query blog', '']
-Ockham Technologies
-	Developer of internet applications for e-commerce business solutions. The company uses integrated Sales Management Technologies to solve complex business problems, expanding on the \'Okham\'s Razor\' theory of problems solving.
-	['', 'integrated sales management', '']
+Arcxis Biotechnologies
+	Developer of technologies for sample processing and pathogen detection. The company’s products include Xisyl workstation, a nucleic acid sample preparation platform; and BioPhalanx analysis workstation, an automated sample-to-result system for clinical laboratory workflows. Its product applications include genetics, cancer, cardiac diseases, infectious diseases, viral diseases, multi-system diseases, biomarkers, pharmacogenomics, and proteomics.
+	['', 'sample processing', ' ', 'pathogen detection', ' ', 'disease pathogen detection', '']
+FASgen
+	Developer of therapeutic drugs. The company designed and synthesized many compounds that selectively inhibit fatty acid biosynthesis. It offers cancer, infectious diseases, multiple drug resistant and latent tuberculosis and obesity and diabetes therapeutics.
+	['', 'therapeutic drugs', ' ', 'diabetes tool', ' ', 'latent tuberculosis', '']
+Sterix
+	Operator of a biopharmaceutical company. The company specializes in the research and development of a new generation of steroid-based therapeutic products for use in oncology and metabolism or endocrine-related diseases, including cancer treatments, women\'s health, diabetes and hormone-associated diseases.
+	['steroid metabolism endocrine']
+Serodus
+	Developer of pharmaceuticals for treatment of diseases in the heart and blood vessels. The company focuses on new therapeutic products for the treatment of cardiovascular diseases with large unmet clinical needs.
+	['', 'cardiovascular diseases', ' ', 'blood vessels', ' ', 'therapeutic products', '']
+Oxxon Therapeutics
+	Developer of novel immunotherapeutics. The company offers products for the treatment of chronic infectious diseases and cancer.
+	['', 'chronic diseases', ' immunotherapeutics ', 'infectious diseases', '']
+Scancell
+	Developer of biopharmaceutical products. The company engages in the discovery and development of novel monoclonal antibodies and vaccines for the treatment of cancer and infectious diseases based on its ImmunoBody and Moditope platforms.
+	['', 'biopharmaceutical product', ' ', 'monoclonal antibodies', ' ', 'infectious diseases', '']
+Inviragen
+	Developer of vaccines to protect against various infectious diseases. The company offers its products to protect against dengue viruses, as well as West Nile, swine-origin, plague, smallpox and various other diseases.
+	['', 'dengue virus', ' ', 'infectious diseases', ' ', 'avian influenza diseases', ' ', 'viral vaccine', ' ', 'mouth disease', '']
+GeneGrafts
+	Provider of therapeutic products. The company manufactures therapeutic products to treat cardiac arrhythmia, Parkinson\'s disease and epilepsy.
+	['', 'therapeutic product', ' ', 'cardiac arrhythmia treatment', ' ', 'epilepsy treatment', '']
+IQ Therapeutics
+	Developer of human antibodies for the prevention and treatment of infectious diseases. The company provides research and development services and also offers technology as a service for third parties.
+	['', 'human antibodies', ' ', 'infectious diseases', ' ', 'anthrax infections', '']
+Lee\'s Pharmaceutical Holdings
+	Provider of pharmaceuticals for drug development and clinical development. The company specializes in cardiovascular and infectious diseases, dermatology, oncology, gynecology, ophthalmology and others.
+	['', 'infectious diseases', ' dermatology']
+Nucleonics
+	Provider of biotechnology services. The company is engaged in the development of novel RNA interference-based therapeutics for viral and other diseases.
+	['', 'therapeutic products', ' ', 'biotechnology services', ' ', 'viral diseases', '']
+Cantab Pharmaceuticals
+	Provider of therapeutic products for cancer and viral diseases. The company engages in developing immunotherapeutic products to treat infectious diseases.
+	['', 'therapeutic products', ' immunotherapeutic ', 'infectious diseases', '']
+Xcyte Therapies
+	Developer of therapeutic products that harness the power of the immune system to treat cancer and many infectious diseases. The company offers therapeutic products to treat various types of cancer including kidney cancer, melanoma, non-Hodgkin\'s lymphoma (NHL), and prostate cancer.
+	['', 'drug discovery', '']

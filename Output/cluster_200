@@ -1,27 +1,24 @@
-MMIC Solutions
-	Developer of technology for systems operating in the millimeter wave bands (50 GHz to 250 GHz). The company develops, manufactures and supplies products for use in security, detection and high-bandwidth communication equipment. The company\'s products include mechanical interfaces, direct detection receivers and "conncetorized" modules.
-	['', 'advanced materials', ' ', 'wave applications', ' down-convertor bandwidth ', 'wave bands', '']
-NOXA Holdings
-	Manufacturer of satellite GPS asset-tracking and messaging products. The company\'s products include SMARTONE that is used to track assets specific needs and provide intermediate and emergency alerts by email and/or text or cellular; AXTracker STX2 Satellite Transmitter, an industrial-use satellite transmitter; AXTracker MMT, a wireless device with multiple sensors and Globalstar Satellite System, a constellation of low earth-orbiting satellites that relay messages to ground stations to provide GPS location data.
-	['', 'gps tracker', ' ', 'satellite gps', ' ', 'tracking device', ' ', 'messaging product', ' ', 'email alert', ' ', 'satellite transmitter', ' ', 'wireless device', ' ', 'satellite system', '']
-VCON Video Conferencing
-	Provider of video-conferencing systems and products. The company offers standards-based systems and infrastructure, which are operated over a variety of networks. The company sells internationally through a global distribution network to business enterprises, government agencies, financial institutions, broadcasters, universities and colleges, distance learning companies, health-care organizations, and satellite companies.
-	['', 'videoconferencing products', '  videoconferencing']
-Elonics
-	Developer of radio tuner chip technologies. The company offers radio tuner chip technologies that can be configured to support different standards and frequencies for use in set-top box receivers, PCs and other applications.
-	['', 'radio tuner', ' ', 'tuner chip', ' ', 'set-top box', ' radio']
-Hughes Network Systems
-	Provider of broadband satellite networks and services to large enterprises, governments, small businesses, and consumers. The company offers satellite based communications services and equipment that utilize very small aperture terminals (VSATs) to distribute signals via satellite. It also offers satellite-based enterprise and consumer networks, mobile satellite networks and terminals, and broadband LMDS point-to-multipoint systems.
-	['', 'broadband satellite', ' ', 'satellite network', ' ', 'communications service', '']
-NordNav Technologies
-	Developer of Global Navigation Satellite System receivers.
-	['', 'Global Navigation', ' ', 'Navigation Satellite', ' ', 'Satellite System', ' ', 'satellite receivers', ' ', 'navigation system', ' GPS ', 'galileo navigation', '']
-Nokia gate5
-	Developer of location based information technology on mobile devices. The company provides a platform for mapping, route planning, content management and personal navigation. Its products include smart2go, a client side global map and search application for GPS-equipped mobile handsets and OEM navigation software for PNDs and PDAs.
-	['', 'location based', ' ', 'information technology', ' ', 'navigation software', '']
-SkyWave Mobile Communications
-	Provider of satellite communication and airtime services. The company provides satellite and satellite-cellular terminals, applications, network and professional services for mobile and fixed remote industrial tracking, monitoring, control and management.
-	['', 'satellite communication', ' ', 'satellite-cellular terminal', ' ', 'remote industrial tracking', '']
-Locationary
-	Provider of a global clearinghouse for local data in mobile, web search, profile publisher, managers and navigation applications. The company provides it\'s services for local business data fragmentation, accuracy and universal broadcast update challenges.
-	['', 'global clearinghouse', ' ', 'data fragmentation', ' ', 'statistics analysis', ' ', 'business data', '']
+Point Cloud
+	Provider of interactive 3D imaging for e-commerce companies. The company developed Zap 3D, a software technology which automatically transforms standard video into interactive 3D images that viewers can manipulate and control using low bandwidth.
+	['', '3D imaging', ' bandwidth ', 'standard video', '']
+UpNext
+	Provider of mobile 3D map applications. The company\'s applications enable users to explore and discover cities, as well as glide around their cities virtually.
+	['', '3D map application', ' ', 'mobile 3D map', ' ', '3D navigation', ' ', 'map app', ' ', '3D map', ' ', '3D service', ' ', 'map service', ' mapping']
+Seemage
+	Provider of application management and support services for automotive and aerospace industries. The company develops PowerPoint 3D software that enables consultants to view, explore, measure and annotate 3D CAD models for businesses.
+	['', 'application management', ' ', 'poerpoint 3D', ' ', 'support services', '']
+Okyz
+	Developer of 3D collaboration and publishing tools. The company has developed a secure 3D-based collaboration software which allows organizations to exchange real 3D models instead of emailing, faxing and publishing static 2D images.
+	['', 'publishing tools', ' ', '3D collaboration', ' ', 'collaboration software', ' ', '3D technology', ' ', '3D models', '']
+Bionatics
+	Provider of 3D software services for decision making in territory management. The company operates a software editor which allows 3D modeling and visualization of large urban or rural landscapes. The company\'s products target the 3D needs in planning and land management and military training simulation.
+	['', 'software editor', ' ', 'decision making', ' ', 'military training', ' ', 'territory management', '']
+Peekspy
+	Provider of 3d view technology into sports and concert venues.
+	['', '3dimensional technology', ' ', 'multicolored map', ' ', '3dimensional web environment', '']
+Eyetronics
+	Provider of 3D scanning services and systems. The company offers three-dimensional scanning of the human face, body and objects mainly for applications in the computer games industry, film industry, garment industry and medical applications. The company has spun out from the University of Leuven.
+	['', 'scanning services', ' ', 'scanning systems', ' ', '3D scanning', '']
+earthmine
+	Provider of 3D street level imaging services. The company provides tools for collecting, processing, managing and hosting 3D street level imagery as well as developer tools for creating and distributing applications.
+	['', '3D mapping', ' ', '3D imaging', ' ', '3D mobile mapping', ' ', 'cloud based hosting', '']

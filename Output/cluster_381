@@ -1,33 +1,54 @@
-Cropsolution
-	Developer of agrochemicals for protecting crops from weeds, pests and diseases. The company uses its proprietary Evolutionary Chemistry technology to discover and develop agrochemicals for protecting crops.
-	['', 'crop protection', ' agrochemical']
-Genoway
-	Developer of genetically modified rat and mouse models for use in in vivo target validation and drug development. The company offers scientific consulting to enhance the reliability of the client\'s in vivo studies. It provides services or generation of transgenic mice, conditional and constitutive knockout mice, knockin mice and humanized mice.
-	['', 'transgenic mice', ' ', 'in vivo', ' ', 'mouse model', ' ', 'genetically modified', ' ', 'knockout mice', '']
-Lipomics Technologies
-	Provider of metabolite profiling, biomarker discovery and metabolism consultation services. The company develops diagnostic tests for important measures of metabolic function. It provides metabolic assessments for drug research, clinical diagnostics and personalized medicine. It uses its technologies to discover new diagnostic biomarkers, improve drug discovery, develop companion diagnostics.
-	['', 'metabolite profiling', ' ', 'metabolism consultation services', ' ', 'Healthcare industry', '']
-Combio
-	Developer of novel synthesis and screening technologies. The company focuses in discovery and optimization of drug candidates against therapeutically important protease and protease reagents and protease characterization. It is based on proprietary bead-based lead optimization tools and chemical scaffolds for novel protease inhibitors. In addition, it has in-house in vitro pharmacology, medicinal chemistry, computational chemistry and intellectual property rights management.
-	['healthcare ', 'drug discovery', ' biochemical ', 'pharmaceutical preparations', ' ', 'screening technologies', '']
-Inpharmatica
-	Provider of proprietary platform, PharmaCarta(TM), is an integrated suite of informatics-based technologies. The company uses its  informatics approaches to look at the relationships between the structure and function of proteins in order to identify drug targets for further commercial development.
-	['informatics PharmaCarta ', 'drug discovery', '']
-OxEpi
-	Developer of new therapies for oncology and metabolic disease. The company uses a medicinal chemistry approach for the discovery and development of new antagonists of a major new class of enzymatic targets involved in epigenetic regulation.
-	['epigenetics ', 'genetic code', ' mutations']
-Coelacanth Chemical
-	Provider of proprietary chemistry technologies to rapidly discover new chemical entities for drug development and discovery. The company uses its proprietary technology ClickChem to create sets of novel building blocks which are used for the production of innovative compound sets that shorten lead discovery and lead optimization time for drug development.
-	['ClickChem , ', 'proprietary chemistry technologies', ' ', 'novel building blocks', '']
-Nuada Pharmaceuticals
-	Developer of new medicines by utilizing a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network. The company is a specialty pharmaceutical company that utilizes a proprietary drug discovery platform, medicinal chemistry expertise and preclinical network to discover new medicines for both internal programs and collaborative projects. It delivers enabling chemical synthesis solutions for medicinal chemistry, process chemistry, high throughput parallel synthesis and combinatorial chemistry. The company\'s proprietary technologies, including instruments, chemicals, databases and informatics tools, fundamentally change chemical synthesis discovery and development, by accelerating the process in a cost-effective manner.
-	['', 'medicinal chemistry', ' ', 'medicinal chemistry', '']
-OSS Healthcare
-	Provider of seed funding to drug development companies. The company engages in searching for new oncology focused drugs and also provides seed funding for further drug development.
-	['', 'drug development', ' oncology drugs']
-Illumigen Biosciences
-	Developer of drugs for the treatment of hepatitis C virus infections. The company uses its proprietary genetic technologies to discover human genetic mutations for therapeutic drug mechanisms.
-	['', 'human genetic mutations', ' ', 'therapeutic drug', ' ', 'hepatitis C', '']
-ESBATech
-	Developer of human antibody fragments for therapeutic applications. The company also provides drug development and development programs.
-	['', 'therapeutic application', ' ', 'antibody fragment', ' ', 'drug development', '']
+Loyalize
+	Developer of a media and marketing software. The company provides audience participation services for brands and content providers to engage with audiences in real-time.
+	['', 'audience participation', ' ', 'white-label service', ' rewards']
+New Media Gateway
+	Provider of web-based enterprise marketing services. The company\'s marketing services include search engine marketing, marketing analytics, creative design, email marketing, and serves the agency, franchise, financial, energy, healthcare and insurance industries.
+	['', 'marketing software', ' ', 'enterprise marketing', '']
+Performable
+	Provider of an internet marketing software. The company provides a marketing software platform for converting visitors into customers.
+	['', 'online marketing', ' ', 'marketing software', ' ', 'internet marketing software', '']
+MobileMax
+	Provider of a solution to the calling card industry for serving the lucrative mobile user segment. The company engages in the development, manufacturing and marketing of software and hardware facilitating low-priced international calls by mobile phone.
+	['', 'unified communication', ' ', 'fixed mobile convergence', ' ', 'telecommunication service', '']
+MeNetwork
+	Developer of location-based mobile marketing software for businesses and consumers. The company allows local merchants to deliver targeted content, offers, loyalty programs and promotions directly to consumers mobile devices based on the location-based services.
+	['', 'advertisement and promotion', ' ', 'marketing software', ' ', 'targeted marketing', '']
+MarketHome
+	Provider of e-mail campaign management services. The company provides traditional retailers with direct marketing software to enhance their customer relations.
+	['', 'e-mail campaign', ' ', 'e-mail marketing', ' ', 'direct marketing application', '']
+Augure
+	Developer of influencer marketing software. The company develops public relations and influencer marketing software which assists companies and their agencies to detect their key influencers, build awareness, engage stakeholders and collect real time analytical metrics of their reputational impact.
+	['', 'reputation management', ' ', 'real time metric', ' ', 'marketing software', '']
+TongCard
+	Provider of the marketing services through distribution of reward cards. The company provides the marketing service to the organization by promoting them via distributing reward cards in the consumers.
+	['', 'marketing service', ' ', 'product promotion', ' ', 'consumer attraction', '']
+1-Page
+	Provider of corporate software as a service and consumer Internet proposal platform. The company enables its users to systematically create, solicit, distribute and negotiate one page proposals between individuals and companies from anywhere around world.
+	['', 'IT services', ' ', 'corporate software', ' ', 'internet proposal platform', '']
+Pictoris Interactive
+	Provider of internet marketing services. The company offers interactive agency services with clients including Accor, Groupe Danone and Lotus.
+	['', 'internet marketing', ' ', 'Management consulting', ' intranets']
+Yield Software
+	Provider of an Internet marketing software for advertisers and digital media agencies. The company offers Web marketing solutions that automate, simplify, and optimize the process of marketing on the Internet. It also provides search engine optimization, which is a process of enhancing Web pages; search engine marketing, which evaluates keywords, ads, and bids; pay-per-click campaign management; and landing page optimization solutions.
+	['', 'Internet marketing software', ' ', 'Internet marketing application', ' ', 'Web marketing solution', ' ', 'search engine optimization', ' ', 'on-line marketing tool', ' ', 'Internet marketing', ' ', 'web marketing software', '']
+Optify
+	Developer of business to business marketing software. The company offers software as a service that work with search and social media to drive leads for business marketers. It also provides an integrated workflow to focus keywords, links, pages and content, as well as promotes webinars and blogs to using twitter and social media.
+	['', 'digital marketing', ' ', 'integrated workflow', ' ', 'marketing software', '']
+Offermatica
+	Developer of a Website content testing and performance optimization platform.The company develops software to test, measure, and optimize Internet marketing and advertising campaigns. It provides multivariate promotion testing, form and landing page optimization solutions for online advertisements, onsite merchandising, electronic mail campaigns, and pay-per-click listings.
+	['', 'Internet marketing', ' ', 'online advertisements', ' ', 'direct mail', ' PPC']
+Kefta
+	Developer and provider of marketing automation software. The company provides a service and technology platform, campaign management tools, marketing expertise, integration and training to enable its clients to plan, create, deploy and track unique revenue-focused marketing programs.
+	['', 'marketing software', ' ', 'technology platform', ' ', 'campaign management tools', '']
+Cima Systems
+	Provider of marketing communications tools for the automotive industry. The company\'s marketing communication systems enables dealership\'s interaction with customers and prospects. It also enables dealers to fix appointments via web and automated phone and provides ROI analysis on marketing campaigns.
+	['', 'marketing system', ' ', 'marketing communication', ' ', 'CRM system', ' ', 'communication system', ' ', 'ROI analysis', '']
+NexTone Communications
+	Provider of software for internet telephone service. The company develops software for use in communications firms to route, manage and control internet telephone calls.
+	['', 'internet software', ' ', 'internet telephone', ' ', 'VOIP', '']
+7d Software
+	Provider of software services. The company engages in the development and marketing of a personalization software which provides internet-based services for its clients.
+	['', 'personalization software', ' internet-based ', 'software services', '']
+Netcentives
+	Provider of a suite of programs for relationship marketing technologies and services. The company delivers personalized email, rewards and recognition marketing technologies and programs that increase efficiency and productivity.
+	['', 'direct marketing service', ' ', 'relationship marketing', ' ', 'marketing technology', '']

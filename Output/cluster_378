@@ -1,36 +1,18 @@
-Masimo
-	Manufacturer of innovative noninvasive patient monitoring technologies. The company offers noninvasive blood constituent patient monitoring services that consists of a monitor or circuit board and its proprietary single-patient use and reusable sensors and cables.
-	['', 'patient monitoring', ' ', 'healthcare services', ' ', 'medical device', '']
-RED-C Optical Networking
-	Provider of amplifiers and optical monitoring devices for all network segments. The company offers solutions for some of the industry’s technological challenges such as ultra long repeaterless links and 40Gb/s transmission networks.
-	['amplifier ', 'optical device', ' ', 'transmission networks', ' ', 'transmission module', '']
-Medico.com
-	Provider of an online global health portal. The portal allows users across the globe to gather and share locally-relevant health care information.
-	['', 'health care information', ' ', 'health information portal', ' ', 'online health portal', '']
-Ensure Medical
-	Developer of devices for post catheterization closure of the femoral artery. The company offers femoral artery closure device, which uses a synthetic bioabsorbable polymer to stop bleeding and close the site of the arterial puncture. It also offers cardiac and vascular devices for health care professionals to treat cardiovascular diseases.
-	['', 'arterial puncture', ' ', 'femoral artery', ' ', 'health care professional', '']
-Mackmyra Svensk Whisky
-	Mackmyra Svensk Whisky AB is engaged in manufacturing, sales and marketing of malt whiskey and whiskey-related products. The Company offers a range of Swedish Whiskey\'s produced at its distillery located in Mackmyra Mill in Gastrikland.
-	['', 'Single Malt Whiskey', ' Whiskey ', 'Whiskey related products', ' ', 'whiskey events', ' ', 'malt whiskey', '']
-Pioneer Medical Systems
-	Developer of medical alarm monitoring systems for hospital and patient monitoring. The company provides medical alarm monitoring in order to secure a comfortable and safe living for seniors and persons medically at risk.
-	['', 'medical alarm system', ' ', 'emergency response system', ' ', 'patient monitoring', '']
-Integrative Medicine Communications
-	Provider of science-based information on wellness and alternative medicine to health care professionals. The company offers information services to healthcare professionals, consumers and executives to combine the conventional and alternative medicine for healthcare.
-	['', 'health care', ' ', 'medical information', ' ', 'health information', ' ', 'wellness medicine', '']
-Kyma Medical Technologies
-	Developer of remote patient monitoring solution for congestive heart failure patients. The company\'s device consists of a small patch attached to the patient\'s torso, and transfers the data wirelessly to a remote center through a gateway device such as a smart-phone.
-	['', 'patient monitoring', ' ', 'chronic heart patients', ' ', 'wireless remote', '']
-MedApps
-	Developer of wireless patient monitoring devices. The company offers a range of portable health devices that automatically record a patients monitor readings and wirelessly transmits the data so that it can be monitored and acted upon by health care professionals.
-	['', 'monitoring devices', ' ', 'wireless patient monitoring', ' ', 'health devices', '']
-SenseCore
-	Provider of health-monitoring devices. The company is a provider of wearable, biomedical monitors that measure a variety of physiological functions and can be linked remotely. The devices have applications for athletes as well as healthcare providers.
-	['', 'monitoring device', ' ', 'physiological monitoring', ' ', 'remote monitoring', ' ', 'biomedical device', '']
-Beansprout Networks
-	Provider of an online community for parents, pediatricians and child care professionals. The company provides pediatric professionals and the families in their care with tools, resources and educational programs to enhance patient care and practice efficiency.
-	['', 'online community', ' pediatricians ', 'child care professionals', '']
-BMEYE
-	Developer and manufacturer of cardiovascular monitoring devices. The company offers products and technologies to measure blood pressure and cardiac output. It has two products approved for sale in the U.S. and Europe from the platform Nexfin, for the cardiology market, and ccNexfin, for the anesthesia and critical care markets.
-	['', 'cardiovascular monitoring device', ' ', 'hemodynamic monitoring', ' ', 'blood pressure', ' ', 'cardiac output', '']
+TrialGraphix
+	Provider of litigation consulting services. The company provides discovery, trial and jury consulting and courtroom presentation services in the United States. It provides services to trial attorneys, law firms and corporate counsel.
+	['', 'litigation consulting', ' ', 'legal service', ' ', 'courtroom presentation', '']
+Pangea3
+	Provider of legal process outsourcing services. The company offers corporate legal outsourcing services, such as contract drafting and revision, contract management and abstraction, compliance and risk management, and troubled asset relief program; and e-discovery and litigation support services. It also provides legal research, business, and competitive intelligence services, which include conducting and analyzing research in the areas of federal, state, and international case laws; federal, state, and municipal regulatory codes and legislative history; and multi-jurisdictional surveys.
+	['', 'legal process outsourcing service', ' ', 'legal research', ' ', 'legal service', ' ', 'patent litigation service', '']
+FindLaw
+	Provider of legal resources. The company provides legal information for lawyers, businesses, students and individuals. The company provides online videos, lawyer directory and other internet advertising services.
+	['', 'legal information', ' lawyers']
+JusticeLink
+	Providers of technology enabled services for courts, attorneys, clients and other interested parties in the legal community through their website. The company provides  legal system for filing legal documents digitally with the court system.
+	['', 'legal community', ' attorneys ', 'court system', ' website']
+Datacert
+	Developer of e-billing products to law firms. The company offers Passport, a platform for uniting legal systems; Advanced Invoice Management System, a legal spend management system; and Corporate Legal Desktop, an integrated matter and legal spend management solution. It also offers consulting and hosting services.
+	['', 'advanced invoice management', ' ', 'corporate legal desktop', ' ', 'management solution', ' ', 'hosting service', ' ', 'consulting service', '']
+RealPractice
+	Provider of legal technology products and services for attorneys and law firms. The company’s products include RealDealDocs, which provides attorneys, researchers, and legal professionals with access to executed legal agreements and documents drafted by lawyers at America’s law firms and corporations.
+	['', 'legal technology product', ' ', 'document drafting', ' ', 'legal agreement', '']

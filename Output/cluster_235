@@ -1,12 +1,3 @@
-Westco Medical Holdings
-	Developer of technology for feeding tubes. The company develops technology related to nasogastric feeding tubes, including a device to test for the correct positioning of tubes when utilized by patients.
-	['', 'masogastric feeding tube', ' ', 'detect positioning', ' ', 'feeding tube', ' tube']
-Jensen Devices
-	Developer of high discharge tube technology (GDT). The company specializes in creating discharge tubes for ignition circuits for headlamps in the automotive industry and over-voltage protectors for industrial and telecommunications companies.
-	['', 'automotive tech', ' ', 'high voltage', ' ', 'voltage protectors', ' ', 'headlamps', '']
-AlgoNomics
-	Provider of structural bioinformatics services. The company provides structural bioinformatics tools to develop rationally designed therapeutics in the broad field of immunotherapy.
-	['', 'therapeutic protein', ' ', 'structural bioinformatics tool', ' immunotherapy']
-Finow Automotive
-	Manufacturer of components and parts for the automotive industry. The company manufactures tubes and profiles for chassis and engine applications to attain weight optimization and structural strength. The company also provides laser welding system for single tubes and tailored tubes.
-	['', 'component manufacturing', ' ', 'automotive industry', ' ', 'laser welding', ' ', 'steel tubes', '']
+FOI
+	Developer of equipment for the semiconductor industry. The company designs and manufactures machinery used to fabricate semiconductor products, including etching systems and surface oxynitridation systems.
+	['', 'light etching', ' oxynitridation ', 'semiconductor devices', '']

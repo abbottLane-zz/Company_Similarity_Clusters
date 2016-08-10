@@ -1,24 +1,33 @@
-Beacon Capital Strategies
-	Provider of an electronic trading platform for execution of mortgage and asset backed fixed income instruments. The company offers Trade Discovery, an electronic trading platform and a bid list application for creating, launching and monitoring multiple BWICs.
-	['', 'electronic trading', ' ', 'trading platform', ' ', 'fixed income instrument', '']
-Movaris
-	Provider of financial control management (FCM) software and services.
-	['', 'financial control', ' ', 'financial management', ' ', 'financial service', ' ', 'cost control', '']
-ePIT
-	Provider of technology for regulated, unregulated and B2B exchanges. The company developed an internet exchange infrastructure for equities, futures, options and cash commodities.
-	['', 'next generation', ' ', 'internet market', ' ', 'information technology', '']
-Gain Capital Holdings
-	Provider of online foreign exchange trading services. The company services fund managers, commodity trading advisers, and professional traders. It also operates forex.com, an online foreign exchange for individual investors that offers trading tools, lower account minimums, and extensive education resources.
-	['', 'foreign exchange', ' forex trading ', 'foreign exchange trading', '']
-Bondcube
-	Operator of a fixed-income trading platform. The company offers a platform for trading in fixed income sector of bonds while allowing traders to filter and search for the bond liquidity, as well as specific trades that match their requirements
-	['income ', 'electronic trading', ' ', 'trade online', '']
-Emos
-	Developer of middle middle office financial software. The company specializes in solutions for futures, options and exchange traded derivatives.
-	['', 'financial software', ', ', 'trading services', ', ', 'financial date', ', ', 'futures exchange', '']
-Master Capital Group
-	Provider of financial products and services. The company is a financial firm specializing in online trading and brokerage services. The company enables self-traders, introducing brokers and institutional clients to trade foreign exchange, CFDs, futures, options and fixed income through globally tested platforms. The company does business under the proprietary brand FXCM MENA.
-	['', 'online trading', ' brokerage ', 'self traders', '']
-BuysideFX
-	Provider of a foreign exchange trading platform aimed at the institutional money manager market. The company is a developer of trade-optimization software designed to help buy-side firms improve pre-trade processes, reduce risk and make side-by-side analyses of dealers using key criteria, or measuring them against benchmarks and market averages.
-	['', 'currency conversion', ' ', 'foreign exchange market', ' ', 'foreign exchange trading', ' ', 'FX', ' ', 'trading', ' ', 'currency trading', '']
+B2
+	Provider of broadband services. The company provides Ethernet services, IP-telephony, Video-on-Demand and television services
+	['', 'broadband services', ' ', 'network technology', ' ', 'internet connection', '']
+Winbox Technologies
+	Provider of connected TV technology for original equipment manufacturers (OEs) and service providers. The company\'s hardware and software products are designed to speed the process of developing IPTV receivers, video-on-demand systems (VOD), hard disk video recorders (PVR / DVR), connected TVs and set-top boxes. The company also works to connect OEMs with Asian manufacturers.
+	['', 'television service', ' ', 'internet protocol television', ' ', 'video on demand', ' ', 'Entertainment Software', '']
+Widevine Technologies
+	Developer of encryption and key-management software systems which enable secure video services on broadband networks. The company offers Cypher, a downloadable conditional access and digital rights management solution, which secures linear broadcast, video on demand, file downloads, and streamed media; and Mensor, a theft deterrent and consumer identification solution that enables content owners, content aggregators, and service providers to track and identify where, when, and to what devices multimedia content is distributed.
+	['', 'encryption software', ' ', 'video security', ' ', 'broadband network', ' ', 'digital right', ' ', 'linear broadcast', '']
+Anevia
+	Provider of video on demand software. The company offers application suites for broadcasters and telecom operators. It also offers a suite of components and applications to build-up video service infrastructures.
+	['', 'television service', ' ', 'online video streaming', ' ', 'telecom operator', '']
+Bluestreak Technology
+	Provider of video services for connected devices. The company provides software and video services for connected devices including set-top boxes, smart TVs, smartphones, and tablets to content owners, device manufacturers, and network operators.
+	['', 'video enable service', ' ', 'media application', ' ', 'electronic component', '']
+NetCentrex
+	Developer of networking products and network-based applications for business communications, customer interactions and broadband residential communications. The company offers network-based software enabling IP-based voice-video-data and FMC (fixed-mobile convergence) solutions for service providers; and software-based converged voice-video-data-over-IP solutions. It develops network (NGN) voice and video solutions that enable telecom operators and service providers to deliver voice-video-data and fixed-mobile converged services for the consumer and enterprise markets.
+	['', 'broadband communication', ' ', 'network product', ' ', 'mobile converge service', '']
+Myrio
+	Provider of software, content management and integration services for internet protocol based video services. The company enables telecommunications providers to offer digital TV, video-on-demand, interactive TV services,  communications and internet services to their customers.
+	['', 'IP video', ' ', 'broadband service provider', ' ', 'video on demand', '']
+Flimmer
+	Developer of a platform for viewers to watch movie trailers. The company\'s platform allows viewers to watch the latest trailer from Cinema, DVD & Blu-Ray and Video On Demand and reward them for their attention with movie tickets or DVD/Video on Demand Coupons.
+	['', 'watch film trailer', ' ', 'photography platform', ' ', 'video on-demand', '']
+On Demand Group
+	Provider of video on demand services to television brands.
+	['', 'video service', ' ', 'television service', ' ', 'digital media service', '']
+Prescreen
+	Provider of social discovery video-on-demand platform designed to promote and showcase premium content. The company provides a daily movie service that presents films to a community of movie lovers.
+	['', 'video-on-demand', ' ', 'premium content', ' ', 'premium movie', ' ', 'daily movie service', '']
+Ridgeway Systems and Software
+	Provider of multi-boundary solutions for end-to-end IP video and voice communications. The company\'s software products, IPFreedom, securely traverse network firewalls and NATs (Network Address Translation) enabling the next generation of IP connectivity-ubiquitous IP video and voice between any and all IP endpoints.
+	['firewall ', 'IP connectivity', ' telecommunications']

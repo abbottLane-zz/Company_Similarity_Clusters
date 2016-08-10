@@ -1,15 +1,66 @@
-CompassCare
-	Provider of cost and treatment delivery management software for the healthcare industry. The company develops software in connection with management of healthcare data.
-	['', 'healthcare software', ' ', 'healthcare data solution', ' ', 'data management', '']
-GeoTel Communications
-	Provider of call routing and optimization software products. The company develops and markets telecommunication software products for center applications.
-	['', 'telecommunications software', ' ', 'call routing', ' ', 'call center applications', ' ', 'customer-interaction software', '']
-Physicians Data Network
-	Provider of web-enabled on-line management tool. The company develops online tools that allows healthcare providers to monitor Medicare fraud and abuse regulatory compliance, measure productivity and manage revenue.
-	['', 'online tools', ' ', 'management tool', ' ', 'web-enabled tool', ' ', 'fraud security', '  web-enabled']
-InStream
-	Developer of workflow software for healthcare offices. The company develops software products that coordinate the movement of documents and other information between managed healthcare providers and their staffs.
-	['', 'managed healthcare', ' ', 'workflow software', ' ', 'data transfer software', ' ', 'behavioral healthcare', '']
-CyberPlus
-	Provider of controlled medical terminology applications to the healthcare providers. The company provides its users an internet based knowledge management tool to improve the healthcare operations for providers, pharmaceutical concerns and internet healthcare content providers.
-	['', 'medical terminology', ' ', 'healthcare industry', ' ', 'internet healthcare', '']
+Open Data Registry
+	Provider of supply chain intelligence. The company\'s services help consumer brands to implement innovative financial risk management and sourcing strategies to produce more environmentally sustainable consumer goods.
+	['', 'supply chain', ' ', 'financial risk management', ' ', 'sourcing strategy', '']
+SeeCommerce
+	Provider of supply chain performance management and improvement application. The company enables business managers and trading partners to manage and improve business performance across complex supply chains.
+	['', 'supply chain management', ' ', 'web centric application', ' ', 'internet centric application', '']
+CDFX
+	Provider of services for the print supply chain. The company offers services for producing and delivering print, optical, direct and promotional products for direct marketers. It also offers virtual warehouse software that helps clients to streamline processes.
+	['', 'optical media', ' ', 'inventory management', ' ', 'print supply chain', ' ', 'project management system', '']
+Factory Logic
+	Supplier of software for lean scheduling and supply synchronization. The company provides manufacturing and supply chain management solutions to the automotive, electronics, industrial equipment and aerospace industries.
+	['', 'management solutions', ' ', 'lean scheduling', ' ', 'supply synchronization', '']
+Sentient Health
+	Provider of a platform with software and services for optimizing inventory management of consumable medical supplies. The company offers MedTrac software to automate supply chain management of consumable medical supplies, such as stents, syringes and gloves.
+	['', 'patient safety', ' ', 'patient care', ' ', 'inventory management', ' ', 'medical supply', '']
+Rewired Production Management
+	Developer of internet based systems to manage the information flow required to employ and pay unionized performers who appear in broadcast commercials. The company provides management of information relating to the use of union talent in the production of commercials, music and films.
+	['', 'information services', ' ', 'broadcast services', ' ', 'talent management', '']
+Mercari Technologies
+	Provider of supply-chain management and e-fulfillment software company. The company\'s merchandising solutions bringing retailers and manufacturers closer to their customers by integrating consumer behavior data with merchandise planning, supply chain optimization, category management and financial analysis.
+	['', 'business software', ' ', 'supply-chain management', ' e-fulfillment']
+EBERT Kettenspanntechnik
+	Producer of roll-ring chain tensioners. The company develops self-adjusting tensioners and damper roll-ring chain for various industrial applications.
+	['ROLL-RING ', 'chain tensioner', ' ', 'chain damper', ' ring']
+Profile Systems
+	Developer of product data and supply chain management solutions for business-to-business electronic commerce. The company also offers extensive consulting services, including product data cleanup, supplier enablement/assessment, inventory consulting and overall electronic commerce and supply chain scoping projects.
+	['e-business ', 'supply chain management', ' SCM']
+LifetecNet
+	Operator of a technology platform for providing e-business services to the life sciences industry. The company\'s technology services help companies to simplify the complexities of disparate business processes, IT systems and regulatory compliance practices associated with the supply chain.
+	['', 'e-business services', ' ', 'supply chain management', ' ', 'regulatory compliance', ' ', 'proprietary technology', '']
+DownstreamEnergy.com
+	Provider of solutions for supply chain management. The company provides software programs that manages flow of information between suppliers and marketers. The company mainly focuses on customer management.
+	['', 'supply chain', ' ', 'information flow', '']
+CarParts Technologies
+	Provider of open, business automation and distribution channels for the automotive aftermarket supply chain. The CPT eCommerce platform enables online trading, integration and collaboration between distribution channels, buyers, suppliers and commerce service providers. The company\'s systems are used by aftermarket outlets including manufacturers, program groups, warehouse distributors, tire and service chains and independent installers in all 50 U.S. states and Canada.
+	['', 'business automation', ' ', 'distribution channel', ' ', 'supply chain management', '']
+SAF Simulation, Analysis and Forecasting
+	Developer of automated ordering software for retailers. The company provides demand-chain management, to enable process optimization along the breadth of the value chain.
+	['', 'forecasting software', ' ', 'automated replenishment', ' ', 'trade forecast', ' trade']
+Valdero
+	Provider of supply chain performance management and analytical collaboration software applications. The company provides inventory visibility and order fulfillment software applications.
+	['', 'supply chain performance', ' ', 'order fulfillment software', ' ', 'supply chain analytic', ' ', 'supply chain software', ' ', 'supply chain', '']
+ChemConnect
+	Provider of an electronic marketplace platform for trading midstream energy, feedstocks, chemicals and related products. The company’s products include natural gas liquids, refined and intermediate fuel products, aromatics, olefins, and commodity polymers. It also offers supply chain solutions, such as negotiation solutions and collaboration hubs.
+	['', 'online market', ' ', 'online trading', ' ', 'supply chain', '']
+Anagran
+	Producer of network flow management products. The company offers FR-1000, an intelligent flow manager and Layer 3 product platform that features fast flow, intelligent flow discard, and behavioral traffic control technologies for video-dominated rich media network traffic to transport video and rich quad-play traffic. It offers its solutions for universities and colleges, service providers, cable networks, and distributed storage, as well as for video distribution, conferencing, and HD telepresence industries.
+	['', 'network flow management', ' ', 'IP traffic manager', ' ', 'P2P management', ' ', 'IP video', ' ', 'flow management', ' ', 'data application', ' ', 'Computer Communications Equipment', ' ', 'Customer Premises Equipment IP Router', ' ', 'Internet Proxy Router', '']
+Tangerine Technologies
+	Provider and developer of software applications for the custom design and procurement of products and services in multiple vertical markets. The company develops connectors that integrate its systems with a customer\'s procurement management to allow supply chain visualization.
+	['', 'procurement management', ' ', 'supply chain', ' ', 'custom design', '']
+Vergo
+	Provider of software based services for network and risk management. The company provides network management service to manage the supply chain and its companies balanced risks management for strategic management. It also provides software for working capital management.
+	['', 'network management', ' ', 'analytic software', ' ', 'working capital management', ' ', 'supply chain management', '']
+TradeBeam
+	Provider of Global Trade Management software and service solutions. The company streamlines global trading processes for enterprises and their partners. Its integrated solution provides import and export compliance and visibility including inventory management, shipment tracking, and supply chain event management, as well as global trade finance solutions such as open account and letter of credit management.
+	['', 'global trade management', ' software technology ', 'global trading', ' shipment ', 'supply chain', ' ', 'letter of credit', ' ', 'trade management software', '']
+Incontrol
+	Manufacturer of flow and level measurement control equipments and systems. The company provides equipments in the measurement and control of flow and level in all types of industrial process sector.
+	['', 'flow control', ' ', 'measuring equipments', ' ', 'process flow', '']
+Global Beverage Group
+	Developer of delivery management technologies. The company offers a supply chain management software for the food and beverage industries.
+	['', 'delivery management', ' ', 'supply chain management', '']
+Zik Energy Points
+	Provider of analysis services for the supply chain. The company provides analysis of energy and resource use in the supply chain, including assessment of consumed  energy, water, fuels and materials. The company provides its services to enterprises seeking to understand their resource efficiency and operational resilience.
+	['', 'b2b services', ' ', 'commercial services', '']

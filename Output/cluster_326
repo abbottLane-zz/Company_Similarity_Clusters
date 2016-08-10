@@ -1,9 +1,12 @@
-Big Sky Bread
-	Provider of breads and baked goods. The company is a local bakery that sells whole-grain bread, granola and cookies.
-	['granola bread ', 'organic wheat', ' ', 'micro bakery', '']
-Barton Nelson
-	Manufacturer of advertising and promotional specialty goods. The company offers name badges, sticky notes, flags, pads and flag booklets, custom imprinted flag dispensers, cubes and note holders, lenticular items, magnets, desk calendars, desk pads, note planners and journals, scratch pads, memo books, rulers, bookmarks, door hangers, mailers, vinyl three ring binders, vinyl note pad folders, and vinyl document holders and cases. It serves financial institutions.
-	['', 'specialty goods', ' ', 'stationary goods', ' ', 'commercial products', '']
-Pains & Tradition
-	Provider of baked and frozen breads. The company primarily focuses on providing various types of breads and baked rolls.
-	['', 'baked breads', ' ', 'frozen breads', ' breads']
+Kaffee Toro
+	Operator of an online subscription platform for coffee drinkers. The company provides online subscription services of filter coffee machines for consumers.
+	['', 'filter coffee', ' roast-grind-brew ', 'subscription platform', ' filter']
+Marila Balírny
+	Producer of coffee and coffee products. The company owns a coffee roasting plant and production facility near Prague, Czech Republic. Along with its coffee and cappuccino, the company produces a wide assortment of sponge cakes, wafers and gingerbread.
+	['coffee cappuccino ', 'sponge cakes', ' wafers gingerbread']
+Adina For Life
+	Producer of beverages in the United States. The company’s products include juice coolers, coffee and tea drinks, ingredients, and drink recipes.
+	['', 'manufacturing company', ' ', 'juice cooler', ' ', 'tea and coffee', '']
+TONX
+	Operator of a coffee distributor company. The company delivers freshly roasted coffee beans to the client\'s doorstep providing an alternative to buying stale and bitter coffee beans off the shelf.
+	['', 'coffee manufacturing', ' ', 'coffee bean', ' ', 'roasted coffee', '']

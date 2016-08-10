@@ -1,39 +1,51 @@
 Planfortytwo
 	Provider of sports gaming applications. The company builds sports-related social applications for Facebook and mobile devices designed to gamify the sports fan experience.
 	['', 'gaming software', '']
+Yardbarker
+	Operator of a sports website. The company allows sports fans, bloggers, and professional athletes to read and discuss sports articles, view sports photos and videos, debate and interact with each other. It also operates an online store that offers women\'s, kid\'s, men\'s, and organic T-shirts; and baby one-pieces, accessories, and gift cards.
+	['', 'sports website', ' ', 'online sports media', ' ', 'online sports entertainment', ' ', 'online sports article', '']
+Sports Technology (fantasy games)
+	Developer of fantasy games and user-generated content tools for sports brands. The company creates web technologies that allow fans to share their passion for sports. The company\'s main focus is to create innovative products and features targeting fantasy sports, sports fans and other online communities.
+	['', 'sports news', ' ', 'aggregated news', ' ', 'publishing tool', ' voting applications']
+Innovasive Devices
+	Manufacturer of surgical devices and instrumentation. The company manufactures devices for sports medicine surgeries, which facilitate the repair of soft tissue injuries in the knees and shoulders.
+	['', 'sports medicine', ' ', 'soft tissue repair', ' ', 'surgical repair', '']
+Racing-Live
+	Operator of a motor sports website. The company\'s website covers live updates, news, and information of formula 1, rally, moto GP and superbike, off road rallies, sports-cars and kart racing.
+	['motor ', 'formula 1', ' ', 'moto GP', ' rally ', 'kart racing', '']
 Sportamore
 	Operator of an e-Commerce company involved in selling sports related equipment. The company provides shoes, clothes, bags and apparel from well known brands such as Nike, Adidas, Puma and Converse.
 	['', 'sports equipment', ' Nike Adidas apparel']
 American Sports Products Group
 	Provider of sports and recreation infrastructure facilities. The company designs, manufactures, and installs various kinds of sports surfaces. The company\'s surfaces include synthetic and natural grass playing fields for sports, such as football and soccer, as well as running tracks and indoor gymnasium floors.
 	['', 'sports infrastructure', ' ', 'infrastructure', '']
-TVGenesis
-	Provider of the digital broadcast platform. The company provides digital broadcast platform, engaging audiences across premium lifestyle channels. The company\'s network covers fashion and entertainment, healthy living, food and drink, sports, gaming, and custom programming channels.
-	['', 'digital broadcast', ' ', 'lifestyle channel', ' ', 'media platform', ' ', 'fashion and entertainment', '']
-Vaillant Stadium Limits
-	Developer of equipment for tracing boundaries. The company has designed and developed a system of tapes, reels and clips to create and maintain boundaries of a sports field.
-	['tapes reels clips ', 'tracing boundaries', '']
-KB Labs
-	Developer of facebook applications. The company develops Facebook applications and widgets.
-	['', 'facebook application', ' ', 'application development', '']
+FysioSporttis
+	Provider of physiotherapy and health sports services. The company offers multiple services designed to enhance patients’ muscles and joints, as a preventative measure as well as a therapeutic one. The company provides guided exercise programs, employee wellness services and physiotherapy consultations and treatments. The company also provides workout centers, a gymnasium and solarium.
+	['physiotherapy ', 'health sports', ' ', 'workout center', ' gymnasium solarium ', 'sports service', ' wellness fitness']
+Bleacher Report
+	Provider of an open source sports network and community publishing site for amateur sports writers. The company allows sports fans to share insights and opinions, news and photos as well as write articles. It also provides advertising opportunities, including run-of-site and targeted campaigns.
+	['', 'sports network', ' ', 'community publishing', ' ', 'sports publishing', ' ', 'sports media', ' ', 'digital publishing', ' ', 'sports website', ' ', 'sports news', '']
 RecBob
 	Provider of a facebook application that manages adult sports league teams. The company offers a platform that makes recreational sports easy by organizing play.
 	['', 'facebook application', ' ', 'adult sport league', ' ', 'sports team', ' ', 'organizing play', '']
+Viigo
+	Developer of a content mobilization platform. The company offers News and RSS module for news, insights, and blogs; Weather module, which allows users to view the current temperature and forecasts for cities around the world; Sports module that provides live event updates, schedules, and results; and Business and Finance module that enables users to create and follow their own stock portfolio, calculate exchange rates, or even manage their online accounts.
+	['sports weather ', 'finance module', ' ', 'portfolio management', ' weather']
 Swink
 	Provider of sports media network. The company\'s website provides video service that cuts sports game films into individual plays, indexes each play and stores them in its database for sports teams and individuals to share their sports highlights with their teams, friends and fans.
 	['', 'sport media', ' ', 'video service', ' ', 'sport highlight', '']
+MaxPreps
+	Publisher of online high school sports news and information. The company provides information related to baseball, basketball, football, G basketball, volleyball and other sports. It also offers information on team rankings on the national level, including statistics and the latest scoreboards.
+	['', 'high school sport', ' ', 'sports information', ' ', 'sports statistics', ' ', 'sports news', ' ', 'sports publishing', ' ', 'sports stats', ' ', 'sports rankings', ' ', 'sports reporting', '']
+PicksPal
+	Provider of online games, information, and entertainment for the sports fans. The company offers downloadable fantasy sports games, including football, basketball, baseball, golf, boxing, cycling, motor sport, and soccer; information in the fields of professional sports, fantasy sports players, and teams; commentary and articles about professional and fantasy sports; text and numeric wireless messaging, and on-line trading services; and on-line chat rooms and electronic bulletin boards for the transmission of messages among users.
+	['', 'professional sport', ' ', 'bulletin board', ' ', 'numeric wireless message', ' ', 'online game', '']
 NuCom Online International Company
 	Provider of a sports portal. The company operates a sports portal and broadcasts live sports matches and sports programmes.
 	['', 'sports programs', ' ', 'sports portal', ' ', 'sports forum', ' ', 'sports broadcast', '']
-Enthuse
-	Provider of mobile focused platform for sports franchises. The company offers an online platform that gives fans the ability to connect with their sports teams via their mobile devices.
-	['', 'mobile device', ' ', 'sport platform', ' ', 'online connection', '']
 numberFire
 	Provider of a sports analytics platform to predict and analyze sports performance. The company develops technology that helps players to use mathematical modeling tools and algorithmic analysis to understand, analyze and predict their team performance.
 	['', 'quantitative analysis', ' ', 'statistical reasoning', ' ', 'sports statistics', ' ', 'sports performance', '']
-FantasyBook
-	Developer of sports applications for social networks. The company offers live drafts, free live scoring, and mobile access for football games; and salary cap baseball game to the casual fan.
-	['', 'sport application', ' ', 'live scoring', ' ', 'football mobile access', ' ', 'internet application', '']
 51pegasi
 	Provider of a software for sports event production management. The company provides sports event production management software to event organizing committees, integrators, operators, sponsors, International Sports Federations and related media companies.
 	['', 'legacy integration', ' ', 'sports management', ' ', 'production management software', ' ', 'software application', '']

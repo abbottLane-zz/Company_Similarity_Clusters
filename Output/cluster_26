@@ -1,45 +1,69 @@
-Metaboli (White Label Division)
-	Provider of download stores for game publishers. The business offers commerce-as-a-service solutions for publishers of video games and their online retailers.
-	['', 'video game', ' ', 'digital game', ' ', 'gaming console', '']
-Sight & Sound Distributors
-	Distributor of home videos, video games and related accessories. The company buys prerecorded tapes from movie studios and sells them to retailers, including regional supermarket chains and video stores. Local customers include Video Update, Dierbergs Markets, Blockbuster franchises and several smaller independent stores. The stores both rent and sell the videos.
-	['', 'video distributor', ' ', 'distribution service', ' ', 'video distribution service', '']
-Red Swoosh
-	Provider of P2P network technologies designed to alleviate bandwidth bills for Websites. Its products include Predelivery, which delivers video, video games, and files to users as a background delivery.
-	['', 'bandwidth bill', ' ', 'content delivery', ' ', 'media management', ' ', 'retrieve metadata', '']
-Frozen Codebase
-	Developer of gaming software. The company provides 3 dimensional video games for both download and store based markets.
-	['', 'gaming software', ' ', '3D games', ' ', 'store-based markets', '']
-Realtime Worlds
-	Developer of video games.
-	['', 'video game', '']
-Canesta
-	Provider of electronic perception technology. The company’s technology enables electronic devices, including video games, computers, industrial and medical electronics devices, automobiles or other vehicles, and factory automation equipment to perceive and react to objects or individuals in real time.
-	['', 'electronic perception', ' robotics ', 'security application', '']
-Dark Water Studios
-	Provider and developer of video games. The company develops computer and video games through its studio based in Derry, Northern Ireland.
-	['', 'computer game', ' ', 'video game', ' ', 'game studio', '']
-Arush Entertainment
-	Developer of video and computer games. The company publishes interactive entertainment software for personal computers and entertainment consoles.
-	['', 'computer game', ' ', 'video game', ' ', 'interactive entertainment software', '']
-5min Media
-	Operator of a syndication platform for broadband instructional, knowledge, and lifestyle videos, as well as DIY projects. The company\'s platform features content from media companies and independent producers in various categories, such as arts, automobiles, business, extreme, fashion, fitness, food, games, health, home, music, parenting, people, pets, spiritual, sports, technology, travel, life tips, knowledge, and video games.
-	['', 'lifestyle video', ' ', 'syndication platform', ' ', 'health video', ' ', 'video solution', '']
-Fifth Dimension
-	Developer of video games for children. The company develops and publishes computer games based on popular children’s TV brands such as Tweenies, Teletubbies, Fimbles and RobotWars.
-	['', 'video games', ' ', 'computer games', ' ', "children\\'s games", '']
-Humongous Entertainment
-	Developer of computer video games. The company develops educational games for children.
-	['', 'computer games', ' ', 'educational games', ' ', 'video games', '']
-VideoJax
-	Provider of video games on the web. The company offers play games with video clips and trivia questions in the areas of movie, television, music and sports, as well as featured games.
-	['', 'video game', ' ', 'online game', ' ', 'online trivia', ' ', 'game sharing', '']
-Ndoors
-	Developer of video games. The company develops and publishes MMORPGs (Massively Multiplayer Online Role-Playing Games) like Atlantica Online and Goonzu.
-	['MMORPGs ', 'Role-Playing', ' Goonzu']
-yourvideocard
-	Developer of video greeting cards. The company develops video cards which are used to record personal messages and can be sent to others as greeting cards.
-	['', 'online card', ' ', 'greeting cards', ' ', 'online platform', ' ', 'greeting messages', '']
-Kiwatch
-	Developer of video-monitoring surveillance platform. The company develops a platform which allows for WiFi video monitoring of premises through computer or smartphone.
-	['', 'video monitoring', ' ', 'home security', ' ', 'Electronic Component', '']
+EA Technology Ventures
+	Provider of power asset management services. The company invests and works with new ventures across a wide range of traditional and emerging energy related sectors including energy efficiency, smart grid and new energy distribution and storage technologies.
+	['', 'investment vehicle', ' ', 'smart grid', ' energy']
+eQuilibrium Solutions
+	Developer of energy management software.
+	['', 'energy management', ' ', 'energy software', '']
+BuildingIQ
+	Provider of an energy management software. The company\'s software platform forecasts energy demand and automatically adjusts a building’s HVAC settings to optimize energy use.
+	['', 'energy management', '  ', 'building energy management', ' ', 'energy efficiency', '']
+Nanox
+	Developer of nanostructured perovskite-based catalyst formulations for emission control and alternative energy applications. The company offers products for diesel oxidation catalysts and particulate control, oxidation of carbon monoxide, volatile organic compounds oxidation and physico-chemical data applications.
+	['', 'emission control', ' oxidation energy']
+JouleX
+	Provider of energy management systems for data centers and enterprise networks. The company\'s main product is JouleX Energy Manager, a solution that monitors, analyzes and manages the energy usage of network-connected devices and systems in the enterprise network, data center and related facilities. Its software solution monitors, analyzes and manages PCs, servers, VoIP phones and devices, printers, network switching devices, IP power switches, and HVAC systems.
+	['', 'energy management', ' ', 'sustainable energy', ' ', 'energy usage reduction', '']
+P21
+	Providers of autonomous energy supply and energy-efficient solutions, with the aim of replacing diesel generators with zero-emission products. The company provides services in energy efficiency and monitoring, solutions for supplying electricity to off-grid applications such as monitoring stations, telecommunications facilities or self-sufficient houses; and providing education and research programs for fuel-cell and solar-hydrogen technology.
+	['energy-management ', 'energy consumption', ' ', 'hydrogen fuel cell system', ' ', 'climate reading', ' ', 'CO2 balance', '']
+Gen110
+	Provider of alternative way for heavy energy users to purchase residential power. The company provides customers with generators for no installation or upgradation fees, then customers pay for the electricity at a guaranteed rate.
+	['', 'residential power', ' ', 'energy user', ' ', 'utility rate', ' ', 'distributed energy', '']
+Alektrona
+	Provider of hardware and software services for advanced metering infrastructure, demand side management and other energy-related applications. The company specializes in unifying open-standards products within energy management systems, enabling smart grid companies to better serve their customers energy needs
+	['', 'broadband energy management', ' ', 'hardware solution', ' ', 'software solution', ' ', 'advanced metering infrastructure', ' ', 'energy management device', ' ', 'demand side management', ' ', 'energy-related application', ' ', 'energy network appliance', ' ', 'advanced metering system', '']
+Enersciences Holdings
+	Developer of energy products and services for the energy industry. The company develops energy technologies like drilling, fracturing and gas-to-liquid processing to help customers in their operations in the energy industry, while maintaining safety and environmental integrity.
+	['', 'energy products', ' ', 'energy technologies', ' ', 'environment integrity', '']
+Adura Technologies
+	Provider of wireless lighting and energy management systems. The company provides lighting control service for new and retrofitted commercial buildings.
+	['', 'lighting management', ' ', 'energy management', ' ', 'lighting control', ' ', 'energy saving', '']
+Enermetrix
+	Provider of real- time transaction - processing environment in which utilities, traders and marketers, service companies, commercial and industrial users buy and sell energy. The company provide internet commerce system that allows energy consumers, energy suppliers and utilities to share information.
+	['', 'online energy trading', ' ', 'energy markets', ' ', 'energy sellers', ' ', 'energy buyers', ' ', 'energy software solutions', '']
+Navita Systems
+	Provider of decision-support technology for transaction and risk management in the energy market. The company has developed a software product offering an overview of the opportunities and risks in energy trading, as well as decision-support systems for physical and financial trading in the energy sector.
+	['', 'decision support systems', ' ', 'risk management', ' ', 'energy trading', '']
+Datapult
+	Provider of enterprise energy management (EEM) services. The company provide web-based applications that are used to collect and analyze energy usage information, monitor power quality, engage in load management, conduct rate modeling and tariff comparisons, and dispatch distributed generation capabilities.
+	['', 'enterprise management', ' ', 'web based application', ' ', 'power quality', ' ', 'load management', ' ', 'rate modeling', ' ', 'tariff comparison', '']
+FieldView Solutions
+	Provider of facilities managers and IT personnel that handle data centers with real time branch circuit and environmental monitoring, circuit alarm notification, and cabinet asset management for small and large data centers. The company’s enterprise-ready platform optimizes space and energy usage in data center environments, as well as enhances security features, access, and permissions. It serves financial, insurance, co-location, and pharmaceutical companies.
+	['', 'enterprise software', ' ', 'energy management', ' ', 'risk mitigation', ' ', 'paltform optimization', ' ', 'space optimization', '']
+Fat Spaniel Technologies
+	Provider of monitoring and reporting services for the renewable energy industry. The company also provides lifecycle management services. It offers Fat Spaniel Insight Manager, a Web portal for building, sharing and running energy data applications.
+	['', 'monitoring service', ' ', 'lifecycle management', ' ', 'energy data application', ' ', 'systems monitoring', '']
+Imperium Renewables
+	Producer of biodiesel from feedstock oils and glycerin, a by-product of biodiesel. The company operates BQ-9000®-certified biodiesel facilities in the United States.
+	['biodiesel ', 'clean energy', ' ', 'green energy', ' ', 'waste management', ' ', 'sustainable fuel', '']
+Fellon-McCord & Associates
+	Provider of energy management, dispatch and consulting services to clients in the industrial and commercial sectors. The company provides a variety of services that include energy audits, energy RFPs, utility negotiations, natural gas bypass studies, energy sourcing, risk and demand management, cost-benefit analysis and program development.
+	['', 'energy management', ' ', 'consulting services', ' ', 'management consulting', '']
+Enerwise Global Technologies
+	Provider of enterprise energy management solutions as a Web-based hosted software suite for commercial, institutional, and industrial customers to reduce energy consumption. The company also provides demand response, energy analysis, load management, distributed generation, utility allocation, and report generation and energy analytical services.
+	['', 'energy management solution', ' ', 'enterprise solution', ' ', 'hosted software', ' ', 'energy analysis', ' ', 'load management', ' ', 'utility allocation', '']
+Airxchange
+	Manufacturer of energy recovery ventilation products and components. The company offers energy recovery ventilators, integrated packages, air handler options, wall mounts and packaged units. The company also provides field replacement services.
+	['', 'energy recovery', ' ', 'energy recovery ventilation', ' ', 'recovery ventilator', ' ', 'air handler', ' ', 'wall mount', '']
+Nest Labs
+	Provider of learning thermostat focused on reducing home-energy consumption. The company\'s technology Learning Thermostat learns human behaviors and preferences, automatically adjusting the temperature so you can stay comfortable while saving energy and money.
+	['', 'household heating', ' ', 'cooling bill', ' ', 'energy saving', ' thermostat ', 'energy bill', ' ', 'energy management', ' ', 'temperature control', ' ', 'household heater', ' heater ', 'smart home', '']
+Greenbox Technology
+	Provider of Web-based energy management solutions for the utilities and residential energy customers. The company\'s platform enables its customers to track, compare, and manage energy usage, as well as engages them in energy efficiency, demand response, alternative and renewable energy, and carbon reduction activities.
+	['', 'energy management', ' ', 'energy utility', ' ', 'energy usage', ' ', 'energy efficiency', ' ', 'carbon reduction', '']
+Yitran Communications
+	Provider of powerline communication (PLC) technology for command and control applications. The company\'s technology is used in applications including energy management and demand response, automated meter reading/management (AMM/AMR), home/building automation, switching and lighting, white good appliances, HVAC control, remote meter reading and street light control. It also designs, develops and markets PLC integrated circuits.
+	['', 'communication technology', ' ', 'energy management', ' ', 'integrated circuit', '']
+Triacta Power Technologies
+	Developer of energy management systems. The company develops energy systems which enables firms to reduce energy consumption and energy costs.
+	['', 'energy management system', ' ', 'smart submetering', ' ', 'electrical sub metering', '']

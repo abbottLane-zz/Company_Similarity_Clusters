@@ -1,27 +1,48 @@
-Class Connect
-	Provider of lesson crowd-sourcing tool for teachers. The company provides an online platform which enables teachers to find, build and share lesson plans.
-	['', 'crowd-sourcing tool', ' ', 'educational services', ' ', 'educational and Training', '']
-Appetas
-	Provider of an online platform which helps restaurant owners to build their website. The company provides an online platform which helps restaurant owners to build their customized desktop and mobile website, which can be edited and updated by the owners themselves.
-	['', 'website builder', ' ', 'customized website', ' ', 'restaurant website', '']
-Atweb
-	Provider of website maintenance and promotion service. The company offers two product lines - Web Site Garage and !Register-It!. Web Site Garage allows website owners to "park" their URL for a free seven point online website tune up and provides recommendations for improvement; while !Register-It! is a way for website owners to register their website with search engines and directories.
-	['promotion communication ', 'Website promotion', '']
-StopTheHacker
-	Provider of website security. The company provides SaaS services to web hosters, website owners, administrators and web designers to help them protect, detect and recover from malware attacks.
-	['', 'website security', ' ', 'web hoster', ' ', 'malware attack', ' ', 'malware security', '']
-Joyo
-	Provider of a career exploration site. The company\'s platform helps people navigate and discover careers they love.
-	['', 'career exploration', ' ', 'job search', ' ', 'employment portal', ' ', 'career search', '']
-Wibiya
-	Developer of customized web toolbars for websites. The company help online publishers, bloggers ,and other online properties to integrate services and applications of their choice into their website through customized web-based toolbars.
-	['', 'customized toolbar', ' ', 'website toolbar', ' ', 'online publisher', ' ', 'toolbar integration', '']
-Cibando
-	Provider of a restaurant marketing website and mobile application. The company caters to restaurants and other dining enterprises. Through the use of technology the company helps to create a way for consumers and food venues to interact.
-	['', 'restaurant marketing', ' ', 'restaurant reservation', ' ', 'fine dining', ' ', 'restaurant search service', '']
-First Bank of Rock
-	Provider of an intelligence network for artists. The company provides network platform which helps the artist to solve their issue for cash shortfall for tour and some others issues.
-	['', 'technology network', ' ', 'artists network platform', ' ', 'productivity software', '']
-Mochila
-	Operator of an online market place for syndicated content from various content providers. The company’s marketplace contains articles, photos, and videos covering hard news and feature stories on various topics, such as health, business, entertainment, fashion, sports, science, and technology. Its online platform helps publishers to build business, content owners to find new value for their content, and advertisers to reach target audience.
-	['', 'online market place', ' ', 'online platform', ' ', 'publisher platform', '']
+SNAPin Software
+	Provider of device-centric customer care and diagnostic software products. The company’s handset-based SelfService product suite repairs critical device and network settings, such as those required for roaming, messaging, or data networking.
+	['software wireless communication network ', 'mobile phone', ' cellular telecommunication roaming repair']
+Mahi Networks
+	Supplier of optical networking equipment. The company supplies multi-service metro packet switching, TDM grooming and reconfigurable optical transport systems to service provider customers.
+	['', 'optical equipment', ' ', 'networking equipment', ' ', 'metro packet switching', '']
+Cisco Systems
+	Designer, manufacturer and seller of Internet Protocol (IP) based networking technologies to its clients. The company offers various products and services including networking software, routers, video, wireless, security, voice and unified communication, telepresence, collaboration, webex, data center, virtualization and unified computing systems.
+	['', 'information technology', ' ', 'networking technology', ' ', 'networking software', '']
+RuggedCom
+	Manufacturer of rugged communications networking products. The company provides rugged communications networking services designed for mission-critical applications in harsh environments such as those found in electrical power substations and "Smart Grids", intelligent transportation systems, industrial process control and military applications.
+	['', 'rugged communication network', ' ', 'ethernet switch', ' ', 'network router', ' ', 'wireless device', '']
+Zenverge
+	Provider of semiconductors for digital media products. The company is developer of content networking ICs built around the patented TransAll technology, a core requirement for next generation video services gateways.
+	['', 'digital media', ' ', 'integrated circuit', ' ', 'video networking', ' ', 'networking equipment', ' ', 'desktop media', '']
+Nortel Networks
+	Manufacturer of networking products. The company is a manufacturer of equipment for telecommunications and data networking.
+	['', 'networking equipment', '  ', 'data networking equipment', ' ', 'cable operators', '']
+SwitchOn Networks
+	Provider of semiconductor and software components to the Content and Policy-based networking. The company\'s products enable next generation network equipment, including web and content switches, CMTS, DSLAM, enterprise routers, edge routers, bandwidth managers, VPNs, Firewalls and Intrusion detection systems.
+	['', 'semiconductor and software component', ' ', 'wirespeed packet classification', ' ', 'networking solution', ' ', 'networking device', ' ', 'semiconductor component', ' ', 'semiconductor networking solution', ' ', 'networking equipment', ' ', 'packet content processor', '']
+RouteLambda
+	Provider of an optical networking equipment. The company provides outsourced assembly of standardized optical networking equipment and broad base communication equipment in Japan.
+	['', 'optical networking', ' ', 'communication equipment', ' ', 'outsourced assembly', '']
+Loran International Technologies
+	Operator of a data networking company. The company is a system integrator of high speed networks.
+	['', 'data networking', ' ', 'system integrator', ' ', 'internet network', '']
+CebaTech
+	Provider of technology to the networking and storage markets. The company develops hardware-acceleration technology designed to boost protocol execution performance in embedded systems.
+	['', 'communication protocol', ' ', 'Silicon chip', ' ', 'networking application', '']
+Gascoigne Melotte Holding
+	Manufacturer of equipment for the dairy industry. The company offers milking machines and other dairy automation products.
+	['', 'milk harvesting equipment', ' ', 'agricultural machinery', ' ', 'dairy automation', '']
+Kiyon
+	Provider of mesh networking products for wireless broadband networks. The company offers autonomic mesh networking technology that allows it to interface with higher-level protocols.
+	['', 'mesh network', ' ', 'networking products', ' ', 'networking technologies', '']
+Advanced Computer Communications
+	Developer and manufacturer of wide area inter-networking products for interconnection and management of distributed computer networks. The company also provides bandwidth technologies and offers various routers.
+	['routers ', 'inter-networking', ' interconnection bandwidth']
+Positron Access Solutions
+	Developer and manufacturer of telecommunications equipment for critical service applications. The company design, manufactures and markets networking and broadband management equipment to information technology and telecommunication industries. Its platform enables broadband connectivity and system networking services.
+	['', 'telecommunications equipment', ' ', 'critical service', ' ', 'broadband management', ' ', 'broadband connectivity', ' ', 'networking service', '']
+Vitalink Communications
+	Manufacturer of data networking products. The company sells routers and other networking products. Its systems are used to build computer networks.
+	['router']
+Vivace Networks
+	Manufacturer of multi-protocol label switching networking products. The company provides optical service creation platforms for service providers for the next generation public data network.
+	['', 'networking equipment', ' switches multi-protocol']

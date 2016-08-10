@@ -1,30 +1,21 @@
-CTP Hydrogen
-	Developer of a fuel reformer. The company\'s reformer generates pure hydrogen from conventional liquid fuels, including ethanol, gasoline, diesel and JP8.
-	['', 'fuel reformer', ' ', 'gaseous hydrogen distribution', ' ', 'gaseous hydrogen', ' ', 'hydrogen distribution infrastructure', '']
-Ballard Power Systems
-	Ballard Power Systems Inc was incorporated in the State of Canada on November 12, 2008. It is a clean energy growth company. The company is engaged in proton exchange membrane (PEM) fuel cell development and commercialization. The Company\'s main business is the design, development, manufacture, sale and service of fuel cell products for a variety of applications, focusing on motive power (material handling and buses) and stationary power (back-up power, supplemental power, and distributed generation). A fuel cell is an environmentally clean electrochemical device that combines hydrogen fuel with oxygen (from the air) to produce electricity. Ballard fuel cell products feature high fuel efficiency, low operating temperature, low noise and vibration, compact size, quick response to changes in electrical demand, modular design and environmental cleanliness. The Company has four principal subsidiaries and affiliates: Ballard Fuel Cell Systems Inc., an Oregon corporation that develops methanol-fueled clean energy backup power systems; Dantherm Power A/S ("Dantherm Power"), a Denmark-based corporation jointly owned with Dantherm A/S that develops hydrogen-fueled clean energy backup power systems; BDF IP Holdings Ltd. ("IP Holdings"), a Canadian corporation that holds intellectual property assets; and Ballard Material Products Inc., a Delaware corporation that formerly developed and manufactured carbon fiber products for use in the automotive and fuel cell markets, and which now focuses on the development of fuel processing components and systems for use in fuel cell applications.
-	['', 'fuel cells', '']
-P21
-	Providers of autonomous energy supply and energy-efficient solutions, with the aim of replacing diesel generators with zero-emission products. The company provides services in energy efficiency and monitoring, solutions for supplying electricity to off-grid applications such as monitoring stations, telecommunications facilities or self-sufficient houses; and providing education and research programs for fuel-cell and solar-hydrogen technology.
-	['energy-management ', 'energy consumption', ' ', 'hydrogen fuel cell system', ' ', 'climate reading', ' ', 'CO2 balance', '']
-Enginion
-	Provider of technology in the field of steam-operated, compact cogeneration systems. The company offers SteamCell, a low-emission, combined heat and power generation system using external combustion based on a Caloric Porous Structure Cell (CPS Cell) technology. CPS Cell technology utilizes a thermo-chemical combustion process, which drives an electronically controlled, oil-free steam engine. The company supplies SteamCell core systems to original equipment manufacturers who integrate them into their products.
-	['', 'cogeneration systems', ' combustion ', 'thermo-chemical', ' ', 'steam engine', '']
-Protonex Technology
-	Developer and manufacturer of intelligent power management and portable fuel cell products for military and commercial markets. The company provides mission-critical equipment to make military more energy efficient and operationally flexible.
-	['', 'energy service', ' ', 'fuel cell product', ' ', 'power system', '']
-Green Highland Renewables
-	Developer of small scale hydroelectric schemes. The company  provide advice and services to landowners in Scotland through the development of a hydro power project. The company typically works on small-scale projects, ranging from 50 kilowatts to 2 megawatts.
-	['', 'hydroelectric service', ' ', 'hydropower project', ' ', 'energy project', '']
-Mesofuel
-	Developer of hydrogen generators to convert fuels into hydrogen for fuel cell sales in portable and stationary applications. The company\'s technology uses proprietary fuel processors and nano-scale filtering of hydrogen to create a novel compact product that generates hydrogen in an environmentally friendly manner.
-	['', 'hydrogen generators', ' ', 'desulphurization technologies', ' fuel']
-H2Gen
-	Manufacturer of low-cost and small-scale hydrogen generators. The company provides these hydrogen generation machines to target the the emerging fuel cell vehicle and distributed fuel cell power generation markets.
-	['generator ', 'steam methane', ' ', 'purification plant', ' hydrogen']
-UltraCell
-	Developer and seller of integrated fuel cell systems. The company provides portable power source for computing, communications and sensing devices.
-	['', 'fuel cell', ' ', 'portable power', ' ', 'sensing device', '']
-PolyFuel
-	Developer of micro fuel cells using direct methanol fuel cell technologies.
-	['', 'micro fuel cell', ' ', 'fuel cell technology', ' ', 'methanol fuel', ' ', 'hybrid power', '']
+facilityboss
+	Developer of software for building owners and operators. The company develops various process optimizing applications for various industries including web based room or desk management and reservation, tracking software for the pharma industry, data capture application for business continuity management used in the financial sector. The company was spun out of Fraunhofer Institut SIT.
+	['', 'managing spaces', ' ', 'digital building', ' ', 'building space', ' ', 'space management', ' ', 'resource optimization', '']
+Kawa Objects
+	Provider of technology platform that enable datacenter infrastructure such as POTS, PANS and SAN infrastructure. The company offers fault tolerance, availability, security and performance optimization for business applications regardless of what hardware infrastructure is used in the data centers.
+	['', 'technology platforms', ' decoupling ', 'infrastructure management', '']
+Certainty Solutions
+	Provider of comprehensive infrastructure management services. The company specialized in providing Integrated Managed Services for companies with sophisticated Internet businesses. Certainty\'s managed services include 24/7 monitoring and network operations center escalation, hardware support, systems architecture support, managed network services, database management and technical account management.
+	['', 'Infrastructure Management Services', '']
+Nauticus Networks
+	Developer of internet infrastructure products. The company offers customer support programs for enterprise networks and IT outsources deploying web-enabled applications requiring security.
+	['', 'internet infrastructure', ' ', 'customer support system', ' ', 'web enabled application', ' ', 'network management', ' ', 'enterprise software', '']
+Corio
+	Provider of enterprise applications from software vendors such as Oracle, Siebel, and SAP. The company\'s product Applications on Demand 2005, offers a suite of applications management, infrastructure, and professional services. The application management services include providing computers, data center facilities, and networks to support software applications. It also includes customer support; application, security, and infrastructure management; data center; and network management solutions.
+	['', 'enterprise application', ' ', 'application management', ' ', 'resource management', ' ', 'infrastructure management', '']
+Omnimark Technlogies
+	Developer and distributor of load and application management.
+	['', 'load management', ' ', 'application management', '']
+Expound
+	Provider of software application to let companies conduct conversations with their customers, employees, partners and suppliers. The company provides a language processing engine capable of integrating into existing sensor and information technology products to disseminate crisis management data to enhance the ability of communication via transforming existing commercial applications (CRM, ERP and Knowledge Stores) into interactive customer self-service applications.
+	['', 'software solutions', ' ', 'commercial application', ' ', 'communication software', '']

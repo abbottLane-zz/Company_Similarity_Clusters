@@ -1,12 +1,57 @@
-Xino-Media
-	Operator of an online platform for lottery games. The company offers state lottery games and other services through Millionenchance.de.
-	['lottery gambling ', 'gaming platform', '']
-Tipp24
-	Owner of lottery companies in the U.K. and Spain. The company, through its subsidiaries, enables participation in lottery-based games via the Internet.
-	['', 'online gambling', ' ', 'lottery service', '']
-Oscar Mike Games
-	Provider of handheld games for multiple platforms. The company also creates and designs mobile based games.
-	['', 'handheld game', ' ', 'multiple platforms', ' ', 'mobile based games', '']
-Neoplex
-	Developer of electronic lottery. The company develops, manufactures and markets electronic lottery based on organic electronics. It also developed the next generation of scratch card (instant lottery ticket), a patent pending new game product.
-	['', 'electronic lottery', ' ', 'organic electronic', ' ', 'scratch card', ' ', 'instant lottery ticket', ' ', 'game product', ' ', 'electronic equipment', '']
+Covagen
+	Operator of a biopharmaceutical company focused on therapies for inflammatory diseases and cancer. The company provides a proprietary platform that genetically fuses Fynomer binding proteins to antibodies, resulting in therapeutics with novel modes of action. The company’s first clinical drug candidate is designed for treatment of rheumatoid arthritis, psoriatic arthritis and other inflammatory diseases.
+	['', 'inflammation binder', ' ', 'protein therapy', ' ', 'clinical drug', '']
+CorSolutions
+	Provider of disease management and related services to employers, health plans and government-sponsored healthcare programs. The company offers cancer treatment; cardiac treatment, including coronary artery disease program and heart failure program; respiratory treatment comprising asthma and chronic obstructive pulmonary disease program and pain treatment.
+	['', 'disease management', ' ', 'healthcare program', ' ', 'government healthcare program', ' ', 'artery disease program', ' ', 'pulmonary disease program', '']
+Peptor
+	Developer of products to treat autoimmune diseases. The company develops small cyclical analogues of peptide loop drugs to treat cancer, bacterial and fungal infections, autoimmune diseases, multiple sclerosis and other disorders.
+	['', 'autoimmune product', ' ', 'protein treatment', ' ', 'healthcare service', '']
+Cartesia Dx
+	Developer of thermal/3D imaging system to quantify inflammation and to diagnose and manage rheumatoid arthritis. The company\'s technology also quantifies assessment of swelling and warmth in various diseases.
+	['', '3D imaging system', ' ', 'thermal imaging system', ' ', 'rheumatoid arthritis treatment', '']
+Adenosine Therapeutics
+	Developer of novel pharmaceutical products that target adenosine receptor subtypes. The company develops drugs for the treatment of asthma, diabetes, Parkinsonís disease, cancer, ophthalmic disease and inflammatory indications such as sepsis, heart attack, ischemia-reperfusion injury, sickle cell crisis, vascular injury, arthritis, spinal cord injury, COPD and inflammatory bowel disease.
+	['adenosine asthma diabetes ', 'adenosine receptor', ' ischemia-reperfusion']
+Aerocrine
+	Creator of a device to monitor inflammatory airway diseases. The company provides a device to monitor exhaled nitric oxide (NO) from patients with inflammatory airway diseases such as asthma to assess the levels of their ailment and predict exacerbations.
+	['', 'medical technology', ' ', 'treatment product', ' ', 'inflammatory airway disease', '']
+Topigen Pharmaceuticals
+	Developer of asthma and chronic obstructive pulmonary disorder therapeutics. The company\'s lead product, TPI-ASM8, is an inhaled combination of antisense oligonucleotides targeting key cytokines involved in asthmatic airway inflammation, and is in Phase II clinical trials. The company is also developing an antisense product against phosphodiesterase isoforms for the treatment of chronic obstructive pulmonary disorder therapeutics.
+	['', 'asthma therapeutics', ' ', 'chronic obstructive pulmonary disorder', ' ', 'antisense', '']
+SuppreMol
+	Developer of therapeutics for the treatment of autoimmune diseases and allergic diseases. The company is focused on development of soluble Fc-gamma receptors (FcyRs), which are recombinant autologous therapeutic proteins with a specific immunoregulatory potential.
+	['', 'therapeutic device', ' ', 'autoimmune disease', ' ', 'therapeutic protein', '']
+Neolab
+	Developer of antibiotics and generic medicines. The company specializes in registering generic medicines, with a particular focus on respiratory diseases. It also develops anti-inflammatory agents, antibacterial, and cardiovascular drugs.
+	['', 'generic medicine', ' antibiotic ', 'respiratory disease', '']
+Epigenesis
+	Developer of inhaled respiratory medicines for the treatment of asthma and chronic obstructive pulmonary disease (COPD). The company develops EPI-12323, a once daily, small molecule, inhaled non-glucocorticoid steroid that targets the inflammatory and airway obstruction cascade in the irritated lung.
+	['', 'respiratory medicine', ' ', 'asthma treatment', ' ', 'obstructive pulmonary disease', ' ', 'respiratory treatment', ' inhaler']
+Atherogenics
+	Developer of treatments for inflammatory disease. The company develops novel drugs for diabetes and coronary heart disease.
+	['', 'inflammatory disease', ' ', 'coronary disease', ' ', 'metabolic disease', '']
+Verus Pharmaceuticals
+	Provider of solutions for the treatment of asthma, allergies, and related diseases and conditions. The company also offers Twinject, an epinephrine auto-injector for anaphylaxis. It is differentiated by its pediatric orientation and its strong financial position and experienced management team, which allows the company to capitalize on an extensive network to build its product portfolio and pursue complementary transactions.
+	['', 'asthma treatment', ' asthma allergies ', 'epi pen', ' epi-pen epipen ', 'epinephrine auto injector', ' ', 'allergy treatment', '']
+Cytoguide
+	Developer of combined drugs that target receptors on cells in pathological tissues. The company offers drugs that are aimed to improve the treatment of onocyte and macrophage-related diseases including autoimmune disease, leukemia and other infectious diseases.
+	['', 'combined drugs', ' pathological ', 'autoimmune disease', '  leukemia']
+Viral Logic Systems Technology
+	Developer of novel therapeutics for the treatment of inflammatory and autoimmune disorders. The company\'s product is used for the treatment of rheumatoid arthritis, Crohn\'s disease, multiple sclerosis, lupus nephritis, mixed cryoglobulinemia, Wegener\'s granulomatosis and diabetes.
+	['', 'novel therapeutic', ' ', 'inflammatory disorder', ' ', 'autoimmune disorder', ' ', 'rheumatoid arthritis', ' ', 'multiple sclerosis', ' ', 'lupus nephritis', ' ', 'mixed cryoglobulinemia', '']
+Actimis Pharmaceuticals
+	Developer of small molecule therapeutics for respiratory, inflammatory and autoimmune diseases. The company offers its therapeutics for autoimmune diseases, such as asthma, chronic obstructive pulmonary disease (COPD), inflammatory dermatoses, inflammatory bowel disease and rheumatoid arthritis.
+	['', 'autoimmune disease treatment', ' ', 'inflammatory disease treatment', ' ', 'rheumatoid arthritis treatment', '']
+StormBio
+	Developer of therapy for influenza and other inflammatory diseases. The company is developing a new class of therapeutics designed to target only an over-reaction of the inflammatory process, without shutting down the body\'s immune response.
+	['', 'influenza', ' ', 'inflammation treatment', ' ', 'pandemic', ' ', 'biopharm', '']
+Immunex
+	Provider of biopharmaceutical drug discovery. The company is focused on immune-system research, in the disciplines of immunology, cytokine biology, vascular biology, antibody-based therapeutics and small-molecule research. It works to develop new therapeutics for rheumatoid arthritis, asthma and other inflammatory diseases, as well as cancer and cardiovascular diseases.
+	['', 'antibody therapeutics', ' ', 'vascular science', ' ', 'rheumatoid arthritis', ' asthma ', 'cardiovascular therapy', '']
+Cornerstone Therapeutics
+	Developer and distributor of products for respiratory, inflammatory and critical care diseases. The company focuses on the discovery, development and commercialization of products designed to treat asthma and critical care diseases through the regulation of the body’s inflammatory response.
+	['', 'critical care disease', ' ', 'body inflammatory', ' ', 'chronic disease', ' ', 'respiratory disease', '']
+Centaur Pharmaceuticals
+	Developer of novel class of small molecule pharmaceutical compounds for the treatment of neurodegenerative and inflammatory diseases. The company develops such compounds to treat inflammatory diseases such as acute stroke, dementia, rheumatoid arthritis, myocardial ischemia and Parkinson’s disease.
+	['', 'molecule pharmaceutical compound', ' ', 'pharmaceutical products', '']

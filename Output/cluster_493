@@ -1,30 +1,27 @@
-CEB Merchandise Brokers
-	Wholesaler of custom apparel and promotional items. The company specializes in brand design, screen printing, embroidery and imprinted promotional products.
-	['', 'custom apparel', ' ', 'brand design', ' merchandise']
-Angela Bruderer
-	Provider of an online retail platform. The company through its website markets and sells consumer products which mainly include home textiles, bed linen, underwear and accessories.
-	['', 'e-commerce platform', ' ', 'online goods purchase', ' ', 'online services', '']
-MallStreet
-	Provider of an online retail portal. The company offers portable electronics, home equipment, things for garden, computers, cosmetics, fitness products, children’s goods and others.
-	['', 'internet retail', ' ', 'portable electronic', ' ', 'household equipment', '']
-Harper Leather Goods
-	Manufacturers and distributors of rawhide pet products such as dog bones and chews. The company\'s products include a variety of rawhide dog bones and chews produced in different sizes and marketed as plain or basted with flavors.
-	['', 'distributor', ' ', 'rawhide dog bones', ' ', 'dog chew manufacturer', ' ', 'dog chew distributor', '']
-Energetic Solutions
-	Developer of electromagnetic pest repellants. The company\'s products, shoo!TAG and shoo!BUG, are designed to protect people, dogs, cats, cows and horses against insect pests. Its technology emits electromagnetic frequencies to keep targeted insects away and is an alternative to chemical repellants.
-	['', 'pest repellant', ' ', 'animal care', ' ', 'pest control', ' ', 'dog care', ' ', 'electromagnetic porduct', ' ', 'animal health', ' ', 'pet care', '']
-LiL\' Things
-	Provider of children specialty retail chain. The company provides retail store services for infant\'s and children\'s toys, apparel, furniture, and accessories.
-	['', 'children retail', ' ', 'specialty retail', ' ', 'retail store', ' ', 'retail services', '']
-AbsolutelyNew
-	Operator of an consumer goods company that launches new products from inventors into stores, catalogs, online retail stores and television shopping channels. The company engages in identifying, licensing, manufacturing, and selling inventions.
-	['', 'online retail store', ' ', 'television shopping channel', ' ', 'selling invention', ' ', 'television shopping', '']
-Pooch
-	Provider of accessories and apparel for dogs. The company is into online retail of dog products.
-	['', 'dog accessory', ' ', 'dog apparel', ' ', 'online dog product', ' ', 'online retail', ' ', 'pet accessories', ' ', 'pet apparel', ' pet']
-Club Guaf
-	Provider of online subscription service for dog treats. The company operates a website for a dog-treat delivery service. Its users can indicate the size of their dog, the kind of products they would like and the frequency of delivery.
-	['', 'subscription service', ' ', 'pet treat', ' ', 'pet supplier', '']
-Propane Continental
-	Operator of a wholesale and retail propane distribution company. The company operates a wholesale propane division and a network of retail propane outlets.
-	['propane ', 'wholesale distribution', ' ', 'retail outlets', '']
+Applied Digital Access
+	Provider of network performance management solutions to telecommunications service providers. The company focuses on systems, software and services that manage the performance, quality, reliability and availability of telecommunications service provider\'s networks.
+	['', 'telecommunications service', ' ', 'Network Performance Management', '']
+Q1 Carrier
+	Developer and distributor of telecommunications services. The company specializes in customized applications for businesses seeking to optimize internal processes and operational cost structures.
+	['', 'telecommunication service', ' ', 'customized application', ' ', 'value added service', '']
+Syndesis
+	Developer of Operations Support Systems (OSS) software that automates the provisioning process for telecommunications service providers. The company\'s product  helps telecommunication companies bring services to their customers.
+	['', 'Operations Support Systems', ' ', 'Programming Services', ' ', 'software development', '']
+PCS One
+	Provider of telecommunications services. The company provides telecommunication services on personal basis.
+	['', 'communication service', '']
+Network Switching Systems
+	Developer of switching device for use by enterprises. The company develops digital telecommunications switches
+	['', 'enterprise telecommunication', ' ', 'network switch', ' networking']
+Impulse Telecom
+	Provider of telecommunications services. The company provides local and long distance phone services and flat rate long-distance services.
+	['', 'telecommunications services', '']
+Gerdes
+	Manufacturer of telecommunications products. The company develops, manufactures and markets telecommunications products including controller card and server controllers.
+	['', 'telecommunication product', ' ', 'telecommunication service provider', ' ', 'server controller', '']
+TransNet International
+	Provider of telecommunication reselling services. The company purchases telecommunications services from another telecommunications service provider and then resells, uses as a component part of or integrates the purchased services into a mobile telecommunications service.
+	['', 'telecom reseller', ' telecommunication ', 'retail outlet', '']
+Movirtu
+	Provider of identity services for mobile operators. The company offers a virtual SIM based service that enables multiple numbers to be active on a single standard SIM card.
+	['', 'telecommunications service', ' ', 'mobile technology', ' ', 'wireless service', '']

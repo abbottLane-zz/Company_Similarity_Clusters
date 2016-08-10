@@ -1,27 +1,39 @@
-Beijing MobileWoo Information Technology
-	Provider of PIM related services to mobile users. The company offers iSMS, iDialer, FreeMMSViewer, iDecompress and FreeLunarClt.
-	['PIM ', 'mobile users', ' FreeMMSViewer']
-Demonstrate
-	Provider of brand activation and communication related services. The company offers equity storytelling campaigns related services both online and offline.
-	['', 'brand marketing', ' ', 'brand communication', ' ', 'field marketing', ' ', 'online marketing', '']
-Impera Total Return
-	Provider of private equity and venture capital financing. The company is a private equity firm that invests the assets entrusted by the shareholders in the segments venture capital, private equity, capital market-related IPO candidates as well as listed companies in special situations.
-	['', 'venture capital financing', ' ', 'private equity', ' ', 'capital market', '']
-Oculus VR
-	Provider of online gaming related services. The company offers virtual reality hardware, software and services for online gaming. The company\'s flagship product is Oculus Rift, a virtual reality headset that creates a stereoscopic 3D experience.
-	['', 'video game', ' ', 'virtual reality', ' ', 'gaming headset', '']
-GetRelevant
-	Provider of network of marketing websites. The company connects marketers of both online and offline businesses and services with a broad network of Web sites to maximize the earning potential of both partners.
-	['', 'marketing website', ' ', 'business marketing', '']
-Wireless Venture Partners
-	Provider of a cellular retail stores. The company offers Internet, telecommunication, wireless and voice and data products and related services.
-	['', 'wireless communication', ' ', 'telecommunication service', ' ', 'retail stores', '']
-Blue Heron Biotechnology
-	Provider of a range of synthetic DNA sequences and related services to researchers in pharmaceutical and biotechnology companies. The company offers gene synthesis, codon and expression optimization, cloning options, and variant clone sets.
-	['', 'synthetic DNA sequence', ' ', 'gene synthesis', ' ', 'cloning option', '']
-Nancy\'s Healthy Kitchen
-	Nancy’s Healthy Kitchen is a quick service casual dining restaurant chain concept that focuses on the health conscious consumer segment. It offers a variety of low-calorie continental menu items such as salads, fresh sandwiches and health drinks.\nFrontera provided growth capital to Nancy’s Healthy Kitchen in May 1996 in exchange for a significant minority equity stake. Frontera has since sold its equity stake in the venture to the current Nancy’s management in February 1999.
-	['']
-Lance Entertainment
-	Distributor of online and offline videos, focusing on crime drama and murder mystery genres. The company acquires, positions, packages and releases on DVD previously produced films and mini-series.
-	['', 'online video', ' ', 'offline video', ' ', 'crime drama', ' ', 'murder mystery genre', ' ', 'produced film', '']
+Virtustream
+	Provider of cloud services and infrastructure services. The company provides cloud services, such as guaranteed resources and capacity on demand, secured private, hybrid clouds, custom management portal, network services, multi-tiered solutions, workload management and departmental level billing.
+	['', 'strategic planning', ' ', 'cloud consultant', ' ', 'hybrid cloud', '']
+dotFX
+	Provider of technology to develop, deploy, run, and manage client and desktop software over the Internet. The company\'s proprietary technology provides support for developing, deploying and managing applications for cloud and client.
+	['', 'cloud software', ' ', 'proprietary technology', ' ', 'desktop software', '']
+CloudLink Technologies
+	Provider of cloud security and management services. The company provides a software security appliance that combines cloud infrastructure security and manageability with cloud performance monitoring.
+	['', 'cloud computing software', ' ', 'data loss protection', ' ', 'ethernet software product', ' ', 'cloud security', ' ', 'cloud management', ' ', 'cloud software', '']
+Parascale
+	Developer of cloud software for servers. The company also provides video-on-demand, document archive, online backup and video surveillance solutions.
+	['', 'cloud software', ' ', 'server software', ' ', 'online backup', ' ', 'video surveillance', '']
+Auxo
+	Provider of cloud based software for various business support functions. The company offers white-label cloud service that can be used by its users to outsource and market their business.
+	['', 'cloud solution', ' ', 'data storage', ' ', 'IT operation', ' ', 'business support function', '']
+SecureInfo
+	Provider of cyberspace security. The company provides a cloud-based, online-security platform for government, cloud technology companies and critical-infrastructure industries. Its services  includes cloud security, continuous monitoring and maintaining compliance with the Federal Information Security Management Act.
+	['', 'FISMA preparedness assessment', ' ', 'information assurance', ' ', 'accreditation service', ' ', 'threat management', '']
+OpenTrust
+	Provider of software and cloud security services. The company provides software products to governments, financial institutions, enterprises and citizens for managing digital identities and securing electronic transactions and documents. It provides digital identity such as corporate, citizen, object and cert identity, digital signature and digital transaction for secure exchange of documents and transactions with complete traceability.
+	['', 'security software', ' ', 'digital identity', ' ', 'digital signature', ' ', 'cloud security', '']
+Sansa Security
+	Developer of embedded security services for mobile, storage, automotive, networking, office automation and industrial markets. The company offers a software stack that runs on the device and provides required information from either a sansa cloud service or the clients own cloud service.
+	['', 'embedded security', ' ', 'office automation', ' ', 'cloud service', '']
+Neohapsis (Acquired by KSR)
+	Provider of mobile and cloud security services. The company work with global enterprises to address their constantly evolving information security and compliance challenges.
+	['', 'cloud services', ' ', 'business products and services', '']
+Hubspan
+	Provider of B2B cloud integration service worldwide. The company offers B2B cloud integration platforms to streamline and automate critical business processes, share information across systems and organizations and reduce manual intervention and cut costs. It also provides cloud integration platforms that help companies to exchange electronic documents and real-time messages with partners, customers and suppliers.
+	['', 'cloud integration', ' ', 'electronic document', ' ', 'electronic invoice', ' ', 'business intelligence tool', '']
+ShieldArc
+	Developer of a security platform that monitors cloud applications. The company\'s platform enables enterprises to protect their cloud asset without impacting end-user experience in without involving IT operations. The platform also provides tools for real-time monitoring and remediation.
+	['', 'security platform', ' ', 'cloud application', ' ', 'public platform', '']
+Appcore
+	Provider of local cloud infrastructure for Enterprise Private Clouds and Service Provider Public Clouds. The company provides a converged platform of architecture, automation, administration and appstore designed to be roll-in ready, accelerating the deployment and automating the operations of cloud environments. It simplifies the complexity of cloud technology for data centers, telcos, software vendors and enterprises.
+	['', 'cloud infrastructure', ' ', 'enterprise private Cloud', ' ', 'service provider cloud', ' ', 'cloud computing', '']
+Cloudsmith
+	Provider of services to create and share software from a global cloud of components. The company offers a web service that defines stacks (dependencies) from a cloud of shared packages, extended to include private components. It also allows the users to share and install these stacks wherever they want directly from the cloud.
+	['', 'shared package', ' ', 'software sharing service', ' ', 'web service', '']

@@ -1,12 +1,87 @@
-Raster Graphics
-	Developer and manufacturer of large format digital color printing systems. The company is engaged in the development, manufacture and marketing of high performance and large format digital color printing systems, and in the sale of related consumables and software for the on-demand large format digital printer market.
-	['', 'digital color printing', ' ', 'printing system', ' ', 'electrostatic technology', ' ', 'inkjet technology', ' ', 'digital printer', '']
-IF-Com
-	Developer and manufacturer generic interface products for thermal printers. The company\'s products improve the total output of the printing system, especially printing systems operating within graphic printing.
-	['', 'generic interface product', ' ', 'thermal printer', ' graphic']
-Hewlett-Packard
-	HP Inc, formerly Hewlett-Packard Company was incorporated in 1947 under the laws of the State of California as the successor to a partnership founded in 1939 by William R. Hewlett and David Packard. Effective in May 1998, it changed its state of incorporation from California to Delaware. The Company is a provider of products, technologies, software, solutions and services to individual consumers, small- and medium-sized businesses (SMBs) and large enterprises, including customers in the government, health and education sectors. The Company\'s offerings span multi-vendor customer services, including infrastructure technology and business process outsourcing, technology support and maintenance, application development and support services & consulting and integration services; enterprise information technology infrastructure, including enterprise storage and server technology, networking products and resources, and software that optimizes business technology investments, personal computing and other access devices and imaging and printing-related products and services. It has seven business segments for financial reporting purposes: Services, Enterprise Storage and Servers, HP Software, the Personal Systems Group (PSG), the Imaging and Printing Group (IPG), HP Financial Services (HPFS), and Corporate Investments. The HP Enterprise Business provides servers, storage, software and information technology (IT) services that enable enterprise and midmarket business customers to manage their current IT environments and transform IT into a business enabler. HP Software is a provider of enterprise and service-provider software and services. PSG is a provider of personal computers (PCs) in the world such as Commercial PCs, consumer PCs, workstations and handheld computing. IPG is the imaging and printing systems provider in the world for consumer and commercial printer hardware, printing supplies, printing media and scanning devices such as Laserjet, managed enterprise solutions, graphics solutions include large format printing, large format supplies, webpress supplies, Indigo printing, inkjet high speed production solutions. HPFS supports and enhances HP\'s product and service solutions, providing a broad range of value-added financial life-cycle management services. The group offers leasing, financing, utility programs and asset recovery services, as well as financial asset management services for large enterprise customers. Corporate Investments includes Hewlett-Packard Laboratories, also known as HP Labs, network infrastructure products, mobile devices associated with the Palm acquisition, and certain business incubation projects. Revenue in this segment is attributable to the sale of certain network infrastructure products, including Ethernet switch products that enhance computing and enterprise solutions under the ProCurve, 3Com and TippingPoint brands.The Company depends on third party suppliers. The distribution is organized by direct and channel. The Company\'s operations are subject to regulation under various federal, state, local and foreign laws concerning the environment, including laws addressing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, and the cleanup of contaminated sites. HP recognizes revenue sales arrangement exists, delivery have occurred or services are rendered, the sales price or fee is fixed or determinable and collectability is reasonably assured. The company also recognizes hardware revenue on sales to channel partners, including resellers, distributors or value-added solution providers at the time of sale when the channel partners have economic substance apart from HP and HP has completed its obligations related to the sale.
+Actions Semiconductor
+	A fabless semiconductor company which designs, develops and markets integrated platform solutions, including SoCs, firmware, software development tools and reference designs, for manufacturers of portable media players.
 	['']
-MGI Pharma Biologics
-	Developer of oncology and antiviral products for large unmet markets.
-	['', 'oncology product', ' ', 'medical therapy', ' ', 'pharmaceutical product', '']
+RMI Corporation
+	Operator of a fabless semiconductor company. The company provides power-optimized System-on-a-Chip (SoCs) solutions to high-performance processors for the digital consumer, wireless, networking, security, thin clients, and connected multi-media devices market. It offers XLR Processor Family, a processor solution that enables applications, including integrated security, web services, virtualized storage, and load balancing and server offload, as well as content and application aware, and multi-service routing and switching for various infrastructure equipment and enterprise systems; and XLS Processor Family, a multi-core and multi-threaded XLS Processor family that addresses applications that demand smaller form factor and lower power consumption.
+	['', 'fabless semiconductor', ' ', 'semiconductor chips', ' ', 'semiconductor design', '']
+SiXis
+	Developer of silicon circuit board technology. The company provides chip-level integration through a Silicon Integrated Circuit Board (SICB) technology platform.
+	['', 'technology platform', ' semiconductor ', 'circuit board', '']
+Intel Corporation
+	Developer and manufacturer of microprocessors and other semiconductor components. The company develops integrated digital technology products, mainly integrated circuits, for industries such as computing and communications.
+	['', 'integrated digital technology', ' ', 'semiconductor component', ' ', 'technology platform', '']
+EqcoLogic
+	Owner and operator of a fabless semiconductor company. The company designs and develops equalizer and coaxial transceiver products and technologies.
+	['', 'Transceiver circuit', ' ', 'coaxial transceiver product', ' cable']
+Gradient Design Automation (Electrothermal Analysis Technology)
+	Developer of a electrothermal analysis software. The company offers an technology which allows designers to identify and correct thermal problems during integrated circuit development.
+	['', 'integrated circuit', ' ', 'thermal problems', ' electrothermal']
+Oramir
+	Developer of laser technology for the semiconductor industry. The company specializes in cleaning technologies for semiconductor wafers.
+	['', 'semiconductor equipment', ' ', 'laser chips', ' ', 'laser technology', '']
+Guide Technology
+	Developer of continuous time interval analyzer and high-precision frequency counter instruments. The company supplies production-scale CTIA-based timing measurement services, allowing semiconductor manufacturers to minimize timing-related failures and to reduce production test costs through test-time reduction and extending their ATE lifecycles.
+	['', 'time interval analyzer', ' ', 'frequency counter instrument', ' ', 'semiconductor support', ' ', 'information technology', '']
+BeSang
+	Provider of semiconductor. The company provides fabless semiconductor focusing on developing proprietary 3D integrated circuit technology.
+	['', 'semiconductor', ' ', 'fabless semiconductor', '']
+Xponent Photonics
+	Provider of semiconductor processing technology. The company\'s product Surface Mount Photonics ("SMP"), include a range of triplexers and diplexers for single-fiber applications including point-to-point and bidirectional RF systems.
+	['', 'semiconductor processing technology', ' ', 'surface mount photonic', ' semiconductor']
+iKoa Corporation
+	Provider of semiconductor products for consumer mobile devices in the mobile communications, entertainment, and personal computer markets. The company involves in developing disruptive semiconductor array technology.
+	['', 'semiconductor product', ' ', 'mobile device', ' ', 'mobile communication', ' ', 'semiconductor array technology', '']
+Alphachips
+	Manufacturer and designer of semiconductor systems. The company provides semiconductor services that owns multiple application specific integrated circuits (IPs), system on chips (SoC) and products such as MHL and HDMI based on knowledge of high speed data transmission.
+	['', 'semiconductor system', ' ', 'data transmission', ' ', 'integrated circuit', '']
+Stream Processors
+	Operator of fabless semiconductor company. The company develops stream processing architecture that help industrial companies accelerate time to market for their products, while reducing system development costs.
+	['', 'stream processing architecture', ' ', 'cost reduction', ' ', 'fabless semiconductor', ' industry']
+Wilinx
+	Operator of a semiconductor company providing single-chip CMOS services covering the entire UWB bandwidth from 3 to 10 GHz. The company enables a wimedia based universal and robust wireless connectivity with enhanced range and data-rate for wireless personal area networks.
+	['', 'CMOS services', ' ', 'wireless connectivilty', ' ', 'personal area network', ' bandwidth ', 'semiconductor company', '']
+Lightspeed Logic
+	Developer of mask reconfigurable intellectual property. The company provides digital logic implementation technology that provides time-to-market, yield, manufacturability, and development expense advantages over cell implementation. Its products are used in integrated device manufacturers and fabless semiconductor companies, such as imaging, video, audio, display control, wireless, networking, and automotive markets.
+	['', 'intellectual property', ' ', 'cell implementation', ' ', 'fabless semiconductor', ' ', 'automotive market', '']
+Neumath
+	Developer of mathematical software for control solutions. The company provides semiconductor applications for industries such as engineering, biomedical and pharmaceutical arenas for a range of problem solutions and uses advanced mathematical techniques including neural network technology to control semiconductor fabrication equipment.
+	['', 'mathematical software', ' semiconductor biomedical pharmaceutical']
+Lightstorm Networks
+	Developer of integrated semiconductors. The company is engaged in developing and manufacturing integrated, low power consuming semiconductor products for the transport of packet data over SONET/SDH and packet networks.
+	['', 'high port density semiconductors', ' ', 'semiconductor products', ' ', 'semiconductor design', '']
+Chipcon Group
+	Provider of wireless and Zigbee-compliance RF transceivers. The company manufactures fabless semiconductor that provides standard radio frequency integrated circuits.
+	['', 'fabless semiconductor', ' ', 'integrated circuit', ' transceiver']
+Elixent
+	Provider of reconfigurable arithmetic processors. The company offers reconfigurable semiconductor which helps chips to change its functions even when in use. The company also offers silicon devices and supporting software
+	['', 'arithmetic processors', 'chip', 'reconfigurable semiconductor', '']
+Enuclia Semiconductor
+	Developer of semiconductors for display electronics such as flat panel televisions.
+	['', 'semiconductor', ' ', 'visual semiconductor', ' ', 'screen semiconductor', ' ', 'TV semiconductor', ' ', 'television semiconductor', '']
+Ikanos Communications
+	Provider of semiconductors and software for interactive broadband. The company develops high performance semiconductor and software products that enable network equipment manufacturers and service providers to deliver broadband to the digital home.
+	['', 'semiconductor manufacturing', ' ', 'interactive broadband', ' ', 'broadband software', ' ', 'fabless semiconductor', ' ', 'digital subscriber line', '']
+Semiconductor Manufacturing International
+	Semiconductor Manufacturing International Corp was established as an exempt company incorporated under the laws of the Cayman Islands on April 3, 2000. The Company, together with its subsidiaries, is engaged in the computer-aided design, manufacturing, testing, packaging, and trading of integrated circuits and other semiconductor services. The Company operates wafer fabrication facilities in China, including facilities at Beijing, Shanghai, Tianjin and Shenzhen, with an aggregate capacity of up to 247,500 8-inch wafer equivalents per month. It provides integrated circuit (IC) foundry and technology services at 0.35-micron to 28-nanometer. Currently, the Company has 300mm wafer fabrication facility (fab) and a 200mm mega-fab in Shanghai, a 300mm mega-fab and a second majority owned 300mm fab under development for advance nodes in Beijing, a 200mm fab in Tianjin, and a 200mm fab in Shenzhen. It also has customer service and marketing offices in the U.S., Europe, Japan, and Taiwan, and a representative office in Hong Kong. Its fabrication processes uses many raw materials, primarily silicon wafers, chemicals, gases, and various types of precious and other metals. It manufactures silicon wafers based on proprietary designs provided by its customers or third party designers. Its customers include IDMs, fabless semiconductor companies and systems companies. Its competitors are other pure-play foundries such as TSMC, UMC and Global Foundries. The Company is subject to substantial regulation by the Chinese government.
+	['', 'integrated circuit', ' ', 'wafer fabrication', ' ', 'integrated device', ' fabless']
+WiQuest Communications
+	Manufacturer of fabless semiconductors for ultra-wideband technologies. The company designs, develops, and supplies ultrawideband (UWB) solutions to PC, consumer electronics, and mobile systems companies. Its solution portfolio includes silicon, software, and manufacturing designs.
+	['semiconductor ', 'fabless semiconductor', ' ', 'ultrawideband technology', ' ', 'consumer electronic', ' ', 'mobile system', ' ', 'manufacturing design', '']
+Let It Wave
+	Developer of video processing semiconductors. The company develops integrated circuit product and products that improve satellite images, seismic images, digital photographs, and medical images.
+	['', 'fabless semiconductor', ' ', 'integrated circuit product', ' ', 'noise reduction device', '']
+Voltaix
+	Provider of materials for semiconductor chips and solar cells. The company provides electronic chemicals and gases used in semiconductor manufacturing processes. It also provides supply of deposition precursors for production of photovoltaic cells.
+	['', 'electronic chemical', ' ', 'deposition precursor', ' ', 'photovoltaic cell', ' ', 'semiconductor', '']
+RocketChips
+	Developer of multi-gigabit speed analog and mixed signal integrated circuit technology. The company is involved in the development of high-speed Complementary metal–oxide semiconductor circuit topologies capable of achieving Gallium arsenide performance levels.
+	['semiconductor CMOS GaAs multi-gigabit circuit']
+Tropian
+	Developer of fabless semiconductors for wireless devices. The company develops complex, wireless communications technology, including multi-mode radio transceiver products for the cellular handset market.
+	['', 'wireless communication', ' ', 'fabless semiconductor', ' ', 'wireless devices', '']
+Cadabra Design Automation
+	Provider of automated transistor layout (ATL) tools. The company provides automated transistor layout (ATL) tools for the creation of cells used in the standard cell and semi-custom IC design process. The company\'s customer base includes semiconductor vendors, leading fabless semiconductor companies, and third-party library vendors.
+	['', 'automated transistor tools', ' semiconductor']
+Modem Art
+	Developer of system-on-a-chip integrated circuit. The company develops integrated circuit for wideband and broadband communications systems focusing on baseband processes for third generation terminals and headsets.
+	['', 'integrated circuit', ' ', 'Application Specific Semiconductor', ' ', 'broadband communications system', '']

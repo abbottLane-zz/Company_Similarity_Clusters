@@ -1,42 +1,18 @@
-Kaffee Toro
-	Operator of an online subscription platform for coffee drinkers. The company provides online subscription services of filter coffee machines for consumers.
-	['', 'filter coffee', ' roast-grind-brew ', 'subscription platform', ' filter']
-SocialEngine
-	Provider of an online community that rewards members for posting great content. The company provides customizable online communities.
-	['', 'customize online community', ' ', 'social media management', ' ', 'community management', '']
-Zealous Interactive
-	Owner and operator of a social network and web portal. The company specializes in online media distribution, social networking, content management and features its print and online publications and over 700 URLs and websites. Its flagship enterprise is TheAdultSpot.com and TheAdultSpot 3D.
-	['', 'online media distribution', ' ', 'content management', ' ', 'social network', ' ', 'online publication', '']
-Fanbase Media
-	Provider of an online almanac of athletes. The company provides an online database of college and professional athletes.
-	['', 'athlete data', ' almanac ', 'online database', ' ', 'professional athletes', '']
-Adzilla
-	Developer of network based media delivery products. The company offers online content management and distribution system, which is designed to work within existing service provider networks.
-	['', 'media delivery product', ' ', 'online content', '']
-Ubiqi Health
-	Provider of online tools for migraine management. The company provides online and mobile application tools to the millions of people suffering from chronic conditions.
-	['', 'online tool', ' ', 'remedies to chronic conditions', ' ', 'application tool', '']
-Vlaze Media Networks
-	Provider of internet community and online advertising services. The company provides online media broadcasting. It also provides online content management, social networking and scheduling services.
-	['', 'internet community', ' ', 'online advertising', ' ', 'online media broadcasting', ' ', 'online media broadcasting', '']
-Paf New Business
-	Provider of internet gaming services. The company provides an online wagering platform for wagering via the internet, digital television and wireless media.
-	['', 'wagering platform', ' ', 'wireless gaming', ' lottery']
-FlexHire
-	Operator of an online recruitment platform. The company provides an online candidate management system for recruiting employees.
-	['', 'candidate management', ' ', 'recruitment platform', ' ', 'screen applicants', '']
-Cortex
-	Maker of tools for sharing of online content and multimedia.
-	['', 'content sharing', ' ', 'multimedia tool', '']
-Sprockets
-	Developer of collaborative software for the marketing and advertising industries. The company provides online project and deadline management for businesses.
-	['', 'collaborative software', ' ', 'advertising agency', ' ', 'software developer', '']
-DirectRevenue
-	Provider of search, content, and software for advertisers and marketers. The company provides technology solutions that enable marketers to deliver highly targeted contextual advertisements. DirectRevenue delivers its contextual advertising services through partnerships with online media brokers.
-	['', 'advertisers', ' ', 'contextual advertisements', '']
-Mercury Communications Group
-	Provider of fundraising technology. The company provides fundraising technology for organizations to manage fundraising campaigns and raise money online. The company offers solutions for digital brand management, marketing, and revenue, such as content management, social media optimization, fan relationship management, fundraising, engagement marketing, ecommerce engines and data reports and analytics.
-	['', 'online money', ' fundraiser ecommerce']
-Revere Digital
-	Provider of online media services. The company offers news, reviews, events and analysis from journalists in technology and media.
-	['', 'media service', ' ', 'technology news', ' ', 'media content', '']
+Consignd
+	Provider of virtual consignment marketplace. The company connects sellers (individuals and brands alike) to content creators that can help them gain exposure for their products.
+	['', 'virtual consignment', ' ', 'consignment marketplace', ' ', 'online product', '']
+Recourse Technologies
+	Provider of threat management solutions for computer networks. The company provides software to monitor corporate networks against hackers. It provides solutions that detect, analyze and respond to malicious computer attacks.
+	['', 'threat management', ' ', 'network monitoring', ' ', 'network threat management', '']
+Rostrum
+	Provider of virtual meeting software. The company provides a platform which allow business organizations to conduct virtual general-assembly board meetings without any geographic limitations.
+	['', 'virtual meeting', ' ', 'online meeting', ' ', 'virtual general-assembly', '']
+Virtugo Software
+	Provider of software products that monitor, control and optimize virtual and physical server environments. The company delivers a workflow engine-based software platform that enables system integrators to automate customer specific system management processes for computing and communications environments.
+	['', 'optimize virtual server', ' ', 'workflow engine', ' ', 'performance monitoring', ' ', 'capacity management', '']
+Clavister
+	Provider of web based security and unified threat management software for physical and virtualized environments. The company offers virtual series network security products for virtual and cloud based security that include virtual private server, virtual private cloud, virtualized co location and hosted data center.
+	['', 'unified threat management', ' ', 'virtual network security', ' ', 'IP-based security', ' ', 'internet protocol', ' ', 'cloud services', ' ', 'security software', '']
+Virtuata
+	Developer of new technology for security software. The company provides innovative capabilities for securing virtual machine level information in data centers and cloud environments.
+	['', 'security software', ' ', 'data center security', ' ', 'information security', '']

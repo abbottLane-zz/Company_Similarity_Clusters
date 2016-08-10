@@ -1,36 +1,45 @@
-Cellular-Blowout
-	Provider of wireless products and services. The company provides cell phones, PDA, mobile software, phone activations, accessories and novelty items.
-	['', 'cell phones', ' ', 'mobile accessories', ' ', 'novelty items', ' ', 'wireless products', '']
-No Wires Needed
-	Developer of wireless technologies. The company manufactures wireless products designed to enable high-speed wireless Internet access.
-	['', 'wireless LAN', ' ', 'wireless products', ' ', 'media access control', ' MAC ', 'wireless internet', '']
-SKY MobileMedia
-	Provider of application and platform software for wireless handset industry. The company provides multimedia technologies put into use in the iPhone OS which provides access to audio and video capabilities of the devices working on the OS. It provides softwares such as SKY-MAP, SKY-MMF, SKY-IMS, SKY-SYNC and SKY-VM which supports all wireless handset systems to operate.
-	['', 'multimedia technologies', ' ', 'platform software', ' ', ' iPhone', ' ', 'wireless handset', ' OS']
-AirPrime
-	Provider of high-speed, code division multiple access wireless data and voice products to the original equipment manufacturer market. The company focuses on providing the optimal current and next-generation wireless access products for use in handheld devices, notebook PCs and internet appliances.
-	['', 'wireless access solutions', ' ', 'wireless access products', ' ', 'wireless data', ' ', 'voice modules', '']
-Zinwave
-	Supplier of in-building wireless coverage solutions. The company provides wideband active Distributed Antenna Systems (DAS) for in-building wireless coverage.
-	['', 'wireless technology solution', ' ', 'distributed antenna system', ' ', 'omnidirectional antenna', '']
-Radwiz
-	Developer of datacom-telecom technologies. The company manufactures communications access systems.
-	['', 'datacom-telecom', ' ', 'communications access systems', ' ', 'branch-office connectivity', ' WAN']
-Voyager Systems
-	Provider of secure data transmission services and wireless applications. The company\'s \'s flagship product, Voyager Query(TM), provides law enforcement personnel access to information in the course of field operations, quickly and securely, via a high-speed handheld device communicating over any wireless network.
-	['', 'data transmission service', ' ', 'wireless application', ' ', 'enterprise applications software', '']
-InnoCOMM Wireless
-	Developer and manufacturer of fabless semicondutor. The company manufacturer fabless semicondutor and develops highly integrated wireless products.
-	['', 'fabless semicondutor', ' ', 'wireless product', ' power']
-NextWave Telecom
-	Provider of high-speed wireless internet access and voice communications services to consumers and business markets. The company provides wireless and wireline telecommunications services, namely, the electronic transmission of voice, facsimile, data, images and informations.
-	['', 'broadband wireless', ' ', 'communications services', ' ', 'electronic transmission', ' ', 'wireless internet', ' ', 'voice communications', '']
-Broadband IP
-	Provider of high-speed Internet services. The company offers a wide range of ISP services including wired and wireless Internet service and managed connectivity. It specializes in licensed and unlicensed wireless connectivity solutions for data, voice and video.
-	['', 'high speed Internet', ' ', 'wireless Internet service', ' ', 'unlicensed wireless connectivity', '']
-Red-M Group
-	Developer of wireless infrastructures for mission-critical applications. The company\'s wireless services are mainly used for airspace management through its approach called Total Airspace Management (TAM).
-	['', 'airspace management', ' ', 'wireless services', ' ', 'wireless infrastructure', '']
-Telecom*USA
-	Distributor of cellular phones. The company provides cellular modems, wireless Internet and other communications products. It also offers rate plans with which you can service these products.
-	['', 'cellular phone', ' ', 'cellular modem', ' ', 'communications product', '']
+SCT Spinal Cord Therapeutics
+	Developer of therapy for acute and chronic spinal cord injuries. The company focuses on the treatment of nervous system injuries. The company provides therapy that allows the regeneration of injured nerves following their natural nerve tract, thus enabling the recovery of sensory and motor function.
+	['', 'chronic disease', ' ', 'spinal diseases', ' nerves ', 'sensory function', '']
+Spine-Tech
+	Manufacturer of spinal implants and surgical instruments. The company is a provider of less invasive spinal implants. The company\'s products are used to surgically treat patients suffering from chronic, disabling pain caused by degenerative conditions of the spine.
+	['', 'spinal implant', ' ', 'spinal surgery', ' ', 'spine surgery', '']
+AirXpanders
+	Developer of technology for tissue expansion after reconstructive surgery. The company\'s technology primarily enables patients to initiate implant expansion by a wireless remote control unit that activates a small gas reservoir within the implant to release a predetermined volume after the reconstruction surgery.
+	['', 'tissue expansion', ' ', 'reconstructive surgery', ' ', 'implant expansion', '']
+Corvascular
+	Provider of technology for minimally invasive cardiac surgery. The company is the developer of the Transarrest platform, which enables surgeons to temporarily stop a patient’s heart in order to place sutures on the coronary arteries.
+	['', 'cardiac surgery', ' ', 'surgical devices', ' ', 'surgery technology', ' ', 'heart surgery', ' ', 'coronary arteries', '']
+CoAlign Innovations
+	Developer of a less invasive and more anatomically correct spinal fusion. The company develops a low-profile interbody implant system called AccuLIF system that hydraulically expand and lock to enable accurate fit and placement for a range of lumber spinal fusion procedures.
+	['anatomically ', 'spinal fusion', ' ', 'less invasive', '']
+SurgRx
+	Provider of tissue sealing and hemostasis systems for laparoscopic and open surgery. The company makes radio frequency-controlled tissue sealing device. It develops a proprietary nanotechnology designed to control the delivery of electrosurgical energy in vessel sealing instruments. Its product grasps, dissects, seals, and transects tissues; and provides a seal of vessels encountered during laparoscopic and open surgery.
+	['', 'open surgery', ' ', 'tissue sealing', ' ', 'hemostasis systems', ' ', 'laproscopic surgery', ' ', 'electrosurgical energy', ' ', 'vessel sealing', ' ', 'tissue transection', '']
+Aline Aesthetics (Aline Hyaluronic Acid Thread Technology)
+	Solid state, cross-linked hyaluronic acid. Hyaluronic acid in thread form that is attached to a needle to be used as a dermal filler for cosmetic and cancer reconstructive surgeries.
+	['', 'hyaluronic acid', ' ', 'dermal filler', ' ', 'cosmetic surgery', ' ', 'cancer reconstructive surgery', '']
+Cardica
+	Manufacturer of automated anastomotic systems. The Company is commercializing and developing the MicroCutter XCHANGE 30 based on its proprietary staple-on-a-strip technology intended for use by thoracic, pediatric, bariatric, colorectal and general surgeons. The MicroCutter XCHANGE 30, which is currently commercially-available, is a cartridge based microcutter device with a 5 millimeter shaft diameter and a 30 millimeter staple line currently approved for use in the United States for specified indications of use, and in the European Union, or EU, for a broader range of specified indications of use.
+	['', 'automated anastomotic system', ' ', 'bypass surgery', ' ', 'surgery equipment', '']
+C2Cure
+	Manufacturer of cameras used for diagnosis and surgery purposes. The company develops disposable miniature viewing and operational devices for an array of heatlhcare markets, including diagnostic, endoscopic, imaging, and surgical.
+	['', 'operational device', ' ', 'cardiac surgery', ' ', 'miniature device', ' ', 'surgery camera', ' ', 'surgical device', '']
+SurgiQuest
+	Provider of technology services for minimally invasive surgery. The company offers AirSeal, a technology that creates an air curtain that maintains an insufflated and airtight environment and has application in laparoscopic and laparoscopic assisted surgery. It focuses in bariatric, colo-rectal, general, gynecological and urologic surgery.
+	['', 'technology service', ' ', 'minimally invasive surgery', ' ', 'laparoscopic assisted surgery', '']
+LDR Holding
+	Developer of implantable spine systems and instrumentation. The company\'s spinal surgery services include cervical and lumbar artificial disc systems, pedicle screw systems, cervical cages, synthetic bone substitutes and implant systems.
+	['', 'implantable system', ' ', 'spinal surgery', ' ', 'spinal instrument', '']
+Precimed
+	Developer of surgical equipments. The company designs, develops, manufactures and supplies critical devices used in hip, trauma, knee and spine surgery.
+	['', 'surgical equipment', ' ', 'hip surgery', ' ', 'Knee Extraction Set', '']
+Spinal Concepts
+	Provider of devices for neck and back surgery. The company delivers implants used in the treatment of spinal disorders, diseases and injuries.
+	['', 'neck surgery', ' ', 'back surgery', ' ', 'lower back surgery', ' ', 'spinal disorders', ' ', 'surgical devices', '']
+Cardio Life Research
+	Provider of cardiac surgery devices. The company designs and develops self-guided endoscopic aortic clamping systems, self adjusting atrial retractors and self suturing puncture devices, for heart valve surgery.
+	['', 'heart valve surgery', ' ', 'cardiac surgery devices', ' ', 'aortic clamping systems', ' ', 'atrial retractors', ' ', 'puncture devices', ' ', 'surgical devices', '']
+Vexim
+	Developer of titanium implants for the treatment of vertebral fractures. The company\'s product SpineJack helps to repair a deformed or fractured vertebra and restoring the anatomy of the spinal column.
+	['', 'titanium implants', ' ', 'surgical cements', ' ', 'vertebral fractures', ' spinal']

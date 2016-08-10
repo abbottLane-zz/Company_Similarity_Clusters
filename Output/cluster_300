@@ -1,24 +1,57 @@
-NYX Gaming Group
-	Provider of hosted social gaming applications, social media, mobile, lottery games, play slots and games via an open gaming system. The company offers gaming products including back office systems and secure payment services over the internet for state owned operators (WLA), commercial operators and other operators.
-	['', 'social application', ' ', 'commercial operator', ' ', 'gaming application', '']
-Netgame Factory
-	Provider of systems to play games and lotteries using mobile phones and telephones. The company offers systems and services that handles transactions in an automated and secure way. It also develops licenses and operates mobile gaming products for lotteries and gaming companies.
-	['', 'mobile games', ' ', 'mobile lottery technology', ' ', 'mobile lottery', ' ', 'mobile telephony', ' ', 'mobile gaming solutions', '']
-DeNA
-	Developer of mobile gaming applications. The company engages in developing and operating mobile services including free-to-play games, social gaming platform Mobage, e-commerce and other online offerings.
-	['', 'mobile gaming', ' free-to-play ', 'social gaming', ' ', 'auction website', '']
-Sennari
-	Provider of mobile application development and gaming solutions for carriers and handset makers. The company\'s products include PrizePlay, a gaming system that offers a mobile gaming experience featuring automated player registration, pay-per-play, and tournament gaming, as well as prize catalogs and redemption; and mobIN, an ad-funded, lifestyle loyalty network that transforms handsets into currency devices.
-	['', 'mobile application development', ' ', 'gaming system', ' ', 'mobile gaming', '']
-Nordic Phytopharma
-	Developer of scientifically documented dietary supplements and herbal remedies. The company engages in developing patentable ideas within the healthcare industry into proprietary products, including a treatment to lessen the symptoms of the common cold.
-	['', 'dietary supplements', ' ', 'immune system health and modulation', ' ', 'skin care areas', '']
-Greentube Internet Entertainment Solutions
-	Developer and producer of gaming applications for electronic media. The company provides gaming, entertainment and gambling products for large and small B2B customers holding a valid gaming license in jurisdictions all over the world.
-	['', 'slot game', ' core gambling']
-Gfan
-	Developer and provider of mobile applications and platforms. The company provides gaming, social gaming, social networking, utility and productivity applications. It also offers product reviews, shopping guide, reward chart, quotes and other topics of text, to share information of mobile hardware, software and technology.
-	['', 'gaming application', ' ', 'social game', ' ', 'productivity application', ' ', 'reward chart', '']
-Mobenga
-	Provider of mobile media products focused on betting and gaming. The company is an enabler specialized in taking betting and gaming companies\' business to the mobile channel, while retaining brand values.
-	['', 'sports betting', ' ', 'mobile betting', ' ', 'mobile channel', '']
+Soitec Solar
+	Provider of concentrated photovoltaic solar systems. The company operates an industrial production line with an annual production capacity of 25 megawatts located in Freiburg, Germany.
+	['', 'solar cell', ' ', 'solar technology', ' ', 'solar system', '']
+Solar Industries
+	Manufacturer and marketer of solar-power components. The company pursued a growth and buy-and-build strategy along the value chain for solar-module production and marketing. The company operated multiple production facilities for solar modules.
+	['photovoltaic ', 'photovoltaic cell', ' ', 'photovoltaic products', '']
+Sunrise Global Solar Energy
+	Manufacturer of photovoltaic cells. The company engages in the design, manufacture and distribution of photovoltaic cells and solar energy products. It also offers monocrystalline and multicrystalline solar cells.
+	['photovoltaic ', 'solar cells', ' monocrystalline plant']
+Innotech Solar
+	Provider of technology to classify and upgrade non-prime c-Si solar cells within the solar industry. The company uses laser-based process, to maximize electricity production by optimizing various types of solar cells.
+	['', 'solar cell', ' ', 'electricity production', ' ', 'non prime cell', '']
+Caelux
+	Operator of a solar-cell designing company. The company designs and develops solar-cell manufacturing process that minimizes the amount of used semiconducting material.
+	['solar-cell semiconductor ', 'solar device', '']
+Skyline Solar
+	Manufacturer of high gain solar arrays for commercial, industrial, government and utility markets. The company offers HGS structural and reflective racking components. It develops a solar energy system that uses metal reflectors to concentrate the sunlight onto silicon solar cells for electricity production.
+	['', 'solar energy', ' ', 'solar array', ' ', 'high gain solar', ' ', 'HGS array', ' ', 'reflective racking', ' ', 'silicon cell', ' ', 'metal reflector', ' ', 'electricity production', ' ', 'solar silicon', ' ', 'HGS panel', ' ', 'solar electricity', '']
+Solar Home Energy
+	Provider of domestic solar hot water systems. The company also engages in the manufacture of solar collectors.
+	['', 'solar hot water', ' ', 'solar collectors', ' ', 'domestic hot water', '']
+Panosol
+	Provider of solar thermal and photovoltaic services. The company provides solar panels and solar heating in homes.
+	['', 'solar thermal', ' ', 'photovoltaic service', ' ', 'solar heating', ' ', 'solar panel', '']
+Nereus
+	Developer of floor-heating technology. The company is engaged in designing, marketing and installing floor-heating systems which use water as their primary heat source, with models that use alternative forms of energy, such as geothermal and solar.
+	['', 'floor heating', ' ', 'heating systems', ' ', 'floor heating systems', ' ', 'underfloor heating', '']
+Meridian Energy USA
+	Developer of utility-scale, environmentally-clean solar plants. The company focuses on generating photovoltaic peak electricity that is free of green house gases for sale to utilities, municipalities and other major customers.
+	['', 'electric utilities', ' ', 'photovoltaic electricity', ' ', 'green house gases', ' ', 'green house', ' photovoltaic']
+Helioris Solar Systems
+	Developer of a solar energy technology. The company is developing a proprietary technology for solar thermal fields, where electricity is generated by concentrating solar power to heat fluid, which is used to drive turbines. The company\'s system is arrange to utilize the topology of the terrain as well as the sun\'s motion to heat thermal liquid in receiver units.
+	['topology ', 'solar thermal field', ' ', 'solar technology', '']
+Episol
+	Developer of solar thermal products for production renewable energy. The company offers installation services and other thermal products for generation of electricity in an ecological way.
+	['', 'solar collectors', ' ', 'energy consumption', ' ', 'renewable energy source', ' ', 'solar photovoltaic', ' ', 'wind energy', '']
+AC-Sun
+	Developer of solar-powered air conditioning system. The company uses a combination of low-pressure turbines and water as a refrigerant to create a cooling system based upon solar heat. Its system is designed for power savings and reduced chemical emissions.
+	['', 'thermal air conditioning', ' ', 'solar panels', ' ', 'solar heat', '']
+SolFocus
+	Developer and manufacturer of solar energy systems based on concentrator photovoltaic (CPV) technology. The company\'s products and technologies include solar concentrator photovoltaic systems, intelligent tracking systems for CPV and flat panel PV markets.
+	['', 'photovoltaic system', ' ', 'solar energy solution', ' ', 'concentrator photovoltaic technology', ' ', 'intelligent tracking system', ' ', 'alternative energy', ' ', 'renewable energy', '']
+PVPower
+	Provider of solar products. The company\'s web platform enables independent solar installers to easily configure, quote and procure solar products.
+	['', 'solar product', ' ', 'residential project', ' ', 'commercial project', ' ', 'Alternative Energy Equipment', '']
+REEL Solar Power
+	Developer of thin-film photovoltaic technology. The company has developed a proprietary process for rapid electroplating on large surface areas, enabling the manufacture of large cadmium telluride solar panels.
+	['', 'solar cell production', ' ', 'solar module', ' electroplating']
+QD Soleil
+	Provider of nanotechnology based solar products. The company focuses on the use of nanotechnology in solar panel cell designs. It develops and consolidates a range of technologies for use in photovolatics, including the use of spectrum capture enhancers, such as quantum dots, nanoparticle scatterers and light capture materials, semiconducting inks and materials for dual nanocrystal and hybrid nanocrystal/polymer designs. It serves solar equipment suppliers, solar material producers, glass and plastic manufacturers, thin film and amorphous silicon producers and incumbent and new solar entrants.
+	['', 'solar technology', ' ', 'solar panel cell', ' ', 'nanoparticle scatter', ' ', 'silicon producer', '']
+SolarQuest
+	Developer of photovoltaic solar farms. The company specialises in designing, developing and managing integrated photovoltaic electricity-generating arrays on buildings.
+	['', 'photovoltaic solar farms', ' ', 'electricity-generating arrays', ' photovoltaic']
+Latitude Solar
+	Manufacturer of solar panels. The company manufactures photovoltaic solar panels from  polycrystalline silicon that is housed under 4mm hardened glass.
+	['', 'polycrystalline silicon', ' ', 'photovoltaic solar', ' ', 'solar panel', '']

@@ -1,33 +1,36 @@
-Aduva
-	Developer of software applications for maintaining Linux computer systems. The company\'s product, Aduva OnStage, is a life-cycle management application which is used to detect, analyze, and resolve any deviation, conflicts or drift from compliance. The application ensures security and system compliance in supporting the build, test, stage, deployment, and production stages.
-	['', 'software application', ' ', 'Linux computer systems', ' ', 'system maintenance', ' ', 'system compliance', '']
-Carefx
-	Provider of information technology solutions to the healthcare organizations in North America and Europe. The company offers Fusionfx suite of interoperable workflow and analytics solutions that streamlines clinical and business workflow, as well as connects care providers to the information they need; and business intelligence dashboards to support accountability and transparency of operations.
-	['', 'information technology', ' fxCollaboration']
-PowerInbox
-	Developer of e-mail application platform. The company enables users to run applications from inside their e-mail messages. Its open app platform enables developers to create apps that run on e-mail using HTML5.
-	['', 'email application', ' ', 'create application', ' ', 'open platform', ' ', 'application platform', '']
-Fincentric
-	Provider of retail banking and customer value management software to the financial services industry. The company\'s technology and services solutions help financial institutions automate key business processes. It serves customers in North America, Latin and Central America, and Europe.
-	['', 'customer value management', ' ', 'retail banking', ' ', 'financial service', '']
-Outbox
-	Provider of an online service that digitizes postal mail and makes it available online and on mobile devices. The company collects and manages postal mail on users\' behalf, discarding junk mail and enabling users to organize, prioritize or unsubscribe on any piece of mail.
-	['', 'mail interception', ' email ', 'post office', ' ', 'digital mailbox', ' ', 'snail mail', ' ', 'digital mail', ' mailbox']
-Cabrellis Pharmaceuticals
-	Developer of therapies for the treatment of cancer. The company\'s product includes synthetic anthracycline drug for small cell and nonsmall cell lung cancers in Japan. It also has drug commercialization rights in North America and Europe.
-	['', 'cancer treatment', ' ', 'lung cancer treatment', ' ', 'drug commercialization', '']
-Hotmail
-	Provider of Web-based e-mail services. The company electronic mail being accessible via the internet enables Hotmail users to conduct e-mail correspondence from anywhere.
-	['', 'e-mail services', ' web']
-Postini
-	Provider of on-demand communications security, compliance, and productivity solutions for email, instant messaging (IM), and the Web in North America and Europe. The company offers e-mail system administration applications and software for redirecting e-mail to wireless devices.
-	['', 'communication security', ' ', 'productivity solution', ' ', 'reporting solution', ' ', 'professional service', '']
-Blackspider Technologies
-	Provider of managed e-mail security solutions. The company\'s security solutions delivers e-mail content filtering services to organizations, enabling them to block the spam and e-mail borne computer viruses before they enter company networks.
-	['', 'e-mail security solutions', ' ', 'e-mail content filtering services', ' ', 'blocking viruses and spams', ' ', 'web security', ' ', 'managed security services', '']
-Banter
-	Provider of communication technologies. The company provides technology designed to interpret unstructured text communication, like e mail, web form submissions, instant messaging and service inquiries.
-	['', 'communication technology', ' ', 'text communication', ' ', 'instant messaging', '']
-PTS Messaging
-	Provider of Internet call waiting and voice mail services. The company\'s services includes caller ID, personal greetings, call screening, call answer, call forwarding, voice mail and e-mail or phone-message retrieval.
-	['', 'voicemail', ' ', 'call screening', ' ', 'software services', '']
+Precision Beam
+	Provider of laser cutting services. The company provides laser cutting and welding services in United Kingdom.
+	['', 'laser cutting', ' ', 'welding service', ' laser']
+Pixer Technology
+	Designer and supplier of semiconductor capital equipment to integrated circuit manufacturers and mask makers. The company develops integrated systems based on its innovative optical laser technologies. It also develops technological products for the discovery and correction of defects in semiconductor production and improve quality control.
+	['', 'optical laser', ' pixel laser IC']
+Spectralus
+	Developer of solid-state green laser platform. The company\'s product is suitable for integration into mobile projection devices.
+	['laser ', 'green laser', '']
+TherMark
+	Developer of laser marking technology and materials. The company has a patented laser marking process which produces permanent marks on a variety of surfaces including metals, ceramics, glass, porcelain, nylon, marble, granite, stone and some plastics. The technology is increasingly being used as a solution for component tracking, quality control and anticounterfeiting in the automotive, aerospace and perfume and cosmetics industries.
+	['', 'laser marking equipment', ' ', 'fuse marking', ' ', 'laser device', ' ', 'electrical system', '']
+GWS Photonics
+	Developer of tunable components. The company produces tunable components for fiber optic dense wavelength division multiplex systems.
+	['', 'fiber optic', ' tunable ', 'laser application', '']
+PhaseBridge
+	Provider of photonic integration technologies, devices and system solutions. The company offers wideband externally modulated laser transmitters, wideband integrated laser transmitters, and external cavity mode-locked lasers.
+	['semiconductors', 'laser transmitters', ' ', 'mode-locked lasers', '']
+PinPointe USA
+	Developer of laser light-based therapies for treating nail fungus. The company develops laser-enabled devices to address onychomycosis and other footcare issues. The company  also offers PinPointe FootLaser, a laser device for the temporary increase of clear nail in patients with onychomycosis or nail fungus.
+	['', 'laser light', ' ', 'nail fungus', ' ', 'laser enabled devices', ' onychomycosis']
+XLight Photonics
+	Manufacturer of tunable transponders. The company develops and commercializes next-generation optical switching fabrics for multi-terabit routers.
+	['', 'scalable solution', ' ', 'network congestion', ' ', 'information technology', '']
+Agility Communications
+	Provider of laser solutions for the optical network. The company focuses on offering tunable transponder and tunable laser solutions for carriers and system providers.
+	['', 'laser solution', ' ', 'optical network', ' ', 'tunable transponder', ' ', 'tunable laser', '']
+20/10 Perfect Vision
+	Developer of femtosecond and excimer laser technologies for refractive and cataract surgeons. The company’s products include excimer workstations for laser surgery, femtosecond workstations, diagnostic workstations and ZYOPTIX XP, a microkeratome system that allows surgeons to perform stromal and epithelial flaps.
+	['', 'laser surgery', ' ', 'diagnostic workstations', ' ', 'microkeratome system', ' ', 'epithelial flaps', ' cataract']
+Altitun
+	Manufacturer of tunable lasers and transmitters that enable flexible provisioning of affordable bandwidth. The company develops commercially available tunable semi-conductor laser for the telecommunications industry.
+	['transmitter ', 'tunable laser', ' ', 'switching laser', ' ', 'optical packet switching', ' ', 'semiconductor laser', '']
+Xebeo Communications
+	Developer of optical packet switch for metro networks. The company offers switching platforms that deliver packet services with QoS guarantees and manageability.
+	['', 'optical packet', ' ', 'packet switch', ' ', 'metro network', ' ', 'switching platform', '']

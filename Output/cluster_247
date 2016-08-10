@@ -1,45 +1,21 @@
-Biocistronix
-	Provider of drug discovery and medical research and development services. The company also engages in development of latest diagnostic techniques for various ailments.
-	['', 'medicine discovery', ' ', 'medical research', ' ', 'diagnostic techniques', '']
-ImmunoTheragnostics Incorporated
-	Developer of therapeutic and prognostic equipments. The company engages in research, development and commercialization of exosome-based clinical diagnostic arrays for women\'s health as well as for cardiovascular diseases and cancer.
-	['', 'prognostic equipment', ' ', 'diagnostic assays', ' ', 'cancer prevention', ' ', 'response monitoring', '']
-Diatos
-	Operator of a bio-pharmaceutical company that develops anti-cancer therapies based on cellular-delivery and drug-targeting technologies. The company engages in the  research, development and marketing of anti-cancer chemotherapeutic drugs.
-	['', 'chemotherapeutic drugs', ' ', 'human therapies', ' bio-pharmaceutical ', 'anti-cancer therapies', '']
-Qronus Interactive Israel
-	Provider of automated system testing software products. The company provides automated system testing tools for complex software and hardware configurations with embedded processors. It engages in the research, development, manufacturing and marketing of automated software quality products for non-standard platforms, embedded systems and real time computer systems. The company was spun out of Mercury Interactive.
-	['', 'software testing', ' ', 'testing tools', ' ', 'testing solution', '']
-Okapi Sciences
-	Developer of drugs to treat viral infections for both pets and livestock. The company engages itself in the research, development, promotion and marketing of anti-viral drugs for veterinary applications.
-	['', 'viral infection', ' livestock ', 'veterinary application', '']
-Majestic Research
-	Provider of data-driven equity research services. The company serves airlines, auto retail, casino, consumer technology, cruise lines, ecommerce, financial exchanges, homebuilders, and healthcare industries.
-	['', 'equity research', ' ', 'financial research', ' ', 'market insight', '']
-Compass Information Services
-	Developer of oncology and autoimmune therapeutics. The company is a distributor of the Compass (R) system, a procedure for assessing the outcomes of mental-health treatments. The company also engages in related research.
-	['', 'mental health', ' ', 'treatment assessment', ' ', 'ongoing treatment', ' ', 'mental illness', ' ', 'treatment management', ' ', 'treatment outcome', '']
-MTI Laboratory
-	Provider research and development of remote radio head (RRH) technologies for WCDMA/HSDPA and WiMAX/LTE infrastructure products. The company\'s RRH technologies enable the transmission of high output power, which is essential for delivering high data rates and coverage required for mobile TV/video/audio/data-centric 3G data services.
-	['', '3G data', ' ', 'remote radio head', ' ', 'wireless internet', ' ', 'power amplifier', '']
-Intertisement
-	Provider of advertising services to businesses and individuals. The company engages in the research and development of 3D augmented reality services and markets the same to the customers to be used as a visual advertisement platform.
-	['', '3D augmented reality services', ' ', 'media services', ' ', 'advertising services', '']
-Sasken Communications
-	Provider of research and development consultancy, wireless software products and software services that helps businesses across the communications value chain accelerate product development life cycles. The company works with network OEMs, semiconductor vendors, terminal device OEMs and operators.
-	['', 'development consulting', ' ', 'wireless software', ' ', 'semiconductor vendors', ' ', 'communications value chain', '']
-Blue Ridge Pharmaceuticals
-	Operator of an animal health pharmaceutical company. The company is involved in the research, development and marketing of veterinary products.
-	['veterinary ', 'animal health', ' ', 'clinical development', '']
-RWHD
-	Provider of research services. The company engages in the research and development of pharmaceutical products.
-	['', 'research services', ' ', 'research and development', ' ', 'pharmaceutical products', '']
-Algieplus
-	Operator of a research and development company. The company\'s product, Algieplus, promotes active molecules from sustainable marine resources and adds value to seaweed deposits, harvested in a way which is adapted to recycling thereby aiding in managing waste from seaweed deposits.
-	['', 'research company', ' ', 'active molecules', ' ', 'sustainable marine resources', ' ', 'waste treatment', '']
-Somatix Therapy
-	Developer of gene therapy. The company engages in research, development and commercialization of proprietary processes for the genetic modification of cells and their use in the treatment of human disease.
-	['genetic ', 'gene therapy', '']
-Rissington Breedline
-	Provider of sheep breeding, rearing and genetics services. The company engages in the research and development of sheep and cattle genetics and breeds for farming and food industries.
-	['', 'sheep husbandry', ' ', 'animal farming', ' ', 'sheep breeding', ' ', 'animal husbandry', '']
+InteCardia
+	Provider of cardiac-imaging services and equipment to cardiologists. The company provides disease- and practice-management services focused on cardiology and cardiovascular medicine.
+	['', 'cardiac imaging', ' cardiology ', 'cardiovascular medicine', '']
+Quolaw
+	Provider of software for lawyers. The company provides web-based software as a service that offer a law practice management software tool to help lawyers to manage their legal practice.
+	['', 'law practice', ' ', 'law practice management', ' lawyer']
+AviaHealth
+	Provider of a web-based practice management tool designed specifically for ob/gyns. The company\'s online platform provides patient information and education, including information customized to a woman\'s own needs and internet linkages to facilitate patient\'s interaction with the doctor for routine matters.
+	['', 'practice management tool', ' ', 'internet linkages', ' ', 'patient interaction', ' ', 'online platform', '']
+Clinicare
+	Operator of a healthcare IT company. The company engages in the development and marketing of computerized information services for medical group practices. The company offers electronic medical records (EMR), practice management applications (PMA) that unites billing and scheduling and internet applications such as, web-secure, domain hosting, software enhancement and support services.
+	['', 'electronic medical records', ' EMR ', 'computerized information service', ' ', 'practice management applications', ' PMA']
+US Physicians
+	Operator of a physician practice management (PPM) company. The company is a manager of specialist practices engaged in providing disease management services for cancer patients.
+	['', 'medical practices', ' ', 'ancillary services', ' cancer ', 'disease management', '']
+Wolf Medical Systems
+	Provider of electronic medical records for physician offices and medical clinics. The company offers cloud-based technology that  provides patient information over wireless and wireline networks. The company\'s practice management solutions include wolf billing, scheduler and workflow.
+	['', 'electronic medical records', ' ', 'patient information', ' ', 'wireless and wireline networks', ' ', 'wolf billing', '']
+Datamedic
+	Developer of computer-based patient record and physician practice management systems. The company\'s products and services are used in private practice, physician practice management, management service and hospital network settings for ensuring efficient point-of-care capture and retrieval of healthcare information in order to improve the quality and profitability of their medical practices.
+	['', 'practice management', ' physician ', 'medical practice', '']

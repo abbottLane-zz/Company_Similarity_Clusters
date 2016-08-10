@@ -1,33 +1,21 @@
-SupportLocal
-	Operator of a social network for sharing information and opinions. The company\'s platform enables people to give and get local business recommendations from the people they know and trust.
-	['', 'share information', ' ', 'share opinions', ' ', 'business recommendations', '']
-Krillion
-	Operator of a shopping search engine. The company offers audio and video accessories, such as A/V mounts and brackets, headphones, remote controls, and satellite radio accessories; cameras, such as camcorders, digital cameras, and digital picture frames; car audio and electronics, such as car amplifiers, car audio and video accessories, car CD changers, car speakers and subwoofers, in dash car audio, and radio scanners; and handheld electronics, including GPS navigation systems.
-	['', 'online shopping', ' ', 'consumer infrastructure', ' ', 'navigation system', ' ', 'video accessory', '']
-HiGear
-	Provider of a social car-sharing platform. The company offers a platform that enables people to buy cars that they rent. Members of the company\'s network can share and borrow cars from the people in their community, with the option of making an offer if they like the car they drive. The company provides insurance, verification and logistics to users.
-	['', 'car sharing platform', ' ', 'car rental', '']
-Autonetzer
-	Operator of an online platform for car sharing. The company offers an application platform enabling vehicle owners to rent out their cars when they don\'t need them.
-	['', 'rental platform', ' ', 'vehicle owner', ' ', 'car sharing', '']
-Autoquake
-	Provider of an online platform for buying and selling used cars. The company is engaged in the online retail operations of pre-owned and used cars, sports utility vehicles, vans, estate cars, convertibles and sports cars of various manufacturers.
-	['', 'used cars', ' ', 'online retail', ' ', 'buying and selling', '']
-Netrepreneur Connections Enterprises
-	Provider of online platform for buying and selling of used and new cars in the Philippines. The company provides online marketing platform for the Philippine automotive industry, it connect car buyers with private car sellers, used car trade dealerships and new car distributors.
-	['', 'car seller buyer', ' ', 'new car', ' ', 'online car market', ' ', 'car purchase', ' ', 'car marketing', '']
-Kima Labs
-	Provider of online shopping community software for mobile devices to assist in, in-store shopping. The company\'s software enable user to scan and recommend items, see recommendations from people in the community, get ideas for what to buy and compare prices with other stores, as well as provide suggestions for similar products and buy products in physical stores.
-	['', 'online shopping', ' ', 'shopping application', ' ', 'barcode scanning', ' ', 'mobile shopping', '']
-Flexcar
-	Operator of car-sharing programs for its members in the U.S. The company operates a fleet of ultra low emission vehicles, gas-electric hybrids and environmentally-friendly sedans, AWD, minivans, and sports cars. It serves individuals, companies, and public agencies.
-	['', 'car sharing', ' ', 'auto sharing', ' ', 'car reservation', '']
-QuattroWorld.com
-	Operator of a car review website. The company provides readers with news, media and discussions on both past and present Audi cars.
-	['Audi ', 'car enthusiast', ' ', "readers\\' review", '']
-Portinvest
-	Operator of Zeebrugge port investment company which mainly handles trailers, containers, cars and forest products. The company has specializes in handling cargos of cars.
-	['', 'port investment', ' ', 'cargo of cars', ' ', 'forest products', '']
-Williams of Harrogate
-	Provider of online car brokering service through an online platform. The company engages in dealership of various used and new cars of various brands. It offers Drivestyle Connections, a platform for both private and trade buyers and sellers of luxury cars.
-	['', 'sports car', ' ', 'motor vehicles', ' ', 'luxury car', '']
+Maxim Integrated Products
+	Designer, manufacturer and seller of analog and mixed-signal semiconductor products. The company markets a range of linear and mixed-signal integrated circuits, commonly referred to as analog circuits, for a number of geographically diverse customers.
+	['', 'Mixed signal semiconductor', ' ', 'integrated circuits', '']
+Neolinear
+	Developer of software for analog or mixed-signal silicon design. The company provides mixed-signal chips with integrated analog and digital circuitry for communications applications.
+	['', 'mixed signal silicon design', ' ', 'digital circuitry', ' ', 'communication application', '']
+Global Communication Devices
+	Developer of fabless RF and mixed-signal ICs (integrated circuits) and RF and mixed-signal intellectual property (IP) cores for use in wireless and broadband networking. The company provides full-custom design, joint development, design consultation and manufacturing and testing services.
+	['', 'mixed signal IC', ' ', 'mixed signal intellectual property', ' ', 'joint development', ' ', 'design consultation', '']
+Pentland Systems
+	Provider of signal acquisition technology and products. The company offers analog input/output, sigma delta, synchro and resolver modules which are complemented by digital input/output and relay products to form a comprehensive range of system ready, COTS, I/O products. The company also provides analog-acquisition and reconstruction products for sonar, radar, signal intelligence and software-defined radio applications in the aerospace and defense markets.
+	['', 'sonar product', ' ', 'signal intelligence', ' ', 'analog signal', ' ', 'radar product', ' ', 'embedded computing', ' ', 'digital input/output', ' ', 'relay product', '']
+Alchip Technologies
+	Provider of silicon design and manufacturing services for companies developing complex and high-volume system-on-chip (SoC) designs. The company provides services intended to enable customers to cost-effectively address increasing technological complexity of silicon design and the need to reduce time to market. It targets customers that address rapid growing and high-volume end markets, such as entertainment devices, mobile phones, HDTV, communications equipment, computers and other consumer electronic products.
+	['', 'silicon design', ' ', 'manufacturing services', ' ', 'design services', ' ', 'system-on-chip', '']
+Integrated Device Technology
+	Designer, developer and manufacturer of low power, mixed signal semiconductor solutions for the advanced communications, computing and consumer industries. The company\'s computing products are designed specifically for desktop, notebook, sub-notebook, storage, and server applications while its consumer products are optimized for gaming consoles, set-top boxes, digital TV and smart phones.
+	['signal ', 'semiconductor solution', ' ', 'wireless network', ' ', 'data integration', ' ', 'server application', '']
+SliceX
+	Designer, developer and supplier of analog and mixed signal integrated circuits. The company develops ICs for consumer, communications infrastructure, video imaging, industrial equipment, automotive and medical applications.
+	['', 'analog integrated circuit', ' ', 'mixed signal IC', ' ', 'video imaging', ' ', 'communication infrastructure', ' ', 'power analog signal', '']

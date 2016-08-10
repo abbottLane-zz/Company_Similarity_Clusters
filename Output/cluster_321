@@ -1,24 +1,30 @@
-PathoGenetix
-	Developer of an automated system for the rapid identification of pathogenic bacterial strains using proprietary Genome Sequence Scanning (GSS) technology. The company’s technology analyzes an enriched biological sample without the need for a cultured isolate and also provides results in five hours.
-	['', 'automated system', ' ', 'rapid identification', ' ', 'bacterial strain', ' ', 'genome sequence', ' ', 'scanning technology', ' ', 'pathogen detection', ' ', 'bacterial strain', ' pathogen']
-Camelot Information Technologies
-	Operator of a network intelligence technology company. The company\'s technology utilizes discovery algorithms to analyze network events.
-	['', 'network monitoring', ' ', 'network resources', ' ', 'security services', '']
-Attenex
-	Developer of software applications for document-intensive processes in the legal profession. The company’s products and services include Attenex Patterns Suite, which enables identification of relevant content for litigation, investigations and regulatory response projects and Snapshot Review that harnesses the visual discovery and content analysis capabilities of Attenex Patterns software.
-	['', 'software application', ' ', 'legal process software', ' ', 'snapshot Review', '']
-Tasmania Networks Systems
-	Developer of network caching software technology. The company\'s technology accelerates content delivery and network performance by localizing traffic patterns.
-	['', 'network caching', ' ', 'content networking', ' ', 'content delivery', ' ', 'network performance', '']
-Green Way Systems
-	Provider of traffic guidance systems.  The company uses GPS technology and proprietary detectors that can alter traffic signals for emergency vehicles and alter traffic signs to accurately display hazards and traffic information.
-	['traffic ', 'traffic guidance', ' ', 'traffic detector', ' ', 'traffic technology', '']
-Mango Capital
-	Provider of networking software. The company provides software that allows for networked sharing of files, web content and applications, clustered caching for load balancing, fault-tolerance and scalability, web caching across work groups, and multiple access to the internet from a single phone line.
-	['']
-EKB Technology
-	Developer of a bioprocessing technology. The company\'s technology platform is used for eliminating the stages involved in product purification and clean up by combining the production and recovery of chemicals.
-	['', 'bipolar electrodialysis', ' electrokinetic chemistry electrodialysis']
-NetQoS
-	Developer of network performance management software and services for application delivery across IT networks. The company\'s products include NetQoS Performance Center, SuperAgent, ReporterAnalyzer, NetVoyant, Allocate, and GigaStor, which help IT organizations optimize their network infrastructure to deliver services to end users.
-	['', 'network performance management', ' ', 'Information Technology', ' ', 'delivery management solution', '']
+Twisted Pair Solutions
+	Provider of unified communications software services. The company offers WAVE, a Voice-over-IP software application that enables users to create interoperable communications from various combinations of systems and users, using any industry standard PCs and off the shelf network hardware and WAVE SDK, a software toolkit for developers to build interoperable communications solutions that meet specific customer needs. Its products are used in various applications, such as collaboration, communications interoperability, extending radio reach, interoperability as a service, radio integration with IP telephony and unified communications, resilient tactical networks, smartphone push-to-talk and software dispatch in defense, federal government and state and local government sectors, as well as enterprises, including air transportation, utilities and hospitality sectors in the United States and internationally.
+	['', 'unified communication solution', ' ', 'software application', ' ', 'unified communication', '']
+Presence Networks
+	Provider of secure instant messaging services. The company also provides voice telephony services.
+	['', 'added services', ' ', 'communication tools', ' ', 'business class', '']
+VMX
+	Designer and manufacturer of communication equipment used for business conference presentations. The Company\'s systems are assembled in the form of video displays and peripheral systems.
+	['', 'communication equipment', ' ', 'video displays', ' ', 'peripheral systems', ' ', 'business conference', '']
+TrixBox
+	Distributor of Asterisk based software. The company is into Implementing, installing, managing and maintaining an Asterisk-based telephony system. It also provides web interface to manage and maintain PBX system.
+	['', 'Asterisk based software', ' ', 'Asterisk installer', ' ', 'PBX application platform', ' ', 'manage telephony system', '']
+Simpler Networks
+	Manufacturer of telecommunications equipment and software. The company specializes in automated distribution frames enabling copper loop management and also offers EZ-MDF, an automated main distribution frame hardware and software, which automates the labor-intensive process of manipulating central office and street cabinet distribution frames.
+	['', 'frame hardware and software', ' ', 'street cabinet', ' ', 'copper loop', ' ', 'telecommunication software', ' ', 'telecommunication equipment', ' ', 'application software', '']
+Mobyson Holding
+	Provider of mobile IP telephony services. The company markets telephony provisions, including hardware and software communication equipment.
+	['', 'communication equipment', ' ', 'telephony service', ' ', 'hardware product', '']
+Clarent
+	Provider of networked internet telephony services for long distance phone calling service providers. The company enables service providers to deliver simultaneous transmission of voice, fax and data over internet protocol network.
+	['VoIP ', 'communication service', ' ', 'internet telephony', '']
+Whaleback Managed Services
+	Provider of an internet protocol telephony service and develops phone services for small and medium sized businesses. The company provides cloud based managed services for business communications.
+	['', 'internet protocol telephony', ' ', 'telephony service', ' ', 'voice technology', '']
+Cloudtc
+	Developer and manufacturer of android-based media phones. The company develops software for business applications and IP telephony.
+	['', 'android based phone', ' ', 'IP telephony', ' ', 'business applications', ' ', 'smart phone', '']
+ZIV COMMUNICATIONS DIMAT
+	Developer and manufacturer of communication equipment for the electrical and switching equipment for private networks. The company aims to implement communication networks and operations to the electricity sector.
+	['', 'communication equipment', ' ', 'switching equipment', ' ', 'electricity sector', ' ', 'private network', '']

@@ -1,21 +1,54 @@
-Advanced Cardiac Therapeutics
-	Developer of temperature-sensing cardiac ablation systems for the treatment of patients with cardiac arrhythmias. The company offers TEMPASURE, a radio frequency cardiac ablation catheter that enables the saline-irrigation and temperature measurement at three millimeters depth below the heart wall surface.
-	['', 'cardiac ablation system', ' ', 'temperature measurement', ' ', 'saline-irrigation', ' ', 'cardiac arrhythmias', '']
-CardioOptics
-	Developer of catheter-based systems for minimally invasive treatment for heart failure and various cardiovascular diseases. The company offers sinus access system that allows physicians to see through flowing blood, and look directly at heart and blood vessel anatomy and tissue; and implant biventricular pacemaker leads to treat heart failure. Its system includes the a forward-viewing infrared steerable catheter; and image acquisition console, a digital touch-screen control monitor, which includes a camera pod containing an infrared camera that sends siteseekir images from catheter tip to the monitor.
-	['', 'minimally invasive treatment', ' ', 'heart failure treatment', ' ', 'cardiovascular disease treatment', ' ', 'sinus access system', ' ', 'biventricular pacemaker', ' ', 'infrared steerable catheter', ' ', 'image acquisition console', ' pacemaker catheter']
-Kalila Medical
-	Developer of cardiac catheter technologies. The company provides a platform of specialized delivery and access catheters that can be leveraged across multiple endovascular applications, including atrial fibrillation ablation, mitral valve repair, ASD/PFO closure, left atrial appendage closure, transseptal puncture, and LV lead placement.
-	['', 'steerable sheath', ' catheter ', 'cardiac catheter', '']
-Vivant Medical
-	Developer of novel and proprietary microwave ablation technology for the minimally invasive ablation of soft tissue. The company was focused in tissue-sparing tumor therapy.
-	['', 'Microwave Ablation System', ' ', 'soft tissue', '']
-Venetec International
-	Provider of catheter securement systems. The company develops infusion-safety products dedicated to eliminating the dangers to patients and healthcare workers caused by suture and tape securement of IVs.
-	['catheter ', 'catheter securement systems', ' infusion-safety ', 'securement systems', '']
-Endosense
-	Developer of technology for contact-force measurement in catheter ablation. The company focuses on improving the efficacy, safety and accessibility of catheter ablation for the treatment of cardiac arrhythmias. The company pioneered the use of contact force measurement in catheter ablation with the development of the TactiCath, the industry’s first force-sensing ablation catheter.
-	['', 'cardiovascular device', ' ', 'catheter ablation', ' ', 'cardiac arrhythmia', '']
-EP Technologies
-	Developer of invasive catheter-based diagnostic and therapeutic systems to diagnose and cure patients suffering from tachyarrhythmias. The company manufactures radiofrequency ablation products to treat cardiac arrhythmia. It develops minimally invasive catheter-based diagnostic and therapeutic systems to diagnose and cure patients suffering from tachyarrhythmias.
-	['', 'therapeutic system', ' ', 'radiofrequency ablation product', ' ', 'cardiac arrhythmia', ' tachyarrhythmias']
+Piano media
+	Provider of payment services to the media publishing industry. The company enables publishers to monetize web content without fear of losing either website advertising revenue or audience share.
+	['', 'payment service', ' ', 'web content', ' ', 'paid content', '']
+Up & Net
+	Provider of e-payment services to e-merchants. The company creates private e-payment programs. The company provides e-gift card programs which are accepted by e-merchants. E-giftcards are re-materialized for distribution in convenience store.
+	['', 'e-payment', ' ', 'e-giftcard', ' ', 'e-commerce', '']
+Paymo
+	Provider of mobile payments network for online merchants. The company allows consumers to buy online and pay with their mobile phone.
+	['', 'online payment network', ' ', 'mobile payment', ' ', 'payment software', '']
+Billpoint
+	Provider of billing and payment services. The company provided authorization, billing and payment services for small merchants and individuals who wanted to conduct e-commerce transaction.
+	['', 'billing and payment', ' ', 'e-commerce transaction', ' ', 'payment service', '']
+Balanced
+	Provider of a payment system for marketplaces. The company allows marketplaces to charge cards, escrow funds and collect their marketplace fees.
+	['', 'payment system', ' ', 'online payment', ' ', 'escrow fund', ' ', 'marketplace fee', '']
+BVfon Telecommunications
+	Provider of telecommunication and payment applications for detention facilities. The company offers an information technology and communication system for handling and monitoring prisoners telephone conversations and retail shop payment system.
+	['', 'telecommunication network', ' ', 'payment application', ' ', 'detention facility', '']
+Get Lower
+	Provider of loans, personal credit, banking, real estate, insurance and utility services. The company offers loan products, which include home loans, auto loans and personal loans, personal credit products, including credit cards, credit reports and debt management and banking services, such as checking accounts, saving accounts and bill pay services.
+	['', 'loan product', ' ', 'personal credit', ' ', 'internet banking', ' ', 'online payment', '']
+Square
+	Provider of online payment services. The company provides online payment services to enable merchants to accept credit cards anywhere, using a card reader that plugs into a phone or iPad.
+	['', 'payment service', ' ', 'mobile payment device', ' ', 'digital payment', ' ', 'credit card payment', ' ', 'credit card reader', '']
+NextCard
+	Provider of online credit card business targeting the consumer market. The company uses the Internet to acquire customers and provide immediate approval to qualified applicants.
+	['', 'online credit card', ' ', 'credit approval', ' ', 'internet marketing', '']
+Beeminder
+	Provider of an online goal-setting tool. The company provides a free platform for users to set personal goals and to track their progress to attain them. The consequence of not staying on track is the user now has to commit to a small payment for the service.
+	['', 'goal setting', ' ', 'personal health', ' ', 'goal tracking', '']
+CreditScorer
+	Developer of technology for studying payment behavior of clients. The company\'s technology enables credit professionals to improve their credit granting and collections performance. The company creates and implements risk scoring models for the credit and financial services industries.
+	['', 'credit payment', ' ', 'credit granting', ' ', 'payment behavior', ' ', 'finance technology', ' ', 'credit benchmarking', ' ', 'credit payment software', ' ', 'finance software', ' credit']
+Tipjoy
+	Operator of a social payment engine. The company allows merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another on their payment engine.
+	['', 'social payment', ' ', 'digital content', ' ', 'payment engine', '']
+DineroMail
+	Provider of e-payment services to international merchants. The company operates as an online payment platform which helps companies to collect payments from online and offline sales. It offers different local payment methods like cash payment, credit cards, bank transfer and also e-wallet.
+	['e-payment ', 'payment platform', ' ', 'transaction software', '']
+Wallaby Financial
+	Developer of a cloud based digital wallet for mobile and web based payments. The company develops technology and software that offers rewards and cash back to users on credit card purchases.
+	['', 'network provider', ' ', 'route transaction', ' ', 'payment card', ' ', 'digital wallet', ' ', 'web based payment', '']
+Bill Me Later
+	Provider of payment and marketing technology services to multichannel retailers. The company offers PayCapture, a set of credit tools; and Bill Me Later that enables customers to pay for purchases without providing credit card information.
+	['', 'marketing technology', ' ', 'multichannel retailer', ' ', 'credit tool', ' ', 'payment technology', ' paycapture ', 'credit card payment', '']
+First USA Partners
+	Issuer of affinity credit cards for alumni associations and other nonprofit groups. The company serves as exclusive sales and business development arm of First USA Bank.
+	['', 'credit cards', '']
+Works
+	Provider of commercial credit card management and optimization technology.The company provides a Web-based platform that connects payment-management automation with the global Visa payment network.
+	['', 'credit card management', ' ', 'credit card service', ' ', 'electronic payment', ' ', 'payment policy', '']
+Allcharge
+	Provider of e-payment services. The company is a global Internet payment-service provider offering merchants and content owners e-payment, billing and processing technologies and services.
+	['', 'digital content', ' ', 'electronic network', ' ', 'internet payment system', ' e-wallet']

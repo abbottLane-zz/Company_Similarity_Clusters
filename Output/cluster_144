@@ -1,39 +1,27 @@
-Cierra
-	Developer of novel therapies for the minimally invasive treatment of patent foramen ovale. The company is developing devices to mend hole in the heart and significantly reduce migraines.
-	['', 'novel therapies', ' ', 'patent foramen ovale treatment', ' ', 'heart diseases', ' ', 'therapeutic devices', '']
-ConforMIS
-	Manufacturer of surgical devices for the treatment of early, moderate and late stage osteoarthritis of the knee. The company designs devices that conform to a patient\'s anatomy to achieve minimally invasive surgery and maximal sparing of bone. It also develops articular repair systems capable of re establishing normal articular alignment and shape in patients with osteoarthritis.
-	['', 'knee osteoarthritis', ' ', 'bone sparing', ' ', 'bone surgery', ' ', 'articular alignment', ' ', 'knee surgery', ' ', 'knee replacement', ' ', 'knee implant', ' ', 'orthopedic implant', ' ', 'implant design', '']
-Mitek Surgical Products
-	Provider of surgical and medical instruments. The company provides bone anchors and minimally invasive surgical tools for orthopedic surgery.
-	['', 'medical instrument', ' ', 'surgical tool', ' ', 'bone anchor', '']
-Corvascular
-	Provider of technology for minimally invasive cardiac surgery. The company is the developer of the Transarrest platform, which enables surgeons to temporarily stop a patient’s heart in order to place sutures on the coronary arteries.
-	['', 'cardiac surgery', ' ', 'surgical devices', ' ', 'surgery technology', ' ', 'heart surgery', ' ', 'coronary arteries', '']
-superDimension
-	Developer of minimally-invasive pulmonology devices that enable the diagnosis and potentially the treatment of distal lung disease. The company\'s products enable physicians to access peripheral lung lesions and mediastinal lymph nodes, provides tools to trace distal locations in the lungs and facilitates physicians with a reconstruction of the bronchial airways of the lungs.
-	['pulmonology ', 'distal lung disease', ' ', 'lung disease', ' lung']
-Endoart
-	Developer of of telemetrically-controlled or remote controlled implants. The company also offers breast implant options for reconstructive and aesthetic breast surgery, and minimally invasive devices for obesity intervention treatment.
-	['', 'breast implant', ' ', 'invasive devices', ' ', 'intervention treatment', ' ', 'healthcare devices', ' ', 'obesity control technology', '']
-Xlumena
-	Developer of image-guided therapeutic endoscopy products. The company develops products that enable advanced image-guided endoscopy procedures to allow endoscopists to offer minimally invasive alternatives to patients suffering from common gastrointestinal and biliary conditions.
-	['', 'therapeutic endoscopy', ' ', 'healthcare device', ' ', 'endoscopic instrument', '']
-Cardica
-	Manufacturer of automated anastomotic systems. The Company is commercializing and developing the MicroCutter XCHANGE 30 based on its proprietary staple-on-a-strip technology intended for use by thoracic, pediatric, bariatric, colorectal and general surgeons. The MicroCutter XCHANGE 30, which is currently commercially-available, is a cartridge based microcutter device with a 5 millimeter shaft diameter and a 30 millimeter staple line currently approved for use in the United States for specified indications of use, and in the European Union, or EU, for a broader range of specified indications of use.
-	['', 'automated anastomotic system', ' ', 'bypass surgery', ' ', 'surgery equipment', '']
-GeneMachines
-	Provider of solutions for the automation and instrumentation needs of the genomics community. The company develops and provides automated solutions, collaborating with researchers to determine and address instrumentation needs and challenges.
-	['DNA']
-SurgiQuest
-	Provider of technology services for minimally invasive surgery. The company offers AirSeal, a technology that creates an air curtain that maintains an insufflated and airtight environment and has application in laparoscopic and laparoscopic assisted surgery. It focuses in bariatric, colo-rectal, general, gynecological and urologic surgery.
-	['', 'technology service', ' ', 'minimally invasive surgery', ' ', 'laparoscopic assisted surgery', '']
-MedNova
-	Manufacturer of surgical and medical instruments and apparatus. The company provides less-invasive surgical products for endovascular procedures.
-	['', 'peripheral vascular disease', ' ', 'less invasive surgery', ' ', 'medical device', '']
-BEI Medical Systems
-	Manufacturer of proprietary and minimally invasive endometrial ablation system. The company launched its product in 2001 for treatment of  abnormal uterine bleeding, a condition known as menorrhagia which mainly affects women.
-	['', 'medical technology', ' ', 'endometrial ablation system', '']
-Microsurge
-	Designer, developer and manufacturer of surgical instrumentation for use in minimally invasive surgery. The Company is currently developing families of surgical instrumentation for use in minimally invasive abdominal procedures, referred to as laparoscopy, and minimally invasive thoracic procedures, referred to as thoracoscopy.
-	['instrument invasive procedure']
+McAfee Wireless Security
+	Provider of Wi-Fi security tools for wireless networks. The company\'s products include wireless security, wireless guard, wifiscan and WPA software.
+	['', 'Wi-Fi security', ' ', 'wireless guard', ' ', 'wireless security', '']
+ProVision Communications
+	Provider of digital wireless technology. The company designs, develops and licenses wireless, multi-room technologies for high definition TV. It serves consumer electronics manufacturers and multinational OEMs (original equipment manufacturers).
+	['', 'high definition television', ' ', 'consumer electronic', ' ', 'wireless networking', '']
+Connection Services
+	Provider of Wi-Fi Services. The company provides enabling technology to the wireless service businesses of major telecommunications companies.
+	['', 'Wi-Fi Services', ' ', 'wireless service', ' telecommunications']
+Antcor
+	Provider of Wi-Fi software products and services. The company provides LTE simulation and emulation products and services to the broadband wireless access market. Its product IkarusOS is a network operating system for broadband wireless networking devices which integrates wireless and networking functions.
+	['', 'wireless connection', ' ', 'broadband service', ' ', 'wireless networking', '']
+Aether Partners
+	Provider of funds for early stage investments. The company offers financial support in wireless infrastructure, optical switching, wireless networking and other cutting edge communications and technology companies.
+	['funds ', 'wireless infrastructure', ' communications']
+LANergy
+	Provider of networking technologies. The company engages in development of various communication technologies including broadband and wireless networking systems.
+	['', 'networking technology', ' ', 'broadband technology', ' ', 'wireless networking', '']
+Technology Brothers
+	Provider of wireless and networking solutions. The company provides enterprise wise wireless telecommunications carriers.
+	['', 'telecommunication carriers', ' ', 'wireless telecommunications', '']
+Sequans Communications
+	Operator of a 4G chipmaker. The company is a provider of single-mode LTE chipset products to wireless device manufacturers worldwide. It  offers two LTE product lines: StreamrichLTE, optimized for feature-rich mobile computing and home/portable router devices; and StreamliteLTE, optimized for M2M devices and other connected devices for the Internet of Things.
+	['', 'chip maker', ' ', 'technology platform', ' telecommunication']
+ipUnplugged
+	Developer of wireless networking products. The company develops networking products for network service providers and system integrators, that includes mobile service routers, client software and mobile service management applications, that integrate mobile networks such as GPRS and wireless LANs.
+	['', 'wireless networking', ' ', 'system integrator', ' ', 'mobile VPN', '']

@@ -1,39 +1,36 @@
-Respirics
-	Provider of drug delivery and development services. The company is a respiratory drug delivery and development company serving the pharmaceutical, biotechnology and diagnostic industries. It has developed a proprietary dry powder respiratory drug delivery system that can incorporate a range of drug products to treat respiratory diseases as well as other diseases where systemic drug targeting is required.
-	['', 'drug delivery', ' ', 'inhalation technology', ' ', 'dry powder respiratory', '']
-PreCision Dermatology
-	Developer of dermatological products. The company\'s DELEVO Foam Technology, a drug delivery platform that provides levels of proven active ingredients to the skin with fewer side effects and improvement of the natural skin barrier.
-	['', 'dermatological product', ' ', 'skincare product', ' ', 'skin treatment', '']
-Civitas Therapeutics
-	Developer of respiratory drug delivery therapies. The company has developed a program in Parkinson’s disease that leverages the ARCUS respiratory delivery platform. CVT-301, Civita\'s other lead program, is being developed for the treatment of debilitating and unpredictable motor fluctuations associated with Parkinson’s disease.
-	['biopharmaceutical ', 'pulmonary delivery therapy', ' ', 'pulmonary technology', ' ', 'Parkinson’s disease', ' ', 'respiratory drug delivery', ' ', 'respiratory therapy', ' ', 'pulmonary therapy', '']
-Trega Biosciences
-	Developer of products designed to assist pharmaceutical and biotechnology companies in the identification of drug candidates. The company conducts an internal drug discovery program in the areas of obesity, diabetes and syndrome X, a syndrome associated with obesity and diabetes, involving the human body\'s resistance to insulin.
-	['', 'drug discovery', ' ', 'drug discovery program', ' ', 'obesity treatment', ' ', 'diabetes treatment', '']
-AerovectRx
-	Developer of an inhaled drug delivery platform and provides dosage-controlled therapeutics. The company develops vibrating mesh nebulizers to deliver drugs and vaccines. The aerosol therapeutic company also delivers a variety of vaccine and therapies varying from multiple-use mass immunizations, specialty pharmaceutical and personal home care use.
-	['Respiratory ', 'Anti-Infectives', ' aerosol']
-E-Pill Pharma
-	Provider of oral drug delivery products for healthcare markets. The company\'s product line includes an oral drug delivery platform which is a combination of medical device and tablets.
-	['', 'medical devices', ' ', 'healthcare industry', '']
-OnPharma
-	Developer of a drug delivery system. The company develops a dispensing device for local anesthetic that allows dentist to reduce injection pain and accelerate the numbing of the affected tooth area.
-	['', 'drug delivery', ' ', 'dispensing device', ' ', 'local anesthetic', '']
-iCeutica
-	Manufacturer and provider of branded medicines. The company offers SoluMatrix platform, a drug reformulation and delivery technology for poorly water-soluble compounds.
-	['', 'branded medicines', ' SoluMatrix water-soluble compounds']
-Transcu Group
-	Operator of a drug delivery company. The company engages in the development of a transdermal drug delivery system based on iontophoresis.
-	['transdermal iontophoresis ', 'cutting-edge technology', '']
-Therafuse
-	Provider of drug delivery systems. The company uses microelectromechanical (MEMS) technology to develop medication-specific drug delivery systems that will provide the accuracy of pump delivery with the user-friendliness of a patch.
-	['', 'drug delivery', ' microelectromechanical ', 'pump delivery', '']
-e-Nicotine Technology
-	Developer of electronic nicotine (eNT) products. The company is developing a nicotine product that produces a condensation aerosol of nicotine using a proprietary thermal drug-delivery technology. The eNT platform is designed to produce the appropriate dose of  nicotine particles for deep lung delivery, to reduce cravings and to avoid the carcinogens associated with cigarette smoke.
-	['', 'health care', ' ', 'electronic nicotine', ' ', 'nicotine product', '']
-Anesta
-	Developer of pharmaceutical products for oral transmucosal drug administration. The Company\'s products are based on its proprietary oral transmucosal system (OTS) for drug delivery.
-	['', 'oral transmucosal system', ' ', 'pharmaceutical product', ' ', 'oral transmucosal drug', '']
-Orexo
-	Developer of treatments using proprietary drug delivery technology. The company develops a product Diabact, a breath test for diagnosing the stomach ulcer bacterium.
-	['', 'drug delivery technology', ' ', 'insomnia treatment', ' ', 'gastric ulcer', '']
+Pharmaxon
+	Developer of neurology and neuro-oncology drugs. The company engages in the discovery and development of drugs for nervous system disorders in which cell mobility is modified. The company\'s activities are currently concentrated on the development of therapies for spinal cord injury, memory disorders and glioblastoma. The company spun out of the Development Biology Institute of Marseille Luminy.
+	['', 'neuro-oncology drugs', ' ', 'nervous system disorders', ' ', 'neurological drugs', '']
+Cytion
+	Developer of drug screening technology. The company has developed drug screening technology for the functional analysis of ion channel proteins.
+	['', 'drug screening technology', ' ', 'ion channel protein', ' ', 'drug development', '']
+Sirus
+	Operator of a pharmaceutical research company. The company focuses on drug development for the treatment of nerve injury and muscle spasm by using its proprietary platform technologies that covers pain, emesis, epilepsy and insomnia.
+	['', 'neurological disease', ' ', 'drug development', ' ', 'chemical properties', ' ', 'platform technologies', '']
+Niagara Growth
+	Provider of funding to businesses with less than one million dollars in assets and the potential for sustained high growth.
+	['', 'fund provider', ' ', 'Canada', '']
+Ancile Pharmaceuticals
+	Developer of botanical drugs. The company has a multi-drug portfolio, which includes ANPH 101, an investigational drug with indications for sleep maintenance disorders.
+	['', 'botanical drug', ' ', 'chronic disease', ' ', 'prescription botanical drug', '']
+Venture Alliance
+	Provider of seed capital and start-up executive management to commercialize technologies developed at national laboratories and other research institutions. The company has provided investments for the development of medical diagnostic devices, predictive maintenance hardware/software, restaurant software and electroless nickel plating technology.
+	['', 'seed capital', ' ', 'start-up finance', ' ', 'commercialize technology', ' investment']
+Proacta
+	Developer of oncology drugs. The company provides cancer-related products which targets the physiological attributes of solid tumors through normal metabolic processes.
+	['', 'oncology drug', ' ', 'cancer drug', ' ', 'solid tumour drug', '']
+Coelacanth Chemical
+	Provider of proprietary chemistry technologies to rapidly discover new chemical entities for drug development and discovery. The company uses its proprietary technology ClickChem to create sets of novel building blocks which are used for the production of innovative compound sets that shorten lead discovery and lead optimization time for drug development.
+	['ClickChem , ', 'proprietary chemistry technologies', ' ', 'novel building blocks', '']
+Pathway Therapeutics
+	Developer of therapeutics against human diseases. The company offers PI3 kinase, an enzyme identified as active in cancer tumor development.
+	['', 'drug development', ' ', 'cancer treatment', ' ', 'lifesciences and oncology', '']
+Bridge Pharmaceuticals
+	Provider of preclinical services. The company conducts drug development and preclinical services which include short and long-term in vivo studies ranging from acute to carcinogenicity protocols.
+	['', 'preclinical service', ' ', 'drug development', ' ', 'reproductive toxicology', '']
+OSS Healthcare
+	Provider of seed funding to drug development companies. The company engages in searching for new oncology focused drugs and also provides seed funding for further drug development.
+	['', 'drug development', ' oncology drugs']
+ESBATech
+	Developer of human antibody fragments for therapeutic applications. The company also provides drug development and development programs.
+	['', 'therapeutic application', ' ', 'antibody fragment', ' ', 'drug development', '']

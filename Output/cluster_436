@@ -1,36 +1,27 @@
-SiXis
-	Developer of silicon circuit board technology. The company provides chip-level integration through a Silicon Integrated Circuit Board (SICB) technology platform.
-	['', 'technology platform', ' semiconductor ', 'circuit board', '']
-Ultracom Communications Holdings
-	Supplier of broadband network systems-on-silicon. The company offers silicon subsystems and VLSI-based subsystems to telephony and data communications equipment manufacturers and develops two-way cable modems for data, voice and video communication solutions.
-	['', 'broadband network systems', ' ', 'digital communications', ' ', 'silicon subsystems', ' ', 'communication solutions', '']
-WISChip International
-	Provider of semiconductor solutions for video, audio and voice compression, image understanding and speech recognition. The company develops develops SoC (Systems on Chip) silicon and provides integrated hardware, software solutions for multimedia communications over wired or wireless broadband infrastructures.
-	['semiconductor SoC ', 'Systems on Chip', ' ', 'digital video', ' ', 'audio quality', '']
-Sebring Systems
-	Supplier of silicon switch fabric interconnect solutions to the networking and computing industries. The company deals with the enhancement of cost and performance of PCI-based systems with scalebility, high bandwidth, fault tolerance and hot-plug.
-	['', 'Sebring Ring', ' ', 'silicon switch', ' silicon']
-Broadband Access Systems
-	Developer of integrated, carrier-class broadband access systems. The company enables cable operators to deliver high quality voice, data, and video services to large numbers of users. The company is focused on providing cable access solutions for the deployment of value-added data and voice services.
-	['broadband ', 'video service', ' ', 'voice service', '']
-Lightstorm Networks
-	Developer of integrated semiconductors. The company is engaged in developing and manufacturing integrated, low power consuming semiconductor products for the transport of packet data over SONET/SDH and packet networks.
-	['', 'high port density semiconductors', ' ', 'semiconductor products', ' ', 'semiconductor design', '']
-SmartLink
-	Developer of integrated silicon. The company develops integrated silicon products for voice over internet protocol communications.
-	['', 'broadband modem', ' ', 'Embedded fax', ' ', 'Embedded modem', ' ', 'Connectivity Product', '']
-HVVi Semiconductors
-	Provider of silicon RF power transistors. The company offers HVVi Silicon HVVFET for pulse applications, including TCAS, IFF, radar and avionics in the UHF and L-Bands.
-	['', 'power transistor', ' ', 'pulse application', ' semiconductor']
-Let It Wave
-	Developer of video processing semiconductors. The company develops integrated circuit product and products that improve satellite images, seismic images, digital photographs, and medical images.
-	['', 'fabless semiconductor', ' ', 'integrated circuit product', ' ', 'noise reduction device', '']
-Si-Light Technologies
-	Developer of a method of stimulating emission of light from silicon. The company manufactures and develops silicon light emission device.
-	['', 'light emission device', ' ', 'alternative energy equipment', ' ', 'silicon light emission device', '']
-FLX Micro
-	Manufacturer of silicon carbide-based microsensors. The company develops its products through silicon carbide deposition and microfabrication technology platform. Its products are used in various applications, such as automotive, energy, environmental, and manufacturing.
-	['', 'carbide microsensor', ' ', 'silicon carbide', ' microfabrication']
-Omiino
-	Manufacturer of programmable microchips for telecom applications. The company\'s technology allows users to deliver silicon in a field upgradable format.
-	['', 'FPGA platform', ' ', 'Optical Transport Silicon', ' microchips ', 'telecom applications', '']
+NowMedia
+	Provider of an online platform for live video streaming of events. The company engages in developing an integrated broadcast media network in order to build location-centric mobile communities with live interactive content.
+	['', 'online platform', ' ', 'live video streaming', ' ', 'broadcast media network', ' ', '3G phones', ' ', 'mobile communities', ' ', 'live interactive content', '']
+Wild Bunch
+	Provider of an entertainment multichannel distribution platform. The company offers a regularly renewed slate of films from across the globe.
+	['', 'multichannel distribution', ' ', 'entertainment platform', ' ', 'network distribution', '']
+Ahortech
+	Provider of automatic traffic control services. The company also provides a wireless live video streaming transmission system for public and business sectors.
+	['', 'automatic traffic control', ' ', 'video streaming', ' ', 'transmission system', '']
+Floobs
+	Developer of a live video streaming platform. The company supports live video streaming from web cameras and digital video cameras.
+	['', 'video streaming', ' ', 'live events', ' ', 'online sharing', '']
+VitalStream
+	Provider of products and services that enable the digital broadcast of audio and video content and other communications via the Internet. The company\'s mix of services and technology enable businesses to leverage the global reach of the Internet to distribute their media content to targeted audiences worldwide.
+	['', 'audio streaming', ' ', 'video streaming', ' ', 'media hosting', ' ', 'consulting services', '']
+Armida Technologies
+	Provider of wireless surveillance system to improve video quality over wireless networks. The company develops software and hardware that delivers streaming video over wireless networks for commercial, industrial and government customers.
+	['', 'video streaming', ' ', 'wireless networks', '']
+Azuki Systems
+	Provider of over-the-top optimized multi-screen video technology services. The company operates a web-based platform that enables service providers, mobile operators and brand-name media to combine the power of over-the-top delivery with the highest quality of user experience, content protection, scale and reliability.
+	['', 'video technology services', ' ', 'web-based platform', ' ', 'video delivery', '']
+Apalya Technologies
+	Provider of a content aggregation, provisioning and distribution platform. The company\'s video delivery platform streams video content to consumers by integrating mobile operators, content owners and mobile advertisers.
+	['', 'streaming video', ' ', 'video streaming', ' ', 'online entertainment', ' ', 'online broadcasting', '']
+A2 Media
+	Provider of online video streaming services. The company\'s video aggregating service iStream provides an online content streaming platform where users can discover content across multiple genres like news, television shows and movies.
+	['', 'video streaming', ' ', 'online video', ' ', 'video aggregating service', ' ', 'content streaming', '']

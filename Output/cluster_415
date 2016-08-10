@@ -1,18 +1,12 @@
-buecher.de
-	Owner and operator of an online bookstore. The company primarily operates as an online retailer of books and also engages in the sale of other media products such as games, music and movies.
-	['', 'online books', ' ', 'books retailer', ' bookstore']
-Djangos.com
-	Seller of new and used CDs, DVDs and VHS via internet.
-	['', 'compact disc', ' ', 'optical disc storage', ' ', 'Digital Versatile Disc', '']
-Nano-Tex
-	Developer of nanotechnology-based textile enhancements for apparel, home and commercial and residential interiors markets. The company’s products are applied in apparel, home textiles, residential furniture, hard goods and commercial interiors.
-	['', 'textile enhancement', ' nanotechnology ', 'commercial interior market', ' ', 'residential interior market', ' ', 'residential furniture', ' ', 'home textile', '']
-EcoScraps
-	Provider of organic, chemical and manure free lawn and garden products. The company\'s process recycles food wastes into nutrient rich products.
-	['', 'organic soil', ' compost fertilizer ', 'potting soil', ' ', 'garden product', ' ', 'lawn product', '']
-WebMediaGroup
-	Owner and operator of social commerce websites in France. The company operates multiple websites geared toward women consumers, with content ranging from home appliances, gardening and decor to an online marketplace for handcrafted objects and a female-focused classified platform.
-	['', 'specialist furniture', ' ', 'homemade products', ' ', 'household goods', '']
-PriceMinister
-	Owner and operator of e-commerce websites and online communities. The company offers private and professional users a marketplace to trade various products, including books, videos, CDs, DVDs and games, electronics, clothes, childcare products, apparel, home and garden products, automobiles and many other products.
-	['', 'e-commerce', ' shopping ', 'online shopping', ' marketplace']
+CityReach International
+	Provider of telecommunications, data communications, internet and web hosting services. The company provides services such as network provisioning, support, bandwidth management, network monitoring, and disaster recovery services.
+	['', 'internet software', ' ', 'bandwidth management', ' ', 'web hosting', '']
+Stargus
+	Provider of network and service analysis, and control solutions for cable broadband networks. The company offers CableEdge product suite that provides bandwidth management, network optimization, and service assurance to broadband operators.
+	['', 'network anaylsis', ' ', 'service analysis', ' ', 'bandwidth management', ' ', 'network optimization', ' ', 'service assurance', '']
+WiChorus
+	Developer of smart 4G packet core infrastructure products. The company\'s smartcore platform enable operators to deploy WiMAX and LTE networks with service and subscriber management, content management, and network optimizations, as well as to monetize the Internet.
+	['WiMAX ', 'LTE network', ' 4G ', 'smartcore platform', ' Internet software technology']
+CableMatrix Technologies
+	Provider of policy management software platforms and tools. The company enables service providers to deploy the internet services and offers on demand service platform (ODSP) policy server that enables bandwidth management on a per customer and per application basis.
+	['', 'bandwidth management', ' ', 'internet application', ' ', 'service provider', '']

@@ -1,39 +1,12 @@
-HowDo
-	Provider of a knowledge-based social platform. The company\'s platform allows users to upload and share short sound and image chapters designed to share knowledge on a specific topic.
-	['', 'image chapters', ' ', 'knowledge-based social platform', ' sound clips']
-Paymo
-	Provider of mobile payments network for online merchants. The company allows consumers to buy online and pay with their mobile phone.
-	['', 'online payment network', ' ', 'mobile payment', ' ', 'payment software', '']
-VoiceObjects
-	Provider of a phone application server. The company\'s products include VoiceObjects Server, a phone application server that enables carrier-grade deployment and management of over-the-phone voice, video, text and mobile Web self-service applications and VoiceObjects Desktop, a GUI-based application for creating, testing, deploying and monitoring self-service phone portals. It also offers professional services, including consulting, training and technical support services. Its customers include banking and financial services, communication, marketing agencies, industrial, travel and support, healthcare, government, entertainment and info-portals and management service providers in the United States and internationally.
-	['', 'phone application server', ' ', 'phone portal', ' ', 'phone voice', '']
-Six3
-	Provider of video communication platform. The company\'s platform allows people to share video messages, follow and interact on mobile and web.
-	['', 'communication platform', ' ', 'video message', ' ', 'mobile video', '']
-Secusmart
-	Provider of mobile phone security services. The company has developed a product which enables users to receive encrypted calls and to store secret documents with a single mobile device.
-	['', 'phone security', ' ', 'security service', ' ', 'mobile device', '']
-Plixi
-	Provider of photos sharing services. The company operates an open media sharing platform for the social Web. Its platform allows users to share their media for social networks through mobile devices and the Web.
-	['', 'photos sharing service', ' ', 'media sharing platform', ' ', 'photo sharing', '']
-GrandCentral
-	Provider of phone management services. The company developed a service that allows users to use one phone number for all of their phones.
-	['', 'online service', ' ', 'online search service', '']
-Everloop
-	Operator of an online social platform for kids. The company enables kids to connect with friends, play games, share pictures, send messages, discover talents and learn.
-	['', 'online community', ' ', 'online social platform', ' ', 'Social Looping', '']
-GooJet
-	Provider of mobile phone applications and web content. The company allows mobile phone users to define their page of selected services and widgets by providing them with relevant information  in a phone-compatible format.
-	['', 'web content', ' widgets ', 'phone-compatible format', '']
-Knowrtl
-	Provider of a platform that allows end users to share data, models, scenarios and experiences in computational environments. The company provides an infrastructural platform that helps in computational environments that range from private laptops and PDAs to shared high-performance compute clouds.
-	['', 'infrastructure platform', ' ', 'data sharing', ' ', 'cloud computation', '']
-Reasoning Global eApplications
-	Provider of software for retail operations. The company offers a platform which allows retailers to sell products either on the internet or via mobile phone.
-	['', 'digital commerce solution', ' ', 'online sales', ' ', 'omni-channel', '']
-ShoZu
-	Provider of mobile social media services. The company\'s platform allows users to share pictures, video and text using their mobile phone.
-	['', 'social media platform', ' ', 'online social network', ' ', 'social media service', '']
-LittleCast
-	Provider of an eCommerce platform for video producers and their audiences. The company allows its users to sell their videos directly to audiences on Facebook and mobile devices using mobile applications and web platform.
-	['', 'eCommerce platform', ' ', 'video distribution', ' ', 'mobile video sale', '']
+YaData
+	Provider of analytical software for marketers to micro-segment consumers. The company provides an automated business intelligence tool for self-discovery of customer micro-segments.
+	['', 'analytical software', ' ', 'micro-segment consumers', ' ', 'automated technology', ' ', 'self-discovery', ' ', 'business intelligence tool', '']
+PlymoVent
+	Supplier of products, systems and services for the extraction and filtration of polluted indoor air. The company provide services that remove welding and cutting fumes, grinding dust and oil mist in the metalworking industry.
+	['filtration extraction ', 'pollution filtration', ' ', 'extration services', '']
+fluXXion
+	Manufacturer of micro filtration membrane products. The company offers filter stack sub assemblies, an integrated dynamic cross flow pulsing system for bulk micro filtration applications and small wafer membrane segments for analytical test applications.
+	['', 'micro filtration', ' ', 'industrial supply', ' filter']
+Intelligene
+	Developer of ribozyme based technology in clinical diagnostics. The company provides instruments to support in-process monitoring, quality control, micro-filtration and ultra-filtration systems.
+	['', 'therapeutic application', ' ', 'pharmaceutical application', ' ', 'healthcare service', '']

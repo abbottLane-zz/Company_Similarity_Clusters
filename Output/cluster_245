@@ -1,21 +1,21 @@
-BioMonde (Acquired by ZooBiotic)
-	Manufacturer of larval therapy products used to treat wounds like diabetic ulcers and orthopaedic wounds. The company produces and distributes fly maggots for wound treatment at clinics.
-	['', 'larval debridement therapy', ' ', 'medical supply', ' ', 'therapeutic device', '']
-CellTran
-	Developer of cell therapy products to aid in wound healing. The company using autologous skin cells treats difficult to heal wounds. Its products Myskin and Myskin Clinic help to heal wounds and provide dedicated treatment for chronic, complex or non-healing wounds.
-	['', 'Skin treatment', ' ', 'healing wounds', ' ', 'cultured human keratinocytes', ' ', 'integrated wound care dressing', ' ', 'wound healing', '']
-ProCyte
-	Developer and manufacture of wound care, haircare and skin health products. The firm initially focused on the research and development of copper peptides specifically for wound healing.
-	['', 'Wound healing agents', ' ', 'skin care', '']
-Biofisica
-	Developer of medical devices that trigger the healing process in wounds that fail to heal on their own. The company develops solutions in the tissue engineering market to address chronic wound healing. It provides POSiFECT, a medical device that is used to heal wounds naturally.
-	['', 'medical device developer', ' ', 'wound healing process', ' ', 'tissue engineering', ' ', 'chronic wound healing', '']
-Neocutis
-	Developer of technology platform to understand the scarless wound healing. The company provides innovative topical preparations for dermatological and gynaecological affections as well as high-end cosmeceutical skincare products. Its platform has multiple applications in wound healing, dermatology and skin care. It is also developing a program of cellular therapy for the treatment of severe burns.
-	['', 'scarless wound healing', ' dermatology ', 'cellular therapy', '']
-Pharmasurgics
-	Developer of an anti-scarring and healing treatment after surgery. The company develops and commercializes a novel treatment for preventing harmful scarring and promoting wound healing after surgery. It\'s product concept is based on proprietary synthetic peptides of human lactoferrin which have strong anti-inflammatory and anti-infectious properties.
-	['', 'anti-scarring', ' ', 'healing treatment', ' ', 'synthetic peptide', ' ', 'anti-inflammatory', '']
-Polyheal
-	Developer of wound healing products for chronic wounds. The company wound healing products provides a sterile disposable suspension for topical application in the treatment of chronic wounds such as skin ulcers, burns, trauma and post-surgery wounds.
-	['', 'wound healing product', ' ', 'sterile disposable suspension', ' ', 'chronic wound', '']
+American Transitional Hospitals
+	Provider of long-term specialty transitional care. The company provides transitional care facilities for subacute patients.
+	['', 'transitional care', ' ', 'specialty care', ' ', 'subacute patients', '']
+Hospital Management Associates
+	Operator of acute-care medical hospitals in the U.S. The company partners with mid-size communities and local hospital leaders, physicians and caregivers throughout the United States to operate leading community hospitals and health systems.
+	['Healthcare ', 'Hospital Operation', ' ', 'Healthcare Quality', '  acute-care']
+Daverci
+	Provider of electronic medication management systems. The company\'s system provides long-term care facilities and institutional pharmacies that supplies them.
+	['medication tracking ', 'design support', '']
+fiberSpace
+	Designer and manufacturer of stabilized laser products. The company\'s product enables absolute accuracy, tunability and long-term wavelength stability for dense wavelength division multiplexing applications.
+	['', 'long term wavelength', ' ', 'wavelength division', ' laser']
+HealthSouth
+	Operator of an inpatient rehabilitation hospitals that provide rehabilitative treatment on an inpatient and outpatient basis. The company operates inpatient rehabilitation hospitals that offers rehabilitative care services to patients in various medical conditions, such as strokes, neurological disorders, hip fractures, head injuries and spinal cord injuries.
+	['', 'inpatient rehabilitation hospital', ' ', 'neurological disorder', ' ', 'rehabilitation hospital', '']
+VHA Long Term Care
+	Provider of long-term health care facilities.
+	['']
+Mariner Health
+	Provider of sub-acute medical services. The company provides long-term health care services offering assistance through nursing facilities and long-term acute care hospitals which includes daily living, therapy and rehabilitation.
+	['', 'medical services', ' ', 'long-term health care', ' ', 'daily living', ' therapy']

@@ -1,12 +1,15 @@
-The Marionette Collective
-	Provider of a framework to build server orchestration or parallel job execution systems. The company offers a number of agents to manage packages, services and other common components.
-	['', 'middle ware system', ' ', 'authentication model', ' ', 'meta data', '']
-Anevia
-	Provider of video on demand software. The company offers application suites for broadcasters and telecom operators. It also offers a suite of components and applications to build-up video service infrastructures.
-	['', 'television service', ' ', 'online video streaming', ' ', 'telecom operator', '']
-AVM Software
-	Provider of video enabled chat room service. The company offers public screening rooms, which allows its users to enter a chat room and watch a streaming video together while chatting.
-	['', 'chat room service', ' ', 'video watching', ' ', 'online chatting', '']
-On Demand Group
-	Provider of video on demand services to television brands.
-	['', 'video service', ' ', 'television service', ' ', 'digital media service', '']
+Zinwave
+	Supplier of in-building wireless coverage solutions. The company provides wideband active Distributed Antenna Systems (DAS) for in-building wireless coverage.
+	['', 'wireless technology solution', ' ', 'distributed antenna system', ' ', 'omnidirectional antenna', '']
+Mobilitie (Tower Sites and Antenna System)
+	Provider of tower sites and distributed antenna systems for wireless communication systems.
+	['', 'tower site', ' ', 'antenna system', ' ', 'wireless communication', '']
+Comhat
+	Developer and manufacturer of antenna systems to the telecom industry. The company\'s products include a range of reflector antennas for the microwave radio system market.
+	['', 'antenna systems', ' reflector microwave']
+CommSite International
+	Operator of an antenna site development and management company. The company operates antenna and other wireless communication transmission facilities.
+	['', 'antenna sites', ' ', 'antenna site development', ' ', 'antenna site management', ' ', 'communication facilities', ' ', 'management services', '']
+S5 Wireless
+	Developer of wireless communication and tracking system. The company also developed terrestrial-based technologies that enable highly accurate, low-cost and power-efficient wireless tracking, monitoring and control services.
+	['', 'wireless communication', '']
